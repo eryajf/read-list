@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [速通Shiro框架！](https://juejin.cn/post/7157117618984321054) | Fri Oct 21 2022 11:51 PM 
+- 🤗 [自学成才的机器学习工程师十诫](https://juejin.cn/post/7157175269390811172) | Sat Oct 22 2022 3:35 AM 
     <details><summary>展开描述 ...</summary> 
-    在学习 Shiro 框架之前，我们先来了解一下什么是认证与授权。 认证 认证就是校验身份的正确性，看一下你是不是这个平台的用户。 
+    使用数学，代码和数据来揭示大自然的秘密。 自律和自学这两个词不能掉以轻心。一个人必须对自己的教育和启蒙负责。如果你忽略它，别人就会为你做选择。 
     </details> 
 
-- 🎡 [CTF-AWD入门手册](https://juejin.cn/post/7157112833749024782) | Fri Oct 21 2022 11:43 PM 
+- 🎡 [Luminar Neo 教程，如何在 Luminar Neo 中使用橡皮擦工具？](https://juejin.cn/post/7157174891203493895) | Sat Oct 22 2022 3:35 AM 
     <details><summary>展开描述 ...</summary> 
-    AWD赛制是一种网络安全竞赛的赛制。AWD赛制由安全竞赛专家及行业专家凭借十多年实战经验，将真实网络安全防护设备设施加入抽象的网络环境中，本文就个人经验来讲一下AWD比赛中需要做的事。 
+    欢迎观看 Luminar Neo 中文版教程，小编带大家学习 Luminar Neo 的基本工具和使用技巧，了解如何在 Luminar Neo 中使用橡皮擦工具。 
     </details> 
 
-- 🕯 [计算机的存储器金字塔长什么样？](https://juejin.cn/post/7157033848344150053) | Fri Oct 21 2022 7:13 PM 
+- 🕯 [字节跳动后端面经（13）](https://juejin.cn/post/7157174752019218462) | Sat Oct 22 2022 3:33 AM 
     <details><summary>展开描述 ...</summary> 
-    在计算机组成原理中的众多概念中，开发者接触得最多的还是内存、硬盘、虚拟内存、CPU 缓存这些概念。这些概念有一个更为抽象的表示 —— 存储器。 
+    Mysql日志系统 MySQL最左前缀原则 Mysql崩溃恢复日志文件很大怎么办 MySQL采用B+ 
     </details> 
 
-- 🚀 [Android 系统启动到App 界面完全展示终于明白&lpar;图文版&rpar;](https://juejin.cn/post/7157001609090695175) | Fri Oct 21 2022 4:23 PM 
+- 🚀 [Java实现7种常见密码算法](https://juejin.cn/post/7157174018531917861) | Sat Oct 22 2022 3:32 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 系列文章： 之前文章有分析过Activity创建到View的显示过程，属于单应用层面的知识范畴，本篇将结合Android 系统启动部分知识将两者串联分析，以期达到融会贯通的目标。 通过本篇文章， 
+    JCA里定义了一系列类，如Cipher、MessageDigest、MAC、Signature等，分别用于实现加密、密码学哈希、认证码、数字签名等算法，一起来看看吧！ 
     </details> 
 
-- 💪 [区服分析丨更透彻的游戏营运数据解读，助力高效增长](https://juejin.cn/post/7157001292735316004) | Fri Oct 21 2022 4:21 PM 
+- 💪 [JVM 运行时数据区&lpar;Run-Time Data Areas&rpar;](https://juejin.cn/post/7157171993811353630) | Sat Oct 22 2022 3:24 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第22天，点击查看活动详情全民买量时代，新服和新区持续增开，对玩家长线留存及付费提升显得尤为重要。在分析游戏活动效果和玩家营运数据 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第23天，点击查看活动详情 简介 在装载阶段的第&lpar;2&rpar;,&lpar;3&rpar;步可以发现有运行时数据，堆，方法区等名词。&lpar;2&rpar;将这个字节流所代表的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
