@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Docker系列学习&lpar;24&rpar; -- Swarm mode简介及基础](https://juejin.cn/post/7157320093200826404) | Sat Oct 22 2022 12:59 PM 
+- 🤗 [使用 Flutter 轻松搞定短视频上滑翻页效果](https://juejin.cn/post/7157342437248073742) | Sat Oct 22 2022 2:25 PM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第24天，点击查看活动详情 生命不息，学习不止 题外话 今天是阳光明媚的一天，今天是周六，到了看枫叶的好日子了，话不多说，找个山我 
+    我们在短视频应用中经常会看到不停上滑浏览下一条视频的沉浸式交互效果，这种交互能够让用户不停地翻页，直到找到喜欢的视频内容，从而营造一种不断“搜寻目标”的感觉，本篇介绍如何在 Flutter 实现。 
     </details> 
 
-- 🎡 [我把 CPU 三级缓存的秘密，藏在这 8 张图里](https://juejin.cn/post/7157288161578745869) | Sat Oct 22 2022 10:55 AM 
+- 🎡 [『从零开始学小程序』媒体组件image组件](https://juejin.cn/post/7157332315503345672) | Sat Oct 22 2022 1:45 PM 
     <details><summary>展开描述 ...</summary> 
-    上一篇文章里，我们聊到了计算机存储器系统的金字塔结构，其中在 CPU 和内存之间有一层高速缓存，就是我们今天要聊的 CPU 三级缓存。 
+    12.4媒体组件audio组件 多媒体包括音频、视频和相机等，为了更好地在小程序中使用这些多媒体功能，微信官方也为开发者提供了一系列多媒体组件和API接口。多媒体组件如下所示： video组件：视频组 
     </details> 
 
-- 🕯 [施工企业人力资源管理的任务](https://juejin.cn/post/7157286442404839437) | Sat Oct 22 2022 10:48 AM 
+- 🕯 [【hel-micro教学视频-1】发布和使用远程js库](https://juejin.cn/post/7157331969305968676) | Sat Oct 22 2022 1:44 PM 
     <details><summary>展开描述 ...</summary> 
-    施工企业人力资源管理的任务 资源管理、项目资源管理、人力资源管理、和项目人力资源管理的内涵 资源管理 资源管理包括：人力资源管理、材料管理、机械设备管理、技术管理和资金管理。 项目资源管理 项目资源管 
+    hel-micro 教学视频来了，为了帮助更多小伙伴快速上手sdk化模块联邦 hel-micro ，会持续推出一系列教学视频，本期主讲内容为：学会基于hel-micro 发布和使用远程js库 
     </details> 
 
-- 🚀 [大数据Hadoop之——Apache Hudi 数据湖实战操作（Spark，Flink与Hudi整合）](https://juejin.cn/post/7157284921663291400) | Sat Oct 22 2022 10:42 AM 
+- 🚀 [关于B树和B+树](https://juejin.cn/post/7157329954433794078) | Sat Oct 22 2022 1:36 PM 
     <details><summary>展开描述 ...</summary> 
-    Hudi（Hadoop Upserts Deletes and Incrementals），简称Hudi，是一个流式数据湖平台，支持对海量数据快速更新，内置表格式，支持事务的存储层、 一系列表服务、数 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第18天，点击查看活动详情 背景 首先，来谈谈B树。为什么要使用B树？我们需要明白以下两个事实： 一 不同容量的存储器，访问速度差 
     </details> 
 
-- 💪 [【kubernetes技术专题】Kubernetes架构分析介绍篇（进阶篇）](https://juejin.cn/post/7157277435649032228) | Sat Oct 22 2022 10:13 AM 
+- 💪 [『 每日一题』手写每日一题之防抖](https://juejin.cn/post/7157329600245137439) | Sat Oct 22 2022 1:36 PM 
     <details><summary>展开描述 ...</summary> 
-    官方网站 Kubernetes中文官方网站 Kubernetes英文官方网站 Kubernetes 设计理念与分布式系统 分析和理解 Kubernetes 的设计理念可以使我们更深入地了解 Kuber 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第 12 天，点击查看活动详情 在面试中，我们经常会遇到需要手写代码的面试题，为了让我们的面试能够准备的更加充分，我们有必要好好的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
