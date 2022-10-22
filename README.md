@@ -448,29 +448,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《阿凡达：水之道》公布新公益片 超多海洋动物惊喜亮相](https://hot.cnbeta.com/articles/movie/1329975.htm) | Sat Oct 22 2022 11:03 AM 
+- 🕯 [詹姆斯·韦伯望远镜将目光投向115亿年前 捕捉到令人惊叹的&quot;彩虹结&quot;](https://www.cnbeta.com/articles/science/1329981.htm) | Sat Oct 22 2022 12:13 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;詹姆斯-韦伯在宇宙中发现了又一个壮观的景象。这一次，太空望远镜发现了一个&amp;quot;彩虹结&amp;quot;，由一个极度红色的类星体以及它周围的几个巨大的星系组成。这个结应该存在于115亿年前。来自詹姆斯-韦伯的最新类星体图像再次提醒我们，太空是多么的广阔。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329981.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [今年第一票房《壮志凌云2》幕后特辑发行 全球影史票房第11名](https://hot.cnbeta.com/articles/movie/1329979.htm) | Sat Oct 22 2022 11:24 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;作为今年票房最牛的电影，空战爽片《壮志凌云2》总票房已经接近15亿美元，如此亮眼的成绩，让其仍居全球影史票房第11名。据悉，《壮志凌云2》的海外票房累计7.669亿美元，也就是说它在海外的受欢迎程度远超美国。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1329979.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [泰勒·斯威夫特新专辑 打破Spotify单日最高播放纪录](https://hot.cnbeta.com/articles/music/1329977.htm) | Sat Oct 22 2022 11:21 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;22日，据Spotify官方表示，霉霉TaylorSwift新专辑《Midnights》打破Drake单日Spotify最高播放量纪录（1.55亿）！&amp;quot;Midnights&amp;quot;是霉霉的第10张录音室专辑，于2022年10月21日发行，共收录13首歌曲。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1329977.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [《阿凡达：水之道》公布新公益片 超多海洋动物惊喜亮相](https://hot.cnbeta.com/articles/movie/1329975.htm) | Sat Oct 22 2022 11:03 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今日（10月22日），《阿凡达：水之道》曝光海洋环保公益特别预告片，一起来看看吧！众卡司现身倡议保护10种与美丽的潘多拉星球相联系的海洋神奇动物及其栖息地。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1329975.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Nature刊发华人教授锂电新研究： 充电11分钟续航400公里 只用加一层薄镍箔](https://www.cnbeta.com/articles/science/1329973.htm) | Sat Oct 22 2022 9:52 AM 
+- 🎊 [Nature刊发华人教授锂电新研究： 充电11分钟续航400公里 只用加一层薄镍箔](https://www.cnbeta.com/articles/science/1329973.htm) | Sat Oct 22 2022 9:52 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;电动汽车电池&lt;strong&gt;快充技术有了重要突破&lt;/strong&gt;！新能源汽车快充时代开拓者之一、宾夕法尼亚大学教授王朝阳及其团队研究出一种新方法，让电池充电速度&lt;strong&gt;“突飞猛进”&lt;/strong&gt;：给普通的电动车电池加薄薄一层镍片后，&lt;strong&gt;仅需 10 分钟左右，就能充电 70%&lt;/strong&gt;。而且这种电池循环寿命高达 2000 次以上：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329973.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [NASA的X-57麦克斯韦全电动飞机完成电池安装与测试工作](https://www.cnbeta.com/articles/tech/1329971.htm) | Sat Oct 22 2022 9:27 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国国家航空航天局（NASA）的X-57麦克斯韦全电动飞机已经实现了其首次飞行的另一个关键里程碑，随着两个400磅的锂离子电池组成功安装在飞机机舱内。X-57项目成为该机构第一架全实验性电动飞机，也是美国宇航局开发可持续航空解决方案工作的一个早期部分。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329971.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [NVIDIA重点转向H100显卡 消息称RTX 4090缺货、涨价到明年](https://www.cnbeta.com/articles/tech/1329969.htm) | Sat Oct 22 2022 9:08 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;NVIDIA前几天正式开卖了RTX 4090显卡，这是新一代核弹/卡皇，售价12999元，虽然上市之前被人吐槽价格贵，甚至有破发的迹象，然而上市之后情况完全不一样，不仅没破发，价格也涨起来了。不止是涨价，&lt;strong&gt;首批发售之后RTX 4090显卡的供应情况显然也不乐观，各大品牌的官方旗舰店中普遍是预约中，也就是没货。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329969.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [《西游记》白骨精老奶奶演员刘惠明逝世 享年93岁](https://hot.cnbeta.com/articles/movie/1329967.htm) | Sat Oct 22 2022 8:44 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;昨日（10月21日），中国电影集团发布讣告，&lt;strong&gt;表演艺术家刘惠明&lt;/strong&gt;因病于10月19日在北京病逝，享年93岁。22日，孙悟空演员六小龄童在微博发文悼念刘惠明，表示：“刘惠明老师曾创造了央视版《西游记》中白骨精变化的老妪等艺术形象，刘老师一路走好。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1329967.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
