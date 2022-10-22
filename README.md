@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Taylor Swift《午夜》新专辑创下国内数字音乐销量新纪录](https://hot.cnbeta.com/articles/music/1329903.htm) | Sat Oct 22 2022 5:33 AM 
+- 🕯 [华硕RTX 3060 Ti新卡曝光：4864 CUDA核心 升级19Gbps GDDR6X显存](https://www.cnbeta.com/articles/tech/1329905.htm) | Sat Oct 22 2022 6:01 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;正如传闻所述，英伟达 GPU 合作伙伴现已开始推出新款 RTX 3060 Ti 显卡 —— 特点是配备了更快的显存类型。&lt;/strong&gt;以华硕 TUF 产品线为例，新款 RTX 3060 Ti 从 GDDR6 显存、升级到了 19Gbps @ GDDR6X 的规格（带宽 448 vs 608 GB/s）。但在 GPU 位宽等参数上，两者并没有太大的区别。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329905.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [Taylor Swift《午夜》新专辑创下国内数字音乐销量新纪录](https://hot.cnbeta.com/articles/music/1329903.htm) | Sat Oct 22 2022 5:33 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;在发行首日，包含了 13 首曲目的《Midnights》，就在腾讯 QQ 音乐平台上累积了近 20 万张的销量。&lt;/strong&gt;与 Taylor Swift 个人线上商店上的 11.99 美元起价相比，RMB 35 元（合 4.83 美元）的定价还是相当吸引人的。此外从首发销量数据来看，中国消费者对于正版在线音乐的付费意愿也在日益高涨。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1329903.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Automattic宣布将Pocket Casts客户端开源](https://hot.cnbeta.com/articles/music/1329901.htm) | Sat Oct 22 2022 5:15 AM 
+- 💂 [Automattic宣布将Pocket Casts客户端开源](https://hot.cnbeta.com/articles/music/1329901.htm) | Sat Oct 22 2022 5:15 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;作为除 Google、Apple、Spotify 等科技巨头外的一款热门“播客”应用程序，Pocket Casts 允许用户免费检索和订阅播客节目，辅以收费的桌面客户端和高级功能。&lt;strong&gt;去年 7 月，WordPress 母公司 Automattic 收购了 Pocket Casts 。最新消息是，这款软件现已宣布开源。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1329901.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《龙之家族》S1季终集《The Black Queen》提前泄露：HBO大怒](https://hot.cnbeta.com/articles/movie/1329899.htm) | Sat Oct 22 2022 3:48 AM 
+- 🚀 [《龙之家族》S1季终集《The Black Queen》提前泄露：HBO大怒](https://hot.cnbeta.com/articles/movie/1329899.htm) | Sat Oct 22 2022 3:48 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;尽管 HBO 定于周日放出《权游》衍生剧《龙之家族》的 S1 季终集，但一些等不及的观众已经通过 torrent 网站看过盗版了。&lt;/strong&gt;该公司一位发言人在接受 Variety 采访时称，本次泄露的来源，可能是 EMEA（欧洲、中东和非洲）的分校合作伙伴，但目前尚不清楚确切的位置。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1329899.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [美国民主党全国委员会起诉谷歌 称垃圾邮件过滤器阻断其竞选邮件](https://www.cnbeta.com/articles/tech/1329897.htm) | Sat Oct 22 2022 3:47 AM 
+- 🎊 [美国民主党全国委员会起诉谷歌 称垃圾邮件过滤器阻断其竞选邮件](https://www.cnbeta.com/articles/tech/1329897.htm) | Sat Oct 22 2022 3:47 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;共和党全国委员会（RNC）已在加利福尼亚州的一家美国地方法院对Google提起诉讼，指控其将竞选邮件放入其数百万用户的垃圾邮件文件夹。Google上个月推出了一项试点计划，以防止竞选邮件被放入垃圾邮件。但美国全国委员会一直在批评该计划，认为它对政治邮件过滤的帮助不够。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329897.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [SpaceX运送星际飞船原型以堆叠世界上最大的火箭 并在数小时后成功发射星链](https://www.cnbeta.com/articles/science/1329895.htm) | Sat Oct 22 2022 3:42 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据Teslarati报道，&lt;strong&gt;在15个小时内，SpaceX将一艘新的“星际飞船”运到其南得克萨斯州的发射和测试设施，重新堆叠了世界上最大的火箭，将“星链”（Starlink）卫星发射到轨道上&lt;/strong&gt;，并在港口回收了一个重复使用的猎鹰9号助推器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329895.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
