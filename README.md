@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [载人登月、火星采样不是终点 中国航天将研发前沿、颠覆性技术](https://www.cnbeta.com/articles/science/1329945.htm) | Sat Oct 22 2022 7:22 AM 
+- 🕯 [谷歌又闹大乌龙 Jeff Dean参与的新模型竟搞错Hinton生日](https://www.cnbeta.com/articles/tech/1329957.htm) | Sat Oct 22 2022 8:27 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;过去十多年中，中国航天实现了一系列重大突破，完成了月球采样返回，空间站也将在今年底建成，未来还会有载人登月、火星探测等新任务。据新华社消息，10月22日，中国航天科技集团有限公司董事长吴燕生在采访中提到，目前在太空，空间站已于9月底完成了问天舱的转位，等待着梦天实验舱和它交会对接；&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329945.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近，谷歌研究员发布了关于指令微调的最新工作！然而却宣传图中出现了可笑的乌龙。几个小时之前，谷歌大脑的研究员们非常开心地晒出了自己最新的研究成果：“我们新开源的语言模型Flan-T5，在对1,800多种语言的任务进行指令微调后，显著提高了prompt和多步推理的能力。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329957.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [有能力却拒不履行 恒大恒驰新能源汽车研究院新增失信信息](https://www.cnbeta.com/articles/tech/1329943.htm) | Sat Oct 22 2022 7:21 AM 
+- 💼 [烹饪自动化初创企业决定转型 为公寓居民提供高性价比新鲜餐食](https://www.cnbeta.com/articles/tech/1329955.htm) | Sat Oct 22 2022 8:25 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近期，据企查查APP显示，恒大恒驰新能源汽车研究院（上海）有限公司新增多则失信被执行人和限制消费令信息。信息显示，限制消费对象为该公司及法定代表人方驰，失信行为为“&lt;strong&gt;有履行能力而拒不履行生效法律文书确定义务&lt;/strong&gt;”，执行法院均为上海市松江区人民法院。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329943.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;当几年前与人机交互专家 Camilo Perez Quintero 一同创业时，当时还叫 YPC Technologies 公司，主要目标还是节省烹饪时间。&lt;/strong&gt;但在尝试将技术出售给大型食品服务公司、并且希望将平台提供给食品供应商和服务商之后，烹饪自动化初创企业 Jasper 现又转向了消费市场。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329955.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [最快的RX 7000&quot;RDNA 3&quot;笔记本GPU可提供6950 XT和RTX 3090水平的性能](https://www.cnbeta.com/articles/tech/1329941.htm) | Sat Oct 22 2022 7:20 AM 
+- 💂 [宝马计划提升德国工厂EV动力电池产能 以满足纯电Mini Countryman需求](https://www.cnbeta.com/articles/tech/1329953.htm) | Sat Oct 22 2022 7:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;AMD将通过他们的下一代Radeon RX 7000&amp;quot;RDNA 3&amp;quot;芯片在笔记本电脑GPU性能方面实现巨大飞跃。&lt;/strong&gt;在Greymon55和Kopite7kimi的两条独立推文中，两位泄密者都报告说，下一代AMD Radeon RX 7000&amp;quot;RDNA 3&amp;quot;笔记本GPU将为移动平台的游戏性能提供巨大提升。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329941.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;本周早些时候，Electrek 报道了宝马正在将 Mini 车型产线转移到德国和中国工厂，以简化生产流程的消息。&lt;strong&gt;现在，这家老牌汽车制造商又宣布，其正努力提升 Mini Countryman 纯电跨界车型的 EV 动力电池产能。&lt;/strong&gt;按照计划，宝马定于 2023 年首发在德国莱比锡工厂生产的纯电 Mini Countryman 车型。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329953.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [NASA宇航员在亚利桑那州的沙漠中模拟&quot;月球漫步&quot; 为下阶段任务做准备](https://www.cnbeta.com/articles/science/1329939.htm) | Sat Oct 22 2022 7:16 AM 
+- 🚀 [三星Galaxy A54泄漏信息暗示带来比前代产品更大的电池](https://www.cnbeta.com/articles/tech/1329951.htm) | Sat Oct 22 2022 7:33 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;美国宇航局在亚利桑那州的两项任务正试图模拟对月球南极的探索。在美国宇航局准备最快于11月14日发射阿特米斯1号无机组人员绕月飞行任务时，该航天局正在考虑继续拓展载人阿特米斯2号任务，并最终将人类带回月球。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329939.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;三星Galaxy A54将接替今年早些时候推出的三星Galaxy A53。虽然距离发布会还有一段时间，但三星Galaxy A54已经成为传言的一部分。&lt;strong&gt;现在，这款智能手机的电池容量已经被泄露出来，信息表明这款手机将配备比三星Galaxy A53更大的电池。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329951.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [英伟达RTX 40系列移动GPU曝光 至少五款SKU](https://www.cnbeta.com/articles/tech/1329937.htm) | Sat Oct 22 2022 7:13 AM 
+- 🎊 [DxOMark评iPhone 14 Pro屏幕素质：与Pro Max机型处于同一梯队](https://www.cnbeta.com/articles/tech/1329949.htm) | Sat Oct 22 2022 7:31 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;自 @Harukaze5719 和 @Kopite7kimi 几个月前讨论了一番之后，现 @HW_Reveal 又在 Twitter 上披露了英伟达 Ada Lovelace 移动 GPU 。&lt;/strong&gt;推文随附的图片，描述了所谓“GN21”命名，并且暗示 RTX 40 系列移动独显将有至少五款 SKU 。可知除了高端的 RTX 4090 / 4080（GN21-X11 / X9），还有中端和主流的 RTX 4070 / 4060 Ti / 4060（GN21-X6 / X4 / X2）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329937.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;除了屏幕尺寸略小，iPhone 14 Pro 和 Pro Max 机型在硬件规格上相差并不大，比如相同的 A16 Bionic 处理器。&lt;strong&gt;周五的时候，DxOMark 又补充了前者的屏幕评估数据，再次表明它与后者在总体表现上处于同一梯队。&lt;/strong&gt;在可读性方面，iPhone 14 Pro 在室内和动态场景下稍暗，但其它属性并没有拖后腿。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329949.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
