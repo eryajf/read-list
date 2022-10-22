@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [网易云音乐「个性推荐」问题：网络不给力哦，请检查你的网络设置~，其他如「歌单」、「排行榜」正常](https://www.v2ex.com/t/888995#reply0) | Sat Oct 22 2022 11:33 AM
-- 🤗 [求一个日本/澳大利亚/新加坡 onsite 的 web3 相关开发工作](https://www.v2ex.com/t/888992#reply9) | Sat Oct 22 2022 11:15 AM
-- 🎭 [如何在一个 Python 程序中，获取运行另一个 py 文件后，返回输出到终端的内容](https://www.v2ex.com/t/888985#reply5) | Sat Oct 22 2022 10:59 AM
-- 🥷 [使用 RecyclerView 动态展示 WiFi 列表数据刷新时的闪烁问题](https://www.v2ex.com/t/888983#reply5) | Sat Oct 22 2022 10:31 AM
-- 🐵 [电脑触控栏问题](https://www.v2ex.com/t/888981#reply1) | Sat Oct 22 2022 10:13 AM<!-- v2ex:END -->
+- 🥸 [日亚购入的 pixel watch](https://www.v2ex.com/t/889012#reply0) | Sat Oct 22 2022 2:18 PM
+- 🤗 [网易云音乐「个性推荐」问题：网络不给力哦，请检查你的网络设置~，其他如「歌单」、「排行榜」正常](https://www.v2ex.com/t/888995#reply1) | Sat Oct 22 2022 11:33 AM
+- 🎭 [求一个日本/澳大利亚/新加坡 onsite 的 web3 相关开发工作](https://www.v2ex.com/t/888992#reply11) | Sat Oct 22 2022 11:15 AM
+- 🥷 [如何在一个 Python 程序中，获取运行另一个 py 文件后，返回输出到终端的内容](https://www.v2ex.com/t/888985#reply5) | Sat Oct 22 2022 10:59 AM
+- 🐵 [使用 RecyclerView 动态展示 WiFi 列表数据刷新时的闪烁问题](https://www.v2ex.com/t/888983#reply5) | Sat Oct 22 2022 10:31 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
