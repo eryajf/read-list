@@ -448,29 +448,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [苹果宣布下周起更多广告将进入应用商店](https://www.cnbeta.com/articles/tech/1329995.htm) | Sat Oct 22 2022 2:01 PM 
+- 🕯 [苹果iPhone14 Pro体验：并不完美，但足够出色](https://www.cnbeta.com/articles/tech/1330005.htm) | Sat Oct 22 2022 3:53 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在本周发给开发者的电子邮件中，苹果宣布从10月25日星期二开始，在除中国以外的所有国家，与应用程序相关的广告将开始出现在App Store的主&amp;quot;今日&amp;quot;标签和单个应用程序列表底部的&amp;quot;您可能也喜欢&amp;quot;部分。App Store的所有广告都有蓝色背景和一个&amp;quot;广告&amp;quot;图标。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329995.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;自从2019年，在iPhone11&amp;nbsp;Pro上引入“Pro”后缀以来，苹果就不断拉开Pro版和标准版的差别，而在最新的iPhone14&amp;nbsp;Pro系列上，Pro更“Pro”了！我们之前已经介绍过iPhone14&amp;nbsp;Pro&amp;nbsp;Max和iPhone14，而今天终于能和大家分享体验近半个月的手机iPhone14&amp;nbsp;Pro手机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330005.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [俄称自行开发光刻机将于2028年问世 可产出7纳米芯片](https://www.cnbeta.com/articles/tech/1329993.htm) | Sat Oct 22 2022 1:47 PM 
+- 💼 [河南小伙菜地里建微型高铁走红 收到别样毕业礼物](https://hot.cnbeta.com/articles/funny/1330003.htm) | Sat Oct 22 2022 3:52 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;俄罗斯科学院发豪语2028年自行研发的光刻机将问世，可生产出7纳米芯片。据报道，国际制裁对俄罗斯断供后，造成俄国芯片短缺，加以美国、英国和欧盟也祭出多项制裁，几乎所有拥有先进晶圆制造商都停止与俄罗斯实体合作，ARM也无法将他们的技术授权给俄罗斯的芯片设计师。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329993.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;三年前，张亚东踏入郑州电力职业技术学院的大门，开启了工业机器人应用技术的学习之旅。那时的他没有想到，三年后的自己会因为“造高铁”，收到一份别样的毕业礼物——在10月14日举行的“出彩河南人”第五届最美大学生颁奖典礼上，他作为10名“最美大学生”之一接受颁奖。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1330003.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《使命召唤19》街头关卡超真实 堪比实拍](https://hot.cnbeta.com/articles/game/1329991.htm) | Sat Oct 22 2022 1:43 PM 
+- 💂 [美塑料行业推进化学回收 环保组织:治标不治本](https://www.cnbeta.com/articles/tech/1330001.htm) | Sat Oct 22 2022 3:48 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《使命召唤19：现代战争2》战役模式已于昨日正式解禁（预购），油管博主TBAG [Epic Gaming]发布了一段阿姆斯特丹关卡的游玩演示，网友表示画面堪比实景拍摄，一起来欣赏下吧。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1329991.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;当地时间10月21日（周五），美国塑料行业表示，最新的化学回收技术将帮助解决海洋与土地的塑料垃圾危机。据介绍，化学回收通常使用加热或化学溶剂将塑料分解成液体和气体，产生类似油的基本化学品混合物。行业领导者说，这种混合物可以被重新制成塑料颗粒，以制造新产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330001.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [小米12 Lite 5G NE现身数据库 双挖孔屏 三星4nm工艺](https://www.cnbeta.com/articles/tech/1329989.htm) | Sat Oct 22 2022 1:42 PM 
+- 🚀 [8位数片酬！女演员皮尤主演《雷霆特工队》和另外一部新片](https://hot.cnbeta.com/articles/movie/1329999.htm) | Sat Oct 22 2022 3:47 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日消息，据报道，&lt;strong&gt;小米12 Lite 5G NE现身IMEI数据库，型号是2210129SG，这是小米面向海外市场打造的新品。&lt;/strong&gt;爆料指出，&lt;strong&gt;小米12 Lite 5G NE对应的国行版机型是Civi 2，意味着二者拥有相同的配置。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329989.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据好莱坞报道者消息，英国女演员弗洛伦斯·皮尤主演《雷霆特工队》和另外一部MCU电影，片酬高达8位数。《雷霆特工队》将于2024年7月26日上映。弗洛伦斯·皮尤曾获得奥斯卡提名，曾和斯嘉丽·约翰逊共同主演了《黑寡妇》电影。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1329999.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [大庆油田还有多少油？有望实现百年油田](https://www.cnbeta.com/articles/tech/1329987.htm) | Sat Oct 22 2022 1:41 PM 
+- 🎊 [折叠屏手机今年销量冲刺200万台？厂商能翻出哪些新花样](https://www.cnbeta.com/articles/tech/1329997.htm) | Sat Oct 22 2022 3:26 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;天，在党的二十大闭幕后的“党代表通道”上，针对记者有关“大庆还有多少油”的提问，中国石油大庆油田采油班班长刘丽说，大庆油田靠技术创新，目前依然保持着旺盛的生机和活力，有望实现百年油田的目标。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329987.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;智能手机市场整体相对低迷的背景下，折叠屏手机成为一个亮点。目前，华为、三星、OPPO、vivo、小米等厂商均已推出折叠屏手机。对新技术相对保守的苹果目前还没有折叠机推出，不过近日第三方分析公司CCS Insight在其年度预测报告中称，苹果可能会在2024年推出一款配备可折叠屏幕的iPad。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329997.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
