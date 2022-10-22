@@ -829,28 +829,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Launchcaster - 基于 Farcaster 构建的 Web3 产品搜寻](https://xinquji.com/posts/180761?utm_campaign=xinquji-rss) | Sat Oct 22 2022 6:39 AM 
+- 👀 [Idiomics - 品牌和博主的成语插图](https://xinquji.com/posts/180778?utm_campaign=xinquji-rss) | Sun Oct 23 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-     基于 Farcaster 构建的 Web3 产品搜寻  
+     品牌和博主的成语插图  
     </details> 
 
-- 🥷 [html.to.design - 将任何网站转换为完全可编辑的 Figma 设计](https://xinquji.com/posts/180760?utm_campaign=xinquji-rss) | Sat Oct 22 2022 6:37 AM 
+- 🥷 [Link transformer - 将链接转换为纯文本以在任何社交媒体上共享](https://xinquji.com/posts/180777?utm_campaign=xinquji-rss) | Sun Oct 23 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-     将任何网站转换为完全可编辑的 Figma 设计  
+     将链接转换为纯文本以在任何社交媒体上共享  
     </details> 
 
-- 💼 [Upspace - 万物健康的社交平台](https://xinquji.com/posts/180759?utm_campaign=xinquji-rss) | Sat Oct 22 2022 6:35 AM 
+- 💼 [ZoZo App - 您分享最多的内容的键盘快捷键](https://xinquji.com/posts/180776?utm_campaign=xinquji-rss) | Sun Oct 23 2022 6:18 AM 
     <details><summary>展开描述 ...</summary> 
-     万物健康的社交平台  
+     您分享最多的内容的键盘快捷键  
     </details> 
 
-- 🦅 [Prompt Locker - 获取并提供有关您的 AI-gen 艺术的反馈，轻松保存收藏夹](https://xinquji.com/posts/180758?utm_campaign=xinquji-rss) | Sat Oct 22 2022 6:33 AM 
+- 🦅 [Demand Cloud - 云成本优化的简单企业解决方案](https://xinquji.com/posts/180775?utm_campaign=xinquji-rss) | Sun Oct 23 2022 6:18 AM 
     <details><summary>展开描述 ...</summary> 
-     获取并提供有关您的 AI-gen 艺术的反馈，轻松保存收藏夹  
+     云成本优化的简单企业解决方案  
     </details> 
 
-- 😺 [goodtime - 安排休闲计划的简单方式](https://xinquji.com/posts/180757?utm_campaign=xinquji-rss) | Sat Oct 22 2022 6:32 AM 
+- 😺 [glook - 让开发人员轻松搜索网络](https://xinquji.com/posts/180774?utm_campaign=xinquji-rss) | Sun Oct 23 2022 6:16 AM 
     <details><summary>展开描述 ...</summary> 
-     安排休闲计划的简单方式  
+     让开发人员轻松搜索网络  
     </details> 
 <!-- xinquji:END -->
