@@ -448,29 +448,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [詹姆斯·韦伯望远镜将目光投向115亿年前 捕捉到令人惊叹的&quot;彩虹结&quot;](https://www.cnbeta.com/articles/science/1329981.htm) | Sat Oct 22 2022 12:13 PM 
+- 🕯 [PC、手机需求疲软 台积电撤销7/6纳米新产线](https://www.cnbeta.com/articles/tech/1329985.htm) | Sat Oct 22 2022 1:34 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;台积电在2022年第三季度的投资人会议上承认，随着某些节点的利用率下降，库存逆风将打击其近期销售前景。这与该公司在全球半导体低迷时期推迟新产能建设的保守观点相呼应，包括因市场需求不确定而撤销22号厂房的新7/6纳米生产线。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329985.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [《DOTA2》TI11：秘密 2:0 TA晋级前三](https://hot.cnbeta.com/articles/game/1329983.htm) | Sat Oct 22 2022 1:33 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;《DOTA2》TI11淘汰赛正在进行中，秘密战队刚刚2:0大胜南美战队TA，晋级前三。从外卡赛到TI前三，秘密战队的状态也是越打越好。败者组方面，OG战队2:1战胜GG，挺进下一轮，而液体 2:1战胜Entity，这两支欧洲战队最终还是在败者组淘汰赛相遇。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1329983.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [詹姆斯·韦伯望远镜将目光投向115亿年前 捕捉到令人惊叹的&quot;彩虹结&quot;](https://www.cnbeta.com/articles/science/1329981.htm) | Sat Oct 22 2022 12:13 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;詹姆斯-韦伯在宇宙中发现了又一个壮观的景象。这一次，太空望远镜发现了一个&amp;quot;彩虹结&amp;quot;，由一个极度红色的类星体以及它周围的几个巨大的星系组成。这个结应该存在于115亿年前。来自詹姆斯-韦伯的最新类星体图像再次提醒我们，太空是多么的广阔。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329981.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [今年第一票房《壮志凌云2》幕后特辑发行 全球影史票房第11名](https://hot.cnbeta.com/articles/movie/1329979.htm) | Sat Oct 22 2022 11:24 AM 
+- 🚀 [今年第一票房《壮志凌云2》幕后特辑发行 全球影史票房第11名](https://hot.cnbeta.com/articles/movie/1329979.htm) | Sat Oct 22 2022 11:24 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;作为今年票房最牛的电影，空战爽片《壮志凌云2》总票房已经接近15亿美元，如此亮眼的成绩，让其仍居全球影史票房第11名。据悉，《壮志凌云2》的海外票房累计7.669亿美元，也就是说它在海外的受欢迎程度远超美国。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1329979.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [泰勒·斯威夫特新专辑 打破Spotify单日最高播放纪录](https://hot.cnbeta.com/articles/music/1329977.htm) | Sat Oct 22 2022 11:21 AM 
+- 🎊 [泰勒·斯威夫特新专辑 打破Spotify单日最高播放纪录](https://hot.cnbeta.com/articles/music/1329977.htm) | Sat Oct 22 2022 11:21 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;22日，据Spotify官方表示，霉霉TaylorSwift新专辑《Midnights》打破Drake单日Spotify最高播放量纪录（1.55亿）！&amp;quot;Midnights&amp;quot;是霉霉的第10张录音室专辑，于2022年10月21日发行，共收录13首歌曲。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1329977.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [《阿凡达：水之道》公布新公益片 超多海洋动物惊喜亮相](https://hot.cnbeta.com/articles/movie/1329975.htm) | Sat Oct 22 2022 11:03 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今日（10月22日），《阿凡达：水之道》曝光海洋环保公益特别预告片，一起来看看吧！众卡司现身倡议保护10种与美丽的潘多拉星球相联系的海洋神奇动物及其栖息地。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1329975.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [Nature刊发华人教授锂电新研究： 充电11分钟续航400公里 只用加一层薄镍箔](https://www.cnbeta.com/articles/science/1329973.htm) | Sat Oct 22 2022 9:52 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;电动汽车电池&lt;strong&gt;快充技术有了重要突破&lt;/strong&gt;！新能源汽车快充时代开拓者之一、宾夕法尼亚大学教授王朝阳及其团队研究出一种新方法，让电池充电速度&lt;strong&gt;“突飞猛进”&lt;/strong&gt;：给普通的电动车电池加薄薄一层镍片后，&lt;strong&gt;仅需 10 分钟左右，就能充电 70%&lt;/strong&gt;。而且这种电池循环寿命高达 2000 次以上：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329973.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
