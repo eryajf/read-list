@@ -448,29 +448,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [苹果iPhone14 Pro体验：并不完美，但足够出色](https://www.cnbeta.com/articles/tech/1330005.htm) | Sat Oct 22 2022 3:53 PM 
+- 🕯 [物理学家对质子结构异常现象感到疑惑](https://www.cnbeta.com/articles/science/1330009.htm) | Sat Oct 22 2022 5:17 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;对质子结构在电场中如何变形的精确测量揭示了有关质子数据中一个无法解释的峰值的新细节。核物理学家已经证实，目前对质子结构的描述并不完美。在美国能源部的托马斯-杰斐逊国家加速器设施对质子的电偏振性进行的一项新的精确测量揭示了质子结构探测数据中的一个凸点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330009.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [引入对抗性训练可以让人工智能更难被攻击和愚弄](https://www.cnbeta.com/articles/tech/1330007.htm) | Sat Oct 22 2022 5:08 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;洛斯阿拉莫斯国家实验室的研究人员开发了一种比较神经网络的新方法，该方法着眼于人工智能的&amp;quot;黑箱&amp;quot;，以帮助研究人员理解神经网络的行为。神经网络可以识别数据集中的模式，并被用于虚拟助手、面部识别系统和自动驾驶汽车等不同的应用中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330007.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [苹果iPhone14 Pro体验：并不完美，但足够出色](https://www.cnbeta.com/articles/tech/1330005.htm) | Sat Oct 22 2022 3:53 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;自从2019年，在iPhone11&amp;nbsp;Pro上引入“Pro”后缀以来，苹果就不断拉开Pro版和标准版的差别，而在最新的iPhone14&amp;nbsp;Pro系列上，Pro更“Pro”了！我们之前已经介绍过iPhone14&amp;nbsp;Pro&amp;nbsp;Max和iPhone14，而今天终于能和大家分享体验近半个月的手机iPhone14&amp;nbsp;Pro手机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330005.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [河南小伙菜地里建微型高铁走红 收到别样毕业礼物](https://hot.cnbeta.com/articles/funny/1330003.htm) | Sat Oct 22 2022 3:52 PM 
+- 🚀 [河南小伙菜地里建微型高铁走红 收到别样毕业礼物](https://hot.cnbeta.com/articles/funny/1330003.htm) | Sat Oct 22 2022 3:52 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;三年前，张亚东踏入郑州电力职业技术学院的大门，开启了工业机器人应用技术的学习之旅。那时的他没有想到，三年后的自己会因为“造高铁”，收到一份别样的毕业礼物——在10月14日举行的“出彩河南人”第五届最美大学生颁奖典礼上，他作为10名“最美大学生”之一接受颁奖。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1330003.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [美塑料行业推进化学回收 环保组织:治标不治本](https://www.cnbeta.com/articles/tech/1330001.htm) | Sat Oct 22 2022 3:48 PM 
+- 🎊 [美塑料行业推进化学回收 环保组织:治标不治本](https://www.cnbeta.com/articles/tech/1330001.htm) | Sat Oct 22 2022 3:48 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;当地时间10月21日（周五），美国塑料行业表示，最新的化学回收技术将帮助解决海洋与土地的塑料垃圾危机。据介绍，化学回收通常使用加热或化学溶剂将塑料分解成液体和气体，产生类似油的基本化学品混合物。行业领导者说，这种混合物可以被重新制成塑料颗粒，以制造新产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330001.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [8位数片酬！女演员皮尤主演《雷霆特工队》和另外一部新片](https://hot.cnbeta.com/articles/movie/1329999.htm) | Sat Oct 22 2022 3:47 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据好莱坞报道者消息，英国女演员弗洛伦斯·皮尤主演《雷霆特工队》和另外一部MCU电影，片酬高达8位数。《雷霆特工队》将于2024年7月26日上映。弗洛伦斯·皮尤曾获得奥斯卡提名，曾和斯嘉丽·约翰逊共同主演了《黑寡妇》电影。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1329999.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [折叠屏手机今年销量冲刺200万台？厂商能翻出哪些新花样](https://www.cnbeta.com/articles/tech/1329997.htm) | Sat Oct 22 2022 3:26 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;智能手机市场整体相对低迷的背景下，折叠屏手机成为一个亮点。目前，华为、三星、OPPO、vivo、小米等厂商均已推出折叠屏手机。对新技术相对保守的苹果目前还没有折叠机推出，不过近日第三方分析公司CCS Insight在其年度预测报告中称，苹果可能会在2024年推出一款配备可折叠屏幕的iPad。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329997.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
