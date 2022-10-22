@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [使用 Flutter 轻松搞定短视频上滑翻页效果](https://juejin.cn/post/7157342437248073742) | Sat Oct 22 2022 2:25 PM 
+- 🤗 [使用Key Manager Plus部署SSL证书](https://juejin.cn/post/7157371526822494215) | Sat Oct 22 2022 4:20 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第22天，点击查看活动详情 使用 Key Manager Plus 可自动执行此过程以快速将证书部署到相应的域服务器。要将存储库中 
+    </details> 
+
+- 🎡 [Chrome 的 DevTools 竟然是用 JS 写的](https://juejin.cn/post/7157368138214932510) | Sat Oct 22 2022 4:04 PM 
+    <details><summary>展开描述 ...</summary> 
+    万万没想到 Chrome 的 DevTools 竟然是用 JS 写的，感觉自己也行了（做 Chrome 工程师😂）。 
+    </details> 
+
+- 🕯 [Linux上搭建泰拉瑞亚服务端详细指南](https://juejin.cn/post/7157354049971585061) | Sat Oct 22 2022 3:10 PM 
+    <details><summary>展开描述 ...</summary> 
+    泰拉瑞亚是一个非常好玩的沙盒游戏，以冒险作为主要主题。不过带上同伴一起披荆斩棘，比起单打独斗会有着更多的乐趣。而通过Steam联机有时会出现不稳定的情况，因此搭建泰拉瑞亚游戏服务器也是很好的选择。 
+    </details> 
+
+- 🚀 [前端脚手架搭建-11](https://juejin.cn/post/7157353860880105503) | Sat Oct 22 2022 3:08 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第22天，点击查看活动详情 初始化项目 1.创建项目 2.创建入口文件 3.编写命令 4.本地软链 检查Node版本 1.新建li 
+    </details> 
+
+- 💪 [使用 Flutter 轻松搞定短视频上滑翻页效果](https://juejin.cn/post/7157342437248073742) | Sat Oct 22 2022 2:25 PM 
     <details><summary>展开描述 ...</summary> 
     我们在短视频应用中经常会看到不停上滑浏览下一条视频的沉浸式交互效果，这种交互能够让用户不停地翻页，直到找到喜欢的视频内容，从而营造一种不断“搜寻目标”的感觉，本篇介绍如何在 Flutter 实现。 
-    </details> 
-
-- 🎡 [『从零开始学小程序』媒体组件image组件](https://juejin.cn/post/7157332315503345672) | Sat Oct 22 2022 1:45 PM 
-    <details><summary>展开描述 ...</summary> 
-    12.4媒体组件audio组件 多媒体包括音频、视频和相机等，为了更好地在小程序中使用这些多媒体功能，微信官方也为开发者提供了一系列多媒体组件和API接口。多媒体组件如下所示： video组件：视频组 
-    </details> 
-
-- 🕯 [【hel-micro教学视频-1】发布和使用远程js库](https://juejin.cn/post/7157331969305968676) | Sat Oct 22 2022 1:44 PM 
-    <details><summary>展开描述 ...</summary> 
-    hel-micro 教学视频来了，为了帮助更多小伙伴快速上手sdk化模块联邦 hel-micro ，会持续推出一系列教学视频，本期主讲内容为：学会基于hel-micro 发布和使用远程js库 
-    </details> 
-
-- 🚀 [关于B树和B+树](https://juejin.cn/post/7157329954433794078) | Sat Oct 22 2022 1:36 PM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第18天，点击查看活动详情 背景 首先，来谈谈B树。为什么要使用B树？我们需要明白以下两个事实： 一 不同容量的存储器，访问速度差 
-    </details> 
-
-- 💪 [『 每日一题』手写每日一题之防抖](https://juejin.cn/post/7157329600245137439) | Sat Oct 22 2022 1:36 PM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第 12 天，点击查看活动详情 在面试中，我们经常会遇到需要手写代码的面试题，为了让我们的面试能够准备的更加充分，我们有必要好好的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
