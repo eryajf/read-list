@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [简单整理AFNetworking架构知识点](https://juejin.cn/post/7157262713448562695) | Sat Oct 22 2022 9:15 AM 
+- 🤗 [施工企业项目经理的工作性质、任务和责任](https://juejin.cn/post/7157271435982372871) | Sat Oct 22 2022 9:51 AM 
     <details><summary>展开描述 ...</summary> 
-    AFNetworking整体框架是怎样的 1、UIKit集成模块 UIKit 2、请求序列化 Serialization 3、响应序列化 Serialization 4、会话NSURLSession 
+    施工企业项目经理的工作性质、任务和责任 建筑企业项目经理资质管理制度向建造师执业资格过渡的时间定为5年。从2003年至2008年2月27日。 大中型工程项目施工的项目经理必须由取得建造师注册证书的人员 
     </details> 
 
-- 🎡 [Luminar Neo 教程，如何在 Luminar Neo 中使用结构工具？](https://juejin.cn/post/7157260694327394317) | Sat Oct 22 2022 9:07 AM 
+- 🎡 [腾讯性能监控框架Matrix源码分析（三）TracePlugin  初探](https://juejin.cn/post/7157243057199382541) | Sat Oct 22 2022 7:58 AM 
     <details><summary>展开描述 ...</summary> 
-    欢迎观看 Luminar Neo 中文版教程，小编带大家学习 Luminar Neo 的基本工具和使用技巧，了解如何在 Luminar Neo 中使用结构工具。 
+    TracePlugin 卡顿分析插件 他可以监听以下情况 监控ANR、 界面流畅性、 启动耗时、 页面切换耗时、 慢函数及卡顿等 这是Matrix最核心的插件之一，原理的实现细节非常值得我们研究学习， 
     </details> 
 
-- 🕯 [Kafka 认证二：ScramLoginModule 认证及 Java 连接测试](https://juejin.cn/post/7157251649851883556) | Sat Oct 22 2022 8:32 AM 
+- 🕯 [Jetpeck从入门到几乎入门（五）](https://juejin.cn/post/7157236756100841509) | Sat Oct 22 2022 7:35 AM 
     <details><summary>展开描述 ...</summary> 
-    承接上篇，继续 Kafka 的简单帐号密码认证的 SASL/SCRAM 认证方式这里会多增加一步密钥注册到 Zookeeper 的操作。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 Jetpeck从入门到几乎入门（五） 前言 Jetpack系列： Jetpack从入门到几乎入门（一）  
     </details> 
 
-- 🚀 [从零到一搭建ELK日志，在Docker环境下部署 Filebeat 日志收集工具](https://juejin.cn/post/7157248311500472333) | Sat Oct 22 2022 8:20 AM 
+- 🚀 [Jetpack从入门到几乎入门（四）](https://juejin.cn/post/7157235971916824590) | Sat Oct 22 2022 7:31 AM 
     <details><summary>展开描述 ...</summary> 
-    最近在玩 ELK 日志平台，它是 Elastic 公司推出的一整套日志收集、分析和展示的解决方案。 只有学习了，操作了才能算真正的学会使用了，虽然看起来简单，但是里面的流程步骤还是很多的，将步骤记录。 
+    Jetpack从入门到几乎入门（四） 持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 前言 Jetpack系列： Jetpack从入门到几乎入门（一）  
     </details> 
 
-- 💪 [三个MySQL查询容易踩的坑](https://juejin.cn/post/7157243973310873608) | Sat Oct 22 2022 8:03 AM 
+- 💪 [Android的ANR原理分析](https://juejin.cn/post/7157227625549660174) | Sat Oct 22 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
-    在使用MySQL的过程中，相比大家都踩过不少坑，下面我将列举日常生活中比较高频的三个”坑“，也欢迎大家踊跃分享自己的心路历程 🙃！ 
+    大概 Android的ANR主要有两种方式： 1. 通过handler的延迟机制触发ANR 2. Input事件触发ANR Service、BroadcastReceiver、ContentProvi 
     </details> 
 <!-- juejin:END -->
 ### 少数派
