@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [网友在Newegg购买RTX 4090显卡 拆开曝光仅有两块配重块](https://www.cnbeta.com/articles/tech/1329767.htm) | Fri Oct 21 2022 11:10 PM 
+- 🕯 [Steam Deck现可显示所有机器组件的品牌和型号](https://hot.cnbeta.com/articles/game/1329845.htm) | Sat Oct 22 2022 1:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一名消费者通过零售 Outlet 店在 Newegg 购买了一块技嘉的 GeForce RTX 4090 显卡，不过包装内却只有一些配重块。&lt;a href=&quot;https://www.reddit.com/r/pcmasterrace/comments/y8y03x/hey_guys_check_out_my_new_4090_side_note_newegg/&quot; target=&quot;_blank&quot;&gt;网友 u/NuclearInnardsBeep 在 Reddit 社区发帖&lt;/a&gt;，表示近期从 Newegg 购买了一块技嘉 GeForce RTX 4090 显卡。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329767.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Steam Deck 现在可以向您显示设备中组件的品牌和型号。要使用此新功能，您必须通过设置中的Steam 更新通道选择加入客户端测试版服务。然后，您可以通过依次单击设置、系统和硬件标题下的型号/序列号按钮来访问组件查找视图。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1329845.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [消息称iPhone 15 Ultra将改用钛合金中框](https://www.cnbeta.com/articles/tech/1329765.htm) | Fri Oct 21 2022 10:53 PM 
+- 💼 [Monoprice推出Monolith MTM百瓦桌面蓝牙aptX HD有源扬声器](https://www.cnbeta.com/articles/tech/1329843.htm) | Sat Oct 22 2022 1:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;知名爆料人士 LeaksApplePro 在最新推文中表示，iPhone 15 Ultra（Pro Max）金属中框将改用钛合金材质。&lt;/strong&gt;他过去几年的爆料都比较准确，因此这条信息还是可信的。在 iPhone 15 的传闻周期中，现在还没有得到任何确认还为时过早。在 iPhone 15 Ultra 上使用钛而不是不锈钢是苹果将为明年的 iPhone 发布保留的惊喜。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329765.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;现如今，人们已经习惯了将台式机 / 笔记本电脑作为集中式的媒体中心。追求大型立体声功放、并搭配 CD / DVD 播放器等独立媒体设备的日子，似乎也一去不返。即便如此，还是有一些有较高要求的计算机用户，希望获得更优质的音频体验。&lt;strong&gt;而 Monoprice 新推出的 Monolith MTM 100 Watt 蓝牙 aptX HD 有源扬声器，或许就是一个不错的选择。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329843.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [中国DOTA2最后的天才少年：第7次错过了自己的梦想](https://hot.cnbeta.com/articles/game/1329763.htm) | Fri Oct 21 2022 5:26 PM 
+- 💂 [宁德时代钠离子电池明年将量产 15分钟充电80%](https://www.cnbeta.com/articles/tech/1329841.htm) | Sat Oct 22 2022 1:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2022 年 10&amp;nbsp;月 20&amp;nbsp;日晚上 7 点， DOTA2 国际邀请赛（&amp;nbsp;以下简称 Ti ）淘汰赛败者组的最后一局比赛开始了。对阵双方是来自中国的 RNG 战队，以西欧赛区的 Entity 战队。败者组第一轮的赛制是 BO1 ， &lt;strong&gt;意味着一局定生死，败者淘汰，胜者则可以获得继续前进的机会。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1329763.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，日前宁德时代在一场电话会议上表示，三季度电池系统销量90GWh左右。&lt;strong&gt;同时还透露，公司钠离子电池产业化进展顺利，供应链布局上需要一些时间，已与部分乘用车客户协商，明年将会正式量产。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329841.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [RTX 4080 12GB被喷到宣布退市 NVIDIA高管回应：性能和4080 16GB差距大](https://www.cnbeta.com/articles/tech/1329761.htm) | Fri Oct 21 2022 5:24 PM 
+- 🚀 [《黑亚当》创下巨石强森个人最好票房成绩](https://hot.cnbeta.com/articles/movie/1329839.htm) | Sat Oct 22 2022 1:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;破天荒地，原定于11月16日发售的RTX 4080 12GB显卡，日前突遭NVIDIA取消。在官方声明中，NV给出的原因说是名字没起好，给玩家造成了困扰。对此，NVIDIA韩国区CEOKim Seung-gyu给出了进一步解释，他表示，基于消费者的反馈，&lt;strong&gt;公司发现，RTX 4080 12GB的命名造成了巨大困惑。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329761.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;巨石强森酝酿了十几年的《黑亚当》终于要与北美地区的观众见面了，周四点映获得760万美元票房成绩。与此相对照，《速激9》点映成绩710万美元，首周票房7000万美元；《沙赞》点映590万美元，首周5350万美元。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1329839.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [&quot;韩版腾讯&quot;一场大火：韩国一夜退回石器时代 沦陷整整4天](https://www.cnbeta.com/articles/tech/1329759.htm) | Fri Oct 21 2022 5:23 PM 
+- 🎊 [特斯拉Model 2真要来了？马斯克称特斯拉将开发小型电动汽车平台](https://www.cnbeta.com/articles/tech/1329837.htm) | Sat Oct 22 2022 1:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在韩国，有这么一家公司：它是中国互联网在韩国的缩影；它从通讯软件起家，涵盖了移动支付、游戏、娱乐等各大领域；韩国 5175 万人口，有 4750 万人都是它的用户，应用覆盖了 97% 的人群，人送外号“ 互联网小三星 ”。甚至，连微信都差一点“ 沦陷 ”了。（ 韩国的媒体一再强调腾讯在微信上的成功是抄袭Kakao的典范 ）&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329759.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月22日消息，特斯拉首席执行官埃隆·马斯克（Elon Musk）证实，继Model S/X和Model 3/Y之后，该公司接下来将致力于开发生产小型电动汽车的第三个平台，其目标是将新车型的成本降至Model 3或Model Y的一半。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329837.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
