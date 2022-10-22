@@ -343,19 +343,19 @@
     10月20日，Google宣布正在为名为GUAC的开源项目寻找感兴趣的贡献者，以此进一步强化软件供应链安全。 
     </details> 
 
-- 🦅 [黑客使用新版 FurBall Android 恶意软件监视伊朗公民](https://www.freebuf.com/news/347519.html) | Fri Oct 21 2022 5:12 AM 
+- 🦅 [FreeBuf周报 | 微软被曝可能泄露2.4TB客户敏感数据；俄罗斯对保加利亚发起网络攻击](https://www.freebuf.com/news/347541.html) | Fri Oct 21 2022 6:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    我们总结推荐了本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
+    </details> 
+
+- 🪄 [黑客使用新版 FurBall Android 恶意软件监视伊朗公民](https://www.freebuf.com/news/347519.html) | Fri Oct 21 2022 5:12 AM 
     <details><summary>展开描述 ...</summary> 
     “国内小猫”（Domestic Kitten）的伊朗攻击者正在进行一项新的恶意活动。 
     </details> 
 
-- 🪄 [谁是年度安全技术变革？|「WitAwards中国网安行业2022年度评选」火热进行中](https://www.freebuf.com/articles/347441.html) | Thu Oct 20 2022 10:56 AM 
+- 💻 [谁是年度安全技术变革？|「WitAwards中国网安行业2022年度评选」火热进行中](https://www.freebuf.com/articles/347441.html) | Thu Oct 20 2022 10:56 AM 
     <details><summary>展开描述 ...</summary> 
     快来看看你支持的企业上榜了吗？ 
-    </details> 
-
-- 💻 [Java安全基础（四）Java的反射机制](https://www.freebuf.com/articles/web/347440.html) | Thu Oct 20 2022 10:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    今天更新一篇关于java反射机制的文章，初学Java安全，内容如有不恰当的地方，还请各位大佬指正。 
     </details> 
 <!-- freebuf:END -->
 
