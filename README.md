@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [华硕RTX 3060 Ti新卡曝光：4864 CUDA核心 升级19Gbps GDDR6X显存](https://www.cnbeta.com/articles/tech/1329905.htm) | Sat Oct 22 2022 6:01 AM 
+- 🕯 [载人登月、火星采样不是终点 中国航天将研发前沿、颠覆性技术](https://www.cnbeta.com/articles/science/1329945.htm) | Sat Oct 22 2022 7:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;正如传闻所述，英伟达 GPU 合作伙伴现已开始推出新款 RTX 3060 Ti 显卡 —— 特点是配备了更快的显存类型。&lt;/strong&gt;以华硕 TUF 产品线为例，新款 RTX 3060 Ti 从 GDDR6 显存、升级到了 19Gbps @ GDDR6X 的规格（带宽 448 vs 608 GB/s）。但在 GPU 位宽等参数上，两者并没有太大的区别。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329905.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;过去十多年中，中国航天实现了一系列重大突破，完成了月球采样返回，空间站也将在今年底建成，未来还会有载人登月、火星探测等新任务。据新华社消息，10月22日，中国航天科技集团有限公司董事长吴燕生在采访中提到，目前在太空，空间站已于9月底完成了问天舱的转位，等待着梦天实验舱和它交会对接；&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329945.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Taylor Swift《午夜》新专辑创下国内数字音乐销量新纪录](https://hot.cnbeta.com/articles/music/1329903.htm) | Sat Oct 22 2022 5:33 AM 
+- 💼 [有能力却拒不履行 恒大恒驰新能源汽车研究院新增失信信息](https://www.cnbeta.com/articles/tech/1329943.htm) | Sat Oct 22 2022 7:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在发行首日，包含了 13 首曲目的《Midnights》，就在腾讯 QQ 音乐平台上累积了近 20 万张的销量。&lt;/strong&gt;与 Taylor Swift 个人线上商店上的 11.99 美元起价相比，RMB 35 元（合 4.83 美元）的定价还是相当吸引人的。此外从首发销量数据来看，中国消费者对于正版在线音乐的付费意愿也在日益高涨。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1329903.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近期，据企查查APP显示，恒大恒驰新能源汽车研究院（上海）有限公司新增多则失信被执行人和限制消费令信息。信息显示，限制消费对象为该公司及法定代表人方驰，失信行为为“&lt;strong&gt;有履行能力而拒不履行生效法律文书确定义务&lt;/strong&gt;”，执行法院均为上海市松江区人民法院。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329943.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Automattic宣布将Pocket Casts客户端开源](https://hot.cnbeta.com/articles/music/1329901.htm) | Sat Oct 22 2022 5:15 AM 
+- 💂 [最快的RX 7000&quot;RDNA 3&quot;笔记本GPU可提供6950 XT和RTX 3090水平的性能](https://www.cnbeta.com/articles/tech/1329941.htm) | Sat Oct 22 2022 7:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为除 Google、Apple、Spotify 等科技巨头外的一款热门“播客”应用程序，Pocket Casts 允许用户免费检索和订阅播客节目，辅以收费的桌面客户端和高级功能。&lt;strong&gt;去年 7 月，WordPress 母公司 Automattic 收购了 Pocket Casts 。最新消息是，这款软件现已宣布开源。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1329901.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;AMD将通过他们的下一代Radeon RX 7000&amp;quot;RDNA 3&amp;quot;芯片在笔记本电脑GPU性能方面实现巨大飞跃。&lt;/strong&gt;在Greymon55和Kopite7kimi的两条独立推文中，两位泄密者都报告说，下一代AMD Radeon RX 7000&amp;quot;RDNA 3&amp;quot;笔记本GPU将为移动平台的游戏性能提供巨大提升。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329941.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《龙之家族》S1季终集《The Black Queen》提前泄露：HBO大怒](https://hot.cnbeta.com/articles/movie/1329899.htm) | Sat Oct 22 2022 3:48 AM 
+- 🚀 [NASA宇航员在亚利桑那州的沙漠中模拟&quot;月球漫步&quot; 为下阶段任务做准备](https://www.cnbeta.com/articles/science/1329939.htm) | Sat Oct 22 2022 7:16 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;尽管 HBO 定于周日放出《权游》衍生剧《龙之家族》的 S1 季终集，但一些等不及的观众已经通过 torrent 网站看过盗版了。&lt;/strong&gt;该公司一位发言人在接受 Variety 采访时称，本次泄露的来源，可能是 EMEA（欧洲、中东和非洲）的分校合作伙伴，但目前尚不清楚确切的位置。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1329899.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;美国宇航局在亚利桑那州的两项任务正试图模拟对月球南极的探索。在美国宇航局准备最快于11月14日发射阿特米斯1号无机组人员绕月飞行任务时，该航天局正在考虑继续拓展载人阿特米斯2号任务，并最终将人类带回月球。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329939.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [美国民主党全国委员会起诉谷歌 称垃圾邮件过滤器阻断其竞选邮件](https://www.cnbeta.com/articles/tech/1329897.htm) | Sat Oct 22 2022 3:47 AM 
+- 🎊 [英伟达RTX 40系列移动GPU曝光 至少五款SKU](https://www.cnbeta.com/articles/tech/1329937.htm) | Sat Oct 22 2022 7:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;共和党全国委员会（RNC）已在加利福尼亚州的一家美国地方法院对Google提起诉讼，指控其将竞选邮件放入其数百万用户的垃圾邮件文件夹。Google上个月推出了一项试点计划，以防止竞选邮件被放入垃圾邮件。但美国全国委员会一直在批评该计划，认为它对政治邮件过滤的帮助不够。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329897.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;自 @Harukaze5719 和 @Kopite7kimi 几个月前讨论了一番之后，现 @HW_Reveal 又在 Twitter 上披露了英伟达 Ada Lovelace 移动 GPU 。&lt;/strong&gt;推文随附的图片，描述了所谓“GN21”命名，并且暗示 RTX 40 系列移动独显将有至少五款 SKU 。可知除了高端的 RTX 4090 / 4080（GN21-X11 / X9），还有中端和主流的 RTX 4070 / 4060 Ti / 4060（GN21-X6 / X4 / X2）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329937.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
