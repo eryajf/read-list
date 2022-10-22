@@ -66,29 +66,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第76期-2022年第41周](https://wiki.eryajf.net/pages/137fb1/) | Fri Oct 21 2022 8:16 AM 
+- 🫶 [Docker 调试构建失败的 Dockerfile 的方法](https://wiki.eryajf.net/pages/8ff051/) | Sat Oct 22 2022 9:58 PM 
+    <details><summary>展开描述 ...</summary> 
+    当我们基于 Dockerfile 构建一个镜像的时候，不可避免的会遇到错误或失败，这个时候，通常我们会核查对应步骤执行的指令，然后调整指令，再次构建镜像，这是一种常规的方法。其实，因为 Docker 底层存储的机制，我们可以直接进入到失败之前成功的那次状态中，然后二次调试我们的指令，从而做到有的放矢地验证。 
+    </details> 
+
+- 🧰 [学习周刊-总第76期-2022年第41周](https://wiki.eryajf.net/pages/137fb1/) | Fri Oct 21 2022 8:16 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第76期-Mac电脑中所有软件的icon合集 
     </details> 
 
-- 🧰 [Linux好用命令之watch命令](https://wiki.eryajf.net/pages/97c813/) | Sun Oct 16 2022 5:12 PM 
+- 🌏 [Linux好用命令之watch命令](https://wiki.eryajf.net/pages/97c813/) | Sun Oct 16 2022 5:12 PM 
     <details><summary>展开描述 ...</summary> 
     watch命令能够将其他命令的输出定时输出到终端，从而实现监听的能力，在我们要对一些命令状态进行实时监听的场景中，有非常好的应用场景。 
     </details> 
 
-- 🌏 [学习周刊-总第75期-2022年第40周](https://wiki.eryajf.net/pages/34698c/) | Fri Oct 14 2022 10:20 AM 
+- 😎 [学习周刊-总第75期-2022年第40周](https://wiki.eryajf.net/pages/34698c/) | Fri Oct 14 2022 10:20 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第75期-一个开源的SCRM 
     </details> 
 
-- 😎 [学习周刊-总第74期-2022年第39周](https://wiki.eryajf.net/pages/cc327d/) | Sat Oct 08 2022 9:28 AM 
+- 💂 [学习周刊-总第74期-2022年第39周](https://wiki.eryajf.net/pages/cc327d/) | Sat Oct 08 2022 9:28 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第74期-一个go语言输出着色包 
-    </details> 
-
-- 💂 [学习周刊-总第73期-2022年第38周](https://wiki.eryajf.net/pages/3d89ea/) | Fri Sep 30 2022 8:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第73期-k8s集群常用监控指标 
     </details> 
 <!-- eryajf:END -->
 
