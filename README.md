@@ -448,29 +448,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [PC、手机需求疲软 台积电撤销7/6纳米新产线](https://www.cnbeta.com/articles/tech/1329985.htm) | Sat Oct 22 2022 1:34 PM 
+- 🕯 [苹果宣布下周起更多广告将进入应用商店](https://www.cnbeta.com/articles/tech/1329995.htm) | Sat Oct 22 2022 2:01 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;台积电在2022年第三季度的投资人会议上承认，随着某些节点的利用率下降，库存逆风将打击其近期销售前景。这与该公司在全球半导体低迷时期推迟新产能建设的保守观点相呼应，包括因市场需求不确定而撤销22号厂房的新7/6纳米生产线。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329985.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在本周发给开发者的电子邮件中，苹果宣布从10月25日星期二开始，在除中国以外的所有国家，与应用程序相关的广告将开始出现在App Store的主&amp;quot;今日&amp;quot;标签和单个应用程序列表底部的&amp;quot;您可能也喜欢&amp;quot;部分。App Store的所有广告都有蓝色背景和一个&amp;quot;广告&amp;quot;图标。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329995.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《DOTA2》TI11：秘密 2:0 TA晋级前三](https://hot.cnbeta.com/articles/game/1329983.htm) | Sat Oct 22 2022 1:33 PM 
+- 💼 [俄称自行开发光刻机将于2028年问世 可产出7纳米芯片](https://www.cnbeta.com/articles/tech/1329993.htm) | Sat Oct 22 2022 1:47 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《DOTA2》TI11淘汰赛正在进行中，秘密战队刚刚2:0大胜南美战队TA，晋级前三。从外卡赛到TI前三，秘密战队的状态也是越打越好。败者组方面，OG战队2:1战胜GG，挺进下一轮，而液体 2:1战胜Entity，这两支欧洲战队最终还是在败者组淘汰赛相遇。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1329983.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;俄罗斯科学院发豪语2028年自行研发的光刻机将问世，可生产出7纳米芯片。据报道，国际制裁对俄罗斯断供后，造成俄国芯片短缺，加以美国、英国和欧盟也祭出多项制裁，几乎所有拥有先进晶圆制造商都停止与俄罗斯实体合作，ARM也无法将他们的技术授权给俄罗斯的芯片设计师。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329993.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [詹姆斯·韦伯望远镜将目光投向115亿年前 捕捉到令人惊叹的&quot;彩虹结&quot;](https://www.cnbeta.com/articles/science/1329981.htm) | Sat Oct 22 2022 12:13 PM 
+- 💂 [《使命召唤19》街头关卡超真实 堪比实拍](https://hot.cnbeta.com/articles/game/1329991.htm) | Sat Oct 22 2022 1:43 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;詹姆斯-韦伯在宇宙中发现了又一个壮观的景象。这一次，太空望远镜发现了一个&amp;quot;彩虹结&amp;quot;，由一个极度红色的类星体以及它周围的几个巨大的星系组成。这个结应该存在于115亿年前。来自詹姆斯-韦伯的最新类星体图像再次提醒我们，太空是多么的广阔。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329981.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《使命召唤19：现代战争2》战役模式已于昨日正式解禁（预购），油管博主TBAG [Epic Gaming]发布了一段阿姆斯特丹关卡的游玩演示，网友表示画面堪比实景拍摄，一起来欣赏下吧。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1329991.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [今年第一票房《壮志凌云2》幕后特辑发行 全球影史票房第11名](https://hot.cnbeta.com/articles/movie/1329979.htm) | Sat Oct 22 2022 11:24 AM 
+- 🚀 [小米12 Lite 5G NE现身数据库 双挖孔屏 三星4nm工艺](https://www.cnbeta.com/articles/tech/1329989.htm) | Sat Oct 22 2022 1:42 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为今年票房最牛的电影，空战爽片《壮志凌云2》总票房已经接近15亿美元，如此亮眼的成绩，让其仍居全球影史票房第11名。据悉，《壮志凌云2》的海外票房累计7.669亿美元，也就是说它在海外的受欢迎程度远超美国。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1329979.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今日消息，据报道，&lt;strong&gt;小米12 Lite 5G NE现身IMEI数据库，型号是2210129SG，这是小米面向海外市场打造的新品。&lt;/strong&gt;爆料指出，&lt;strong&gt;小米12 Lite 5G NE对应的国行版机型是Civi 2，意味着二者拥有相同的配置。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329989.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [泰勒·斯威夫特新专辑 打破Spotify单日最高播放纪录](https://hot.cnbeta.com/articles/music/1329977.htm) | Sat Oct 22 2022 11:21 AM 
+- 🎊 [大庆油田还有多少油？有望实现百年油田](https://www.cnbeta.com/articles/tech/1329987.htm) | Sat Oct 22 2022 1:41 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;22日，据Spotify官方表示，霉霉TaylorSwift新专辑《Midnights》打破Drake单日Spotify最高播放量纪录（1.55亿）！&amp;quot;Midnights&amp;quot;是霉霉的第10张录音室专辑，于2022年10月21日发行，共收录13首歌曲。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/music/1329977.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;天，在党的二十大闭幕后的“党代表通道”上，针对记者有关“大庆还有多少油”的提问，中国石油大庆油田采油班班长刘丽说，大庆油田靠技术创新，目前依然保持着旺盛的生机和活力，有望实现百年油田的目标。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329987.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
