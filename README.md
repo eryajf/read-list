@@ -401,29 +401,38 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [赛博朋克风再起时，香港霓虹正在消失](https://sspai.com/post/76030) | Sat Oct 22 2022 2:58 AM 
+- 👹 [从三个维度出发，改出一篇好文章](https://sspai.com/post/71660) | Sat Oct 22 2022 9:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;p&gt;大家好，欢迎来到《给少数派的写作建议》。&lt;/p&gt;
+&lt;p&gt;美国著名小说家托马斯·沃尔夫的处女作（也是让他声名鹊起的作品）《&lt;a href=&quot;https://book.douban.com/subject/3888110/&quot; target=&quot;_blank&quot;&gt;天使望故乡&lt;/a&gt;》手稿多达 3000 页，发掘他才华的编辑珀金斯，最终让他删去了九万余字。在他们合作沃尔夫的第二部作品《&lt;a href=&quot;https://book.douban.com/subject/27026335/&quot; target=&quot;_blank&quot;&gt;时间与河流&lt;/a&gt;》时，编辑修改文稿的时间长达两年。&lt;/p&gt;
+&lt;p&gt;如果说一部作品的闪光依靠作者在写作时的天才迸发，那么修改文章的环节，则能让作品变得成熟、完善，禁得住时间的考验。&lt;/p&gt;
+&lt;p&gt;如果你是少数派的作者，可以写完初稿之后，找少数派的「热心编辑」来审稿，指出修改方向。但是作为文章的署名人，我们必须学会自己修改文章，一方面可以与编辑更理性、深入地交换修改意见，而不是单纯依赖自己对文字的直觉，另一方面也能让作者在修改把握文章的走向，确保自己的写作本意没有在修改环节中丢失。&lt;/p&gt;
+&lt;p&gt;其实修改文章并没有什么新鲜的招数，完全可以看作对文章写作流程的一次「重做」。从修改所涉及的范围，我们建议可以从以下三个层次来对文章进行修改：&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;检查文章主题；&lt;/li&gt;
+    &lt;li&gt;调节行文节奏；&lt;/li&gt;
+    &lt;li&gt;改善语言风格。&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/post/71660&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为付费栏目文章，出自&lt;a href=&quot;https://sspai.com/series/268&quot; target=&quot;_blank&quot;&gt;《给少数派的写作建议》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
+    </details> 
+
+- 🐘 [赛博朋克风再起时，香港霓虹正在消失](https://sspai.com/post/76030) | Sat Oct 22 2022 2:58 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/76030&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派周报 | AI 创作的重重争议](https://sspai.com/prime/story/pi-weekly-014) | Fri Oct 21 2022 2:10 PM 
+- 🤭 [派周报 | AI 创作的重重争议](https://sspai.com/prime/story/pi-weekly-014) | Fri Oct 21 2022 2:10 PM 
     <details><summary>展开描述 ...</summary> 
     我们根据近几个月 AI 创作相关的新闻事件，总结一些该领域目前争议较大的问题，并厘清一些名词和概念的对应关系，以便感兴趣的读者进一步研究和思考，希望能促进以一种审慎但开放的心态看待 AI 创作。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/pi-weekly-014&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🤭 [本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/76363) | Fri Oct 21 2022 9:51 AM 
+- 🥸 [本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/76363) | Fri Oct 21 2022 9:51 AM 
     <details><summary>展开描述 ...</summary> 
     ☕️TL;DR近期佳作推荐：[国产剧]我们这十年、[动画]秋叶原冥途战争、[日剧]为亲爱的我致上杀意、[动画]机动战士高达水星的魔女第一部分、[美剧]良医第六季、[动画]恋爱FLOPS几则精彩预告：《 ...&lt;a href=&quot;https://sspai.com/post/76363&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [直播预告 | 这个周末，我们一起聊聊 Ask Apple、XR 和 Future](https://sspai.com/post/76321) | Fri Oct 21 2022 8:11 AM 
+- 🙉 [直播预告 | 这个周末，我们一起聊聊 Ask Apple、XR 和 Future](https://sspai.com/post/76321) | Fri Oct 21 2022 8:11 AM 
     <details><summary>展开描述 ...</summary> 
     谈谈参与 Ask Apple 的感想与收获，并展望 Apple XR 生态的形态与趋势。&lt;a href=&quot;https://sspai.com/post/76321&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [用「功能性训练」来升级你的训练计划](https://sspai.com/post/76345) | Fri Oct 21 2022 7:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    前段时间刷到了施瓦辛格在五十年前的训练视频，在惊叹施瓦辛格完美身材的同时突然发现，五十年前的训练方式现在仍然被健身房的大多数人所推崇和使用：我们和五十年前一样，用同样的方式进行杠铃弯举，在同样的器械上 ...&lt;a href=&quot;https://sspai.com/post/76345&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
