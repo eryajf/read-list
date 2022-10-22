@@ -448,29 +448,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [NVIDIA重点转向H100显卡 消息称RTX 4090缺货、涨价到明年](https://www.cnbeta.com/articles/tech/1329969.htm) | Sat Oct 22 2022 9:08 AM 
+- 🕯 [Nature刊发华人教授锂电新研究： 充电11分钟续航400公里 只用加一层薄镍箔](https://www.cnbeta.com/articles/science/1329973.htm) | Sat Oct 22 2022 9:52 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;电动汽车电池&lt;strong&gt;快充技术有了重要突破&lt;/strong&gt;！新能源汽车快充时代开拓者之一、宾夕法尼亚大学教授王朝阳及其团队研究出一种新方法，让电池充电速度&lt;strong&gt;“突飞猛进”&lt;/strong&gt;：给普通的电动车电池加薄薄一层镍片后，&lt;strong&gt;仅需 10 分钟左右，就能充电 70%&lt;/strong&gt;。而且这种电池循环寿命高达 2000 次以上：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329973.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [NASA的X-57麦克斯韦全电动飞机完成电池安装与测试工作](https://www.cnbeta.com/articles/tech/1329971.htm) | Sat Oct 22 2022 9:27 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;美国国家航空航天局（NASA）的X-57麦克斯韦全电动飞机已经实现了其首次飞行的另一个关键里程碑，随着两个400磅的锂离子电池组成功安装在飞机机舱内。X-57项目成为该机构第一架全实验性电动飞机，也是美国宇航局开发可持续航空解决方案工作的一个早期部分。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329971.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [NVIDIA重点转向H100显卡 消息称RTX 4090缺货、涨价到明年](https://www.cnbeta.com/articles/tech/1329969.htm) | Sat Oct 22 2022 9:08 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;NVIDIA前几天正式开卖了RTX 4090显卡，这是新一代核弹/卡皇，售价12999元，虽然上市之前被人吐槽价格贵，甚至有破发的迹象，然而上市之后情况完全不一样，不仅没破发，价格也涨起来了。不止是涨价，&lt;strong&gt;首批发售之后RTX 4090显卡的供应情况显然也不乐观，各大品牌的官方旗舰店中普遍是预约中，也就是没货。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329969.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《西游记》白骨精老奶奶演员刘惠明逝世 享年93岁](https://hot.cnbeta.com/articles/movie/1329967.htm) | Sat Oct 22 2022 8:44 AM 
+- 🚀 [《西游记》白骨精老奶奶演员刘惠明逝世 享年93岁](https://hot.cnbeta.com/articles/movie/1329967.htm) | Sat Oct 22 2022 8:44 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;昨日（10月21日），中国电影集团发布讣告，&lt;strong&gt;表演艺术家刘惠明&lt;/strong&gt;因病于10月19日在北京病逝，享年93岁。22日，孙悟空演员六小龄童在微博发文悼念刘惠明，表示：“刘惠明老师曾创造了央视版《西游记》中白骨精变化的老妪等艺术形象，刘老师一路走好。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1329967.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Mozilla Firefox 106.0.1版发布 修复AMD Zen处理器运行下崩溃问题](https://www.cnbeta.com/articles/tech/1329965.htm) | Sat Oct 22 2022 8:42 AM 
+- 🎊 [Mozilla Firefox 106.0.1版发布 修复AMD Zen处理器运行下崩溃问题](https://www.cnbeta.com/articles/tech/1329965.htm) | Sat Oct 22 2022 8:42 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;新版本的Mozilla Firefox浏览器现在可以下载了，不过这次的更新日志只包括了一个修正。106.0.1版本现在可以在所有支持的桌面平台上使用，主要解决了使用AMD Zen 1 CPU的用户遇到的崩溃问题，正如Mozilla在更新日志中所解释的那样。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329965.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [美国多州供水系统中发现“永久化学物质”](https://www.cnbeta.com/articles/tech/1329963.htm) | Sat Oct 22 2022 8:31 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据美国《国会山报》近日报道，美国政府问责局对各州数据的一项最新分析显示，在为6个州约950万人服务的供水系统中发现了“永久化学物质”。美国政府问责局本周发布一份报告称，在伊利诺伊州、马萨诸塞州、新罕布什尔州、新泽西州等6个州的至少18%的供水系统中发现了有毒的全氟和多氟烷基物质，影响约950万人。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329963.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [游戏厂商不发愁 国外免费手游社群会逼迫玩家氪金](https://hot.cnbeta.com/articles/game/1329961.htm) | Sat Oct 22 2022 8:30 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据国外媒体深度报道显示，社交压力可以促使玩家在免费手游中付费氪金。近日国外热门手游《生存国度》 和《权力的游戏：征服》都因为氪金促销广告而面临集体诉讼。这两款游戏面临的诉讼内容都是通过定价建立玩家的“成瘾行为”。但影响玩家的不仅是定价。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1329961.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
