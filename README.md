@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Steam Deck现可显示所有机器组件的品牌和型号](https://hot.cnbeta.com/articles/game/1329845.htm) | Sat Oct 22 2022 1:56 AM 
+- 🕯 [《龙之家族》S1季终集《The Black Queen》提前泄露：HBO大怒](https://hot.cnbeta.com/articles/movie/1329899.htm) | Sat Oct 22 2022 3:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Steam Deck 现在可以向您显示设备中组件的品牌和型号。要使用此新功能，您必须通过设置中的Steam 更新通道选择加入客户端测试版服务。然后，您可以通过依次单击设置、系统和硬件标题下的型号/序列号按钮来访问组件查找视图。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1329845.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;尽管 HBO 定于周日放出《权游》衍生剧《龙之家族》的 S1 季终集，但一些等不及的观众已经通过 torrent 网站看过盗版了。&lt;/strong&gt;该公司一位发言人在接受 Variety 采访时称，本次泄露的来源，可能是 EMEA（欧洲、中东和非洲）的分校合作伙伴，但目前尚不清楚确切的位置。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1329899.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Monoprice推出Monolith MTM百瓦桌面蓝牙aptX HD有源扬声器](https://www.cnbeta.com/articles/tech/1329843.htm) | Sat Oct 22 2022 1:54 AM 
+- 💼 [美国民主党全国委员会起诉谷歌 称垃圾邮件过滤器阻断其竞选邮件](https://www.cnbeta.com/articles/tech/1329897.htm) | Sat Oct 22 2022 3:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;现如今，人们已经习惯了将台式机 / 笔记本电脑作为集中式的媒体中心。追求大型立体声功放、并搭配 CD / DVD 播放器等独立媒体设备的日子，似乎也一去不返。即便如此，还是有一些有较高要求的计算机用户，希望获得更优质的音频体验。&lt;strong&gt;而 Monoprice 新推出的 Monolith MTM 100 Watt 蓝牙 aptX HD 有源扬声器，或许就是一个不错的选择。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329843.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;共和党全国委员会（RNC）已在加利福尼亚州的一家美国地方法院对Google提起诉讼，指控其将竞选邮件放入其数百万用户的垃圾邮件文件夹。Google上个月推出了一项试点计划，以防止竞选邮件被放入垃圾邮件。但美国全国委员会一直在批评该计划，认为它对政治邮件过滤的帮助不够。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329897.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [宁德时代钠离子电池明年将量产 15分钟充电80%](https://www.cnbeta.com/articles/tech/1329841.htm) | Sat Oct 22 2022 1:53 AM 
+- 💂 [SpaceX运送星际飞船原型以堆叠世界上最大的火箭 并在数小时后成功发射星链](https://www.cnbeta.com/articles/science/1329895.htm) | Sat Oct 22 2022 3:42 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，日前宁德时代在一场电话会议上表示，三季度电池系统销量90GWh左右。&lt;strong&gt;同时还透露，公司钠离子电池产业化进展顺利，供应链布局上需要一些时间，已与部分乘用车客户协商，明年将会正式量产。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329841.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据Teslarati报道，&lt;strong&gt;在15个小时内，SpaceX将一艘新的“星际飞船”运到其南得克萨斯州的发射和测试设施，重新堆叠了世界上最大的火箭，将“星链”（Starlink）卫星发射到轨道上&lt;/strong&gt;，并在港口回收了一个重复使用的猎鹰9号助推器。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1329895.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《黑亚当》创下巨石强森个人最好票房成绩](https://hot.cnbeta.com/articles/movie/1329839.htm) | Sat Oct 22 2022 1:53 AM 
+- 🚀 [Jio Platforms推出首款笔记本JioBook 运行基于Android的JioOS](https://www.cnbeta.com/articles/tech/1329893.htm) | Sat Oct 22 2022 3:37 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;巨石强森酝酿了十几年的《黑亚当》终于要与北美地区的观众见面了，周四点映获得760万美元票房成绩。与此相对照，《速激9》点映成绩710万美元，首周票房7000万美元；《沙赞》点映590万美元，首周5350万美元。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1329839.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p style=&quot;text-align: left;&quot;&gt;印度电信巨头 Jio Platforms 正扩大其产品范围，推出了首款笔记本--&lt;a href=&quot;https://www.reliancedigital.in/jiobook-nb2112qb-jioos-octa-core-lte-2gb-lpddr4x-32gb-emmc-hd-1-2-kg-29-46-cm-11-6-inch-/p/492337972&quot; target=&quot;_blank&quot;&gt;JioBook&lt;/a&gt;。这款笔记本并非运行 Windows，也非 ChromeOS，而是基于 Android 的 JioOS 系统，已“针对卓越性能进行了优化”和本地语言支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329893.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [特斯拉Model 2真要来了？马斯克称特斯拉将开发小型电动汽车平台](https://www.cnbeta.com/articles/tech/1329837.htm) | Sat Oct 22 2022 1:46 AM 
+- 🎊 [意法半导体“三箭齐发”扩产，折射欧盟芯片自主“大战略”](https://www.cnbeta.com/articles/tech/1329891.htm) | Sat Oct 22 2022 3:31 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月22日消息，特斯拉首席执行官埃隆·马斯克（Elon Musk）证实，继Model S/X和Model 3/Y之后，该公司接下来将致力于开发生产小型电动汽车的第三个平台，其目标是将新车型的成本降至Model 3或Model Y的一半。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329837.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;意法半导体（STMicroelectronics）本月正式官宣其又一大扩产计划，将在意大利卡塔尼亚（Catania）投资7.3亿欧元建造一条6英寸碳化硅衬底生产线，预计于2023年投产。这也是意法半导体近期继意大利Agrate和法国Crolles的12英寸新线后，宣布的第三项重大扩产计划。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1329891.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
