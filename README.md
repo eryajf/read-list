@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [施工企业项目经理的工作性质、任务和责任](https://juejin.cn/post/7157271435982372871) | Sat Oct 22 2022 9:51 AM 
+- 🤗 [施工企业人力资源管理的任务](https://juejin.cn/post/7157286442404839437) | Sat Oct 22 2022 10:48 AM 
     <details><summary>展开描述 ...</summary> 
-    施工企业项目经理的工作性质、任务和责任 建筑企业项目经理资质管理制度向建造师执业资格过渡的时间定为5年。从2003年至2008年2月27日。 大中型工程项目施工的项目经理必须由取得建造师注册证书的人员 
+    施工企业人力资源管理的任务 资源管理、项目资源管理、人力资源管理、和项目人力资源管理的内涵 资源管理 资源管理包括：人力资源管理、材料管理、机械设备管理、技术管理和资金管理。 项目资源管理 项目资源管 
     </details> 
 
-- 🎡 [腾讯性能监控框架Matrix源码分析（三）TracePlugin  初探](https://juejin.cn/post/7157243057199382541) | Sat Oct 22 2022 7:58 AM 
+- 🎡 [【源码学习】第15期 | 如何检测npm包名的规范性？](https://juejin.cn/post/7157260773415190542) | Sat Oct 22 2022 9:07 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文参加了由公众号@若川视野 发起的每周源码共读活动，点击了解详情一起参与。 第11期 | 尤雨溪几年前写的100多行的玩具 vite 前言     你知道vue-create是如何检测包的规范性的吗 
+    </details> 
+
+- 🕯 [小程序-商城项目搭建（配置tabbar、设计项目的公共样式、项目中引入iconfont图标库、网络请求封装等）](https://juejin.cn/post/7157250565045485598) | Sat Oct 22 2022 8:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    一、创建项目 项目的目录结构： components：存放项目中组件。 lib：存放第三方的一些插件，比如腾讯地图。 pages：存放页面。 request：请求封装的文件 assets：存放静态资源 
+    </details> 
+
+- 🚀 [腾讯性能监控框架Matrix源码分析（三）TracePlugin  初探](https://juejin.cn/post/7157243057199382541) | Sat Oct 22 2022 7:58 AM 
     <details><summary>展开描述 ...</summary> 
     TracePlugin 卡顿分析插件 他可以监听以下情况 监控ANR、 界面流畅性、 启动耗时、 页面切换耗时、 慢函数及卡顿等 这是Matrix最核心的插件之一，原理的实现细节非常值得我们研究学习， 
     </details> 
 
-- 🕯 [Jetpeck从入门到几乎入门（五）](https://juejin.cn/post/7157236756100841509) | Sat Oct 22 2022 7:35 AM 
+- 💪 [【你小子给船长换一个像素马里奥】教你用box-shadow给自己画个NFT像素头像](https://juejin.cn/post/7157241466409418759) | Sat Oct 22 2022 7:55 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 Jetpeck从入门到几乎入门（五） 前言 Jetpack系列： Jetpack从入门到几乎入门（一）  
-    </details> 
-
-- 🚀 [Jetpack从入门到几乎入门（四）](https://juejin.cn/post/7157235971916824590) | Sat Oct 22 2022 7:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    Jetpack从入门到几乎入门（四） 持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第4天，点击查看活动详情 前言 Jetpack系列： Jetpack从入门到几乎入门（一）  
-    </details> 
-
-- 💪 [Android的ANR原理分析](https://juejin.cn/post/7157227625549660174) | Sat Oct 22 2022 7:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    大概 Android的ANR主要有两种方式： 1. 通过handler的延迟机制触发ANR 2. Input事件触发ANR Service、BroadcastReceiver、ContentProvi 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第21天，点击查看活动详情 前言 最近某技术社群里突然开始讨论Web3.0了，聊着聊着就说起NFT也属于Web3.0的产物。现在很 
     </details> 
 <!-- juejin:END -->
 ### 少数派
