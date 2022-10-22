@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [如何使@Value注解支持类似@ConfigurationProperties的功能（@Value支持对象类型）？](https://juejin.cn/post/7157225446206079007) | Sat Oct 22 2022 6:51 AM 
+- 🤗 [简单整理AFNetworking架构知识点](https://juejin.cn/post/7157262713448562695) | Sat Oct 22 2022 9:15 AM 
     <details><summary>展开描述 ...</summary> 
-    不希望配置类注册为Bean 或 不希望声明@ConfigurationProperties 如何使@Value注解支持类似@ConfigurationProperties的功能（@Value支持对象类 
+    AFNetworking整体框架是怎样的 1、UIKit集成模块 UIKit 2、请求序列化 Serialization 3、响应序列化 Serialization 4、会话NSURLSession 
     </details> 
 
-- 🎡 [建设工程目标的动态控制](https://juejin.cn/post/7157218956518883341) | Sat Oct 22 2022 6:25 AM 
+- 🎡 [Luminar Neo 教程，如何在 Luminar Neo 中使用结构工具？](https://juejin.cn/post/7157260694327394317) | Sat Oct 22 2022 9:07 AM 
     <details><summary>展开描述 ...</summary> 
-    建设工程项目目标的动态控制 运用动态控制理论进行项目目标控制有利于项目目标的实现。 项目目标的动态控制是项目管理最基本的方法论。 项目目标动态控制的工作程序 项目目标动态控制的准备工作。将项目目标进行 
+    欢迎观看 Luminar Neo 中文版教程，小编带大家学习 Luminar Neo 的基本工具和使用技巧，了解如何在 Luminar Neo 中使用结构工具。 
     </details> 
 
-- 🕯 [vue3中的$attrs的变化与inheritAttrs的使用](https://juejin.cn/post/7157195220038189087) | Sat Oct 22 2022 4:53 AM 
+- 🕯 [Kafka 认证二：ScramLoginModule 认证及 Java 连接测试](https://juejin.cn/post/7157251649851883556) | Sat Oct 22 2022 8:32 AM 
     <details><summary>展开描述 ...</summary> 
-    在vue3中的$attrs的变化 在vue2中的$attrs 父组件的属性直接渲染在根节点上 父页面.vue 子组件.vue 如何让父组件的属性渲染在指定的节点上 发现问题-根节点和指定节点都别渲染了 
+    承接上篇，继续 Kafka 的简单帐号密码认证的 SASL/SCRAM 认证方式这里会多增加一步密钥注册到 Zookeeper 的操作。 
     </details> 
 
-- 🚀 [MySQL基础-多表查询](https://juejin.cn/post/7157192589555269645) | Sat Oct 22 2022 4:42 AM 
+- 🚀 [从零到一搭建ELK日志，在Docker环境下部署 Filebeat 日志收集工具](https://juejin.cn/post/7157248311500472333) | Sat Oct 22 2022 8:20 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第22天点击查看活动详情 SET NULL 在进行测试之前，我们先需要删除上面建立的外键 fk_emp_dept_id。然后再通过 
+    最近在玩 ELK 日志平台，它是 Elastic 公司推出的一整套日志收集、分析和展示的解决方案。 只有学习了，操作了才能算真正的学会使用了，虽然看起来简单，但是里面的流程步骤还是很多的，将步骤记录。 
     </details> 
 
-- 💪 [详解：Linux 是如何收发网络包的？](https://juejin.cn/post/7157188308219478023) | Sat Oct 22 2022 4:32 AM 
+- 💪 [三个MySQL查询容易踩的坑](https://juejin.cn/post/7157243973310873608) | Sat Oct 22 2022 8:03 AM 
     <details><summary>展开描述 ...</summary> 
-    Linux 系统是如何收发网络包的？ 首先要了解网络模型。 网络模型 为了使得多种设备能通过网络相互通信 
+    在使用MySQL的过程中，相比大家都踩过不少坑，下面我将列举日常生活中比较高频的三个”坑“，也欢迎大家踊跃分享自己的心路历程 🙃！ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
