@@ -792,29 +792,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [我们或许发现了大脑在执行量子计算的信号](http://jandan.net/p/111510) | Fri Oct 21 2022 3:57 PM 
+- 🚀 [今日好价 1022](http://jandan.net/p/111514) | Sat Oct 22 2022 3:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    今日带货商品数量：48 
+    </details> 
+
+- 🙉 [我们或许发现了大脑在执行量子计算的信号](http://jandan.net/p/111510) | Fri Oct 21 2022 3:57 PM 
     <details><summary>展开描述 ...</summary> 
     谁还不是个量子计算机不是 
     </details> 
 
-- 🙉 [高强度、高专注的连续工作后，我们的脑皮层以及决策方式会有何变化](http://jandan.net/p/111511) | Fri Oct 21 2022 12:48 PM 
+- 🎉 [高强度、高专注的连续工作后，我们的脑皮层以及决策方式会有何变化](http://jandan.net/p/111511) | Fri Oct 21 2022 12:48 PM 
     <details><summary>展开描述 ...</summary> 
     若你必须在漫长的一天结束时做出艰难的决定，请注意，你十有八九会倾向于采取省力的方案并追求短期回报。 
     </details> 
 
-- 🎉 [之前被指用情趣用品作弊的国际象棋大师，发起了诽谤诉讼](http://jandan.net/p/111513) | Fri Oct 21 2022 10:02 AM 
+- 🐲 [之前被指用情趣用品作弊的国际象棋大师，发起了诽谤诉讼](http://jandan.net/p/111513) | Fri Oct 21 2022 10:02 AM 
     <details><summary>展开描述 ...</summary> 
     emmm 
     </details> 
 
-- 🐲 [今日好价 1021](http://jandan.net/p/111512) | Fri Oct 21 2022 3:23 AM 
+-  [今日好价 1021](http://jandan.net/p/111512) | Fri Oct 21 2022 3:23 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：47 
-    </details> 
-
--  [或许，找到了失传的喜帕恰斯星表——已知最早的天文星象图](http://jandan.net/p/111508) | Thu Oct 20 2022 9:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    zsbd 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
