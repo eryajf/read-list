@@ -448,29 +448,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [磁带非但没被淘汰 容量还比硬盘大了？](https://www.cnbeta.com/articles/tech/1330113.htm) | Sun Oct 23 2022 7:17 AM 
+- 🕯 [男子玩无人机无意发现火灾 用最后一点电量记录着火点](https://www.cnbeta.com/articles/tech/1330115.htm) | Sun Oct 23 2022 7:43 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;近日，安徽六安。一网友用无人机航拍时，无意发现一处树林发生了火灾。而火源不远处还有厂房，一旦没有及时控制并灭火，可能造成很大的损失。他立马拨打119报警，并用无人机最后的电量记录下了着火点位置，给消防员提供了坐标位置，为灭火工作带来了帮助。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330115.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [磁带非但没被淘汰 容量还比硬盘大了？](https://www.cnbeta.com/articles/tech/1330113.htm) | Sun Oct 23 2022 7:17 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;580TB数据能存一盘磁带上？没扯淡，这是已经实现的事。IBM和富士胶片一项技术突破显示，他们已找到方法将单盒磁带容量提升到580TB。这大约等同于12万张DVD存储量，放256GB的SD存储卡上，能装满2320张。该数字一举刷新了磁带存储密度的世界纪录，且相关研究已发表于《IEEE磁学汇刊》。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330113.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [大众的“软件癌”，谁也治不好](https://www.cnbeta.com/articles/tech/1330111.htm) | Sun Oct 23 2022 7:16 AM 
+- 💂 [大众的“软件癌”，谁也治不好](https://www.cnbeta.com/articles/tech/1330111.htm) | Sun Oct 23 2022 7:16 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;来自嘉兴桐乡的江先生最近在开车这件事上，不怎么顺心。去年4月份，他花21万多元买了一台火爆全欧洲，被誉为真·特斯拉Model3杀手，由德国大众倾力打造的纯电车ID.4的国产版上汽大众ID.4 X。随后，一段糟心之旅由此拉开帷幕。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330111.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [红牛创始人马特希茨去世 享年78岁](https://www.cnbeta.com/articles/tech/1330109.htm) | Sun Oct 23 2022 7:08 AM 
+- 🚀 [红牛创始人马特希茨去世 享年78岁](https://www.cnbeta.com/articles/tech/1330109.htm) | Sun Oct 23 2022 7:08 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;10月23日消息，据媒体报道，&lt;strong&gt;红牛公司创始人迪特里希·马特希茨，于2022年10月22日去世，享年78岁。&lt;/strong&gt;F1世界锦标赛官方发文表示：“这位红牛联合创始人为F1做出了不可磨灭的贡献，留下了不朽的遗产。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330109.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [使用“最高级”等广告用语 吉利销售公司被罚60万](https://www.cnbeta.com/articles/tech/1330107.htm) | Sun Oct 23 2022 7:06 AM 
+- 🎊 [使用“最高级”等广告用语 吉利销售公司被罚60万](https://www.cnbeta.com/articles/tech/1330107.htm) | Sun Oct 23 2022 7:06 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;因违反广告法被罚的不止吉利。随着车市竞争加剧，车企在广告宣传方面越来越卷，一不留神就可能违反广告法。近期，宁波杭州湾新区吉利汽车销售有限公司因在发布的广告中，使用“国家级”“最高级”“最佳”等用语，被宁波市市场监督管理局作出行政处罚，罚款金额为60万元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330107.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [日本柔道奥运金牌选手分享经验引热议 解答玩游戏的意义](https://hot.cnbeta.com/articles/game/1330105.htm) | Sun Oct 23 2022 6:13 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;喜欢玩游戏的老玩家们估计小时候都会被父母或亲戚质问过天天玩游戏将来干什么，实际上这个“灵魂发问”早已经是困扰无数玩家的难题，10月22日，日本柔道奥运金牌选手分享成功经验时，意外的解答了这个问题，引发网友玩家们热议。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1330105.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
