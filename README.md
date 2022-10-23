@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [字符串方法汇总（全面）](https://juejin.cn/post/7157646640122167327) | Sun Oct 23 2022 10:07 AM 
+- 🤗 [【第26题】console的异步性怎么理解？](https://juejin.cn/post/7157658612725350413) | Sun Oct 23 2022 10:52 AM 
     <details><summary>展开描述 ...</summary> 
-    lastIndexOf&lpar;&rpar;方法对大小写敏感，如果子字符串没有找到，返回-1。第二个参数表示从哪个下标开始查找，没有写则默认从最后一个字符处开始查找（从后往前找）。indexOf&lpar;&rpar;方法对大小写敏感，如 
+    面试题目&lpar;字节&rpar;： 答案解析： console我一直以为是同步执行的，直到在一本书上看到，才了解到console本身有异步的特性。虽然在平常开发中经常使用console，但是真的没有意识到它的异步性。 
     </details> 
 
-- 🎡 [ESLint 核心概念梳理与常用配置指引](https://juejin.cn/entry/7157645192643182623) | Sun Oct 23 2022 9:59 AM 
+- 🎡 [Golang中的迭代-如何在Go中循环数据结构](https://juejin.cn/post/7157651221375877134) | Sun Oct 23 2022 10:25 AM 
     <details><summary>展开描述 ...</summary> 
-    ESLint 基于规则对代码进行约束，或抛出问题和警告，或提供一键修复功能。其繁荣的社区生态提供了众多优秀的预设配置方案，我们可以引用这些优秀方案，并加以修改，快速定制出一份团队或个人的专属配置。 
+    数组是存储类似类型数据的强大数据结构。您可以通过索引识别和访问其中的元素。 在Golang中，您可以通过在0初始化变量i并增加变量直到它达到数组的长度，使用`for`循环循环数组。 
     </details> 
 
-- 🕯 [如何快速修改接口返回的数据和HTTP状态码？](https://juejin.cn/post/7157639682111586341) | Sun Oct 23 2022 9:39 AM 
+- 🕯 [离职交接，心态要好](https://juejin.cn/post/7157651258046677029) | Sun Oct 23 2022 10:23 AM 
     <details><summary>展开描述 ...</summary> 
-    对于我们 WEB 开发来说，时不时需要验证一些接口的边界情况，这时经常遇到的场景是：修改后端接口返回的数据或者HTTP状态码。今天介绍两个比较快捷的工具解决这个场景。 
+    年度中再次经历突发的交接事宜，并且团队要在极短的时间内完成所有事项的交接流程，最直接的就是影响团队现有节奏进度，需要重新调整和规划； 
     </details> 
 
-- 🚀 [Android性能优化 -- 启动优化](https://juejin.cn/post/7157636444389900319) | Sun Oct 23 2022 9:27 AM 
+- 🚀 [Vue实现电商网站商品放大镜效果](https://juejin.cn/post/7157648653509722149) | Sun Oct 23 2022 10:16 AM 
     <details><summary>展开描述 ...</summary> 
-    Android启动优化处理，从用户体验出发完成黑白屏优化处理，解决白屏问题；从启动耗时角度出发，提供排查问题的方案，引申出图论算法处理 
+    效果图 各部分代码 HTML部分 CSS部分 js部分 总结 放大镜功能的核心实现思路就是两张图，一大一小，计算光标预览区域左上角的坐标，然后根据两张图所在div的对应宽高比，等比反方向移动大图，溢出 
     </details> 
 
-- 💪 [pnpm+changesets来管理monorepos项目](https://juejin.cn/post/7157634070615162893) | Sun Oct 23 2022 9:17 AM 
+- 💪 [k8s&lpar;kubernetes&rpar; 使用leader election实现选举](https://juejin.cn/post/7157648925078323207) | Sun Oct 23 2022 10:15 AM 
     <details><summary>展开描述 ...</summary> 
-    准备工作 全局安装pnpm 安装changesets 初始化 创建项目 指定packages范围 创建pnpm-workspace.yaml,并添加如下内容： 添加package 在packages目 
+    本文主要是介绍，如何利用k8s提供的Lease资源实现选举（选主）保证业务的高可用，并且详细介绍了底层的实现机制。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
