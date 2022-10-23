@@ -448,29 +448,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [NVIDIA害惨游戏党？他们才是被老黄坑怕的人](https://www.cnbeta.com/articles/tech/1330171.htm) | Sun Oct 23 2022 3:01 PM 
+- 🕯 [苹果、亚马逊、微软、麦当劳……美股巨头迎来超级财报周](https://www.cnbeta.com/articles/tech/1330175.htm) | Sun Oct 23 2022 3:45 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据FactSet的数据显示，近三分之一的标准普尔500指数公司（即161家公司）将在未来一周公布收益。这些公司的财报数据能够让投资者更好地了解企业在应对通胀削弱消费者支出、持续的供应链挑战和美元走强时的表现。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330175.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [Steam在线人数突破3000万 创历史新高](https://hot.cnbeta.com/articles/game/1330173.htm) | Sun Oct 23 2022 3:44 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;据Steam数据网站提供的数据显示，今日Steam在线峰值人数突破3000万人，创造历史新高。其中《反恐精英：全球攻势》、《DOTA2》和《绝地求生》分别占据前三。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1330173.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [NVIDIA害惨游戏党？他们才是被老黄坑怕的人](https://www.cnbeta.com/articles/tech/1330171.htm) | Sun Oct 23 2022 3:01 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;看着最近老黄发布的 RTX 40&amp;nbsp;系显卡，等等党好像还是没有迎来曙光。你看看，已经有不少网友在网上给 AMD 提建议，让他们搞快点，早点干掉 NVIDIA 了。过去几年，游戏佬的日子真的是挺折磨的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330171.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [630W：玩家解锁RTX 4090极限功耗](https://www.cnbeta.com/articles/tech/1330169.htm) | Sun Oct 23 2022 3:00 PM 
+- 🚀 [630W：玩家解锁RTX 4090极限功耗](https://www.cnbeta.com/articles/tech/1330169.htm) | Sun Oct 23 2022 3:00 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;RTX 4090显卡默认最大功耗450W，实际游戏中并没这么高，但它有着极大的“潜力”。非公版几乎无一例外解锁了更高功耗，有的保守一些500W左右，还有的冲到了600W，比如NVIDIA FE公版、华硕ROG STRIX、技嘉GAMING。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330169.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [内置​Apple Silicon的Mac Pro加紧测试中 新MacBook Pro和Mac Mini数月内推出](https://www.cnbeta.com/articles/tech/1330167.htm) | Sun Oct 23 2022 2:59 PM 
+- 🎊 [内置​Apple Silicon的Mac Pro加紧测试中 新MacBook Pro和Mac Mini数月内推出](https://www.cnbeta.com/articles/tech/1330167.htm) | Sun Oct 23 2022 2:59 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;据彭博社记者Mark Gurman报道，苹果公司正计划在未来几个月内推出几款新的Mac，包括新的MacBook Pro、Mac mini和Mac Pro型号。&lt;/strong&gt;在他最新的&amp;quot;Power On&amp;quot;通讯中，Gurman说，苹果正在继续开发第一款Apple SiliconMac Pro，据说该公司在内部加紧了对该设备的测试。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330167.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [《原神》3.2版本PV公布 11月2日上线](https://hot.cnbeta.com/articles/game/1330165.htm) | Sun Oct 23 2022 2:52 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;《原神》宣布V3.2版「虚空鼓动，劫火高扬」将于11月2日上线，今日公布了全新PV，让我们一起欣赏一下。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;《原神》3.2版本PV：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1330165.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [全国铁路营业里程15.3万公里 20万人口以上城市覆盖99％](https://www.cnbeta.com/articles/tech/1330163.htm) | Sun Oct 23 2022 12:52 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最新官方数据显示，&lt;strong&gt;截至2022年9月底，我国全国铁路营业里程已达15.3万公里，99％的20万人口以上城市都已被铁路网覆盖！&lt;/strong&gt;早在今年第一季度末，&lt;strong&gt;我国高铁运营总里程已经超过4万公里&lt;/strong&gt;，铁连接起来可以绕赤道一周。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330163.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
