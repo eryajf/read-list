@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Flutter 动画剖析&lpar;二&rpar; 自定义补间动画&amp;绘制](https://juejin.cn/post/7157625135690678286) | Sun Oct 23 2022 8:42 AM 
+- 🤗 [字符串方法汇总（全面）](https://juejin.cn/post/7157646640122167327) | Sun Oct 23 2022 10:07 AM 
     <details><summary>展开描述 ...</summary> 
-    上一篇文章分析了Flutter动画的使用方法以及常见的动画效果，这次我们结合绘制来分析下如何在绘制中使用自定义补间动画，像一些比较炫酷的加载loading效果 
+    lastIndexOf&lpar;&rpar;方法对大小写敏感，如果子字符串没有找到，返回-1。第二个参数表示从哪个下标开始查找，没有写则默认从最后一个字符处开始查找（从后往前找）。indexOf&lpar;&rpar;方法对大小写敏感，如 
     </details> 
 
-- 🎡 [这一次彻底搞懂，vuex原理](https://juejin.cn/post/7157616962074312734) | Sun Oct 23 2022 8:11 AM 
+- 🎡 [ESLint 核心概念梳理与常用配置指引](https://juejin.cn/entry/7157645192643182623) | Sun Oct 23 2022 9:59 AM 
     <details><summary>展开描述 ...</summary> 
-    从零实现一个vuex，具备state，getters，mutations，actons功能，步步拆解，深入了解其实现原理！ 
+    ESLint 基于规则对代码进行约束，或抛出问题和警告，或提供一键修复功能。其繁荣的社区生态提供了众多优秀的预设配置方案，我们可以引用这些优秀方案，并加以修改，快速定制出一份团队或个人的专属配置。 
     </details> 
 
-- 🕯 [巧用GitHub Action实现自动化部署Java项目](https://juejin.cn/post/7157615737303990302) | Sun Oct 23 2022 8:05 AM 
+- 🕯 [如何快速修改接口返回的数据和HTTP状态码？](https://juejin.cn/post/7157639682111586341) | Sun Oct 23 2022 9:39 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 前言 我在前几天写了篇文章，是说如何使用GitLab CICD实现项目的自动化部署到指定的Web服务器中，没看过的小伙伴可以去看看：你是个成熟的项目了，该学会自动构建自动 
+    对于我们 WEB 开发来说，时不时需要验证一些接口的边界情况，这时经常遇到的场景是：修改后端接口返回的数据或者HTTP状态码。今天介绍两个比较快捷的工具解决这个场景。 
     </details> 
 
-- 🚀 [Spring Cache 整合 Redis 做缓存使用~ 快速上手~](https://juejin.cn/post/7157609002606526494) | Sun Oct 23 2022 7:40 AM 
+- 🚀 [Android性能优化 -- 启动优化](https://juejin.cn/post/7157636444389900319) | Sun Oct 23 2022 9:27 AM 
     <details><summary>展开描述 ...</summary> 
-    前三篇文章说了那么那么多，但是我们在使用缓存的场景中，大都数还是会采用了类似 Spring Cache 的缓存管理器来做，说原因其实也没啥，因为项目中并不是所有的业务对数据有那么强的数据一致性。 
+    Android启动优化处理，从用户体验出发完成黑白屏优化处理，解决白屏问题；从启动耗时角度出发，提供排查问题的方案，引申出图论算法处理 
     </details> 
 
-- 💪 [Eureka源码10-Server端&lpar;处理全量下载和增量下载请求&rpar;](https://juejin.cn/post/7157604129878048799) | Sun Oct 23 2022 7:22 AM 
+- 💪 [pnpm+changesets来管理monorepos项目](https://juejin.cn/post/7157634070615162893) | Sun Oct 23 2022 9:17 AM 
     <details><summary>展开描述 ...</summary> 
-    EurekaServer处理全量下载和增量下载请求，重点分析了三级缓存readWriteCacheMap和readOnlyCacheMap的使用 
+    准备工作 全局安装pnpm 安装changesets 初始化 创建项目 指定packages范围 创建pnpm-workspace.yaml,并添加如下内容： 添加package 在packages目 
     </details> 
 <!-- juejin:END -->
 ### 少数派
