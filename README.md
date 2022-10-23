@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android Binder 原理换个姿势就顿悟了&lpar;图文版&rpar;](https://juejin.cn/post/7157710923547803655) | Sun Oct 23 2022 2:16 PM 
+- 🤗 [webpack 模块热替换](https://juejin.cn/post/7157733252151640100) | Sun Oct 23 2022 3:41 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 Binder机制可谓是Android 知识体系里的重中之重，作为偏底层的基础组件，平时我们很少关注它，而它却是无处不在，也是Android 面试易考察的点之一。网上很多文章，要么知识点比较陈旧， 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第22天，点击查看活动详情 webpack 模块热替换 
     </details> 
 
-- 🎡 [前端脚手架搭建-12](https://juejin.cn/post/7157709622596337695) | Sun Oct 23 2022 2:09 PM 
+- 🎡 [TypeScript中 Typeof 运算符的 5 个非常有用的技巧！](https://juejin.cn/post/7157721216869105672) | Sun Oct 23 2022 2:55 PM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第23天，点击查看活动详情 初始化项目 1.创建项目 2.创建入口文件 3.编写命令 4.本地软链 检查Node版本 1.新建li 
+    在 JavaScript 中，你可以通过操作符获取变量的类型typeof，那么你知道typeofTypeScript 中使用的是什么操作符吗？在本文中，我将介绍 typeof 运算符的 5 个常见应用 
     </details> 
 
-- 🕯 [flutter技巧](https://juejin.cn/post/7157708894276419620) | Sun Oct 23 2022 2:06 PM 
+- 🕯 [字节跳动后端面经（14）](https://juejin.cn/post/7157720345732972574) | Sun Oct 23 2022 2:50 PM 
     <details><summary>展开描述 ...</summary> 
-    Row里面使用ListView时，页面不显示的原因是 flutter切换 flutter问题： 1、flutter出现`git: fatal: unable to access &#39;https://gi 
+    redis中zset怎么实现限流 哈希表是否是线程安全的，如何保证线程安全 当哈希表比较多时，加锁效 
     </details> 
 
-- 🚀 [冬奥会智能分析与预测可视化平台-随机森林预测国家奖牌（四）](https://juejin.cn/post/7157706991010316319) | Sun Oct 23 2022 2:00 PM 
+- 🚀 [Java语言中的异常处理](https://juejin.cn/post/7157718760999092232) | Sun Oct 23 2022 2:44 PM 
     <details><summary>展开描述 ...</summary> 
-    本项目对于下届冬奥会各个国家获得奖牌的预测是重点难点,经过翻阅大量的资料与阅读各种预测的论文之后,最终选择使用随机森林方法去预测下届冬奥会各国家获得的金牌、银牌和铜牌,在预测过程中,我们考虑了9种因素 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第22天，点击查看活动详情 异常处理 在java语言中，很机智的将异常作为对象来处理，而且定义一个基类java.lang.Thro 
     </details> 
 
-- 💪 [分享5个可能用得上的JavaScript 库](https://juejin.cn/post/7157705610601955358) | Sun Oct 23 2022 1:55 PM 
+- 💪 [js常用技巧汇总](https://juejin.cn/post/7157718362238222373) | Sun Oct 23 2022 2:44 PM 
     <details><summary>展开描述 ...</summary> 
-    在项目开发中，当有一个现成的库可以完成的事情，可以先大概看下其实现，然后再决定是否使用，依赖库可以是项目开发的催化剂，直接使用或者借鉴编码。本来分享 5 个可能用得上的 JavaScript 库。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第1天，点击查看活动详情 获取当前日期的周一、周末的日期 根据当前时间获取当月的1号和最后一号 判断文件上传的类型 
     </details> 
 <!-- juejin:END -->
 ### 少数派
