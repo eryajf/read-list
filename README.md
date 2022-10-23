@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有什么工具可以批量检测 VtwoRAY 有效性？](https://www.v2ex.com/t/889157#reply4) | Sun Oct 23 2022 10:39 AM
-- 🤗 [想买 Google Pixel 4 XL 64GB, 求打醒](https://www.v2ex.com/t/889149#reply14) | Sun Oct 23 2022 10:00 AM
-- 🎭 [docker 起了个 geth 节点, 请问有基于图形的管理界面程序推荐吗?](https://www.v2ex.com/t/889147#reply1) | Sun Oct 23 2022 9:51 AM
-- 🥷 [各大厂商云服务器的 WebShell 有速度限制吗？](https://www.v2ex.com/t/889146#reply10) | Sun Oct 23 2022 9:32 AM
-- 🐵 [有哪些开源的 im?](https://www.v2ex.com/t/889145#reply1) | Sun Oct 23 2022 9:29 AM<!-- v2ex:END -->
+- 🥸 [plex 或 infuse 字幕激发 HDR 求解](https://www.v2ex.com/t/889183#reply0) | Sun Oct 23 2022 12:58 PM
+- 🤗 [有什么工具可以批量检测 VtwoRAY 有效性？](https://www.v2ex.com/t/889157#reply4) | Sun Oct 23 2022 10:39 AM
+- 🎭 [想买 Google Pixel 4 XL 64GB, 求打醒](https://www.v2ex.com/t/889149#reply18) | Sun Oct 23 2022 10:00 AM
+- 🥷 [docker 起了个 geth 节点, 请问有基于图形的管理界面程序推荐吗?](https://www.v2ex.com/t/889147#reply1) | Sun Oct 23 2022 9:51 AM
+- 🐵 [各大厂商云服务器的 WebShell 有速度限制吗？](https://www.v2ex.com/t/889146#reply12) | Sun Oct 23 2022 9:32 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
