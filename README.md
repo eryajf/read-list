@@ -448,29 +448,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [DOTA2 TI11：LGD不敌茶队 结束狮城之旅](https://hot.cnbeta.com/articles/game/1330157.htm) | Sun Oct 23 2022 12:40 PM 
+- 🕯 [全国铁路营业里程15.3万公里 20万人口以上城市覆盖99％](https://www.cnbeta.com/articles/tech/1330163.htm) | Sun Oct 23 2022 12:52 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;最新官方数据显示，&lt;strong&gt;截至2022年9月底，我国全国铁路营业里程已达15.3万公里，99％的20万人口以上城市都已被铁路网覆盖！&lt;/strong&gt;早在今年第一季度末，&lt;strong&gt;我国高铁运营总里程已经超过4万公里&lt;/strong&gt;，铁连接起来可以绕赤道一周。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330163.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [基因编辑的蝴蝶突变体揭示了古代&quot;垃圾&quot;DNA的秘密](https://www.cnbeta.com/articles/science/1330161.htm) | Sun Oct 23 2022 12:51 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;一项新的研究解释了位于基因之间的DNA--被称为&amp;quot;垃圾&amp;quot;DNA或非编码调节DNA--是如何容纳一个保存了数千万至数亿年的基本计划的，同时又允许翅膀模式极快地进化。&amp;quot;蝴蝶翅膀图案基本计划的深层顺式调控同源性&amp;quot;作为封面故事发表在10月21日的《科学》杂志上。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330161.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [梦天实验舱将于本月发射 中国空间站建造进入收官阶段](https://www.cnbeta.com/articles/science/1330159.htm) | Sun Oct 23 2022 12:45 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;按照中国空间站建造计划，梦天实验舱将于本月实施发射，目前，工程各系统正展开各项测试准备工作，确保中国空间站建造任务如期完成。这几天，神舟十四号飞行乘组对空间站组合体进行精心维护和照料，为迎接梦天实验舱的到访做好准备，目前，乘组已在轨驻留超过4个月，身心状态良好。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330159.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [DOTA2 TI11：LGD不敌茶队 结束狮城之旅](https://hot.cnbeta.com/articles/game/1330157.htm) | Sun Oct 23 2022 12:40 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;DOTA2 TI11淘汰赛，败者组上演中国战队内战：LGD vs 茶队（Team Aster），状态不佳的LGD被2:0淘汰出局，结束了狮城之旅。而茶队则晋级TI11四强，他们将在10月29日迎战TA/液体的胜者，届时TI11也将转入更大的场馆新加坡室内体育馆举行。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1330157.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [英特尔第13代移动酷睿系列将包含i7-13620H和i5-13420H型号](https://www.cnbeta.com/articles/tech/1330155.htm) | Sun Oct 23 2022 11:46 AM 
+- 🎊 [英特尔第13代移动酷睿系列将包含i7-13620H和i5-13420H型号](https://www.cnbeta.com/articles/tech/1330155.htm) | Sun Oct 23 2022 11:46 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;硬件泄密者@momomo_us称，英特尔将再推出两款移动13代酷睿CPU。英特尔确认，猛禽湖移动CPU将在今年年底前上市。看起来英特尔至少在准备四款新的移动CPU，其中两款是已知的。根据以前的报告，英特尔正在为笔记本电脑开发酷睿i9-13900HK和i7-13700H部件。这些预计是高端游戏SKU，都具有14个核心和20个线程。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330155.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [独作论文登数学顶刊 浙大校友再被提起](https://www.cnbeta.com/articles/tech/1330153.htm) | Sun Oct 23 2022 11:43 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;最近，华科副研究员以独作身份投中数学顶刊的消息，震惊国内数学圈。毕竟 Acta Mathematica 号称是世界上最难投中的数学期刊之一，能拿下此成就的动辄都是院士级人物……不过，纵览中国现代数学史就会发现，郇真的故事并非个例。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330153.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [EVGA一怒之下不做NVIDIA显卡 但软件团队依然不离不弃](https://www.cnbeta.com/articles/tech/1330151.htm) | Sun Oct 23 2022 11:39 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;两个月前，在北美显卡市场有着不可动摇地位的EVGA，因为不满NVIDIA给予的利润日益稀薄，一怒之下宣布退出显卡市场，老黄道歉也不肯回头。RTX 40系列发布之后，EVGA也一直沉默着，没有任何新动作。不过有趣的是，&lt;strong&gt;EVGA旗下显卡检测超频工具Precision X1 1.3.7新版中，却加入了对RTX 4090的支持。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330151.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [每天净赚1个亿，宁德时代还是很焦虑](https://www.cnbeta.com/articles/tech/1330149.htm) | Sun Oct 23 2022 11:38 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;平均每天净赚1个亿的“宁王”，也有自己的焦虑。&lt;/strong&gt;10月21日，宁德时代（300750.SZ）发布2022年三季报。报告期内，宁德时代营业收入973.7亿元，同比大增232.5%，归属于上市公司股东的净利润94.2亿元，同比增长188.42%。这相当于在第三季度，宁德时代平均每天都净赚1亿元人民币。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330149.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
