@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [重学Android基础系列篇（二）：泛型](https://juejin.cn/post/7157702365993238564) | Sun Oct 23 2022 1:42 PM 
+- 🤗 [Android Binder 原理换个姿势就顿悟了&lpar;图文版&rpar;](https://juejin.cn/post/7157710923547803655) | Sun Oct 23 2022 2:16 PM 
     <details><summary>展开描述 ...</summary> 
-    本系列文章主要是汇总了一下大佬们的技术文章，属于Android基础部分，作为一名合格的安卓开发工程师，咱们肯定要熟练掌握java和android，本期就来说说这些~ 
+    前言 Binder机制可谓是Android 知识体系里的重中之重，作为偏底层的基础组件，平时我们很少关注它，而它却是无处不在，也是Android 面试易考察的点之一。网上很多文章，要么知识点比较陈旧， 
     </details> 
 
-- 🎡 [盘点 SpringIOC : BeanDefinition 的加载流程](https://juejin.cn/post/7157695463415087140) | Sun Oct 23 2022 1:15 PM 
+- 🎡 [前端脚手架搭建-12](https://juejin.cn/post/7157709622596337695) | Sun Oct 23 2022 2:09 PM 
     <details><summary>展开描述 ...</summary> 
-    一 . 前言 这一篇来看看 SpringIOC 里面的一个细节点 , 来简单看看 BeanDefinition 这个对象 , 以及有没有办法对其进行定制. 二. BeanDefinition 的体系  
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第23天，点击查看活动详情 初始化项目 1.创建项目 2.创建入口文件 3.编写命令 4.本地软链 检查Node版本 1.新建li 
     </details> 
 
-- 🕯 [只需百来行代码，为你的Web页面增加本地文件操作能力，确定不试试吗？](https://juejin.cn/post/7157681502506090510) | Sun Oct 23 2022 12:20 PM 
+- 🕯 [flutter技巧](https://juejin.cn/post/7157708894276419620) | Sun Oct 23 2022 2:06 PM 
     <details><summary>展开描述 ...</summary> 
-    笔者开源了一个Web思维导图，数据默认是存储在localstorage里，如果想保存到本地文件，需要使用导出功能，下次打开再使用导入功能，编辑完如果又想保存到文件，那么又需要从重新导出覆盖原来的文件 
+    Row里面使用ListView时，页面不显示的原因是 flutter切换 flutter问题： 1、flutter出现`git: fatal: unable to access &#39;https://gi 
     </details> 
 
-- 🚀 [Golang底层原理解析（1）——String这玩意有啥可说的](https://juejin.cn/post/7157672604084469768) | Sun Oct 23 2022 11:46 AM 
+- 🚀 [冬奥会智能分析与预测可视化平台-随机森林预测国家奖牌（四）](https://juejin.cn/post/7157706991010316319) | Sun Oct 23 2022 2:00 PM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第16天，点击查看活动详情 生命不息，学习不止 题外话 本人因为种种原因（说来听听），放弃大学学的java，走上了golang这条 
+    本项目对于下届冬奥会各个国家获得奖牌的预测是重点难点,经过翻阅大量的资料与阅读各种预测的论文之后,最终选择使用随机森林方法去预测下届冬奥会各国家获得的金牌、银牌和铜牌,在预测过程中,我们考虑了9种因素 
     </details> 
 
-- 💪 [使用NTS理解细粒度图像分类](https://juejin.cn/post/7157664382711758884) | Sun Oct 23 2022 11:15 AM 
+- 💪 [分享5个可能用得上的JavaScript 库](https://juejin.cn/post/7157705610601955358) | Sun Oct 23 2022 1:55 PM 
     <details><summary>展开描述 ...</summary> 
-    我们知道，视觉分类任务指创建一个模型来捕获从输入图像到相应输出类的关系。然而，FGVC的任务和普通的分类不太一样，因为类内差异比类间差异更多。 
+    在项目开发中，当有一个现成的库可以完成的事情，可以先大概看下其实现，然后再决定是否使用，依赖库可以是项目开发的催化剂，直接使用或者借鉴编码。本来分享 5 个可能用得上的 JavaScript 库。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
