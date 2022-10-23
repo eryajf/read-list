@@ -448,29 +448,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [日本柔道奥运金牌选手分享经验引热议 解答玩游戏的意义](https://hot.cnbeta.com/articles/game/1330105.htm) | Sun Oct 23 2022 6:13 AM 
+- 🕯 [磁带非但没被淘汰 容量还比硬盘大了？](https://www.cnbeta.com/articles/tech/1330113.htm) | Sun Oct 23 2022 7:17 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;580TB数据能存一盘磁带上？没扯淡，这是已经实现的事。IBM和富士胶片一项技术突破显示，他们已找到方法将单盒磁带容量提升到580TB。这大约等同于12万张DVD存储量，放256GB的SD存储卡上，能装满2320张。该数字一举刷新了磁带存储密度的世界纪录，且相关研究已发表于《IEEE磁学汇刊》。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330113.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [大众的“软件癌”，谁也治不好](https://www.cnbeta.com/articles/tech/1330111.htm) | Sun Oct 23 2022 7:16 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;来自嘉兴桐乡的江先生最近在开车这件事上，不怎么顺心。去年4月份，他花21万多元买了一台火爆全欧洲，被誉为真·特斯拉Model3杀手，由德国大众倾力打造的纯电车ID.4的国产版上汽大众ID.4 X。随后，一段糟心之旅由此拉开帷幕。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330111.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [红牛创始人马特希茨去世 享年78岁](https://www.cnbeta.com/articles/tech/1330109.htm) | Sun Oct 23 2022 7:08 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;10月23日消息，据媒体报道，&lt;strong&gt;红牛公司创始人迪特里希·马特希茨，于2022年10月22日去世，享年78岁。&lt;/strong&gt;F1世界锦标赛官方发文表示：“这位红牛联合创始人为F1做出了不可磨灭的贡献，留下了不朽的遗产。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330109.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [使用“最高级”等广告用语 吉利销售公司被罚60万](https://www.cnbeta.com/articles/tech/1330107.htm) | Sun Oct 23 2022 7:06 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;因违反广告法被罚的不止吉利。随着车市竞争加剧，车企在广告宣传方面越来越卷，一不留神就可能违反广告法。近期，宁波杭州湾新区吉利汽车销售有限公司因在发布的广告中，使用“国家级”“最高级”“最佳”等用语，被宁波市市场监督管理局作出行政处罚，罚款金额为60万元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330107.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [日本柔道奥运金牌选手分享经验引热议 解答玩游戏的意义](https://hot.cnbeta.com/articles/game/1330105.htm) | Sun Oct 23 2022 6:13 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;喜欢玩游戏的老玩家们估计小时候都会被父母或亲戚质问过天天玩游戏将来干什么，实际上这个“灵魂发问”早已经是困扰无数玩家的难题，10月22日，日本柔道奥运金牌选手分享成功经验时，意外的解答了这个问题，引发网友玩家们热议。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1330105.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [罗永浩、俞敏洪入淘，大主播跨平台带货成新趋势](https://www.cnbeta.com/articles/tech/1330103.htm) | Sun Oct 23 2022 6:12 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;双十一即将来临之际，抖音两大主播高调宣布入淘。10月20日，罗永浩确认入驻淘宝直播，将于天猫双十一预售首日（即10月24日）晚进行首播。同日，钛媒体App获悉，俞敏洪正积极为双11备课，将于10月31日晚现身“新东方迅程教育专营店”淘宝直播间。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330103.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [TI11淘汰赛LGD 2-1击败BC 让一追二挺进下一轮](https://hot.cnbeta.com/articles/game/1330101.htm) | Sun Oct 23 2022 6:09 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在刚刚结束的TI败者组BO3的比赛中，PSG.LGD 2-1 BC有惊无险获胜，挺近下一轮。决胜局LGD前期优势但一波团有点上头，执着于击杀BC影魔，被晕三个送出团灭，陷入劣势。而后两队有来有回，但PSG.LGD萧瑟大哥斯温多次暴力输出，三刀一个小朋友稳住局势。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1330101.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [iPad 2021价格跳水：256GB 2999元 比官网便宜800元](https://www.cnbeta.com/articles/tech/1330099.htm) | Sun Oct 23 2022 6:09 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果全新iPad 2022、iPad Pro 2022平板电脑目前已开启预售，将于10月26日正式发售。在新一代iPad发布后，苹果还悄悄调高了多款老iPad的售价，&lt;strong&gt;其中iPad 2021 64GB苹果官网售价2599元起、256GB售价3799元起。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330099.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [宁德时代签下美国储能大单 项目总投资额近87亿元](https://www.cnbeta.com/articles/tech/1330097.htm) | Sun Oct 23 2022 6:08 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，宁德时代宣布与美国公用事业和分布式光伏+储能开发运营商Primergy Solar LLC达成协议，为Gemini光伏+储能项目独家供应电池。资料显示，Gemini项目位于内华达州拉斯维加斯附近，总投资达12亿美元（约为87亿元）。&lt;strong&gt;Gemini部署了690 MWac/966 MWdc太阳能电池板和1.416GWh储能系统，项目完成后，将成为美国最大的光伏储能项目之一。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330097.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
