@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [webpack 模块热替换](https://juejin.cn/post/7157733252151640100) | Sun Oct 23 2022 3:41 PM 
+- 🤗 [mysql间隙锁实战，记录一次有意思的线上问题](https://juejin.cn/post/7157837275278409759) | Sun Oct 23 2022 10:36 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 在记录这次线上问题之前，我们先来回顾一些基础知识。 数据库系统的锁 数据库系统使用锁是为... 
+    </details> 
+
+- 🎡 [webpack 模块热替换](https://juejin.cn/post/7157733252151640100) | Sun Oct 23 2022 3:41 PM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第22天，点击查看活动详情 webpack 模块热替换 
     </details> 
 
-- 🎡 [TypeScript中 Typeof 运算符的 5 个非常有用的技巧！](https://juejin.cn/post/7157721216869105672) | Sun Oct 23 2022 2:55 PM 
+- 🕯 [TypeScript中 Typeof 运算符的 5 个非常有用的技巧！](https://juejin.cn/post/7157721216869105672) | Sun Oct 23 2022 2:55 PM 
     <details><summary>展开描述 ...</summary> 
     在 JavaScript 中，你可以通过操作符获取变量的类型typeof，那么你知道typeofTypeScript 中使用的是什么操作符吗？在本文中，我将介绍 typeof 运算符的 5 个常见应用 
     </details> 
 
-- 🕯 [字节跳动后端面经（14）](https://juejin.cn/post/7157720345732972574) | Sun Oct 23 2022 2:50 PM 
+- 🚀 [字节跳动后端面经（14）](https://juejin.cn/post/7157720345732972574) | Sun Oct 23 2022 2:50 PM 
     <details><summary>展开描述 ...</summary> 
     redis中zset怎么实现限流 哈希表是否是线程安全的，如何保证线程安全 当哈希表比较多时，加锁效 
     </details> 
 
-- 🚀 [Java语言中的异常处理](https://juejin.cn/post/7157718760999092232) | Sun Oct 23 2022 2:44 PM 
+- 💪 [Java语言中的异常处理](https://juejin.cn/post/7157718760999092232) | Sun Oct 23 2022 2:44 PM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第22天，点击查看活动详情 异常处理 在java语言中，很机智的将异常作为对象来处理，而且定义一个基类java.lang.Thro 
-    </details> 
-
-- 💪 [js常用技巧汇总](https://juejin.cn/post/7157718362238222373) | Sun Oct 23 2022 2:44 PM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第1天，点击查看活动详情 获取当前日期的周一、周末的日期 根据当前时间获取当月的1号和最后一号 判断文件上传的类型 
     </details> 
 <!-- juejin:END -->
 ### 少数派
