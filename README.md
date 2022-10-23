@@ -448,29 +448,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [又一业务关停 搜狗科学百科将于11月11日停止运营](https://www.cnbeta.com/articles/tech/1330091.htm) | Sun Oct 23 2022 5:41 AM 
+- 🕯 [日本柔道奥运金牌选手分享经验引热议 解答玩游戏的意义](https://hot.cnbeta.com/articles/game/1330105.htm) | Sun Oct 23 2022 6:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;2020年10月，搜狗推出了搜狗科学百科，该产品以“打造科学领域最专业的百科”为目标，&lt;strong&gt;编纂者大部分来自985、211高校和学术机构，博士学历占比近6成。&lt;/strong&gt;但两年后的现在，这一主打专业、可靠、严谨的百科平台，却迎来了一个出人预料的结局。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330091.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;喜欢玩游戏的老玩家们估计小时候都会被父母或亲戚质问过天天玩游戏将来干什么，实际上这个“灵魂发问”早已经是困扰无数玩家的难题，10月22日，日本柔道奥运金牌选手分享成功经验时，意外的解答了这个问题，引发网友玩家们热议。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1330105.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [索尼独占游戏登陆PC战略受挫：《神秘海域》Steam首发在线人数创新低](https://hot.cnbeta.com/articles/game/1330089.htm) | Sun Oct 23 2022 5:41 AM 
+- 💼 [罗永浩、俞敏洪入淘，大主播跨平台带货成新趋势](https://www.cnbeta.com/articles/tech/1330103.htm) | Sun Oct 23 2022 6:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在先后将《地平线：零之曙光》《战神》等多款PS4独占游戏搬上PC，并获得了不错的成绩后，&lt;strong&gt;“独占游戏移植PC”俨然已经成为了索尼在PS5时代的战略核心之一。&lt;/strong&gt;但近日发售的《神秘海域：盗贼遗产合集》却说明，这种将老游戏重新卖一遍的行为，玩家并不会每次都买账。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1330089.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;双十一即将来临之际，抖音两大主播高调宣布入淘。10月20日，罗永浩确认入驻淘宝直播，将于天猫双十一预售首日（即10月24日）晚进行首播。同日，钛媒体App获悉，俞敏洪正积极为双11备课，将于10月31日晚现身“新东方迅程教育专营店”淘宝直播间。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330103.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [国际刑警组织建立元宇宙总部 关注在虚拟现实中组织和实施犯罪](https://www.cnbeta.com/articles/tech/1330087.htm) | Sun Oct 23 2022 5:39 AM 
+- 💂 [TI11淘汰赛LGD 2-1击败BC 让一追二挺进下一轮](https://hot.cnbeta.com/articles/game/1330101.htm) | Sun Oct 23 2022 6:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国际刑警组织本周为世界各地的警察队伍展示其元宇宙团队，同时表示将不会容忍无法无天的虚拟世界。我们被告知，国际刑警组织的元宇宙已经&amp;quot;全面运作&amp;quot;，相关资料可从国际警察部队的云服务中获得。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330087.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在刚刚结束的TI败者组BO3的比赛中，PSG.LGD 2-1 BC有惊无险获胜，挺近下一轮。决胜局LGD前期优势但一波团有点上头，执着于击杀BC影魔，被晕三个送出团灭，陷入劣势。而后两队有来有回，但PSG.LGD萧瑟大哥斯温多次暴力输出，三刀一个小朋友稳住局势。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1330101.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [研究发现食用甲烷的“博格”一直在同化地球上的微生物](https://www.cnbeta.com/articles/science/1330085.htm) | Sun Oct 23 2022 4:22 AM 
+- 🚀 [iPad 2021价格跳水：256GB 2999元 比官网便宜800元](https://www.cnbeta.com/articles/tech/1330099.htm) | Sun Oct 23 2022 6:09 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在《星际迷航》中，博格人&lpar;Borg&rpar;是一个冷酷无情的、具有蜂巢意识的集体，他们同化其他生物目的是为了接管银河系。在非虚构的地球上，博格人是可以帮助人类对抗气候变化的DNA包。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330085.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果全新iPad 2022、iPad Pro 2022平板电脑目前已开启预售，将于10月26日正式发售。在新一代iPad发布后，苹果还悄悄调高了多款老iPad的售价，&lt;strong&gt;其中iPad 2021 64GB苹果官网售价2599元起、256GB售价3799元起。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330099.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [4.39亿年前的牙齿化石颠覆了人们长期以来对进化的看法](https://www.cnbeta.com/articles/science/1330083.htm) | Sun Oct 23 2022 3:46 AM 
+- 🎊 [宁德时代签下美国储能大单 项目总投资额近87亿元](https://www.cnbeta.com/articles/tech/1330097.htm) | Sun Oct 23 2022 6:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;罕见的中国化石牙齿改变了科学家对脊椎动物进化的信念。一个国际科学家团队发现了可以追溯到4.39亿年前的有齿鱼遗骸，这表明现代软骨鱼类和骨鱼类的祖先比以前认为的要早得多。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330083.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;近日，宁德时代宣布与美国公用事业和分布式光伏+储能开发运营商Primergy Solar LLC达成协议，为Gemini光伏+储能项目独家供应电池。资料显示，Gemini项目位于内华达州拉斯维加斯附近，总投资达12亿美元（约为87亿元）。&lt;strong&gt;Gemini部署了690 MWac/966 MWdc太阳能电池板和1.416GWh储能系统，项目完成后，将成为美国最大的光伏储能项目之一。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330097.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
