@@ -104,11 +104,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [科技爱好者周刊（第 227 期）：脸书的公司入职教育](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html) | Fri Oct 21 2022 12:03 AM
-- 💪 [科技爱好者周刊（第 226 期）：谷歌出了什么问题？](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html) | Fri Oct 14 2022 12:18 AM
-- 🐎 [科技爱好者周刊（第 225 期）：NPC 演员也是一种职业](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html) | Fri Sep 30 2022 12:28 AM
-- 🤔 [科技爱好者周刊（第 224 期）：Figma 为什么赢了 Sketch](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-224.html) | Fri Sep 23 2022 12:22 AM
-- 🧠 [科技爱好者周刊（第 223 期）：程序员需要担心裁员吗？](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-223.html) | Fri Sep 16 2022 12:16 AM<!-- ruanyf:END -->
+- 🌊 [最简单的 Git 服务器](http://www.ruanyifeng.com/blog/2022/10/git-server.html) | Sun Oct 23 2022 12:19 PM
+- 💪 [科技爱好者周刊（第 227 期）：脸书的公司入职教育](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html) | Fri Oct 21 2022 12:03 AM
+- 🐎 [科技爱好者周刊（第 226 期）：谷歌出了什么问题？](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html) | Fri Oct 14 2022 12:18 AM
+- 🤔 [科技爱好者周刊（第 225 期）：NPC 演员也是一种职业](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html) | Fri Sep 30 2022 12:28 AM
+- 🧠 [科技爱好者周刊（第 224 期）：Figma 为什么赢了 Sketch](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-224.html) | Fri Sep 23 2022 12:22 AM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
