@@ -801,29 +801,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [为什么有些人特别招蚊子？](http://jandan.net/p/111520) | Sun Oct 23 2022 10:17 AM 
+- 🚀 [假笑效应：假笑可以唤起真正的快乐情绪吗](http://jandan.net/p/111521) | Sun Oct 23 2022 10:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    zsbd 
+    </details> 
+
+- 🙉 [欧洲核子研究组织CERN，把高能物理实验的尖端技术应用于癌症治疗](http://jandan.net/p/111519) | Sun Oct 23 2022 10:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    处理以前致命但难以触及的肿瘤。 
+    </details> 
+
+- 🎉 [为什么有些人特别招蚊子？](http://jandan.net/p/111520) | Sun Oct 23 2022 10:17 AM 
     <details><summary>展开描述 ...</summary> 
     招蚊子的特性会伴随你一辈子。 
     </details> 
 
-- 🙉 [今日好价 1023](http://jandan.net/p/111518) | Sun Oct 23 2022 3:44 AM 
+- 🐲 [今日好价 1023](http://jandan.net/p/111518) | Sun Oct 23 2022 3:44 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：41 
     </details> 
 
-- 🎉 [地中海饮食不会降低老年痴呆的风险](http://jandan.net/p/111517) | Sat Oct 22 2022 2:37 PM 
+-  [地中海饮食不会降低老年痴呆的风险](http://jandan.net/p/111517) | Sat Oct 22 2022 2:37 PM 
     <details><summary>展开描述 ...</summary> 
     瑞典一项为期 20 年的研究 
-    </details> 
-
-- 🐲 [首次单独培育出可被成功移植的毛囊组织](http://jandan.net/p/111516) | Sat Oct 22 2022 6:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    这项研究可以帮助治疗脱发，并为动物试验和药物筛选提供替代模型。 
-    </details> 
-
--  [雷暴电场下的植物，叶尖会放电，并制造大量可清洁空气的自由基](http://jandan.net/p/111515) | Sat Oct 22 2022 5:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    对空气质量具有高度不可预测的影响。 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
