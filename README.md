@@ -448,29 +448,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [男子玩无人机无意发现火灾 用最后一点电量记录着火点](https://www.cnbeta.com/articles/tech/1330115.htm) | Sun Oct 23 2022 7:43 AM 
+- 🕯 [印度成功发射搭载36个OneWeb卫星的火箭](https://www.cnbeta.com/articles/tech/1330135.htm) | Sun Oct 23 2022 9:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;近日，安徽六安。一网友用无人机航拍时，无意发现一处树林发生了火灾。而火源不远处还有厂房，一旦没有及时控制并灭火，可能造成很大的损失。他立马拨打119报警，并用无人机最后的电量记录下了着火点位置，给消防员提供了坐标位置，为灭火工作带来了帮助。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330115.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;印度成功发射一枚搭载了36个商业卫星的火箭。印度太空研究组织周日凌晨在南部发射场，成功发射自行研发的运载三型火箭；火箭搭载着36个英国初创企业OneWeb的私人网络卫星。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330135.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [磁带非但没被淘汰 容量还比硬盘大了？](https://www.cnbeta.com/articles/tech/1330113.htm) | Sun Oct 23 2022 7:17 AM 
+- 💼 [蔚来称换电站辐射低于一部手机 安全可靠性有保障](https://www.cnbeta.com/articles/tech/1330133.htm) | Sun Oct 23 2022 9:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;580TB数据能存一盘磁带上？没扯淡，这是已经实现的事。IBM和富士胶片一项技术突破显示，他们已找到方法将单盒磁带容量提升到580TB。这大约等同于12万张DVD存储量，放256GB的SD存储卡上，能装满2320张。该数字一举刷新了磁带存储密度的世界纪录，且相关研究已发表于《IEEE磁学汇刊》。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330113.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;新能源的换电模式，蔚来布局得颇早。在带给车主方便的同时，有担心辐射等问题，对此，蔚来&lt;a class=&quot;f14_link&quot; href=&quot;https://weibo.com/5675889356/MbDFkrK1a&quot; target=&quot;_blank&quot;&gt;官方做出回应&lt;/a&gt;。据悉，换电站外壳采用了防穿透性阻隔能力更强的铝合金板材，能吸收和屏蔽98%以上的电磁辐射。换电站在给电池全负荷充电作业时，这些电池对外传导的电磁辐射功率也不会超过-25dBm（分贝毫瓦）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330133.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [大众的“软件癌”，谁也治不好](https://www.cnbeta.com/articles/tech/1330111.htm) | Sun Oct 23 2022 7:16 AM 
+- 💂 [卫星视角：大坝倒塌后 南非城镇被采矿废物所覆盖](https://www.cnbeta.com/articles/science/1330131.htm) | Sun Oct 23 2022 9:15 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;来自嘉兴桐乡的江先生最近在开车这件事上，不怎么顺心。去年4月份，他花21万多元买了一台火爆全欧洲，被誉为真·特斯拉Model3杀手，由德国大众倾力打造的纯电车ID.4的国产版上汽大众ID.4 X。随后，一段糟心之旅由此拉开帷幕。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330111.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在一个尾矿大坝倒塌近一个月后，南非矿业城镇Jagersfontein和附近的水系统仍然被泥泞的碎片所覆盖。2022年9月11日，在南非Jagersfontein一个钻石矿的一个大坝倒塌了，释放出大量采矿废物的水混合物。淤泥流过地表，淹没了河流和牧地，摧毁了房屋，并造成数十人受伤。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330131.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [红牛创始人马特希茨去世 享年78岁](https://www.cnbeta.com/articles/tech/1330109.htm) | Sun Oct 23 2022 7:08 AM 
+- 🚀 [《哈利·波特》海格饰演者死因揭晓：多器官衰竭等](https://hot.cnbeta.com/articles/movie/1330129.htm) | Sun Oct 23 2022 9:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月23日消息，据媒体报道，&lt;strong&gt;红牛公司创始人迪特里希·马特希茨，于2022年10月22日去世，享年78岁。&lt;/strong&gt;F1世界锦标赛官方发文表示：“这位红牛联合创始人为F1做出了不可磨灭的贡献，留下了不朽的遗产。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330109.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据多家英国媒体报道，《哈利·波特》海格饰演者罗彼·考特拉尼离世原因揭晓，因多器官衰竭等多种疾病而不幸去世。据悉，他身体不适已有一段时间，并且还在与糖尿病和肥胖症作斗争，其它疾病还包括败血症，感染引发了全身的极端反应，下呼吸道感染和心传导阻滞。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1330129.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [使用“最高级”等广告用语 吉利销售公司被罚60万](https://www.cnbeta.com/articles/tech/1330107.htm) | Sun Oct 23 2022 7:06 AM 
+- 🎊 [小米发布奥特曼定制版手表：799元 支持微信、QQ](https://www.cnbeta.com/articles/tech/1330127.htm) | Sun Oct 23 2022 9:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;因违反广告法被罚的不止吉利。随着车市竞争加剧，车企在广告宣传方面越来越卷，一不留神就可能违反广告法。近期，宁波杭州湾新区吉利汽车销售有限公司因在发布的广告中，使用“国家级”“最高级”“最佳”等用语，被宁波市市场监督管理局作出行政处罚，罚款金额为60万元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330107.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;10月23日，小米发布了米兔儿童电话手表奥特曼版，预售价799元，参与预售还送小爱随身音箱。&lt;/strong&gt;米兔儿童电话手表奥特曼版融入了赛罗奥特曼的元素，孩子做出赛罗专属变身动作及技能，就能触发手表特效。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330127.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
