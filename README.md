@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [运维可以找到国外 remote 工作吗?](https://www.v2ex.com/t/889223#reply0) | Sun Oct 23 2022 6:22 PM
-- 🤗 [中科大测速被玩坏了？](https://www.v2ex.com/t/889220#reply8) | Sun Oct 23 2022 4:26 PM
-- 🎭 [Google 相册上传重复的照片咋办？](https://www.v2ex.com/t/889214#reply0) | Sun Oct 23 2022 3:34 PM
-- 🥷 [求推荐好用的触摸板掌托](https://www.v2ex.com/t/889210#reply1) | Sun Oct 23 2022 3:17 PM
-- 🐵 [GOOGLE 400 错误 怎么解决？](https://www.v2ex.com/t/889203#reply0) | Sun Oct 23 2022 2:33 PM<!-- v2ex:END -->
+- 🥸 [同事使用 MasterGo 做了十几个小时的工作全部丢失](https://www.v2ex.com/t/889227#reply1) | Sun Oct 23 2022 8:08 PM
+- 🤗 [运维可以找到国外 remote 工作吗?](https://www.v2ex.com/t/889223#reply1) | Sun Oct 23 2022 6:22 PM
+- 🎭 [中科大测速被玩坏了？](https://www.v2ex.com/t/889220#reply8) | Sun Oct 23 2022 4:26 PM
+- 🥷 [Google 相册上传重复的照片咋办？](https://www.v2ex.com/t/889214#reply0) | Sun Oct 23 2022 3:34 PM
+- 🐵 [求推荐好用的触摸板掌托](https://www.v2ex.com/t/889210#reply1) | Sun Oct 23 2022 3:17 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
