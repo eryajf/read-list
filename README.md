@@ -448,29 +448,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [50英寸电视不到1000元可购 彩电为何价格越跌越卖不动？](https://www.cnbeta.com/articles/tech/1330059.htm) | Sun Oct 23 2022 1:59 AM 
+- 🕯 [研究发现食用甲烷的“博格”一直在同化地球上的微生物](https://www.cnbeta.com/articles/science/1330085.htm) | Sun Oct 23 2022 4:22 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;75英寸电视3220元、85英寸电视5829元、98英寸电视14999元……临近双十一，不少网友在电商平台上看到，很多32-50英寸的电视一台不到千元就能买到，大尺寸电视也越来越便宜。目前，彩电市场出现了&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;价格、销量均走低，但产量仍出现增加&lt;/span&gt;&lt;/span&gt;的现象。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330059.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在《星际迷航》中，博格人&lpar;Borg&rpar;是一个冷酷无情的、具有蜂巢意识的集体，他们同化其他生物目的是为了接管银河系。在非虚构的地球上，博格人是可以帮助人类对抗气候变化的DNA包。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330085.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [库迪咖啡首店落地福州 瑞幸咖啡创始人陆正耀杀回咖啡赛道](https://www.cnbeta.com/articles/tech/1330057.htm) | Sun Oct 23 2022 1:57 AM 
+- 💼 [4.39亿年前的牙齿化石颠覆了人们长期以来对进化的看法](https://www.cnbeta.com/articles/science/1330083.htm) | Sun Oct 23 2022 3:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在经历了一系列并不算成功的尝试后，瑞幸咖啡创始人陆正耀回到了四年前被他亲手炒热的咖啡赛道，这次他还能复刻曾经的成功吗？据每日经济新闻报道，10月22日，陆正耀以及前瑞幸咖啡CEO钱治亚在朋友圈同时宣布，库迪咖啡（COTTI COFFEE）首店落地福州IFC。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330057.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;罕见的中国化石牙齿改变了科学家对脊椎动物进化的信念。一个国际科学家团队发现了可以追溯到4.39亿年前的有齿鱼遗骸，这表明现代软骨鱼类和骨鱼类的祖先比以前认为的要早得多。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330083.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [亚洲最大重型自航绞吸船天鲲号现身  140米的造岛神器](https://www.cnbeta.com/articles/tech/1330055.htm) | Sun Oct 23 2022 1:56 AM 
+- 💂 [Web3“中老年明星俱乐部”喜提周星驰](https://www.cnbeta.com/articles/tech/1330081.htm) | Sun Oct 23 2022 3:21 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月23日消息，近日，亚洲最大重型自航绞吸船“天鲲号”完成全部设备调试及工前准备工作，&lt;strong&gt;正式投入连云港港赣榆港区10万吨级航道南延伸段一期工程建设。&lt;/strong&gt;据了解，&lt;strong&gt;“天鲲号”是我国自主设计建造的目前亚洲最大、最先进，也是目前世界上智能化水平最高的重型自航绞吸船。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330055.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;又一位明星迈进Web3。近日，周星驰的身影出现在社交平台Instagram上，一共两张照片，一张是周星驰在白板前写着“请人”二字，另一张是招人启事，人才要求：熟悉Web3、有项目管理经验、有头脑又宅心仁厚。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330081.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [单车能源成本暴涨十几倍 大众汽车考虑将欧洲生产线外迁](https://www.cnbeta.com/articles/tech/1330053.htm) | Sun Oct 23 2022 1:54 AM 
+- 🚀 [俄国家航天集团：“球体”卫星群首颗卫星已被送入轨道](https://www.cnbeta.com/articles/science/1330079.htm) | Sun Oct 23 2022 3:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日前，有汽车机构发布报告称，欧洲能源危机导致欧洲汽车行业面临巨大的能源成本压力，加之冬季来临前的能源使用限制或致使汽车工厂停产。报告中指出，&lt;strong&gt;欧洲汽车能源成本已从能源危机前的每辆50欧元上涨至687（约人民币4800元）-773欧元，&lt;/strong&gt;而整个汽车行业供应链中，需要使用大量能源，尤其是金属结构的压制和焊接等，因此汽车供应商面临极大压力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330053.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;俄罗斯国家航天集团新闻处向记者表示，“球体”卫星群首颗卫星“斯基泰人-D”（Skif-D），以及三颗“信使-M”通信卫星已被送入预定轨道，这些卫星从东方航天发射场使用“联盟-2.1b”号火箭发射。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330079.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [罗永浩和淘宝直播交起朋友 李佳琦去抖音带货还会远吗？](https://www.cnbeta.com/articles/tech/1330051.htm) | Sun Oct 23 2022 1:54 AM 
+- 🎊 [海天添加剂风波后 零添加酱油卖得火了吗](https://www.cnbeta.com/articles/tech/1330077.htm) | Sun Oct 23 2022 3:20 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;短暂退网后，前“抖音一哥”罗永浩将重回直播间，只不过这次是来淘宝直播交新朋友。10月20日，交个朋友官微和罗永浩本人确认将在淘宝直播开播，并于下午4点进行了预热直播。10月24日，罗永浩将开启淘宝直播首秀。据悉，罗永浩此次是打头阵，交个朋友未来将长期入驻淘宝直播。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330051.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;海天酱油“双标”事件已经过去半个多月，近日，第一财经记者从经销商、线上线下零售渠道、大型餐企采购和家庭消费端了解到，整体来说，无论是B端还是C端，对于零添加酱油的需求短期内并没有特别明显的提升，且零添加酱油的市占率目前还处于低位。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330077.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
