@@ -365,7 +365,7 @@
 
 <!-- v2ex:START -->
 - 🥸 [运维可以找到国外 remote 工作吗?](https://www.v2ex.com/t/889223#reply0) | Sun Oct 23 2022 6:22 PM
-- 🤗 [中科大测速被玩坏了？](https://www.v2ex.com/t/889220#reply4) | Sun Oct 23 2022 4:26 PM
+- 🤗 [中科大测速被玩坏了？](https://www.v2ex.com/t/889220#reply8) | Sun Oct 23 2022 4:26 PM
 - 🎭 [Google 相册上传重复的照片咋办？](https://www.v2ex.com/t/889214#reply0) | Sun Oct 23 2022 3:34 PM
 - 🥷 [求推荐好用的触摸板掌托](https://www.v2ex.com/t/889210#reply1) | Sun Oct 23 2022 3:17 PM
 - 🐵 [GOOGLE 400 错误 怎么解决？](https://www.v2ex.com/t/889203#reply0) | Sun Oct 23 2022 2:33 PM<!-- v2ex:END -->
