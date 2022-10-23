@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [中科大测速被玩坏了？](https://www.v2ex.com/t/889220#reply1) | Sun Oct 23 2022 4:26 PM
+- 🥸 [中科大测速被玩坏了？](https://www.v2ex.com/t/889220#reply4) | Sun Oct 23 2022 4:26 PM
 - 🤗 [Google 相册上传重复的照片咋办？](https://www.v2ex.com/t/889214#reply0) | Sun Oct 23 2022 3:34 PM
-- 🎭 [求推荐好用的触摸板掌托](https://www.v2ex.com/t/889210#reply0) | Sun Oct 23 2022 3:17 PM
+- 🎭 [求推荐好用的触摸板掌托](https://www.v2ex.com/t/889210#reply1) | Sun Oct 23 2022 3:17 PM
 - 🥷 [GOOGLE 400 错误 怎么解决？](https://www.v2ex.com/t/889203#reply0) | Sun Oct 23 2022 2:33 PM
-- 🐵 [plex 或 infuse 字幕激发 HDR 求解](https://www.v2ex.com/t/889183#reply7) | Sun Oct 23 2022 12:58 PM<!-- v2ex:END -->
+- 🐵 [plex 或 infuse 字幕激发 HDR 求解](https://www.v2ex.com/t/889183#reply8) | Sun Oct 23 2022 12:58 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
