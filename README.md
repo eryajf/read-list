@@ -448,29 +448,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [物理学家对质子结构异常现象感到疑惑](https://www.cnbeta.com/articles/science/1330009.htm) | Sat Oct 22 2022 5:17 PM 
+- 🕯 [50英寸电视不到1000元可购 彩电为何价格越跌越卖不动？](https://www.cnbeta.com/articles/tech/1330059.htm) | Sun Oct 23 2022 1:59 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;对质子结构在电场中如何变形的精确测量揭示了有关质子数据中一个无法解释的峰值的新细节。核物理学家已经证实，目前对质子结构的描述并不完美。在美国能源部的托马斯-杰斐逊国家加速器设施对质子的电偏振性进行的一项新的精确测量揭示了质子结构探测数据中的一个凸点。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330009.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;75英寸电视3220元、85英寸电视5829元、98英寸电视14999元……临近双十一，不少网友在电商平台上看到，很多32-50英寸的电视一台不到千元就能买到，大尺寸电视也越来越便宜。目前，彩电市场出现了&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;价格、销量均走低，但产量仍出现增加&lt;/span&gt;&lt;/span&gt;的现象。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330059.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [引入对抗性训练可以让人工智能更难被攻击和愚弄](https://www.cnbeta.com/articles/tech/1330007.htm) | Sat Oct 22 2022 5:08 PM 
+- 💼 [库迪咖啡首店落地福州 瑞幸咖啡创始人陆正耀杀回咖啡赛道](https://www.cnbeta.com/articles/tech/1330057.htm) | Sun Oct 23 2022 1:57 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;洛斯阿拉莫斯国家实验室的研究人员开发了一种比较神经网络的新方法，该方法着眼于人工智能的&amp;quot;黑箱&amp;quot;，以帮助研究人员理解神经网络的行为。神经网络可以识别数据集中的模式，并被用于虚拟助手、面部识别系统和自动驾驶汽车等不同的应用中。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330007.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;在经历了一系列并不算成功的尝试后，瑞幸咖啡创始人陆正耀回到了四年前被他亲手炒热的咖啡赛道，这次他还能复刻曾经的成功吗？据每日经济新闻报道，10月22日，陆正耀以及前瑞幸咖啡CEO钱治亚在朋友圈同时宣布，库迪咖啡（COTTI COFFEE）首店落地福州IFC。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330057.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [苹果iPhone14 Pro体验：并不完美，但足够出色](https://www.cnbeta.com/articles/tech/1330005.htm) | Sat Oct 22 2022 3:53 PM 
+- 💂 [亚洲最大重型自航绞吸船天鲲号现身  140米的造岛神器](https://www.cnbeta.com/articles/tech/1330055.htm) | Sun Oct 23 2022 1:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;自从2019年，在iPhone11&amp;nbsp;Pro上引入“Pro”后缀以来，苹果就不断拉开Pro版和标准版的差别，而在最新的iPhone14&amp;nbsp;Pro系列上，Pro更“Pro”了！我们之前已经介绍过iPhone14&amp;nbsp;Pro&amp;nbsp;Max和iPhone14，而今天终于能和大家分享体验近半个月的手机iPhone14&amp;nbsp;Pro手机。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330005.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月23日消息，近日，亚洲最大重型自航绞吸船“天鲲号”完成全部设备调试及工前准备工作，&lt;strong&gt;正式投入连云港港赣榆港区10万吨级航道南延伸段一期工程建设。&lt;/strong&gt;据了解，&lt;strong&gt;“天鲲号”是我国自主设计建造的目前亚洲最大、最先进，也是目前世界上智能化水平最高的重型自航绞吸船。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330055.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [河南小伙菜地里建微型高铁走红 收到别样毕业礼物](https://hot.cnbeta.com/articles/funny/1330003.htm) | Sat Oct 22 2022 3:52 PM 
+- 🚀 [单车能源成本暴涨十几倍 大众汽车考虑将欧洲生产线外迁](https://www.cnbeta.com/articles/tech/1330053.htm) | Sun Oct 23 2022 1:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;三年前，张亚东踏入郑州电力职业技术学院的大门，开启了工业机器人应用技术的学习之旅。那时的他没有想到，三年后的自己会因为“造高铁”，收到一份别样的毕业礼物——在10月14日举行的“出彩河南人”第五届最美大学生颁奖典礼上，他作为10名“最美大学生”之一接受颁奖。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1330003.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;日前，有汽车机构发布报告称，欧洲能源危机导致欧洲汽车行业面临巨大的能源成本压力，加之冬季来临前的能源使用限制或致使汽车工厂停产。报告中指出，&lt;strong&gt;欧洲汽车能源成本已从能源危机前的每辆50欧元上涨至687（约人民币4800元）-773欧元，&lt;/strong&gt;而整个汽车行业供应链中，需要使用大量能源，尤其是金属结构的压制和焊接等，因此汽车供应商面临极大压力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330053.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [美塑料行业推进化学回收 环保组织:治标不治本](https://www.cnbeta.com/articles/tech/1330001.htm) | Sat Oct 22 2022 3:48 PM 
+- 🎊 [罗永浩和淘宝直播交起朋友 李佳琦去抖音带货还会远吗？](https://www.cnbeta.com/articles/tech/1330051.htm) | Sun Oct 23 2022 1:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当地时间10月21日（周五），美国塑料行业表示，最新的化学回收技术将帮助解决海洋与土地的塑料垃圾危机。据介绍，化学回收通常使用加热或化学溶剂将塑料分解成液体和气体，产生类似油的基本化学品混合物。行业领导者说，这种混合物可以被重新制成塑料颗粒，以制造新产品。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330001.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;短暂退网后，前“抖音一哥”罗永浩将重回直播间，只不过这次是来淘宝直播交新朋友。10月20日，交个朋友官微和罗永浩本人确认将在淘宝直播开播，并于下午4点进行了预热直播。10月24日，罗永浩将开启淘宝直播首秀。据悉，罗永浩此次是打头阵，交个朋友未来将长期入驻淘宝直播。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330051.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
