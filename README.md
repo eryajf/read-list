@@ -448,29 +448,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [国际空间站俄方部分使用期延长](https://www.cnbeta.com/articles/science/1330179.htm) | Sun Oct 23 2022 7:38 PM 
+- 🕯 [库克在F1大奖赛终点线缓慢挥动格子旗 网友戏称“老爷爷，冷静点”](https://hot.cnbeta.com/articles/funny/1330201.htm) | Sun Oct 23 2022 11:24 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;俄罗斯副总理兼工业和贸易部长曼图罗夫23日在位于俄远东地区阿穆尔州的东方航天发射场对媒体说，国际空间站俄方部分的使用期限有可能延长至2028年。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330179.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果CEO Tim Cook于当地时间周日在F1美国大奖赛上意外现身，并且以异常缓慢的方式在终点线上挥舞着格子旗。F1美国大奖赛于周日在德克萨斯州奥斯汀的美洲赛道举行。在经过56圈的比赛，库克挥动了格子旗。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1330201.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [中国最强液氧甲烷火箭 蓝箭航天朱雀二号即将首飞](https://www.cnbeta.com/articles/tech/1330177.htm) | Sun Oct 23 2022 5:09 PM 
+- 💼 [Linux 6.1-rc2发布 Torvalds评价称其&quot;非同寻常地大&quot;](https://www.cnbeta.com/articles/tech/1330199.htm) | Sun Oct 23 2022 11:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据报道，&lt;strong&gt;蓝箭航天公司的朱雀二号遥一运载火箭将于2022年12月3日在酒泉卫星发射中心执行首飞发射！&lt;/strong&gt;据悉，&lt;strong&gt;蓝箭航天自主研发的朱雀二号，是中国在研运力最大的液氧甲烷运载火箭产品。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330177.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Linus Torvalds刚刚发布了Linux 6.1-rc2内核，在开始时看似平静的一周过去后，他将其描述为&amp;quot;异常的大&amp;quot;。这是因为Linux 6.1-rc2的容量和代码修改范围最终比平时大得多，一些媒体子系统的功能材料在合并窗口中并没有被拉取出来，由于这些代码原本位于linux-next中，而且被看成是一个Git错误，Linus Torvalds在本周一次完成了这些其余更新。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330199.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [苹果、亚马逊、微软、麦当劳……美股巨头迎来超级财报周](https://www.cnbeta.com/articles/tech/1330175.htm) | Sun Oct 23 2022 3:45 PM 
+- 💂 [罗永浩今日淘宝首播：粉丝超144万 自称直播“四大天王”](https://www.cnbeta.com/articles/tech/1330197.htm) | Sun Oct 23 2022 11:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据FactSet的数据显示，近三分之一的标准普尔500指数公司（即161家公司）将在未来一周公布收益。这些公司的财报数据能够让投资者更好地了解企业在应对通胀削弱消费者支出、持续的供应链挑战和美元走强时的表现。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330175.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;还有不到一个月时间，就要迎来今年“双11”购物季，目前各大电商平台相关预购陆续开展，而直播带货作为网购平台的重要渠道，自然受到了消费者关注。10月23日晚，交个朋友直播间为锤子科技CEO罗永浩的天猫首播预热，当晚，罗永浩也在淘宝平台首次亮相。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330197.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [Steam在线人数突破3000万 创历史新高](https://hot.cnbeta.com/articles/game/1330173.htm) | Sun Oct 23 2022 3:44 PM 
+- 🚀 [苹果iPadOS 16.1今日上线 加入迟到的台前调度功能](https://www.cnbeta.com/articles/tech/1330195.htm) | Sun Oct 23 2022 11:13 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据Steam数据网站提供的数据显示，今日Steam在线峰值人数突破3000万人，创造历史新高。其中《反恐精英：全球攻势》、《DOTA2》和《绝地求生》分别占据前三。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1330173.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月24日消息，据MacRumors报道，苹果确认会在当地时间10月24日推出iPadOS 16.1。作为最新一代iPadOS，&lt;strong&gt;它的核心功能之一是加入了台前调度功能。&lt;/strong&gt;台前调度能自动整理App和窗口，使各任务之间的切换快速而轻松，带来全新的多任务处理体验。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330195.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [NVIDIA害惨游戏党？他们才是被老黄坑怕的人](https://www.cnbeta.com/articles/tech/1330171.htm) | Sun Oct 23 2022 3:01 PM 
+- 🎊 [顽皮狗：现在和将来的游戏 会继续登陆PC](https://hot.cnbeta.com/articles/game/1330193.htm) | Sun Oct 23 2022 11:12 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;看着最近老黄发布的 RTX 40&amp;nbsp;系显卡，等等党好像还是没有迎来曙光。你看看，已经有不少网友在网上给 AMD 提建议，让他们搞快点，早点干掉 NVIDIA 了。过去几年，游戏佬的日子真的是挺折磨的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330171.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;上周顽皮狗在PC上完成了首秀，其作品《神秘海域：盗贼遗产合集》登陆了Steam和Epic，当然今后还会有更多游戏登陆PC。《最后的生还者1》正在移植到PC平台，顽皮狗有意将更多游戏移植到PC。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1330193.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
