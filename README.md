@@ -448,29 +448,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [印度成功发射搭载36个OneWeb卫星的火箭](https://www.cnbeta.com/articles/tech/1330135.htm) | Sun Oct 23 2022 9:18 AM 
+- 🕯 [DOTA2 TI11：LGD不敌茶队 结束狮城之旅](https://hot.cnbeta.com/articles/game/1330157.htm) | Sun Oct 23 2022 12:40 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;印度成功发射一枚搭载了36个商业卫星的火箭。印度太空研究组织周日凌晨在南部发射场，成功发射自行研发的运载三型火箭；火箭搭载着36个英国初创企业OneWeb的私人网络卫星。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330135.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;DOTA2 TI11淘汰赛，败者组上演中国战队内战：LGD vs 茶队（Team Aster），状态不佳的LGD被2:0淘汰出局，结束了狮城之旅。而茶队则晋级TI11四强，他们将在10月29日迎战TA/液体的胜者，届时TI11也将转入更大的场馆新加坡室内体育馆举行。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1330157.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [蔚来称换电站辐射低于一部手机 安全可靠性有保障](https://www.cnbeta.com/articles/tech/1330133.htm) | Sun Oct 23 2022 9:15 AM 
+- 💼 [英特尔第13代移动酷睿系列将包含i7-13620H和i5-13420H型号](https://www.cnbeta.com/articles/tech/1330155.htm) | Sun Oct 23 2022 11:46 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;新能源的换电模式，蔚来布局得颇早。在带给车主方便的同时，有担心辐射等问题，对此，蔚来&lt;a class=&quot;f14_link&quot; href=&quot;https://weibo.com/5675889356/MbDFkrK1a&quot; target=&quot;_blank&quot;&gt;官方做出回应&lt;/a&gt;。据悉，换电站外壳采用了防穿透性阻隔能力更强的铝合金板材，能吸收和屏蔽98%以上的电磁辐射。换电站在给电池全负荷充电作业时，这些电池对外传导的电磁辐射功率也不会超过-25dBm（分贝毫瓦）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330133.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;硬件泄密者@momomo_us称，英特尔将再推出两款移动13代酷睿CPU。英特尔确认，猛禽湖移动CPU将在今年年底前上市。看起来英特尔至少在准备四款新的移动CPU，其中两款是已知的。根据以前的报告，英特尔正在为笔记本电脑开发酷睿i9-13900HK和i7-13700H部件。这些预计是高端游戏SKU，都具有14个核心和20个线程。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330155.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [卫星视角：大坝倒塌后 南非城镇被采矿废物所覆盖](https://www.cnbeta.com/articles/science/1330131.htm) | Sun Oct 23 2022 9:15 AM 
+- 💂 [独作论文登数学顶刊 浙大校友再被提起](https://www.cnbeta.com/articles/tech/1330153.htm) | Sun Oct 23 2022 11:43 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在一个尾矿大坝倒塌近一个月后，南非矿业城镇Jagersfontein和附近的水系统仍然被泥泞的碎片所覆盖。2022年9月11日，在南非Jagersfontein一个钻石矿的一个大坝倒塌了，释放出大量采矿废物的水混合物。淤泥流过地表，淹没了河流和牧地，摧毁了房屋，并造成数十人受伤。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330131.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;最近，华科副研究员以独作身份投中数学顶刊的消息，震惊国内数学圈。毕竟 Acta Mathematica 号称是世界上最难投中的数学期刊之一，能拿下此成就的动辄都是院士级人物……不过，纵览中国现代数学史就会发现，郇真的故事并非个例。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330153.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《哈利·波特》海格饰演者死因揭晓：多器官衰竭等](https://hot.cnbeta.com/articles/movie/1330129.htm) | Sun Oct 23 2022 9:12 AM 
+- 🚀 [EVGA一怒之下不做NVIDIA显卡 但软件团队依然不离不弃](https://www.cnbeta.com/articles/tech/1330151.htm) | Sun Oct 23 2022 11:39 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据多家英国媒体报道，《哈利·波特》海格饰演者罗彼·考特拉尼离世原因揭晓，因多器官衰竭等多种疾病而不幸去世。据悉，他身体不适已有一段时间，并且还在与糖尿病和肥胖症作斗争，其它疾病还包括败血症，感染引发了全身的极端反应，下呼吸道感染和心传导阻滞。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1330129.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;两个月前，在北美显卡市场有着不可动摇地位的EVGA，因为不满NVIDIA给予的利润日益稀薄，一怒之下宣布退出显卡市场，老黄道歉也不肯回头。RTX 40系列发布之后，EVGA也一直沉默着，没有任何新动作。不过有趣的是，&lt;strong&gt;EVGA旗下显卡检测超频工具Precision X1 1.3.7新版中，却加入了对RTX 4090的支持。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330151.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [小米发布奥特曼定制版手表：799元 支持微信、QQ](https://www.cnbeta.com/articles/tech/1330127.htm) | Sun Oct 23 2022 9:12 AM 
+- 🎊 [每天净赚1个亿，宁德时代还是很焦虑](https://www.cnbeta.com/articles/tech/1330149.htm) | Sun Oct 23 2022 11:38 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;10月23日，小米发布了米兔儿童电话手表奥特曼版，预售价799元，参与预售还送小爱随身音箱。&lt;/strong&gt;米兔儿童电话手表奥特曼版融入了赛罗奥特曼的元素，孩子做出赛罗专属变身动作及技能，就能触发手表特效。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330127.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;平均每天净赚1个亿的“宁王”，也有自己的焦虑。&lt;/strong&gt;10月21日，宁德时代（300750.SZ）发布2022年三季报。报告期内，宁德时代营业收入973.7亿元，同比大增232.5%，归属于上市公司股东的净利润94.2亿元，同比增长188.42%。这相当于在第三季度，宁德时代平均每天都净赚1亿元人民币。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330149.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
