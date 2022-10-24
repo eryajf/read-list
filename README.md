@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [微软Surface Pro 9、Laptop 5轻薄本国行首发 顶配1.4万元](https://www.cnbeta.com/articles/tech/1330461.htm) | Mon Oct 24 2022 4:43 PM 
+- 🕯 [iOS 16.1 更新发布：支持iCloud共享图片库，Matter与实时活动](https://www.cnbeta.com/articles/tech/1330467.htm) | Mon Oct 24 2022 7:01 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;苹果公司今天发布了iOS 16.1，这是iOS 16操作系统的第一个重大更新。iOS 16.1是在9月发布的iOS 16的一个多月后推出的。&lt;/strong&gt;苹果的iOS 16更新可以通过进入设置&amp;gt;通用&amp;gt;软件更新，在符合条件的iPhone上无线下载。由于需求量大，更新可能需要几分钟时间才能传到所有用户。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330467.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [watchOS 9.1 更新 改进电池寿命和整合Matter系统](https://www.cnbeta.com/articles/tech/1330465.htm) | Mon Oct 24 2022 6:59 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;苹果公司今天发布了watchOS 9.1，这是9月份推出的watchOS 9操作系统的第一个重大更新。watchOS 9.1已经经历了几轮测试，它伴随着macOS Ventura的发布，以及iOS 16.1和iPadOS 16.1的首次亮相。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330465.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [曾经没人要的“电子废品” 如今它成为年轻人的“心头好”](https://www.cnbeta.com/articles/tech/1330463.htm) | Mon Oct 24 2022 6:41 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;用旧的相机先别扔，有可能会重新流行回来，比如CCD相机。这种以CCD作为感光元件的相机，本已成为“电子垃圾”，但如今靠着这股“复古”潮流，在年轻人中迅速风靡，价格也水涨船高。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330463.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [微软Surface Pro 9、Laptop 5轻薄本国行首发 顶配1.4万元](https://www.cnbeta.com/articles/tech/1330461.htm) | Mon Oct 24 2022 4:43 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;10月12日，微软发布了新一代的Surface Pro 9二合一轻薄本、Laptop 5笔记本及Surface Studio 2+一体机等Surface新品，&lt;a class=&quot;f14_link&quot; href=&quot;https://www.microsoftstore.com.cn/&quot; target=&quot;_blank&quot;&gt;今天开始Surface Pro 9、Laptop 5两款产品首发开卖&lt;/a&gt;，售价7788、7888元起，顶配干到了1.3或者1.4万元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330461.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [玩电子游戏的孩子在大脑功能测试中得分更高](https://www.cnbeta.com/articles/science/1330459.htm) | Mon Oct 24 2022 4:41 PM 
+- 🎊 [玩电子游戏的孩子在大脑功能测试中得分更高](https://www.cnbeta.com/articles/science/1330459.htm) | Mon Oct 24 2022 4:41 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;根据一项针对青少年大脑功能的新研究，玩电子游戏的孩子比不玩的孩子有更好的记忆力和更好的运动技能控制能力。&lt;/strong&gt;视频游戏可能不是造成这些差异的原因--该研究不能说原因是什么--但这些发现为更大的工作提供了依据，表明游戏玩家在一些脑功能测试中表现更好。这为开发能够治疗认知问题的游戏的努力提供了支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330459.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [苹果公司提高了Apple Music、Apple TV+和Apple One等服务的定价](https://www.cnbeta.com/articles/tech/1330457.htm) | Mon Oct 24 2022 4:29 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司今天宣布提高其几项服务的价格，包括Apple Music、Apple TV+以及包括这些服务的Apple One捆绑服务。根据9to5Mac获得的信息，Apple Music对个人用户提价1美元，对家庭计划提价2美元，而Apple TV提价2美元，所有Apple One价格也将相应上涨。调价后的新价格列举如下：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330457.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [2022款ThinkPad P1隐士国行开售 定价17999元起](https://www.cnbeta.com/articles/tech/1330455.htm) | Mon Oct 24 2022 4:00 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;日前，联想2022款ThinkPad P1隐士移动工作站开售，定价17999元起。官方商城可直接购买，电商平台仍处于预售预约阶段。&lt;strong&gt;新品升级了Intel 12代酷睿i9/i7标压处理器，最高可选NVIDIA专业级RTX A5500独显（7424个CUDA，16GB GDDR6，256bit）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330455.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [巴西市场销售着世界上最昂贵的iPad 10和iPad Pro](https://www.cnbeta.com/articles/tech/1330453.htm) | Mon Oct 24 2022 3:58 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;上周，苹果宣布了新的iPad 10和iPad Pro型号。虽然基础型号的平板电脑现在有了重新设计、更多颜色和A14仿生芯片，但苹果将M2处理器作为iPad Pro的主要卖点。如果你打算购买其中一款，一些国家的电子市场需要尽力避免，因为它们特别地贵。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330453.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
