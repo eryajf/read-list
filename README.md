@@ -570,29 +570,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Screegle 2.1.3 屏幕共享工具](https://xclient.info/s/screegle.html) | Wed Oct 19 2022 12:30 AM 
+- 🦏 [iReal Pro 2022.10 编曲软件](https://xclient.info/s/ireal-pro.html) | Mon Oct 24 2022 12:21 AM 
     <details><summary>展开描述 ...</summary> 
-    Screegle是Mac电脑上的一款专业屏幕共享工具，可让您在干净的桌面背景图像上共享您想要的任何窗口。您还可以录制带有语音的 Screegle 窗口视频，功能强大。 
+    iReal Pro是一款应用在mac平台上的乐谱编曲软件，它拥有强大的乐谱风格伴奏功能。 
     </details> 
 
--  [PatterNodes 3.1.0 重复图形模式动画插画制作工具](https://xclient.info/s/patternodes.html) | Wed Oct 19 2022 12:29 AM 
+-  [Snagit 2022.2.2 强大的截屏软件](https://xclient.info/s/snagit.html) | Mon Oct 24 2022 12:20 AM 
     <details><summary>展开描述 ...</summary> 
-    PatterNodes主要用于参数图形和插图，能轻松帮助用户创建图形模式，可以将进行颜色、间距、缩放、旋转等调整，支持导出多种格式的位图和矢量图。 
+    Snagit Mac版是一款很好用的系统截屏工具，你可以使用此工具轻松抓取图像、文本和影音等多种内容形式，内置强大编辑器，捕捉、编辑一步到位。 
     </details> 
 
-- ⚗️ [PowerPhotos 2.0.8 优秀的图片管理工具](https://xclient.info/s/powerphotos.html) | Wed Oct 19 2022 12:28 AM 
+- ⚗️ [Get Backup Pro 3.7 数据备份和同步工具](https://xclient.info/s/get-backup-pro.html) | Mon Oct 24 2022 12:19 AM 
     <details><summary>展开描述 ...</summary> 
-    PowerPhotos 是一款Mac上优秀的图片管理工具，让你能够直接浏览图库，节省iCloud空间，并能够检测重复图片，让你快速删除多余的图片，简单易用。 
+    Get Backup Pro 是一款Mac上的数据备份和同步工具，能够让我们快速的备份磁盘文件，保护数据的安全，支持iPhoto图片库、邮件、iTunes音乐库的备份和恢复，目录的双向同步，磁盘克隆等等。 
     </details> 
 
-- 🔥 [Piezo 1.7.10 录音软件](https://xclient.info/s/pizeo.html) | Wed Oct 19 2022 12:28 AM 
+- 🔥 [DreamPlan Plus 7.70 房屋设计](https://xclient.info/s/dreamplan-plus.html) | Mon Oct 24 2022 12:18 AM 
     <details><summary>展开描述 ...</summary> 
-    Piezo是一款Mac上非常好用的音频录音软件，你可以非常方便的使用Piezo进行Mac内置录音或麦克风录音，比如录制QQ和Skype聊天的语音、浏览器中正在播放音乐、播放器正在播放的视频等等都可以录制，且只需要单击一下按钮就可以 
+    DreamPlan是一款Mac上的房屋设计软件，为您提供创建逼真的3D房子模型和计划整修项目的工具，包括花园空间彻底规划您的房屋改造项目，并使用模拟软件预览您想要做的更改可以为您节省许多时间。 
     </details> 
 
-- 🌋 [Mela 1.6.3 食谱管理器](https://xclient.info/s/mela.html) | Wed Oct 19 2022 12:26 AM 
+- 🌋 [Downcast 2.11.15 Podcast订阅工具](https://xclient.info/s/downcast.html) | Mon Oct 24 2022 12:18 AM 
     <details><summary>展开描述 ...</summary> 
-    Mela是Mac电脑上的一款简单、优雅、现代的食谱管理器，可与iCloud同步。订阅你喜欢的食谱博客，在Mela的本地食谱查看器中查看所有的食谱。 
+    Downcast 可以下载、 播放和同步你最喜欢的播客。 
     </details> 
 <!-- xclient:END -->
 
