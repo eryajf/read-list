@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [iOS 16.1 更新发布：支持iCloud共享图片库，Matter与实时活动](https://www.cnbeta.com/articles/tech/1330467.htm) | Mon Oct 24 2022 7:01 PM 
+- 🕯 [微软推出&quot;Project Volterra&quot;首个面向Windows开发者的ARM驱动的迷你电脑](https://www.cnbeta.com/articles/tech/1330475.htm) | Mon Oct 24 2022 8:18 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;微软宣布推出&amp;quot;Project Volterra&amp;quot;或Windows Dev Kit 2023--微软第一台由ARM处理器驱动的迷你PC。该设备旨在帮助Windows开发者将他们的应用程序带到ARM设备上，并帮助在消费者中普及该类别。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330475.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [苹果发布macOS Ventura 包含FaceTime Handoff、Continuity Camera、Stage Manager](https://www.cnbeta.com/articles/tech/1330473.htm) | Mon Oct 24 2022 7:39 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;苹果公司今天发布了macOS 13 Ventura，这是专为在Mac上运行的操作系统的最新版本。macOS Ventura是在经过几个月的测试和功能完善后推出的，它与2017年的iMac及以后的产品、iMac Pro、2018年及以后的MacBook Air、2017年及以后的MacBook Pro、2019年及以后的Mac Pro、2018年及以后的Mac mini和2017年的MacBook兼容。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330473.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [Windows版iTunes 12.12.6发布 新增M2 iPad Pro支持](https://www.cnbeta.com/articles/tech/1330471.htm) | Mon Oct 24 2022 7:32 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;作为苹果公司周一发布的一系列软件更新的一部分，Windows版iTunes的更新将音乐应用程序提升到了12.12.6版本。所有在Windows上运行的iTunes用户都可以使用该更新。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330471.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [iPadOS 16.1最终版发布 为iPad提供Stage Manager](https://www.cnbeta.com/articles/tech/1330469.htm) | Mon Oct 24 2022 7:27 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在推迟了几周之后，苹果发布了iPadOS 16.1，其中包括一个名为Stage Manager的新的多任务界面，可定制的工具栏，以及一个内置的天气应用程序。Stage Manager是这个版本的焦点，它将iPad的多任务处理带到了一个新的水平，至少对于运行M2、M1、A12Z或A12X的机型是这样。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330469.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [iOS 16.1 更新发布：支持iCloud共享图片库，Matter与实时活动](https://www.cnbeta.com/articles/tech/1330467.htm) | Mon Oct 24 2022 7:01 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;苹果公司今天发布了iOS 16.1，这是iOS 16操作系统的第一个重大更新。iOS 16.1是在9月发布的iOS 16的一个多月后推出的。&lt;/strong&gt;苹果的iOS 16更新可以通过进入设置&amp;gt;通用&amp;gt;软件更新，在符合条件的iPhone上无线下载。由于需求量大，更新可能需要几分钟时间才能传到所有用户。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330467.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [watchOS 9.1 更新 改进电池寿命和整合Matter系统](https://www.cnbeta.com/articles/tech/1330465.htm) | Mon Oct 24 2022 6:59 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司今天发布了watchOS 9.1，这是9月份推出的watchOS 9操作系统的第一个重大更新。watchOS 9.1已经经历了几轮测试，它伴随着macOS Ventura的发布，以及iOS 16.1和iPadOS 16.1的首次亮相。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330465.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [曾经没人要的“电子废品” 如今它成为年轻人的“心头好”](https://www.cnbeta.com/articles/tech/1330463.htm) | Mon Oct 24 2022 6:41 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;用旧的相机先别扔，有可能会重新流行回来，比如CCD相机。这种以CCD作为感光元件的相机，本已成为“电子垃圾”，但如今靠着这股“复古”潮流，在年轻人中迅速风靡，价格也水涨船高。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330463.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [微软Surface Pro 9、Laptop 5轻薄本国行首发 顶配1.4万元](https://www.cnbeta.com/articles/tech/1330461.htm) | Mon Oct 24 2022 4:43 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月12日，微软发布了新一代的Surface Pro 9二合一轻薄本、Laptop 5笔记本及Surface Studio 2+一体机等Surface新品，&lt;a class=&quot;f14_link&quot; href=&quot;https://www.microsoftstore.com.cn/&quot; target=&quot;_blank&quot;&gt;今天开始Surface Pro 9、Laptop 5两款产品首发开卖&lt;/a&gt;，售价7788、7888元起，顶配干到了1.3或者1.4万元。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330461.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [玩电子游戏的孩子在大脑功能测试中得分更高](https://www.cnbeta.com/articles/science/1330459.htm) | Mon Oct 24 2022 4:41 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;根据一项针对青少年大脑功能的新研究，玩电子游戏的孩子比不玩的孩子有更好的记忆力和更好的运动技能控制能力。&lt;/strong&gt;视频游戏可能不是造成这些差异的原因--该研究不能说原因是什么--但这些发现为更大的工作提供了依据，表明游戏玩家在一些脑功能测试中表现更好。这为开发能够治疗认知问题的游戏的努力提供了支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330459.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
