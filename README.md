@@ -448,29 +448,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [[图]消息称马斯克造访墨西哥新莱昂州 磋商建厂可能](https://www.cnbeta.com/articles/tech/1330281.htm) | Mon Oct 24 2022 2:23 AM 
+- 🕯 [《英雄联盟》S12四强名额全部确定：LPL仅剩JDG 10月30开启半决赛](https://www.cnbeta.com/articles/tech/1330325.htm) | Mon Oct 24 2022 4:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;援引当地媒体 lasillarota 报道，伊隆·马斯克（Elon Musk）于上周末造访墨西哥新莱昂州首府蒙特雷，与该州官员讨论在圣卡塔琳娜市建厂的可能性。&lt;/strong&gt;陪同人员包括该州第一夫人玛丽安娜·罗德里格斯（Mariana Rodríguez）、经济部投资副部长埃曼纽尔·卢（Emmanuel Loo），随后马斯克同州长塞缪尔·加西亚·塞普尔韦达（Samuel García Sepúlveda）会面。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330281.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天上午，在《英雄联盟》S12淘汰赛最后一场中，DRX让二追三，成功击败EDG，晋级四强。&lt;strong&gt;至此，S12四强名额已经全部确定，分别是JDG、T1、GEN、DRX。&lt;/strong&gt;四支队伍将在接下来的半决赛中对战，10月30日正式开启，具体赛程如下：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330325.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [《全职猎人》连载再开《富坚义博编年史》同时发售](https://hot.cnbeta.com/articles/comic/1330279.htm) | Mon Oct 24 2022 2:04 AM 
+- 💼 [特斯拉Model 3、Y大降价！车主集体上门维权 有销售已被打](https://www.cnbeta.com/articles/tech/1330323.htm) | Mon Oct 24 2022 4:53 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;这回没跳票，时隔三年多，经典漫画《全职猎人》于10月24日今天连载再开，书接上回，本次自第391话《冲突2》重新启动，官方同时宣布《富坚义博编年史》发售，概括介绍富坚老师的作品序列，敬请期待。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1330279.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月24日，特斯拉突然宣布国产Model 3和Y大降价，降价后Model 3车型起售价为26.59万元人民币；Model Y车型起售价为28.89万元人民币。按照惯例，特斯拉每次大降价都会引车主集体维权，此次也不例外，甚至还有特斯拉销售已经感受到了老车主愤怒的“铁拳”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330323.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [研究：南极洲的冰架融化速度可能比我们想象的还要快](https://www.cnbeta.com/articles/science/1330277.htm) | Mon Oct 24 2022 2:02 AM 
+- 💂 [世界上第一个3期迷幻药临床试验即将开始](https://www.cnbeta.com/articles/science/1330321.htm) | Mon Oct 24 2022 4:52 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一个新模型显示，南极洲的冰架可能正在加速融化，这可能最终导致更快速的海平面上升。该模型说明了南极洲海岸线上一个经常被忽视的狭窄洋流。它模拟了从冰架上融化的快速流动的淡水如何将密集的暖洋水困在冰的底部，而这会导致冰架变暖并融化得更快。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330277.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据New Atlas报道，近年来，对迷幻药临床用途的研究激增，但尽管“迷幻药复兴”的新闻源源不断，绝大多数研究仍处于早期、初步阶段。除了一个值得注意的模式（针对创伤后应激障碍的MDMA辅助心理治疗），没有任何迷幻药临床试验的进展超过第二阶段。&lt;strong&gt;Compass Pathways公司最近宣布将改变这种状况，世界上第一个迷幻药辅助治疗的3期人体试验将于2022年年底开始。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330321.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [研究人员发现了细胞如何处理压力的奥秘](https://www.cnbeta.com/articles/science/1330275.htm) | Mon Oct 24 2022 1:48 AM 
+- 🚀 [新西兰征收牛羊打嗝费计划受阻：农民开拖拉机上街头抗议](https://www.cnbeta.com/articles/tech/1330319.htm) | Mon Oct 24 2022 4:50 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;马萨诸塞大学阿默斯特分校的一个研究小组在最近发表在《Cell Reports》上的一项研究中调查了围绕细胞如何处理压力的奥秘。研究人员发现，一种被称为ClpX的损伤修复酶不仅可以通过突变来修复多种细胞问题，而且还可以对细胞能量水平的变化做出反应以维持细胞健康。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330275.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年6月8日，新西兰公布了一项草案，计划对该国最大温室气体来源之一的“牛羊打嗝”收费，&lt;strong&gt;费用将由饲养牲畜的农民上缴&lt;/strong&gt;。不过这一草案遭到了来自农民的抗议，据报道，为了抗议政府对牲畜排放的温室气体征税的计划，本月20日，&lt;strong&gt;大批新西兰农民将拖拉机开上街头&lt;/strong&gt;，有农民在接受采访时表示，他们世代以养殖为生，政府的征税计划将造成毁灭性打击。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330319.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [马克·古尔曼：苹果有望于2024年春季推出OLED面板的iPad Pro](https://www.cnbeta.com/articles/tech/1330273.htm) | Mon Oct 24 2022 1:47 AM 
+- 🎊 [研究：新发现的蛋白质可帮助拯救生命](https://www.cnbeta.com/articles/science/1330317.htm) | Mon Oct 24 2022 4:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在马克·古尔曼最新一期 Power On 通讯中，他认为苹果有望在 2024 年的春季特别活动中推出 OLED 面板的 iPad Pro 型号。&lt;/strong&gt;他表示 iPad Pro 上所使用的 OLED 面板，和目前在 iPhone 上所使用的面板是相同的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330273.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;酵母菌无处不在，包括在我们身体内部和周围，很像细菌。而且，像细菌一样，酵母菌可能感染你并使你生病。每年大约有1.5亿人被酵母菌感染，大约有170万人死于酵母菌，主要是免疫力低下的人。酵母细胞和人类免疫系统细胞使用非常相似的化学反应来选择何时生长。&lt;strong&gt;亚利桑那大学的研究人员发现了这两种细胞类型之间的细微差别，这可能鼓励创造出抗真菌药物，这些药物可能针对体内的致病酵母，同时保护免疫系统。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330317.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
