@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [各位大神解答一下我关于计算机的问题](https://www.v2ex.com/t/889369#reply1) | Mon Oct 24 2022 6:10 AM
-- 🤗 [慎用 geek.exe 卸载清理功能](https://www.v2ex.com/t/889367#reply3) | Mon Oct 24 2022 6:07 AM
-- 🎭 [2010 年的老游戏，至今已有 22 年了，当时是 Java 和 PHP 来实现的。](https://www.v2ex.com/t/889363#reply0) | Mon Oct 24 2022 6:02 AM
-- 🥷 [使用 Pycharm 你们会卡么](https://www.v2ex.com/t/889361#reply0) | Mon Oct 24 2022 5:59 AM
-- 🐵 [作为一家全球化团队的 CTO，我如何管理团队，以及工具快速迭代背后的经验教训](https://www.v2ex.com/t/889352#reply0) | Mon Oct 24 2022 5:41 AM<!-- v2ex:END -->
+- 🥸 [中兴 30s 有了解的大佬嘛，现在中兴的质量怎么样呀](https://www.v2ex.com/t/889401#reply0) | Mon Oct 24 2022 7:35 AM
+- 🤗 [最近学 html 和 css，看 b 站尚硅谷那个视频，感觉有点啰嗦。有没有](https://www.v2ex.com/t/889389#reply10) | Mon Oct 24 2022 7:03 AM
+- 🎭 [让你们看看程序员卷王的收入。](https://www.v2ex.com/t/889386#reply14) | Mon Oct 24 2022 6:53 AM
+- 🥷 [统计一下，今天多少公司发橙子🤣](https://www.v2ex.com/t/889376#reply20) | Mon Oct 24 2022 6:41 AM
+- 🐵 [各位大神解答一下我关于计算机的问题](https://www.v2ex.com/t/889369#reply14) | Mon Oct 24 2022 6:10 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
