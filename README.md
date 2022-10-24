@@ -521,7 +521,16 @@
 
 
 <!-- mac52ipod:START -->
-- 👨‍🏫 [你可以要求苹果在 Apple Map 的街景地图里为自己家打码](http://www.mac52ipod.cn/post/blur-your-house-in-apple-map.php) | Thu Oct 20 2022 3:56 AM 
+- 👨‍🏫 [Apple新闻之苹果硬件设计负责人、工业设计副总裁 Evans Hankey 将离职](http://www.mac52ipod.cn/post/apple-announces-evans-hankey-leaving.php) | Mon Oct 24 2022 3:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	2019 年，苹果高级副总裁 &amp; 首席设计官 Jony Ive 离职，苹果分别任命了两位副总裁分别负责硬件设计（Evans Hankey）和软件设计（Alan Dye）。3 年过去了，负责苹果硬件设计的 Evans Hankey 确认将离职，交接期 6 个月。&lt;/p&gt;&lt;p&gt;Evans Hankey 接手苹果硬件设计这几年，我能感到最大的变化是 MacBook Pro 产品线向实用性回归。无论接口还是键盘还是散热，都比以前好太多了（虽然散热这个进步可能要归功于 Apple Silicone）&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E4%25BA%25BA%25E4%25BA%258B&quot; rel=&quot;tag&quot;&gt;人事&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🏊 [你可以要求苹果在 Apple Map 的街景地图里为自己家打码](http://www.mac52ipod.cn/post/blur-your-house-in-apple-map.php) | Thu Oct 20 2022 3:56 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -530,7 +539,7 @@
  
     </details> 
 
-- 🏊 [Apple新闻之苹果发布了第 10 代 iPad、使用 M2 芯片的 iPad Pro、新 Apple TV](http://www.mac52ipod.cn/post/apple-announce-10th-gen-ipad-m2-ipad-pro-new-apple-tv.php) | Tue Oct 18 2022 3:54 PM 
+- 🦏 [Apple新闻之苹果发布了第 10 代 iPad、使用 M2 芯片的 iPad Pro、新 Apple TV](http://www.mac52ipod.cn/post/apple-announce-10th-gen-ipad-m2-ipad-pro-new-apple-tv.php) | Tue Oct 18 2022 3:54 PM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -539,7 +548,7 @@
  
     </details> 
 
-- 🦏 [Mac技巧之锁定苹果笔记本电脑键盘：免费软件 KeyboardCleanTool](http://www.mac52ipod.cn/post/apple-mac-macos-app-keyboardcleantool.php) | Sun Oct 16 2022 2:24 AM 
+- 🚀 [Mac技巧之锁定苹果笔记本电脑键盘：免费软件 KeyboardCleanTool](http://www.mac52ipod.cn/post/apple-mac-macos-app-keyboardcleantool.php) | Sun Oct 16 2022 2:24 AM 
     <details><summary>展开描述 ...</summary> 
     
  
@@ -548,20 +557,11 @@
  
     </details> 
 
-- 🚀 [苹果 iPhone 垃圾短信拦截应用：熊猫吃短信2](http://www.mac52ipod.cn/post/apple-ios-iphone-span-sms-app-xiongmaochiduanxin-2.php) | Fri Oct 14 2022 2:34 AM 
+- 🏊 [苹果 iPhone 垃圾短信拦截应用：熊猫吃短信2](http://www.mac52ipod.cn/post/apple-ios-iphone-span-sms-app-xiongmaochiduanxin-2.php) | Fri Oct 14 2022 2:34 AM 
     <details><summary>展开描述 ...</summary> 
     
  
 	此前推荐过基于 iOS CoreML 机器学习的垃圾短信过滤应用：&lt;u&gt;&lt;a href=&quot;/post/apple-ios-iphone-span-sms-app-xiongmaochiduanxin.php&quot; target=&quot;_blank&quot; title=&quot;苹果 iPhone 垃圾短信过滤应用：熊猫吃短信&quot;&gt;&lt;font color=#0000FF&gt;熊猫吃短信&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;。不需要做任何配置，不需要联网（所以也不用担心信息泄露），过滤垃圾短信的效果也非常好，连苹果官方都在应用商店多次推荐。&lt;/p&gt;&lt;p&gt;现在，开发者推出了新版：熊猫吃短信2。新版支持更加详细的短信分类，在垃圾短信之外可以单独分类交易记录、订单物流、公益短信、运营商等短信。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6715&quot; border=&quot;0&quot; alt=&quot;苹果 iPhone 垃圾短信拦截应用：熊猫吃短信2&quot; title=&quot;苹果 iPhone 垃圾短信拦截应用：熊猫吃短信2&quot; /&gt;&lt;/p&gt;&lt;p&gt;如果你担心短信被误删：打开信息应用就能看到，信息里面会多一个“由熊猫吃短信过滤”的标签页，所有过滤的信息都在那里面，短信不会消失的。&lt;/p&gt;&lt;p&gt;熊猫吃短信2 - 垃圾短信拦截 在苹果 App Store 应用商店的下载地址 &lt;u&gt;&lt;a href=&quot;https://apps.apple.com/app/panda2/id1642682818&quot; target=&quot;_blank&quot; title=&quot;熊猫吃短信2 - 垃圾短信拦截&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://apps.apple.com/app/panda2/id1642682818&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E7%259F%25AD%25E4%25BF%25A1&quot; rel=&quot;tag&quot;&gt;短信&lt;/a&gt;
-
- 
-    </details> 
-
-- 🏊 [苹果对「把电脑设计成边长 7.7 英寸的小方盒」有迷之追求](http://www.mac52ipod.cn/post/apple-device-7-7-inch.php) | Tue Oct 11 2022 7:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
-	看到了&lt;u&gt;&lt;a href=&quot;https://twitter.com/DetroitBORG/status/1506362460307169280&quot; target=&quot;_blank&quot; title=&quot;苹果&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;一条 tweet&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;，如下图所示，几个苹果设备「完美」得摞在了一起。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6711&quot; border=&quot;0&quot; alt=&quot;苹果电脑&quot; title=&quot;苹果电脑&quot; /&gt;&lt;/p&gt;&lt;p&gt;然后我查了一下，苹果对于「把电脑设计成边长 7.7 英寸的小方盒」有迷之追求&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Mac mini：7.7 × 7.7 英寸&lt;/li&gt;&lt;li&gt;Mac Studio：7.7 × 7.7 英寸&lt;/li&gt;&lt;li&gt;Power Mac G4 Cube：8 × 8 英寸&lt;/li&gt;&lt;li&gt;第一代 Apple TV：7.8 × 7.8 英寸&lt;/li&gt;&lt;li&gt;AirPort Time Capsule：7.7 × 7.7 英寸&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%259C%25BA%25E8%25BA%25AB&quot; rel=&quot;tag&quot;&gt;机身&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25A4%2596%25E5%25A3%25B3&quot; rel=&quot;tag&quot;&gt;外壳&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25B0%25BA%25E5%25AF%25B8&quot; rel=&quot;tag&quot;&gt;尺寸&lt;/a&gt;
 
  
     </details> 
