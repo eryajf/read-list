@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [前端食堂技术周刊第 56 期：Solid v1.6.0、2022 State of GraphQL、ViteConf 回放、Lerna v6、SEO 入门指南](https://juejin.cn/post/7157942637201195038) | Mon Oct 24 2022 5:14 AM 
+- 🤗 [12个你可能不知道的CSS小技巧](https://juejin.cn/post/7157971234696167461) | Mon Oct 24 2022 7:05 AM 
     <details><summary>展开描述 ...</summary> 
-    - Solid v1.6.0 - 首届 2022 State of GraphQL - ViteConf 回放 - Lerna v6 - SEO 入门指南 - 创建自己的 JavaScript 
+    走过路过不要错过，本文整理出12个开发中你有可能没有用到过的CSS小技巧，快点进来看一看，你知道其中的几个呢 
     </details> 
 
-- 🎡 [Rust 新手学习指南：为什么学 Rust？如何快速上手 Volo 框架？](https://juejin.cn/post/7157940914617319431) | Mon Oct 24 2022 5:11 AM 
+- 🎡 [Java&amp;C++题解与拓展——leetcode915.分割数组【么的新知识】](https://juejin.cn/post/7157967114857349157) | Mon Oct 24 2022 6:48 AM 
     <details><summary>展开描述 ...</summary> 
-    本文整理自 CSG 第三期第一场直播中字节跳动架构研发工程师刘捷分享内容，主要讲述 Rust 语言的特性、CloudWeGo 选择 Rust 语言进行深入探索的原因以及 Volo 框架产生的初衷。 
+    leetcode915.分割数组解题思路，用Java、C++和Rust三种语言分别编写，并对所使用类和方法进行学习记录。 
     </details> 
 
-- 🕯 [『Android』什么是Service](https://juejin.cn/post/7157939937411596301) | Mon Oct 24 2022 5:03 AM 
+- 🕯 [只需百来行代码，为你的Web页面增加本地文件操作能力，确定不试试吗？](https://juejin.cn/post/7157681502506090510) | Sun Oct 23 2022 12:20 PM 
     <details><summary>展开描述 ...</summary> 
-    1.什么是Service Service 是一种可在后台执行长时间运行操作而不提供界面的应用组件。 例如，服务可在后台处理网络事务、播放音乐，执行文件 I/O 或与内容提供程序进行交互。 2.Serv 
+    笔者开源了一个Web思维导图，数据默认是存储在localstorage里，如果想保存到本地文件，需要使用导出功能，下次打开再使用导入功能，编辑完如果又想保存到文件，那么又需要从重新导出覆盖原来的文件 
     </details> 
 
-- 🚀 [老司机 iOS 周报 #220 | 2022-10-24](https://juejin.cn/post/7157938395518337032) | Mon Oct 24 2022 4:58 AM 
+- 🚀 [❄️ 寒冷冬日，用 CSS 送给大家一份热腾腾的咖啡加载动画！☕](https://juejin.cn/post/7157632014076608542) | Sun Oct 23 2022 9:09 AM 
     <details><summary>展开描述 ...</summary> 
-    老司机 iOS 周报，只为你呈现有价值的信息。 你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎 
+    今天网上闲逛时看到一个 Loading 动画效果，觉得很有意思，于是研究了一下它的原理，做了一步步的思路分析，打算分享给大家。 
     </details> 
 
-- 💪 [iOS老司机的网络相关Tips](https://juejin.cn/post/7157932878146306055) | Mon Oct 24 2022 4:39 AM 
+- 💪 [Spring Cache 整合 Redis 做缓存使用~ 快速上手~](https://juejin.cn/post/7157609002606526494) | Sun Oct 23 2022 7:40 AM 
     <details><summary>展开描述 ...</summary> 
-    前言: 作为一个有自我修养的iOS工程师, 对网络的理解体现在开发中的方方面面 iOS开发中的网络相关基操Tips 
+    前三篇文章说了那么那么多，但是我们在使用缓存的场景中，大都数还是会采用了类似 Spring Cache 的缓存管理器来做，说原因其实也没啥，因为项目中并不是所有的业务对数据有那么强的数据一致性。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
