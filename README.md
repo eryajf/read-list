@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [FreeBuf早报 | 卡塔尔世界杯官方应用被指是间谍软件；国际刑警组织建立元宇宙总部](https://www.freebuf.com/news/347656.html) | Sun Oct 23 2022 11:34 PM 
+- 🦄 [超市巨头麦德龙遭网络攻击，支付系统中断](https://www.freebuf.com/news/347696.html) | Mon Oct 24 2022 3:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    至少从10月17日起，麦德龙奥地利、德国和法国地区的门店已经发生IT故障。 
+    </details> 
+
+- 🦄 [拥有两个名称的新勒索组织正针对全球多家公司](https://www.freebuf.com/news/347695.html) | Mon Oct 24 2022 3:07 AM 
+    <details><summary>展开描述 ...</summary> 
+    两个名为TommyLeaks和SchoolBoys的新网络勒索组织正把攻击目标瞄准全球多家公司，但经过调查，背后是系同一团伙所为。 
+    </details> 
+
+- 🦅 [二十大之网络安全，听听代表们怎么说](https://www.freebuf.com/news/347688.html) | Mon Oct 24 2022 2:39 AM 
+    <details><summary>展开描述 ...</summary> 
+    网络安全作为网络强国、数字中国的底座，将在未来的发展中承担托底的重担，是我国现代化产业体系中不可或缺的部分。 
+    </details> 
+
+- 🪄 [FreeBuf早报 | 卡塔尔世界杯官方应用被指是间谍软件；国际刑警组织建立元宇宙总部](https://www.freebuf.com/news/347656.html) | Sun Oct 23 2022 11:34 PM 
     <details><summary>展开描述 ...</summary> 
     前往卡塔尔观看世界杯的人都需要下载安装两个应用—— Ehteraz 和 Hayya，它们被指为间谍软件。 
     </details> 
 
-- 🦄 [逐鹿年度优秀安全解决方案 | 「WitAwards中国网安行业2022年度评选」火热进行时](https://www.freebuf.com/fevents/347556.html) | Fri Oct 21 2022 7:31 AM 
+- 💻 [记一次TP框架的公益SRC挖掘](https://www.freebuf.com/vuls/320975.html) | Sat Oct 22 2022 8:30 AM 
     <details><summary>展开描述 ...</summary> 
-    滴水成河，积沙成塔，快为你心仪的方案助力！ 
-    </details> 
-
-- 🦅 [为强化软件供应链安全，谷歌启动GUAC开源项目](https://www.freebuf.com/news/347546.html) | Fri Oct 21 2022 6:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    10月20日，Google宣布正在为名为GUAC的开源项目寻找感兴趣的贡献者，以此进一步强化软件供应链安全。 
-    </details> 
-
-- 🪄 [FreeBuf周报 | 微软被曝可能泄露2.4TB客户敏感数据；俄罗斯对保加利亚发起网络攻击](https://www.freebuf.com/news/347541.html) | Fri Oct 21 2022 6:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    我们总结推荐了本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
-    </details> 
-
-- 💻 [黑客使用新版 FurBall Android 恶意软件监视伊朗公民](https://www.freebuf.com/news/347519.html) | Fri Oct 21 2022 5:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    “国内小猫”（Domestic Kitten）的伊朗攻击者正在进行一项新的恶意活动。 
+    记一次关于tp5.0.15与php7.3的公益SRCgetshell 
     </details> 
 <!-- freebuf:END -->
 
