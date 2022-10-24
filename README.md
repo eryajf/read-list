@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [又是一年 1024,webstorm 好像没有再次半价了](https://www.v2ex.com/t/889262#reply6) | Mon Oct 24 2022 2:09 AM
-- 🤗 [大家的数据建模都怎么做？分享一些个人项目上的实践，欢迎拍砖！](https://www.v2ex.com/t/889254#reply0) | Mon Oct 24 2022 1:50 AM
-- 🎭 [问个问题，大家的另一半会记得今天是程序员节日吗？](https://www.v2ex.com/t/889249#reply17) | Mon Oct 24 2022 1:28 AM
-- 🥷 [🏂 1024 节日快乐，写了一个小彩蛋](https://www.v2ex.com/t/889241#reply34) | Mon Oct 24 2022 1:01 AM
-- 🐵 [有在花桥附近找工作的老哥吗？问一下有没有推荐的公司？](https://www.v2ex.com/t/889239#reply2) | Mon Oct 24 2022 12:54 AM<!-- v2ex:END -->
+- 🥸 [写程序，到底把代码写复杂一点好，还是写简单一点好？](https://www.v2ex.com/t/889335#reply2) | Mon Oct 24 2022 4:43 AM
+- 🤗 [运维大哥请进: 腾讯云搭建 node+mongodb 环境](https://www.v2ex.com/t/889333#reply3) | Mon Oct 24 2022 4:31 AM
+- 🎭 [阿里云国际站腾讯云国际站可提供实名账户，代充值可付 USDT。量大优惠](https://www.v2ex.com/t/889327#reply1) | Mon Oct 24 2022 3:59 AM
+- 🥷 [程序员主页推荐](https://www.v2ex.com/t/889324#reply3) | Mon Oct 24 2022 3:56 AM
+- 🐵 [FFmpeg 读取文件内容 AVPacket](https://www.v2ex.com/t/889319#reply0) | Mon Oct 24 2022 3:41 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
