@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [精读《如何为 TS 类型写单测》](https://juejin.cn/post/7157897498860716045) | Mon Oct 24 2022 2:19 AM 
+- 🤗 [SpringCloud Fegin CircuitBreaker &lpar;原hystrix&rpar; 熔断失效原因](https://juejin.cn/post/7157894795346575373) | Mon Oct 24 2022 2:08 AM 
     <details><summary>展开描述 ...</summary> 
-    如何为 TS 类型写单测呢？ 最简单的办法就是试探性访问属性，如果该属性访问不到自然会在异常时出现错误。 
+    今天想着给自己的微服务项目添加一个`熔断`的功能，正好项目内远程调用是用的feign，那就直接用hystrix好了，也比较方便。 然后呢，我以为比较简单的东西，却一直不生效，资料查了个遍。。。 
     </details> 
 
-- 🎡 [Swin Transformer原理详解篇](https://juejin.cn/post/7157873015055712293) | Mon Oct 24 2022 12:44 AM 
+- 🎡 [复杂场景数据处理的 OLTP 与 OLAP 融合实践](https://juejin.cn/post/7157894790154518542) | Mon Oct 24 2022 2:07 AM 
     <details><summary>展开描述 ...</summary> 
-    1024，程序员节，还不快来为自己赋能，和我一起来看看吊打一切的swin transformer吧！！！🍵🍵🍵 
+    Dag Controller，一款解决 OLTP 与 OLAP 融合问题的完美系统，负责 OLTP、OLAP 的串联和执行。 
     </details> 
 
-- 🕯 [Vue 响应式原理是单向行为，为什么能双向绑定？](https://juejin.cn/post/7157866947068035080) | Mon Oct 24 2022 12:23 AM 
+- 🕯 [全面地了解 Android 组件化开发（上篇）](https://juejin.cn/post/7157892939551768613) | Mon Oct 24 2022 2:00 AM 
     <details><summary>展开描述 ...</summary> 
-    请不要把 Vue 的响应式原理理解为双向绑定哦？很多同学在学习 Vue 时，认为 Vue 的响应式原理是双向绑定。这并不准确，Vue 的响应式是一种单向行为。 这种单向行为只是数据到 DOM 的映射。 
+    通常我们会在一个 app 模块里实现业务功能，之后随着业务增加，代码量越来越多，编译时间越来越长。可能会抽取一些业务代码到新的模块，但是模块之间还是存在着错综复杂的依赖关系，会存在很多痛点。 
     </details> 
 
-- 🚀 [一篇文章带你入门docker-compose](https://juejin.cn/post/7157862693435605023) | Mon Oct 24 2022 12:06 AM 
+- 🚀 [【高并发】深度解析ScheduledThreadPoolExecutor类的源代码](https://juejin.cn/post/7157892460281069581) | Mon Oct 24 2022 1:59 AM 
     <details><summary>展开描述 ...</summary> 
-    今天来补习一下DOCKER的进阶知识,Compose 是用于定义和运行多容器 Docker 应用程序的工具。可以使用 YML 文件来配置应用程序需要的所有服务。使用命令来启动。 
+    在【高并发专题】的专栏中，我们深度分析了ThreadPoolExecutor类的源代码，而ScheduledThreadPoolExecutor类是ThreadPoolExecutor类的子类。 
     </details> 
 
-- 💪 [2022 你还不会微前端吗 &lpar;下&rpar; — 揭秘微前端核心原理](https://juejin.cn/post/7157863160068702239) | Mon Oct 24 2022 12:06 AM 
+- 💪 [Eureka源码11-Server端&lpar;定时清除过期Client&rpar;](https://juejin.cn/post/7157892419093004324) | Mon Oct 24 2022 1:58 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 在上篇 2022 你还不会微前端吗 &lpar;上&rpar; — 从巨石应用到微应用 中已经了解了微前端的由来和基本使用，也提到了一些相关的原理，本篇文章为下篇主要从原理层面进行解析，然后再自己实现一个包含核心部 
+    EurekaServer端定时清理过期Client，方法入口以及核心方法openForTraffic&lpar;&rpar; 
     </details> 
 <!-- juejin:END -->
 ### 少数派
