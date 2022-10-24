@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [为什么 TCP 允许 ACK 值和发送时不一致？](https://www.v2ex.com/t/889494#reply0) | Mon Oct 24 2022 12:15 PM
-- 🤗 [请教垂直鼠标正确使用方式?](https://www.v2ex.com/t/889486#reply1) | Mon Oct 24 2022 11:13 AM
-- 🎭 [AndroidStudio 导入图片资源报红](https://www.v2ex.com/t/889476#reply5) | Mon Oct 24 2022 10:36 AM
-- 🥷 [服务器转发资源实现跨域是否可行？](https://www.v2ex.com/t/889471#reply0) | Mon Oct 24 2022 10:20 AM
-- 🐵 [使用 hel-micro 制作远程 antd、tdesign-react](https://www.v2ex.com/t/889463#reply0) | Mon Oct 24 2022 9:44 AM<!-- v2ex:END -->
+- 🥸 [为什么 VMware 默认是 2vCPU, 1vCore per CPU 而不是 1vCPU, 2vCore？有什么讲究吗？](https://www.v2ex.com/t/889504#reply1) | Mon Oct 24 2022 1:02 PM
+- 🤗 [vim 有时候按键 进入了不明状态，有什么万能按键退出？](https://www.v2ex.com/t/889503#reply2) | Mon Oct 24 2022 1:02 PM
+- 🎭 [为什么 TCP 允许 ACK 值和发送时不一致？](https://www.v2ex.com/t/889494#reply2) | Mon Oct 24 2022 12:15 PM
+- 🥷 [请教垂直鼠标正确使用方式?](https://www.v2ex.com/t/889486#reply2) | Mon Oct 24 2022 11:13 AM
+- 🐵 [AndroidStudio 导入图片资源报红](https://www.v2ex.com/t/889476#reply5) | Mon Oct 24 2022 10:36 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
