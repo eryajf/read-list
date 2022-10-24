@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [mysql间隙锁实战，记录一次有意思的线上问题](https://juejin.cn/post/7157837275278409759) | Sun Oct 23 2022 10:36 PM 
+- 🤗 [精读《如何为 TS 类型写单测》](https://juejin.cn/post/7157897498860716045) | Mon Oct 24 2022 2:19 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 在记录这次线上问题之前，我们先来回顾一些基础知识。 数据库系统的锁 数据库系统使用锁是为... 
+    如何为 TS 类型写单测呢？ 最简单的办法就是试探性访问属性，如果该属性访问不到自然会在异常时出现错误。 
     </details> 
 
-- 🎡 [webpack 模块热替换](https://juejin.cn/post/7157733252151640100) | Sun Oct 23 2022 3:41 PM 
+- 🎡 [Swin Transformer原理详解篇](https://juejin.cn/post/7157873015055712293) | Mon Oct 24 2022 12:44 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第22天，点击查看活动详情 webpack 模块热替换 
+    1024，程序员节，还不快来为自己赋能，和我一起来看看吊打一切的swin transformer吧！！！🍵🍵🍵 
     </details> 
 
-- 🕯 [TypeScript中 Typeof 运算符的 5 个非常有用的技巧！](https://juejin.cn/post/7157721216869105672) | Sun Oct 23 2022 2:55 PM 
+- 🕯 [Vue 响应式原理是单向行为，为什么能双向绑定？](https://juejin.cn/post/7157866947068035080) | Mon Oct 24 2022 12:23 AM 
     <details><summary>展开描述 ...</summary> 
-    在 JavaScript 中，你可以通过操作符获取变量的类型typeof，那么你知道typeofTypeScript 中使用的是什么操作符吗？在本文中，我将介绍 typeof 运算符的 5 个常见应用 
+    请不要把 Vue 的响应式原理理解为双向绑定哦？很多同学在学习 Vue 时，认为 Vue 的响应式原理是双向绑定。这并不准确，Vue 的响应式是一种单向行为。 这种单向行为只是数据到 DOM 的映射。 
     </details> 
 
-- 🚀 [字节跳动后端面经（14）](https://juejin.cn/post/7157720345732972574) | Sun Oct 23 2022 2:50 PM 
+- 🚀 [一篇文章带你入门docker-compose](https://juejin.cn/post/7157862693435605023) | Mon Oct 24 2022 12:06 AM 
     <details><summary>展开描述 ...</summary> 
-    redis中zset怎么实现限流 哈希表是否是线程安全的，如何保证线程安全 当哈希表比较多时，加锁效 
+    今天来补习一下DOCKER的进阶知识,Compose 是用于定义和运行多容器 Docker 应用程序的工具。可以使用 YML 文件来配置应用程序需要的所有服务。使用命令来启动。 
     </details> 
 
-- 💪 [Java语言中的异常处理](https://juejin.cn/post/7157718760999092232) | Sun Oct 23 2022 2:44 PM 
+- 💪 [2022 你还不会微前端吗 &lpar;下&rpar; — 揭秘微前端核心原理](https://juejin.cn/post/7157863160068702239) | Mon Oct 24 2022 12:06 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第22天，点击查看活动详情 异常处理 在java语言中，很机智的将异常作为对象来处理，而且定义一个基类java.lang.Thro 
+    前言 在上篇 2022 你还不会微前端吗 &lpar;上&rpar; — 从巨石应用到微应用 中已经了解了微前端的由来和基本使用，也提到了一些相关的原理，本篇文章为下篇主要从原理层面进行解析，然后再自己实现一个包含核心部 
     </details> 
 <!-- juejin:END -->
 ### 少数派
