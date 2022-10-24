@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Java语言中的异常处理的抛出异常方法](https://juejin.cn/post/7158098430538022948) | Mon Oct 24 2022 3:18 PM 
+- 🤗 [第120期：前端项目管理漫谈](https://juejin.cn/post/7158101420997083150) | Mon Oct 24 2022 3:30 PM 
+    <details><summary>展开描述 ...</summary> 
+    封面图 国庆期间从北京到郑州来回骑行了1500公里，完成了第一次单人单骑超1000公里的骑行体验。 10月1日适逢途中大雨，和途中遇到的小伙伴在服务区吃饭休息，非常狼狈。 10月7日回京途中风和日丽。 
+    </details> 
+
+- 🎡 [你知道 Java 中关键字 enum 是一个语法糖吗？反编译枚举类](https://juejin.cn/post/7158100952489132039) | Mon Oct 24 2022 3:28 PM 
+    <details><summary>展开描述 ...</summary> 
+    你知道 Java 中关键字 enum 是一个语法糖吗？你会反编译枚举类吗？一起来看看如何对枚举类进行反编译吧？以前遇到那些枚举类问题，看到反编译出枚举类的代码，一切都会变得显而易见。 
+    </details> 
+
+- 🕯 [使用brython做个迷宫游戏-3：监听键盘事件](https://juejin.cn/post/7158099596106235941) | Mon Oct 24 2022 3:23 PM 
+    <details><summary>展开描述 ...</summary> 
+    本篇文章是使用brython做个迷宫小游戏的第三篇，若还没有看过之前的文章，建议先看下后再看本文章。 
+    </details> 
+
+- 🚀 [Java语言中的异常处理的抛出异常方法](https://juejin.cn/post/7158098430538022948) | Mon Oct 24 2022 3:18 PM 
     <details><summary>展开描述 ...</summary> 
     抛出异常主要是throw和throws语句。在方法体内，用throw来抛出异常，throw抛出异常的语法格式如下 
     </details> 
 
-- 🎡 [字节跳动后端面经（15）](https://juejin.cn/post/7158097729028096014) | Mon Oct 24 2022 3:16 PM 
+- 💪 [字节跳动后端面经（15）](https://juejin.cn/post/7158097729028096014) | Mon Oct 24 2022 3:16 PM 
     <details><summary>展开描述 ...</summary> 
     http报文有哪些字段 HTTP和HTTPS http1.0和1.1的区别 HTTPS的加密过程 t 
-    </details> 
-
-- 🕯 [杨帆：拆解研发流程，做好探索型项目的过程管理丨声网开发者创业讲堂 • 第 5 期](https://juejin.cn/post/7158094529877901342) | Mon Oct 24 2022 3:03 PM 
-    <details><summary>展开描述 ...</summary> 
-    希望通过 AI 、编译器等相关技术，在跨平台、代码生成器、低代码等多种解决方案的融合下，打造下一代软件工程解决方案。 
-    </details> 
-
-- 🚀 [1024程序员节快乐！](https://juejin.cn/post/7158092904311816228) | Mon Oct 24 2022 2:58 PM 
-    <details><summary>展开描述 ...</summary> 
-    1024程序员节，码农自己的节日，讲讲自己亏损的笑话。重拾python真香定律，开始量化基金和机器学习。 
-    </details> 
-
-- 💪 [再爆肝一周，给乞丐版的 GitHub Skyline 加了点“东西”并发布到线上](https://juejin.cn/post/7158090518604283941) | Mon Oct 24 2022 2:48 PM 
-    <details><summary>展开描述 ...</summary> 
-    接上回实现了一个乞丐版的 Github Skyline 后，这次又新加了一些东西，虽然不多，但是也肝了一周 
     </details> 
 <!-- juejin:END -->
 ### 少数派
