@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [纠缠增强型物质-波干涉仪现在有了双倍的神秘感](https://www.cnbeta.com/articles/science/1330425.htm) | Mon Oct 24 2022 12:23 PM 
+- 🕯 [苹果公司提高了Apple Music、Apple TV+和Apple One等服务的定价](https://www.cnbeta.com/articles/tech/1330457.htm) | Mon Oct 24 2022 4:29 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;JILA的一个研究小组首次成功地将量子力学中两个&amp;quot;最诡异&amp;quot;的特征结合起来，以制造一个更好的量子传感器：原子之间的纠缠和原子的脱焦。JILA是一个由美国国家标准与技术研究所（NIST）和科罗拉多大学博尔德分校运营的物理科学研究机构。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330425.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;苹果公司今天宣布提高其几项服务的价格，包括Apple Music、Apple TV+以及包括这些服务的Apple One捆绑服务。根据9to5Mac获得的信息，Apple Music对个人用户提价1美元，对家庭计划提价2美元，而Apple TV提价2美元，所有Apple One价格也将相应上涨。调价后的新价格列举如下：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330457.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [研究发现维生素补充剂可以帮助治疗囊性纤维化](https://www.cnbeta.com/articles/science/1330423.htm) | Mon Oct 24 2022 12:18 PM 
+- 💼 [2022款ThinkPad P1隐士国行开售 定价17999元起](https://www.cnbeta.com/articles/tech/1330455.htm) | Mon Oct 24 2022 4:00 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;俄勒冈州立大学的一项研究表明，维生素补充剂可以使囊性纤维化患者受益。根据俄勒冈州立大学的研究，在饮食中补充维生素C的囊性纤维化患者也能从另一种抗氧化剂维生素E中获益更多，而维生素E能减少破坏性炎症。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330423.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;日前，联想2022款ThinkPad P1隐士移动工作站开售，定价17999元起。官方商城可直接购买，电商平台仍处于预售预约阶段。&lt;strong&gt;新品升级了Intel 12代酷睿i9/i7标压处理器，最高可选NVIDIA专业级RTX A5500独显（7424个CUDA，16GB GDDR6，256bit）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330455.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [我国建立首个极深地下实验室：深度2400米 专门寻找“暗物质”](https://www.cnbeta.com/articles/science/1330421.htm) | Mon Oct 24 2022 12:14 PM 
+- 💂 [巴西市场销售着世界上最昂贵的iPad 10和iPad Pro](https://www.cnbeta.com/articles/tech/1330453.htm) | Mon Oct 24 2022 3:58 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据央视新闻报道，为了研究深空中看不见摸不着的暗物质，&lt;strong&gt;中国建立了首个极深地下实验室——“中国锦屏地下实验室”。&lt;/strong&gt;这个实验室垂直岩石覆盖达2400米，是世界岩石覆盖最深的实验室。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330421.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;上周，苹果宣布了新的iPad 10和iPad Pro型号。虽然基础型号的平板电脑现在有了重新设计、更多颜色和A14仿生芯片，但苹果将M2处理器作为iPad Pro的主要卖点。如果你打算购买其中一款，一些国家的电子市场需要尽力避免，因为它们特别地贵。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330453.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [龙芯2K1000LA牵手开放“鸿蒙” 功耗仅1W](https://www.cnbeta.com/articles/tech/1330419.htm) | Mon Oct 24 2022 12:11 PM 
+- 🚀 [研究人员发现成年人的心脏无法再生的原因](https://www.cnbeta.com/articles/science/1330451.htm) | Mon Oct 24 2022 3:52 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;龙芯中科官方宣布，与软通动力控股公司鸿湖万联共同完成了OpenHarmony操作系统&lpar;开放版“鸿蒙”&rpar;与龙芯2K1000LA处理器的适配，搭载龙芯2K1000LA的“乘风1000”开发板也荣获了OpenHarmony生态产品兼容性证书。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330419.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着小鼠心脏细胞的成熟，被称为核孔的通信途径的数量急剧减少。尽管这可能会保护器官免受破坏性信号的影响，但它也可能会阻止成人心脏细胞的再生。这是匹兹堡大学和匹兹堡大学医学院（UPMC）的科学家进行的新研究的结果。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330451.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [一加Ace Pro原神限定版售价4299元起 10月31日正式开售](https://www.cnbeta.com/articles/tech/1330417.htm) | Mon Oct 24 2022 11:50 AM 
+- 🎊 [SpaceX的猎鹰重型火箭蛰伏3年后正为10月31日的发射做准备](https://www.cnbeta.com/articles/science/1330449.htm) | Mon Oct 24 2022 3:45 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10 月 24 日，一加正式发布了备受期待的一加 Ace Pro 原神限定版。作为全球首款原神定制手机，一加 Ace Pro 原神限定版不仅保留了一加 Ace Pro全部的硬核性能配置，还进行了由内到外，软硬兼顾的深度定制，与手游《原神》中人气角色胡桃的标志性元素巧妙融合。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330417.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;近年来曾经进入过太空的载重量最大的火箭在万圣节为我们准备了一份礼物，猎鹰重型火箭将在当天上午发射，这是2019年以来的第一次。&lt;/strong&gt;在SpaceX的大型三合一捆绑火箭于2018年首次起飞后不久，它似乎在围绕埃隆·马斯克的更大的不锈钢星际飞船火箭的炒作中被遗忘。现在，猎鹰重型火箭准备为美国太空部队将一对有效载荷送入轨道。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330449.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
