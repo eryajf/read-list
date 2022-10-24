@@ -401,38 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [獭可派 | 降温换个火热手感， 保价双十一键盘上新](https://sspai.com/post/76356) | Mon Oct 24 2022 3:18 AM 
+- 👹 [在忙碌的生活中坚持阅读：我的得到阅读器三年使用体验](https://sspai.com/post/76372) | Mon Oct 24 2022 6:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/76372&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [獭可派 | 降温换个火热手感， 保价双十一键盘上新](https://sspai.com/post/76356) | Mon Oct 24 2022 3:18 AM 
     <details><summary>展开描述 ...</summary> 
     下单即送少数派一派胡言定制鼠标垫。下单即送少数派一派胡言定制鼠标垫。领券链接下单即送少数派一派胡言定制鼠标垫。领卷链接下单即送少数派一派胡言定制鼠标垫。领券链接下单即送少数派一派胡言定制鼠标垫。&lt;a href=&quot;https://sspai.com/post/76356&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：Apple 硬件设计负责人离职，印度对 Google 开出高额反垄断罚单等](https://sspai.com/post/76381) | Mon Oct 24 2022 12:49 AM 
+- 🤭 [派早报：Apple 硬件设计负责人离职，印度对 Google 开出高额反垄断罚单等](https://sspai.com/post/76381) | Mon Oct 24 2022 12:49 AM 
     <details><summary>展开描述 ...</summary> 
     你可能错过的新鲜事Apple硬件设计负责人离职据Bloomberg报道，Apple硬件设计负责人、工业设计副总裁EvansHankey在担任该职位三年后将离职，留下一个重要的人事空缺。Hankey于2 ...&lt;a href=&quot;https://sspai.com/post/76381&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [App+1 | 忍不了了，做了个插件让 OneNote 支持 Markdown](https://sspai.com/post/76228) | Sun Oct 23 2022 6:57 AM 
+- 🥸 [App+1 | 忍不了了，做了个插件让 OneNote 支持 Markdown](https://sspai.com/post/76228) | Sun Oct 23 2022 6:57 AM 
     <details><summary>展开描述 ...</summary> 
     我用惯了 OneNote，还想用 Markdown，不如自己弄一个插件，让它俩一起来！&lt;a href=&quot;https://sspai.com/post/76228&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [PKM 又一年，我的困惑与心得](https://sspai.com/post/75897) | Sun Oct 23 2022 4:27 AM 
+- 🙉 [PKM 又一年，我的困惑与心得](https://sspai.com/post/75897) | Sun Oct 23 2022 4:27 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/75897&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [从三个维度出发，改出一篇好文章](https://sspai.com/post/71660) | Sat Oct 22 2022 9:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    &lt;p&gt;大家好，欢迎来到《给少数派的写作建议》。&lt;/p&gt;
-&lt;p&gt;美国著名小说家托马斯·沃尔夫的处女作（也是让他声名鹊起的作品）《&lt;a href=&quot;https://book.douban.com/subject/3888110/&quot; target=&quot;_blank&quot;&gt;天使望故乡&lt;/a&gt;》手稿多达 3000 页，发掘他才华的编辑珀金斯，最终让他删去了九万余字。在他们合作沃尔夫的第二部作品《&lt;a href=&quot;https://book.douban.com/subject/27026335/&quot; target=&quot;_blank&quot;&gt;时间与河流&lt;/a&gt;》时，编辑修改文稿的时间长达两年。&lt;/p&gt;
-&lt;p&gt;如果说一部作品的闪光依靠作者在写作时的天才迸发，那么修改文章的环节，则能让作品变得成熟、完善，禁得住时间的考验。&lt;/p&gt;
-&lt;p&gt;如果你是少数派的作者，可以写完初稿之后，找少数派的「热心编辑」来审稿，指出修改方向。但是作为文章的署名人，我们必须学会自己修改文章，一方面可以与编辑更理性、深入地交换修改意见，而不是单纯依赖自己对文字的直觉，另一方面也能让作者在修改把握文章的走向，确保自己的写作本意没有在修改环节中丢失。&lt;/p&gt;
-&lt;p&gt;其实修改文章并没有什么新鲜的招数，完全可以看作对文章写作流程的一次「重做」。从修改所涉及的范围，我们建议可以从以下三个层次来对文章进行修改：&lt;/p&gt;
-&lt;ol&gt;
-    &lt;li&gt;检查文章主题；&lt;/li&gt;
-    &lt;li&gt;调节行文节奏；&lt;/li&gt;
-    &lt;li&gt;改善语言风格。&lt;/li&gt;
-&lt;/ol&gt;&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/post/71660&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为付费栏目文章，出自&lt;a href=&quot;https://sspai.com/series/268&quot; target=&quot;_blank&quot;&gt;《给少数派的写作建议》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 <!-- sspai:END -->
 
