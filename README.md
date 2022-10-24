@@ -799,7 +799,7 @@
 
 - 🙉 [为什么，同样是斑斓体表，有些动物用于吸引配偶，另一些则用于恐吓捕食者](http://jandan.net/p/111525) | Mon Oct 24 2022 3:50 PM 
     <details><summary>展开描述 ...</summary> 
-    目前尚不清楚原因。 
+    zsbd 
     </details> 
 
 - 🎉 [运动可以改善睡眠质量](http://jandan.net/p/111524) | Mon Oct 24 2022 7:18 AM 
