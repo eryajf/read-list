@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [分布式协调服务的存在意义](https://juejin.cn/post/7158118275967090725) | Mon Oct 24 2022 4:37 PM 
+- 🤗 [Typescript tipe:  freshness&lpar;更严格的对象字面量检查&rpar;](https://juejin.cn/post/7158144902650396702) | Mon Oct 24 2022 6:31 PM 
+    <details><summary>展开描述 ...</summary> 
+    我正在参加「掘金·启航计划」 Typescript 是结构化的类型系统，那么对于对象来说，如果 A 具有 B 的所有属性，并且属性对应的类型相匹配，那么 A 就能赋值给 B 但是其中有一个例外的情况， 
+    </details> 
+
+- 🎡 [分布式协调服务的存在意义](https://juejin.cn/post/7158118275967090725) | Mon Oct 24 2022 4:37 PM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第23天，点击查看活动详情持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第23天，[点击查看活动详情]&lpar;h 
     </details> 
 
-- 🎡 [第120期：前端项目管理漫谈](https://juejin.cn/post/7158101420997083150) | Mon Oct 24 2022 3:30 PM 
+- 🕯 [第120期：前端项目管理漫谈](https://juejin.cn/post/7158101420997083150) | Mon Oct 24 2022 3:30 PM 
     <details><summary>展开描述 ...</summary> 
     封面图 国庆期间从北京到郑州来回骑行了1500公里，完成了第一次单人单骑超1000公里的骑行体验。 10月1日适逢途中大雨，和途中遇到的小伙伴在服务区吃饭休息，非常狼狈。 10月7日回京途中风和日丽。 
     </details> 
 
-- 🕯 [你知道 Java 中关键字 enum 是一个语法糖吗？反编译枚举类](https://juejin.cn/post/7158100952489132039) | Mon Oct 24 2022 3:28 PM 
+- 🚀 [你知道 Java 中关键字 enum 是一个语法糖吗？反编译枚举类](https://juejin.cn/post/7158100952489132039) | Mon Oct 24 2022 3:28 PM 
     <details><summary>展开描述 ...</summary> 
     你知道 Java 中关键字 enum 是一个语法糖吗？你会反编译枚举类吗？一起来看看如何对枚举类进行反编译吧？以前遇到那些枚举类问题，看到反编译出枚举类的代码，一切都会变得显而易见。 
     </details> 
 
-- 🚀 [使用brython做个迷宫游戏-3：监听键盘事件](https://juejin.cn/post/7158099596106235941) | Mon Oct 24 2022 3:23 PM 
+- 💪 [使用brython做个迷宫游戏-3：监听键盘事件](https://juejin.cn/post/7158099596106235941) | Mon Oct 24 2022 3:23 PM 
     <details><summary>展开描述 ...</summary> 
     本篇文章是使用brython做个迷宫小游戏的第三篇，若还没有看过之前的文章，建议先看下后再看本文章。 
-    </details> 
-
-- 💪 [Java语言中的异常处理的抛出异常方法](https://juejin.cn/post/7158098430538022948) | Mon Oct 24 2022 3:18 PM 
-    <details><summary>展开描述 ...</summary> 
-    抛出异常主要是throw和throws语句。在方法体内，用throw来抛出异常，throw抛出异常的语法格式如下 
     </details> 
 <!-- juejin:END -->
 ### 少数派
