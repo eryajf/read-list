@@ -448,29 +448,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《英雄联盟》S12四强名额全部确定：LPL仅剩JDG 10月30开启半决赛](https://www.cnbeta.com/articles/tech/1330325.htm) | Mon Oct 24 2022 4:55 AM 
+- 🕯 [酷睿i9-13900K处理器打破8.8GHz超频世界纪录](https://www.cnbeta.com/articles/tech/1330357.htm) | Mon Oct 24 2022 6:13 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天上午，在《英雄联盟》S12淘汰赛最后一场中，DRX让二追三，成功击败EDG，晋级四强。&lt;strong&gt;至此，S12四强名额已经全部确定，分别是JDG、T1、GEN、DRX。&lt;/strong&gt;四支队伍将在接下来的半决赛中对战，10月30日正式开启，具体赛程如下：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330325.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;随着 13 代 Raptor Lake 台式处理器的开售，世界各地的超频爱好者也迫不及待地想要突破 CPU 频率的极限。&lt;strong&gt;由 HWBot 上提交的报告可知，一位名叫“emlor”的瑞典选手，已让酷睿 i9-13900K 旗舰台式处理器飙到了惊人的 8.812 GHz 。&lt;/strong&gt;而在过去 8 年时间里，这项纪录一直被“黑盒”时代的 AMD FX-8370 所把持（@ 8.722 GHz）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330357.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [特斯拉Model 3、Y大降价！车主集体上门维权 有销售已被打](https://www.cnbeta.com/articles/tech/1330323.htm) | Mon Oct 24 2022 4:53 AM 
+- 💼 [莫奈画作博物馆内被环保人士泼土豆泥 玻璃覆盖的画作并未损坏](https://www.cnbeta.com/articles/tech/1330355.htm) | Mon Oct 24 2022 6:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月24日，特斯拉突然宣布国产Model 3和Y大降价，降价后Model 3车型起售价为26.59万元人民币；Model Y车型起售价为28.89万元人民币。按照惯例，特斯拉每次大降价都会引车主集体维权，此次也不例外，甚至还有特斯拉销售已经感受到了老车主愤怒的“铁拳”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330323.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;当地时间10月23日，在德国的巴尔贝里尼博物馆内，有环保人士向莫奈名画《干草堆》上泼土豆泥。据悉，这幅画价值约1.1亿美金（价值约8亿元人民币）。&lt;strong&gt;综合CBS、《卫报》报道，当地时间10月23日，德国波茨坦巴贝里尼博物馆内，一对男女朝着莫奈的画作泼土豆泥，旨在警醒世人重视气候灾难。所幸，这幅画因外面的保护玻璃而完好无损。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330355.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [世界上第一个3期迷幻药临床试验即将开始](https://www.cnbeta.com/articles/science/1330321.htm) | Mon Oct 24 2022 4:52 AM 
+- 💂 [《独行月球》票房破31亿：观影人次超7400万 年度票房第二](https://hot.cnbeta.com/articles/movie/1330353.htm) | Mon Oct 24 2022 6:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据New Atlas报道，近年来，对迷幻药临床用途的研究激增，但尽管“迷幻药复兴”的新闻源源不断，绝大多数研究仍处于早期、初步阶段。除了一个值得注意的模式（针对创伤后应激障碍的MDMA辅助心理治疗），没有任何迷幻药临床试验的进展超过第二阶段。&lt;strong&gt;Compass Pathways公司最近宣布将改变这种状况，世界上第一个迷幻药辅助治疗的3期人体试验将于2022年年底开始。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330321.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据猫眼专业版数据，截至10月23日19:21，&lt;strong&gt;电影《独行月球》票房突破31亿元，观影累计人次达7450.7万。&lt;/strong&gt;目前，《独行月球》位列2022年度票房榜第二名。&lt;strong&gt;本年度票房榜前五的电影分别是：《长津湖之水门桥》（40.67亿元）、《独行月球》（31亿元）、《这个杀手不太冷静》（26.27亿元）、《人生大事》（17.12亿元）、《万里归途》（14.07亿元）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1330353.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [新西兰征收牛羊打嗝费计划受阻：农民开拖拉机上街头抗议](https://www.cnbeta.com/articles/tech/1330319.htm) | Mon Oct 24 2022 4:50 AM 
+- 🚀 [清华钱班学生两度转行：从入门到一作发Science只用2年 明年回国做PI](https://www.cnbeta.com/articles/tech/1330351.htm) | Mon Oct 24 2022 6:08 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今年6月8日，新西兰公布了一项草案，计划对该国最大温室气体来源之一的“牛羊打嗝”收费，&lt;strong&gt;费用将由饲养牲畜的农民上缴&lt;/strong&gt;。不过这一草案遭到了来自农民的抗议，据报道，为了抗议政府对牲畜排放的温室气体征税的计划，本月20日，&lt;strong&gt;大批新西兰农民将拖拉机开上街头&lt;/strong&gt;，有农民在接受采访时表示，他们世代以养殖为生，政府的征税计划将造成毁灭性打击。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330319.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;两度“转行”之后，95后贵州小伙以一作身份，在Science发表了第一篇文章。而这距他刚入门，也才不过两年时间。他叫做胡脊梁，曾以物理竞赛保送到清华钱学森力学班（“钱”班），随后在大二那年跟随兴趣所向。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330351.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [研究：新发现的蛋白质可帮助拯救生命](https://www.cnbeta.com/articles/science/1330317.htm) | Mon Oct 24 2022 4:34 AM 
+- 🎊 [一空客A330客机降落菲律宾冲出跑道 机身破了个大洞](https://www.cnbeta.com/articles/tech/1330349.htm) | Mon Oct 24 2022 6:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;酵母菌无处不在，包括在我们身体内部和周围，很像细菌。而且，像细菌一样，酵母菌可能感染你并使你生病。每年大约有1.5亿人被酵母菌感染，大约有170万人死于酵母菌，主要是免疫力低下的人。酵母细胞和人类免疫系统细胞使用非常相似的化学反应来选择何时生长。&lt;strong&gt;亚利桑那大学的研究人员发现了这两种细胞类型之间的细微差别，这可能鼓励创造出抗真菌药物，这些药物可能针对体内的致病酵母，同时保护免疫系统。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330317.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月24日消息，据报道，执飞大韩航空631号航班（KE631）的一架空客A330-322客机，&lt;strong&gt;在菲律宾麦克坦-宿务国际机场 （CEB） 的22号跑道上降落时发生意外，客机冲出跑道，但并没有人员伤亡报告。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330349.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
