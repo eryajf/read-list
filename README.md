@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [马斯克影响力正“变味”：首富越来越随性 白宫对其猜疑更深](https://www.cnbeta.com/articles/tech/1330373.htm) | Mon Oct 24 2022 7:30 AM 
+- 🕯 [微软更新Windows 11 22H2处理器支持列表 含13代酷睿与锐龙7000系列](https://www.cnbeta.com/articles/tech/1330387.htm) | Mon Oct 24 2022 8:36 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;马斯克曾经是白宫的宠儿，但现在正受到美国政府高层越来越多的猜忌。他此前关于俄乌冲突等地缘政治的随意评论引起了华盛顿当局的不满，许多政策制定者担心这位全球首富可能会绕过美国，成为其他国家的“亲密友人”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330373.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一个多月前，微软开始向公众推送 Windows 11 的 22H2 功能更新。尽管自最初的 21H2 以来，Windows 11 的系统要求一直没有太大变化。&lt;strong&gt;但在大约一周前，这家雷德蒙德软件巨头也悄然更新了 Windows 11 操作系统的 Intel / AMD 处理器支持列表。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330387.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [一汽-大众第2500万辆整车下线：近两年卖出500万台](https://www.cnbeta.com/articles/tech/1330371.htm) | Mon Oct 24 2022 7:10 AM 
+- 💼 [15年前的今天嫦娥一号成功发射：带着30首歌曲一起奔月](https://www.cnbeta.com/articles/science/1330385.htm) | Mon Oct 24 2022 8:25 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一汽-大众官方宣布&lt;strong&gt;其第2500万辆汽车正式下线&lt;/strong&gt;，而自2020年以来，其产销量已经达到了500万，它也成为2020年以来首个产销超500万的乘用车企业。而就在今年7月份，其兄弟车型上汽大众也官宣达成了2500万辆整车下线的成绩，不得不说，大众在中国市场还是非常受欢迎和认可，这也是其销量达到5000万的主因。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330371.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;15年前的今天，2007年10月24日18时05分，我国在西昌卫星发射中心用长征三号甲运载火箭将嫦娥一号卫星成功送入太空。&lt;/strong&gt;嫦娥一号是我国自主研制的第一颗月球探测卫星，它的发射成功标志着我国实施绕月探测工程迈出重要一步，开启了走向深空探测的步伐。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330385.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [DXOMARK宣布Mate 50 Pro运抵法国：XMAGE影像首秀成绩即将出炉](https://www.cnbeta.com/articles/tech/1330369.htm) | Mon Oct 24 2022 7:06 AM 
+- 💂 [爆料称苹果取消了塑料背板+键盘的入门款iPad](https://www.cnbeta.com/articles/tech/1330383.htm) | Mon Oct 24 2022 8:24 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;9月，华为正式发布了新一代旗舰产品Mate 50 Pro，在这款手机上，华为选择采用自研的XMAGE影像代替此前Mate系列的徕卡影像。今天，DXOMARK官方宣布，&lt;strong&gt;Mate 50 Pro已经运抵法国，正在由图像质量部门对其进行实验室测试和真实场景分析，测试结果即将发布。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330369.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;彭博社记者 Mark Gurman 在 Power On 实时通讯专栏中写道 ——&lt;strong&gt;“苹果公司曾考虑推出一款采用塑料背板 + 键盘的 iPad 平板电脑，并以不到 500 美元的价格销售”。&lt;/strong&gt;可惜这个想法最终被放弃，并让谷歌 Chromebook 竞品在教育市场获利颇丰。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330383.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [研究人员设计新蛋白质 显示出帮助预防自身免疫性疾病的希望](https://www.cnbeta.com/articles/science/1330367.htm) | Mon Oct 24 2022 6:56 AM 
+- 🚀 [汽车电子部件越来越复杂，美传统汽车维修店要消失](https://www.cnbeta.com/articles/tech/1330381.htm) | Mon Oct 24 2022 8:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;我们的免疫系统是抵御疾病的第一道防线，但不幸的是，它可能会失控，攻击健康组织。&lt;strong&gt;约翰斯·霍普金斯大学的科学家们现在设计了一种蛋白质，它可能通过提高调节性T细胞（Tregs）的数量来帮助预防这些自身免疫性疾病。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330367.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月24日消息，&lt;strong&gt;如今搭载各种传感器和电脑芯片的高科技汽车越来越多。对于汽车维修店来说，修理这种汽车的成本更高，修复时间也更长。&lt;/strong&gt;布兰登·迈希扎德&lpar;Brandon Mehizadeh&rpar;在美国明尼苏达州的明尼通卡市经营一家汽车维修店，维修保时捷等各种品牌车型。今年初夏，一辆保时捷卡宴在南达科他州撞到鹿，需要进行结构改造。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330381.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [科学家们创造一种新形式的人造血管 在进入体内后具有天然血管的特征](https://www.cnbeta.com/articles/science/1330365.htm) | Mon Oct 24 2022 6:48 AM 
+- 🎊 [电池为什么只有1、5、7号：没有4、8、9、10号？](https://www.cnbeta.com/articles/tech/1330379.htm) | Mon Oct 24 2022 8:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据New Atlas报道，血管受损导致阻塞或以其他方式受阻，除了外科手术外没有其他选择。传统上，这可能涉及到来自捐赠者的血管或从病人身体其他部位获取的血管，但最近我们看到，实验室培育的替代品可能会起到一定的作用。&lt;strong&gt;科学家们宣称在这一领域取得了另一项进展，他们采用了一种新型材料，可以更好地模仿活体血管的结构，使其在到位后与身体一起生长。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330365.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;干电池（Dry cell）是一种以糊状电解液来产生直流电的化学电池（湿电池则为使用液态电解液的化学电池），干电池是一次性电池，是日常生活中普遍使用、轻便的电池，常用的干电池是锌锰干电池。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330379.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
