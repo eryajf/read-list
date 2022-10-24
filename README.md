@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派评 | 近期值得关注的 App](https://sspai.com/post/76398) | Mon Oct 24 2022 10:04 AM 
+- 👹 [依然是你熟悉的那台最强 iPad：新款 iPad Pro 首发体验](https://sspai.com/post/76389) | Mon Oct 24 2022 1:00 PM 
+    <details><summary>展开描述 ...</summary> 
+    距离上代产品发布一年半之后，配备 M2 芯片的全新 iPad Pro 终于发布。提前拿到新款 12.9 英寸 iPad Pro 短暂体验之后，简单说说这款产品给我留下的印象。&lt;a href=&quot;https://sspai.com/post/76389&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派评 | 近期值得关注的 App](https://sspai.com/post/76398) | Mon Oct 24 2022 10:04 AM 
     <details><summary>展开描述 ...</summary> 
     你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/76398&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [玩游戏，交朋友——「少数派 x 万物破元」线下活动回顾](https://sspai.com/prime/story/members-gathering-guangzhou-writeup) | Mon Oct 24 2022 9:09 AM 
+- 🤭 [玩游戏，交朋友——「少数派 x 万物破元」线下活动回顾](https://sspai.com/prime/story/members-gathering-guangzhou-writeup) | Mon Oct 24 2022 9:09 AM 
     <details><summary>展开描述 ...</summary> 
     &lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/members-gathering-guangzhou-writeup&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🤭 [在忙碌的生活中坚持阅读：我的得到阅读器三年使用体验](https://sspai.com/post/76372) | Mon Oct 24 2022 6:30 AM 
+- 🥸 [在忙碌的生活中坚持阅读：我的得到阅读器三年使用体验](https://sspai.com/post/76372) | Mon Oct 24 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/76372&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [獭可派 | 降温换个火热手感， 保价双十一键盘上新](https://sspai.com/post/76356) | Mon Oct 24 2022 3:18 AM 
+- 🙉 [獭可派 | 降温换个火热手感， 保价双十一键盘上新](https://sspai.com/post/76356) | Mon Oct 24 2022 3:18 AM 
     <details><summary>展开描述 ...</summary> 
     下单即送少数派一派胡言定制鼠标垫。下单即送少数派一派胡言定制鼠标垫。领券链接下单即送少数派一派胡言定制鼠标垫。领卷链接下单即送少数派一派胡言定制鼠标垫。领券链接下单即送少数派一派胡言定制鼠标垫。&lt;a href=&quot;https://sspai.com/post/76356&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派早报：Apple 硬件设计负责人离职，印度对 Google 开出高额反垄断罚单等](https://sspai.com/post/76381) | Mon Oct 24 2022 12:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    你可能错过的新鲜事Apple硬件设计负责人离职据Bloomberg报道，Apple硬件设计负责人、工业设计副总裁EvansHankey在担任该职位三年后将离职，留下一个重要的人事空缺。Hankey于2 ...&lt;a href=&quot;https://sspai.com/post/76381&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
