@@ -366,7 +366,7 @@
 <!-- v2ex:START -->
 - 🥸 [求问前端多媒体编辑器是怎么实现的](https://www.v2ex.com/t/889547#reply0) | Mon Oct 24 2022 4:27 PM
 - 🤗 [Citus 的查询效率相比单机而言提升了多少](https://www.v2ex.com/t/889541#reply0) | Mon Oct 24 2022 3:38 PM
-- 🎭 [1024 电脑主板烧了](https://www.v2ex.com/t/889530#reply4) | Mon Oct 24 2022 2:42 PM
+- 🎭 [1024 电脑主板烧了](https://www.v2ex.com/t/889530#reply6) | Mon Oct 24 2022 2:42 PM
 - 🥷 [vscode vim 键绑定设置](https://www.v2ex.com/t/889526#reply6) | Mon Oct 24 2022 2:30 PM
 - 🐵 [思维定势， NoSQL 数据库和表应该怎么设计？](https://www.v2ex.com/t/889524#reply4) | Mon Oct 24 2022 2:25 PM<!-- v2ex:END -->
 
