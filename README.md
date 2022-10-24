@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Kotlin Sealed Class And Interface](https://juejin.cn/post/7158018471715373069) | Mon Oct 24 2022 10:08 AM 
+- 🤗 [Three.js 进阶之旅：Shader着色器入门](https://juejin.cn/post/7158032481302609950) | Mon Oct 24 2022 11:04 AM 
     <details><summary>展开描述 ...</summary> 
-    Kotlin 中存在 sealed 关键字可以修饰 class 和 interface ，表示密封类和接口。主要是为了限制类的继承结构以达到对继承进行控制的目的。 **密封类的子类在编译时明确可知。在 
+    本文内容主要包括了解什么是着色器、为什么要使用着色器、GLSL 语言的基本语法规则、理解顶点着色器、片元着色器、掌握Attributes、Varyings、Uniforms的区别，两种着色器材质用法等 
     </details> 
 
-- 🎡 [适用于React Native的应用程序介绍旋转木马](https://juejin.cn/post/7157990745389924359) | Mon Oct 24 2022 8:20 AM 
+- 🎡 [HTTP2.0主要改动](https://juejin.cn/post/7158021756823814175) | Mon Oct 24 2022 10:20 AM 
     <details><summary>展开描述 ...</summary> 
-    一个带有分页功能的介绍页面旋转木马（onboarding）动画。 如何使用它。 1.安装并导入 react-native-intro-carousel。 2.2.示例应用程序。 预览。 The pos 
+    我正在参加「掘金·启航计划」  HTTP2.0作为新版协议，改动细节必然很多，不过对应用开发者和服务提供商来说，影响较大的就几点。 新的二进制格式（Binary Format） http1.x诞生的时 
     </details> 
 
-- 🕯 [一个用于React的可定制的黑暗模式切换开关组件](https://juejin.cn/post/7157989987890233357) | Mon Oct 24 2022 8:17 AM 
+- 🕯 [Docker系列学习&lpar;25&rpar; -- Swarm mode 管理节点常用命令](https://juejin.cn/post/7158020709929713678) | Mon Oct 24 2022 10:16 AM 
     <details><summary>展开描述 ...</summary> 
-    一个用于React的可定制的黑暗模式切换开关组件。 如何使用它。 1.安装和下载。 2.2.导入DarkModeToggle组件。 3.3.将黑暗模式切换添加到应用程序中。 4.默认的组件道具。 预览 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第26天，点击查看活动详情 生命不息，学习不止 题外话 今天是周一，早啊，打工人，北京的太阳绝对是最强打工人，周六周日都上班，而且 
     </details> 
 
-- 🚀 [FFplay逐帧播放分析](https://juejin.cn/post/7157989919330140196) | Mon Oct 24 2022 8:17 AM 
+- 🚀 [Zookeeper的服务器的log4j升级为log4j2的升级方案（忽略配置化兼容问题）](https://juejin.cn/post/7158019677162045470) | Mon Oct 24 2022 10:15 AM 
     <details><summary>展开描述 ...</summary> 
-    FFplay 播放器有一个比较有趣的功能，就是逐帧播放。因为平时视频文件的帧率是挺高的，一秒24帧，有些细节一瞬间就过去了，不太容易注意到。 利用逐帧播放功能，你可以一帧一帧的观察视频画面，在查处交 
+    Zookeeper的服务器的log4j升级为log4j2的升级方案（忽略配置化兼容问题） 目前希望可以升级将Zookeeper中log4j的版本升级到log4j2版本，并且要避开相关的log4j2的安 
     </details> 
 
-- 💪 [使用React组件突出一个文本中的关键词的教程](https://juejin.cn/post/7157989966558494750) | Mon Oct 24 2022 8:16 AM 
+- 💪 [六年前端面试报告](https://juejin.cn/post/7158019029163048974) | Mon Oct 24 2022 10:10 AM 
     <details><summary>展开描述 ...</summary> 
-    一个React组件，可以高亮显示一段文本中的关键词并返回一个React元素。 如何使用它。 1.安装和导入。 2.2.基本用法。 预览。 The postHighlight A Keyword in  
+    上一次面试我是4年经验，简历也好改，加上两年经验，补上现公司项目就出去找工作了。 简历改完后，首先分析下自己现阶段水平，大概能要多少，定一个期望薪资。再就是背面试题了。 自我分析 普通三本，六年前端， 
     </details> 
 <!-- juejin:END -->
 ### 少数派
