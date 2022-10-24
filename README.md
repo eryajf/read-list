@@ -448,29 +448,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [库克在F1大奖赛终点线缓慢挥动格子旗 网友戏称“老爷爷，冷静点”](https://hot.cnbeta.com/articles/funny/1330201.htm) | Sun Oct 23 2022 11:24 PM 
+- 🕯 [[图]消息称马斯克造访墨西哥新莱昂州 磋商建厂可能](https://www.cnbeta.com/articles/tech/1330281.htm) | Mon Oct 24 2022 2:23 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果CEO Tim Cook于当地时间周日在F1美国大奖赛上意外现身，并且以异常缓慢的方式在终点线上挥舞着格子旗。F1美国大奖赛于周日在德克萨斯州奥斯汀的美洲赛道举行。在经过56圈的比赛，库克挥动了格子旗。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1330201.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;援引当地媒体 lasillarota 报道，伊隆·马斯克（Elon Musk）于上周末造访墨西哥新莱昂州首府蒙特雷，与该州官员讨论在圣卡塔琳娜市建厂的可能性。&lt;/strong&gt;陪同人员包括该州第一夫人玛丽安娜·罗德里格斯（Mariana Rodríguez）、经济部投资副部长埃曼纽尔·卢（Emmanuel Loo），随后马斯克同州长塞缪尔·加西亚·塞普尔韦达（Samuel García Sepúlveda）会面。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330281.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Linux 6.1-rc2发布 Torvalds评价称其&quot;非同寻常地大&quot;](https://www.cnbeta.com/articles/tech/1330199.htm) | Sun Oct 23 2022 11:21 PM 
+- 💼 [《全职猎人》连载再开《富坚义博编年史》同时发售](https://hot.cnbeta.com/articles/comic/1330279.htm) | Mon Oct 24 2022 2:04 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Linus Torvalds刚刚发布了Linux 6.1-rc2内核，在开始时看似平静的一周过去后，他将其描述为&amp;quot;异常的大&amp;quot;。这是因为Linux 6.1-rc2的容量和代码修改范围最终比平时大得多，一些媒体子系统的功能材料在合并窗口中并没有被拉取出来，由于这些代码原本位于linux-next中，而且被看成是一个Git错误，Linus Torvalds在本周一次完成了这些其余更新。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330199.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;这回没跳票，时隔三年多，经典漫画《全职猎人》于10月24日今天连载再开，书接上回，本次自第391话《冲突2》重新启动，官方同时宣布《富坚义博编年史》发售，概括介绍富坚老师的作品序列，敬请期待。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/comic/1330279.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [罗永浩今日淘宝首播：粉丝超144万 自称直播“四大天王”](https://www.cnbeta.com/articles/tech/1330197.htm) | Sun Oct 23 2022 11:13 PM 
+- 💂 [研究：南极洲的冰架融化速度可能比我们想象的还要快](https://www.cnbeta.com/articles/science/1330277.htm) | Mon Oct 24 2022 2:02 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;还有不到一个月时间，就要迎来今年“双11”购物季，目前各大电商平台相关预购陆续开展，而直播带货作为网购平台的重要渠道，自然受到了消费者关注。10月23日晚，交个朋友直播间为锤子科技CEO罗永浩的天猫首播预热，当晚，罗永浩也在淘宝平台首次亮相。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330197.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一个新模型显示，南极洲的冰架可能正在加速融化，这可能最终导致更快速的海平面上升。该模型说明了南极洲海岸线上一个经常被忽视的狭窄洋流。它模拟了从冰架上融化的快速流动的淡水如何将密集的暖洋水困在冰的底部，而这会导致冰架变暖并融化得更快。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330277.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [苹果iPadOS 16.1今日上线 加入迟到的台前调度功能](https://www.cnbeta.com/articles/tech/1330195.htm) | Sun Oct 23 2022 11:13 PM 
+- 🚀 [研究人员发现了细胞如何处理压力的奥秘](https://www.cnbeta.com/articles/science/1330275.htm) | Mon Oct 24 2022 1:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月24日消息，据MacRumors报道，苹果确认会在当地时间10月24日推出iPadOS 16.1。作为最新一代iPadOS，&lt;strong&gt;它的核心功能之一是加入了台前调度功能。&lt;/strong&gt;台前调度能自动整理App和窗口，使各任务之间的切换快速而轻松，带来全新的多任务处理体验。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330195.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;马萨诸塞大学阿默斯特分校的一个研究小组在最近发表在《Cell Reports》上的一项研究中调查了围绕细胞如何处理压力的奥秘。研究人员发现，一种被称为ClpX的损伤修复酶不仅可以通过突变来修复多种细胞问题，而且还可以对细胞能量水平的变化做出反应以维持细胞健康。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330275.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [顽皮狗：现在和将来的游戏 会继续登陆PC](https://hot.cnbeta.com/articles/game/1330193.htm) | Sun Oct 23 2022 11:12 PM 
+- 🎊 [马克·古尔曼：苹果有望于2024年春季推出OLED面板的iPad Pro](https://www.cnbeta.com/articles/tech/1330273.htm) | Mon Oct 24 2022 1:47 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;上周顽皮狗在PC上完成了首秀，其作品《神秘海域：盗贼遗产合集》登陆了Steam和Epic，当然今后还会有更多游戏登陆PC。《最后的生还者1》正在移植到PC平台，顽皮狗有意将更多游戏移植到PC。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1330193.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;在马克·古尔曼最新一期 Power On 通讯中，他认为苹果有望在 2024 年的春季特别活动中推出 OLED 面板的 iPad Pro 型号。&lt;/strong&gt;他表示 iPad Pro 上所使用的 OLED 面板，和目前在 iPhone 上所使用的面板是相同的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330273.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
