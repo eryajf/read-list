@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [SpringCloud Fegin CircuitBreaker &lpar;原hystrix&rpar; 熔断失效原因](https://juejin.cn/post/7157894795346575373) | Mon Oct 24 2022 2:08 AM 
+- 🤗 [APICloud AVM框架 封装身份证号码虚拟输入键盘组件](https://juejin.cn/post/7157908986828685325) | Mon Oct 24 2022 3:03 AM 
     <details><summary>展开描述 ...</summary> 
-    今天想着给自己的微服务项目添加一个`熔断`的功能，正好项目内远程调用是用的feign，那就直接用hystrix好了，也比较方便。 然后呢，我以为比较简单的东西，却一直不生效，资料查了个遍。。。 
+    AVM（Application-View-Model）前端组件化开发模式基于标准Web Components组件化思想，提供包含虚拟DOM和Runtime的编程框架avm.js以及多端统一编译工具，完 
     </details> 
 
-- 🎡 [复杂场景数据处理的 OLTP 与 OLAP 融合实践](https://juejin.cn/post/7157894790154518542) | Mon Oct 24 2022 2:07 AM 
+- 🎡 [使用LEFT JOIN 统计左右存在的数据](https://juejin.cn/post/7157908853630664718) | Mon Oct 24 2022 3:02 AM 
     <details><summary>展开描述 ...</summary> 
-    Dag Controller，一款解决 OLTP 与 OLAP 融合问题的完美系统，负责 OLTP、OLAP 的串联和执行。 
+    需求 企业表 企业表t_company有如下字段：标识id、企业名称name: id name 1 腾讯 2 百度 收款表 企业对应有收款表t_collection有如下字段：标识id、账套accou 
     </details> 
 
-- 🕯 [全面地了解 Android 组件化开发（上篇）](https://juejin.cn/post/7157892939551768613) | Mon Oct 24 2022 2:00 AM 
+- 🕯 [PMP培训是否有官方授权机构报名？](https://juejin.cn/post/7157906974573592583) | Mon Oct 24 2022 2:54 AM 
     <details><summary>展开描述 ...</summary> 
-    通常我们会在一个 app 模块里实现业务功能，之后随着业务增加，代码量越来越多，编译时间越来越长。可能会抽取一些业务代码到新的模块，但是模块之间还是存在着错综复杂的依赖关系，会存在很多痛点。 
+    这个在官网上查一下就好了。 选择PMP机构看什么？ 考证的机构都是必须得获得“PMI”或“中国国际基金会人才交流中心” 的授权，考生在选机构的时候一定要关注到这一点。 以上只需要满足一个授权即可。 因 
     </details> 
 
-- 🚀 [【高并发】深度解析ScheduledThreadPoolExecutor类的源代码](https://juejin.cn/post/7157892460281069581) | Mon Oct 24 2022 1:59 AM 
+- 🚀 [APICloud AVM框架 封装虚拟数字键盘组件](https://juejin.cn/post/7157906078678646798) | Mon Oct 24 2022 2:52 AM 
     <details><summary>展开描述 ...</summary> 
-    在【高并发专题】的专栏中，我们深度分析了ThreadPoolExecutor类的源代码，而ScheduledThreadPoolExecutor类是ThreadPoolExecutor类的子类。 
+    AVM（Application-View-Model）前端组件化开发模式基于标准Web Components组件化思想，提供包含虚拟DOM和Runtime的编程框架avm.js以及多端统一编译工具，完 
     </details> 
 
-- 💪 [Eureka源码11-Server端&lpar;定时清除过期Client&rpar;](https://juejin.cn/post/7157892419093004324) | Mon Oct 24 2022 1:58 AM 
+- 💪 [Kotlin | 这些隐藏的内存陷阱,你应该熟记于心](https://juejin.cn/post/7157905051531345956) | Mon Oct 24 2022 2:48 AM 
     <details><summary>展开描述 ...</summary> 
-    EurekaServer端定时清理过期Client，方法入口以及核心方法openForTraffic&lpar;&rpar; 
+    本文将结合个人开发经验，通过示例与字节码对比方式，聊一聊Kotlin中那些隐藏的 [内存陷阱] ，从而方便我们在性能与优雅之间找到合适的平衡。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
