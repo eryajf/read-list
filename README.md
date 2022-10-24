@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [APICloud AVM框架 封装身份证号码虚拟输入键盘组件](https://juejin.cn/post/7157908986828685325) | Mon Oct 24 2022 3:03 AM 
+- 🤗 [手摸手带你实现一个时间轴组件](https://juejin.cn/post/7157917487953084429) | Mon Oct 24 2022 3:37 AM 
     <details><summary>展开描述 ...</summary> 
-    AVM（Application-View-Model）前端组件化开发模式基于标准Web Components组件化思想，提供包含虚拟DOM和Runtime的编程框架avm.js以及多端统一编译工具，完 
+    本文给大家带来一个时间轴的组件开发教程，话不多说，先看动图： 主要功能就是可以拖动时间轴来定位当前时间，可以通过鼠标滚轮来修改当前时间分辨率，也支持显示时间段功能，动图未体现，可看下面的本次 
     </details> 
 
-- 🎡 [使用LEFT JOIN 统计左右存在的数据](https://juejin.cn/post/7157908853630664718) | Mon Oct 24 2022 3:02 AM 
+- 🎡 [Luminar Neo 教程，如何在 Luminar Neo 中使用仿制工具？](https://juejin.cn/post/7157916196346527775) | Mon Oct 24 2022 3:32 AM 
     <details><summary>展开描述 ...</summary> 
-    需求 企业表 企业表t_company有如下字段：标识id、企业名称name: id name 1 腾讯 2 百度 收款表 企业对应有收款表t_collection有如下字段：标识id、账套accou 
+    欢迎观看 Luminar Neo 教程，小编带大家学习 Luminar Neo 的基本工具和使用技巧，了解如何在 Luminar Neo 中使用仿制工具。 
     </details> 
 
-- 🕯 [PMP培训是否有官方授权机构报名？](https://juejin.cn/post/7157906974573592583) | Mon Oct 24 2022 2:54 AM 
+- 🕯 [用canvas画了个table，手写了一个滚动条](https://juejin.cn/post/7157912930158116895) | Mon Oct 24 2022 3:18 AM 
     <details><summary>展开描述 ...</summary> 
-    这个在官网上查一下就好了。 选择PMP机构看什么？ 考证的机构都是必须得获得“PMI”或“中国国际基金会人才交流中心” 的授权，考生在选机构的时候一定要关注到这一点。 以上只需要满足一个授权即可。 因 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第11天，点击查看活动详情 在之前业务有幸接触过复杂的大数据业务渲染，所用的table居然是用canvans以及虚拟列表的实现 
     </details> 
 
-- 🚀 [APICloud AVM框架 封装虚拟数字键盘组件](https://juejin.cn/post/7157906078678646798) | Mon Oct 24 2022 2:52 AM 
+- 🚀 [极意 · 代码性能优化之道](https://juejin.cn/post/7157900749651836936) | Mon Oct 24 2022 2:31 AM 
     <details><summary>展开描述 ...</summary> 
-    AVM（Application-View-Model）前端组件化开发模式基于标准Web Components组件化思想，提供包含虚拟DOM和Runtime的编程框架avm.js以及多端统一编译工具，完 
+    代码敲久了，就会对代码的质量格外关注，这里总结了一些在开发中遇到的对代码性能优化的技巧。 本篇文章主要是分享一些对代码性能提升的写法和方式。 
     </details> 
 
-- 💪 [Kotlin | 这些隐藏的内存陷阱,你应该熟记于心](https://juejin.cn/post/7157905051531345956) | Mon Oct 24 2022 2:48 AM 
+- 💪 [如何实现一个深浅拷贝？](https://juejin.cn/post/7157899306366664711) | Mon Oct 24 2022 2:26 AM 
     <details><summary>展开描述 ...</summary> 
-    本文将结合个人开发经验，通过示例与字节码对比方式，聊一聊Kotlin中那些隐藏的 [内存陷阱] ，从而方便我们在性能与优雅之间找到合适的平衡。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第25天，点击查看活动详情 Hello,又见面了,我是渔戈! 1.前言 今天我们来聊聊浅拷贝和深拷贝，围绕着基础数据类型和引用数据 
     </details> 
 <!-- juejin:END -->
 ### 少数派
