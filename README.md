@@ -378,24 +378,24 @@
     Kotlin 中存在 sealed 关键字可以修饰 class 和 interface ，表示密封类和接口。主要是为了限制类的继承结构以达到对继承进行控制的目的。 **密封类的子类在编译时明确可知。在 
     </details> 
 
-- 🎡 [你说你懂原型链，那你实现一个 bind 我看看](https://juejin.cn/post/7158009281735262239) | Mon Oct 24 2022 9:33 AM 
+- 🎡 [适用于React Native的应用程序介绍旋转木马](https://juejin.cn/post/7157990745389924359) | Mon Oct 24 2022 8:20 AM 
     <details><summary>展开描述 ...</summary> 
-    bind 的实现其实非常考验对原型链的理解。bind 和 apply，call 是 JS 修改 this 指向的三把利器 🔱。但看似简单的内容，实则包含了 JS 的两大核心内容：原型链和构造函数。 
+    一个带有分页功能的介绍页面旋转木马（onboarding）动画。 如何使用它。 1.安装并导入 react-native-intro-carousel。 2.2.示例应用程序。 预览。 The pos 
     </details> 
 
-- 🕯 [动态操作系统风格菜单组件库 - react-frame-contextmenu](https://juejin.cn/post/7157982877416685605) | Mon Oct 24 2022 7:49 AM 
+- 🕯 [一个用于React的可定制的黑暗模式切换开关组件](https://juejin.cn/post/7157989987890233357) | Mon Oct 24 2022 8:17 AM 
     <details><summary>展开描述 ...</summary> 
-    一个React组件，在你的应用程序中创建Windows风格的上下文菜单和菜单栏。 如何使用它。 1.安装。 2.2.导入必要的样式表。 3.创建一个多级上下文菜单。 4.创建一个菜单栏。 预览。 Th 
+    一个用于React的可定制的黑暗模式切换开关组件。 如何使用它。 1.安装和下载。 2.2.导入DarkModeToggle组件。 3.3.将黑暗模式切换添加到应用程序中。 4.默认的组件道具。 预览 
     </details> 
 
-- 🚀 [React中的可视化JSON编辑器的使用教程](https://juejin.cn/post/7157982109213147144) | Mon Oct 24 2022 7:47 AM 
+- 🚀 [FFplay逐帧播放分析](https://juejin.cn/post/7157989919330140196) | Mon Oct 24 2022 8:17 AM 
     <details><summary>展开描述 ...</summary> 
-    一个基于React的可视化JSON编辑器。 如何使用它。 1.安装和导入。 2.基本使用方法。 预览。 The postVisual JSON Editor In Reactappeared firs 
+    FFplay 播放器有一个比较有趣的功能，就是逐帧播放。因为平时视频文件的帧率是挺高的，一秒24帧，有些细节一瞬间就过去了，不太容易注意到。 利用逐帧播放功能，你可以一帧一帧的观察视频画面，在查处交 
     </details> 
 
-- 💪 [在网页上添加水印 - react-watermark](https://juejin.cn/post/7157982053013651470) | Mon Oct 24 2022 7:46 AM 
+- 💪 [使用React组件突出一个文本中的关键词的教程](https://juejin.cn/post/7157989966558494750) | Mon Oct 24 2022 8:16 AM 
     <details><summary>展开描述 ...</summary> 
-    一个React组件，可以在页面上添加图片或单线/多线文本水印。 如何使用它。 1.安装并导入。 2.2.在页面上添加一个单行文本水印。 3.在页面上添加多行文本水印。 4.4. 在页面上添加一个图像水 
+    一个React组件，可以高亮显示一段文本中的关键词并返回一个React元素。 如何使用它。 1.安装和导入。 2.2.基本用法。 预览。 The postHighlight A Keyword in  
     </details> 
 <!-- juejin:END -->
 ### 少数派
