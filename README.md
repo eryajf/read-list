@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [手摸手带你实现一个时间轴组件](https://juejin.cn/post/7157917487953084429) | Mon Oct 24 2022 3:37 AM 
+- 🤗 [前端食堂技术周刊第 56 期：Solid v1.6.0、2022 State of GraphQL、ViteConf 回放、Lerna v6、SEO 入门指南](https://juejin.cn/post/7157942637201195038) | Mon Oct 24 2022 5:14 AM 
     <details><summary>展开描述 ...</summary> 
-    本文给大家带来一个时间轴的组件开发教程，话不多说，先看动图： 主要功能就是可以拖动时间轴来定位当前时间，可以通过鼠标滚轮来修改当前时间分辨率，也支持显示时间段功能，动图未体现，可看下面的本次 
+    - Solid v1.6.0 - 首届 2022 State of GraphQL - ViteConf 回放 - Lerna v6 - SEO 入门指南 - 创建自己的 JavaScript 
     </details> 
 
-- 🎡 [Luminar Neo 教程，如何在 Luminar Neo 中使用仿制工具？](https://juejin.cn/post/7157916196346527775) | Mon Oct 24 2022 3:32 AM 
+- 🎡 [Rust 新手学习指南：为什么学 Rust？如何快速上手 Volo 框架？](https://juejin.cn/post/7157940914617319431) | Mon Oct 24 2022 5:11 AM 
     <details><summary>展开描述 ...</summary> 
-    欢迎观看 Luminar Neo 教程，小编带大家学习 Luminar Neo 的基本工具和使用技巧，了解如何在 Luminar Neo 中使用仿制工具。 
+    本文整理自 CSG 第三期第一场直播中字节跳动架构研发工程师刘捷分享内容，主要讲述 Rust 语言的特性、CloudWeGo 选择 Rust 语言进行深入探索的原因以及 Volo 框架产生的初衷。 
     </details> 
 
-- 🕯 [用canvas画了个table，手写了一个滚动条](https://juejin.cn/post/7157912930158116895) | Mon Oct 24 2022 3:18 AM 
+- 🕯 [『Android』什么是Service](https://juejin.cn/post/7157939937411596301) | Mon Oct 24 2022 5:03 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第11天，点击查看活动详情 在之前业务有幸接触过复杂的大数据业务渲染，所用的table居然是用canvans以及虚拟列表的实现 
+    1.什么是Service Service 是一种可在后台执行长时间运行操作而不提供界面的应用组件。 例如，服务可在后台处理网络事务、播放音乐，执行文件 I/O 或与内容提供程序进行交互。 2.Serv 
     </details> 
 
-- 🚀 [极意 · 代码性能优化之道](https://juejin.cn/post/7157900749651836936) | Mon Oct 24 2022 2:31 AM 
+- 🚀 [老司机 iOS 周报 #220 | 2022-10-24](https://juejin.cn/post/7157938395518337032) | Mon Oct 24 2022 4:58 AM 
     <details><summary>展开描述 ...</summary> 
-    代码敲久了，就会对代码的质量格外关注，这里总结了一些在开发中遇到的对代码性能优化的技巧。 本篇文章主要是分享一些对代码性能提升的写法和方式。 
+    老司机 iOS 周报，只为你呈现有价值的信息。 你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎 
     </details> 
 
-- 💪 [如何实现一个深浅拷贝？](https://juejin.cn/post/7157899306366664711) | Mon Oct 24 2022 2:26 AM 
+- 💪 [iOS老司机的网络相关Tips](https://juejin.cn/post/7157932878146306055) | Mon Oct 24 2022 4:39 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第25天，点击查看活动详情 Hello,又见面了,我是渔戈! 1.前言 今天我们来聊聊浅拷贝和深拷贝，围绕着基础数据类型和引用数据 
+    前言: 作为一个有自我修养的iOS工程师, 对网络的理解体现在开发中的方方面面 iOS开发中的网络相关基操Tips 
     </details> 
 <!-- juejin:END -->
 ### 少数派
