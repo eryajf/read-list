@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [微软推出&quot;Project Volterra&quot;首个面向Windows开发者的ARM驱动的迷你电脑](https://www.cnbeta.com/articles/tech/1330475.htm) | Mon Oct 24 2022 8:18 PM 
+- 🕯 [Bumble开放其用于检测线上不雅内容的人工智能资源](https://www.cnbeta.com/articles/tech/1330487.htm) | Mon Oct 24 2022 11:24 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软宣布推出&amp;quot;Project Volterra&amp;quot;或Windows Dev Kit 2023--微软第一台由ARM处理器驱动的迷你PC。该设备旨在帮助Windows开发者将他们的应用程序带到ARM设备上，并帮助在消费者中普及该类别。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330475.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;作为其打击&amp;quot;网络暴力&amp;quot;的更大承诺的一部分，约会应用程序Bumble正在开放其人工智能工具，以检测未经请求的不雅图像在社交平台内传递。&lt;/strong&gt;Private Detector在2019年首次亮相，它模糊了通过Bumble应用程序发送的裸体图片，让接收端的用户选择是否打开该图片。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330487.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [苹果发布macOS Ventura 包含FaceTime Handoff、Continuity Camera、Stage Manager](https://www.cnbeta.com/articles/tech/1330473.htm) | Mon Oct 24 2022 7:39 PM 
+- 💼 [Greenpeace：在美国，塑料包装并不做到真正的“可回收”](https://www.cnbeta.com/articles/tech/1330485.htm) | Mon Oct 24 2022 11:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司今天发布了macOS 13 Ventura，这是专为在Mac上运行的操作系统的最新版本。macOS Ventura是在经过几个月的测试和功能完善后推出的，它与2017年的iMac及以后的产品、iMac Pro、2018年及以后的MacBook Air、2017年及以后的MacBook Pro、2019年及以后的Mac Pro、2018年及以后的Mac mini和2017年的MacBook兼容。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330473.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;多年来，我们已经知道塑料回收率很低，但它们已经变得更加糟糕。&lt;strong&gt;根据环保组织Greenpeace今日发表的一份新报告显示，美国的塑料回收状况非常糟糕，甚至没有塑料包装可以被认为是可回收的。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330485.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [Windows版iTunes 12.12.6发布 新增M2 iPad Pro支持](https://www.cnbeta.com/articles/tech/1330471.htm) | Mon Oct 24 2022 7:32 PM 
+- 💂 [漫威《蚁人3》电影预告首曝 长大女儿超漂亮](https://hot.cnbeta.com/articles/movie/1330483.htm) | Mon Oct 24 2022 11:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为苹果公司周一发布的一系列软件更新的一部分，Windows版iTunes的更新将音乐应用程序提升到了12.12.6版本。所有在Windows上运行的iTunes用户都可以使用该更新。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330471.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天（10月25日）凌晨，漫威发布了蚁人电影第三部《蚁人：量子狂热》的首个预告片，并且宣布本片将于2023年2月上映。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;《蚁人：量子狂热》预告：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1330483.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [iPadOS 16.1最终版发布 为iPad提供Stage Manager](https://www.cnbeta.com/articles/tech/1330469.htm) | Mon Oct 24 2022 7:27 PM 
+- 🚀 [11月2日上市Xbox版《仙剑奇侠传7》发布预告](https://hot.cnbeta.com/articles/game/1330481.htm) | Mon Oct 24 2022 11:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在推迟了几周之后，苹果发布了iPadOS 16.1，其中包括一个名为Stage Manager的新的多任务界面，可定制的工具栏，以及一个内置的天气应用程序。Stage Manager是这个版本的焦点，它将iPad的多任务处理带到了一个新的水平，至少对于运行M2、M1、A12Z或A12X的机型是这样。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330469.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;昨天，发行商百家合宣布将北京软星开发的RPG游戏《仙剑奇侠传7》带到微软Microsoft商城以及Xbox平台，并公开了一段宣传视频。这款国人熟知的游戏作品将于11月2日登陆上述平台。&lt;strong&gt;《仙剑奇侠传7》预告：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1330481.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [iOS 16.1 更新发布：支持iCloud共享图片库，Matter与实时活动](https://www.cnbeta.com/articles/tech/1330467.htm) | Mon Oct 24 2022 7:01 PM 
+- 🎊 [明天凌晨25周年直播有望公开Xbox版《帝国时代4》](https://hot.cnbeta.com/articles/game/1330479.htm) | Mon Oct 24 2022 11:10 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;苹果公司今天发布了iOS 16.1，这是iOS 16操作系统的第一个重大更新。iOS 16.1是在9月发布的iOS 16的一个多月后推出的。&lt;/strong&gt;苹果的iOS 16更新可以通过进入设置&amp;gt;通用&amp;gt;软件更新，在符合条件的iPhone上无线下载。由于需求量大，更新可能需要几分钟时间才能传到所有用户。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330467.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;帝国时代是微软旗下重量级游戏IP，然而这个系列最新的《帝国时代4》却并没有登陆微软自家的游戏主机Xbox。不过根据最新的消息显示，一切似乎就要发生变化。也许我们将在明天得到《帝国时代4》登陆Xbox平台的消息也说不定。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1330479.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
