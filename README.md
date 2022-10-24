@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [酷睿i9-13900K处理器打破8.8GHz超频世界纪录](https://www.cnbeta.com/articles/tech/1330357.htm) | Mon Oct 24 2022 6:13 AM 
+- 🕯 [马斯克影响力正“变味”：首富越来越随性 白宫对其猜疑更深](https://www.cnbeta.com/articles/tech/1330373.htm) | Mon Oct 24 2022 7:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;随着 13 代 Raptor Lake 台式处理器的开售，世界各地的超频爱好者也迫不及待地想要突破 CPU 频率的极限。&lt;strong&gt;由 HWBot 上提交的报告可知，一位名叫“emlor”的瑞典选手，已让酷睿 i9-13900K 旗舰台式处理器飙到了惊人的 8.812 GHz 。&lt;/strong&gt;而在过去 8 年时间里，这项纪录一直被“黑盒”时代的 AMD FX-8370 所把持（@ 8.722 GHz）。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330357.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;马斯克曾经是白宫的宠儿，但现在正受到美国政府高层越来越多的猜忌。他此前关于俄乌冲突等地缘政治的随意评论引起了华盛顿当局的不满，许多政策制定者担心这位全球首富可能会绕过美国，成为其他国家的“亲密友人”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330373.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [莫奈画作博物馆内被环保人士泼土豆泥 玻璃覆盖的画作并未损坏](https://www.cnbeta.com/articles/tech/1330355.htm) | Mon Oct 24 2022 6:12 AM 
+- 💼 [一汽-大众第2500万辆整车下线：近两年卖出500万台](https://www.cnbeta.com/articles/tech/1330371.htm) | Mon Oct 24 2022 7:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当地时间10月23日，在德国的巴尔贝里尼博物馆内，有环保人士向莫奈名画《干草堆》上泼土豆泥。据悉，这幅画价值约1.1亿美金（价值约8亿元人民币）。&lt;strong&gt;综合CBS、《卫报》报道，当地时间10月23日，德国波茨坦巴贝里尼博物馆内，一对男女朝着莫奈的画作泼土豆泥，旨在警醒世人重视气候灾难。所幸，这幅画因外面的保护玻璃而完好无损。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330355.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一汽-大众官方宣布&lt;strong&gt;其第2500万辆汽车正式下线&lt;/strong&gt;，而自2020年以来，其产销量已经达到了500万，它也成为2020年以来首个产销超500万的乘用车企业。而就在今年7月份，其兄弟车型上汽大众也官宣达成了2500万辆整车下线的成绩，不得不说，大众在中国市场还是非常受欢迎和认可，这也是其销量达到5000万的主因。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330371.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [《独行月球》票房破31亿：观影人次超7400万 年度票房第二](https://hot.cnbeta.com/articles/movie/1330353.htm) | Mon Oct 24 2022 6:11 AM 
+- 💂 [DXOMARK宣布Mate 50 Pro运抵法国：XMAGE影像首秀成绩即将出炉](https://www.cnbeta.com/articles/tech/1330369.htm) | Mon Oct 24 2022 7:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据猫眼专业版数据，截至10月23日19:21，&lt;strong&gt;电影《独行月球》票房突破31亿元，观影累计人次达7450.7万。&lt;/strong&gt;目前，《独行月球》位列2022年度票房榜第二名。&lt;strong&gt;本年度票房榜前五的电影分别是：《长津湖之水门桥》（40.67亿元）、《独行月球》（31亿元）、《这个杀手不太冷静》（26.27亿元）、《人生大事》（17.12亿元）、《万里归途》（14.07亿元）。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1330353.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;9月，华为正式发布了新一代旗舰产品Mate 50 Pro，在这款手机上，华为选择采用自研的XMAGE影像代替此前Mate系列的徕卡影像。今天，DXOMARK官方宣布，&lt;strong&gt;Mate 50 Pro已经运抵法国，正在由图像质量部门对其进行实验室测试和真实场景分析，测试结果即将发布。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330369.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [清华钱班学生两度转行：从入门到一作发Science只用2年 明年回国做PI](https://www.cnbeta.com/articles/tech/1330351.htm) | Mon Oct 24 2022 6:08 AM 
+- 🚀 [研究人员设计新蛋白质 显示出帮助预防自身免疫性疾病的希望](https://www.cnbeta.com/articles/science/1330367.htm) | Mon Oct 24 2022 6:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;两度“转行”之后，95后贵州小伙以一作身份，在Science发表了第一篇文章。而这距他刚入门，也才不过两年时间。他叫做胡脊梁，曾以物理竞赛保送到清华钱学森力学班（“钱”班），随后在大二那年跟随兴趣所向。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330351.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;我们的免疫系统是抵御疾病的第一道防线，但不幸的是，它可能会失控，攻击健康组织。&lt;strong&gt;约翰斯·霍普金斯大学的科学家们现在设计了一种蛋白质，它可能通过提高调节性T细胞（Tregs）的数量来帮助预防这些自身免疫性疾病。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330367.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [一空客A330客机降落菲律宾冲出跑道 机身破了个大洞](https://www.cnbeta.com/articles/tech/1330349.htm) | Mon Oct 24 2022 6:02 AM 
+- 🎊 [科学家们创造一种新形式的人造血管 在进入体内后具有天然血管的特征](https://www.cnbeta.com/articles/science/1330365.htm) | Mon Oct 24 2022 6:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月24日消息，据报道，执飞大韩航空631号航班（KE631）的一架空客A330-322客机，&lt;strong&gt;在菲律宾麦克坦-宿务国际机场 （CEB） 的22号跑道上降落时发生意外，客机冲出跑道，但并没有人员伤亡报告。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330349.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据New Atlas报道，血管受损导致阻塞或以其他方式受阻，除了外科手术外没有其他选择。传统上，这可能涉及到来自捐赠者的血管或从病人身体其他部位获取的血管，但最近我们看到，实验室培育的替代品可能会起到一定的作用。&lt;strong&gt;科学家们宣称在这一领域取得了另一项进展，他们采用了一种新型材料，可以更好地模仿活体血管的结构，使其在到位后与身体一起生长。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330365.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
