@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [12个你可能不知道的CSS小技巧](https://juejin.cn/post/7157971234696167461) | Mon Oct 24 2022 7:05 AM 
+- 🤗 [Kotlin Sealed Class And Interface](https://juejin.cn/post/7158018471715373069) | Mon Oct 24 2022 10:08 AM 
     <details><summary>展开描述 ...</summary> 
-    走过路过不要错过，本文整理出12个开发中你有可能没有用到过的CSS小技巧，快点进来看一看，你知道其中的几个呢 
+    Kotlin 中存在 sealed 关键字可以修饰 class 和 interface ，表示密封类和接口。主要是为了限制类的继承结构以达到对继承进行控制的目的。 **密封类的子类在编译时明确可知。在 
     </details> 
 
-- 🎡 [Java&amp;C++题解与拓展——leetcode915.分割数组【么的新知识】](https://juejin.cn/post/7157967114857349157) | Mon Oct 24 2022 6:48 AM 
+- 🎡 [你说你懂原型链，那你实现一个 bind 我看看](https://juejin.cn/post/7158009281735262239) | Mon Oct 24 2022 9:33 AM 
     <details><summary>展开描述 ...</summary> 
-    leetcode915.分割数组解题思路，用Java、C++和Rust三种语言分别编写，并对所使用类和方法进行学习记录。 
+    bind 的实现其实非常考验对原型链的理解。bind 和 apply，call 是 JS 修改 this 指向的三把利器 🔱。但看似简单的内容，实则包含了 JS 的两大核心内容：原型链和构造函数。 
     </details> 
 
-- 🕯 [只需百来行代码，为你的Web页面增加本地文件操作能力，确定不试试吗？](https://juejin.cn/post/7157681502506090510) | Sun Oct 23 2022 12:20 PM 
+- 🕯 [动态操作系统风格菜单组件库 - react-frame-contextmenu](https://juejin.cn/post/7157982877416685605) | Mon Oct 24 2022 7:49 AM 
     <details><summary>展开描述 ...</summary> 
-    笔者开源了一个Web思维导图，数据默认是存储在localstorage里，如果想保存到本地文件，需要使用导出功能，下次打开再使用导入功能，编辑完如果又想保存到文件，那么又需要从重新导出覆盖原来的文件 
+    一个React组件，在你的应用程序中创建Windows风格的上下文菜单和菜单栏。 如何使用它。 1.安装。 2.2.导入必要的样式表。 3.创建一个多级上下文菜单。 4.创建一个菜单栏。 预览。 Th 
     </details> 
 
-- 🚀 [❄️ 寒冷冬日，用 CSS 送给大家一份热腾腾的咖啡加载动画！☕](https://juejin.cn/post/7157632014076608542) | Sun Oct 23 2022 9:09 AM 
+- 🚀 [React中的可视化JSON编辑器的使用教程](https://juejin.cn/post/7157982109213147144) | Mon Oct 24 2022 7:47 AM 
     <details><summary>展开描述 ...</summary> 
-    今天网上闲逛时看到一个 Loading 动画效果，觉得很有意思，于是研究了一下它的原理，做了一步步的思路分析，打算分享给大家。 
+    一个基于React的可视化JSON编辑器。 如何使用它。 1.安装和导入。 2.基本使用方法。 预览。 The postVisual JSON Editor In Reactappeared firs 
     </details> 
 
-- 💪 [Spring Cache 整合 Redis 做缓存使用~ 快速上手~](https://juejin.cn/post/7157609002606526494) | Sun Oct 23 2022 7:40 AM 
+- 💪 [在网页上添加水印 - react-watermark](https://juejin.cn/post/7157982053013651470) | Mon Oct 24 2022 7:46 AM 
     <details><summary>展开描述 ...</summary> 
-    前三篇文章说了那么那么多，但是我们在使用缓存的场景中，大都数还是会采用了类似 Spring Cache 的缓存管理器来做，说原因其实也没啥，因为项目中并不是所有的业务对数据有那么强的数据一致性。 
+    一个React组件，可以在页面上添加图片或单线/多线文本水印。 如何使用它。 1.安装并导入。 2.2.在页面上添加一个单行文本水印。 3.在页面上添加多行文本水印。 4.4. 在页面上添加一个图像水 
     </details> 
 <!-- juejin:END -->
 ### 少数派
