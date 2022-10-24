@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [三星电子将大幅提高晶圆代工产能 计划到2027年增加2倍以上](https://www.cnbeta.com/articles/tech/1330395.htm) | Mon Oct 24 2022 9:30 AM 
+- 🕯 [打破光学的规则 - 工程师在纳米尺度上操纵光线](https://www.cnbeta.com/articles/science/1330401.htm) | Mon Oct 24 2022 10:11 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;如果你要打破规则，就要确保每个人都看到它。这就是莱斯大学工程师的目标，他们试图用新的技术加强虚拟现实、3D显示和一般光学技术的屏幕。&lt;/strong&gt;莫斯规则（Moss rule）描述了一种材料的光学吸收和它如何折射光线之间的权衡，这一规则已经被莱斯大学乔治-R-布朗工程学院的电气和计算机工程副教授Gururaj Naik和应用物理学研究生项目校友Chloe Doiron打破。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330401.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [AMD正为Ryzen 7700处理器做准备 非X 65W芯片即将进入AM5市场](https://www.cnbeta.com/articles/tech/1330399.htm) | Mon Oct 24 2022 10:02 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;虽然AM5的采用率仍然很慢，但看起来AMD可能正在准备其后缀中不含X的芯片，如Ryzen 7700 CPU以带回一些市场关注度。对于那些关注技术的人来说，推文中说，&amp;quot;7700 8 65&amp;quot;。这条来自188号的不寻常的推文指的是AMD的Ryzen 7700 SKU，它将采用受限的TDP设计，而且可能是较低的价格点。非X CPU一直被认为是更适合预算级的选择，尽管事情如何发展还有待观察。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330399.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [GeForce RTX 4090显卡上的16针连接器烧毁 融化了电缆和插头](https://www.cnbeta.com/articles/tech/1330397.htm) | Mon Oct 24 2022 9:47 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Reddit网站报道了首例为GeForce RTX 4090供电的NVIDIA 16针连接器烧毁并融化插头的案例。Reddit上ID为u/reggie_gakil的玩家在NVIDIA subreddit上发布了一张显卡16针连接器全部烧毁的图片，该连接器为他全新购买的GeForce RTX 4090（定制型号）供电。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330397.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [三星电子将大幅提高晶圆代工产能 计划到2027年增加2倍以上](https://www.cnbeta.com/articles/tech/1330395.htm) | Mon Oct 24 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今年6月份率先采用3nm制程工艺为相关客户代工晶圆的三星电子，是全球重要的芯片代工商，晶圆代工也是他们致力于大力发展的，2019年就曾有报道称，他们计划未来10年投资1160亿美元，发展晶圆代工等芯片制造业务，为科技巨头们代工芯片。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330395.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [嫦娥五号月壤揭示月球年轻火山成因之谜](https://www.cnbeta.com/articles/science/1330393.htm) | Mon Oct 24 2022 9:26 AM 
+- 🎊 [嫦娥五号月壤揭示月球年轻火山成因之谜](https://www.cnbeta.com/articles/science/1330393.htm) | Mon Oct 24 2022 9:26 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;新华社北京10月23日电（记者刘艺炜、喻菲）中国科学家根据对嫦娥五号月壤的研究提出了新的月球热演化模型，揭开了困扰学术界的一大谜团：为何月球在距今20亿年前依然有火山活动。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330393.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [气候温暖叠加供应充足 欧洲天然气价格一度暴跌至100欧元](https://www.cnbeta.com/articles/tech/1330391.htm) | Mon Oct 24 2022 9:25 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;欧洲天然气价格基准——TTF天然气价格自去年6月以来首次跌至每兆瓦时100欧元，主要因温暖的天气、充足的天然气储存量以及欧盟遏制能源危机的举措缓解了人们对欧洲冬季天然气供应短缺的担忧。天气预测机构Maxar预测温暖的供暖季节将持续一段时间。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330391.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [NASA“好奇号”火星车抵达期待已久的“含硫酸盐单元”](https://www.cnbeta.com/articles/science/1330389.htm) | Mon Oct 24 2022 8:39 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;在今年夏天跋涉通过一个狭窄的、有沙子的通道之后，NASA的好奇号火星车最近抵达了“含硫酸盐单元”。&lt;/strong&gt;夏普山的这个长期寻找的区域富含丰富的含盐矿物质。科学家们推测，这些矿物是数十亿年前溪流和池塘的水干涸时留下的。假设这个假设是正确的，这些矿物提供了诱人的线索，说明红色星球的气候是如何--以及为什么--从更像地球变成今天的冰冻沙漠的。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330389.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [微软更新Windows 11 22H2处理器支持列表 含13代酷睿与锐龙7000系列](https://www.cnbeta.com/articles/tech/1330387.htm) | Mon Oct 24 2022 8:36 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一个多月前，微软开始向公众推送 Windows 11 的 22H2 功能更新。尽管自最初的 21H2 以来，Windows 11 的系统要求一直没有太大变化。&lt;strong&gt;但在大约一周前，这家雷德蒙德软件巨头也悄然更新了 Windows 11 操作系统的 Intel / AMD 处理器支持列表。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330387.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
