@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一篇就够：十大心理学原理在产品设计中的应用](https://juejin.cn/post/7158290653728899079) | Tue Oct 25 2022 3:44 AM 
+- 🤗 [JeecgBoot低代码开发平台与达梦数据完成兼容性互认证](https://juejin.cn/post/7158363610413006879) | Tue Oct 25 2022 8:27 AM 
     <details><summary>展开描述 ...</summary> 
-    哈喽，小摹来啦~ 对于产品经理、设计师和运营人员，心理学都是必须要补的一门课程。 可能很多同学都犯过和小摹相同的错误——在各种商城放“神券”的时候屯一大堆专业书籍。实际上，心理学的书籍你大概只要看到第 
+    JeecgBoot与达梦数据库管理系统V8完成兼容性认证测试；通过双方共同测试表明，Jeecgboot低代码开发平台与达梦数据库管理系统V8，相互兼容，系统功能运行稳定，能够满足用户更多的性能需求。 
     </details> 
 
-- 🎡 [Redis Cluster 原理说的头头是道，这些配置不懂就是纸上谈兵](https://juejin.cn/post/7158290559311249415) | Tue Oct 25 2022 3:43 AM 
+- 🎡 [我摊牌了！真正的灰度队列实现方案！全网你都搜不到！](https://juejin.cn/post/7158323516147040293) | Tue Oct 25 2022 5:51 AM 
     <details><summary>展开描述 ...</summary> 
-    Redis Cluster 集群相关配置，使用集群方式的你必须重视和知晓。如何配置让集群快到飞起，实现真正的高可用却一头雾水，通过下面这些配置详解也让你对集群原理更加深刻。 
+    背景 目前，公司方面 RPC 调用如 Dubbo、Feign 已经能支持基于灰度的调用，但是 MQ 还没有支持灰度的能力，因此导致在测试和生产环境业务验证、消息隔离方面体验比较差，因此我们基于 Rab 
     </details> 
 
-- 🕯 [【1024】程序员节丨致敬所有技术布道师](https://juejin.cn/post/7158288909221249031) | Tue Oct 25 2022 3:37 AM 
+- 🕯 [Compose动画：AnimatedContent](https://juejin.cn/post/7158285742316191757) | Tue Oct 25 2022 3:24 AM 
     <details><summary>展开描述 ...</summary> 
-    又是一年1024程序员节，MobTech与技术布道师重温数说，共同探索和交流大数据智能科技的最佳实践与未来发展方向。 
+    今天的 Compose 动画主角是 AnimatedContent。虽然它目前是实验性的（@ExperimentalAnimationApi），不过也不妨碍我们研究和使 
     </details> 
 
-- 🚀 [苹果 macOS 13 Ventura 正式版发布，macOS 13 Ventura 更新与安装方法](https://juejin.cn/post/7158286198933291044) | Tue Oct 25 2022 3:27 AM 
+- 🚀 [Android 源码浅析：RecyclerView 源码浅析（2）—— 测量、布局、绘制、预布局](https://juejin.cn/post/7158275097424298015) | Tue Oct 25 2022 2:43 AM 
     <details><summary>展开描述 ...</summary> 
-    苹果今日（10 月 25 日）向 Mac 电脑用户推送了 macOS 13 更新（内部版本号：22A380）。 
+    本博客从自定义 View 三大流程 measure、layout、draw 的角度继续对 RecyclerView 相关部分源码进行分析。 
     </details> 
 
-- 💪 [在JavaScript中使用装饰器](https://juejin.cn/post/7158281950296277005) | Tue Oct 25 2022 3:10 AM 
+- 💪 [iOS小技能： tweak 集成CocoaAsyncSocket（建连、断开、重连、心跳、通用请求）](https://juejin.cn/post/7158257613233192974) | Tue Oct 25 2022 1:35 AM 
     <details><summary>展开描述 ...</summary> 
-    Decorator装饰器是ES7的时候提案的特性，目前处于Stage 3候选阶段（2022年10月）。 装饰器简单来说就是修改类和类方法的语法糖，很多面向对象语言都有装饰器这一特性。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第26天，点击查看活动详情 前言 应用场景：app端集成CocoaAsyncSocket与服务端进行通信，利用实现机器人功能。 即 
     </details> 
 <!-- juejin:END -->
 ### 少数派
