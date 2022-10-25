@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [鏖战 48 小时，TiDB Hackathon 都诞生了哪些硬核创意？](https://juejin.cn/post/7158349284293738509) | Tue Oct 25 2022 7:31 AM 
+- 🤗 [使用 koa-log4 来记录日志](https://juejin.cn/post/7158374376901967903) | Tue Oct 25 2022 9:08 AM 
     <details><summary>展开描述 ...</summary> 
-    TiDB Hackathon 2022 决赛刚好在 1024 程序员节前夜完美收官，48 小时的 Happy Hacking，参赛项目有趣、有料，精彩不断！ 退出全屏 切换到横屏模式 🎦 点击观看视频 
+    任何语言框架都少不了日志模块，通过日志的记录可以帮助我们来方便排查项目中出现的异常，日志在生产环境中担当着相当重要的角色。 koa-log4 是在log4j-node的基础上做了一次包装，是 koa  
     </details> 
 
-- 🎡 [PMP自学可以吗？机构和自学哪个更好？](https://juejin.cn/post/7158338109262790687) | Tue Oct 25 2022 6:49 AM 
+- 🎡 [简述Thread的interrupt&lpar;&rpar;、interrupted&lpar;&rpar;及isInterrupted&lpar;&rpar;的区别](https://juejin.cn/post/7158373229201981453) | Tue Oct 25 2022 9:05 AM 
     <details><summary>展开描述 ...</summary> 
-    PMP自学可以吗？机构和自学哪个更好？PMP自学可以吗？机构和自学哪个更好？PMP自学可以吗？机构和自学哪个更好？PMP自学可以吗？机构和自学哪个更好？PMP自学可以吗？机构和自学哪个更好？PMP自学 
+    在java Thread类中，我们会看到interrupt&lpar;&rpar;、interrupted&lpar;&rpar;及isInterrupted&lpar;&rpar;，在大多数情况下，我们都不会使用到它们，但是有一个`InterruptedEx 
     </details> 
 
-- 🕯 [七个方面！API接口设计需要注意的问题](https://juejin.cn/post/7158334823697186852) | Tue Oct 25 2022 6:35 AM 
+- 🕯 [B端产品设计之原型设计](https://juejin.cn/post/7158342740156088356) | Tue Oct 25 2022 7:09 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是小郭，今天主要梳理一下API接口设计需要注意的问题。从接口隔离原则、命名、HTTP动词、幂等、安全策略、版本管理等方面来思考。 
+    前几篇文章从B端产品设计的业务、流程设计角度出发，给大家阐述了自己的想法，这篇文章将从原型设计角度出发，主要是原型设计工具，如何设计原型，设计边界，设计规范以及PRD结合这几个方面阐述。 话不多说，开 
     </details> 
 
-- 🚀 [vue3正式发布两年后，我才开始学（2w字总结）](https://juejin.cn/post/7158331832512020511) | Tue Oct 25 2022 6:24 AM 
+- 🚀 [【说透Redis】为什么单线程的Redis那么快？](https://juejin.cn/post/7158343176841854983) | Tue Oct 25 2022 7:08 AM 
     <details><summary>展开描述 ...</summary> 
-    距离 vue3 正式发布已经过去两年有余, 成为默认版本也过去大半年了，以前还能说是对新技术、新特性的观望，到现在面试都直问 vue3 源码了。 我想，不管什么原因，是时候学习 vue3 了 所以这次 
+    我们都知道`Redis`很快，我们还总是听别人说`Redis`是单线程的，那么单线程的Redis为什么那么快呢？ 
     </details> 
 
-- 💪 [一行注解搞定异常重试，这么牛？](https://juejin.cn/post/7158328650507485198) | Tue Oct 25 2022 6:11 AM 
+- 💪 [搞懂 Flowable 中的流程定义和流程实例](https://juejin.cn/post/7158342433615380517) | Tue Oct 25 2022 7:04 AM 
     <details><summary>展开描述 ...</summary> 
-    简而言之重试，就是为了去保障我们业务的可用性、容错性、一致性 那么，针对于异常重试，可能新来的小杨同学会觉得，异常重试不是很简单，我判断一下三方回来的异常，进行 for 循环固定次数的重新调用就完事 
+    [TOC] 本文为稀土掘金技术社区首发签约文章，14天内禁止转载，14天后未获授权禁止转载，侵权必究！ 本专栏第二篇已发布，尚未看过的小伙伴请移步这里： [ Flowable 开篇，流程引擎扫盲]&lpar;h 
     </details> 
 <!-- juejin:END -->
 ### 少数派
