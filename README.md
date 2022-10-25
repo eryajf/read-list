@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [甄子丹自导自演 《天龙八部之乔峰传》剧照曝光](https://hot.cnbeta.com/articles/movie/1330677.htm) | Tue Oct 25 2022 12:45 PM 
+- 🕯 [《黑亚当》北美6700万美元开画夺冠 创强森主演电影开画纪录](https://hot.cnbeta.com/articles/movie/1330701.htm) | Tue Oct 25 2022 1:50 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据新浪电影报道，东京电影节期间，外媒公开了甄子丹担任监制、总导演、主演的新片《天龙八部之乔峰传》幕后照及剧照。在采访中甄子丹表示，拍金庸电影成为自己职业生涯最大的挑战。在动作设计上，他融合了自己40年所学，希望让观众隔着屏幕都能感受到拳脚之争的疼痛感、真实感。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1330677.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;由道恩·强森主演的DC新作《黑亚当》上周末6700万美元在北美市场夺冠，也让周末总票房来到1.13亿美元，结束了将近3个月的颓势。&lt;/strong&gt;《黑亚当》的6700万美元创造了强森主演电影北美最高开画纪录，《速度与激情：特别行动》为6000万美元、《狂暴巨兽》3570万美元、《摩天营救》为2490万美元。（《速7》《速8》强森被定义为配角）&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1330701.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [云米发布AI:Helpful2.0 让全屋智能真正有用、好用](https://www.cnbeta.com/articles/tech/1330675.htm) | Tue Oct 25 2022 12:44 PM 
+- 💼 [我们的月球是被地球“吐”出来的吗？](https://www.cnbeta.com/articles/science/1330699.htm) | Tue Oct 25 2022 1:43 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月25日，云米秋季AI软件发布会在线上召开。发布会上，云米创始人、CEO陈小平介绍了全新升级的AI：Helpful 2.0，聚焦软件升级，从呵护健康、节能环保、主动智能、自然交互四大维度进行产品迭代，让AI在家落地，实现全屋智能“Helpful有用、好用”，全面推动智能科技家的落地。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330675.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;不知道你有没有想过，为什么地球旁边有一个月球？月亮是怎么来的？今天，我们就来与大家聊聊这些问题。对于月球的起源，自古以来就有很多假说：比如有说月亮跟地球一样都是太阳系里面最早形成的星球，地球大了就变成行星，月亮小了被地球的引力“抓”过来，成为了地球的卫星。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330699.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [中国首飞全球首款大型四发无人机 最大载重重量1.5吨](https://www.cnbeta.com/articles/tech/1330673.htm) | Tue Oct 25 2022 12:28 PM 
+- 💂 [亚马逊现在允许客户通过Venmo进行支付](https://www.cnbeta.com/articles/tech/1330697.htm) | Tue Oct 25 2022 1:41 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;全球很多无人机使用的还是单发、双发发动机，现在四发无人机也来了——中国成功首飞全球第一款大型四发无人机“双尾蝎D”，最大载重可达1.5吨。据沸点视频介绍，10月25日，四川自贡凤鸣通航机场，全球首款大型四发无人机首飞圆满完成，这架代号为“双尾蝎D”的大型四发无人机由四川腾盾科创股份有限公司自主研发，并拥有完全知识产权。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330673.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;亚马逊宣布，它现在将允许客户在其平台上通过Venmo进行支付。该公司表示，从今天开始，这一选项将提供给部分客户，并将在下个月的黑色星期五之前，在亚马逊网站和移动应用上向所有美国用户推出。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330697.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [盖蒂图片社CEO：竞相销售AI艺术品的公司可能正在步入非法领域](https://www.cnbeta.com/articles/tech/1330671.htm) | Tue Oct 25 2022 12:24 PM 
+- 🚀 [预计iPhone 15内存将提升到6-8GB 换用USB-C接口](https://www.cnbeta.com/articles/tech/1330695.htm) | Tue Oct 25 2022 1:40 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;盖蒂图片社（Getty Image）首席执行官克雷格-彼得斯批评了&amp;quot;竞相&amp;quot;将人工智能艺术生成器商业化的公司，称这些公司没有考虑到该技术潜在的法律和道德危险。&lt;/strong&gt;在接受采访时，彼得斯重申了盖蒂图片社反对销售人工智能内容的规定（今年9月份下达），同时宣布了该公司与以色列公司Bria之间的新伙伴关系，以提供人工智能驱动的图像编辑工具。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330671.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据台湾研究公司TrendForce称，iPhone 15 Pro型号将配备增加的8GB内存、USB-C端口和多个摄像头的改进。&lt;strong&gt;在今天的一份新闻稿中，TrendForce表示，iPhone 15阵容将再次由四个型号组成，只有两个Pro型号将获得苹果的最新处理器，就像iPhone 14阵容的情况一样。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330695.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [有一种退网叫做“罗永浩式退网”](https://www.cnbeta.com/articles/tech/1330669.htm) | Tue Oct 25 2022 12:21 PM 
+- 🎊 [TanSat任务首次成功地检测到人类活动带来的二氧化碳](https://www.cnbeta.com/articles/science/1330693.htm) | Tue Oct 25 2022 1:36 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;1000万+的观看量直接成为当晚淘宝直播的顶流，一晚上直播间涨粉超过100万，此时距离入驻还不到4天……罗永浩一在淘宝直播，果不其然又炸了。10月24号晚上的这场罗永浩淘宝直播首秀，&lt;strong&gt;罗永浩穿着印有“交个朋友”四个大字的T恤，在直播间兢兢业业地站了好几个小时。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330669.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;一个国际研究小组通过分析来自TanSat任务和哥白尼哨兵-5前驱体任务的测量结果，确定了来自人类活动的二氧化碳。&lt;/strong&gt;这是首次尝试使用TanSat的测量数据来检测人为的，或人类造成的二氧化碳排放特征。在全球范围内监测温室气体的最关键标准之一是量化人为的二氧化碳排放。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330693.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
