@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [使用 koa-log4 来记录日志](https://juejin.cn/post/7158374376901967903) | Tue Oct 25 2022 9:08 AM 
+- 🤗 [🌪️ 这个按钮有点飘 —— 教大家实现一个好玩的 3D 按钮](https://juejin.cn/post/7158395137175846948) | Tue Oct 25 2022 10:29 AM 
     <details><summary>展开描述 ...</summary> 
-    任何语言框架都少不了日志模块，通过日志的记录可以帮助我们来方便排查项目中出现的异常，日志在生产环境中担当着相当重要的角色。 koa-log4 是在log4j-node的基础上做了一次包装，是 koa  
+    最近在掘金刷文时，看到了一个 3D 菜单，于是突发奇想，能不能自己做个 3D 按钮，说干就干，花了一下午的时间实现了效果并整理了实现的过程，分享给大家。 
     </details> 
 
-- 🎡 [简述Thread的interrupt&lpar;&rpar;、interrupted&lpar;&rpar;及isInterrupted&lpar;&rpar;的区别](https://juejin.cn/post/7158373229201981453) | Tue Oct 25 2022 9:05 AM 
+- 🎡 [如何给vueuse库提PR](https://juejin.cn/post/7158356139699585055) | Tue Oct 25 2022 7:59 AM 
     <details><summary>展开描述 ...</summary> 
-    在java Thread类中，我们会看到interrupt&lpar;&rpar;、interrupted&lpar;&rpar;及isInterrupted&lpar;&rpar;，在大多数情况下，我们都不会使用到它们，但是有一个`InterruptedEx 
+    在H5中进行频繁的路由跳转，当次数达到30次左右时，浏览器控制台就会出现一个节流的警告。排查发现是vueuse库中useUrlSearchParams在异步任务中频繁使用造成的，后面解决完后就提了PR 
     </details> 
 
-- 🕯 [B端产品设计之原型设计](https://juejin.cn/post/7158342740156088356) | Tue Oct 25 2022 7:09 AM 
+- 🕯 [用原生JS实现Web版黑白棋 AI](https://juejin.cn/post/7158355619827695624) | Tue Oct 25 2022 7:58 AM 
     <details><summary>展开描述 ...</summary> 
-    前几篇文章从B端产品设计的业务、流程设计角度出发，给大家阐述了自己的想法，这篇文章将从原型设计角度出发，主要是原型设计工具，如何设计原型，设计边界，设计规范以及PRD结合这几个方面阐述。 话不多说，开 
+    最近为码上掘金编程挑战赛写了一个带AI的黑白棋游戏，代码比较简单，不到五百行，棋力也还可以，一般非专业的同学很难取胜。今天我来说说如何使用原生JS实现这样的游戏。 
     </details> 
 
-- 🚀 [【说透Redis】为什么单线程的Redis那么快？](https://juejin.cn/post/7158343176841854983) | Tue Oct 25 2022 7:08 AM 
+- 🚀 [Go的方法接收者：值接收者与指针接收者](https://juejin.cn/post/7158354728961703973) | Tue Oct 25 2022 7:53 AM 
     <details><summary>展开描述 ...</summary> 
-    我们都知道`Redis`很快，我们还总是听别人说`Redis`是单线程的，那么单线程的Redis为什么那么快呢？ 
+    在这动荡的世界里，学好基本功，好好活下来！ 本文主要介绍了go的方法接收者的两种形式的区别与联系，以及实际实践中的一点建议。 
     </details> 
 
-- 💪 [搞懂 Flowable 中的流程定义和流程实例](https://juejin.cn/post/7158342433615380517) | Tue Oct 25 2022 7:04 AM 
+- 💪 [PowerManagerService之手动灭屏](https://juejin.cn/post/7158354795600805901) | Tue Oct 25 2022 7:52 AM 
     <details><summary>展开描述 ...</summary> 
-    [TOC] 本文为稀土掘金技术社区首发签约文章，14天内禁止转载，14天后未获授权禁止转载，侵权必究！ 本专栏第二篇已发布，尚未看过的小伙伴请移步这里： [ Flowable 开篇，流程引擎扫盲]&lpar;h 
+    PowerManagerService之亮屏流程分析 分析了亮屏的流程，并归纳出了一个适用于亮屏或灭屏的通用的流程。 但是，灭屏流程还有一些独特的东西 
     </details> 
 <!-- juejin:END -->
 ### 少数派
