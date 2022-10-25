@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [俄货运飞船任务接近发射 宇航员在空间站进行大量的人类研究工作](https://www.cnbeta.com/articles/science/1330633.htm) | Tue Oct 25 2022 8:34 AM 
+- 🕯 [Google Chrome 107今日发布：支持HEVC解码 尽管遭到Mozilla反对](https://www.cnbeta.com/articles/tech/1330641.htm) | Tue Oct 25 2022 9:18 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Google Chrome 106在四周前发布，随之而来的是大量的实验性功能以及废弃功能调整，一个月过去，这意味着现在是该浏览器的下一个主要版本上市的时候了。就新支持的API数量而言，Chrome 107似乎是一个与上一周期类似的更新，但这次有一个有趣的功能是对高效视频编码（HEVC）的支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330641.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [美电子烟巨头JUUL被曝正与两大投资者商谈救助避免破产](https://www.cnbeta.com/articles/tech/1330639.htm) | Tue Oct 25 2022 9:10 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;陷入困境的美国电子烟巨头JUUL被爆正与两大投资者就救助问题进行商谈。10月25日，据华尔街日报报道&lt;strong&gt;，Juul Labs Inc.正与其两个最大的投资者就救助问题进行商谈，这可能有助于这家电子烟制造商避免申请破产。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330639.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [摩托罗拉明年有望推出代号Geneva新机 亮点是配备手写笔](https://www.cnbeta.com/articles/tech/1330637.htm) | Tue Oct 25 2022 8:54 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;援引国外科技媒体 91Mobile 报道，摩托罗拉计划在 2023 年推出代号为“Geneva”的新机。&lt;/strong&gt;该机最大的亮点就是配备了手写笔，和今年发售的 Moto G Stylus &lpar;2022&rpar; 和 G Stylus 5G &lpar;2022&rpar;一样，会有 5G 和 4G 两个版本，定位中低端市场。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330637.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [WhatsApp出现大规模宕机事件 用户无法访问](https://www.cnbeta.com/articles/tech/1330635.htm) | Tue Oct 25 2022 8:44 AM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;WhatsApp 于今天出现了大规模的严重宕机事件。&lt;/strong&gt;该服务于北京时间 15 点左右开始出现问题，用户收到一条“正在连接”中的消息。如果您尝试使用 WhatsApp 网页版，您会看到“确保您的计算机具有有效的互联网连接”错误。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330635.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🎊 [俄货运飞船任务接近发射 宇航员在空间站进行大量的人类研究工作](https://www.cnbeta.com/articles/science/1330633.htm) | Tue Oct 25 2022 8:34 AM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;下一次为远征68号机组人员提供补给的货运任务准备在10月25日星期二晚间发射到国际空间站（ISS）。&lt;strong&gt;与此同时，轨道实验室上的七个宇航员开始了本周的工作，为两位宇航服提供服务，并进行大量的人类研究工作。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330633.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💼 [蒂姆·波顿:《小飞象》翻拍后不再拍迪士尼电影](https://hot.cnbeta.com/articles/movie/1330631.htm) | Tue Oct 25 2022 8:32 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在迪士尼制片公司中经历了漫长而又动荡的职业生涯之后，曾拍摄过许多经典影片的著名导演蒂姆·波顿 Tim Burton 表示自己可能不会再拍迪士尼电影了。在接受 DEADLINE 采访时，Tim Burton说道：“我的历史是草根出生。我的整个职业生涯中，我曾多次被聘用和解雇。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1330631.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [中川翔子1小时速绘42个JUMP主角 画功令观者惊叹](https://www.cnbeta.com/articles/tech/1330629.htm) | Tue Oct 25 2022 7:50 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;著名歌手明星中川翔子其实有很多头衔，才艺惊人各领域多有涉及，其中时不时晒出的惊人画功简直不输专业插漫画家，24日再次发起新挑战，看看1小时内能够绘出多少位JUMP主角，不但速度惊人，质量一样出色，一起来惊叹下。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330629.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [《帝国时代2决定版》Xbox版欧洲过审 有望于25周年直播公布](https://hot.cnbeta.com/articles/game/1330627.htm) | Tue Oct 25 2022 7:46 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据PEGI页面显示，《帝国时代2决定版》XboxSeriers X/S以及Xbox One版在欧洲过审，与PC版一样游戏定为12+，此级别或许包含更多的暴力、血腥、性主题、恐怖或不良语句。微软Xbox副总Aaron Greenburg今日通过自己的社交媒体转发了《帝国时代》25周年直播活动的预告，因此Xbox版的《帝国时代2决定版》很有可能在此次直播中与玩家们见面。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1330627.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [三部门：对电子烟征收消费税 生产（进口）环节税率为36%](https://www.cnbeta.com/articles/tech/1330625.htm) | Tue Oct 25 2022 7:44 AM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据国家财政部网站消息，财政部、海关总署、税务总局发布关于对电子烟征收消费税的公告。公告全文如下：为完善消费税制度，维护税制公平统一，更好发挥消费税引导健康消费的作用，现就对电子烟征收消费税有关事项公告如下：&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330625.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
