@@ -792,29 +792,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [自疫情以来，远程办公普及后，夜猫子型不用早床咯](http://jandan.net/p/111526) | Mon Oct 24 2022 3:59 PM 
+- 🚀 [摄神取念：搞出了基于fMRI的科技读心术](http://jandan.net/p/111529) | Tue Oct 25 2022 4:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    把思考活动里的语义内容和对大脑磁共振成像的结果对应在一起 
+    </details> 
+
+- 🙉 [人类从何时开始使用道路](http://jandan.net/p/111528) | Tue Oct 25 2022 4:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    世上本没有路，走的人多了，也就成了路。 
+    </details> 
+
+- 🎉 [今日好价 1025](http://jandan.net/p/111527) | Tue Oct 25 2022 3:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    今日带货商品数量：40 
+    </details> 
+
+- 🐲 [自疫情以来，远程办公普及后，夜猫子型不用早床咯](http://jandan.net/p/111526) | Mon Oct 24 2022 3:59 PM 
     <details><summary>展开描述 ...</summary> 
     所以还有夜猫子吗 
     </details> 
 
-- 🙉 [为什么，同样是斑斓体表，有些动物用于吸引配偶，另一些则用于恐吓捕食者](http://jandan.net/p/111525) | Mon Oct 24 2022 3:50 PM 
+-  [为什么，同样是斑斓体表，有些动物用于吸引配偶，另一些则用于恐吓捕食者](http://jandan.net/p/111525) | Mon Oct 24 2022 3:50 PM 
     <details><summary>展开描述 ...</summary> 
     zsbd 
-    </details> 
-
-- 🎉 [运动可以改善睡眠质量](http://jandan.net/p/111524) | Mon Oct 24 2022 7:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    尤其是常规有氧 
-    </details> 
-
-- 🐲 [今日好价 1024](http://jandan.net/p/111523) | Mon Oct 24 2022 2:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：36 
-    </details> 
-
--  [脑力小体操 我的滑板车之疯狂路程问题](http://jandan.net/p/111522) | Sun Oct 23 2022 3:58 PM 
-    <details><summary>展开描述 ...</summary> 
-    时尚时尚最时尚 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
