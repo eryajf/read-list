@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [坏掉的 k40 如何刷机?](https://www.v2ex.com/t/889785#reply0) | Tue Oct 25 2022 10:17 AM
-- 🤗 [docker 下编译 android12 问题](https://www.v2ex.com/t/889782#reply0) | Tue Oct 25 2022 10:10 AM
-- 🎭 [大佬们，哪里找私活好找一些？](https://www.v2ex.com/t/889772#reply4) | Tue Oct 25 2022 9:33 AM
-- 🥷 [阿里轻量云出口+入口总带宽限速 30Mbps 了？](https://www.v2ex.com/t/889769#reply0) | Tue Oct 25 2022 9:25 AM
-- 🐵 [会前端的后端如何找人一起开发团队项目？](https://www.v2ex.com/t/889751#reply2) | Tue Oct 25 2022 8:49 AM<!-- v2ex:END -->
+- 🥸 [typeorm.js mysql 查询性能疑问](https://www.v2ex.com/t/889794#reply1) | Tue Oct 25 2022 10:56 AM
+- 🤗 [Google Voice 新手入坑记录](https://www.v2ex.com/t/889787#reply6) | Tue Oct 25 2022 10:44 AM
+- 🎭 [坏掉的 k40 如何刷机?](https://www.v2ex.com/t/889785#reply7) | Tue Oct 25 2022 10:17 AM
+- 🥷 [docker 下编译 android12 问题](https://www.v2ex.com/t/889782#reply0) | Tue Oct 25 2022 10:10 AM
+- 🐵 [大佬们，哪里找私活好找一些？](https://www.v2ex.com/t/889772#reply8) | Tue Oct 25 2022 9:33 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
