@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [《黑亚当》北美6700万美元开画夺冠 创强森主演电影开画纪录](https://hot.cnbeta.com/articles/movie/1330701.htm) | Tue Oct 25 2022 1:50 PM 
+- 🕯 [时隔9年：经典内存测试软件Memtest86+王者归来 还免费](https://www.cnbeta.com/articles/tech/1330715.htm) | Tue Oct 25 2022 3:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;由道恩·强森主演的DC新作《黑亚当》上周末6700万美元在北美市场夺冠，也让周末总票房来到1.13亿美元，结束了将近3个月的颓势。&lt;/strong&gt;《黑亚当》的6700万美元创造了强森主演电影北美最高开画纪录，《速度与激情：特别行动》为6000万美元、《狂暴巨兽》3570万美元、《摩天营救》为2490万美元。（《速7》《速8》强森被定义为配角）&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1330701.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天，&lt;a class=&quot;f14_link&quot; href=&quot;https://www.memtest.org/&quot; target=&quot;_blank&quot;&gt;Memtest86+ v6.00正式版终于发布了&lt;/a&gt;，距离它在2013年的上一个正式版，已经整整9年。一切还要追溯到上世纪90年代中期，&lt;strong&gt;Memtest86是最早能够测试PC DDR内存的工具之一，备受推崇。&lt;/strong&gt;后来，它被基准测试公司PassMark所收购，但是和很多被收购的软件一样，它陷入了更新缓慢、功能臃肿、必须付费的境地。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330715.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [我们的月球是被地球“吐”出来的吗？](https://www.cnbeta.com/articles/science/1330699.htm) | Tue Oct 25 2022 1:43 PM 
+- 💼 [古老的细菌可能潜伏在火星表面之下](https://www.cnbeta.com/articles/science/1330713.htm) | Tue Oct 25 2022 3:11 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;不知道你有没有想过，为什么地球旁边有一个月球？月亮是怎么来的？今天，我们就来与大家聊聊这些问题。对于月球的起源，自古以来就有很多假说：比如有说月亮跟地球一样都是太阳系里面最早形成的星球，地球大了就变成行星，月亮小了被地球的引力“抓”过来，成为了地球的卫星。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330699.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一项新的研究发现，在火星上发现生命的机会比以前预期得要大。研究人员模拟了火星恶劣的电离辐射条件，以观察干燥、冷冻的细菌和真菌能够存活多久。以前的研究发现&amp;quot;柯南细菌&amp;quot;（Deinococcus radiodurans）可以在火星严酷的电离辐射中生存超过一百万年。一项新的研究打破了这一记录，发现这种健壮的细菌如果被掩埋，可以生存2.8亿年。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330713.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [亚马逊现在允许客户通过Venmo进行支付](https://www.cnbeta.com/articles/tech/1330697.htm) | Tue Oct 25 2022 1:41 PM 
+- 💂 [有关美国人摔手机的有趣数据](https://hot.cnbeta.com/articles/funny/1330711.htm) | Tue Oct 25 2022 3:06 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;亚马逊宣布，它现在将允许客户在其平台上通过Venmo进行支付。该公司表示，从今天开始，这一选项将提供给部分客户，并将在下个月的黑色星期五之前，在亚马逊网站和移动应用上向所有美国用户推出。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330697.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;你是否曾经因为不小心摔坏了手机而不得不更换手机？如果是这样，你就属于大多数。四分之三的美国人都遭受过这种场面，而一项新的调查显示了这种情况最常发生的州。该报告还揭示了一些其他有趣的事实，如破损是如何发生的，以及最常见的笔记本电脑故障。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1330711.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [预计iPhone 15内存将提升到6-8GB 换用USB-C接口](https://www.cnbeta.com/articles/tech/1330695.htm) | Tue Oct 25 2022 1:40 PM 
+- 🚀 [阿迪达斯终止与侃爷合作：Yeezy系列椰子鞋将终结](https://www.cnbeta.com/articles/tech/1330709.htm) | Tue Oct 25 2022 2:48 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据台湾研究公司TrendForce称，iPhone 15 Pro型号将配备增加的8GB内存、USB-C端口和多个摄像头的改进。&lt;strong&gt;在今天的一份新闻稿中，TrendForce表示，iPhone 15阵容将再次由四个型号组成，只有两个Pro型号将获得苹果的最新处理器，就像iPhone 14阵容的情况一样。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330695.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;继GAP、巴黎世家之后，阿迪达斯也终于做出了决定。阿迪达斯发声明称：“我们不容忍反犹主义和任何其他形式的仇恨言论。他最近的言论和行为不可接受、具有仇恨意味且危险，与阿迪达斯多元化和包容性、相互尊重以及公平的价值观相违背。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330709.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [TanSat任务首次成功地检测到人类活动带来的二氧化碳](https://www.cnbeta.com/articles/science/1330693.htm) | Tue Oct 25 2022 1:36 PM 
+- 🎊 [三款AMD锐龙PRO 5000上线：含12核心不支持多线程型号](https://www.cnbeta.com/articles/tech/1330707.htm) | Tue Oct 25 2022 2:46 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;一个国际研究小组通过分析来自TanSat任务和哥白尼哨兵-5前驱体任务的测量结果，确定了来自人类活动的二氧化碳。&lt;/strong&gt;这是首次尝试使用TanSat的测量数据来检测人为的，或人类造成的二氧化碳排放特征。在全球范围内监测温室气体的最关键标准之一是量化人为的二氧化碳排放。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330693.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Zen4来了，Zen3依然可以在特定领域发挥余热。&lt;strong&gt;AMD官网今天低调上线了三款锐龙PRO 5000系列处理器，仍然是Zen3架构，面向创意设计方向的专业商用领域，也就是图形工作站。&lt;/strong&gt;锐龙PRO 5000G系列此前已有六款产品，都集成GPU核心，但最高只到锐龙7系列，最多只有8核心16线程。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330707.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
