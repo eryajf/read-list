@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [NEAR基金会决定终止USN稳定币项目 以免重蹈TerraUSD覆辙](https://www.cnbeta.com/articles/tech/1330589.htm) | Tue Oct 25 2022 3:42 AM 
+- 🕯 [华为胡厚昆：5G进入高速发展期 全球5G用户已达7亿](https://www.cnbeta.com/articles/tech/1330599.htm) | Tue Oct 25 2022 6:07 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;今年早些时候发生的 TerraUSD 大崩溃，让投资者巨亏数十亿美元。而在表现出了类似的风险特征之后，NEAR Protocol 已及时踩下了刹车。&lt;/strong&gt;据悉，作为以太坊的竞争区块链之一，NEAR 也被用于构建去中心化应用程序（dApps）和铸造非同质化代币（NFT）。今年 4 月，它迎来了自己的 USN 稳定币，发行方为 DAO Decentral Bank。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330589.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月25日消息， 今天华为轮值董事长胡厚昆在2022全球移动宽带论坛上发表了“5G引领飞跃”的主题演讲。他提到，5G商用三年以来，在网络部署、消费者业务和行业应用方面取得了良好进展，已进入高速发展期。据其透露，截至2022年10月，全球已有230多家运营商推出了5G商用服务，5G用户达7亿。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330599.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [漫威《黑豹2》首款片段公布 女子皇家护卫队亮相](https://hot.cnbeta.com/articles/movie/1330587.htm) | Tue Oct 25 2022 3:19 AM 
+- 💼 [成本只有Model 3一半 疑似特斯拉全新轿车曝光](https://www.cnbeta.com/articles/tech/1330597.htm) | Tue Oct 25 2022 6:01 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天（10月25日），漫威超英新片《黑豹2》发布了首款片段，其中展示了瓦坎达女子皇家护卫队与雇佣军正面交手的打斗场景，除了奥克耶之外，新加盟演员米凯拉·科尔饰演的阿尼卡也有亮相。大家一起欣赏一下吧！&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1330587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月20日，特斯拉公布2022财年第三季度财报，在公司财报会议上，马斯克透露了一个非常重磅的消息：&lt;strong&gt;公司开发团队目前的主要精力是开发下一代汽车&lt;/strong&gt;。马斯克还表示，&lt;strong&gt;该车成本估计只有Model 3的一半，产量可能会高于特斯拉目前所有汽车产品的总和&lt;/strong&gt;。好家伙，这就相当于半官宣了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330597.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [VR鼻祖Oculus创始人：扎克伯格的元宇宙就像烧钱的“项目车”](https://www.cnbeta.com/articles/tech/1330585.htm) | Tue Oct 25 2022 3:18 AM 
+- 💂 [特斯拉“多头”：“经济逆风”下特斯拉无法独善其身 下调目标价至330美元](https://www.cnbeta.com/articles/tech/1330595.htm) | Tue Oct 25 2022 5:51 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;VR头显鼻祖Oculus创始人帕尔默·勒基&lpar;Palmer Luckey&rpar;并不喜欢马克·扎克伯格&lpar;Mark Zuckerberg&rpar;目前为止为元宇宙开发的东西，尽管他确实认为它最终可能会成功。&lt;strong&gt;2014年，勒基把他的Oculus以20亿美元的价格卖给了Facebook。&lt;/strong&gt;&lt;strong&gt;这笔交易属于扎克伯格向元宇宙所投资的150亿美元的一部分。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330585.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;摩根士丹利分析师 Adam Jonas 将特斯拉的目标股价从350美元下调至330美元，不过他重申了对该股将“跑赢大盘”的评级。Jonas 强调，做出这一调整是因为其希望在当前的经济环境中“为意外的风险因素留出余地”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330595.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [《迷失》制片人打造《星球大战》新电影 《惊奇少女》导演执导](https://hot.cnbeta.com/articles/movie/1330583.htm) | Tue Oct 25 2022 3:18 AM 
+- 🚀 [NASA启动对UFO新研究 预计明年发布报告](https://www.cnbeta.com/articles/science/1330593.htm) | Tue Oct 25 2022 5:48 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;尽管近年来《星球大战》电视剧一直以惊人的速度频繁推出，上线迪士尼+，但自上部影片《星球大战9：天行者崛起》以来已经过去了三年时间，该系列电影的发展方向一直存在一些严重的不确定性。不过，好消息是这一画面渐渐明朗起来。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1330583.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据海外网10月25日援引哥伦比亚广播公司24日报道，美国国家航空航天局（NASA）宣布，一组科学家和专家于当地时间星期一（24日）开启对“不明空中现象”（UAP）的新研究，该现象以前被称为不明飞行物现象（UFO）。美国航天局表示，这项为期九个月的研究将“为美国宇航局和其他组织未来研究不明空中现象的性质奠定基础”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330593.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [托宾·贝尔回归《电锯惊魂10》 继续饰演“竖锯”](https://hot.cnbeta.com/articles/movie/1330581.htm) | Tue Oct 25 2022 3:17 AM 
+- 🎊 [苏箐被曝转投大众汽车：号称最狂智能车高管 因抨击特斯拉丢工作](https://www.cnbeta.com/articles/tech/1330591.htm) | Tue Oct 25 2022 5:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;托宾·贝尔将回归《电锯惊魂10》，继续饰演“竖锯”约翰·克莱默。该片本月即将开拍，明年10月27日北美上映，是该系列的第十部。电影由执导了第六、七部并担任前五部剪辑师的凯文·格劳特导演，剧情未公布，将讲述全新扭曲、精心设计的故事，探索一个新的谜题，“俘获粉丝的心和其他身体部位”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1330581.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;还记得苏箐吗？华为最狂智能车高管，放话“华为自动驾驶绝对第一”、抨击特斯拉自动驾驶“杀人”，后来被任正非亲自签发下令罢免……他现在，被曝出加盟了大众汽车，准确说是大众旗下智能车子公司，更准确来说是大众与地平线合资的智能驾驶软件子公司。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330591.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
