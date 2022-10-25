@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Bumble开放其用于检测线上不雅内容的人工智能资源](https://www.cnbeta.com/articles/tech/1330487.htm) | Mon Oct 24 2022 11:24 PM 
+- 🕯 [亨利·卡维尔官宣回归饰演超人 电影续集正在制作中](https://hot.cnbeta.com/articles/movie/1330567.htm) | Tue Oct 25 2022 2:14 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;作为其打击&amp;quot;网络暴力&amp;quot;的更大承诺的一部分，约会应用程序Bumble正在开放其人工智能工具，以检测未经请求的不雅图像在社交平台内传递。&lt;/strong&gt;Private Detector在2019年首次亮相，它模糊了通过Bumble应用程序发送的裸体图片，让接收端的用户选择是否打开该图片。&lt;br/&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330487.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;扮演大超的亨利·卡维尔当地时间周一在社交平台上发布了一段自拍，向粉丝喊话：“我有意等到周末过完再发消息，想让你们都有时间去看《黑亚当》”，卡维尔在自拍视频中解释说，“既然很多人都看了，那就来点正式的，我大超又回来了。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1330567.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Greenpeace：在美国，塑料包装并不做到真正的“可回收”](https://www.cnbeta.com/articles/tech/1330485.htm) | Mon Oct 24 2022 11:21 PM 
+- 💼 [眼红索尼搭上《原神》 微软加大对中国游戏投资力度](https://hot.cnbeta.com/articles/game/1330565.htm) | Tue Oct 25 2022 2:12 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;多年来，我们已经知道塑料回收率很低，但它们已经变得更加糟糕。&lt;strong&gt;根据环保组织Greenpeace今日发表的一份新报告显示，美国的塑料回收状况非常糟糕，甚至没有塑料包装可以被认为是可回收的。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330485.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月25日消息，消息人士称，由于竞争对手索尼投资热门游戏《原神》取得成功，微软正致力于向中国电子游戏市场进行更多投资。消息人士称，多年来微软和索尼一直在向中国游戏市场的小型开发商提供大笔资金，资助他们完成游戏开发和内容授权，但索尼扶持《原神》所带来的巨大收益增加了微软的紧迫感。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1330565.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [漫威《蚁人3》电影预告首曝 长大女儿超漂亮](https://hot.cnbeta.com/articles/movie/1330483.htm) | Mon Oct 24 2022 11:11 PM 
+- 💂 [形势变化比预期快太多 传丰田考虑重启电动汽车战略](https://www.cnbeta.com/articles/tech/1330563.htm) | Tue Oct 25 2022 2:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天（10月25日）凌晨，漫威发布了蚁人电影第三部《蚁人：量子狂热》的首个预告片，并且宣布本片将于2023年2月上映。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;《蚁人：量子狂热》预告：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1330483.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月25日消息，据四名知情人士透露，丰田正在考虑重启其电动汽车战略，并已暂停了部分现有电动汽车项目，以便更好地在这个蓬勃发展的市场中参与竞争。此前，丰田进入电动汽车市场的速度始终较慢。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330563.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [11月2日上市Xbox版《仙剑奇侠传7》发布预告](https://hot.cnbeta.com/articles/game/1330481.htm) | Mon Oct 24 2022 11:11 PM 
+- 🚀 [苹果在iOS 16.1和iPadOS 16.1发布后更新了App Store应用审核指南](https://www.cnbeta.com/articles/tech/1330561.htm) | Tue Oct 25 2022 2:11 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;昨天，发行商百家合宣布将北京软星开发的RPG游戏《仙剑奇侠传7》带到微软Microsoft商城以及Xbox平台，并公开了一段宣传视频。这款国人熟知的游戏作品将于11月2日登陆上述平台。&lt;strong&gt;《仙剑奇侠传7》预告：&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1330481.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;随着 iOS 16.1 和 iPadOS 16.1 的发布，苹果也于周一更新了面向应用程序开发者的 App Store 审核指南。&lt;/strong&gt;可知苹果现要求开发者向审核团队赋予完全的应用程序访问权限，并为包含基于账户功能的应用程序提供有效的演示模式，以便审核人员能够更轻松地调查 App 的各项参数。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330561.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [明天凌晨25周年直播有望公开Xbox版《帝国时代4》](https://hot.cnbeta.com/articles/game/1330479.htm) | Mon Oct 24 2022 11:10 PM 
+- 🎊 [韩国数据中心火灾事故后续 两大互联网巨头创始人道歉](https://www.cnbeta.com/articles/tech/1330559.htm) | Tue Oct 25 2022 2:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;帝国时代是微软旗下重量级游戏IP，然而这个系列最新的《帝国时代4》却并没有登陆微软自家的游戏主机Xbox。不过根据最新的消息显示，一切似乎就要发生变化。也许我们将在明天得到《帝国时代4》登陆Xbox平台的消息也说不定。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1330479.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;当地时间10月24日，韩国两大互联网巨头Kakao和NAVER的创始人在国会科技信息广电通讯委员会综合国政监查会，就日前的大规模服务瘫痪事故向国民致歉。Kakao创始人兼未来倡议中心主任金范洙表示，虽已构建双活数据中心，但此次事故仍暴露出服务方面的不足，就给国民带来不便致以诚挚的歉意。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330559.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
