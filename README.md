@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [Google Chrome 107今日发布：支持HEVC解码 尽管遭到Mozilla反对](https://www.cnbeta.com/articles/tech/1330641.htm) | Tue Oct 25 2022 9:18 AM 
+- 🕯 [不造手机改造车？魅族招聘更新大量汽车工程师](https://www.cnbeta.com/articles/tech/1330651.htm) | Tue Oct 25 2022 10:06 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Google Chrome 106在四周前发布，随之而来的是大量的实验性功能以及废弃功能调整，一个月过去，这意味着现在是该浏览器的下一个主要版本上市的时候了。就新支持的API数量而言，Chrome 107似乎是一个与上一周期类似的更新，但这次有一个有趣的功能是对高效视频编码（HEVC）的支持。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330641.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月25日，据爆料，魅族招聘更新了大量汽车工程制造相关岗位，&lt;strong&gt;如底盘电控工程师、高级智能座舱测试工程师等，似乎要往整车制造方向发展。&lt;/strong&gt;据悉，魅族今年申请了多项与车机系统相关的专利，但整车制造消息还是首次曝光。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [美电子烟巨头JUUL被曝正与两大投资者商谈救助避免破产](https://www.cnbeta.com/articles/tech/1330639.htm) | Tue Oct 25 2022 9:10 AM 
+- 💼 [首架国产大飞机C919将于12月交付东航](https://www.cnbeta.com/articles/tech/1330649.htm) | Tue Oct 25 2022 9:42 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;陷入困境的美国电子烟巨头JUUL被爆正与两大投资者就救助问题进行商谈。10月25日，据华尔街日报报道&lt;strong&gt;，Juul Labs Inc.正与其两个最大的投资者就救助问题进行商谈，这可能有助于这家电子烟制造商避免申请破产。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330639.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;国产大飞机C919在9月29日拿到了民航局的合格证，完成了飞机研发、试飞等工作，剩下的就是交付了，首个客户是东航，将于12月份交付。10月25日，&lt;strong&gt;东航总经理李养民透露首架C919飞机将于今年12月交付东航，&lt;/strong&gt;东航将通过“全面合作、全程参与、全力以赴”，切实承担起首家商业运营C919大型客机的重大政治责任，确保飞出安全、飞出志气、飞出品牌、飞出效益。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330649.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [摩托罗拉明年有望推出代号Geneva新机 亮点是配备手写笔](https://www.cnbeta.com/articles/tech/1330637.htm) | Tue Oct 25 2022 8:54 AM 
+- 💂 [英特尔22款第13代酷睿桌面CPU阵容已得到微软兼容性列表确认](https://www.cnbeta.com/articles/tech/1330647.htm) | Tue Oct 25 2022 9:41 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;援引国外科技媒体 91Mobile 报道，摩托罗拉计划在 2023 年推出代号为“Geneva”的新机。&lt;/strong&gt;该机最大的亮点就是配备了手写笔，和今年发售的 Moto G Stylus &lpar;2022&rpar; 和 G Stylus 5G &lpar;2022&rpar;一样，会有 5G 和 4G 两个版本，定位中低端市场。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330637.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;微软已经确认英特尔整个第13代猛禽湖CPU阵容在其对即将到来的Windows 11 22H2操作系统的支持列表中。一个多星期前，技嘉公司在其网站上发布了其新的Z790主板系列支持英特尔处理器的信息。在该信息中，列出了22款新的处理器，全部来自即将到来的Raptor Lake系列。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330647.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [WhatsApp出现大规模宕机事件 用户无法访问](https://www.cnbeta.com/articles/tech/1330635.htm) | Tue Oct 25 2022 8:44 AM 
+- 🚀 [上海启动吸入用新冠疫苗加强免疫接种](https://www.cnbeta.com/articles/tech/1330645.htm) | Tue Oct 25 2022 9:37 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;WhatsApp 于今天出现了大规模的严重宕机事件。&lt;/strong&gt;该服务于北京时间 15 点左右开始出现问题，用户收到一条“正在连接”中的消息。如果您尝试使用 WhatsApp 网页版，您会看到“确保您的计算机具有有效的互联网连接”错误。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330635.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月25日消息，据“&lt;a class=&quot;f14_link&quot; href=&quot;https://mp.weixin.qq.com/s/mZP_w7WIUwOJbLGDNLhMcA&quot; target=&quot;_blank&quot;&gt;上海发布&lt;/a&gt;”微信公众号，10月25日起，&lt;strong&gt;上海市启动吸入用重组新冠病毒疫苗（5型腺病毒载体）加强免疫预约登记。10月26日起启动加强免疫。&lt;/strong&gt;本次加强免疫实施免费接种。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330645.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [俄货运飞船任务接近发射 宇航员在空间站进行大量的人类研究工作](https://www.cnbeta.com/articles/science/1330633.htm) | Tue Oct 25 2022 8:34 AM 
+- 🎊 [哈佛研究为早期板块构造和地磁极翻转提供了新的、更清晰的证据](https://www.cnbeta.com/articles/science/1330643.htm) | Tue Oct 25 2022 9:32 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;下一次为远征68号机组人员提供补给的货运任务准备在10月25日星期二晚间发射到国际空间站（ISS）。&lt;strong&gt;与此同时，轨道实验室上的七个宇航员开始了本周的工作，为两位宇航服提供服务，并进行大量的人类研究工作。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330633.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;对地球上最古老的岩石碎片进行分析的新研究揭示了一些最尖锐的证据，其表明地球的地壳在至少32.5亿年前以类似于现代板块构造的方式进行推拉。此外，这项研究还提供了最早的证据--证明了地球的南北磁极何时互换位置。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330643.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
