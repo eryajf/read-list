@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [typeorm.js mysql 查询性能疑问](https://www.v2ex.com/t/889794#reply1) | Tue Oct 25 2022 10:56 AM
-- 🤗 [Google Voice 新手入坑记录](https://www.v2ex.com/t/889787#reply13) | Tue Oct 25 2022 10:44 AM
-- 🎭 [坏掉的 k40 如何刷机?](https://www.v2ex.com/t/889785#reply7) | Tue Oct 25 2022 10:17 AM
-- 🥷 [docker 下编译 android12 问题](https://www.v2ex.com/t/889782#reply0) | Tue Oct 25 2022 10:10 AM
-- 🐵 [大佬们，哪里找私活好找一些？](https://www.v2ex.com/t/889772#reply8) | Tue Oct 25 2022 9:33 AM<!-- v2ex:END -->
+- 🥸 [Google 以图搜图永久性被 lens 取代了?](https://www.v2ex.com/t/889819#reply5) | Tue Oct 25 2022 1:16 PM
+- 🤗 [typeorm.js mysql 查询性能疑问](https://www.v2ex.com/t/889794#reply2) | Tue Oct 25 2022 10:56 AM
+- 🎭 [Google Voice 新手入坑记录](https://www.v2ex.com/t/889787#reply16) | Tue Oct 25 2022 10:44 AM
+- 🥷 [坏掉的 k40 如何刷机?](https://www.v2ex.com/t/889785#reply7) | Tue Oct 25 2022 10:17 AM
+- 🐵 [docker 下编译 android12 问题](https://www.v2ex.com/t/889782#reply0) | Tue Oct 25 2022 10:10 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
