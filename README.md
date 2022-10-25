@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [前端同学看过来！七万元奖金，码上掘金编程挑战赛来了～](https://juejin.cn/post/7158284296766095397) | Tue Oct 25 2022 3:19 AM 
+- 🤗 [一篇就够：十大心理学原理在产品设计中的应用](https://juejin.cn/post/7158290653728899079) | Tue Oct 25 2022 3:44 AM 
     <details><summary>展开描述 ...</summary> 
-    如何用「码上掘金」玩出花儿？ 首届码上掘金编程挑战赛，七万元奖金、大咖评审、字节offer、最棒的作品展示位，邀你来挑战！ 
+    哈喽，小摹来啦~ 对于产品经理、设计师和运营人员，心理学都是必须要补的一门课程。 可能很多同学都犯过和小摹相同的错误——在各种商城放“神券”的时候屯一大堆专业书籍。实际上，心理学的书籍你大概只要看到第 
     </details> 
 
-- 🎡 [在JavaScript中使用装饰器](https://juejin.cn/post/7158281950296277005) | Tue Oct 25 2022 3:10 AM 
+- 🎡 [Redis Cluster 原理说的头头是道，这些配置不懂就是纸上谈兵](https://juejin.cn/post/7158290559311249415) | Tue Oct 25 2022 3:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    Redis Cluster 集群相关配置，使用集群方式的你必须重视和知晓。如何配置让集群快到飞起，实现真正的高可用却一头雾水，通过下面这些配置详解也让你对集群原理更加深刻。 
+    </details> 
+
+- 🕯 [【1024】程序员节丨致敬所有技术布道师](https://juejin.cn/post/7158288909221249031) | Tue Oct 25 2022 3:37 AM 
+    <details><summary>展开描述 ...</summary> 
+    又是一年1024程序员节，MobTech与技术布道师重温数说，共同探索和交流大数据智能科技的最佳实践与未来发展方向。 
+    </details> 
+
+- 🚀 [苹果 macOS 13 Ventura 正式版发布，macOS 13 Ventura 更新与安装方法](https://juejin.cn/post/7158286198933291044) | Tue Oct 25 2022 3:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    苹果今日（10 月 25 日）向 Mac 电脑用户推送了 macOS 13 更新（内部版本号：22A380）。 
+    </details> 
+
+- 💪 [在JavaScript中使用装饰器](https://juejin.cn/post/7158281950296277005) | Tue Oct 25 2022 3:10 AM 
     <details><summary>展开描述 ...</summary> 
     Decorator装饰器是ES7的时候提案的特性，目前处于Stage 3候选阶段（2022年10月）。 装饰器简单来说就是修改类和类方法的语法糖，很多面向对象语言都有装饰器这一特性。 
-    </details> 
-
-- 🕯 [百度搜索业务交付无人值守实践与探索](https://juejin.cn/post/7158277635846438942) | Tue Oct 25 2022 2:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    什么是交付无人值守？怎么做到交付无人值守？交付无人值守能带来哪些好处？本文就从以上几方面入手，详细介绍一下百度搜索业务在交付无人值守上一些探索及实践。 
-    </details> 
-
-- 🚀 [Springboot 一行代码实现文件上传 20个平台！少写代码到极致](https://juejin.cn/post/7158277089630617631) | Tue Oct 25 2022 2:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    大家好，我是小富~ 又是做好人好事的一天，有个小可爱私下问我有没有好用的springboot文件上传工具，这不巧了嘛，正好我私藏了一个好东西，顺便给小伙伴们也分享一下，demo地址放在文末了。 文件上 
-    </details> 
-
-- 💪 [node+jenkins 实战前端发布平台——自动化部署](https://juejin.cn/post/7158274890317955108) | Tue Oct 25 2022 2:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    哈喽！这篇文章来到了整个前端发布平台的核心——自动化部署的实现。本文将分享通过后端跟jenkins之间交互，完成前端项目的自动化部署的业务功能。笔者手把手，大家跟着走～let‘go！ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
