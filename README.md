@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [http 加密的正确方法](https://www.v2ex.com/t/889726#reply0) | Tue Oct 25 2022 7:35 AM
-- 🤗 [独立产品灵感周刊 DecoHack #035 - YouTube 设计改版了](https://www.v2ex.com/t/889721#reply0) | Tue Oct 25 2022 7:28 AM
-- 🎭 [gitee 挂了？？](https://www.v2ex.com/t/889695#reply10) | Tue Oct 25 2022 6:32 AM
-- 🥷 [微信小程序如何与后端交互？](https://www.v2ex.com/t/889690#reply5) | Tue Oct 25 2022 6:24 AM
-- 🐵 [寻找一个对动态规划算法有研究的大佬，想付费请教个工作上遇到的复杂算法问题](https://www.v2ex.com/t/889685#reply14) | Tue Oct 25 2022 6:18 AM<!-- v2ex:END -->
+- 🥸 [腾讯轻量云日本/首尔/新加坡节点跟香港比延迟差别大吗](https://www.v2ex.com/t/889739#reply4) | Tue Oct 25 2022 8:18 AM
+- 🤗 [Kubernetes 云平台多租户方案选择](https://www.v2ex.com/t/889737#reply1) | Tue Oct 25 2022 8:09 AM
+- 🎭 [http 加密的正确方法](https://www.v2ex.com/t/889726#reply22) | Tue Oct 25 2022 7:35 AM
+- 🥷 [独立产品灵感周刊 DecoHack #035 - YouTube 设计改版了](https://www.v2ex.com/t/889721#reply0) | Tue Oct 25 2022 7:28 AM
+- 🐵 [gitee 挂了？？](https://www.v2ex.com/t/889695#reply15) | Tue Oct 25 2022 6:32 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
