@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [被索要6000万，这家汽车经销商坚持拒绝支付！](https://www.freebuf.com/news/347783.html) | Tue Oct 25 2022 2:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    英国著名汽车经销商集团Pendragon近期遭遇LockBit勒索软件组织攻击，部分数据被窃取，并被索要6000万美元。 
+    </details> 
+
 - 🦄 [FreeBuf早报 | 英国建筑巨头因漏洞被罚款 440 万英镑；勒索攻击正在针对教育行业](https://www.freebuf.com/news/347758.html) | Mon Oct 24 2022 11:45 AM 
     <details><summary>展开描述 ...</summary> 
     一家英国建筑公司被数据保护监管机构罚款超过 400 万英镑，此前一系列安全漏洞导致黑客窃取和加密了 11万名现任和前任员工的个人信息。 
     </details> 
 
-- 🦄 [Fuzz技术演进与移动框架安全探索实践 | CIS 2022网络安全创新大会议题前瞻](https://www.freebuf.com/articles/347743.html) | Mon Oct 24 2022 9:51 AM 
+- 🦅 [Fuzz技术演进与移动框架安全探索实践 | CIS 2022网络安全创新大会议题前瞻](https://www.freebuf.com/articles/347743.html) | Mon Oct 24 2022 9:51 AM 
     <details><summary>展开描述 ...</summary> 
     从漏洞挖掘从业者视角分享Fuzzing技术的演进和发展，以及移动端框架层挖掘技术的探索实践。 
     </details> 
 
-- 🦅 [超市巨头麦德龙遭网络攻击，支付系统中断](https://www.freebuf.com/news/347696.html) | Mon Oct 24 2022 3:16 AM 
+- 🪄 [超市巨头麦德龙遭网络攻击，支付系统中断](https://www.freebuf.com/news/347696.html) | Mon Oct 24 2022 3:16 AM 
     <details><summary>展开描述 ...</summary> 
     至少从10月17日起，麦德龙奥地利、德国和法国地区的门店已经发生IT故障。 
     </details> 
 
-- 🪄 [拥有两个名称的新勒索组织正针对全球多家公司](https://www.freebuf.com/news/347695.html) | Mon Oct 24 2022 3:07 AM 
+- 💻 [拥有两个名称的新勒索组织正针对全球多家公司](https://www.freebuf.com/news/347695.html) | Mon Oct 24 2022 3:07 AM 
     <details><summary>展开描述 ...</summary> 
     两个名为TommyLeaks和SchoolBoys的新网络勒索组织正把攻击目标瞄准全球多家公司，但经过调查，背后是系同一团伙所为。 
-    </details> 
-
-- 💻 [二十大之网络安全，听听代表们怎么说](https://www.freebuf.com/news/347688.html) | Mon Oct 24 2022 2:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    网络安全作为网络强国、数字中国的底座，将在未来的发展中承担托底的重担，是我国现代化产业体系中不可或缺的部分。 
     </details> 
 <!-- freebuf:END -->
 
