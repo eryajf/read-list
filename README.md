@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [谁能更好胜任外科医生，男性还是女性？](https://www.cnbeta.com/articles/tech/1330663.htm) | Tue Oct 25 2022 11:10 AM 
+- 🕯 [甄子丹自导自演 《天龙八部之乔峰传》剧照曝光](https://hot.cnbeta.com/articles/movie/1330677.htm) | Tue Oct 25 2022 12:45 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;根据最近发表在《BMJ》上的一项研究，日本的男性和女性外科医生具有相同的死亡率和并发症发生率，尽管女性医生比男性外科医生更可能遇到高风险的病人。研究人员指出，在国际上，女性在外科专业中的人数仍然不足，并呼吁为女性外科医生提供更多机会，以帮助减少基于性别的不平等。尽管近年来全球女医生的数量有所增加，但女性在外科领域仍然是少数。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330663.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据新浪电影报道，东京电影节期间，外媒公开了甄子丹担任监制、总导演、主演的新片《天龙八部之乔峰传》幕后照及剧照。在采访中甄子丹表示，拍金庸电影成为自己职业生涯最大的挑战。在动作设计上，他融合了自己40年所学，希望让观众隔着屏幕都能感受到拳脚之争的疼痛感、真实感。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1330677.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [数码品牌Nothing将于今年年底在伦敦开设实体零售店](https://www.cnbeta.com/articles/tech/1330661.htm) | Tue Oct 25 2022 11:05 AM 
+- 💼 [云米发布AI:Helpful2.0 让全屋智能真正有用、好用](https://www.cnbeta.com/articles/tech/1330675.htm) | Tue Oct 25 2022 12:44 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Nothing公司宣布，它计划在今年圣诞节前在伦敦的Soho区开设第一家实体零售店。该店将位于彼得街4号，位于Gosh! 漫画和时尚品牌Supreme的伦敦分店之间。开设该店的消息是在Nothing宣布其最新的一对新耳塞:Ear Stick的前一天发布的，当然这款耳塞将在该店与其他设备一起销售。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330661.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月25日，云米秋季AI软件发布会在线上召开。发布会上，云米创始人、CEO陈小平介绍了全新升级的AI：Helpful 2.0，聚焦软件升级，从呵护健康、节能环保、主动智能、自然交互四大维度进行产品迭代，让AI在家落地，实现全屋智能“Helpful有用、好用”，全面推动智能科技家的落地。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330675.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [羊毛已成往事 Steam土耳其/阿根廷区建议价格暴涨4倍](https://hot.cnbeta.com/articles/game/1330659.htm) | Tue Oct 25 2022 10:56 AM 
+- 💂 [中国首飞全球首款大型四发无人机 最大载重重量1.5吨](https://www.cnbeta.com/articles/tech/1330673.htm) | Tue Oct 25 2022 12:28 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一直以来，全球有不少Steam玩家都会选择土耳其和阿根廷地区购买游戏，这两地超低价格的游戏“享誉全球”。需要注意的是，前不久，有很多用户发现自己的土耳其/阿根廷区账户被封了，当时就有人怀疑是V社加大了管理力度。&lt;strong&gt;今天，结果终于来了，羊毛党以后再也没有羊毛能薅了。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1330659.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;全球很多无人机使用的还是单发、双发发动机，现在四发无人机也来了——中国成功首飞全球第一款大型四发无人机“双尾蝎D”，最大载重可达1.5吨。据沸点视频介绍，10月25日，四川自贡凤鸣通航机场，全球首款大型四发无人机首飞圆满完成，这架代号为“双尾蝎D”的大型四发无人机由四川腾盾科创股份有限公司自主研发，并拥有完全知识产权。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330673.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [深度操作系统V23界面将引入“行云设计”&lpar;Flow Design&rpar;](https://www.cnbeta.com/articles/tech/1330657.htm) | Tue Oct 25 2022 10:55 AM 
+- 🚀 [盖蒂图片社CEO：竞相销售AI艺术品的公司可能正在步入非法领域](https://www.cnbeta.com/articles/tech/1330671.htm) | Tue Oct 25 2022 12:24 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;作为国内最受欢迎的Linux发行版本，Deepin深度操作系统正在开发全新的V23版本，最大变化就是采用“行云设计”&lpar;Flow Design&rpar;。据官方介绍，&lt;strong&gt;行云设计理念遵循“简约、友好、生命力”的原则，从图标重绘到新的调色板，从阴影模糊细节优化到叠加背景的饱和度，从布局控件自由掌控到动画设计，都自然而恰当。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330657.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;盖蒂图片社（Getty Image）首席执行官克雷格-彼得斯批评了&amp;quot;竞相&amp;quot;将人工智能艺术生成器商业化的公司，称这些公司没有考虑到该技术潜在的法律和道德危险。&lt;/strong&gt;在接受采访时，彼得斯重申了盖蒂图片社反对销售人工智能内容的规定（今年9月份下达），同时宣布了该公司与以色列公司Bria之间的新伙伴关系，以提供人工智能驱动的图像编辑工具。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330671.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [碎片规避演习：空间站推进器启动以避开太空垃圾](https://www.cnbeta.com/articles/science/1330655.htm) | Tue Oct 25 2022 10:33 AM 
+- 🎊 [有一种退网叫做“罗永浩式退网”](https://www.cnbeta.com/articles/tech/1330669.htm) | Tue Oct 25 2022 12:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;昨晚，与国际空间站对接的进步81号推进器开启了5分5秒，进行预定的碎片规避机动（PDAM），为综合体提供额外的距离，使其远离俄罗斯宇宙1408碎片的预测轨道。推进器的点火发生在美国东部时间晚上8点25分，这次机动没有对空间站的运行产生影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;1000万+的观看量直接成为当晚淘宝直播的顶流，一晚上直播间涨粉超过100万，此时距离入驻还不到4天……罗永浩一在淘宝直播，果不其然又炸了。10月24号晚上的这场罗永浩淘宝直播首秀，&lt;strong&gt;罗永浩穿着印有“交个朋友”四个大字的T恤，在直播间兢兢业业地站了好几个小时。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330669.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
