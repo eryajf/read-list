@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [JeecgBoot低代码开发平台与达梦数据完成兼容性互认证](https://juejin.cn/post/7158363610413006879) | Tue Oct 25 2022 8:27 AM 
+- 🤗 [鏖战 48 小时，TiDB Hackathon 都诞生了哪些硬核创意？](https://juejin.cn/post/7158349284293738509) | Tue Oct 25 2022 7:31 AM 
     <details><summary>展开描述 ...</summary> 
-    JeecgBoot与达梦数据库管理系统V8完成兼容性认证测试；通过双方共同测试表明，Jeecgboot低代码开发平台与达梦数据库管理系统V8，相互兼容，系统功能运行稳定，能够满足用户更多的性能需求。 
+    TiDB Hackathon 2022 决赛刚好在 1024 程序员节前夜完美收官，48 小时的 Happy Hacking，参赛项目有趣、有料，精彩不断！ 退出全屏 切换到横屏模式 🎦 点击观看视频 
     </details> 
 
-- 🎡 [我摊牌了！真正的灰度队列实现方案！全网你都搜不到！](https://juejin.cn/post/7158323516147040293) | Tue Oct 25 2022 5:51 AM 
+- 🎡 [PMP自学可以吗？机构和自学哪个更好？](https://juejin.cn/post/7158338109262790687) | Tue Oct 25 2022 6:49 AM 
     <details><summary>展开描述 ...</summary> 
-    背景 目前，公司方面 RPC 调用如 Dubbo、Feign 已经能支持基于灰度的调用，但是 MQ 还没有支持灰度的能力，因此导致在测试和生产环境业务验证、消息隔离方面体验比较差，因此我们基于 Rab 
+    PMP自学可以吗？机构和自学哪个更好？PMP自学可以吗？机构和自学哪个更好？PMP自学可以吗？机构和自学哪个更好？PMP自学可以吗？机构和自学哪个更好？PMP自学可以吗？机构和自学哪个更好？PMP自学 
     </details> 
 
-- 🕯 [Compose动画：AnimatedContent](https://juejin.cn/post/7158285742316191757) | Tue Oct 25 2022 3:24 AM 
+- 🕯 [七个方面！API接口设计需要注意的问题](https://juejin.cn/post/7158334823697186852) | Tue Oct 25 2022 6:35 AM 
     <details><summary>展开描述 ...</summary> 
-    今天的 Compose 动画主角是 AnimatedContent。虽然它目前是实验性的（@ExperimentalAnimationApi），不过也不妨碍我们研究和使 
+    大家好，我是小郭，今天主要梳理一下API接口设计需要注意的问题。从接口隔离原则、命名、HTTP动词、幂等、安全策略、版本管理等方面来思考。 
     </details> 
 
-- 🚀 [Android 源码浅析：RecyclerView 源码浅析（2）—— 测量、布局、绘制、预布局](https://juejin.cn/post/7158275097424298015) | Tue Oct 25 2022 2:43 AM 
+- 🚀 [vue3正式发布两年后，我才开始学（2w字总结）](https://juejin.cn/post/7158331832512020511) | Tue Oct 25 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-    本博客从自定义 View 三大流程 measure、layout、draw 的角度继续对 RecyclerView 相关部分源码进行分析。 
+    距离 vue3 正式发布已经过去两年有余, 成为默认版本也过去大半年了，以前还能说是对新技术、新特性的观望，到现在面试都直问 vue3 源码了。 我想，不管什么原因，是时候学习 vue3 了 所以这次 
     </details> 
 
-- 💪 [iOS小技能： tweak 集成CocoaAsyncSocket（建连、断开、重连、心跳、通用请求）](https://juejin.cn/post/7158257613233192974) | Tue Oct 25 2022 1:35 AM 
+- 💪 [一行注解搞定异常重试，这么牛？](https://juejin.cn/post/7158328650507485198) | Tue Oct 25 2022 6:11 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第26天，点击查看活动详情 前言 应用场景：app端集成CocoaAsyncSocket与服务端进行通信，利用实现机器人功能。 即 
+    简而言之重试，就是为了去保障我们业务的可用性、容错性、一致性 那么，针对于异常重试，可能新来的小杨同学会觉得，异常重试不是很简单，我判断一下三方回来的异常，进行 for 循环固定次数的重新调用就完事 
     </details> 
 <!-- juejin:END -->
 ### 少数派
