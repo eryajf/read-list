@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [对比学习算法在转转的实践](https://juejin.cn/post/7158416789817262094) | Tue Oct 25 2022 11:53 AM 
+- 🤗 [什么，Jetpack 也要支持多平台了！](https://juejin.cn/post/7158463807126241287) | Tue Oct 25 2022 2:56 PM 
     <details><summary>展开描述 ...</summary> 
-    CL 的技术源泉来自度量学习，大概的思想是：定义好样本的正例和负例，以及映射关系（将实体映射到新的空间），优化目标是让正例在空间中与目标样本的距离近一些，而负例要相对远一些。 
+    Jetpack 也要支持多平台了，带你快速了解 Android 官方项目是如何在 KMM 中使用 Jetpack 的。 
     </details> 
 
-- 🎡 [浏览器本地存储的四种方式介绍及区别](https://juejin.cn/post/7158414568950071309) | Tue Oct 25 2022 11:46 AM 
+- 🎡 [第121期：一次成功的基于vue3和ts的CodeReview](https://juejin.cn/post/7158463602293211149) | Tue Oct 25 2022 2:55 PM 
     <details><summary>展开描述 ...</summary> 
-    localStorage的存储都是字符串，如果是存储对象，那么在存储时就需要调用JSON的stringify方法，并且在取值时用JSON.parse来解析成对象。来进行存储，但是当数据量较大，或符合一 
+    封面图 CodeReview现场 背景 当前项目已经接入了公司自研的前端监控平台，已经有能力对线上运行的各个项目进行错误监控，并且可以统计相关报错信息及日志。 对于报错问题的修复前段时间也一直在跟进， 
     </details> 
 
-- 🕯 [微信小程序高级指南-基于miniprogram-template模版开发小程序](https://juejin.cn/post/7158412461367345159) | Tue Oct 25 2022 11:38 AM 
+- 🕯 [构建高性能 React Native 跨端应用—图片与内存](https://juejin.cn/post/7158463023047262239) | Tue Oct 25 2022 2:55 PM 
     <details><summary>展开描述 ...</summary> 
-    miniprogram-template是一个快速开发小程序的解决方案，它基于 vant-weapp 实现。它使用了小程序目前支持的最新配置和api，内置了代码验证。 
+    本文为稀土掘金技术社区首发签约文章，14天内禁止转载，14天后未获授权禁止转载，侵权必究！ 一 前言 在构建高性能 React Native 跨端应用—引擎与渲染章节中，我们从引擎与渲染角度介绍了 R 
     </details> 
 
-- 🚀 [12 张图看懂 CPU 缓存一致性与 MESI 协议，真的一致吗？](https://juejin.cn/post/7158395475362578462) | Tue Oct 25 2022 10:31 AM 
+- 🚀 [给vue-element-admin接入qiankun的微前端开发实践总结🍀](https://juejin.cn/post/7158461025694515214) | Tue Oct 25 2022 2:45 PM 
     <details><summary>展开描述 ...</summary> 
-    什么是缓存一致性问题，CPU Cache 的读取和写入过程是如何执行的，MESI 缓存一致性协议又是什么？今天我们将围绕这些问题展开。 
+    🌺前言 这是一篇给vue-element-admin接入qiankun的微前端学习文章。在本文中，我通过一个项目给大家展示如何给以vue-element-admin项目接入微前端应用，且在此基础上实现 
     </details> 
 
-- 💪 [Golang底层原理解析（2）—— gostringnocopy 函数名真长](https://juejin.cn/post/7158393767530070046) | Tue Oct 25 2022 10:26 AM 
+- 💪 [Android APT实战学习技巧](https://juejin.cn/post/7158450306680881160) | Tue Oct 25 2022 2:04 PM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第27天，点击查看活动详情 生命不息，学习不止 题外话 今天周二了，美好的一天从阳光明媚开始的，今天早上上班，路过一个小区，站满了 
+    简介 APT&lpar;Annotation Processing Tool&rpar;即注解处理器，在编译的时候可以处理注解然后搞一些事情，也可以在编译时生成一些文件之类的。ButterKnife和EventBus都使 
     </details> 
 <!-- juejin:END -->
 ### 少数派
