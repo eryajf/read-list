@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [亨利·卡维尔官宣回归饰演超人 电影续集正在制作中](https://hot.cnbeta.com/articles/movie/1330567.htm) | Tue Oct 25 2022 2:14 AM 
+- 🕯 [NEAR基金会决定终止USN稳定币项目 以免重蹈TerraUSD覆辙](https://www.cnbeta.com/articles/tech/1330589.htm) | Tue Oct 25 2022 3:42 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;扮演大超的亨利·卡维尔当地时间周一在社交平台上发布了一段自拍，向粉丝喊话：“我有意等到周末过完再发消息，想让你们都有时间去看《黑亚当》”，卡维尔在自拍视频中解释说，“既然很多人都看了，那就来点正式的，我大超又回来了。”&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1330567.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;今年早些时候发生的 TerraUSD 大崩溃，让投资者巨亏数十亿美元。而在表现出了类似的风险特征之后，NEAR Protocol 已及时踩下了刹车。&lt;/strong&gt;据悉，作为以太坊的竞争区块链之一，NEAR 也被用于构建去中心化应用程序（dApps）和铸造非同质化代币（NFT）。今年 4 月，它迎来了自己的 USN 稳定币，发行方为 DAO Decentral Bank。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330589.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [眼红索尼搭上《原神》 微软加大对中国游戏投资力度](https://hot.cnbeta.com/articles/game/1330565.htm) | Tue Oct 25 2022 2:12 AM 
+- 💼 [漫威《黑豹2》首款片段公布 女子皇家护卫队亮相](https://hot.cnbeta.com/articles/movie/1330587.htm) | Tue Oct 25 2022 3:19 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月25日消息，消息人士称，由于竞争对手索尼投资热门游戏《原神》取得成功，微软正致力于向中国电子游戏市场进行更多投资。消息人士称，多年来微软和索尼一直在向中国游戏市场的小型开发商提供大笔资金，资助他们完成游戏开发和内容授权，但索尼扶持《原神》所带来的巨大收益增加了微软的紧迫感。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1330565.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今天（10月25日），漫威超英新片《黑豹2》发布了首款片段，其中展示了瓦坎达女子皇家护卫队与雇佣军正面交手的打斗场景，除了奥克耶之外，新加盟演员米凯拉·科尔饰演的阿尼卡也有亮相。大家一起欣赏一下吧！&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1330587.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [形势变化比预期快太多 传丰田考虑重启电动汽车战略](https://www.cnbeta.com/articles/tech/1330563.htm) | Tue Oct 25 2022 2:11 AM 
+- 💂 [VR鼻祖Oculus创始人：扎克伯格的元宇宙就像烧钱的“项目车”](https://www.cnbeta.com/articles/tech/1330585.htm) | Tue Oct 25 2022 3:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月25日消息，据四名知情人士透露，丰田正在考虑重启其电动汽车战略，并已暂停了部分现有电动汽车项目，以便更好地在这个蓬勃发展的市场中参与竞争。此前，丰田进入电动汽车市场的速度始终较慢。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330563.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;VR头显鼻祖Oculus创始人帕尔默·勒基&lpar;Palmer Luckey&rpar;并不喜欢马克·扎克伯格&lpar;Mark Zuckerberg&rpar;目前为止为元宇宙开发的东西，尽管他确实认为它最终可能会成功。&lt;strong&gt;2014年，勒基把他的Oculus以20亿美元的价格卖给了Facebook。&lt;/strong&gt;&lt;strong&gt;这笔交易属于扎克伯格向元宇宙所投资的150亿美元的一部分。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330585.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [苹果在iOS 16.1和iPadOS 16.1发布后更新了App Store应用审核指南](https://www.cnbeta.com/articles/tech/1330561.htm) | Tue Oct 25 2022 2:11 AM 
+- 🚀 [《迷失》制片人打造《星球大战》新电影 《惊奇少女》导演执导](https://hot.cnbeta.com/articles/movie/1330583.htm) | Tue Oct 25 2022 3:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;随着 iOS 16.1 和 iPadOS 16.1 的发布，苹果也于周一更新了面向应用程序开发者的 App Store 审核指南。&lt;/strong&gt;可知苹果现要求开发者向审核团队赋予完全的应用程序访问权限，并为包含基于账户功能的应用程序提供有效的演示模式，以便审核人员能够更轻松地调查 App 的各项参数。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330561.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;尽管近年来《星球大战》电视剧一直以惊人的速度频繁推出，上线迪士尼+，但自上部影片《星球大战9：天行者崛起》以来已经过去了三年时间，该系列电影的发展方向一直存在一些严重的不确定性。不过，好消息是这一画面渐渐明朗起来。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1330583.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [韩国数据中心火灾事故后续 两大互联网巨头创始人道歉](https://www.cnbeta.com/articles/tech/1330559.htm) | Tue Oct 25 2022 2:10 AM 
+- 🎊 [托宾·贝尔回归《电锯惊魂10》 继续饰演“竖锯”](https://hot.cnbeta.com/articles/movie/1330581.htm) | Tue Oct 25 2022 3:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;当地时间10月24日，韩国两大互联网巨头Kakao和NAVER的创始人在国会科技信息广电通讯委员会综合国政监查会，就日前的大规模服务瘫痪事故向国民致歉。Kakao创始人兼未来倡议中心主任金范洙表示，虽已构建双活数据中心，但此次事故仍暴露出服务方面的不足，就给国民带来不便致以诚挚的歉意。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330559.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;托宾·贝尔将回归《电锯惊魂10》，继续饰演“竖锯”约翰·克莱默。该片本月即将开拍，明年10月27日北美上映，是该系列的第十部。电影由执导了第六、七部并担任前五部剪辑师的凯文·格劳特导演，剧情未公布，将讲述全新扭曲、精心设计的故事，探索一个新的谜题，“俘获粉丝的心和其他身体部位”。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1330581.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
