@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [你们用 win11 的小组件功能吗？](https://www.v2ex.com/t/889843#reply0) | Tue Oct 25 2022 3:22 PM
-- 🤗 [关于 GPL v3 协议的一些疑问](https://www.v2ex.com/t/889836#reply4) | Tue Oct 25 2022 2:48 PM
-- 🎭 [Linux 下的 svn 客户端，除了 kdesvn，还有其他好用的推荐吗](https://www.v2ex.com/t/889828#reply2) | Tue Oct 25 2022 2:20 PM
-- 🥷 [升级了 Ubuntu 22.10，感觉遇到好多坑啊](https://www.v2ex.com/t/889827#reply3) | Tue Oct 25 2022 2:17 PM
-- 🐵 [Google 以图搜图永久性被 lens 取代了?](https://www.v2ex.com/t/889819#reply6) | Tue Oct 25 2022 1:16 PM<!-- v2ex:END -->
+- 🥸 [C++萌新求快速对 std::vector&lt;std::string&gt;去重&lpar;string 是&quot;数字&quot;&rpar;](https://www.v2ex.com/t/889853#reply0) | Tue Oct 25 2022 3:59 PM
+- 🤗 [nestjs 有没有测试用例项目推荐的？](https://www.v2ex.com/t/889852#reply0) | Tue Oct 25 2022 3:58 PM
+- 🎭 [腾讯云香港是超售的太厉害的还是自己能力不行啊？](https://www.v2ex.com/t/889849#reply8) | Tue Oct 25 2022 3:34 PM
+- 🥷 [TravisCI 现在激活后还需要开启 plan 才能使用吗](https://www.v2ex.com/t/889848#reply0) | Tue Oct 25 2022 3:34 PM
+- 🐵 [你们用 win11 的小组件功能吗？](https://www.v2ex.com/t/889843#reply0) | Tue Oct 25 2022 3:22 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
