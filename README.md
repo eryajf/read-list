@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [玻璃制造商康宁公司财报前瞻称智能手机市场表现急剧下降](https://www.cnbeta.com/articles/tech/1330721.htm) | Tue Oct 25 2022 4:04 PM 
+- 🕯 [AMD Zen4锐龙7 7700首测：性能、功耗表现均令人满意](https://www.cnbeta.com/articles/tech/1330739.htm) | Tue Oct 25 2022 5:28 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司的主要iPhone玻璃制造商康宁公司预计本季度的业绩会很糟糕，它将此归咎于智能手机销量的下降--但目前还不清楚究竟是康宁公司本身还是以外的哪些制造商受到了影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330721.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;AMD Zen4首批推出了四款X系列处理器，而根据曝料，接下来将有一款锐龙7 7700，规格略有降低，但功耗、价格也都会更低。现在，GeekBench 5数据库中已经出现了锐龙7 7700，检测为&lt;strong&gt;8核心16线程、二级缓存8MB、三级缓存32MB&lt;/strong&gt;，这些都和锐龙7 7700X毫无二致。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330739.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [iPadOS 16的Stage Manager功能因问题多发被骂爆](https://www.cnbeta.com/articles/tech/1330719.htm) | Tue Oct 25 2022 4:00 PM 
+- 💼 [索尼正在为其耳塞产品系列带来多点连接能力 包括WF-1000XM4](https://www.cnbeta.com/articles/tech/1330737.htm) | Tue Oct 25 2022 5:27 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;在周一发布iPadOS 16的同时，MacStories主编Federico Viticci分享了一些关于Stage Manager的坦率反馈，这个新功能允许在iPad上有多个重叠的窗口应用。Viticci表达了他对Stage Manager的持续失望，批评它是一个&amp;quot;设计过度&amp;quot;和&amp;quot;测试不力&amp;quot;的功能，&amp;quot;缺失的功能、错误和混乱的互动结合得浑然一体。&amp;quot;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330719.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;今年秋天，索尼将为其目前的整个优质无线耳塞系列带来多点连接。就像其他耳机和耳塞一样，该功能将支持让耳机同时连接到两个蓝牙音源。索尼计划&amp;quot;在2022年11月前&amp;quot;为LinkBuds和LinkBuds S增加多点链接功能，WF-1000XM4这样的旗舰机型也将在今年冬天获得多点功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330737.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [苹果设备现在开始支持任天堂的经典游戏手柄](https://hot.cnbeta.com/articles/game/1330717.htm) | Tue Oct 25 2022 3:43 PM 
+- 💂 [欧洲部分天然气价格一度跌到负值 发生了什么？](https://www.cnbeta.com/articles/tech/1330735.htm) | Tue Oct 25 2022 5:22 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果公司昨天在其一轮Mac、iPhone、iPad和Apple TV更新中悄悄地给了我们一个小小的惊喜，它增加了对任天堂一系列经典游戏控制器的支持。正如开发者Steve Troughton-Smith所发现的那样，任天堂的现代SNES和N64控制器现在可以与装有macOS 13、iOS 16和tvOS 16及以上版本的苹果设备一起使用，无论是使用有线还是蓝牙连接。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1330717.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;冬季来临之际，欧洲天然气过剩了……由于库存维持高位接受能力有限，欧洲部分地区液化天然气供过于求，现货天然气价格一度跌至负值。当地时间10月24日，欧洲部分天然气现货价格一度跌成负数，至-15.78欧元/兆瓦时，为有史以来的最低价格。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330735.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [时隔9年：经典内存测试软件Memtest86+王者归来 还免费](https://www.cnbeta.com/articles/tech/1330715.htm) | Tue Oct 25 2022 3:15 PM 
+- 🚀 [马斯克“私有化”诉讼案今日开庭 之前被判误导投资者](https://www.cnbeta.com/articles/tech/1330733.htm) | Tue Oct 25 2022 5:21 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;今天，&lt;a class=&quot;f14_link&quot; href=&quot;https://www.memtest.org/&quot; target=&quot;_blank&quot;&gt;Memtest86+ v6.00正式版终于发布了&lt;/a&gt;，距离它在2013年的上一个正式版，已经整整9年。一切还要追溯到上世纪90年代中期，&lt;strong&gt;Memtest86是最早能够测试PC DDR内存的工具之一，备受推崇。&lt;/strong&gt;后来，它被基准测试公司PassMark所收购，但是和很多被收购的软件一样，它陷入了更新缓慢、功能臃肿、必须付费的境地。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330715.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;据报道，特斯拉CEO埃隆·马斯克（Elon Musk）的“私有化”诉讼案今日继续开庭审理。旧金山地区法官今年早些时候已初步裁定，马斯克发布特斯拉私有化的推文误导了投资者。&lt;/strong&gt;对于投资者而言，今日的庭审至关重要，法官将听取双方关于“马斯克是否故意欺骗投资者”的争论。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330733.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [古老的细菌可能潜伏在火星表面之下](https://www.cnbeta.com/articles/science/1330713.htm) | Tue Oct 25 2022 3:11 PM 
+- 🎊 [索尼的DualSense Edge PS5手柄现已可供预购](https://hot.cnbeta.com/articles/game/1330731.htm) | Tue Oct 25 2022 5:15 PM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;一项新的研究发现，在火星上发现生命的机会比以前预期得要大。研究人员模拟了火星恶劣的电离辐射条件，以观察干燥、冷冻的细菌和真菌能够存活多久。以前的研究发现&amp;quot;柯南细菌&amp;quot;（Deinococcus radiodurans）可以在火星严酷的电离辐射中生存超过一百万年。一项新的研究打破了这一记录，发现这种健壮的细菌如果被掩埋，可以生存2.8亿年。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330713.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;索尼用于PS5的DualSense Edge无线手柄现在可以在1月26日发布之前从PlayStation Direct网站上预购。这款手柄具有标准款DualSense所没有的额外功能，如可替换的操纵杆和两个背部按钮。但它的价格为199.99美元，几乎是标准DualSense手柄价格的三倍。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1330731.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
