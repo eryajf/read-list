@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [华为胡厚昆：5G进入高速发展期 全球5G用户已达7亿](https://www.cnbeta.com/articles/tech/1330599.htm) | Tue Oct 25 2022 6:07 AM 
+- 🕯 [腾讯股价跌至5年来新低 知名投资人段永平第六次加仓](https://www.cnbeta.com/articles/tech/1330623.htm) | Tue Oct 25 2022 7:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月25日消息， 今天华为轮值董事长胡厚昆在2022全球移动宽带论坛上发表了“5G引领飞跃”的主题演讲。他提到，5G商用三年以来，在网络部署、消费者业务和行业应用方面取得了良好进展，已进入高速发展期。据其透露，截至2022年10月，全球已有230多家运营商推出了5G商用服务，5G用户达7亿。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330599.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;10月24日腾讯股价暴跌10%，今天股价也只是微涨0.2%，依然在206港元左右，创下了5年来新低，市值从巅峰期的8万亿港元跌到了现在的2万亿港元，损失超过70%市值。腾讯股价暴跌也让不少投资者巨亏，不过还是有人不信邪的，知名投资人、被称为中国巴菲特的段永平依然选择了加仓腾讯，&lt;strong&gt;今天他在网上确认了又买了一点腾讯股票，虽然不知道到底发生了什么。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330623.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [成本只有Model 3一半 疑似特斯拉全新轿车曝光](https://www.cnbeta.com/articles/tech/1330597.htm) | Tue Oct 25 2022 6:01 AM 
+- 💼 [聆听地球磁场的诡异声景](https://www.cnbeta.com/articles/science/1330621.htm) | Tue Oct 25 2022 7:31 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月20日，特斯拉公布2022财年第三季度财报，在公司财报会议上，马斯克透露了一个非常重磅的消息：&lt;strong&gt;公司开发团队目前的主要精力是开发下一代汽车&lt;/strong&gt;。马斯克还表示，&lt;strong&gt;该车成本估计只有Model 3的一半，产量可能会高于特斯拉目前所有汽车产品的总和&lt;/strong&gt;。好家伙，这就相当于半官宣了。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330597.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;地球的磁场是我们许多人可能认为理所当然的东西，因为它不是我们可以看到、感觉到或听到的东西。不过，最后一点现在已经改变了，&lt;strong&gt;因为科学家和音乐家们一起工作，将磁场数据转换成声音--结果很诡异。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330621.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [特斯拉“多头”：“经济逆风”下特斯拉无法独善其身 下调目标价至330美元](https://www.cnbeta.com/articles/tech/1330595.htm) | Tue Oct 25 2022 5:51 AM 
+- 💂 [SK海力士DDR5 6400Mbps模块产品已开始送样](https://www.cnbeta.com/articles/tech/1330619.htm) | Tue Oct 25 2022 7:25 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;摩根士丹利分析师 Adam Jonas 将特斯拉的目标股价从350美元下调至330美元，不过他重申了对该股将“跑赢大盘”的评级。Jonas 强调，做出这一调整是因为其希望在当前的经济环境中“为意外的风险因素留出余地”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330595.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;据韩媒报道，SK海力士25日宣布，已成功开发出DDR5 6400Mbps速度的32GB UDIMM和SODIMM，并已向其客户提供了该产品的样品。&lt;/strong&gt;报道称，SK海力士研发的DDR5 6400Mbps模块产品是目前PC/Client最快的DDR5产品。在处理超过 6400Mbps 的高速数据时，应用了一种称为 CKD（时钟驱动程序）的新设备以实现更稳定的操作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330619.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [NASA启动对UFO新研究 预计明年发布报告](https://www.cnbeta.com/articles/science/1330593.htm) | Tue Oct 25 2022 5:48 AM 
+- 🚀 [Xbox商店惊现假冒《NBA 2K23》游戏 至少两人上当给差评](https://hot.cnbeta.com/articles/game/1330617.htm) | Tue Oct 25 2022 7:18 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;据海外网10月25日援引哥伦比亚广播公司24日报道，美国国家航空航天局（NASA）宣布，一组科学家和专家于当地时间星期一（24日）开启对“不明空中现象”（UAP）的新研究，该现象以前被称为不明飞行物现象（UFO）。美国航天局表示，这项为期九个月的研究将“为美国宇航局和其他组织未来研究不明空中现象的性质奠定基础”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330593.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;《NBA 2K23》是2K Games于2022年9月9日发售的知名系列游戏《NBA 2K》的最新作品，而近日在Xbox商店中，有玩家发现了一个“李鬼版”《NBA 2K23》游戏，名叫《Nbasketball 23》，并且在被下架之前，至少有两个人购买了这款游戏。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1330617.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [苏箐被曝转投大众汽车：号称最狂智能车高管 因抨击特斯拉丢工作](https://www.cnbeta.com/articles/tech/1330591.htm) | Tue Oct 25 2022 5:45 AM 
+- 🎊 [俄罗斯货运飞船离开国际空间站并在太平洋坠毁](https://www.cnbeta.com/articles/science/1330615.htm) | Tue Oct 25 2022 7:17 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;还记得苏箐吗？华为最狂智能车高管，放话“华为自动驾驶绝对第一”、抨击特斯拉自动驾驶“杀人”，后来被任正非亲自签发下令罢免……他现在，被曝出加盟了大众汽车，准确说是大众旗下智能车子公司，更准确来说是大众与地平线合资的智能驾驶软件子公司。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330591.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;美国东部时间2022年10月23日周日下午6点46分，未搭载人员的俄罗斯航天局进步80号飞船跟国际空间站&lpar;ISS&rpar;的Poisk舱分离。&lt;/strong&gt;航天器退离空间站几小时后，“进步号”的引擎在脱轨机动中点火，这使得该货运飞船在太平洋上空的地球大气层中进入破坏性的返程。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330615.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
