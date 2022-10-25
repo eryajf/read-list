@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [不造手机改造车？魅族招聘更新大量汽车工程师](https://www.cnbeta.com/articles/tech/1330651.htm) | Tue Oct 25 2022 10:06 AM 
+- 🕯 [谁能更好胜任外科医生，男性还是女性？](https://www.cnbeta.com/articles/tech/1330663.htm) | Tue Oct 25 2022 11:10 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月25日，据爆料，魅族招聘更新了大量汽车工程制造相关岗位，&lt;strong&gt;如底盘电控工程师、高级智能座舱测试工程师等，似乎要往整车制造方向发展。&lt;/strong&gt;据悉，魅族今年申请了多项与车机系统相关的专利，但整车制造消息还是首次曝光。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330651.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;根据最近发表在《BMJ》上的一项研究，日本的男性和女性外科医生具有相同的死亡率和并发症发生率，尽管女性医生比男性外科医生更可能遇到高风险的病人。研究人员指出，在国际上，女性在外科专业中的人数仍然不足，并呼吁为女性外科医生提供更多机会，以帮助减少基于性别的不平等。尽管近年来全球女医生的数量有所增加，但女性在外科领域仍然是少数。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330663.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [首架国产大飞机C919将于12月交付东航](https://www.cnbeta.com/articles/tech/1330649.htm) | Tue Oct 25 2022 9:42 AM 
+- 💼 [数码品牌Nothing将于今年年底在伦敦开设实体零售店](https://www.cnbeta.com/articles/tech/1330661.htm) | Tue Oct 25 2022 11:05 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国产大飞机C919在9月29日拿到了民航局的合格证，完成了飞机研发、试飞等工作，剩下的就是交付了，首个客户是东航，将于12月份交付。10月25日，&lt;strong&gt;东航总经理李养民透露首架C919飞机将于今年12月交付东航，&lt;/strong&gt;东航将通过“全面合作、全程参与、全力以赴”，切实承担起首家商业运营C919大型客机的重大政治责任，确保飞出安全、飞出志气、飞出品牌、飞出效益。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330649.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;Nothing公司宣布，它计划在今年圣诞节前在伦敦的Soho区开设第一家实体零售店。该店将位于彼得街4号，位于Gosh! 漫画和时尚品牌Supreme的伦敦分店之间。开设该店的消息是在Nothing宣布其最新的一对新耳塞:Ear Stick的前一天发布的，当然这款耳塞将在该店与其他设备一起销售。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330661.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [英特尔22款第13代酷睿桌面CPU阵容已得到微软兼容性列表确认](https://www.cnbeta.com/articles/tech/1330647.htm) | Tue Oct 25 2022 9:41 AM 
+- 💂 [羊毛已成往事 Steam土耳其/阿根廷区建议价格暴涨4倍](https://hot.cnbeta.com/articles/game/1330659.htm) | Tue Oct 25 2022 10:56 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;微软已经确认英特尔整个第13代猛禽湖CPU阵容在其对即将到来的Windows 11 22H2操作系统的支持列表中。一个多星期前，技嘉公司在其网站上发布了其新的Z790主板系列支持英特尔处理器的信息。在该信息中，列出了22款新的处理器，全部来自即将到来的Raptor Lake系列。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330647.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;一直以来，全球有不少Steam玩家都会选择土耳其和阿根廷地区购买游戏，这两地超低价格的游戏“享誉全球”。需要注意的是，前不久，有很多用户发现自己的土耳其/阿根廷区账户被封了，当时就有人怀疑是V社加大了管理力度。&lt;strong&gt;今天，结果终于来了，羊毛党以后再也没有羊毛能薅了。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1330659.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [上海启动吸入用新冠疫苗加强免疫接种](https://www.cnbeta.com/articles/tech/1330645.htm) | Tue Oct 25 2022 9:37 AM 
+- 🚀 [深度操作系统V23界面将引入“行云设计”&lpar;Flow Design&rpar;](https://www.cnbeta.com/articles/tech/1330657.htm) | Tue Oct 25 2022 10:55 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;10月25日消息，据“&lt;a class=&quot;f14_link&quot; href=&quot;https://mp.weixin.qq.com/s/mZP_w7WIUwOJbLGDNLhMcA&quot; target=&quot;_blank&quot;&gt;上海发布&lt;/a&gt;”微信公众号，10月25日起，&lt;strong&gt;上海市启动吸入用重组新冠病毒疫苗（5型腺病毒载体）加强免疫预约登记。10月26日起启动加强免疫。&lt;/strong&gt;本次加强免疫实施免费接种。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330645.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;作为国内最受欢迎的Linux发行版本，Deepin深度操作系统正在开发全新的V23版本，最大变化就是采用“行云设计”&lpar;Flow Design&rpar;。据官方介绍，&lt;strong&gt;行云设计理念遵循“简约、友好、生命力”的原则，从图标重绘到新的调色板，从阴影模糊细节优化到叠加背景的饱和度，从布局控件自由掌控到动画设计，都自然而恰当。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330657.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [哈佛研究为早期板块构造和地磁极翻转提供了新的、更清晰的证据](https://www.cnbeta.com/articles/science/1330643.htm) | Tue Oct 25 2022 9:32 AM 
+- 🎊 [碎片规避演习：空间站推进器启动以避开太空垃圾](https://www.cnbeta.com/articles/science/1330655.htm) | Tue Oct 25 2022 10:33 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;对地球上最古老的岩石碎片进行分析的新研究揭示了一些最尖锐的证据，其表明地球的地壳在至少32.5亿年前以类似于现代板块构造的方式进行推拉。此外，这项研究还提供了最早的证据--证明了地球的南北磁极何时互换位置。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330643.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;昨晚，与国际空间站对接的进步81号推进器开启了5分5秒，进行预定的碎片规避机动（PDAM），为综合体提供额外的距离，使其远离俄罗斯宇宙1408碎片的预测轨道。推进器的点火发生在美国东部时间晚上8点25分，这次机动没有对空间站的运行产生影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330655.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
