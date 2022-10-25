@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [什么，Jetpack 也要支持多平台了！](https://juejin.cn/post/7158463807126241287) | Tue Oct 25 2022 2:56 PM 
+- 🤗 [#yyds干货盘点#【愚公系列】2022年10月 微信小程序-Component组件的扩展](https://juejin.cn/post/7158485433662308389) | Tue Oct 25 2022 4:19 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第24天，点击查看活动详情 // component.js Component&lpar;{ data: { from: &#39;componen 
+    </details> 
+
+- 🎡 [什么，Jetpack 也要支持多平台了！](https://juejin.cn/post/7158463807126241287) | Tue Oct 25 2022 2:56 PM 
     <details><summary>展开描述 ...</summary> 
     Jetpack 也要支持多平台了，带你快速了解 Android 官方项目是如何在 KMM 中使用 Jetpack 的。 
     </details> 
 
-- 🎡 [第121期：一次成功的基于vue3和ts的CodeReview](https://juejin.cn/post/7158463602293211149) | Tue Oct 25 2022 2:55 PM 
+- 🕯 [第121期：一次成功的基于vue3和ts的CodeReview](https://juejin.cn/post/7158463602293211149) | Tue Oct 25 2022 2:55 PM 
     <details><summary>展开描述 ...</summary> 
     封面图 CodeReview现场 背景 当前项目已经接入了公司自研的前端监控平台，已经有能力对线上运行的各个项目进行错误监控，并且可以统计相关报错信息及日志。 对于报错问题的修复前段时间也一直在跟进， 
     </details> 
 
-- 🕯 [构建高性能 React Native 跨端应用—图片与内存](https://juejin.cn/post/7158463023047262239) | Tue Oct 25 2022 2:55 PM 
+- 🚀 [构建高性能 React Native 跨端应用—图片与内存](https://juejin.cn/post/7158463023047262239) | Tue Oct 25 2022 2:55 PM 
     <details><summary>展开描述 ...</summary> 
     本文为稀土掘金技术社区首发签约文章，14天内禁止转载，14天后未获授权禁止转载，侵权必究！ 一 前言 在构建高性能 React Native 跨端应用—引擎与渲染章节中，我们从引擎与渲染角度介绍了 R 
     </details> 
 
-- 🚀 [给vue-element-admin接入qiankun的微前端开发实践总结🍀](https://juejin.cn/post/7158461025694515214) | Tue Oct 25 2022 2:45 PM 
+- 💪 [给vue-element-admin接入qiankun的微前端开发实践总结🍀](https://juejin.cn/post/7158461025694515214) | Tue Oct 25 2022 2:45 PM 
     <details><summary>展开描述 ...</summary> 
     🌺前言 这是一篇给vue-element-admin接入qiankun的微前端学习文章。在本文中，我通过一个项目给大家展示如何给以vue-element-admin项目接入微前端应用，且在此基础上实现 
-    </details> 
-
-- 💪 [Android APT实战学习技巧](https://juejin.cn/post/7158450306680881160) | Tue Oct 25 2022 2:04 PM 
-    <details><summary>展开描述 ...</summary> 
-    简介 APT&lpar;Annotation Processing Tool&rpar;即注解处理器，在编译的时候可以处理注解然后搞一些事情，也可以在编译时生成一些文件之类的。ButterKnife和EventBus都使 
     </details> 
 <!-- juejin:END -->
 ### 少数派
