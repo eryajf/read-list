@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [AMD Zen4锐龙7 7700首测：性能、功耗表现均令人满意](https://www.cnbeta.com/articles/tech/1330739.htm) | Tue Oct 25 2022 5:28 PM 
+- 🕯 [马斯克据称承诺周五完成收购推特交易 银行资金将到位](https://www.cnbeta.com/articles/tech/1330741.htm) | Tue Oct 25 2022 7:57 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;已持续半年的特斯拉CEO马斯克收购推特交易大戏终于可能本周落幕。&lt;/strong&gt;美东时间25日周二，媒体援引知情者消息称，本周一在同帮助为收购交易融资的银行开视频会议时，马斯克承诺，到本周五完成交易。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330741.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [AMD Zen4锐龙7 7700首测：性能、功耗表现均令人满意](https://www.cnbeta.com/articles/tech/1330739.htm) | Tue Oct 25 2022 5:28 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;AMD Zen4首批推出了四款X系列处理器，而根据曝料，接下来将有一款锐龙7 7700，规格略有降低，但功耗、价格也都会更低。现在，GeekBench 5数据库中已经出现了锐龙7 7700，检测为&lt;strong&gt;8核心16线程、二级缓存8MB、三级缓存32MB&lt;/strong&gt;，这些都和锐龙7 7700X毫无二致。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330739.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [索尼正在为其耳塞产品系列带来多点连接能力 包括WF-1000XM4](https://www.cnbeta.com/articles/tech/1330737.htm) | Tue Oct 25 2022 5:27 PM 
+- 💂 [索尼正在为其耳塞产品系列带来多点连接能力 包括WF-1000XM4](https://www.cnbeta.com/articles/tech/1330737.htm) | Tue Oct 25 2022 5:27 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今年秋天，索尼将为其目前的整个优质无线耳塞系列带来多点连接。就像其他耳机和耳塞一样，该功能将支持让耳机同时连接到两个蓝牙音源。索尼计划&amp;quot;在2022年11月前&amp;quot;为LinkBuds和LinkBuds S增加多点链接功能，WF-1000XM4这样的旗舰机型也将在今年冬天获得多点功能。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330737.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [欧洲部分天然气价格一度跌到负值 发生了什么？](https://www.cnbeta.com/articles/tech/1330735.htm) | Tue Oct 25 2022 5:22 PM 
+- 🚀 [欧洲部分天然气价格一度跌到负值 发生了什么？](https://www.cnbeta.com/articles/tech/1330735.htm) | Tue Oct 25 2022 5:22 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;冬季来临之际，欧洲天然气过剩了……由于库存维持高位接受能力有限，欧洲部分地区液化天然气供过于求，现货天然气价格一度跌至负值。当地时间10月24日，欧洲部分天然气现货价格一度跌成负数，至-15.78欧元/兆瓦时，为有史以来的最低价格。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330735.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [马斯克“私有化”诉讼案今日开庭 之前被判误导投资者](https://www.cnbeta.com/articles/tech/1330733.htm) | Tue Oct 25 2022 5:21 PM 
+- 🎊 [马斯克“私有化”诉讼案今日开庭 之前被判误导投资者](https://www.cnbeta.com/articles/tech/1330733.htm) | Tue Oct 25 2022 5:21 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;&lt;strong&gt;据报道，特斯拉CEO埃隆·马斯克（Elon Musk）的“私有化”诉讼案今日继续开庭审理。旧金山地区法官今年早些时候已初步裁定，马斯克发布特斯拉私有化的推文误导了投资者。&lt;/strong&gt;对于投资者而言，今日的庭审至关重要，法官将听取双方关于“马斯克是否故意欺骗投资者”的争论。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330733.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [索尼的DualSense Edge PS5手柄现已可供预购](https://hot.cnbeta.com/articles/game/1330731.htm) | Tue Oct 25 2022 5:15 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;索尼用于PS5的DualSense Edge无线手柄现在可以在1月26日发布之前从PlayStation Direct网站上预购。这款手柄具有标准款DualSense所没有的额外功能，如可替换的操纵杆和两个背部按钮。但它的价格为199.99美元，几乎是标准DualSense手柄价格的三倍。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1330731.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
