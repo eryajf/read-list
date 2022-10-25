@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [时隔9年：经典内存测试软件Memtest86+王者归来 还免费](https://www.cnbeta.com/articles/tech/1330715.htm) | Tue Oct 25 2022 3:15 PM 
+- 🕯 [玻璃制造商康宁公司财报前瞻称智能手机市场表现急剧下降](https://www.cnbeta.com/articles/tech/1330721.htm) | Tue Oct 25 2022 4:04 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;苹果公司的主要iPhone玻璃制造商康宁公司预计本季度的业绩会很糟糕，它将此归咎于智能手机销量的下降--但目前还不清楚究竟是康宁公司本身还是以外的哪些制造商受到了影响。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330721.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💼 [iPadOS 16的Stage Manager功能因问题多发被骂爆](https://www.cnbeta.com/articles/tech/1330719.htm) | Tue Oct 25 2022 4:00 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;在周一发布iPadOS 16的同时，MacStories主编Federico Viticci分享了一些关于Stage Manager的坦率反馈，这个新功能允许在iPad上有多个重叠的窗口应用。Viticci表达了他对Stage Manager的持续失望，批评它是一个&amp;quot;设计过度&amp;quot;和&amp;quot;测试不力&amp;quot;的功能，&amp;quot;缺失的功能、错误和混乱的互动结合得浑然一体。&amp;quot;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330719.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 💂 [苹果设备现在开始支持任天堂的经典游戏手柄](https://hot.cnbeta.com/articles/game/1330717.htm) | Tue Oct 25 2022 3:43 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;苹果公司昨天在其一轮Mac、iPhone、iPad和Apple TV更新中悄悄地给了我们一个小小的惊喜，它增加了对任天堂一系列经典游戏控制器的支持。正如开发者Steve Troughton-Smith所发现的那样，任天堂的现代SNES和N64控制器现在可以与装有macOS 13、iOS 16和tvOS 16及以上版本的苹果设备一起使用，无论是使用有线还是蓝牙连接。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1330717.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [时隔9年：经典内存测试软件Memtest86+王者归来 还免费](https://www.cnbeta.com/articles/tech/1330715.htm) | Tue Oct 25 2022 3:15 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;今天，&lt;a class=&quot;f14_link&quot; href=&quot;https://www.memtest.org/&quot; target=&quot;_blank&quot;&gt;Memtest86+ v6.00正式版终于发布了&lt;/a&gt;，距离它在2013年的上一个正式版，已经整整9年。一切还要追溯到上世纪90年代中期，&lt;strong&gt;Memtest86是最早能够测试PC DDR内存的工具之一，备受推崇。&lt;/strong&gt;后来，它被基准测试公司PassMark所收购，但是和很多被收购的软件一样，它陷入了更新缓慢、功能臃肿、必须付费的境地。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330715.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [古老的细菌可能潜伏在火星表面之下](https://www.cnbeta.com/articles/science/1330713.htm) | Tue Oct 25 2022 3:11 PM 
+- 🎊 [古老的细菌可能潜伏在火星表面之下](https://www.cnbeta.com/articles/science/1330713.htm) | Tue Oct 25 2022 3:11 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;一项新的研究发现，在火星上发现生命的机会比以前预期得要大。研究人员模拟了火星恶劣的电离辐射条件，以观察干燥、冷冻的细菌和真菌能够存活多久。以前的研究发现&amp;quot;柯南细菌&amp;quot;（Deinococcus radiodurans）可以在火星严酷的电离辐射中生存超过一百万年。一项新的研究打破了这一记录，发现这种健壮的细菌如果被掩埋，可以生存2.8亿年。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330713.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [有关美国人摔手机的有趣数据](https://hot.cnbeta.com/articles/funny/1330711.htm) | Tue Oct 25 2022 3:06 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;你是否曾经因为不小心摔坏了手机而不得不更换手机？如果是这样，你就属于大多数。四分之三的美国人都遭受过这种场面，而一项新的调查显示了这种情况最常发生的州。该报告还揭示了一些其他有趣的事实，如破损是如何发生的，以及最常见的笔记本电脑故障。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/funny/1330711.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🚀 [阿迪达斯终止与侃爷合作：Yeezy系列椰子鞋将终结](https://www.cnbeta.com/articles/tech/1330709.htm) | Tue Oct 25 2022 2:48 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;继GAP、巴黎世家之后，阿迪达斯也终于做出了决定。阿迪达斯发声明称：“我们不容忍反犹主义和任何其他形式的仇恨言论。他最近的言论和行为不可接受、具有仇恨意味且危险，与阿迪达斯多元化和包容性、相互尊重以及公平的价值观相违背。”&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330709.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🎊 [三款AMD锐龙PRO 5000上线：含12核心不支持多线程型号](https://www.cnbeta.com/articles/tech/1330707.htm) | Tue Oct 25 2022 2:46 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Zen4来了，Zen3依然可以在特定领域发挥余热。&lt;strong&gt;AMD官网今天低调上线了三款锐龙PRO 5000系列处理器，仍然是Zen3架构，面向创意设计方向的专业商用领域，也就是图形工作站。&lt;/strong&gt;锐龙PRO 5000G系列此前已有六款产品，都集成GPU核心，但最高只到锐龙7系列，最多只有8核心16线程。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330707.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
