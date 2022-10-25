@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [iReal Pro 2022.10 编曲软件](https://xclient.info/s/ireal-pro.html) | Mon Oct 24 2022 12:21 AM 
+- 🦏 [System Toolkit 5.9.0 系统工具包](https://xclient.info/s/system-toolkit.html) | Tue Oct 25 2022 5:29 AM 
     <details><summary>展开描述 ...</summary> 
-    iReal Pro是一款应用在mac平台上的乐谱编曲软件，它拥有强大的乐谱风格伴奏功能。 
+    System Toolkit 是为MacOS设计的一体化信息和维护应用程序。 
     </details> 
 
--  [Snagit 2022.2.2 强大的截屏软件](https://xclient.info/s/snagit.html) | Mon Oct 24 2022 12:20 AM 
+-  [URL Manager Pro 6.0 浏览器标签管理](https://xclient.info/s/url-manager.html) | Tue Oct 25 2022 5:28 AM 
     <details><summary>展开描述 ...</summary> 
-    Snagit Mac版是一款很好用的系统截屏工具，你可以使用此工具轻松抓取图像、文本和影音等多种内容形式，内置强大编辑器，捕捉、编辑一步到位。 
+    URL Manager Pro Mac版是Safari、Chrome、Chromium、Opera、iCab和Firefox浏览器的专业书签管理器，它使得管理书签、电子邮件地址和新闻组更加容易。 
     </details> 
 
-- ⚗️ [Get Backup Pro 3.7 数据备份和同步工具](https://xclient.info/s/get-backup-pro.html) | Mon Oct 24 2022 12:19 AM 
+- ⚗️ [iClip 5.5.6b2 剪切板管理工具](https://xclient.info/s/iclip.html) | Tue Oct 25 2022 5:26 AM 
     <details><summary>展开描述 ...</summary> 
-    Get Backup Pro 是一款Mac上的数据备份和同步工具，能够让我们快速的备份磁盘文件，保护数据的安全，支持iPhoto图片库、邮件、iTunes音乐库的备份和恢复，目录的双向同步，磁盘克隆等等。 
+    iClip 是一款Mac上的剪切板管理工具，使用起来异常的简单，你打开了应用程序之后鼠标移到右边就可以看到额外的出现了一块半透明的粘贴板，鼠标移开后又会消失不见，非常的方便也不会妨碍到您的工作。 
     </details> 
 
-- 🔥 [DreamPlan Plus 7.70 房屋设计](https://xclient.info/s/dreamplan-plus.html) | Mon Oct 24 2022 12:18 AM 
+- 🔥 [Postico 2.0.9470 优秀的PostgreSQL客户端](https://xclient.info/s/postico.html) | Tue Oct 25 2022 5:25 AM 
     <details><summary>展开描述 ...</summary> 
-    DreamPlan是一款Mac上的房屋设计软件，为您提供创建逼真的3D房子模型和计划整修项目的工具，包括花园空间彻底规划您的房屋改造项目，并使用模拟软件预览您想要做的更改可以为您节省许多时间。 
+    Postico是一款Mac平台的优秀的PostgreSQL客户端，支持本地和远程云服务，Heroku Postgres, Amazon Redshift, Amazon RDS等 
     </details> 
 
-- 🌋 [Downcast 2.11.15 Podcast订阅工具](https://xclient.info/s/downcast.html) | Mon Oct 24 2022 12:18 AM 
+- 🌋 [PCalc 4.10.5 全功能科学计算器](https://xclient.info/s/pcalc.html) | Tue Oct 25 2022 5:24 AM 
     <details><summary>展开描述 ...</summary> 
-    Downcast 可以下载、 播放和同步你最喜欢的播客。 
+    PCalc 是mac上一款非常优秀的全功能科学计算器，是专为科学家、 工程师、 学生、 程序员，等需要专业科学计算器人群所设计。 
     </details> 
 <!-- xclient:END -->
 
