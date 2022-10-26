@@ -792,29 +792,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 1026](http://jandan.net/p/111533) | Wed Oct 26 2022 2:48 AM 
+- 🚀 [大型脑成像研究显示 玩游戏更多的儿童，认知表现更佳](http://jandan.net/p/111535) | Wed Oct 26 2022 3:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    zsbd 
+    </details> 
+
+- 🙉 [因为在线教育 美国中小学生的数学成绩整体下降](http://jandan.net/p/111534) | Wed Oct 26 2022 3:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    缺少必要的课堂环境约束 
+    </details> 
+
+- 🎉 [今日好价 1026](http://jandan.net/p/111533) | Wed Oct 26 2022 2:48 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：34 
     </details> 
 
-- 🙉 [家里的猫猫知道你在对它说话，但不CARE](http://jandan.net/p/111530) | Tue Oct 25 2022 6:18 AM 
+- 🐲 [家里的猫猫知道你在对它说话，但不CARE](http://jandan.net/p/111530) | Tue Oct 25 2022 6:18 AM 
     <details><summary>展开描述 ...</summary> 
     仅当主人使用对猫专用语气时 
     </details> 
 
-- 🎉 [摄神取念：搞出了基于fMRI的科技读心术](http://jandan.net/p/111529) | Tue Oct 25 2022 4:28 AM 
+-  [摄神取念：搞出了基于fMRI的科技读心术](http://jandan.net/p/111529) | Tue Oct 25 2022 4:28 AM 
     <details><summary>展开描述 ...</summary> 
     把思考活动里的语义内容和对大脑磁共振成像的结果对应在一起 
-    </details> 
-
-- 🐲 [人类从何时开始使用道路](http://jandan.net/p/111528) | Tue Oct 25 2022 4:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    世上本没有路，走的人多了，也就成了路。 
-    </details> 
-
--  [今日好价 1025](http://jandan.net/p/111527) | Tue Oct 25 2022 3:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：40 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
