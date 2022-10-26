@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [OKR之剑·理念篇04：让OKR轻松上阵](https://juejin.cn/post/7158758119781171236) | Wed Oct 26 2022 9:58 AM 
+- 🤗 [Android 网络延迟、丢包率获取](https://juejin.cn/post/7158772682496933919) | Wed Oct 26 2022 10:56 AM 
     <details><summary>展开描述 ...</summary> 
-    本文是《OKR 之剑》系列之理念第 4 篇。本文以我们实际工作中的经验为基础，向大家介绍如何以最小的负担引入 OKR 并使其能循序渐进的被执行。 
+    Android获取host访问丢包率和延迟的方法 具体方法 Runtime.getRuntime&lpar;&rpar;.exec&lpar;&quot;ping -c $times $host&quot;&rpar; 
     </details> 
 
-- 🎡 [MySQL基础-自连接&amp;联合查询](https://juejin.cn/post/7158726872556109855) | Wed Oct 26 2022 7:57 AM 
+- 🎡 [TVM | 一种用于深度学习的端到端自动优化编译器](https://juejin.cn/post/7158756441472368648) | Wed Oct 26 2022 9:54 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第26天点击查看活动详情 自连接 自连接查询 自连接查询，顾名思义，就是自己连接自己，也就是把一张表连接查询多次。我们先来学习一下 
+    大家好，我是极智视界，本文解读一下 一种用于深度学习的端到端自动优化编译器 TVM。希望我的分享能对你的学习有一点帮助。 
     </details> 
 
-- 🕯 [【源码篇】浅析MySQL的表锁和行锁机制](https://juejin.cn/post/7158726631870169102) | Wed Oct 26 2022 7:56 AM 
+- 🕯 [Vue指令v-once](https://juejin.cn/post/7158734168929599519) | Wed Oct 26 2022 8:25 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第20天，点击查看活动详情 众所周知，MySQL的存储引擎有MyISAM和InnoDB，锁粒度分别是表锁和行锁。 后者的出现从某种 
+    只渲染元素和组件一次。随后的重新渲染，元素/组件及其所有的子节点将被视为静态内容并跳过。这可以用于优化更新性能。如果只想页面加载时显示一次，后续不在因为数据信息的变动而变动时，就可以采取v-once实 
     </details> 
 
-- 🚀 [Error Prone 通过检测常见错误帮助改善 Java 代码](https://juejin.cn/post/7158726654926258190) | Wed Oct 26 2022 7:56 AM 
+- 🚀 [程序员转行做运营，降薪降得心甘情愿](https://juejin.cn/post/7158734145575714853) | Wed Oct 26 2022 8:24 AM 
     <details><summary>展开描述 ...</summary> 
-    Error Prone是谷歌开源的一个 Java 编译插件，可以在编译时进行静态分析、bug 检测，或者对可能的优化提出建议。插件中包括了超过 500 个预定义的bug检查，并且允许第三方和自定义插件 
+    自2019年末新冠疫情爆发以来，近三年的就业形势一直不太乐观，大厂裁员的消息接踵而至。身边的朋友都在感慨：现阶段能保住工作就不错了，新工作就算了。 但，就是在这样严峻的大环境下，我的前同事不三不仅跳槽 
     </details> 
 
-- 💪 [纯原生开发 Web Components 超详细分享](https://juejin.cn/post/7158717654369304612) | Wed Oct 26 2022 7:21 AM 
+- 💪 [ViewPager实现引导动画的效果|与Fragment结合实现多页面滑动](https://juejin.cn/post/7158731638078177310) | Wed Oct 26 2022 8:17 AM 
     <details><summary>展开描述 ...</summary> 
-    👋 Hello，我是田同学，大家可以加我微信 VirgoTyh 一起共同学习。 我是 vue3 开源组件库 fighting-design 的维护者。 最近我正在研究 Web Components 
+    ViewPager实现引导动画的效果 ViewPager 以可滑动的格式显示视图或 Fragment。 记录一下通过viewpager实现滑动显示图片，步骤如下 1.写布局文件，添加一个viewpag 
     </details> 
 <!-- juejin:END -->
 ### 少数派
