@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [「千呼万唤始出来」的 iPadOS 16.1，这些新功能值得关注](https://sspai.com/post/76416) | Tue Oct 25 2022 9:30 AM 
+- 👹 [派早报：云米发布多款新品、微软发布 Windows Dev Kit 套件等](https://sspai.com/post/76426) | Wed Oct 26 2022 1:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    Shutterstock 将与 OpenAI 合作售卖 AI 创作内容，App Store 更新 NFT 相关规则等。&lt;a href=&quot;https://sspai.com/post/76426&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [「千呼万唤始出来」的 iPadOS 16.1，这些新功能值得关注](https://sspai.com/post/76416) | Tue Oct 25 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
     iPadOS 16.1 来了，一起来看看都有哪些新功能。&lt;a href=&quot;https://sspai.com/post/76416&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [一部合格的入门级 iPad：2022 款 iPad 上手体验](https://sspai.com/post/76399) | Tue Oct 25 2022 8:04 AM 
+- 🤭 [一部合格的入门级 iPad：2022 款 iPad 上手体验](https://sspai.com/post/76399) | Tue Oct 25 2022 8:04 AM 
     <details><summary>展开描述 ...</summary> 
     新的 iPad 不卡顿，也不廉价，只要在价位和功能上符合你的需要，完全可以果断出手。&lt;a href=&quot;https://sspai.com/post/76399&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [微信是如何一步步告别「小而美」的？](https://sspai.com/post/75731) | Tue Oct 25 2022 6:23 AM 
+- 🥸 [微信是如何一步步告别「小而美」的？](https://sspai.com/post/75731) | Tue Oct 25 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
     它不是一款聊天工具，也不是很在意你和别人的链接。它在意的是你驱车经过时会产生多少消费，有没有办法用它的生态，吃掉你所需要的一切。&lt;a href=&quot;https://sspai.com/post/75731&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [iOS 16.1 更新：实时活动上线、「灵动岛」上新，还有多项体验优化](https://sspai.com/post/76360) | Tue Oct 25 2022 3:33 AM 
+- 🙉 [iOS 16.1 更新：实时活动上线、「灵动岛」上新，还有多项体验优化](https://sspai.com/post/76360) | Tue Oct 25 2022 3:33 AM 
     <details><summary>展开描述 ...</summary> 
     10 月 25 日凌晨，Apple 推送了 iOS 16.1 正式版。在这个版本中，Apple 正式推出实时活动功能，改进了广受关注和吐槽的跨应用粘贴权限的相关特性，同时调整了电池电量相关的样式设置等等。&lt;a href=&quot;https://sspai.com/post/76360&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派早报：iPadOS 16 与 macOS Ventura 开始推送，Apple 上调多项服务价格等](https://sspai.com/post/76403) | Tue Oct 25 2022 12:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    特斯拉中国地区宣布调价，vivo 发布下一代自研影像芯片等。&lt;a href=&quot;https://sspai.com/post/76403&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
