@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [10 万奖金、实习 OFFER ! 七牛云校园黑客马拉松报名进行中](https://juejin.cn/post/7158659752392654856) | Wed Oct 26 2022 3:37 AM 
+- 🤗 [实战 Go：如何实现一个简单分布式系统](https://juejin.cn/post/7158685917006266398) | Wed Oct 26 2022 5:19 AM 
     <details><summary>展开描述 ...</summary> 
-    自从第一行代码被敲下的那一刻起，每一个个体都拥有了更多改变世界的机会。我们向学生朋友们发出邀请，参加「七牛云校园黑客马拉松」，用代码去释放创意，赶快报名吧！ 
+    Go 语言天然支持异步编程，而且静态语言能保证应用系统的稳定性。笔者的开源项目 Crawlab 作为爬虫管理平台，也应用到了分布式系统。本篇文章将介绍如何用 Go 语言编写一个简单的分布式系统。 
     </details> 
 
-- 🎡 [Luminar Neo 教程，如何在 Luminar Neo 中使用详细信息工具？](https://juejin.cn/post/7158657744222814222) | Wed Oct 26 2022 3:28 AM 
+- 🎡 [[千字长文系列] 🌏探秘PG之一文带你玩转PostgreSQL🐳（七）](https://juejin.cn/post/7158675778383642660) | Wed Oct 26 2022 4:39 AM 
     <details><summary>展开描述 ...</summary> 
-    欢迎观看 Luminar Neo 中文版教程，小编带大家学习 Luminar Neo 的基本工具和使用技巧，了解如何在 Luminar Neo 中使用详细信息工具。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第29天，点击查看活动详情 🗻 简介: 📋🐳🐋🐟 🐳PostgreSQL String 函数 思维导图 🐳PostgreSQL A 
     </details> 
 
-- 🕯 [workerman开发脚手架webman-owen](https://juejin.cn/post/7158656952736677902) | Wed Oct 26 2022 3:25 AM 
+- 🕯 [iOS老司机的接地气算法Tips](https://juejin.cn/post/7158674243813638174) | Wed Oct 26 2022 4:33 AM 
     <details><summary>展开描述 ...</summary> 
-    workerman开发脚手架 webman-owen Gitee链接: https://gitee.com/owenzhang24/webman-owen 项目内容 app端时间随机数签名,后台 
+    iOS行业算法除了面试时的筛选作用, 还有其他作用吗? 不少一线iOS开发人员可能都会存在这个疑问. 然而, 算法真的没用吗? 非也, 程序 = 算法 + 数据结构 
     </details> 
 
-- 🚀 [[专栏03]：组件库基础封装及BEM样式结构搭建](https://juejin.cn/post/7158655999803392014) | Wed Oct 26 2022 3:22 AM 
+- 🚀 [🎉Spring Bean的8种加载方式，90%的程序员都说不全🤣](https://juejin.cn/post/7158671827739344909) | Wed Oct 26 2022 4:25 AM 
     <details><summary>展开描述 ...</summary> 
-    ts的开发与js有所不同，在一些组件编写上我们需要做的更多，本节在做组件基础编写环境之外，同时去通过BEM规范结合参考element-ui的组织结构定义出我们所需的一个样式规范与项目结构。 
+    以前学习Spring框架的时候，总结了几种Bean的加载方式，不过老师说还有其它的加载方式，以下八种并不是全部，但也足以用来做很多事情了。  
     </details> 
 
-- 💪 [一次有趣的 DNS 导致 Node 服务故障问题分析实录](https://juejin.cn/post/7158654267824275470) | Wed Oct 26 2022 3:15 AM 
+- 💪 [vue3高级指南-基于vue3-admin-template开发vue3管理后台](https://juejin.cn/post/7158671341086834724) | Wed Oct 26 2022 4:22 AM 
     <details><summary>展开描述 ...</summary> 
-    1、一起来卷一卷Node.js源码，分析 libuv 如何处理阻塞 DNS 调用 2、Node.js 内部线程池对快速 IO、慢速 IO、CPU 型任务是如何处理的 3、调试神器 gdb 使用 
+    vue3-admin-template 是一个后台前端解决方案，它基于 vue 和 element-plus实现，它使用了最新的前端技术栈，内置了动态路由，权限验证，提供了多种布局方式。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
