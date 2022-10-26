@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [腾讯云双十一期间会有续费优惠么？](https://www.v2ex.com/t/889868#reply0) | Tue Oct 25 2022 11:13 PM
-- 🤗 [[前端问题] ： ahooks 到底咋样？ 我其实挺喜欢其中一个 useMemoizedFn](https://www.v2ex.com/t/889865#reply1) | Tue Oct 25 2022 7:54 PM
-- 🎭 [k8s 上面有什么 PaaS 的解决方案吗](https://www.v2ex.com/t/889861#reply0) | Tue Oct 25 2022 5:26 PM
-- 🥷 [C++萌新求快速对 std::vector&lt;std::string&gt;去重&lpar;string 是&quot;数字&quot;&rpar;](https://www.v2ex.com/t/889853#reply5) | Tue Oct 25 2022 3:59 PM
-- 🐵 [nestjs 有没有测试用例项目推荐的？](https://www.v2ex.com/t/889852#reply0) | Tue Oct 25 2022 3:58 PM<!-- v2ex:END -->
+- 🥸 [btrfs 的 raid1 模式 如果 ssd 与 hdd 混组 最终读写速度和 iops 取决于什么?](https://www.v2ex.com/t/889901#reply2) | Wed Oct 26 2022 1:45 AM
+- 🤗 [[求助] 使用 uinput 创建虚拟触屏时，可以指定显示器吗？](https://www.v2ex.com/t/889889#reply0) | Wed Oct 26 2022 1:10 AM
+- 🎭 [现在挂 PT 最优解还是蜗牛星际吗](https://www.v2ex.com/t/889888#reply3) | Wed Oct 26 2022 1:09 AM
+- 🥷 [中国大陆能使用 Google Pixel 7 Pro 吗？](https://www.v2ex.com/t/889886#reply2) | Wed Oct 26 2022 12:58 AM
+- 🐵 [想读个在职研究生，大家有什么建议吗？](https://www.v2ex.com/t/889883#reply21) | Wed Oct 26 2022 12:47 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
