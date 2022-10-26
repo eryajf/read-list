@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [SpringBoot实现电子文件签字+合同系统！](https://juejin.cn/post/7158814158140473380) | Wed Oct 26 2022 1:36 PM 
+- 🤗 [在 Openlayer 中添加 mark，并添加 hover 效果](https://juejin.cn/post/7158817250856665118) | Wed Oct 26 2022 1:47 PM 
+    <details><summary>展开描述 ...</summary> 
+    add mark 方法一 如果有多个点的话，可以生成多个 feature（循环调用 addFeature） 方法二 用 geojson 去渲染 mark geojson 格式 生成 geojson 的 
+    </details> 
+
+- 🎡 [SpringBoot实现电子文件签字+合同系统！](https://juejin.cn/post/7158814158140473380) | Wed Oct 26 2022 1:36 PM 
     <details><summary>展开描述 ...</summary> 
     今天公司领导提出一个功能，说实现一个文件的签字+盖章功能，然后自己进行了简单的学习，对文档进行数字签名与签署纸质文档的原因大致相同，数字签名通过使用计算机加密来验证 
     </details> 
 
-- 🎡 [vue中$nextTick的原理及联系，进阶高级工程师必攻克](https://juejin.cn/post/7158776267842519071) | Wed Oct 26 2022 11:09 AM 
+- 🕯 [Eureka源码13-EurekaServer扩展（读写锁）](https://juejin.cn/post/7158793880576475166) | Wed Oct 26 2022 12:17 PM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第8天，点击查看活动详情 摘要 本文介绍了$nexTick的工作原理，以及this.数据项=新值 背后做了什么，nextTick与 
+    EurekeServer的读写锁机制，核心方法invalidateCache&lpar;&rpar;，针对读写锁常见问题进行分析 
     </details> 
 
-- 🕯 [Android 网络延迟、丢包率获取](https://juejin.cn/post/7158772682496933919) | Wed Oct 26 2022 10:56 AM 
+- 🚀 [AgileBoot - 如何集成内置数据库H2和内置Redis](https://juejin.cn/post/7158793441198112781) | Wed Oct 26 2022 12:14 PM 
     <details><summary>展开描述 ...</summary> 
-    Android获取host访问丢包率和延迟的方法 具体方法 Runtime.getRuntime&lpar;&rpar;.exec&lpar;&quot;ping -c $times $host&quot;&rpar; 
+    如何在没有Mysql和Redis的情况下，启动一个后端项目呢？ 本篇文章讲解一下如何使用内置的H2数据库和内置Redis来启动项目。 
     </details> 
 
-- 🚀 [OSI应用层协议-设备管理](https://juejin.cn/post/7158759724282806302) | Wed Oct 26 2022 10:05 AM 
+- 💪 [离职后聊一聊我眼中的蚂蚁](https://juejin.cn/post/7158792913298653191) | Wed Oct 26 2022 12:13 PM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第8天，点击查看活动详情 应用层是网络体系中最高的一层，也是唯一面向用户的一层，也可视为为用户提供常用的应用程序，每个网络应用都对 
-    </details> 
-
-- 💪 [Flutter 之快速理解混合开发里的手势事件传递](https://juejin.cn/post/7158755960964513806) | Wed Oct 26 2022 9:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    本篇我们聊聊 PlatformView 里的手势事件传递，为什么会有这么一篇？其实在此之前已经写过很多 Flutter 里关于混合开发里 PlatformView 的内容，而随着 Flutter 版本 
+    最近从蚂蚁离职了，很多朋友都来问我为什么离职，其实最主要的原因还是在这里呆的太久了，进入了舒适圈，时间久了之后会很迷茫。所以希望能换个环境，继续攀登人生高峰。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
