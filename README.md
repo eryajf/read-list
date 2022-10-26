@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [以感知生命周期的方式观察 Flow 数据](https://juejin.cn/post/7158876836112367629) | Wed Oct 26 2022 5:51 PM 
+- 🤗 [【有点简单】不靠矩阵也能旋转和平移？](https://juejin.cn/post/7158951990624518181) | Wed Oct 26 2022 10:36 PM 
+    <details><summary>展开描述 ...</summary> 
+    2D矩阵对旋转的局限性在之前的文章中我们讨论过旋转这件事，也说过用2阶矩阵描述的旋转： 教练我想学矩... 
+    </details> 
+
+- 🎡 [以感知生命周期的方式观察 Flow 数据](https://juejin.cn/post/7158876836112367629) | Wed Oct 26 2022 5:51 PM 
     <details><summary>展开描述 ...</summary> 
     如何在 Android UI 及 Compose 中更加安全、简洁的方式使用 Flow。最后一种方式官方会提供么。 
     </details> 
 
-- 🎡 [校验二叉树的后序遍历序列](https://juejin.cn/post/7158826421728509982) | Wed Oct 26 2022 2:25 PM 
+- 🕯 [校验二叉树的后序遍历序列](https://juejin.cn/post/7158826421728509982) | Wed Oct 26 2022 2:25 PM 
     <details><summary>展开描述 ...</summary> 
     有一个整数数组，如何判断该数组是不是某个二叉树的后序遍历结果？本文就跟大家分享下这个算法，欢迎各位感兴趣的开发者阅读本文。 
     </details> 
 
-- 🕯 [「成长计划 MySQL复习篇2」MySQL中六大约束详细解析](https://juejin.cn/post/7158822344859844644) | Wed Oct 26 2022 2:07 PM 
+- 🚀 [「成长计划 MySQL复习篇2」MySQL中六大约束详细解析](https://juejin.cn/post/7158822344859844644) | Wed Oct 26 2022 2:07 PM 
     <details><summary>展开描述 ...</summary> 
     问： 约束存在的意义是什么？ 答：为防止错误的数据被插入到数据表，MySQL中定义了一些维护数据库完整性的规则；这些规则常称为表的约束 是对数据准确性的一种提前控制 
     </details> 
 
-- 🚀 [列表的加载过程很重要的！](https://juejin.cn/post/7158820959599165448) | Wed Oct 26 2022 2:01 PM 
+- 💪 [列表的加载过程很重要的！](https://juejin.cn/post/7158820959599165448) | Wed Oct 26 2022 2:01 PM 
     <details><summary>展开描述 ...</summary> 
     记住提高列表等待过程体验的三个原则： 1. 尽量不要让用户等待太久； 2. 然后是尽量通过有趣的动画提高等待过程中的趣味性。 3. 切忌，不要让用户没有任何预期地等。 
-    </details> 
-
-- 💪 [在 Openlayer 中添加 mark，并添加 hover 效果](https://juejin.cn/post/7158817250856665118) | Wed Oct 26 2022 1:47 PM 
-    <details><summary>展开描述 ...</summary> 
-    add mark 方法一 如果有多个点的话，可以生成多个 feature（循环调用 addFeature） 方法二 用 geojson 去渲染 mark geojson 格式 生成 geojson 的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
