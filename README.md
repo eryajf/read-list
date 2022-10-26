@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android 网络延迟、丢包率获取](https://juejin.cn/post/7158772682496933919) | Wed Oct 26 2022 10:56 AM 
+- 🤗 [SpringBoot实现电子文件签字+合同系统！](https://juejin.cn/post/7158814158140473380) | Wed Oct 26 2022 1:36 PM 
+    <details><summary>展开描述 ...</summary> 
+    今天公司领导提出一个功能，说实现一个文件的签字+盖章功能，然后自己进行了简单的学习，对文档进行数字签名与签署纸质文档的原因大致相同，数字签名通过使用计算机加密来验证 
+    </details> 
+
+- 🎡 [Android 网络延迟、丢包率获取](https://juejin.cn/post/7158772682496933919) | Wed Oct 26 2022 10:56 AM 
     <details><summary>展开描述 ...</summary> 
     Android获取host访问丢包率和延迟的方法 具体方法 Runtime.getRuntime&lpar;&rpar;.exec&lpar;&quot;ping -c $times $host&quot;&rpar; 
     </details> 
 
-- 🎡 [TVM | 一种用于深度学习的端到端自动优化编译器](https://juejin.cn/post/7158756441472368648) | Wed Oct 26 2022 9:54 AM 
+- 🕯 [OSI应用层协议-设备管理](https://juejin.cn/post/7158759724282806302) | Wed Oct 26 2022 10:05 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第8天，点击查看活动详情 应用层是网络体系中最高的一层，也是唯一面向用户的一层，也可视为为用户提供常用的应用程序，每个网络应用都对 
+    </details> 
+
+- 🚀 [Flutter 之快速理解混合开发里的手势事件传递](https://juejin.cn/post/7158755960964513806) | Wed Oct 26 2022 9:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    本篇我们聊聊 PlatformView 里的手势事件传递，为什么会有这么一篇？其实在此之前已经写过很多 Flutter 里关于混合开发里 PlatformView 的内容，而随着 Flutter 版本 
+    </details> 
+
+- 💪 [TVM | 一种用于深度学习的端到端自动优化编译器](https://juejin.cn/post/7158756441472368648) | Wed Oct 26 2022 9:54 AM 
     <details><summary>展开描述 ...</summary> 
     大家好，我是极智视界，本文解读一下 一种用于深度学习的端到端自动优化编译器 TVM。希望我的分享能对你的学习有一点帮助。 
-    </details> 
-
-- 🕯 [Luminar Neo 教程，如何在 Luminar Neo 中使用消除噪点工具？](https://juejin.cn/post/7158744375290724389) | Wed Oct 26 2022 9:05 AM 
-    <details><summary>展开描述 ...</summary> 
-    欢迎观看 Luminar Neo 中文版教程，小编带大家学习 Luminar Neo 的基本工具和使用技巧，了解如何在 Luminar Neo 中使用消除噪点工具。 
-    </details> 
-
-- 🚀 [关于Android组件化的深度分析篇（二）初探组件化](https://juejin.cn/post/7158742297880821773) | Wed Oct 26 2022 8:59 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 😥好难，身边两朋友一红黄，只有我还是绿码，都不敢一起玩了。 今天来简介下组件化的诞生→组件化演示案例→组件化项目实战（附demo） 解锁 《Android十二大板块PDF》 音视频大合集，从初中 
-    </details> 
-
-- 💪 [在 Mac、Linux、Windows 下Go交叉编译](https://juejin.cn/post/7158740121620054029) | Wed Oct 26 2022 8:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    Golang 支持交叉编译，在一个平台上生成另一个平台的可执行程序，最近使用了一下，非常好用，这里备忘一下。 Mac 下编译 Linux 和 Windows 64位可执行程序 Linux 下编译 Ma 
     </details> 
 <!-- juejin:END -->
 ### 少数派
