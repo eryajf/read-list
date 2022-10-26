@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [对着白纸文思枯竭？LEX 想用 AI 帮你算出第一段](https://sspai.com/post/76362) | Wed Oct 26 2022 7:34 AM 
+- 👹 [任意键｜让玩家苦等八年的《蔑视》，曲高和寡还是虚有其表？](https://sspai.com/post/76430) | Wed Oct 26 2022 9:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    「任意键」正式上线啦！为了丰富各位派友的阅读体验，我们尝试为「任意键」增加了对应的音频内容，邀请了我派的两位带薪打游戏选手编辑@Kiririn和@一只索狗从玩家视角对当期的主要内容进行谈论和评述。您可 ...&lt;a href=&quot;https://sspai.com/post/76430&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [对着白纸文思枯竭？LEX 想用 AI 帮你算出第一段](https://sspai.com/post/76362) | Wed Oct 26 2022 7:34 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/76362&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [小众与流行交织，乱象与发展并存——一个玩家兼创作者眼中的键盘圈](https://sspai.com/post/76367) | Wed Oct 26 2022 6:39 AM 
+- 🤭 [小众与流行交织，乱象与发展并存——一个玩家兼创作者眼中的键盘圈](https://sspai.com/post/76367) | Wed Oct 26 2022 6:39 AM 
     <details><summary>展开描述 ...</summary> 
     2022 年，对我来说是不平凡的一年，键圈的兴亡成败在这一年格外明显。我来讲讲这一年的所思所想和所感，以及今后的一些打算。&lt;a href=&quot;https://sspai.com/post/76367&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [macOS Ventura 正式版来了，升级之后试试这些新变化](https://sspai.com/post/76393) | Wed Oct 26 2022 3:30 AM 
+- 🥸 [macOS Ventura 正式版来了，升级之后试试这些新变化](https://sspai.com/post/76393) | Wed Oct 26 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     少数派为你整理了 macOS Ventura 中值得关注的系统新特性，希望能够帮助你快速熟悉新系统。&lt;a href=&quot;https://sspai.com/post/76393&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：云米发布多款新品、微软发布 Windows Dev Kit 套件等](https://sspai.com/post/76426) | Wed Oct 26 2022 1:10 AM 
+- 🙉 [派早报：云米发布多款新品、微软发布 Windows Dev Kit 套件等](https://sspai.com/post/76426) | Wed Oct 26 2022 1:10 AM 
     <details><summary>展开描述 ...</summary> 
     Shutterstock 将与 OpenAI 合作售卖 AI 创作内容，App Store 更新 NFT 相关规则等。&lt;a href=&quot;https://sspai.com/post/76426&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [「千呼万唤始出来」的 iPadOS 16.1，这些新功能值得关注](https://sspai.com/post/76416) | Tue Oct 25 2022 9:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    iPadOS 16.1 来了，一起来看看都有哪些新功能。&lt;a href=&quot;https://sspai.com/post/76416&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
