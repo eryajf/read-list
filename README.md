@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [超2000万的安装量，Google Play已成恶意广告程序的温床](https://www.freebuf.com/news/347844.html) | Tue Oct 25 2022 9:26 AM 
+- 🦄 [Hive勒索组织宣称已攻击塔塔电力，数据可能外泄](https://www.freebuf.com/articles/347859.html) | Tue Oct 25 2022 11:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    前不久印度最大的电力集团塔塔电力公布遭遇网络攻击。10月25日，Hive勒索组织宣称对此次网络攻击负责。 
+    </details> 
+
+- 🦄 [FreeBuf早报 | WhatsApp在全球多地发生故障；韩首次参加美主导的网络战联演](https://www.freebuf.com/news/347854.html) | Tue Oct 25 2022 10:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    韩国国防部24日说，韩国军队当天开始首次参加美国主导的“网络旗帜”多国联合网络攻防演习，演习将持续至28日。 
+    </details> 
+
+- 🦅 [超2000万的安装量，Google Play已成恶意广告程序的温床](https://www.freebuf.com/news/347844.html) | Tue Oct 25 2022 9:26 AM 
     <details><summary>展开描述 ...</summary> 
     其中一个名为DxClean的应用程序的安装次数更是超过500万次，搞笑的是，其用户评级竟然还有4.1分&lpar;满分5分&rpar;。 
     </details> 
 
-- 🦄 [反者道之动——fintech下的数据安全思考 | CIS 2022网络安全创新大会议题前瞻](https://www.freebuf.com/fevents/347833.html) | Tue Oct 25 2022 8:51 AM 
+- 🪄 [反者道之动——fintech下的数据安全思考 | CIS 2022网络安全创新大会议题前瞻](https://www.freebuf.com/fevents/347833.html) | Tue Oct 25 2022 8:51 AM 
     <details><summary>展开描述 ...</summary> 
     议题主要以漏洞挖掘从业者的视角分享Fuzzing技术的演进和发展，以及移动端框架层挖掘技术的探索实践。 
     </details> 
 
-- 🦅 [被索要6000万，这家汽车经销商坚持拒绝支付！](https://www.freebuf.com/news/347783.html) | Tue Oct 25 2022 2:52 AM 
+- 💻 [被索要6000万，这家汽车经销商坚持拒绝支付！](https://www.freebuf.com/news/347783.html) | Tue Oct 25 2022 2:52 AM 
     <details><summary>展开描述 ...</summary> 
     英国著名汽车经销商集团Pendragon近期遭遇LockBit勒索软件组织攻击，部分数据被窃取，并被索要6000万美元。 
-    </details> 
-
-- 🪄 [FreeBuf早报 | 英国建筑巨头因漏洞被罚款 440 万英镑；勒索攻击正在针对教育行业](https://www.freebuf.com/news/347758.html) | Mon Oct 24 2022 11:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    一家英国建筑公司被数据保护监管机构罚款超过 400 万英镑，此前一系列安全漏洞导致黑客窃取和加密了 11万名现任和前任员工的个人信息。 
-    </details> 
-
-- 💻 [Fuzz技术演进与移动框架安全探索实践 | CIS 2022网络安全创新大会议题前瞻](https://www.freebuf.com/articles/347743.html) | Mon Oct 24 2022 9:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    从漏洞挖掘从业者视角分享Fuzzing技术的演进和发展，以及移动端框架层挖掘技术的探索实践。 
     </details> 
 <!-- freebuf:END -->
 
