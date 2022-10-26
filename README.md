@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [小册上新｜Electron + Vue 3 桌面应用开发](https://juejin.cn/post/7158744088404525063) | Wed Oct 26 2022 9:05 AM 
+- 🤗 [OKR之剑·理念篇04：让OKR轻松上阵](https://juejin.cn/post/7158758119781171236) | Wed Oct 26 2022 9:58 AM 
     <details><summary>展开描述 ...</summary> 
-    目前，Electron 的开发体验应该是最好的了，学习成本低、开发效率高、周边生态完善、各项技术成熟稳定，各种优点不一而足。本小册的目标就是带领大家轻松进入桌面开发领域。 
+    本文是《OKR 之剑》系列之理念第 4 篇。本文以我们实际工作中的经验为基础，向大家介绍如何以最小的负担引入 OKR 并使其能循序渐进的被执行。 
     </details> 
 
-- 🎡 [如何给所有async函数添加try/catch、优雅的ES ORM框架 EE｜掘金一周 10.26](https://juejin.cn/post/7158736740595793933) | Wed Oct 26 2022 8:36 AM 
+- 🎡 [MySQL基础-自连接&amp;联合查询](https://juejin.cn/post/7158726872556109855) | Wed Oct 26 2022 7:57 AM 
     <details><summary>展开描述 ...</summary> 
-    【掘金一周10.26】本期看点：Islands 架构原理和实践、Tomcat 调优、签约作者专栏更新动态... 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第26天点击查看活动详情 自连接 自连接查询 自连接查询，顾名思义，就是自己连接自己，也就是把一张表连接查询多次。我们先来学习一下 
     </details> 
 
-- 🕯 [Java 中那些绕不开的内置接口 -- Serializable](https://juejin.cn/post/7158713661052157982) | Wed Oct 26 2022 7:05 AM 
+- 🕯 [【源码篇】浅析MySQL的表锁和行锁机制](https://juejin.cn/post/7158726631870169102) | Wed Oct 26 2022 7:56 AM 
     <details><summary>展开描述 ...</summary> 
-    上一部分我们着重讲了 Java 集合框架中在开发项目时经常会被用到的数据容器，在讲解、演示使用实践的同时，把这个过程中遇到的各种相关知识点：泛型、Lambada、Stream 操作，一并给大家做了梳理 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第20天，点击查看活动详情 众所周知，MySQL的存储引擎有MyISAM和InnoDB，锁粒度分别是表锁和行锁。 后者的出现从某种 
     </details> 
 
-- 🚀 [比 Vite 快 10 倍的 Turbopack！？Webpack 的继承者。](https://juejin.cn/post/7158710428372041742) | Wed Oct 26 2022 6:53 AM 
+- 🚀 [Error Prone 通过检测常见错误帮助改善 Java 代码](https://juejin.cn/post/7158726654926258190) | Wed Oct 26 2022 7:56 AM 
     <details><summary>展开描述 ...</summary> 
-    Vercel 的使命是提供代码创造者在灵感迸发瞬间所需的速度和可靠性。去年，我们专注于提升 Next.js 打包 App 的速度。 每次我们从基于 JavaScript 的工具转移到基于 Rust 的 
+    Error Prone是谷歌开源的一个 Java 编译插件，可以在编译时进行静态分析、bug 检测，或者对可能的优化提出建议。插件中包括了超过 500 个预定义的bug检查，并且允许第三方和自定义插件 
     </details> 
 
-- 💪 [iOS启动优化：二进制重排](https://juejin.cn/post/7158707366509150215) | Wed Oct 26 2022 6:40 AM 
+- 💪 [纯原生开发 Web Components 超详细分享](https://juejin.cn/post/7158717654369304612) | Wed Oct 26 2022 7:21 AM 
     <details><summary>展开描述 ...</summary> 
-    我是来凑50字的，应该凑够了吧 一. 启动分析：main阶段和pre-main阶段 二. 二进制重排方法 
+    👋 Hello，我是田同学，大家可以加我微信 VirgoTyh 一起共同学习。 我是 vue3 开源组件库 fighting-design 的维护者。 最近我正在研究 Web Components 
     </details> 
 <!-- juejin:END -->
 ### 少数派
