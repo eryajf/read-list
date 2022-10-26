@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【k哥爬虫普法】简历大数据公司被查封，个人隐私是红线！](https://juejin.cn/post/7158705467017920542) | Wed Oct 26 2022 6:33 AM 
+- 🤗 [小册上新｜Electron + Vue 3 桌面应用开发](https://juejin.cn/post/7158744088404525063) | Wed Oct 26 2022 9:05 AM 
     <details><summary>展开描述 ...</summary> 
-    ![]&lpar;https://s2.loli.net/2022/10/14/T27Gz169ZCfWeB4.jpg&rpar; &gt; 我国目前并未出台专门针对网络爬虫技术的法律规范，但在司法实践中，相关判决已屡见不 
+    目前，Electron 的开发体验应该是最好的了，学习成本低、开发效率高、周边生态完善、各项技术成熟稳定，各种优点不一而足。本小册的目标就是带领大家轻松进入桌面开发领域。 
     </details> 
 
-- 🎡 [训练大模型的九大深度学习库；谷歌转向文字→视频生成的两大利器｜AI系统前沿动态](https://juejin.cn/post/7158703543740792840) | Wed Oct 26 2022 6:26 AM 
+- 🎡 [如何给所有async函数添加try/catch、优雅的ES ORM框架 EE｜掘金一周 10.26](https://juejin.cn/post/7158736740595793933) | Wed Oct 26 2022 8:36 AM 
     <details><summary>展开描述 ...</summary> 
-    训练大型深度学习模型需要极大的内存，才能储存中间层的激活函数输出和权重等。一些模型只能在单个GPU上训练，训练时须将批大小（batch size）设置得极小；还有一些模型则太大，单个GPU放不下。 
+    【掘金一周10.26】本期看点：Islands 架构原理和实践、Tomcat 调优、签约作者专栏更新动态... 
     </details> 
 
-- 🕯 [用 JS 编写自动化脚本，而不是 bash！](https://juejin.cn/post/7158701702344867854) | Wed Oct 26 2022 6:20 AM 
+- 🕯 [Java 中那些绕不开的内置接口 -- Serializable](https://juejin.cn/post/7158713661052157982) | Wed Oct 26 2022 7:05 AM 
     <details><summary>展开描述 ...</summary> 
-    导读 Vladimir 发现自己一直讨厌 bash 编写的自动化流程脚本，并且在机缘巧合下发现同事们都有类似的想法，因此他分享了他认为 JavaScript 编写自动化脚本的优势，看看能不能说服大家去 
+    上一部分我们着重讲了 Java 集合框架中在开发项目时经常会被用到的数据容器，在讲解、演示使用实践的同时，把这个过程中遇到的各种相关知识点：泛型、Lambada、Stream 操作，一并给大家做了梳理 
     </details> 
 
-- 🚀 [【专访】 Chrome HEVC 硬解背后的字节开源贡献者](https://juejin.cn/post/7158700639030247460) | Wed Oct 26 2022 6:15 AM 
+- 🚀 [比 Vite 快 10 倍的 Turbopack！？Webpack 的继承者。](https://juejin.cn/post/7158710428372041742) | Wed Oct 26 2022 6:53 AM 
     <details><summary>展开描述 ...</summary> 
-    2022 年 10 月 25 日（美国时间）支持 HEVC 硬解功能的 Chrome 107 已正式开始全量推送给所有用户。 
+    Vercel 的使命是提供代码创造者在灵感迸发瞬间所需的速度和可靠性。去年，我们专注于提升 Next.js 打包 App 的速度。 每次我们从基于 JavaScript 的工具转移到基于 Rust 的 
     </details> 
 
-- 💪 [搭建简易画板（一）](https://juejin.cn/post/7158637675631607822) | Wed Oct 26 2022 2:10 AM 
+- 💪 [iOS启动优化：二进制重排](https://juejin.cn/post/7158707366509150215) | Wed Oct 26 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」。一直没有动笔实现一个简易画板，这次终于开始实现了，文章大致分为四个部分，本文用canvas实现一个能绘制线条的简易画板。 
+    我是来凑50字的，应该凑够了吧 一. 启动分析：main阶段和pre-main阶段 二. 二进制重排方法 
     </details> 
 <!-- juejin:END -->
 ### 少数派
