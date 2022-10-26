@@ -383,19 +383,19 @@
     大家好，我是极智视界，本文解读一下 一种用于深度学习的端到端自动优化编译器 TVM。希望我的分享能对你的学习有一点帮助。 
     </details> 
 
-- 🕯 [Vue指令v-once](https://juejin.cn/post/7158734168929599519) | Wed Oct 26 2022 8:25 AM 
+- 🕯 [Luminar Neo 教程，如何在 Luminar Neo 中使用消除噪点工具？](https://juejin.cn/post/7158744375290724389) | Wed Oct 26 2022 9:05 AM 
     <details><summary>展开描述 ...</summary> 
-    只渲染元素和组件一次。随后的重新渲染，元素/组件及其所有的子节点将被视为静态内容并跳过。这可以用于优化更新性能。如果只想页面加载时显示一次，后续不在因为数据信息的变动而变动时，就可以采取v-once实 
+    欢迎观看 Luminar Neo 中文版教程，小编带大家学习 Luminar Neo 的基本工具和使用技巧，了解如何在 Luminar Neo 中使用消除噪点工具。 
     </details> 
 
-- 🚀 [程序员转行做运营，降薪降得心甘情愿](https://juejin.cn/post/7158734145575714853) | Wed Oct 26 2022 8:24 AM 
+- 🚀 [关于Android组件化的深度分析篇（二）初探组件化](https://juejin.cn/post/7158742297880821773) | Wed Oct 26 2022 8:59 AM 
     <details><summary>展开描述 ...</summary> 
-    自2019年末新冠疫情爆发以来，近三年的就业形势一直不太乐观，大厂裁员的消息接踵而至。身边的朋友都在感慨：现阶段能保住工作就不错了，新工作就算了。 但，就是在这样严峻的大环境下，我的前同事不三不仅跳槽 
+    前言 😥好难，身边两朋友一红黄，只有我还是绿码，都不敢一起玩了。 今天来简介下组件化的诞生→组件化演示案例→组件化项目实战（附demo） 解锁 《Android十二大板块PDF》 音视频大合集，从初中 
     </details> 
 
-- 💪 [ViewPager实现引导动画的效果|与Fragment结合实现多页面滑动](https://juejin.cn/post/7158731638078177310) | Wed Oct 26 2022 8:17 AM 
+- 💪 [在 Mac、Linux、Windows 下Go交叉编译](https://juejin.cn/post/7158740121620054029) | Wed Oct 26 2022 8:48 AM 
     <details><summary>展开描述 ...</summary> 
-    ViewPager实现引导动画的效果 ViewPager 以可滑动的格式显示视图或 Fragment。 记录一下通过viewpager实现滑动显示图片，步骤如下 1.写布局文件，添加一个viewpag 
+    Golang 支持交叉编译，在一个平台上生成另一个平台的可执行程序，最近使用了一下，非常好用，这里备忘一下。 Mac 下编译 Linux 和 Windows 64位可执行程序 Linux 下编译 Ma 
     </details> 
 <!-- juejin:END -->
 ### 少数派
