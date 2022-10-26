@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [实战 Go：如何实现一个简单分布式系统](https://juejin.cn/post/7158685917006266398) | Wed Oct 26 2022 5:19 AM 
+- 🤗 [【k哥爬虫普法】简历大数据公司被查封，个人隐私是红线！](https://juejin.cn/post/7158705467017920542) | Wed Oct 26 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-    Go 语言天然支持异步编程，而且静态语言能保证应用系统的稳定性。笔者的开源项目 Crawlab 作为爬虫管理平台，也应用到了分布式系统。本篇文章将介绍如何用 Go 语言编写一个简单的分布式系统。 
+    ![]&lpar;https://s2.loli.net/2022/10/14/T27Gz169ZCfWeB4.jpg&rpar; &gt; 我国目前并未出台专门针对网络爬虫技术的法律规范，但在司法实践中，相关判决已屡见不 
     </details> 
 
-- 🎡 [[千字长文系列] 🌏探秘PG之一文带你玩转PostgreSQL🐳（七）](https://juejin.cn/post/7158675778383642660) | Wed Oct 26 2022 4:39 AM 
+- 🎡 [训练大模型的九大深度学习库；谷歌转向文字→视频生成的两大利器｜AI系统前沿动态](https://juejin.cn/post/7158703543740792840) | Wed Oct 26 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第29天，点击查看活动详情 🗻 简介: 📋🐳🐋🐟 🐳PostgreSQL String 函数 思维导图 🐳PostgreSQL A 
+    训练大型深度学习模型需要极大的内存，才能储存中间层的激活函数输出和权重等。一些模型只能在单个GPU上训练，训练时须将批大小（batch size）设置得极小；还有一些模型则太大，单个GPU放不下。 
     </details> 
 
-- 🕯 [iOS老司机的接地气算法Tips](https://juejin.cn/post/7158674243813638174) | Wed Oct 26 2022 4:33 AM 
+- 🕯 [用 JS 编写自动化脚本，而不是 bash！](https://juejin.cn/post/7158701702344867854) | Wed Oct 26 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-    iOS行业算法除了面试时的筛选作用, 还有其他作用吗? 不少一线iOS开发人员可能都会存在这个疑问. 然而, 算法真的没用吗? 非也, 程序 = 算法 + 数据结构 
+    导读 Vladimir 发现自己一直讨厌 bash 编写的自动化流程脚本，并且在机缘巧合下发现同事们都有类似的想法，因此他分享了他认为 JavaScript 编写自动化脚本的优势，看看能不能说服大家去 
     </details> 
 
-- 🚀 [🎉Spring Bean的8种加载方式，90%的程序员都说不全🤣](https://juejin.cn/post/7158671827739344909) | Wed Oct 26 2022 4:25 AM 
+- 🚀 [【专访】 Chrome HEVC 硬解背后的字节开源贡献者](https://juejin.cn/post/7158700639030247460) | Wed Oct 26 2022 6:15 AM 
     <details><summary>展开描述 ...</summary> 
-    以前学习Spring框架的时候，总结了几种Bean的加载方式，不过老师说还有其它的加载方式，以下八种并不是全部，但也足以用来做很多事情了。  
+    2022 年 10 月 25 日（美国时间）支持 HEVC 硬解功能的 Chrome 107 已正式开始全量推送给所有用户。 
     </details> 
 
-- 💪 [vue3高级指南-基于vue3-admin-template开发vue3管理后台](https://juejin.cn/post/7158671341086834724) | Wed Oct 26 2022 4:22 AM 
+- 💪 [搭建简易画板（一）](https://juejin.cn/post/7158637675631607822) | Wed Oct 26 2022 2:10 AM 
     <details><summary>展开描述 ...</summary> 
-    vue3-admin-template 是一个后台前端解决方案，它基于 vue 和 element-plus实现，它使用了最新的前端技术栈，内置了动态路由，权限验证，提供了多种布局方式。 
+    我正在参加「掘金·启航计划」。一直没有动笔实现一个简易画板，这次终于开始实现了，文章大致分为四个部分，本文用canvas实现一个能绘制线条的简易画板。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
