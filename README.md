@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【专访】 Chrome HEVC 硬解背后的字节开源贡献者](https://juejin.cn/post/7158659910253674509) | Wed Oct 26 2022 3:37 AM 
+- 🤗 [3D目标检测多模态融合算法综述](https://juejin.cn/post/7158642481054089224) | Wed Oct 26 2022 2:29 AM 
     <details><summary>展开描述 ...</summary> 
-    2022 年 10 月 25 日（美国时间）支持 HEVC 硬解功能的 Chrome 107 已正式开始全量推送给所有用户。10 月 21 日 Chrome 官方在更新日志中做了正式说明。 
+    欢迎关注公众号CV技术指南，专注于计算机视觉的技术总结、最新技术跟踪、经典论文解读、CV招聘信息。 【百篇论文阅读计划】新升级! QQ交流群：444129970。群内有大佬负责解答大家的日常学习、科研 
     </details> 
 
-- 🎡 [图解计算机总线系统、百来行代码为你的页面增加本地文件操作能力、一次 Redis 事务使用不当引发的生产事故 | 酱酱的下午茶第96期](https://juejin.cn/post/7158638386562433037) | Wed Oct 26 2022 2:13 AM 
+- 🎡 [iOS小技能：获取设备唯一标识符（idfa、idfv 、使用Keychain 存储UUID及通过Safari获取）](https://juejin.cn/post/7158631500068913159) | Wed Oct 26 2022 1:46 AM 
     <details><summary>展开描述 ...</summary> 
-    只需百来行代码，为你的Web页面增加本地文件操作能力，确定不试试吗？ vant 4 即将正式发布，支持暗黑主题，那么是如何实现的呢 一次 Redis 事务使用不当引发的生产事故 图解计算机内部的高速公 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第27天，点击查看活动详情 引言 设备唯一标识符获取方案： 使用idfa、idfv 使用Keychain 存储UUID 通过Saf 
     </details> 
 
-- 🕯 [前端框架_React知识点精讲](https://juejin.cn/post/7158637751011639309) | Wed Oct 26 2022 2:10 AM 
+- 🕯 [shaderToy 使用说明 前端 Special Shadertoy features](https://juejin.cn/post/7158404398110998535) | Tue Oct 25 2022 11:05 AM 
     <details><summary>展开描述 ...</summary> 
-    React 是一个用于构建用户界面的 JavaScript 库。 它的**核心**是跟踪组件状态的变化并将更新的状态投射到屏幕上。 
+    原文是官网的教程，下面是添油加醋的翻译。 本文不会讲glsl的基本语法。只手动校对并修改了前面的鼠标键盘，缓冲区后面，不想翻译了 
     </details> 
 
-- 🚀 [MobTech 修改已审核通过的秒验产品信息](https://juejin.cn/post/7158637657776947207) | Wed Oct 26 2022 2:10 AM 
+- 🚀 [我终于学会了黑客帝国里的矩阵雨](https://juejin.cn/post/7158403027438272549) | Tue Oct 25 2022 11:01 AM 
     <details><summary>展开描述 ...</summary> 
-    秒验是一款帮助开发者实现一键验证功能的产品，从根源上降低企业验证成本， 有效提高拉新转化率，降低因验证带来的流失率，3秒完成手机号验证。 
+    相信大家都对黑客帝国电影里的矩阵雨的酷炫效果印象非常深刻，我看了一下相关实现库的代码，也非常简单，核心就是用好命令行的控制字符，这里分享一下。 
     </details> 
 
-- 💪 [FFmpeg音频滤镜-搞怪的播放器](https://juejin.cn/post/7158633903706603528) | Wed Oct 26 2022 1:55 AM 
+- 💪 [React18中批量更新以减少渲染次数](https://juejin.cn/post/7158401823974850573) | Tue Oct 25 2022 10:55 AM 
     <details><summary>展开描述 ...</summary> 
-    书接上回FFmpeg音频解码-音频可视化。如果只解码音频然后就拿去给播放器播放那也太单调了，FFmpeg带有音频滤镜功能，我们把它加进去，让我们的播放器实现一些搞怪的音频效果. 
+    本文是笔者在学习setState更新机制时，在github的Discussions中看到的一篇文章。这让我更加了解了React17和React18中setState更新的不同之处。顺便自己翻译总结一下 
     </details> 
 <!-- juejin:END -->
 ### 少数派
