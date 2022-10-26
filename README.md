@@ -439,29 +439,29 @@
 ### cnbeta
 
 <!-- cnbeta:START -->
-- 🕯 [苹果开始在App Store中显示更多广告](https://www.cnbeta.com/articles/tech/1330749.htm) | Tue Oct 25 2022 11:19 PM 
+- 🕯 [报道称FAA希望小型电信运营商也停止在机场附近部署5G基站](https://www.cnbeta.com/articles/tech/1330851.htm) | Wed Oct 26 2022 1:54 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;正如预期的那样，苹果今日宣布，新的广告位置现在可以在App Store中使用，并允许开发者在更多位置为他们的应用做广告。从今日开始，开发者现在可以在App Store的Today（今日）主标签和除中国以外的所有国家的单个应用列表底部的“You Might Also Like（你可能也会喜欢）”部分为其应用做广告。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330749.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;为了在 5G 起步阶段对航空业造成更少的烦恼，Verizon 和 AT&amp;amp;T 已于今年早些时候，自愿同意关停机场附近的某些 5G 信号。&lt;strong&gt;最新消息是，美国联邦航空管理器（FAA）现也希望其它小型电信企业能够迅速跟进。&lt;/strong&gt;据悉，该机构已监督上述两家公司谨慎部署 C 波段中频 5G 信号，以便为航空公司腾出设备升级的缓冲期。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330851.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💼 [Edge改进侧边栏 可选择桌面/移动视图查看网页](https://www.cnbeta.com/articles/tech/1330747.htm) | Tue Oct 25 2022 11:12 PM 
+- 💼 [COVID-19感染波被发现跟心脏病发作死亡人数激增有关](https://www.cnbeta.com/articles/science/1330849.htm) | Wed Oct 26 2022 1:45 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Microsoft Edge 浏览器中的侧边栏已经可以打开某些应用和网页了，因此能够在不跳转其它页面下更轻松地掌控信息。&lt;strong&gt;Reddit 网友 &lt;a href=&quot;https://www.reddit.com/r/MicrosoftEdge/comments/ycwa0e/edge_will_let_you_choose_between_desktop_or/&quot; target=&quot;_blank&quot;&gt;Leopeva64-2&lt;/a&gt; 发现微软现在进一步改善侧边栏，能够以桌面或者移动视图来查看网页。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330747.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;来自雪松-西奈的新研究发现，在大流行的过程中，心脏病发作的死亡人数与COVID-19的感染潮一起激增。该研究结果不能将心脏病发作的增加与COVID有因果关系，然而，该研究远远不是第一个表明SARS-CoV-2感染会损害心脏健康的研究。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1330849.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 💂 [iPadOS 16.2首个开发者预览版发布：内置Freeform应用 支持外接显示器](https://www.cnbeta.com/articles/tech/1330745.htm) | Tue Oct 25 2022 11:06 PM 
+- 💂 [Spotify称苹果正在扼杀有声读物的市场竞争](https://www.cnbeta.com/articles/tech/1330847.htm) | Wed Oct 26 2022 1:34 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;iPadOS 16.2 的首个开发者预览版内置 Freeform 应用程序，而且采用 Apple Silicon 自研芯片的 iPad 型号支持外接显示器输出。&lt;/strong&gt;在今年 6 月召开的 WWDC 大会上，苹果预告 iPadOS 16 还完全支持外接显示器以及推出全新的协作工具 Freeform。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330745.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;&lt;strong&gt;Spotify表示，苹果正在让有声读物销售变得更加困难，而这是Spotify上个月刚刚推出的一款产品。&lt;/strong&gt;该公司称苹果的做法是反竞争行为，并且在该公司周二披露财报前发表的一篇博文中称其在扼杀竞争。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330847.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [预估数据表明Xbox Series S|X销量有望赶上索尼PS5](https://hot.cnbeta.com/articles/game/1330743.htm) | Tue Oct 25 2022 10:56 PM 
+- 🚀 [请勿模仿：TikTok创作者演示在导热硅脂中掺盐以提升CPU散热效果](https://www.cnbeta.com/articles/tech/1330845.htm) | Wed Oct 26 2022 1:30 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;国外科技媒体 VGChartz 分享了一组关于游戏主机的对比图表数据。&lt;strong&gt;这个图表展示了索尼、微软和任天堂三个平台的游戏主机销量、市场规模占比以及销售额情况。&lt;/strong&gt;正如您在上图中所见，全球销售数据表明下一代游戏机的关注点发生了转变。与索尼的 PlayStation 5 相比，Xbox Series X|S 似乎取得了长足的进步。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/game/1330743.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;尽管盐分会加速金属的腐蚀，但近日一位 TikTok 创作者还是大胆演示了将盐掺入导热硅脂后的 CPU 散热效果有多大提升。&lt;strong&gt;目前 PC 上常见的 CPU 散热器，多采用铝和铜热管的方案。但从长期来看，在导热硅脂中掺盐，无疑是个灾难性的配方。&lt;/strong&gt;@mryeester 显然也深知这一点，所以他才在一套较老的 PC 平台和 LGA CPU 顶盖上演示了这番魔幻操作。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330845.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🎊 [马斯克据称承诺周五完成收购推特交易 银行资金将到位](https://www.cnbeta.com/articles/tech/1330741.htm) | Tue Oct 25 2022 7:57 PM 
+- 🎊 [Meta抨击苹果App Store“新政”：有意削弱数字经济中其它公司](https://www.cnbeta.com/articles/tech/1330843.htm) | Wed Oct 26 2022 1:27 AM 
     <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;已持续半年的特斯拉CEO马斯克收购推特交易大戏终于可能本周落幕。&lt;/strong&gt;美东时间25日周二，媒体援引知情者消息称，本周一在同帮助为收购交易融资的银行开视频会议时，马斯克承诺，到本周五完成交易。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330741.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+     &lt;p&gt;据报道，Facebook母公司Meta Platforms本周表示，苹果通过修改App Store应用商店的条款，拿走了社交媒体广告收入的一部分，从而“在数字经济中削弱了其它公司的地位”。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1330843.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
