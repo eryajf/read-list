@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [macOS Ventura 正式版来了，升级之后试试这些新变化](https://sspai.com/post/76393) | Wed Oct 26 2022 3:30 AM 
+- 👹 [小众与流行交织，乱象与发展并存——一个玩家兼创作者眼中的键盘圈](https://sspai.com/post/76367) | Wed Oct 26 2022 6:39 AM 
+    <details><summary>展开描述 ...</summary> 
+    2022 年，对我来说是不平凡的一年，键圈的兴亡成败在这一年格外明显。我来讲讲这一年的所思所想和所感，以及今后的一些打算。&lt;a href=&quot;https://sspai.com/post/76367&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [macOS Ventura 正式版来了，升级之后试试这些新变化](https://sspai.com/post/76393) | Wed Oct 26 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     少数派为你整理了 macOS Ventura 中值得关注的系统新特性，希望能够帮助你快速熟悉新系统。&lt;a href=&quot;https://sspai.com/post/76393&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：云米发布多款新品、微软发布 Windows Dev Kit 套件等](https://sspai.com/post/76426) | Wed Oct 26 2022 1:10 AM 
+- 🤭 [派早报：云米发布多款新品、微软发布 Windows Dev Kit 套件等](https://sspai.com/post/76426) | Wed Oct 26 2022 1:10 AM 
     <details><summary>展开描述 ...</summary> 
     Shutterstock 将与 OpenAI 合作售卖 AI 创作内容，App Store 更新 NFT 相关规则等。&lt;a href=&quot;https://sspai.com/post/76426&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [「千呼万唤始出来」的 iPadOS 16.1，这些新功能值得关注](https://sspai.com/post/76416) | Tue Oct 25 2022 9:30 AM 
+- 🥸 [「千呼万唤始出来」的 iPadOS 16.1，这些新功能值得关注](https://sspai.com/post/76416) | Tue Oct 25 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
     iPadOS 16.1 来了，一起来看看都有哪些新功能。&lt;a href=&quot;https://sspai.com/post/76416&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [一部合格的入门级 iPad：2022 款 iPad 上手体验](https://sspai.com/post/76399) | Tue Oct 25 2022 8:04 AM 
+- 🙉 [一部合格的入门级 iPad：2022 款 iPad 上手体验](https://sspai.com/post/76399) | Tue Oct 25 2022 8:04 AM 
     <details><summary>展开描述 ...</summary> 
     新的 iPad 不卡顿，也不廉价，只要在价位和功能上符合你的需要，完全可以果断出手。&lt;a href=&quot;https://sspai.com/post/76399&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [微信是如何一步步告别「小而美」的？](https://sspai.com/post/75731) | Tue Oct 25 2022 6:23 AM 
-    <details><summary>展开描述 ...</summary> 
-    它不是一款聊天工具，也不是很在意你和别人的链接。它在意的是你驱车经过时会产生多少消费，有没有办法用它的生态，吃掉你所需要的一切。&lt;a href=&quot;https://sspai.com/post/75731&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
