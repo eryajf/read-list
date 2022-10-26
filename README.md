@@ -561,29 +561,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [System Toolkit 5.9.0 系统工具包](https://xclient.info/s/system-toolkit.html) | Tue Oct 25 2022 5:29 AM 
+- 🦏 [TinkerTool System 8.0.221019 系统深度设置维护工具](https://xclient.info/s/tinkertool-system.html) | Wed Oct 26 2022 12:28 AM 
     <details><summary>展开描述 ...</summary> 
-    System Toolkit 是为MacOS设计的一体化信息和维护应用程序。 
+    TinkerTool System 是一款Mac平台的系统深度设置维护工具，以帮助你修改一些系统隐藏的属性,包括系统界面字体,是否不显示隐藏文件等 
     </details> 
 
--  [URL Manager Pro 6.0 浏览器标签管理](https://xclient.info/s/url-manager.html) | Tue Oct 25 2022 5:28 AM 
+-  [Task Office 8.4 多功能办公软件](https://xclient.info/s/task-office.html) | Wed Oct 26 2022 12:27 AM 
     <details><summary>展开描述 ...</summary> 
-    URL Manager Pro Mac版是Safari、Chrome、Chromium、Opera、iCab和Firefox浏览器的专业书签管理器，它使得管理书签、电子邮件地址和新闻组更加容易。 
+    Task Office 是Mac平台上的一款办公软件，包含了GTD，做列表，项目和联系人管理的应用程序。旨在使商业计划、日程安排和做事更有效率。 
     </details> 
 
-- ⚗️ [iClip 5.5.6b2 剪切板管理工具](https://xclient.info/s/iclip.html) | Tue Oct 25 2022 5:26 AM 
+- ⚗️ [TaskPaper 3.9 纯文本GTD工具](https://xclient.info/s/taskpaper.html) | Wed Oct 26 2022 12:26 AM 
     <details><summary>展开描述 ...</summary> 
-    iClip 是一款Mac上的剪切板管理工具，使用起来异常的简单，你打开了应用程序之后鼠标移到右边就可以看到额外的出现了一块半透明的粘贴板，鼠标移开后又会消失不见，非常的方便也不会妨碍到您的工作。 
+    TaskPaper是一个令人惊讶的纯文本待办事项工具 
     </details> 
 
-- 🔥 [Postico 2.0.9470 优秀的PostgreSQL客户端](https://xclient.info/s/postico.html) | Tue Oct 25 2022 5:25 AM 
+- 🔥 [SuperDuper! 3.7 Mac数据备份恢复工具](https://xclient.info/s/superduper.html) | Wed Oct 26 2022 12:25 AM 
     <details><summary>展开描述 ...</summary> 
-    Postico是一款Mac平台的优秀的PostgreSQL客户端，支持本地和远程云服务，Heroku Postgres, Amazon Redshift, Amazon RDS等 
+    SuperDuper 是 Mac OS X 平台上的一款数据恢复及备份工具，它可以帮助你恢复你电脑误删除文件，甚至回复你格式化后丢失的数据。 
     </details> 
 
-- 🌋 [PCalc 4.10.5 全功能科学计算器](https://xclient.info/s/pcalc.html) | Tue Oct 25 2022 5:24 AM 
+- 🌋 [Scapple 1.4.2 思维导图软件](https://xclient.info/s/scapple.html) | Wed Oct 26 2022 12:25 AM 
     <details><summary>展开描述 ...</summary> 
-    PCalc 是mac上一款非常优秀的全功能科学计算器，是专为科学家、 工程师、 学生、 程序员，等需要专业科学计算器人群所设计。 
+    Scapple 是 Mac OS X 上一款思维导图软件，可创建字数不限的条目，并且条目之间可用直线连接，也可以随意排列，适用于团队项目讨论以及软件开发设计等诸多工作。 
     </details> 
 <!-- xclient:END -->
 
