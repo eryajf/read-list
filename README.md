@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [在 Openlayer 中添加 mark，并添加 hover 效果](https://juejin.cn/post/7158817250856665118) | Wed Oct 26 2022 1:47 PM 
+- 🤗 [校验二叉树的后序遍历序列](https://juejin.cn/post/7158826421728509982) | Wed Oct 26 2022 2:25 PM 
+    <details><summary>展开描述 ...</summary> 
+    有一个整数数组，如何判断该数组是不是某个二叉树的后序遍历结果？本文就跟大家分享下这个算法，欢迎各位感兴趣的开发者阅读本文。 
+    </details> 
+
+- 🎡 [「成长计划 MySQL复习篇2」MySQL中六大约束详细解析](https://juejin.cn/post/7158822344859844644) | Wed Oct 26 2022 2:07 PM 
+    <details><summary>展开描述 ...</summary> 
+    问： 约束存在的意义是什么？ 答：为防止错误的数据被插入到数据表，MySQL中定义了一些维护数据库完整性的规则；这些规则常称为表的约束 是对数据准确性的一种提前控制 
+    </details> 
+
+- 🕯 [列表的加载过程很重要的！](https://juejin.cn/post/7158820959599165448) | Wed Oct 26 2022 2:01 PM 
+    <details><summary>展开描述 ...</summary> 
+    记住提高列表等待过程体验的三个原则： 1. 尽量不要让用户等待太久； 2. 然后是尽量通过有趣的动画提高等待过程中的趣味性。 3. 切忌，不要让用户没有任何预期地等。 
+    </details> 
+
+- 🚀 [在 Openlayer 中添加 mark，并添加 hover 效果](https://juejin.cn/post/7158817250856665118) | Wed Oct 26 2022 1:47 PM 
     <details><summary>展开描述 ...</summary> 
     add mark 方法一 如果有多个点的话，可以生成多个 feature（循环调用 addFeature） 方法二 用 geojson 去渲染 mark geojson 格式 生成 geojson 的 
     </details> 
 
-- 🎡 [SpringBoot实现电子文件签字+合同系统！](https://juejin.cn/post/7158814158140473380) | Wed Oct 26 2022 1:36 PM 
+- 💪 [SpringBoot实现电子文件签字+合同系统！](https://juejin.cn/post/7158814158140473380) | Wed Oct 26 2022 1:36 PM 
     <details><summary>展开描述 ...</summary> 
     今天公司领导提出一个功能，说实现一个文件的签字+盖章功能，然后自己进行了简单的学习，对文档进行数字签名与签署纸质文档的原因大致相同，数字签名通过使用计算机加密来验证 
-    </details> 
-
-- 🕯 [Eureka源码13-EurekaServer扩展（读写锁）](https://juejin.cn/post/7158793880576475166) | Wed Oct 26 2022 12:17 PM 
-    <details><summary>展开描述 ...</summary> 
-    EurekeServer的读写锁机制，核心方法invalidateCache&lpar;&rpar;，针对读写锁常见问题进行分析 
-    </details> 
-
-- 🚀 [AgileBoot - 如何集成内置数据库H2和内置Redis](https://juejin.cn/post/7158793441198112781) | Wed Oct 26 2022 12:14 PM 
-    <details><summary>展开描述 ...</summary> 
-    如何在没有Mysql和Redis的情况下，启动一个后端项目呢？ 本篇文章讲解一下如何使用内置的H2数据库和内置Redis来启动项目。 
-    </details> 
-
-- 💪 [离职后聊一聊我眼中的蚂蚁](https://juejin.cn/post/7158792913298653191) | Wed Oct 26 2022 12:13 PM 
-    <details><summary>展开描述 ...</summary> 
-    最近从蚂蚁离职了，很多朋友都来问我为什么离职，其实最主要的原因还是在这里呆的太久了，进入了舒适圈，时间久了之后会很迷茫。所以希望能换个环境，继续攀登人生高峰。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
