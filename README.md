@@ -364,8 +364,8 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Windows Terminal 可以移植到 macOS 吗](https://www.v2ex.com/t/890213#reply0) | Wed Oct 26 2022 7:51 PM
-- 🤗 [Google 相册里如何筛选出占用空间的照片？](https://www.v2ex.com/t/890211#reply8) | Wed Oct 26 2022 6:21 PM
+- 🥸 [Windows Terminal 可以移植到 macOS 吗](https://www.v2ex.com/t/890213#reply1) | Wed Oct 26 2022 7:51 PM
+- 🤗 [Google 相册里如何筛选出占用空间的照片？](https://www.v2ex.com/t/890211#reply9) | Wed Oct 26 2022 6:21 PM
 - 🎭 [22 年毕业的程序员如果被劝退，未来应该怎么办？](https://www.v2ex.com/t/890210#reply2) | Wed Oct 26 2022 4:50 PM
 - 🥷 [请教一下各位大佬，一些网站主页搜索功能是怎么做的](https://www.v2ex.com/t/890206#reply0) | Wed Oct 26 2022 4:42 PM
 - 🐵 [请教一个配置相关问题](https://www.v2ex.com/t/890205#reply1) | Wed Oct 26 2022 4:34 PM<!-- v2ex:END -->
