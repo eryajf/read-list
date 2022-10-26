@@ -367,7 +367,7 @@
 - 🥸 [同一台机器两个服务间的带宽是由什么决定的？](https://www.v2ex.com/t/890168#reply2) | Wed Oct 26 2022 1:34 PM
 - 🤗 [第一次见到需要验证码的钓鱼网站](https://www.v2ex.com/t/890167#reply1) | Wed Oct 26 2022 1:31 PM
 - 🎭 [请问今年毕业的非应届本科生， flutter 学到什么程度能找到新工作](https://www.v2ex.com/t/890150#reply6) | Wed Oct 26 2022 12:34 PM
-- 🥷 [既然 socks5 proxy credentials 都是明文的，那么 authentication 意义何在？](https://www.v2ex.com/t/890149#reply9) | Wed Oct 26 2022 12:34 PM
+- 🥷 [既然 socks5 proxy credentials 都是明文的，那么 authentication 意义何在？](https://www.v2ex.com/t/890149#reply11) | Wed Oct 26 2022 12:34 PM
 - 🐵 [你们的 Lark 能还打上卡不](https://www.v2ex.com/t/890142#reply2) | Wed Oct 26 2022 11:51 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
