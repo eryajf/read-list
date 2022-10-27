@@ -95,11 +95,11 @@
 ### 酷壳
 
 <!-- coolshell:START -->
-- 💼 [ETCD的内存问题](https://coolshell.cn/articles/22242.html) | Thu May 05 2022 8:13 AM
-- 🦣 [“一把梭：REST API 全用 POST”](https://coolshell.cn/articles/22173.html) | Sun Feb 13 2022 4:28 AM
-- 🪄 [谈谈公司对员工的监控](https://coolshell.cn/articles/22157.html) | Sat Feb 12 2022 7:50 AM
-- 🧑‍🏫 [网络数字身份认证术](https://coolshell.cn/articles/21708.html) | Sun Jan 02 2022 8:38 AM
-- 🕯 [我做系统架构的一些原则](https://coolshell.cn/articles/21672.html) | Tue Dec 21 2021 7:46 AM<!-- coolshell:END -->
+- 💼 [聊聊团队协同和协同工具](https://coolshell.cn/articles/22298.html) | Fri Oct 14 2022 4:20 AM
+- 🦣 [从一次经历谈 TIME_WAIT 的那些事](https://coolshell.cn/articles/22263.html) | Tue Jul 19 2022 6:43 AM
+- 🪄 [ETCD的内存问题](https://coolshell.cn/articles/22242.html) | Thu May 05 2022 8:13 AM
+- 🧑‍🏫 [“一把梭：REST API 全用 POST”](https://coolshell.cn/articles/22173.html) | Sun Feb 13 2022 4:28 AM
+- 🕯 [谈谈公司对员工的监控](https://coolshell.cn/articles/22157.html) | Sat Feb 12 2022 7:50 AM<!-- coolshell:END -->
 
 ### 阮一峰的网络日志
 
