@@ -152,9 +152,9 @@
 ### 好工具周刊
 
 <!-- bestxtools:START -->
-- 🕯 [好工具周刊（第 34 期）: Excalidraw Animate, Claymate, dazidazi, Silk, Big Heads, ...](https://discuss-cn.bestxtools.com/d/86/1) | Thu Oct 20 2022 8:16 AM
-- 🦩 [好工具周刊（第 33 期）: Ele types, SpeedCoder, 自由钢琴, 图片马赛克转换器, 谐音工具, ...](https://discuss-cn.bestxtools.com/d/85/1) | Thu Oct 13 2022 9:45 AM
-- 🙉 [好工具周刊（第 32 期）: 【特别篇】实用开源工具推荐 #1](https://discuss-cn.bestxtools.com/d/81/1) | Thu Sep 29 2022 8:49 AM<!-- bestxtools:END -->
+- 🕯 [好工具周刊（第 35 期）: HTTPie, Core Web Vitals Check, Resource Hint Validator, okso,...](https://discuss-cn.bestxtools.com/d/89/1) | Thu Oct 27 2022 9:48 AM
+- 🦩 [好工具周刊（第 34 期）: Excalidraw Animate, Claymate, dazidazi, Silk, Big Heads, ...](https://discuss-cn.bestxtools.com/d/86/1) | Thu Oct 20 2022 8:16 AM
+- 🙉 [好工具周刊（第 33 期）: Ele types, SpeedCoder, 自由钢琴, 图片马赛克转换器, 谐音工具, ...](https://discuss-cn.bestxtools.com/d/85/1) | Thu Oct 13 2022 9:45 AM<!-- bestxtools:END -->
 
 ### 王登科-DK博客
 
