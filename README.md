@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Pod的生命周期配置=概述-创建和终止-初始化容器-钩子函数-容器探测-重启策略](https://juejin.cn/post/7158994555495251976) | Thu Oct 27 2022 1:15 AM 
+- 🤗 [ApplicationContext初始化](https://juejin.cn/post/7159028258322219044) | Thu Oct 27 2022 3:26 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 Pod的生命周期配置 Pod生命周期：概述-创建和终止-初始化容器-钩子函数-容器探测-重启策略 目录 Pod的生命周期配置 Pod生命周期：概述-创建和终止-初始化容器 
+    简述 今天重点分析ApplicationContext初始化时做的事情，我们都只到spring是个IOC和AOP容器，那再我们new一个ApplicationContext，spring内部都做了什么 
     </details> 
 
-- 🎡 [MYSQL数据库--存储引擎](https://juejin.cn/post/7158993941176516639) | Thu Oct 27 2022 1:13 AM 
+- 🎡 [[深入浅出C语言]可变参数列表](https://juejin.cn/post/7159026848796508173) | Thu Oct 27 2022 3:20 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 数据库存储引擎是数据库底层软件组件，数据库管理系统使用数据引擎进行创建、查询、更新和删除数据操作。简而言之，存储引擎就是指表的类型。数据库的存储引擎决定了表在计算机中的存储方式。不同的存储引擎提 
+    本文就来分享一波作者对可变参数列表的学习心得与见解。 笔者水平有限，难免存在纰漏，欢迎指正交流。 
     </details> 
 
-- 🕯 [Set集合和其子类HashSet、LinkedHashSet.md](https://juejin.cn/post/7158993370889584677) | Thu Oct 27 2022 1:10 AM 
+- 🕯 [手把手教你Mybatis（1）](https://juejin.cn/post/7159024461390774279) | Thu Oct 27 2022 3:11 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第28天，点击查看活动详情 java.util.Set接口和java.util.List接口一样，同样继承自Collection接 
+    MyBatis一款持久层框架。本文主要介绍学习简单使用Mybatis实现数据库增删改查、全局配置文件介绍、Mapper映射文件夹少，以及一些Java API 
     </details> 
 
-- 🚀 [常见消息队列分析对比](https://juejin.cn/post/7158989261742702599) | Thu Oct 27 2022 12:55 AM 
+- 🚀 [教你2种常用的电商高并发处理解决方案](https://juejin.cn/post/7159024332486754317) | Thu Oct 27 2022 3:11 AM 
     <details><summary>展开描述 ...</summary> 
-    本文主要对比三种消息队列，并介绍了消息队列的个别应用场景，简单描述了队列队列中所保护的角色及其作用。 
+    就目前应用广泛的电商系统来说，各种营销场景的增加，让电商系统高并发也成为一种必然。为此，本文将给大家带来2种高并发解决方案，希望能为电商系统实现高并发提供一些灵感。 
     </details> 
 
-- 💪 [【k8s系列十四】nginx-ingress原理](https://juejin.cn/post/7158971703333715982) | Wed Oct 26 2022 11:49 PM 
+- 💪 [redis缓冲区：缓冲区大小可以随意设置吗？](https://juejin.cn/post/7159018334229364744) | Thu Oct 27 2022 2:48 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第27天，[点击查看活动详情] 
+    Redis是典型的客户端-服务端架构，在客户端与服务端通信过程中，缓冲区就是一个常用的方。接下来我们看看客户端与服务端如果发生缓冲区溢出，我们该如何应对及规避。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
