@@ -792,29 +792,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [美共和党委员会起诉谷歌：为什么我们群发的筹款邮件都被送到“垃圾邮件”里](http://jandan.net/p/111536) | Thu Oct 27 2022 8:09 AM 
+- 🚀 [到本世纪末，全球气温将上升2.5摄氏度](http://jandan.net/p/111543) | Thu Oct 27 2022 3:18 PM 
+    <details><summary>展开描述 ...</summary> 
+    全球排放量在10年内可达到顶峰 
+    </details> 
+
+- 🙉 [美共和党委员会起诉谷歌：为什么我们群发的筹款邮件都被送到“垃圾邮件”里](http://jandan.net/p/111536) | Thu Oct 27 2022 8:09 AM 
     <details><summary>展开描述 ...</summary> 
     谷歌说那是用户自己标记的 
     </details> 
 
-- 🙉 [科学家找到了“最佳戒烟年龄”](http://jandan.net/p/111538) | Thu Oct 27 2022 4:52 AM 
+- 🎉 [科学家找到了“最佳戒烟年龄”](http://jandan.net/p/111538) | Thu Oct 27 2022 4:52 AM 
     <details><summary>展开描述 ...</summary> 
     在这个时间节点之前戒烟，基本上相当于没有吸过烟 
     </details> 
 
-- 🎉 [今日好价 1027](http://jandan.net/p/111541) | Thu Oct 27 2022 3:48 AM 
+- 🐲 [今日好价 1027](http://jandan.net/p/111541) | Thu Oct 27 2022 3:48 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：32 
     </details> 
 
-- 🐲 [比起陌生人，猫猫更喜欢主人的声音](http://jandan.net/p/111540) | Wed Oct 26 2022 11:41 AM 
+-  [比起陌生人，猫猫更喜欢主人的声音](http://jandan.net/p/111540) | Wed Oct 26 2022 11:41 AM 
     <details><summary>展开描述 ...</summary> 
     狗狗们总是热情地回应每个人，而猫猫们只对主人的声音做出反应 
-    </details> 
-
--  [据年轮记录，未来十年或有1/100的几率发生文明毁灭性的三宅事件，但我们却不知道真凶是谁](http://jandan.net/p/111539) | Wed Oct 26 2022 10:34 AM 
-    <details><summary>展开描述 ...</summary> 
-    不是太阳耀斑，也不是已知的超新星 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
