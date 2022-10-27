@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【前端&amp;运维那点事儿】十五：Linux中的进程管理](https://juejin.cn/post/7159091811854581768) | Thu Oct 27 2022 7:32 AM 
+- 🤗 [2022年你应该需要知道的CSS新特性-布局篇](https://juejin.cn/post/7159096447483576334) | Thu Oct 27 2022 7:51 AM 
     <details><summary>展开描述 ...</summary> 
-    这篇文章介绍Linux中的进程管理，如果你熟悉Windows系统，那就应该知道【任务管理器】，实际上任务管理器中管理的就是进程；与Windows不同的是在Linux中管理进程使用的是一些命令。 
+    前一段时间State of CSS发起了2022年的调查问卷，该文件的内容主要是CSS新特性、框架、工具库的使用情况，这里我将会用几篇文章整理一下这个问卷中涉及到的新特性 
     </details> 
 
-- 🎡 [Seata 环境搭建](https://juejin.cn/post/7159090795960598565) | Thu Oct 27 2022 7:29 AM 
+- 🎡 [基于Delta Lake构建数据湖仓体系](https://juejin.cn/post/7159085952483196965) | Thu Oct 27 2022 7:11 AM 
     <details><summary>展开描述 ...</summary> 
-    seata版本: 1.5.2 前提准备 Seata是一个分布式事务，seata服务端也是一个微服务，需要和其他微服务一样需要注册中心和配置中心。同时事务回滚，需要数据库日志记录。 注册中心和配置中心: 
+    全文将围绕以下四个部分展开：Delta Lake 的基本概念和发展历程，以及 2.0 版本的关键特性 Delta Lake 的内核解析以及关键技术 围绕Delta Lake湖格式的生态建设 
     </details> 
 
-- 🕯 [【每日一读】Efficient Personalized PageRank Computation: A Spanning Forests Sampling B](https://juejin.cn/post/7159081153171816461) | Thu Oct 27 2022 6:51 AM 
+- 🕯 [Nodejs - 关于原生模块编译node-gyp + prebuild-install &lpar;以安装better-sqlite3为例&rpar;](https://juejin.cn/post/7159085517487734798) | Thu Oct 27 2022 7:08 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第27天，点击查看活动详情 简介 论文简介 原文链接：https://dl.acm.org/doi/10.1145/3514221 
+    关于node-gyp node-gyp是一个用 Node.js 编写的跨平台命令行工具，用于为 Node.js 编译本机插件模块。它包含之前由 Chromium 团队使用的 gyp-next项目的供应 
     </details> 
 
-- 🚀 [【活动推荐】七万奖金，四大赛题，邀你码上掘金！](https://juejin.cn/post/7159076949422735373) | Thu Oct 27 2022 6:36 AM 
+- 🚀 [🌵 SAP Fiori 开发环境「部署」](https://juejin.cn/post/7159085349644271653) | Thu Oct 27 2022 7:08 AM 
     <details><summary>展开描述 ...</summary> 
-    首届 AMD x 码上掘金编程挑战赛，七万元奖金、大咖评审、字节offer、最棒的作品展示位，邀你来挑战！iPhone 14 Pro、PICO 4、Apple Watch 8、掘金会员，报名即可参与抽 
+    我们将选择 VS Code + SAP Fiori Tools 的开发方式 VS Code 安装 Node.js 安装 &amp; 配置 SAP Fiori Tools - Extension 
     </details> 
 
-- 💪 [面向面试编程：Java8新特性——StreamAPI（一）](https://juejin.cn/post/7159075172702486535) | Thu Oct 27 2022 6:28 AM 
+- 💪 [掌握C++虚函数的来龙去脉](https://juejin.cn/post/7159081510639763463) | Thu Oct 27 2022 6:52 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第28天，点击查看活动详情 集合处理数据的弊端 当我们在需要对集合中的元素进行操作的时候，除了必需的添加，删除，获取外，最典型的操 
+    本文一篇，将虚函数刨得一清二楚。 1 使用场景。 2 如何实现。（函数指针，虚函数表） 3 消耗情况。 4 多态的概念。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
