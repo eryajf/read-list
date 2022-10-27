@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [typora 中绘制思维导图的困惑](https://www.v2ex.com/t/890448#reply0) | Thu Oct 27 2022 9:10 AM
-- 🤗 [如何定制 console.log 的打印结果？](https://www.v2ex.com/t/890446#reply1) | Thu Oct 27 2022 9:09 AM
-- 🎭 [如何在 x86 架构的 Windows 设备上仿真运行 arm 架构的 CentOS？](https://www.v2ex.com/t/890443#reply1) | Thu Oct 27 2022 9:02 AM
-- 🥷 [请教各位老哥一个关于 Google Voice 接听电话的问题。](https://www.v2ex.com/t/890418#reply1) | Thu Oct 27 2022 8:02 AM
-- 🐵 [[程序员的解忧杂货铺] 微信摸鱼群诚邀大佬们加入~](https://www.v2ex.com/t/890409#reply19) | Thu Oct 27 2022 7:45 AM<!-- v2ex:END -->
+- 🥸 [CDN 大文件传输到一半终止，如何收费？](https://www.v2ex.com/t/890466#reply3) | Thu Oct 27 2022 10:08 AM
+- 🤗 [为什么没有手机厂商出售无预装系统的手机？](https://www.v2ex.com/t/890465#reply13) | Thu Oct 27 2022 10:01 AM
+- 🎭 [elasticsearch 官网 elastic.co 打不开是咋回事？](https://www.v2ex.com/t/890463#reply3) | Thu Oct 27 2022 9:38 AM
+- 🥷 [有用 dtale 分析数据的大神吗？我遇到问题了请进](https://www.v2ex.com/t/890461#reply1) | Thu Oct 27 2022 9:36 AM
+- 🐵 [有哪些文本朗读应用，使用了微软 TTS（Text To Speech）](https://www.v2ex.com/t/890454#reply3) | Thu Oct 27 2022 9:22 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
