@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2022年你应该需要知道的CSS新特性-布局篇](https://juejin.cn/post/7159096447483576334) | Thu Oct 27 2022 7:51 AM 
+- 🤗 [「代码实操」 从根儿上理解浏览器缓存](https://juejin.cn/post/7159119728345088007) | Thu Oct 27 2022 9:21 AM 
     <details><summary>展开描述 ...</summary> 
-    前一段时间State of CSS发起了2022年的调查问卷，该文件的内容主要是CSS新特性、框架、工具库的使用情况，这里我将会用几篇文章整理一下这个问卷中涉及到的新特性 
+    缓存是优化手段中不可或缺的一部分，面试时也经常问到，它可以加快页面的响应速度、减轻服务器的压力。很多人对这方面的了解都是看过相关文章，但是没有实际操作过，今天我带大家手把手走一遍这个流程。 
     </details> 
 
-- 🎡 [基于Delta Lake构建数据湖仓体系](https://juejin.cn/post/7159085952483196965) | Thu Oct 27 2022 7:11 AM 
+- 🎡 [Luminar Neo 教程，如何在 Luminar Neo 中使用晕影工具？](https://juejin.cn/post/7159118433336950791) | Thu Oct 27 2022 9:16 AM 
     <details><summary>展开描述 ...</summary> 
-    全文将围绕以下四个部分展开：Delta Lake 的基本概念和发展历程，以及 2.0 版本的关键特性 Delta Lake 的内核解析以及关键技术 围绕Delta Lake湖格式的生态建设 
+    欢迎观看 Luminar Neo 中文版教程，小编带大家学习 Luminar Neo 的基本工具和使用技巧，了解如何在 Luminar Neo 中使用晕影工具。 
     </details> 
 
-- 🕯 [Nodejs - 关于原生模块编译node-gyp + prebuild-install &lpar;以安装better-sqlite3为例&rpar;](https://juejin.cn/post/7159085517487734798) | Thu Oct 27 2022 7:08 AM 
+- 🕯 [关于Android组件化的深度分析篇（三）大厂架构篇](https://juejin.cn/post/7159112549181423623) | Thu Oct 27 2022 8:53 AM 
     <details><summary>展开描述 ...</summary> 
-    关于node-gyp node-gyp是一个用 Node.js 编写的跨平台命令行工具，用于为 Node.js 编译本机插件模块。它包含之前由 Chromium 团队使用的 gyp-next项目的供应 
+    前言 突然一夜之间就好像入了冬，昨天冷，今天比昨天还冷，大家加点衣服，不要感冒了哦😪 今天来： 第三章:从大厂项目看组件化架构实践 解锁 《Android十二大板块PDF》 音视频大合集，从初中高到面 
     </details> 
 
-- 🚀 [🌵 SAP Fiori 开发环境「部署」](https://juejin.cn/post/7159085349644271653) | Thu Oct 27 2022 7:08 AM 
+- 🚀 [JS-手写 Array.pototype.flag](https://juejin.cn/post/7159108447378604040) | Thu Oct 27 2022 8:37 AM 
     <details><summary>展开描述 ...</summary> 
-    我们将选择 VS Code + SAP Fiori Tools 的开发方式 VS Code 安装 Node.js 安装 &amp; 配置 SAP Fiori Tools - Extension 
+    **`flat&lpar;&rpar;`**  方法会按照一个可指定的深度递归遍历数组，并将所有元素与遍历到的子数组中的元素合并为一个新数组返回。 
     </details> 
 
-- 💪 [掌握C++虚函数的来龙去脉](https://juejin.cn/post/7159081510639763463) | Thu Oct 27 2022 6:52 AM 
+- 💪 [Sanitizers 系列之 Sanitizers 概述](https://juejin.cn/post/7159106299660091400) | Thu Oct 27 2022 8:30 AM 
     <details><summary>展开描述 ...</summary> 
-    本文一篇，将虚函数刨得一清二楚。 1 使用场景。 2 如何实现。（函数指针，虚函数表） 3 消耗情况。 4 多态的概念。 
+    本系列文章旨在向读者详细介绍用于动态检测 C++ 程序内存错误的 Sanitizers 工具集，这是本系列文章的第一篇。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
