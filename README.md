@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [「代码实操」 从根儿上理解浏览器缓存](https://juejin.cn/post/7159119728345088007) | Thu Oct 27 2022 9:21 AM 
+- 🤗 [React中classnames库使用](https://juejin.cn/post/7159132262548635684) | Thu Oct 27 2022 10:09 AM 
+    <details><summary>展开描述 ...</summary> 
+    最近在写React的项目中，看到之前的大佬引入的classnames组件库，特别的实用，在此跟大家分享一下。 从名字上可以看出，这个库是和类名有关的。官方的介绍就是一个简单的支持动态多类名的工具库。  
+    </details> 
+
+- 🎡 [一文快速带你了解 KMM 、 Compose 和 Flutter 的现状](https://juejin.cn/post/7159131087112208392) | Thu Oct 27 2022 10:05 AM 
+    <details><summary>展开描述 ...</summary> 
+    又到了喜闻乐见的环节，本篇主要是科普 KMM 、 Compose 和 Flutter 的最新现状，对于 Compose 和 Flutter 大家可能并不陌生，但是对于 KMM 也许会存在疑惑，KMM  
+    </details> 
+
+- 🕯 [已经有 MESI 协议，为什么还需要 volatile 关键字？](https://juejin.cn/post/7159127308492603400) | Thu Oct 27 2022 9:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    在不考虑写缓冲区和失效队列的影响下，在硬件层面已经实现了缓存一致性，那么在 Java 语言层面为什么还需要定义 volatile 关键字呢？是多此一举吗？今天我们将围绕这些问题展开。 
+    </details> 
+
+- 🚀 [iOS老司机的&lt;&lt;程序员的自我修养:链接、装载与库&gt;&gt;读书分享](https://juejin.cn/post/7159123264416481316) | Thu Oct 27 2022 9:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    当我们在开发iOS App时, `cmd + R`的背后发生了什么? 这是个值得思考的问题. iPhone是一部手机, 也是一台移动计算机. 目标文件是什么?链接又是什么? 
+    </details> 
+
+- 💪 [「代码实操」 从根儿上理解浏览器缓存](https://juejin.cn/post/7159119728345088007) | Thu Oct 27 2022 9:21 AM 
     <details><summary>展开描述 ...</summary> 
     缓存是优化手段中不可或缺的一部分，面试时也经常问到，它可以加快页面的响应速度、减轻服务器的压力。很多人对这方面的了解都是看过相关文章，但是没有实际操作过，今天我带大家手把手走一遍这个流程。 
-    </details> 
-
-- 🎡 [Luminar Neo 教程，如何在 Luminar Neo 中使用晕影工具？](https://juejin.cn/post/7159118433336950791) | Thu Oct 27 2022 9:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    欢迎观看 Luminar Neo 中文版教程，小编带大家学习 Luminar Neo 的基本工具和使用技巧，了解如何在 Luminar Neo 中使用晕影工具。 
-    </details> 
-
-- 🕯 [关于Android组件化的深度分析篇（三）大厂架构篇](https://juejin.cn/post/7159112549181423623) | Thu Oct 27 2022 8:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 突然一夜之间就好像入了冬，昨天冷，今天比昨天还冷，大家加点衣服，不要感冒了哦😪 今天来： 第三章:从大厂项目看组件化架构实践 解锁 《Android十二大板块PDF》 音视频大合集，从初中高到面 
-    </details> 
-
-- 🚀 [JS-手写 Array.pototype.flag](https://juejin.cn/post/7159108447378604040) | Thu Oct 27 2022 8:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    **`flat&lpar;&rpar;`**  方法会按照一个可指定的深度递归遍历数组，并将所有元素与遍历到的子数组中的元素合并为一个新数组返回。 
-    </details> 
-
-- 💪 [Sanitizers 系列之 Sanitizers 概述](https://juejin.cn/post/7159106299660091400) | Thu Oct 27 2022 8:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    本系列文章旨在向读者详细介绍用于动态检测 C++ 程序内存错误的 Sanitizers 工具集，这是本系列文章的第一篇。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
