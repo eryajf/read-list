@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Swin Transformer代码实战篇](https://juejin.cn/post/7158994919640530975) | Thu Oct 27 2022 1:17 AM 
+- 🤗 [[整理归纳系列]还搞不懂PG的数据类型😵‍💫？看这篇就够了🥳](https://juejin.cn/post/7158999053672382501) | Thu Oct 27 2022 1:33 AM 
     <details><summary>展开描述 ...</summary> 
-    本文是上一篇Swin Transformer原理详解篇的代码实战。文字通过例子解释了代码中较难理解的两点，希望对你有所帮助。🥇🥇🥇 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第30天，点击查看活动详情 🗻 简介: 🍻🍺🍸🛌 🍻简介 PostgreSQL 提供了丰富的数据类型，包括 数字类型、货币类型、字 
     </details> 
 
-- 🎡 [Flutter 绘制探索 | 扇形区域与点击校验](https://juejin.cn/post/7158978916122624013) | Thu Oct 27 2022 12:15 AM 
+- 🎡 [比Webpack快700倍的Turbopack，到底快在哪？](https://juejin.cn/post/7158997985870200839) | Thu Oct 27 2022 1:29 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第 10 天，点击查看活动详情 0. 前言 今天来探索一个问题，如何绘制一块扇形的区域路径，并且如何校验触点是否落在 扇形区域 之 
+    10月25日，Next.js 13 正式发布。同时，Vercel 还推出并开源了下一代打包工具：Turbopack。Turbopack 是针对 JavaScript 和 TypeScript 优化的增 
     </details> 
 
-- 🕯 [数据结构：7种哈希散列算法，你知道几个？](https://juejin.cn/post/7158977996462751780) | Thu Oct 27 2022 12:12 AM 
+- 🕯 [Redis使用常见问题注意](https://juejin.cn/post/7158997731678093326) | Thu Oct 27 2022 1:28 AM 
     <details><summary>展开描述 ...</summary> 
-    哈希散列的想法在不同的地方独立出现。1953 年 1 月，汉斯·彼得·卢恩 &lpar; Hans Peter Luhn &rpar; 编写了一份IBM内部备忘录，其中使用了散列和链接。开放寻址后来由 AD Linh 在 
+    最近团队中在使用Redis时存储大Value导致宽带被打满的问题... 对个人也造成了一定的影响，希望大家能引以为戒，学会正确的使用Redis。 
     </details> 
 
-- 🚀 [我用这9个小技巧封装Vue组件，老大夸我’封得好‘](https://juejin.cn/post/7158969880362876964) | Wed Oct 26 2022 11:43 PM 
+- 🚀 [React实战精讲&lpar;React_TS/API&rpar;](https://juejin.cn/post/7158996538880950308) | Thu Oct 27 2022 1:23 AM 
     <details><summary>展开描述 ...</summary> 
-    组件是前端框架的基本构建块。把它们设计得更好会使我们的应用程序更容易改变和理解。在这节课中，分享一下在过去几年中工作中学到的 9 个技巧。 1. 你可能不需要创建一个组件 在创建一个组件之前，看看它是 
+    大家好，我是柒八九。 今天，我们继续前端面试的知识点。我们来谈谈关于React实战的相关知识点和具体的算法。 该系列的文章，大部分都是前面文章的知识点汇总，如果想具体了解相关内容，请移步相关系列，进行 
     </details> 
 
-- 💪 [字节跳动后端面经（17）](https://juejin.cn/post/7158952231193018399) | Wed Oct 26 2022 10:36 PM 
+- 💪 [从启动开源项目到运营开源社区](https://juejin.cn/post/7158987707404779550) | Thu Oct 27 2022 12:53 AM 
     <details><summary>展开描述 ...</summary> 
-    java的一些锁 java的内存结构，堆具体怎么分的 MySQL隔离级别？性能差别？为什么会有这种性... 
+    开源生态是以开源项目为中心、以贡献者组成的开源社区为关键要素构建的，作为一名个人开发者，我们要如何启动自己的开源项目，为整个开源生态作贡献呢？ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
