@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有什么好的有声书推荐吗](https://www.v2ex.com/t/890346#reply0) | Thu Oct 27 2022 5:08 AM
-- 🤗 [怎么应付只知道要求加班的领导](https://www.v2ex.com/t/890339#reply2) | Thu Oct 27 2022 4:55 AM
-- 🎭 [FFmpeg 的错误码](https://www.v2ex.com/t/890334#reply0) | Thu Oct 27 2022 4:42 AM
-- 🥷 [临时找 JS&lpar;Web browser&rpar; 算法开发（语法解释器）](https://www.v2ex.com/t/890333#reply1) | Thu Oct 27 2022 4:41 AM
-- 🐵 [服务器被人挂了一个脚本](https://www.v2ex.com/t/890327#reply6) | Thu Oct 27 2022 4:06 AM<!-- v2ex:END -->
+- 🥸 [有没有办法在 Windows10 上实现类似 iPhone 的输错多次密码直接抹掉整台电脑（或者抹掉指定硬盘也行）？](https://www.v2ex.com/t/890366#reply6) | Thu Oct 27 2022 6:00 AM
+- 🤗 [GitHub 在看代码的时候卡死了](https://www.v2ex.com/t/890359#reply18) | Thu Oct 27 2022 5:44 AM
+- 🎭 [求助：免费 MP3 to txt 工具](https://www.v2ex.com/t/890354#reply4) | Thu Oct 27 2022 5:31 AM
+- 🥷 [怎么应付只知道要求加班的领导](https://www.v2ex.com/t/890339#reply10) | Thu Oct 27 2022 4:55 AM
+- 🐵 [FFmpeg 的错误码](https://www.v2ex.com/t/890334#reply0) | Thu Oct 27 2022 4:42 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
