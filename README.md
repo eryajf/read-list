@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【1-2】通过 sketch 发现功能，进行文章、资源和灵感发现](https://juejin.cn/post/7159059044710219806) | Thu Oct 27 2022 5:26 AM 
+- 🤗 [【活动推荐】七万奖金，四大赛题，邀你码上掘金！](https://juejin.cn/post/7159076949422735373) | Thu Oct 27 2022 6:36 AM 
     <details><summary>展开描述 ...</summary> 
-    发现 “发现”是精选的文章、资源和灵感，以及最新的 Sketch 更新，就在你的工作区中。这是随时了解我们的最新动态或学习新知识的最佳方式。 如何访问“发现” 你可以在 Web 应用的边栏中的 “人员 
+    首届 AMD x 码上掘金编程挑战赛，七万元奖金、大咖评审、字节offer、最棒的作品展示位，邀你来挑战！iPhone 14 Pro、PICO 4、Apple Watch 8、掘金会员，报名即可参与抽 
     </details> 
 
-- 🎡 [Maven 的打包方式](https://juejin.cn/post/7159058246827769886) | Thu Oct 27 2022 5:23 AM 
+- 🎡 [面向面试编程：Java8新特性——StreamAPI（一）](https://juejin.cn/post/7159075172702486535) | Thu Oct 27 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-    默认打包方式pom文件啥也不配置： 打包后jar 文件，仅打包项目中的代码到 JAR 包中，不打包依赖包，打包后的jar解压文件目录 项目的依赖都在maven中 的pom 文件中 无法独立运行 将项目 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第28天，点击查看活动详情 集合处理数据的弊端 当我们在需要对集合中的元素进行操作的时候，除了必需的添加，删除，获取外，最典型的操 
     </details> 
 
-- 🕯 [Kibana：在 Kibana 中 discover 的演变](https://juejin.cn/post/7159051683794780168) | Thu Oct 27 2022 5:00 AM 
+- 🕯 [一文了解 DataLeap 中的 Notebook](https://juejin.cn/post/7159074889230450725) | Thu Oct 27 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-    作者：Matthias Polman-Wilhelm 引入新的增强型数据表、字段统计和警报规则创建。 Discover 已经存在了很长一段时间。 尽管如此，它仍然是 Kibana 最常用的部分之一，允 
+    Notebook 是一种支持 REPL 模式的开发环境。如何将 notebook 应用在数据研发中？ 
     </details> 
 
-- 🚀 [Pytorch、CUDA和cuDNN的安装图文详解win11（解决版本匹配问题）](https://juejin.cn/post/7159051600710303781) | Thu Oct 27 2022 4:59 AM 
+- 🚀 [前端初学者必学（promise的初使用）](https://juejin.cn/post/7159073572328046600) | Thu Oct 27 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第29天，点击查看活动详情 可能出现的问题： CUDA和cuDNN版本不匹配 CUDA和Pytorch版本不匹配 cuDNN和Py 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第8天，点击查看活动详情 promise初使用 1 简介 本文介绍了Promise的构造器的使用语法，promise对象的三种状态 
     </details> 
 
-- 💪 [开源风暴吞噬AI界？从Stable Diffusion的爆火说起](https://juejin.cn/post/7159049364793458695) | Thu Oct 27 2022 4:48 AM 
+- 💪 [&lpar;十二&rpar;MySQL之内存篇：深入探寻数据库内存与Buffer Pool的奥妙！](https://juejin.cn/post/7159071309354254373) | Thu Oct 27 2022 6:13 AM 
     <details><summary>展开描述 ...</summary> 
-    尽管开源项目存在商业模式等方面的挑战，但通过良好开源社区的驱动，AI项目的技术发展、应用广度和创造空间都有了意想不到的发展，正如开源“吞噬”软件1.0，“开源AI”运动将在软件2.0时代不可阻挡。 
+    MySQL是基于磁盘工作的，这句几乎刻在了每个后端程序员DNA里，但它真的对吗？答案并不能盖棺定论，因为实际上MySQL运行时，几乎会将所有操作都放会在内存中完成，啥？基于内存？为啥呢？ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
