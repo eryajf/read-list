@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [实现掘金Bug自由、90% 的前端不会调试 Ant Design 源码、打造 Go 编码规范 | 酱酱的下午茶第 97 期](https://juejin.cn/post/7159014941087924261) | Thu Oct 27 2022 2:35 AM 
+- 🤗 [Pod的生命周期配置=概述-创建和终止-初始化容器-钩子函数-容器探测-重启策略](https://juejin.cn/post/7158994555495251976) | Thu Oct 27 2022 1:15 AM 
     <details><summary>展开描述 ...</summary> 
-    我写了一个Chrome插件，可以自动收集掘金Bug、 为什么说 bind 的实现非常考验对原型链的理解、巧用火焰图快速分析链路性能、为什么说 90% 的前端不会调试 Ant Design源码 
+    我正在参加「掘金·启航计划」 Pod的生命周期配置 Pod生命周期：概述-创建和终止-初始化容器-钩子函数-容器探测-重启策略 目录 Pod的生命周期配置 Pod生命周期：概述-创建和终止-初始化容器 
     </details> 
 
-- 🎡 [CSS 渐变锯齿消失术](https://juejin.cn/post/7159014741783166983) | Thu Oct 27 2022 2:34 AM 
+- 🎡 [MYSQL数据库--存储引擎](https://juejin.cn/post/7158993941176516639) | Thu Oct 27 2022 1:13 AM 
     <details><summary>展开描述 ...</summary> 
-    在 CSS 中，渐变（Gradient）可谓是最为强大的一个属性之一。 但是，经常有同学在使用渐变的过程中会遇到渐变图形产生的锯齿问题。 何为渐变锯齿？ 那么，什么是渐变图形产生的锯齿呢？ 简单的一个 
+    前言 数据库存储引擎是数据库底层软件组件，数据库管理系统使用数据引擎进行创建、查询、更新和删除数据操作。简而言之，存储引擎就是指表的类型。数据库的存储引擎决定了表在计算机中的存储方式。不同的存储引擎提 
     </details> 
 
-- 🕯 [聊一聊如何优雅的停下线程，除了这两种还有其他的吗？](https://juejin.cn/post/7159010362216415268) | Thu Oct 27 2022 2:16 AM 
+- 🕯 [Set集合和其子类HashSet、LinkedHashSet.md](https://juejin.cn/post/7158993370889584677) | Thu Oct 27 2022 1:10 AM 
     <details><summary>展开描述 ...</summary> 
-    聊一聊如何优雅的停下线程 除了stop&lpar;&rpar;方法，我能想到的方案还有两个 方案一：使用volatile标记位，利用其可见性。 方案二：调用Thread的方法interrupted。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第28天，点击查看活动详情 java.util.Set接口和java.util.List接口一样，同样继承自Collection接 
     </details> 
 
-- 🚀 [React内部是如何实现cache方法的？](https://juejin.cn/post/7159007844196024327) | Thu Oct 27 2022 2:07 AM 
+- 🚀 [常见消息队列分析对比](https://juejin.cn/post/7158989261742702599) | Thu Oct 27 2022 12:55 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我卡颂。 前几天写的一篇介绍use这个新hook的文章中聊到React原生实现了一个缓存函数的方法 —— cache。 对于如下代码，被cache包裹的函数，当多次调用时，如果传参不变，会始终 
+    本文主要对比三种消息队列，并介绍了消息队列的个别应用场景，简单描述了队列队列中所保护的角色及其作用。 
     </details> 
 
-- 💪 [React实战精讲&lpar;React_TS/API&rpar;](https://juejin.cn/post/7159007276068503559) | Thu Oct 27 2022 2:05 AM 
+- 💪 [【k8s系列十四】nginx-ingress原理](https://juejin.cn/post/7158971703333715982) | Wed Oct 26 2022 11:49 PM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是柒八九。 今天，我们继续前端面试的知识点。我们来谈谈关于React实战的相关知识点和具体的算法。 该系列的文章，大部分都是前面文章的知识点汇总，如果想具体了解相关内容，请移步相关系列，进行 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第27天，[点击查看活动详情] 
     </details> 
 <!-- juejin:END -->
 ### 少数派
