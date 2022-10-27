@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [从零开始做好个人记账，和购物节血拼后遗症说拜拜](https://sspai.com/post/76437) | Thu Oct 27 2022 8:00 AM 
+- 👹 [新玩意 125｜少数派的作者们最近买了啥？](https://sspai.com/post/76455) | Thu Oct 27 2022 9:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    关于栏目为了满足读者们对于《新玩意》栏目加更的需求，机器人特地邀请了Matrix作者们也来聊聊自己近期购买的新奇产品。喜欢本栏目的话，欢迎充电或评论文章来表达自己的喜爱，你的每一次真心夸赞或建议，都是 ...&lt;a href=&quot;https://sspai.com/post/76455&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [从零开始做好个人记账，和购物节血拼后遗症说拜拜](https://sspai.com/post/76437) | Thu Oct 27 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     多年财会经验，带你零基础入门个人记账，实现财富管理的第一步。&lt;a href=&quot;https://sspai.com/post/76437&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [桌椅、键鼠、颈托……人体工学设备是智商税吗？](https://sspai.com/post/76452) | Thu Oct 27 2022 6:30 AM 
+- 🤭 [桌椅、键鼠、颈托……人体工学设备是智商税吗？](https://sspai.com/post/76452) | Thu Oct 27 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     同事总是腰疼，跑去按摩医院按摩，趴在按摩床上，医生问她，你每天坐多久？她说，7-8个小时吧，医生问：一般连续坐多久，她说3-4个小时，医生和我同时发出惊呼：「啊？」她说：「嗯，开会。」大部分长期坐在电 ...&lt;a href=&quot;https://sspai.com/post/76452&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [全线涨价、种类繁多：冬季新 iPad 怎么选？](https://sspai.com/post/76423) | Thu Oct 27 2022 3:30 AM 
+- 🥸 [全线涨价、种类繁多：冬季新 iPad 怎么选？](https://sspai.com/post/76423) | Thu Oct 27 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     只希望你在看完这篇文章之后，能够帮助你做出产品选择的同时，也能帮你找到当决定要买 iPad 的初心。&lt;a href=&quot;https://sspai.com/post/76423&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：索尼推出 A7R V 相机、CDPR 确认《巫师》重制版开发中等](https://sspai.com/post/76441) | Thu Oct 27 2022 12:37 AM 
+- 🙉 [派早报：索尼推出 A7R V 相机、CDPR 确认《巫师》重制版开发中等](https://sspai.com/post/76441) | Thu Oct 27 2022 12:37 AM 
     <details><summary>展开描述 ...</summary> 
     Nothing 推出新款耳机 Ear &lpar;stick&rpar;、LINE 推出可商用字型等。&lt;a href=&quot;https://sspai.com/post/76441&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [任意键｜让玩家苦等八年的《蔑视》，曲高和寡还是虚有其表？](https://sspai.com/post/76430) | Wed Oct 26 2022 9:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    「任意键」正式上线啦！为了丰富各位派友的阅读体验，我们尝试为「任意键」增加了对应的音频内容，邀请了我派的两位带薪打游戏选手编辑@Kiririn和@一只索狗从玩家视角对当期的主要内容进行谈论和评述。您可 ...&lt;a href=&quot;https://sspai.com/post/76430&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
