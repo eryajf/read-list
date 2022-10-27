@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [[整理归纳系列]还搞不懂PG的数据类型😵‍💫？看这篇就够了🥳](https://juejin.cn/post/7158999053672382501) | Thu Oct 27 2022 1:33 AM 
+- 🤗 [聊一聊如何优雅的停下线程，除了这两种还有其他的吗？](https://juejin.cn/post/7159010362216415268) | Thu Oct 27 2022 2:16 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第30天，点击查看活动详情 🗻 简介: 🍻🍺🍸🛌 🍻简介 PostgreSQL 提供了丰富的数据类型，包括 数字类型、货币类型、字 
+    聊一聊如何优雅的停下线程 除了stop&lpar;&rpar;方法，我能想到的方案还有两个 方案一：使用volatile标记位，利用其可见性。 方案二：调用Thread的方法interrupted。 
     </details> 
 
-- 🎡 [比Webpack快700倍的Turbopack，到底快在哪？](https://juejin.cn/post/7158997985870200839) | Thu Oct 27 2022 1:29 AM 
+- 🎡 [React内部是如何实现cache方法的？](https://juejin.cn/post/7159007844196024327) | Thu Oct 27 2022 2:07 AM 
     <details><summary>展开描述 ...</summary> 
-    10月25日，Next.js 13 正式发布。同时，Vercel 还推出并开源了下一代打包工具：Turbopack。Turbopack 是针对 JavaScript 和 TypeScript 优化的增 
+    大家好，我卡颂。 前几天写的一篇介绍use这个新hook的文章中聊到React原生实现了一个缓存函数的方法 —— cache。 对于如下代码，被cache包裹的函数，当多次调用时，如果传参不变，会始终 
     </details> 
 
-- 🕯 [Redis使用常见问题注意](https://juejin.cn/post/7158997731678093326) | Thu Oct 27 2022 1:28 AM 
-    <details><summary>展开描述 ...</summary> 
-    最近团队中在使用Redis时存储大Value导致宽带被打满的问题... 对个人也造成了一定的影响，希望大家能引以为戒，学会正确的使用Redis。 
-    </details> 
-
-- 🚀 [React实战精讲&lpar;React_TS/API&rpar;](https://juejin.cn/post/7158996538880950308) | Thu Oct 27 2022 1:23 AM 
+- 🕯 [React实战精讲&lpar;React_TS/API&rpar;](https://juejin.cn/post/7159007276068503559) | Thu Oct 27 2022 2:05 AM 
     <details><summary>展开描述 ...</summary> 
     大家好，我是柒八九。 今天，我们继续前端面试的知识点。我们来谈谈关于React实战的相关知识点和具体的算法。 该系列的文章，大部分都是前面文章的知识点汇总，如果想具体了解相关内容，请移步相关系列，进行 
     </details> 
 
-- 💪 [从启动开源项目到运营开源社区](https://juejin.cn/post/7158987707404779550) | Thu Oct 27 2022 12:53 AM 
+- 🚀 [NeurIPS 2022｜UniAD开源：一个模型解决所有类别的异常检测！](https://juejin.cn/post/7159006974686789663) | Thu Oct 27 2022 2:04 AM 
     <details><summary>展开描述 ...</summary> 
-    开源生态是以开源项目为中心、以贡献者组成的开源社区为关键要素构建的，作为一名个人开发者，我们要如何启动自己的开源项目，为整个开源生态作贡献呢？ 
+    【百篇论文阅读计划】新升级! 欢迎关注公众号CV技术指南，专注于计算机视觉的技术总结、最新技术跟踪、经典论文解读、CV招聘信息。 文章作者与机构 paper：https://arxiv.org/abs 
+    </details> 
+
+- 💪 [Mybatis 入门实现对数据库增删改查](https://juejin.cn/post/7158829681788059656) | Wed Oct 26 2022 2:35 PM 
+    <details><summary>展开描述 ...</summary> 
+    Mybatis原本是apache的一个开源项目iBatis, 2010年这个项目由apache software foundation迁移到了google code，并且改名为MyBatis，2013 
     </details> 
 <!-- juejin:END -->
 ### 少数派
