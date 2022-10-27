@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [全线涨价、种类繁多：冬季新 iPad 怎么选？](https://sspai.com/post/76423) | Thu Oct 27 2022 3:30 AM 
+- 👹 [桌椅、键鼠、颈托……人体工学设备是智商税吗？](https://sspai.com/post/76452) | Thu Oct 27 2022 6:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    同事总是腰疼，跑去按摩医院按摩，趴在按摩床上，医生问她，你每天坐多久？她说，7-8个小时吧，医生问：一般连续坐多久，她说3-4个小时，医生和我同时发出惊呼：「啊？」她说：「嗯，开会。」大部分长期坐在电 ...&lt;a href=&quot;https://sspai.com/post/76452&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [全线涨价、种类繁多：冬季新 iPad 怎么选？](https://sspai.com/post/76423) | Thu Oct 27 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     只希望你在看完这篇文章之后，能够帮助你做出产品选择的同时，也能帮你找到当决定要买 iPad 的初心。&lt;a href=&quot;https://sspai.com/post/76423&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：索尼推出 A7R V 相机、CDPR 确认《巫师》重制版开发中等](https://sspai.com/post/76441) | Thu Oct 27 2022 12:37 AM 
+- 🤭 [派早报：索尼推出 A7R V 相机、CDPR 确认《巫师》重制版开发中等](https://sspai.com/post/76441) | Thu Oct 27 2022 12:37 AM 
     <details><summary>展开描述 ...</summary> 
     Nothing 推出新款耳机 Ear &lpar;stick&rpar;、LINE 推出可商用字型等。&lt;a href=&quot;https://sspai.com/post/76441&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [任意键｜让玩家苦等八年的《蔑视》，曲高和寡还是虚有其表？](https://sspai.com/post/76430) | Wed Oct 26 2022 9:25 AM 
+- 🥸 [任意键｜让玩家苦等八年的《蔑视》，曲高和寡还是虚有其表？](https://sspai.com/post/76430) | Wed Oct 26 2022 9:25 AM 
     <details><summary>展开描述 ...</summary> 
     「任意键」正式上线啦！为了丰富各位派友的阅读体验，我们尝试为「任意键」增加了对应的音频内容，邀请了我派的两位带薪打游戏选手编辑@Kiririn和@一只索狗从玩家视角对当期的主要内容进行谈论和评述。您可 ...&lt;a href=&quot;https://sspai.com/post/76430&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [对着白纸文思枯竭？LEX 想用 AI 帮你算出第一段](https://sspai.com/post/76362) | Wed Oct 26 2022 7:34 AM 
+- 🙉 [对着白纸文思枯竭？LEX 想用 AI 帮你算出第一段](https://sspai.com/post/76362) | Wed Oct 26 2022 7:34 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/76362&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [小众与流行交织，乱象与发展并存——一个玩家兼创作者眼中的键盘圈](https://sspai.com/post/76367) | Wed Oct 26 2022 6:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    2022 年，对我来说是不平凡的一年，键圈的兴亡成败在这一年格外明显。我来讲讲这一年的所思所想和所感，以及今后的一些打算。&lt;a href=&quot;https://sspai.com/post/76367&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
