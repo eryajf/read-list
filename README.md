@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [PET与CT的入门学习 在更新](https://juejin.cn/post/7159156095461720078) | Thu Oct 27 2022 11:45 AM 
+- 🤗 [数据结构的定义、逻辑结构和存储结构](https://juejin.cn/post/7159210241932918814) | Thu Oct 27 2022 3:13 PM 
+    <details><summary>展开描述 ...</summary> 
+    - 数据结构:存在一种或多种关系的数据类型（我们老师说的）。 - 数据结构：设计的数据元素的集合以及数据元素之间的关系，由数据元素之间的关系构成结构。 因此，可以把数据结构看成是带结构的数据元素的集 
+    </details> 
+
+- 🎡 [外行科普 | PET成像原理](https://juejin.cn/post/7159172938904633374) | Thu Oct 27 2022 12:48 PM 
     <details><summary>展开描述 ...</summary> 
     概述 PET: positron emission tomography 正电子发射断层摄影术 ECT ： Emission Computed Tomography发射型计算机断层成像技术 SPECT 
     </details> 
 
-- 🎡 [vue之浅析extend与手动挂载$mount](https://juejin.cn/post/7159150798000095240) | Thu Oct 27 2022 11:21 AM 
+- 🕯 [【Dubbo3.0技术专题】拥有新时代的通信协议，引领云原生迈向更高的舞台 | 解密Dubbo3是如何从微服务升华到云原生领域](https://juejin.cn/post/7159170870999515143) | Thu Oct 27 2022 12:39 PM 
     <details><summary>展开描述 ...</summary> 
-    vue 组件的实现方式有很多种，本文所说的是其中较少使用的一种，即由 vue 内置的 API extend 与 $mount 配合使用实现的。 一、为什么使用 1、典型使用场景的例子 渲染组件前 渲染 
+    感谢2020云原生微服务给我带来了云原生的希望！ Dubbo3拥抱云原生升级总体路线 我们会侧重于下面红色填充的部分，针对于Dubbo3云原生技术的领域的探索和研究： 看Dubbo3带来了什么？ 要是 
     </details> 
 
-- 🕯 [PowerManagerService之唤醒锁](https://juejin.cn/post/7159143785283190814) | Thu Oct 27 2022 10:54 AM 
+- 🚀 [Photoshop 10s生成炫酷的y2k风格字体，文章品质提升到NextLevel 💥](https://juejin.cn/post/7159166379843649549) | Thu Oct 27 2022 12:22 PM 
     <details><summary>展开描述 ...</summary> 
-    在开发中，或多或少会使用唤醒锁&lpar;wake lock&rpar;，有的是为了保持屏幕长亮，有的是为了保持 CPU 运行。 唤醒锁的本质，其实是对屏幕状态的控制，以及对 CPU 挂起的控制。 
+    背景 最近这类 y2k 风格字体非常流行，作为开发者和创作者我们怎么快速生成这种字体呢？写文章时给文章添加一个好看的封面图片往往可以增加文章曝光度，从而带来更多阅读和关注。而图片上的醒目的标题文字更能 
     </details> 
 
-- 🚀 [Mob开发者后台短信模块功能使用](https://juejin.cn/post/7159137360238608397) | Thu Oct 27 2022 10:32 AM 
+- 💪 [外行科普 | CT成像简单原理](https://juejin.cn/post/7159165376385794061) | Thu Oct 27 2022 12:19 PM 
     <details><summary>展开描述 ...</summary> 
-    短信验证码SDK，为开发者提供全球通用的短信验证码工具，开发者可以用其在App植入短信验证码SDK、简单设置即可短信验证，集成快速便捷，且后期易于管理。 
-    </details> 
-
-- 💪 [add_input_stream添加输入流](https://juejin.cn/post/7159137260166709285) | Thu Oct 27 2022 10:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    add_input_stream&lpar;&rpar; 函数是一个添加输入流的函数，它会把文件里面的输入流全部添加进去 input_streams 数组。而 input_streams 数组是一个全局变量，包含了所有输 
+    X光成像只包含了物体的二维信号，想要获取物体的3D信息，需要从不同的角度去观测。 那么为了从不同的角度获取物体的信息，工程师们就让整个X射线发射端与接收端围绕着人体转起来，CT机也就变成了甜甜圈的形状 
     </details> 
 <!-- juejin:END -->
 ### 少数派
