@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [用手机谷歌搜索出问题了](https://www.v2ex.com/t/890533#reply1) | Thu Oct 27 2022 4:08 PM
-- 🤗 [TrueNAS 配置能干吗](https://www.v2ex.com/t/890522#reply0) | Thu Oct 27 2022 3:12 PM
-- 🎭 [K8s 经防火墙访问外部业务系统问题](https://www.v2ex.com/t/890510#reply1) | Thu Oct 27 2022 2:05 PM
-- 🥷 [想配个磁盘阵列](https://www.v2ex.com/t/890505#reply0) | Thu Oct 27 2022 1:50 PM
-- 🐵 [群晖发布会来了~](https://www.v2ex.com/t/890503#reply0) | Thu Oct 27 2022 1:42 PM<!-- v2ex:END -->
+- 🥸 [搞了好久的，终于为 SDB 增加了 lua 脚本](https://www.v2ex.com/t/890547#reply0) | Thu Oct 27 2022 5:45 PM
+- 🤗 [用手机谷歌搜索出问题了](https://www.v2ex.com/t/890533#reply1) | Thu Oct 27 2022 4:08 PM
+- 🎭 [TrueNAS 配置能干吗](https://www.v2ex.com/t/890522#reply0) | Thu Oct 27 2022 3:12 PM
+- 🥷 [K8s 经防火墙访问外部业务系统问题](https://www.v2ex.com/t/890510#reply1) | Thu Oct 27 2022 2:05 PM
+- 🐵 [想配个磁盘阵列](https://www.v2ex.com/t/890505#reply0) | Thu Oct 27 2022 1:50 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
