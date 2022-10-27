@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [ApplicationContext初始化](https://juejin.cn/post/7159028258322219044) | Thu Oct 27 2022 3:26 AM 
+- 🤗 [【1-2】通过 sketch 发现功能，进行文章、资源和灵感发现](https://juejin.cn/post/7159059044710219806) | Thu Oct 27 2022 5:26 AM 
     <details><summary>展开描述 ...</summary> 
-    简述 今天重点分析ApplicationContext初始化时做的事情，我们都只到spring是个IOC和AOP容器，那再我们new一个ApplicationContext，spring内部都做了什么 
+    发现 “发现”是精选的文章、资源和灵感，以及最新的 Sketch 更新，就在你的工作区中。这是随时了解我们的最新动态或学习新知识的最佳方式。 如何访问“发现” 你可以在 Web 应用的边栏中的 “人员 
     </details> 
 
-- 🎡 [[深入浅出C语言]可变参数列表](https://juejin.cn/post/7159026848796508173) | Thu Oct 27 2022 3:20 AM 
+- 🎡 [Maven 的打包方式](https://juejin.cn/post/7159058246827769886) | Thu Oct 27 2022 5:23 AM 
     <details><summary>展开描述 ...</summary> 
-    本文就来分享一波作者对可变参数列表的学习心得与见解。 笔者水平有限，难免存在纰漏，欢迎指正交流。 
+    默认打包方式pom文件啥也不配置： 打包后jar 文件，仅打包项目中的代码到 JAR 包中，不打包依赖包，打包后的jar解压文件目录 项目的依赖都在maven中 的pom 文件中 无法独立运行 将项目 
     </details> 
 
-- 🕯 [手把手教你Mybatis（1）](https://juejin.cn/post/7159024461390774279) | Thu Oct 27 2022 3:11 AM 
+- 🕯 [Kibana：在 Kibana 中 discover 的演变](https://juejin.cn/post/7159051683794780168) | Thu Oct 27 2022 5:00 AM 
     <details><summary>展开描述 ...</summary> 
-    MyBatis一款持久层框架。本文主要介绍学习简单使用Mybatis实现数据库增删改查、全局配置文件介绍、Mapper映射文件夹少，以及一些Java API 
+    作者：Matthias Polman-Wilhelm 引入新的增强型数据表、字段统计和警报规则创建。 Discover 已经存在了很长一段时间。 尽管如此，它仍然是 Kibana 最常用的部分之一，允 
     </details> 
 
-- 🚀 [教你2种常用的电商高并发处理解决方案](https://juejin.cn/post/7159024332486754317) | Thu Oct 27 2022 3:11 AM 
+- 🚀 [Pytorch、CUDA和cuDNN的安装图文详解win11（解决版本匹配问题）](https://juejin.cn/post/7159051600710303781) | Thu Oct 27 2022 4:59 AM 
     <details><summary>展开描述 ...</summary> 
-    就目前应用广泛的电商系统来说，各种营销场景的增加，让电商系统高并发也成为一种必然。为此，本文将给大家带来2种高并发解决方案，希望能为电商系统实现高并发提供一些灵感。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第29天，点击查看活动详情 可能出现的问题： CUDA和cuDNN版本不匹配 CUDA和Pytorch版本不匹配 cuDNN和Py 
     </details> 
 
-- 💪 [redis缓冲区：缓冲区大小可以随意设置吗？](https://juejin.cn/post/7159018334229364744) | Thu Oct 27 2022 2:48 AM 
+- 💪 [开源风暴吞噬AI界？从Stable Diffusion的爆火说起](https://juejin.cn/post/7159049364793458695) | Thu Oct 27 2022 4:48 AM 
     <details><summary>展开描述 ...</summary> 
-    Redis是典型的客户端-服务端架构，在客户端与服务端通信过程中，缓冲区就是一个常用的方。接下来我们看看客户端与服务端如果发生缓冲区溢出，我们该如何应对及规避。 
+    尽管开源项目存在商业模式等方面的挑战，但通过良好开源社区的驱动，AI项目的技术发展、应用广度和创造空间都有了意想不到的发展，正如开源“吞噬”软件1.0，“开源AI”运动将在软件2.0时代不可阻挡。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
