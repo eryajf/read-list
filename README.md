@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [React中classnames库使用](https://juejin.cn/post/7159132262548635684) | Thu Oct 27 2022 10:09 AM 
+- 🤗 [PET与CT的入门学习 在更新](https://juejin.cn/post/7159156095461720078) | Thu Oct 27 2022 11:45 AM 
     <details><summary>展开描述 ...</summary> 
-    最近在写React的项目中，看到之前的大佬引入的classnames组件库，特别的实用，在此跟大家分享一下。 从名字上可以看出，这个库是和类名有关的。官方的介绍就是一个简单的支持动态多类名的工具库。  
+    概述 PET: positron emission tomography 正电子发射断层摄影术 ECT ： Emission Computed Tomography发射型计算机断层成像技术 SPECT 
     </details> 
 
-- 🎡 [一文快速带你了解 KMM 、 Compose 和 Flutter 的现状](https://juejin.cn/post/7159131087112208392) | Thu Oct 27 2022 10:05 AM 
+- 🎡 [vue之浅析extend与手动挂载$mount](https://juejin.cn/post/7159150798000095240) | Thu Oct 27 2022 11:21 AM 
     <details><summary>展开描述 ...</summary> 
-    又到了喜闻乐见的环节，本篇主要是科普 KMM 、 Compose 和 Flutter 的最新现状，对于 Compose 和 Flutter 大家可能并不陌生，但是对于 KMM 也许会存在疑惑，KMM  
+    vue 组件的实现方式有很多种，本文所说的是其中较少使用的一种，即由 vue 内置的 API extend 与 $mount 配合使用实现的。 一、为什么使用 1、典型使用场景的例子 渲染组件前 渲染 
     </details> 
 
-- 🕯 [已经有 MESI 协议，为什么还需要 volatile 关键字？](https://juejin.cn/post/7159127308492603400) | Thu Oct 27 2022 9:50 AM 
+- 🕯 [PowerManagerService之唤醒锁](https://juejin.cn/post/7159143785283190814) | Thu Oct 27 2022 10:54 AM 
     <details><summary>展开描述 ...</summary> 
-    在不考虑写缓冲区和失效队列的影响下，在硬件层面已经实现了缓存一致性，那么在 Java 语言层面为什么还需要定义 volatile 关键字呢？是多此一举吗？今天我们将围绕这些问题展开。 
+    在开发中，或多或少会使用唤醒锁&lpar;wake lock&rpar;，有的是为了保持屏幕长亮，有的是为了保持 CPU 运行。 唤醒锁的本质，其实是对屏幕状态的控制，以及对 CPU 挂起的控制。 
     </details> 
 
-- 🚀 [iOS老司机的&lt;&lt;程序员的自我修养:链接、装载与库&gt;&gt;读书分享](https://juejin.cn/post/7159123264416481316) | Thu Oct 27 2022 9:34 AM 
+- 🚀 [Mob开发者后台短信模块功能使用](https://juejin.cn/post/7159137360238608397) | Thu Oct 27 2022 10:32 AM 
     <details><summary>展开描述 ...</summary> 
-    当我们在开发iOS App时, `cmd + R`的背后发生了什么? 这是个值得思考的问题. iPhone是一部手机, 也是一台移动计算机. 目标文件是什么?链接又是什么? 
+    短信验证码SDK，为开发者提供全球通用的短信验证码工具，开发者可以用其在App植入短信验证码SDK、简单设置即可短信验证，集成快速便捷，且后期易于管理。 
     </details> 
 
-- 💪 [「代码实操」 从根儿上理解浏览器缓存](https://juejin.cn/post/7159119728345088007) | Thu Oct 27 2022 9:21 AM 
+- 💪 [add_input_stream添加输入流](https://juejin.cn/post/7159137260166709285) | Thu Oct 27 2022 10:29 AM 
     <details><summary>展开描述 ...</summary> 
-    缓存是优化手段中不可或缺的一部分，面试时也经常问到，它可以加快页面的响应速度、减轻服务器的压力。很多人对这方面的了解都是看过相关文章，但是没有实际操作过，今天我带大家手把手走一遍这个流程。 
+    add_input_stream&lpar;&rpar; 函数是一个添加输入流的函数，它会把文件里面的输入流全部添加进去 input_streams 数组。而 input_streams 数组是一个全局变量，包含了所有输 
     </details> 
 <!-- juejin:END -->
 ### 少数派
