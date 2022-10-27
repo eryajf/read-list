@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【活动推荐】七万奖金，四大赛题，邀你码上掘金！](https://juejin.cn/post/7159076949422735373) | Thu Oct 27 2022 6:36 AM 
+- 🤗 [【前端&amp;运维那点事儿】十五：Linux中的进程管理](https://juejin.cn/post/7159091811854581768) | Thu Oct 27 2022 7:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    这篇文章介绍Linux中的进程管理，如果你熟悉Windows系统，那就应该知道【任务管理器】，实际上任务管理器中管理的就是进程；与Windows不同的是在Linux中管理进程使用的是一些命令。 
+    </details> 
+
+- 🎡 [Seata 环境搭建](https://juejin.cn/post/7159090795960598565) | Thu Oct 27 2022 7:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    seata版本: 1.5.2 前提准备 Seata是一个分布式事务，seata服务端也是一个微服务，需要和其他微服务一样需要注册中心和配置中心。同时事务回滚，需要数据库日志记录。 注册中心和配置中心: 
+    </details> 
+
+- 🕯 [【每日一读】Efficient Personalized PageRank Computation: A Spanning Forests Sampling B](https://juejin.cn/post/7159081153171816461) | Thu Oct 27 2022 6:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第27天，点击查看活动详情 简介 论文简介 原文链接：https://dl.acm.org/doi/10.1145/3514221 
+    </details> 
+
+- 🚀 [【活动推荐】七万奖金，四大赛题，邀你码上掘金！](https://juejin.cn/post/7159076949422735373) | Thu Oct 27 2022 6:36 AM 
     <details><summary>展开描述 ...</summary> 
     首届 AMD x 码上掘金编程挑战赛，七万元奖金、大咖评审、字节offer、最棒的作品展示位，邀你来挑战！iPhone 14 Pro、PICO 4、Apple Watch 8、掘金会员，报名即可参与抽 
     </details> 
 
-- 🎡 [面向面试编程：Java8新特性——StreamAPI（一）](https://juejin.cn/post/7159075172702486535) | Thu Oct 27 2022 6:28 AM 
+- 💪 [面向面试编程：Java8新特性——StreamAPI（一）](https://juejin.cn/post/7159075172702486535) | Thu Oct 27 2022 6:28 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第28天，点击查看活动详情 集合处理数据的弊端 当我们在需要对集合中的元素进行操作的时候，除了必需的添加，删除，获取外，最典型的操 
-    </details> 
-
-- 🕯 [一文了解 DataLeap 中的 Notebook](https://juejin.cn/post/7159074889230450725) | Thu Oct 27 2022 6:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    Notebook 是一种支持 REPL 模式的开发环境。如何将 notebook 应用在数据研发中？ 
-    </details> 
-
-- 🚀 [前端初学者必学（promise的初使用）](https://juejin.cn/post/7159073572328046600) | Thu Oct 27 2022 6:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第8天，点击查看活动详情 promise初使用 1 简介 本文介绍了Promise的构造器的使用语法，promise对象的三种状态 
-    </details> 
-
-- 💪 [&lpar;十二&rpar;MySQL之内存篇：深入探寻数据库内存与Buffer Pool的奥妙！](https://juejin.cn/post/7159071309354254373) | Thu Oct 27 2022 6:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    MySQL是基于磁盘工作的，这句几乎刻在了每个后端程序员DNA里，但它真的对吗？答案并不能盖棺定论，因为实际上MySQL运行时，几乎会将所有操作都放会在内存中完成，啥？基于内存？为啥呢？ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
