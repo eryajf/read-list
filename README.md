@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [TrueNAS 配置能干吗](https://www.v2ex.com/t/890522#reply0) | Thu Oct 27 2022 3:12 PM
-- 🤗 [K8s 经防火墙访问外部业务系统问题](https://www.v2ex.com/t/890510#reply1) | Thu Oct 27 2022 2:05 PM
-- 🎭 [想配个磁盘阵列](https://www.v2ex.com/t/890505#reply0) | Thu Oct 27 2022 1:50 PM
-- 🥷 [群晖发布会来了~](https://www.v2ex.com/t/890503#reply0) | Thu Oct 27 2022 1:42 PM
-- 🐵 [vscode 的 C++插件右上角三角形运行按钮消失了是怎么回事](https://www.v2ex.com/t/890495#reply0) | Thu Oct 27 2022 12:47 PM<!-- v2ex:END -->
+- 🥸 [用手机谷歌搜索出问题了](https://www.v2ex.com/t/890533#reply1) | Thu Oct 27 2022 4:08 PM
+- 🤗 [TrueNAS 配置能干吗](https://www.v2ex.com/t/890522#reply0) | Thu Oct 27 2022 3:12 PM
+- 🎭 [K8s 经防火墙访问外部业务系统问题](https://www.v2ex.com/t/890510#reply1) | Thu Oct 27 2022 2:05 PM
+- 🥷 [想配个磁盘阵列](https://www.v2ex.com/t/890505#reply0) | Thu Oct 27 2022 1:50 PM
+- 🐵 [群晖发布会来了~](https://www.v2ex.com/t/890503#reply0) | Thu Oct 27 2022 1:42 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
