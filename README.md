@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [聊一聊如何优雅的停下线程，除了这两种还有其他的吗？](https://juejin.cn/post/7159010362216415268) | Thu Oct 27 2022 2:16 AM 
+- 🤗 [实现掘金Bug自由、90% 的前端不会调试 Ant Design 源码、打造 Go 编码规范 | 酱酱的下午茶第 97 期](https://juejin.cn/post/7159014941087924261) | Thu Oct 27 2022 2:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    我写了一个Chrome插件，可以自动收集掘金Bug、 为什么说 bind 的实现非常考验对原型链的理解、巧用火焰图快速分析链路性能、为什么说 90% 的前端不会调试 Ant Design源码 
+    </details> 
+
+- 🎡 [CSS 渐变锯齿消失术](https://juejin.cn/post/7159014741783166983) | Thu Oct 27 2022 2:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    在 CSS 中，渐变（Gradient）可谓是最为强大的一个属性之一。 但是，经常有同学在使用渐变的过程中会遇到渐变图形产生的锯齿问题。 何为渐变锯齿？ 那么，什么是渐变图形产生的锯齿呢？ 简单的一个 
+    </details> 
+
+- 🕯 [聊一聊如何优雅的停下线程，除了这两种还有其他的吗？](https://juejin.cn/post/7159010362216415268) | Thu Oct 27 2022 2:16 AM 
     <details><summary>展开描述 ...</summary> 
     聊一聊如何优雅的停下线程 除了stop&lpar;&rpar;方法，我能想到的方案还有两个 方案一：使用volatile标记位，利用其可见性。 方案二：调用Thread的方法interrupted。 
     </details> 
 
-- 🎡 [React内部是如何实现cache方法的？](https://juejin.cn/post/7159007844196024327) | Thu Oct 27 2022 2:07 AM 
+- 🚀 [React内部是如何实现cache方法的？](https://juejin.cn/post/7159007844196024327) | Thu Oct 27 2022 2:07 AM 
     <details><summary>展开描述 ...</summary> 
     大家好，我卡颂。 前几天写的一篇介绍use这个新hook的文章中聊到React原生实现了一个缓存函数的方法 —— cache。 对于如下代码，被cache包裹的函数，当多次调用时，如果传参不变，会始终 
     </details> 
 
-- 🕯 [React实战精讲&lpar;React_TS/API&rpar;](https://juejin.cn/post/7159007276068503559) | Thu Oct 27 2022 2:05 AM 
+- 💪 [React实战精讲&lpar;React_TS/API&rpar;](https://juejin.cn/post/7159007276068503559) | Thu Oct 27 2022 2:05 AM 
     <details><summary>展开描述 ...</summary> 
     大家好，我是柒八九。 今天，我们继续前端面试的知识点。我们来谈谈关于React实战的相关知识点和具体的算法。 该系列的文章，大部分都是前面文章的知识点汇总，如果想具体了解相关内容，请移步相关系列，进行 
-    </details> 
-
-- 🚀 [NeurIPS 2022｜UniAD开源：一个模型解决所有类别的异常检测！](https://juejin.cn/post/7159006974686789663) | Thu Oct 27 2022 2:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    【百篇论文阅读计划】新升级! 欢迎关注公众号CV技术指南，专注于计算机视觉的技术总结、最新技术跟踪、经典论文解读、CV招聘信息。 文章作者与机构 paper：https://arxiv.org/abs 
-    </details> 
-
-- 💪 [Mybatis 入门实现对数据库增删改查](https://juejin.cn/post/7158829681788059656) | Wed Oct 26 2022 2:35 PM 
-    <details><summary>展开描述 ...</summary> 
-    Mybatis原本是apache的一个开源项目iBatis, 2010年这个项目由apache software foundation迁移到了google code，并且改名为MyBatis，2013 
     </details> 
 <!-- juejin:END -->
 ### 少数派
