@@ -401,7 +401,7 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [全线涨价，种类繁多，冬季新 iPad 怎么选？](https://sspai.com/post/76423) | Thu Oct 27 2022 3:30 AM 
+- 👹 [全线涨价、种类繁多：冬季新 iPad 怎么选？](https://sspai.com/post/76423) | Thu Oct 27 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     只希望你在看完这篇文章之后，能够帮助你做出产品选择的同时，也能帮你找到当决定要买 iPad 的初心。&lt;a href=&quot;https://sspai.com/post/76423&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
