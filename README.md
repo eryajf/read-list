@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [202208 Facebook 的缓存系统实践经验《Scaling Memcache at Facebook》](https://juejin.cn/entry/7159481303430070308) | Fri Oct 28 2022 8:44 AM 
+- 🤗 [Chrome DevTools 的 Network 还能这么用？](https://juejin.cn/post/7159519090229887013) | Fri Oct 28 2022 11:12 AM 
     <details><summary>展开描述 ...</summary> 
-    说明 2013年4月3日，Facebook 发布了一篇名为《Scaling Memcache at Facebook》的论文，介绍了 Facebook 的缓存系统设计经验，这里是对论文内容的提炼和总结 
+    如果选出 Chrome DevTools 里最常用的功能，那 Network 肯定是其中之一。 作为前端工程师，我们看到一个网页会习惯性的打开 Chrome DevTools 看下网络请求。 不过虽然 
     </details> 
 
-- 🎡 [BH1750 传感器实战教学 —— 硬件设计篇](https://juejin.cn/post/7159480605149757470) | Fri Oct 28 2022 8:42 AM 
+- 🎡 [重构 改善既有代码的设计](https://juejin.cn/post/7159511400736538660) | Fri Oct 28 2022 10:41 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第28天，点击查看活动详情 前言 前面刚写了一篇 《BH1750 光照传感器文档详解 及 驱动设计》，今天来写一篇简单的传感器实战 
+    提炼函数（P106） 什么是提炼函数： 浏览一段代码，理解其作用，并且发现这段代码可以提取出来 将这段代码放进一个独立函数中，并让函数名称解释该函数的用途 什么时候需要提炼函数： 函数过长 难以理解， 
     </details> 
 
-- 🕯 [Sanitizers 系列之 address sanitizer 用法篇](https://juejin.cn/post/7159480521624387614) | Fri Oct 28 2022 8:41 AM 
+- 🕯 [JS手写 reduce](https://juejin.cn/post/7159490445897596942) | Fri Oct 28 2022 9:20 AM 
     <details><summary>展开描述 ...</summary> 
-    非法的内存访问是最最常见的一种内存错误，本文介绍用于检测这类错误的 Sanitizer：AddressSanitizer。 
+    个人认为 **`reduce&lpar;&rpar;`** 方法是 `Array.pototype` 上所有高阶函数中，功能最为强大 其他的高阶函数能实现的功能，它都可以做到，而它能做到，其他高阶函数不一定能够做到。 
     </details> 
 
-- 🚀 [SVG 学习笔记](https://juejin.cn/post/7159477364248805390) | Fri Oct 28 2022 8:29 AM 
+- 🚀 [[译] 垃圾回收器和Mutator之间的协作机制](https://juejin.cn/post/7159490463844548621) | Fri Oct 28 2022 9:19 AM 
     <details><summary>展开描述 ...</summary> 
-    SVG 简介 SVG（Scalable Vector Graphics）：可缩放矢量图形，是一种基于 XML 的用于描述二维矢量图形的图形格式。SVG 由 W3C 制定，是一个开放标准。SVG 严格遵 
+    这篇文章位于AOSP项目的art/runtime/目录，名为mutator_gc_coord.md。它从设计者的视角给出了ART虚拟机中很多重要机制之所以这么设计的原因，是一篇非常宝贵的学习资料。 
     </details> 
 
-- 💪 [幂等性问题以及解决方案](https://juejin.cn/post/7159476676932403208) | Fri Oct 28 2022 8:28 AM 
+- 💪 [Luminar Neo 教程，如何在 Luminar Neo 中使用氛围工具？](https://juejin.cn/post/7159487883533877284) | Fri Oct 28 2022 9:10 AM 
     <details><summary>展开描述 ...</summary> 
-    概述 如今很多的服务都会基于分布式或微服务思想完成对系统的架构设计。那么在一个系统就会存在若干个微服务，而且服务间也会产生通信从而相互调用。那么既然产生了服务调用，就会存在服务调用延迟或失败的问题。 
+    欢迎观看 Luminar Neo 中文版教程，小编带大家学习 Luminar Neo 的基本工具和使用技巧，了解如何在 Luminar Neo 中使用氛围工具。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
