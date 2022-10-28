@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [浅谈 @Autowired 和 @Resource 的区别](https://juejin.cn/post/7159552805479383054) | Fri Oct 28 2022 1:22 PM 
+- 🤗 [CSS 常用选择器小记](https://juejin.cn/post/7159593815995580453) | Fri Oct 28 2022 4:02 PM 
+    <details><summary>展开描述 ...</summary> 
+    CSS 选择器是基础，只有通过选择器找到元素，才能针对其设置样式进行美化。 CSS 的选择器非常多，大致可以分为： 通用选择/元素选择器、类选择器 等等。 
+    </details> 
+
+- 🎡 [让UI忙碌的安卓Lottie动画渲染库（一）](https://juejin.cn/post/7159587278463959070) | Fri Oct 28 2022 3:36 PM 
+    <details><summary>展开描述 ...</summary> 
+    今天工作时突然在项目xml布局看到了一个完全不认识的控件，发现是个好用的动画库Lottie，因为其特性而感兴趣，特地来分享，希望能有所收获！ 
+    </details> 
+
+- 🕯 [数据结构中数据的存储结构](https://juejin.cn/post/7159585564969304078) | Fri Oct 28 2022 3:28 PM 
+    <details><summary>展开描述 ...</summary> 
+    数据的存储结构应正确地反映数据元素之间的逻辑关系，也就是说在设计某种逻辑结构对应的存储结构时需要在计算机内存中存储两个方面的信息，即存储逻辑结构中的所有数据元素和存储数据元素之间的逻辑关系，所以将数据 
+    </details> 
+
+- 🚀 [浅谈 @Autowired 和 @Resource 的区别](https://juejin.cn/post/7159552805479383054) | Fri Oct 28 2022 1:22 PM 
     <details><summary>展开描述 ...</summary> 
     写过Spring框架的同学应该都知道，Spring当中使用字段注入的时候既可以用 @Autowired 又可以用 @Resource，但是当我使用 @Autowired，idea会发出弱警告。 
     </details> 
 
-- 🎡 [Nacos注册中心1-nacos源码环境搭建](https://juejin.cn/post/7159549811484524581) | Fri Oct 28 2022 1:12 PM 
+- 💪 [Nacos注册中心1-nacos源码环境搭建](https://juejin.cn/post/7159549811484524581) | Fri Oct 28 2022 1:12 PM 
     <details><summary>展开描述 ...</summary> 
     nacos源码环境搭建，与SpringCloud alibaba的版本选择，nacos-server启动 
-    </details> 
-
-- 🕯 [【vue进阶之旅】如何自定义组件v-model，封装属于自己的组件库？](https://juejin.cn/post/7159546514010963998) | Fri Oct 28 2022 12:59 PM 
-    <details><summary>展开描述 ...</summary> 
-    1.如何自定义组件v-modev? 大家好，我叫东东吖。如何自定义组件v-model，封装属于自己的组件库？很多人并不知道如何自定义封装一个组件，今天我将给大家演示如何封装一个组件。 
-    </details> 
-
-- 🚀 [Chrome DevTools 的 Network 还能这么用？](https://juejin.cn/post/7159519090229887013) | Fri Oct 28 2022 11:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    如果选出 Chrome DevTools 里最常用的功能，那 Network 肯定是其中之一。 作为前端工程师，我们看到一个网页会习惯性的打开 Chrome DevTools 看下网络请求。 不过虽然 
-    </details> 
-
-- 💪 [微信小程序发布流程简析](https://juejin.cn/post/7159518716441886756) | Fri Oct 28 2022 11:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    微信提供的开发者工具是可以预览、上传项目的，不过当我们实际进行项目开发的时候会发现这种预览、发布方式不是那么的科学。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
