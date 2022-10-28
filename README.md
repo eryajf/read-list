@@ -366,9 +366,9 @@
 <!-- v2ex:START -->
 - 🥸 [求个 mt/ttg 的💊](https://www.v2ex.com/t/890868#reply2) | Fri Oct 28 2022 6:00 PM
 - 🤗 [请教一下 control plane 节点高可用的一些细节问题](https://www.v2ex.com/t/890865#reply2) | Fri Oct 28 2022 4:12 PM
-- 🎭 [Deno 反向代理解决前端跨域问题以及将 http 转为 https](https://www.v2ex.com/t/890862#reply3) | Fri Oct 28 2022 3:44 PM
+- 🎭 [Deno 反向代理解决前端跨域问题以及将 http 转为 https](https://www.v2ex.com/t/890862#reply4) | Fri Oct 28 2022 3:44 PM
 - 🥷 [苏金国、王宇飞翻译的 learning PHP design patterns 真是烂到家了，这两个人是吃翔长大的么？](https://www.v2ex.com/t/890851#reply2) | Fri Oct 28 2022 2:31 PM
-- 🐵 [有办法基于已有的 Lineage OS 机型上做修改，自己编译一个安卓固件吗？](https://www.v2ex.com/t/890835#reply2) | Fri Oct 28 2022 1:39 PM<!-- v2ex:END -->
+- 🐵 [有办法基于已有的 Lineage OS 机型上做修改，自己编译一个安卓固件吗？](https://www.v2ex.com/t/890835#reply3) | Fri Oct 28 2022 1:39 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
