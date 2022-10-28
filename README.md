@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [如何在 pipeline 中获取到 pull request 的链接？](https://www.v2ex.com/t/890683#reply0) | Fri Oct 28 2022 6:00 AM
-- 🤗 [红米 Note 11T Pro 反向升级到 Note 12 Pro 了吗？](https://www.v2ex.com/t/890681#reply7) | Fri Oct 28 2022 5:53 AM
-- 🎭 [为什么 protobuf 编译器要分成多个仓库/实现?](https://www.v2ex.com/t/890680#reply1) | Fri Oct 28 2022 5:52 AM
-- 🥷 [有没有 project-reactor 的交流群？](https://www.v2ex.com/t/890668#reply0) | Fri Oct 28 2022 4:56 AM
-- 🐵 [rust 里 unwrap 用起来真方便,但如果不用 unwrap](https://www.v2ex.com/t/890637#reply20) | Fri Oct 28 2022 3:28 AM<!-- v2ex:END -->
+- 🥸 [刚发现 JetBrains 各大 IDE 的 EAP 版本都提供了 Windows 的 ARM64 版安装包，这意味着 ARM 越来越受重视？](https://www.v2ex.com/t/890716#reply2) | Fri Oct 28 2022 6:58 AM
+- 🤗 [作为一个程序员，为了自律，如何在一定时限内禁掉自己的网络？](https://www.v2ex.com/t/890699#reply7) | Fri Oct 28 2022 6:36 AM
+- 🎭 [如何在 pipeline 中获取到 pull request 的链接？](https://www.v2ex.com/t/890683#reply0) | Fri Oct 28 2022 6:00 AM
+- 🥷 [红米 Note 11T Pro 反向升级到 Note 12 Pro 了吗？](https://www.v2ex.com/t/890681#reply7) | Fri Oct 28 2022 5:53 AM
+- 🐵 [为什么 protobuf 编译器要分成多个仓库/实现?](https://www.v2ex.com/t/890680#reply1) | Fri Oct 28 2022 5:52 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
