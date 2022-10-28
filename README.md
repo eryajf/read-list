@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一种接入第三方数据的中间服务设计方案🕶️](https://juejin.cn/post/7159431479288659975) | Fri Oct 28 2022 5:31 AM 
+- 🤗 [关于校园黑客马拉松，你关心的问题都在这里！](https://juejin.cn/post/7159445789100474404) | Fri Oct 28 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第31天，点击查看活动详情 前言 在我们工作中，经常会遇到这样的场景，与第三方系统对接，并同步数据。每次遇到这种系统，我的表情可不 
+    时间紧？任务难？别慌，比赛时间延长一周！我们的题目，是不会有 100 分的开放题目。觉得难？也不用太担心，其实你要做的，只是比别人好上一点点。 
     </details> 
 
-- 🎡 [new_video_stream添加视频输出流](https://juejin.cn/post/7159423852345294861) | Fri Oct 28 2022 5:01 AM 
+- 🎡 [深入理解函数式编程（上）](https://juejin.cn/post/7159445281203814414) | Fri Oct 28 2022 6:24 AM 
     <details><summary>展开描述 ...</summary> 
-    new_video_stream&lpar;&rpar; 函数的流程相对来说比较简单，主要的逻辑如下： 1，调 new_output_stream&lpar;&rpar; 函数来创建 OutputStream 输出流 
+    函数式编程是一种历史悠久的编程范式。作为演算法，它的历史可以追溯到现代计算机诞生之前的λ演算，本文希望带大家快速了解函数式编程的历史、基础技术、重要特性和实践法则。 
     </details> 
 
-- 🕯 [OutputStream数据结构分析](https://juejin.cn/post/7159423548958703653) | Fri Oct 28 2022 5:00 AM 
+- 🕯 [深入理解函数式编程（下）](https://juejin.cn/post/7159444835873587231) | Fri Oct 28 2022 6:22 AM 
     <details><summary>展开描述 ...</summary> 
-    struct OutputStream 是单个输出流的管理器。是由 new_video_stream&lpar;&rpar; 或者 new_audio_stream&lpar;&rpar; 函数申请内存，以及赋值 OutputStream 
+    函数式编程是一种历史悠久的编程范式。作为演算法，它的历史可以追溯到现代计算机诞生之前的λ演算，本文希望带大家快速了解函数式编程的历史、基础技术、重要特性和实践法则。 
     </details> 
 
-- 🚀 [open_output_file打开输出文件](https://juejin.cn/post/7159423339063148575) | Fri Oct 28 2022 4:59 AM 
+- 🚀 [python使用pyinstaller把程序进行打包](https://juejin.cn/post/7159439978639360037) | Fri Oct 28 2022 6:04 AM 
     <details><summary>展开描述 ...</summary> 
-    open_output_file&lpar;&rpar; 打开输出文件的流程，跟 open_input_file&lpar;&rpar; 打开输入文件的流程是非常类似的。都是创建一个文件管理器 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，点击查看活动详情 1 pyinstaller的安装与简单使用 1.1 pyinstaller的安装 1、安装方法一：使用p 
     </details> 
 
-- 💪 [OutputFile数据结构分析](https://juejin.cn/post/7159422966650896415) | Fri Oct 28 2022 4:58 AM 
+- 💪 [驱动开发：挂接SSDT内核钩子](https://juejin.cn/post/7159430497901215752) | Fri Oct 28 2022 5:27 AM 
     <details><summary>展开描述 ...</summary> 
-    struct OutputFile 是单个输出文件的管理器。之前在 parse_optgroup&lpar;&rpar; 处理好的 OptionsContext o 变量，有一部分字段会赋值给 OutputFile 管理 
+    SSDT 中文名称为系统服务描述符表，该表的作用是将Ring3应用层与Ring0内核层，两者的API函数连接起来，起到承上启下的作用，SSDT并不仅仅只包含一个庞大的地址索引表，它还包含着一些其它有用 
     </details> 
 <!-- juejin:END -->
 ### 少数派
