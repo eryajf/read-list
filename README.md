@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [自己动手实现 Android 自动化：用 Auto.js 自动复制短信验证码](https://sspai.com/post/76377) | Fri Oct 28 2022 3:30 AM 
+- 👹 [咖啡地图 | 美洲产地里的牙买加蓝山与夏威夷科纳](https://sspai.com/post/76465) | Fri Oct 28 2022 6:41 AM 
+    <details><summary>展开描述 ...</summary> 
+    美洲产地，可以说是十分丰富，知名的产地比如巴西、哥伦比亚、巴拿马已经着重介绍过了。其他产地有的过于冷门，有的体量不算大。因此我会将它们合并起来，系统的介绍各个产地的情况。核心目的还是想要告诉大家买豆子 ...&lt;a href=&quot;https://sspai.com/post/76465&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [自己动手实现 Android 自动化：用 Auto.js 自动复制短信验证码](https://sspai.com/post/76377) | Fri Oct 28 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     即便是自动化，我也希望能通过代码来完成，而 Auto.js 就是这么一款功能丰富、且允许我们编写代码来实现自动化的 Android 应用。本文介绍如何用 Auto.js 自动复制短信验证码。&lt;a href=&quot;https://sspai.com/post/76377&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：Apple 推出新版网页版 iCloud、Spotify 称其将于 2023 年涨价等](https://sspai.com/post/76463) | Fri Oct 28 2022 1:00 AM 
+- 🤭 [派早报：Apple 推出新版网页版 iCloud、Spotify 称其将于 2023 年涨价等](https://sspai.com/post/76463) | Fri Oct 28 2022 1:00 AM 
     <details><summary>展开描述 ...</summary> 
     Meta 将于明年推出新款消费级虚拟现实头显，尼康发售全新 17-28mm ƒ/2.8 变焦镜头等&lt;a href=&quot;https://sspai.com/post/76463&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [新玩意 125｜少数派的作者们最近买了啥？](https://sspai.com/post/76455) | Thu Oct 27 2022 9:30 AM 
+- 🥸 [新玩意 125｜少数派的作者们最近买了啥？](https://sspai.com/post/76455) | Thu Oct 27 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
     关于栏目为了满足读者们对于《新玩意》栏目加更的需求，机器人特地邀请了Matrix作者们也来聊聊自己近期购买的新奇产品。喜欢本栏目的话，欢迎充电或评论文章来表达自己的喜爱，你的每一次真心夸赞或建议，都是 ...&lt;a href=&quot;https://sspai.com/post/76455&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [从零开始做好个人记账，和购物节血拼后遗症说拜拜](https://sspai.com/post/76437) | Thu Oct 27 2022 8:00 AM 
+- 🙉 [从零开始做好个人记账，和购物节血拼后遗症说拜拜](https://sspai.com/post/76437) | Thu Oct 27 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     多年财会经验，带你零基础入门个人记账，实现财富管理的第一步。&lt;a href=&quot;https://sspai.com/post/76437&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [桌椅、键鼠、颈托……人体工学设备是智商税吗？](https://sspai.com/post/76452) | Thu Oct 27 2022 6:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    同事总是腰疼，跑去按摩医院按摩，趴在按摩床上，医生问她，你每天坐多久？她说，7-8个小时吧，医生问：一般连续坐多久，她说3-4个小时，医生和我同时发出惊呼：「啊？」她说：「嗯，开会。」大部分长期坐在电 ...&lt;a href=&quot;https://sspai.com/post/76452&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
