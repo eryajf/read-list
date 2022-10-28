@@ -208,29 +208,29 @@
 ### 美团技术团队
 
 <!-- meituan:START -->
-- 🕯 [数字化新业态下数据安全创新——Token化](https://tech.meituan.com/2022/09/22/token-pii.html) | Thu Sep 22 2022 12:00 AM 
+- 🕯 [深入理解函数式编程（上）](https://tech.meituan.com/2022/10/13/dive-into-functional-programming-01.html) | Thu Oct 13 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    函数式编程是一种历史悠久的编程范式。作为演算法，它的历史可以追溯到现代计算机诞生之前的λ演算，本文希望带大家快速了解函数式编程的历史、基础技术、重要特性和实践法则。在内容层面，主要使用JavaScript语言来描述函数式编程的特性，并以演算规则、语言特性、范式特性、副作用处理等方面作为切入点，通过大量演示示例来讲解这种编程范式。同时，文末列举比较一些此范式的优缺点，供读者参考。因为文章涵盖一些范畴论知识，可能需要其他参考资料一起辅助阅读。 
+    </details> 
+
+- 🤠 [深入理解函数式编程（下）](https://tech.meituan.com/2022/10/13/dive-into-functional-programming-02.html) | Thu Oct 13 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    函数式编程是一种历史悠久的编程范式。作为演算法，它的历史可以追溯到现代计算机诞生之前的λ演算，本文希望带大家快速了解函数式编程的历史、基础技术、重要特性和实践法则。在内容层面，主要使用JavaScript语言来描述函数式编程的特性，并以演算规则、语言特性、范式特性、副作用处理等方面作为切入点，通过大量演示示例来讲解这种编程范式。同时，文末列举比较一些此范式的优缺点，供读者参考。因为文章涵盖一些范畴论知识，可能需要其他参考资料一起辅助阅读。 
+    </details> 
+
+- 🤠 [数字化新业态下数据安全创新——Token化](https://tech.meituan.com/2022/09/22/token-pii.html) | Thu Sep 22 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     数据安全最大的挑战是高速扩张前提下，解决数据暴露性问题。Token化让安全成为数据默认属性，让安全性随数据自动扩展，从根本上解决效率和安全合规的矛盾，实现设计安全和默认安全。本文主要介绍了Token化方案、Token化安全性实现以及美团所做的一些工程实践和经验分享。 
     </details> 
 
-- 🤠 [通用目标检测开源框架YOLOv6在美团的量化部署实战](https://tech.meituan.com/2022/09/22/yolov6-quantization-in-meituan.html) | Thu Sep 22 2022 12:00 AM 
+- 🚀 [通用目标检测开源框架YOLOv6在美团的量化部署实战](https://tech.meituan.com/2022/09/22/yolov6-quantization-in-meituan.html) | Thu Sep 22 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     基于美团目标检测模型开源框架 YOLOv6，本文提供了一种通用的量化部署方案，在保持精度的同时大幅提升了检测的速度，为通用检测的工业化部署探索出一条可行之路，希望能给大家带来一些启发或者帮助。 
     </details> 
 
-- 🤠 [目标检测开源框架YOLOv6全面升级，更快更准的2.0版本来啦](https://tech.meituan.com/2022/09/15/yolov6-2.0.html) | Thu Sep 15 2022 12:00 AM 
+- ⚗️ [目标检测开源框架YOLOv6全面升级，更快更准的2.0版本来啦](https://tech.meituan.com/2022/09/15/yolov6-2.0.html) | Thu Sep 15 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     近日，美团视觉智能部发布了YOLOv6 2.0版本，本次更新对轻量级网络进行了全面升级，量化版模型 YOLOv6-S 达到了 869 FPS，同时，还推出了综合性能优异的中大型网络（YOLOv6-M/L），丰富了 YOLOv6 网络系列。 
-    </details> 
-
-- 🚀 [美团隐私计算平台通过行业权威认证](https://tech.meituan.com/2022/09/15/meituan-privacy-preserving-computation.html) | Thu Sep 15 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    近日，在2022年隐私计算大会上，中国信通院公布第六批可信隐私计算评测结果，美团隐私计算平台通过“联邦学习安全”和“多方安全计算基础能力”两个专项评测认证。2021年，美团已经通过“联邦学习基础能力”专项评测认证。 
-    </details> 
-
-- ⚗️ [自动化测试在美团外卖的实践与落地](https://tech.meituan.com/2022/09/15/automated-testing-in-meituan.html) | Thu Sep 15 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    随着美团到家业务的发展，系统复杂度也在持续增长。测试用例数量近两年增长约一倍，单端数量超过1万2千条，而研发人员的工作从大部分时间在开发，转变成一半时间在开发、一半时间在模拟环境和自测。因此，引入自动化测试就显得十分有必要，本文介绍了美团外卖在自动化测试方向做的一些探索和实践，希望对从事相关领域工作的同学能够带来一些启发或帮助。 
     </details> 
 <!-- meituan:END -->
 
