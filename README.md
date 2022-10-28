@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Nacos注册中心1-nacos源码环境搭建](https://juejin.cn/post/7159549811484524581) | Fri Oct 28 2022 1:12 PM 
+- 🤗 [浅谈 @Autowired 和 @Resource 的区别](https://juejin.cn/post/7159552805479383054) | Fri Oct 28 2022 1:22 PM 
+    <details><summary>展开描述 ...</summary> 
+    写过Spring框架的同学应该都知道，Spring当中使用字段注入的时候既可以用 @Autowired 又可以用 @Resource，但是当我使用 @Autowired，idea会发出弱警告。 
+    </details> 
+
+- 🎡 [Nacos注册中心1-nacos源码环境搭建](https://juejin.cn/post/7159549811484524581) | Fri Oct 28 2022 1:12 PM 
     <details><summary>展开描述 ...</summary> 
     nacos源码环境搭建，与SpringCloud alibaba的版本选择，nacos-server启动 
     </details> 
 
-- 🎡 [【vue进阶之旅】如何自定义组件v-model，封装属于自己的组件库？](https://juejin.cn/post/7159546514010963998) | Fri Oct 28 2022 12:59 PM 
+- 🕯 [【vue进阶之旅】如何自定义组件v-model，封装属于自己的组件库？](https://juejin.cn/post/7159546514010963998) | Fri Oct 28 2022 12:59 PM 
     <details><summary>展开描述 ...</summary> 
     1.如何自定义组件v-modev? 大家好，我叫东东吖。如何自定义组件v-model，封装属于自己的组件库？很多人并不知道如何自定义封装一个组件，今天我将给大家演示如何封装一个组件。 
     </details> 
 
-- 🕯 [Chrome DevTools 的 Network 还能这么用？](https://juejin.cn/post/7159519090229887013) | Fri Oct 28 2022 11:12 AM 
+- 🚀 [Chrome DevTools 的 Network 还能这么用？](https://juejin.cn/post/7159519090229887013) | Fri Oct 28 2022 11:12 AM 
     <details><summary>展开描述 ...</summary> 
     如果选出 Chrome DevTools 里最常用的功能，那 Network 肯定是其中之一。 作为前端工程师，我们看到一个网页会习惯性的打开 Chrome DevTools 看下网络请求。 不过虽然 
     </details> 
 
-- 🚀 [微信小程序发布流程简析](https://juejin.cn/post/7159518716441886756) | Fri Oct 28 2022 11:11 AM 
+- 💪 [微信小程序发布流程简析](https://juejin.cn/post/7159518716441886756) | Fri Oct 28 2022 11:11 AM 
     <details><summary>展开描述 ...</summary> 
     微信提供的开发者工具是可以预览、上传项目的，不过当我们实际进行项目开发的时候会发现这种预览、发布方式不是那么的科学。 
-    </details> 
-
-- 💪 [重构 改善既有代码的设计](https://juejin.cn/post/7159511400736538660) | Fri Oct 28 2022 10:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    提炼函数（P106） 什么是提炼函数： 浏览一段代码，理解其作用，并且发现这段代码可以提取出来 将这段代码放进一个独立函数中，并让函数名称解释该函数的用途 什么时候需要提炼函数： 函数过长 难以理解， 
     </details> 
 <!-- juejin:END -->
 ### 少数派
