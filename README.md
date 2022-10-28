@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [CSS 常用选择器小记](https://juejin.cn/post/7159593815995580453) | Fri Oct 28 2022 4:02 PM 
+- 🤗 [CentOS防火墙查看关闭和禁止启动](https://juejin.cn/post/7159690343863025677) | Fri Oct 28 2022 10:33 PM 
+    <details><summary>展开描述 ...</summary> 
+    #查看防火墙状态 firewall-cmd --state systemctl status fi... 
+    </details> 
+
+- 🎡 [CSS 常用选择器小记](https://juejin.cn/post/7159593815995580453) | Fri Oct 28 2022 4:02 PM 
     <details><summary>展开描述 ...</summary> 
     CSS 选择器是基础，只有通过选择器找到元素，才能针对其设置样式进行美化。 CSS 的选择器非常多，大致可以分为： 通用选择/元素选择器、类选择器 等等。 
     </details> 
 
-- 🎡 [让UI忙碌的安卓Lottie动画渲染库（一）](https://juejin.cn/post/7159587278463959070) | Fri Oct 28 2022 3:36 PM 
+- 🕯 [让UI忙碌的安卓Lottie动画渲染库（一）](https://juejin.cn/post/7159587278463959070) | Fri Oct 28 2022 3:36 PM 
     <details><summary>展开描述 ...</summary> 
     今天工作时突然在项目xml布局看到了一个完全不认识的控件，发现是个好用的动画库Lottie，因为其特性而感兴趣，特地来分享，希望能有所收获！ 
     </details> 
 
-- 🕯 [数据结构中数据的存储结构](https://juejin.cn/post/7159585564969304078) | Fri Oct 28 2022 3:28 PM 
+- 🚀 [数据结构中数据的存储结构](https://juejin.cn/post/7159585564969304078) | Fri Oct 28 2022 3:28 PM 
     <details><summary>展开描述 ...</summary> 
     数据的存储结构应正确地反映数据元素之间的逻辑关系，也就是说在设计某种逻辑结构对应的存储结构时需要在计算机内存中存储两个方面的信息，即存储逻辑结构中的所有数据元素和存储数据元素之间的逻辑关系，所以将数据 
     </details> 
 
-- 🚀 [浅谈 @Autowired 和 @Resource 的区别](https://juejin.cn/post/7159552805479383054) | Fri Oct 28 2022 1:22 PM 
+- 💪 [浅谈 @Autowired 和 @Resource 的区别](https://juejin.cn/post/7159552805479383054) | Fri Oct 28 2022 1:22 PM 
     <details><summary>展开描述 ...</summary> 
     写过Spring框架的同学应该都知道，Spring当中使用字段注入的时候既可以用 @Autowired 又可以用 @Resource，但是当我使用 @Autowired，idea会发出弱警告。 
-    </details> 
-
-- 💪 [Nacos注册中心1-nacos源码环境搭建](https://juejin.cn/post/7159549811484524581) | Fri Oct 28 2022 1:12 PM 
-    <details><summary>展开描述 ...</summary> 
-    nacos源码环境搭建，与SpringCloud alibaba的版本选择，nacos-server启动 
     </details> 
 <!-- juejin:END -->
 ### 少数派
