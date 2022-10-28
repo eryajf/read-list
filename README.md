@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [los 屏幕关闭，收不到短信](https://www.v2ex.com/t/890808#reply1) | Fri Oct 28 2022 11:02 AM
-- 🤗 [请教一个 nginx http 转 http 问题](https://www.v2ex.com/t/890806#reply0) | Fri Oct 28 2022 11:00 AM
-- 🎭 [android10 开机启动优化问题?](https://www.v2ex.com/t/890789#reply0) | Fri Oct 28 2022 10:11 AM
-- 🥷 [原来 isset&lpar;$_POST&rpar; 永远是真值，!empty&lpar;$_POST&rpar;才可以判断，坑人啊](https://www.v2ex.com/t/890759#reply17) | Fri Oct 28 2022 8:44 AM
-- 🐵 [请问下,这种效果前端是怎么做的?前端商品衣服标签标注.....](https://www.v2ex.com/t/890750#reply10) | Fri Oct 28 2022 8:23 AM<!-- v2ex:END -->
+- 🥸 [有办法基于已有的 Lineage OS 机型上做修改，自己编译一个安卓固件吗？](https://www.v2ex.com/t/890835#reply0) | Fri Oct 28 2022 1:39 PM
+- 🤗 [调查一下，各位程序员如何判断一件事是否值得一试？](https://www.v2ex.com/t/890830#reply0) | Fri Oct 28 2022 1:15 PM
+- 🎭 [los 屏幕关闭，收不到短信](https://www.v2ex.com/t/890808#reply1) | Fri Oct 28 2022 11:02 AM
+- 🥷 [请教一个 nginx http 转 http 问题](https://www.v2ex.com/t/890806#reply0) | Fri Oct 28 2022 11:00 AM
+- 🐵 [android10 开机启动优化问题?](https://www.v2ex.com/t/890789#reply0) | Fri Oct 28 2022 10:11 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
