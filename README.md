@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Vue中的混入mixin使用方法介绍](https://juejin.cn/post/7159428344226791461) | Fri Oct 28 2022 5:20 AM 
+- 🤗 [一种接入第三方数据的中间服务设计方案🕶️](https://juejin.cn/post/7159431479288659975) | Fri Oct 28 2022 5:31 AM 
     <details><summary>展开描述 ...</summary> 
-    数据对象进行合并，其中的基本数据类型在和组件的数据发生冲突时以组件数据优先，组件中的数据会覆盖混入对象的数据。数据对象中如果有引用数据类型，引用数据类型会进行深参差的递归合并。生命周期钩子函数混合为一 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第31天，点击查看活动详情 前言 在我们工作中，经常会遇到这样的场景，与第三方系统对接，并同步数据。每次遇到这种系统，我的表情可不 
     </details> 
 
-- 🎡 [3 📖 《JavaScript高级程序设计》__ 语言基础（下）](https://juejin.cn/post/7159405350305824805) | Fri Oct 28 2022 3:49 AM 
+- 🎡 [new_video_stream添加视频输出流](https://juejin.cn/post/7159423852345294861) | Fri Oct 28 2022 5:01 AM 
     <details><summary>展开描述 ...</summary> 
-    工作这么多年，到现在为止对这本书都没有一个系统的知识点记录，这次想从头再读一遍这一本JavaScript高级程序设计【第4版】，并把重要的知识点与自己的见解记录下来，分享给大家，关注专栏吧~ 
+    new_video_stream&lpar;&rpar; 函数的流程相对来说比较简单，主要的逻辑如下： 1，调 new_output_stream&lpar;&rpar; 函数来创建 OutputStream 输出流 
     </details> 
 
-- 🕯 [MVVM下的Jetpack核心组件](https://juejin.cn/post/7159404464313466894) | Fri Oct 28 2022 3:46 AM 
+- 🕯 [OutputStream数据结构分析](https://juejin.cn/post/7159423548958703653) | Fri Oct 28 2022 5:00 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 前言 Jetpack 架构组件及 “标准化开发模式” 确立，意味着Android 开发已步入成熟阶段，只有对 MVVM 确有深入理解，才能自然而然写出标准化、规范化代码。 
+    struct OutputStream 是单个输出流的管理器。是由 new_video_stream&lpar;&rpar; 或者 new_audio_stream&lpar;&rpar; 函数申请内存，以及赋值 OutputStream 
     </details> 
 
-- 🚀 [PET-AI讲解 | 脑部专用PET](https://juejin.cn/post/7159403439728885796) | Fri Oct 28 2022 3:42 AM 
+- 🚀 [open_output_file打开输出文件](https://juejin.cn/post/7159423339063148575) | Fri Oct 28 2022 4:59 AM 
     <details><summary>展开描述 ...</summary> 
-    相关论文： Joint Correction of Attenuation and Scatter in Image Space Using Deep Convolutional Neural Net 
+    open_output_file&lpar;&rpar; 打开输出文件的流程，跟 open_input_file&lpar;&rpar; 打开输入文件的流程是非常类似的。都是创建一个文件管理器 
     </details> 
 
-- 💪 [小程序生态为何能成为超级应用们的最优选择](https://juejin.cn/post/7159402446853406734) | Fri Oct 28 2022 3:39 AM 
+- 💪 [OutputFile数据结构分析](https://juejin.cn/post/7159422966650896415) | Fri Oct 28 2022 4:58 AM 
     <details><summary>展开描述 ...</summary> 
-    反观中国互联网发展的进程，在创业大潮的助推下，中国互联网企业呈现“野蛮生长”的状态。人口增长及网民增长的双重红利加持下，市场份额被迅速的瓜分，各行各业出现的独角兽企业，同时，超级平台（如微信、支付宝） 
+    struct OutputFile 是单个输出文件的管理器。之前在 parse_optgroup&lpar;&rpar; 处理好的 OptionsContext o 变量，有一部分字段会赋值给 OutputFile 管理 
     </details> 
 <!-- juejin:END -->
 ### 少数派
