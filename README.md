@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [抖音支付前端自动化监控](https://juejin.cn/post/7159401750531670052) | Fri Oct 28 2022 3:35 AM 
+- 🤗 [Vue中的混入mixin使用方法介绍](https://juejin.cn/post/7159428344226791461) | Fri Oct 28 2022 5:20 AM 
     <details><summary>展开描述 ...</summary> 
-    传统监控方式建设成本高，场景监控不全，告警噪音大。本文介绍的自动化监控集 AI 预测、业务流程监控、实时报警等功能为一体，提供实时、可靠、全面的自动化监控方案，彻底解放投入监控建设的人力成本。 
+    数据对象进行合并，其中的基本数据类型在和组件的数据发生冲突时以组件数据优先，组件中的数据会覆盖混入对象的数据。数据对象中如果有引用数据类型，引用数据类型会进行深参差的递归合并。生命周期钩子函数混合为一 
     </details> 
 
-- 🎡 [uniapp查看强制更新的效果](https://juejin.cn/post/7159390024851521573) | Fri Oct 28 2022 2:51 AM 
+- 🎡 [3 📖 《JavaScript高级程序设计》__ 语言基础（下）](https://juejin.cn/post/7159405350305824805) | Fri Oct 28 2022 3:49 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 uniapp微信小程序强制更新 上次写到，复制这段代码，就可以发布时提示别人强制更新，那我们如何知道是否起了作用呢。 1. 编译模式修改 选择添加编译模式，勾选上下次编译时模拟更新，然后就有了捏 
+    工作这么多年，到现在为止对这本书都没有一个系统的知识点记录，这次想从头再读一遍这一本JavaScript高级程序设计【第4版】，并把重要的知识点与自己的见解记录下来，分享给大家，关注专栏吧~ 
     </details> 
 
-- 🕯 [leetcode  835. Image Overlap（python）](https://juejin.cn/post/7159362779361574948) | Fri Oct 28 2022 1:05 AM 
+- 🕯 [MVVM下的Jetpack核心组件](https://juejin.cn/post/7159404464313466894) | Fri Oct 28 2022 3:46 AM 
     <details><summary>展开描述 ...</summary> 
-    leetcode 835. Image Overlap（python）使用 hash 和计数器来解题 
+    我正在参加「掘金·启航计划」 前言 Jetpack 架构组件及 “标准化开发模式” 确立，意味着Android 开发已步入成熟阶段，只有对 MVVM 确有深入理解，才能自然而然写出标准化、规范化代码。 
     </details> 
 
-- 🚀 [知道它你就可以去找内存要空间了——C语言动态内存管理（malloc大家族，柔性数组）](https://juejin.cn/post/7159210789327831076) | Thu Oct 27 2022 3:16 PM 
+- 🚀 [PET-AI讲解 | 脑部专用PET](https://juejin.cn/post/7159403439728885796) | Fri Oct 28 2022 3:42 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好！在实现动态通讯录的时候，我用到了malloc 和realloc动态申请内存，现在我们就来好好聊一聊动态内存管理。 
+    相关论文： Joint Correction of Attenuation and Scatter in Image Space Using Deep Convolutional Neural Net 
     </details> 
 
-- 💪 [「代码实操」 从根儿上理解浏览器缓存](https://juejin.cn/post/7159119728345088007) | Thu Oct 27 2022 9:21 AM 
+- 💪 [小程序生态为何能成为超级应用们的最优选择](https://juejin.cn/post/7159402446853406734) | Fri Oct 28 2022 3:39 AM 
     <details><summary>展开描述 ...</summary> 
-    缓存是优化手段中不可或缺的一部分，面试时也经常问到，它可以加快页面的响应速度、减轻服务器的压力。很多人对这方面的了解都是看过相关文章，但是没有实际操作过，今天我带大家手把手走一遍这个流程。 
+    反观中国互联网发展的进程，在创业大潮的助推下，中国互联网企业呈现“野蛮生长”的状态。人口增长及网民增长的双重红利加持下，市场份额被迅速的瓜分，各行各业出现的独角兽企业，同时，超级平台（如微信、支付宝） 
     </details> 
 <!-- juejin:END -->
 ### 少数派
