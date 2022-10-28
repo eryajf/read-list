@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [SVG 学习笔记](https://juejin.cn/post/7159477364248805390) | Fri Oct 28 2022 8:29 AM 
+- 🤗 [202208 Facebook 的缓存系统实践经验《Scaling Memcache at Facebook》](https://juejin.cn/entry/7159481303430070308) | Fri Oct 28 2022 8:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    说明 2013年4月3日，Facebook 发布了一篇名为《Scaling Memcache at Facebook》的论文，介绍了 Facebook 的缓存系统设计经验，这里是对论文内容的提炼和总结 
+    </details> 
+
+- 🎡 [BH1750 传感器实战教学 —— 硬件设计篇](https://juejin.cn/post/7159480605149757470) | Fri Oct 28 2022 8:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第28天，点击查看活动详情 前言 前面刚写了一篇 《BH1750 光照传感器文档详解 及 驱动设计》，今天来写一篇简单的传感器实战 
+    </details> 
+
+- 🕯 [Sanitizers 系列之 address sanitizer 用法篇](https://juejin.cn/post/7159480521624387614) | Fri Oct 28 2022 8:41 AM 
+    <details><summary>展开描述 ...</summary> 
+    非法的内存访问是最最常见的一种内存错误，本文介绍用于检测这类错误的 Sanitizer：AddressSanitizer。 
+    </details> 
+
+- 🚀 [SVG 学习笔记](https://juejin.cn/post/7159477364248805390) | Fri Oct 28 2022 8:29 AM 
     <details><summary>展开描述 ...</summary> 
     SVG 简介 SVG（Scalable Vector Graphics）：可缩放矢量图形，是一种基于 XML 的用于描述二维矢量图形的图形格式。SVG 由 W3C 制定，是一个开放标准。SVG 严格遵 
     </details> 
 
-- 🎡 [北京租房的 请避坑](https://juejin.cn/post/7159475467987189767) | Fri Oct 28 2022 8:22 AM 
+- 💪 [幂等性问题以及解决方案](https://juejin.cn/post/7159476676932403208) | Fri Oct 28 2022 8:28 AM 
     <details><summary>展开描述 ...</summary> 
-    序 心平气和的解决了问题，但是想吐槽 划重点 说的地方是 北京昌平沙河 永利家园, 一切都是我个人感觉，请客观看待 基本条件 我们是一室一厅，屋里一个床，客厅一个床 事件 刚来的时候 当时我说 客厅这 
-    </details> 
-
-- 🕯 [Aptos 来了，前端应该如何快速进入新 web3 世界](https://juejin.cn/post/7159472690779127821) | Fri Oct 28 2022 8:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 前言 在区块链行业，Aptos 生态最近真的火的不能更火了。在其主网上线之前，其生态的相关项目就已经多达 200 多个。 Aptos 是使用 Move 语言开发的公链项目 
-    </details> 
-
-- 🚀 [python多线程/进程问题：以iperf3为例与测试平台解析](https://juejin.cn/post/7159461053238083621) | Fri Oct 28 2022 7:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动，一起开启掘金创作之路。 多线程/进程问题：以iperf3为例 在给一个项目写可视化的时候，项目需要用iperf3来进行网络测试。 Github源码 ipef3分为服务器s 
-    </details> 
-
-- 💪 [前端监控系列4 ｜ SDK 体积与性能优化实践](https://juejin.cn/post/7159455028917305381) | Fri Oct 28 2022 7:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    随着业务不断迭代，功能变得越来越多，对监控的需求也会变得越来越多。本文以字节前端监控SDK为例，探讨作为三方SDK如何实现性能优化的思路与实操。 
+    概述 如今很多的服务都会基于分布式或微服务思想完成对系统的架构设计。那么在一个系统就会存在若干个微服务，而且服务间也会产生通信从而相互调用。那么既然产生了服务调用，就会存在服务调用延迟或失败的问题。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
