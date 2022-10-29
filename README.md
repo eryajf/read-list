@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [今天来讲讲 scale、translate 和 rotate 这三个属性，你不会以为我是要讲的是 transform 吧？](https://juejin.cn/post/7159873802325721118) | Sat Oct 29 2022 10:09 AM 
+- 🤗 [【分布式技术专题】「架构实践于案例分析」总结和盘点目前常用分布式技术特别及问题分析](https://juejin.cn/post/7159904055827890189) | Sat Oct 29 2022 12:05 PM 
     <details><summary>展开描述 ...</summary> 
-    总所周知，transform 是 CSS3 中最强大的属性之一，它有这么三个函数属性值：scale、translate 和 rotate，它们分别是缩放、位移和旋转，但是你有没有想过有这么一天它们三个 
+    分布式架构 互联⽹架构演进 单体应⽤架构 定义 法论，就是单体应⽤架构。 架构示意图 优缺点分析 初期： 架构简单，统一化管理真个服务和生态体系 开发、测试、部署都很⽅便 随着项⽬的发展，项⽬越来越臃 
     </details> 
 
-- 🎡 [redisson分布式限流[RRateLimiter]源码分析](https://juejin.cn/post/7159872509478141959) | Sat Oct 29 2022 10:03 AM 
+- 🎡 [数据库锁的作用以及有哪些锁](https://juejin.cn/post/7159902730872913951) | Sat Oct 29 2022 12:01 PM 
     <details><summary>展开描述 ...</summary> 
-    讲一讲平时用的比较多的限流模块-RRateLimiter，之前讲了可重入性、阻塞、续约、红锁、联锁、加锁解锁流程和集成spring boot注意点和优雅实现方式。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第28天，点击查看活动详情 数据库锁的作用以及有哪些锁？ 当数据库有并发事务的时候，可能会产生数据的不一致，这时候需要一些机制来保 
     </details> 
 
-- 🕯 [Vue中过滤器定义及使用](https://juejin.cn/post/7159871778506932261) | Sat Oct 29 2022 9:59 AM 
+- 🕯 [什么是存储过程](https://juejin.cn/post/7159901950204379144) | Sat Oct 29 2022 11:58 AM 
     <details><summary>展开描述 ...</summary> 
-    vue中过滤器的作用可被用于一些常见的文本格式化。（也就是修饰文本，但是文本内容不会改变）过滤器分全局过滤器和局部过滤器，全局过滤器在项目中使用频率很高，要掌握过滤器可以用在两个地方：双花括号插值 或 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第28天，点击查看活动详情 什么是存储过程？ 存储过程是一个预编译的SQL语句，优点是允许模块化的设计，就是说只需要创建一次，以后 
     </details> 
 
-- 🚀 [[专栏04]：完善工程环境开发第一个组件！](https://juejin.cn/post/7159868038857097246) | Sat Oct 29 2022 9:46 AM 
+- 🚀 [常见的聚合查询](https://juejin.cn/post/7159900951552196616) | Sat Oct 29 2022 11:56 AM 
     <details><summary>展开描述 ...</summary> 
-    在我们已经搭建好一个基础的工程环境后，让我们来开发一个组件试试吧，并找出当前工程的缺陷与不足，并思考如何做到更好，在后续我们来逐步将其完善。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第28天，点击查看活动详情 常见的聚合查询？ 使用聚合函数的查询就是聚合查询。所有的聚合函数（UDAF）都应该支持分组查询，内置的 
     </details> 
 
-- 💪 [「MySQL高级篇」MySQL日志、事务原理 -- undolog、redolog、binlog、两阶段提交](https://juejin.cn/post/7159853619477479461) | Sat Oct 29 2022 8:49 AM 
+- 💪 [JUC&lpar;4&rpar;:Java &quot;锁&quot;事一览](https://juejin.cn/post/7159890696169029639) | Sat Oct 29 2022 11:16 AM 
     <details><summary>展开描述 ...</summary> 
-    日志日志，在我们平时开发中主要的用途在于监控、备份，但在MySQL中，日志的功能远远不止这些，分别有用于记录的慢查询日志，回滚版本的undolog，宕机恢复的redolog、全量备份的binlog等等 
+    一、Lock 1.1 概述 Lock 是 Java.util.concurrent.locks 包下的接口，Lock 实现提供了比 synchronized 关键字更广泛 
     </details> 
 <!-- juejin:END -->
 ### 少数派
