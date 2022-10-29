@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Java安全框架——Apache Shiro（三十七）](https://juejin.cn/post/7159813076768784420) | Sat Oct 29 2022 6:11 AM 
+- 🤗 [让UI忙碌的安卓Lottie动画渲染库（二）](https://juejin.cn/post/7159824960926515214) | Sat Oct 29 2022 7:01 AM 
+    <details><summary>展开描述 ...</summary> 
+    平时总是产品提需求让我们开发去做动画效果，太费头发了，还是让我们学会使用最费UI设计师的Lottie动画开发吧！开启最速动画开发生活，轻松完成动画需求 
+    </details> 
+
+- 🎡 [Spring事务回滚的两种方法](https://juejin.cn/post/7159817954929377310) | Sat Oct 29 2022 6:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第30天，当然，Spring事务回滚的前提是你当前使用的数据库必须支持事务，比如MySQL的Innodb是支持的 
+    </details> 
+
+- 🕯 [MySQL数据库-存储引擎](https://juejin.cn/post/7159816165894651940) | Sat Oct 29 2022 6:26 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第29天点击查看活动详情 建表时指定存储引擎 查询当前数据库支持的存储引擎 show engines; 示例演示: 查询建表语句  
+    </details> 
+
+- 🚀 [Java安全框架——Apache Shiro（三十七）](https://juejin.cn/post/7159813076768784420) | Sat Oct 29 2022 6:11 AM 
     <details><summary>展开描述 ...</summary> 
     CustomDefaultFilterChainManager：主要是把原来对象的创建交于spring 
     </details> 
 
-- 🎡 [【全网最佳Slidev实践】ikun教你写web3.0的ppt](https://juejin.cn/post/7159810942660771848) | Sat Oct 29 2022 6:03 AM 
+- 💪 [【全网最佳Slidev实践】ikun教你写web3.0的ppt](https://juejin.cn/post/7159810942660771848) | Sat Oct 29 2022 6:03 AM 
     <details><summary>展开描述 ...</summary> 
     它有传统 `ppt` 所拥有的所有功能，同时它基于 `Web` 驱动，比传统 `ppt` 来说，具有无限的可能性 
-    </details> 
-
-- 🕯 [Go reflect 反射原理](https://juejin.cn/post/7159797055060672543) | Sat Oct 29 2022 5:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    在开始分析原理之前，有必要问一下自己一个问题: 反射是什么?以及其作用是什么? 不论在哪种语言中，我们所提到的反射功能，均指开发者可以在运行时通过调用反射库来获取到来获取到指定对象类型信息， 
-    </details> 
-
-- 🚀 [Web的未来是Edge， 抛弃SSR+ Serverless， 使用SSR + Edge](https://juejin.cn/post/7159794211573727269) | Sat Oct 29 2022 4:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 大家好，我是飞叶，一个前端UP主， 今天分享一篇最近看到的文章。 当然我也录了视频，不愿意看文章的，可以看视频 Web的未来是Edge 在最开始，在瑞士的一张桌子上有一台计算机，上面有一句红色文 
-    </details> 
-
-- 💪 [FFmpeg与FFplay解析命令行的区别](https://juejin.cn/post/7159792326145998885) | Sat Oct 29 2022 4:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    在前面的一章《FFplay播放器分析》，讲过 ffplay.exe 命令行参数的处理。 其实 ffmpeg.exe 跟 ffplay.exe 处理命令行参数是有相似的逻辑的。 ffmpeg.exe 跟 
     </details> 
 <!-- juejin:END -->
 ### 少数派
