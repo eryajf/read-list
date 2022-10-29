@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [面向面试编程：Java8新特性——Optional类和新时间日期API](https://juejin.cn/post/7159783026530975775) | Sat Oct 29 2022 4:15 AM 
+- 🤗 [Java安全框架——Apache Shiro（三十七）](https://juejin.cn/post/7159813076768784420) | Sat Oct 29 2022 6:11 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第30天，点击查看活动详情 Optional类 这个Optional类主要是解决空指针的问题。 以前对null的处理 Option 
+    CustomDefaultFilterChainManager：主要是把原来对象的创建交于spring 
     </details> 
 
-- 🎡 [Logback 的顶级接口](https://juejin.cn/post/7159779793485955080) | Sat Oct 29 2022 4:04 AM 
+- 🎡 [【全网最佳Slidev实践】ikun教你写web3.0的ppt](https://juejin.cn/post/7159810942660771848) | Sat Oct 29 2022 6:03 AM 
     <details><summary>展开描述 ...</summary> 
-    ILoggerFactory 介绍一下 slf4j 的一些顶级接口 public interface 
+    它有传统 `ppt` 所拥有的所有功能，同时它基于 `Web` 驱动，比传统 `ppt` 来说，具有无限的可能性 
     </details> 
 
-- 🕯 [DOM注册事件以及删除事件](https://juejin.cn/post/7159777331463077919) | Sat Oct 29 2022 3:53 AM 
+- 🕯 [Go reflect 反射原理](https://juejin.cn/post/7159797055060672543) | Sat Oct 29 2022 5:13 AM 
     <details><summary>展开描述 ...</summary> 
-    注册事件也就是给元素添加事件，成为注册事件或者绑定事件。 注册事件的方法有两种： 1. 传统方法注册事件 2. 方法监听注册事件 
+    在开始分析原理之前，有必要问一下自己一个问题: 反射是什么?以及其作用是什么? 不论在哪种语言中，我们所提到的反射功能，均指开发者可以在运行时通过调用反射库来获取到来获取到指定对象类型信息， 
     </details> 
 
-- 🚀 [Luminar Neo 教程，如何在 Luminar Neo 中使用太阳光线工具？](https://juejin.cn/post/7159770664453292063) | Sat Oct 29 2022 3:29 AM 
+- 🚀 [Web的未来是Edge， 抛弃SSR+ Serverless， 使用SSR + Edge](https://juejin.cn/post/7159794211573727269) | Sat Oct 29 2022 4:58 AM 
     <details><summary>展开描述 ...</summary> 
-    欢迎观看 Luminar Neo 中文版教程，小编带大家学习 Luminar Neo 的基本工具和使用技巧，了解如何在 Luminar Neo 中使用太阳光线工具。 
+    前言 大家好，我是飞叶，一个前端UP主， 今天分享一篇最近看到的文章。 当然我也录了视频，不愿意看文章的，可以看视频 Web的未来是Edge 在最开始，在瑞士的一张桌子上有一台计算机，上面有一句红色文 
     </details> 
 
-- 💪 [PMP项目管理 新考纲概述](https://juejin.cn/post/7159769536223264781) | Sat Oct 29 2022 3:23 AM 
+- 💪 [FFmpeg与FFplay解析命令行的区别](https://juejin.cn/post/7159792326145998885) | Sat Oct 29 2022 4:51 AM 
     <details><summary>展开描述 ...</summary> 
-    项目管理大量的知识、方法和工具都是在项目管理实践中被不断总结和提炼出来的，PMP考试也在不断适应实践的需要，无论是考试的内容还是考试的方式都在与时俱进。 新版考试大纲&lpar;以下简称新考纲&rpar;不再局限于项目管 
+    在前面的一章《FFplay播放器分析》，讲过 ffplay.exe 命令行参数的处理。 其实 ffmpeg.exe 跟 ffplay.exe 处理命令行参数是有相似的逻辑的。 ffmpeg.exe 跟 
     </details> 
 <!-- juejin:END -->
 ### 少数派
