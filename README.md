@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [假ArrayList导致的线上事故......](https://juejin.cn/post/7159839509868183583) | Sat Oct 29 2022 7:56 AM 
+- 🤗 [Gradle 系列 （五）、自定义 Gradle Transform](https://juejin.cn/post/7159841721856032804) | Sat Oct 29 2022 8:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第5天，点击查看活动详情 前言 很高兴遇见你~ 关于 Gradle 学习，我所理解的流程如下图： 在本系列的前 4 篇文章中，我们 
+    </details> 
+
+- 🎡 [假ArrayList导致的线上事故......](https://juejin.cn/post/7159839509868183583) | Sat Oct 29 2022 7:56 AM 
     <details><summary>展开描述 ...</summary> 
     线上事故回顾 晚饭时，当我正沉迷于排骨煲肉质鲜嫩，汤汁浓郁时，产研沟通群内发出一条消息，显示用户存在可用劵，但进去劵列表却什么也没有，并附含了一个视频。于是我一边吃了排骨，一边查看消息点开了视频，en 
     </details> 
 
-- 🎡 [搞定项目npm依赖升级](https://juejin.cn/post/7159837304444420103) | Sat Oct 29 2022 7:46 AM 
+- 🕯 [自己封装一个组件](https://juejin.cn/post/7159629616561258533) | Fri Oct 28 2022 6:25 PM 
     <details><summary>展开描述 ...</summary> 
-    最近产品经理提出了更新项目依赖、提升前端性能和用户体验的需求，因此需要对项目中的npm依赖进行升级，在此将升级npm依赖的方式进行一下总结。 
+    在TS中手动封装一个面包屑组件：新建组件 =&gt; 搭架子 =&gt; 利用 provide/inject 传分隔符 =&gt; 根据to动态渲染导航标签 =&gt; 隐藏最后一个分隔符 =&gt; 完善样式 =&gt; 注册组件 
     </details> 
 
-- 🕯 [如何kill一条TCP连接？](https://juejin.cn/post/7159831973664391199) | Sat Oct 29 2022 7:27 AM 
+- 🚀 [IM 中 弱网优化小概述](https://juejin.cn/post/7159593157628264462) | Fri Oct 28 2022 3:58 PM 
     <details><summary>展开描述 ...</summary> 
-    简介 如果你的程序写得有毛病，打开了很多TCP连接，但一直没有关闭，即常见的连接泄露场景，你可能想要在排查问题的过程中，先临时kill一波泄露的连接。 
+    海外销售反馈：客户端在发送消息时，有时显示感叹号，提示失败，但网络是正常的。-在 WIFI、移动网络情况下。 
     </details> 
 
-- 🚀 [【MySQL】加了什么锁，导致死锁的？](https://juejin.cn/post/7159580428473466917) | Fri Oct 28 2022 3:09 PM 
+- 💪 [从JS的单线程特性说起，带你超快理解JavaScript中的事件循环机制（Event Loop）](https://juejin.cn/post/7159590191659745294) | Fri Oct 28 2022 3:48 PM 
     <details><summary>展开描述 ...</summary> 
-    最近在看 小林coding 的文章，看到一篇《字节面试：加了什么锁，导致死锁的？》，自己也跟着做了一遍，好奇的友友可以点进来看看； 
-    </details> 
-
-- 💪 [Spark中的数据读取保存和累加器](https://juejin.cn/post/7159579713738899486) | Fri Oct 28 2022 3:06 PM 
-    <details><summary>展开描述 ...</summary> 
-    Spark中的数据读取与保存有三种方式，分别是：Text文件、sequence文件、object文件，本文给出了相关的语法与代码demo。同时本文还介绍了什么是累加器以及系统累加器的demo 
+    JavaScript作为一门单线程的语言，却拥有多线程的体验。这是由于事件循环机制（Event Loop）。本文用最小的学习成本带你快速而不失深度的理解该机制，从JS为何是单线程、浏览器的架构谈起。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
