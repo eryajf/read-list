@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Flutter桌面开发-项目工程化框架搭建](https://juejin.cn/post/7159958059006033950) | Sat Oct 29 2022 3:34 PM 
+- 🤗 [Android 13 媒体权限适配指南](https://juejin.cn/post/7159999910748618766) | Sat Oct 29 2022 6:19 PM 
+    <details><summary>展开描述 ...</summary> 
+    在 Android 系统最近的几个大版本里，更新方向有很大一部分都集中在了隐私安全这一方面，每个版本都会新增隐私安全限制，或者是对之前的隐私项进行进一步的升级 Android 10。分区存储、限制访问 
+    </details> 
+
+- 🎡 [Flutter桌面开发-项目工程化框架搭建](https://juejin.cn/post/7159958059006033950) | Sat Oct 29 2022 3:34 PM 
     <details><summary>展开描述 ...</summary> 
     配置窗口化、适配分辨率、实现小组件 “灵动岛”，是时候提供一个完全可投入生产的Flutter项目结构了！ 站在GetX全家桶的肩膀上，轻松hold住实战项目 
     </details> 
 
-- 🎡 [Java语言的过滤数据流](https://juejin.cn/post/7159953796691410975) | Sat Oct 29 2022 3:17 PM 
+- 🕯 [Java语言的过滤数据流](https://juejin.cn/post/7159953796691410975) | Sat Oct 29 2022 3:17 PM 
     <details><summary>展开描述 ...</summary> 
     为了解决不同数据流之间速度、数据格式差异的问题，以便提高输入/输出操作的效率（特别是当需要大量的输入、输出操作的程序时），因此，Java贴心的提供了过滤流。 
     </details> 
 
-- 🕯 [Unity怎么通过WIFI连接真机调试](https://juejin.cn/post/7159953539874668581) | Sat Oct 29 2022 3:16 PM 
+- 🚀 [Unity怎么通过WIFI连接真机调试](https://juejin.cn/post/7159953539874668581) | Sat Oct 29 2022 3:16 PM 
     <details><summary>展开描述 ...</summary> 
     Unity怎么通过WIFI连接真机调试 最近又在折腾unity，之前运行调试程序，我都是用USB连接手机直接调试，每次调试后又要断开USB，拿着手机去走动运行探测周围平面，这样一个下午跑十几次，就需要 
     </details> 
 
-- 🚀 [MySQL数据库-慢查询日志](https://juejin.cn/post/7159949218826846221) | Sat Oct 29 2022 3:00 PM 
+- 💪 [MySQL数据库-慢查询日志](https://juejin.cn/post/7159949218826846221) | Sat Oct 29 2022 3:00 PM 
     <details><summary>展开描述 ...</summary> 
     慢查询日志 慢查询日志记录了所有执行时间超过指定参数（long_query_time，单位：秒，默认10秒）的所有SQL语句的日志。 MySQL的慢查询日志默认没有开启，我们可以查看一下系统变量slo 
-    </details> 
-
-- 💪 [一步步带你分析 ESP32-C3 应用程序的启动流程](https://juejin.cn/post/7159948793478119432) | Sat Oct 29 2022 2:59 PM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第29天，点击查看活动详情 网上说明一大堆，基本是官网文档复制没有额外解释！只能自己来一步一步剖析应用程序启动流程！ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
