@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [MySQL数据库-慢查询日志](https://juejin.cn/post/7159949218826846221) | Sat Oct 29 2022 3:00 PM 
+- 🤗 [Flutter桌面开发-项目工程化框架搭建](https://juejin.cn/post/7159958059006033950) | Sat Oct 29 2022 3:34 PM 
+    <details><summary>展开描述 ...</summary> 
+    配置窗口化、适配分辨率、实现小组件 “灵动岛”，是时候提供一个完全可投入生产的Flutter项目结构了！ 站在GetX全家桶的肩膀上，轻松hold住实战项目 
+    </details> 
+
+- 🎡 [Java语言的过滤数据流](https://juejin.cn/post/7159953796691410975) | Sat Oct 29 2022 3:17 PM 
+    <details><summary>展开描述 ...</summary> 
+    为了解决不同数据流之间速度、数据格式差异的问题，以便提高输入/输出操作的效率（特别是当需要大量的输入、输出操作的程序时），因此，Java贴心的提供了过滤流。 
+    </details> 
+
+- 🕯 [Unity怎么通过WIFI连接真机调试](https://juejin.cn/post/7159953539874668581) | Sat Oct 29 2022 3:16 PM 
+    <details><summary>展开描述 ...</summary> 
+    Unity怎么通过WIFI连接真机调试 最近又在折腾unity，之前运行调试程序，我都是用USB连接手机直接调试，每次调试后又要断开USB，拿着手机去走动运行探测周围平面，这样一个下午跑十几次，就需要 
+    </details> 
+
+- 🚀 [MySQL数据库-慢查询日志](https://juejin.cn/post/7159949218826846221) | Sat Oct 29 2022 3:00 PM 
     <details><summary>展开描述 ...</summary> 
     慢查询日志 慢查询日志记录了所有执行时间超过指定参数（long_query_time，单位：秒，默认10秒）的所有SQL语句的日志。 MySQL的慢查询日志默认没有开启，我们可以查看一下系统变量slo 
     </details> 
 
-- 🎡 [一步步带你分析 ESP32-C3 应用程序的启动流程](https://juejin.cn/post/7159948793478119432) | Sat Oct 29 2022 2:59 PM 
+- 💪 [一步步带你分析 ESP32-C3 应用程序的启动流程](https://juejin.cn/post/7159948793478119432) | Sat Oct 29 2022 2:59 PM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第29天，点击查看活动详情 网上说明一大堆，基本是官网文档复制没有额外解释！只能自己来一步一步剖析应用程序启动流程！ 
-    </details> 
-
-- 🕯 [2022年你应该需要知道的CSS新特性-颜色篇](https://juejin.cn/post/7159948787425755167) | Sat Oct 29 2022 2:58 PM 
-    <details><summary>展开描述 ...</summary> 
-    前一段时间State of CSS发起了2022年的调查问卷，该文件的内容主要是CSS新特性、框架、工具库的使用情况，这里我将会用几篇文章整理一下这个问卷中涉及到的新特性。 这篇文章将介绍如下内容： 
-    </details> 
-
-- 🚀 [stm32学习总结：1、搭建基于CLion的stm32开发环境](https://juejin.cn/post/7159945619573276679) | Sat Oct 29 2022 2:45 PM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第19天，点击查看活动详情 1. 前言 我们搭建基于CLion的环境实际主要是基于STM32CubeMx的，在CLion上编辑程序 
-    </details> 
-
-- 💪 [BH1750 传感器实战教学 —— 驱动移植篇](https://juejin.cn/post/7159941711156740132) | Sat Oct 29 2022 2:31 PM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第29天，点击查看活动详情 前言 上一篇 BH1750 的实战教学我们说明的实际应用中传感器的硬件设计 。 我们提到过在本次使用的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
