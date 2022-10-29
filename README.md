@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [让UI忙碌的安卓Lottie动画渲染库（二）](https://juejin.cn/post/7159824960926515214) | Sat Oct 29 2022 7:01 AM 
+- 🤗 [假ArrayList导致的线上事故......](https://juejin.cn/post/7159839509868183583) | Sat Oct 29 2022 7:56 AM 
     <details><summary>展开描述 ...</summary> 
-    平时总是产品提需求让我们开发去做动画效果，太费头发了，还是让我们学会使用最费UI设计师的Lottie动画开发吧！开启最速动画开发生活，轻松完成动画需求 
+    线上事故回顾 晚饭时，当我正沉迷于排骨煲肉质鲜嫩，汤汁浓郁时，产研沟通群内发出一条消息，显示用户存在可用劵，但进去劵列表却什么也没有，并附含了一个视频。于是我一边吃了排骨，一边查看消息点开了视频，en 
     </details> 
 
-- 🎡 [Spring事务回滚的两种方法](https://juejin.cn/post/7159817954929377310) | Sat Oct 29 2022 6:32 AM 
+- 🎡 [搞定项目npm依赖升级](https://juejin.cn/post/7159837304444420103) | Sat Oct 29 2022 7:46 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第30天，当然，Spring事务回滚的前提是你当前使用的数据库必须支持事务，比如MySQL的Innodb是支持的 
+    最近产品经理提出了更新项目依赖、提升前端性能和用户体验的需求，因此需要对项目中的npm依赖进行升级，在此将升级npm依赖的方式进行一下总结。 
     </details> 
 
-- 🕯 [MySQL数据库-存储引擎](https://juejin.cn/post/7159816165894651940) | Sat Oct 29 2022 6:26 AM 
+- 🕯 [如何kill一条TCP连接？](https://juejin.cn/post/7159831973664391199) | Sat Oct 29 2022 7:27 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第29天点击查看活动详情 建表时指定存储引擎 查询当前数据库支持的存储引擎 show engines; 示例演示: 查询建表语句  
+    简介 如果你的程序写得有毛病，打开了很多TCP连接，但一直没有关闭，即常见的连接泄露场景，你可能想要在排查问题的过程中，先临时kill一波泄露的连接。 
     </details> 
 
-- 🚀 [Java安全框架——Apache Shiro（三十七）](https://juejin.cn/post/7159813076768784420) | Sat Oct 29 2022 6:11 AM 
+- 🚀 [【MySQL】加了什么锁，导致死锁的？](https://juejin.cn/post/7159580428473466917) | Fri Oct 28 2022 3:09 PM 
     <details><summary>展开描述 ...</summary> 
-    CustomDefaultFilterChainManager：主要是把原来对象的创建交于spring 
+    最近在看 小林coding 的文章，看到一篇《字节面试：加了什么锁，导致死锁的？》，自己也跟着做了一遍，好奇的友友可以点进来看看； 
     </details> 
 
-- 💪 [【全网最佳Slidev实践】ikun教你写web3.0的ppt](https://juejin.cn/post/7159810942660771848) | Sat Oct 29 2022 6:03 AM 
+- 💪 [Spark中的数据读取保存和累加器](https://juejin.cn/post/7159579713738899486) | Fri Oct 28 2022 3:06 PM 
     <details><summary>展开描述 ...</summary> 
-    它有传统 `ppt` 所拥有的所有功能，同时它基于 `Web` 驱动，比传统 `ppt` 来说，具有无限的可能性 
+    Spark中的数据读取与保存有三种方式，分别是：Text文件、sequence文件、object文件，本文给出了相关的语法与代码demo。同时本文还介绍了什么是累加器以及系统累加器的demo 
     </details> 
 <!-- juejin:END -->
 ### 少数派
