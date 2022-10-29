@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [国密 CMBSM2SignWithSM3 在 node 上怎么实现](https://www.v2ex.com/t/890958#reply0) | Sat Oct 29 2022 6:36 AM
-- 🤗 [机器学习项目（有偿提供）](https://www.v2ex.com/t/890954#reply3) | Sat Oct 29 2022 6:14 AM
-- 🎭 [哪里有 golang 开发的业务类型的项目源码可以借鉴学习的呢?](https://www.v2ex.com/t/890952#reply0) | Sat Oct 29 2022 6:00 AM
-- 🥷 [Debian 11 Server 如何在 reboot 时能像桌面 GNOME 一样把重启信息显示出来？](https://www.v2ex.com/t/890948#reply2) | Sat Oct 29 2022 5:39 AM
-- 🐵 [如何评价 SLF4J-API 的破坏性升级](https://www.v2ex.com/t/890935#reply2) | Sat Oct 29 2022 4:57 AM<!-- v2ex:END -->
+- 🥸 [早期免费版的 Google Gsutie 还能升级然后降级成免费版么？](https://www.v2ex.com/t/890977#reply1) | Sat Oct 29 2022 8:09 AM
+- 🤗 [国密 CMBSM2SignWithSM3 在 node 上怎么实现](https://www.v2ex.com/t/890958#reply0) | Sat Oct 29 2022 6:36 AM
+- 🎭 [机器学习项目（有偿提供）](https://www.v2ex.com/t/890954#reply3) | Sat Oct 29 2022 6:14 AM
+- 🥷 [哪里有 golang 开发的业务类型的项目源码可以借鉴学习的呢?](https://www.v2ex.com/t/890952#reply0) | Sat Oct 29 2022 6:00 AM
+- 🐵 [Debian 11 Server 如何在 reboot 时能像桌面 GNOME 一样把重启信息显示出来？](https://www.v2ex.com/t/890948#reply2) | Sat Oct 29 2022 5:39 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
