@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [『 纯 CSS 实现』使用 CSS 开发一个伪 3D 旋转圆柱](https://juejin.cn/post/7159921010681053191) | Sat Oct 29 2022 1:11 PM 
+- 🤗 [Python 3.11.0 正式发布！主要新特性一览](https://juejin.cn/post/7159929819365376007) | Sat Oct 29 2022 1:44 PM 
+    <details><summary>展开描述 ...</summary> 
+    去年（2021）的 10 月份，Python 发布了 3.10.0 正式版，我也在第一时间做了介绍（相关文章）；一年后的几天前，Python 3.11.0 正式版也亮相了，下面来看看新特性吧 
+    </details> 
+
+- 🎡 [MySQL数据库-存储引擎选择](https://juejin.cn/post/7159923187906527262) | Sat Oct 29 2022 1:21 PM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第29天点击查看活动详情 MyISAM 介绍 MyISAM是MySQL早期的默认存储引擎。 特点 不支持事务，不支持外键 支持表锁 
+    </details> 
+
+- 🕯 [『 纯 CSS 实现』使用 CSS 开发一个伪 3D 旋转圆柱](https://juejin.cn/post/7159921010681053191) | Sat Oct 29 2022 1:11 PM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第 19 天，点击查看活动详情 前言 大家好，我是爱吃鱼的桶哥Z，前两天我们用 CSS 开发了一个炫酷的旋转小球，今天我们继续来开 
     </details> 
 
-- 🎡 [Nacos注册中心2-核心原理和Client核心类](https://juejin.cn/post/7159913422174289933) | Sat Oct 29 2022 12:42 PM 
+- 🚀 [Nacos注册中心2-核心原理和Client核心类](https://juejin.cn/post/7159913422174289933) | Sat Oct 29 2022 12:42 PM 
     <details><summary>展开描述 ...</summary> 
     nacos注册中心核心原理和系统架构，数据模型以及应用场景；Client端核心类Instance,ServiceInfo,NamingService 
     </details> 
 
-- 🕯 [【分布式技术专题】「架构实践于案例分析」总结和盘点目前常用分布式技术特别及问题分析](https://juejin.cn/post/7159904055827890189) | Sat Oct 29 2022 12:05 PM 
+- 💪 [【分布式技术专题】「架构实践于案例分析」总结和盘点目前常用分布式技术特别及问题分析](https://juejin.cn/post/7159904055827890189) | Sat Oct 29 2022 12:05 PM 
     <details><summary>展开描述 ...</summary> 
     分布式架构 互联⽹架构演进 单体应⽤架构 定义 法论，就是单体应⽤架构。 架构示意图 优缺点分析 初期： 架构简单，统一化管理真个服务和生态体系 开发、测试、部署都很⽅便 随着项⽬的发展，项⽬越来越臃 
-    </details> 
-
-- 🚀 [数据库锁的作用以及有哪些锁](https://juejin.cn/post/7159902730872913951) | Sat Oct 29 2022 12:01 PM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第28天，点击查看活动详情 数据库锁的作用以及有哪些锁？ 当数据库有并发事务的时候，可能会产生数据的不一致，这时候需要一些机制来保 
-    </details> 
-
-- 💪 [什么是存储过程](https://juejin.cn/post/7159901950204379144) | Sat Oct 29 2022 11:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第28天，点击查看活动详情 什么是存储过程？ 存储过程是一个预编译的SQL语句，优点是允许模块化的设计，就是说只需要创建一次，以后 
     </details> 
 <!-- juejin:END -->
 ### 少数派
