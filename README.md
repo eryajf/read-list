@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [PMP每日一练 | 考试不迷路-10.29（包含敏捷+多选）](https://juejin.cn/post/7159768721890738212) | Sat Oct 29 2022 3:21 AM 
+- 🤗 [面向面试编程：Java8新特性——Optional类和新时间日期API](https://juejin.cn/post/7159783026530975775) | Sat Oct 29 2022 4:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第30天，点击查看活动详情 Optional类 这个Optional类主要是解决空指针的问题。 以前对null的处理 Option 
+    </details> 
+
+- 🎡 [注册事件以及删除事件](https://juejin.cn/post/7159777331463077919) | Sat Oct 29 2022 3:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    注册事件也就是给元素添加事件，成为注册事件或者绑定事件。 注册事件的方法有两种： 1. 传统方法注册事件 2. 方法监听注册事件 
+    </details> 
+
+- 🕯 [Luminar Neo 教程，如何在 Luminar Neo 中使用太阳光线工具？](https://juejin.cn/post/7159770664453292063) | Sat Oct 29 2022 3:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    欢迎观看 Luminar Neo 中文版教程，小编带大家学习 Luminar Neo 的基本工具和使用技巧，了解如何在 Luminar Neo 中使用太阳光线工具。 
+    </details> 
+
+- 🚀 [PMP项目管理 新考纲概述](https://juejin.cn/post/7159769536223264781) | Sat Oct 29 2022 3:23 AM 
+    <details><summary>展开描述 ...</summary> 
+    项目管理大量的知识、方法和工具都是在项目管理实践中被不断总结和提炼出来的，PMP考试也在不断适应实践的需要，无论是考试的内容还是考试的方式都在与时俱进。 新版考试大纲&lpar;以下简称新考纲&rpar;不再局限于项目管 
+    </details> 
+
+- 💪 [PMP每日一练 | 考试不迷路-10.29（包含敏捷+多选）](https://juejin.cn/post/7159768721890738212) | Sat Oct 29 2022 3:21 AM 
     <details><summary>展开描述 ...</summary> 
     **考PMP的家人们：这是来自考过625考试人的资料分享，这边转移下载：Q群 https://jq.qq.com/?_wv=1027&amp;k=lIFjpyxU ​ ​题目1-2： ​1.项目团队对发布版本 
-    </details> 
-
-- 🎡 [💺躺着看！不能错过的实用psql命令](https://juejin.cn/post/7159747986342281230) | Sat Oct 29 2022 1:59 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第32天，点击查看活动详情 🗺️ PG系列文章: 前言 惯例，先上思维导图 🛫1&rpar; 连接到PostgreSQL数据库 以下命令连接 
-    </details> 
-
-- 🕯 [PyTorch: 张量的拼接、切分、索引](https://juejin.cn/post/7159742676006273038) | Sat Oct 29 2022 1:40 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第31天，点击查看活动详情 一、张量拼接与切分 1.1 torch.cat 功能：将张量按维度dim 进行拼接 tensors : 
-    </details> 
-
-- 🚀 [【每日LeetCode】手把手教你刷题之多数元素](https://juejin.cn/post/7159486811704655903) | Fri Oct 28 2022 9:08 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第28天 多数元素 这是力扣169题 解题思路 总结 以上就是对 力扣 169 题多数元素 的解法和 
-    </details> 
-
-- 💪 [「Redis缓存」Redis 三种缓存问题 -- 缓存穿透、缓存雪崩、缓存击穿](https://juejin.cn/post/7159487158758146079) | Fri Oct 28 2022 9:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    ①缓存穿透 1.1：空值缓存 1.2：布隆过滤器：原理、如何删除、应用场景 ②缓存击穿 2.1：使用互斥锁 2.2：设置key永不过期 ③缓存雪崩 3.1：降级 3.2：限流 3.3：熔断 
     </details> 
 <!-- juejin:END -->
 ### 少数派
