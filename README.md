@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [线性表的定义及其的顺序存储结构](https://juejin.cn/post/7160311664544808996) | Sun Oct 30 2022 2:27 PM 
+- 🤗 [Java安全框架——Apache Shiro（三十八）](https://juejin.cn/post/7160329837272367117) | Sun Oct 30 2022 3:37 PM 
+    <details><summary>展开描述 ...</summary> 
+    【2.4.2】CustomPathMatchingFilterChainResolver Custom 
+    </details> 
+
+- 🎡 [我给数据只存在 localStorage 的实用备忘录 添加了语法高亮和折叠功能](https://juejin.cn/post/7160322940502835214) | Sun Oct 30 2022 3:11 PM 
+    <details><summary>展开描述 ...</summary> 
+    之前我开发了个所有数据只存在 localStorage 的实用备忘录。今天，我又开发了语法高亮、折叠功能，快来体验一下吧！ 
+    </details> 
+
+- 🕯 [安卓开发必备——build.gradle文件初探（一）](https://juejin.cn/post/7160320687826010125) | Sun Oct 30 2022 3:04 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文主要是从安卓在Android Studio上开发为基础，探讨Gradle的相关知识点，逐步扩充相关知识，完善相应知识网。 
+    </details> 
+
+- 🚀 [初识 React &lpar;一&rpar;](https://juejin.cn/post/7160314148747182087) | Sun Oct 30 2022 2:38 PM 
+    <details><summary>展开描述 ...</summary> 
+    一、创建一个最基本的 React 的应用 二、React 创建组件的两种方式 1、 函数组件 -- &lpar;简单组件&rpar; 2、 class组件 -- &lpar;复杂组件&rpar; ReactDOM.render&lpar;&rpar; 函数的原 
+    </details> 
+
+- 💪 [线性表的定义及其的顺序存储结构](https://juejin.cn/post/7160311664544808996) | Sun Oct 30 2022 2:27 PM 
     <details><summary>展开描述 ...</summary> 
     - 所有数据元素类型相同 - 线性表由有限个数据元素构成 - 线性表中的数据元素与位置相关，即每个数据元素有唯一的序号，这表明线性表不同于集合，在线性表中可以出现相同的数据元素（他们的序号不同），而集 
-    </details> 
-
-- 🎡 [一文带你认识蓝牙 GATT 协议](https://juejin.cn/post/7160308393503113247) | Sun Oct 30 2022 2:16 PM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第30天，点击查看活动详情 前言 但是对于蓝牙 GATT 概念，我们还是只停留留在蓝牙协议栈基本框架层面，本文用一张图带你全面认识 
-    </details> 
-
-- 🕯 [局域网与广域网](https://juejin.cn/post/7160307553631469575) | Sun Oct 30 2022 2:12 PM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第30天，点击查看活动详情 局域网 局域网概念和结构 定义 特点 覆盖范围小（一栋楼） 采用专门铺设的传输介质联网，数据传输率高  
-    </details> 
-
-- 🚀 [docker 安装jenkins教程](https://juejin.cn/post/7160307704593842184) | Sun Oct 30 2022 2:11 PM 
-    <details><summary>展开描述 ...</summary> 
-    docker安装jenkins 1、查看可用的 jenkins 版本 访问 jenkins 镜像库地址： https://hub.docker.com/_/jenkins?tab=tags 。 可以通 
-    </details> 
-
-- 💪 [一看就懂的OpenGL ES教程——渲染宫崎骏动漫重拾童年](https://juejin.cn/post/7160304816877469733) | Sun Oct 30 2022 2:00 PM 
-    <details><summary>展开描述 ...</summary> 
-    上篇回顾 上一篇一看博文已经用代码实例详细展示了如何进行纹理映射，以及纹理映射能做一些什么有趣效果。有了上一篇的基础，这一篇就可以乘胜追击，从上一篇的静态图片进阶到视频的渲染。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
