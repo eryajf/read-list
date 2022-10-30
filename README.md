@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Django 的基础模板和模板文件重构](https://juejin.cn/post/7160224742770343966) | Sun Oct 30 2022 8:49 AM 
+- 🤗 [半监督学习入门基础（二）：最基础的3个概念](https://juejin.cn/post/7160239576240357413) | Sun Oct 30 2022 9:47 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第 30 天，点击查看活动详情。 本文针对模板文件中的主页和博客内容模板重复代码部分进行了重构，将重复模板抽离出来写成母模板 
+    今天给大家介绍半监督学习中的3个最基础的概念：一致性正则化，熵最小化和伪标签，并介绍了两个经典的半监督学习方法。 
     </details> 
 
-- 🎡 [【每日LeetCode】手把手教你刷题之判断子序列](https://juejin.cn/post/7160224118963765255) | Sun Oct 30 2022 8:48 AM 
+- 🎡 [React实现组件通信的方式&lpar;react新手必会&rpar;](https://juejin.cn/post/7160237227841159204) | Sun Oct 30 2022 9:38 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第30天 判断子序列 这是力扣第392题 字符串的一个子序列是原始字符串删除一些（也可以不删除）字符而不改变剩余 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第10点击查看活动详情 组件通讯 组件通讯介绍以及为什么要有组件通讯 组件的props 组件通讯的三种方式 父传子 子传父 兄弟组 
     </details> 
 
-- 🕯 [全新的 React 组件设计理念 Headless UI](https://juejin.cn/post/7160223720236122125) | Sun Oct 30 2022 8:45 AM 
+- 🕯 [关于js的正则表达式入门篇&lpar;新手&rpar;](https://juejin.cn/post/7160234470337937444) | Sun Oct 30 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 其实，最早接触 Headless UI 是在去年，碰巧看到了一个非常前沿且优秀的组件库 ---- Chakra UI，这个组件库本身就是 Headless UI 的实践者，同时也是 CSS-IN 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第10天，点击查看活动详情 1.正则表达式概述 1.1什么是正则表达式 正则表达式（ Regular Expression ）是用 
     </details> 
 
-- 🚀 [一篇文章带你吃透 Linux 下的环境变量](https://juejin.cn/post/7160222282797809695) | Sun Oct 30 2022 8:39 AM 
+- 🚀 [「Apple Watch 应用开发系列」Apple Watch App Lifecycle](https://juejin.cn/post/7160233795721887758) | Sun Oct 30 2022 9:27 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第30天，点击查看活动详情 前言 学习完 Linux 的 Shell 命令 和 Shell 脚本，我们还需要理解一 ：环境变量 
+    watchOS App 的生命周期比 iOS App 的生命周期要更复杂一些。包括 Not running、Inactive、Active、Background、Suspended。 
     </details> 
 
-- 💪 [Django 博客文章查看与静态文件设置](https://juejin.cn/post/7160220083552256031) | Sun Oct 30 2022 8:31 AM 
+- 💪 [Windows系统下搭建C语言学习环境&lpar;安装VsCode，mingw编译器&rpar;](https://juejin.cn/post/7160230407206600741) | Sun Oct 30 2022 9:14 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第 30 天，点击查看活动详情。本文将介绍 Django 博客文章查看与静态文件设置。 
+    C语言是跨平台的编程语言，在windows系统、Linux系统下都可以学习，下面介绍学习C语言，编写C语言代码比较方便的一些工具软件。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
