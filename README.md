@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一篇文章带你吃透 Linux 下的环境变量](https://juejin.cn/post/7160222282797809695) | Sun Oct 30 2022 8:39 AM 
+- 🤗 [Django 的基础模板和模板文件重构](https://juejin.cn/post/7160224742770343966) | Sun Oct 30 2022 8:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第 30 天，点击查看活动详情。 本文针对模板文件中的主页和博客内容模板重复代码部分进行了重构，将重复模板抽离出来写成母模板 
+    </details> 
+
+- 🎡 [【每日LeetCode】手把手教你刷题之判断子序列](https://juejin.cn/post/7160224118963765255) | Sun Oct 30 2022 8:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第30天 判断子序列 这是力扣第392题 字符串的一个子序列是原始字符串删除一些（也可以不删除）字符而不改变剩余 
+    </details> 
+
+- 🕯 [全新的 React 组件设计理念 Headless UI](https://juejin.cn/post/7160223720236122125) | Sun Oct 30 2022 8:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 其实，最早接触 Headless UI 是在去年，碰巧看到了一个非常前沿且优秀的组件库 ---- Chakra UI，这个组件库本身就是 Headless UI 的实践者，同时也是 CSS-IN 
+    </details> 
+
+- 🚀 [一篇文章带你吃透 Linux 下的环境变量](https://juejin.cn/post/7160222282797809695) | Sun Oct 30 2022 8:39 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第30天，点击查看活动详情 前言 学习完 Linux 的 Shell 命令 和 Shell 脚本，我们还需要理解一 ：环境变量 
     </details> 
 
-- 🎡 [Nacos注册中心3-Cleint端&lpar;注册和心跳&rpar;](https://juejin.cn/post/7160219034011566117) | Sun Oct 30 2022 8:27 AM 
+- 💪 [Django 博客文章查看与静态文件设置](https://juejin.cn/post/7160220083552256031) | Sun Oct 30 2022 8:31 AM 
     <details><summary>展开描述 ...</summary> 
-    Nacos Client发送注册和心跳请求的入口及核心源码registerService和addBeatInfo方法 
-    </details> 
-
-- 🕯 [计算机底层知识之二进制](https://juejin.cn/post/7160217826127511559) | Sun Oct 30 2022 8:23 AM 
-    <details><summary>展开描述 ...</summary> 
-    大家好，我是柒八九。 今天，我们继续计算机底层知识的探索。我们来谈谈关于二进制的相关知识点。 如果，想了解该系列的文章，可以参考我们已经发布的文章。如下是往期文章。 文章list 计算机底层知识之CP 
-    </details> 
-
-- 🚀 [JavaScript设计模式之代理模式](https://juejin.cn/post/7160215752681717767) | Sun Oct 30 2022 8:15 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文将介绍代理模式的基本概念，并通过介绍Vue源码和一些开发场景中用到代理模式的案例，让读者能更好的理解代理模式的使用场景 
-    </details> 
-
-- 💪 [OpenMP 入门](https://juejin.cn/post/7160175377543856158) | Sun Oct 30 2022 5:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    在本篇文章当中主要给大家介绍了 OpenMP 的基本使用和程序执行的基本原理，在后续的文章当中我们将仔细介绍各种 OpenMP 的子句和指令的使用方法，希望大家有所收获！ 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第 30 天，点击查看活动详情。本文将介绍 Django 博客文章查看与静态文件设置。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
