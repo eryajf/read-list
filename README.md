@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [2022 年 aws 的 lightsail 有办法 Linux 一键 DDwin 吗？](https://www.v2ex.com/t/891191#reply0) | Sun Oct 30 2022 9:15 AM
-- 🤗 [直接通过快照 SQLite / PostgreSQL / MySQL 所在虚拟机磁盘来备份数据库有丢失数据 / 备份损坏的风险吗？](https://www.v2ex.com/t/891187#reply1) | Sun Oct 30 2022 8:56 AM
-- 🎭 [周末摆烂综合征](https://www.v2ex.com/t/891175#reply8) | Sun Oct 30 2022 8:09 AM
-- 🥷 [怎么更有效率的找轮子](https://www.v2ex.com/t/891163#reply6) | Sun Oct 30 2022 7:05 AM
-- 🐵 [双 11 腾讯云服务器香港日本新加坡美国欧洲德国低至 3 折 无限制](https://www.v2ex.com/t/891161#reply4) | Sun Oct 30 2022 7:02 AM<!-- v2ex:END -->
+- 🥸 [Spring 的.properties 文件有没有什么文档可以看](https://www.v2ex.com/t/891203#reply0) | Sun Oct 30 2022 10:18 AM
+- 🤗 [新加坡申请 PR 永久居民和 SC 公民的流程介绍](https://www.v2ex.com/t/891201#reply0) | Sun Oct 30 2022 9:58 AM
+- 🎭 [B 站介绍 IPv6 视频博主，对 LnTrx 疑问的一些解释与回答](https://www.v2ex.com/t/891198#reply1) | Sun Oct 30 2022 9:46 AM
+- 🥷 [细数自己学习过的编程语言](https://www.v2ex.com/t/891197#reply4) | Sun Oct 30 2022 9:46 AM
+- 🐵 [2022 年 aws 的 lightsail 有办法 Linux 一键 DDwin 吗？](https://www.v2ex.com/t/891191#reply1) | Sun Oct 30 2022 9:15 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
