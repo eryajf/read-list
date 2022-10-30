@@ -378,24 +378,24 @@
     【2.4.2】CustomPathMatchingFilterChainResolver Custom 
     </details> 
 
-- 🎡 [我给数据只存在 localStorage 的实用备忘录 添加了语法高亮和折叠功能](https://juejin.cn/post/7160322940502835214) | Sun Oct 30 2022 3:11 PM 
+- 🎡 [Go 单例模式](https://juejin.cn/post/7160327827131203592) | Sun Oct 30 2022 3:29 PM 
+    <details><summary>展开描述 ...</summary> 
+    简单单例模式 单例模式是创建类型的模式，它是为了保证执行期间内只有一个实例。使用 Golang 指针可以很容易的实现单例模式，通过指针保持相同的引用。 可以看到整个单例模式 由以下部分组成： 私有结构 
+    </details> 
+
+- 🕯 [我给数据只存在 localStorage 的实用备忘录 添加了语法高亮和折叠功能](https://juejin.cn/post/7160322940502835214) | Sun Oct 30 2022 3:11 PM 
     <details><summary>展开描述 ...</summary> 
     之前我开发了个所有数据只存在 localStorage 的实用备忘录。今天，我又开发了语法高亮、折叠功能，快来体验一下吧！ 
     </details> 
 
-- 🕯 [安卓开发必备——build.gradle文件初探（一）](https://juejin.cn/post/7160320687826010125) | Sun Oct 30 2022 3:04 PM 
+- 🚀 [安卓开发必备——build.gradle文件初探（一）](https://juejin.cn/post/7160320687826010125) | Sun Oct 30 2022 3:04 PM 
     <details><summary>展开描述 ...</summary> 
     本文主要是从安卓在Android Studio上开发为基础，探讨Gradle的相关知识点，逐步扩充相关知识，完善相应知识网。 
     </details> 
 
-- 🚀 [初识 React &lpar;一&rpar;](https://juejin.cn/post/7160314148747182087) | Sun Oct 30 2022 2:38 PM 
+- 💪 [初识 React &lpar;一&rpar;](https://juejin.cn/post/7160314148747182087) | Sun Oct 30 2022 2:38 PM 
     <details><summary>展开描述 ...</summary> 
     一、创建一个最基本的 React 的应用 二、React 创建组件的两种方式 1、 函数组件 -- &lpar;简单组件&rpar; 2、 class组件 -- &lpar;复杂组件&rpar; ReactDOM.render&lpar;&rpar; 函数的原 
-    </details> 
-
-- 💪 [线性表的定义及其的顺序存储结构](https://juejin.cn/post/7160311664544808996) | Sun Oct 30 2022 2:27 PM 
-    <details><summary>展开描述 ...</summary> 
-    - 所有数据元素类型相同 - 线性表由有限个数据元素构成 - 线性表中的数据元素与位置相关，即每个数据元素有唯一的序号，这表明线性表不同于集合，在线性表中可以出现相同的数据元素（他们的序号不同），而集 
     </details> 
 <!-- juejin:END -->
 ### 少数派
