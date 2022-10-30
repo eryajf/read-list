@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [用一个 12pt 的粗体 拯救 windows 的颜值](https://www.v2ex.com/t/891078#reply0) | Sat Oct 29 2022 11:13 PM
-- 🤗 [升级 Windows11 22H2 踩坑之 Hyper-V 虚拟机无网络](https://www.v2ex.com/t/891075#reply0) | Sat Oct 29 2022 7:39 PM
-- 🎭 [小白提问： Android 有什么类似 okhttp 的 tcp 网络库么？](https://www.v2ex.com/t/891072#reply4) | Sat Oct 29 2022 4:56 PM
-- 🥷 [如何在三个月内将前端学到能找到工作的程度](https://www.v2ex.com/t/891071#reply3) | Sat Oct 29 2022 4:23 PM
-- 🐵 [刚换 Pixel 7 Pro，有什么应用推荐吗？](https://www.v2ex.com/t/891065#reply14) | Sat Oct 29 2022 3:44 PM<!-- v2ex:END -->
+- 🥸 [请推荐和 TailwindCSS 配合的 UI 组件库](https://www.v2ex.com/t/891088#reply7) | Sun Oct 30 2022 1:36 AM
+- 🤗 [用一个 12pt 的粗体 拯救 windows 的颜值](https://www.v2ex.com/t/891078#reply1) | Sat Oct 29 2022 11:13 PM
+- 🎭 [升级 Windows11 22H2 踩坑之 Hyper-V 虚拟机无网络](https://www.v2ex.com/t/891075#reply1) | Sat Oct 29 2022 7:39 PM
+- 🥷 [小白提问： Android 有什么类似 okhttp 的 tcp 网络库么？](https://www.v2ex.com/t/891072#reply9) | Sat Oct 29 2022 4:56 PM
+- 🐵 [如何在三个月内将前端学到能找到工作的程度](https://www.v2ex.com/t/891071#reply9) | Sat Oct 29 2022 4:23 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
