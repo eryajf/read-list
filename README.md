@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [RabbitMQ经典问题](https://juejin.cn/post/7160142561003175944) | Sun Oct 30 2022 3:34 AM 
+- 🤗 [一篇文章带你上手 Shell 脚本编程](https://juejin.cn/post/7160158980172415007) | Sun Oct 30 2022 4:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第30天，点击查看活动详情 前言 之前我们通过文章《嵌入式 Linux 入门（五、Shell 脚本编程上：认识 Shell 脚本） 
+    </details> 
+
+- 🎡 [RabbitMQ经典问题](https://juejin.cn/post/7160142561003175944) | Sun Oct 30 2022 3:34 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第29天，点击查看活动详情 RabbitMQ 有几种广播类型？ direct（默认方式）：最基础最简单的模式，发送方把消息发送给订 
     </details> 
 
-- 🎡 [【每日LeetCode】手把手教你刷题之寻找两个正序数组的中位数](https://juejin.cn/post/7160124617816801316) | Sun Oct 30 2022 2:21 AM 
+- 🕯 [浅谈数据：为什么数据治理在企业数字化转型中扮演重要角色？](https://juejin.cn/post/7160141604379394084) | Sun Oct 30 2022 3:26 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第30天 寻找两个正序数组的中位数 这是力扣第4题 算法的时间复杂度应该为 O&lpar;log &lpar;m+n&rpar;&rpar; 
+    还在焦头烂额写Report？或者想挖一挖数据金矿？来看看数据治理是如何在混乱的企业数据中创造价值的。 
     </details> 
 
-- 🕯 [PyTorch: 张量的变换、数学运算及线性回归](https://juejin.cn/post/7160121208078336030) | Sun Oct 30 2022 2:10 AM 
+- 🚀 [SpringBoot3.x原生镜像-Native Image尝鲜](https://juejin.cn/post/7160136615153631263) | Sun Oct 30 2022 3:07 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第32天，点击查看活动详情 张量变换 1.torch.reshape torch.reshape&lpar;input,shape&rpar; 功能： 
+    前提 Spring团队致力于为Spring应用程序提供原生映像支持已经有一段时间了。在SpringBoo2.x的Spring Native实验项目中酝酿了3年多之后，随着Spring Framewor 
     </details> 
 
-- 🚀 [偏向锁，轻量级锁，重量级锁的核心原理](https://juejin.cn/post/7160119032752898055) | Sun Oct 30 2022 1:59 AM 
+- 💪 [面向面试编程：分布式ID生成策略（一）](https://juejin.cn/post/7160132343523442701) | Sun Oct 30 2022 2:52 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第29天，点击查看活动详情 Java对象结构 在讲到本文的锁之前，先来简单了解一下Java的对象结构。Java的对象结构主要包括对 
-    </details> 
-
-- 💪 [2022-10-31 技术周刊第1期](https://juejin.cn/post/7160114624958824484) | Sun Oct 30 2022 1:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    ## 阅读与一句话 &gt;好像荷叶上泻过的水，留不下一点痕迹 ——钱钟书《围城》 ## 一周咨询 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第31天，点击查看活动详情 UUID UUID &lpar;Universally Unique Identifier&rpar;，通用唯一识别码。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
