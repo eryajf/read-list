@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [spring探秘之ConfigurationClassPostProcessor（一）：处理@ComponentScan注解](https://juejin.cn/post/7160112492562087949) | Sun Oct 30 2022 1:34 AM 
+- 🤗 [一篇文章带你吃透 Linux 下的环境变量](https://juejin.cn/post/7160222282797809695) | Sun Oct 30 2022 8:39 AM 
     <details><summary>展开描述 ...</summary> 
-    在 spring启动流程之执行BeanFactoryPostProcessor一文中，在执行BeanFactoryPostProcessor过程中，有一个重要的类会被执行到，它就是Configurat 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第30天，点击查看活动详情 前言 学习完 Linux 的 Shell 命令 和 Shell 脚本，我们还需要理解一 ：环境变量 
     </details> 
 
-- 🎡 [spring组件之BeanFactory](https://juejin.cn/post/7160111451028652040) | Sun Oct 30 2022 1:29 AM 
+- 🎡 [Nacos注册中心3-Cleint端&lpar;注册和心跳&rpar;](https://juejin.cn/post/7160219034011566117) | Sun Oct 30 2022 8:27 AM 
     <details><summary>展开描述 ...</summary> 
-    在学习spring容器中，最先接触的可能是 ApplicationContext，但beanFactory才是spring提供的最顶级的容器。 1. 什么是beanFactory beanFactor 
+    Nacos Client发送注册和心跳请求的入口及核心源码registerService和addBeatInfo方法 
     </details> 
 
-- 🕯 [iOS 小技能：Method Swizzling （交换方法的IMP）](https://juejin.cn/post/7160111198598348813) | Sun Oct 30 2022 1:29 AM 
+- 🕯 [计算机底层知识之二进制](https://juejin.cn/post/7160217826127511559) | Sun Oct 30 2022 8:23 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第31天，点击查看活动详情 前言 利用Objective-C Runtimee的动态绑定特性，将一个方法的实现与另一个方法的实现进 
+    大家好，我是柒八九。 今天，我们继续计算机底层知识的探索。我们来谈谈关于二进制的相关知识点。 如果，想了解该系列的文章，可以参考我们已经发布的文章。如下是往期文章。 文章list 计算机底层知识之CP 
     </details> 
 
-- 🚀 [spring mvc（四）：请求执行流程（一）之获取Handler](https://juejin.cn/post/7160110334483644447) | Sun Oct 30 2022 1:25 AM 
+- 🚀 [JavaScript设计模式之代理模式](https://juejin.cn/post/7160215752681717767) | Sun Oct 30 2022 8:15 AM 
     <details><summary>展开描述 ...</summary> 
-    上一篇文章我们分析RequestMapping初始化流程，本文将分析spring mvc的请求执行流程。 1. 请求的执行入口 在spring mvc之DispatcherServlet 初始化流程一 
+    本文将介绍代理模式的基本概念，并通过介绍Vue源码和一些开发场景中用到代理模式的案例，让读者能更好的理解代理模式的使用场景 
     </details> 
 
-- 💪 [spring mvc（三）：RequestMapping 初始化流程](https://juejin.cn/post/7160110059974819870) | Sun Oct 30 2022 1:24 AM 
+- 💪 [OpenMP 入门](https://juejin.cn/post/7160175377543856158) | Sun Oct 30 2022 5:38 AM 
     <details><summary>展开描述 ...</summary> 
-    前面的文章中，我们分析了DispatcherServlet初始化流程，本文将来分析RequestMapping初始化流程。这里所说的RequestMapping初始化流程，直观来说，就是spring处 
+    在本篇文章当中主要给大家介绍了 OpenMP 的基本使用和程序执行的基本原理，在后续的文章当中我们将仔细介绍各种 OpenMP 的子句和指令的使用方法，希望大家有所收获！ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
