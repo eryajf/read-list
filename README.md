@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [帮一朋友从头搭管理后台，他直呼通达，但基操勿六](https://juejin.cn/post/7160268956836560933) | Sun Oct 30 2022 11:40 AM 
+- 🤗 [Logback 相关组件](https://juejin.cn/post/7160286269161865252) | Sun Oct 30 2022 12:48 PM 
     <details><summary>展开描述 ...</summary> 
-    对，还是那位朋友，一位接近40的澳洲老哥，找我帮忙搞一个管理后台，他刚找到编程的工作，工作内容会用到管理后台，但是他找了一圈开源项目，直接被搞的晕头转向，完全不知如何下手，于是找我帮忙。 
+    启动流程 Logger logger = LoggerFactory.getLogger&lpar;Main1 
     </details> 
 
-- 🎡 [Flutter状态管理-Bloc的使用](https://juejin.cn/post/7160259367563067400) | Sun Oct 30 2022 11:04 AM 
+- 🎡 [【译】你真的了解 CSS 径向渐变吗？](https://juejin.cn/post/7160284459139334152) | Sun Oct 30 2022 12:44 PM 
     <details><summary>展开描述 ...</summary> 
-    本篇文章将介绍其中的`flutter_bloc`框架的使用，他是`bloc`设计思想模式在flutter上的实现，`bloc`全程全称 `business logic` ，业务逻辑的意思，核心思想就是 
+    七年前，我自学了所有关于CSS 线性渐变的知识，从那以后，我一直想了解更多关于径向渐变的工作原理。我花了很长时间才找到一个借口来深入挖掘其背后的逻辑，很庆幸我做到了 
     </details> 
 
-- 🕯 [JS之instanceof方法手写](https://juejin.cn/post/7160255345938563080) | Sun Oct 30 2022 10:47 AM 
+- 🕯 [Android开发数据结构与算法——ArrayList源码讲解](https://juejin.cn/post/7160285079657250846) | Sun Oct 30 2022 12:44 PM 
     <details><summary>展开描述 ...</summary> 
-    语法：objectobject：某个实例对象constructor：某个构造函数简言之就是用来检测 constructor.prototype 是否存在于参数 object 的原型链上。，或则说左侧对 
+    简介 ArrayList是List接口的一个实现类，它是一个集合容器，我们通常会通过指定泛型来存储同一类数据，ArrayList默认容器大小为10，自身可以自动扩容，当容量不足时，扩大为原来的1.5倍 
     </details> 
 
-- 🚀 [写好 Spring Starter : 控制好Bean的加载顺序与原理](https://juejin.cn/post/7160246367464456205) | Sun Oct 30 2022 10:14 AM 
+- 🚀 [我让虚拟DOM的diff算法过程动起来了](https://juejin.cn/post/7160281215940067336) | Sun Oct 30 2022 12:29 PM 
     <details><summary>展开描述 ...</summary> 
-    一 .前言 想写好一个 Starter , 控制配置的加载和Bean的加载是其中至关重要的一步. 这一篇把如何做好Bean管理做了一个总结 , 来好好看看Bean如何控制顺序. 二. 基础篇 - Be 
+    去年写了一篇文章介绍虚拟`DOM`的`patch`过程和`diff`算法过程，当时使用的是双端`diff`算法，今年看到了`Vue3`使用的已经是快速`diff`算法，所以也想写一篇来记录一下，但是肯 
     </details> 
 
-- 💪 [半监督学习入门基础（二）：最基础的3个概念](https://juejin.cn/post/7160239576240357413) | Sun Oct 30 2022 9:47 AM 
+- 💪 [使用纯 CSS 实现一个动态技能进度条](https://juejin.cn/post/7160279314871615502) | Sun Oct 30 2022 12:25 PM 
     <details><summary>展开描述 ...</summary> 
-    今天给大家介绍半监督学习中的3个最基础的概念：一致性正则化，熵最小化和伪标签，并介绍了两个经典的半监督学习方法。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第 20 天，点击查看活动详情 前言 大家好，我是爱吃鱼的桶哥Z，最近学习 CSS 上瘾，刚好又学到了一个新的效果，今天就来分享给 
     </details> 
 <!-- juejin:END -->
 ### 少数派
