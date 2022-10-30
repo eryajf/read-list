@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [寻一个 Python 长期的 jiān 职](https://www.v2ex.com/t/891133#reply0) | Sun Oct 30 2022 5:21 AM
-- 🤗 [突然发现自己一直以错误的方式打字](https://www.v2ex.com/t/891131#reply6) | Sun Oct 30 2022 5:13 AM
-- 🎭 [Zig 202210 月刊 | 0.10 蓄势待发](https://www.v2ex.com/t/891127#reply0) | Sun Oct 30 2022 4:53 AM
-- 🥷 [RustDesk 远程桌面服务端手动搭建，完美替代 Todesk](https://www.v2ex.com/t/891123#reply7) | Sun Oct 30 2022 4:44 AM
-- 🐵 [如何在三个月内将 Linux 学到能找到工作的程度](https://www.v2ex.com/t/891120#reply5) | Sun Oct 30 2022 4:27 AM<!-- v2ex:END -->
+- 🥸 [github 搞了个新的 feed，把原来的 following 删掉了](https://www.v2ex.com/t/891137#reply2) | Sun Oct 30 2022 5:35 AM
+- 🤗 [寻一个 Python 长期的 jiān 职](https://www.v2ex.com/t/891133#reply0) | Sun Oct 30 2022 5:21 AM
+- 🎭 [突然发现自己一直以错误的方式打字](https://www.v2ex.com/t/891131#reply19) | Sun Oct 30 2022 5:13 AM
+- 🥷 [Zig 202210 月刊 | 0.10 蓄势待发](https://www.v2ex.com/t/891127#reply0) | Sun Oct 30 2022 4:53 AM
+- 🐵 [RustDesk 远程桌面服务端手动搭建，完美替代 Todesk](https://www.v2ex.com/t/891123#reply11) | Sun Oct 30 2022 4:44 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
