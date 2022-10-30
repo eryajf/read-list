@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【JS】大道至简---来看看JS中你最熟悉的变量和数值的知识吧](https://juejin.cn/post/7160371001279119396) | Sun Oct 30 2022 6:21 PM 
+- 🤗 [[Hacker News 周报] 结构化 diff 工具；百倍快的 Python linter；PREACT 状态管理新方案](https://juejin.cn/post/7160417594195836941) | Sun Oct 30 2022 10:32 PM 
+    <details><summary>展开描述 ...</summary> 
+    本期时间轴： 00:11 Difftastic｜结构化 diff 工具 00:46 ruff｜百倍快... 
+    </details> 
+
+- 🎡 [[Hacker News 周报] 在线设计工具新动向；交互式 Markdown；Mac 中体验 AI 作画](https://juejin.cn/post/7160416705947107342) | Sun Oct 30 2022 10:32 PM 
+    <details><summary>展开描述 ...</summary> 
+    本期时间轴： 00:09 Figma 被收购引发在线设计工具新动向00:31 penpot｜开源设计... 
+    </details> 
+
+- 🕯 [【JS】大道至简---来看看JS中你最熟悉的变量和数值的知识吧](https://juejin.cn/post/7160371001279119396) | Sun Oct 30 2022 6:21 PM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第31天，点击查看活动详情持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第31天，[点击查看活动详情]&lpar;h 
     </details> 
 
-- 🎡 [Java安全框架——Apache Shiro（三十八）](https://juejin.cn/post/7160329837272367117) | Sun Oct 30 2022 3:37 PM 
+- 🚀 [动态适配 web 终端的尺寸](https://juejin.cn/post/7160332506015727629) | Sun Oct 30 2022 3:48 PM 
+    <details><summary>展开描述 ...</summary> 
+    使Xterminal组件自适应容器 通过 xtermjs 所创建的终端大小是由cols、rows这两个配置项的来决定，虽然你可以通过 CSS 样式来让其产生自适应效果，但是这种情况下字体会变得模糊变形 
+    </details> 
+
+- 💪 [Java安全框架——Apache Shiro（三十八）](https://juejin.cn/post/7160329837272367117) | Sun Oct 30 2022 3:37 PM 
     <details><summary>展开描述 ...</summary> 
     【2.4.2】CustomPathMatchingFilterChainResolver Custom 
-    </details> 
-
-- 🕯 [Go 单例模式](https://juejin.cn/post/7160327827131203592) | Sun Oct 30 2022 3:29 PM 
-    <details><summary>展开描述 ...</summary> 
-    简单单例模式 单例模式是创建类型的模式，它是为了保证执行期间内只有一个实例。使用 Golang 指针可以很容易的实现单例模式，通过指针保持相同的引用。 可以看到整个单例模式 由以下部分组成： 私有结构 
-    </details> 
-
-- 🚀 [我给数据只存在 localStorage 的实用备忘录 添加了语法高亮和折叠功能](https://juejin.cn/post/7160322940502835214) | Sun Oct 30 2022 3:11 PM 
-    <details><summary>展开描述 ...</summary> 
-    之前我开发了个所有数据只存在 localStorage 的实用备忘录。今天，我又开发了语法高亮、折叠功能，快来体验一下吧！ 
-    </details> 
-
-- 💪 [安卓开发必备——build.gradle文件初探（一）](https://juejin.cn/post/7160320687826010125) | Sun Oct 30 2022 3:04 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文主要是从安卓在Android Studio上开发为基础，探讨Gradle的相关知识点，逐步扩充相关知识，完善相应知识网。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
