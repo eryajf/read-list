@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一篇文章带你上手 Shell 脚本编程](https://juejin.cn/post/7160158980172415007) | Sun Oct 30 2022 4:38 AM 
+- 🤗 [终于有人能把分库分表讲明白了](https://juejin.cn/post/7160179498674028580) | Sun Oct 30 2022 5:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    此文参考其他作者写的文章进行了汇总，参考文献在文末。 前言 首先，能不分库分表就不分库分表。分库分表会带来很多问题，比如分布式事务、全局的唯一性id、结果集的合并等等。 那什么是分库分表呢？ 其实分库 
+    </details> 
+
+- 🎡 [【分布式技术专题】「架构实践于案例分析」总结和盘点目前常用分布式事务特别及问题分析（上）](https://juejin.cn/post/7160179456491913252) | Sun Oct 30 2022 5:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    分布式事务 分布式事务的场景 TX协议 ⼀种分布式事务协议，包含⼆阶段提交（2PC），三阶段提交（3PC）两种实现。 二阶段提交方案：强一致性 处理流程： 准备阶段 事务协调者，向所有事务参与者发送事 
+    </details> 
+
+- 🕯 [MySQL数据库-索引使用](https://juejin.cn/post/7160177865399468045) | Sun Oct 30 2022 5:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第30天点击查看活动详情 explain 字段 含义 id select查询的序列号，表示查询中执行select子句或者是操作表的 
+    </details> 
+
+- 🚀 [一篇文章带你上手 Shell 脚本编程](https://juejin.cn/post/7160158980172415007) | Sun Oct 30 2022 4:38 AM 
     <details><summary>展开描述 ...</summary> 
     持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第30天，点击查看活动详情 前言 之前我们通过文章《嵌入式 Linux 入门（五、Shell 脚本编程上：认识 Shell 脚本） 
     </details> 
 
-- 🎡 [RabbitMQ经典问题](https://juejin.cn/post/7160142561003175944) | Sun Oct 30 2022 3:34 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第29天，点击查看活动详情 RabbitMQ 有几种广播类型？ direct（默认方式）：最基础最简单的模式，发送方把消息发送给订 
-    </details> 
-
-- 🕯 [浅谈数据：为什么数据治理在企业数字化转型中扮演重要角色？](https://juejin.cn/post/7160141604379394084) | Sun Oct 30 2022 3:26 AM 
+- 💪 [浅谈数据：为什么数据治理在企业数字化转型中扮演重要角色？](https://juejin.cn/post/7160141604379394084) | Sun Oct 30 2022 3:26 AM 
     <details><summary>展开描述 ...</summary> 
     还在焦头烂额写Report？或者想挖一挖数据金矿？来看看数据治理是如何在混乱的企业数据中创造价值的。 
-    </details> 
-
-- 🚀 [SpringBoot3.x原生镜像-Native Image尝鲜](https://juejin.cn/post/7160136615153631263) | Sun Oct 30 2022 3:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    前提 Spring团队致力于为Spring应用程序提供原生映像支持已经有一段时间了。在SpringBoo2.x的Spring Native实验项目中酝酿了3年多之后，随着Spring Framewor 
-    </details> 
-
-- 💪 [面向面试编程：分布式ID生成策略（一）](https://juejin.cn/post/7160132343523442701) | Sun Oct 30 2022 2:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第31天，点击查看活动详情 UUID UUID &lpar;Universally Unique Identifier&rpar;，通用唯一识别码。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
