@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Logback 相关组件](https://juejin.cn/post/7160286269161865252) | Sun Oct 30 2022 12:48 PM 
+- 🤗 [线性表的定义及其的顺序存储结构](https://juejin.cn/post/7160311664544808996) | Sun Oct 30 2022 2:27 PM 
     <details><summary>展开描述 ...</summary> 
-    启动流程 Logger logger = LoggerFactory.getLogger&lpar;Main1 
+    - 所有数据元素类型相同 - 线性表由有限个数据元素构成 - 线性表中的数据元素与位置相关，即每个数据元素有唯一的序号，这表明线性表不同于集合，在线性表中可以出现相同的数据元素（他们的序号不同），而集 
     </details> 
 
-- 🎡 [【译】你真的了解 CSS 径向渐变吗？](https://juejin.cn/post/7160284459139334152) | Sun Oct 30 2022 12:44 PM 
+- 🎡 [一文带你认识蓝牙 GATT 协议](https://juejin.cn/post/7160308393503113247) | Sun Oct 30 2022 2:16 PM 
     <details><summary>展开描述 ...</summary> 
-    七年前，我自学了所有关于CSS 线性渐变的知识，从那以后，我一直想了解更多关于径向渐变的工作原理。我花了很长时间才找到一个借口来深入挖掘其背后的逻辑，很庆幸我做到了 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第30天，点击查看活动详情 前言 但是对于蓝牙 GATT 概念，我们还是只停留留在蓝牙协议栈基本框架层面，本文用一张图带你全面认识 
     </details> 
 
-- 🕯 [Android开发数据结构与算法——ArrayList源码讲解](https://juejin.cn/post/7160285079657250846) | Sun Oct 30 2022 12:44 PM 
+- 🕯 [局域网与广域网](https://juejin.cn/post/7160307553631469575) | Sun Oct 30 2022 2:12 PM 
     <details><summary>展开描述 ...</summary> 
-    简介 ArrayList是List接口的一个实现类，它是一个集合容器，我们通常会通过指定泛型来存储同一类数据，ArrayList默认容器大小为10，自身可以自动扩容，当容量不足时，扩大为原来的1.5倍 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第30天，点击查看活动详情 局域网 局域网概念和结构 定义 特点 覆盖范围小（一栋楼） 采用专门铺设的传输介质联网，数据传输率高  
     </details> 
 
-- 🚀 [我让虚拟DOM的diff算法过程动起来了](https://juejin.cn/post/7160281215940067336) | Sun Oct 30 2022 12:29 PM 
+- 🚀 [docker 安装jenkins教程](https://juejin.cn/post/7160307704593842184) | Sun Oct 30 2022 2:11 PM 
     <details><summary>展开描述 ...</summary> 
-    去年写了一篇文章介绍虚拟`DOM`的`patch`过程和`diff`算法过程，当时使用的是双端`diff`算法，今年看到了`Vue3`使用的已经是快速`diff`算法，所以也想写一篇来记录一下，但是肯 
+    docker安装jenkins 1、查看可用的 jenkins 版本 访问 jenkins 镜像库地址： https://hub.docker.com/_/jenkins?tab=tags 。 可以通 
     </details> 
 
-- 💪 [使用纯 CSS 实现一个动态技能进度条](https://juejin.cn/post/7160279314871615502) | Sun Oct 30 2022 12:25 PM 
+- 💪 [一看就懂的OpenGL ES教程——渲染宫崎骏动漫重拾童年](https://juejin.cn/post/7160304816877469733) | Sun Oct 30 2022 2:00 PM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第 20 天，点击查看活动详情 前言 大家好，我是爱吃鱼的桶哥Z，最近学习 CSS 上瘾，刚好又学到了一个新的效果，今天就来分享给 
+    上篇回顾 上一篇一看博文已经用代码实例详细展示了如何进行纹理映射，以及纹理映射能做一些什么有趣效果。有了上一篇的基础，这一篇就可以乘胜追击，从上一篇的静态图片进阶到视频的渲染。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
