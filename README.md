@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [终于有人能把分库分表讲明白了](https://juejin.cn/post/7160179498674028580) | Sun Oct 30 2022 5:55 AM 
+- 🤗 [spring探秘之ConfigurationClassPostProcessor（一）：处理@ComponentScan注解](https://juejin.cn/post/7160112492562087949) | Sun Oct 30 2022 1:34 AM 
     <details><summary>展开描述 ...</summary> 
-    此文参考其他作者写的文章进行了汇总，参考文献在文末。 前言 首先，能不分库分表就不分库分表。分库分表会带来很多问题，比如分布式事务、全局的唯一性id、结果集的合并等等。 那什么是分库分表呢？ 其实分库 
+    在 spring启动流程之执行BeanFactoryPostProcessor一文中，在执行BeanFactoryPostProcessor过程中，有一个重要的类会被执行到，它就是Configurat 
     </details> 
 
-- 🎡 [【分布式技术专题】「架构实践于案例分析」总结和盘点目前常用分布式事务特别及问题分析（上）](https://juejin.cn/post/7160179456491913252) | Sun Oct 30 2022 5:53 AM 
+- 🎡 [spring组件之BeanFactory](https://juejin.cn/post/7160111451028652040) | Sun Oct 30 2022 1:29 AM 
     <details><summary>展开描述 ...</summary> 
-    分布式事务 分布式事务的场景 TX协议 ⼀种分布式事务协议，包含⼆阶段提交（2PC），三阶段提交（3PC）两种实现。 二阶段提交方案：强一致性 处理流程： 准备阶段 事务协调者，向所有事务参与者发送事 
+    在学习spring容器中，最先接触的可能是 ApplicationContext，但beanFactory才是spring提供的最顶级的容器。 1. 什么是beanFactory beanFactor 
     </details> 
 
-- 🕯 [MySQL数据库-索引使用](https://juejin.cn/post/7160177865399468045) | Sun Oct 30 2022 5:47 AM 
+- 🕯 [iOS 小技能：Method Swizzling （交换方法的IMP）](https://juejin.cn/post/7160111198598348813) | Sun Oct 30 2022 1:29 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第30天点击查看活动详情 explain 字段 含义 id select查询的序列号，表示查询中执行select子句或者是操作表的 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第31天，点击查看活动详情 前言 利用Objective-C Runtimee的动态绑定特性，将一个方法的实现与另一个方法的实现进 
     </details> 
 
-- 🚀 [一篇文章带你上手 Shell 脚本编程](https://juejin.cn/post/7160158980172415007) | Sun Oct 30 2022 4:38 AM 
+- 🚀 [spring mvc（四）：请求执行流程（一）之获取Handler](https://juejin.cn/post/7160110334483644447) | Sun Oct 30 2022 1:25 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第30天，点击查看活动详情 前言 之前我们通过文章《嵌入式 Linux 入门（五、Shell 脚本编程上：认识 Shell 脚本） 
+    上一篇文章我们分析RequestMapping初始化流程，本文将分析spring mvc的请求执行流程。 1. 请求的执行入口 在spring mvc之DispatcherServlet 初始化流程一 
     </details> 
 
-- 💪 [go高并发时append方法偶现错误](https://juejin.cn/post/7159967055217688590) | Sat Oct 29 2022 4:10 PM 
+- 💪 [spring mvc（三）：RequestMapping 初始化流程](https://juejin.cn/post/7160110059974819870) | Sun Oct 30 2022 1:24 AM 
     <details><summary>展开描述 ...</summary> 
-    使用 goroutine 实现 500 个图片并发下载转码时，会偶现只转换了 499 个或更少的情况，发现原因是，同一时间点执行两次切片 append 方法，会偶现一次失效。 
+    前面的文章中，我们分析了DispatcherServlet初始化流程，本文将来分析RequestMapping初始化流程。这里所说的RequestMapping初始化流程，直观来说，就是spring处 
     </details> 
 <!-- juejin:END -->
 ### 少数派
