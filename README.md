@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Spring 的.properties 文件有没有什么文档可以看](https://www.v2ex.com/t/891203#reply0) | Sun Oct 30 2022 10:18 AM
-- 🤗 [新加坡申请 PR 永久居民和 SC 公民的流程介绍](https://www.v2ex.com/t/891201#reply0) | Sun Oct 30 2022 9:58 AM
-- 🎭 [B 站介绍 IPv6 视频博主，对 LnTrx 疑问的一些解释与回答](https://www.v2ex.com/t/891198#reply1) | Sun Oct 30 2022 9:46 AM
-- 🥷 [细数自己学习过的编程语言](https://www.v2ex.com/t/891197#reply4) | Sun Oct 30 2022 9:46 AM
-- 🐵 [2022 年 aws 的 lightsail 有办法 Linux 一键 DDwin 吗？](https://www.v2ex.com/t/891191#reply1) | Sun Oct 30 2022 9:15 AM<!-- v2ex:END -->
+- 🥸 [如何通过 props 将对象中的 render 渲染为组件](https://www.v2ex.com/t/891209#reply0) | Sun Oct 30 2022 10:36 AM
+- 🤗 [关于 Java 函数参数引用类型的问题](https://www.v2ex.com/t/891206#reply2) | Sun Oct 30 2022 10:30 AM
+- 🎭 [AVPixFmtDescriptor 结构](https://www.v2ex.com/t/891205#reply0) | Sun Oct 30 2022 10:23 AM
+- 🥷 [Spring 的.properties 文件有没有什么文档可以看](https://www.v2ex.com/t/891203#reply0) | Sun Oct 30 2022 10:18 AM
+- 🐵 [B 站介绍 IPv6 视频博主，对 LnTrx 疑问的一些解释与回答](https://www.v2ex.com/t/891198#reply1) | Sun Oct 30 2022 9:46 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
