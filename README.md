@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [如何通过 props 将对象中的 render 渲染为组件](https://www.v2ex.com/t/891209#reply0) | Sun Oct 30 2022 10:36 AM
-- 🤗 [关于 Java 函数参数引用类型的问题](https://www.v2ex.com/t/891206#reply2) | Sun Oct 30 2022 10:30 AM
-- 🎭 [AVPixFmtDescriptor 结构](https://www.v2ex.com/t/891205#reply0) | Sun Oct 30 2022 10:23 AM
-- 🥷 [Spring 的.properties 文件有没有什么文档可以看](https://www.v2ex.com/t/891203#reply0) | Sun Oct 30 2022 10:18 AM
-- 🐵 [B 站介绍 IPv6 视频博主，对 LnTrx 疑问的一些解释与回答](https://www.v2ex.com/t/891198#reply1) | Sun Oct 30 2022 9:46 AM<!-- v2ex:END -->
+- 🥸 [最近 chrome 偶尔无法播放视频](https://www.v2ex.com/t/891223#reply0) | Sun Oct 30 2022 11:44 AM
+- 🤗 [如何通过 props 将对象中的 render 渲染为组件](https://www.v2ex.com/t/891209#reply0) | Sun Oct 30 2022 10:36 AM
+- 🎭 [关于 Java 函数参数引用类型的问题](https://www.v2ex.com/t/891206#reply3) | Sun Oct 30 2022 10:30 AM
+- 🥷 [AVPixFmtDescriptor 结构](https://www.v2ex.com/t/891205#reply0) | Sun Oct 30 2022 10:23 AM
+- 🐵 [Spring 的.properties 文件有没有什么文档可以看](https://www.v2ex.com/t/891203#reply2) | Sun Oct 30 2022 10:18 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
