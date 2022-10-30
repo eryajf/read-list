@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [[记录]-一些适合 Coding 的环境音](https://www.v2ex.com/t/891115#reply0) | Sun Oct 30 2022 3:54 AM
-- 🤗 [反代时设置什么请求头可以限制 cookies 必须匹配全域名？](https://www.v2ex.com/t/891112#reply0) | Sun Oct 30 2022 3:37 AM
-- 🎭 [聊一下 “小而精” 的 C++方向，或者说是 ”不易被替代“ IT 方向](https://www.v2ex.com/t/891097#reply20) | Sun Oct 30 2022 2:41 AM
-- 🥷 [mTLS 在 Kubernetes 内存在的意义？](https://www.v2ex.com/t/891092#reply2) | Sun Oct 30 2022 2:19 AM
-- 🐵 [请推荐和 TailwindCSS 配合的 UI 组件库](https://www.v2ex.com/t/891088#reply10) | Sun Oct 30 2022 1:36 AM<!-- v2ex:END -->
+- 🥸 [寻一个 Python 长期的 jiān 职](https://www.v2ex.com/t/891133#reply0) | Sun Oct 30 2022 5:21 AM
+- 🤗 [突然发现自己一直以错误的方式打字](https://www.v2ex.com/t/891131#reply6) | Sun Oct 30 2022 5:13 AM
+- 🎭 [Zig 202210 月刊 | 0.10 蓄势待发](https://www.v2ex.com/t/891127#reply0) | Sun Oct 30 2022 4:53 AM
+- 🥷 [RustDesk 远程桌面服务端手动搭建，完美替代 Todesk](https://www.v2ex.com/t/891123#reply7) | Sun Oct 30 2022 4:44 AM
+- 🐵 [如何在三个月内将 Linux 学到能找到工作的程度](https://www.v2ex.com/t/891120#reply5) | Sun Oct 30 2022 4:27 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
