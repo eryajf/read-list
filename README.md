@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [TensorPipe：支持最先进增增强和底层优化的Tensorflow的高性能数据Pipeline](https://juejin.cn/post/7160556690767773733) | Mon Oct 31 2022 6:18 AM 
+- 🤗 [策略模式结合工程化在前端代码差异化的理论和实践](https://juejin.cn/post/7160581031081443359) | Mon Oct 31 2022 7:51 AM 
     <details><summary>展开描述 ...</summary> 
-    给大家介绍一个非常好用的TensorFlow数据pipeline工具。 高性能的Tensorflow Data Pipeline，使用SOTA的增强和底层优化。 
+    策略模式是通过对对代码中的控制逻辑进行一些抽象，提取控制变量中具有同一类特征的逻辑进行封装后减少冗余控制逻辑的一种设计模式，事实上在 2B 类产品的开发中，我们经常需要针对不同的运行平台编写一些特定逻 
     </details> 
 
-- 🎡 [Pinia初探](https://juejin.cn/post/7160545900446613534) | Mon Oct 31 2022 5:36 AM 
+- 🎡 [ThingsBoard 社区版源码构建指南](https://juejin.cn/post/7160570609854873613) | Mon Oct 31 2022 7:12 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，点击查看活动详情 1.Pinia简介 Pinia也是状态管理工具，相比于vuex Pinia的优势： vue3、vue2中 
+    我正在参加「掘金·启航计划」 本指南将帮助您从源代码下载并构建 ThingsBoard。 环境要求 必装软件 Java 11 ubuntu 系统上 手动安装 这里可选择任一厂商 JDK LTS 11， 
     </details> 
 
-- 🕯 [PET-AI解读 | rs-fMRI的GNN和TCN建模（图构建，时间序列归一化）](https://juejin.cn/post/7160533271267246116) | Mon Oct 31 2022 4:48 AM 
+- 🕯 [字节跳动 kube-apiserver 高可用方案 KubeGateway](https://juejin.cn/post/7160560066041479182) | Mon Oct 31 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
-    相关论文：A deep graph neural network architecture for modelling spatio-temporal dynamics in resting-stat 
+    本文整理自 2022 年稀土开发者大会演讲，字节跳动云原生工程师章骏分享了 Kubernetes 集群 kube-apiserver 请求的负载均衡和治理方案 KubeGateway 
     </details> 
 
-- 🚀 [我是真没想到，这个面试题居然从11年前就开始讨论了，而官方今年才表态。](https://juejin.cn/post/7160532061562880030) | Mon Oct 31 2022 4:42 AM 
+- 🚀 [&lpar;十三&rpar;MySQL引擎篇：半道出家的InnoDB为何能替换官方的MyISAM？](https://juejin.cn/post/7160557698642083847) | Mon Oct 31 2022 6:21 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是歪歪。 这期给大家盘一个面试题啊，就是下面的第二题。 这个面试题的图片都被弄的有一点“包浆”了。 所以为了你的观感，我还是把第二道题目手打一遍。 啧啧啧，这行为，暖男作者实锤了： 老实说， 
+    MyISAM是MySQL引擎中的“亲生子”，InnoDB则是由第三方研发的“外来子”，但为何InnoDB成了默认引擎？背后的这一场“夺嫡大戏”，究竟是MySQL始乱终弃，还是InnoDB实力过硬？ 
     </details> 
 
-- 💪 [MobLink for Flutter](https://juejin.cn/post/7160524777566765064) | Mon Oct 31 2022 4:15 AM 
+- 💪 [线性表的链式存储结构](https://juejin.cn/post/7160553433420808229) | Mon Oct 31 2022 6:05 AM 
     <details><summary>展开描述 ...</summary> 
-    本插件是基于MobLink 对Flutter进行插件扩充支持。目的是方便Flutter开发者更方便地集成使用MobLink。 
+    线性表的链式存储结构称为链表。在链表中每个结点不仅包含有元素本身的信息（称之为数据成员），而且包含有元素之间的逻辑关系的信息，即一个结点中包含有后继结点的地址信息或前驱结点的地址信息，我们把它称作指针 
     </details> 
 <!-- juejin:END -->
 ### 少数派
