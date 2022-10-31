@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [在 K8s 下部署 Java 微服务，一般用什么配置中心？](https://www.v2ex.com/t/891375#reply2) | Mon Oct 31 2022 3:27 AM
-- 🤗 [Python 的多层嵌套循环如何优化？](https://www.v2ex.com/t/891370#reply5) | Mon Oct 31 2022 3:15 AM
-- 🎭 [想问下 V 友们：大家做项目的动力是什么呢？用爱发电的最后都怎么样了？](https://www.v2ex.com/t/891348#reply0) | Mon Oct 31 2022 2:20 AM
-- 🥷 [我与某人因是否应该记住代码而发生挣执[The conflict between me and somebody over whether to remember codes]](https://www.v2ex.com/t/891338#reply9) | Mon Oct 31 2022 2:12 AM
-- 🐵 [同志们，你们的 nas 硬盘噪音大吗](https://www.v2ex.com/t/891332#reply38) | Mon Oct 31 2022 2:06 AM<!-- v2ex:END -->
+- 🥸 [Win11 22H2 22621 多系统的情况下切换系统的界面没有视频输出](https://www.v2ex.com/t/891409#reply0) | Mon Oct 31 2022 5:30 AM
+- 🤗 [完成了 NeetCode 150 的 2/3 咯🎉](https://www.v2ex.com/t/891401#reply0) | Mon Oct 31 2022 4:51 AM
+- 🎭 [android studio 把主模块（app）打成 jar 包，但是运行的时候报 Java .lang.NoClassDefFoundError](https://www.v2ex.com/t/891398#reply0) | Mon Oct 31 2022 4:30 AM
+- 🥷 [在 K8s 下部署 Java 微服务，一般用什么配置中心？](https://www.v2ex.com/t/891375#reply4) | Mon Oct 31 2022 3:27 AM
+- 🐵 [Python 的多层嵌套循环如何优化？](https://www.v2ex.com/t/891370#reply12) | Mon Oct 31 2022 3:15 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
