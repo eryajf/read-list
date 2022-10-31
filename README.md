@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [JS手写ES6的Object.create方法](https://juejin.cn/post/7160622425426640932) | Mon Oct 31 2022 10:33 AM 
+- 🤗 [浏览器播放rtsp视频流：4、jsmpeg+go实现局域网下的rtsp视频流web端播放](https://juejin.cn/post/7160653662199480351) | Mon Oct 31 2022 12:34 PM 
     <details><summary>展开描述 ...</summary> 
-    Object.create&lpar;&rpar; 方法用于创建一个新对象，使用现有的对象来作为新创建对象的原型（prototype）。Object.defineProperties&lpar;&rpar;方法直接在一个对象上定义新的属性或 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第21天，点击查看活动详情 1.前言 之前的rtsp转webrtc的方案存在如下缺陷：1.只支持h264；2.受限于webrtc的 
     </details> 
 
-- 🎡 [一文带你了解 Linux 下的磁盘管理](https://juejin.cn/post/7160621841046831118) | Mon Oct 31 2022 10:30 AM 
+- 🎡 [【分布式技术专题】「架构实践于案例分析」总结和盘点目前常用分布式事务特别及问题分析（中）](https://juejin.cn/post/7160653114638925838) | Mon Oct 31 2022 12:32 PM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第31天，点击查看活动详情 前言 本文目的就是 了解一下 Linux 下的磁盘管理的基本概念，比如什么是挂载，以及如何挂载 
+    基于MQ的分布式事务（MQ事务最终一致性） 方案简介 基于MQ 的分布式事务方案其实是对本地消息表的封装，将本地消息表基于MQ 内部，其他方面的协议基本与本地消息表一致。 本地消息表：最终一致性 方案 
     </details> 
 
-- 🕯 [OneFlow源码解析：Global Tensor](https://juejin.cn/post/7160618703233974308) | Mon Oct 31 2022 10:20 AM 
+- 🕯 [Jetpack Compose - 惯性衰减动画AnimateDecay&lpar;八&rpar;](https://juejin.cn/post/7160653354287235086) | Mon Oct 31 2022 12:32 PM 
     <details><summary>展开描述 ...</summary> 
-    Global Tensor是指被placement和SBP属性所指定的，一个全局视角下的逻辑Tensor。它的shape是逻辑形状，其真实数据根据placement和SBP的规则分布在多个rank上。 
+    什么是惯性衰减动画 比如说我们玩微信的时候 手指一拉，微信的列表就会惯性滑动 ，这个滑动的速率当然是越来越慢的，最终停止， 这个其实就是惯性衰减动画的典型例子 那这个例子和animateTo 有啥区别 
     </details> 
 
-- 🚀 [2022年你应该需要知道的CSS新特性-选择器和AT规则篇](https://juejin.cn/post/7160616305211473956) | Mon Oct 31 2022 10:09 AM 
+- 🚀 [取代Webpack的打包工具Turbopack究竟有多快](https://juejin.cn/post/7160651020958335007) | Mon Oct 31 2022 12:23 PM 
     <details><summary>展开描述 ...</summary> 
-    前一段时间State of CSS发起了2022年的调查问卷，该文件的内容主要是CSS新特性、框架、工具库的使用情况，这里我将会用几篇文章整理一下这个问卷中涉及到的新特性。 这篇文章将介绍如下内容： 
+    一、Turbopack简介 10 月 25 日，Next.js 13 正式发布。同时，Vercel 还推出并开源了下一代打包工具：Turbopack。Turbopack 是针对 JavaScript  
     </details> 
 
-- 💪 [2022年你应该需要知道的CSS新特性-交互篇](https://juejin.cn/post/7160614804359479304) | Mon Oct 31 2022 10:03 AM 
+- 💪 [go基础语法50问，来看看你的go基础合格了吗？](https://juejin.cn/post/7160639446612705316) | Mon Oct 31 2022 11:38 AM 
     <details><summary>展开描述 ...</summary> 
-    前一段时间State of CSS发起了2022年的调查问卷，该文件的内容主要是CSS新特性、框架、工具库的使用情况，这里我将会用几篇文章整理一下这个问卷中涉及到的新特性。 这篇文章将介绍如下内容： 
+    1.使用值为 nil 的 slice、map会发生啥 允许对值为 nil 的 slice 添加元素，但对值为 nil 的 map 添加元素，则会造成运行时 panic。 2.访问 map 
     </details> 
 <!-- juejin:END -->
 ### 少数派
