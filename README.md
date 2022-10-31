@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [聊聊长日志持续输出](https://juejin.cn/post/7160677549855473695) | Mon Oct 31 2022 2:06 PM 
+- 🤗 [D3&lpar;v7&rpar;入门一：初识SVG](https://juejin.cn/post/7160684957919903775) | Mon Oct 31 2022 2:36 PM 
+    <details><summary>展开描述 ...</summary> 
+    学习D3的前提，了解SVG的基础知识，熟悉常见图形的绘制，了解ViewBox的原理，为更好的学习D3前进。 
+    </details> 
+
+- 🎡 [沉浸式弹层越来越多，开发该怎么做好弹层体验？](https://juejin.cn/post/7160682370121760775) | Mon Oct 31 2022 2:25 PM 
+    <details><summary>展开描述 ...</summary> 
+    本篇介绍了各类弹层开发过程的体验注意点，同时给出了示例代码。随着沉浸式体验的推动，弹层会越来越多，建议各位开发同学也能够多多思考弹层如何改善用户体验。 
+    </details> 
+
+- 🕯 [聊聊长日志持续输出](https://juejin.cn/post/7160677549855473695) | Mon Oct 31 2022 2:06 PM 
     <details><summary>展开描述 ...</summary> 
     摘要 本期主要以规则引擎业务实现为背景,介绍长任务运行日志如何在页面端持续显示更新,用最小的耗费跟踪复杂逻辑的执行情况以便于问题定位。 效果 换不多说先上效果,紧接着跟进实现及处理逻辑 实现思路及组件 
     </details> 
 
-- 🎡 [我从 webpack 换到 vite，又换回了 webpack](https://juejin.cn/post/7160670274521104397) | Mon Oct 31 2022 1:38 PM 
+- 🚀 [我从 webpack 换到 vite，又换回了 webpack](https://juejin.cn/post/7160670274521104397) | Mon Oct 31 2022 1:38 PM 
     <details><summary>展开描述 ...</summary> 
     一次 webpack 到 vite 的失败迁移体验。`Vite` 经过一段时间的发展，目前的生态已经非常丰富了。所以就着手把项目的 `Webpack` 替换为 `Vite`。 
     </details> 
 
-- 🕯 [@PostConstruct 注解标记的类中，由于ApplicationContext还未加载，导致空指针](https://juejin.cn/post/7160667343134130206) | Mon Oct 31 2022 1:27 PM 
+- 💪 [@PostConstruct 注解标记的类中，由于ApplicationContext还未加载，导致空指针](https://juejin.cn/post/7160667343134130206) | Mon Oct 31 2022 1:27 PM 
     <details><summary>展开描述 ...</summary> 
     序 今天Code Review的时候 看到其他项目 static 方法需要使用 bean的实体方法，是从网上copy的 大概是 虽然现在 代码运行没有毛病，但是 我们有公共类SpringUtils 实 
-    </details> 
-
-- 🚀 [浏览器播放rtsp视频流：4、jsmpeg+go实现局域网下的rtsp视频流web端播放](https://juejin.cn/post/7160653662199480351) | Mon Oct 31 2022 12:34 PM 
-    <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第21天，点击查看活动详情 1.前言 之前的rtsp转webrtc的方案存在如下缺陷：1.只支持h264；2.受限于webrtc的 
-    </details> 
-
-- 💪 [【分布式技术专题】「架构实践于案例分析」总结和盘点目前常用分布式事务特别及问题分析（中）](https://juejin.cn/post/7160653114638925838) | Mon Oct 31 2022 12:32 PM 
-    <details><summary>展开描述 ...</summary> 
-    基于MQ的分布式事务（MQ事务最终一致性） 方案简介 基于MQ 的分布式事务方案其实是对本地消息表的封装，将本地消息表基于MQ 内部，其他方面的协议基本与本地消息表一致。 本地消息表：最终一致性 方案 
     </details> 
 <!-- juejin:END -->
 ### 少数派
