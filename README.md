@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [进外包体验](https://www.v2ex.com/t/891608#reply0) | Mon Oct 31 2022 3:17 PM
-- 🤗 [强制老款 mac 走 2.4GHz](https://www.v2ex.com/t/891607#reply0) | Mon Oct 31 2022 3:05 PM
-- 🎭 [分享一个可以 blink nvim 光标的映射](https://www.v2ex.com/t/891601#reply4) | Mon Oct 31 2022 2:15 PM
-- 🥷 [CUDA 里面，一个 SM 里面的不同 block，是不能共享 shared memory 的吗？](https://www.v2ex.com/t/891591#reply2) | Mon Oct 31 2022 1:53 PM
-- 🐵 [android 项目，把一个子模块打成 jar 包，在 jar 包中如何获取 application？？](https://www.v2ex.com/t/891586#reply2) | Mon Oct 31 2022 1:25 PM<!-- v2ex:END -->
+- 🥸 [进外包体验](https://www.v2ex.com/t/891608#reply1) | Mon Oct 31 2022 3:17 PM
+- 🤗 [分享一个可以 blink nvim 光标的映射](https://www.v2ex.com/t/891601#reply5) | Mon Oct 31 2022 2:15 PM
+- 🎭 [CUDA 里面，一个 SM 里面的不同 block，是不能共享 shared memory 的吗？](https://www.v2ex.com/t/891591#reply2) | Mon Oct 31 2022 1:53 PM
+- 🥷 [android 项目，把一个子模块打成 jar 包，在 jar 包中如何获取 application？？](https://www.v2ex.com/t/891586#reply2) | Mon Oct 31 2022 1:25 PM
+- 🐵 [请教一个 newlib 库 SLIST_FOREACH_SAFE 宏的骚操作](https://www.v2ex.com/t/891582#reply4) | Mon Oct 31 2022 12:53 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
