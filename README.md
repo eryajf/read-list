@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [TypeScript 安装与使用](https://juejin.cn/post/7160511112348172324) | Mon Oct 31 2022 3:20 AM 
+- 🤗 [在 OpenLayers 中清除数据](https://juejin.cn/post/7160540011211784205) | Mon Oct 31 2022 5:16 AM 
     <details><summary>展开描述 ...</summary> 
-    TypeScript 安装与使用 通过 npm 全局安装 TypeScript： npm install -g typescript 
+    在 OpenLayers 中，各个概念的顺序是 map -&gt; layer -&gt; source -&gt; feature -&gt; geometry -&gt; coordinates 你要操作 layer 的话是在 
     </details> 
 
-- 🎡 [Nacos注册中心4-Client端&lpar;获取所有服务请求&rpar;](https://juejin.cn/post/7160490109664493582) | Mon Oct 31 2022 1:58 AM 
+- 🎡 [从 wepy 到 uniapp 变形记](https://juejin.cn/post/7160504826693386253) | Mon Oct 31 2022 2:56 AM 
     <details><summary>展开描述 ...</summary> 
-    Nacos Client端获取所有服务请求，入口类DiscoveryClientHealthIndicator#health。 
+    本文主要讲述了如何将 wepy 框架的小程序项目一键转换为 uni-app 框架代码，详细讲解了方案的实现思路和具体实现方法。 
     </details> 
 
-- 🕯 [32、Flutter之 ListView组件详解](https://juejin.cn/post/7160488807949664293) | Mon Oct 31 2022 1:54 AM 
+- 🕯 [ES6的proxy](https://juejin.cn/post/7160502273537179678) | Mon Oct 31 2022 2:46 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第32天，点击查看活动详情 ListView是最常用的可滚动组件之一，它可以沿一个方向线性排布所有子组件，并且它也支持列表项懒加载 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第11天点击查看活动详情 1 简介 本文介绍 Proxy的基本用法，并用它实现了几个小应用： 1.访问对象不存在的属性时，主动抛出 
     </details> 
 
-- 🚀 [全栈开发—Vue+Element+Koa 实战发布平台CRUD！](https://juejin.cn/post/7160488833954349086) | Mon Oct 31 2022 1:54 AM 
+- 🚀 [安卓开发必备——build.gradle文件初探（二）](https://juejin.cn/post/7160501464001937445) | Mon Oct 31 2022 2:43 AM 
     <details><summary>展开描述 ...</summary> 
-    哈喽大家好！这篇文章来到了发布平台全栈开发的前端部分，终于回到我们最熟悉的前端了！本文将接着前面三篇文章，展开介绍发布平台的前端实战！依然是熟悉的手把手，看完不懂你直接打我！！ 
+    本篇是介绍Android Studio中构建项目的build.gradle文件的第二部分，希望可以帮助各位更好的认识Gradle在安卓项目中的使用，了解相关配置方法！ 
     </details> 
 
-- 💪 [在数据增强、蒸馏剪枝下ERNIE3.0分类模型性能提升](https://juejin.cn/post/7160487038620270600) | Mon Oct 31 2022 1:48 AM 
+- 💪 [Java安全框架——Apache Shiro（三十九）](https://juejin.cn/post/7160499456377356301) | Mon Oct 31 2022 2:35 AM 
     <details><summary>展开描述 ...</summary> 
-    分析可得， * 首先数据增强后导致性能部分下降部分和预期的原因： 随机mask、删除会产生过多噪声样本影响结果，推荐只使用同义词替换，本次样本数据量足够，且ERNIE性能本就优越，数据增强对结果提升 
+    【2.4.4】ShiroConfig改造 package com.itheima.shiro.conf 
     </details> 
 <!-- juejin:END -->
 ### 少数派
