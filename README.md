@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [JS手写数组扁平化（flat）方法](https://juejin.cn/post/7160615056562978829) | Mon Oct 31 2022 10:05 AM 
+- 🤗 [JS手写ES6的Object.create方法](https://juejin.cn/post/7160622425426640932) | Mon Oct 31 2022 10:33 AM 
     <details><summary>展开描述 ...</summary> 
-    数组扁平化方法也叫数组拍平、数组拉平、数组降维。Array.prototype.flat&lpar;&rpar; 用于将嵌套的数组“拉平”，变成一维的数组。该方法返回一个新数组，对原数据没有影响。 
+    Object.create&lpar;&rpar; 方法用于创建一个新对象，使用现有的对象来作为新创建对象的原型（prototype）。Object.defineProperties&lpar;&rpar;方法直接在一个对象上定义新的属性或 
     </details> 
 
-- 🎡 [webpack打包优化](https://juejin.cn/post/7160596941452574727) | Mon Oct 31 2022 8:54 AM 
+- 🎡 [一文带你了解 Linux 下的磁盘管理](https://juejin.cn/post/7160621841046831118) | Mon Oct 31 2022 10:30 AM 
     <details><summary>展开描述 ...</summary> 
-    打包速度：优化打包速度，主要是提升了我们的开发效率，更快的打包构建过程，将让你保持一颗愉悦的心 打包体积：优化打包体积，主要是提升产品的使用体验，降低服务器资源成本，更快的页面加载，将让产品显得更加“ 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第31天，点击查看活动详情 前言 本文目的就是 了解一下 Linux 下的磁盘管理的基本概念，比如什么是挂载，以及如何挂载 
     </details> 
 
-- 🕯 [被忽视的 npm init](https://juejin.cn/post/7160589377725268005) | Mon Oct 31 2022 8:24 AM 
+- 🕯 [OneFlow源码解析：Global Tensor](https://juejin.cn/post/7160618703233974308) | Mon Oct 31 2022 10:20 AM 
     <details><summary>展开描述 ...</summary> 
-    前阵子在 Vite 文档 看到快速构建 Vite 工程的命令： 第一次见过 npm create 命令，查阅后发现是 npm init 的别名。 
+    Global Tensor是指被placement和SBP属性所指定的，一个全局视角下的逻辑Tensor。它的shape是逻辑形状，其真实数据根据placement和SBP的规则分布在多个rank上。 
     </details> 
 
-- 🚀 [【从入门到提桶】低成本构建&quot;类monorepo&quot;项目——多页面应用&lpar;multi-page&rpar;模式](https://juejin.cn/post/7160581239970201608) | Mon Oct 31 2022 7:53 AM 
+- 🚀 [2022年你应该需要知道的CSS新特性-选择器和AT规则篇](https://juejin.cn/post/7160616305211473956) | Mon Oct 31 2022 10:09 AM 
     <details><summary>展开描述 ...</summary> 
-    假如有这样一个场景，不同的业务方向都对应着一个项目，这些项目的基本框架&lpar;包括登录、菜单、样式风格等&rpar;都相同，只有具体的业务内容不同，这个时候该怎么合理、高效地管理项目呢？ 
+    前一段时间State of CSS发起了2022年的调查问卷，该文件的内容主要是CSS新特性、框架、工具库的使用情况，这里我将会用几篇文章整理一下这个问卷中涉及到的新特性。 这篇文章将介绍如下内容： 
     </details> 
 
-- 💪 [使用python爬虫实现网页视频自动下载并保存](https://juejin.cn/post/7160579675050213390) | Mon Oct 31 2022 7:47 AM 
+- 💪 [2022年你应该需要知道的CSS新特性-交互篇](https://juejin.cn/post/7160614804359479304) | Mon Oct 31 2022 10:03 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 背景 由于之前做视频搬运，需要批量保存某网站视频，这是一个长期而固定的事情，几乎每天都要去关注有没有新的视频然后下载保存很是烦恼，所以想着能不能用python解决一下痛点 
+    前一段时间State of CSS发起了2022年的调查问卷，该文件的内容主要是CSS新特性、框架、工具库的使用情况，这里我将会用几篇文章整理一下这个问卷中涉及到的新特性。 这篇文章将介绍如下内容： 
     </details> 
 <!-- juejin:END -->
 ### 少数派
