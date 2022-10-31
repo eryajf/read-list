@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [在 OpenLayers 中清除数据](https://juejin.cn/post/7160540011211784205) | Mon Oct 31 2022 5:16 AM 
+- 🤗 [TensorPipe：支持最先进增增强和底层优化的Tensorflow的高性能数据Pipeline](https://juejin.cn/post/7160556690767773733) | Mon Oct 31 2022 6:18 AM 
     <details><summary>展开描述 ...</summary> 
-    在 OpenLayers 中，各个概念的顺序是 map -&gt; layer -&gt; source -&gt; feature -&gt; geometry -&gt; coordinates 你要操作 layer 的话是在 
+    给大家介绍一个非常好用的TensorFlow数据pipeline工具。 高性能的Tensorflow Data Pipeline，使用SOTA的增强和底层优化。 
     </details> 
 
-- 🎡 [动态规划——01背包](https://juejin.cn/post/7160514417728159751) | Mon Oct 31 2022 3:34 AM 
+- 🎡 [Pinia初探](https://juejin.cn/post/7160545900446613534) | Mon Oct 31 2022 5:36 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第31天，点击查看活动详情 题目描述 01背包：给你n个物品，每个物品都有一个体积和价值，且物品只有一个，给你一个背包体积v，要求 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第7天，点击查看活动详情 1.Pinia简介 Pinia也是状态管理工具，相比于vuex Pinia的优势： vue3、vue2中 
     </details> 
 
-- 🕯 [Luminar Neo 教程，如何在 Luminar Neo 中使用心情工具？](https://juejin.cn/post/7160514440708751373) | Mon Oct 31 2022 3:33 AM 
+- 🕯 [PET-AI解读 | rs-fMRI的GNN和TCN建模（图构建，时间序列归一化）](https://juejin.cn/post/7160533271267246116) | Mon Oct 31 2022 4:48 AM 
     <details><summary>展开描述 ...</summary> 
-    欢迎观看 Luminar Neo 中文版教程，小编带大家学习 Luminar Neo 的基本工具和使用技巧，了解如何在 Luminar Neo 中使心情工具。 
+    相关论文：A deep graph neural network architecture for modelling spatio-temporal dynamics in resting-stat 
     </details> 
 
-- 🚀 [常见图片格式之二进制格式分析](https://juejin.cn/post/7160512633132171294) | Mon Oct 31 2022 3:28 AM 
+- 🚀 [我是真没想到，这个面试题居然从11年前就开始讨论了，而官方今年才表态。](https://juejin.cn/post/7160532061562880030) | Mon Oct 31 2022 4:42 AM 
     <details><summary>展开描述 ...</summary> 
-    我们经常使用图片来表达信息，图片已然成为一种沟通方式。图片可以表达信息，我们也需要知道图片本身是如何被表达出来的。本文将就图片的类型和常见图片格式的二进制进行解析，希望对大家有帮助！ 
+    大家好，我是歪歪。 这期给大家盘一个面试题啊，就是下面的第二题。 这个面试题的图片都被弄的有一点“包浆”了。 所以为了你的观感，我还是把第二道题目手打一遍。 啧啧啧，这行为，暖男作者实锤了： 老实说， 
     </details> 
 
-- 💪 [WebRTC线程管理学习](https://juejin.cn/post/7160511683977281567) | Mon Oct 31 2022 3:22 AM 
+- 💪 [MobLink for Flutter](https://juejin.cn/post/7160524777566765064) | Mon Oct 31 2022 4:15 AM 
     <details><summary>展开描述 ...</summary> 
-    WebRTC的线程管理 为什么是从线程开始切入整个WebRTC源码？相信只要对WebRTC有一定的了解的都清楚WebRTC内部有着自己的一套线程管理机制，WebRTC通过这套线程管理机制，非常简单就达 
+    本插件是基于MobLink 对Flutter进行插件扩充支持。目的是方便Flutter开发者更方便地集成使用MobLink。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
