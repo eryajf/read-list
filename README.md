@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [管理系统必备技&lpar;13&rpar;:Java对接微信公众号实现消息交互](https://juejin.cn/post/7160576815202271263) | Mon Oct 31 2022 7:35 AM 
+- 🤗 [JS手写数组扁平化（flat）方法](https://juejin.cn/post/7160615056562978829) | Mon Oct 31 2022 10:05 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 本文是一次关于微信公众号开发的实践，将微信公众号的人员与平台的用户进行一个绑定。 已知，平台的用户字段有手机号、公众号用户id。而关注公众号后能获取到的用户信息中主 
+    数组扁平化方法也叫数组拍平、数组拉平、数组降维。Array.prototype.flat&lpar;&rpar; 用于将嵌套的数组“拉平”，变成一维的数组。该方法返回一个新数组，对原数据没有影响。 
     </details> 
 
-- 🎡 [Sanitizers 系列之 address sanitizer 原理篇](https://juejin.cn/post/7160571488163069959) | Mon Oct 31 2022 7:15 AM 
+- 🎡 [TypeScript 命名空间](https://juejin.cn/post/7160584754104893453) | Mon Oct 31 2022 8:06 AM 
     <details><summary>展开描述 ...</summary> 
-    本文主要介绍asan的算法，asan的各种优势本质上是源自于它的算法，本节内容主要基于asan论文《AddressSanitizer: A Fast Address Sanity Checker 》。 
+    1.前言 在TypeScript官方文档中是这样描述命名空间的： 请务必注意一点，TypeScript 1.5里术语名已经发生了变化。 “内部模块”现在称做“命名空间”。 “外部模块”现在则简称为“模 
     </details> 
 
-- 🕯 [优化前端Docker打包慢，从2000多秒降到100多秒](https://juejin.cn/post/7160567063449829407) | Mon Oct 31 2022 6:59 AM 
+- 🕯 [从零开始实现一个基于 MQTT 协议的物联网模型](https://juejin.cn/post/7160584041995960327) | Mon Oct 31 2022 8:04 AM 
     <details><summary>展开描述 ...</summary> 
-    从图片分析打包慢的原因 上下文关联目录文件 docker 是 c/s 的架构设计，当用户执行 docker build 时并不是在 client 直接进行构建，而是将 build 指定的目录作为上下文 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第31天，点击查看活动详情 前言 本文作为一个具体的应用实现，基于ESP32-C3，把前面博文所学的知识做了个结合，具体实现的功能 
     </details> 
 
-- 🚀 [【IE11兼容】ElementUI之日期选择器组件&lpar;DatePicker-range&rpar;的问题和处理](https://juejin.cn/post/7160565795141976101) | Mon Oct 31 2022 6:53 AM 
+- 🚀 [「MySQL高级篇」MySQL主从复制 &amp;&amp; 读写分离 -- 附具体的搭建过程，MyCat实现](https://juejin.cn/post/7160580280682545166) | Mon Oct 31 2022 7:49 AM 
     <details><summary>展开描述 ...</summary> 
-    前情提要 测试在进行浏览器放大150%时页面UI是否正常的测试中发现日期选择器组件（时间范围选择）的两个时间选择区的上方和下方的边框线没了。 先看下没有问题的边框应该是什么样子的： 再看下ie浏览器突 
+    复制，cv怪，已经成为了程序员的标签hhh，但实际上复制是有很大作用的，特别是在提升系统高可用性方面，MySQL和redis中都充分运用了复制这一原理，并且扩展出了各种复制模型，引申出了读写分离~ 
     </details> 
 
-- 💪 [踩坑 || ios横屏失效 || 横屏ios不生效问题的问题 || uniapp横屏兼容问题](https://juejin.cn/post/7160561807126429726) | Mon Oct 31 2022 6:37 AM 
+- 💪 [【第90天】学生成绩输出到磁盘文件 stud 中](https://juejin.cn/post/7160577945684639752) | Mon Oct 31 2022 7:40 AM 
     <details><summary>展开描述 ...</summary> 
-    横屏ios不生效问题的问题，关于使用uni-app写app调横竖屏事件打包后或真机环境下，横屏在安卓机上可以实现，但是在ios上无法横屏的问题。 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第30天，点击查看活动详情 PC端主页可联系我，欢迎问题咨询和技术交流！ 零、前言 我的学习策略很简单，题海策略+ 费曼学习法。如 
     </details> 
 <!-- juejin:END -->
 ### 少数派
