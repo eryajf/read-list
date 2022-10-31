@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [策略模式结合工程化在前端代码差异化的理论和实践](https://juejin.cn/post/7160581031081443359) | Mon Oct 31 2022 7:51 AM 
+- 🤗 [管理系统必备技&lpar;13&rpar;:Java对接微信公众号实现消息交互](https://juejin.cn/post/7160576815202271263) | Mon Oct 31 2022 7:35 AM 
     <details><summary>展开描述 ...</summary> 
-    策略模式是通过对对代码中的控制逻辑进行一些抽象，提取控制变量中具有同一类特征的逻辑进行封装后减少冗余控制逻辑的一种设计模式，事实上在 2B 类产品的开发中，我们经常需要针对不同的运行平台编写一些特定逻 
+    前言 本文是一次关于微信公众号开发的实践，将微信公众号的人员与平台的用户进行一个绑定。 已知，平台的用户字段有手机号、公众号用户id。而关注公众号后能获取到的用户信息中主 
     </details> 
 
-- 🎡 [ThingsBoard 社区版源码构建指南](https://juejin.cn/post/7160570609854873613) | Mon Oct 31 2022 7:12 AM 
+- 🎡 [Sanitizers 系列之 address sanitizer 原理篇](https://juejin.cn/post/7160571488163069959) | Mon Oct 31 2022 7:15 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「掘金·启航计划」 本指南将帮助您从源代码下载并构建 ThingsBoard。 环境要求 必装软件 Java 11 ubuntu 系统上 手动安装 这里可选择任一厂商 JDK LTS 11， 
+    本文主要介绍asan的算法，asan的各种优势本质上是源自于它的算法，本节内容主要基于asan论文《AddressSanitizer: A Fast Address Sanity Checker 》。 
     </details> 
 
-- 🕯 [字节跳动 kube-apiserver 高可用方案 KubeGateway](https://juejin.cn/post/7160560066041479182) | Mon Oct 31 2022 6:30 AM 
+- 🕯 [优化前端Docker打包慢，从2000多秒降到100多秒](https://juejin.cn/post/7160567063449829407) | Mon Oct 31 2022 6:59 AM 
     <details><summary>展开描述 ...</summary> 
-    本文整理自 2022 年稀土开发者大会演讲，字节跳动云原生工程师章骏分享了 Kubernetes 集群 kube-apiserver 请求的负载均衡和治理方案 KubeGateway 
+    从图片分析打包慢的原因 上下文关联目录文件 docker 是 c/s 的架构设计，当用户执行 docker build 时并不是在 client 直接进行构建，而是将 build 指定的目录作为上下文 
     </details> 
 
-- 🚀 [&lpar;十三&rpar;MySQL引擎篇：半道出家的InnoDB为何能替换官方的MyISAM？](https://juejin.cn/post/7160557698642083847) | Mon Oct 31 2022 6:21 AM 
+- 🚀 [【IE11兼容】ElementUI之日期选择器组件&lpar;DatePicker-range&rpar;的问题和处理](https://juejin.cn/post/7160565795141976101) | Mon Oct 31 2022 6:53 AM 
     <details><summary>展开描述 ...</summary> 
-    MyISAM是MySQL引擎中的“亲生子”，InnoDB则是由第三方研发的“外来子”，但为何InnoDB成了默认引擎？背后的这一场“夺嫡大戏”，究竟是MySQL始乱终弃，还是InnoDB实力过硬？ 
+    前情提要 测试在进行浏览器放大150%时页面UI是否正常的测试中发现日期选择器组件（时间范围选择）的两个时间选择区的上方和下方的边框线没了。 先看下没有问题的边框应该是什么样子的： 再看下ie浏览器突 
     </details> 
 
-- 💪 [线性表的链式存储结构](https://juejin.cn/post/7160553433420808229) | Mon Oct 31 2022 6:05 AM 
+- 💪 [踩坑 || ios横屏失效 || 横屏ios不生效问题的问题 || uniapp横屏兼容问题](https://juejin.cn/post/7160561807126429726) | Mon Oct 31 2022 6:37 AM 
     <details><summary>展开描述 ...</summary> 
-    线性表的链式存储结构称为链表。在链表中每个结点不仅包含有元素本身的信息（称之为数据成员），而且包含有元素之间的逻辑关系的信息，即一个结点中包含有后继结点的地址信息或前驱结点的地址信息，我们把它称作指针 
+    横屏ios不生效问题的问题，关于使用uni-app写app调横竖屏事件打包后或真机环境下，横屏在安卓机上可以实现，但是在ios上无法横屏的问题。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
