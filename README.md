@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [[Hacker News 周报] 结构化 diff 工具；百倍快的 Python linter；PREACT 状态管理新方案](https://juejin.cn/post/7160417594195836941) | Sun Oct 30 2022 10:32 PM 
+- 🤗 [Java经典面试题](https://juejin.cn/post/7160482082546778143) | Mon Oct 31 2022 1:27 AM 
     <details><summary>展开描述 ...</summary> 
-    本期时间轴： 00:11 Difftastic｜结构化 diff 工具 00:46 ruff｜百倍快... 
+    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第30天，点击查看活动详情 JDK 和 JRE 有什么区别？ JDK：Java Development Kit 的简称，Java  
     </details> 
 
-- 🎡 [[Hacker News 周报] 在线设计工具新动向；交互式 Markdown；Mac 中体验 AI 作画](https://juejin.cn/post/7160416705947107342) | Sun Oct 30 2022 10:32 PM 
+- 🎡 [对抗生成网络GAN系列——f-AnoGAN原理及缺陷检测实战](https://juejin.cn/post/7160479157447557151) | Mon Oct 31 2022 1:16 AM 
     <details><summary>展开描述 ...</summary> 
-    本期时间轴： 00:09 Figma 被收购引发在线设计工具新动向00:31 penpot｜开源设计... 
+    本文是继AnoGAN后基于GAN实现瑕疵检测的又一力作，相比于AnoGAN又快又稳，还不快来看看🔪🗡⚔🏹 
     </details> 
 
-- 🕯 [【JS】大道至简---来看看JS中你最熟悉的变量和数值的知识吧](https://juejin.cn/post/7160371001279119396) | Sun Oct 30 2022 6:21 PM 
+- 🕯 [ModuleFederationPlugin 源码解析（一）](https://juejin.cn/post/7160477060853399559) | Mon Oct 31 2022 1:08 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第31天，点击查看活动详情持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第31天，[点击查看活动详情]&lpar;h 
+    微前端是这几年比较火的一个前端应用架构方案，其中比较核心的一点是各子应用之间要做到独立开发，独立构建部署上线。 
     </details> 
 
-- 🚀 [动态适配 web 终端的尺寸](https://juejin.cn/post/7160332506015727629) | Sun Oct 30 2022 3:48 PM 
+- 🚀 [计算机底层知识之处理小数](https://juejin.cn/post/7160475861580251166) | Mon Oct 31 2022 1:05 AM 
     <details><summary>展开描述 ...</summary> 
-    使Xterminal组件自适应容器 通过 xtermjs 所创建的终端大小是由cols、rows这两个配置项的来决定，虽然你可以通过 CSS 样式来让其产生自适应效果，但是这种情况下字体会变得模糊变形 
+    1. 计算机运算出错的原因：**有一些十进制数的小数无法转换成二进制** 2.只用**符号**、**尾数**、**指数**这三部分就可以表示**浮点数**。 
     </details> 
 
-- 💪 [Java安全框架——Apache Shiro（三十八）](https://juejin.cn/post/7160329837272367117) | Sun Oct 30 2022 3:37 PM 
+- 💪 [下一代工具链「GitHub 热点速览 v.22.43」](https://juejin.cn/post/7160476064441958413) | Mon Oct 31 2022 1:04 AM 
     <details><summary>展开描述 ...</summary> 
-    【2.4.2】CustomPathMatchingFilterChainResolver Custom 
+    作为一个前端工程师，你这周被下一代的前端工具链 Turbo 刷屏了吗？不只是 Turbo 这个小工具，作为一个社区生产力工具，本周思否还开源了他们的问答系统 answer，能直接用上相关的技术标签也省 
     </details> 
 <!-- juejin:END -->
 ### 少数派
