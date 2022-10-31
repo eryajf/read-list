@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [todo 软件有没有一起开发的（干倒现有的 todo）](https://www.v2ex.com/t/891288#reply11) | Sun Oct 30 2022 7:57 PM
-- 🤗 [tar 打包的时候参数位置错误导致源文件变成 tgz 格式，如何恢复原文件](https://www.v2ex.com/t/891286#reply0) | Sun Oct 30 2022 6:22 PM
-- 🎭 [非常蹊跷的 Hive 查询问题，求解答](https://www.v2ex.com/t/891276#reply1) | Sun Oct 30 2022 3:38 PM
-- 🥷 [我也用 1k 字节 js 撸了个 DTMF 电话拨号音模拟](https://www.v2ex.com/t/891268#reply2) | Sun Oct 30 2022 3:07 PM
-- 🐵 [Android 手机上可以搭建本地 httpServer 吗?](https://www.v2ex.com/t/891266#reply7) | Sun Oct 30 2022 3:03 PM<!-- v2ex:END -->
+- 🥸 [TS-464C/N5105 最大支持多少内存 ？](https://www.v2ex.com/t/891325#reply2) | Mon Oct 31 2022 1:52 AM
+- 🤗 [数据技术选型是一个难题，分享一下项目中的实战经验。](https://www.v2ex.com/t/891324#reply0) | Mon Oct 31 2022 1:50 AM
+- 🎭 [关于电脑硬件问题：一堆 sata 口的光驱，程序控制逐个开关门发现间隔变得很慢，这是受到哪部分影响的？](https://www.v2ex.com/t/891308#reply0) | Mon Oct 31 2022 1:22 AM
+- 🥷 [如何实现付费下载功能？](https://www.v2ex.com/t/891301#reply7) | Mon Oct 31 2022 1:06 AM
+- 🐵 [todo 软件有没有一起开发的（干倒现有的 todo）](https://www.v2ex.com/t/891288#reply37) | Sun Oct 30 2022 7:57 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
