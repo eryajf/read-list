@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请教 nas cpu 选择&lpar;e3 1220l v2/e3 1260l/e3 1230 v2&rpar;](https://www.v2ex.com/t/891659#reply2) | Tue Nov 01 2022 2:07 AM
-- 🤗 [作为一名准大龄程序员（马上满 31 岁了），是选择继续待在深圳，还是回老家江西宜春？或者是去湖南长沙？](https://www.v2ex.com/t/891658#reply0) | Tue Nov 01 2022 2:06 AM
-- 🎭 [Python 自定义异常的疑问？](https://www.v2ex.com/t/891651#reply1) | Tue Nov 01 2022 1:57 AM
-- 🥷 [假如勒索病毒有机会进入 nas 共享空间里，如果保证挂载该空间的其他电脑的数据安全？](https://www.v2ex.com/t/891646#reply2) | Tue Nov 01 2022 1:42 AM
-- 🐵 [基于内存数据库做大数据运算是否靠谱？](https://www.v2ex.com/t/891636#reply6) | Tue Nov 01 2022 1:09 AM<!-- v2ex:END -->
+- 🥸 [如何搭建一台既能满足个人娱乐又能用于业余项目的 nas](https://www.v2ex.com/t/891724#reply1) | Tue Nov 01 2022 4:04 AM
+- 🤗 [腾讯云双十一有没有高性价比的服务器推荐](https://www.v2ex.com/t/891721#reply3) | Tue Nov 01 2022 3:58 AM
+- 🎭 [mac 上有什么工业设计软件吗？](https://www.v2ex.com/t/891720#reply2) | Tue Nov 01 2022 3:58 AM
+- 🥷 [canvas 中图形经过旋转后判断当前点击位置是否还在图形上的问题？](https://www.v2ex.com/t/891711#reply5) | Tue Nov 01 2022 3:29 AM
+- 🐵 [系统集成项目管理工程师的重点内容汇总 和 重点 /笔记 有吗? 可付费](https://www.v2ex.com/t/891705#reply4) | Tue Nov 01 2022 3:14 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
