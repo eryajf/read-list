@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Ask Apple 2022 与 SwiftUI 有关的问答（下）](https://juejin.cn/post/7160853355374313508) | Tue Nov 01 2022 1:29 AM 
+- 🤗 [计算机底层知识之内存](https://juejin.cn/post/7160884596471496740) | Tue Nov 01 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
-    Ask Apple 为开发者与苹果工程师创造了在 WWDC 之外进行直接交流的机会。本文对本次活动中与 SwiftUI 有关的一些问答进行了整理，并添加了一点个人见解。本文为下篇 
+    渔夫出海前，并不知道鱼在哪里，可是他们还是选择出发， 因为他们相信，一定会满载而归。人生很多时候，是**选择了才有机会，是相信了才有可能**。 -- **稻盛和夫** 
     </details> 
 
-- 🎡 [聊一聊责任链模式](https://juejin.cn/post/7160840952855134239) | Tue Nov 01 2022 12:41 AM 
+- 🎡 [Luminar Neo 教程，如何在 Luminar Neo 中使用亚光工具？](https://juejin.cn/post/7160882034817105927) | Tue Nov 01 2022 3:20 AM 
     <details><summary>展开描述 ...</summary> 
-    责任链模式（Chain of Responsibility Pattern）是将链中每一个节点看作是一个对象，每个节点处理的请求均不同，且内部自动维护一个下一节点对象。 
+    欢迎观看 Luminar Neo 中文版教程，小编带大家学习 Luminar Neo 的基本工具和使用技巧，了解如何在 Luminar Neo 中使用亚光工具。 
     </details> 
 
-- 🕯 [【说透Redis】如何解决Redis缓存雪崩、击穿与穿透](https://juejin.cn/post/7160840150501556255) | Tue Nov 01 2022 12:38 AM 
+- 🕯 [Jetpack Compose - 动画的几种结束机制 （九）](https://juejin.cn/post/7160878990347993101) | Tue Nov 01 2022 3:08 AM 
     <details><summary>展开描述 ...</summary> 
-    Redis最常用使用的场景就是作为业务系统的缓存，既然是作为缓存，那么就不免会碰到缓存常见的问题，即雪崩、击穿与穿透，什么是缓存雪崩、击穿与穿透以及如何解决这几个问题呢？今天我们一起来探讨一下！ 
+    动画的打断机制 所谓动画的打断机制 其实就是当某一个anim 在执行的时候，如果这个anim又跑去执行了其他的动画 那么之前的动画就会被打断， 注意是打断，而不是等前面一个动画执行完了再执行下一个 可 
     </details> 
 
-- 🚀 [如何用 JavaScript 编写你的第一个单元测试](https://juejin.cn/post/7160827470474641421) | Mon Oct 31 2022 11:50 PM 
+- 🚀 [polyfill搭建](https://juejin.cn/post/7160877384890056712) | Tue Nov 01 2022 3:03 AM 
     <details><summary>展开描述 ...</summary> 
-    测试代码是确保代码稳定的第一步。能做到这一点的最佳方法之一就是使用单元测试，确保应用程序中的每个较小的功能都按应有的方式运行——尤其是当应用程序接收到极端或无效输入，甚至可能有害的输入时。 为什么要进 
+    polyfill-service 是一套开源的服务，该服务可以根据浏览器和版本的差异，返回不同的polyfill code。 
     </details> 
 
-- 💪 [前端食堂技术周刊第 57 期：Turbopack、Next.js13、Chrome107、Vite3.2、图解 TLS 1.3](https://juejin.cn/post/7160827407203565576) | Mon Oct 31 2022 11:49 PM 
+- 💪 [RocketMQ Flink Catalog 设计与实践](https://juejin.cn/post/7160877055939346469) | Tue Nov 01 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
-    - Turbopack - Next.js 13 - Chrome 107 - Vite 3.2 - Babel v7.20.0 - 图解 TLS 1.3 连接 - 全网最佳暗黑模式鉴赏 
+    Flink 和 Flink Catalog Flink 是一个分布式计算引擎，目前已经实现批流一体，可以实现对有界数据和无界数据的处理。需要有效分配和管理计算资源才能执行流式应用程序。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
