@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [初探对账](https://juejin.cn/post/7160916893875273735) | Tue Nov 01 2022 5:36 AM 
+- 🤗 [深度解析字节跳动开源数据集成引擎 BitSail](https://juejin.cn/post/7160927167764201479) | Tue Nov 01 2022 6:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    字节跳动数据集成引擎开源啦！BitSail 是字节跳动开源数据集成引擎，支持多种异构数据源间的数据同步，并提供离线、实时、全量、增量场景下全域数据集成解决方案。 
+    </details> 
+
+- 🎡 [初探对账](https://juejin.cn/post/7160916893875273735) | Tue Nov 01 2022 5:36 AM 
     <details><summary>展开描述 ...</summary> 
     最近在做对账系统的调研和设计，给大家分享一些对账系统的知识。 什么是对账？有个男人叫小帅，娶了个老婆，叫小美，早上，小美给小帅二十块钱买早餐，小帅买了包子、油条、豆浆回来，并说钱已经花完了，小美不信， 
     </details> 
 
-- 🎡 [Kotlin Sequence 是时候派上用场了](https://juejin.cn/post/7160910310100992014) | Tue Nov 01 2022 5:12 AM 
+- 🕯 [Kotlin Sequence 是时候派上用场了](https://juejin.cn/post/7160910310100992014) | Tue Nov 01 2022 5:12 AM 
     <details><summary>展开描述 ...</summary> 
     前言 在进入Flow世界之前，先来分析Sequence，进而自然延伸到Flow。 通过本篇文章，你将了解到： 1. Java与Kotlin 对集合的处理 场景分析 客户有个场景想考验一下Java和Ko 
     </details> 
 
-- 🕯 [HTTP 中服务器是如何设置 Cookie 的](https://juejin.cn/post/7160903485994008583) | Tue Nov 01 2022 4:44 AM 
+- 🚀 [HTTP 中服务器是如何设置 Cookie 的](https://juejin.cn/post/7160903485994008583) | Tue Nov 01 2022 4:44 AM 
     <details><summary>展开描述 ...</summary> 
     HTTP 是一种无状态协议。如以下场景，在爬虫时非常常见。 访问权限页面，无法访问，请先登录。 登录。 访问权限页面，无法访问，请先登录。 而在 HTTP 中，Cookie 使保持状态成为可能。 访问 
     </details> 
 
-- 🚀 [你还在找图片预览插件吗？不如自己写一个吧！](https://juejin.cn/post/7160894692593401893) | Tue Nov 01 2022 4:11 AM 
+- 💪 [你还在找图片预览插件吗？不如自己写一个吧！](https://juejin.cn/post/7160894692593401893) | Tue Nov 01 2022 4:11 AM 
     <details><summary>展开描述 ...</summary> 
     本文将带大家用原生JS手写一个完整的图片预览和查看的功能，无任何第三方依赖，兼容PC与H5，实现触屏双指缩放等，干货满满。 
-    </details> 
-
-- 💪 [Flutter 工程化框架选择 — add-to-app 的指路明灯](https://juejin.cn/post/7160889102131757092) | Tue Nov 01 2022 3:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    这是 《Flutter 工程化框架选择》 系列的第五篇 ，就像之前说的，这个系列只是单纯告诉你，创建一个 Flutter 工程，或者说搭建一个 Flutter 工程脚手架，应该如何快速选择适合自己的功 
     </details> 
 <!-- juejin:END -->
 ### 少数派
