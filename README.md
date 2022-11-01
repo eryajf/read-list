@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Flutter - 封装广告页的倒计时圆圈控件](https://juejin.cn/post/7161001610607820831) | Tue Nov 01 2022 11:05 AM 
+- 🤗 [手写 Puppeteer：自动下载 Chromium](https://juejin.cn/post/7161042364499247140) | Tue Nov 01 2022 1:42 PM 
+    <details><summary>展开描述 ...</summary> 
+    Puppeteer 是一个网页的自动化测试工具，它支持写一些 JS 脚本来控制浏览器执行一些行为，可以用来跑测试用例，或者用来做爬虫。 它的脚本类似这样： 我们 launch 了一个浏览器，打开一个标 
+    </details> 
+
+- 🎡 [用真心打造一个沉淀知识的工具，为学渣如我的道友们，提供助力](https://juejin.cn/post/7161020844372656135) | Tue Nov 01 2022 12:21 PM 
+    <details><summary>展开描述 ...</summary> 
+    学的快，忘得快，我要总结原因： 1. 没有第一时间的沉淀经验 2. 学的多，但是不成系统 4. 学习漫无目的，没有方向 
+    </details> 
+
+- 🕯 [Flutter - 封装广告页的倒计时圆圈控件](https://juejin.cn/post/7161001610607820831) | Tue Nov 01 2022 11:05 AM 
     <details><summary>展开描述 ...</summary> 
     前言 很多 App 的广告页都会有一个倒计时控件，倒计时结束或者用户点击之后就会进入到 App 的主页。最近在搞一个新的 App，正好需要用到，就顺便封装一个，用的是 Flutter 提供的组件 Ci 
     </details> 
 
-- 🎡 [D3&lpar;v7&rpar;入门二：D3操作DOM](https://juejin.cn/post/7160983086040088607) | Tue Nov 01 2022 9:52 AM 
+- 🚀 [D3&lpar;v7&rpar;入门二：D3操作DOM](https://juejin.cn/post/7160983086040088607) | Tue Nov 01 2022 9:52 AM 
     <details><summary>展开描述 ...</summary> 
     选择器 d3选择器和jquery类似，可以通过类名&lpar;class&rpar;、id、标签、属性等进行查找并返回selection 
     </details> 
 
-- 🕯 [记录一个版本问题：vue 和vue-template-compiler](https://juejin.cn/post/7160982137263374350) | Tue Nov 01 2022 9:48 AM 
+- 💪 [记录一个版本问题：vue 和vue-template-compiler](https://juejin.cn/post/7160982137263374350) | Tue Nov 01 2022 9:48 AM 
     <details><summary>展开描述 ...</summary> 
     记录一个vue 和vue-template-compiler版本问题，如果这两个版本不一致，去package.json里看看他们格式一样不一样。统一一个版本，再装一次就欧克了 
-    </details> 
-
-- 🚀 [React 之 createElement 源码解读](https://juejin.cn/post/7160981608885927972) | Tue Nov 01 2022 9:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    React 的源码并没有你想象的那么简单，也没有你想象的那么难，本篇带大家了解 createElement 函数背后的实现 
-    </details> 
-
-- 💪 [Elasticsearch：通过热、温、冷和冻结层管理数据自动化 — 无需编码！](https://juejin.cn/post/7160974459170455566) | Tue Nov 01 2022 9:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    如果你想完全按照本文标题的建议去做，那就别无所求。 这篇文章旨在指导如何使用 Kibana Dashboard 的 “堆栈管理（Stack Management）” 功能集通过热、温、冷和冻结层自动移 
     </details> 
 <!-- juejin:END -->
 ### 少数派
