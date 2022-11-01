@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [各路神仙，求解一个问题](https://www.v2ex.com/t/891833#reply0) | Tue Nov 01 2022 9:19 AM
-- 🤗 [内网服务开放外网映射后， PUT/DELETE 方法被 net::ERR_CONNECTION_RESET。该如何设置服务器允许 PUT/DELETE 方法？](https://www.v2ex.com/t/891810#reply4) | Tue Nov 01 2022 8:16 AM
-- 🎭 [双十一海外云服务器只要 20/月（良心云）？](https://www.v2ex.com/t/891807#reply3) | Tue Nov 01 2022 8:02 AM
-- 🥷 [咨询下 Android 上可以双开 slack 吗？](https://www.v2ex.com/t/891798#reply1) | Tue Nov 01 2022 7:38 AM
-- 🐵 [win11 递归修改文件夹的用户权限很慢，有无其它方法？](https://www.v2ex.com/t/891783#reply6) | Tue Nov 01 2022 7:03 AM<!-- v2ex:END -->
+- 🥸 [mysql 并发更新某个字段引发的问题和思考](https://www.v2ex.com/t/891847#reply9) | Tue Nov 01 2022 9:46 AM
+- 🤗 [有没有一些技术大牛的个人博客 推荐 收藏的？](https://www.v2ex.com/t/891842#reply0) | Tue Nov 01 2022 9:40 AM
+- 🎭 [各路神仙，求解一个问题](https://www.v2ex.com/t/891833#reply0) | Tue Nov 01 2022 9:19 AM
+- 🥷 [内网服务开放外网映射后， PUT/DELETE 方法被 net::ERR_CONNECTION_RESET。该如何设置服务器允许 PUT/DELETE 方法？](https://www.v2ex.com/t/891810#reply6) | Tue Nov 01 2022 8:16 AM
+- 🐵 [双十一海外云服务器只要 20/月（良心云）？](https://www.v2ex.com/t/891807#reply3) | Tue Nov 01 2022 8:02 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
