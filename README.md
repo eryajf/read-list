@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Vite 在运行过程中是如何发现新增依赖的？](https://juejin.cn/post/7161054649112494087) | Tue Nov 01 2022 2:31 PM 
+- 🤗 [【MySQL】如何构建一个完整的MySQL知识体系（MySQL专栏启动）](https://juejin.cn/post/7161066296095244318) | Tue Nov 01 2022 3:21 PM 
     <details><summary>展开描述 ...</summary> 
-    当我们在 Vite 启动后，在编写代码过程中安装了一个新的依赖，并引入到代码中，那这时候 Vite 会怎么处理呢？ 
+    前言 为了能够使大家真正高效学好 MySQL，本文通过为什么要学MySQL，到MySQL要学习什么，给出本专栏会讲解MySQL哪些知识，全面了解本专栏，帮助大家可以简历中写“精通MySQL”而不虚，帮 
     </details> 
 
-- 🎡 [ES6 Proxy](https://juejin.cn/post/7161054106851737613) | Tue Nov 01 2022 2:31 PM 
+- 🎡 [初识React &lpar;二&rpar; 之组件三大核心属性](https://juejin.cn/post/7161064742348406814) | Tue Nov 01 2022 3:09 PM 
     <details><summary>展开描述 ...</summary> 
-    前言   全文共计4万字左右，大约可阅读一小时，并不定时持续更新中。   此文可能是关于Proxy相对较全的文章之一，总结了Proxy代理几乎所有的用法、示例和注意事项，也有对部分代码的细节分析。结合 
+    一、state 1. 若想要通过事件修改状态时，就需要使用到 setState 方法 2. 同步 or 异步 setState 方法到底是同步还是异步分两种情况 在组件生命周期或React事件中，se 
     </details> 
 
-- 🕯 [SQLite3 官方支持 WebAssembly](https://juejin.cn/post/7161052062280187911) | Tue Nov 01 2022 2:19 PM 
+- 🕯 [一文吃透 React 和 Vue 的多节点 diff 原理](https://juejin.cn/post/7161063643105198093) | Tue Nov 01 2022 3:05 PM 
     <details><summary>展开描述 ...</summary> 
-    SQLite 官方的 wasm 项目终于来了！这表示 WebAssembly 在 SQLite 社区完全进入工业级应用阶段！WebAssembly，又名 WASM，是一种标准，它定义了一种低级编程语言 
+    虚拟 DOM 虚拟 DOM 节点是一个 JS 对象，用这个 JS 对象可以表示 DOM 节点、组件节点等。有了虚拟 DOM，能提高整体研发体验和效率，同时也能解决跨平台问题。 
     </details> 
 
-- 🚀 [学习力是这个时代终极的竞争力](https://juejin.cn/post/7161043625181184014) | Tue Nov 01 2022 1:49 PM 
+- 🚀 [一文吃透 React 和 Vue 的多节点 diff 原理](https://juejin.cn/post/7161062589571530788) | Tue Nov 01 2022 3:04 PM 
     <details><summary>展开描述 ...</summary> 
-    并不是每个人都知道如何学习，学习力是一种需要学习的能力。拥有学习力的人，才拥有这个时代的终极竞争力。 如何具有高效的学习力呢？ 其实很简单，把知行合一做到位就可以了。但很多人其实并没有理解什么是“知” 
+    虚拟 DOM 虚拟 DOM 节点是一个 JS 对象，用这个 JS 对象可以表示 DOM 节点、组件节点等。有了虚拟 DOM，能提高整体研发体验和效率，同时也能解决跨平台问题。 
     </details> 
 
-- 💪 [手写 Puppeteer：自动下载 Chromium](https://juejin.cn/post/7161042364499247140) | Tue Nov 01 2022 1:42 PM 
+- 💪 [Element Plus 组件库核心技术揭秘：5. 从终端命令解析器说起谈谈 npm 包管理工具的运行原理](https://juejin.cn/post/7161063570594070559) | Tue Nov 01 2022 3:04 PM 
     <details><summary>展开描述 ...</summary> 
-    Puppeteer 是一个网页的自动化测试工具，它支持写一些 JS 脚本来控制浏览器执行一些行为，可以用来跑测试用例，或者用来做爬虫。 它的脚本类似这样： 我们 launch 了一个浏览器，打开一个标 
+    我们从终端命令的执行流程开始了解 npm run 的执行原理，接着在了解 npm install 的执行过程引出幽灵依赖的问题，通过对幽灵依赖的了解，我们更清楚地了解了 npm 包管理工具的发展和演变 
     </details> 
 <!-- juejin:END -->
 ### 少数派
