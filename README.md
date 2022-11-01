@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [京东 5526，群晖 DS420+ 希捷酷狼 4TBx4，这个价格美丽吗](https://www.v2ex.com/t/891758#reply0) | Tue Nov 01 2022 6:01 AM
-- 🤗 [做开源真的需要强大的内心，遇到这样的妖怪一天的心情都被他破坏了](https://www.v2ex.com/t/891756#reply9) | Tue Nov 01 2022 5:56 AM
-- 🎭 [请教 Golang 并发读写的问题](https://www.v2ex.com/t/891753#reply1) | Tue Nov 01 2022 5:53 AM
-- 🥷 [后续， Win11 下大小核心调度问题。](https://www.v2ex.com/t/891752#reply1) | Tue Nov 01 2022 5:51 AM
-- 🐵 [腾讯云这个系统盘怎么那么贵，是我哪里没选对嘛](https://www.v2ex.com/t/891746#reply2) | Tue Nov 01 2022 5:39 AM<!-- v2ex:END -->
+- 🥸 [win11 递归修改文件夹的用户权限很慢，有无其它方法？](https://www.v2ex.com/t/891783#reply3) | Tue Nov 01 2022 7:03 AM
+- 🤗 [求助 syslog 的 Java 插件](https://www.v2ex.com/t/891779#reply0) | Tue Nov 01 2022 6:54 AM
+- 🎭 [android studio 导出的 jar 包中没有包含 AndroidManifest.xml 文件，这么为什么？](https://www.v2ex.com/t/891777#reply0) | Tue Nov 01 2022 6:53 AM
+- 🥷 [想用 Python 来控制硬件，做一些小玩意儿](https://www.v2ex.com/t/891774#reply1) | Tue Nov 01 2022 6:47 AM
+- 🐵 [隐私合规真是门好生意](https://www.v2ex.com/t/891766#reply7) | Tue Nov 01 2022 6:35 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
