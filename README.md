@@ -367,7 +367,7 @@
 - 🥸 [有偿！昨天问了一下，还是没有解决问题，直接有偿求解。](https://www.v2ex.com/t/891938#reply2) | Tue Nov 01 2022 6:40 PM
 - 🤗 [如果用目录编号来存储树结构数据，是不是邻接表和闭包表更高效，那检索目录的算法是什么？](https://www.v2ex.com/t/891921#reply1) | Tue Nov 01 2022 3:52 PM
 - 🎭 [远程 tmux 连接中断后终端中的鼠标操作出现乱码](https://www.v2ex.com/t/891919#reply3) | Tue Nov 01 2022 3:39 PM
-- 🥷 [为什么不为人类设计一门结构化的编程语言（中文编程语言什么的真的是 low 爆了）](https://www.v2ex.com/t/891914#reply32) | Tue Nov 01 2022 3:16 PM
+- 🥷 [为什么不为人类设计一门结构化的编程语言（中文编程语言什么的真的是 low 爆了）](https://www.v2ex.com/t/891914#reply33) | Tue Nov 01 2022 3:16 PM
 - 🐵 [远程 dns 查询会走代理么](https://www.v2ex.com/t/891904#reply3) | Tue Nov 01 2022 2:36 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
