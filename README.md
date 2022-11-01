@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [深度解析字节跳动开源数据集成引擎 BitSail](https://juejin.cn/post/7160927167764201479) | Tue Nov 01 2022 6:14 AM 
+- 🤗 [大数据培训零基础应该注意什么](https://juejin.cn/post/7160940784991076382) | Tue Nov 01 2022 7:07 AM 
     <details><summary>展开描述 ...</summary> 
-    字节跳动数据集成引擎开源啦！BitSail 是字节跳动开源数据集成引擎，支持多种异构数据源间的数据同步，并提供离线、实时、全量、增量场景下全域数据集成解决方案。 
+    学习大数据培训零基础应该注意什么？大数据开发技术在不断的成熟发展在我们的生活中有很多的地方都应用到了大数据开发技术，这也不乏有很多企业对大数据开发技术人才的需求量在不断的增加。大数据开发技术所包含的编 
     </details> 
 
-- 🎡 [初探对账](https://juejin.cn/post/7160916893875273735) | Tue Nov 01 2022 5:36 AM 
+- 🎡 [腾讯性能监控框架Matrix源码分析（十二）插桩 之MatrixTrace](https://juejin.cn/post/7160939971606478861) | Tue Nov 01 2022 7:04 AM 
     <details><summary>展开描述 ...</summary> 
-    最近在做对账系统的调研和设计，给大家分享一些对账系统的知识。 什么是对账？有个男人叫小帅，娶了个老婆，叫小美，早上，小美给小帅二十块钱买早餐，小帅买了包子、油条、豆浆回来，并说钱已经花完了，小美不信， 
+    背景 对于APM项目，诸如像 Debug 日志，运行耗时监控等都会陆陆续续加入到源码中，Matrix如何无侵入插入到代码中的呢？本章听我娓娓道来。 
     </details> 
 
-- 🕯 [Kotlin Sequence 是时候派上用场了](https://juejin.cn/post/7160910310100992014) | Tue Nov 01 2022 5:12 AM 
+- 🕯 [Sanitizers 系列之 leak sanitizer 介绍](https://juejin.cn/post/7160938493990928421) | Tue Nov 01 2022 6:59 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 在进入Flow世界之前，先来分析Sequence，进而自然延伸到Flow。 通过本篇文章，你将了解到： 1. Java与Kotlin 对集合的处理 场景分析 客户有个场景想考验一下Java和Ko 
+    内存泄漏是一种常见的内存错误，本文介绍用于检测这类错误的 Sanitizer: LeakSanitizer（简称 lsan），本文将介绍 lsan 的用法、原理和准确性等内容。 
     </details> 
 
-- 🚀 [HTTP 中服务器是如何设置 Cookie 的](https://juejin.cn/post/7160903485994008583) | Tue Nov 01 2022 4:44 AM 
+- 🚀 [Nest.js进阶系列五： Node.js中使用Redis原来这么简单](https://juejin.cn/post/7160936006517014558) | Tue Nov 01 2022 6:49 AM 
     <details><summary>展开描述 ...</summary> 
-    HTTP 是一种无状态协议。如以下场景，在爬虫时非常常见。 访问权限页面，无法访问，请先登录。 登录。 访问权限页面，无法访问，请先登录。 而在 HTTP 中，Cookie 使保持状态成为可能。 访问 
+    前面Nest.js系列的文章中我们其实留了两个可以用redis优化的地方： 一个是我们的在做登录时，通过JWT已经实现了服务端生成token以及验证客户端发送的token信息。 实现对文章点赞功 
     </details> 
 
-- 💪 [你还在找图片预览插件吗？不如自己写一个吧！](https://juejin.cn/post/7160894692593401893) | Tue Nov 01 2022 4:11 AM 
+- 💪 [编完 aosp 还在刷机？云安卓了解一下，来试试网页版模拟器吧！](https://juejin.cn/post/7160930401844723720) | Tue Nov 01 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-    本文将带大家用原生JS手写一个完整的图片预览和查看的功能，无任何第三方依赖，兼容PC与H5，实现触屏双指缩放等，干货满满。 
+    本文基于现阶段 Android Framework 工程师在开发调试阶段可能遇到的实际问题，向大家介绍了 Google 的云安卓方案，该方案不依赖物理设备，理论上可以为开发调试工作带来极大便利。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
