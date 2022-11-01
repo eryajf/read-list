@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【MySQL】如何构建一个完整的MySQL知识体系（MySQL专栏启动）](https://juejin.cn/post/7161066296095244318) | Tue Nov 01 2022 3:21 PM 
+- 🤗 [IDEA中配置tomcat8.5中文乱码问题](https://juejin.cn/post/7161114260557266975) | Tue Nov 01 2022 6:21 PM 
+    <details><summary>展开描述 ...</summary> 
+    分享知识  传递快乐 项目文件为GBK编码格式，但项目中文件定义的却是UTF-8格式，数据库连接也是UTF-8。 IDEA修改项目编码为UTF-8编码格式，JAVA文件中的中文乱码、控制台日志乱码（t 
+    </details> 
+
+- 🎡 [Oracle故障处理：Rman-06207&amp;Rman-06214](https://juejin.cn/post/7161113266821791758) | Tue Nov 01 2022 6:20 PM 
+    <details><summary>展开描述 ...</summary> 
+    1、在给客户系统巡检时通过rman维护日志发现有rman维护日志报错： RMAN-06207: WARNING: 3 objects could not be deleted for DISK cha 
+    </details> 
+
+- 🕯 [【MySQL】如何构建一个完整的MySQL知识体系（MySQL专栏启动）](https://juejin.cn/post/7161066296095244318) | Tue Nov 01 2022 3:21 PM 
     <details><summary>展开描述 ...</summary> 
     前言 为了能够使大家真正高效学好 MySQL，本文通过为什么要学MySQL，到MySQL要学习什么，给出本专栏会讲解MySQL哪些知识，全面了解本专栏，帮助大家可以简历中写“精通MySQL”而不虚，帮 
     </details> 
 
-- 🎡 [初识React &lpar;二&rpar; 之组件三大核心属性](https://juejin.cn/post/7161064742348406814) | Tue Nov 01 2022 3:09 PM 
+- 🚀 [初识React &lpar;二&rpar; 之组件三大核心属性](https://juejin.cn/post/7161064742348406814) | Tue Nov 01 2022 3:09 PM 
     <details><summary>展开描述 ...</summary> 
     一、state 1. 若想要通过事件修改状态时，就需要使用到 setState 方法 2. 同步 or 异步 setState 方法到底是同步还是异步分两种情况 在组件生命周期或React事件中，se 
     </details> 
 
-- 🕯 [一文吃透 React 和 Vue 的多节点 diff 原理](https://juejin.cn/post/7161063643105198093) | Tue Nov 01 2022 3:05 PM 
+- 💪 [一文吃透 React 和 Vue 的多节点 diff 原理](https://juejin.cn/post/7161063643105198093) | Tue Nov 01 2022 3:05 PM 
     <details><summary>展开描述 ...</summary> 
     虚拟 DOM 虚拟 DOM 节点是一个 JS 对象，用这个 JS 对象可以表示 DOM 节点、组件节点等。有了虚拟 DOM，能提高整体研发体验和效率，同时也能解决跨平台问题。 
-    </details> 
-
-- 🚀 [一文吃透 React 和 Vue 的多节点 diff 原理](https://juejin.cn/post/7161062589571530788) | Tue Nov 01 2022 3:04 PM 
-    <details><summary>展开描述 ...</summary> 
-    虚拟 DOM 虚拟 DOM 节点是一个 JS 对象，用这个 JS 对象可以表示 DOM 节点、组件节点等。有了虚拟 DOM，能提高整体研发体验和效率，同时也能解决跨平台问题。 
-    </details> 
-
-- 💪 [Element Plus 组件库核心技术揭秘：5. 从终端命令解析器说起谈谈 npm 包管理工具的运行原理](https://juejin.cn/post/7161063570594070559) | Tue Nov 01 2022 3:04 PM 
-    <details><summary>展开描述 ...</summary> 
-    我们从终端命令的执行流程开始了解 npm run 的执行原理，接着在了解 npm install 的执行过程引出幽灵依赖的问题，通过对幽灵依赖的了解，我们更清楚地了解了 npm 包管理工具的发展和演变 
     </details> 
 <!-- juejin:END -->
 ### 少数派
