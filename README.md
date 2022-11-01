@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [nginx 反向代理时怎么针对文件类型来决定缓存与否？](https://www.v2ex.com/t/891858#reply0) | Tue Nov 01 2022 10:39 AM
-- 🤗 [mysql 并发更新某个字段引发的问题和思考](https://www.v2ex.com/t/891847#reply10) | Tue Nov 01 2022 9:46 AM
-- 🎭 [有没有一些技术大牛的个人博客 推荐 收藏的？](https://www.v2ex.com/t/891842#reply0) | Tue Nov 01 2022 9:40 AM
-- 🥷 [各路神仙，求解一个问题](https://www.v2ex.com/t/891833#reply0) | Tue Nov 01 2022 9:19 AM
-- 🐵 [内网服务开放外网映射后， PUT/DELETE 方法被 net::ERR_CONNECTION_RESET。该如何设置服务器允许 PUT/DELETE 方法？](https://www.v2ex.com/t/891810#reply7) | Tue Nov 01 2022 8:16 AM<!-- v2ex:END -->
+- 🥸 [请教各位接过私活的大佬，能否普及一下干私活的流程？](https://www.v2ex.com/t/891882#reply0) | Tue Nov 01 2022 12:37 PM
+- 🤗 [能否使特定环境变量的更改只对单一进程（不包括其子进程）生效？](https://www.v2ex.com/t/891881#reply0) | Tue Nov 01 2022 12:36 PM
+- 🎭 [nginx 反向代理时怎么针对文件类型来决定缓存与否？](https://www.v2ex.com/t/891858#reply0) | Tue Nov 01 2022 10:39 AM
+- 🥷 [mysql 并发更新某个字段引发的问题和思考](https://www.v2ex.com/t/891847#reply10) | Tue Nov 01 2022 9:46 AM
+- 🐵 [有没有一些技术大牛的个人博客 推荐 收藏的？](https://www.v2ex.com/t/891842#reply0) | Tue Nov 01 2022 9:40 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
