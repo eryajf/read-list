@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Gogs 配合 Jenkins 做热更新， webhook 为空](https://www.v2ex.com/t/891893#reply0) | Tue Nov 01 2022 1:21 PM
-- 🤗 [请教各位接过私活的大佬，能否普及一下干私活的流程？](https://www.v2ex.com/t/891882#reply7) | Tue Nov 01 2022 12:37 PM
-- 🎭 [能否使特定环境变量的更改只对单一进程（不包括其子进程）生效？](https://www.v2ex.com/t/891881#reply0) | Tue Nov 01 2022 12:36 PM
-- 🥷 [nginx 反向代理时怎么针对文件类型来决定缓存与否？](https://www.v2ex.com/t/891858#reply0) | Tue Nov 01 2022 10:39 AM
-- 🐵 [mysql 并发更新某个字段引发的问题和思考](https://www.v2ex.com/t/891847#reply10) | Tue Nov 01 2022 9:46 AM<!-- v2ex:END -->
+- 🥸 [墨干 V1.1.1：更快更美观的 GNU TeXmacs &lpar;KDE Breeze 图标&rpar;](https://www.v2ex.com/t/891901#reply0) | Tue Nov 01 2022 2:15 PM
+- 🤗 [Gogs 配合 Jenkins 做热更新， webhook 为空](https://www.v2ex.com/t/891893#reply0) | Tue Nov 01 2022 1:21 PM
+- 🎭 [请教各位接过私活的大佬，能否普及一下干私活的流程？](https://www.v2ex.com/t/891882#reply10) | Tue Nov 01 2022 12:37 PM
+- 🥷 [能否使特定环境变量的更改只对单一进程（不包括其子进程）生效？](https://www.v2ex.com/t/891881#reply0) | Tue Nov 01 2022 12:36 PM
+- 🐵 [nginx 反向代理时怎么针对文件类型来决定缓存与否？](https://www.v2ex.com/t/891858#reply1) | Tue Nov 01 2022 10:39 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
