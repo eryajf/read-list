@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [如何搭建一台既能满足个人娱乐又能用于业余项目的 nas](https://www.v2ex.com/t/891724#reply1) | Tue Nov 01 2022 4:04 AM
-- 🤗 [腾讯云双十一有没有高性价比的服务器推荐](https://www.v2ex.com/t/891721#reply3) | Tue Nov 01 2022 3:58 AM
-- 🎭 [mac 上有什么工业设计软件吗？](https://www.v2ex.com/t/891720#reply2) | Tue Nov 01 2022 3:58 AM
-- 🥷 [canvas 中图形经过旋转后判断当前点击位置是否还在图形上的问题？](https://www.v2ex.com/t/891711#reply5) | Tue Nov 01 2022 3:29 AM
-- 🐵 [系统集成项目管理工程师的重点内容汇总 和 重点 /笔记 有吗? 可付费](https://www.v2ex.com/t/891705#reply4) | Tue Nov 01 2022 3:14 AM<!-- v2ex:END -->
+- 🥸 [腾讯云这个系统盘怎么那么贵，是我哪里没选对嘛](https://www.v2ex.com/t/891746#reply0) | Tue Nov 01 2022 5:39 AM
+- 🤗 [请问有没有隐藏浏览器地址栏的好方法？](https://www.v2ex.com/t/891742#reply1) | Tue Nov 01 2022 5:34 AM
+- 🎭 [AI generate Python on replit](https://www.v2ex.com/t/891737#reply1) | Tue Nov 01 2022 5:20 AM
+- 🥷 [有哪些类似 ludwig.guru 的汉语语料库或者网站](https://www.v2ex.com/t/891735#reply0) | Tue Nov 01 2022 5:03 AM
+- 🐵 [&lpar;求助&rpar;双十一有什么服务器推荐吗](https://www.v2ex.com/t/891734#reply5) | Tue Nov 01 2022 5:01 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
