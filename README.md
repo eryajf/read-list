@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [面向对象设计原则](https://juejin.cn/post/7160702494463983629) | Mon Oct 31 2022 3:45 PM 
+- 🤗 [Ask Apple 2022 与 SwiftUI 有关的问答（下）](https://juejin.cn/post/7160853355374313508) | Tue Nov 01 2022 1:29 AM 
     <details><summary>展开描述 ...</summary> 
-    1.面向对象设计原则概述 软件的可维护性&lpar;Maintainability&rpar; 和可复用性&lpar;Reusability&rpar; 是两个非常重要的用于衡量软件质量的属性。 面向对象设计的目标之一在于支持可维护性复用， 
+    Ask Apple 为开发者与苹果工程师创造了在 WWDC 之外进行直接交流的机会。本文对本次活动中与 SwiftUI 有关的一些问答进行了整理，并添加了一点个人见解。本文为下篇 
     </details> 
 
-- 🎡 [进程与线程](https://juejin.cn/post/7160701982037147684) | Mon Oct 31 2022 3:41 PM 
+- 🎡 [聊一聊责任链模式](https://juejin.cn/post/7160840952855134239) | Tue Nov 01 2022 12:41 AM 
     <details><summary>展开描述 ...</summary> 
-    持续创作，加速成长！这是我参与「掘金日新计划 · 10 月更文挑战」的第31天，点击查看活动详情 进程 概念 进程和程序的区别 程序是静态的指令集合 进程是动态的程序的一次执行过程 进程是进程实体的运 
+    责任链模式（Chain of Responsibility Pattern）是将链中每一个节点看作是一个对象，每个节点处理的请求均不同，且内部自动维护一个下一节点对象。 
     </details> 
 
-- 🕯 [LeetCode 剑指 Offer 二叉树的最近公共祖先 | 解题思路分享](https://juejin.cn/post/7160695906164015135) | Mon Oct 31 2022 3:17 PM 
+- 🕯 [【说透Redis】如何解决Redis缓存雪崩、击穿与穿透](https://juejin.cn/post/7160840150501556255) | Tue Nov 01 2022 12:38 AM 
     <details><summary>展开描述 ...</summary> 
-    我的思路是用递归dfs的方式，找到每个节点及它下层的节点中满足条件的节点个数，在回溯的时候判断找到的节点个数是否满足条件，就可以找出第一个公共父节点。 
+    Redis最常用使用的场景就是作为业务系统的缓存，既然是作为缓存，那么就不免会碰到缓存常见的问题，即雪崩、击穿与穿透，什么是缓存雪崩、击穿与穿透以及如何解决这几个问题呢？今天我们一起来探讨一下！ 
     </details> 
 
-- 🚀 [D3&lpar;v7&rpar;入门一：初识SVG](https://juejin.cn/post/7160684957919903775) | Mon Oct 31 2022 2:36 PM 
+- 🚀 [如何用 JavaScript 编写你的第一个单元测试](https://juejin.cn/post/7160827470474641421) | Mon Oct 31 2022 11:50 PM 
     <details><summary>展开描述 ...</summary> 
-    学习D3的前提，了解SVG的基础知识，熟悉常见图形的绘制，了解ViewBox的原理，为更好的学习D3前进。 
+    测试代码是确保代码稳定的第一步。能做到这一点的最佳方法之一就是使用单元测试，确保应用程序中的每个较小的功能都按应有的方式运行——尤其是当应用程序接收到极端或无效输入，甚至可能有害的输入时。 为什么要进 
     </details> 
 
-- 💪 [沉浸式弹层越来越多，开发该怎么做好弹层体验？](https://juejin.cn/post/7160682370121760775) | Mon Oct 31 2022 2:25 PM 
+- 💪 [前端食堂技术周刊第 57 期：Turbopack、Next.js13、Chrome107、Vite3.2、图解 TLS 1.3](https://juejin.cn/post/7160827407203565576) | Mon Oct 31 2022 11:49 PM 
     <details><summary>展开描述 ...</summary> 
-    本篇介绍了各类弹层开发过程的体验注意点，同时给出了示例代码。随着沉浸式体验的推动，弹层会越来越多，建议各位开发同学也能够多多思考弹层如何改善用户体验。 
+    - Turbopack - Next.js 13 - Chrome 107 - Vite 3.2 - Babel v7.20.0 - 图解 TLS 1.3 连接 - 全网最佳暗黑模式鉴赏 
     </details> 
 <!-- juejin:END -->
 ### 少数派
