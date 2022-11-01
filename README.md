@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一个表格复制引发的血案😇](https://juejin.cn/post/7160976446498799652) | Tue Nov 01 2022 9:26 AM 
+- 🤗 [Elasticsearch：通过热、温、冷和冻结层管理数据自动化 — 无需编码！](https://juejin.cn/post/7160974459170455566) | Tue Nov 01 2022 9:18 AM 
     <details><summary>展开描述 ...</summary> 
-    背景 卑微的Antv/S2客服：“喂，你好，这里是Antv/S2金牌服务专线，请问有什么可以帮你？” 小李： “救命啊！！电子表格想要默认好用快速上手就选Antv/S2，试问谁不知道？🤔” 
+    如果你想完全按照本文标题的建议去做，那就别无所求。 这篇文章旨在指导如何使用 Kibana Dashboard 的 “堆栈管理（Stack Management）” 功能集通过热、温、冷和冻结层自动移 
     </details> 
 
-- 🎡 [落幕；补充完全版：超全Android十三大手册PDF](https://juejin.cn/post/7160955179162927118) | Tue Nov 01 2022 8:03 AM 
+- 🎡 [前端全栈之路 - 玩转 Docker &lpar;Dockerfile&rpar;](https://juejin.cn/post/7160972042757079077) | Tue Nov 01 2022 9:09 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 之前更新了Android十二大手册PDF，最近发现有些遗漏，就进行了第十三模块，算是对前12个模板的补充吧。 527页的内容，算是把前12个模块的内容进行了补充。ღ&lpar; ´･ᴗ･` &rpar;比心 后续等 
+    前言 在上一篇，我们对 Docker 相关知识做了简单的介绍以及一起学习了常用的 Docker 命令。 本章将着重讲解如何在实际项目中使用 Dockerfile。 
     </details> 
 
-- 🕯 [前端实现一个最近抖音很火的图片选择题特效](https://juejin.cn/post/7160950934812983303) | Tue Nov 01 2022 7:47 AM 
+- 🕯 [Luminar Neo 教程，如何在 Luminar Neo 中使用神秘工具？](https://juejin.cn/post/7160971919653601294) | Tue Nov 01 2022 9:08 AM 
     <details><summary>展开描述 ...</summary> 
-    最近抖音特效中有个`图片选择题`特别火，今天就来讲一下前端如何实现，下面我主要讲一下`如何判断左右摆头`。 
+    欢迎观看 Luminar Neo 教程，小编带大家学习 Luminar Neo 的基本工具和使用技巧，了解如何在 Luminar Neo 中使用神秘工具。 
     </details> 
 
-- 🚀 [深入剖析nodejs中间件](https://juejin.cn/post/7160947067370602532) | Tue Nov 01 2022 7:31 AM 
+- 🚀 [Angular 快速入门 ｜ Standalone Component](https://juejin.cn/post/7160970222181023751) | Tue Nov 01 2022 9:02 AM 
     <details><summary>展开描述 ...</summary> 
-    nodejs的出现为前端行业带来了无限的可能性,让很多原来只负责客户端开发的同学也慢慢开始接触和使用服务器端技术. 虽然nodejs带来了很多的好处,但是它也存在自身的局限性.和那些传统老牌的编程语言 
+    时光机 👾 Angular 快速入门 ｜ 项目配置 &lpar; angular.json / environment / proxy / tailwind &rpar; ✅ ✅ Angular 快速入门 ｜ Rxjs  
     </details> 
 
-- 💪 [深入理解Node.js的进程与子进程](https://juejin.cn/post/7160946809467060231) | Tue Nov 01 2022 7:31 AM 
+- 💪 [完全使用Linux替换Windows之后，我觉得自己非常愚蠢](https://juejin.cn/post/7160969521421877261) | Tue Nov 01 2022 8:59 AM 
     <details><summary>展开描述 ...</summary> 
-    进程：process模块 process 模块是 nodejs 提供给开发者用来和当前进程交互的工具，它的提供了很多实用的 API。从文档出发，管中窥豹，进一步认识和学习 process 模块： 如何 
+    曾经，我有一万种理由使用Linux，但如今的我，只觉得自己非常的愚蠢。技术文章不是推理小说，没必要把原因搞的这么扑朔迷离，但我就是觉得自己非常愚蠢。 我痛苦的想要把自己的头拧下来。 很长一段时间里，我 
     </details> 
 <!-- juejin:END -->
 ### 少数派
