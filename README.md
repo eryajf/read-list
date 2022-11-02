@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [OldNewThing 博客的不少链接好像挂了](https://www.v2ex.com/t/892251#reply0) | Wed Nov 02 2022 6:16 PM
-- 🤗 [pydantic V2 将核心功能拆解到使用 Rust 实现的 pydantic-core，目标带来 10 倍以上的性能提升](https://www.v2ex.com/t/892246#reply1) | Wed Nov 02 2022 5:06 PM
-- 🎭 [Google one 结算货币跟什么有关？](https://www.v2ex.com/t/892239#reply1) | Wed Nov 02 2022 3:34 PM
-- 🥷 [有好用的内网搭建的 wiki 或笔记系统吗？](https://www.v2ex.com/t/892235#reply9) | Wed Nov 02 2022 3:22 PM
-- 🐵 [记一次 Next.js 样式异常的排查与 pr 修复](https://www.v2ex.com/t/892233#reply0) | Wed Nov 02 2022 3:15 PM<!-- v2ex:END -->
+- 🥸 [SQL 中 on 条件与 where 条件的区别](https://www.v2ex.com/t/892254#reply0) | Wed Nov 02 2022 8:00 PM
+- 🤗 [OldNewThing 博客的不少链接好像挂了](https://www.v2ex.com/t/892251#reply0) | Wed Nov 02 2022 6:16 PM
+- 🎭 [pydantic V2 将核心功能拆解到使用 Rust 实现的 pydantic-core，目标带来 10 倍以上的性能提升](https://www.v2ex.com/t/892246#reply1) | Wed Nov 02 2022 5:06 PM
+- 🥷 [Google one 结算货币跟什么有关？](https://www.v2ex.com/t/892239#reply1) | Wed Nov 02 2022 3:34 PM
+- 🐵 [有好用的内网搭建的 wiki 或笔记系统吗？](https://www.v2ex.com/t/892235#reply9) | Wed Nov 02 2022 3:22 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
