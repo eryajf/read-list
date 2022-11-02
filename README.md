@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [fleet 使用感受](https://www.v2ex.com/t/892151#reply1) | Wed Nov 02 2022 9:10 AM
-- 🤗 [最近想休息两天，想请两天假，不知道用什么借口合适](https://www.v2ex.com/t/892144#reply13) | Wed Nov 02 2022 8:55 AM
-- 🎭 [Windows 怎么像 macOS 那样按下 Command+` 快速切换当前应用的多个窗口](https://www.v2ex.com/t/892130#reply7) | Wed Nov 02 2022 8:26 AM
-- 🥷 [合并两个正则表达式](https://www.v2ex.com/t/892128#reply2) | Wed Nov 02 2022 8:18 AM
-- 🐵 [Python 使用 c 语言写的这些 lib 的 py binding 的最佳实践是什么，好像没办法在 venv 的环境里直接用](https://www.v2ex.com/t/892119#reply0) | Wed Nov 02 2022 7:57 AM<!-- v2ex:END -->
+- 🥸 [x2ray outbound 为域名的话，是不是会出现死循环](https://www.v2ex.com/t/892162#reply2) | Wed Nov 02 2022 9:42 AM
+- 🤗 [fleet 使用感受](https://www.v2ex.com/t/892151#reply13) | Wed Nov 02 2022 9:10 AM
+- 🎭 [最近想休息两天，想请两天假，不知道用什么借口合适](https://www.v2ex.com/t/892144#reply31) | Wed Nov 02 2022 8:55 AM
+- 🥷 [Windows 怎么像 macOS 那样按下 Command+` 快速切换当前应用的多个窗口](https://www.v2ex.com/t/892130#reply7) | Wed Nov 02 2022 8:26 AM
+- 🐵 [合并两个正则表达式](https://www.v2ex.com/t/892128#reply2) | Wed Nov 02 2022 8:18 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
