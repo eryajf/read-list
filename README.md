@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [IDEA中配置tomcat8.5中文乱码问题](https://juejin.cn/post/7161114260557266975) | Tue Nov 01 2022 6:21 PM 
+- 🤗 [Android 13这些权限废弃，你的应用受影响了吗？](https://juejin.cn/post/7161230716838084616) | Wed Nov 02 2022 1:53 AM 
     <details><summary>展开描述 ...</summary> 
-    分享知识  传递快乐 项目文件为GBK编码格式，但项目中文件定义的却是UTF-8格式，数据库连接也是UTF-8。 IDEA修改项目编码为UTF-8编码格式，JAVA文件中的中文乱码、控制台日志乱码（t 
+    在 Android 13 上废弃了文件访问权限，提供了一种选择媒体文件的工具，代替这些废弃的 API，而不需要授予对其整个媒体库的访问权限 
     </details> 
 
-- 🎡 [Oracle故障处理：Rman-06207&amp;Rman-06214](https://juejin.cn/post/7161113266821791758) | Tue Nov 01 2022 6:20 PM 
+- 🎡 [D3&lpar;v7&rpar;入门三：D3 DataJoin](https://juejin.cn/post/7161226954559979533) | Wed Nov 02 2022 1:39 AM 
     <details><summary>展开描述 ...</summary> 
-    1、在给客户系统巡检时通过rman维护日志发现有rman维护日志报错： RMAN-06207: WARNING: 3 objects could not be deleted for DISK cha 
+    DataJoin&lpar;数据连接&rpar;是D3中很重要的一个概念。上一章有提到D3是基于数据操作DOM的js库，DataJoin使我们能够根据现有 HTML 文档中的数据集注入、修改和删除元素。 
     </details> 
 
-- 🕯 [【MySQL】如何构建一个完整的MySQL知识体系（MySQL专栏启动）](https://juejin.cn/post/7161066296095244318) | Tue Nov 01 2022 3:21 PM 
+- 🕯 [一文带你简单安装docker PostgreSql🕵️](https://juejin.cn/post/7161223229657808926) | Wed Nov 02 2022 1:24 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 为了能够使大家真正高效学好 MySQL，本文通过为什么要学MySQL，到MySQL要学习什么，给出本专栏会讲解MySQL哪些知识，全面了解本专栏，帮助大家可以简历中写“精通MySQL”而不虚，帮 
+    本文正在参加「技术专题19期 漫谈数据库技术」活动 🧙还在犹豫要不要学习PostgreSql?或者你还在担心PostgreSql如何安装和配置？在本文中，我们将一起学习如何使用docker安装Post 
     </details> 
 
-- 🚀 [初识React &lpar;二&rpar; 之组件三大核心属性](https://juejin.cn/post/7161064742348406814) | Tue Nov 01 2022 3:09 PM 
+- 🚀 [为了更好的摸鱼，我实现了iconfont图标库自动下载，并发布为npm包](https://juejin.cn/post/7161221169952096292) | Wed Nov 02 2022 1:16 AM 
     <details><summary>展开描述 ...</summary> 
-    一、state 1. 若想要通过事件修改状态时，就需要使用到 setState 方法 2. 同步 or 异步 setState 方法到底是同步还是异步分两种情况 在组件生命周期或React事件中，se 
+    前言 公司图标是上传到阿里iconfont进行管理，各个团队各个项目需要更新图标时，自行下载到本地，然后解压，替换掉项目内的图标文件，这个过程听起来就有点繁琐，按理说采用cdn的引入方式可能会更好一些 
     </details> 
 
-- 💪 [一文吃透 React 和 Vue 的多节点 diff 原理](https://juejin.cn/post/7161063643105198093) | Tue Nov 01 2022 3:05 PM 
+- 💪 [一台机器下，多个Java版本的粗放与精细管理](https://juejin.cn/post/7161218115433398308) | Wed Nov 02 2022 1:05 AM 
     <details><summary>展开描述 ...</summary> 
-    虚拟 DOM 虚拟 DOM 节点是一个 JS 对象，用这个 JS 对象可以表示 DOM 节点、组件节点等。有了虚拟 DOM，能提高整体研发体验和效率，同时也能解决跨平台问题。 
+    前言 在软件开发过程中，经常会遇到“古老”的项目，这些项目的JDK还处于Java 6、Java 7甚至更早的版本。同时，在学习新的JDK特性时，往往又需要安装最新版本的JDK。鉴于这些情况，我们就需要 
     </details> 
 <!-- juejin:END -->
 ### 少数派
