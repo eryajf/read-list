@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [MIUI 13 欧版 &lpar; xiaomi.eu &rpar; 通知栏上多出来的这个回形的图标是什么意思？](https://www.v2ex.com/t/892222#reply2) | Wed Nov 02 2022 2:09 PM
-- 🤗 [定居杭州或天津，大家怎么考虑这件事？](https://www.v2ex.com/t/892218#reply1) | Wed Nov 02 2022 2:02 PM
-- 🎭 [请问一主多从系统数据同步方案如何设计](https://www.v2ex.com/t/892203#reply5) | Wed Nov 02 2022 12:46 PM
-- 🥷 [FRP 服务器端总是无故进程断了，是怎么回事](https://www.v2ex.com/t/892201#reply4) | Wed Nov 02 2022 12:40 PM
-- 🐵 [想问问大家 ROI 报表怎么实现的？](https://www.v2ex.com/t/892189#reply2) | Wed Nov 02 2022 12:01 PM<!-- v2ex:END -->
+- 🥸 [记一次 Next.js 样式异常的排查与 pr 修复](https://www.v2ex.com/t/892233#reply0) | Wed Nov 02 2022 3:15 PM
+- 🤗 [请问如何让 ls 命令显示的 “文件夹” 使用斜体？](https://www.v2ex.com/t/892232#reply1) | Wed Nov 02 2022 3:08 PM
+- 🎭 [如何配置数据库连接池](https://www.v2ex.com/t/892231#reply2) | Wed Nov 02 2022 3:06 PM
+- 🥷 [为什么有的时候 windows 删除被占用的文件报错时能给出对应的进程名，有的时候只说“被另一程序占用”？](https://www.v2ex.com/t/892228#reply0) | Wed Nov 02 2022 2:49 PM
+- 🐵 [MIUI 13 欧版 &lpar; xiaomi.eu &rpar; 通知栏上多出来的这个回形的图标是什么意思？](https://www.v2ex.com/t/892222#reply2) | Wed Nov 02 2022 2:09 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
