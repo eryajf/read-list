@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android 13这些权限废弃，你的应用受影响了吗？](https://juejin.cn/post/7161230716838084616) | Wed Nov 02 2022 1:53 AM 
+- 🤗 [接口响应慢 用户总抱怨？后端必会知识点 EXPLAIN SQL 分析整理](https://juejin.cn/post/7161254854571065375) | Wed Nov 02 2022 3:26 AM 
     <details><summary>展开描述 ...</summary> 
-    在 Android 13 上废弃了文件访问权限，提供了一种选择媒体文件的工具，代替这些废弃的 API，而不需要授予对其整个媒体库的访问权限 
+    起因是我写了一个响应时间高达12秒！！！的接口，最近在做数据汇总 数据量大 表多 SQL 复杂 最后做出来之后 发布到测试环境 我进行数据测试 当我看到Table一直在Loading状态 我心中默念 
     </details> 
 
-- 🎡 [D3&lpar;v7&rpar;入门三：D3 DataJoin](https://juejin.cn/post/7161226954559979533) | Wed Nov 02 2022 1:39 AM 
+- 🎡 [转转图书对基于Drools引擎的DMN实践](https://juejin.cn/post/7161254245260328967) | Wed Nov 02 2022 3:24 AM 
     <details><summary>展开描述 ...</summary> 
-    DataJoin&lpar;数据连接&rpar;是D3中很重要的一个概念。上一章有提到D3是基于数据操作DOM的js库，DataJoin使我们能够根据现有 HTML 文档中的数据集注入、修改和删除元素。 
+    DMN全称Decision Model and Notation（决策模型和符号、决策模型和表示法）,是一种用于表示业务决策和规则的规范 
     </details> 
 
-- 🕯 [一文带你简单安装docker PostgreSql🕵️](https://juejin.cn/post/7161223229657808926) | Wed Nov 02 2022 1:24 AM 
+- 🕯 [浅谈系统稳定性与高可用保障的几种思路](https://juejin.cn/post/7161252962659598343) | Wed Nov 02 2022 3:19 AM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「技术专题19期 漫谈数据库技术」活动 🧙还在犹豫要不要学习PostgreSql?或者你还在担心PostgreSql如何安装和配置？在本文中，我们将一起学习如何使用docker安装Post 
+    高并发、高可用、高性能被称为互联网三高架构，这三者都是工程师和架构师在系统架构设计中必须考虑的因素之一。今天我们就来聊一聊三H中的高可用，也是我们常说的系统稳定性。 
     </details> 
 
-- 🚀 [为了更好的摸鱼，我实现了iconfont图标库自动下载，并发布为npm包](https://juejin.cn/post/7161221169952096292) | Wed Nov 02 2022 1:16 AM 
+- 🚀 [如何在 macOS 13 Ventura 中使用控制中心？](https://juejin.cn/post/7161252552770764814) | Wed Nov 02 2022 3:17 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 公司图标是上传到阿里iconfont进行管理，各个团队各个项目需要更新图标时，自行下载到本地，然后解压，替换掉项目内的图标文件，这个过程听起来就有点繁琐，按理说采用cdn的引入方式可能会更好一些 
+    苹果 Mac 上的「控制中心」可让你快速访问 macOS 的主要设置，如音量、亮度、Wi-Fi 或专注模式，并指示 Mac 正在使用摄像头或麦克风。 
     </details> 
 
-- 💪 [一台机器下，多个Java版本的粗放与精细管理](https://juejin.cn/post/7161218115433398308) | Wed Nov 02 2022 1:05 AM 
+- 💪 [11年前的面试题，官方今年才表态、如何进行模块化的拆分？ | 101期](https://juejin.cn/post/7161252526719762468) | Wed Nov 02 2022 3:17 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 在软件开发过程中，经常会遇到“古老”的项目，这些项目的JDK还处于Java 6、Java 7甚至更早的版本。同时，在学习新的JDK特性时，往往又需要安装最新版本的JDK。鉴于这些情况，我们就需要 
+    【掘金酱的下午茶】亮点： 一文打尽前端应该知道的服务端架构知识 我让虚拟DOM的diff算法过程动起来了 浅谈长连接负载均衡 一看就懂的OpenGL ES教程——渲染宫崎骏动漫重拾童年 如何进行模块化 
     </details> 
 <!-- juejin:END -->
 ### 少数派
