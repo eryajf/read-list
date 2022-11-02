@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有偿！昨天问了一下，还是没有解决问题，直接有偿求解。](https://www.v2ex.com/t/891938#reply2) | Tue Nov 01 2022 6:40 PM
-- 🤗 [如果用目录编号来存储树结构数据，是不是邻接表和闭包表更高效，那检索目录的算法是什么？](https://www.v2ex.com/t/891921#reply1) | Tue Nov 01 2022 3:52 PM
-- 🎭 [远程 tmux 连接中断后终端中的鼠标操作出现乱码](https://www.v2ex.com/t/891919#reply3) | Tue Nov 01 2022 3:39 PM
-- 🥷 [为什么不为人类设计一门结构化的编程语言（中文编程语言什么的真的是 low 爆了）](https://www.v2ex.com/t/891914#reply36) | Tue Nov 01 2022 3:16 PM
-- 🐵 [远程 dns 查询会走代理么](https://www.v2ex.com/t/891904#reply3) | Tue Nov 01 2022 2:36 PM<!-- v2ex:END -->
+- 🥸 [求推荐视频剪辑的开源代码？](https://www.v2ex.com/t/891967#reply0) | Wed Nov 02 2022 1:32 AM
+- 🤗 [2022 年双 11 各种云平台活动](https://www.v2ex.com/t/891961#reply8) | Wed Nov 02 2022 1:20 AM
+- 🎭 [大佬都爱用什么远程管理工具呢？](https://www.v2ex.com/t/891950#reply31) | Wed Nov 02 2022 12:47 AM
+- 🥷 [有偿！昨天问了一下，还是没有解决问题，直接有偿求解。](https://www.v2ex.com/t/891938#reply7) | Tue Nov 01 2022 6:40 PM
+- 🐵 [如果用目录编号来存储树结构数据，是不是邻接表和闭包表更高效，那检索目录的算法是什么？](https://www.v2ex.com/t/891921#reply3) | Tue Nov 01 2022 3:52 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
