@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请问一主多从系统数据同步方案如何设计](https://www.v2ex.com/t/892203#reply5) | Wed Nov 02 2022 12:46 PM
-- 🤗 [FRP 服务器端总是无故进程断了，是怎么回事](https://www.v2ex.com/t/892201#reply4) | Wed Nov 02 2022 12:40 PM
-- 🎭 [想问问大家 ROI 报表怎么实现的？](https://www.v2ex.com/t/892189#reply2) | Wed Nov 02 2022 12:01 PM
-- 🥷 [求助！关于微信打开网页下载视频问题 Content-Disposition: attachment](https://www.v2ex.com/t/892185#reply0) | Wed Nov 02 2022 11:37 AM
-- 🐵 [字节跳动 的同学，和腾讯一样天天废接口.gif](https://www.v2ex.com/t/892173#reply1) | Wed Nov 02 2022 10:23 AM<!-- v2ex:END -->
+- 🥸 [MIUI 13 欧版 &lpar; xiaomi.eu &rpar; 通知栏上多出来的这个回形的图标是什么意思？](https://www.v2ex.com/t/892222#reply2) | Wed Nov 02 2022 2:09 PM
+- 🤗 [定居杭州或天津，大家怎么考虑这件事？](https://www.v2ex.com/t/892218#reply1) | Wed Nov 02 2022 2:02 PM
+- 🎭 [请问一主多从系统数据同步方案如何设计](https://www.v2ex.com/t/892203#reply5) | Wed Nov 02 2022 12:46 PM
+- 🥷 [FRP 服务器端总是无故进程断了，是怎么回事](https://www.v2ex.com/t/892201#reply4) | Wed Nov 02 2022 12:40 PM
+- 🐵 [想问问大家 ROI 报表怎么实现的？](https://www.v2ex.com/t/892189#reply2) | Wed Nov 02 2022 12:01 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
