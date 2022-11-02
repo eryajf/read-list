@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [React 之元素与组件的区别](https://juejin.cn/post/7161320926728945701) | Wed Nov 02 2022 7:43 AM 
+- 🤗 [机器学习编译器的前世今生](https://juejin.cn/post/7161331802055901214) | Wed Nov 02 2022 8:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文对ML编译器进行了通俗介绍。ML编译器始于边缘计算的兴起，这使编译器不再是系统工程师的专属，而是全体ML从业者关心的领域。如果你已十分了解用边缘设备运行ML的重要性，可以跳过下文第一部分。 
+    </details> 
+
+- 🎡 [【数据结构与算法】有向图的拓扑排序](https://juejin.cn/post/7161320938716430366) | Wed Nov 02 2022 7:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    数据结构与算法系列学习笔记 前言 在现实生活中，我们经常会同一时间接到很多任务去完成，但是这些任务的完成是有先后次序的。以我们学习java 学科为例，我们需要学习很多知识，但是这些知识在学习的过程中是 
+    </details> 
+
+- 🕯 [React 之元素与组件的区别](https://juejin.cn/post/7161320926728945701) | Wed Nov 02 2022 7:43 AM 
     <details><summary>展开描述 ...</summary> 
     我被问过这样一个问题：想要实现一个 useTitle 方法，具体使用示例如下：但在编写 useTitle 代码的时候却出了问题：这段代码直接报错，连渲染都渲染不出来，如果是你，该如何修改这段代码呢？ 
     </details> 
 
-- 🎡 [基于window10使用docker-composer创建mysql数据库和tomcat环境](https://juejin.cn/post/7161312874663510052) | Wed Nov 02 2022 7:13 AM 
+- 🚀 [基于window10使用docker-composer创建mysql数据库和tomcat环境](https://juejin.cn/post/7161312874663510052) | Wed Nov 02 2022 7:13 AM 
     <details><summary>展开描述 ...</summary> 
     本文正在参加「技术专题19期 漫谈数据库技术」活动 基于window10使用docker-composer创建mysql数据库和tomcat环境 
     </details> 
 
-- 🕯 [深度剖析「圈组」关系系统设计 | 「圈组」技术系列文章](https://juejin.cn/post/7161310839155195918) | Wed Nov 02 2022 7:03 AM 
+- 💪 [深度剖析「圈组」关系系统设计 | 「圈组」技术系列文章](https://juejin.cn/post/7161310839155195918) | Wed Nov 02 2022 7:03 AM 
     <details><summary>展开描述 ...</summary> 
     网易云信新晋的 IM 顶流产品「圈组」出道后获取到了极大的关注，很多云信的客户在接入的同时对于「圈组」的底层技术细节和原理也非常关注。 
-    </details> 
-
-- 🚀 [DAY 71 数据库缓存服务——NoSQL之Redis配置与优化](https://juejin.cn/post/7161297129707667492) | Wed Nov 02 2022 6:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    缓存概念 缓存是为了调节速度不一致的两个或多个不同的物质的速度，在中间对速度较慢的一方起到加速作用，比如CPU的一级、二级缓存是保存了CPU最近经常访问的数据，内存是保存CPU经常访问硬盘的数据，而且 
-    </details> 
-
-- 💪 [设计模式-单例（Singleton）模式](https://juejin.cn/post/7161251479582900261) | Wed Nov 02 2022 3:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动，一起开启掘金创作之路。 单例模式属于创建型模式的一种，创建型模式是一类最常用的设计模式，在软件开发中应用非常广泛。创建型模式将对象的创建和使用分离，在使用对象时无需关心对 
     </details> 
 <!-- juejin:END -->
 ### 少数派
