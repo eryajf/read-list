@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [互联网不是法外之地！尤雨溪在线回怼：Turbopack真的比Vite快十倍吗?](https://juejin.cn/post/7161274682929807368) | Wed Nov 02 2022 4:58 AM 
+- 🤗 [线上kafka消息堆积，consumer掉线，怎么办？](https://juejin.cn/post/7161300002403254308) | Wed Nov 02 2022 6:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    最近处理了一次线上故障，整体排查过程和事后的复盘都很有意思，并且结合本次故障，对kafka使用的最佳实践有了更深刻的理解。 
+    </details> 
+
+- 🎡 [GoFrame的gmap天然支持排序和有序遍历！？](https://juejin.cn/post/7161298188514066445) | Wed Nov 02 2022 6:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    有好多初学GO和GoFrame的小伙伴搞不清楚map怎么用。 不少刚入门的小伙伴都被Go语言中map的无序性“坑过”。尤其是PHP转Go的小伙伴，不要问我是怎么知道的~ 
+    </details> 
+
+- 🕯 [Android 插件化中资源错乱的解决方案](https://juejin.cn/post/7161294480673832973) | Wed Nov 02 2022 6:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    摘要 本文介绍了 Android 插件化框架中，插件使用宿主资源时资源错乱的问题，以及错乱的原因、业界通用解决方案、我们提出的优化方案。 
+    </details> 
+
+- 🚀 [手写 Puppeteer：远程控制 Chromium](https://juejin.cn/post/7161290738444664845) | Wed Nov 02 2022 5:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    上一集我们实现了 Chromium 的自动下载，这集把 Chromium 跑起来，实现远程控制。 你是否好奇过 Puppeteer 的远程控制是怎么实现的呢？ 其实是基于 Chrome DevTool 
+    </details> 
+
+- 💪 [互联网不是法外之地！尤雨溪在线回怼：Turbopack真的比Vite快十倍吗?](https://juejin.cn/post/7161274682929807368) | Wed Nov 02 2022 4:58 AM 
     <details><summary>展开描述 ...</summary> 
     一周前，Vercel 发布了Turbopack，它是基于 Rust 的 Webpack 继任者。 在公告中，头条新闻之一是 Turbopack “比 Vite 快 10 倍”。这句话在 Vercel  
-    </details> 
-
-- 🎡 [[从0到1学习go语言]-从零搭建Go语言开发环境](https://juejin.cn/post/7161276736570589197) | Wed Nov 02 2022 4:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    大家好,我是东东吖，一名前端工程师，今天开始我们将一起学习后端go语言，在学习go语言之后，希望我们能从一名前端工程师转变为全栈工程师。另外，需要进交流群的同学，可以加我微信fangdongdong_ 
-    </details> 
-
-- 🕯 [Go for 循环有时候真的很坑。。。](https://juejin.cn/post/7161274380809568292) | Wed Nov 02 2022 4:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    大家好，我是煎鱼。 不知道有多少 Go 的面试题和泄露，都和 for 循环有关。今天我在周末认真一看，发现了 redefining for loop variable semantics 。 著名的硬 
-    </details> 
-
-- 🚀 [接口响应慢 用户总抱怨？后端必会知识点 EXPLAIN SQL 分析整理](https://juejin.cn/post/7161254854571065375) | Wed Nov 02 2022 3:26 AM 
-    <details><summary>展开描述 ...</summary> 
-    起因是我写了一个响应时间高达12秒！！！的接口，最近在做数据汇总 数据量大 表多 SQL 复杂 最后做出来之后 发布到测试环境 我进行数据测试 当我看到Table一直在Loading状态 我心中默念 
-    </details> 
-
-- 💪 [转转图书对基于Drools引擎的DMN实践](https://juejin.cn/post/7161254245260328967) | Wed Nov 02 2022 3:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    DMN全称Decision Model and Notation（决策模型和符号、决策模型和表示法）,是一种用于表示业务决策和规则的规范 
     </details> 
 <!-- juejin:END -->
 ### 少数派
