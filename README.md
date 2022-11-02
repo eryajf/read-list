@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [接口响应慢 用户总抱怨？后端必会知识点 EXPLAIN SQL 分析整理](https://juejin.cn/post/7161254854571065375) | Wed Nov 02 2022 3:26 AM 
+- 🤗 [互联网不是法外之地！尤雨溪在线回怼：Turbopack真的比Vite快十倍吗?](https://juejin.cn/post/7161274682929807368) | Wed Nov 02 2022 4:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    一周前，Vercel 发布了Turbopack，它是基于 Rust 的 Webpack 继任者。 在公告中，头条新闻之一是 Turbopack “比 Vite 快 10 倍”。这句话在 Vercel  
+    </details> 
+
+- 🎡 [[从0到1学习go语言]-从零搭建Go语言开发环境](https://juejin.cn/post/7161276736570589197) | Wed Nov 02 2022 4:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    大家好,我是东东吖，一名前端工程师，今天开始我们将一起学习后端go语言，在学习go语言之后，希望我们能从一名前端工程师转变为全栈工程师。另外，需要进交流群的同学，可以加我微信fangdongdong_ 
+    </details> 
+
+- 🕯 [Go for 循环有时候真的很坑。。。](https://juejin.cn/post/7161274380809568292) | Wed Nov 02 2022 4:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    大家好，我是煎鱼。 不知道有多少 Go 的面试题和泄露，都和 for 循环有关。今天我在周末认真一看，发现了 redefining for loop variable semantics 。 著名的硬 
+    </details> 
+
+- 🚀 [接口响应慢 用户总抱怨？后端必会知识点 EXPLAIN SQL 分析整理](https://juejin.cn/post/7161254854571065375) | Wed Nov 02 2022 3:26 AM 
     <details><summary>展开描述 ...</summary> 
     起因是我写了一个响应时间高达12秒！！！的接口，最近在做数据汇总 数据量大 表多 SQL 复杂 最后做出来之后 发布到测试环境 我进行数据测试 当我看到Table一直在Loading状态 我心中默念 
     </details> 
 
-- 🎡 [转转图书对基于Drools引擎的DMN实践](https://juejin.cn/post/7161254245260328967) | Wed Nov 02 2022 3:24 AM 
+- 💪 [转转图书对基于Drools引擎的DMN实践](https://juejin.cn/post/7161254245260328967) | Wed Nov 02 2022 3:24 AM 
     <details><summary>展开描述 ...</summary> 
     DMN全称Decision Model and Notation（决策模型和符号、决策模型和表示法）,是一种用于表示业务决策和规则的规范 
-    </details> 
-
-- 🕯 [浅谈系统稳定性与高可用保障的几种思路](https://juejin.cn/post/7161252962659598343) | Wed Nov 02 2022 3:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    高并发、高可用、高性能被称为互联网三高架构，这三者都是工程师和架构师在系统架构设计中必须考虑的因素之一。今天我们就来聊一聊三H中的高可用，也是我们常说的系统稳定性。 
-    </details> 
-
-- 🚀 [如何在 macOS 13 Ventura 中使用控制中心？](https://juejin.cn/post/7161252552770764814) | Wed Nov 02 2022 3:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    苹果 Mac 上的「控制中心」可让你快速访问 macOS 的主要设置，如音量、亮度、Wi-Fi 或专注模式，并指示 Mac 正在使用摄像头或麦克风。 
-    </details> 
-
-- 💪 [11年前的面试题，官方今年才表态、如何进行模块化的拆分？ | 101期](https://juejin.cn/post/7161252526719762468) | Wed Nov 02 2022 3:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    【掘金酱的下午茶】亮点： 一文打尽前端应该知道的服务端架构知识 我让虚拟DOM的diff算法过程动起来了 浅谈长连接负载均衡 一看就懂的OpenGL ES教程——渲染宫崎骏动漫重拾童年 如何进行模块化 
     </details> 
 <!-- juejin:END -->
 ### 少数派
