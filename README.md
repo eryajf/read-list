@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android之触点事件处理【教学】](https://juejin.cn/post/7161402814231969823) | Wed Nov 02 2022 1:01 PM 
+- 🤗 [【分布式技术专题】「架构实践于案例分析」总结和盘点目前常用分布式事务特别及问题分析（Seata-终）](https://juejin.cn/post/7161431517569220621) | Wed Nov 02 2022 2:52 PM 
+    <details><summary>展开描述 ...</summary> 
+    分布式事务中间件对⽐与选择 tx-lcn EasyTransaction ByteTCC Seata Seata实现分布式事务 搭建Seata Server Linux/Unix/Mac Window 
+    </details> 
+
+- 🎡 [Android之触点事件处理【教学】](https://juejin.cn/post/7161402814231969823) | Wed Nov 02 2022 1:01 PM 
     <details><summary>展开描述 ...</summary> 
     知识点： 1、 Android开发中的运动事件：触摸屏（TouchScreen）和滚动球（TrackBall） 2、对运动事件的处理：MotionEvent 3、触摸时必发的三个MotionEvent 
     </details> 
 
-- 🎡 [如何免安装使用 Python？推荐 17 个在线的 Python 解释器！](https://juejin.cn/post/7161401193834414117) | Wed Nov 02 2022 12:56 PM 
+- 🕯 [如何免安装使用 Python？推荐 17 个在线的 Python 解释器！](https://juejin.cn/post/7161401193834414117) | Wed Nov 02 2022 12:56 PM 
     <details><summary>展开描述 ...</summary> 
     安装 Python 很容易，但或许你正在用智能手机/平板电脑，在用不允许安装软件的电脑，或者因为其它原因无法安装 Python。那么，如何通过免安装的方式使用 Python 呢？ 本文将介绍 17 个 
     </details> 
 
-- 🕯 [package.json 配置完全解读](https://juejin.cn/entry/7161392772665540644) | Wed Nov 02 2022 12:22 PM 
+- 🚀 [package.json 配置完全解读](https://juejin.cn/entry/7161392772665540644) | Wed Nov 02 2022 12:22 PM 
     <details><summary>展开描述 ...</summary> 
     package.json 是前端每个项目都有的 json 文件，里面有许许多多的配置，与项目息息相关，了解它们有助于了解项目，提效开发，规范代码。 
     </details> 
 
-- 🚀 [MySQL数据库基础：JSON函数各类操作一文详解](https://juejin.cn/post/7161389364344258590) | Wed Nov 02 2022 12:08 PM 
+- 💪 [MySQL数据库基础：JSON函数各类操作一文详解](https://juejin.cn/post/7161389364344258590) | Wed Nov 02 2022 12:08 PM 
     <details><summary>展开描述 ...</summary> 
     本文正在参加「技术专题19期 漫谈数据库技术」活动 前言 很多日常业务场景都会用到json文件作为数据存储起来，而mysql5.7以上就提供了存储json的支撑。往常存储json一般都保留在pg库或者 
-    </details> 
-
-- 💪 [Nacos注册中心6-Client端（获取调用服务的提供者列表）](https://juejin.cn/post/7161381465979109412) | Wed Nov 02 2022 11:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    Nacos Client端获取调用服务的提供者列表，入口ZoneAwareLoadBalancer。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
