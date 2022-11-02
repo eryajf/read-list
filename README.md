@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [django+ celery 的 gevent 模式使用 sync_to_async 时报错, 请问有什么好的处理方案吗?](https://www.v2ex.com/t/892041#reply0) | Wed Nov 02 2022 4:04 AM
-- 🤗 [请教 Kerberos 完成认证后后续的通信加密是如何完成的？](https://www.v2ex.com/t/892040#reply0) | Wed Nov 02 2022 4:01 AM
-- 🎭 [有没有轻量级的 Maven 库呀](https://www.v2ex.com/t/892023#reply5) | Wed Nov 02 2022 3:17 AM
-- 🥷 [安卓下普通 app 貌似可以随意获取已安装 app 列表](https://www.v2ex.com/t/892011#reply7) | Wed Nov 02 2022 3:00 AM
-- 🐵 [google 的联系人问题](https://www.v2ex.com/t/892010#reply2) | Wed Nov 02 2022 2:58 AM<!-- v2ex:END -->
+- 🥸 [MavenHelper 插件有 jenkins 或者 sonarqube 版本吗？](https://www.v2ex.com/t/892059#reply0) | Wed Nov 02 2022 5:18 AM
+- 🤗 [遇到了 React 性能的一点问题，求调试思路](https://www.v2ex.com/t/892054#reply1) | Wed Nov 02 2022 4:54 AM
+- 🎭 [有人试过曲面主屏+直面侧屏的方案吗？](https://www.v2ex.com/t/892047#reply0) | Wed Nov 02 2022 4:30 AM
+- 🥷 [django+ celery 的 gevent 模式使用 sync_to_async 时报错, 请问有什么好的处理方案吗?](https://www.v2ex.com/t/892041#reply0) | Wed Nov 02 2022 4:04 AM
+- 🐵 [请教 Kerberos 完成认证后后续的通信加密是如何完成的？](https://www.v2ex.com/t/892040#reply1) | Wed Nov 02 2022 4:01 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
