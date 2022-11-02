@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [package.json 配置完全解读](https://juejin.cn/entry/7161392772665540644) | Wed Nov 02 2022 12:22 PM 
+- 🤗 [Android之触点事件处理【教学】](https://juejin.cn/post/7161402814231969823) | Wed Nov 02 2022 1:01 PM 
+    <details><summary>展开描述 ...</summary> 
+    知识点： 1、 Android开发中的运动事件：触摸屏（TouchScreen）和滚动球（TrackBall） 2、对运动事件的处理：MotionEvent 3、触摸时必发的三个MotionEvent 
+    </details> 
+
+- 🎡 [如何免安装使用 Python？推荐 17 个在线的 Python 解释器！](https://juejin.cn/post/7161401193834414117) | Wed Nov 02 2022 12:56 PM 
+    <details><summary>展开描述 ...</summary> 
+    安装 Python 很容易，但或许你正在用智能手机/平板电脑，在用不允许安装软件的电脑，或者因为其它原因无法安装 Python。那么，如何通过免安装的方式使用 Python 呢？ 本文将介绍 17 个 
+    </details> 
+
+- 🕯 [package.json 配置完全解读](https://juejin.cn/entry/7161392772665540644) | Wed Nov 02 2022 12:22 PM 
     <details><summary>展开描述 ...</summary> 
     package.json 是前端每个项目都有的 json 文件，里面有许许多多的配置，与项目息息相关，了解它们有助于了解项目，提效开发，规范代码。 
     </details> 
 
-- 🎡 [MySQL数据库基础：JSON函数各类操作一文详解](https://juejin.cn/post/7161389364344258590) | Wed Nov 02 2022 12:08 PM 
+- 🚀 [MySQL数据库基础：JSON函数各类操作一文详解](https://juejin.cn/post/7161389364344258590) | Wed Nov 02 2022 12:08 PM 
     <details><summary>展开描述 ...</summary> 
     本文正在参加「技术专题19期 漫谈数据库技术」活动 前言 很多日常业务场景都会用到json文件作为数据存储起来，而mysql5.7以上就提供了存储json的支撑。往常存储json一般都保留在pg库或者 
     </details> 
 
-- 🕯 [Nacos注册中心6-Client端（获取调用服务的提供者列表）](https://juejin.cn/post/7161381465979109412) | Wed Nov 02 2022 11:39 AM 
+- 💪 [Nacos注册中心6-Client端（获取调用服务的提供者列表）](https://juejin.cn/post/7161381465979109412) | Wed Nov 02 2022 11:39 AM 
     <details><summary>展开描述 ...</summary> 
     Nacos Client端获取调用服务的提供者列表，入口ZoneAwareLoadBalancer。 
-    </details> 
-
-- 🚀 [腾讯云微服务引擎 TSE 10月产品动态](https://juejin.cn/post/7161379550817943565) | Wed Nov 02 2022 11:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    微服务引擎 TSE 10月动态，Kong 网关支持弹性伸缩：Kong上线根据 系统指标（CPU利用率）自动扩缩容能力，您可以配置弹性伸缩策略，Kong 将自动对节点进行弹性伸缩。 
-    </details> 
-
-- 💪 [druid 加密数据源：如何拦截 Druid 数据源自动注入完成帐密的解密？](https://juejin.cn/post/7161378064687955981) | Wed Nov 02 2022 11:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    druid 加密数据源：如何拦截 Druid 数据源自动注入完成帐密的解密？SpringBoot 项目，使用 Druid 自动装配的数据源，数据源的帐号密码配置加密后，如何完成数据源的装配呢？ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
