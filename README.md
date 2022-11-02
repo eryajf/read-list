@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [线上kafka消息堆积，consumer掉线，怎么办？](https://juejin.cn/post/7161300002403254308) | Wed Nov 02 2022 6:22 AM 
+- 🤗 [基于window10使用docker-composer创建mysql数据库和tomcat环境](https://juejin.cn/post/7161312874663510052) | Wed Nov 02 2022 7:13 AM 
     <details><summary>展开描述 ...</summary> 
-    最近处理了一次线上故障，整体排查过程和事后的复盘都很有意思，并且结合本次故障，对kafka使用的最佳实践有了更深刻的理解。 
+    本文正在参加「技术专题19期 漫谈数据库技术」活动 基于window10使用docker-composer创建mysql数据库和tomcat环境 
     </details> 
 
-- 🎡 [GoFrame的gmap天然支持排序和有序遍历！？](https://juejin.cn/post/7161298188514066445) | Wed Nov 02 2022 6:15 AM 
+- 🎡 [深度剖析「圈组」关系系统设计 | 「圈组」技术系列文章](https://juejin.cn/post/7161310839155195918) | Wed Nov 02 2022 7:03 AM 
     <details><summary>展开描述 ...</summary> 
-    有好多初学GO和GoFrame的小伙伴搞不清楚map怎么用。 不少刚入门的小伙伴都被Go语言中map的无序性“坑过”。尤其是PHP转Go的小伙伴，不要问我是怎么知道的~ 
+    网易云信新晋的 IM 顶流产品「圈组」出道后获取到了极大的关注，很多云信的客户在接入的同时对于「圈组」的底层技术细节和原理也非常关注。 
     </details> 
 
-- 🕯 [Android 插件化中资源错乱的解决方案](https://juejin.cn/post/7161294480673832973) | Wed Nov 02 2022 6:00 AM 
+- 🕯 [极致编译速度，一文搞定webpack5升级](https://juejin.cn/post/7161303856943464455) | Wed Nov 02 2022 6:37 AM 
     <details><summary>展开描述 ...</summary> 
-    摘要 本文介绍了 Android 插件化框架中，插件使用宿主资源时资源错乱的问题，以及错乱的原因、业界通用解决方案、我们提出的优化方案。 
+    作者在升级了webpack5以后，整体的开发体验都有了质的提升，本文主要归纳总结了创作者中心升级webpack5的流程以及分享过程中踩过的一些坑，供大家参考 
     </details> 
 
-- 🚀 [手写 Puppeteer：远程控制 Chromium](https://juejin.cn/post/7161290738444664845) | Wed Nov 02 2022 5:47 AM 
+- 🚀 [DAY 71 数据库缓存服务——NoSQL之Redis配置与优化](https://juejin.cn/post/7161297129707667492) | Wed Nov 02 2022 6:11 AM 
     <details><summary>展开描述 ...</summary> 
-    上一集我们实现了 Chromium 的自动下载，这集把 Chromium 跑起来，实现远程控制。 你是否好奇过 Puppeteer 的远程控制是怎么实现的呢？ 其实是基于 Chrome DevTool 
+    缓存概念 缓存是为了调节速度不一致的两个或多个不同的物质的速度，在中间对速度较慢的一方起到加速作用，比如CPU的一级、二级缓存是保存了CPU最近经常访问的数据，内存是保存CPU经常访问硬盘的数据，而且 
     </details> 
 
-- 💪 [互联网不是法外之地！尤雨溪在线回怼：Turbopack真的比Vite快十倍吗?](https://juejin.cn/post/7161274682929807368) | Wed Nov 02 2022 4:58 AM 
+- 💪 [LeetCode 0491. 递增子序列](https://juejin.cn/post/7161274306024964103) | Wed Nov 02 2022 4:42 AM 
     <details><summary>展开描述 ...</summary> 
-    一周前，Vercel 发布了Turbopack，它是基于 Rust 的 Webpack 继任者。 在公告中，头条新闻之一是 Turbopack “比 Vite 快 10 倍”。这句话在 Vercel  
+    【LetMeFly】491.递增子序列：两大方法三小方法 力扣题目链接：https://leetcode.cn/problems/increasing-subsequences/ 方法一：二进制枚举  
     </details> 
 <!-- juejin:END -->
 ### 少数派
