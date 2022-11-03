@@ -364,9 +364,9 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [sublime text 提示 Cannot instantiate abstract class &quot;ExcelWriter&quot;](https://www.v2ex.com/t/892513#reply0) | Thu Nov 03 2022 4:24 PM
+- 🥸 [sublime text 提示 Cannot instantiate abstract class &quot;ExcelWriter&quot;](https://www.v2ex.com/t/892513#reply2) | Thu Nov 03 2022 4:24 PM
 - 🤗 [各种 httpclient 未实现类似 slf4j 的门面模式是否是一个遗憾？](https://www.v2ex.com/t/892508#reply0) | Thu Nov 03 2022 3:47 PM
-- 🎭 [安卓系统如何强制安装 apk？？](https://www.v2ex.com/t/892507#reply3) | Thu Nov 03 2022 3:45 PM
+- 🎭 [安卓系统如何强制安装 apk？？](https://www.v2ex.com/t/892507#reply7) | Thu Nov 03 2022 3:45 PM
 - 🥷 [V 友们，请教个提取两个字符串中的语句并加引号的 sed 写法](https://www.v2ex.com/t/892505#reply2) | Thu Nov 03 2022 3:30 PM
 - 🐵 [感觉这个视频讲 web3 挺清楚的](https://www.v2ex.com/t/892502#reply2) | Thu Nov 03 2022 3:16 PM<!-- v2ex:END -->
 
