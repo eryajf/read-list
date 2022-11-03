@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【分布式技术专题】「架构实践于案例分析」总结和盘点目前常用分布式事务特别及问题分析（Seata-终）](https://juejin.cn/post/7161431517569220621) | Wed Nov 02 2022 2:52 PM 
+- 🤗 [计算机底层知识之运行环境&amp;可执行文件](https://juejin.cn/post/7161585739409391646) | Thu Nov 03 2022 12:51 AM 
     <details><summary>展开描述 ...</summary> 
-    分布式事务中间件对⽐与选择 tx-lcn EasyTransaction ByteTCC Seata Seata实现分布式事务 搭建Seata Server Linux/Unix/Mac Window 
+    大家好，我是柒八九。 今天，我们继续计算机底层知识的探索。我们来谈谈关于运行环境&amp;可执行文件的相关知识点。 如果，想了解该系列的文章，可以参考我们已经发布的文章。如下是往期文章。 文章list 计算机 
     </details> 
 
-- 🎡 [Android之触点事件处理【教学】](https://juejin.cn/post/7161402814231969823) | Wed Nov 02 2022 1:01 PM 
+- 🎡 [[Hacker News 周报] 快速启动隔离开发环境；JSON 可视化工具；Heroku 即将停止免费额度](https://juejin.cn/post/7161485004483067917) | Wed Nov 02 2022 6:19 PM 
     <details><summary>展开描述 ...</summary> 
-    知识点： 1、 Android开发中的运动事件：触摸屏（TouchScreen）和滚动球（TrackBall） 2、对运动事件的处理：MotionEvent 3、触摸时必发的三个MotionEvent 
+    https://www.bilibili.com/vide... 本期时间轴： 00:09 Devbox｜快速启动隔离开发环境 00:38 绘图语言 D2 00:52 YAO｜开发应用引擎 01:20 
     </details> 
 
-- 🕯 [如何免安装使用 Python？推荐 17 个在线的 Python 解释器！](https://juejin.cn/post/7161401193834414117) | Wed Nov 02 2022 12:56 PM 
+- 🕯 [淘宝小程序体验优化：数据分析和优化实践](https://juejin.cn/post/7161484047565193230) | Wed Nov 02 2022 6:19 PM 
     <details><summary>展开描述 ...</summary> 
-    安装 Python 很容易，但或许你正在用智能手机/平板电脑，在用不允许安装软件的电脑，或者因为其它原因无法安装 Python。那么，如何通过免安装的方式使用 Python 呢？ 本文将介绍 17 个 
+    作者：莫绪旻&lpar;向屿&rpar; 淘宝小程序已经走过若干个双十一，淘宝开放业务有序铺开。体验优化是个老生常谈的话题，如何让小程序跑得又稳又快，成了我们最大的挑战之一。 写在前面 如何定义好的体验 过去我们定义这个 
     </details> 
 
-- 🚀 [package.json 配置完全解读](https://juejin.cn/entry/7161392772665540644) | Wed Nov 02 2022 12:22 PM 
+- 🚀 [useReducer+createContext真的可以代替Redux吗？](https://juejin.cn/post/7161458530984132622) | Wed Nov 02 2022 4:45 PM 
     <details><summary>展开描述 ...</summary> 
-    package.json 是前端每个项目都有的 json 文件，里面有许许多多的配置，与项目息息相关，了解它们有助于了解项目，提效开发，规范代码。 
+    前言 最近看到很多采用useReducer + createContext 实现一个简易的redux的方案，今天亲自试了一下，发现还是会有一些区别的。 采用react-redux实现 这里使用reac 
     </details> 
 
-- 💪 [MySQL数据库基础：JSON函数各类操作一文详解](https://juejin.cn/post/7161389364344258590) | Wed Nov 02 2022 12:08 PM 
+- 💪 [【MySQL】MySQL增删改查与常见陷阱（MySQL专栏启动）](https://juejin.cn/post/7161447663223701534) | Wed Nov 02 2022 3:54 PM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「技术专题19期 漫谈数据库技术」活动 前言 很多日常业务场景都会用到json文件作为数据存储起来，而mysql5.7以上就提供了存储json的支撑。往常存储json一般都保留在pg库或者 
+    ​本文导读 本文作为MySQL系列第二篇文章，详细讲解了MySQL的增删改查的语句、语义和一些我们经常在开发工作中暴露的问题，MySQL的增删改查又叫数据操作语句，本文有讲些了一些常用的数据操作语句 
     </details> 
 <!-- juejin:END -->
 ### 少数派
