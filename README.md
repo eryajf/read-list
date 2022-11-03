@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [使用 nix 包管理器解决 glibc 兼容问题](https://www.v2ex.com/t/892346#reply1) | Thu Nov 03 2022 4:53 AM
-- 🤗 [求推荐后端程序员易于上手的前端框架](https://www.v2ex.com/t/892342#reply32) | Thu Nov 03 2022 4:11 AM
-- 🎭 [有什么与 third part 同步类型的框架或者解决方案吗？](https://www.v2ex.com/t/892331#reply1) | Thu Nov 03 2022 3:26 AM
-- 🥷 [索尼电视自带的百兆网口，读取 4K 视频够用吗？](https://www.v2ex.com/t/892319#reply22) | Thu Nov 03 2022 3:02 AM
-- 🐵 [优刻得 UCloud 的 https 证书验证时它前端复制出来的验证文本会多出 2 行空行，导致验证失败。](https://www.v2ex.com/t/892310#reply0) | Thu Nov 03 2022 2:50 AM<!-- v2ex:END -->
+- 🥸 [安卓的小私活，有兴趣的看一下。](https://www.v2ex.com/t/892381#reply0) | Thu Nov 03 2022 7:14 AM
+- 🤗 [xcode 语法检查反应特别迟钝有办法吗？](https://www.v2ex.com/t/892380#reply0) | Thu Nov 03 2022 7:09 AM
+- 🎭 [请问有什么办法让安装了 Win10 的硬盘通过 USB 接口读取？](https://www.v2ex.com/t/892379#reply1) | Thu Nov 03 2022 7:06 AM
+- 🥷 [腾讯云轻量云对仅属于轻量云的 IP 地址 进行了主动 QOS 来人为创造丢包和高延迟。请各位暂时避雷。](https://www.v2ex.com/t/892372#reply7) | Thu Nov 03 2022 6:44 AM
+- 🐵 [k8s 显示 mysql 占用了近 20 个 G 内存](https://www.v2ex.com/t/892369#reply0) | Thu Nov 03 2022 6:36 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
