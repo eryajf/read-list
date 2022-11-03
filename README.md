@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [1668. 最大重复子字符串 : 运用「字符串哈希」优化「序列 DP」（总结两类 DP 区别）](https://juejin.cn/post/7161672819846152228) | Thu Nov 03 2022 6:28 AM 
+- 🤗 [机电工程焊接](https://juejin.cn/post/7161697519120941087) | Thu Nov 03 2022 8:04 AM 
     <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 1668. 最大重复子字符串 ，难度为 简单。 Tag : 「动态规划」、「序列 DP」、「字符串哈希」 给你一个字符串 sequence，如果字符串 word 
+    焊接材料和设备选型 焊条的分类 焊条是指在一定长度的金属丝外表均匀的涂覆一层一定厚度的具有特殊作用涂料的手工电弧焊焊接材料。 焊条按照用途可以划分为： 结构钢焊条 钼镍铜铝及合金焊条 低温钢焊条 不锈 
     </details> 
 
-- 🎡 [深入分析 Vite 的实现，原来这么简单](https://juejin.cn/post/7161672525666058276) | Thu Nov 03 2022 6:27 AM 
+- 🎡 [PixiJs学前篇（一）：Canvas基础【上篇】](https://juejin.cn/post/7161696893695688740) | Thu Nov 03 2022 8:02 AM 
     <details><summary>展开描述 ...</summary> 
-    Vite 作为下一代前端的工具链，为开发提供极速的响应。但是当我分析完 Vite整个流程之后，我发现它原来这么简单。 
+    面对网页性能要求越来越高的今天，项目性能优化已经成了项目开发中必不可少的一个环节。尤其是现在越来越火🔥的在线教育、在线编辑、直播、游戏等类型的项目中Canvas和WebGL的运用越来越多。 
     </details> 
 
-- 🕯 [Java 中那些绕不开的内置接口 -- Comparable 和 Comparator](https://juejin.cn/post/7161672523573100551) | Thu Nov 03 2022 6:27 AM 
+- 🕯 [《从Canvas到PixiJs》专栏简介](https://juejin.cn/post/7161696291469131806) | Thu Nov 03 2022 8:01 AM 
     <details><summary>展开描述 ...</summary> 
-    上一篇 用 Java 编程那些绕不开的接口这个短系列的第二篇文章，我们讲述了 Iterable 和 Iterator 两个名字有点像的 Java 内置接口。 恰巧今天要介绍的两个Java 内置接口在名 
+    面对网页性能要求越来越高的今天，项目性能优化已经成了项目开发中必不可少的一个环节。尤其是现在越来越火🔥的在线教育、在线编辑、直播、游戏等类型的项目中Canvas和WebGL的运用越来越多。 
     </details> 
 
-- 🚀 [&lpar;十四&rpar;全解MySQL之各方位事无巨细的剖析存储过程与触发器！](https://juejin.cn/post/7161662496460242980) | Thu Nov 03 2022 5:48 AM 
+- 🚀 [SpringCloud 微服务注册中心 Eureka - Client](https://juejin.cn/post/7161695824173334541) | Thu Nov 03 2022 7:58 AM 
     <details><summary>展开描述 ...</summary> 
-    存储过程相信大家都听说过，但实际开发中却很少有用到，但有时它却能够给咱们带来意料不到的额外收获，但大部分小伙伴对于MySQL中这块掌握并不透彻，因此本章则重点讲述MySQL的存储过程与触发器！ 
+    前言 前段时间业务工作太忙，很久没有学习技术了~ 碰巧前几天工作中遇到一个问题需要研究注册中心和 OpenFeign 源码才能解决，由于 OpenFeign 源码我已经比较熟悉了，所以今天来分享一下  
     </details> 
 
-- 💪 [抖音 Android 基础技术大揭秘！| 字节跳动技术沙龙第十期](https://juejin.cn/post/7161661071705505829) | Thu Nov 03 2022 5:43 AM 
+- 💪 [用低代码平台搭建低代码平台](https://juejin.cn/post/7161695238988234788) | Thu Nov 03 2022 7:55 AM 
     <details><summary>展开描述 ...</summary> 
-    字节跳动技术沙龙第十期来啦~字节跳动技术团队此前筹备了两期『抖音 iOS 基础技术大揭秘』技术沙龙，现在，来自抖音基础技术 Android 团队的沙龙分享也筹备完成啦～ 
+    通常一门编程语言只要支持条件分支判定，变量赋值，循环或递归结构以及四则运算，就能认为是图灵完备的了。假如一个低代码平台支持... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
