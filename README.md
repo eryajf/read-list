@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [&lpar;十四&rpar;全解MySQL之各方位事无巨细的剖析存储过程与触发器！](https://juejin.cn/post/7161662496460242980) | Thu Nov 03 2022 5:48 AM 
+- 🤗 [1668. 最大重复子字符串 : 运用「字符串哈希」优化「序列 DP」（总结两类 DP 区别）](https://juejin.cn/post/7161672819846152228) | Thu Nov 03 2022 6:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    题目描述 这是 LeetCode 上的 1668. 最大重复子字符串 ，难度为 简单。 Tag : 「动态规划」、「序列 DP」、「字符串哈希」 给你一个字符串 sequence，如果字符串 word 
+    </details> 
+
+- 🎡 [深入分析 Vite 的实现，原来这么简单](https://juejin.cn/post/7161672525666058276) | Thu Nov 03 2022 6:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    Vite 作为下一代前端的工具链，为开发提供极速的响应。但是当我分析完 Vite整个流程之后，我发现它原来这么简单。 
+    </details> 
+
+- 🕯 [Java 中那些绕不开的内置接口 -- Comparable 和 Comparator](https://juejin.cn/post/7161672523573100551) | Thu Nov 03 2022 6:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    上一篇 用 Java 编程那些绕不开的接口这个短系列的第二篇文章，我们讲述了 Iterable 和 Iterator 两个名字有点像的 Java 内置接口。 恰巧今天要介绍的两个Java 内置接口在名 
+    </details> 
+
+- 🚀 [&lpar;十四&rpar;全解MySQL之各方位事无巨细的剖析存储过程与触发器！](https://juejin.cn/post/7161662496460242980) | Thu Nov 03 2022 5:48 AM 
     <details><summary>展开描述 ...</summary> 
     存储过程相信大家都听说过，但实际开发中却很少有用到，但有时它却能够给咱们带来意料不到的额外收获，但大部分小伙伴对于MySQL中这块掌握并不透彻，因此本章则重点讲述MySQL的存储过程与触发器！ 
     </details> 
 
-- 🎡 [抖音 Android 基础技术大揭秘！| 字节跳动技术沙龙第十期](https://juejin.cn/post/7161661071705505829) | Thu Nov 03 2022 5:43 AM 
+- 💪 [抖音 Android 基础技术大揭秘！| 字节跳动技术沙龙第十期](https://juejin.cn/post/7161661071705505829) | Thu Nov 03 2022 5:43 AM 
     <details><summary>展开描述 ...</summary> 
     字节跳动技术沙龙第十期来啦~字节跳动技术团队此前筹备了两期『抖音 iOS 基础技术大揭秘』技术沙龙，现在，来自抖音基础技术 Android 团队的沙龙分享也筹备完成啦～ 
-    </details> 
-
-- 🕯 [一个关于D3js学习的仓库建立了！](https://juejin.cn/post/7161659104451100685) | Thu Nov 03 2022 5:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    Learn-D3 分享内容: D3内部模块的深入讲解 有一个系统整体认知 Analysis- examples 分析场景的例子 Observable D3团队分享示例的环境介绍 D3-Introduc 
-    </details> 
-
-- 🚀 [Elastic Enterprise Search 8.5：用于直观搜索体验的机器学习](https://juejin.cn/post/7161631499672879111) | Thu Nov 03 2022 3:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    作者：Serena Chou，Dana Juratoni，Casey Zumwalt 最新版本的 Elastic Enterprise Search 引入了一套新特性和功能，用于为你的任务关键型应用程 
-    </details> 
-
-- 💪 [效率优先新选择，七牛云支持 GPU 视频转码](https://juejin.cn/post/7161628758414688286) | Thu Nov 03 2022 3:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    不同的转码形式有不同的特点和适用场景，不止软件转码，七牛云现已支持 GPU 硬件视频转码，为您提供更多选择。七牛云 GPU 转码现已在行业客户中成功落地，也欢迎更多用户按需选择，获得最佳方案。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
