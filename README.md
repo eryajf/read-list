@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [ClickHouse 挺快，esProc SPL 更快](https://juejin.cn/post/7161617425539006477) | Thu Nov 03 2022 2:53 AM 
+- 🤗 [效率优先新选择，七牛云支持 GPU 视频转码](https://juejin.cn/post/7161628758414688286) | Thu Nov 03 2022 3:37 AM 
+    <details><summary>展开描述 ...</summary> 
+    不同的转码形式有不同的特点和适用场景，不止软件转码，七牛云现已支持 GPU 硬件视频转码，为您提供更多选择。七牛云 GPU 转码现已在行业客户中成功落地，也欢迎更多用户按需选择，获得最佳方案。 
+    </details> 
+
+- 🎡 [Go语言躲坑经验总结](https://juejin.cn/post/7161623682035499021) | Thu Nov 03 2022 3:18 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文收集一些使用Go开发过程中非常容易踩坑的case，所有的case都有具体的代码示例，以及针对的代码修复方法，以避免大家再次踩坑。通常这些坑的特点就是代码正常能编译，但运行结果不及预期或是引入内存漏 
+    </details> 
+
+- 🕯 [ClickHouse 挺快，esProc SPL 更快](https://juejin.cn/post/7161617425539006477) | Thu Nov 03 2022 2:53 AM 
     <details><summary>展开描述 ...</summary> 
     开源分析数据库ClickHouse以快著称，真的如此吗？我们通过对比测试来验证一下。 ClickHouse vs Oracle 先用ClickHouse（简称CH）、Oracle数据库（简称ORA）一 
     </details> 
 
-- 🎡 [SOFARegistry | 大规模集群优化实践](https://juejin.cn/post/7161615204847976479) | Thu Nov 03 2022 2:44 AM 
+- 🚀 [SOFARegistry | 大规模集群优化实践](https://juejin.cn/post/7161615204847976479) | Thu Nov 03 2022 2:44 AM 
     <details><summary>展开描述 ...</summary> 
     SOFARegistry 在蚂蚁内部迭代升级过程中，每年大促都会引来一些新的挑战，通过不断的优化这些在大规模集群遇到的性能瓶颈，我们总结出一些优化方案，来解决大规模集群遇到的性能问题。 通过阅读这 
     </details> 
 
-- 🕯 [Dubbo 本地调试的几种方式](https://juejin.cn/post/7161613660484435998) | Thu Nov 03 2022 2:39 AM 
+- 💪 [Dubbo 本地调试的几种方式](https://juejin.cn/post/7161613660484435998) | Thu Nov 03 2022 2:39 AM 
     <details><summary>展开描述 ...</summary> 
     在正常的dubbo开发迭代过程，本地调试是比较常见的情况，一般来说，主要以下两种情况我们需要本地调试 dubbo服务开发调试阶段： 这个阶段我们一般不希望服务被别人访问 dubbo服务已经发布测试环境 
-    </details> 
-
-- 🚀 [装了我这 10 个 IDEA 神级插件后，同事也开始情不自禁的嘚瑟了](https://juejin.cn/post/7161603780574707720) | Thu Nov 03 2022 2:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    昨天，有读者私信发我掘金上的一篇文章，说里面提到的 Intellij IDEA 插件真心不错，基本上可以一站式开发了，希望能分享给更多的小伙伴，我在本地装了体验了一下，觉得确实值得推荐，希望小伙伴们有 
-    </details> 
-
-- 💪 [小而美的 css 的原子化、 React 之 createElement 源码解读 | 酱酱的下午茶第102期](https://juejin.cn/post/7161599659562467336) | Thu Nov 03 2022 1:44 AM 
-    <details><summary>展开描述 ...</summary> 
-    【掘金酱的下午茶】亮点：小而美的 css 的原子化、React 之 createElement 源码解读、【Canvas实战】仿明日方舟Logo粒子动画 vue3+ts 
     </details> 
 <!-- juejin:END -->
 ### 少数派
