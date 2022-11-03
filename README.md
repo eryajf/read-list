@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [史海峰：成为技术领导者 从技术到管理的必经之路丨声网开发者创业讲堂 • 第 5 期](https://juejin.cn/post/7161803810262761503) | Thu Nov 03 2022 2:58 PM 
+- 🤗 [Web Components 入门实战（下篇）](https://juejin.cn/post/7161816035186720781) | Thu Nov 03 2022 3:45 PM 
+    <details><summary>展开描述 ...</summary> 
+    通过上下两篇实战，我们从 0 ~ 1 实现了一个下拉组件。整个实战回过头来看都是基础知识的实践，没有特别难的地方。之后，我会将实现的下拉的组件提取成一个组件项目发布，在我们的项目中应用起来。 
+    </details> 
+
+- 🎡 [第123期：Dart的基本知识（变量的声明）](https://juejin.cn/post/7161812223315148830) | Thu Nov 03 2022 3:30 PM 
+    <details><summary>展开描述 ...</summary> 
+    封面图 非常nice的3D车道线 基本语法 void 表示没有返回值。 int 内置数值类型。其他的诸如：string,list,bool等。 main&lpar;&rpar;特殊的，必须的顶层方法，表示程序的开始。 v 
+    </details> 
+
+- 🕯 [史海峰：成为技术领导者 从技术到管理的必经之路丨声网开发者创业讲堂 • 第 5 期](https://juejin.cn/post/7161803810262761503) | Thu Nov 03 2022 2:58 PM 
     <details><summary>展开描述 ...</summary> 
     要想做好一个 leader 是存在很多困难的，那么如何解决这些困难，顺利带领团队走向成功呢？首先要明确 manager 和 leader 有什么区别。 
     </details> 
 
-- 🎡 [Qwik中文文档新鲜出炉了，欢迎访问~](https://juejin.cn/post/7161798869246820365) | Thu Nov 03 2022 2:38 PM 
+- 🚀 [Qwik中文文档新鲜出炉了，欢迎访问~](https://juejin.cn/post/7161798869246820365) | Thu Nov 03 2022 2:38 PM 
     <details><summary>展开描述 ...</summary> 
     Qwik中文文档 大家好，我是飞叶，一个前端UP主。 相信大家在各个技术群和公众号，已经多多少少听说了由Angular作者带头开发的Qwik框架。 我觉得它的概念很好，国外也挺火的，其仓库star数每 
     </details> 
 
-- 🕯 [机械设备安装工程](https://juejin.cn/post/7161796085139111966) | Thu Nov 03 2022 2:31 PM 
+- 💪 [机械设备安装工程](https://juejin.cn/post/7161796085139111966) | Thu Nov 03 2022 2:31 PM 
     <details><summary>展开描述 ...</summary> 
     机械设备安装技术 机械设备安装方法 对于不同种类设备我们可以采用不同的方法进行安装及调试，对于机械设备可以采用整体直接安装的方法，也可以采用解体式安装方法，或者采用模块式安装。 安装方式 应保证的精度 
-    </details> 
-
-- 🚀 [项目里没用过设计模式？看看 Nest.js 怎么用的](https://juejin.cn/post/7161759664755965965) | Thu Nov 03 2022 12:10 PM 
-    <details><summary>展开描述 ...</summary> 
-    设计模式是前人总结的代码架构方式，主要是针对面向对象的代码。 JS 代码在 es6 中加入了 class 的支持，TS 又实现了 interface 和 abstract class 的语法，现在写面 
-    </details> 
-
-- 💪 [程序员需不需要懂业务、懂市场？2022掘金未来大会前瞻](https://juejin.cn/post/7161757241421332488) | Thu Nov 03 2022 12:00 PM 
-    <details><summary>展开描述 ...</summary> 
-    2022掘金未来大会现已开启，点击限时免费线上报名通道，预约直播观看还有机会在大会期间获得精美礼品！ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
