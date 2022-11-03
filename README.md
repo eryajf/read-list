@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [if&lpar;num ==0 || num ==null&rpar; num == null can not reach always false](https://www.v2ex.com/t/892491#reply0) | Thu Nov 03 2022 2:17 PM
-- 🤗 [有没有好用的 Windows 剪贴板](https://www.v2ex.com/t/892475#reply9) | Thu Nov 03 2022 1:03 PM
-- 🎭 [单页 html 加上密码的这种方式安全吗？](https://www.v2ex.com/t/892473#reply16) | Thu Nov 03 2022 12:59 PM
-- 🥷 [ARM Windows Dev Kit 开箱](https://www.v2ex.com/t/892464#reply8) | Thu Nov 03 2022 12:40 PM
-- 🐵 [[求助] 我好像再也没学会另外一门编程语言！](https://www.v2ex.com/t/892459#reply3) | Thu Nov 03 2022 12:19 PM<!-- v2ex:END -->
+- 🥸 [感觉这个视频讲 web3 挺清楚的](https://www.v2ex.com/t/892502#reply0) | Thu Nov 03 2022 3:16 PM
+- 🤗 [手头有两本书，先看哪一本比较好？](https://www.v2ex.com/t/892499#reply5) | Thu Nov 03 2022 2:48 PM
+- 🎭 [健康码添加动图，增加辨识度，避免蒙混过关](https://www.v2ex.com/t/892495#reply13) | Thu Nov 03 2022 2:26 PM
+- 🥷 [[外设]-各位 Coder 可以 show 下你的键盘么?](https://www.v2ex.com/t/892493#reply15) | Thu Nov 03 2022 2:20 PM
+- 🐵 [if&lpar;num ==0 || num ==null&rpar; num == null can not reach always false](https://www.v2ex.com/t/892491#reply2) | Thu Nov 03 2022 2:17 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
