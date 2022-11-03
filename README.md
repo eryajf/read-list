@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [机电工程焊接](https://juejin.cn/post/7161697519120941087) | Thu Nov 03 2022 8:04 AM 
+- 🤗 [SpringCloud 微服务注册中心 Eureka - Server](https://juejin.cn/post/7161705021006938149) | Thu Nov 03 2022 8:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 上一篇文章介绍了 Eureka Client 端的相关源码。这篇文章我们学习 Eureka Server 是如何存储 Client 注册过来的实例信息，以及 Server 端如何与 Client 
+    </details> 
+
+- 🎡 [深入浅出react（fiber原理解析）](https://juejin.cn/post/7161704351847677983) | Thu Nov 03 2022 8:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    为什么要使用fiber，要解决什么问题? 在 react16 引入 Fiber 架构之前，react 会采用递归方法对比两颗虚拟DOM树，找出需要改动的节点，然后同步更新它们，这个过程 react 称 
+    </details> 
+
+- 🕯 [云原生架构最强实践-DevOps、k8s、kubernetes、Docker](https://juejin.cn/post/7161700705538375688) | Thu Nov 03 2022 8:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    一、DevOps介绍 软件开发最开始是由两个团队组成： 开发计划由开发团队从头开始设计和整体系统的构建。需要系统不停的迭代更新。 运维团队将开发团队的Code进行测试后部署上线。希望系统稳定安全运行。 
+    </details> 
+
+- 🚀 [机电工程焊接](https://juejin.cn/post/7161697519120941087) | Thu Nov 03 2022 8:04 AM 
     <details><summary>展开描述 ...</summary> 
     焊接材料和设备选型 焊条的分类 焊条是指在一定长度的金属丝外表均匀的涂覆一层一定厚度的具有特殊作用涂料的手工电弧焊焊接材料。 焊条按照用途可以划分为： 结构钢焊条 钼镍铜铝及合金焊条 低温钢焊条 不锈 
     </details> 
 
-- 🎡 [PixiJs学前篇（一）：Canvas基础【上篇】](https://juejin.cn/post/7161696893695688740) | Thu Nov 03 2022 8:02 AM 
+- 💪 [PixiJs学前篇（一）：Canvas基础【上篇】](https://juejin.cn/post/7161696893695688740) | Thu Nov 03 2022 8:02 AM 
     <details><summary>展开描述 ...</summary> 
     面对网页性能要求越来越高的今天，项目性能优化已经成了项目开发中必不可少的一个环节。尤其是现在越来越火🔥的在线教育、在线编辑、直播、游戏等类型的项目中Canvas和WebGL的运用越来越多。 
-    </details> 
-
-- 🕯 [《从Canvas到PixiJs》专栏简介](https://juejin.cn/post/7161696291469131806) | Thu Nov 03 2022 8:01 AM 
-    <details><summary>展开描述 ...</summary> 
-    面对网页性能要求越来越高的今天，项目性能优化已经成了项目开发中必不可少的一个环节。尤其是现在越来越火🔥的在线教育、在线编辑、直播、游戏等类型的项目中Canvas和WebGL的运用越来越多。 
-    </details> 
-
-- 🚀 [SpringCloud 微服务注册中心 Eureka - Client](https://juejin.cn/post/7161695824173334541) | Thu Nov 03 2022 7:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 前段时间业务工作太忙，很久没有学习技术了~ 碰巧前几天工作中遇到一个问题需要研究注册中心和 OpenFeign 源码才能解决，由于 OpenFeign 源码我已经比较熟悉了，所以今天来分享一下  
-    </details> 
-
-- 💪 [用低代码平台搭建低代码平台](https://juejin.cn/post/7161695238988234788) | Thu Nov 03 2022 7:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    通常一门编程语言只要支持条件分支判定，变量赋值，循环或递归结构以及四则运算，就能认为是图灵完备的了。假如一个低代码平台支持... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
