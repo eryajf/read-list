@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [安卓的小私活，有兴趣的看一下。](https://www.v2ex.com/t/892381#reply0) | Thu Nov 03 2022 7:14 AM
-- 🤗 [xcode 语法检查反应特别迟钝有办法吗？](https://www.v2ex.com/t/892380#reply0) | Thu Nov 03 2022 7:09 AM
-- 🎭 [请问有什么办法让安装了 Win10 的硬盘通过 USB 接口读取？](https://www.v2ex.com/t/892379#reply1) | Thu Nov 03 2022 7:06 AM
-- 🥷 [腾讯云轻量云对仅属于轻量云的 IP 地址 进行了主动 QOS 来人为创造丢包和高延迟。请各位暂时避雷。](https://www.v2ex.com/t/892372#reply7) | Thu Nov 03 2022 6:44 AM
-- 🐵 [k8s 显示 mysql 占用了近 20 个 G 内存](https://www.v2ex.com/t/892369#reply0) | Thu Nov 03 2022 6:36 AM<!-- v2ex:END -->
+- 🥸 [我自己用 netty 写了一个代理，电脑上能用。我想问问把 netty 整合到安卓上难度大吗？](https://www.v2ex.com/t/892396#reply0) | Thu Nov 03 2022 8:05 AM
+- 🤗 [个人项目到达 10k🌟了， 纪念一下，感谢 V 友们的大力支持](https://www.v2ex.com/t/892395#reply3) | Thu Nov 03 2022 7:58 AM
+- 🎭 [关于 Linux 编译生成可执行文件后打包移植的问题](https://www.v2ex.com/t/892392#reply7) | Thu Nov 03 2022 7:54 AM
+- 🥷 [Java - 有啥好用的 Webp 转换工具库吗？](https://www.v2ex.com/t/892382#reply1) | Thu Nov 03 2022 7:19 AM
+- 🐵 [安卓的小私活，有兴趣的看一下。](https://www.v2ex.com/t/892381#reply15) | Thu Nov 03 2022 7:14 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
