@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [发生什么事了， leeCode 无法访问](https://www.v2ex.com/t/892435#reply1) | Thu Nov 03 2022 10:06 AM
-- 🤗 [小米 24 显示器维修记录](https://www.v2ex.com/t/892432#reply0) | Thu Nov 03 2022 10:03 AM
+- 🥸 [go 练手写了个小项目 mysql 代理连接池](https://www.v2ex.com/t/892443#reply0) | Thu Nov 03 2022 10:54 AM
+- 🤗 [发生什么事了， leeCode 无法访问](https://www.v2ex.com/t/892435#reply2) | Thu Nov 03 2022 10:06 AM
 - 🎭 [关于外企技术招聘岗位咨询](https://www.v2ex.com/t/892430#reply1) | Thu Nov 03 2022 9:54 AM
-- 🥷 [求推荐看 Go 源码的工具](https://www.v2ex.com/t/892426#reply3) | Thu Nov 03 2022 9:43 AM
-- 🐵 [请教一个敬酒相关的技术问题：团建聚会的时候，是要等组长敬完酒，自己再去敬酒吗？以及什么时候可以自由敬酒？自己这方面不足，因此错过很多机会，特此想学习一下](https://www.v2ex.com/t/892424#reply26) | Thu Nov 03 2022 9:38 AM<!-- v2ex:END -->
+- 🥷 [求推荐看 Go 源码的工具](https://www.v2ex.com/t/892426#reply7) | Thu Nov 03 2022 9:43 AM
+- 🐵 [请教一个敬酒相关的技术问题：团建聚会的时候，是要等组长敬完酒，自己再去敬酒吗？以及什么时候可以自由敬酒？自己这方面不足，因此错过很多机会，特此想学习一下](https://www.v2ex.com/t/892424#reply36) | Thu Nov 03 2022 9:38 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
