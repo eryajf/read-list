@@ -104,11 +104,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [科技爱好者周刊（第 228 期）：人类和人生的意义](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html) | Fri Oct 28 2022 12:11 AM
-- 💪 [羊了个羊，如何自己实现（暨&quot;码上掘金&quot;编程挑战赛介绍）](http://www.ruanyifeng.com/blog/2022/10/sheep-n-sheep.html) | Tue Oct 25 2022 12:20 AM
-- 🐎 [最简单的 Git 服务器](http://www.ruanyifeng.com/blog/2022/10/git-server.html) | Sun Oct 23 2022 12:19 PM
-- 🤔 [科技爱好者周刊（第 227 期）：脸书的公司入职教育](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html) | Fri Oct 21 2022 12:03 AM
-- 🧠 [科技爱好者周刊（第 226 期）：谷歌出了什么问题？](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html) | Fri Oct 14 2022 12:18 AM<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 229 期）：手机充电问题的解决](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html) | Fri Nov 04 2022 12:14 AM
+- 💪 [科技爱好者周刊（第 228 期）：人类和人生的意义](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html) | Fri Oct 28 2022 12:11 AM
+- 🐎 [羊了个羊，如何自己实现（暨&quot;码上掘金&quot;编程挑战赛介绍）](http://www.ruanyifeng.com/blog/2022/10/sheep-n-sheep.html) | Tue Oct 25 2022 12:20 AM
+- 🤔 [最简单的 Git 服务器](http://www.ruanyifeng.com/blog/2022/10/git-server.html) | Sun Oct 23 2022 12:19 PM
+- 🧠 [科技爱好者周刊（第 227 期）：脸书的公司入职教育](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html) | Fri Oct 21 2022 12:03 AM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
