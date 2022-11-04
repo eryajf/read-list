@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [PingCAP 推出 TiDB Cloud Serverless Tier BETA 版](https://juejin.cn/post/7162047316189249549) | Fri Nov 04 2022 6:42 AM 
+- 🤗 [第124期：Dart基本知识（内置类型01）](https://juejin.cn/post/7162050444829655076) | Fri Nov 04 2022 6:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    封面图 内置类型 Dart有自己的内置类型，和JS相似： Numbers类型。如：int , double Strings类型。如：String Booleans类型。如：bool Lists类型。如 
+    </details> 
+
+- 🎡 [我用组件化把上千行代码优化到15行](https://juejin.cn/post/7162048815778758669) | Fri Nov 04 2022 6:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    把上千行代码优化到15行的实战 项目中的一个sinkCom.vue需要切换多个table表格，发现代码全都写到一个面中长达上千行，通过用动态组件的方法讲每个table页面拆分到不同的vue文件中，再讲 
+    </details> 
+
+- 🕯 [PingCAP 推出 TiDB Cloud Serverless Tier BETA 版](https://juejin.cn/post/7162047316189249549) | Fri Nov 04 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
     2022 年 11 月 1 日，企业级开源分布式数据库厂商 PingCAP 在 HTAP Summit 上宣布 TiDB Cloud Serverless Tier BETA 版正式发布 ，这是一种完 
     </details> 
 
-- 🎡 [Java 面试题：CopyOnWriteArrayList 是如何保证线程安全的？](https://juejin.cn/post/7162035643785150472) | Fri Nov 04 2022 5:57 AM 
+- 🚀 [如何获取 cnpm 的 packages 下载量](https://juejin.cn/post/7162001243852767240) | Fri Nov 04 2022 3:43 AM 
     <details><summary>展开描述 ...</summary> 
-    那么 CopyOnWriteArrayList 集合是如何解决线程安全问题的？背后的设计思想是什么呢？ 
+    在做前端技术调研的时候，github stars 和 npm downloads 这两个宏观指标是很重要的参考项。因此 star-history 和 npmtrends 两个网站就派上大用场了。 
     </details> 
 
-- 🕯 [Hertz 性能持续优化，如何准确进行 Hertz 压测？这里有一份性能测试指南](https://juejin.cn/post/7162026575280472101) | Fri Nov 04 2022 5:24 AM 
+- 💪 [如何编写更易读的代码](https://juejin.cn/post/7162000470012067876) | Fri Nov 04 2022 3:40 AM 
     <details><summary>展开描述 ...</summary> 
-    本文旨在分享开发者在压测 Hertz 时需要了解的场景和技术问题。这些建议有助于用户更好地结合真实 HTTP 场景对 Hertz 进行调优，使之更贴合业务需要、发挥最佳性能。 
-    </details> 
-
-- 🚀 [使用 mix-blend-mode 实现不套标签搜索关键字高亮](https://juejin.cn/post/7162007623137493005) | Fri Nov 04 2022 4:14 AM 
-    <details><summary>展开描述 ...</summary> 
-    一般实现是文字搜索高亮，需要动态给文字内容套一层标签，然后才能改变匹配文字的颜色。现在，通过 mix-blend-mode 混合模式，我们可以在不嵌套任何标签的情况下，让任意的文字颜色变色。 
-    </details> 
-
-- 💪 [数据库相关知识点整理，助力拿到心仪的offer](https://juejin.cn/post/7162004987994701838) | Fri Nov 04 2022 3:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    1. 数据库的事务 1.1 什么是数据库事务？ 事务是指一组逻辑上相关的操作，这些操作要么全部完成，要么全部不完成。 事务是数据库管理系统执行过程中 
+    本文主要从代码层面阐述怎么做代码精简，以及什么是我眼中好的代码和注释。全文2000字，大概阅读时间5分钟左右吧。如有不对的地方，望看官们不吝指教。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
