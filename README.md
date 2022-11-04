@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [看懂复杂世界的真实运作——读《斯坦福极简经济学》](https://juejin.cn/post/7162085075004178468) | Fri Nov 04 2022 9:09 AM 
+- 🤗 [杂谈：$parent/$children的底层逻辑](https://juejin.cn/post/7162097166725414942) | Fri Nov 04 2022 9:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    new Vue是全局实例化一个根的Vue实例，Vue支持组件化，所以一个Vue实例下会有其他子组件，子组件中也可以调用其他子组件。 
+    </details> 
+
+- 🎡 [等级用户专属活动上线啦！｜ 写好文，瓜分6万元现金大奖](https://juejin.cn/post/7162096952883019783) | Fri Nov 04 2022 9:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    金石计划2.0上线啦，本期是专门为创作者等级lv4-lv8的用户发起的奖金瓜分活动，参与并完成对应挑战，即可瓜分6万元现金奖池，发布的高质量文章越多可瓜分的奖励就越多~即刻启程开始挑战吧！ 
+    </details> 
+
+- 🕯 [AB 实验为何值得信赖？](https://juejin.cn/post/7162089685706080263) | Fri Nov 04 2022 9:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    如今流量增长乏力，如何进行科学增长营销？如何降低试错成本？如何设计进行AB实验？AB实验为何值得信赖？ 
+    </details> 
+
+- 🚀 [看完这篇，成为Grafana高手！](https://juejin.cn/post/7162088398784725022) | Fri Nov 04 2022 9:20 AM 
+    <details><summary>展开描述 ...</summary> 
+    背景 QQ直播前端团队接入腾讯云前端性能监控（RUM）后，对目前的监控能力以及上报数据进行了梳理， 并着手进行了前端性能监控的专项建设，其中监控数据大盘建设是不可或缺的一环。 可视化的监控大盘可以清晰 
+    </details> 
+
+- 💪 [看懂复杂世界的真实运作——读《斯坦福极简经济学》](https://juejin.cn/post/7162085075004178468) | Fri Nov 04 2022 9:09 AM 
     <details><summary>展开描述 ...</summary> 
     一句话总结 本书从宏观及微观两个角度总结了一些经济学领域的基本概念及运作方式。看完后虽然不会对经济有太深的了解，但是对这个世界的一些基本的运行规律会有自己的认知。通过这些理论知识，我们会知道“为什么美 
-    </details> 
-
-- 🎡 [思维导图display:flex弹性盒子](https://juejin.cn/post/7162082467518611470) | Fri Nov 04 2022 8:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    flex-direction 设置子元素排序是行或者列 flex-direction:row; 设置按照行进行排列 flex-direction:column; 按照列进行排序 flex-direct 
-    </details> 
-
-- 🕯 [网易云信智码超清转码技术实践](https://juejin.cn/post/7162081880668373000) | Fri Nov 04 2022 8:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    随着 5G、AI 技术发展，视频行业迎来一个高速的增长期，视频在网络带宽的占 2019 年为 43%，预计到 2025 年占比将高达 76%，仍然保持着高速的增长。 
-    </details> 
-
-- 🚀 [简单聊一聊 Vite 开发模式下的缓存策略](https://juejin.cn/post/7162082035513688071) | Fri Nov 04 2022 8:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    前一段时间，小编在学习完 Vite 之后，写了一篇关于 Webpack 和 Vite 在开发体验上对比的文章 - 为什么有人说 vite 快，有人却说 vite 慢？。文章发布以后，反响非常好，有很多 
-    </details> 
-
-- 💪 [关于给对象新增属性的一个小知识点](https://juejin.cn/post/7162077072246964232) | Fri Nov 04 2022 8:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    记此文原因 其中挂载到vue原型的$http就是我们希望在使用vue组件时能全局调用的接口请求方法，而不用再作import了，如果是别的小点我可能看看知道就过了，但他说得人中很明显也包括了我，我以前也 
     </details> 
 <!-- juejin:END -->
 ### 少数派
