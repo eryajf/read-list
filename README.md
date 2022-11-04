@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [屎里加点香精，增加香味，避免有些人不吃](https://www.v2ex.com/t/892644#reply0) | Fri Nov 04 2022 6:24 AM
-- 🤗 [Windows 下多人共享的网盘类工具？](https://www.v2ex.com/t/892625#reply11) | Fri Nov 04 2022 5:30 AM
-- 🎭 [vue-router 居然在小版本号中引入破坏性更改](https://www.v2ex.com/t/892613#reply27) | Fri Nov 04 2022 4:31 AM
-- 🥷 [为了不被马斯克裁员，推特员工每周疯狂工作 84 小时...](https://www.v2ex.com/t/892604#reply26) | Fri Nov 04 2022 3:58 AM
-- 🐵 [Python HTTP 框架咨询](https://www.v2ex.com/t/892601#reply22) | Fri Nov 04 2022 3:51 AM<!-- v2ex:END -->
+- 🥸 [写了一个投胎模拟器](https://www.v2ex.com/t/892662#reply10) | Fri Nov 04 2022 7:06 AM
+- 🤗 [Java on Azure Tooling 的更新 – 2022 年 10 月 最新的路线图和 Azure Functions Deployment Slot 支持](https://www.v2ex.com/t/892653#reply0) | Fri Nov 04 2022 6:41 AM
+- 🎭 [Windows 下多人共享的网盘类工具？](https://www.v2ex.com/t/892625#reply15) | Fri Nov 04 2022 5:30 AM
+- 🥷 [vue-router 居然在小版本号中引入破坏性更改](https://www.v2ex.com/t/892613#reply33) | Fri Nov 04 2022 4:31 AM
+- 🐵 [为了不被马斯克裁员，推特员工每周疯狂工作 84 小时...](https://www.v2ex.com/t/892604#reply31) | Fri Nov 04 2022 3:58 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
