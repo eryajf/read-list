@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [开源论坛软件推荐（node.js/React/Sqlite）无依赖一键部署启动](https://www.v2ex.com/t/892705#reply0) | Fri Nov 04 2022 8:26 AM
-- 🤗 [nbio 近期的一些功能更新，来骗点 star](https://www.v2ex.com/t/892703#reply0) | Fri Nov 04 2022 8:24 AM
-- 🎭 [Java on Azure Tooling 的更新 – 2022 年 10 月 最新的路线图与 Azure Functions Deployment Slot 支持](https://www.v2ex.com/t/892697#reply0) | Fri Nov 04 2022 8:12 AM
-- 🥷 [Java on Azure Tooling 的更新 – 2022 年 10 月 Azure Functions Deployment Slot 支持与最新的路线图](https://www.v2ex.com/t/892669#reply0) | Fri Nov 04 2022 7:19 AM
-- 🐵 [写了一个投胎模拟器](https://www.v2ex.com/t/892662#reply58) | Fri Nov 04 2022 7:06 AM<!-- v2ex:END -->
+- 🥸 [国外服务器加国内 cdn，面向国内用户使用，这样会有什么问题吗？](https://www.v2ex.com/t/892729#reply3) | Fri Nov 04 2022 9:07 AM
+- 🤗 [GitHub Sponsor 💗 but using Crypto...](https://www.v2ex.com/t/892726#reply0) | Fri Nov 04 2022 9:03 AM
+- 🎭 [求教， 24 小时过期删除思路](https://www.v2ex.com/t/892722#reply2) | Fri Nov 04 2022 8:56 AM
+- 🥷 [发现个好东西](https://www.v2ex.com/t/892717#reply13) | Fri Nov 04 2022 8:44 AM
+- 🐵 [VS Code 的安装的扩展程序中的命令如何在 Terminal 中运行?](https://www.v2ex.com/t/892714#reply0) | Fri Nov 04 2022 8:35 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
