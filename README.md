@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [AGPL 协议开源的软件如果想注明作者持有随时更换开源许可证的权利，对之后的版本生效，要求 PR 作者同意，应该写在许可证中还是 PR 的模板中？有没有开源项目有类似的操作可以参考的？](https://www.v2ex.com/t/892805#reply0) | Fri Nov 04 2022 2:57 PM
-- 🤗 [vue3，如何在 tsx 中使用动态组件](https://www.v2ex.com/t/892793#reply0) | Fri Nov 04 2022 2:10 PM
-- 🎭 [Anydesk 在 4K 屏幕下的界面没有正常缩放](https://www.v2ex.com/t/892764#reply1) | Fri Nov 04 2022 11:45 AM
-- 🥷 [狂神不教 Java 教 go 了](https://www.v2ex.com/t/892759#reply14) | Fri Nov 04 2022 11:16 AM
-- 🐵 [为啥 js 引用其他文件的函数相对来说要麻烦一些?](https://www.v2ex.com/t/892757#reply21) | Fri Nov 04 2022 10:57 AM<!-- v2ex:END -->
+- 🥸 [关于 autohotkey 的问题](https://www.v2ex.com/t/892815#reply1) | Fri Nov 04 2022 4:20 PM
+- 🤗 [AGPL 协议开源的软件如果想注明作者持有随时更换开源许可证的权利，对之后的版本生效，要求 PR 作者同意，应该写在许可证中还是 PR 的模板中？有没有开源项目有类似的操作可以参考的？](https://www.v2ex.com/t/892805#reply2) | Fri Nov 04 2022 2:57 PM
+- 🎭 [vue3，如何在 tsx 中使用动态组件](https://www.v2ex.com/t/892793#reply0) | Fri Nov 04 2022 2:10 PM
+- 🥷 [Anydesk 在 4K 屏幕下的界面没有正常缩放](https://www.v2ex.com/t/892764#reply1) | Fri Nov 04 2022 11:45 AM
+- 🐵 [狂神不教 Java 教 go 了](https://www.v2ex.com/t/892759#reply14) | Fri Nov 04 2022 11:16 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
