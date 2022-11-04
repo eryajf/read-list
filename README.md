@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [音视频——实时技术的5大难点【方案解决】](https://juejin.cn/post/7162142210220097566) | Fri Nov 04 2022 12:50 PM 
+- 🤗 [老弟想学Web Component，我用Stencil和Dumi整了个简版组件库，他直呼神奇，但唯手熟尔](https://juejin.cn/post/7162167060787642381) | Fri Nov 04 2022 2:29 PM 
+    <details><summary>展开描述 ...</summary> 
+    一个小兄弟，想做Web Component，我正好也有空，就答应带他研究，奈何我本人比较懒，总摸鱼，我一摸鱼，他就督促我，也对亏这位老弟的督促，在几天内就实现了，效率惊人。 
+    </details> 
+
+- 🎡 [音视频——实时技术的5大难点【方案解决】](https://juejin.cn/post/7162142210220097566) | Fri Nov 04 2022 12:50 PM 
     <details><summary>展开描述 ...</summary> 
     前言 对于一个实时互动的音视频系统而言，存在很多技术难点，有几个比较重要的点： 首先是低延迟，如果要满足比较流畅地进行实时互动，那么单向的端到端的迟延大概要在400毫秒以下才能保证流畅沟通; 第二点就 
     </details> 
 
-- 🎡 [K8S 生态周报| Sigstore 正式 GA](https://juejin.cn/post/7162133661033168909) | Fri Nov 04 2022 12:17 PM 
+- 🕯 [K8S 生态周报| Sigstore 正式 GA](https://juejin.cn/post/7162133661033168909) | Fri Nov 04 2022 12:17 PM 
     <details><summary>展开描述 ...</summary> 
     大家好，我是张晋涛。 本周 KubeCon + CloudNativeCon North America 2022 已经结束，看 timeline 有了一种几乎所有人都去参加的错觉 
     </details> 
 
-- 🕯 [你会用SVG绘制时间进度条嘛？](https://juejin.cn/post/7162127536820862983) | Fri Nov 04 2022 11:54 AM 
+- 🚀 [你会用SVG绘制时间进度条嘛？](https://juejin.cn/post/7162127536820862983) | Fri Nov 04 2022 11:54 AM 
     <details><summary>展开描述 ...</summary> 
     前言 SVG想必大家都非常熟悉，即使没有写过，也多多少少听过。写一些简单的动画或者交互，是绕不开的一种语言，但是它最大的问题就是上手比较陡峭，API比较多，使用方式也比较多，很容易在中间迷失。 
     </details> 
 
-- 🚀 [NB的Github项目，看到最后一个我惊呆了！](https://juejin.cn/post/7162105483338678280) | Fri Nov 04 2022 10:28 AM 
+- 💪 [NB的Github项目，看到最后一个我惊呆了！](https://juejin.cn/post/7162105483338678280) | Fri Nov 04 2022 10:28 AM 
     <details><summary>展开描述 ...</summary> 
     最近看到不少好玩的、实用的 Github 项目，就来给大家推荐一把。 中国制霸生成器 最近在朋友圈非常火的一个小网站，可以在线标记 居住、短居、游玩、出差、路过 标记后可生成图片进行社区分享，标记过的 
-    </details> 
-
-- 💪 [（一）趣说 Mysql内存篇  Buffer Pool](https://juejin.cn/post/7162103164643049509) | Fri Nov 04 2022 10:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文正在参加「技术专题19期 漫谈数据库技术」活动 序 说实话想写一篇文章，是真的难。 讲解顺序 先说 Mysql InnoDB 内存结构 Buffer Pool Page 管理机制 Change B 
     </details> 
 <!-- juejin:END -->
 ### 少数派
