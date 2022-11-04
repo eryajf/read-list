@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [北京举办的数据安全管理竞赛有没有在校大学生报名了](https://www.v2ex.com/t/892536#reply0) | Fri Nov 04 2022 1:28 AM
-- 🤗 [前端初学 SQL，求帮忙修改一个简单 MySQL 联查语句](https://www.v2ex.com/t/892520#reply3) | Thu Nov 03 2022 5:39 PM
-- 🎭 [sublime text 提示 Cannot instantiate abstract class &quot;ExcelWriter&quot;](https://www.v2ex.com/t/892513#reply2) | Thu Nov 03 2022 4:24 PM
-- 🥷 [各种 httpclient 未实现类似 slf4j 的门面模式是否是一个遗憾？](https://www.v2ex.com/t/892508#reply1) | Thu Nov 03 2022 3:47 PM
-- 🐵 [安卓系统如何强制安装 apk？？](https://www.v2ex.com/t/892507#reply9) | Thu Nov 03 2022 3:45 PM<!-- v2ex:END -->
+- 🥸 [[请教] 关于文本替换多个相同字符串的方法](https://www.v2ex.com/t/892595#reply0) | Fri Nov 04 2022 3:36 AM
+- 🤗 [foxmail 无法登录 office365 的邮箱](https://www.v2ex.com/t/892591#reply1) | Fri Nov 04 2022 3:12 AM
+- 🎭 [如何在 npm i 的时候指定 sssh-key ?](https://www.v2ex.com/t/892590#reply1) | Fri Nov 04 2022 3:11 AM
+- 🥷 [微软悄悄改图标！ Win11 测试新版任务栏搜索图标，你的变了吗？&lpar;3 种新样式&amp;附恢复方法&rpar;](https://www.v2ex.com/t/892565#reply0) | Fri Nov 04 2022 2:37 AM
+- 🐵 [k8s pod 时区问题，有什么简单快捷的处理办法吗](https://www.v2ex.com/t/892564#reply5) | Fri Nov 04 2022 2:37 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
