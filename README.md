@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [第124期：Dart基本知识（内置类型01）](https://juejin.cn/post/7162050444829655076) | Fri Nov 04 2022 6:53 AM 
+- 🤗 [怎么处理 Loading CSS chunk xx failed](https://juejin.cn/post/7162075336983707661) | Fri Nov 04 2022 8:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    最近，测试同志提了一个BUG，在企业微信&lpar;window电脑&rpar;里，打开页面，然后在设置里清除缓存，重新打开页面，就先空白，再点页面报Loading CSS chunk xx failed，刷新页面又好使 
+    </details> 
+
+- 🎡 [第124期：Dart基本知识（内置类型01）](https://juejin.cn/post/7162050444829655076) | Fri Nov 04 2022 6:53 AM 
     <details><summary>展开描述 ...</summary> 
     封面图 内置类型 Dart有自己的内置类型，和JS相似： Numbers类型。如：int , double Strings类型。如：String Booleans类型。如：bool Lists类型。如 
     </details> 
 
-- 🎡 [我用组件化把上千行代码优化到15行](https://juejin.cn/post/7162048815778758669) | Fri Nov 04 2022 6:48 AM 
+- 🕯 [我用组件化把上千行代码优化到15行](https://juejin.cn/post/7162048815778758669) | Fri Nov 04 2022 6:48 AM 
     <details><summary>展开描述 ...</summary> 
     把上千行代码优化到15行的实战 项目中的一个sinkCom.vue需要切换多个table表格，发现代码全都写到一个面中长达上千行，通过用动态组件的方法讲每个table页面拆分到不同的vue文件中，再讲 
     </details> 
 
-- 🕯 [PingCAP 推出 TiDB Cloud Serverless Tier BETA 版](https://juejin.cn/post/7162047316189249549) | Fri Nov 04 2022 6:42 AM 
+- 🚀 [从根上理解Mybatis的一级、二级缓存（一）](https://juejin.cn/post/7162046523394490375) | Fri Nov 04 2022 6:39 AM 
     <details><summary>展开描述 ...</summary> 
-    2022 年 11 月 1 日，企业级开源分布式数据库厂商 PingCAP 在 HTAP Summit 上宣布 TiDB Cloud Serverless Tier BETA 版正式发布 ，这是一种完 
+    一、二级缓存相关的问题，想着就把这写成一篇博客记录下来吧，供回忆，供参考，这篇帖子主要讲一级缓存，它的作用范围和源码分析 
     </details> 
 
-- 🚀 [如何获取 cnpm 的 packages 下载量](https://juejin.cn/post/7162001243852767240) | Fri Nov 04 2022 3:43 AM 
+- 💪 [如何获取 cnpm 的 packages 下载量](https://juejin.cn/post/7162001243852767240) | Fri Nov 04 2022 3:43 AM 
     <details><summary>展开描述 ...</summary> 
     在做前端技术调研的时候，github stars 和 npm downloads 这两个宏观指标是很重要的参考项。因此 star-history 和 npmtrends 两个网站就派上大用场了。 
-    </details> 
-
-- 💪 [如何编写更易读的代码](https://juejin.cn/post/7162000470012067876) | Fri Nov 04 2022 3:40 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文主要从代码层面阐述怎么做代码精简，以及什么是我眼中好的代码和注释。全文2000字，大概阅读时间5分钟左右吧。如有不对的地方，望看官们不吝指教。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
