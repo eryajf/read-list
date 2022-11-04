@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [写了一个投胎模拟器](https://www.v2ex.com/t/892662#reply10) | Fri Nov 04 2022 7:06 AM
-- 🤗 [Java on Azure Tooling 的更新 – 2022 年 10 月 最新的路线图和 Azure Functions Deployment Slot 支持](https://www.v2ex.com/t/892653#reply0) | Fri Nov 04 2022 6:41 AM
-- 🎭 [Windows 下多人共享的网盘类工具？](https://www.v2ex.com/t/892625#reply15) | Fri Nov 04 2022 5:30 AM
-- 🥷 [vue-router 居然在小版本号中引入破坏性更改](https://www.v2ex.com/t/892613#reply33) | Fri Nov 04 2022 4:31 AM
-- 🐵 [为了不被马斯克裁员，推特员工每周疯狂工作 84 小时...](https://www.v2ex.com/t/892604#reply31) | Fri Nov 04 2022 3:58 AM<!-- v2ex:END -->
+- 🥸 [开源论坛软件推荐（node.js/React/Sqlite）无依赖一键部署启动](https://www.v2ex.com/t/892705#reply0) | Fri Nov 04 2022 8:26 AM
+- 🤗 [nbio 近期的一些功能更新，来骗点 star](https://www.v2ex.com/t/892703#reply0) | Fri Nov 04 2022 8:24 AM
+- 🎭 [Java on Azure Tooling 的更新 – 2022 年 10 月 最新的路线图与 Azure Functions Deployment Slot 支持](https://www.v2ex.com/t/892697#reply0) | Fri Nov 04 2022 8:12 AM
+- 🥷 [Java on Azure Tooling 的更新 – 2022 年 10 月 Azure Functions Deployment Slot 支持与最新的路线图](https://www.v2ex.com/t/892669#reply0) | Fri Nov 04 2022 7:19 AM
+- 🐵 [写了一个投胎模拟器](https://www.v2ex.com/t/892662#reply58) | Fri Nov 04 2022 7:06 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
