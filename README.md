@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [国外服务器加国内 cdn，面向国内用户使用，这样会有什么问题吗？](https://www.v2ex.com/t/892729#reply3) | Fri Nov 04 2022 9:07 AM
-- 🤗 [GitHub Sponsor 💗 but using Crypto...](https://www.v2ex.com/t/892726#reply0) | Fri Nov 04 2022 9:03 AM
-- 🎭 [求教， 24 小时过期删除思路](https://www.v2ex.com/t/892722#reply2) | Fri Nov 04 2022 8:56 AM
-- 🥷 [发现个好东西](https://www.v2ex.com/t/892717#reply13) | Fri Nov 04 2022 8:44 AM
-- 🐵 [VS Code 的安装的扩展程序中的命令如何在 Terminal 中运行?](https://www.v2ex.com/t/892714#reply0) | Fri Nov 04 2022 8:35 AM<!-- v2ex:END -->
+- 🥸 [go 写业务，也可以很简单](https://www.v2ex.com/t/892750#reply0) | Fri Nov 04 2022 10:10 AM
+- 🤗 [软考的证是不是越来越鸡肋了](https://www.v2ex.com/t/892744#reply4) | Fri Nov 04 2022 9:50 AM
+- 🎭 [失业俩月了， 10 月份花掉了 6000 块，惊掉下巴](https://www.v2ex.com/t/892737#reply9) | Fri Nov 04 2022 9:27 AM
+- 🥷 [国外服务器加国内 cdn，面向国内用户使用，这样会有什么问题吗？](https://www.v2ex.com/t/892729#reply26) | Fri Nov 04 2022 9:07 AM
+- 🐵 [GitHub Sponsor 💗 but using Crypto...](https://www.v2ex.com/t/892726#reply0) | Fri Nov 04 2022 9:03 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
