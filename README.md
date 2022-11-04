@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [怎么处理 Loading CSS chunk xx failed](https://juejin.cn/post/7162075336983707661) | Fri Nov 04 2022 8:30 AM 
+- 🤗 [看懂复杂世界的真实运作——读《斯坦福极简经济学》](https://juejin.cn/post/7162085075004178468) | Fri Nov 04 2022 9:09 AM 
     <details><summary>展开描述 ...</summary> 
-    最近，测试同志提了一个BUG，在企业微信&lpar;window电脑&rpar;里，打开页面，然后在设置里清除缓存，重新打开页面，就先空白，再点页面报Loading CSS chunk xx failed，刷新页面又好使 
+    一句话总结 本书从宏观及微观两个角度总结了一些经济学领域的基本概念及运作方式。看完后虽然不会对经济有太深的了解，但是对这个世界的一些基本的运行规律会有自己的认知。通过这些理论知识，我们会知道“为什么美 
     </details> 
 
-- 🎡 [第124期：Dart基本知识（内置类型01）](https://juejin.cn/post/7162050444829655076) | Fri Nov 04 2022 6:53 AM 
+- 🎡 [思维导图display:flex弹性盒子](https://juejin.cn/post/7162082467518611470) | Fri Nov 04 2022 8:57 AM 
     <details><summary>展开描述 ...</summary> 
-    封面图 内置类型 Dart有自己的内置类型，和JS相似： Numbers类型。如：int , double Strings类型。如：String Booleans类型。如：bool Lists类型。如 
+    flex-direction 设置子元素排序是行或者列 flex-direction:row; 设置按照行进行排列 flex-direction:column; 按照列进行排序 flex-direct 
     </details> 
 
-- 🕯 [我用组件化把上千行代码优化到15行](https://juejin.cn/post/7162048815778758669) | Fri Nov 04 2022 6:48 AM 
+- 🕯 [网易云信智码超清转码技术实践](https://juejin.cn/post/7162081880668373000) | Fri Nov 04 2022 8:56 AM 
     <details><summary>展开描述 ...</summary> 
-    把上千行代码优化到15行的实战 项目中的一个sinkCom.vue需要切换多个table表格，发现代码全都写到一个面中长达上千行，通过用动态组件的方法讲每个table页面拆分到不同的vue文件中，再讲 
+    随着 5G、AI 技术发展，视频行业迎来一个高速的增长期，视频在网络带宽的占 2019 年为 43%，预计到 2025 年占比将高达 76%，仍然保持着高速的增长。 
     </details> 
 
-- 🚀 [从根上理解Mybatis的一级、二级缓存（一）](https://juejin.cn/post/7162046523394490375) | Fri Nov 04 2022 6:39 AM 
+- 🚀 [简单聊一聊 Vite 开发模式下的缓存策略](https://juejin.cn/post/7162082035513688071) | Fri Nov 04 2022 8:56 AM 
     <details><summary>展开描述 ...</summary> 
-    一、二级缓存相关的问题，想着就把这写成一篇博客记录下来吧，供回忆，供参考，这篇帖子主要讲一级缓存，它的作用范围和源码分析 
+    前一段时间，小编在学习完 Vite 之后，写了一篇关于 Webpack 和 Vite 在开发体验上对比的文章 - 为什么有人说 vite 快，有人却说 vite 慢？。文章发布以后，反响非常好，有很多 
     </details> 
 
-- 💪 [如何获取 cnpm 的 packages 下载量](https://juejin.cn/post/7162001243852767240) | Fri Nov 04 2022 3:43 AM 
+- 💪 [关于给对象新增属性的一个小知识点](https://juejin.cn/post/7162077072246964232) | Fri Nov 04 2022 8:37 AM 
     <details><summary>展开描述 ...</summary> 
-    在做前端技术调研的时候，github stars 和 npm downloads 这两个宏观指标是很重要的参考项。因此 star-history 和 npmtrends 两个网站就派上大用场了。 
+    记此文原因 其中挂载到vue原型的$http就是我们希望在使用vue组件时能全局调用的接口请求方法，而不用再作import了，如果是别的小点我可能看看知道就过了，但他说得人中很明显也包括了我，我以前也 
     </details> 
 <!-- juejin:END -->
 ### 少数派
