@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [为啥 js 引用其他文件的函数相对来说要麻烦一些?](https://www.v2ex.com/t/892757#reply1) | Fri Nov 04 2022 10:57 AM
-- 🤗 [go 写业务，也可以很简单](https://www.v2ex.com/t/892750#reply0) | Fri Nov 04 2022 10:10 AM
-- 🎭 [软考的证是不是越来越鸡肋了](https://www.v2ex.com/t/892744#reply9) | Fri Nov 04 2022 9:50 AM
-- 🥷 [失业俩月了， 10 月份花掉了 6000 块，惊掉下巴](https://www.v2ex.com/t/892737#reply11) | Fri Nov 04 2022 9:27 AM
-- 🐵 [国外服务器加国内 cdn，面向国内用户使用，这样会有什么问题吗？](https://www.v2ex.com/t/892729#reply26) | Fri Nov 04 2022 9:07 AM<!-- v2ex:END -->
+- 🥸 [Anydesk 在 4K 屏幕下的界面没有正常缩放](https://www.v2ex.com/t/892764#reply0) | Fri Nov 04 2022 11:45 AM
+- 🤗 [狂神不教 Java 教 go 了](https://www.v2ex.com/t/892759#reply11) | Fri Nov 04 2022 11:16 AM
+- 🎭 [为啥 js 引用其他文件的函数相对来说要麻烦一些?](https://www.v2ex.com/t/892757#reply11) | Fri Nov 04 2022 10:57 AM
+- 🥷 [go 写业务，也可以很简单](https://www.v2ex.com/t/892750#reply0) | Fri Nov 04 2022 10:10 AM
+- 🐵 [软考的证是不是越来越鸡肋了](https://www.v2ex.com/t/892744#reply12) | Fri Nov 04 2022 9:50 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
