@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [你会用SVG绘制时间进度条嘛？](https://juejin.cn/post/7162127536820862983) | Fri Nov 04 2022 11:54 AM 
+- 🤗 [K8S 生态周报| Sigstore 正式 GA](https://juejin.cn/post/7162133661033168909) | Fri Nov 04 2022 12:17 PM 
+    <details><summary>展开描述 ...</summary> 
+    大家好，我是张晋涛。 本周 KubeCon + CloudNativeCon North America 2022 已经结束，看 timeline 有了一种几乎所有人都去参加的错觉 
+    </details> 
+
+- 🎡 [你会用SVG绘制时间进度条嘛？](https://juejin.cn/post/7162127536820862983) | Fri Nov 04 2022 11:54 AM 
     <details><summary>展开描述 ...</summary> 
     前言 SVG想必大家都非常熟悉，即使没有写过，也多多少少听过。写一些简单的动画或者交互，是绕不开的一种语言，但是它最大的问题就是上手比较陡峭，API比较多，使用方式也比较多，很容易在中间迷失。 
     </details> 
 
-- 🎡 [NB的Github项目，看到最后一个我惊呆了！](https://juejin.cn/post/7162105483338678280) | Fri Nov 04 2022 10:28 AM 
+- 🕯 [NB的Github项目，看到最后一个我惊呆了！](https://juejin.cn/post/7162105483338678280) | Fri Nov 04 2022 10:28 AM 
     <details><summary>展开描述 ...</summary> 
     最近看到不少好玩的、实用的 Github 项目，就来给大家推荐一把。 中国制霸生成器 最近在朋友圈非常火的一个小网站，可以在线标记 居住、短居、游玩、出差、路过 标记后可生成图片进行社区分享，标记过的 
     </details> 
 
-- 🕯 [（一）趣说 Mysql内存篇  Buffer Pool](https://juejin.cn/post/7162103164643049509) | Fri Nov 04 2022 10:19 AM 
+- 🚀 [（一）趣说 Mysql内存篇  Buffer Pool](https://juejin.cn/post/7162103164643049509) | Fri Nov 04 2022 10:19 AM 
     <details><summary>展开描述 ...</summary> 
     本文正在参加「技术专题19期 漫谈数据库技术」活动 序 说实话想写一篇文章，是真的难。 讲解顺序 先说 Mysql InnoDB 内存结构 Buffer Pool Page 管理机制 Change B 
     </details> 
 
-- 🚀 [SpringCloud LoadBalancer 新一代负载均衡器](https://juejin.cn/post/7162099099615887397) | Fri Nov 04 2022 10:02 AM 
+- 💪 [SpringCloud LoadBalancer 新一代负载均衡器](https://juejin.cn/post/7162099099615887397) | Fri Nov 04 2022 10:02 AM 
     <details><summary>展开描述 ...</summary> 
     前言 工作中使用 OpenFeign 进行跨服务调用，最近发现线上经常会遇到请求失败。 通过排查我们发现不是接口超时，而是有时候会请求到已经下线的服务导致报错。这多发生在服务提供者系统部署的时候，因为 
-    </details> 
-
-- 💪 [关于原型设计在高等教育行业中的运营分析报告](https://juejin.cn/post/7162097850610876430) | Fri Nov 04 2022 9:59 AM 
-    <details><summary>展开描述 ...</summary> 
-    导读： 摹客RP主要是针对ToC进行运营，单纯只是从RP工具来讲确实是这样的。针对ToC的运营模式都 已经非常成熟。而且对于我本热来讲ToC的运营并没有那么专业，就不班门弄斧了。 这篇报告主要从高等教 
     </details> 
 <!-- juejin:END -->
 ### 少数派
