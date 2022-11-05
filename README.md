@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Seata源码（四）TCC模式](https://juejin.cn/post/7162425024732332040) | Sat Nov 05 2022 7:09 AM 
+- 🤗 [【云原生】HBase on k8s 编排部署讲解与实战操作](https://juejin.cn/post/7162468308137017374) | Sat Nov 05 2022 10:01 AM 
     <details><summary>展开描述 ...</summary> 
-    本章分析Seata（1.5.0）在TCC模式下，TM、RM、TC角色的原理。主要包括：使用案例、客户端启动、一阶段提交、二阶段提交/回滚、TCC三大问题及解决方案 
+    一、概述 官方文档：https://hbase.apache.org/book.html GitHub地址：https://github.com/apache/hbase 关于更多hbase的介绍，也 
     </details> 
 
-- 🎡 [1106. 解析布尔表达式 : 双栈求解表达式问题](https://juejin.cn/post/7162388410957561869) | Sat Nov 05 2022 4:53 AM 
+- 🎡 [十月份火火火的 GitHub 开源项目](https://juejin.cn/post/7162461841027760135) | Sat Nov 05 2022 9:33 AM 
     <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 1106. 解析布尔表达式 ，难度为困难。 Tag : 「栈」、「表达式计算」 给你一个以字符串形式表述的 布尔表达式 （boolean） expression 
+    本篇文章盘点 10 月份 GitHub 上比较受欢迎的开源项目，你可以点击上方的 #每月盘点 查看历史盘点的开源项目合集。 
     </details> 
 
-- 🕯 [第125期：高德地图中创建了4000个自定义Marker](https://juejin.cn/post/7162367269853462536) | Sat Nov 05 2022 3:26 AM 
+- 🕯 [本文推荐 4 个开源微信小程序](https://juejin.cn/post/7162461047729684510) | Sat Nov 05 2022 9:29 AM 
     <details><summary>展开描述 ...</summary> 
-    封面图 从高德地图官网中截得一个画面 场景 前两天在做一个热力图的效果，需求是用高德地图绘制热力图，然后热力图支持点击事件，然后获取后端返回的具体的点坐标信息，根据这个信息去取别的信息弹框展示，大致就 
+    本文推荐几个开源微信小程序，这个开源的小程序都是 Recently updated，下载下来部署就能使用的。 本期推荐开源项目目录： 答题小程序 又是一个答题小程序 贝壳小盒子 酱茄小程序 01 答题 
     </details> 
 
-- 🚀 [小样本利器1.半监督一致性正则 Temporal Ensemble &amp; Mean Teacher代码实现](https://juejin.cn/post/7162358466366373895) | Sat Nov 05 2022 2:52 AM 
+- 🚀 [纯 css 手写奔跑的&lpar;●￣&lpar;ｴ&rpar;￣●&rpar;](https://juejin.cn/post/7162459893348171790) | Sat Nov 05 2022 9:24 AM 
     <details><summary>展开描述 ...</summary> 
-    这个系列我们用现实中经常碰到的小样本问题来串联半监督，文本对抗，文本增强等模型优化方案。第一节我们讨论实两种半监督一致性正则方案Temporal Ensemble和Mean Teacher 
+    之前用css写了一个太极图，反响还是挺不错的，然后看到评论区有位小伙伴说让他想起了培训班的点点滴滴，于是我就说那我直接来一个培训班的案例再写一篇吧。 然后他就向我推荐了奔跑的熊，我就网上查了一下 
     </details> 
 
-- 💪 [适合编程初学者的开源博客系统](https://juejin.cn/post/7162349026388475935) | Sat Nov 05 2022 2:12 AM 
+- 💪 [第126期：Dart基础知识（函数）](https://juejin.cn/post/7162459168459194375) | Sat Nov 05 2022 9:22 AM 
     <details><summary>展开描述 ...</summary> 
-    目标 为了打造适合编程初学者学习的编程项目，计划近期发布一系列简单的博客项目，使用各种主流编程语言来实现。让想学编程的，一个都不落下。 左侧为客户端版本：安卓、iOS、Flutter、Vue、uni- 
+    Functions 函数 Dart是一种面向对象语言，所以即使函数也是对象，也有一个类型Function。这意味着函数可以分配给变量或作为参数传递给其他函数。我们还可以像调用函数一样调用Dart类的实 
     </details> 
 <!-- juejin:END -->
 ### 少数派
