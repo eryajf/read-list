@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【云原生】HBase on k8s 编排部署讲解与实战操作](https://juejin.cn/post/7162468308137017374) | Sat Nov 05 2022 10:01 AM 
+- 🤗 [轻量级的搜索引擎MeiliSearch](https://juejin.cn/post/7162482846441930760) | Sat Nov 05 2022 10:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    一、MeiliSearch简介 谈到搜索引擎，可能大家最先想到的是Elasicsearch。Elasticsearch是一个分布式、高扩展、高实时的搜索与数据分析引擎，能够在大量的数据中搜索、分析和探 
+    </details> 
+
+- 🎡 [【云原生】HBase on k8s 编排部署讲解与实战操作](https://juejin.cn/post/7162468308137017374) | Sat Nov 05 2022 10:01 AM 
     <details><summary>展开描述 ...</summary> 
     一、概述 官方文档：https://hbase.apache.org/book.html GitHub地址：https://github.com/apache/hbase 关于更多hbase的介绍，也 
     </details> 
 
-- 🎡 [十月份火火火的 GitHub 开源项目](https://juejin.cn/post/7162461841027760135) | Sat Nov 05 2022 9:33 AM 
+- 🕯 [十月份火火火的 GitHub 开源项目](https://juejin.cn/post/7162461841027760135) | Sat Nov 05 2022 9:33 AM 
     <details><summary>展开描述 ...</summary> 
     本篇文章盘点 10 月份 GitHub 上比较受欢迎的开源项目，你可以点击上方的 #每月盘点 查看历史盘点的开源项目合集。 
     </details> 
 
-- 🕯 [本文推荐 4 个开源微信小程序](https://juejin.cn/post/7162461047729684510) | Sat Nov 05 2022 9:29 AM 
+- 🚀 [本文推荐 4 个开源微信小程序](https://juejin.cn/post/7162461047729684510) | Sat Nov 05 2022 9:29 AM 
     <details><summary>展开描述 ...</summary> 
     本文推荐几个开源微信小程序，这个开源的小程序都是 Recently updated，下载下来部署就能使用的。 本期推荐开源项目目录： 答题小程序 又是一个答题小程序 贝壳小盒子 酱茄小程序 01 答题 
     </details> 
 
-- 🚀 [纯 css 手写奔跑的&lpar;●￣&lpar;ｴ&rpar;￣●&rpar;](https://juejin.cn/post/7162459893348171790) | Sat Nov 05 2022 9:24 AM 
+- 💪 [纯 css 手写奔跑的&lpar;●￣&lpar;ｴ&rpar;￣●&rpar;](https://juejin.cn/post/7162459893348171790) | Sat Nov 05 2022 9:24 AM 
     <details><summary>展开描述 ...</summary> 
     之前用css写了一个太极图，反响还是挺不错的，然后看到评论区有位小伙伴说让他想起了培训班的点点滴滴，于是我就说那我直接来一个培训班的案例再写一篇吧。 然后他就向我推荐了奔跑的熊，我就网上查了一下 
-    </details> 
-
-- 💪 [第126期：Dart基础知识（函数）](https://juejin.cn/post/7162459168459194375) | Sat Nov 05 2022 9:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    Functions 函数 Dart是一种面向对象语言，所以即使函数也是对象，也有一个类型Function。这意味着函数可以分配给变量或作为参数传递给其他函数。我们还可以像调用函数一样调用Dart类的实 
     </details> 
 <!-- juejin:END -->
 ### 少数派
