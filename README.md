@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [凹语言开源季度总结](https://www.v2ex.com/t/892954#reply0) | Sat Nov 05 2022 10:43 AM
-- 🤗 [Angular SPA 分包加载后如果不同包没有同时更新，跳转路由经常会导致浏览器缓存的旧版本的包被加载，必须要手动刷新一下，怎么解决？](https://www.v2ex.com/t/892950#reply0) | Sat Nov 05 2022 10:32 AM
-- 🎭 [React Native Webview 监听网页内部资源加载的探索](https://www.v2ex.com/t/892939#reply0) | Sat Nov 05 2022 9:32 AM
-- 🥷 [go 新手，为啥这个导包会报错啊/&lpar;ㄒoㄒ&rpar;/~~](https://www.v2ex.com/t/892938#reply3) | Sat Nov 05 2022 9:30 AM
-- 🐵 [MBP 新电池只用了 5 个月，电池健康就掉到 90% 了，这正常吗？](https://www.v2ex.com/t/892936#reply7) | Sat Nov 05 2022 9:16 AM<!-- v2ex:END -->
+- 🥸 [各位男性程序员有好用的剃须刀推荐吗？](https://www.v2ex.com/t/892964#reply15) | Sat Nov 05 2022 11:27 AM
+- 🤗 [Android 手机外接键盘，去哪里能找到支持的快捷键列表？](https://www.v2ex.com/t/892963#reply0) | Sat Nov 05 2022 11:26 AM
+- 🎭 [凹语言开源季度总结](https://www.v2ex.com/t/892954#reply0) | Sat Nov 05 2022 10:43 AM
+- 🥷 [Angular SPA 分包加载后如果不同包没有同时更新，跳转路由经常会导致浏览器缓存的旧版本的包被加载，必须要手动刷新一下，怎么解决？](https://www.v2ex.com/t/892950#reply0) | Sat Nov 05 2022 10:32 AM
+- 🐵 [React Native Webview 监听网页内部资源加载的探索](https://www.v2ex.com/t/892939#reply0) | Sat Nov 05 2022 9:32 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
