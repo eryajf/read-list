@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [如何通过 vpn 实现本地电脑与 k8s 集群的 Pod 互通](https://www.v2ex.com/t/892829#reply1) | Fri Nov 04 2022 8:11 PM
-- 🤗 [你们怎么管理自己的 leetcode 代码？](https://www.v2ex.com/t/892824#reply16) | Fri Nov 04 2022 4:51 PM
-- 🎭 [关于 autohotkey 的问题](https://www.v2ex.com/t/892815#reply6) | Fri Nov 04 2022 4:20 PM
-- 🥷 [AGPL 协议开源的软件如果想注明作者持有随时更换开源许可证的权利，对之后的版本生效，要求 PR 作者同意，应该写在许可证中还是 PR 的模板中？有没有开源项目有类似的操作可以参考的？](https://www.v2ex.com/t/892805#reply2) | Fri Nov 04 2022 2:57 PM
-- 🐵 [vue3，如何在 tsx 中使用动态组件](https://www.v2ex.com/t/892793#reply1) | Fri Nov 04 2022 2:10 PM<!-- v2ex:END -->
+- 🥸 [设计模式&lpar;项目推荐）](https://www.v2ex.com/t/892862#reply0) | Sat Nov 05 2022 3:06 AM
+- 🤗 [学习周刊-总第 78 期-k8s 管理平台与可视化正则](https://www.v2ex.com/t/892859#reply0) | Sat Nov 05 2022 2:56 AM
+- 🎭 [有没有可能把一个数据库的 text field 变成可拓展、易阅读的数据格式？](https://www.v2ex.com/t/892842#reply11) | Sat Nov 05 2022 1:47 AM
+- 🥷 [如何通过 vpn 实现本地电脑与 k8s 集群的 Pod 互通](https://www.v2ex.com/t/892829#reply4) | Fri Nov 04 2022 8:11 PM
+- 🐵 [你们怎么管理自己的 leetcode 代码？](https://www.v2ex.com/t/892824#reply19) | Fri Nov 04 2022 4:51 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
