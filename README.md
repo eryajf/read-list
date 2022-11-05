@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【分布式技术专题】「架构实践于案例分析」盘点高并发场景的技术设计方案和规划](https://juejin.cn/post/7162521987829465119) | Sat Nov 05 2022 1:24 PM 
+- 🤗 [关于微前端，你理解到究极奥义了么？](https://juejin.cn/post/7162539136577404964) | Sat Nov 05 2022 2:32 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文将提出很多关于微前端的新理解，期望你能在 容器型微前端和 模块型微前端之间找到最佳的平衡点并付诸实践。 
+    </details> 
+
+- 🎡 [Class 分析插件助力 Android 13 适配落地](https://juejin.cn/post/7162528305868963848) | Sat Nov 05 2022 1:49 PM 
+    <details><summary>展开描述 ...</summary> 
+    Android 13 发布马上有 3 个月了，各厂都已经开始了适配工作，我司也不例外。但适配前有一个问题需要解决，如果衡量这次适配的工作量，如何统计哪些模块需要改造，并能精确的找到对应模块负责人。 传 
+    </details> 
+
+- 🕯 [【分布式技术专题】「架构实践于案例分析」盘点高并发场景的技术设计方案和规划](https://juejin.cn/post/7162521987829465119) | Sat Nov 05 2022 1:24 PM 
     <details><summary>展开描述 ...</summary> 
     高并发是什么？ ⾼并发（High Concurrency）是互联⽹分布式系统架构设计中必须考虑的因素之⼀，它通常是指通过设计保证系统能够同时并⾏处理很多请求。 高并发属性和因素 ⾼并发相关常⽤的⼀些指 
     </details> 
 
-- 🎡 [避免踩坑，Activity系统回收的流程解析](https://juejin.cn/post/7162521119004557348) | Sat Nov 05 2022 1:21 PM 
+- 🚀 [避免踩坑，Activity系统回收的流程解析](https://juejin.cn/post/7162521119004557348) | Sat Nov 05 2022 1:21 PM 
     <details><summary>展开描述 ...</summary> 
     运行时activity也会被回收，这个是怎么一回事？我们在本文中会探索activity回收的逻辑，同时以一个bad架构为引子，探索系统低内存回收的逻辑 
     </details> 
 
-- 🕯 [轻量级的搜索引擎MeiliSearch](https://juejin.cn/post/7162482846441930760) | Sat Nov 05 2022 10:53 AM 
+- 💪 [轻量级的搜索引擎MeiliSearch](https://juejin.cn/post/7162482846441930760) | Sat Nov 05 2022 10:53 AM 
     <details><summary>展开描述 ...</summary> 
     一、MeiliSearch简介 谈到搜索引擎，可能大家最先想到的是Elasicsearch。Elasticsearch是一个分布式、高扩展、高实时的搜索与数据分析引擎，能够在大量的数据中搜索、分析和探 
-    </details> 
-
-- 🚀 [【云原生】HBase on k8s 编排部署讲解与实战操作](https://juejin.cn/post/7162468308137017374) | Sat Nov 05 2022 10:01 AM 
-    <details><summary>展开描述 ...</summary> 
-    一、概述 官方文档：https://hbase.apache.org/book.html GitHub地址：https://github.com/apache/hbase 关于更多hbase的介绍，也 
-    </details> 
-
-- 💪 [十月份火火火的 GitHub 开源项目](https://juejin.cn/post/7162461841027760135) | Sat Nov 05 2022 9:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    本篇文章盘点 10 月份 GitHub 上比较受欢迎的开源项目，你可以点击上方的 #每月盘点 查看历史盘点的开源项目合集。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
