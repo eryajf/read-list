@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [MBP 新电池只用了 5 个月，电池健康就掉到 90% 了，这正常吗？](https://www.v2ex.com/t/892936#reply0) | Sat Nov 05 2022 9:16 AM
-- 🤗 [如何使用 Redis 或其它方法使多个程序的 EF Core 共享缓存？现在程序 1 修改数据库后，程序 2 Find / Include 之类的方法拿到的都是修改前的值，必须重启程序 2。](https://www.v2ex.com/t/892930#reply0) | Sat Nov 05 2022 8:46 AM
-- 🎭 [请教一个 Google Docs 的网络请求的抓包](https://www.v2ex.com/t/892928#reply1) | Sat Nov 05 2022 8:43 AM
-- 🥷 [看这波裁员， AI 和大数据这股风估计要凉了](https://www.v2ex.com/t/892927#reply5) | Sat Nov 05 2022 8:41 AM
-- 🐵 [现在做前端开发的工资行情怎么样？](https://www.v2ex.com/t/892916#reply0) | Sat Nov 05 2022 8:06 AM<!-- v2ex:END -->
+- 🥸 [React Native Webview 监听网页内部资源加载的探索](https://www.v2ex.com/t/892939#reply0) | Sat Nov 05 2022 9:32 AM
+- 🤗 [go 新手，为啥这个导包会报错啊/&lpar;ㄒoㄒ&rpar;/~~](https://www.v2ex.com/t/892938#reply3) | Sat Nov 05 2022 9:30 AM
+- 🎭 [MBP 新电池只用了 5 个月，电池健康就掉到 90% 了，这正常吗？](https://www.v2ex.com/t/892936#reply5) | Sat Nov 05 2022 9:16 AM
+- 🥷 [如何使用 Redis 或其它方法使多个程序的 EF Core 共享缓存？现在程序 1 修改数据库后，程序 2 Find / Include 之类的方法拿到的都是修改前的值，必须重启程序 2。](https://www.v2ex.com/t/892930#reply1) | Sat Nov 05 2022 8:46 AM
+- 🐵 [请教一个 Google Docs 的网络请求的抓包](https://www.v2ex.com/t/892928#reply2) | Sat Nov 05 2022 8:43 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
