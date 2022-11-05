@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Nacos注册中心9-Server端（处理服务主动下线请求）](https://juejin.cn/post/7162328675185066015) | Sat Nov 05 2022 12:53 AM 
+- 🤗 [适合编程初学者的开源博客系统](https://juejin.cn/post/7162349026388475935) | Sat Nov 05 2022 2:12 AM 
+    <details><summary>展开描述 ...</summary> 
+    目标 为了打造适合编程初学者学习的编程项目，计划近期发布一系列简单的博客项目，使用各种主流编程语言来实现。让想学编程的，一个都不落下。 左侧为客户端版本：安卓、iOS、Flutter、Vue、uni- 
+    </details> 
+
+- 🎡 [D3&lpar;v7&rpar;入门五：柱状图](https://juejin.cn/post/7162345383899693070) | Sat Nov 05 2022 1:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    在了解了svg和d3的基础知识以及画图最重要的比例尺，接下来就可以开始画图表了。本章我们以柱状图为例，尽可能的按照图表的绘制步骤实现下面的柱状图。 
+    </details> 
+
+- 🕯 [Nacos注册中心9-Server端（处理服务主动下线请求）](https://juejin.cn/post/7162328675185066015) | Sat Nov 05 2022 12:53 AM 
     <details><summary>展开描述 ...</summary> 
     Nacos Server端处理服务主动下线请求InstanceController.deregister 
     </details> 
 
-- 🎡 [Java 面试题：说一下 ArrayList 和 LinkedList 的区别？](https://juejin.cn/post/7162203434014212109) | Fri Nov 04 2022 5:00 PM 
+- 🚀 [Java 面试题：说一下 ArrayList 和 LinkedList 的区别？](https://juejin.cn/post/7162203434014212109) | Fri Nov 04 2022 5:00 PM 
     <details><summary>展开描述 ...</summary> 
     在上一篇文章里，我们聊到了基于动态数组 ArrayList 线性表，今天我们来讨论一个基于链表的线性表 —— LinkedList。 
     </details> 
 
-- 🕯 [我是如何走上程序员的道路的](https://juejin.cn/post/7162205132292096037) | Fri Nov 04 2022 4:58 PM 
+- 💪 [我是如何走上程序员的道路的](https://juejin.cn/post/7162205132292096037) | Fri Nov 04 2022 4:58 PM 
     <details><summary>展开描述 ...</summary> 
     封面图 学生时代的照片，想来已是十几年前的事情了 学生时代 从2009年9月开始读大学，当然也不是什么好大学，位于中原腹地的一所三流大学，所学专业是经济学中的《审计》。 上学的时候其实也不知道审计这个 
-    </details> 
-
-- 🚀 [【云原生】Redis on k8s 编排部署讲解与实战操作](https://juejin.cn/post/7162197682600017933) | Fri Nov 04 2022 4:39 PM 
-    <details><summary>展开描述 ...</summary> 
-    一、概述 Redis有三种集群模式：主从模式，Sentinel（哨兵）模式，Cluster模式，这三种模式环境编排部署都会在本文章介绍与实战操作。 想了解更多关于redis概念与原理介绍，可参考我这篇 
-    </details> 
-
-- 💪 [技术周报·Turbopack 真的比 vite 快十倍？](https://juejin.cn/post/7162196028773367838) | Fri Nov 04 2022 4:22 PM 
-    <details><summary>展开描述 ...</summary> 
-    编辑推荐：Turbopack 真的比 vite 快十倍？全新的 React 组件设计理念 Headless UI；压缩 70% 下载流量 - 记一次店铺优化专项 
     </details> 
 <!-- juejin:END -->
 ### 少数派
