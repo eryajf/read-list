@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Java 面试题：说一下 ArrayDeque 和 LinkedList 的区别?](https://juejin.cn/post/7162819765361672199) | Sun Nov 06 2022 8:41 AM 
+- 🤗 [二叉树中和为某一值的路径](https://juejin.cn/post/7162835195899445279) | Sun Nov 06 2022 9:41 AM 
+    <details><summary>展开描述 ...</summary> 
+    有一颗二叉树和一个整数，如何找到二叉树中节点值的和为输入整数的所有路径。从树的根节点开始往下一直到叶节点所经过的节点形成一条路径。本文就跟大家分享下这个问题与解决方案，欢迎各位感兴趣的开发者阅读本文。 
+    </details> 
+
+- 🎡 [【分布式技术专题】「架构实践于案例分析」盘点分布式服务的（无状态\有状态）认证实现方案](https://juejin.cn/post/7162827158073655310) | Sun Nov 06 2022 9:08 AM 
+    <details><summary>展开描述 ...</summary> 
+    ⽆状态 vs 有状态 有状态、⽆状态是什么 有状态：服务器端需要保存请求的相关信息，每个请求可以默认地使⽤以前的请求信息 ⽆状态：服务器端不记录请求的相关信息，服务器处理的内容完全来⾃请求所携带的信息 
+    </details> 
+
+- 🕯 [一台服务器最大能支持多少条TCP连接](https://juejin.cn/post/7162824884597293086) | Sun Nov 06 2022 9:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    一、一台服务器最大能打开的文件数 1、限制参数 我们知道在Linux中一切皆文件，那么一台服务器最大能打开多少个文件呢？Linux上能打开的最大文件数量受三个参数影响，分别是： fs.file-max 
+    </details> 
+
+- 🚀 [Java 面试题：说一下 ArrayDeque 和 LinkedList 的区别?](https://juejin.cn/post/7162819765361672199) | Sun Nov 06 2022 8:41 AM 
     <details><summary>展开描述 ...</summary> 
     在上一篇文章里，们聊到了基于链表的 Queue 和 Stack 实现 —— LinkedList。那么 Java 中有没有基于数组的 Queue 和 Stack 实现呢？ 
     </details> 
 
-- 🎡 [vite - 多渠道差异化打包插件](https://juejin.cn/post/7162812410108051464) | Sun Nov 06 2022 8:12 AM 
+- 💪 [抓包分析 TCP 握手和挥手](https://juejin.cn/post/7162815000434704415) | Sun Nov 06 2022 8:22 AM 
     <details><summary>展开描述 ...</summary> 
-    为了让 vite 项目支持多渠道差异化打包（如同 Android 工程变体），我做了一个 vite 插件： GitHub: https://github.com/GitLqr/vite-plugin- 
-    </details> 
-
-- 🕯 [Nacos注册中心10-Server端（处理服务心跳请求）](https://juejin.cn/post/7162795988212514830) | Sun Nov 06 2022 7:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    NacosServer端处理服务心跳请求，核心方法InstanceController.beat&lpar;&rpar; 
-    </details> 
-
-- 🚀 [Linux 环境变量](https://juejin.cn/post/7162788361328361502) | Sun Nov 06 2022 6:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    最近阅读了一些linux相关的书籍、文章以及文档，想结合自己的理解来讲解一下linux的环境变量。 本文的参考内容如下，感兴趣的小伙伴也可以阅读原文： linux man page online: 查 
-    </details> 
-
-- 💪 [2022-11-7 技术周刊第2期](https://juejin.cn/post/7162783921673863198) | Sun Nov 06 2022 6:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    阅读与一句话 一周咨询 “确保Web3发生在香港” 10月31日，香港财政司下属的财经事务及库务局（下文简称&quot;财库局&quot;）正式公布《有关香港虚拟资产发展的政策宣言》。 文章推荐 y18n引发安全漏洞，警 
+    在网上看到过很多文章讲 TCP 连接的三次握手和断开连接的四次挥手，但是都太过于理论，看完感觉总是似懂非懂。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
