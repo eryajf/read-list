@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [PVE-WIndows 建议不要安装 360 安全卫士](https://www.v2ex.com/t/893081#reply1) | Sun Nov 06 2022 8:13 AM
-- 🤗 [rsync 开了校验后，我没看见它的校验过程](https://www.v2ex.com/t/893072#reply4) | Sun Nov 06 2022 7:24 AM
+- 🥸 [PVE-WIndows 建议不要安装 360 安全卫士](https://www.v2ex.com/t/893081#reply6) | Sun Nov 06 2022 8:13 AM
+- 🤗 [rsync 开了校验后，我没看见它的校验过程](https://www.v2ex.com/t/893072#reply5) | Sun Nov 06 2022 7:24 AM
 - 🎭 [一台旧 MacBook Pro 能拿来做什么呢？](https://www.v2ex.com/t/893057#reply2) | Sun Nov 06 2022 5:20 AM
 - 🥷 [推荐一个扫块的 工具包，可以用来方便的监听 交易动态](https://www.v2ex.com/t/893055#reply2) | Sun Nov 06 2022 5:14 AM
-- 🐵 [双 11 买 8+ Gen 1 会不会太晚](https://www.v2ex.com/t/893037#reply17) | Sun Nov 06 2022 2:47 AM<!-- v2ex:END -->
+- 🐵 [双 11 买 8+ Gen 1 会不会太晚](https://www.v2ex.com/t/893037#reply20) | Sun Nov 06 2022 2:47 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
