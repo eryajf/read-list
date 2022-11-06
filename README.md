@@ -364,10 +364,10 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Zlib 的数据量怎么这么少，才 31T 的书籍？](https://www.v2ex.com/t/893105#reply0) | Sun Nov 06 2022 10:16 AM
-- 🤗 [怎么实现一个并发安全的，对写多读少友好的 go 数据结构？](https://www.v2ex.com/t/893103#reply0) | Sun Nov 06 2022 10:11 AM
+- 🥸 [Zlib 的数据量怎么这么少，才 31T 的书籍？](https://www.v2ex.com/t/893105#reply6) | Sun Nov 06 2022 10:16 AM
+- 🤗 [怎么实现一个并发安全的，对写多读少友好的 go 数据结构？](https://www.v2ex.com/t/893103#reply1) | Sun Nov 06 2022 10:11 AM
 - 🎭 [easycar:一个用 Go 实现的分布式事务框架](https://www.v2ex.com/t/893097#reply0) | Sun Nov 06 2022 9:29 AM
-- 🥷 [PVE-WIndows 建议不要安装 360 安全卫士](https://www.v2ex.com/t/893081#reply8) | Sun Nov 06 2022 8:13 AM
+- 🥷 [PVE-WIndows 建议不要安装 360 安全卫士](https://www.v2ex.com/t/893081#reply9) | Sun Nov 06 2022 8:13 AM
 - 🐵 [rsync 开了校验后，我没看见它的校验过程](https://www.v2ex.com/t/893072#reply5) | Sun Nov 06 2022 7:24 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
