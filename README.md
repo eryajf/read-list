@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [B+树的生成过程 怎么去看懂B+树](https://juejin.cn/post/7162856738692005918) | Sun Nov 06 2022 11:07 AM 
+- 🤗 [字节跳动后端面经（19）](https://juejin.cn/post/7162888670591549448) | Sun Nov 06 2022 1:07 PM 
+    <details><summary>展开描述 ...</summary> 
+    DNS查找过程 三次握手过程？为什么不能两次握手 路由在哪一层，起到了什么作用 怎么防止伪造证书 说 
+    </details> 
+
+- 🎡 [Optional用法与争议点](https://juejin.cn/post/7162882431932956680) | Sun Nov 06 2022 12:44 PM 
+    <details><summary>展开描述 ...</summary> 
+    要说Java中什么异常最容易出现，我想NullPointerException一定当仁不让，为了解决这种null值判断问题，Java8中提供了一个新的工具类Optional。 
+    </details> 
+
+- 🕯 [B+树的生成过程 怎么去看懂B+树](https://juejin.cn/post/7162856738692005918) | Sun Nov 06 2022 11:07 AM 
     <details><summary>展开描述 ...</summary> 
     核心主题是B树思维和生成过程 作为新人 有时候看不懂一些图 就导致对于一些知识 没办法参透任何东西还是要从基础学习 
     </details> 
 
-- 🎡 [浅谈数据：聊一聊数据分析中的一些基础统计学知识](https://juejin.cn/post/7162851758958936071) | Sun Nov 06 2022 10:43 AM 
+- 🚀 [浅谈数据：聊一聊数据分析中的一些基础统计学知识](https://juejin.cn/post/7162851758958936071) | Sun Nov 06 2022 10:43 AM 
     <details><summary>展开描述 ...</summary> 
     真正有用的数据分析，除了将数字呈现出来，还将发现的数据洞见与业务充分结合起来，实际为业务创造价值才有意义。了解一些基础统计学知识，很可能会对发现洞见有帮助。 
     </details> 
 
-- 🕯 [[Android开发学iOS系列] 删除storyboard需要几步](https://juejin.cn/post/7162845393712054285) | Sun Nov 06 2022 10:19 AM 
+- 💪 [[Android开发学iOS系列] 删除storyboard需要几步](https://juejin.cn/post/7162845393712054285) | Sun Nov 06 2022 10:19 AM 
     <details><summary>展开描述 ...</summary> 
     新建demo必备技能: 删除iOS项目中的storyboard变为一个纯代码UI app, 一共需要几步? 
-    </details> 
-
-- 🚀 [前端工程师个人的价值在哪里（换一个人能不能做？）【前端晋升必看】](https://juejin.cn/post/7162844191205589005) | Sun Nov 06 2022 10:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    业务方向是产品经理决定的，即使前端高质量高效率的完成了前端需求，也不能左右业务结果，那“业务的价值和你有什么关系”？ 
-    </details> 
-
-- 💪 [二叉树中和为某一值的路径](https://juejin.cn/post/7162835195899445279) | Sun Nov 06 2022 9:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    有一颗二叉树和一个整数，如何找到二叉树中节点值的和为输入整数的所有路径。从树的根节点开始往下一直到叶节点所经过的节点形成一条路径。本文就跟大家分享下这个问题与解决方案，欢迎各位感兴趣的开发者阅读本文。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
