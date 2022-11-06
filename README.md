@@ -364,10 +364,10 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [一台旧 MacBook Pro 能拿来做什么呢？](https://www.v2ex.com/t/893057#reply0) | Sun Nov 06 2022 5:20 AM
-- 🤗 [推荐一个扫块的 工具包，可以用来方便的监听 交易动态](https://www.v2ex.com/t/893055#reply0) | Sun Nov 06 2022 5:14 AM
-- 🎭 [双 11 买 8+ Gen 1 会不会太晚](https://www.v2ex.com/t/893037#reply12) | Sun Nov 06 2022 2:47 AM
-- 🥷 [求推荐给老人的安卓手机，期望要求是： 1 便宜， 2 能用的年限久一点（几乎只用微信）](https://www.v2ex.com/t/893017#reply44) | Sun Nov 06 2022 12:22 AM
+- 🥸 [一台旧 MacBook Pro 能拿来做什么呢？](https://www.v2ex.com/t/893057#reply1) | Sun Nov 06 2022 5:20 AM
+- 🤗 [推荐一个扫块的 工具包，可以用来方便的监听 交易动态](https://www.v2ex.com/t/893055#reply1) | Sun Nov 06 2022 5:14 AM
+- 🎭 [双 11 买 8+ Gen 1 会不会太晚](https://www.v2ex.com/t/893037#reply17) | Sun Nov 06 2022 2:47 AM
+- 🥷 [求推荐给老人的安卓手机，期望要求是： 1 便宜， 2 能用的年限久一点（几乎只用微信）](https://www.v2ex.com/t/893017#reply49) | Sun Nov 06 2022 12:22 AM
 - 🐵 [在 vue3 中， computed 计算属性性能问题](https://www.v2ex.com/t/892995#reply5) | Sat Nov 05 2022 3:06 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
