@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [开源项目在线化 中文繁简体转换/敏感词/拼音/分词/汉字相似度/markdown 目录](https://juejin.cn/post/7162900036551573534) | Sun Nov 06 2022 1:51 PM 
+- 🤗 [【MySQL】深入理解MySQL索引原理（MySQL专栏启动）](https://juejin.cn/post/7162916666253246478) | Sun Nov 06 2022 2:57 PM 
+    <details><summary>展开描述 ...</summary> 
+    本篇文章博主对索引做了一个较为初步地概述，主要有2种主要的索引的数据结构b+tree和hash的数据结构，b+树的覆盖索引和回表进行分析，并对b+树存放记录、如何优化B+树索引的插入性能进行分析。 
+    </details> 
+
+- 🎡 [强化版的uni-app小程序持续集成](https://juejin.cn/post/7162908926764122142) | Sun Nov 06 2022 2:27 PM 
+    <details><summary>展开描述 ...</summary> 
+    1. 开始 最近做了小程序的持续集成相关的工作，主要解决了以下痛点： 构建时间长，流程繁琐 外部开发人员无法预览 本次CI功能点如下： 自动进行uni-app打包，打包两份：test和release环 
+    </details> 
+
+- 🕯 [开源项目在线化 中文繁简体转换/敏感词/拼音/分词/汉字相似度/markdown 目录](https://juejin.cn/post/7162900036551573534) | Sun Nov 06 2022 1:51 PM 
     <details><summary>展开描述 ...</summary> 
     前言 以前在 github 上自己开源了一些项目。碍于技术与精力，大部分项目都是 java 实现的。 这对于非 java 开发者而言很不友好，对于不会编程的用户更加不友好。 为了让更多的人可以使用到这 
     </details> 
 
-- 🎡 [十大常见排序算法——附C#代码实现](https://juejin.cn/post/7162897808977035272) | Sun Nov 06 2022 1:45 PM 
+- 🚀 [十大常见排序算法——附C#代码实现](https://juejin.cn/post/7162897808977035272) | Sun Nov 06 2022 1:45 PM 
     <details><summary>展开描述 ...</summary> 
     前言 “排序” 很重要： 需求上需要实现排序：例如有一个排行榜要按玩家的等级进行排序； 是其他算法的基础：例如二分查找必须对有序的数组才有效。 排序算法很多，接下来就介绍十种经典排序算法： 
     </details> 
 
-- 🕯 [字节跳动后端面经（19）](https://juejin.cn/post/7162888670591549448) | Sun Nov 06 2022 1:07 PM 
+- 💪 [字节跳动后端面经（19）](https://juejin.cn/post/7162888670591549448) | Sun Nov 06 2022 1:07 PM 
     <details><summary>展开描述 ...</summary> 
     DNS查找过程 三次握手过程？为什么不能两次握手 路由在哪一层，起到了什么作用 怎么防止伪造证书 说 
-    </details> 
-
-- 🚀 [Optional用法与争议点](https://juejin.cn/post/7162882431932956680) | Sun Nov 06 2022 12:44 PM 
-    <details><summary>展开描述 ...</summary> 
-    要说Java中什么异常最容易出现，我想NullPointerException一定当仁不让，为了解决这种null值判断问题，Java8中提供了一个新的工具类Optional。 
-    </details> 
-
-- 💪 [B+树的生成过程 怎么去看懂B+树](https://juejin.cn/post/7162856738692005918) | Sun Nov 06 2022 11:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    核心主题是B树思维和生成过程 作为新人 有时候看不懂一些图 就导致对于一些知识 没办法参透任何东西还是要从基础学习 
     </details> 
 <!-- juejin:END -->
 ### 少数派
