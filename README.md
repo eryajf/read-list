@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [二叉树中和为某一值的路径](https://juejin.cn/post/7162835195899445279) | Sun Nov 06 2022 9:41 AM 
+- 🤗 [[Android开发学iOS系列] 删除storyboard需要几步](https://juejin.cn/post/7162845393712054285) | Sun Nov 06 2022 10:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    新建demo必备技能: 删除iOS项目中的storyboard变为一个纯代码UI app, 一共需要几步? 
+    </details> 
+
+- 🎡 [前端工程师个人的价值在哪里（换一个人能不能做？）](https://juejin.cn/post/7162844191205589005) | Sun Nov 06 2022 10:18 AM 
+    <details><summary>展开描述 ...</summary> 
+    业务方向是产品经理决定的，即使前端高质量高效率的完成了前端需求，也不能左右业务结果，那“业务的价值和你有什么关系”？ 
+    </details> 
+
+- 🕯 [二叉树中和为某一值的路径](https://juejin.cn/post/7162835195899445279) | Sun Nov 06 2022 9:41 AM 
     <details><summary>展开描述 ...</summary> 
     有一颗二叉树和一个整数，如何找到二叉树中节点值的和为输入整数的所有路径。从树的根节点开始往下一直到叶节点所经过的节点形成一条路径。本文就跟大家分享下这个问题与解决方案，欢迎各位感兴趣的开发者阅读本文。 
     </details> 
 
-- 🎡 [【分布式技术专题】「架构实践于案例分析」盘点分布式服务的（无状态\有状态）认证实现方案](https://juejin.cn/post/7162827158073655310) | Sun Nov 06 2022 9:08 AM 
+- 🚀 [【分布式技术专题】「架构实践于案例分析」盘点分布式服务的（无状态\有状态）认证实现方案](https://juejin.cn/post/7162827158073655310) | Sun Nov 06 2022 9:08 AM 
     <details><summary>展开描述 ...</summary> 
     ⽆状态 vs 有状态 有状态、⽆状态是什么 有状态：服务器端需要保存请求的相关信息，每个请求可以默认地使⽤以前的请求信息 ⽆状态：服务器端不记录请求的相关信息，服务器处理的内容完全来⾃请求所携带的信息 
     </details> 
 
-- 🕯 [一台服务器最大能支持多少条TCP连接](https://juejin.cn/post/7162824884597293086) | Sun Nov 06 2022 9:00 AM 
+- 💪 [一台服务器最大能支持多少条TCP连接](https://juejin.cn/post/7162824884597293086) | Sun Nov 06 2022 9:00 AM 
     <details><summary>展开描述 ...</summary> 
     一、一台服务器最大能打开的文件数 1、限制参数 我们知道在Linux中一切皆文件，那么一台服务器最大能打开多少个文件呢？Linux上能打开的最大文件数量受三个参数影响，分别是： fs.file-max 
-    </details> 
-
-- 🚀 [Java 面试题：说一下 ArrayDeque 和 LinkedList 的区别?](https://juejin.cn/post/7162819765361672199) | Sun Nov 06 2022 8:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    在上一篇文章里，们聊到了基于链表的 Queue 和 Stack 实现 —— LinkedList。那么 Java 中有没有基于数组的 Queue 和 Stack 实现呢？ 
-    </details> 
-
-- 💪 [抓包分析 TCP 握手和挥手](https://juejin.cn/post/7162815000434704415) | Sun Nov 06 2022 8:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    在网上看到过很多文章讲 TCP 连接的三次握手和断开连接的四次挥手，但是都太过于理论，看完感觉总是似懂非懂。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
