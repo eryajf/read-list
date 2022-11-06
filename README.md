@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【MySQL】高性能高可用表设计实战-表设计篇（MySQL专栏启动）](https://juejin.cn/post/7162548412011773983) | Sat Nov 05 2022 3:11 PM 
+- 🤗 [韩国程序员面试考什么？](https://juejin.cn/post/7162709958574735397) | Sun Nov 06 2022 1:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    大家好，我是老三，在G站闲逛的时候，从每日热门上，看到一个韩国的技术面试项目，感觉有点好奇，忍不住点进去看看。 韩国的面试都考什么？有没有国内的卷呢？ 可以看到，有8.k star，2.2k fork 
+    </details> 
+
+- 🎡 [SpringBoot 自动装配原理](https://juejin.cn/post/7162568709955911717) | Sat Nov 05 2022 4:26 PM 
+    <details><summary>展开描述 ...</summary> 
+    Sping Boot 如何实现自动配置 Spring Boot都需要创建一个mian启动类，而启动类都含有@SpringBootApplication注解，从启动类，一步步探索源码。 @SpringB 
+    </details> 
+
+- 🕯 [【MySQL】高性能高可用表设计实战-表设计篇（MySQL专栏启动）](https://juejin.cn/post/7162548412011773983) | Sat Nov 05 2022 3:11 PM 
     <details><summary>展开描述 ...</summary> 
     本篇文章结合前面上一篇文章 MySQL建表与常见类型设计陷阱，结合上文所学的属性类型，本文详细介绍表结构的字段类型选择和表的物理存储设计，主要有库、表、字段、索引的命名规范，反范式的设计原则、表压缩。 
     </details> 
 
-- 🎡 [关于微前端，你理解到究极奥义了么？](https://juejin.cn/post/7162539136577404964) | Sat Nov 05 2022 2:32 PM 
+- 🚀 [关于微前端，你理解到究极奥义了么？](https://juejin.cn/post/7162539136577404964) | Sat Nov 05 2022 2:32 PM 
     <details><summary>展开描述 ...</summary> 
     本文将提出很多关于微前端的新理解，期望你能在 容器型微前端和 模块型微前端之间找到最佳的平衡点并付诸实践。 
     </details> 
 
-- 🕯 [Class 分析插件助力 Android 13 适配落地](https://juejin.cn/post/7162528305868963848) | Sat Nov 05 2022 1:49 PM 
+- 💪 [Class 分析插件助力 Android 13 适配落地](https://juejin.cn/post/7162528305868963848) | Sat Nov 05 2022 1:49 PM 
     <details><summary>展开描述 ...</summary> 
     Android 13 发布马上有 3 个月了，各厂都已经开始了适配工作，我司也不例外。但适配前有一个问题需要解决，如果衡量这次适配的工作量，如何统计哪些模块需要改造，并能精确的找到对应模块负责人。 传 
-    </details> 
-
-- 🚀 [【分布式技术专题】「架构实践于案例分析」盘点高并发场景的技术设计方案和规划](https://juejin.cn/post/7162521987829465119) | Sat Nov 05 2022 1:24 PM 
-    <details><summary>展开描述 ...</summary> 
-    高并发是什么？ ⾼并发（High Concurrency）是互联⽹分布式系统架构设计中必须考虑的因素之⼀，它通常是指通过设计保证系统能够同时并⾏处理很多请求。 高并发属性和因素 ⾼并发相关常⽤的⼀些指 
-    </details> 
-
-- 💪 [避免踩坑，Activity系统回收的流程解析](https://juejin.cn/post/7162521119004557348) | Sat Nov 05 2022 1:21 PM 
-    <details><summary>展开描述 ...</summary> 
-    运行时activity也会被回收，这个是怎么一回事？我们在本文中会探索activity回收的逻辑，同时以一个bad架构为引子，探索系统低内存回收的逻辑 
     </details> 
 <!-- juejin:END -->
 ### 少数派
