@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [关于试用期的问题](https://www.v2ex.com/t/893151#reply4) | Sun Nov 06 2022 1:55 PM
-- 🤗 [[迭代] 一款小而美的 Markdown 静态博客程序](https://www.v2ex.com/t/893148#reply2) | Sun Nov 06 2022 1:48 PM
-- 🎭 [玩 js 逆向的朋友，来挑战下这个吧，不是常规 webpack，对我感觉有点难度](https://www.v2ex.com/t/893145#reply1) | Sun Nov 06 2022 1:13 PM
-- 🥷 [双 11，在考虑要不要把云服务器续到 2028 年？](https://www.v2ex.com/t/893144#reply11) | Sun Nov 06 2022 1:08 PM
-- 🐵 [[分享今天本人经历，同时劝大家千万别碰网络赌博！] 今天无聊玩了电子老虎机，结果上头了，输了 50，真的太后悔，有这钱买点啥不好，高估了自己的意志力，有了解的小伙伴请技术分析一下我最后的截图那种情况为啥赢不了，实在不理解](https://www.v2ex.com/t/893139#reply15) | Sun Nov 06 2022 12:53 PM<!-- v2ex:END -->
+- 🥸 [NutsDB v0.11.0 发布，启动速度提高一倍](https://www.v2ex.com/t/893161#reply0) | Sun Nov 06 2022 2:48 PM
+- 🤗 [现在是不是没有 LCD 屏幕的手机了？](https://www.v2ex.com/t/893160#reply13) | Sun Nov 06 2022 2:44 PM
+- 🎭 [关于试用期的问题](https://www.v2ex.com/t/893151#reply7) | Sun Nov 06 2022 1:55 PM
+- 🥷 [[迭代] 一款小而美的 Markdown 静态博客程序](https://www.v2ex.com/t/893148#reply5) | Sun Nov 06 2022 1:48 PM
+- 🐵 [玩 js 逆向的朋友，来挑战下这个吧，不是常规 webpack，对我感觉有点难度](https://www.v2ex.com/t/893145#reply1) | Sun Nov 06 2022 1:13 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
