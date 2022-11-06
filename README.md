@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [JVM篇之牛刀小试（三）年轻代参数优化探索](https://juejin.cn/post/7162773666601074725) | Sun Nov 06 2022 5:41 AM 
+- 🤗 [2022-11-7 技术周刊第2期](https://juejin.cn/post/7162783921673863198) | Sun Nov 06 2022 6:21 AM 
+    <details><summary>展开描述 ...</summary> 
+    阅读与一句话 一周咨询 “确保Web3发生在香港” 10月31日，香港财政司下属的财经事务及库务局（下文简称&quot;财库局&quot;）正式公布《有关香港虚拟资产发展的政策宣言》。 文章推荐 y18n引发安全漏洞，警 
+    </details> 
+
+- 🎡 [前端图形学实战: 100行代码实现几何画板的撤销重做等功能&lpar;vue3 + vite版&rpar;](https://juejin.cn/post/7162781339920367630) | Sun Nov 06 2022 6:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    不到100行代码用vue3实现可视化平台的撤销重做功能,支持基础的撤销重做能力&lpar;取消和恢复用户操作的能力&rpar;, 需要限制最大可操作记录数&lpar;防止历史记录数过大导致前端性能问题&rpar; 
+    </details> 
+
+- 🕯 [理解 Next.js 中的 CSR、SSR、SSG、ISR 以及 Streaming](https://juejin.cn/post/7162775935828115469) | Sun Nov 06 2022 5:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    Next.js 提供了 CSR、SSR、SSG、ISR、 Streaming 这么多渲染方式，本文就从渲染方式方面来讲解，让我们可以更好地理解 Next.js 以及使用 Next.js。 
+    </details> 
+
+- 🚀 [JVM篇之牛刀小试（三）年轻代参数优化探索](https://juejin.cn/post/7162773666601074725) | Sun Nov 06 2022 5:41 AM 
     <details><summary>展开描述 ...</summary> 
     前言 在JVM 篇之 牛刀小试 （一）我们谈到了关于年轻代参数的问题，就是当我没有设置-Xmn的时候，gc时间居然比我设置了500m的时候，时间还短，然后当时我就停止了探索。 后来我在公司飞书文档写了 
     </details> 
 
-- 🎡 [计算机底层知识之汇编语言](https://juejin.cn/post/7162770051853418504) | Sun Nov 06 2022 5:30 AM 
+- 💪 [计算机底层知识之汇编语言](https://juejin.cn/post/7162770051853418504) | Sun Nov 06 2022 5:30 AM 
     <details><summary>展开描述 ...</summary> 
     大家好，我是柒八九。 今天，我们继续计算机底层知识的探索。我们来谈谈关于汇编语言的相关知识点。 如果，想了解该系列的文章，可以参考我们已经发布的文章。如下是往期文章。 文章list 计算机底层知识之C 
-    </details> 
-
-- 🕯 [1678. 设计 Goal 解析器 : 简单模拟题](https://juejin.cn/post/7162762795984322573) | Sun Nov 06 2022 5:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 1678. 设计 Goal 解析器 ，难度为 简单。 Tag : 「模拟」 请你设计一个可以解释字符串 command 的 Goal 解析器 。 command 
-    </details> 
-
-- 🚀 [SourceMap解析CLI工具实现](https://juejin.cn/post/7162731769223970830) | Sun Nov 06 2022 2:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文将综合现有的source-map cli工具优缺点，取长补短， 从 0 - 1 实现1个使用友好且较为实用的 sourceMap CLI 
-    </details> 
-
-- 💪 [D3&lpar;v7&rpar;入门六：折线图](https://juejin.cn/post/7162720725801893901) | Sun Nov 06 2022 2:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    本章我们来实现一下折线图，有了画柱状图的经验，我们可以快速的分析出柱状图和折线图的区别主要是x轴比例尺和绘制数据图形,其余的画布，坐标轴等，本章就不过多的讲解了。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
