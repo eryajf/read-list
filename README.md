@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [1678. 设计 Goal 解析器 : 简单模拟题](https://juejin.cn/post/7162762795984322573) | Sun Nov 06 2022 5:02 AM 
+- 🤗 [JVM篇之牛刀小试（三）年轻代参数优化探索](https://juejin.cn/post/7162773666601074725) | Sun Nov 06 2022 5:41 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 在JVM 篇之 牛刀小试 （一）我们谈到了关于年轻代参数的问题，就是当我没有设置-Xmn的时候，gc时间居然比我设置了500m的时候，时间还短，然后当时我就停止了探索。 后来我在公司飞书文档写了 
+    </details> 
+
+- 🎡 [计算机底层知识之汇编语言](https://juejin.cn/post/7162770051853418504) | Sun Nov 06 2022 5:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    大家好，我是柒八九。 今天，我们继续计算机底层知识的探索。我们来谈谈关于汇编语言的相关知识点。 如果，想了解该系列的文章，可以参考我们已经发布的文章。如下是往期文章。 文章list 计算机底层知识之C 
+    </details> 
+
+- 🕯 [1678. 设计 Goal 解析器 : 简单模拟题](https://juejin.cn/post/7162762795984322573) | Sun Nov 06 2022 5:02 AM 
     <details><summary>展开描述 ...</summary> 
     题目描述 这是 LeetCode 上的 1678. 设计 Goal 解析器 ，难度为 简单。 Tag : 「模拟」 请你设计一个可以解释字符串 command 的 Goal 解析器 。 command 
     </details> 
 
-- 🎡 [SourceMap解析CLI工具实现](https://juejin.cn/post/7162731769223970830) | Sun Nov 06 2022 2:58 AM 
+- 🚀 [SourceMap解析CLI工具实现](https://juejin.cn/post/7162731769223970830) | Sun Nov 06 2022 2:58 AM 
     <details><summary>展开描述 ...</summary> 
     本文将综合现有的source-map cli工具优缺点，取长补短， 从 0 - 1 实现1个使用友好且较为实用的 sourceMap CLI 
     </details> 
 
-- 🕯 [D3&lpar;v7&rpar;入门六：折线图](https://juejin.cn/post/7162720725801893901) | Sun Nov 06 2022 2:16 AM 
+- 💪 [D3&lpar;v7&rpar;入门六：折线图](https://juejin.cn/post/7162720725801893901) | Sun Nov 06 2022 2:16 AM 
     <details><summary>展开描述 ...</summary> 
     本章我们来实现一下折线图，有了画柱状图的经验，我们可以快速的分析出柱状图和折线图的区别主要是x轴比例尺和绘制数据图形,其余的画布，坐标轴等，本章就不过多的讲解了。 
-    </details> 
-
-- 🚀 [韩国程序员面试考什么？](https://juejin.cn/post/7162709958574735397) | Sun Nov 06 2022 1:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    大家好，我是老三，在G站闲逛的时候，从每日热门上，看到一个韩国的技术面试项目，感觉有点好奇，忍不住点进去看看。 韩国的面试都考什么？有没有国内的卷呢？ 可以看到，有8.k star，2.2k fork 
-    </details> 
-
-- 💪 [SpringBoot 自动装配原理](https://juejin.cn/post/7162568709955911717) | Sat Nov 05 2022 4:26 PM 
-    <details><summary>展开描述 ...</summary> 
-    Sping Boot 如何实现自动配置 Spring Boot都需要创建一个mian启动类，而启动类都含有@SpringBootApplication注解，从启动类，一步步探索源码。 @SpringB 
     </details> 
 <!-- juejin:END -->
 ### 少数派
