@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [brython | 笨办法写个连连看-1.核心功能实现](https://juejin.cn/post/7163275811594698759) | Mon Nov 07 2022 2:09 PM 
+- 🤗 [【云原生】Apache Livy on k8s 讲解与实战操作](https://juejin.cn/post/7163291953286053925) | Mon Nov 07 2022 3:11 PM 
+    <details><summary>展开描述 ...</summary> 
+    Livy是一个提供Rest接口和spark集群交互的服务。它可以提交Spark Job或者Spark一段代码,同步或者异步的返回结果;也提供Sparkcontext的管理,通过Restful接口或RP 
+    </details> 
+
+- 🎡 [【MySQL】高性能高可用设计实战-索引篇（MySQL专栏启动）](https://juejin.cn/post/7163286465017806856) | Mon Nov 07 2022 2:51 PM 
+    <details><summary>展开描述 ...</summary> 
+    ​ 本文导读 高性能高可用设计实战-索引篇，结合上一篇文章 《深入理解MySQL索引原理》，本篇通过组合（联合、覆盖）索引是如何在生产环境中提升查询效率的，引出MySQL最左匹配原则和MySQL选择索 
+    </details> 
+
+- 🕯 [Web3 与区块链有关吗？](https://juejin.cn/post/7163281215976865800) | Mon Nov 07 2022 2:29 PM 
+    <details><summary>展开描述 ...</summary> 
+    Web3 指的是基于区块链的去中心化在线生态系统，2021 年 Web3 的想法开始流行。到 2021 年底，特别兴趣激增，这主要是由于加密货币爱好者的兴趣以及知名技术专家和公司的投资。特色是去中心化 
+    </details> 
+
+- 🚀 [🥳🥳🥳Worker中还可以创建多个Worker，打开多线程编程的大门](https://juejin.cn/post/7163281017107644429) | Mon Nov 07 2022 2:29 PM 
+    <details><summary>展开描述 ...</summary> 
+    本篇主要探索 Worker 的更多用法，主要是如何创建多个 Worker ，在 Worker 中如何发送请求，以及如何使用 Worker 进行多线程编程。 
+    </details> 
+
+- 💪 [brython | 笨办法写个连连看-1.核心功能实现](https://juejin.cn/post/7163275811594698759) | Mon Nov 07 2022 2:09 PM 
     <details><summary>展开描述 ...</summary> 
     前段时间在码上掘金看见大佬用【文言文】写了一个连连看，于是乎突发奇想，能不能用brython也实现一个连连看呢？ 顺便复习下python基础,于是乎，你们就看到了这个码上掘金项目 和 这篇文章了，但是 
-    </details> 
-
-- 🎡 [从前端视角看转转售后业务](https://juejin.cn/post/7163272614289506312) | Mon Nov 07 2022 1:57 PM 
-    <details><summary>展开描述 ...</summary> 
-    入职转转一年多，大部分时间都在负责售后业务的前端开发，本文主要从前端视角，分享一下转转售后的业务和系统， 
-    </details> 
-
-- 🕯 [X、Y轴, Board的绘制](https://juejin.cn/post/7163268579704438821) | Mon Nov 07 2022 1:41 PM 
-    <details><summary>展开描述 ...</summary> 
-    上篇大致介绍了RecyclerChart能够绘制的图表，以及一些特有的功能。从这节开始具体地介绍图表的绘制，本节先介绍RcyclerChart中一些图表的相关辅助的绘制，X、Y轴，以及Board的绘制 
-    </details> 
-
-- 🚀 [D3&lpar;v7&rpar;入门七：饼图、环图、玫瑰图](https://juejin.cn/post/7163265841725866020) | Mon Nov 07 2022 1:31 PM 
-    <details><summary>展开描述 ...</summary> 
-    饼图和之前介绍的柱状图和折线图不同，不存在坐标系，也就不会有比例尺的映射。在折线图的介绍中，我们提到了d3提供了一些图形构造器并了解了一下d3.line以及d3.area 
-    </details> 
-
-- 💪 [android中gzip数据压缩与网络框架解压缩（gzip）](https://juejin.cn/post/7163264671074484261) | Mon Nov 07 2022 1:26 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 theme: smartblue 简介 gzip是一种常用的压缩算法，它是若干种文件压缩程序的简称，通常指GNU计划的实现，此处的gzip代表GNU z 
     </details> 
 <!-- juejin:END -->
 ### 少数派
