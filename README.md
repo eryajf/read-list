@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [K8S 入门大家是从何开始的？](https://www.v2ex.com/t/893296#reply0) | Mon Nov 07 2022 5:18 AM
-- 🤗 [对程序员来说，一个好用的数据建模工具应该是什么样的？分享一个来自真实项目的经验。](https://www.v2ex.com/t/893267#reply0) | Mon Nov 07 2022 3:51 AM
-- 🎭 [logging 输出日志怎样对文件过滤](https://www.v2ex.com/t/893257#reply2) | Mon Nov 07 2022 3:24 AM
-- 🥷 [因产研沟通低效率,求推荐产研沟通相关的书籍](https://www.v2ex.com/t/893255#reply7) | Mon Nov 07 2022 3:18 AM
-- 🐵 [Meta 将启动史上首次大规模裁员， v 站上赛博润人的梦碎了](https://www.v2ex.com/t/893254#reply86) | Mon Nov 07 2022 3:18 AM<!-- v2ex:END -->
+- 🥸 [公司有一批服务器装了 AMD 的 EPYC 7313 或者 EPYC 7513，但是大部分服务器跑我们的业务时频率就会上不去](https://www.v2ex.com/t/893313#reply0) | Mon Nov 07 2022 6:13 AM
+- 🤗 [Win11 22H2 更新后出现长时间不使用电脑自动死机](https://www.v2ex.com/t/893312#reply0) | Mon Nov 07 2022 6:09 AM
+- 🎭 [腾讯云 dns 解析控制台挂了？](https://www.v2ex.com/t/893310#reply2) | Mon Nov 07 2022 6:06 AM
+- 🥷 [求推荐不带轮子的人工体学椅子](https://www.v2ex.com/t/893305#reply8) | Mon Nov 07 2022 5:58 AM
+- 🐵 [小白学完 channel 马上就不会了 —— 现在会了（大概）](https://www.v2ex.com/t/893302#reply2) | Mon Nov 07 2022 5:45 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
