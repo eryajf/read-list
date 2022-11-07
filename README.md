@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [万字避坑指南！C++的缺陷与思考（上）](https://juejin.cn/post/7163190266013188103) | Mon Nov 07 2022 8:37 AM 
+- 🤗 [[译] 在云端使用 Redis？你应该知道这十件事](https://juejin.cn/post/7163213655662657566) | Mon Nov 07 2022 10:07 AM 
+    <details><summary>展开描述 ...</summary> 
+    在云端使用 Redis？你应该知道这十件事 大规模操作有状态的分布式系统通常是很难的，Redis 也不例外。 尽管托管数据库通过承担大部分的繁杂工作使生活变得更加轻松。 但是你仍然需要一个完善的架构使 
+    </details> 
+
+- 🎡 [React 之 Race Condition](https://juejin.cn/post/7163202327594139679) | Mon Nov 07 2022 9:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    Race Condition，中文译为竞态条件，旨在描述一个系统或者进程的输出，依赖于不受控制事件的出现顺序或者出现时机。 举个简单的例子： 你可能想，JavaScript 是单线程，怎么可 
+    </details> 
+
+- 🕯 [万字避坑指南！C++的缺陷与思考（上）](https://juejin.cn/post/7163190266013188103) | Mon Nov 07 2022 8:37 AM 
     <details><summary>展开描述 ...</summary> 
     导语 | 本文主要总结了本人在C++开发过程中对一些奇怪、复杂的语法的理解和思考，同时作为C++开发的避坑指南。 前言 C++是一门古老的语言，但仍然在不间断更新中，不断引用新特性。但与此同时C++又 
     </details> 
 
-- 🎡 [在 iOS 16 中用 SwiftUI Charts 创建一个折线图](https://juejin.cn/post/7163177063816527886) | Mon Nov 07 2022 7:46 AM 
+- 🚀 [面试官：Java线程池是怎么统计线程的空闲时间的？](https://juejin.cn/post/7163186630273007647) | Mon Nov 07 2022 8:23 AM 
+    <details><summary>展开描述 ...</summary> 
+    背景介绍： 你刚从学校毕业后，到新公司实习，试用期又被毕业，然后你又不得不出来面试，好在面试的时候碰到个美女面试官！ 面试官： 小伙子，我看你简历上写的项目中用到了线程池，你知道线程池是怎样实现复用线 
+    </details> 
+
+- 💪 [在 iOS 16 中用 SwiftUI Charts 创建一个折线图](https://juejin.cn/post/7163177063816527886) | Mon Nov 07 2022 7:46 AM 
     <details><summary>展开描述 ...</summary> 
     苹果在 WWDC 2022 上推出了 SwiftUI 图表，这使得在 SwiftUI 视图中创建图表变得异常简单。本文展示了如何用比以前从头开始创建同样的折线图少得多的代码轻松创建折线图。 
-    </details> 
-
-- 🕯 [ThreadPoolExecutor 的参数含义及源码执行流程](https://juejin.cn/post/7163171688652374053) | Mon Nov 07 2022 7:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    背景 线程池是为了避免线程频繁的创建和销毁带来的性能消耗，而建立的一种池化技术，它是把已创建的线程放入“池”中，当有任务来临时就可以重用已有的线程，无需等待创建的过程，这样就可以有效提高程序的响应速度 
-    </details> 
-
-- 🚀 [【React】使用React Hooks开发一个打字小游戏](https://juejin.cn/post/7163167702578626596) | Mon Nov 07 2022 7:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动，一起开启掘金创作之路。 本文主要内容：通过开发一个打字小游戏页面的各个功能，了解各种react hooks的使用 
-    </details> 
-
-- 💪 [只使用简单的 JavaScript 创建文件共享型网站](https://juejin.cn/post/7163163900324610079) | Mon Nov 07 2022 6:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 Any Share 是一种简单、轻量、快速的文件共享服务。使用 Javascript 编写，并搭建在 Firebase 平台。 特色 上传文件 下载文件 
     </details> 
 <!-- juejin:END -->
 ### 少数派
