@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [能说一说我的编程能力算好还是差吗？](https://www.v2ex.com/t/893333#reply0) | Mon Nov 07 2022 7:14 AM
-- 🤗 [求推荐 WPF 书籍或学习资料](https://www.v2ex.com/t/893332#reply0) | Mon Nov 07 2022 7:11 AM
-- 🎭 [自建 bitwarden 的各位都是怎么备份数据的](https://www.v2ex.com/t/893325#reply7) | Mon Nov 07 2022 7:01 AM
-- 🥷 [管理 Jupyter Notebooks 的最佳实践（简化版）](https://www.v2ex.com/t/893320#reply0) | Mon Nov 07 2022 6:56 AM
-- 🐵 [公司有一批服务器装了 AMD 的 EPYC 7313 或者 EPYC 7513，但是大部分服务器跑我们的业务时频率就会上不去](https://www.v2ex.com/t/893313#reply5) | Mon Nov 07 2022 6:13 AM<!-- v2ex:END -->
+- 🥸 [Windows 下 PC 企业微信机器人自动定时发送消息提醒](https://www.v2ex.com/t/893348#reply0) | Mon Nov 07 2022 7:49 AM
+- 🤗 [Visual Studio Code Python – 2022 年 11 月更新 isort、Pylint 和 flake8 扩展、关闭自动导入和笔记本单元调试](https://www.v2ex.com/t/893346#reply0) | Mon Nov 07 2022 7:47 AM
+- 🎭 [小弟自己装修，遂做了一个装修 app](https://www.v2ex.com/t/893337#reply1) | Mon Nov 07 2022 7:22 AM
+- 🥷 [wsa 安装的 app,如何创建 app 图标到 win 启动菜单](https://www.v2ex.com/t/893335#reply1) | Mon Nov 07 2022 7:17 AM
+- 🐵 [最近骚扰电话太多了, 有办法针对座机/区号/Regex 来屏蔽的防骚扰软件吗](https://www.v2ex.com/t/893334#reply6) | Mon Nov 07 2022 7:17 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
