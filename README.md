@@ -378,24 +378,24 @@
     如果你想了解深度学习中的语义分割，别犹豫，快来看看这篇FCN原理详解吧！！！相信阅读完后你会有所收获。🌾🌾🌾 
     </details> 
 
-- 🎡 [MySQL数据库基础：数据类型详解-二进制字符串类型](https://juejin.cn/post/7163094172998565902) | Mon Nov 07 2022 2:24 AM 
+- 🎡 [[千字长文系列] 🌏探秘PG之一文带你玩转PostgreSQL🗺️（九）](https://juejin.cn/post/7163103322713358349) | Mon Nov 07 2022 2:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文正在参加「技术专题19期 漫谈数据库技术」活动 📋🐏🐑🐐 📋本文将带着示例提供最常用的PostgreSQL数学函数，可帮助你学习使用PostgreSQL 快速有效地执行各种数学运算。 思维导图如下 
+    </details> 
+
+- 🕯 [前端周热点120：use RFC, Sandpack, Progressive enhancement, Streaming, Storybook](https://juejin.cn/post/7163098995768688677) | Mon Nov 07 2022 2:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    use RFC, Sandpack, Progressive enhancement, Streaming, Storybook, React-Native, Codeflow, Fontaine 
+    </details> 
+
+- 🚀 [尤雨溪回应：Vite 真的比 Turbopack 慢 10 倍吗？Github上5.3k的游戏！模块化方案 - BeeHive| 酱酱的下午茶第 104 期](https://juejin.cn/post/7163097826354790431) | Mon Nov 07 2022 2:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    今日看点：[Nest.js进阶系列五： Node.js中使用Redis原来这么简单，eBPF 技术实践：加速容器网络转发，耗时降低60%+，【Flutter 异步编程】深入剖析 Stream 机制源码 
+    </details> 
+
+- 💪 [MySQL数据库基础：数据类型详解-二进制字符串类型](https://juejin.cn/post/7163094172998565902) | Mon Nov 07 2022 2:24 AM 
     <details><summary>展开描述 ...</summary> 
     本文正在参加「技术专题19期 漫谈数据库技术」活动 前言 正好趁着这次MySQL技能树的建成一起学习复习一下MySQL数据库的基本知识。也是一直在用这个数据库，有些基础的知识点长久不用就会遗忘，就比如 
-    </details> 
-
-- 🕯 [SpriteJS：图形库造轮子的那些事儿](https://juejin.cn/entry/7163093447908261902) | Mon Nov 07 2022 2:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    在SpriteJS“造轮子”过程中，我一步步将一个很简陋的渲染库，变成一个能够支撑可视化应用和游戏开发的，还算不错的一个图形库，其中有许多积累，也有许多思考。 
-    </details> 
-
-- 🚀 [使用GitHub Actions实现自动化部署](https://juejin.cn/post/7163093006587805709) | Mon Nov 07 2022 2:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    大家在工作中想必都是通过自动化部署来进行前端项目的部署的，也就是我们在开发完某个需求时，我们只需要将代码推送到某个分支，然后就能自动完成部署，我们一般不用关心项目是如何build以及如何deploy 
-    </details> 
-
-- 💪 [迁移 Eureka 到 Nacos 之双注册双订阅模式](https://juejin.cn/post/7163092699782840351) | Mon Nov 07 2022 2:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    将注册中心从 Eureka 迁移到 Nacos，Nacos的优点，为啥放弃 Eureka，迁移注意事项 
     </details> 
 <!-- juejin:END -->
 ### 少数派
