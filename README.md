@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [css画画系列之 刘看山](https://juejin.cn/post/7163089510543949837) | Mon Nov 07 2022 2:06 AM 
+- 🤗 [深度学习语义分割篇——FCN原理详解篇](https://juejin.cn/post/7163126966558654501) | Mon Nov 07 2022 4:32 AM 
     <details><summary>展开描述 ...</summary> 
-    知乎上看见的活动，说是最少代码还原刘看山，我一看全是java，c 抽象字符，没有前端我不是很认的好吧！ 原文链接如何用尽可能少的代码画出刘看山？ - 涵小哥哥的回答 - 知乎 直接上代码上图 代码片段 
+    如果你想了解深度学习中的语义分割，别犹豫，快来看看这篇FCN原理详解吧！！！相信阅读完后你会有所收获。🌾🌾🌾 
     </details> 
 
-- 🎡 [Java反射学习笔记--使用示例☔](https://juejin.cn/post/7163089430792634398) | Mon Nov 07 2022 2:05 AM 
+- 🎡 [MySQL数据库基础：数据类型详解-二进制字符串类型](https://juejin.cn/post/7163094172998565902) | Mon Nov 07 2022 2:24 AM 
     <details><summary>展开描述 ...</summary> 
-    本文使用的emoji: 💧 💦 ☔ 💧简介 反射是Java编程语言中的一个特性。它允许执行的Java程序检查或 操作 自身，并操作程序的内部属性。例如，Java类可以获取其所有成员的名称并显示它们。  
+    本文正在参加「技术专题19期 漫谈数据库技术」活动 前言 正好趁着这次MySQL技能树的建成一起学习复习一下MySQL数据库的基本知识。也是一直在用这个数据库，有些基础的知识点长久不用就会遗忘，就比如 
     </details> 
 
-- 🕯 [国内外最新免费3D模型下载网站分享！](https://juejin.cn/post/7163086860388925471) | Mon Nov 07 2022 1:56 AM 
+- 🕯 [SpriteJS：图形库造轮子的那些事儿](https://juejin.cn/entry/7163093447908261902) | Mon Nov 07 2022 2:21 AM 
     <details><summary>展开描述 ...</summary> 
-    01 kenney 地址：https://www.kenney.nl/assets?q=3d 推荐：★★★★★ 简介：Kenney 国外游戏创意原型资源网站。矢量图形、UI资源、3D游戏资源、spri 
+    在SpriteJS“造轮子”过程中，我一步步将一个很简陋的渲染库，变成一个能够支撑可视化应用和游戏开发的，还算不错的一个图形库，其中有许多积累，也有许多思考。 
     </details> 
 
-- 🚀 [Compose 动画艺术探索之 AnimationVector](https://juejin.cn/post/7163085119970869262) | Mon Nov 07 2022 1:50 AM 
+- 🚀 [使用GitHub Actions实现自动化部署](https://juejin.cn/post/7163093006587805709) | Mon Nov 07 2022 2:19 AM 
     <details><summary>展开描述 ...</summary> 
-    大家可能都知道或听说在 Compose 中动画使用起来很简单，但其实是使用起来很简单，内部逻辑其实也不简单。大家用了这么久的 Compose 动画，知道 AnimationVector 是个啥吗？ 
+    大家在工作中想必都是通过自动化部署来进行前端项目的部署的，也就是我们在开发完某个需求时，我们只需要将代码推送到某个分支，然后就能自动完成部署，我们一般不用关心项目是如何build以及如何deploy 
     </details> 
 
-- 💪 [博弈 - 利益最大化，风险最小化](https://juejin.cn/post/7163082927616557093) | Mon Nov 07 2022 1:41 AM 
+- 💪 [迁移 Eureka 到 Nacos 之双注册双订阅模式](https://juejin.cn/post/7163092699782840351) | Mon Nov 07 2022 2:18 AM 
     <details><summary>展开描述 ...</summary> 
-    博弈是指在一定的游戏规则约束下，基于直接相互作用的环境条件，各参与人依靠掌握的信息，选择各自策略（行动），以实现利益最大化和风险成本最小化的过程。简单来说，就是人与人之间为了谋取利益竞争... 
+    将注册中心从 Eureka 迁移到 Nacos，Nacos的优点，为啥放弃 Eureka，迁移注意事项 
     </details> 
 <!-- juejin:END -->
 ### 少数派
