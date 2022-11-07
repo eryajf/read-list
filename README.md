@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [[译] 在云端使用 Redis？你应该知道这十件事](https://juejin.cn/post/7163213655662657566) | Mon Nov 07 2022 10:07 AM 
+- 🤗 [C2D 代码转设计稿是怎么实现的？](https://juejin.cn/post/7163220544253329422) | Mon Nov 07 2022 10:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    前面调研过 D2C，也就是设计稿转代码，它的原理是 figma、sketch 等插件可以拿到设计稿的数据，因为是矢量设计稿，所以存储的是一个 JSON，类似这样： 而且这个结构和网页的基础组件是能对应 
+    </details> 
+
+- 🎡 [Canvas实战：绘制一个时钟](https://juejin.cn/post/7163216209196875812) | Mon Nov 07 2022 10:18 AM 
+    <details><summary>展开描述 ...</summary> 
+    最近学习了一些canvas基础语法，也复习了一些三角函数知识，于是决定基于现有学习的知识自己摸索来实现一个时钟功能。 基础工作 这里列举一些开发中要数学公式，这里要注意的是所有用到的API都为弧度制： 
+    </details> 
+
+- 🕯 [[译] 在云端使用 Redis？你应该知道这十件事](https://juejin.cn/post/7163213655662657566) | Mon Nov 07 2022 10:07 AM 
     <details><summary>展开描述 ...</summary> 
     在云端使用 Redis？你应该知道这十件事 大规模操作有状态的分布式系统通常是很难的，Redis 也不例外。 尽管托管数据库通过承担大部分的繁杂工作使生活变得更加轻松。 但是你仍然需要一个完善的架构使 
     </details> 
 
-- 🎡 [React 之 Race Condition](https://juejin.cn/post/7163202327594139679) | Mon Nov 07 2022 9:24 AM 
+- 🚀 [React 之 Race Condition](https://juejin.cn/post/7163202327594139679) | Mon Nov 07 2022 9:24 AM 
     <details><summary>展开描述 ...</summary> 
     Race Condition，中文译为竞态条件，旨在描述一个系统或者进程的输出，依赖于不受控制事件的出现顺序或者出现时机。 举个简单的例子： 你可能想，JavaScript 是单线程，怎么可 
     </details> 
 
-- 🕯 [万字避坑指南！C++的缺陷与思考（上）](https://juejin.cn/post/7163190266013188103) | Mon Nov 07 2022 8:37 AM 
+- 💪 [electron 踩坑之旅&lpar;六&rpar; —— electron 线程解决方案 -Web Worker](https://juejin.cn/post/7163201677493796872) | Mon Nov 07 2022 9:21 AM 
     <details><summary>展开描述 ...</summary> 
-    导语 | 本文主要总结了本人在C++开发过程中对一些奇怪、复杂的语法的理解和思考，同时作为C++开发的避坑指南。 前言 C++是一门古老的语言，但仍然在不间断更新中，不断引用新特性。但与此同时C++又 
-    </details> 
-
-- 🚀 [面试官：Java线程池是怎么统计线程的空闲时间的？](https://juejin.cn/post/7163186630273007647) | Mon Nov 07 2022 8:23 AM 
-    <details><summary>展开描述 ...</summary> 
-    背景介绍： 你刚从学校毕业后，到新公司实习，试用期又被毕业，然后你又不得不出来面试，好在面试的时候碰到个美女面试官！ 面试官： 小伙子，我看你简历上写的项目中用到了线程池，你知道线程池是怎样实现复用线 
-    </details> 
-
-- 💪 [在 iOS 16 中用 SwiftUI Charts 创建一个折线图](https://juejin.cn/post/7163177063816527886) | Mon Nov 07 2022 7:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    苹果在 WWDC 2022 上推出了 SwiftUI 图表，这使得在 SwiftUI 视图中创建图表变得异常简单。本文展示了如何用比以前从头开始创建同样的折线图少得多的代码轻松创建折线图。 
+    electron 开发时会遇到一对多的情况，在进行 websocket 通信时，如果接收到服务端多个指令时，而这个指令刚好需要占用线程，这个时候整个界面就会失去响应，那么我们就可以使用线程来解决这个问 
     </details> 
 <!-- juejin:END -->
 ### 少数派
