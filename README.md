@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【云原生】Apache Livy on k8s 讲解与实战操作](https://juejin.cn/post/7163291953286053925) | Mon Nov 07 2022 3:11 PM 
+- 🤗 [第128期：程序员、建造师和剪辑师的异同](https://juejin.cn/post/7163295449565429767) | Mon Nov 07 2022 3:24 PM 
+    <details><summary>展开描述 ...</summary> 
+    封面图 周杰伦《反方向的钟》MV剧照。 算是题记 早上骑摩托车上班的时候差点撞车，原因是路口变左转道的时候打了转向灯，但是没看后面的车，以为后面没车，准备直接转过去，突然左边窜出来一辆车，吓我一跳，有 
+    </details> 
+
+- 🎡 [Java中的线程中断](https://juejin.cn/post/7163295063844323335) | Mon Nov 07 2022 3:23 PM 
+    <details><summary>展开描述 ...</summary> 
+    Java多线程编程中的`interrupt&lpar;&rpar;`方法、`isInterrupted&lpar;&rpar;`方法和`interrupted&lpar;&rpar;`方法都是跟线程中断相关的方法，都非常重要。本文做了详细介绍。 
+    </details> 
+
+- 🕯 [【云原生】Apache Livy on k8s 讲解与实战操作](https://juejin.cn/post/7163291953286053925) | Mon Nov 07 2022 3:11 PM 
     <details><summary>展开描述 ...</summary> 
     Livy是一个提供Rest接口和spark集群交互的服务。它可以提交Spark Job或者Spark一段代码,同步或者异步的返回结果;也提供Sparkcontext的管理,通过Restful接口或RP 
     </details> 
 
-- 🎡 [【MySQL】高性能高可用设计实战-索引篇（MySQL专栏启动）](https://juejin.cn/post/7163286465017806856) | Mon Nov 07 2022 2:51 PM 
+- 🚀 [【MySQL】高性能高可用设计实战-索引篇（MySQL专栏启动）](https://juejin.cn/post/7163286465017806856) | Mon Nov 07 2022 2:51 PM 
     <details><summary>展开描述 ...</summary> 
     ​ 本文导读 高性能高可用设计实战-索引篇，结合上一篇文章 《深入理解MySQL索引原理》，本篇通过组合（联合、覆盖）索引是如何在生产环境中提升查询效率的，引出MySQL最左匹配原则和MySQL选择索 
     </details> 
 
-- 🕯 [Web3 与区块链有关吗？](https://juejin.cn/post/7163281215976865800) | Mon Nov 07 2022 2:29 PM 
+- 💪 [Web3 与区块链有关吗？](https://juejin.cn/post/7163281215976865800) | Mon Nov 07 2022 2:29 PM 
     <details><summary>展开描述 ...</summary> 
     Web3 指的是基于区块链的去中心化在线生态系统，2021 年 Web3 的想法开始流行。到 2021 年底，特别兴趣激增，这主要是由于加密货币爱好者的兴趣以及知名技术专家和公司的投资。特色是去中心化 
-    </details> 
-
-- 🚀 [🥳🥳🥳Worker中还可以创建多个Worker，打开多线程编程的大门](https://juejin.cn/post/7163281017107644429) | Mon Nov 07 2022 2:29 PM 
-    <details><summary>展开描述 ...</summary> 
-    本篇主要探索 Worker 的更多用法，主要是如何创建多个 Worker ，在 Worker 中如何发送请求，以及如何使用 Worker 进行多线程编程。 
-    </details> 
-
-- 💪 [brython | 笨办法写个连连看-1.核心功能实现](https://juejin.cn/post/7163275811594698759) | Mon Nov 07 2022 2:09 PM 
-    <details><summary>展开描述 ...</summary> 
-    前段时间在码上掘金看见大佬用【文言文】写了一个连连看，于是乎突发奇想，能不能用brython也实现一个连连看呢？ 顺便复习下python基础,于是乎，你们就看到了这个码上掘金项目 和 这篇文章了，但是 
     </details> 
 <!-- juejin:END -->
 ### 少数派
