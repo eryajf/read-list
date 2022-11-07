@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Windows 下 PC 企业微信机器人自动定时发送消息提醒](https://www.v2ex.com/t/893348#reply0) | Mon Nov 07 2022 7:49 AM
-- 🤗 [Visual Studio Code Python – 2022 年 11 月更新 isort、Pylint 和 flake8 扩展、关闭自动导入和笔记本单元调试](https://www.v2ex.com/t/893346#reply0) | Mon Nov 07 2022 7:47 AM
-- 🎭 [小弟自己装修，遂做了一个装修 app](https://www.v2ex.com/t/893337#reply1) | Mon Nov 07 2022 7:22 AM
-- 🥷 [wsa 安装的 app,如何创建 app 图标到 win 启动菜单](https://www.v2ex.com/t/893335#reply1) | Mon Nov 07 2022 7:17 AM
-- 🐵 [最近骚扰电话太多了, 有办法针对座机/区号/Regex 来屏蔽的防骚扰软件吗](https://www.v2ex.com/t/893334#reply6) | Mon Nov 07 2022 7:17 AM<!-- v2ex:END -->
+- 🥸 [安装 Ubuntu Server 发现不了本地网络](https://www.v2ex.com/t/893372#reply0) | Mon Nov 07 2022 9:05 AM
+- 🤗 [K8S 修改节点 IP 有没有比较好的方案](https://www.v2ex.com/t/893365#reply1) | Mon Nov 07 2022 8:48 AM
+- 🎭 [Mac 同时开启两个 VPN 出现了奇怪的问题](https://www.v2ex.com/t/893357#reply4) | Mon Nov 07 2022 8:27 AM
+- 🥷 [Windows 下 PC 企业微信机器人自动定时发送消息提醒](https://www.v2ex.com/t/893348#reply2) | Mon Nov 07 2022 7:49 AM
+- 🐵 [Visual Studio Code Python – 2022 年 11 月更新 isort、Pylint 和 flake8 扩展、关闭自动导入和笔记本单元调试](https://www.v2ex.com/t/893346#reply0) | Mon Nov 07 2022 7:47 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
