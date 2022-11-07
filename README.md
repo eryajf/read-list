@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [安装 Ubuntu Server 发现不了本地网络](https://www.v2ex.com/t/893372#reply0) | Mon Nov 07 2022 9:05 AM
-- 🤗 [K8S 修改节点 IP 有没有比较好的方案](https://www.v2ex.com/t/893365#reply1) | Mon Nov 07 2022 8:48 AM
-- 🎭 [Mac 同时开启两个 VPN 出现了奇怪的问题](https://www.v2ex.com/t/893357#reply4) | Mon Nov 07 2022 8:27 AM
-- 🥷 [Windows 下 PC 企业微信机器人自动定时发送消息提醒](https://www.v2ex.com/t/893348#reply2) | Mon Nov 07 2022 7:49 AM
-- 🐵 [Visual Studio Code Python – 2022 年 11 月更新 isort、Pylint 和 flake8 扩展、关闭自动导入和笔记本单元调试](https://www.v2ex.com/t/893346#reply0) | Mon Nov 07 2022 7:47 AM<!-- v2ex:END -->
+- 🥸 [各位后端大佬: 我想自学 Java 后端开发, 请推荐培训视频和书籍 谢谢](https://www.v2ex.com/t/893390#reply2) | Mon Nov 07 2022 10:05 AM
+- 🤗 [#直播点歌的路人是英伟达创始人黄仁勋#](https://www.v2ex.com/t/893389#reply2) | Mon Nov 07 2022 10:02 AM
+- 🎭 [纯小白 请问怎么保护自己的服务器](https://www.v2ex.com/t/893386#reply5) | Mon Nov 07 2022 9:51 AM
+- 🥷 [[记录]-博客子域名迁移](https://www.v2ex.com/t/893382#reply2) | Mon Nov 07 2022 9:44 AM
+- 🐵 [安装 Ubuntu Server 发现不了本地网络](https://www.v2ex.com/t/893372#reply1) | Mon Nov 07 2022 9:05 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
