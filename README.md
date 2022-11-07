@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [你不知道的JavaScript-对象篇](https://juejin.cn/post/7163239446501031944) | Mon Nov 07 2022 11:50 AM 
+- 🤗 [D3&lpar;v7&rpar;入门七：饼图、环图、玫瑰图](https://juejin.cn/post/7163265841725866020) | Mon Nov 07 2022 1:31 PM 
+    <details><summary>展开描述 ...</summary> 
+    饼图和之前介绍的柱状图和折线图不同，不存在坐标系，也就不会有比例尺的映射。在折线图的介绍中，我们提到了d3提供了一些图形构造器并了解了一下d3.line以及d3.area 
+    </details> 
+
+- 🎡 [android中gzip数据压缩与网络框架解压缩（gzip）](https://juejin.cn/post/7163264671074484261) | Mon Nov 07 2022 1:26 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 theme: smartblue 简介 gzip是一种常用的压缩算法，它是若干种文件压缩程序的简称，通常指GNU计划的实现，此处的gzip代表GNU z 
+    </details> 
+
+- 🕯 [MD5 到底算不算一种加密算法？](https://juejin.cn/post/7163264509006577695) | Mon Nov 07 2022 1:26 PM 
+    <details><summary>展开描述 ...</summary> 
+    hello，大家好，我是张张，「架构精进之路」公号作者。 一旦提到加密算法，经常有人会有这样的疑问：MD5 到底算不算一种加密算法呢？ 
+    </details> 
+
+- 🚀 [你不知道的JavaScript-对象篇](https://juejin.cn/post/7163239446501031944) | Mon Nov 07 2022 11:50 AM 
     <details><summary>展开描述 ...</summary> 
     本文正在参加「金石计划 . 瓜分6万现金大奖」 ” 前言 已知：对于默认的取值操作来说，如果无法在对象本身找到需要的属性，就会继续访问对象的prototype链，如下例 稍后我会介绍object.cr 
     </details> 
 
-- 🎡 [前端食堂技术周刊第 58 期：TypeScript 4.9 RC、10 月登陆浏览器的新功能、Turbopack 真的比 Vite 快 10 倍吗？](https://juejin.cn/post/7163235734361473055) | Mon Nov 07 2022 11:33 AM 
+- 💪 [前端食堂技术周刊第 58 期：TypeScript 4.9 RC、10 月登陆浏览器的新功能、Turbopack 真的比 Vite 快 10 倍吗？](https://juejin.cn/post/7163235734361473055) | Mon Nov 07 2022 11:33 AM 
     <details><summary>展开描述 ...</summary> 
     - TypeScript 4.9 RC - 10 月登陆浏览器的新功能 - Turbopack 真的比 Vite 快 10 倍吗？ - 在 VS Code 中使用 Git - 100 天 Mod 
-    </details> 
-
-- 🕯 [一次性弄懂Unicode和UTF-8](https://juejin.cn/post/7163232181463023629) | Mon Nov 07 2022 11:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    在日常开发的过程中，有关 Unicode 、UTF-8 的问题并不常出现，但在阅读技术文章或源码时出现频率就比较高了。本文就带你了解Unicode和UTF-8的相关知识~ 
-    </details> 
-
-- 🚀 [第127期：Dart基础知识（类）](https://juejin.cn/post/7163228012698140709) | Mon Nov 07 2022 11:05 AM 
-    <details><summary>展开描述 ...</summary> 
-    封面图 本文正在参加「金石计划 . 瓜分6万现金大奖」 尝试拉片，简单试用了一个剪视频的工具。 Class 类 Dart是一种面向对象的语言，具有类和基于mixin的继承。每个对象都是一个类的实例，除 
-    </details> 
-
-- 💪 [C2D 代码转设计稿是怎么实现的？](https://juejin.cn/post/7163220544253329422) | Mon Nov 07 2022 10:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    前面调研过 D2C，也就是设计稿转代码，它的原理是 figma、sketch 等插件可以拿到设计稿的数据，因为是矢量设计稿，所以存储的是一个 JSON，类似这样： 而且这个结构和网页的基础组件是能对应 
     </details> 
 <!-- juejin:END -->
 ### 少数派
