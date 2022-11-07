@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [对程序员来说，一个好用的数据建模工具应该是什么样的？分享一个来自真实项目的经验。](https://www.v2ex.com/t/893267#reply0) | Mon Nov 07 2022 3:51 AM
-- 🤗 [logging 输出日志怎样对文件过滤](https://www.v2ex.com/t/893257#reply1) | Mon Nov 07 2022 3:24 AM
-- 🎭 [因产研沟通低效率,求推荐产研沟通相关的书籍](https://www.v2ex.com/t/893255#reply4) | Mon Nov 07 2022 3:18 AM
-- 🥷 [Meta 将启动史上首次大规模裁员， v 站上赛博润人的梦碎了](https://www.v2ex.com/t/893254#reply71) | Mon Nov 07 2022 3:18 AM
-- 🐵 [如何看待 Fleet 公测版依旧问题不断、插件体系不可用等现象？](https://www.v2ex.com/t/893251#reply11) | Mon Nov 07 2022 3:12 AM<!-- v2ex:END -->
+- 🥸 [K8S 入门大家是从何开始的？](https://www.v2ex.com/t/893296#reply0) | Mon Nov 07 2022 5:18 AM
+- 🤗 [对程序员来说，一个好用的数据建模工具应该是什么样的？分享一个来自真实项目的经验。](https://www.v2ex.com/t/893267#reply0) | Mon Nov 07 2022 3:51 AM
+- 🎭 [logging 输出日志怎样对文件过滤](https://www.v2ex.com/t/893257#reply2) | Mon Nov 07 2022 3:24 AM
+- 🥷 [因产研沟通低效率,求推荐产研沟通相关的书籍](https://www.v2ex.com/t/893255#reply7) | Mon Nov 07 2022 3:18 AM
+- 🐵 [Meta 将启动史上首次大规模裁员， v 站上赛博润人的梦碎了](https://www.v2ex.com/t/893254#reply86) | Mon Nov 07 2022 3:18 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
