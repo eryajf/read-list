@@ -366,7 +366,7 @@
 <!-- v2ex:START -->
 - 🥸 [Echarts.js 有办法实现手写笔绘画功能吗？](https://www.v2ex.com/t/893471#reply0) | Mon Nov 07 2022 8:48 PM
 - 🤗 [推荐一些我认为认真搞技术的 up 主](https://www.v2ex.com/t/893469#reply3) | Mon Nov 07 2022 7:13 PM
-- 🎭 [标准宝塔环境 NGINX 被挂码问题排查](https://www.v2ex.com/t/893465#reply9) | Mon Nov 07 2022 4:59 PM
+- 🎭 [标准宝塔环境 NGINX 被挂码问题排查](https://www.v2ex.com/t/893465#reply12) | Mon Nov 07 2022 4:59 PM
 - 🥷 [istio 的主要问题是资源消耗，次要问题是基本只支持 HTTP](https://www.v2ex.com/t/893464#reply1) | Mon Nov 07 2022 4:59 PM
 - 🐵 [远离国产软件，只配在虚拟机和沙箱里跑！](https://www.v2ex.com/t/893462#reply8) | Mon Nov 07 2022 4:16 PM<!-- v2ex:END -->
 
