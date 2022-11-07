@@ -364,9 +364,9 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [标准宝塔环境 NGINX 被挂码问题排查](https://www.v2ex.com/t/893465#reply5) | Mon Nov 07 2022 4:59 PM
-- 🤗 [istio 的主要问题是资源消耗，次要问题是基本只支持 HTTP](https://www.v2ex.com/t/893464#reply0) | Mon Nov 07 2022 4:59 PM
-- 🎭 [远离国产软件，只配在虚拟机和沙箱里跑！](https://www.v2ex.com/t/893462#reply7) | Mon Nov 07 2022 4:16 PM
+- 🥸 [标准宝塔环境 NGINX 被挂码问题排查](https://www.v2ex.com/t/893465#reply8) | Mon Nov 07 2022 4:59 PM
+- 🤗 [istio 的主要问题是资源消耗，次要问题是基本只支持 HTTP](https://www.v2ex.com/t/893464#reply1) | Mon Nov 07 2022 4:59 PM
+- 🎭 [远离国产软件，只配在虚拟机和沙箱里跑！](https://www.v2ex.com/t/893462#reply8) | Mon Nov 07 2022 4:16 PM
 - 🥷 [SEO 求助，价格好说](https://www.v2ex.com/t/893456#reply2) | Mon Nov 07 2022 3:48 PM
 - 🐵 [用 Rust 开发跨平台 App 的一次探索与实践](https://www.v2ex.com/t/893455#reply0) | Mon Nov 07 2022 3:47 PM<!-- v2ex:END -->
 
