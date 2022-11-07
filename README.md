@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [各位后端大佬: 我想自学 Java 后端开发, 请推荐培训视频和书籍 谢谢](https://www.v2ex.com/t/893390#reply6) | Mon Nov 07 2022 10:05 AM
-- 🤗 [#直播点歌的路人是英伟达创始人黄仁勋#](https://www.v2ex.com/t/893389#reply3) | Mon Nov 07 2022 10:02 AM
-- 🎭 [纯小白 请问怎么保护自己的服务器](https://www.v2ex.com/t/893386#reply6) | Mon Nov 07 2022 9:51 AM
-- 🥷 [[记录]-博客子域名迁移](https://www.v2ex.com/t/893382#reply2) | Mon Nov 07 2022 9:44 AM
-- 🐵 [安装 Ubuntu Server 发现不了本地网络](https://www.v2ex.com/t/893372#reply2) | Mon Nov 07 2022 9:05 AM<!-- v2ex:END -->
+- 🥸 [咨询网页下载文件获取文件名和文件大小出错问题 Content-Disposition: attachment](https://www.v2ex.com/t/893414#reply0) | Mon Nov 07 2022 11:59 AM
+- 🤗 [各位后端大佬: 我想自学 Java 后端开发, 请推荐培训视频和书籍 谢谢](https://www.v2ex.com/t/893390#reply8) | Mon Nov 07 2022 10:05 AM
+- 🎭 [#直播点歌的路人是英伟达创始人黄仁勋#](https://www.v2ex.com/t/893389#reply12) | Mon Nov 07 2022 10:02 AM
+- 🥷 [纯小白 请问怎么保护自己的服务器](https://www.v2ex.com/t/893386#reply6) | Mon Nov 07 2022 9:51 AM
+- 🐵 [[记录]-博客子域名迁移](https://www.v2ex.com/t/893382#reply2) | Mon Nov 07 2022 9:44 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
