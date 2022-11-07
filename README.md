@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [C2D 代码转设计稿是怎么实现的？](https://juejin.cn/post/7163220544253329422) | Mon Nov 07 2022 10:35 AM 
+- 🤗 [你不知道的JavaScript-对象篇](https://juejin.cn/post/7163239446501031944) | Mon Nov 07 2022 11:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 ” 前言 已知：对于默认的取值操作来说，如果无法在对象本身找到需要的属性，就会继续访问对象的prototype链，如下例 稍后我会介绍object.cr 
+    </details> 
+
+- 🎡 [前端食堂技术周刊第 58 期：TypeScript 4.9 RC、10 月登陆浏览器的新功能、Turbopack 真的比 Vite 快 10 倍吗？](https://juejin.cn/post/7163235734361473055) | Mon Nov 07 2022 11:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    - TypeScript 4.9 RC - 10 月登陆浏览器的新功能 - Turbopack 真的比 Vite 快 10 倍吗？ - 在 VS Code 中使用 Git - 100 天 Mod 
+    </details> 
+
+- 🕯 [一次性弄懂Unicode和UTF-8](https://juejin.cn/post/7163232181463023629) | Mon Nov 07 2022 11:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    在日常开发的过程中，有关 Unicode 、UTF-8 的问题并不常出现，但在阅读技术文章或源码时出现频率就比较高了。本文就带你了解Unicode和UTF-8的相关知识~ 
+    </details> 
+
+- 🚀 [第127期：Dart基础知识（类）](https://juejin.cn/post/7163228012698140709) | Mon Nov 07 2022 11:05 AM 
+    <details><summary>展开描述 ...</summary> 
+    封面图 本文正在参加「金石计划 . 瓜分6万现金大奖」 尝试拉片，简单试用了一个剪视频的工具。 Class 类 Dart是一种面向对象的语言，具有类和基于mixin的继承。每个对象都是一个类的实例，除 
+    </details> 
+
+- 💪 [C2D 代码转设计稿是怎么实现的？](https://juejin.cn/post/7163220544253329422) | Mon Nov 07 2022 10:35 AM 
     <details><summary>展开描述 ...</summary> 
     前面调研过 D2C，也就是设计稿转代码，它的原理是 figma、sketch 等插件可以拿到设计稿的数据，因为是矢量设计稿，所以存储的是一个 JSON，类似这样： 而且这个结构和网页的基础组件是能对应 
-    </details> 
-
-- 🎡 [Canvas实战：绘制一个时钟](https://juejin.cn/post/7163216209196875812) | Mon Nov 07 2022 10:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    最近学习了一些canvas基础语法，也复习了一些三角函数知识，于是决定基于现有学习的知识自己摸索来实现一个时钟功能。 基础工作 这里列举一些开发中要数学公式，这里要注意的是所有用到的API都为弧度制： 
-    </details> 
-
-- 🕯 [[译] 在云端使用 Redis？你应该知道这十件事](https://juejin.cn/post/7163213655662657566) | Mon Nov 07 2022 10:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    在云端使用 Redis？你应该知道这十件事 大规模操作有状态的分布式系统通常是很难的，Redis 也不例外。 尽管托管数据库通过承担大部分的繁杂工作使生活变得更加轻松。 但是你仍然需要一个完善的架构使 
-    </details> 
-
-- 🚀 [React 之 Race Condition](https://juejin.cn/post/7163202327594139679) | Mon Nov 07 2022 9:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    Race Condition，中文译为竞态条件，旨在描述一个系统或者进程的输出，依赖于不受控制事件的出现顺序或者出现时机。 举个简单的例子： 你可能想，JavaScript 是单线程，怎么可 
-    </details> 
-
-- 💪 [electron 踩坑之旅&lpar;六&rpar; —— electron 线程解决方案 -Web Worker](https://juejin.cn/post/7163201677493796872) | Mon Nov 07 2022 9:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    electron 开发时会遇到一对多的情况，在进行 websocket 通信时，如果接收到服务端多个指令时，而这个指令刚好需要占用线程，这个时候整个界面就会失去响应，那么我们就可以使用线程来解决这个问 
     </details> 
 <!-- juejin:END -->
 ### 少数派
