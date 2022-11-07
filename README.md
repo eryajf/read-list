@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [深度学习语义分割篇——FCN原理详解篇](https://juejin.cn/post/7163126966558654501) | Mon Nov 07 2022 4:32 AM 
+- 🤗 [新方法解决IOS软键盘出现后固定底部的fixed bottom失效](https://juejin.cn/post/7163144683558797326) | Mon Nov 07 2022 5:41 AM 
     <details><summary>展开描述 ...</summary> 
-    如果你想了解深度学习中的语义分割，别犹豫，快来看看这篇FCN原理详解吧！！！相信阅读完后你会有所收获。🌾🌾🌾 
+    解决一个比上次说的更加常见的设计，就是在页面底部会有固定的底部栏，上面有各种操作按钮等。主要讲解决position:fixed; bottom:0; 在IOS页面中，软键盘出现后失效的问题。 
     </details> 
 
-- 🎡 [[千字长文系列] 🌏探秘PG之一文带你玩转PostgreSQL🗺️（九）](https://juejin.cn/post/7163103322713358349) | Mon Nov 07 2022 2:59 AM 
+- 🎡 [💁🏻‍♂️TS 类型体操快速入门，简单题套路总结](https://juejin.cn/post/7163144869362270216) | Mon Nov 07 2022 5:41 AM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「技术专题19期 漫谈数据库技术」活动 📋🐏🐑🐐 📋本文将带着示例提供最常用的PostgreSQL数学函数，可帮助你学习使用PostgreSQL 快速有效地执行各种数学运算。 思维导图如下 
+    学习类型体操要求对于 TS 的基本语法有了解，最好是有实际使用过，不然还是比较难理解的，也很难在解题的过程中学习如何将这些技巧反哺到实际项目的优化中。 
     </details> 
 
-- 🕯 [前端周热点120：use RFC, Sandpack, Progressive enhancement, Streaming, Storybook](https://juejin.cn/post/7163098995768688677) | Mon Nov 07 2022 2:42 AM 
+- 🕯 [代码绘制计时器数字](https://juejin.cn/post/7163142294089465893) | Mon Nov 07 2022 5:34 AM 
     <details><summary>展开描述 ...</summary> 
-    use RFC, Sandpack, Progressive enhancement, Streaming, Storybook, React-Native, Codeflow, Fontaine 
+    废话开篇：简单用代码绘制一下计时器数字，代码很简单。 一、实现效果 二、实现逻辑 绘制数字 8，可涵盖全部的数字的展示情况。将里面的节段全部单一绘制，根据不同的数字进行隐藏相应的节段 其他数字再展示情 
     </details> 
 
-- 🚀 [尤雨溪回应：Vite 真的比 Turbopack 慢 10 倍吗？Github上5.3k的游戏！模块化方案 - BeeHive| 酱酱的下午茶第 104 期](https://juejin.cn/post/7163097826354790431) | Mon Nov 07 2022 2:38 AM 
+- 🚀 [JWT要点备忘录](https://juejin.cn/post/7163141284675682311) | Mon Nov 07 2022 5:27 AM 
     <details><summary>展开描述 ...</summary> 
-    今日看点：[Nest.js进阶系列五： Node.js中使用Redis原来这么简单，eBPF 技术实践：加速容器网络转发，耗时降低60%+，【Flutter 异步编程】深入剖析 Stream 机制源码 
+    JSON Web Token 缩写 &lpar;JWT&rpar;要点及应用场景，JWT构成结构及token字符串生产原理介绍。 
     </details> 
 
-- 💪 [MySQL数据库基础：数据类型详解-二进制字符串类型](https://juejin.cn/post/7163094172998565902) | Mon Nov 07 2022 2:24 AM 
+- 💪 [TDengine 时序性数据库为什么海量数据下不卡顿呢](https://juejin.cn/post/7163138173772496932) | Mon Nov 07 2022 5:15 AM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「技术专题19期 漫谈数据库技术」活动 前言 正好趁着这次MySQL技能树的建成一起学习复习一下MySQL数据库的基本知识。也是一直在用这个数据库，有些基础的知识点长久不用就会遗忘，就比如 
+    学习新知识，无非就是搞懂他是什么，能解决什么痛点，该如何快速入门 功能介绍 他是一个高性能、分布式、支持SQL的时序性数据库，这就是他的功能。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
