@@ -378,24 +378,24 @@
     最近在项目中遇到一个紧急的需求，大概要求就是前端接收后端接口信息后，需要独自生成带文字的二维码图片，并能批量打包成 `.zip` 包，提供下载。 
     </details> 
 
-- 🎡 [【面试指南】前端面试题汇总（66道）--持续更新中···](https://juejin.cn/post/7163559692932186142) | Tue Nov 08 2022 8:30 AM 
+- 🎡 [vue - Vue2兼容低版本浏览器](https://juejin.cn/post/7163566506796810254) | Tue Nov 08 2022 8:57 AM 
+    <details><summary>展开描述 ...</summary> 
+    因为 Vue3 使用了 ES6 的 Proxy 作为其观察者机制，并且无法通过 polyfill 进行转换，所以工程要兼容低版本浏览器的话，还得继续使用 Vue2，经过一些研究，整理了以下 2 个版本 
+    </details> 
+
+- 🕯 [你肯定没这样管理过WKWebView的磁盘管理--WKWebsiteDataTypeDiskCache](https://juejin.cn/post/7163561739345199140) | Tue Nov 08 2022 8:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    背景 越来越多的App安装到用户的手机上，导致iPhone的磁盘不足。笔者由就经常需要去删除一些缓存、卸载一些不用的App，来减少我们磁盘空间的占用，这个时候，就会去通用设置界面，去把一些磁盘占用大的 
+    </details> 
+
+- 🚀 [【面试指南】前端面试题汇总（66道）--持续更新中···](https://juejin.cn/post/7163559692932186142) | Tue Nov 08 2022 8:30 AM 
     <details><summary>展开描述 ...</summary> 
     1、vue实现双向数据绑定原理是什么？ 2、v-model语法糖是怎么实现的？ 3、Hash和history有什么区别？ 5、什么是原型什么是原型链? 6、箭头函数和普通函数有什么区别? 
     </details> 
 
-- 🕯 [Go操作MySQL](https://juejin.cn/post/7163559206753796109) | Tue Nov 08 2022 8:30 AM 
+- 💪 [Go操作MySQL](https://juejin.cn/post/7163559206753796109) | Tue Nov 08 2022 8:30 AM 
     <details><summary>展开描述 ...</summary> 
     Go语言中的`database/sql`包提供了保证SQL或类SQL数据库的泛用接口，并不提供具体的数据库驱动。使用`database/sql`包时必须注入（至少）一个数据库驱动。 我们常用的数据库 
-    </details> 
-
-- 🚀 [详解 Java 泛型（Generic）机制](https://juejin.cn/post/7163552739455139848) | Tue Nov 08 2022 8:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    泛型是什么？ 使用泛型可以指定类型变量，从而让代码可以对不同类型的对象进行重用。以及，还可以让编译器更好的了解类型，从而避免强制类型转换，提升代码的安全性。 
-    </details> 
-
-- 💪 [售后技术支持管理指标实践](https://juejin.cn/post/7163551022160281630) | Tue Nov 08 2022 7:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    售后技术支持作为售后服务的重要一环，在企业服务领域，已然成为企业提高产品附加值，实施差异化战略，获得竞争优势的重要途径。市面上关于服务的管理指标非常多，具象到售后技术支持，就寥寥无几。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
