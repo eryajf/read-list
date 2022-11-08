@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [zlibrary 没了，是时候配备&gt;18T 硬盘了，宝贵的东西必须有冷备](https://www.v2ex.com/t/893656#reply2) | Tue Nov 08 2022 10:57 AM
-- 🤗 [2022 年搭建一个对外服务的网站需要采购什么云计算服务？](https://www.v2ex.com/t/893648#reply3) | Tue Nov 08 2022 10:26 AM
-- 🎭 [看到隔壁远离国产软件帖子，啥证据没有，就说有问题，结果一看大部分人还同意, 还一本正经发个图说什么链接动态库获取 root 权限，笑尿了。这真的是六爷吃两碗粉的节奏？大家都这么痛恨国产软件?](https://www.v2ex.com/t/893643#reply35) | Tue Nov 08 2022 10:03 AM
-- 🥷 [跪式设计了解下](https://www.v2ex.com/t/893641#reply2) | Tue Nov 08 2022 10:00 AM
-- 🐵 [原来 MSVC 已经提供 128bit 整型的支持了](https://www.v2ex.com/t/893626#reply1) | Tue Nov 08 2022 9:12 AM<!-- v2ex:END -->
+- 🥸 [有无懂哥试过静态编译或者尽可能静态编译 openresty](https://www.v2ex.com/t/893674#reply0) | Tue Nov 08 2022 12:17 PM
+- 🤗 [Pod 有两个容器，如果能让容器 A 可以使用容器 B 里面的命令](https://www.v2ex.com/t/893669#reply0) | Tue Nov 08 2022 12:08 PM
+- 🎭 [月全食！你们看到了吗？](https://www.v2ex.com/t/893668#reply9) | Tue Nov 08 2022 11:56 AM
+- 🥷 [mini server+轻量 NAS 矿渣方案纠结](https://www.v2ex.com/t/893665#reply1) | Tue Nov 08 2022 11:46 AM
+- 🐵 [新人第一次发帖 想请问下有没有在游戏公司做引擎、图程类工作的大佬，这方面目前市场如何](https://www.v2ex.com/t/893662#reply0) | Tue Nov 08 2022 11:36 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
