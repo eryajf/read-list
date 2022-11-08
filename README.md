@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [这个例子里的 component 总是重新挂载](https://www.v2ex.com/t/893491#reply0) | Tue Nov 08 2022 1:41 AM
-- 🤗 [Echarts.js 有办法实现手写笔绘画功能吗？](https://www.v2ex.com/t/893471#reply4) | Mon Nov 07 2022 8:48 PM
-- 🎭 [推荐一些我认为认真搞技术的 up 主](https://www.v2ex.com/t/893469#reply35) | Mon Nov 07 2022 7:13 PM
-- 🥷 [标准宝塔环境 NGINX 被挂码问题排查](https://www.v2ex.com/t/893465#reply19) | Mon Nov 07 2022 4:59 PM
-- 🐵 [istio 的主要问题是资源消耗，次要问题是基本只支持 HTTP](https://www.v2ex.com/t/893464#reply2) | Mon Nov 07 2022 4:59 PM<!-- v2ex:END -->
+- 🥸 [close 异常](https://www.v2ex.com/t/893529#reply0) | Tue Nov 08 2022 3:22 AM
+- 🤗 [这个鼠须管 Rime 到底应该怎么配置双拼啊？](https://www.v2ex.com/t/893525#reply0) | Tue Nov 08 2022 3:14 AM
+- 🎭 [i3wm 最近的几次更新引入了两个 bug](https://www.v2ex.com/t/893517#reply0) | Tue Nov 08 2022 2:54 AM
+- 🥷 [Spark 程序提交到 Yarn 集群执行 这个日志怎么收集？](https://www.v2ex.com/t/893511#reply1) | Tue Nov 08 2022 2:41 AM
+- 🐵 [代码中乘 1.0f/72 和直接除 72f 有什么区别呢？](https://www.v2ex.com/t/893510#reply11) | Tue Nov 08 2022 2:36 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
