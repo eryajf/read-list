@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [详解 Java 泛型（Generic）机制](https://juejin.cn/post/7163552739455139848) | Tue Nov 08 2022 8:04 AM 
+- 🤗 [纯前端生成二维码与文字的图片，并批量打包成压缩包下载](https://juejin.cn/post/7163570301882597383) | Tue Nov 08 2022 9:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    最近在项目中遇到一个紧急的需求，大概要求就是前端接收后端接口信息后，需要独自生成带文字的二维码图片，并能批量打包成 `.zip` 包，提供下载。 
+    </details> 
+
+- 🎡 [【面试指南】前端面试题汇总（66道）--持续更新中···](https://juejin.cn/post/7163559692932186142) | Tue Nov 08 2022 8:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    1、vue实现双向数据绑定原理是什么？ 2、v-model语法糖是怎么实现的？ 3、Hash和history有什么区别？ 5、什么是原型什么是原型链? 6、箭头函数和普通函数有什么区别? 
+    </details> 
+
+- 🕯 [Go操作MySQL](https://juejin.cn/post/7163559206753796109) | Tue Nov 08 2022 8:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    Go语言中的`database/sql`包提供了保证SQL或类SQL数据库的泛用接口，并不提供具体的数据库驱动。使用`database/sql`包时必须注入（至少）一个数据库驱动。 我们常用的数据库 
+    </details> 
+
+- 🚀 [详解 Java 泛型（Generic）机制](https://juejin.cn/post/7163552739455139848) | Tue Nov 08 2022 8:04 AM 
     <details><summary>展开描述 ...</summary> 
     泛型是什么？ 使用泛型可以指定类型变量，从而让代码可以对不同类型的对象进行重用。以及，还可以让编译器更好的了解类型，从而避免强制类型转换，提升代码的安全性。 
     </details> 
 
-- 🎡 [Nacos注册中心12-Server端（Server和Client间的UDP通信）](https://juejin.cn/post/7163549804520275975) | Tue Nov 08 2022 7:52 AM 
+- 💪 [售后技术支持管理指标实践](https://juejin.cn/post/7163551022160281630) | Tue Nov 08 2022 7:57 AM 
     <details><summary>展开描述 ...</summary> 
-    Nacos Server和Client建的UDP通信，PushService类ServiceChangeEvent事件 
-    </details> 
-
-- 🕯 [【超详细】Zod 入门教程](https://juejin.cn/post/7163548790787358756) | Tue Nov 08 2022 7:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    Zod 是一个以 TypeScript 为首的模式声明和验证库 ，弥补了 TypeScript 无法在运行时进行校验的问题 ，既可以用在服务端也可以运行在客户端，以保障 Web Apps 的类型安全 
-    </details> 
-
-- 🚀 [Docker 搭建 Calibre-Web 在线书库](https://juejin.cn/post/7163546392244256799) | Tue Nov 08 2022 7:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    网上有不少在线书库搭建教程，要么过于老旧操作方法不对，要么用的镜像是technosoft2000/calibre-web，但是这个镜像已经正式停止维护了；所以记录一下。 
-    </details> 
-
-- 💪 [聚沙成塔【45天玩转uni-app】初探uni-app](https://juejin.cn/post/7163543611462647815) | Tue Nov 08 2022 7:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    写在前面 聚沙成塔——每天进步一点点，大家好我是几何心凉，不难发现越来越多的前端招聘JD中都加入了uni-app 这一项，它也已经成为前端开发者不可或缺的一项技能了，所以凉哥为大家推出 聚沙成塔【45 
+    售后技术支持作为售后服务的重要一环，在企业服务领域，已然成为企业提高产品附加值，实施差异化战略，获得竞争优势的重要途径。市面上关于服务的管理指标非常多，具象到售后技术支持，就寥寥无几。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
