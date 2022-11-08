@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [setstate 问题求助大佬](https://www.v2ex.com/t/893684#reply3) | Tue Nov 08 2022 12:57 PM
+- 🥸 [setstate 问题求助大佬](https://www.v2ex.com/t/893684#reply6) | Tue Nov 08 2022 12:57 PM
 - 🤗 [有无懂哥试过静态编译或者尽可能静态编译 openresty](https://www.v2ex.com/t/893674#reply0) | Tue Nov 08 2022 12:17 PM
 - 🎭 [Pod 有两个容器，如果能让容器 A 可以使用容器 B 里面的命令](https://www.v2ex.com/t/893669#reply0) | Tue Nov 08 2022 12:08 PM
-- 🥷 [月全食！你们看到了吗？](https://www.v2ex.com/t/893668#reply22) | Tue Nov 08 2022 11:56 AM
-- 🐵 [mini server+轻量 NAS 矿渣方案纠结](https://www.v2ex.com/t/893665#reply2) | Tue Nov 08 2022 11:46 AM<!-- v2ex:END -->
+- 🥷 [月全食！你们看到了吗？](https://www.v2ex.com/t/893668#reply23) | Tue Nov 08 2022 11:56 AM
+- 🐵 [mini server+轻量 NAS 矿渣方案纠结](https://www.v2ex.com/t/893665#reply3) | Tue Nov 08 2022 11:46 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
