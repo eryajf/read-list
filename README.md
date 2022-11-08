@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [纯前端生成二维码与文字的图片，并批量打包成压缩包下载](https://juejin.cn/post/7163570301882597383) | Tue Nov 08 2022 9:11 AM 
+- 🤗 [你不知道的JavaScript-异步篇](https://juejin.cn/post/7163591357234151461) | Tue Nov 08 2022 10:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 ” 事件循环 先通过一段伪代码了解一下事件循环这个概念 这是一段继续简化的代码，你可以看到有一个用while循环实现的持续运行的循环，循环的每一轮称为一 
+    </details> 
+
+- 🎡 [C语言内功心法篇—变量与数据类型](https://juejin.cn/post/7163573245667442701) | Tue Nov 08 2022 9:23 AM 
+    <details><summary>展开描述 ...</summary> 
+    3.1 大话C语言变量和数据类型 在《数据在内存中的存储》一节中讲到： ●计算机要处理的数据（诸如数字、文字、符号、图形、音频、视频等）是以二进制的形式存放在内存中的； 
+    </details> 
+
+- 🕯 [纯前端生成二维码与文字的图片，并批量打包成压缩包下载](https://juejin.cn/post/7163570301882597383) | Tue Nov 08 2022 9:11 AM 
     <details><summary>展开描述 ...</summary> 
     最近在项目中遇到一个紧急的需求，大概要求就是前端接收后端接口信息后，需要独自生成带文字的二维码图片，并能批量打包成 `.zip` 包，提供下载。 
     </details> 
 
-- 🎡 [vue - Vue2兼容低版本浏览器](https://juejin.cn/post/7163566506796810254) | Tue Nov 08 2022 8:57 AM 
+- 🚀 [基于window10使用docker搭建lnmpr环境](https://juejin.cn/post/7163569032606515236) | Tue Nov 08 2022 9:07 AM 
     <details><summary>展开描述 ...</summary> 
-    因为 Vue3 使用了 ES6 的 Proxy 作为其观察者机制，并且无法通过 polyfill 进行转换，所以工程要兼容低版本浏览器的话，还得继续使用 Vue2，经过一些研究，整理了以下 2 个版本 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 基于window10使用docker搭建lnmpr环境 Docker介绍 Docker 是一个开源的应用容器引擎，基于 Go 语言 并遵从 Apache 
     </details> 
 
-- 🕯 [你肯定没这样管理过WKWebView的磁盘管理--WKWebsiteDataTypeDiskCache](https://juejin.cn/post/7163561739345199140) | Tue Nov 08 2022 8:38 AM 
+- 💪 [（二）Mysql change buffer](https://juejin.cn/post/7163567903504089124) | Tue Nov 08 2022 9:02 AM 
     <details><summary>展开描述 ...</summary> 
-    背景 越来越多的App安装到用户的手机上，导致iPhone的磁盘不足。笔者由就经常需要去删除一些缓存、卸载一些不用的App，来减少我们磁盘空间的占用，这个时候，就会去通用设置界面，去把一些磁盘占用大的 
-    </details> 
-
-- 🚀 [【面试指南】前端面试题汇总（66道）--持续更新中···](https://juejin.cn/post/7163559692932186142) | Tue Nov 08 2022 8:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    1、vue实现双向数据绑定原理是什么？ 2、v-model语法糖是怎么实现的？ 3、Hash和history有什么区别？ 5、什么是原型什么是原型链? 6、箭头函数和普通函数有什么区别? 
-    </details> 
-
-- 💪 [Go操作MySQL](https://juejin.cn/post/7163559206753796109) | Tue Nov 08 2022 8:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    Go语言中的`database/sql`包提供了保证SQL或类SQL数据库的泛用接口，并不提供具体的数据库驱动。使用`database/sql`包时必须注入（至少）一个数据库驱动。 我们常用的数据库 
+    写缓冲区 是针对于二级索引（辅助索引）页的更新优化措施 默认占用buffer 空间的 25% change buffer 存储的是 对于二级索引页的变更操作，比如 insert/update/de 
     </details> 
 <!-- juejin:END -->
 ### 少数派
