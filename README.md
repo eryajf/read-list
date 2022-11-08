@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [看到隔壁远离国产软件帖子，啥证据没有，就说有问题，结果一看大部分人还同意, 还一本正经发个图说什么链接动态库获取 root 权限，笑尿了。这真的是六爷吃两碗粉的节奏？大家都这么痛恨国产软件?](https://www.v2ex.com/t/893643#reply2) | Tue Nov 08 2022 10:03 AM
-- 🤗 [跪式设计了解下](https://www.v2ex.com/t/893641#reply0) | Tue Nov 08 2022 10:00 AM
-- 🎭 [原来 MSVC 已经提供 128bit 整型的支持了](https://www.v2ex.com/t/893626#reply1) | Tue Nov 08 2022 9:12 AM
-- 🥷 [k8s port-forward 开放的端口在集群外是不能访问的吗？](https://www.v2ex.com/t/893620#reply5) | Tue Nov 08 2022 9:02 AM
-- 🐵 [ahk 的脚本好难写啊](https://www.v2ex.com/t/893618#reply2) | Tue Nov 08 2022 9:00 AM<!-- v2ex:END -->
+- 🥸 [zlibrary 没了，是时候配备&gt;18T 硬盘了，宝贵的东西必须有冷备](https://www.v2ex.com/t/893656#reply2) | Tue Nov 08 2022 10:57 AM
+- 🤗 [2022 年搭建一个对外服务的网站需要采购什么云计算服务？](https://www.v2ex.com/t/893648#reply3) | Tue Nov 08 2022 10:26 AM
+- 🎭 [看到隔壁远离国产软件帖子，啥证据没有，就说有问题，结果一看大部分人还同意, 还一本正经发个图说什么链接动态库获取 root 权限，笑尿了。这真的是六爷吃两碗粉的节奏？大家都这么痛恨国产软件?](https://www.v2ex.com/t/893643#reply35) | Tue Nov 08 2022 10:03 AM
+- 🥷 [跪式设计了解下](https://www.v2ex.com/t/893641#reply2) | Tue Nov 08 2022 10:00 AM
+- 🐵 [原来 MSVC 已经提供 128bit 整型的支持了](https://www.v2ex.com/t/893626#reply1) | Tue Nov 08 2022 9:12 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
