@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请问有无网页客服聊天系统可支持转发消息到微信的。](https://www.v2ex.com/t/893597#reply3) | Tue Nov 08 2022 7:18 AM
-- 🤗 [Express.js 生成一次性下载链接](https://www.v2ex.com/t/893595#reply13) | Tue Nov 08 2022 7:09 AM
-- 🎭 [EPOLL](https://www.v2ex.com/t/893582#reply2) | Tue Nov 08 2022 6:23 AM
-- 🥷 [Kubernetes 多集群管理，基于 tekton 二次开发 CICD](https://www.v2ex.com/t/893578#reply3) | Tue Nov 08 2022 6:16 AM
-- 🐵 [想换电脑了， MAC or ThinkPad](https://www.v2ex.com/t/893577#reply38) | Tue Nov 08 2022 6:14 AM<!-- v2ex:END -->
+- 🥸 [原来 MSVC 已经提供 128bit 整型的支持了](https://www.v2ex.com/t/893626#reply0) | Tue Nov 08 2022 9:12 AM
+- 🤗 [k8s port-forward 开放的端口在集群外是不能访问的吗？](https://www.v2ex.com/t/893620#reply2) | Tue Nov 08 2022 9:02 AM
+- 🎭 [ahk 的脚本好难写啊](https://www.v2ex.com/t/893618#reply0) | Tue Nov 08 2022 9:00 AM
+- 🥷 [请问有无网页客服聊天系统可支持转发消息到微信的。](https://www.v2ex.com/t/893597#reply4) | Tue Nov 08 2022 7:18 AM
+- 🐵 [Express.js 生成一次性下载链接](https://www.v2ex.com/t/893595#reply15) | Tue Nov 08 2022 7:09 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
