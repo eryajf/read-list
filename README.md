@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [再有人问你如何实现订单到期关闭，就把这篇文章发给他！](https://juejin.cn/post/7163537192466251784) | Tue Nov 08 2022 7:05 AM 
+- 🤗 [详解 Java 泛型（Generic）机制](https://juejin.cn/post/7163552739455139848) | Tue Nov 08 2022 8:04 AM 
     <details><summary>展开描述 ...</summary> 
-    在电商、支付等系统中，一般都是先创建订单（支付单），再给用户一定的时间进行支付，如果没有按时支付的话，就需要把之前的订单（支付单）取消掉。这种类似的场景有很多，还有比如到期自动收货、超时自动退款、下单 
+    泛型是什么？ 使用泛型可以指定类型变量，从而让代码可以对不同类型的对象进行重用。以及，还可以让编译器更好的了解类型，从而避免强制类型转换，提升代码的安全性。 
     </details> 
 
-- 🎡 [Security：使用来自 Elastic Security 的端点威胁情报保护主机](https://juejin.cn/post/7163535810963177485) | Tue Nov 08 2022 6:58 AM 
+- 🎡 [Nacos注册中心12-Server端（Server和Client间的UDP通信）](https://juejin.cn/post/7163549804520275975) | Tue Nov 08 2022 7:52 AM 
     <details><summary>展开描述 ...</summary> 
-    超越阻止恶意软件、勒索软件和高级威胁。 在整个生态系统中统一检测、预防和响应。 本指南将引导你完成一个简单的端点管理方案，以便你了解在 Kibana 中创建 Elasticsearch 集群、添加数据 
+    Nacos Server和Client建的UDP通信，PushService类ServiceChangeEvent事件 
     </details> 
 
-- 🕯 [JeecgBoot 3.4.3-Vue2 版本发布，Vue2版前端UI专项升级](https://juejin.cn/post/7163534295405953032) | Tue Nov 08 2022 6:53 AM 
+- 🕯 [【超详细】Zod 入门教程](https://juejin.cn/post/7163548790787358756) | Tue Nov 08 2022 7:48 AM 
     <details><summary>展开描述 ...</summary> 
-    JeecgBoot vue2版前端UI代码更新到3.4.3最新版，兼容最新版的后台（3.4.3、3.4.3-GA）。 
+    Zod 是一个以 TypeScript 为首的模式声明和验证库 ，弥补了 TypeScript 无法在运行时进行校验的问题 ，既可以用在服务端也可以运行在客户端，以保障 Web Apps 的类型安全 
     </details> 
 
-- 🚀 [react源码中的协调与调度](https://juejin.cn/post/7163467245669056548) | Tue Nov 08 2022 2:32 AM 
+- 🚀 [Docker 搭建 Calibre-Web 在线书库](https://juejin.cn/post/7163546392244256799) | Tue Nov 08 2022 7:39 AM 
     <details><summary>展开描述 ...</summary> 
-    requestEventTime 其实在React执行过程中，会有数不清的任务要去执行，但是他们会有一个优先级的判定，假如两个事件的优先级一样，那么React是怎么去判定他们两谁先执行呢？ Rende 
+    网上有不少在线书库搭建教程，要么过于老旧操作方法不对，要么用的镜像是technosoft2000/calibre-web，但是这个镜像已经正式停止维护了；所以记录一下。 
     </details> 
 
-- 💪 [React源码分析8-状态更新的优先级机制](https://juejin.cn/post/7163447394493792264) | Tue Nov 08 2022 1:15 AM 
+- 💪 [聚沙成塔【45天玩转uni-app】初探uni-app](https://juejin.cn/post/7163543611462647815) | Tue Nov 08 2022 7:29 AM 
     <details><summary>展开描述 ...</summary> 
-    为什么需要优先级 优先级机制最终目的是为了实现高优先级任务优先执行，低优先级任务延后执行。 实现这一目的的本质就是在低优先级任务执行时，有更高优先级任务进来的话，可以打断低优先级任务的执行。 同步模式 
+    写在前面 聚沙成塔——每天进步一点点，大家好我是几何心凉，不难发现越来越多的前端招聘JD中都加入了uni-app 这一项，它也已经成为前端开发者不可或缺的一项技能了，所以凉哥为大家推出 聚沙成塔【45 
     </details> 
 <!-- juejin:END -->
 ### 少数派
