@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [计算机网络：随机访问介质访问控制之ALOHA协议](https://juejin.cn/post/7163435918911602724) | Tue Nov 08 2022 12:30 AM 
+- 🤗 [聊一聊常见的浏览器数据存储方案](https://juejin.cn/post/7163469883441676302) | Tue Nov 08 2022 2:42 AM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 在随机访问协议中，不采用集中控制方式解决发送信息的次序问题，所有用户能根据自己的意愿随机地发送信息，占用信道全部速率。在总线形网络中，当有两个或多个用户 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 大家好，CUGGZ。 今天来分享一下常见的浏览器数据存储方案，包括 localStorage、sessionStorage、IndexedDB、Cook 
     </details> 
 
-- 🎡 [用户路径分析](https://juejin.cn/post/7163435174393282568) | Tue Nov 08 2022 12:27 AM 
+- 🎡 [AI技术在基于风险测试模式转型中的应用](https://juejin.cn/post/7163464964290805768) | Tue Nov 08 2022 2:23 AM 
     <details><summary>展开描述 ...</summary> 
-    &quot;对于理解用户的流量行为特点，路径分析是最直观、高效的分析方式之一&quot; 今天和大家聊聊流量分析中常用的用户（页面）路径分析，以及如何在政采云浑仪系统中产品化。 ​ 
+    通过分析，不难看出研发测试过程受人的主观因素影响太大，即研发测试人员的个人能力、经验，对项目的交付质量和效率有很大影响，人判断不准确和执行偏差导致上面2种现象不断重复。 
     </details> 
 
-- 🕯 [你不知道的vscode之扩展 | 代码定位](https://juejin.cn/post/7163434812290629662) | Tue Nov 08 2022 12:27 AM 
+- 🕯 [Vue+ELement Table的实战技巧-表格业务需求实现篇](https://juejin.cn/post/7163464405089255460) | Tue Nov 08 2022 2:20 AM 
     <details><summary>展开描述 ...</summary> 
-    欢迎来到 vscode 的世界，本文目标为科普 vscode 中关于【代码定位】的一些设计理念，其实就是查询，但查询是个很庞大的话题，想想自己找半天还找不到正确位置的烦恼？ 
+    本文较适合初、中级前端，vue+element的表格常见业务，合并单元格（合并行、列），思路详细讲解，提供思路分析以及详细代码。 
     </details> 
 
-- 🚀 [【Flutter 异步编程 - 捌】 | 计算耗时？ Isolate 来帮忙](https://juejin.cn/post/7163431846783483912) | Tue Nov 08 2022 12:15 AM 
+- 🚀 [由 transform 被占用引发的思考🤔](https://juejin.cn/post/7163460109488619556) | Tue Nov 08 2022 2:04 AM 
     <details><summary>展开描述 ...</summary> 
-    一、问题引入 - 计算密集型任务 假如现在有个需求，我想要计算 1 亿 个 1~10000 间随机数的平均值，在界面上显示结果，该怎么办? 可能有小伙伴踊跃发言：这还不简单，生成 1 亿 个随机数，算 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」。 聊一聊关于transform的一些事以及CSS复杂属性的处理方式 一、transform 很容易被占用 众所周知，CSS 中的transform是一个 
     </details> 
 
-- 💪 [CSS 如何实现五彩斑斓的“呼吸字”？速度拿去装杯！😏](https://juejin.cn/post/7163416841354739742) | Mon Nov 07 2022 11:20 PM 
+- 💪 [React之Refs的使用和forwardRef的源码解读、一文对比Vuex与Pinia的设计实现 |  酱酱的下午茶第 105 期](https://juejin.cn/post/7163458628274356237) | Tue Nov 08 2022 1:58 AM 
     <details><summary>展开描述 ...</summary> 
-    用css实现五彩斑斓的“呼吸字”，不仅颜色渐变、还有呼吸的感觉，爱了爱了，代码拿走即用，用于小细节装杯，挺好~~ 
+    本期下午茶看点：速通Web Component、我用组件化把上千行代码优化到15行、GoFrame的gmap相比Go原生的map，天然支持排序和有序遍历！？... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
