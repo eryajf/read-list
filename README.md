@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [聊一聊常见的浏览器数据存储方案](https://juejin.cn/post/7163469883441676302) | Tue Nov 08 2022 2:42 AM 
+- 🤗 [自问三连，如何建设团队里的前端工程技术？](https://juejin.cn/post/7163474983736475655) | Tue Nov 08 2022 3:02 AM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 大家好，CUGGZ。 今天来分享一下常见的浏览器数据存储方案，包括 localStorage、sessionStorage、IndexedDB、Cook 
+    前端工程技术建设可以理解为团队内的前端技术和框架建设的整体表现，包括了 技术/规范文档、工程模板研发、组件库和开发工具沉淀、devops自动化、研发到数据可视化闭环等方面建设与完善。 
     </details> 
 
-- 🎡 [AI技术在基于风险测试模式转型中的应用](https://juejin.cn/post/7163464964290805768) | Tue Nov 08 2022 2:23 AM 
+- 🎡 [背了那么多八股文，也要会在工作中处理父子组件传值问题呀！](https://juejin.cn/post/7163455746556821541) | Tue Nov 08 2022 1:47 AM 
     <details><summary>展开描述 ...</summary> 
-    通过分析，不难看出研发测试过程受人的主观因素影响太大，即研发测试人员的个人能力、经验，对项目的交付质量和效率有很大影响，人判断不准确和执行偏差导致上面2种现象不断重复。 
+    上一篇更文看到大家对工作做遇到的bug以及解决方案那么感兴趣，收藏比点赞还多，那么就再更新一些日常工作中遇到的bug和一些解决的思路。 
     </details> 
 
-- 🕯 [Vue+ELement Table的实战技巧-表格业务需求实现篇](https://juejin.cn/post/7163464405089255460) | Tue Nov 08 2022 2:20 AM 
+- 🕯 [深入浅出 Compose Compiler（3） Kotlin IR &amp; ComposeIrGenerationExtension](https://juejin.cn/post/7163455487608881183) | Tue Nov 08 2022 1:46 AM 
     <details><summary>展开描述 ...</summary> 
-    本文较适合初、中级前端，vue+element的表格常见业务，合并单元格（合并行、列），思路详细讲解，提供思路分析以及详细代码。 
+    Compose Compiler 在后端的工作主要是为 Composable 函数生成必要的代码，这主要是通过 ComposeIrGenerationExtension 实现的 
     </details> 
 
-- 🚀 [由 transform 被占用引发的思考🤔](https://juejin.cn/post/7163460109488619556) | Tue Nov 08 2022 2:04 AM 
+- 🚀 [面试官问我watch和computed的区别以及选择？](https://juejin.cn/post/7163447762053251109) | Tue Nov 08 2022 1:16 AM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」。 聊一聊关于transform的一些事以及CSS复杂属性的处理方式 一、transform 很容易被占用 众所周知，CSS 中的transform是一个 
+    有人说面试造火箭，进去拧螺丝；其实个人觉得问的问题是项目中涉及的点 || 热门的技术栈都是很好的面试体验，不要是旁门左道冷门的知识，实际上并不会用到的。 Vue中的watch和computed的区别？ 
     </details> 
 
-- 💪 [React之Refs的使用和forwardRef的源码解读、一文对比Vuex与Pinia的设计实现 |  酱酱的下午茶第 105 期](https://juejin.cn/post/7163458628274356237) | Tue Nov 08 2022 1:58 AM 
+- 💪 [网络热传App鉴定 |「李跳跳」里用到的无障碍权限是什么？](https://juejin.cn/post/7163425815584047112) | Mon Nov 07 2022 11:52 PM 
     <details><summary>展开描述 ...</summary> 
-    本期下午茶看点：速通Web Component、我用组件化把上千行代码优化到15行、GoFrame的gmap相比Go原生的map，天然支持排序和有序遍历！？... 
+    无障碍功能在解锁了相应的权限之后，其所能掌握的对于手机的控制权是相当可怕的。 同作为开发者，我佩服「李跳跳」的创意，但我敬畏这种权力。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
