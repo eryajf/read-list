@@ -364,7 +364,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [本来以为生成器了解的差不多了，结果这段代码把我看懵了](https://www.v2ex.com/t/893731#reply2) | Tue Nov 08 2022 9:24 PM
+- 🥸 [本来以为生成器了解的差不多了，结果这段代码把我看懵了](https://www.v2ex.com/t/893731#reply3) | Tue Nov 08 2022 9:24 PM
 - 🤗 [今晚会见证历史吗? 第二个 luna](https://www.v2ex.com/t/893728#reply3) | Tue Nov 08 2022 7:16 PM
 - 🎭 [各位 AWS 需要折扣的可以找我](https://www.v2ex.com/t/893725#reply0) | Tue Nov 08 2022 6:27 PM
 - 🥷 [收费帮人制作抢购脚本有法律风险吗？](https://www.v2ex.com/t/893724#reply6) | Tue Nov 08 2022 5:39 PM
