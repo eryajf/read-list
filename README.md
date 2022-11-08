@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【分布式技术专题】「架构实践于案例分析」盘点一下分布式模式下的服务治理和监控优化方案](https://juejin.cn/post/7163623312001056782) | Tue Nov 08 2022 12:37 PM 
+- 🤗 [【笔记】Vite+Vue 3+TS 配置记录](https://juejin.cn/post/7163662410312581150) | Tue Nov 08 2022 3:09 PM 
+    <details><summary>展开描述 ...</summary> 
+    使用 **TypeScript** 的项目中难免会有一些自定义的类型，虽然 `与文件同名.d.ts` 能够解决当前文件的类型定义，但总是会有一些公共的类型需要定义，例如请求返回的自定义数据体。 
+    </details> 
+
+- 🎡 [【MySQL】深入理解MySQL索引优化器工作原理](https://juejin.cn/post/7163662105541869581) | Tue Nov 08 2022 3:07 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文将解读MySQL数据库查询优化器（CBO）的工作原理。简单介绍了MySQL Server的组成，MySQL优化器选择索引额原理以及SQL成本分析，最后通过 select 查询总结整个查询过程。 
+    </details> 
+
+- 🕯 [第129期：Next.js 和 React 到底该选哪一个？](https://juejin.cn/post/7163660046734196744) | Tue Nov 08 2022 3:00 PM 
+    <details><summary>展开描述 ...</summary> 
+    封面图 天台上拍的一张照片 这篇文章将从流行度、性能、文档生态等方面对next.js 和 react 做一个简单的比较。我们那可以根据正在构建的应用的规模和预期用途，选择相应开发框架。 web技术在不 
+    </details> 
+
+- 🚀 [【分布式技术专题】「架构实践于案例分析」盘点一下分布式模式下的服务治理和监控优化方案](https://juejin.cn/post/7163623312001056782) | Tue Nov 08 2022 12:37 PM 
     <details><summary>展开描述 ...</summary> 
     本文正在参加「金石计划 . 瓜分6万现金大奖」  什么是服务治理？ 相信每一个软件公司（企业）都希望可以确保开发及项目运行流程可以顺利，但是如果要完美完结那么需要其中会有很多的因素存在。包括，最佳实践 
     </details> 
 
-- 🎡 [RichTalk 快报 第 9 期](https://juejin.cn/post/7163615853815005220) | Tue Nov 08 2022 12:09 PM 
+- 💪 [RichTalk 快报 第 9 期](https://juejin.cn/post/7163615853815005220) | Tue Nov 08 2022 12:09 PM 
     <details><summary>展开描述 ...</summary> 
     这里是Tech 快报，每两周为你带来新鲜的技术资讯，如果想第一时间收到更新请关注本知识库。 本期快报速览： Turbopack: Webpack 的继承者 Turborepo：一个用于 JavaScr 
-    </details> 
-
-- 🕯 [前端必备的定时任务技能 - Cron + node-schedule](https://juejin.cn/post/7163608389233147918) | Tue Nov 08 2022 11:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    Cron表达式是用来表达时间相关信息的字符串，用来做定时任务这类需求是最好的选择，前端在浏览器端不太会用得到，但如果是node.js相关的业务... 
-    </details> 
-
-- 🚀 [我服了！SpringBoot升级后这服务我一个星期都没跑起来！（上）](https://juejin.cn/post/7163600863032770591) | Tue Nov 08 2022 11:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    最近由于各方面的原因在准备升级 Spring Cloud 和 Spring Boot，经过一系列前置的调研和分析，决定把Spring Boot 相关版本从 2.1.6 升级到 2.7.5，Spring 
-    </details> 
-
-- 💪 [你不知道的JavaScript-异步篇](https://juejin.cn/post/7163591357234151461) | Tue Nov 08 2022 10:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 ” 事件循环 先通过一段伪代码了解一下事件循环这个概念 这是一段继续简化的代码，你可以看到有一个用while循环实现的持续运行的循环，循环的每一轮称为一 
     </details> 
 <!-- juejin:END -->
 ### 少数派
