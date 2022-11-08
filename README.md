@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [阿里云主机编译安卓源码有推荐吗？](https://www.v2ex.com/t/893550#reply0) | Tue Nov 08 2022 4:29 AM
-- 🤗 [Xmake v2.7.3 发布，包组件和 C++ 模块增量构建支持](https://www.v2ex.com/t/893545#reply1) | Tue Nov 08 2022 4:10 AM
+- 🥸 [阿里云主机编译安卓源码有推荐吗？](https://www.v2ex.com/t/893550#reply3) | Tue Nov 08 2022 4:29 AM
+- 🤗 [Xmake v2.7.3 发布，包组件和 C++ 模块增量构建支持](https://www.v2ex.com/t/893545#reply2) | Tue Nov 08 2022 4:10 AM
 - 🎭 [经过签名后的 apk 文件，无法升级](https://www.v2ex.com/t/893541#reply2) | Tue Nov 08 2022 3:55 AM
-- 🥷 [close 异常](https://www.v2ex.com/t/893529#reply1) | Tue Nov 08 2022 3:22 AM
-- 🐵 [i3wm 最近的几次更新引入了两个 bug](https://www.v2ex.com/t/893517#reply1) | Tue Nov 08 2022 2:54 AM<!-- v2ex:END -->
+- 🥷 [close 异常](https://www.v2ex.com/t/893529#reply2) | Tue Nov 08 2022 3:22 AM
+- 🐵 [i3wm 最近的几次更新引入了两个 bug](https://www.v2ex.com/t/893517#reply2) | Tue Nov 08 2022 2:54 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
