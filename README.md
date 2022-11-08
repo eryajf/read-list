@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [前端必备的定时任务技能 - Cron + node-schedule](https://juejin.cn/post/7163608389233147918) | Tue Nov 08 2022 11:39 AM 
+- 🤗 [【分布式技术专题】「架构实践于案例分析」盘点一下分布式模式下的服务治理和监控优化方案](https://juejin.cn/post/7163623312001056782) | Tue Nov 08 2022 12:37 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」  什么是服务治理？ 相信每一个软件公司（企业）都希望可以确保开发及项目运行流程可以顺利，但是如果要完美完结那么需要其中会有很多的因素存在。包括，最佳实践 
+    </details> 
+
+- 🎡 [RichTalk 快报 第 9 期](https://juejin.cn/post/7163615853815005220) | Tue Nov 08 2022 12:09 PM 
+    <details><summary>展开描述 ...</summary> 
+    这里是Tech 快报，每两周为你带来新鲜的技术资讯，如果想第一时间收到更新请关注本知识库。 本期快报速览： Turbopack: Webpack 的继承者 Turborepo：一个用于 JavaScr 
+    </details> 
+
+- 🕯 [前端必备的定时任务技能 - Cron + node-schedule](https://juejin.cn/post/7163608389233147918) | Tue Nov 08 2022 11:39 AM 
     <details><summary>展开描述 ...</summary> 
     Cron表达式是用来表达时间相关信息的字符串，用来做定时任务这类需求是最好的选择，前端在浏览器端不太会用得到，但如果是node.js相关的业务... 
     </details> 
 
-- 🎡 [我服了！SpringBoot升级后这服务我一个星期都没跑起来！（上）](https://juejin.cn/post/7163600863032770591) | Tue Nov 08 2022 11:11 AM 
+- 🚀 [我服了！SpringBoot升级后这服务我一个星期都没跑起来！（上）](https://juejin.cn/post/7163600863032770591) | Tue Nov 08 2022 11:11 AM 
     <details><summary>展开描述 ...</summary> 
     最近由于各方面的原因在准备升级 Spring Cloud 和 Spring Boot，经过一系列前置的调研和分析，决定把Spring Boot 相关版本从 2.1.6 升级到 2.7.5，Spring 
     </details> 
 
-- 🕯 [你不知道的JavaScript-异步篇](https://juejin.cn/post/7163591357234151461) | Tue Nov 08 2022 10:35 AM 
+- 💪 [你不知道的JavaScript-异步篇](https://juejin.cn/post/7163591357234151461) | Tue Nov 08 2022 10:35 AM 
     <details><summary>展开描述 ...</summary> 
     本文正在参加「金石计划 . 瓜分6万现金大奖」 ” 事件循环 先通过一段伪代码了解一下事件循环这个概念 这是一段继续简化的代码，你可以看到有一个用while循环实现的持续运行的循环，循环的每一轮称为一 
-    </details> 
-
-- 🚀 [图像存储格式JEPG有损压缩原理](https://juejin.cn/post/7163589544632123423) | Tue Nov 08 2022 10:26 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 颜色格式 人的眼球结构： RGB：用于扫描仪显示设备，计算机系统 CMYK：K是Black用于打印机行业。如果用RGB模拟黑色成本会很大，因此图案的颜色 
-    </details> 
-
-- 💪 [不买NAS，也能用cpolar搭建私有云盘3 （群晖系统存储空间设置）](https://juejin.cn/post/7163587504560406559) | Tue Nov 08 2022 10:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    在上篇文章中，我们安装好了Synology Assistant程序，也意味着群晖系统的安装走到了最后一步，在这一步中，我们主要是对群晖系统进行存储空间设置，使其能够成为真正数据中心。现在，就让我们开始 
     </details> 
 <!-- juejin:END -->
 ### 少数派
