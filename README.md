@@ -365,8 +365,8 @@
 
 <!-- v2ex:START -->
 - 🥸 [2022 年怎么入门小程序？原生？ uniapp?taro? &lpar;求助帖&rpar;](https://www.v2ex.com/t/893716#reply0) | Tue Nov 08 2022 4:15 PM
-- 🤗 [想收台甲骨文阿联酋，最好注册时间久一点的](https://www.v2ex.com/t/893706#reply2) | Tue Nov 08 2022 2:57 PM
-- 🎭 [取消重复的 axios 请求时如何避免失败？](https://www.v2ex.com/t/893704#reply2) | Tue Nov 08 2022 2:47 PM
+- 🤗 [想收台甲骨文阿联酋，最好注册时间久一点的](https://www.v2ex.com/t/893706#reply3) | Tue Nov 08 2022 2:57 PM
+- 🎭 [取消重复的 axios 请求时如何避免失败？](https://www.v2ex.com/t/893704#reply3) | Tue Nov 08 2022 2:47 PM
 - 🥷 [Linux 下有什么工具可以给整个文件夹生成一个 SHA256，像 7z Windows 版一样，方便比较两个文件夹内容是否完全相同？](https://www.v2ex.com/t/893701#reply4) | Tue Nov 08 2022 2:37 PM
 - 🐵 [setstate 问题求助大佬](https://www.v2ex.com/t/893684#reply7) | Tue Nov 08 2022 12:57 PM<!-- v2ex:END -->
 
