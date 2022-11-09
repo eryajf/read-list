@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [.NET 7 AOT 支持不支持 macOS](https://www.v2ex.com/t/893928#reply2) | Wed Nov 09 2022 10:07 AM
-- 🤗 [Jenkins 配置 slave 节点连接失败： Connection closed before acknowledgement sent](https://www.v2ex.com/t/893927#reply1) | Wed Nov 09 2022 10:07 AM
-- 🎭 [求大佬帮忙做 WordPress 网站，长期合作](https://www.v2ex.com/t/893900#reply4) | Wed Nov 09 2022 8:56 AM
-- 🥷 [elasticsearch 首次搜索过慢的问题， 4 千万数据](https://www.v2ex.com/t/893899#reply0) | Wed Nov 09 2022 8:54 AM
-- 🐵 [配置工具又上瘾了，求打醒](https://www.v2ex.com/t/893891#reply25) | Wed Nov 09 2022 8:35 AM<!-- v2ex:END -->
+- 🥸 [Ubuntu 的在 Snap Store 里更新 Snap Store 会报错&quot;&#39;snap-store&#39;正在运行&quot;，是遵循了什么设计哲学吗？](https://www.v2ex.com/t/893930#reply1) | Wed Nov 09 2022 10:28 AM
+- 🤗 [.NET 7 AOT 支持不支持 macOS](https://www.v2ex.com/t/893928#reply3) | Wed Nov 09 2022 10:07 AM
+- 🎭 [Jenkins 配置 slave 节点连接失败： Connection closed before acknowledgement sent](https://www.v2ex.com/t/893927#reply1) | Wed Nov 09 2022 10:07 AM
+- 🥷 [求大佬帮忙做 WordPress 网站，长期合作](https://www.v2ex.com/t/893900#reply5) | Wed Nov 09 2022 8:56 AM
+- 🐵 [elasticsearch 首次搜索过慢的问题， 4 千万数据](https://www.v2ex.com/t/893899#reply3) | Wed Nov 09 2022 8:54 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
