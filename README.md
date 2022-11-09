@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [你不知道的JavaScript-生成器](https://juejin.cn/post/7163877299538886669) | Wed Nov 09 2022 5:03 AM 
+- 🤗 [9/10月金选作者公布、Canvas仿明日方舟Logo粒子动画｜掘金一周 11.09](https://juejin.cn/post/7163906418948390942) | Wed Nov 09 2022 6:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    【掘金一周11.9】本期看点：9-10月金选作者公布、Github上5.3k的游戏制作思路、AB 实验为何值得信赖... 
+    </details> 
+
+- 🎡 [你不知道的JavaScript-生成器](https://juejin.cn/post/7163877299538886669) | Wed Nov 09 2022 5:03 AM 
     <details><summary>展开描述 ...</summary> 
     前言 在没有JavaScript的生成器概念之前，我们几乎普遍依赖一个假定：一个函数一旦开始执行，就会运行到结束，期间不会有其他代码能够打断它并插入其间。如下代码所示： 不过直到ES6引入了一个新的函 
     </details> 
 
-- 🎡 [详解css中伪元素:before和:after和创意用法](https://juejin.cn/post/7163867155639828488) | Wed Nov 09 2022 4:23 AM 
+- 🕯 [[译]初级开发者成长的10个小妙招](https://juejin.cn/post/7163874790405570567) | Wed Nov 09 2022 4:53 AM 
     <details><summary>展开描述 ...</summary> 
-    首先我们需要搞懂两个概念，伪类和伪元素，像我这种没有系统全面性的了解过css的人来说，突然一问我伪类和伪元素的区别我还真不知道，我之前一直以为这两个说法指的是一个东西，就是我题目中的提到的那两个 
+    当你从大学或者培训机构毕业，也许你已经准备好作为一名初级开发工程师，来开始自己的职业生涯。但是从哪里开始？又如何一步步走向成功呢？给初级开发工程师的10个小建议，将帮助你走出正确的第一步。 
     </details> 
 
-- 🕯 [TorchVision Transforms API 大升级，支持目标检测、实例/语义分割及视频类任务](https://juejin.cn/post/7163855297201569822) | Wed Nov 09 2022 3:37 AM 
+- 🚀 [二维码扫描优化、SpriteJS：图形库造轮子的那些事儿 | 酱酱的下午茶第106期](https://juejin.cn/post/7163865967678717983) | Wed Nov 09 2022 4:18 AM 
     <details><summary>展开描述 ...</summary> 
-    Transforms V2 时代开启。TorchVision Transforms API 扩展升级，现已支持目标检测、实例及语义分割以及视频类任务。新 API 尚处于测试阶段，开发者可以试用体验。 
+    【掘金酱的下午茶】亮点： 三维地球可视化从入门到进阶 - Viewer、Scene、Camera、加载第三方影像、地形服务 自问三连，如何建设团队里的前端工程技术？ 从内核角度看网络包发送流程... 
     </details> 
 
-- 🚀 [Nydus | 容器镜像基础](https://juejin.cn/post/7163853904654893070) | Wed Nov 09 2022 3:32 AM 
+- 💪 [进阶高级？可能你得了解亿点点屏幕绘制方面的知识。](https://juejin.cn/post/7163858831309537294) | Wed Nov 09 2022 3:51 AM 
     <details><summary>展开描述 ...</summary> 
-    文｜唐斌 字节跳动基础架构研发工程师 Nydus 与 Nydus snapshotter 社区贡献者，专注存储，云原生技术。 本文 6964 字 阅读 15 分钟 1 Nydus 1.1 存在的问题  
-    </details> 
-
-- 💪 [web前端面试技巧-如何自我介绍？如何应对hr？](https://juejin.cn/post/7163849862599933983) | Wed Nov 09 2022 3:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    1 .技术面 技术老大对你的印象与能力的认可，直接决定你是否能拿到offer,所以在技术老大面前多聊技术，别谈工作时间薪资待遇那些，那是人事面的流程。 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 为什么要学习屏幕刷新知识？ 很多同学觉得屏幕刷新绘制知识点对他们开发不重要，没必要学习这些东西，这部分同学可能平时维护的是一些中小型项目或者应用是安装在 
     </details> 
 <!-- juejin:END -->
 ### 少数派
