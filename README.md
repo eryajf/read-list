@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Java IO 相关 Process 执行命令获取输出 输出很大该怎么读取？](https://www.v2ex.com/t/893762#reply0) | Wed Nov 09 2022 1:47 AM
-- 🤗 [谁能看看这是什么加密方式？一段被加密的 URL 参数](https://www.v2ex.com/t/893748#reply7) | Wed Nov 09 2022 1:08 AM
-- 🎭 [新版照片应用已经支持 iCloud](https://www.v2ex.com/t/893740#reply1) | Wed Nov 09 2022 12:32 AM
-- 🥷 [.NET 7 正式发布](https://www.v2ex.com/t/893739#reply21) | Wed Nov 09 2022 12:24 AM
-- 🐵 [本来以为生成器了解的差不多了，结果这段代码把我看懵了](https://www.v2ex.com/t/893731#reply8) | Tue Nov 08 2022 9:24 PM<!-- v2ex:END -->
+- 🥸 [想买一台主机， Mac 或者 Win。V 友们求建议（ Java ）](https://www.v2ex.com/t/893791#reply7) | Wed Nov 09 2022 3:03 AM
+- 🤗 [Go 如何搭建私有的依赖仓库](https://www.v2ex.com/t/893784#reply2) | Wed Nov 09 2022 2:45 AM
+- 🎭 [github 上面有没有什么项目，编译或者跑测试啥的，能吃满 64G 内存的？](https://www.v2ex.com/t/893780#reply2) | Wed Nov 09 2022 2:34 AM
+- 🥷 [Win11 22H 页面闲置太久，按快捷键会让整个资源管理器会崩溃](https://www.v2ex.com/t/893768#reply2) | Wed Nov 09 2022 2:01 AM
+- 🐵 [Java IO 相关 Process 执行命令获取输出 输出很大该怎么读取？](https://www.v2ex.com/t/893762#reply14) | Wed Nov 09 2022 1:47 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
