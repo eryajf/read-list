@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [我最近在写作 《高可用服务体系最佳实践》, 过来看看？](https://www.v2ex.com/t/893862#reply0) | Wed Nov 09 2022 7:13 AM
-- 🤗 [你们会屏蔽应用收集数据的 sdk 吗](https://www.v2ex.com/t/893861#reply0) | Wed Nov 09 2022 7:11 AM
-- 🎭 [大家有什么优雅的密码管理方法](https://www.v2ex.com/t/893857#reply8) | Wed Nov 09 2022 7:02 AM
-- 🥷 [mac vscode 里面的终端不能使用鼠标点击中键粘贴吗？](https://www.v2ex.com/t/893850#reply0) | Wed Nov 09 2022 6:53 AM
-- 🐵 [[分享]Win 11 真香](https://www.v2ex.com/t/893847#reply18) | Wed Nov 09 2022 6:38 AM<!-- v2ex:END -->
+- 🥸 [合同更换到另一家公司要同意吗？](https://www.v2ex.com/t/893879#reply7) | Wed Nov 09 2022 8:13 AM
+- 🤗 [大佬们 ubuntu 如何把多个 DEB 安装包打包成一个呢](https://www.v2ex.com/t/893877#reply0) | Wed Nov 09 2022 8:07 AM
+- 🎭 [[WIN11] 发布 1 年零 1 个月了, WIN11 能用/好用么?](https://www.v2ex.com/t/893869#reply7) | Wed Nov 09 2022 7:28 AM
+- 🥷 [我最近在写作 《高可用服务体系最佳实践》, 过来看看？](https://www.v2ex.com/t/893862#reply5) | Wed Nov 09 2022 7:13 AM
+- 🐵 [你们会屏蔽应用收集数据的 sdk 吗](https://www.v2ex.com/t/893861#reply2) | Wed Nov 09 2022 7:11 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
