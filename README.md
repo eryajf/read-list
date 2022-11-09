@@ -364,9 +364,9 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Mirai https://github.com/mamoe/mirai 这个 qq 机器人支持库 我想用它开发一个 web qq 纯开源的话有法律风险吗](https://www.v2ex.com/t/893951#reply4) | Wed Nov 09 2022 12:20 PM
-- 🤗 [前端新玩具： Nashi.js](https://www.v2ex.com/t/893944#reply14) | Wed Nov 09 2022 12:08 PM
-- 🎭 [惊闻 Meta 裁员……有没有海的那边的朋友讲讲，现在美国程序员就业情况怎么样？](https://www.v2ex.com/t/893942#reply15) | Wed Nov 09 2022 12:07 PM
+- 🥸 [Mirai https://github.com/mamoe/mirai 这个 qq 机器人支持库 我想用它开发一个 web qq 纯开源的话有法律风险吗](https://www.v2ex.com/t/893951#reply8) | Wed Nov 09 2022 12:20 PM
+- 🤗 [前端新玩具： Nashi.js](https://www.v2ex.com/t/893944#reply16) | Wed Nov 09 2022 12:08 PM
+- 🎭 [惊闻 Meta 裁员……有没有海的那边的朋友讲讲，现在美国程序员就业情况怎么样？](https://www.v2ex.com/t/893942#reply18) | Wed Nov 09 2022 12:07 PM
 - 🥷 [Ubuntu 的在 Snap Store 里更新 Snap Store 会报错&quot;&#39;snap-store&#39;正在运行&quot;，是遵循了什么设计哲学吗？](https://www.v2ex.com/t/893930#reply3) | Wed Nov 09 2022 10:28 AM
 - 🐵 [.NET 7 AOT 支持不支持 macOS](https://www.v2ex.com/t/893928#reply3) | Wed Nov 09 2022 10:07 AM<!-- v2ex:END -->
 
