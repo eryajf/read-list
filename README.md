@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [求大佬帮忙做 WordPress 网站，长期合作](https://www.v2ex.com/t/893900#reply3) | Wed Nov 09 2022 8:56 AM
-- 🤗 [elasticsearch 首次搜索过慢的问题， 4 千万数据](https://www.v2ex.com/t/893899#reply0) | Wed Nov 09 2022 8:54 AM
-- 🎭 [配置工具又上瘾了，求打醒](https://www.v2ex.com/t/893891#reply10) | Wed Nov 09 2022 8:35 AM
-- 🥷 [合同更换到另一家公司要同意吗？](https://www.v2ex.com/t/893879#reply14) | Wed Nov 09 2022 8:13 AM
-- 🐵 [大佬们 ubuntu 如何把多个 DEB 安装包打包成一个呢](https://www.v2ex.com/t/893877#reply1) | Wed Nov 09 2022 8:07 AM<!-- v2ex:END -->
+- 🥸 [.NET 7 AOT 支持不支持 macOS](https://www.v2ex.com/t/893928#reply2) | Wed Nov 09 2022 10:07 AM
+- 🤗 [Jenkins 配置 slave 节点连接失败： Connection closed before acknowledgement sent](https://www.v2ex.com/t/893927#reply1) | Wed Nov 09 2022 10:07 AM
+- 🎭 [求大佬帮忙做 WordPress 网站，长期合作](https://www.v2ex.com/t/893900#reply4) | Wed Nov 09 2022 8:56 AM
+- 🥷 [elasticsearch 首次搜索过慢的问题， 4 千万数据](https://www.v2ex.com/t/893899#reply0) | Wed Nov 09 2022 8:54 AM
+- 🐵 [配置工具又上瘾了，求打醒](https://www.v2ex.com/t/893891#reply25) | Wed Nov 09 2022 8:35 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
