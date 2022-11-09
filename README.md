@@ -378,24 +378,24 @@
     对Android 开发者来说，无论是在工作还是面试中，性能优化都是一个绕不开的难题。想要做好需要建立起完备的知识体系，并能从本质出发，体系化地制定出适合我们应用特征的优化方案 
     </details> 
 
-- 🎡 [不是吧！这游戏比王者还上头……](https://juejin.cn/post/7163911742634868750) | Wed Nov 09 2022 7:16 AM 
+- 🎡 [Flutter 工程化框架选择 — 状态管理何去何从](https://juejin.cn/post/7163925807893577735) | Wed Nov 09 2022 8:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    这是 《Flutter 工程化框架选择》 系列的第六篇 ，就像之前说的，这个系列只是单纯告诉你，创建一个 Flutter 工程，或者说搭建一个 Flutter 工程脚手架，应该如何快速选择适合自己的功 
+    </details> 
+
+- 🕯 [不是吧！这游戏比王者还上头……](https://juejin.cn/post/7163911742634868750) | Wed Nov 09 2022 7:16 AM 
     <details><summary>展开描述 ...</summary> 
     哈喽，小摹来啦~ “你有玩一款小游戏很上头的经历吗？” 对我而言，除了对王者XX、吃鸡这类大型竞技类游戏上头外，一个简简单单的小游戏也会让我不愿意放下手机。 这不，最近在逛抖音时，发现好多博主都爱在直 
     </details> 
 
-- 🕯 [如何做出技术和测试都喜欢的需求文档?](https://juejin.cn/post/7163911738708983845) | Wed Nov 09 2022 7:16 AM 
+- 🚀 [如何做出技术和测试都喜欢的需求文档?](https://juejin.cn/post/7163911738708983845) | Wed Nov 09 2022 7:16 AM 
     <details><summary>展开描述 ...</summary> 
     在产品的工作中，需求文档的撰写是我们日常工作中必不可少的一环。很多产品经理会问什么样的需求文档是一篇比较好的文档呢？ 你会发现你平常能找到的一些需求文档的模板各不一样，没有什么固定的版式，也没有哪个模 
     </details> 
 
-- 🚀 [利用计时器数字简单绘制个小闹钟](https://juejin.cn/post/7163911252626898981) | Wed Nov 09 2022 7:14 AM 
+- 💪 [利用计时器数字简单绘制个小闹钟](https://juejin.cn/post/7163911252626898981) | Wed Nov 09 2022 7:14 AM 
     <details><summary>展开描述 ...</summary> 
     废话开篇：利用计时器数字简单绘制个小闹钟 绘制数字： # 代码绘制计时器数字 数字效果：#给代码绘制计时器数字加个效果 一、效果展示 这里面很简单，就是把之前的计时器数字在 view 的 draw 方 
-    </details> 
-
-- 💪 [Security：在 SIEM 上运用 Elastic Security](https://juejin.cn/post/7163908068483432479) | Wed Nov 09 2022 7:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    Elastic Security 将 Elastic SIEM（其检测引擎可自动检测威胁，以便快速调查和响应威胁）与 Endpoint Security 结合到一个解决方案中，从而统一整个网络的预防、 
     </details> 
 <!-- juejin:END -->
 ### 少数派
