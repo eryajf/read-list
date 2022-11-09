@@ -368,7 +368,7 @@
 - 🤗 [如何干掉 Google 助手的蓝牙唤醒](https://www.v2ex.com/t/894011#reply1) | Wed Nov 09 2022 7:52 PM
 - 🎭 [关于重复提交的问题](https://www.v2ex.com/t/894008#reply2) | Wed Nov 09 2022 7:08 PM
 - 🥷 [Ubuntu 上 百度网盘客户端篡改 html 文件默认打开方式问题，如何管理文件访问权限？](https://www.v2ex.com/t/894000#reply2) | Wed Nov 09 2022 5:08 PM
-- 🐵 [debian 阿里源慢](https://www.v2ex.com/t/893999#reply6) | Wed Nov 09 2022 5:03 PM<!-- v2ex:END -->
+- 🐵 [debian 阿里源慢](https://www.v2ex.com/t/893999#reply7) | Wed Nov 09 2022 5:03 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
