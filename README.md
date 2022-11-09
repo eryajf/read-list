@@ -364,9 +364,9 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [前天发现百度居然能改名了, 但是有坑...](https://www.v2ex.com/t/893817#reply1) | Wed Nov 09 2022 4:34 AM
-- 🤗 [一句话惹怒了 数据机构与算法之美的作者 小争哥](https://www.v2ex.com/t/893803#reply14) | Wed Nov 09 2022 3:43 AM
-- 🎭 [想买一台主机， Mac 或者 Win。V 友们求建议（ Java ）](https://www.v2ex.com/t/893791#reply8) | Wed Nov 09 2022 3:03 AM
+- 🥸 [前天发现百度居然能改名了, 但是有坑...](https://www.v2ex.com/t/893817#reply4) | Wed Nov 09 2022 4:34 AM
+- 🤗 [一句话惹怒了 数据机构与算法之美的作者 小争哥](https://www.v2ex.com/t/893803#reply20) | Wed Nov 09 2022 3:43 AM
+- 🎭 [想买一台主机， Mac 或者 Win。V 友们求建议（ Java ）](https://www.v2ex.com/t/893791#reply12) | Wed Nov 09 2022 3:03 AM
 - 🥷 [Go 如何搭建私有的依赖仓库](https://www.v2ex.com/t/893784#reply2) | Wed Nov 09 2022 2:45 AM
 - 🐵 [github 上面有没有什么项目，编译或者跑测试啥的，能吃满 64G 内存的？](https://www.v2ex.com/t/893780#reply2) | Wed Nov 09 2022 2:34 AM<!-- v2ex:END -->
 
