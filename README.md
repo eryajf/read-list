@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [深入浅出学习透析Nginx服务器的基本原理和配置指南「初级实践篇」](https://juejin.cn/post/7164394358069231653) | Thu Nov 10 2022 2:29 PM 
+- 🤗 [从以太坊Solidity概述以及合约示例开始学习区块链技术吧！](https://juejin.cn/post/7164411105295466526) | Thu Nov 10 2022 3:34 PM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」  什么是 Nginx? Nginx &lpar;Engine X&rpar;是一个轻量级的Web服务器 、反向代理服务器及电子邮件（IMAP/POP3）代理服务器、高性能的 
+    solidity是一种静态类型的编程语言，用于开发在以太坊（Ethereum）上运行的智能合约。solidity被编译为可在以太坊虚拟机（EVM）上运行的字节码。以太坊虚拟机（EVM）是智能合约的运行 
     </details> 
 
-- 🎡 [React 之从视觉暂留到 FPS、刷新率再到显卡、垂直同步再到16ms的故事](https://juejin.cn/post/7164394153848078350) | Thu Nov 10 2022 2:28 PM 
+- 🎡 [使用 CSS mask 对图像应用遮罩效果](https://juejin.cn/post/7164411148136087565) | Thu Nov 10 2022 3:34 PM 
     <details><summary>展开描述 ...</summary> 
-    当我们观看一个物体时，物体成像于视网膜上，经由视神经传给人脑，人才能感觉到物体的像。 但当物体移去时，视神经对物体的印象不会立即消失，而要延续 0.1 - 0.4 秒的时间，人眼的这种性质被称为“眼 
+    为什么B站的弹幕可以不挡人物 这篇文章里面介绍了这个神奇的 mask 属性，我们知道了B站的弹幕可以不挡人物的原理： 视频处理：每一帧画面都由后台 AI 识别后生成对应的 base64 图片，一张图 
     </details> 
 
-- 🕯 [正则训练营｜1.正则学习整体脉络与历史小知识](https://juejin.cn/post/7164390237219749895) | Thu Nov 10 2022 2:13 PM 
+- 🕯 [TypeScript 类型体操：合并映射类型的处理结果为联合类型](https://juejin.cn/post/7164407257151569956) | Thu Nov 10 2022 3:19 PM 
     <details><summary>展开描述 ...</summary> 
-    正则其实就是规则的设定，用于验证或者获取信息。匹配动作最粗暴的无疑是一一对应，a 对 a，b 对 b，这个规则就是完全一样才匹配，但这无疑太低效；而正则中的处理方式就是设定子规则，让某些符号不再代表本 
+    索引类型是 TypeScript 中的常见类型，它是聚合多个元素的类型，对象、类、元组等都是索引类型。 比如这样： 对索引类型做变换会用到映射类型的语法，它可以对索引类型的索引和值做一些变换，然后产生 
     </details> 
 
-- 🚀 [SQL思维训练](https://juejin.cn/post/7164386115909058574) | Thu Nov 10 2022 1:57 PM 
+- 🚀 [Web 实时通信技术WebRTC](https://juejin.cn/post/7164407041799225358) | Thu Nov 10 2022 3:19 PM 
     <details><summary>展开描述 ...</summary> 
-    还是刷题进步快啊 不刷题 感觉思维方式就是没那么活跃还是要多刷题 争取到时挑战困难模式的问题哈哈 
+    Web 实时通信 &lpar;WebRTC&rpar; 是目前正在开发的开源项目，主要目的是提供 Web 应用程序之间的实时、对等通信。 WebRTC 首次发布时，针对的是在 Chrome 上运行的 Web 应用程序。但 
     </details> 
 
-- 💪 [Nacos注册中心14-raft协议选举与心跳](https://juejin.cn/post/7164375374258765831) | Thu Nov 10 2022 1:16 PM 
+- 💪 [【MySQL】深入理解MySQL分区表原理与企业级实战](https://juejin.cn/post/7164406180243046436) | Thu Nov 10 2022 3:16 PM 
     <details><summary>展开描述 ...</summary> 
-    Nacos的raft协议原理，nacos的选举和心跳，核心方法sendBeat&lpar;&rpar;和makeLeader&lpar;&rpar; 
+    本文详细讲解什么是分区表，分区表增删改查的工作原理以及分区表的实战，分区表的场景有哪些，哪些场景不建议用分区表，并列举出六点使用分区表的误区。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
