@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [正则训练营｜1.正则学习整体脉络与历史小知识](https://juejin.cn/post/7164390237219749895) | Thu Nov 10 2022 2:13 PM 
+- 🤗 [深入浅出学习透析Nginx服务器的基本原理和配置指南「初级实践篇」](https://juejin.cn/post/7164394358069231653) | Thu Nov 10 2022 2:29 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」  什么是 Nginx? Nginx &lpar;Engine X&rpar;是一个轻量级的Web服务器 、反向代理服务器及电子邮件（IMAP/POP3）代理服务器、高性能的 
+    </details> 
+
+- 🎡 [React 之从视觉暂留到 FPS、刷新率再到显卡、垂直同步再到16ms的故事](https://juejin.cn/post/7164394153848078350) | Thu Nov 10 2022 2:28 PM 
+    <details><summary>展开描述 ...</summary> 
+    当我们观看一个物体时，物体成像于视网膜上，经由视神经传给人脑，人才能感觉到物体的像。 但当物体移去时，视神经对物体的印象不会立即消失，而要延续 0.1 - 0.4 秒的时间，人眼的这种性质被称为“眼 
+    </details> 
+
+- 🕯 [正则训练营｜1.正则学习整体脉络与历史小知识](https://juejin.cn/post/7164390237219749895) | Thu Nov 10 2022 2:13 PM 
     <details><summary>展开描述 ...</summary> 
     正则其实就是规则的设定，用于验证或者获取信息。匹配动作最粗暴的无疑是一一对应，a 对 a，b 对 b，这个规则就是完全一样才匹配，但这无疑太低效；而正则中的处理方式就是设定子规则，让某些符号不再代表本 
     </details> 
 
-- 🎡 [SQL思维训练](https://juejin.cn/post/7164386115909058574) | Thu Nov 10 2022 1:57 PM 
+- 🚀 [SQL思维训练](https://juejin.cn/post/7164386115909058574) | Thu Nov 10 2022 1:57 PM 
     <details><summary>展开描述 ...</summary> 
     还是刷题进步快啊 不刷题 感觉思维方式就是没那么活跃还是要多刷题 争取到时挑战困难模式的问题哈哈 
     </details> 
 
-- 🕯 [Nacos注册中心14-raft协议选举与心跳](https://juejin.cn/post/7164375374258765831) | Thu Nov 10 2022 1:16 PM 
+- 💪 [Nacos注册中心14-raft协议选举与心跳](https://juejin.cn/post/7164375374258765831) | Thu Nov 10 2022 1:16 PM 
     <details><summary>展开描述 ...</summary> 
     Nacos的raft协议原理，nacos的选举和心跳，核心方法sendBeat&lpar;&rpar;和makeLeader&lpar;&rpar; 
-    </details> 
-
-- 🚀 [基于CSS mask和clip-path实现切角的技巧](https://juejin.cn/post/7164374695691681828) | Thu Nov 10 2022 1:13 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文将使用CSS mask和clip-path来切元素的四个角！使用多种技巧可以从任何元素的角切割不同的形状。 
-    </details> 
-
-- 💪 [Android APP瘦身之shrinkResources的使用与问题](https://juejin.cn/post/7164372429454704647) | Thu Nov 10 2022 1:04 PM 
-    <details><summary>展开描述 ...</summary> 
-    一、背景 对于缩小APk大小，除了开启混淆 还有使用 说下这两者的区别 minifyEnabled 这个是用来开启删除无用代码，比如没有引用到的代码 shrinkResources 用来开启删除无用资 
     </details> 
 <!-- juejin:END -->
 ### 少数派
