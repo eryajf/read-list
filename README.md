@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [odoo 有了解的吗，不知道者这是否可以成为大龄程序员的一个选择呢](https://www.v2ex.com/t/894226#reply3) | Thu Nov 10 2022 10:31 AM
-- 🤗 [DNSPod 现已支持 SVCB/HTTPS 记录](https://www.v2ex.com/t/894223#reply0) | Thu Nov 10 2022 10:23 AM
-- 🎭 [功能管理（Feature management）搭建实战篇](https://www.v2ex.com/t/894219#reply0) | Thu Nov 10 2022 10:06 AM
-- 🥷 [#随感 在 2022 年使用一台直板 9 键的手机](https://www.v2ex.com/t/894207#reply1) | Thu Nov 10 2022 9:37 AM
-- 🐵 [chrome 如何像 vscode 那样进行 remote 操作？](https://www.v2ex.com/t/894193#reply23) | Thu Nov 10 2022 9:03 AM<!-- v2ex:END -->
+- 🥸 [分享以前做 windows 开发的一些工具](https://www.v2ex.com/t/894253#reply0) | Thu Nov 10 2022 12:30 PM
+- 🤗 [LAL v0.32.0 发布，更好的支持纯视频流](https://www.v2ex.com/t/894242#reply0) | Thu Nov 10 2022 11:55 AM
+- 🎭 [用 nestjs 写微信的自动回复消息功能，一直报错？](https://www.v2ex.com/t/894241#reply0) | Thu Nov 10 2022 11:49 AM
+- 🥷 [Drone runner 代理问题](https://www.v2ex.com/t/894236#reply0) | Thu Nov 10 2022 11:26 AM
+- 🐵 [odoo 有了解的吗，不知道者这是否可以成为大龄程序员的一个选择呢](https://www.v2ex.com/t/894226#reply3) | Thu Nov 10 2022 10:31 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
