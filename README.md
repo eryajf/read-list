@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Linux 0.11 main: 神说要有进程 0](https://juejin.cn/post/7164262801974755342) | Thu Nov 10 2022 5:58 AM 
+- 🤗 [聊聊我眼中的 Web 3.0](https://juejin.cn/post/7164274496944390158) | Thu Nov 10 2022 6:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    如果你仔细的审视 Web3 世界中的一切，以及资本对 Web3 的热衷程度，你会发现其实 Web3 是一个绕开金融中心化资本管制的网络资本世界。 人类的资本形式一直都在发生变化，新资本形式的出现往往代 
+    </details> 
+
+- 🎡 [Linux 0.11 进程 0: fork 之后——调度](https://juejin.cn/post/7164273927294812167) | Thu Nov 10 2022 6:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    这篇笔记研究进程 0 通过 fork 创建进程 1 之后发生的事，以及调度的工作原理。 after fork: 进程 0 父进程 fork&lpar;&rpar; 返回子进程号（这里是 1），所以执行到： pause 又 
+    </details> 
+
+- 🕯 [HTTP 状态码完整指南](https://juejin.cn/post/7164270035681148942) | Thu Nov 10 2022 6:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 一、HTTP 状态码概述 1. 概念 当我们在浏览器输入URL并按下Enter键时，浏览器就会向站点的服务器发送一个HTTP请求，服务器接收并处理请求， 
+    </details> 
+
+- 🚀 [Linux 0.11 进程 0: fork 创建进程 1](https://juejin.cn/post/7164269451301355550) | Thu Nov 10 2022 6:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    这篇笔记详细分析 fork 系统调用的流程：复制父进程以创建子进程。 fork 创建进程 1 系统调用流程 fork 函数的调用流程： 系统调用都是 _syscall{0,1,2,3} 的封装 _sy 
+    </details> 
+
+- 💪 [Linux 0.11 main: 神说要有进程 0](https://juejin.cn/post/7164262801974755342) | Thu Nov 10 2022 5:58 AM 
     <details><summary>展开描述 ...</summary> 
     这篇笔记关于： sched_init 造了进程 0 move_to_user_mode 开始跑进程 0 sched_init 本来是 [[2.main-init]] 的一部分，但因为和这里关系紧密，就 
-    </details> 
-
-- 🎡 [聊聊工作中，如何提升自己的编程能力？](https://juejin.cn/post/7164261190539935780) | Thu Nov 10 2022 5:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    既然选择了做IT，就要明白，程序员从来不适合语言上的巨人，行动上的小人。只有真正地付出实践，从问题中复盘经验，才能使自己的编程水平不断提高。 
-    </details> 
-
-- 🕯 [Linux 0.11 main：初始化工作](https://juejin.cn/post/7164260436135641124) | Thu Nov 10 2022 5:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    main 函数开始执行：继续做各种初始化。 ch2. init/main.c 看 main&lpar;&rpar; 函数的代码： 设置根设备、硬盘 拿 boot 时写的[[机器系统数据]]（见 0x90 开头的 -&gt; 想 
-    </details> 
-
-- 🚀 [Seata AT模式原来是这样实现行锁的](https://juejin.cn/post/7164254193362927624) | Thu Nov 10 2022 5:26 AM 
-    <details><summary>展开描述 ...</summary> 
-    我们在很多博客中都有发现，Seata AT模式里面的全局锁其实是行锁，这也是Seata AT模式和XA模式在锁粒度上的最大区别。我们可以在官网看到 
-    </details> 
-
-- 💪 [第130期：Dart基础知识（类01）](https://juejin.cn/post/7164231952688480264) | Thu Nov 10 2022 3:59 AM 
-    <details><summary>展开描述 ...</summary> 
-    封面图 11.09 9:00 接通知居家办公，文章接上文继续讲Dart中的类 Methods 类的方法 方法也是函数，提供了类的各种操作行为。对象上的实例方法可以访问实例中的变量以及this。比如：  
     </details> 
 <!-- juejin:END -->
 ### 少数派
