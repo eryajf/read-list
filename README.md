@@ -365,7 +365,7 @@
 
 <!-- v2ex:START -->
 - 🥸 [chrome 间歇性卡顿的原因分析（DNS over TCP 导致的问题）](https://www.v2ex.com/t/894313#reply1) | Thu Nov 10 2022 8:54 PM
-- 🤗 [国外笔记本能拿到国内维修吗？](https://www.v2ex.com/t/894309#reply2) | Thu Nov 10 2022 5:49 PM
+- 🤗 [国外笔记本能拿到国内维修吗？](https://www.v2ex.com/t/894309#reply3) | Thu Nov 10 2022 5:49 PM
 - 🎭 [广州、深圳地区的千峰、黑马、尚硅谷 Java 培训哪个好点](https://www.v2ex.com/t/894302#reply1) | Thu Nov 10 2022 4:47 PM
 - 🥷 [推荐一个简单好用的 HTTPS 证书监控工具](https://www.v2ex.com/t/894298#reply3) | Thu Nov 10 2022 4:18 PM
 - 🐵 [如何用多台服务器做些好玩的事情](https://www.v2ex.com/t/894285#reply0) | Thu Nov 10 2022 2:41 PM<!-- v2ex:END -->
