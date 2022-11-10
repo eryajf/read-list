@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [JavaScript 中的声明提升](https://juejin.cn/post/7164361677104742436) | Thu Nov 10 2022 12:22 PM 
+- 🤗 [Nacos注册中心14-raft协议选举与心跳](https://juejin.cn/post/7164375374258765831) | Thu Nov 10 2022 1:16 PM 
     <details><summary>展开描述 ...</summary> 
-    声明提升（hosting）是 JavaScript 解析器的一个特性，它会把代码中的函数、变量声明语句作用提取到它所在作用域的最前面。 
+    Nacos的raft协议原理，nacos的选举和心跳，核心方法sendBeat&lpar;&rpar;和makeLeader&lpar;&rpar; 
     </details> 
 
-- 🎡 [Java 数据结构：说一下 LinkedHashMap 是如何实现有序的？](https://juejin.cn/post/7164348785512939551) | Thu Nov 10 2022 11:32 AM 
+- 🎡 [基于CSS mask和clip-path实现切角的技巧](https://juejin.cn/post/7164374695691681828) | Thu Nov 10 2022 1:13 PM 
     <details><summary>展开描述 ...</summary> 
-    在上一篇文章里，我们聊到了 HashMap 的实现原理和源码分析，在源码分析的过程中，我们发现一些 LinkedHashMap 相关的源码，当时没有展开，现在它来了。 
+    本文将使用CSS mask和clip-path来切元素的四个角！使用多种技巧可以从任何元素的角切割不同的形状。 
     </details> 
 
-- 🕯 [利用docker编译IJKPlayer播放器记录](https://juejin.cn/post/7164345399996579876) | Thu Nov 10 2022 11:20 AM 
+- 🕯 [Android APP瘦身之shrinkResources的使用与问题](https://juejin.cn/post/7164372429454704647) | Thu Nov 10 2022 1:04 PM 
     <details><summary>展开描述 ...</summary> 
-    ijkPlayer编译，安卓编译ijkplayer播放器，ffmpeg编译，自定义播放器。ijkplayer播放器编译指南。 
+    一、背景 对于缩小APk大小，除了开启混淆 还有使用 说下这两者的区别 minifyEnabled 这个是用来开启删除无用代码，比如没有引用到的代码 shrinkResources 用来开启删除无用资 
     </details> 
 
-- 🚀 [Input系统:  InputReader 处理合成事件](https://juejin.cn/post/7164338036052852744) | Thu Nov 10 2022 10:51 AM 
+- 🚀 [你不知道的JavaScript-闭包篇](https://juejin.cn/post/7164368699858616351) | Thu Nov 10 2022 12:50 PM 
     <details><summary>展开描述 ...</summary> 
-    Input系统: InputReader 概要性分析 把 InputReader 的事件分为了两类，一类是合成事件，例如设备的增、删事件，另一类是元输入事件，也就是操作设备产生的事件，例如手指在触摸屏 
+    前言 JavaScript语言中有一个非常重要又难以掌握，近似神话的概念-闭包。对于有一点JavaScript使用经验但从未真正理解闭包概念的人来说，理解闭包可以看作是某种意义上的重生。JavaScr 
     </details> 
 
-- 💪 [浅谈RecyclerView的性能优化](https://juejin.cn/post/7164032795310817294) | Wed Nov 09 2022 3:06 PM 
+- 💪 [彻底解决K8S节点本地存储被撑爆的问题](https://juejin.cn/post/7164362114885222436) | Thu Nov 10 2022 12:24 PM 
     <details><summary>展开描述 ...</summary> 
-    总所周知，RecyclerView拥有四级缓存，它们分别是： * Scrap缓存：包括mAttachedScrap和mChangedScrap，又称屏内缓存，不参与滑动时的回收复用，只是用作临时保存 
+    现在云原生越来越流行，很多企业都上马了K8S，但是这里边也有很多的坑要填，这篇文章就聊一下K8S节点本地存储被撑爆的问题，也就是磁盘被占满的问题。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
