@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [广州、深圳地区的千峰、黑马、尚硅谷 Java 培训哪个好点](https://www.v2ex.com/t/894302#reply1) | Thu Nov 10 2022 4:47 PM
-- 🤗 [推荐一个简单好用的 HTTPS 证书监控工具](https://www.v2ex.com/t/894298#reply2) | Thu Nov 10 2022 4:18 PM
-- 🎭 [如何用多台服务器做些好玩的事情](https://www.v2ex.com/t/894285#reply0) | Thu Nov 10 2022 2:41 PM
-- 🥷 [关于 DoH 流量的特征获取和恶意流量的防御策略](https://www.v2ex.com/t/894274#reply8) | Thu Nov 10 2022 2:12 PM
-- 🐵 [预算充足的情况下，家用数据存储如何落实解决方案？](https://www.v2ex.com/t/894273#reply9) | Thu Nov 10 2022 2:04 PM<!-- v2ex:END -->
+- 🥸 [国外笔记本能拿到国内维修吗？](https://www.v2ex.com/t/894309#reply0) | Thu Nov 10 2022 5:49 PM
+- 🤗 [广州、深圳地区的千峰、黑马、尚硅谷 Java 培训哪个好点](https://www.v2ex.com/t/894302#reply1) | Thu Nov 10 2022 4:47 PM
+- 🎭 [推荐一个简单好用的 HTTPS 证书监控工具](https://www.v2ex.com/t/894298#reply2) | Thu Nov 10 2022 4:18 PM
+- 🥷 [如何用多台服务器做些好玩的事情](https://www.v2ex.com/t/894285#reply0) | Thu Nov 10 2022 2:41 PM
+- 🐵 [关于 DoH 流量的特征获取和恶意流量的防御策略](https://www.v2ex.com/t/894274#reply12) | Thu Nov 10 2022 2:12 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
