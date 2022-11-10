@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [功能管理（Feature management）搭建实战篇](https://www.v2ex.com/t/894219#reply0) | Thu Nov 10 2022 10:06 AM
-- 🤗 [#随感 在 2022 年使用一台直板 9 键的手机](https://www.v2ex.com/t/894207#reply1) | Thu Nov 10 2022 9:37 AM
-- 🎭 [chrome 如何像 vscode 那样进行 remote 操作？](https://www.v2ex.com/t/894193#reply21) | Thu Nov 10 2022 9:03 AM
-- 🥷 [有大神知道 博智计算机终端保密检查系统 吗](https://www.v2ex.com/t/894181#reply0) | Thu Nov 10 2022 8:32 AM
-- 🐵 [win 的 usb 设备拷贝文件提示需要管理员权限，疑似配置文件出问题，求解](https://www.v2ex.com/t/894178#reply7) | Thu Nov 10 2022 8:18 AM<!-- v2ex:END -->
+- 🥸 [odoo 有了解的吗，不知道者这是否可以成为大龄程序员的一个选择呢](https://www.v2ex.com/t/894226#reply3) | Thu Nov 10 2022 10:31 AM
+- 🤗 [DNSPod 现已支持 SVCB/HTTPS 记录](https://www.v2ex.com/t/894223#reply0) | Thu Nov 10 2022 10:23 AM
+- 🎭 [功能管理（Feature management）搭建实战篇](https://www.v2ex.com/t/894219#reply0) | Thu Nov 10 2022 10:06 AM
+- 🥷 [#随感 在 2022 年使用一台直板 9 键的手机](https://www.v2ex.com/t/894207#reply1) | Thu Nov 10 2022 9:37 AM
+- 🐵 [chrome 如何像 vscode 那样进行 remote 操作？](https://www.v2ex.com/t/894193#reply23) | Thu Nov 10 2022 9:03 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
