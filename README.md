@@ -152,9 +152,9 @@
 ### 好工具周刊
 
 <!-- bestxtools:START -->
-- 🕯 [好工具周刊（第 36 期）: SadServers, emgithub, Tkinter 布局助手, Copy Book, Pie Chart ...](https://discuss-cn.bestxtools.com/d/90/1) | Thu Nov 03 2022 8:07 AM
-- 🦩 [好工具周刊（第 35 期）: HTTPie, Core Web Vitals Check, Resource Hint Validator, okso,...](https://discuss-cn.bestxtools.com/d/89/1) | Thu Oct 27 2022 9:48 AM
-- 🙉 [好工具周刊（第 34 期）: Excalidraw Animate, Claymate, dazidazi, Silk, Big Heads, ...](https://discuss-cn.bestxtools.com/d/86/1) | Thu Oct 20 2022 8:16 AM<!-- bestxtools:END -->
+- 🕯 [好工具周刊（第 37 期）: Eoapi, Tailwind CSS Gradient Generator, IconGo, 竹白专栏检索, ...](https://discuss-cn.bestxtools.com/d/91/1) | Thu Nov 10 2022 7:57 AM
+- 🦩 [好工具周刊（第 36 期）: SadServers, emgithub, Tkinter 布局助手, Copy Book, Pie Chart ...](https://discuss-cn.bestxtools.com/d/90/1) | Thu Nov 03 2022 8:07 AM
+- 🙉 [好工具周刊（第 35 期）: HTTPie, Core Web Vitals Check, Resource Hint Validator, okso,...](https://discuss-cn.bestxtools.com/d/89/1) | Thu Oct 27 2022 9:48 AM<!-- bestxtools:END -->
 
 ### 王登科-DK博客
 
