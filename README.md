@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请问 go 获取 post 请求返回体的 字符类型为[]uint8, 但是是 xml 的格式，怎么转换成 json](https://www.v2ex.com/t/894145#reply4) | Thu Nov 10 2022 6:46 AM
-- 🤗 [PVE 无 7.2 法连接 shell 和 console](https://www.v2ex.com/t/894125#reply0) | Thu Nov 10 2022 6:06 AM
-- 🎭 [腾讯云 CDN 突然 ERR_CONNECTION_RESET，有遇上过的吗？](https://www.v2ex.com/t/894114#reply4) | Thu Nov 10 2022 5:29 AM
-- 🥷 [有把程序内部状态实时映射到表的实现思路吗？](https://www.v2ex.com/t/894113#reply7) | Thu Nov 10 2022 5:23 AM
-- 🐵 [React.useEffect 的效果，为什么还跟帧率有关？ bug 到底出在哪里？](https://www.v2ex.com/t/894109#reply17) | Thu Nov 10 2022 4:56 AM<!-- v2ex:END -->
+- 🥸 [win 的 usb 设备拷贝文件提示需要管理员权限，疑似配置文件出问题，求解](https://www.v2ex.com/t/894178#reply0) | Thu Nov 10 2022 8:18 AM
+- 🤗 [有用过 jasper report 的小伙伴吗, 一个 jasper 报表生成很慢的问题](https://www.v2ex.com/t/894162#reply1) | Thu Nov 10 2022 7:21 AM
+- 🎭 [为什么有些大龄程序员去跑滴滴，送外卖？](https://www.v2ex.com/t/894161#reply37) | Thu Nov 10 2022 7:17 AM
+- 🥷 [请问 go 获取 post 请求返回体的 字符类型为[]uint8, 但是是 xml 的格式，怎么转换成 json](https://www.v2ex.com/t/894145#reply5) | Thu Nov 10 2022 6:46 AM
+- 🐵 [PVE 无 7.2 法连接 shell 和 console](https://www.v2ex.com/t/894125#reply0) | Thu Nov 10 2022 6:06 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
