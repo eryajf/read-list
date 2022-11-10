@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [文字与气泡与粒子特效——玩转three.js的表面采样](https://juejin.cn/post/7164218751942918151) | Thu Nov 10 2022 3:08 AM 
+- 🤗 [第130期：Dart基础知识（类01）](https://juejin.cn/post/7164231952688480264) | Thu Nov 10 2022 3:59 AM 
     <details><summary>展开描述 ...</summary> 
-    呀哈喽！这里是alphardex。让我们一起来通过three.js的 MeshSurfaceSampler来打造炫酷的文字粒子特效吧！ 
+    封面图 11.09 9:00 接通知居家办公，文章接上文继续讲Dart中的类 Methods 类的方法 方法也是函数，提供了类的各种操作行为。对象上的实例方法可以访问实例中的变量以及this。比如：  
     </details> 
 
-- 🎡 [事务 还有这些用法，之前都不知道](https://juejin.cn/post/7164216834932080654) | Thu Nov 10 2022 3:00 AM 
+- 🎡 [绚烂的文本换行，打破常规元素背景填充规则](https://juejin.cn/post/7164227201972322317) | Thu Nov 10 2022 3:41 AM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 序 transationTemplate.execute 的写法 第一次 碰到，我之前是 controller -&gt; biz -&gt; service -&gt; 
+    在我们的日常开发中，为一个元素设置背景、边框、阴影、内外边距等，通常是会应用在整个元素上； 例如我为一个元素设置一个背景图，根据背景图的填充规则设定，这个图片可能会出现重复，或者拉伸，或者多余的地方留 
     </details> 
 
-- 🕯 [合约广告平台架构演进实践](https://juejin.cn/post/7164216212614807559) | Thu Nov 10 2022 2:58 AM 
+- 🕯 [面试必问之 JS 事件循环&lpar;Event Loop&rpar;，看这一篇足够](https://juejin.cn/post/7164224261752619016) | Thu Nov 10 2022 3:29 AM 
     <details><summary>展开描述 ...</summary> 
-    从事B端业务系统研发多年，不免会有这样的思考：B端系统的技术挑战是什么？什么样的业务架构算好架构？本文结合百度合约广告业务的发展历程，介绍广告投放平台从单体架构到微服务架构演进过程中碰到的问题和思考。 
+    作为前端开发者，事件循环（Event Loop）是必须掌握的内容，它是前端极其重要的基础知识。在日常的工作或者面试中也是一个非常高频的话题。理解它也有助于提升面试通过率，同时有助于提升开发质量。 
     </details> 
 
-- 🚀 [Spring Boot 整合 Security 权限控制-3:初步配置 Security](https://juejin.cn/post/7164213405211951134) | Thu Nov 10 2022 2:47 AM 
+- 🚀 [iOS 求职寒冬？听听他们怎么说](https://juejin.cn/post/7164222659528491022) | Thu Nov 10 2022 3:23 AM 
     <details><summary>展开描述 ...</summary> 
-    在源码目录下新建 config 目录, 在该目录下新建 WebSecurityConfig 类文件 浏览器打开 http://localhost:8080/home 会自动跳转到用户登录页面, 输入账 
+    这是一次线上分享的文字整理版，视频内容可以点这里查看：线上视频。 为啥会有这场分享 最近在帮团队招人，像朋友圈、脉脉、公众号添了不少推广信息，但能捞到的简历却很少，仅有的简历，能通过筛选的不足 1/3 
     </details> 
 
-- 💪 [🐟 🐟包教包会——this](https://juejin.cn/post/7164213125225381919) | Thu Nov 10 2022 2:45 AM 
+- 💪 [Input系统: InputReader 概要性分析](https://juejin.cn/post/7164221690203865119) | Thu Nov 10 2022 3:19 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 实不相瞒，之所以前几天写几篇js底层原理的文章，都是因为我在看this这一篇的东西的时候涉及到了执行上下文，作用域链这些概念，然后这些概念自己又忘了。 😕 所以干脆把前面的东西都补起来，顺便以写 
+    Input 系统的主要功能，主要集中在 native 层，分为 InputReader, InputClassifier, InputDispatcher, 本文分析 InputReader. 
     </details> 
 <!-- juejin:END -->
 ### 少数派
