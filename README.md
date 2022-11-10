@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [第130期：Dart基础知识（类01）](https://juejin.cn/post/7164231952688480264) | Thu Nov 10 2022 3:59 AM 
+- 🤗 [Linux 0.11 main: 神说要有进程 0](https://juejin.cn/post/7164262801974755342) | Thu Nov 10 2022 5:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    这篇笔记关于： sched_init 造了进程 0 move_to_user_mode 开始跑进程 0 sched_init 本来是 [[2.main-init]] 的一部分，但因为和这里关系紧密，就 
+    </details> 
+
+- 🎡 [聊聊工作中，如何提升自己的编程能力？](https://juejin.cn/post/7164261190539935780) | Thu Nov 10 2022 5:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    既然选择了做IT，就要明白，程序员从来不适合语言上的巨人，行动上的小人。只有真正地付出实践，从问题中复盘经验，才能使自己的编程水平不断提高。 
+    </details> 
+
+- 🕯 [Linux 0.11 main：初始化工作](https://juejin.cn/post/7164260436135641124) | Thu Nov 10 2022 5:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    main 函数开始执行：继续做各种初始化。 ch2. init/main.c 看 main&lpar;&rpar; 函数的代码： 设置根设备、硬盘 拿 boot 时写的[[机器系统数据]]（见 0x90 开头的 -&gt; 想 
+    </details> 
+
+- 🚀 [Seata AT模式原来是这样实现行锁的](https://juejin.cn/post/7164254193362927624) | Thu Nov 10 2022 5:26 AM 
+    <details><summary>展开描述 ...</summary> 
+    我们在很多博客中都有发现，Seata AT模式里面的全局锁其实是行锁，这也是Seata AT模式和XA模式在锁粒度上的最大区别。我们可以在官网看到 
+    </details> 
+
+- 💪 [第130期：Dart基础知识（类01）](https://juejin.cn/post/7164231952688480264) | Thu Nov 10 2022 3:59 AM 
     <details><summary>展开描述 ...</summary> 
     封面图 11.09 9:00 接通知居家办公，文章接上文继续讲Dart中的类 Methods 类的方法 方法也是函数，提供了类的各种操作行为。对象上的实例方法可以访问实例中的变量以及this。比如：  
-    </details> 
-
-- 🎡 [绚烂的文本换行，打破常规元素背景填充规则](https://juejin.cn/post/7164227201972322317) | Thu Nov 10 2022 3:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    在我们的日常开发中，为一个元素设置背景、边框、阴影、内外边距等，通常是会应用在整个元素上； 例如我为一个元素设置一个背景图，根据背景图的填充规则设定，这个图片可能会出现重复，或者拉伸，或者多余的地方留 
-    </details> 
-
-- 🕯 [面试必问之 JS 事件循环&lpar;Event Loop&rpar;，看这一篇足够](https://juejin.cn/post/7164224261752619016) | Thu Nov 10 2022 3:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    作为前端开发者，事件循环（Event Loop）是必须掌握的内容，它是前端极其重要的基础知识。在日常的工作或者面试中也是一个非常高频的话题。理解它也有助于提升面试通过率，同时有助于提升开发质量。 
-    </details> 
-
-- 🚀 [iOS 求职寒冬？听听他们怎么说](https://juejin.cn/post/7164222659528491022) | Thu Nov 10 2022 3:23 AM 
-    <details><summary>展开描述 ...</summary> 
-    这是一次线上分享的文字整理版，视频内容可以点这里查看：线上视频。 为啥会有这场分享 最近在帮团队招人，像朋友圈、脉脉、公众号添了不少推广信息，但能捞到的简历却很少，仅有的简历，能通过筛选的不足 1/3 
-    </details> 
-
-- 💪 [Input系统: InputReader 概要性分析](https://juejin.cn/post/7164221690203865119) | Thu Nov 10 2022 3:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    Input 系统的主要功能，主要集中在 native 层，分为 InputReader, InputClassifier, InputDispatcher, 本文分析 InputReader. 
     </details> 
 <!-- juejin:END -->
 ### 少数派
