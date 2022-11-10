@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Apache Doris Join 实现与调优实践｜未来源码](https://juejin.cn/post/7164323513707266062) | Thu Nov 10 2022 9:56 AM 
+- 🤗 [JavaScript 中的声明提升](https://juejin.cn/post/7164361677104742436) | Thu Nov 10 2022 12:22 PM 
     <details><summary>展开描述 ...</summary> 
-    我们简要的聊一下 SQL 所支持的几种常见的 join 算法以及其适用场景，管中窥豹，以此来了解设计和优化一个计算引擎的时候，哪些是需要重点关注和考量的 
+    声明提升（hosting）是 JavaScript 解析器的一个特性，它会把代码中的函数、变量声明语句作用提取到它所在作用域的最前面。 
     </details> 
 
-- 🎡 [多图彻底搞懂vue2 diff算法](https://juejin.cn/post/7164323495155859464) | Thu Nov 10 2022 9:54 AM 
+- 🎡 [Java 数据结构：说一下 LinkedHashMap 是如何实现有序的？](https://juejin.cn/post/7164348785512939551) | Thu Nov 10 2022 11:32 AM 
     <details><summary>展开描述 ...</summary> 
-    一、vue2的diff过程 比较方式： 同级比较，不会跨级比较 patch函数 diff过程就是调用 patch函数，比较新旧节点，一边比较一边给真实DOM打补丁，那么我们就先来看一下patch函数: 
+    在上一篇文章里，我们聊到了 HashMap 的实现原理和源码分析，在源码分析的过程中，我们发现一些 LinkedHashMap 相关的源码，当时没有展开，现在它来了。 
     </details> 
 
-- 🕯 [Apache Pulsar 在微信大流量实时推荐场景下实践](https://juejin.cn/post/7164321406564450340) | Thu Nov 10 2022 9:46 AM 
+- 🕯 [利用docker编译IJKPlayer播放器记录](https://juejin.cn/post/7164345399996579876) | Thu Nov 10 2022 11:20 AM 
     <details><summary>展开描述 ...</summary> 
-    本文介绍了微信团队在大流量场景下将 Pulsar 部署在 K8s 上的实践与优化、非持久化 Topic 的应用、负载均衡与 Broker 缓存优化实践与COS Offloader 开发与应用。 
+    ijkPlayer编译，安卓编译ijkplayer播放器，ffmpeg编译，自定义播放器。ijkplayer播放器编译指南。 
     </details> 
 
-- 🚀 [微服务上云快速入门指引](https://juejin.cn/post/7164320822037839908) | Thu Nov 10 2022 9:44 AM 
+- 🚀 [Input系统:  InputReader 处理合成事件](https://juejin.cn/post/7164338036052852744) | Thu Nov 10 2022 10:51 AM 
     <details><summary>展开描述 ...</summary> 
-    微服务产品团队为了广大开发者朋友们可以更好的使用腾讯云微服务产品，将持续为大家提供微服务上云快速入门的指引性文档，内容通俗易懂易上手，本篇为本系列的第一篇，欢迎大家收看。 
+    Input系统: InputReader 概要性分析 把 InputReader 的事件分为了两类，一类是合成事件，例如设备的增、删事件，另一类是元输入事件，也就是操作设备产生的事件，例如手指在触摸屏 
     </details> 
 
-- 💪 [网易云信 toB 质量保障体系实践](https://juejin.cn/post/7164319610710589448) | Thu Nov 10 2022 9:39 AM 
+- 💪 [浅谈RecyclerView的性能优化](https://juejin.cn/post/7164032795310817294) | Wed Nov 09 2022 3:06 PM 
     <details><summary>展开描述 ...</summary> 
-    网易云信作为 PaaS 服务提供商之一，始终在追求自身提供的服务稳定可靠，云信基于 toB 丰富的研发经验，摸索出了一套针对 toB 的行之有效的质量保障体系. 
+    总所周知，RecyclerView拥有四级缓存，它们分别是： * Scrap缓存：包括mAttachedScrap和mChangedScrap，又称屏内缓存，不参与滑动时的回收复用，只是用作临时保存 
     </details> 
 <!-- juejin:END -->
 ### 少数派
