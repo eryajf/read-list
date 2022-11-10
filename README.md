@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Web3时代来了！应用架构大变化](https://juejin.cn/post/7164206101796388877) | Thu Nov 10 2022 2:19 AM 
+- 🤗 [文字与气泡与粒子特效——玩转three.js的表面采样](https://juejin.cn/post/7164218751942918151) | Thu Nov 10 2022 3:08 AM 
     <details><summary>展开描述 ...</summary> 
-    导语 | 是什么让 Web 3.0 与 Web 2.0 如此不同？本文使用以太坊生态作为例子，从 Web 2.0 开始，由浅入深，一步步介绍 Web 3.0 的应用架构。 Web 3.0 vs Web 
+    呀哈喽！这里是alphardex。让我们一起来通过three.js的 MeshSurfaceSampler来打造炫酷的文字粒子特效吧！ 
     </details> 
 
-- 🎡 [二维码的秘密](https://juejin.cn/post/7164204720645472286) | Thu Nov 10 2022 2:13 AM 
+- 🎡 [事务 还有这些用法，之前都不知道](https://juejin.cn/post/7164216834932080654) | Thu Nov 10 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
-    这里所说的二维码默认指的就是我们经常用到的微信二维码这样方形格式的，二维码的英文全称是 Quick Response Code，快速响应矩阵图码。 我们简直不要太熟悉了，平均每天都要扫码好几次，做核酸 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 序 transationTemplate.execute 的写法 第一次 碰到，我之前是 controller -&gt; biz -&gt; service -&gt; 
     </details> 
 
-- 🕯 [将PyTorch投入生产的5个常见错误](https://juejin.cn/post/7164201385498509325) | Thu Nov 10 2022 2:00 AM 
+- 🕯 [合约广告平台架构演进实践](https://juejin.cn/post/7164216212614807559) | Thu Nov 10 2022 2:58 AM 
     <details><summary>展开描述 ...</summary> 
-    本文列举了5个将PyTorch应用到生产时容易遇到的5个错误操作。 在这里，我想分享在生产中使用PyTorch最常见的5个错误。考虑过使用CPU吗？使用多线程？使用更多的GPU内存？这些坑我们都踩过。 
+    从事B端业务系统研发多年，不免会有这样的思考：B端系统的技术挑战是什么？什么样的业务架构算好架构？本文结合百度合约广告业务的发展历程，介绍广告投放平台从单体架构到微服务架构演进过程中碰到的问题和思考。 
     </details> 
 
-- 🚀 [Cpolar配合Everything快速搜索私有云资料](https://juejin.cn/post/7164193051257077790) | Thu Nov 10 2022 1:28 AM 
+- 🚀 [Spring Boot 整合 Security 权限控制-3:初步配置 Security](https://juejin.cn/post/7164213405211951134) | Thu Nov 10 2022 2:47 AM 
     <details><summary>展开描述 ...</summary> 
-    企业外派出差，已经是稀松平常的事，通常出差的同事都会带一个优盘或移动硬盘。但优盘和硬盘是离线设备，所存储的文件数据无法及时更新，因此能够连接公司主机获得最新文件才是出差的首选。可是公司主机位于内网，且 
+    在源码目录下新建 config 目录, 在该目录下新建 WebSecurityConfig 类文件 浏览器打开 http://localhost:8080/home 会自动跳转到用户登录页面, 输入账 
     </details> 
 
-- 💪 [使用cpolar（内网穿透）最低成本搭建网站](https://juejin.cn/post/7164193003567857694) | Thu Nov 10 2022 1:28 AM 
+- 💪 [🐟 🐟包教包会——this](https://juejin.cn/post/7164213125225381919) | Thu Nov 10 2022 2:45 AM 
     <details><summary>展开描述 ...</summary> 
-    在普通电脑用户看来，建立自己的网站总是一件高大上的事情，这个网站不仅可以成为展示自己的平台，还能成为商业的载体。在以往，建立一个像样的网站，不仅需要过硬的编程知识做基础，还需要有足够的资金租用服务器。 
+    前言 实不相瞒，之所以前几天写几篇js底层原理的文章，都是因为我在看this这一篇的东西的时候涉及到了执行上下文，作用域链这些概念，然后这些概念自己又忘了。 😕 所以干脆把前面的东西都补起来，顺便以写 
     </details> 
 <!-- juejin:END -->
 ### 少数派
