@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [手摸手打造类码上掘金在线IDE（三）——沙箱环境](https://juejin.cn/post/7164745561617367077) | Fri Nov 11 2022 1:12 PM 
+- 🤗 [全栈 webSocket 实战获取 jenkins 构建日志](https://juejin.cn/post/7164755084403097608) | Fri Nov 11 2022 1:49 PM 
+    <details><summary>展开描述 ...</summary> 
+    大家好啊！本文来到了实战前端发布平台的最后一个阶段，实战前端获取Jenkins构建日志。在这里！你有机会知道全栈 webSocket 怎么玩，掌握 webSocket 的实战应用场景和技能！ 
+    </details> 
+
+- 🎡 [手摸手打造类码上掘金在线IDE（三）——沙箱环境](https://juejin.cn/post/7164745561617367077) | Fri Nov 11 2022 1:12 PM 
     <details><summary>展开描述 ...</summary> 
     前言 在前面的内容中，我们讲了在线ide 的内容种类，状况，以及如何选择ide 的代码编辑器， 我们从 市面上的各种高端的ide 实现套路，说到了他的简单的原理，从 monaco-editor讲到了  
     </details> 
 
-- 🎡 [Git 分支管理策略汇总](https://juejin.cn/post/7164740289922334727) | Fri Nov 11 2022 12:52 PM 
+- 🕯 [Git 分支管理策略汇总](https://juejin.cn/post/7164740289922334727) | Fri Nov 11 2022 12:52 PM 
     <details><summary>展开描述 ...</summary> 
     最近，团队新入职了一些小伙伴，在开发过程中，他们问我 Git 分支是如何管理的，以及应该怎么提交代码？ 我大概说了一些规则，但仔细想来，好像也并没有形成一个清晰规范的 
     </details> 
 
-- 🕯 [音视频——Codec初始化及Omx组件创建](https://juejin.cn/post/7164739772957589518) | Fri Nov 11 2022 12:50 PM 
+- 🚀 [音视频——Codec初始化及Omx组件创建](https://juejin.cn/post/7164739772957589518) | Fri Nov 11 2022 12:50 PM 
     <details><summary>展开描述 ...</summary> 
     Android提供给应用编解码的接口为MediaCodec。我们这里从NuPlayerDecoder开始分析，一是为了衔接之前将的MediaPlayer-NuPlayer流程，二是可以从中参考到Med 
     </details> 
 
-- 🚀 [使用Cpolar搭建一个图片网站3 （用cpolar发布piwigo网站）](https://juejin.cn/post/7164709706387161124) | Fri Nov 11 2022 10:53 AM 
+- 💪 [使用Cpolar搭建一个图片网站3 （用cpolar发布piwigo网站）](https://juejin.cn/post/7164709706387161124) | Fri Nov 11 2022 10:53 AM 
     <details><summary>展开描述 ...</summary> 
     在上篇文章中，我们在本地电脑上搭建了适合piwigo网页的运行环境，并成功的安装了Piwigo网页。接下来我们要做的，就是通过内网穿透软件cpolar，建立一条连接公共互联网的数据隧道，将这个图片网页 
-    </details> 
-
-- 💪 [使用Cpolar搭建一个图片网站2 （Piwigo网站环境准备及安装）](https://juejin.cn/post/7164709520306864135) | Fri Nov 11 2022 10:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    在上篇文章中，我们为大家介绍并安装了搭建Piwigo图片网站所需的各个软件，以及网站运行所需的环境软件。接下来，我们需要对PHPstudy进行设置，使其能生成Piwigo运行所需的环境。 首先打开PH 
     </details> 
 <!-- juejin:END -->
 ### 少数派
