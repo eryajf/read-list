@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [全栈 webSocket 实战获取 jenkins 构建日志](https://juejin.cn/post/7164755084403097608) | Fri Nov 11 2022 1:49 PM 
+- 🤗 [ES6 类聊 JavaScript 设计模式之行为型模式（一）](https://juejin.cn/post/7164774705184899080) | Fri Nov 11 2022 3:05 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文是《ES6 类聊 JavaScript 设计模式》的第三篇，介绍第三种类型的设计模式行为设计模式，行为型模式为设计模式的一种类型，用来识别对象之间的常用交流模式并加以实现。 
+    </details> 
+
+- 🎡 [实战教程·元宇宙来了，准备好你的电子名片了吗？（一）](https://juejin.cn/post/7164773337342836750) | Fri Nov 11 2022 3:01 PM 
+    <details><summary>展开描述 ...</summary> 
+    自从在技术论坛开始写作后，会遇到来自不同领域不同平台的朋友加为好友。后来人数多了以后，对于相同社区的朋友为了方便管理就建立了微信群进行管理。由于在不同平台的内容更新频次不同，会被经常问起在...... 
+    </details> 
+
+- 🕯 [使用 Canvas 制作满屏爱心和文字动画](https://juejin.cn/post/7164769075259211789) | Fri Nov 11 2022 2:44 PM 
+    <details><summary>展开描述 ...</summary> 
+    Canvas 适合绘制大数据量图形元素的图表（如热力图、地理坐标系或平行坐标系上的大规模线图或散点图等），也适合实现某些视觉特效。它还能能够以 png、jpg 或 webp 格式保存图像。 
+    </details> 
+
+- 🚀 [全栈 webSocket 实战获取 jenkins 构建日志](https://juejin.cn/post/7164755084403097608) | Fri Nov 11 2022 1:49 PM 
     <details><summary>展开描述 ...</summary> 
     大家好啊！本文来到了实战前端发布平台的最后一个阶段，实战前端获取Jenkins构建日志。在这里！你有机会知道全栈 webSocket 怎么玩，掌握 webSocket 的实战应用场景和技能！ 
     </details> 
 
-- 🎡 [手摸手打造类码上掘金在线IDE（三）——沙箱环境](https://juejin.cn/post/7164745561617367077) | Fri Nov 11 2022 1:12 PM 
+- 💪 [手摸手打造类码上掘金在线IDE（三）——沙箱环境](https://juejin.cn/post/7164745561617367077) | Fri Nov 11 2022 1:12 PM 
     <details><summary>展开描述 ...</summary> 
     前言 在前面的内容中，我们讲了在线ide 的内容种类，状况，以及如何选择ide 的代码编辑器， 我们从 市面上的各种高端的ide 实现套路，说到了他的简单的原理，从 monaco-editor讲到了  
-    </details> 
-
-- 🕯 [Git 分支管理策略汇总](https://juejin.cn/post/7164740289922334727) | Fri Nov 11 2022 12:52 PM 
-    <details><summary>展开描述 ...</summary> 
-    最近，团队新入职了一些小伙伴，在开发过程中，他们问我 Git 分支是如何管理的，以及应该怎么提交代码？ 我大概说了一些规则，但仔细想来，好像也并没有形成一个清晰规范的 
-    </details> 
-
-- 🚀 [音视频——Codec初始化及Omx组件创建](https://juejin.cn/post/7164739772957589518) | Fri Nov 11 2022 12:50 PM 
-    <details><summary>展开描述 ...</summary> 
-    Android提供给应用编解码的接口为MediaCodec。我们这里从NuPlayerDecoder开始分析，一是为了衔接之前将的MediaPlayer-NuPlayer流程，二是可以从中参考到Med 
-    </details> 
-
-- 💪 [使用Cpolar搭建一个图片网站3 （用cpolar发布piwigo网站）](https://juejin.cn/post/7164709706387161124) | Fri Nov 11 2022 10:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    在上篇文章中，我们在本地电脑上搭建了适合piwigo网页的运行环境，并成功的安装了Piwigo网页。接下来我们要做的，就是通过内网穿透软件cpolar，建立一条连接公共互联网的数据隧道，将这个图片网页 
     </details> 
 <!-- juejin:END -->
 ### 少数派
