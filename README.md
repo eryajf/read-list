@@ -122,29 +122,29 @@
 ### 独立开发变现周刊
 
 <!-- easyindie:START -->
-- 💂 [独立开发变现周刊（第78期） : 建立一个佣金网站，每月赚4万美元](https://www.ezindie.com/weekly/issue-78) | Fri Nov 04 2022 12:00 AM 
+- 💂 [独立开发变现周刊（第79期） : 一个产品页面流灵感网站，每月4.5K美元](https://www.ezindie.com/weekly/issue-79) | Fri Nov 11 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。一个产品页面流灵感网站，每月4.5K美元 
+    </details> 
+
+- 💡 [独立开发变现周刊（第78期） : 建立一个佣金网站，每月赚4万美元](https://www.ezindie.com/weekly/issue-78) | Fri Nov 04 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。建立一个佣金网站，每月赚4万美元 
     </details> 
 
-- 💡 [独立开发变现周刊（第77期） : 文章转短视频工具短短5个月内达到月收入6000美元](https://www.ezindie.com/weekly/issue-77) | Fri Oct 28 2022 12:00 AM 
+- 🌋 [独立开发变现周刊（第77期） : 文章转短视频工具短短5个月内达到月收入6000美元](https://www.ezindie.com/weekly/issue-77) | Fri Oct 28 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。文章转短视频工具短短5个月内达到月收入6000美元 
     </details> 
 
-- 🌋 [独立开发变现周刊（第76期） : 一款两性关系治愈类iPhone应用是如何盈利的？](https://www.ezindie.com/weekly/issue-76) | Fri Oct 21 2022 12:00 AM 
+- 🕴 [独立开发变现周刊（第76期） : 一款两性关系治愈类iPhone应用是如何盈利的？](https://www.ezindie.com/weekly/issue-76) | Fri Oct 21 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。一款两性关系治愈类iPhone应用是如何盈利的？ 
     </details> 
 
-- 🕴 [独立开发变现周刊（第75期） : 我的SaaS模板代码库每月赚4千美元](https://www.ezindie.com/weekly/issue-75) | Fri Oct 14 2022 12:00 AM 
+- 🎊 [独立开发变现周刊（第75期） : 我的SaaS模板代码库每月赚4千美元](https://www.ezindie.com/weekly/issue-75) | Fri Oct 14 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。我的SaaS模板代码库每月赚4千美元 
-    </details> 
-
-- 🎊 [独立开发变现周刊（第74期） : 我的业余项目在3个月内月收入2500美元](https://www.ezindie.com/weekly/issue-74) | Fri Sep 30 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。我的业余项目在3个月内月收入2500美元 
     </details> 
 <!-- easyindie:END -->
 
