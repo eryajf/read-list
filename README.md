@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [使用Cpolar搭建一个图片网站3 （用cpolar发布piwigo网站）](https://juejin.cn/post/7164709706387161124) | Fri Nov 11 2022 10:53 AM 
+- 🤗 [手摸手打造类码上掘金在线IDE（三）——沙箱环境](https://juejin.cn/post/7164745561617367077) | Fri Nov 11 2022 1:12 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 在前面的内容中，我们讲了在线ide 的内容种类，状况，以及如何选择ide 的代码编辑器， 我们从 市面上的各种高端的ide 实现套路，说到了他的简单的原理，从 monaco-editor讲到了  
+    </details> 
+
+- 🎡 [Git 分支管理策略汇总](https://juejin.cn/post/7164740289922334727) | Fri Nov 11 2022 12:52 PM 
+    <details><summary>展开描述 ...</summary> 
+    最近，团队新入职了一些小伙伴，在开发过程中，他们问我 Git 分支是如何管理的，以及应该怎么提交代码？ 我大概说了一些规则，但仔细想来，好像也并没有形成一个清晰规范的 
+    </details> 
+
+- 🕯 [音视频——Codec初始化及Omx组件创建](https://juejin.cn/post/7164739772957589518) | Fri Nov 11 2022 12:50 PM 
+    <details><summary>展开描述 ...</summary> 
+    Android提供给应用编解码的接口为MediaCodec。我们这里从NuPlayerDecoder开始分析，一是为了衔接之前将的MediaPlayer-NuPlayer流程，二是可以从中参考到Med 
+    </details> 
+
+- 🚀 [使用Cpolar搭建一个图片网站3 （用cpolar发布piwigo网站）](https://juejin.cn/post/7164709706387161124) | Fri Nov 11 2022 10:53 AM 
     <details><summary>展开描述 ...</summary> 
     在上篇文章中，我们在本地电脑上搭建了适合piwigo网页的运行环境，并成功的安装了Piwigo网页。接下来我们要做的，就是通过内网穿透软件cpolar，建立一条连接公共互联网的数据隧道，将这个图片网页 
     </details> 
 
-- 🎡 [使用Cpolar搭建一个图片网站2 （Piwigo网站环境准备及安装）](https://juejin.cn/post/7164709520306864135) | Fri Nov 11 2022 10:52 AM 
+- 💪 [使用Cpolar搭建一个图片网站2 （Piwigo网站环境准备及安装）](https://juejin.cn/post/7164709520306864135) | Fri Nov 11 2022 10:52 AM 
     <details><summary>展开描述 ...</summary> 
     在上篇文章中，我们为大家介绍并安装了搭建Piwigo图片网站所需的各个软件，以及网站运行所需的环境软件。接下来，我们需要对PHPstudy进行设置，使其能生成Piwigo运行所需的环境。 首先打开PH 
-    </details> 
-
-- 🕯 [使用Cpolar搭建一个图片网站1 （所需软件安装准备）](https://juejin.cn/post/7164709275372093470) | Fri Nov 11 2022 10:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    现代的手机功能越来越强大，也让我们能随时随地抓拍有趣瞬间。而照片越来越多，全都存放在手机上并不现实，存在云端又有安全隐患，只能存放在自己的电脑上。而这又带来难以随时与他人分享的问题。不过，我们完全可以 
-    </details> 
-
-- 🚀 [推荐20个开源的前端低代码项目](https://juejin.cn/post/7164694758588153863) | Fri Nov 11 2022 9:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    近几年，在技术领域低代码是比较热门的话题，比如阿里云推出了易搭，通过简单的拖拽、配置，即可完成业务应用的搭建，腾讯云则是推出了微搭，通过行业化模板、拖放式组件和可视化配置快速构建多端应用。 低代码是基 
-    </details> 
-
-- 💪 [记一次 hooks 闭包陷阱问题](https://juejin.cn/post/7164694515587448863) | Fri Nov 11 2022 9:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    hooks 的闭包陷阱是个老生常谈的问题了，但依然很容易在开发时忽略。近日再次遭遇了这个问题，记录一下。提供useRef、setState函数式更新、useReducer等解决方案。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
