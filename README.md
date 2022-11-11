@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [javaee 有无父子依赖项目的 rmi 服务注册发现规范&lpar;类似 spi&rpar;](https://www.v2ex.com/t/894514#reply0) | Fri Nov 11 2022 8:08 AM
-- 🤗 [数学一考试中哪部分是基础题呢？](https://www.v2ex.com/t/894512#reply0) | Fri Nov 11 2022 8:05 AM
-- 🎭 [使用 ffmepg 把图片和长音频转换为视频的时候，视频和音频的时间对不上，声音也减少了一半](https://www.v2ex.com/t/894507#reply0) | Fri Nov 11 2022 7:55 AM
-- 🥷 [如何解析动态类型的 json？](https://www.v2ex.com/t/894502#reply2) | Fri Nov 11 2022 7:42 AM
-- 🐵 [使用 git 在多设备间同步 obsidian 时，需要同步.obsidian 这个目录吗？](https://www.v2ex.com/t/894500#reply0) | Fri Nov 11 2022 7:37 AM<!-- v2ex:END -->
+- 🥸 [SPA 配置错误导致 index.html 被用户浏览器缓存了，不刷新页面就一直是旧版本，有办法在 SPA 请求的 API 请求的响应头中告诉浏览器需要清除全部页面的缓存吗？ StackOverflow 找了很久，没有一个方案是可用的。](https://www.v2ex.com/t/894532#reply0) | Fri Nov 11 2022 9:04 AM
+- 🤗 [Windows 10 上有那些三方的暗色主题推荐](https://www.v2ex.com/t/894529#reply0) | Fri Nov 11 2022 8:45 AM
+- 🎭 [终于知道为什么我们开发的时候要把用户当白痴了](https://www.v2ex.com/t/894527#reply22) | Fri Nov 11 2022 8:41 AM
+- 🥷 [javaee 有无父子依赖项目的 rmi 服务注册发现规范&lpar;类似 spi&rpar;](https://www.v2ex.com/t/894514#reply0) | Fri Nov 11 2022 8:08 AM
+- 🐵 [数学一考试中哪部分是基础题呢？](https://www.v2ex.com/t/894512#reply0) | Fri Nov 11 2022 8:05 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
