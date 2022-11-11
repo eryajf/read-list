@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [ijkPlayer 播放器，全自动编译脚本](https://juejin.cn/post/7164665077051129887) | Fri Nov 11 2022 8:00 AM 
+- 🤗 [🎁 10月更文 中奖名单来啦！](https://juejin.cn/post/7164686827616632839) | Fri Nov 11 2022 9:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    10月更文完整获奖名单公示来啦！掘友们赶紧来查查有没有自己吧，期待每位参与的掘友在活动中都能收获满满！ 
+    </details> 
+
+- 🎡 [数据一致性离不开的checkpoint机制](https://juejin.cn/post/7164676410575945758) | Fri Nov 11 2022 8:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    当系统出现故障重启后，通常要对前面的操作进行replay。但是从头开始代价太高了，所以通过checkpoint来减少进行replay的操作数。checkpiont机制保证在某一时刻，系统运行所在的易失 
+    </details> 
+
+- 🕯 [【大数据】-flume-Avro客户端进行数据发送](https://juejin.cn/post/7164665495839309855) | Fri Nov 11 2022 8:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    在进行flume数据部署验证的时候，除了使用telnet 或者nc 客户端进行数据发送获取外，还可以通过flume自带的 Avro客户端进行数据发送获取。 一、Flume avro-client介绍  
+    </details> 
+
+- 🚀 [ijkPlayer 播放器，全自动编译脚本](https://juejin.cn/post/7164665077051129887) | Fri Nov 11 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     ijkPlayer 编译全格式支持 .so库基本步骤,ijkPlayer 播放器，全自动编译脚本.IjkPlayer播放器编译。全音视频格式支持。 
     </details> 
 
-- 🎡 [实采6位产品经理，他们转行都去了哪里？](https://juejin.cn/post/7164661775475376159) | Fri Nov 11 2022 7:47 AM 
+- 💪 [实采6位产品经理，他们转行都去了哪里？](https://juejin.cn/post/7164661775475376159) | Fri Nov 11 2022 7:47 AM 
     <details><summary>展开描述 ...</summary> 
     作为互联网最炙手可热的优质岗位，产品经理以其“门槛低”、“工资高“的就业优势深受职场新人青睐，招聘需求榜常年稳居Top3，随着压力和内卷与日俱增，从业多年的产品经理陆续呈现出走的迹象，或自主创业，或退 
-    </details> 
-
-- 🕯 [计算机网络：随机访问介质访问控制之CSMA/CA协议](https://juejin.cn/post/7164657750352330789) | Fri Nov 11 2022 7:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 CSMA/CD协议已成功应用于使用有线连接的局域网，但在无线局域网环境下，却不能简单地搬用CSMA/CD协议，特别是碰撞检测部分。主要有两个原因: 1） 
-    </details> 
-
-- 🚀 [使用平衡树 进行运势计算: 架构一只树](https://juejin.cn/post/7164656671485067272) | Fri Nov 11 2022 7:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    写在前面 二叉树是 树形结构计算的一种特例，二叉平衡树是其中的佼佼者，当我们使用有序的方法插入节点到树时，相比链表的查询，操作大量数据时 我们可以省却在链表中查找的繁琐。 二叉搜索树是 红黑树的基础红 
-    </details> 
-
-- 💪 [CSS 的各种遮罩，让图片和背景更加多元化](https://juejin.cn/post/7164655860986150925) | Fri Nov 11 2022 7:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    在常见的场景中，一张图片只能方形或者圆形展示，如果想要以不规则的通常都是通知 UI 小姐姐让她帮忙处理一下图片，然后直接用就好了； 但是小姐姐只会影响我敲代码的速度，等她处理图片我的代码都写好了。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
