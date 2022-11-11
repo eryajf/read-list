@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [FileChannel 文件流的简单使用](https://juejin.cn/post/7164545691488878623) | Fri Nov 11 2022 12:16 AM 
+- 🤗 [ijkPlayer 编译全格式支持 .so库基本步骤](https://juejin.cn/post/7164665077051129887) | Fri Nov 11 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 在文章NIO 下的 ByteBuffer简单学习 中, 我们有写过一个简单的文件读取案例, 在案例中有使用到 Buffer 和 Channel, 关于 Buffer 的简单使用可以看下面两篇文章 
+    ijkPlayer 编译全格式支持 .so库基本步骤 拉取docker镜像 在本机docker目录下check ijkplayer项目,有代理的最好自己挂上代理 启动docker并挂载指定目录 进入d 
     </details> 
 
-- 🎡 [小白可能不太好学会的nestjs+grpc+docker完整流程](https://juejin.cn/post/7164380976112468005) | Thu Nov 10 2022 1:38 PM 
+- 🎡 [使用平衡树 进行运势计算: 架构一只树](https://juejin.cn/post/7164656671485067272) | Fri Nov 11 2022 7:27 AM 
     <details><summary>展开描述 ...</summary> 
-    前这一套服务我自己也搞了一个多礼拜，光从把服务部署到docker就弄了两天，期间遇到了各种奇怪的，网上找不到原因的报错，最后好不容易才让服务运行起来。加上grpc框架在node使用的文章不多，大多是在 
+    写在前面 二叉树是 树形结构计算的一种特例，二叉平衡树是其中的佼佼者，当我们使用有序的方法插入节点到树时，相比链表的查询，操作大量数据时 我们可以省却在链表中查找的繁琐。 二叉搜索树是 红黑树的基础红 
     </details> 
 
-- 🕯 [MySQL高可用MHA配置与故障切换示例](https://juejin.cn/post/7164375250325471240) | Thu Nov 10 2022 1:15 PM 
+- 🕯 [CSS 的各种遮罩，让图片和背景更加多元化](https://juejin.cn/post/7164655860986150925) | Fri Nov 11 2022 7:24 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇讲解了MySQL中的高可用方案之一MHA，讲解了MHA基本原理与概念，同时进行了MHA集群的搭建以及故障切换的模拟。 
+    在常见的场景中，一张图片只能方形或者圆形展示，如果想要以不规则的通常都是通知 UI 小姐姐让她帮忙处理一下图片，然后直接用就好了； 但是小姐姐只会影响我敲代码的速度，等她处理图片我的代码都写好了。 
     </details> 
 
-- 🚀 [技术文章摘录：为什么我只改一行的语句，锁这么多？](https://juejin.cn/post/7164371999463047205) | Thu Nov 10 2022 1:03 PM 
+- 🚀 [Java项目的程序里为什么老用注解？注解有哪些作用](https://juejin.cn/post/7164655191201939486) | Fri Nov 11 2022 7:21 AM 
     <details><summary>展开描述 ...</summary> 
-    在上一篇文章中，我和你介绍了间隙锁和 next-key lock 的概念，但是并没有说明加锁规则。间隙锁的概念理解起来确实有点儿难，尤其在配合上行锁以后，很容易在判断是否会出现锁等待的问题上犯错。 所 
+    注解的英文名叫“Annotation”，是 Java 中给类、方法以及成员变量等元素增加元数据的方式。换言之注解就是用于描述这些元素的。 注解和注释不同的是，注解会被 Java 编译器处理而非跳过。  
     </details> 
 
-- 💪 [多方式登录与手机号验证接口，腾讯云短信介绍和申请](https://juejin.cn/post/7164365734284361758) | Thu Nov 10 2022 12:38 PM 
+- 💪 [字节跳动提出 KVM 内核热升级方案，效率提升 5.25 倍](https://juejin.cn/post/7164653296022454303) | Fri Nov 11 2022 7:14 AM 
     <details><summary>展开描述 ...</summary> 
-    首页中间部分样式 多方式登录接口 views.py serializer.py urls.py 手机号是否存在接口 腾讯云短信介绍和申请 ![27]&lpar;E:\知识点归档\12 Luffy\imgs\27 
+    在2022年9月虚拟化全球峰会KVM Forum 会议上，字节跳动提出一种在KVM热升级场景中透明支持 PCI 直通设备的方案，能够显著降低内核热升级的实现成本，效率提升 5.25 倍 
     </details> 
 <!-- juejin:END -->
 ### 少数派
