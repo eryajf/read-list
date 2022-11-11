@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [[求教]lsp-pyright 该如何配置虚拟环境？](https://www.v2ex.com/t/894542#reply0) | Fri Nov 11 2022 9:40 AM
-- 🤗 [SPA 配置错误导致 index.html 被用户浏览器缓存了，不刷新页面就一直是旧版本，有办法在 SPA 请求的 API 请求的响应头中告诉浏览器需要清除全部页面的缓存吗？ StackOverflow 找了很久，没有一个方案是可用的。](https://www.v2ex.com/t/894532#reply6) | Fri Nov 11 2022 9:04 AM
-- 🎭 [Windows 10 上有那些三方的暗色主题推荐](https://www.v2ex.com/t/894529#reply0) | Fri Nov 11 2022 8:45 AM
-- 🥷 [终于知道为什么我们开发的时候要把用户当白痴了](https://www.v2ex.com/t/894527#reply32) | Fri Nov 11 2022 8:41 AM
-- 🐵 [javaee 有无父子依赖项目的 rmi 服务注册发现规范&lpar;类似 spi&rpar;](https://www.v2ex.com/t/894514#reply0) | Fri Nov 11 2022 8:08 AM<!-- v2ex:END -->
+- 🥸 [传说中的涩图生成器](https://www.v2ex.com/t/894568#reply0) | Fri Nov 11 2022 11:06 AM
+- 🤗 [MAKATI~钻石大厦~ 岗位： # PHP ，#H5 ，#安卓 ，#产品经理 ，#SEO 学徒 ，#招商 ，#财务 ，#客服 ，#电维 ，#推广 纸飞机： @PURRGISKAV](https://www.v2ex.com/t/894564#reply0) | Fri Nov 11 2022 10:49 AM
+- 🎭 [clion 写 c，如何配置对应的头文件自动填充](https://www.v2ex.com/t/894559#reply0) | Fri Nov 11 2022 10:33 AM
+- 🥷 [edge 浏览器已经越来越臃肿了](https://www.v2ex.com/t/894558#reply1) | Fri Nov 11 2022 10:32 AM
+- 🐵 [家里路由器运行 SS 服务端安全吗？](https://www.v2ex.com/t/894557#reply0) | Fri Nov 11 2022 10:25 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
