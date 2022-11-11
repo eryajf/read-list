@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [从以太坊Solidity概述以及合约示例开始学习区块链技术吧！](https://juejin.cn/post/7164411105295466526) | Thu Nov 10 2022 3:34 PM 
+- 🤗 [Spring Boot 整合 Security 权限控制-5:实现登录验证/提示功能](https://juejin.cn/post/7164567417174097951) | Fri Nov 11 2022 1:40 AM 
     <details><summary>展开描述 ...</summary> 
-    solidity是一种静态类型的编程语言，用于开发在以太坊（Ethereum）上运行的智能合约。solidity被编译为可在以太坊虚拟机（EVM）上运行的字节码。以太坊虚拟机（EVM）是智能合约的运行 
+    配置登录失败跳转地址, 修改WebSecurityConfig配置文件 修改登录页面自动跳转错误提示 
     </details> 
 
-- 🎡 [使用 CSS mask 对图像应用遮罩效果](https://juejin.cn/post/7164411148136087565) | Thu Nov 10 2022 3:34 PM 
+- 🎡 [官宣！Hippo4j 1.4.x 新版本正式发布，探索更多玩法](https://juejin.cn/post/7164550945303429157) | Fri Nov 11 2022 12:37 AM 
     <details><summary>展开描述 ...</summary> 
-    为什么B站的弹幕可以不挡人物 这篇文章里面介绍了这个神奇的 mask 属性，我们知道了B站的弹幕可以不挡人物的原理： 视频处理：每一帧画面都由后台 AI 识别后生成对应的 base64 图片，一张图 
+    2022 年 11 月 06 日，Hippo4j 1.4.3 版本正式发布！ Hippo4j 是一个线程池框架，基于 JDK 原生线程池扩展了诸多功能，比如：运行时动态变更线程池参数、采集线程池运.. 
     </details> 
 
-- 🕯 [TypeScript 类型体操：合并映射类型的处理结果为联合类型](https://juejin.cn/post/7164407257151569956) | Thu Nov 10 2022 3:19 PM 
+- 🕯 [数据仓库实战教程](https://juejin.cn/post/7164545179385331743) | Fri Nov 11 2022 12:15 AM 
     <details><summary>展开描述 ...</summary> 
-    索引类型是 TypeScript 中的常见类型，它是聚合多个元素的类型，对象、类、元组等都是索引类型。 比如这样： 对索引类型做变换会用到映射类型的语法，它可以对索引类型的索引和值做一些变换，然后产生 
+    数据仓库实战教程 数据仓库已经是企业的数据竞争的核心了，学好数据仓库对提高自己和找到一份好的工作都至关重要，但是很多人对数仓的印象还是停留在写SQL的层面,其实今天的数仓更像是一个数据平台应用,我们学 
     </details> 
 
-- 🚀 [Web 实时通信技术WebRTC](https://juejin.cn/post/7164407041799225358) | Thu Nov 10 2022 3:19 PM 
+- 🚀 [涨姿势了，这 4 个场景可用 CSS 完全取代 JS ~](https://juejin.cn/post/7164527444731363336) | Thu Nov 10 2022 11:08 PM 
     <details><summary>展开描述 ...</summary> 
-    Web 实时通信 &lpar;WebRTC&rpar; 是目前正在开发的开源项目，主要目的是提供 Web 应用程序之间的实时、对等通信。 WebRTC 首次发布时，针对的是在 Chrome 上运行的 Web 应用程序。但 
+    本篇带来 4 种用完全 CSS 实现完全代替 JS 实现的场景。涨一波姿势~~~~~~~~~~~~~~~~~~~ 
     </details> 
 
-- 💪 [【MySQL】深入理解MySQL分区表原理与企业级实战](https://juejin.cn/post/7164406180243046436) | Thu Nov 10 2022 3:16 PM 
+- 💪 [第131期：Dart类型和类型推断](https://juejin.cn/post/7164423040959250469) | Thu Nov 10 2022 4:23 PM 
     <details><summary>展开描述 ...</summary> 
-    本文详细讲解什么是分区表，分区表增删改查的工作原理以及分区表的实战，分区表的场景有哪些，哪些场景不建议用分区表，并列举出六点使用分区表的误区。 
+    封面图 用ts定义了一些类，用来实现前端监控系统。 Dart类型系统 Dart使用了静态类型检查和运行时检查组合，用于确保变量的类型始终保持一定的正确性。虽然Dart是强类型语言，但是由于存在类型推断 
     </details> 
 <!-- juejin:END -->
 ### 少数派
