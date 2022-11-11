@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [推荐20个开源的前端低代码项目](https://juejin.cn/post/7164694758588153863) | Fri Nov 11 2022 9:55 AM 
+- 🤗 [使用Cpolar搭建一个图片网站3 （用cpolar发布piwigo网站）](https://juejin.cn/post/7164709706387161124) | Fri Nov 11 2022 10:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    在上篇文章中，我们在本地电脑上搭建了适合piwigo网页的运行环境，并成功的安装了Piwigo网页。接下来我们要做的，就是通过内网穿透软件cpolar，建立一条连接公共互联网的数据隧道，将这个图片网页 
+    </details> 
+
+- 🎡 [使用Cpolar搭建一个图片网站2 （Piwigo网站环境准备及安装）](https://juejin.cn/post/7164709520306864135) | Fri Nov 11 2022 10:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    在上篇文章中，我们为大家介绍并安装了搭建Piwigo图片网站所需的各个软件，以及网站运行所需的环境软件。接下来，我们需要对PHPstudy进行设置，使其能生成Piwigo运行所需的环境。 首先打开PH 
+    </details> 
+
+- 🕯 [使用Cpolar搭建一个图片网站1 （所需软件安装准备）](https://juejin.cn/post/7164709275372093470) | Fri Nov 11 2022 10:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    现代的手机功能越来越强大，也让我们能随时随地抓拍有趣瞬间。而照片越来越多，全都存放在手机上并不现实，存在云端又有安全隐患，只能存放在自己的电脑上。而这又带来难以随时与他人分享的问题。不过，我们完全可以 
+    </details> 
+
+- 🚀 [推荐20个开源的前端低代码项目](https://juejin.cn/post/7164694758588153863) | Fri Nov 11 2022 9:55 AM 
     <details><summary>展开描述 ...</summary> 
     近几年，在技术领域低代码是比较热门的话题，比如阿里云推出了易搭，通过简单的拖拽、配置，即可完成业务应用的搭建，腾讯云则是推出了微搭，通过行业化模板、拖放式组件和可视化配置快速构建多端应用。 低代码是基 
     </details> 
 
-- 🎡 [🎁 10月更文 中奖名单来啦！](https://juejin.cn/post/7164686827616632839) | Fri Nov 11 2022 9:24 AM 
+- 💪 [记一次 hooks 闭包陷阱问题](https://juejin.cn/post/7164694515587448863) | Fri Nov 11 2022 9:54 AM 
     <details><summary>展开描述 ...</summary> 
-    10月更文完整获奖名单公示来啦！掘友们赶紧来查查有没有自己吧，期待每位参与的掘友在活动中都能收获满满！ 
-    </details> 
-
-- 🕯 [【电商实战03】如何使用ORM链式操作?如何优雅的实现软删除？](https://juejin.cn/post/7164681825304969247) | Fri Nov 11 2022 9:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    结合实战项目带大家学会Go：1. ORM链式操作 2. 如何优雅的进行时间维护 3. 软删除和物理删除的区别 4. 如何优雅的实现软删除 5. 结合商业项目需求，有哪些容易踩的坑？ 
-    </details> 
-
-- 🚀 [数据一致性离不开的checkpoint机制](https://juejin.cn/post/7164676410575945758) | Fri Nov 11 2022 8:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    当系统出现故障重启后，通常要对前面的操作进行replay。但是从头开始代价太高了，所以通过checkpoint来减少进行replay的操作数。checkpiont机制保证在某一时刻，系统运行所在的易失 
-    </details> 
-
-- 💪 [【大数据】-flume-Avro客户端进行数据发送](https://juejin.cn/post/7164665495839309855) | Fri Nov 11 2022 8:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    在进行flume数据部署验证的时候，除了使用telnet 或者nc 客户端进行数据发送获取外，还可以通过flume自带的 Avro客户端进行数据发送获取。 一、Flume avro-client介绍  
+    hooks 的闭包陷阱是个老生常谈的问题了，但依然很容易在开发时忽略。近日再次遭遇了这个问题，记录一下。提供useRef、setState函数式更新、useReducer等解决方案。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
