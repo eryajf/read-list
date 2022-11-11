@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [[求助]Go Web 部署 Systemd 启动后路径问题, 找不到静态资源](https://www.v2ex.com/t/894349#reply1) | Fri Nov 11 2022 1:31 AM
-- 🤗 [想买个显示器写代码看文档用，大家有啥好推荐吗？](https://www.v2ex.com/t/894342#reply15) | Fri Nov 11 2022 1:17 AM
-- 🎭 [官宣！ Hippo4j 1.4.x 新版本正式发布，探索更多玩法](https://www.v2ex.com/t/894332#reply0) | Fri Nov 11 2022 12:54 AM
-- 🥷 [国外笔记本能拿到国内维修吗？](https://www.v2ex.com/t/894309#reply9) | Thu Nov 10 2022 5:49 PM
-- 🐵 [广州、深圳地区的千峰、黑马、尚硅谷 Java 培训哪个好点](https://www.v2ex.com/t/894302#reply5) | Thu Nov 10 2022 4:47 PM<!-- v2ex:END -->
+- 🥸 [vue 打包路由懒加载受哪些地方影响？](https://www.v2ex.com/t/894421#reply0) | Fri Nov 11 2022 3:29 AM
+- 🤗 [纠结！计划小润，离开郑州，要选择哪个城市](https://www.v2ex.com/t/894413#reply13) | Fri Nov 11 2022 3:17 AM
+- 🎭 [分享两篇文章：开源密码管理器更安全吗？](https://www.v2ex.com/t/894400#reply0) | Fri Nov 11 2022 2:51 AM
+- 🥷 [选择纠结！](https://www.v2ex.com/t/894390#reply19) | Fri Nov 11 2022 2:35 AM
+- 🐵 [Prometheus 纪录片完整版（中英双语），带你了解 Prometheus 的前世今生](https://www.v2ex.com/t/894384#reply0) | Fri Nov 11 2022 2:20 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
