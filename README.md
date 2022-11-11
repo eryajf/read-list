@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [🎁 10月更文 中奖名单来啦！](https://juejin.cn/post/7164686827616632839) | Fri Nov 11 2022 9:24 AM 
+- 🤗 [推荐20个开源的前端低代码项目](https://juejin.cn/post/7164694758588153863) | Fri Nov 11 2022 9:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    近几年，在技术领域低代码是比较热门的话题，比如阿里云推出了易搭，通过简单的拖拽、配置，即可完成业务应用的搭建，腾讯云则是推出了微搭，通过行业化模板、拖放式组件和可视化配置快速构建多端应用。 低代码是基 
+    </details> 
+
+- 🎡 [🎁 10月更文 中奖名单来啦！](https://juejin.cn/post/7164686827616632839) | Fri Nov 11 2022 9:24 AM 
     <details><summary>展开描述 ...</summary> 
     10月更文完整获奖名单公示来啦！掘友们赶紧来查查有没有自己吧，期待每位参与的掘友在活动中都能收获满满！ 
     </details> 
 
-- 🎡 [数据一致性离不开的checkpoint机制](https://juejin.cn/post/7164676410575945758) | Fri Nov 11 2022 8:43 AM 
+- 🕯 [【电商实战03】如何使用ORM链式操作?如何优雅的实现软删除？](https://juejin.cn/post/7164681825304969247) | Fri Nov 11 2022 9:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    结合实战项目带大家学会Go：1. ORM链式操作 2. 如何优雅的进行时间维护 3. 软删除和物理删除的区别 4. 如何优雅的实现软删除 5. 结合商业项目需求，有哪些容易踩的坑？ 
+    </details> 
+
+- 🚀 [数据一致性离不开的checkpoint机制](https://juejin.cn/post/7164676410575945758) | Fri Nov 11 2022 8:43 AM 
     <details><summary>展开描述 ...</summary> 
     当系统出现故障重启后，通常要对前面的操作进行replay。但是从头开始代价太高了，所以通过checkpoint来减少进行replay的操作数。checkpiont机制保证在某一时刻，系统运行所在的易失 
     </details> 
 
-- 🕯 [【大数据】-flume-Avro客户端进行数据发送](https://juejin.cn/post/7164665495839309855) | Fri Nov 11 2022 8:02 AM 
+- 💪 [【大数据】-flume-Avro客户端进行数据发送](https://juejin.cn/post/7164665495839309855) | Fri Nov 11 2022 8:02 AM 
     <details><summary>展开描述 ...</summary> 
     在进行flume数据部署验证的时候，除了使用telnet 或者nc 客户端进行数据发送获取外，还可以通过flume自带的 Avro客户端进行数据发送获取。 一、Flume avro-client介绍  
-    </details> 
-
-- 🚀 [ijkPlayer 播放器，全自动编译脚本](https://juejin.cn/post/7164665077051129887) | Fri Nov 11 2022 8:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    ijkPlayer 编译全格式支持 .so库基本步骤,ijkPlayer 播放器，全自动编译脚本.IjkPlayer播放器编译。全音视频格式支持。 
-    </details> 
-
-- 💪 [实采6位产品经理，他们转行都去了哪里？](https://juejin.cn/post/7164661775475376159) | Fri Nov 11 2022 7:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    作为互联网最炙手可热的优质岗位，产品经理以其“门槛低”、“工资高“的就业优势深受职场新人青睐，招聘需求榜常年稳居Top3，随着压力和内卷与日俱增，从业多年的产品经理陆续呈现出走的迹象，或自主创业，或退 
     </details> 
 <!-- juejin:END -->
 ### 少数派
