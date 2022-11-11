@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [盒马 iOS Live Activity &amp;“灵动岛”配送场景实践](https://juejin.cn/post/7164594517562097671) | Fri Nov 11 2022 3:26 AM 
+- 🤗 [货拉拉大数据离线调度平台性能优化实践](https://juejin.cn/post/7164638114085306399) | Fri Nov 11 2022 6:15 AM 
     <details><summary>展开描述 ...</summary> 
-    盒马将苹果 Live Activity&amp;灵动岛 特性第一时间落地到30分钟配送场景中，在此过程端侧踩“坑”的实战经验分享给大家 
+    大数据离线开发平台作为货拉拉大数据体系最基础的能力之一，支持任意存储数据交换、丰富的任务分析和完善的交互查询服务。随着越来越多的场景接入，平台的挑战也更高。本文将就离线平台针对调度性能优化进行介绍。 
     </details> 
 
-- 🎡 [1704. 判断字符串的两半是否相似 : 简单模拟题](https://juejin.cn/post/7164585511128924191) | Fri Nov 11 2022 2:51 AM 
+- 🎡 [Shader从入门到放弃 —— Shader编程简介及坐标系绘制](https://juejin.cn/post/7164635658084941837) | Fri Nov 11 2022 6:06 AM 
     <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 1704. 判断字符串的两半是否相似 ，难度为 简单。 Tag : 「模拟」 给你一个偶数长度的字符串 s 。将其拆分成长度相同的两半，前一半为 a ，后一半为 
+    片元着色器就是决定了屏幕上每个像素颜色的一段程序。你可以简单的理解为你在为屏幕上的每一个像素点编程，每个像素点就是一个执行单元，它会完整的执行你编写的这段程序。 
     </details> 
 
-- 🕯 [34、Flutter之AnimatedList详解](https://juejin.cn/post/7164583978304241677) | Fri Nov 11 2022 2:45 AM 
+- 🕯 [美团图灵机器学习平台性能起飞的秘密（一）](https://juejin.cn/post/7164632193971519502) | Fri Nov 11 2022 5:52 AM 
     <details><summary>展开描述 ...</summary> 
-    AnimatedList AnimatedList 和 ListView 的功能大体相似，不同的是， AnimatedList 可以在列表中插入或删除节点时执行一个动画，在需要添加或删除列表项的场景中 
+    美团图灵机器学习平台在长期的优化实践中，积累了一系列独特的优化方法。本文主要介绍了图灵机器学习平台在内存优化方面沉淀的优化技术，我们深入到源码层面，介绍了Spark算子的原理并提供了最佳实践。 
     </details> 
 
-- 🚀 [React17事件机制](https://juejin.cn/post/7164583106920316941) | Fri Nov 11 2022 2:41 AM 
+- 🚀 [OCR in the Wild：文本检测和识别的SOTA](https://juejin.cn/post/7164626551739252749) | Fri Nov 11 2022 5:30 AM 
     <details><summary>展开描述 ...</summary> 
-    由于React16和React17在事件机制在细节上有较大改动，本文仅对React17的事件机制做讲解，在最后对比React17和React16在事件机制上的不同点。 
+    回顾了场景文本检测和识别领域的3篇论文，分别是检测，识别以及端到端的方法。 基于深度学习的方法可以在自然图像中检测和识别复杂的文本实例。 
     </details> 
 
-- 💪 [React17事件机制](https://juejin.cn/post/7164582718053810184) | Fri Nov 11 2022 2:41 AM 
+- 💪 [复制指向突出显示的内容的链接无效的解决办法](https://juejin.cn/post/7164602851950821413) | Fri Nov 11 2022 3:59 AM 
     <details><summary>展开描述 ...</summary> 
-    由于React16和React17在事件机制在细节上有较大改动，本文仅对React17的事件机制做讲解，在最后对比React17和React16在事件机制上的不同点。 
+    “复制指向突出显示的内容的链接”或者“copy link to highlight”是浏览器的一个鲜为人知的功能，通过这个链接打开页面，可以高亮并直接滚动到对应的位置；然而你可能会遇到一些问题。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
