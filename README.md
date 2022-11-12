@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [耗时一周，实现高仿微信渐变模糊效果——纯原生实现](https://juejin.cn/post/7165030436366712845) | Sat Nov 12 2022 7:38 AM 
+- 🤗 [第14个天猫双11，技术创新带来消费新体](https://juejin.cn/post/7165049798435799047) | Sat Nov 12 2022 8:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    【双11大淘宝技术核心技术解读】第14个天猫双11，聚焦“技术引领新消费”方向，大淘宝技术团队在“好买、好逛、好玩”三大领域，围绕体验升级的目标，用技术创新不断探索数字时代下最理想的消费方式和生活方式 
+    </details> 
+
+- 🎡 [如何在JVM层写切面？JVM Sandbox入门教程与原理浅谈](https://juejin.cn/post/7165045220688527368) | Sat Nov 12 2022 8:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    我们经常接触到AOP，比如熟知的Spring AOP。我们用它来做业务切面，比如登录校验，日志记录，性能监控，全局过滤器等。对于Java后端应用，有没有一种更为通用的AOP方式呢？答案是有的。 
+    </details> 
+
+- 🕯 [WeakHashMap 和 HashMap 的区别是什么，何时使用？](https://juejin.cn/post/7165044834590261256) | Sat Nov 12 2022 8:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    今天，我们来讨论 WeakHashMap，其中的 “Weak” 是指什么，与前两者的使用场景有何不同？我们就围绕这些问题展开。 
+    </details> 
+
+- 🚀 [耗时一周，实现高仿微信渐变模糊效果——纯原生实现](https://juejin.cn/post/7165030436366712845) | Sat Nov 12 2022 7:38 AM 
     <details><summary>展开描述 ...</summary> 
     本文正在参加「金石计划 . 瓜分6万现金大奖」 最近一个需求要实现类似微信状态的模糊效果，还要求不能引入库，增加包的大小。网上搜了一圈，只有 Flutter 的实现。没办法只能自己开撸。 
     </details> 
 
-- 🎡 [Java8中那些方便又实用的Map函数](https://juejin.cn/post/7165014511789801486) | Sat Nov 12 2022 6:36 AM 
+- 💪 [Java8中那些方便又实用的Map函数](https://juejin.cn/post/7165014511789801486) | Sat Nov 12 2022 6:36 AM 
     <details><summary>展开描述 ...</summary> 
     java8之后，常用的Map接口中添加了一些非常实用的函数，可以大大简化一些特定场景的代码编写，提升代码可读性，一起来看看吧。 
-    </details> 
-
-- 🕯 [790. 多米诺和托米诺平铺 : 简单状态机 DP 运用题](https://juejin.cn/post/7164991258056720415) | Sat Nov 12 2022 5:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 790. 多米诺和托米诺平铺 ，难度为 中等。 Tag : 「状态机 DP」 有两种形状的瓷砖：一种是 2 x 1 的多米诺形，另一种是形如 &quot;L&quot; 的托米诺形 
-    </details> 
-
-- 🚀 [s44.文本处理工具和正则表达式](https://juejin.cn/post/7164981429569650695) | Sat Nov 12 2022 4:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    一.第一部分 vim 1、在vim中设置tab缩进为4个字符 2、复制/etc/rc.d/init.d/functions文件至/tmp目录，替换/tmp/functions文件中的/etc/sysc 
-    </details> 
-
-- 💪 [s43.Linux用户组和权限管理](https://juejin.cn/post/7164981370362527751) | Sat Nov 12 2022 4:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    一.第一部分 用户和组 1.创建用户gentoo，附加组为bin和root，默认shell为/bin/csh，注释信息为“Gentoo Distribution” 2.创建下面的用户、组和组成员 ​  
     </details> 
 <!-- juejin:END -->
 ### 少数派
