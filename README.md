@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [CSS + JS = JSS , 这个库你知道吗？](https://juejin.cn/post/7164920679748337701) | Sat Nov 12 2022 12:32 AM 
+- 🤗 [Idea 借助科学上网（VPN）工具使用 Translation 插件 （实测）](https://juejin.cn/post/7164960184756862984) | Sat Nov 12 2022 3:05 AM 
     <details><summary>展开描述 ...</summary> 
-    现在的样式表在前端开发中还是相对独立的，我们又试图找到一种合适的代码样式组织方式。JSS 试图打破这一困局！ 
+    IDEA的翻译插件不能使用的解决方案。 也许对于英语挺好的小伙伴们来说，有木有 Translation 插件影响并不大，但是对于我来说，Translation 插件算是我开发的另外半条命~ 
     </details> 
 
-- 🎡 [Antd 表单中使用自定义编辑器](https://juejin.cn/post/7164867599816196126) | Fri Nov 11 2022 9:14 PM 
+- 🎡 [比vuex更好用的Pinia,pinia模块化如何实现?pinia如何实现数据持久化?](https://juejin.cn/post/7164957663522979848) | Sat Nov 12 2022 2:55 AM 
     <details><summary>展开描述 ...</summary> 
-    如何在 antd 中自定义控件？ 这个问题在需要定制需求的是时候，可能非常常见。例如可能需要一个表单与富文本编辑器，或者 markdown 编辑器的结合，自定义一个控件，其实 Antd 官方自己已经给 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 pinia官方文档 https://pinia.vuejs.org/zh/ pinia模块化如何实现? pinia相比vuex没有modules,那么如 
     </details> 
 
-- 🕯 [此文带你详细了解MySQL数据库的索引知识](https://juejin.cn/post/7164805963537940488) | Fri Nov 11 2022 5:10 PM 
+- 🕯 [手把手教你轻松手写防抖和节流🔥](https://juejin.cn/post/7164939151668674596) | Sat Nov 12 2022 1:43 AM 
     <details><summary>展开描述 ...</summary> 
-    索引是一种数据结构，可以帮助我们快速查找数据在数据之外，数据 库系统还维护者满足特定查找算法的数据结构，这些数据结构以某种方式引用&lpar;指向&rpar;数据， 这样就可以在这些数 据结构上实现高级查找算法。 
+    面试官：“知道防抖和节流吗，简单地说说。” 此时我心中窃喜，这么简单，有手就行。然后就开始介绍起防抖节流的知识点。 我：“防抖是....，然后节流是....，它们的应用场景在....” 
     </details> 
 
-- 🚀 [第132期：第二次CodeReview梳理的几个问题](https://juejin.cn/post/7164793631184797704) | Fri Nov 11 2022 4:18 PM 
+- 🚀 [SpringBoot整合JDBC数据库操作-1:JDBC基础环境配置](https://juejin.cn/post/7164934554807959560) | Sat Nov 12 2022 1:25 AM 
     <details><summary>展开描述 ...</summary> 
-    封面图 现场照片，小组的成员不多，主要负责数据管理后台的开发及迭代，也会有对其他业务系统的支持工作。 写在前面 文章的主要作用是帮助自己进行思考和总结，比如我们可能都遭遇过功能上线后出现了一些不可预知 
+    从今天开始我们通过使用详细的代码以及文档详细讲诉SpringBoot整合JDBC去做数据库的操作.这篇文章主要讲述在使用SpringBoot整合JDBC的时候的基础环境的配置. 创建一个maven项目 
     </details> 
 
-- 💪 [技术周报·前端框架的趋势与实践](https://juejin.cn/post/7164790138323599367) | Fri Nov 11 2022 4:05 PM 
+- 💪 [Spring Boot 整合 Security 权限控制-6:自定义failureHandler](https://juejin.cn/post/7164934051236118559) | Sat Nov 12 2022 1:23 AM 
     <details><summary>展开描述 ...</summary> 
-    编辑推荐：前端框架的趋势与实践；前端架构师的一些思考和总结；在阿里做前端程序员，我是这样规划的；探究 LightHouse 工作流程；等。 
+    在 java 源码目录下创建hander文件夹, 在该文件夹下创建CustomAuthenticationFailHander类文件 修改WebSecurityConfig配置文件支持自定义Handl 
     </details> 
 <!-- juejin:END -->
 ### 少数派
