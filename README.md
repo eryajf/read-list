@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Idea 借助科学上网（VPN）工具使用 Translation 插件 （实测）](https://juejin.cn/post/7164960184756862984) | Sat Nov 12 2022 3:05 AM 
+- 🤗 [790. 多米诺和托米诺平铺 : 简单状态机 DP 运用题](https://juejin.cn/post/7164991258056720415) | Sat Nov 12 2022 5:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    题目描述 这是 LeetCode 上的 790. 多米诺和托米诺平铺 ，难度为 中等。 Tag : 「状态机 DP」 有两种形状的瓷砖：一种是 2 x 1 的多米诺形，另一种是形如 &quot;L&quot; 的托米诺形 
+    </details> 
+
+- 🎡 [s44.文本处理工具和正则表达式](https://juejin.cn/post/7164981429569650695) | Sat Nov 12 2022 4:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    一.第一部分 vim 1、在vim中设置tab缩进为4个字符 2、复制/etc/rc.d/init.d/functions文件至/tmp目录，替换/tmp/functions文件中的/etc/sysc 
+    </details> 
+
+- 🕯 [s43.Linux用户组和权限管理](https://juejin.cn/post/7164981370362527751) | Sat Nov 12 2022 4:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    一.第一部分 用户和组 1.创建用户gentoo，附加组为bin和root，默认shell为/bin/csh，注释信息为“Gentoo Distribution” 2.创建下面的用户、组和组成员 ​  
+    </details> 
+
+- 🚀 [Idea 借助科学上网（VPN）工具使用 Translation 插件 （实测）](https://juejin.cn/post/7164960184756862984) | Sat Nov 12 2022 3:05 AM 
     <details><summary>展开描述 ...</summary> 
     IDEA的翻译插件不能使用的解决方案。 也许对于英语挺好的小伙伴们来说，有木有 Translation 插件影响并不大，但是对于我来说，Translation 插件算是我开发的另外半条命~ 
     </details> 
 
-- 🎡 [比vuex更好用的Pinia,pinia模块化如何实现?pinia如何实现数据持久化?](https://juejin.cn/post/7164957663522979848) | Sat Nov 12 2022 2:55 AM 
+- 💪 [比vuex更好用的Pinia,pinia模块化如何实现?pinia如何实现数据持久化?](https://juejin.cn/post/7164957663522979848) | Sat Nov 12 2022 2:55 AM 
     <details><summary>展开描述 ...</summary> 
     本文正在参加「金石计划 . 瓜分6万现金大奖」 pinia官方文档 https://pinia.vuejs.org/zh/ pinia模块化如何实现? pinia相比vuex没有modules,那么如 
-    </details> 
-
-- 🕯 [手把手教你轻松手写防抖和节流🔥](https://juejin.cn/post/7164939151668674596) | Sat Nov 12 2022 1:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    面试官：“知道防抖和节流吗，简单地说说。” 此时我心中窃喜，这么简单，有手就行。然后就开始介绍起防抖节流的知识点。 我：“防抖是....，然后节流是....，它们的应用场景在....” 
-    </details> 
-
-- 🚀 [SpringBoot整合JDBC数据库操作-1:JDBC基础环境配置](https://juejin.cn/post/7164934554807959560) | Sat Nov 12 2022 1:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    从今天开始我们通过使用详细的代码以及文档详细讲诉SpringBoot整合JDBC去做数据库的操作.这篇文章主要讲述在使用SpringBoot整合JDBC的时候的基础环境的配置. 创建一个maven项目 
-    </details> 
-
-- 💪 [Spring Boot 整合 Security 权限控制-6:自定义failureHandler](https://juejin.cn/post/7164934051236118559) | Sat Nov 12 2022 1:23 AM 
-    <details><summary>展开描述 ...</summary> 
-    在 java 源码目录下创建hander文件夹, 在该文件夹下创建CustomAuthenticationFailHander类文件 修改WebSecurityConfig配置文件支持自定义Handl 
     </details> 
 <!-- juejin:END -->
 ### 少数派
