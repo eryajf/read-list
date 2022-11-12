@@ -66,29 +66,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第79期-2022年第44周](https://wiki.eryajf.net/pages/43ee57/) | Fri Nov 11 2022 9:12 AM 
+- 🫶 [结合Multitouch完成我在Mac触摸板上的高效使用](https://wiki.eryajf.net/pages/301514/) | Sat Nov 12 2022 3:32 PM 
+    <details><summary>展开描述 ...</summary> 
+    Mac 的触摸板已经是一大神器，通过辅助软件配置好，将会生发出更大的能量。本文分享记录我的触摸板规则及配置。 
+    </details> 
+
+- 🧰 [学习周刊-总第79期-2022年第44周](https://wiki.eryajf.net/pages/43ee57/) | Fri Nov 11 2022 9:12 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第79期-homebrew桌面版与一个类似jumpserver登陆界面的ssh登陆工具 
     </details> 
 
-- 🧰 [学习周刊-总第78期-2022年第43周](https://wiki.eryajf.net/pages/b0b61c/) | Sat Nov 05 2022 10:51 AM 
+- 🌏 [学习周刊-总第78期-2022年第43周](https://wiki.eryajf.net/pages/b0b61c/) | Sat Nov 05 2022 10:51 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第78期-k8s管理平台与可视化正则 
     </details> 
 
-- 🌏 [学习周刊-总第77期-2022年第42周](https://wiki.eryajf.net/pages/dc502c/) | Sat Oct 29 2022 9:57 AM 
+- 😎 [学习周刊-总第77期-2022年第42周](https://wiki.eryajf.net/pages/dc502c/) | Sat Oct 29 2022 9:57 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第77期-Vue3右键菜单组件和数据库备份管理平台 
     </details> 
 
-- 😎 [Docker 调试构建失败的 Dockerfile 的方法](https://wiki.eryajf.net/pages/8ff051/) | Sat Oct 22 2022 9:58 PM 
+- 💂 [Docker 调试构建失败的 Dockerfile 的方法](https://wiki.eryajf.net/pages/8ff051/) | Sat Oct 22 2022 9:58 PM 
     <details><summary>展开描述 ...</summary> 
     当我们基于 Dockerfile 构建一个镜像的时候，不可避免的会遇到错误或失败，这个时候，通常我们会核查对应步骤执行的指令，然后调整指令，再次构建镜像，这是一种常规的方法。其实，因为 Docker 底层存储的机制，我们可以直接进入到失败之前成功的那次状态中，然后二次调试我们的指令，从而做到有的放矢地验证。 
-    </details> 
-
-- 💂 [学习周刊-总第76期-2022年第41周](https://wiki.eryajf.net/pages/137fb1/) | Fri Oct 21 2022 8:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第76期-Mac电脑中所有软件的icon合集 
     </details> 
 <!-- eryajf:END -->
 
