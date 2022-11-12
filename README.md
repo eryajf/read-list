@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [利用框架Render特性，我做了一个与业界不一样的低代码且跨平台的UI SDK。](https://juejin.cn/post/7165143717602820132) | Sat Nov 12 2022 2:57 PM 
+- 🤗 [实战教程·元宇宙来了，准备好你的电子名片了吗？（二）](https://juejin.cn/post/7165152838861996039) | Sat Nov 12 2022 3:32 PM 
+    <details><summary>展开描述 ...</summary> 
+    在上一章中，我们创建了CardView构件，使用了构件编程方式搭建视图。使用构件的好处是当我们要整体修改构件内容时，就可以只修改构件的结构体，而无需每个卡片视图都修改...... 
+    </details> 
+
+- 🎡 [让你的应用拥有高级设计感——Material Design&lpar;BottomSheetDialogFragment篇&rpar;【一】](https://juejin.cn/post/7165150691978117151) | Sat Nov 12 2022 3:25 PM 
+    <details><summary>展开描述 ...</summary> 
+    Material Design的高级设计感真的很棒，很值得一试，当然，离不开UI设计师的辛苦，本篇将介绍该设计效果的BottomSheetDialogFragment控件的最基本用法，后续文章慢慢补充 
+    </details> 
+
+- 🕯 [一些获取您的Android设备超广角能力的思路](https://juejin.cn/post/7165147855592620062) | Sat Nov 12 2022 3:13 PM 
+    <details><summary>展开描述 ...</summary> 
+    通过”原生支持库适配“和”厂商方案适配“两方面来研究获取您的Android设备超广角摄像头的一些思路。 
+    </details> 
+
+- 🚀 [Java实现异步编程的8种方式](https://juejin.cn/post/7165147306688249870) | Sat Nov 12 2022 3:12 PM 
+    <details><summary>展开描述 ...</summary> 
+    一、前言 二、异步的八种实现方式 线程Thread Future 异步框架CompletableFuture Spring注解@Async Spring ApplicationEvent事件 消息队列 
+    </details> 
+
+- 💪 [利用框架Render特性，我做了一个与业界不一样的低代码且跨平台的UI SDK。](https://juejin.cn/post/7165143717602820132) | Sat Nov 12 2022 2:57 PM 
     <details><summary>展开描述 ...</summary> 
     与标题一样，最近一个月我收到一个需求。需要做一个跨段的组件库，而且这个ui库是支持sdk的修改功能并且是跨平台的。 在面对这个需求之前，我和你们的大多数的人的思路是一样的，那就是想基于Web Comp 
-    </details> 
-
-- 🎡 [适合编程初学者的开源博客系统（鸿蒙ArkUI版）](https://juejin.cn/post/7165141969813897253) | Sat Nov 12 2022 2:50 PM 
-    <details><summary>展开描述 ...</summary> 
-    目标 为编程初学者打造入门学习项目，使用各种主流编程语言来实现。让想学编程的，一个都不落下。 上述基本涵盖了当前编程开发所有主流语言（我这里说的主流，直白点讲就是互联网公司都在用的）。 左侧为前端版本 
-    </details> 
-
-- 🕯 [Flutter【绘制】制作一个掘金Logo组件](https://juejin.cn/post/7165139559875870750) | Sat Nov 12 2022 2:41 PM 
-    <details><summary>展开描述 ...</summary> 
-    掘金官方使用的logo从网页点击去可以看到是个svg文件，点击去可以看到logo和文字都是些path标签。 svg的原理也是通过路径绘制出来的图形，和Flutter路径 
-    </details> 
-
-- 🚀 [D3&lpar;v7&rpar;入门七：堆叠数据与柱状图](https://juejin.cn/post/7165132784602726414) | Sat Nov 12 2022 2:14 PM 
-    <details><summary>展开描述 ...</summary> 
-    堆叠图是柱状图的一种形式，它显示了一些相对或绝对变量随时间变化的构成和比较。看起来像一系列堆叠在一起的柱状图。如果使用得当，堆叠图是一种非常有效的比较工具。它们旨在比较不同类别的总值。 
-    </details> 
-
-- 💪 [Kubernetes安全扫描之kubescape](https://juejin.cn/post/7165129541227118599) | Sat Nov 12 2022 2:02 PM 
-    <details><summary>展开描述 ...</summary> 
-    一 背景 Kubescape 是第一个用于测试 Kubernetes 是否按照 NSA 和 CISA 的 Kubernetes 强化指南中定义的安全部署的工具 使用 Kubescape 测试集群或扫描 
     </details> 
 <!-- juejin:END -->
 ### 少数派
