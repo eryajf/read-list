@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [万万没想到，除了香农计划，Python3.11竟还有这么多性能提升！](https://juejin.cn/post/7165106454993731598) | Sat Nov 12 2022 12:33 PM 
+- 🤗 [Kubernetes安全扫描之kubescape](https://juejin.cn/post/7165129541227118599) | Sat Nov 12 2022 2:02 PM 
+    <details><summary>展开描述 ...</summary> 
+    一 背景 Kubescape 是第一个用于测试 Kubernetes 是否按照 NSA 和 CISA 的 Kubernetes 强化指南中定义的安全部署的工具 使用 Kubescape 测试集群或扫描 
+    </details> 
+
+- 🎡 [开源容器安全平台NeuVector初探](https://juejin.cn/post/7165128756531560478) | Sat Nov 12 2022 1:59 PM 
+    <details><summary>展开描述 ...</summary> 
+    一 背景 NeuVector业界首个端到端的开源容器安全平台，唯一为容器化工作负载提供企业级零信任安全的解决方案。 NeuVector 是业界领先的安全和合规解决方案，已被全球知名企业广泛采用；其代码 
+    </details> 
+
+- 🕯 [Android ViewStub的使用方法——边走边看边学](https://juejin.cn/post/7165118393345900580) | Sat Nov 12 2022 1:21 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 当渲染一个活动时,这个活动的布局可能会有很多visible为invisible和gone的情况,虽然这些控件虽然现在不显示在屏幕上,但是系统在加载这个布局文件时还是会加载它的,这就影响了这个页面 
+    </details> 
+
+- 🚀 [万万没想到，除了香农计划，Python3.11竟还有这么多性能提升！](https://juejin.cn/post/7165106454993731598) | Sat Nov 12 2022 12:33 PM 
     <details><summary>展开描述 ...</summary> 
     众所周知，Python 3.11 版本带来了较大的性能提升，但是，它具体在哪些方面上得到了优化呢？除了著名的“香农计划”外，它还包含哪些与性能相关的优化呢？本文将带你一探究竟！ 
     </details> 
 
-- 🎡 [【MySQL】MySQL事务隔离机制与实现原理详解（MySQL专栏启动）](https://juejin.cn/post/7165078765326827550) | Sat Nov 12 2022 10:46 AM 
+- 💪 [【MySQL】MySQL事务隔离机制与实现原理详解（MySQL专栏启动）](https://juejin.cn/post/7165078765326827550) | Sat Nov 12 2022 10:46 AM 
     <details><summary>展开描述 ...</summary> 
     ​ 本文导读 本文介绍MySQL事务的使用和其存在长事务的风险， MySQL 的事务及其特性，并发事务带来的问题、事务的隔离级别与演示，单版本控制锁以及多版本并发控制 MVCC。 一、MySQL事务使 
-    </details> 
-
-- 🕯 [用状态机实现一个云构建平台](https://juejin.cn/post/7165077122841575454) | Sat Nov 12 2022 10:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    最近在升级团队云构建的工具，由于构建任务的状态跳转很复杂，早期的IF-ELSE写法已经无法满足任务管理的扩展了 
-    </details> 
-
-- 🚀 [JS如何使用localStorage实现计数器功能](https://juejin.cn/post/7165072598307438629) | Sat Nov 12 2022 10:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 前言 我们知道在HTML5之前,客户端本地存储只能依赖于cookie,它是由服务器端在写入的时候就已经设置好的,cookie的效率也很低,而且使用不方便 
-    </details> 
-
-- 💪 [【云原生】Minio on k8s 讲解与实战操作](https://juejin.cn/post/7165065032839987214) | Sat Nov 12 2022 9:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    MinIO 是在 GNU Affero 通用公共许可证 v3.0 下发布的高性能对象存储。它与 Amazon S3 云存储服务 API 兼容。使用 MinIO 为机器学习、分析和应用程序数据工作负载构 
     </details> 
 <!-- juejin:END -->
 ### 少数派
