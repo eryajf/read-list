@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【MySQL】MySQL事务隔离机制与实现原理详解（MySQL专栏启动）](https://juejin.cn/post/7165078765326827550) | Sat Nov 12 2022 10:46 AM 
+- 🤗 [万万没想到，除了香农计划，Python3.11竟还有这么多性能提升！](https://juejin.cn/post/7165106454993731598) | Sat Nov 12 2022 12:33 PM 
+    <details><summary>展开描述 ...</summary> 
+    众所周知，Python 3.11 版本带来了较大的性能提升，但是，它具体在哪些方面上得到了优化呢？除了著名的“香农计划”外，它还包含哪些与性能相关的优化呢？本文将带你一探究竟！ 
+    </details> 
+
+- 🎡 [【MySQL】MySQL事务隔离机制与实现原理详解（MySQL专栏启动）](https://juejin.cn/post/7165078765326827550) | Sat Nov 12 2022 10:46 AM 
     <details><summary>展开描述 ...</summary> 
     ​ 本文导读 本文介绍MySQL事务的使用和其存在长事务的风险， MySQL 的事务及其特性，并发事务带来的问题、事务的隔离级别与演示，单版本控制锁以及多版本并发控制 MVCC。 一、MySQL事务使 
     </details> 
 
-- 🎡 [用状态机实现一个云构建平台](https://juejin.cn/post/7165077122841575454) | Sat Nov 12 2022 10:39 AM 
+- 🕯 [用状态机实现一个云构建平台](https://juejin.cn/post/7165077122841575454) | Sat Nov 12 2022 10:39 AM 
     <details><summary>展开描述 ...</summary> 
     最近在升级团队云构建的工具，由于构建任务的状态跳转很复杂，早期的IF-ELSE写法已经无法满足任务管理的扩展了 
     </details> 
 
-- 🕯 [JS如何使用localStorage实现计数器功能](https://juejin.cn/post/7165072598307438629) | Sat Nov 12 2022 10:21 AM 
+- 🚀 [JS如何使用localStorage实现计数器功能](https://juejin.cn/post/7165072598307438629) | Sat Nov 12 2022 10:21 AM 
     <details><summary>展开描述 ...</summary> 
     本文正在参加「金石计划 . 瓜分6万现金大奖」 前言 我们知道在HTML5之前,客户端本地存储只能依赖于cookie,它是由服务器端在写入的时候就已经设置好的,cookie的效率也很低,而且使用不方便 
     </details> 
 
-- 🚀 [【云原生】Minio on k8s 讲解与实战操作](https://juejin.cn/post/7165065032839987214) | Sat Nov 12 2022 9:52 AM 
+- 💪 [【云原生】Minio on k8s 讲解与实战操作](https://juejin.cn/post/7165065032839987214) | Sat Nov 12 2022 9:52 AM 
     <details><summary>展开描述 ...</summary> 
     MinIO 是在 GNU Affero 通用公共许可证 v3.0 下发布的高性能对象存储。它与 Amazon S3 云存储服务 API 兼容。使用 MinIO 为机器学习、分析和应用程序数据工作负载构 
-    </details> 
-
-- 💪 [如何从主机环境演变到云原生开发模式？](https://juejin.cn/post/7165062697825468452) | Sat Nov 12 2022 9:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文正在参加 「金石计划 . 瓜分6万现金大奖」 时代在发展，我们的知识，开发工具，以及相应的环境也随之进步，我们总是会趋向于向好的一面发展，期望我们自身能够更加优秀，更加高效，以及能够给周围的人带来 
     </details> 
 <!-- juejin:END -->
 ### 少数派
