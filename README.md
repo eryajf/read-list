@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Java8中那些方便又实用的Map函数](https://juejin.cn/post/7165014511789801486) | Sat Nov 12 2022 6:36 AM 
+- 🤗 [耗时一周，实现高仿微信渐变模糊效果——纯原生实现](https://juejin.cn/post/7165030436366712845) | Sat Nov 12 2022 7:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 最近一个需求要实现类似微信状态的模糊效果，还要求不能引入库，增加包的大小。网上搜了一圈，只有 Flutter 的实现。没办法只能自己开撸。 
+    </details> 
+
+- 🎡 [Java8中那些方便又实用的Map函数](https://juejin.cn/post/7165014511789801486) | Sat Nov 12 2022 6:36 AM 
     <details><summary>展开描述 ...</summary> 
     java8之后，常用的Map接口中添加了一些非常实用的函数，可以大大简化一些特定场景的代码编写，提升代码可读性，一起来看看吧。 
     </details> 
 
-- 🎡 [790. 多米诺和托米诺平铺 : 简单状态机 DP 运用题](https://juejin.cn/post/7164991258056720415) | Sat Nov 12 2022 5:06 AM 
+- 🕯 [790. 多米诺和托米诺平铺 : 简单状态机 DP 运用题](https://juejin.cn/post/7164991258056720415) | Sat Nov 12 2022 5:06 AM 
     <details><summary>展开描述 ...</summary> 
     题目描述 这是 LeetCode 上的 790. 多米诺和托米诺平铺 ，难度为 中等。 Tag : 「状态机 DP」 有两种形状的瓷砖：一种是 2 x 1 的多米诺形，另一种是形如 &quot;L&quot; 的托米诺形 
     </details> 
 
-- 🕯 [s44.文本处理工具和正则表达式](https://juejin.cn/post/7164981429569650695) | Sat Nov 12 2022 4:27 AM 
+- 🚀 [s44.文本处理工具和正则表达式](https://juejin.cn/post/7164981429569650695) | Sat Nov 12 2022 4:27 AM 
     <details><summary>展开描述 ...</summary> 
     一.第一部分 vim 1、在vim中设置tab缩进为4个字符 2、复制/etc/rc.d/init.d/functions文件至/tmp目录，替换/tmp/functions文件中的/etc/sysc 
     </details> 
 
-- 🚀 [s43.Linux用户组和权限管理](https://juejin.cn/post/7164981370362527751) | Sat Nov 12 2022 4:27 AM 
+- 💪 [s43.Linux用户组和权限管理](https://juejin.cn/post/7164981370362527751) | Sat Nov 12 2022 4:27 AM 
     <details><summary>展开描述 ...</summary> 
     一.第一部分 用户和组 1.创建用户gentoo，附加组为bin和root，默认shell为/bin/csh，注释信息为“Gentoo Distribution” 2.创建下面的用户、组和组成员 ​  
-    </details> 
-
-- 💪 [Idea 借助科学上网（VPN）工具使用 Translation 插件 （实测）](https://juejin.cn/post/7164960184756862984) | Sat Nov 12 2022 3:05 AM 
-    <details><summary>展开描述 ...</summary> 
-    IDEA的翻译插件不能使用的解决方案。 也许对于英语挺好的小伙伴们来说，有木有 Translation 插件影响并不大，但是对于我来说，Translation 插件算是我开发的另外半条命~ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
