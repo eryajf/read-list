@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [案例体验HTTP2.0多路复用](https://juejin.cn/post/7165437001909403678) | Sun Nov 13 2022 9:55 AM 
+- 🤗 [【MySQL】MySQL数据库锁使用与InnoDB加锁的原理解析（MySQL专栏启动）](https://juejin.cn/post/7165455828718190606) | Sun Nov 13 2022 11:08 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文将通过锁的分类，包括库锁、表锁、页锁、行锁等等，详细介绍MySQL锁的使用、以及MySQL的优化和MySQL InnoDB加锁原理。 
+    </details> 
+
+- 🎡 [如何画好技术图？](https://juejin.cn/post/7165449478948782111) | Sun Nov 13 2022 10:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    画图有时候真的比写代码重要，在文档中插入一些图示，能够帮助观众更好地理解自己的想法，也能更清晰地表达整体的设计思路，是开发者非常值得掌握的一个技能。 
+    </details> 
+
+- 🕯 [一文速学-玩转MySQL时间运算函数以及时间匹配操作详解+实例代码](https://juejin.cn/post/7165443569816666148) | Sun Nov 13 2022 10:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文正在参加「技术专题19期 漫谈数据库技术」活动 前言 时间在数据库中经常作为时间索引，在数据入库和出库以及更新的时候都需要变化。在一些指标计算或者是提取某段时间的数据时，都会根据数据库中的时间索引 
+    </details> 
+
+- 🚀 [从 internal 修饰符一探 kotlin 的可见性控制](https://juejin.cn/post/7165443481337331749) | Sun Nov 13 2022 10:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 之前探讨过的 sealed class 和 sealed interface 存在 module 的限制，但其主要用于密封 class 的扩展和 interface 的实现。 如果没有这个需求只 
+    </details> 
+
+- 💪 [案例体验HTTP2.0多路复用](https://juejin.cn/post/7165437001909403678) | Sun Nov 13 2022 9:55 AM 
     <details><summary>展开描述 ...</summary> 
     大家好，我是小鑫同学。一位长期从事前端开发的编程爱好者，我信奉编程最重要的是分享。请跟随小鑫同学的步伐，一起带你畅游不一样的前端世界~ 
-    </details> 
-
-- 🎡 [3D旋转选秀盒，收纳刹那间的小美好](https://juejin.cn/post/7165435316109574157) | Sun Nov 13 2022 9:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    浏览器发展至今，在网页上呈现 3D 效果已经非常简单了，只需要我们用上一个 css 属性，就可以让我们的页面元素拥有 3D 效果，今天我们就使用这个特性来做一个 3D 旋转盒子。 
-    </details> 
-
-- 🕯 [实战教程·元宇宙来了，准备好你的电子名片了吗？（三）](https://juejin.cn/post/7165431447593943071) | Sun Nov 13 2022 9:34 AM 
-    <details><summary>展开描述 ...</summary> 
-    在上两个章节中，我们完成了个人主页以及添加身份卡页面的设计，其中学习如何数据模型、列表创建卡片展示视图，以及打开页面和关闭页面的交互动作，在本章节中，我们来学习搭建添加身份卡页面的相关内容...... 
-    </details> 
-
-- 🚀 [⚡tsc性能优化 -- Project References](https://juejin.cn/post/7165429078470688781) | Sun Nov 13 2022 9:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    你有遇到过tsc构建或类型检查速度很慢的情况吗？如何让tsc的作用范围从全量构建变成增量构建？Project References来告诉你答案！ 
-    </details> 
-
-- 💪 [页面曝光难点分析及应对方案](https://juejin.cn/post/7165428849197940749) | Sun Nov 13 2022 9:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    了解业务开发中的曝光埋点吗？本篇试着给出一套自动化曝光埋点上报的方案，以简化埋点开发复杂度，提高准确性。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
