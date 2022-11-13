@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [手摸手教你使用 Docker 快速搭建 Gitlab 服务](https://juejin.cn/post/7165372823467196423) | Sun Nov 13 2022 5:46 AM 
+- 🤗 [Compose For Desktop 实践：使用 Compose-jb 做一个时间水印助手](https://juejin.cn/post/7165387863129849864) | Sun Nov 13 2022 6:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    Compose-jb 让移动端开发者也能很方便的进行桌面端开发，但是毕竟 Compose 只是一个 UI 工具包，对于实际的业务逻辑代码，还是需要调用原生 API 来实现，本文通过实践讲解使用方法 
+    </details> 
+
+- 🎡 [手摸手教你使用 Docker 快速搭建 Gitlab 服务](https://juejin.cn/post/7165372823467196423) | Sun Nov 13 2022 5:46 AM 
     <details><summary>展开描述 ...</summary> 
     本文在 CentOS 虚拟机中使用 Docker 快速搭建了一个 Gitlab 服务，整个过程非常丝滑。快来体验一把吧~ 
     </details> 
 
-- 🎡 [下一代智能合约编程语言Move&lpar;三&rpar;](https://juejin.cn/post/7165365375935184909) | Sun Nov 13 2022 5:17 AM 
+- 🕯 [下一代智能合约编程语言Move&lpar;三&rpar;](https://juejin.cn/post/7165365375935184909) | Sun Nov 13 2022 5:17 AM 
     <details><summary>展开描述 ...</summary> 
     前言 之前我们曾提到不同于其他的智能合约编程语言，Move将脚本和模块分离，之前的两篇文章主要与脚本相关，这篇文章将会主要介绍模块相关的内容。 模块 模块是开发者发布在自己地址的一系列函数，之前我们使 
     </details> 
 
-- 🕯 [深入浅出学习透析Nginx服务器的基本原理和配置指南「进阶实践篇」](https://juejin.cn/post/7165356799925682184) | Sun Nov 13 2022 4:44 AM 
+- 🚀 [深入浅出学习透析Nginx服务器的基本原理和配置指南「进阶实践篇」](https://juejin.cn/post/7165356799925682184) | Sun Nov 13 2022 4:44 AM 
     <details><summary>展开描述 ...</summary> 
     本文正在参加「金石计划 . 瓜分6万现金大奖」  proxy_pass的疑问？ 很多小伙伴们跟我沟通说之前章节的介绍的proxy_pass介绍的并不是很详细和清晰，那么我们就针对于Nginx prox 
     </details> 
 
-- 🚀 [Go map 竟然也会发生内存泄漏？](https://juejin.cn/post/7165352901596954632) | Sun Nov 13 2022 4:29 AM 
+- 💪 [Go map 竟然也会发生内存泄漏？](https://juejin.cn/post/7165352901596954632) | Sun Nov 13 2022 4:29 AM 
     <details><summary>展开描述 ...</summary> 
     Go 程序运行时，有些场景下会导致进程进入某个“高点”，然后就再也下不来了。 比如，多年前曹大写过的一篇文章讲过，在做活动时线上涌入的大流量把 goroutine 数抬升了不少…… 
-    </details> 
-
-- 💪 [[千字长文系列] 🌏玩转PostgreSql JDBC操作🦄&lpar;一&rpar;](https://juejin.cn/post/7165341911396384781) | Sun Nov 13 2022 3:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文正在参加「技术专题19期 漫谈数据库技术」活动 在本文中，我们将学习如何使用Java JDBC驱动程序与PostgreSQL数据库进行交互。JDBC是Java的核心API，它为兼容SQL的数据库  
     </details> 
 <!-- juejin:END -->
 ### 少数派
