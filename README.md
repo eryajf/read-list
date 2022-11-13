@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [实战教程·元宇宙来了，准备好你的电子名片了吗？（二）](https://juejin.cn/post/7165152838861996039) | Sat Nov 12 2022 3:32 PM 
+- 🤗 [Nacos注册中心15-基于raft 协议的数据一致性](https://juejin.cn/post/7165292984844419109) | Sun Nov 13 2022 12:36 AM 
     <details><summary>展开描述 ...</summary> 
-    在上一章中，我们创建了CardView构件，使用了构件编程方式搭建视图。使用构件的好处是当我们要整体修改构件内容时，就可以只修改构件的结构体，而无需每个卡片视图都修改...... 
+    Nacos基于raft协议的数据一致性，RaftConsistencyServiceImpl# put 
     </details> 
 
-- 🎡 [让你的应用拥有高级设计感——Material Design&lpar;BottomSheetDialogFragment篇&rpar;【一】](https://juejin.cn/post/7165150691978117151) | Sat Nov 12 2022 3:25 PM 
+- 🎡 [小伙子把我坑了，改造网关filter，一直报跨域](https://juejin.cn/post/7165174408381005861) | Sat Nov 12 2022 4:57 PM 
     <details><summary>展开描述 ...</summary> 
-    Material Design的高级设计感真的很棒，很值得一试，当然，离不开UI设计师的辛苦，本篇将介绍该设计效果的BottomSheetDialogFragment控件的最基本用法，后续文章慢慢补充 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 闲聊 1、项目研发负责人需要具备主动性 阿里招聘简历上，常常会带上一句话：具备owner意识。它的逻辑是怎样的呢？ 【执行者角度】：我完成某项任务，I  
     </details> 
 
-- 🕯 [一些获取您的Android设备超广角能力的思路](https://juejin.cn/post/7165147855592620062) | Sat Nov 12 2022 3:13 PM 
+- 🕯 [docker安装部署NextCloud私人网盘的方法步骤](https://juejin.cn/post/7165163308343885838) | Sat Nov 12 2022 4:13 PM 
     <details><summary>展开描述 ...</summary> 
-    通过”原生支持库适配“和”厂商方案适配“两方面来研究获取您的Android设备超广角摄像头的一些思路。 
+    Nextcloud是一个服务器端PHP应用程序，以及一个由客户端和服务器应用程序组成的生态系统，允许用户同步、共享和协作文件、联系人、日历和其他数据，并且可以安装在私有服务器上。该代码是免费和开源的， 
     </details> 
 
-- 🚀 [Java实现异步编程的8种方式](https://juejin.cn/post/7165147306688249870) | Sat Nov 12 2022 3:12 PM 
+- 🚀 [手写一个埋点SDK吧~](https://juejin.cn/post/7165159142867337247) | Sat Nov 12 2022 3:57 PM 
     <details><summary>展开描述 ...</summary> 
-    一、前言 二、异步的八种实现方式 线程Thread Future 异步框架CompletableFuture Spring注解@Async Spring ApplicationEvent事件 消息队列 
+    写在前面 博主最近半年的时间都在投入 concis react组件库的开发，最近阶段也是想要做一些市面组件库所没有的东西，concis 主要为业务平台开发提供了一系列组件，而埋点在业务中的实用性是很高 
     </details> 
 
-- 💪 [利用框架Render特性，我做了一个与业界不一样的低代码且跨平台的UI SDK。](https://juejin.cn/post/7165143717602820132) | Sat Nov 12 2022 2:57 PM 
+- 💪 [「避坑宝典」为大家分享一下笔者在 2022 年所遇到“匪夷所思”的 Bug 趣事（上）](https://juejin.cn/post/7165158784325648398) | Sat Nov 12 2022 3:56 PM 
     <details><summary>展开描述 ...</summary> 
-    与标题一样，最近一个月我收到一个需求。需要做一个跨段的组件库，而且这个ui库是支持sdk的修改功能并且是跨平台的。 在面对这个需求之前，我和你们的大多数的人的思路是一样的，那就是想基于Web Comp 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」  “BUG”的你咋又来了？ 无论这一年我们遇到了什么困难或者是喜事，在此时此刻，个人觉得都应该反思或者回味一下这些事情，对于好事，我们欣慰开心；坏事那我 
     </details> 
 <!-- juejin:END -->
 ### 少数派
