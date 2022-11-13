@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [如何给多个页面，添加统一的导航栏？我罗列对比了 5 个方案](https://juejin.cn/post/7165498102550724638) | Sun Nov 13 2022 1:52 PM 
+- 🤗 [Android Compose 动画使用详解&lpar;六&rpar;动画配置之SpringSpec](https://juejin.cn/post/7165517047852449799) | Sun Nov 13 2022 3:06 PM 
     <details><summary>展开描述 ...</summary> 
-    统一添加导航栏的5个方案是：服务端渲染、前端编译时添加、前端运行时添加、基于框架组件、基于微前端。我对比了5个方案的优劣，帮你做出合适的选择。 
+    本篇详细介绍了弹簧动画规格 SpringSpec的参数配置及对应的使用效果，并用一个简单的实战效果体验了弹簧动画的魅力 
     </details> 
 
-- 🎡 [都2022年了你还不知道Stronge本地存储么](https://juejin.cn/post/7165497189844647966) | Sun Nov 13 2022 1:49 PM 
+- 🎡 [基于docker部署微前端项目的入门实践指南🐋](https://juejin.cn/post/7165515526947471391) | Sun Nov 13 2022 3:00 PM 
     <details><summary>展开描述 ...</summary> 
-    web Storage：它提供在cookie之外的存储会话。并且可以永久性存储大量数据（5M）。它主要解决通过客户端存储不需要频繁发送服务器的数据请求。 
+    🚢 前言 这是一篇讲述如何基于docker部署微前端项目的文章。本文章会先从理论角度去描述部署方式，然后再通过代码去实现部署的逻辑和细节。 本文适合以下人群阅读： 刚认识docker，想通过实践进一步 
     </details> 
 
-- 🕯 [全网唯一能够秒回粉丝的博主, 是如何做到的?](https://juejin.cn/post/7165486611361169422) | Sun Nov 13 2022 1:09 PM 
+- 🕯 [【云原生】Sqoop on k8s 讲解与实战操作](https://juejin.cn/post/7165513358672658439) | Sun Nov 13 2022 2:51 PM 
     <details><summary>展开描述 ...</summary> 
-    使用Electron + React开发了一款自媒体小助手, 不仅可以看数据大屏, 还可以在粉丝留言时像微信一样给我发消息提醒. 支持B站、掘金、知乎. 
+    Sqoop是一个在结构化数据和Hadoop之间进行批量数据迁移的工具，结构化数据可以是MySQL、Oracle等RDBMS。Sqoop底层用MapReduce程序实现抽取、转换、加载，MapReduc 
     </details> 
 
-- 🚀 [Android GLide图片加载的几种常用方法](https://juejin.cn/post/7165484888542904356) | Sun Nov 13 2022 1:02 PM 
+- 🚀 [791. 自定义字符串排序 : 简单构造题](https://juejin.cn/post/7165507367960854558) | Sun Nov 13 2022 2:28 PM 
     <details><summary>展开描述 ...</summary> 
-    Glide库是用来实现图片加载的框架，功能强大且易使用，深受大家喜爱。 缓存浅析 为啥要做缓存？ android默认给每个应用只分配16M的内存，所以如果加载过多的图片，为了 防止内存溢出 ，应该将图 
+    题目描述 这是 LeetCode 上的 791. 自定义字符串排序 ，难度为 中等。 Tag : 「构造」、「模拟」 给定两个字符串 order 和 s 。order 的所有单词都是 唯一 的，并且以 
     </details> 
 
-- 💪 [聊聊类组件到函数组件的变迁](https://juejin.cn/post/7165482559772557326) | Sun Nov 13 2022 12:52 PM 
+- 💪 [Flutter - 聊天输入框更新文本时的必备优化点🔖](https://juejin.cn/post/7165505948956491806) | Sun Nov 13 2022 2:23 PM 
     <details><summary>展开描述 ...</summary> 
-    最近一直在学习 React，在看到 React Hooks 一章时联想到 Compose ，简直有着异曲同工之处，他们都是由 UI 组件、State 状态、Effect 副作用构成，而且，Androi 
+    可以看出一些问题： 在关闭键盘的情况下，追加表情内容导致换行时，输入框并不会跟随滚动，而键盘输入文字却可以 滚动条在键盘出现时正常，关闭键盘时滚动条无法滑到底部 
     </details> 
 <!-- juejin:END -->
 ### 少数派
