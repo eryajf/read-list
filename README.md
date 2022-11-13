@@ -373,7 +373,7 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Go map 竟然也会发生内存泄露？](https://juejin.cn/post/7165352901596954632) | Sun Nov 13 2022 4:29 AM 
+- 🤗 [Go map 竟然也会发生内存泄漏？](https://juejin.cn/post/7165352901596954632) | Sun Nov 13 2022 4:29 AM 
     <details><summary>展开描述 ...</summary> 
     Go 程序运行时，有些场景下会导致进程进入某个“高点”，然后就再也下不来了。 比如，多年前曹大写过的一篇文章讲过，在做活动时线上涌入的大流量把 goroutine 数抬升了不少…… 
     </details> 
