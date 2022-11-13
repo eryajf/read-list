@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [semantic-ui 终于更新了](https://www.v2ex.com/t/894870#reply0) | Sun Nov 13 2022 7:09 AM
-- 🤗 [如何在通过代理的同时使用 dnsmasq 的解析？](https://www.v2ex.com/t/894866#reply1) | Sun Nov 13 2022 6:37 AM
-- 🎭 [如何借助代理实现服务器的低延迟访问](https://www.v2ex.com/t/894865#reply12) | Sun Nov 13 2022 6:29 AM
-- 🥷 [请推荐 OCR app，扫描文字的](https://www.v2ex.com/t/894862#reply0) | Sun Nov 13 2022 6:16 AM
-- 🐵 [Goravel 让微服务间通讯如此简单，省出来的时间想干点啥干点啥吧](https://www.v2ex.com/t/894838#reply1) | Sun Nov 13 2022 3:48 AM<!-- v2ex:END -->
+- 🥸 [ai 作画](https://www.v2ex.com/t/894882#reply0) | Sun Nov 13 2022 8:16 AM
+- 🤗 [安卓锁屏漏洞鸿蒙受影响吗？](https://www.v2ex.com/t/894872#reply4) | Sun Nov 13 2022 7:30 AM
+- 🎭 [semantic-ui 终于更新了](https://www.v2ex.com/t/894870#reply1) | Sun Nov 13 2022 7:09 AM
+- 🥷 [如何在通过代理的同时使用 dnsmasq 的解析？](https://www.v2ex.com/t/894866#reply2) | Sun Nov 13 2022 6:37 AM
+- 🐵 [如何借助代理实现服务器的低延迟访问](https://www.v2ex.com/t/894865#reply24) | Sun Nov 13 2022 6:29 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
