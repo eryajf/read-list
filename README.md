@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [ART线程同步实现](https://juejin.cn/post/7165318943077302285) | Sun Nov 13 2022 2:17 AM 
+- 🤗 [Go map 竟然也会发生内存泄露？](https://juejin.cn/post/7165352901596954632) | Sun Nov 13 2022 4:29 AM 
     <details><summary>展开描述 ...</summary> 
-    我们在死锁监控时用到了很多art提供的api，但是我们却很少有对其内部实现进行探讨，本文通过art中线程同步的现实，并以synchronized为例子进行探讨 
+    Go 程序运行时，有些场景下会导致进程进入某个“高点”，然后就再也下不来了。 比如，多年前曹大写过的一篇文章讲过，在做活动时线上涌入的大流量把 goroutine 数抬升了不少…… 
     </details> 
 
-- 🎡 [s46.文件查找和打包压缩](https://juejin.cn/post/7165314843220639781) | Sun Nov 13 2022 2:01 AM 
+- 🎡 [[千字长文系列] 🌏玩转PostgreSql JDBC操作🦄&lpar;一&rpar;](https://juejin.cn/post/7165341911396384781) | Sun Nov 13 2022 3:46 AM 
     <details><summary>展开描述 ...</summary> 
-    一.第一部分 find 1、查找/var目录下属主为root，且属组为mail的所有文件 2、查找/var目录下不属于root、lp、gdm的所有文件 3、查找/var目录下最近一周内其内容修改过，同 
+    本文正在参加「技术专题19期 漫谈数据库技术」活动 在本文中，我们将学习如何使用Java JDBC驱动程序与PostgreSQL数据库进行交互。JDBC是Java的核心API，它为兼容SQL的数据库  
     </details> 
 
-- 🕯 [s45.shell脚本编程基础](https://juejin.cn/post/7165314837969371144) | Sun Nov 13 2022 2:01 AM 
+- 🕯 [React 状态的不变性](https://juejin.cn/post/7165338973806526501) | Sun Nov 13 2022 3:35 AM 
     <details><summary>展开描述 ...</summary> 
-    一.第一部分 1、编写脚本systeminfo.sh，显示当前主机系统信息，包括主机名，IPv4地址，操作系统版本，内核版本，CPU型号，内存大小，硬盘大小 2、编写脚本backup.sh，可事先每日 
+    Immutability不是 React 中的概念，但它对写一个正确的 React 程序至关重要。本文将揭露其中的缘由并介绍怎么编写符合 Immutability 原则的代码。 
     </details> 
 
-- 🚀 [数据仓库实战教程](https://juejin.cn/post/7165310642223022093) | Sun Nov 13 2022 1:45 AM 
+- 🚀 [带你理解 React 中最“臭名昭著”的 useMemo 和 useCallback【译】](https://juejin.cn/post/7165338403465068552) | Sun Nov 13 2022 3:32 AM 
     <details><summary>展开描述 ...</summary> 
-    数据仓库实战教程 数据仓库已经是企业的数据竞争的核心了，学好数据仓库对提高自己和找到一份好的工作都至关重要，但是很多人对数仓的印象还是停留在写SQL的层面,其实今天的数仓更像是一个数据平台应用,我们学 
+    这篇文章为你答疑解惑，为大家介绍 useMemo 和 useCallback 这两个 Hook 的具体作用，它们的实现原理以及在实际开发中如何应用。 
     </details> 
 
-- 💪 [RecyclerBarChart绘制](https://juejin.cn/post/7165304701355819039) | Sun Nov 13 2022 1:21 AM 
+- 💪 [此文带你详细了解MySQL数据库的事务知识](https://juejin.cn/post/7165336266240688142) | Sun Nov 13 2022 3:24 AM 
     <details><summary>展开描述 ...</summary> 
-    上篇介绍了几种图表的公共组件X、Y轴、背景Board的绘制。这章节介绍柱状图表的绘制，相对其它图表而言简单一些，这里主要介绍图表主体的绘制，以及高亮选中的其中一个的选中框的绘制的相关逻辑。 
+    在MySQL中的事务Transaction是由存储引擎实现的，在MySQL中，只有InnoDB存储引擎才支持事务。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
