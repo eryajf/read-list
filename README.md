@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [使用纯html与css实现跳动小球加载动画](https://juejin.cn/post/7165409143614865444) | Sun Nov 13 2022 8:08 AM 
+- 🤗 [使用 SVG forginObject 对页面 DOM 元素截图](https://juejin.cn/post/7165425314515025956) | Sun Nov 13 2022 9:11 AM 
     <details><summary>展开描述 ...</summary> 
-    在网页开发中，加载动画是必不可缺的一个设计；因为在一些资源加载的时候需要让用户等待一段时间，为了使用户有更好的交互体验，一个使人身心愉悦的加载动画变必不可少。 
+    使用 html2canvas 库可以实现在 node 项目中对页面元素截图。而在如果不使用库的情况下，通过原生的 SVG forginObject 元素也可以实现对 DOM 元素截图。例如，页面有以 
     </details> 
 
-- 🎡 [一次SpringBoot版本升级，引发的血案](https://juejin.cn/post/7165393660656222222) | Sun Nov 13 2022 7:07 AM 
+- 🎡 [【简历指导】如何在简历中最大化体现出自己的学习能力？](https://juejin.cn/post/7165424255138545694) | Sun Nov 13 2022 9:06 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 最近项目组升级了SpringBoot版本，由之前的2.0.4升级到最新版本2.7.5，却引出了一个大Bug。 到底是怎么回事呢？ 1.案发现场 有一天，项目组的同事反馈给我说，我之前有个接口在新 
+    聚焦阶段性的目标，简历的作用就是先打动HR通过简历初筛，再打动面试官，引导他向你提问。包装简历并不是撒谎，结合自己过往的项目经验和学习经历，先锚定自己的意向公司，再有针对性的优化简历。 
     </details> 
 
-- 🕯 [Compose For Desktop 实践：使用 Compose-jb 做一个时间水印助手](https://juejin.cn/post/7165387863129849864) | Sun Nov 13 2022 6:44 AM 
+- 🕯 [Redhat持久化日志与实战练习](https://juejin.cn/post/7165420573583999006) | Sun Nov 13 2022 8:52 AM 
     <details><summary>展开描述 ...</summary> 
-    Compose-jb 让移动端开发者也能很方便的进行桌面端开发，但是毕竟 Compose 只是一个 UI 工具包，对于实际的业务逻辑代码，还是需要调用原生 API 来实现，本文通过实践讲解使用方法 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 持久化日志 默认情况下，Red Hat Enterprise Linux 7将系统日志存储在/run/log/journal中，该日志存储在tmpfs（ 
     </details> 
 
-- 🚀 [手摸手教你使用 Docker 快速搭建 Gitlab 服务](https://juejin.cn/post/7165372823467196423) | Sun Nov 13 2022 5:46 AM 
+- 🚀 [常用文件访问权相关命令，以及 macOS launchd](https://juejin.cn/post/7165416759787257869) | Sun Nov 13 2022 8:38 AM 
     <details><summary>展开描述 ...</summary> 
-    本文在 CentOS 虚拟机中使用 Docker 快速搭建了一个 Gitlab 服务，整个过程非常丝滑。快来体验一把吧~ 
+    前言 在维护 Jenkins Slave Node（这里指 macOS 构建机）的过程，不可避免地是你会遇到一些文件访问权限和进程常驻的问题。所以，如果要解决这些问题，就要求你了解 Linux 文件访 
     </details> 
 
-- 💪 [下一代智能合约编程语言Move&lpar;三&rpar;](https://juejin.cn/post/7165365375935184909) | Sun Nov 13 2022 5:17 AM 
+- 💪 [如何实现一个 Kubernetes CSI Driver](https://juejin.cn/post/7165416378764132382) | Sun Nov 13 2022 8:36 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 之前我们曾提到不同于其他的智能合约编程语言，Move将脚本和模块分离，之前的两篇文章主要与脚本相关，这篇文章将会主要介绍模块相关的内容。 模块 模块是开发者发布在自己地址的一系列函数，之前我们使 
+    本篇文章介绍如何快速开发自己的 Kubernetes CSI Driver，是 CSI 系列第二篇。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
