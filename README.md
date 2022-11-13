@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【MySQL】MySQL数据库锁使用与InnoDB加锁的原理解析（MySQL专栏启动）](https://juejin.cn/post/7165455828718190606) | Sun Nov 13 2022 11:08 AM 
+- 🤗 [全网唯一能够秒回粉丝的博主, 是如何做到的?](https://juejin.cn/post/7165486611361169422) | Sun Nov 13 2022 1:09 PM 
+    <details><summary>展开描述 ...</summary> 
+    使用Electron + React开发了一款自媒体小助手, 不仅可以看数据大屏, 还可以在粉丝留言时像微信一样给我发消息提醒. 支持B站、掘金、知乎. 
+    </details> 
+
+- 🎡 [Android GLide图片加载的几种常用方法](https://juejin.cn/post/7165484888542904356) | Sun Nov 13 2022 1:02 PM 
+    <details><summary>展开描述 ...</summary> 
+    Glide库是用来实现图片加载的框架，功能强大且易使用，深受大家喜爱。 缓存浅析 为啥要做缓存？ android默认给每个应用只分配16M的内存，所以如果加载过多的图片，为了 防止内存溢出 ，应该将图 
+    </details> 
+
+- 🕯 [聊聊类组件到函数组件的变迁](https://juejin.cn/post/7165482559772557326) | Sun Nov 13 2022 12:52 PM 
+    <details><summary>展开描述 ...</summary> 
+    最近一直在学习 React，在看到 React Hooks 一章时联想到 Compose ，简直有着异曲同工之处，他们都是由 UI 组件、State 状态、Effect 副作用构成，而且，Androi 
+    </details> 
+
+- 🚀 [可视化大屏的几种屏幕适配方案，总有一种是你需要的](https://juejin.cn/post/7165480221930422303) | Sun Nov 13 2022 12:43 PM 
+    <details><summary>展开描述 ...</summary> 
+    假设我们正在开发一个可视化拖拽的搭建平台，可以拖拽生成工作台或可视化大屏，或者直接就是开发一个大屏，首先必须要考虑的一个问题就是页面如何适应屏幕，因为我们在搭建或开发时一般都会基于一个固定的宽高。。。 
+    </details> 
+
+- 💪 [【MySQL】MySQL数据库锁使用与InnoDB加锁的原理解析（MySQL专栏启动）](https://juejin.cn/post/7165455828718190606) | Sun Nov 13 2022 11:08 AM 
     <details><summary>展开描述 ...</summary> 
     本文将通过锁的分类，包括库锁、表锁、页锁、行锁等等，详细介绍MySQL锁的使用、以及MySQL的优化和MySQL InnoDB加锁原理。 
-    </details> 
-
-- 🎡 [如何画好技术图？](https://juejin.cn/post/7165449478948782111) | Sun Nov 13 2022 10:44 AM 
-    <details><summary>展开描述 ...</summary> 
-    画图有时候真的比写代码重要，在文档中插入一些图示，能够帮助观众更好地理解自己的想法，也能更清晰地表达整体的设计思路，是开发者非常值得掌握的一个技能。 
-    </details> 
-
-- 🕯 [一文速学-玩转MySQL时间运算函数以及时间匹配操作详解+实例代码](https://juejin.cn/post/7165443569816666148) | Sun Nov 13 2022 10:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文正在参加「技术专题19期 漫谈数据库技术」活动 前言 时间在数据库中经常作为时间索引，在数据入库和出库以及更新的时候都需要变化。在一些指标计算或者是提取某段时间的数据时，都会根据数据库中的时间索引 
-    </details> 
-
-- 🚀 [从 internal 修饰符一探 kotlin 的可见性控制](https://juejin.cn/post/7165443481337331749) | Sun Nov 13 2022 10:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 之前探讨过的 sealed class 和 sealed interface 存在 module 的限制，但其主要用于密封 class 的扩展和 interface 的实现。 如果没有这个需求只 
-    </details> 
-
-- 💪 [案例体验HTTP2.0多路复用](https://juejin.cn/post/7165437001909403678) | Sun Nov 13 2022 9:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    大家好，我是小鑫同学。一位长期从事前端开发的编程爱好者，我信奉编程最重要的是分享。请跟随小鑫同学的步伐，一起带你畅游不一样的前端世界~ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
