@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [使用 SVG forginObject 对页面 DOM 元素截图](https://juejin.cn/post/7165425314515025956) | Sun Nov 13 2022 9:11 AM 
+- 🤗 [案例体验HTTP2.0多路复用](https://juejin.cn/post/7165437001909403678) | Sun Nov 13 2022 9:55 AM 
     <details><summary>展开描述 ...</summary> 
-    使用 html2canvas 库可以实现在 node 项目中对页面元素截图。而在如果不使用库的情况下，通过原生的 SVG forginObject 元素也可以实现对 DOM 元素截图。例如，页面有以 
+    大家好，我是小鑫同学。一位长期从事前端开发的编程爱好者，我信奉编程最重要的是分享。请跟随小鑫同学的步伐，一起带你畅游不一样的前端世界~ 
     </details> 
 
-- 🎡 [【简历指导】如何在简历中最大化体现出自己的学习能力？](https://juejin.cn/post/7165424255138545694) | Sun Nov 13 2022 9:06 AM 
+- 🎡 [3D旋转选秀盒，收纳刹那间的小美好](https://juejin.cn/post/7165435316109574157) | Sun Nov 13 2022 9:50 AM 
     <details><summary>展开描述 ...</summary> 
-    聚焦阶段性的目标，简历的作用就是先打动HR通过简历初筛，再打动面试官，引导他向你提问。包装简历并不是撒谎，结合自己过往的项目经验和学习经历，先锚定自己的意向公司，再有针对性的优化简历。 
+    浏览器发展至今，在网页上呈现 3D 效果已经非常简单了，只需要我们用上一个 css 属性，就可以让我们的页面元素拥有 3D 效果，今天我们就使用这个特性来做一个 3D 旋转盒子。 
     </details> 
 
-- 🕯 [Redhat持久化日志与实战练习](https://juejin.cn/post/7165420573583999006) | Sun Nov 13 2022 8:52 AM 
+- 🕯 [⚡tsc性能优化 -- Project References](https://juejin.cn/post/7165429078470688781) | Sun Nov 13 2022 9:24 AM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 持久化日志 默认情况下，Red Hat Enterprise Linux 7将系统日志存储在/run/log/journal中，该日志存储在tmpfs（ 
+    你有遇到过tsc构建或类型检查速度很慢的情况吗？如何让tsc的作用范围从全量构建变成增量构建？Project References来告诉你答案！ 
     </details> 
 
-- 🚀 [常用文件访问权相关命令，以及 macOS launchd](https://juejin.cn/post/7165416759787257869) | Sun Nov 13 2022 8:38 AM 
+- 🚀 [页面曝光难点分析及应对方案](https://juejin.cn/post/7165428849197940749) | Sun Nov 13 2022 9:24 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 在维护 Jenkins Slave Node（这里指 macOS 构建机）的过程，不可避免地是你会遇到一些文件访问权限和进程常驻的问题。所以，如果要解决这些问题，就要求你了解 Linux 文件访 
+    了解业务开发中的曝光埋点吗？本篇试着给出一套自动化曝光埋点上报的方案，以简化埋点开发复杂度，提高准确性。 
     </details> 
 
-- 💪 [如何实现一个 Kubernetes CSI Driver](https://juejin.cn/post/7165416378764132382) | Sun Nov 13 2022 8:36 AM 
+- 💪 [全网最优雅安卓列表项可见性检测](https://juejin.cn/post/7165428399282847757) | Sun Nov 13 2022 9:22 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇文章介绍如何快速开发自己的 Kubernetes CSI Driver，是 CSI 系列第二篇。 
+    Android 列表项可见性检测是一件头痛的事情，市面上的各种方法都不够通用。本篇试着换一种思路写一个更解耦通用的列表项可见性检测方案。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
