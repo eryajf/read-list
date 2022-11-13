@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Goravel 让微服务间通讯如此简单，省出来的时间想干点啥干点啥吧](https://www.v2ex.com/t/894838#reply1) | Sun Nov 13 2022 3:48 AM
-- 🤗 [刷 LeetCode 有什么策略吗？](https://www.v2ex.com/t/894833#reply6) | Sun Nov 13 2022 3:21 AM
-- 🎭 [IDEA 有一个调试插件忘记叫什么名字了](https://www.v2ex.com/t/894831#reply3) | Sun Nov 13 2022 3:13 AM
-- 🥷 [使用 c++为嵌入式 Linux 开发应用程序](https://www.v2ex.com/t/894819#reply1) | Sun Nov 13 2022 1:56 AM
-- 🐵 [求好用好玩的安卓 app](https://www.v2ex.com/t/894812#reply16) | Sun Nov 13 2022 1:17 AM<!-- v2ex:END -->
+- 🥸 [请推荐 OCR app，扫描文字的](https://www.v2ex.com/t/894862#reply0) | Sun Nov 13 2022 6:16 AM
+- 🤗 [Goravel 让微服务间通讯如此简单，省出来的时间想干点啥干点啥吧](https://www.v2ex.com/t/894838#reply1) | Sun Nov 13 2022 3:48 AM
+- 🎭 [刷 LeetCode 有什么策略吗？](https://www.v2ex.com/t/894833#reply6) | Sun Nov 13 2022 3:21 AM
+- 🥷 [IDEA 有一个调试插件忘记叫什么名字了](https://www.v2ex.com/t/894831#reply3) | Sun Nov 13 2022 3:13 AM
+- 🐵 [使用 c++为嵌入式 Linux 开发应用程序](https://www.v2ex.com/t/894819#reply1) | Sun Nov 13 2022 1:56 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
