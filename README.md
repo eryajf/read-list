@@ -383,19 +383,19 @@
     浏览器发展至今，在网页上呈现 3D 效果已经非常简单了，只需要我们用上一个 css 属性，就可以让我们的页面元素拥有 3D 效果，今天我们就使用这个特性来做一个 3D 旋转盒子。 
     </details> 
 
-- 🕯 [⚡tsc性能优化 -- Project References](https://juejin.cn/post/7165429078470688781) | Sun Nov 13 2022 9:24 AM 
+- 🕯 [实战教程·元宇宙来了，准备好你的电子名片了吗？（三）](https://juejin.cn/post/7165431447593943071) | Sun Nov 13 2022 9:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    在上两个章节中，我们完成了个人主页以及添加身份卡页面的设计，其中学习如何数据模型、列表创建卡片展示视图，以及打开页面和关闭页面的交互动作，在本章节中，我们来学习搭建添加身份卡页面的相关内容...... 
+    </details> 
+
+- 🚀 [⚡tsc性能优化 -- Project References](https://juejin.cn/post/7165429078470688781) | Sun Nov 13 2022 9:24 AM 
     <details><summary>展开描述 ...</summary> 
     你有遇到过tsc构建或类型检查速度很慢的情况吗？如何让tsc的作用范围从全量构建变成增量构建？Project References来告诉你答案！ 
     </details> 
 
-- 🚀 [页面曝光难点分析及应对方案](https://juejin.cn/post/7165428849197940749) | Sun Nov 13 2022 9:24 AM 
+- 💪 [页面曝光难点分析及应对方案](https://juejin.cn/post/7165428849197940749) | Sun Nov 13 2022 9:24 AM 
     <details><summary>展开描述 ...</summary> 
     了解业务开发中的曝光埋点吗？本篇试着给出一套自动化曝光埋点上报的方案，以简化埋点开发复杂度，提高准确性。 
-    </details> 
-
-- 💪 [全网最优雅安卓列表项可见性检测](https://juejin.cn/post/7165428399282847757) | Sun Nov 13 2022 9:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    Android 列表项可见性检测是一件头痛的事情，市面上的各种方法都不够通用。本篇试着换一种思路写一个更解耦通用的列表项可见性检测方案。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
