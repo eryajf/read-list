@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Nacos注册中心15-基于raft 协议的数据一致性](https://juejin.cn/post/7165292984844419109) | Sun Nov 13 2022 12:36 AM 
+- 🤗 [ART线程同步实现](https://juejin.cn/post/7165318943077302285) | Sun Nov 13 2022 2:17 AM 
     <details><summary>展开描述 ...</summary> 
-    Nacos基于raft协议的数据一致性，RaftConsistencyServiceImpl# put 
+    我们在死锁监控时用到了很多art提供的api，但是我们却很少有对其内部实现进行探讨，本文通过art中线程同步的现实，并以synchronized为例子进行探讨 
     </details> 
 
-- 🎡 [小伙子把我坑了，改造网关filter，一直报跨域](https://juejin.cn/post/7165174408381005861) | Sat Nov 12 2022 4:57 PM 
+- 🎡 [s46.文件查找和打包压缩](https://juejin.cn/post/7165314843220639781) | Sun Nov 13 2022 2:01 AM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 闲聊 1、项目研发负责人需要具备主动性 阿里招聘简历上，常常会带上一句话：具备owner意识。它的逻辑是怎样的呢？ 【执行者角度】：我完成某项任务，I  
+    一.第一部分 find 1、查找/var目录下属主为root，且属组为mail的所有文件 2、查找/var目录下不属于root、lp、gdm的所有文件 3、查找/var目录下最近一周内其内容修改过，同 
     </details> 
 
-- 🕯 [docker安装部署NextCloud私人网盘的方法步骤](https://juejin.cn/post/7165163308343885838) | Sat Nov 12 2022 4:13 PM 
+- 🕯 [s45.shell脚本编程基础](https://juejin.cn/post/7165314837969371144) | Sun Nov 13 2022 2:01 AM 
     <details><summary>展开描述 ...</summary> 
-    Nextcloud是一个服务器端PHP应用程序，以及一个由客户端和服务器应用程序组成的生态系统，允许用户同步、共享和协作文件、联系人、日历和其他数据，并且可以安装在私有服务器上。该代码是免费和开源的， 
+    一.第一部分 1、编写脚本systeminfo.sh，显示当前主机系统信息，包括主机名，IPv4地址，操作系统版本，内核版本，CPU型号，内存大小，硬盘大小 2、编写脚本backup.sh，可事先每日 
     </details> 
 
-- 🚀 [手写一个埋点SDK吧~](https://juejin.cn/post/7165159142867337247) | Sat Nov 12 2022 3:57 PM 
+- 🚀 [数据仓库实战教程](https://juejin.cn/post/7165310642223022093) | Sun Nov 13 2022 1:45 AM 
     <details><summary>展开描述 ...</summary> 
-    写在前面 博主最近半年的时间都在投入 concis react组件库的开发，最近阶段也是想要做一些市面组件库所没有的东西，concis 主要为业务平台开发提供了一系列组件，而埋点在业务中的实用性是很高 
+    数据仓库实战教程 数据仓库已经是企业的数据竞争的核心了，学好数据仓库对提高自己和找到一份好的工作都至关重要，但是很多人对数仓的印象还是停留在写SQL的层面,其实今天的数仓更像是一个数据平台应用,我们学 
     </details> 
 
-- 💪 [「避坑宝典」为大家分享一下笔者在 2022 年所遇到“匪夷所思”的 Bug 趣事（上）](https://juejin.cn/post/7165158784325648398) | Sat Nov 12 2022 3:56 PM 
+- 💪 [RecyclerBarChart绘制](https://juejin.cn/post/7165304701355819039) | Sun Nov 13 2022 1:21 AM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」  “BUG”的你咋又来了？ 无论这一年我们遇到了什么困难或者是喜事，在此时此刻，个人觉得都应该反思或者回味一下这些事情，对于好事，我们欣慰开心；坏事那我 
+    上篇介绍了几种图表的公共组件X、Y轴、背景Board的绘制。这章节介绍柱状图表的绘制，相对其它图表而言简单一些，这里主要介绍图表主体的绘制，以及高亮选中的其中一个的选中框的绘制的相关逻辑。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
