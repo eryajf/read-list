@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [全网唯一能够秒回粉丝的博主, 是如何做到的?](https://juejin.cn/post/7165486611361169422) | Sun Nov 13 2022 1:09 PM 
+- 🤗 [如何给多个页面，添加统一的导航栏？我罗列对比了 5 个方案](https://juejin.cn/post/7165498102550724638) | Sun Nov 13 2022 1:52 PM 
+    <details><summary>展开描述 ...</summary> 
+    统一添加导航栏的5个方案是：服务端渲染、前端编译时添加、前端运行时添加、基于框架组件、基于微前端。我对比了5个方案的优劣，帮你做出合适的选择。 
+    </details> 
+
+- 🎡 [都2022年了你还不知道Stronge本地存储么](https://juejin.cn/post/7165497189844647966) | Sun Nov 13 2022 1:49 PM 
+    <details><summary>展开描述 ...</summary> 
+    web Storage：它提供在cookie之外的存储会话。并且可以永久性存储大量数据（5M）。它主要解决通过客户端存储不需要频繁发送服务器的数据请求。 
+    </details> 
+
+- 🕯 [全网唯一能够秒回粉丝的博主, 是如何做到的?](https://juejin.cn/post/7165486611361169422) | Sun Nov 13 2022 1:09 PM 
     <details><summary>展开描述 ...</summary> 
     使用Electron + React开发了一款自媒体小助手, 不仅可以看数据大屏, 还可以在粉丝留言时像微信一样给我发消息提醒. 支持B站、掘金、知乎. 
     </details> 
 
-- 🎡 [Android GLide图片加载的几种常用方法](https://juejin.cn/post/7165484888542904356) | Sun Nov 13 2022 1:02 PM 
+- 🚀 [Android GLide图片加载的几种常用方法](https://juejin.cn/post/7165484888542904356) | Sun Nov 13 2022 1:02 PM 
     <details><summary>展开描述 ...</summary> 
     Glide库是用来实现图片加载的框架，功能强大且易使用，深受大家喜爱。 缓存浅析 为啥要做缓存？ android默认给每个应用只分配16M的内存，所以如果加载过多的图片，为了 防止内存溢出 ，应该将图 
     </details> 
 
-- 🕯 [聊聊类组件到函数组件的变迁](https://juejin.cn/post/7165482559772557326) | Sun Nov 13 2022 12:52 PM 
+- 💪 [聊聊类组件到函数组件的变迁](https://juejin.cn/post/7165482559772557326) | Sun Nov 13 2022 12:52 PM 
     <details><summary>展开描述 ...</summary> 
     最近一直在学习 React，在看到 React Hooks 一章时联想到 Compose ，简直有着异曲同工之处，他们都是由 UI 组件、State 状态、Effect 副作用构成，而且，Androi 
-    </details> 
-
-- 🚀 [可视化大屏的几种屏幕适配方案，总有一种是你需要的](https://juejin.cn/post/7165480221930422303) | Sun Nov 13 2022 12:43 PM 
-    <details><summary>展开描述 ...</summary> 
-    假设我们正在开发一个可视化拖拽的搭建平台，可以拖拽生成工作台或可视化大屏，或者直接就是开发一个大屏，首先必须要考虑的一个问题就是页面如何适应屏幕，因为我们在搭建或开发时一般都会基于一个固定的宽高。。。 
-    </details> 
-
-- 💪 [【MySQL】MySQL数据库锁使用与InnoDB加锁的原理解析（MySQL专栏启动）](https://juejin.cn/post/7165455828718190606) | Sun Nov 13 2022 11:08 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文将通过锁的分类，包括库锁、表锁、页锁、行锁等等，详细介绍MySQL锁的使用、以及MySQL的优化和MySQL InnoDB加锁原理。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
