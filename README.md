@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有没有讲的比较好的有关于 Active Directory 的文章或者书籍？](https://www.v2ex.com/t/894896#reply1) | Sun Nov 13 2022 9:34 AM
-- 🤗 [摸鱼开发纯 C 协程框架的后续和心得](https://www.v2ex.com/t/894889#reply2) | Sun Nov 13 2022 8:56 AM
-- 🎭 [ai 作画](https://www.v2ex.com/t/894882#reply4) | Sun Nov 13 2022 8:16 AM
-- 🥷 [安卓锁屏漏洞鸿蒙受影响吗？](https://www.v2ex.com/t/894872#reply9) | Sun Nov 13 2022 7:30 AM
-- 🐵 [semantic-ui 终于更新了](https://www.v2ex.com/t/894870#reply4) | Sun Nov 13 2022 7:09 AM<!-- v2ex:END -->
+- 🥸 [如何在下拉框中根据 visible text 快速选择一个想要的值](https://www.v2ex.com/t/894902#reply0) | Sun Nov 13 2022 10:25 AM
+- 🤗 [有没有讲的比较好的有关于 Active Directory 的文章或者书籍？](https://www.v2ex.com/t/894896#reply1) | Sun Nov 13 2022 9:34 AM
+- 🎭 [摸鱼开发纯 C 协程框架的后续和心得](https://www.v2ex.com/t/894889#reply2) | Sun Nov 13 2022 8:56 AM
+- 🥷 [ai 作画](https://www.v2ex.com/t/894882#reply6) | Sun Nov 13 2022 8:16 AM
+- 🐵 [安卓锁屏漏洞鸿蒙受影响吗？](https://www.v2ex.com/t/894872#reply14) | Sun Nov 13 2022 7:30 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
