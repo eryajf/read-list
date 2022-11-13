@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [求好用好玩的安卓 app](https://www.v2ex.com/t/894812#reply4) | Sun Nov 13 2022 1:17 AM
-- 🤗 [求一个 hdsky 邀请码](https://www.v2ex.com/t/894811#reply0) | Sun Nov 13 2022 1:10 AM
-- 🎭 [求推荐支持键盘快捷键的轻量 golang gui（仅需要 Linux 平台）](https://www.v2ex.com/t/894805#reply1) | Sun Nov 13 2022 12:44 AM
-- 🥷 [《FFmpeg 原理》第一版完成了](https://www.v2ex.com/t/894803#reply2) | Sun Nov 13 2022 12:23 AM
-- 🐵 [win11 有遇到过电脑无法自动熄屏或睡眠的吗？](https://www.v2ex.com/t/894789#reply4) | Sat Nov 12 2022 5:21 PM<!-- v2ex:END -->
+- 🥸 [刷 LeetCode 有什么策略吗？](https://www.v2ex.com/t/894833#reply0) | Sun Nov 13 2022 3:21 AM
+- 🤗 [IDEA 有一个调试插件忘记叫什么名字了](https://www.v2ex.com/t/894831#reply0) | Sun Nov 13 2022 3:13 AM
+- 🎭 [使用 c++为嵌入式 Linux 开发应用程序](https://www.v2ex.com/t/894819#reply1) | Sun Nov 13 2022 1:56 AM
+- 🥷 [求好用好玩的安卓 app](https://www.v2ex.com/t/894812#reply10) | Sun Nov 13 2022 1:17 AM
+- 🐵 [求一个 hdsky 邀请码](https://www.v2ex.com/t/894811#reply5) | Sun Nov 13 2022 1:10 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
