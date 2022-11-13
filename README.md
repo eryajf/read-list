@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Go map 竟然也会发生内存泄漏？](https://juejin.cn/post/7165352901596954632) | Sun Nov 13 2022 4:29 AM 
+- 🤗 [手摸手教你使用 Docker 快速搭建 Gitlab 服务](https://juejin.cn/post/7165372823467196423) | Sun Nov 13 2022 5:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文在 CentOS 虚拟机中使用 Docker 快速搭建了一个 Gitlab 服务，整个过程非常丝滑。快来体验一把吧~ 
+    </details> 
+
+- 🎡 [下一代智能合约编程语言Move&lpar;三&rpar;](https://juejin.cn/post/7165365375935184909) | Sun Nov 13 2022 5:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 之前我们曾提到不同于其他的智能合约编程语言，Move将脚本和模块分离，之前的两篇文章主要与脚本相关，这篇文章将会主要介绍模块相关的内容。 模块 模块是开发者发布在自己地址的一系列函数，之前我们使 
+    </details> 
+
+- 🕯 [深入浅出学习透析Nginx服务器的基本原理和配置指南「进阶实践篇」](https://juejin.cn/post/7165356799925682184) | Sun Nov 13 2022 4:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」  proxy_pass的疑问？ 很多小伙伴们跟我沟通说之前章节的介绍的proxy_pass介绍的并不是很详细和清晰，那么我们就针对于Nginx prox 
+    </details> 
+
+- 🚀 [Go map 竟然也会发生内存泄漏？](https://juejin.cn/post/7165352901596954632) | Sun Nov 13 2022 4:29 AM 
     <details><summary>展开描述 ...</summary> 
     Go 程序运行时，有些场景下会导致进程进入某个“高点”，然后就再也下不来了。 比如，多年前曹大写过的一篇文章讲过，在做活动时线上涌入的大流量把 goroutine 数抬升了不少…… 
     </details> 
 
-- 🎡 [[千字长文系列] 🌏玩转PostgreSql JDBC操作🦄&lpar;一&rpar;](https://juejin.cn/post/7165341911396384781) | Sun Nov 13 2022 3:46 AM 
+- 💪 [[千字长文系列] 🌏玩转PostgreSql JDBC操作🦄&lpar;一&rpar;](https://juejin.cn/post/7165341911396384781) | Sun Nov 13 2022 3:46 AM 
     <details><summary>展开描述 ...</summary> 
     本文正在参加「技术专题19期 漫谈数据库技术」活动 在本文中，我们将学习如何使用Java JDBC驱动程序与PostgreSQL数据库进行交互。JDBC是Java的核心API，它为兼容SQL的数据库  
-    </details> 
-
-- 🕯 [React 状态的不变性](https://juejin.cn/post/7165338973806526501) | Sun Nov 13 2022 3:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    Immutability不是 React 中的概念，但它对写一个正确的 React 程序至关重要。本文将揭露其中的缘由并介绍怎么编写符合 Immutability 原则的代码。 
-    </details> 
-
-- 🚀 [带你理解 React 中最“臭名昭著”的 useMemo 和 useCallback【译】](https://juejin.cn/post/7165338403465068552) | Sun Nov 13 2022 3:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    这篇文章为你答疑解惑，为大家介绍 useMemo 和 useCallback 这两个 Hook 的具体作用，它们的实现原理以及在实际开发中如何应用。 
-    </details> 
-
-- 💪 [此文带你详细了解MySQL数据库的事务知识](https://juejin.cn/post/7165336266240688142) | Sun Nov 13 2022 3:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    在MySQL中的事务Transaction是由存储引擎实现的，在MySQL中，只有InnoDB存储引擎才支持事务。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
