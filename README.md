@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [路由带参，简简单单~](https://juejin.cn/post/7165525662269194248) | Sun Nov 13 2022 3:39 PM 
+- 🤗 [精读《我们为何弃用 css-in-js》](https://juejin.cn/post/7165670146017591309) | Mon Nov 14 2022 1:00 AM 
     <details><summary>展开描述 ...</summary> 
-    带参数的路由匹配，其需求主要是：当需要将给定匹配模式的路由映射到同一个组件，但是其所需数据的目标用户不同如ID不同，页面参数不同等等时 
+    emotion 排名第二的维护者 Sam 所在公司弃用了 css-in-js 方案，引起了不小的讨论：Why We&#39;re Breaking Up with CSS-in-JS 
     </details> 
 
-- 🎡 [Android Compose 动画使用详解&lpar;六&rpar;动画配置之SpringSpec](https://juejin.cn/post/7165517047852449799) | Sun Nov 13 2022 3:06 PM 
+- 🎡 [一文带你学懂axios](https://juejin.cn/post/7165669920733134878) | Mon Nov 14 2022 12:59 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇详细介绍了弹簧动画规格 SpringSpec的参数配置及对应的使用效果，并用一个简单的实战效果体验了弹簧动画的魅力 
+    Vue本身是不支持发送ajax请求的，需要使用第三方插件，而axios就是Vue2.0官方推荐的一个插件。 
     </details> 
 
-- 🕯 [基于docker部署微前端项目的入门实践指南🐋](https://juejin.cn/post/7165515526947471391) | Sun Nov 13 2022 3:00 PM 
+- 🕯 [第 N 次Hello World ! Ready ？Go !](https://juejin.cn/post/7165669292522864676) | Mon Nov 14 2022 12:57 AM 
     <details><summary>展开描述 ...</summary> 
-    🚢 前言 这是一篇讲述如何基于docker部署微前端项目的文章。本文章会先从理论角度去描述部署方式，然后再通过代码去实现部署的逻辑和细节。 本文适合以下人群阅读： 刚认识docker，想通过实践进一步 
+    Go语言诞生的小故事，已经环境变量的配置，开发工具的选择，写出第 N 个 Hello World ! 
     </details> 
 
-- 🚀 [【云原生】Sqoop on k8s 讲解与实战操作](https://juejin.cn/post/7165513358672658439) | Sun Nov 13 2022 2:51 PM 
+- 🚀 [此文带你详细了解MySQL数据库的存储引擎知识](https://juejin.cn/post/7165669183932334116) | Mon Nov 14 2022 12:56 AM 
     <details><summary>展开描述 ...</summary> 
-    Sqoop是一个在结构化数据和Hadoop之间进行批量数据迁移的工具，结构化数据可以是MySQL、Oracle等RDBMS。Sqoop底层用MapReduce程序实现抽取、转换、加载，MapReduc 
+    数据库存储引擎是数据库底层软件组织，数据库管理系统&lpar;DBMS&rpar;使用数据引擎进行创建、查询、更新和删除数据。 
     </details> 
 
-- 💪 [791. 自定义字符串排序 : 简单构造题](https://juejin.cn/post/7165507367960854558) | Sun Nov 13 2022 2:28 PM 
+- 💪 [Nacos 版本不一致报错: Request nacos server failed](https://juejin.cn/post/7165668349211312158) | Mon Nov 14 2022 12:54 AM 
     <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 791. 自定义字符串排序 ，难度为 中等。 Tag : 「构造」、「模拟」 给定两个字符串 order 和 s 。order 的所有单词都是 唯一 的，并且以 
+    在做微服务开发中，测试环境使用Nacos没有问题，但是生产环境服务启动一直报错： 原因分析 版本不一致 代码没有改动，测试环境没问题，但是生产环境有问题呢？首先看一下两者不同的地方，大多数都是环境配置 
     </details> 
 <!-- juejin:END -->
 ### 少数派
