@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [APP 没法记住密码](https://www.v2ex.com/t/895130#reply0) | Mon Nov 14 2022 6:54 AM
-- 🤗 [再次见证国产开源的下限](https://www.v2ex.com/t/895128#reply1) | Mon Nov 14 2022 6:51 AM
-- 🎭 [了解一下 js 如何获取另一个页面的 div 样式的 id 来进行判断](https://www.v2ex.com/t/895127#reply6) | Mon Nov 14 2022 6:47 AM
-- 🥷 [一套运维面试题](https://www.v2ex.com/t/895119#reply16) | Mon Nov 14 2022 6:24 AM
-- 🐵 [求搞机大佬能分享一下 BuzzKill 的规则](https://www.v2ex.com/t/895096#reply0) | Mon Nov 14 2022 5:09 AM<!-- v2ex:END -->
+- 🥸 [非公有云环境下，如何实现 svc 的 external ip](https://www.v2ex.com/t/895153#reply0) | Mon Nov 14 2022 8:07 AM
+- 🤗 [Goland 没有高亮？](https://www.v2ex.com/t/895151#reply7) | Mon Nov 14 2022 8:02 AM
+- 🎭 [使用了订阅模式续订了公司的开发者账号，后期还能使用网页续订么？](https://www.v2ex.com/t/895144#reply1) | Mon Nov 14 2022 7:47 AM
+- 🥷 [发个很少有人推的业务，运维服务，需要的喊我，双 11 有特价](https://www.v2ex.com/t/895143#reply0) | Mon Nov 14 2022 7:42 AM
+- 🐵 [Springboot 中 想要重启服务 该怎么写？](https://www.v2ex.com/t/895138#reply6) | Mon Nov 14 2022 7:20 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
