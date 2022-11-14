@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [腾讯云 5349 端口无法打开？](https://www.v2ex.com/t/895175#reply0) | Mon Nov 14 2022 9:02 AM
-- 🤗 [open-rec：基于开源技术栈的推荐系统](https://www.v2ex.com/t/895164#reply0) | Mon Nov 14 2022 8:34 AM
-- 🎭 [独立产品灵感周刊 DecoHack #037 - 整理你的愿望清单](https://www.v2ex.com/t/895160#reply0) | Mon Nov 14 2022 8:27 AM
-- 🥷 [非公有云环境下，如何实现 svc 的 external ip](https://www.v2ex.com/t/895153#reply1) | Mon Nov 14 2022 8:07 AM
-- 🐵 [Goland 没有高亮？](https://www.v2ex.com/t/895151#reply9) | Mon Nov 14 2022 8:02 AM<!-- v2ex:END -->
+- 🥸 [pixel 6a 美版，台版，日版有啥区别？](https://www.v2ex.com/t/895200#reply0) | Mon Nov 14 2022 10:19 AM
+- 🤗 [如何找到一些 JVM， MySQL 的实战案例](https://www.v2ex.com/t/895199#reply0) | Mon Nov 14 2022 10:10 AM
+- 🎭 [腾讯云 5349 端口无法打开？](https://www.v2ex.com/t/895175#reply1) | Mon Nov 14 2022 9:02 AM
+- 🥷 [open-rec：基于开源技术栈的推荐系统](https://www.v2ex.com/t/895164#reply0) | Mon Nov 14 2022 8:34 AM
+- 🐵 [独立产品灵感周刊 DecoHack #037 - 整理你的愿望清单](https://www.v2ex.com/t/895160#reply0) | Mon Nov 14 2022 8:27 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
