@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [具备怎样的条件才算是一个合格的架构师？](https://www.v2ex.com/t/895214#reply0) | Mon Nov 14 2022 11:11 AM
-- 🤗 [网站负载均衡 L7 转发 防 CC 攻击 选择 OpenResty Edge 还是 HAProxy 企业版](https://www.v2ex.com/t/895208#reply0) | Mon Nov 14 2022 10:45 AM
-- 🎭 [这里有没有对 category theory 信心十足的程序员？](https://www.v2ex.com/t/895207#reply5) | Mon Nov 14 2022 10:39 AM
-- 🥷 [Sendgird 的 Email Address Validation 功能检测目标地址是否存在的原理是什么？](https://www.v2ex.com/t/895203#reply0) | Mon Nov 14 2022 10:29 AM
-- 🐵 [pixel 6a 美版，台版，日版有啥区别？](https://www.v2ex.com/t/895200#reply0) | Mon Nov 14 2022 10:19 AM<!-- v2ex:END -->
+- 🥸 [Onedrive 国内访问是变快了吗（1drv）？](https://www.v2ex.com/t/895230#reply1) | Mon Nov 14 2022 12:28 PM
+- 🤗 [工作一年 怎样做一个项目去完整全面的熟悉 redis+Node.js+mysql 呢](https://www.v2ex.com/t/895225#reply1) | Mon Nov 14 2022 12:04 PM
+- 🎭 [独立产品怎么收费啊？求科普](https://www.v2ex.com/t/895216#reply4) | Mon Nov 14 2022 11:23 AM
+- 🥷 [具备怎样的条件才算是一个合格的架构师？](https://www.v2ex.com/t/895214#reply0) | Mon Nov 14 2022 11:11 AM
+- 🐵 [网站负载均衡 L7 转发 防 CC 攻击 选择 OpenResty Edge 还是 HAProxy 企业版](https://www.v2ex.com/t/895208#reply0) | Mon Nov 14 2022 10:45 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
