@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [论“斗图”文化兴起和分享一个表情包小程序代码](https://juejin.cn/post/7165780359110459428) | Mon Nov 14 2022 8:08 AM 
+- 🤗 [还在用 JS 做节流吗？CSS 也可以防止按钮重复点击](https://juejin.cn/post/7165828047520661534) | Mon Nov 14 2022 11:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」。 众所周知，函数节流（throttle）是 JS 中一个非常常见的优化手段，可以有效的避免函数过于频繁的执行。 举个例子：一个保存按钮，为了避免重复提交 
+    </details> 
+
+- 🎡 [[千字长文系列] 🌏玩转PostgreSql JDBC操作🦄&lpar;二&rpar;](https://juejin.cn/post/7165790996167884836) | Mon Nov 14 2022 8:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文正在参加「技术专题19期 漫谈数据库技术」活动 本文使用的emoji🦄🧚‍♀️🧚🏻‍♀️🧚🏻‍♂️ 🧚‍♀️JDBC查询PG数据 在本节中，我们将学习如何使用JDBC API从PostgreSQL 
+    </details> 
+
+- 🕯 [低代码技术在研发团队的应用模式探讨](https://juejin.cn/post/7165789688958025735) | Mon Nov 14 2022 8:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    近几年，低代码技术发展的如火如荼，在商业领域也是目前市场关注的重点。本文想换个视角，分享下低代码技术在产研团队应用落地的相关话题。 
+    </details> 
+
+- 🚀 [论“斗图”文化兴起和分享一个表情包小程序代码](https://juejin.cn/post/7165780359110459428) | Mon Nov 14 2022 8:08 AM 
     <details><summary>展开描述 ...</summary> 
     一款表情包制作小程序，大约三四年前，斗图文化兴起，顿时聊天氛围就变得生动多彩，生龙活虎，其乐融融。 人们不再满足于文字交流， 
     </details> 
 
-- 🎡 [iOS小技能：iOS13 证件扫描 &amp; 文字识别API](https://juejin.cn/post/7165778115896016932) | Mon Nov 14 2022 7:59 AM 
+- 💪 [iOS小技能：iOS13 证件扫描 &amp; 文字识别API](https://juejin.cn/post/7165778115896016932) | Mon Nov 14 2022 7:59 AM 
     <details><summary>展开描述 ...</summary> 
     本文正在参加「金石计划 . 瓜分6万现金大奖」 引言 从CSDN下载Demo源码：https://download.csdn.net/download/u011018979/19262418 应用场景 
-    </details> 
-
-- 🕯 [&lpar;十八&rpar;MySQL排查篇：该如何定位并解决线上突发的Bug与疑难杂症？](https://juejin.cn/post/7165767441883398175) | Mon Nov 14 2022 7:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    哦买噶！美好的假期又遭殃了...，这该死的MySQL在线上又告警：数据查询慢、CPU100%、磁盘100%、客户端连接异常、死锁问题频发.....，这到底怎么回事！究竟是谁动了我的代码！？！！ 
-    </details> 
-
-- 🚀 [HTTP中POST提交数据的四种方式详解](https://juejin.cn/post/7165764899547643935) | Mon Nov 14 2022 7:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    HTTP中POST提交数据的四种方式详解 首先说一下为什么写这篇文章，以前写客户端的时候，要经常调用后端的接口，一般很多公司的接口，都是统一POST提交方式 服务端响应的是 JSON 格式字符串，方便 
-    </details> 
-
-- 💪 [聊聊鉴权那些事](https://juejin.cn/post/7165759232078250020) | Mon Nov 14 2022 6:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    在系统级项目开发时常常会遇到一个问题就是鉴权，身为一个前端来说可能我们距离鉴权可能比较远，一般来说我们也只是去应用，并没有对权限这一部分进行深入的理解。 鉴权：是指验证用户是否拥有访问系统的权利。传统 
     </details> 
 <!-- juejin:END -->
 ### 少数派
