@@ -366,7 +366,7 @@
 <!-- v2ex:START -->
 - 🥸 [求搞机大佬能分享一下 BuzzKill 的规则](https://www.v2ex.com/t/895096#reply0) | Mon Nov 14 2022 5:09 AM
 - 🤗 [任务管理器还有办法显示 TUN 设备的使用率吗？](https://www.v2ex.com/t/895083#reply0) | Mon Nov 14 2022 4:36 AM
-- 🎭 [大家是如何管理浏览器标签的呢? 一直没找到喜欢的方式, 于是撸了个插件~](https://www.v2ex.com/t/895080#reply11) | Mon Nov 14 2022 4:31 AM
+- 🎭 [大家是如何管理浏览器标签的呢? 一直没找到喜欢的方式, 于是撸了个插件~](https://www.v2ex.com/t/895080#reply13) | Mon Nov 14 2022 4:31 AM
 - 🥷 [你们的开源项目都怎么起名？](https://www.v2ex.com/t/895059#reply2) | Mon Nov 14 2022 3:23 AM
 - 🐵 [一个很简单的二元回归，但是只知道趋势没有准确标签](https://www.v2ex.com/t/895057#reply2) | Mon Nov 14 2022 3:21 AM<!-- v2ex:END -->
 
