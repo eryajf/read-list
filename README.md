@@ -383,19 +383,19 @@
     本文正在参加「金石计划 . 瓜分6万现金大奖」。 众所周知，函数节流（throttle）是 JS 中一个非常常见的优化手段，可以有效的避免函数过于频繁的执行。 举个例子：一个保存按钮，为了避免重复提交 
     </details> 
 
-- 🕯 [小程序使用 canvas 制作活动分享海报的一点点细节](https://juejin.cn/post/7165793269853454344) | Mon Nov 14 2022 8:59 AM 
+- 🕯 [深入浅出react（优先级管理）](https://juejin.cn/post/7165810009140527140) | Mon Nov 14 2022 10:02 AM 
     <details><summary>展开描述 ...</summary> 
-    本文主要讲解在小程序生态中，前端活动分享海报的设计和实现思路、技术难点解析，可能遇到的坑，帮助你少走弯路。 
+    本章从以下六个问题开始学习react优先级管理： 1.为什么需要优先级？ 2.react有几种优先级?3.lane和位运算符的关系?4.优先级机制是如何设计的？5.React运行时的优先级机制？ 
     </details> 
 
-- 🚀 [[千字长文系列] 🌏玩转PostgreSql JDBC操作🦄&lpar;二&rpar;](https://juejin.cn/post/7165790996167884836) | Mon Nov 14 2022 8:49 AM 
+- 🚀 [Gradle Enterprise 牛逼 | 还债了](https://juejin.cn/post/7165808095409471525) | Mon Nov 14 2022 9:55 AM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「技术专题19期 漫谈数据库技术」活动 本文使用的emoji🦄🧚‍♀️🧚🏻‍♀️🧚🏻‍♂️ 🧚‍♀️JDBC查询PG数据 在本节中，我们将学习如何使用JDBC API从PostgreSQL 
+    会把编译过程中所有的log日志整合并上报，我们可以在编译结果上看到当前所有的编译日志，并且会对崩溃和堆栈进行额外的展示，这样就可以避免我们需要额外添加`-stacktrace&lpar;-s&rpar;`参数进行额外的堆 
     </details> 
 
-- 💪 [低代码技术在研发团队的应用模式探讨](https://juejin.cn/post/7165789688958025735) | Mon Nov 14 2022 8:43 AM 
+- 💪 [Jetpack Compose 上新：瀑布流布局、下拉加载、DrawScope.drawText](https://juejin.cn/post/7165805186118582308) | Mon Nov 14 2022 9:44 AM 
     <details><summary>展开描述 ...</summary> 
-    近几年，低代码技术发展的如火如荼，在商业领域也是目前市场关注的重点。本文想换个视角，分享下低代码技术在产研团队应用落地的相关话题。 
+    不久前，Jetpack Compose 发布了 1.3.0 正式版。经过一年多的发展，再回头去看，Compose 终于带来了缺失已久的瀑布流布局以及DrawScope.drawText方法。本文就简单 
     </details> 
 <!-- juejin:END -->
 ### 少数派
