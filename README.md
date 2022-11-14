@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [kotlin修炼指南9-Sequence的秘密](https://juejin.cn/post/7165681894883852319) | Mon Nov 14 2022 1:45 AM 
+- 🤗 [字节一面后，我又看了一遍ThreadLocal核心原理](https://juejin.cn/post/7165711304575942692) | Mon Nov 14 2022 3:39 AM 
     <details><summary>展开描述 ...</summary> 
-    人们经常忽略Iterable和Sequence之间的区别。这是可以理解的，因为即使它们的定义也几乎是相同的。 你可以说它们之间唯一的正式区别就是名字。尽管Iterable和Sequence有着完全不同 
+    ThreadLocal类位于java.lang包下，是JDK提供的一个类。在使用ThreadLocal类访问共享变量时，会在每个线程的本地内存中保存一份共享变量的副本。 
     </details> 
 
-- 🎡 [从 SPL 看开放计算能力的意义](https://juejin.cn/post/7165680787742785550) | Mon Nov 14 2022 1:41 AM 
+- 🎡 [如何避免由 Web 字体引起的布局偏移](https://juejin.cn/post/7165689997566148615) | Mon Nov 14 2022 2:17 AM 
     <details><summary>展开描述 ...</summary> 
-    关系数据库提供了SQL，因而有较强的计算能力，但很遗憾的是，这个计算能力是封闭的。所谓计算封闭性，是指要被数据库计算和处理的数据，必须事先装入数据库之内，数据在数据库内部还是外部是很明确的。与之相对， 
+    一些布局上的完全加载前后的变化很容易解决：为动态元素预先分配正确的空间，在图像上使用宽度和高度属性，并优先考虑 HTML 文档中的可见元素。但是，导致布局偏移的还有一个难以解决的问题：无样式文本闪烁。 
     </details> 
 
-- 🕯 [Web 中使用 IndexedDB 实现缓存](https://juejin.cn/post/7165679432638660645) | Mon Nov 14 2022 1:35 AM 
+- 🕯 [🔥我说MySQL每张表最好不超过2000万条数据，面试官让我回去等通知？](https://juejin.cn/post/7165689453124517896) | Mon Nov 14 2022 2:15 AM 
     <details><summary>展开描述 ...</summary> 
-    用户需要在本地存储大量的数据以满足离线缓存或者其他操作。并且可以按顺序检索，有效搜索值并可键值对存储，IndexedDB 应运而生。该规范提供了一个具体的 API 来执行高级键值数据管理。 
+    一般来说，MySQL每张表最好不要超过2000万条数据，否则就会导致性能下降。实际情况下，每张表由于自身的字段不同、字段所占用的空间不同等原因，它们在最佳性能下可以存放的数据量也就不同。 
     </details> 
 
-- 🚀 [前端全栈之路 - 玩转 Docker &lpar;制品库&rpar;](https://juejin.cn/post/7165677903085043749) | Mon Nov 14 2022 1:30 AM 
+- 🚀 [说实话，不得不用 pnpm 的原因，还得是电脑内存不够用](https://juejin.cn/post/7165688786532171784) | Mon Nov 14 2022 2:13 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 在之前的章节中，我们一起学习了 Docker 的基础使用以及如何去构建一个生产的 Docker Image。 本章将介绍制品库的相关知识以及使用。 
+    pnpm 是不是比 yarn + lerna 更香？节省磁盘空间，安装依赖更快，内置 Monorepo 功能。说实话，不得不用 pnpm 的原因，还得是电脑内存不够用，用 npm、yarn安装依赖 
     </details> 
 
-- 💪 [靓仔，说一下keep-alive缓存组件后怎么更新及原理？](https://juejin.cn/post/7165675789885636616) | Mon Nov 14 2022 1:22 AM 
+- 💪 [redis缓存雪崩、缓存击穿和缓存穿透还傻傻分不清？看这篇就够了](https://juejin.cn/post/7165687448365137957) | Mon Nov 14 2022 2:07 AM 
     <details><summary>展开描述 ...</summary> 
-    keep-alive怎么缓存组件的，是性能优化常见的一点，面试中我们怎么去回答比较好，缓存可用keep-alive，说一下它的作用与用法、使用细节，如缓存指定/排除、更新activated、原理阐述 
+    关于Redis的高频问题，缓存雪崩、缓存击穿和缓存穿透一定少不了，相信大家在面试中都被问到过类似的问题。为什么这些问题一直热门呢？本文给你答案。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
