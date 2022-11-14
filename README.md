@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [PlatformView 实现：将 Android 控件（view）制作成 Flutter 插件](https://juejin.cn/post/7165748540365340680) | Mon Nov 14 2022 6:04 AM 
+- 🤗 [爱上算法，迷人的两度搜索](https://juejin.cn/post/7165766253222166542) | Mon Nov 14 2022 7:12 AM 
+    <details><summary>展开描述 ...</summary> 
+    # 迷人的两度搜索 ## 1、BFS和DFS 深度优先搜索算法（DFS）和广度优先搜索算法（BFS）是一种用于遍历或搜索树或图的算法，在搜索遍历的过程中保证每个节点（顶点）访问一次且仅访问一 
+    </details> 
+
+- 🎡 [PlatformView 实现：将 Android 控件（view）制作成 Flutter 插件](https://juejin.cn/post/7165748540365340680) | Mon Nov 14 2022 6:04 AM 
     <details><summary>展开描述 ...</summary> 
     PlatformView 的封装，只读这一篇就够了。本文讲解如何将 android UI控件&lpar;view&rpar; 制作成 flutter plugin 插件。控件内如何建立native-flutter通信。 
     </details> 
 
-- 🎡 [实战教程·元宇宙来了，准备好你的电子名片了吗？（四）](https://juejin.cn/post/7165736473994461220) | Mon Nov 14 2022 5:18 AM 
+- 🕯 [Nacos注册中心16-临时实例集群间同步](https://juejin.cn/post/7165730566510542862) | Mon Nov 14 2022 4:54 AM 
     <details><summary>展开描述 ...</summary> 
-    元宇宙，是运用数字技术搭建的，由现实世界映射或超越现实世界，可与现实世界交互的虚拟世界，具备新型社会体系的数字生活空间。而本项目Linkworld是将虚拟世界或现实生活中的各种“身份”汇集...... 
+    Nacos注册中心，临时实例集群间同步，核心类DistroExecuteTaskExecuteEngine 
     </details> 
 
-- 🕯 [统一开发环境、了解配置原理（下）](https://juejin.cn/post/7165712466788220959) | Mon Nov 14 2022 3:44 AM 
+- 🚀 [一名工作七年老安卓的九十月小结](https://juejin.cn/post/7165729600536838157) | Mon Nov 14 2022 4:51 AM 
     <details><summary>展开描述 ...</summary> 
-    本节内容我们完成了对于一个项目工程化的完善，对项目添加了`stylelint样式校验`,`ls-lint`文件命名校验, 同时使用`husky`工具通过对`hook`在不同阶段通过`lint-stag 
+    你好，我是 shixin，一名工作七年的安卓开发。 每两个月我会做一次总结，记下这段时间里有意义的事和值得反复看的内容，为的是留一些回忆、评估自己的行为、沉淀有价值的信息。 
     </details> 
 
-- 🚀 [GaiaX开源解读 | 跨端动态化模板引擎详解，看完你也能写一个](https://juejin.cn/post/7165708737141800997) | Mon Nov 14 2022 3:29 AM 
+- 💪 [Elasticsearch：使用 Filebeat 从 Node.js Web 应用程序提取日志](https://juejin.cn/post/7165729180301131807) | Mon Nov 14 2022 4:51 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇中将进一步深入GaiaX的各个细节，深度解读GaiaX团队同学是如何进行方案落地的，看完本篇内容相信你一定会有所收获。 
-    </details> 
-
-- 💪 [805. 数组的均值分割 : 折半搜索 + 二进制枚举运用题](https://juejin.cn/post/7165705588632977421) | Mon Nov 14 2022 3:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 805. 数组的均值分割 ，难度为 困难。 Tag : 「折半搜索」、「二进制枚举」、「哈希表」 给定你一个整数数组 nums 我们要将 nums 数组中的每个 
+    本指南演示了如何从 Node.js Web 应用程序中提取日志并将它们安全地传送到 Elasticsearch Service 部署中。 你将设置 Filebeat 来监控具有标准 Elastic C 
     </details> 
 <!-- juejin:END -->
 ### 少数派
