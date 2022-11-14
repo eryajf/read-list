@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [SpringBoot整合JDBC数据库操作-5:批量添加/删除/修改数据](https://juejin.cn/post/7165702507589533733) | Mon Nov 14 2022 3:05 AM 
+- 🤗 [PlatformView 实现：将 Android 控件（view）制作成 Flutter 插件](https://juejin.cn/post/7165748540365340680) | Mon Nov 14 2022 6:04 AM 
     <details><summary>展开描述 ...</summary> 
-    上篇文章我们讲到了怎么对已经存在的数据进行修改/删除操作,也讲到了如何添加数据,但以前的操作只是对单条数据的操作.当我们要批量的进行数据的操作&lpar;比如批量增加,批量修改,批量删除&rpar;该怎么做呢?这篇文章主 
+    PlatformView 的封装，只读这一篇就够了。本文讲解如何将 android UI控件&lpar;view&rpar; 制作成 flutter plugin 插件。控件内如何建立native-flutter通信。 
     </details> 
 
-- 🎡 [可扩展 CSS 的演变](https://juejin.cn/post/7165701715059015717) | Mon Nov 14 2022 3:02 AM 
+- 🎡 [实战教程·元宇宙来了，准备好你的电子名片了吗？（四）](https://juejin.cn/post/7165736473994461220) | Mon Nov 14 2022 5:18 AM 
     <details><summary>展开描述 ...</summary> 
-    自 Web 诞生以来，我们编写和思考 CSS 的方式发生了巨大变化。从基于 table 的布局到响应式网页设计，已经走过了漫长的道路，现在进入了由现代 CSS 功能提供支持 
+    元宇宙，是运用数字技术搭建的，由现实世界映射或超越现实世界，可与现实世界交互的虚拟世界，具备新型社会体系的数字生活空间。而本项目Linkworld是将虚拟世界或现实生活中的各种“身份”汇集...... 
     </details> 
 
-- 🕯 [MongoDB 安全策略：验证和授权](https://juejin.cn/post/7165701469159555102) | Mon Nov 14 2022 3:01 AM 
+- 🕯 [统一开发环境、了解配置原理（下）](https://juejin.cn/post/7165712466788220959) | Mon Nov 14 2022 3:44 AM 
     <details><summary>展开描述 ...</summary> 
-    本文主要介绍 MongoDB 提供的内置角色和权限，然后通过开启身份验证，为用户指定不同的访问权限，来提供数据库的安全性。 
+    本节内容我们完成了对于一个项目工程化的完善，对项目添加了`stylelint样式校验`,`ls-lint`文件命名校验, 同时使用`husky`工具通过对`hook`在不同阶段通过`lint-stag 
     </details> 
 
-- 🚀 [SpringBoot整合JDBC数据库操作-4:修改/删除数据操作](https://juejin.cn/post/7165700933727289381) | Mon Nov 14 2022 3:00 AM 
+- 🚀 [GaiaX开源解读 | 跨端动态化模板引擎详解，看完你也能写一个](https://juejin.cn/post/7165708737141800997) | Mon Nov 14 2022 3:29 AM 
     <details><summary>展开描述 ...</summary> 
-    上篇文章我们讲到了如何实现增加数据操作,可以对数据库中增加新的数据信息.这篇文章主要讲解一下我们怎么对已经存在的数据进行修改/删除操作. 修改ArticleRepository类文件, 增加修改/删除 
+    本篇中将进一步深入GaiaX的各个细节，深度解读GaiaX团队同学是如何进行方案落地的，看完本篇内容相信你一定会有所收获。 
     </details> 
 
-- 💪 [谈到App加固，裕信银行选择顶象](https://juejin.cn/post/7165700077393018916) | Mon Nov 14 2022 2:56 AM 
+- 💪 [805. 数组的均值分割 : 折半搜索 + 二进制枚举运用题](https://juejin.cn/post/7165705588632977421) | Mon Nov 14 2022 3:18 AM 
     <details><summary>展开描述 ...</summary> 
-    移动互联网时代，App已经成为了商业银行触达和经营客户的主要阵地。尤其，在疫情爆发之后，银行App作为重要的「无接触」门户，开始扮演越来越重要角色。 此外，随着新一代人工智能的蓬勃发展，智慧金融新模式 
+    题目描述 这是 LeetCode 上的 805. 数组的均值分割 ，难度为 困难。 Tag : 「折半搜索」、「二进制枚举」、「哈希表」 给定你一个整数数组 nums 我们要将 nums 数组中的每个 
     </details> 
 <!-- juejin:END -->
 ### 少数派
