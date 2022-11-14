@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [JS如何使用sessionStorage实现计数器功能](https://juejin.cn/post/7165849845948203016) | Mon Nov 14 2022 12:37 PM 
+- 🤗 [为什么同一表情&#39;🧔‍♂️&#39;.length==5但&#39;🧔‍♂&#39;.length==4？本文带你深入理解 String Unicode UTF8 UTF16](https://juejin.cn/post/7165859792861265928) | Mon Nov 14 2022 1:18 PM 
+    <details><summary>展开描述 ...</summary> 
+    为什么同样是男人，但有的男人&#39;🧔‍♂️&#39;长度是5，有的男人&#39;🧔‍♂&#39;长度是4呢？本文带你深入理解String Unicode UTF8 UTF16。 
+    </details> 
+
+- 🎡 [JS如何使用sessionStorage实现计数器功能](https://juejin.cn/post/7165849845948203016) | Mon Nov 14 2022 12:37 PM 
     <details><summary>展开描述 ...</summary> 
     本文正在参加「金石计划 . 瓜分6万现金大奖」 前言 当你掌握了localStorage的使用后,针对sessionStorage也是一样的,它也是本地存储的一种方式,它是临时会话存储,有时,是需要利 
     </details> 
 
-- 🎡 [工程师的自我修养：了解技术的前世今生](https://juejin.cn/post/7165846372153819172) | Mon Nov 14 2022 12:24 PM 
+- 🕯 [工程师的自我修养：了解技术的前世今生](https://juejin.cn/post/7165846372153819172) | Mon Nov 14 2022 12:24 PM 
     <details><summary>展开描述 ...</summary> 
     真正的教育，不传授任何的知识和技能 --- 耶鲁大学校长 理查德莱文 去了解你所涉足的技术的前世今生，甚至细节到一个小小的功能特性，那么或许看透事物本质的你可以看到未来 
     </details> 
 
-- 🕯 [用 Flutter 轻松做个红包界面](https://juejin.cn/post/7165840856518885413) | Mon Nov 14 2022 12:03 PM 
+- 🚀 [用 Flutter 轻松做个红包界面](https://juejin.cn/post/7165840856518885413) | Mon Nov 14 2022 12:03 PM 
     <details><summary>展开描述 ...</summary> 
     通过 FittedBox 可以调整子组件适配父组件的方式，非常实用。我们利用 FittedBox 轻松搞了一个红包界面。 
     </details> 
 
-- 🚀 [Angular DevUI 14.1.0版本已发布，快来看下都有哪些变化吧~🎉](https://juejin.cn/post/7165838530617278477) | Mon Nov 14 2022 11:53 AM 
+- 💪 [Angular DevUI 14.1.0版本已发布，快来看下都有哪些变化吧~🎉](https://juejin.cn/post/7165838530617278477) | Mon Nov 14 2022 11:53 AM 
     <details><summary>展开描述 ...</summary> 
     Ng DevUI 14.1.0版本发布啦~ 现在你可以在 Angular 项目中愉快地使用 Ng DevUI 组件库啦！我们一起来看看 Ng DevUI 14.1.0 都更新了哪些新特性吧！ 
-    </details> 
-
-- 💪 [如何查看github热门趋势和star排行榜](https://juejin.cn/post/7165838204380119077) | Mon Nov 14 2022 11:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    怎么样查看github热门趋势和star排行榜，介绍几个查看github热点的工具，查看开源项目star增长曲线 
     </details> 
 <!-- juejin:END -->
 ### 少数派
