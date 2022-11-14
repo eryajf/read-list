@@ -378,24 +378,24 @@
     本文正在参加「金石计划 . 瓜分6万现金大奖」 前言 当你掌握了localStorage的使用后,针对sessionStorage也是一样的,它也是本地存储的一种方式,它是临时会话存储,有时,是需要利 
     </details> 
 
-- 🎡 [还在用 JS 做节流吗？CSS 也可以防止按钮重复点击](https://juejin.cn/post/7165828047520661534) | Mon Nov 14 2022 11:13 AM 
+- 🎡 [工程师的自我修养：了解技术的前世今生](https://juejin.cn/post/7165846372153819172) | Mon Nov 14 2022 12:24 PM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」。 众所周知，函数节流（throttle）是 JS 中一个非常常见的优化手段，可以有效的避免函数过于频繁的执行。 举个例子：一个保存按钮，为了避免重复提交 
+    真正的教育，不传授任何的知识和技能 --- 耶鲁大学校长 理查德莱文 去了解你所涉足的技术的前世今生，甚至细节到一个小小的功能特性，那么或许看透事物本质的你可以看到未来 
     </details> 
 
-- 🕯 [深入浅出react（优先级管理）](https://juejin.cn/post/7165810009140527140) | Mon Nov 14 2022 10:02 AM 
+- 🕯 [用 Flutter 轻松做个红包界面](https://juejin.cn/post/7165840856518885413) | Mon Nov 14 2022 12:03 PM 
     <details><summary>展开描述 ...</summary> 
-    本章从以下六个问题开始学习react优先级管理： 1.为什么需要优先级？ 2.react有几种优先级?3.lane和位运算符的关系?4.优先级机制是如何设计的？5.React运行时的优先级机制？ 
+    通过 FittedBox 可以调整子组件适配父组件的方式，非常实用。我们利用 FittedBox 轻松搞了一个红包界面。 
     </details> 
 
-- 🚀 [Gradle Enterprise 牛逼 | 还债了](https://juejin.cn/post/7165808095409471525) | Mon Nov 14 2022 9:55 AM 
+- 🚀 [Angular DevUI 14.1.0版本已发布，快来看下都有哪些变化吧~🎉](https://juejin.cn/post/7165838530617278477) | Mon Nov 14 2022 11:53 AM 
     <details><summary>展开描述 ...</summary> 
-    会把编译过程中所有的log日志整合并上报，我们可以在编译结果上看到当前所有的编译日志，并且会对崩溃和堆栈进行额外的展示，这样就可以避免我们需要额外添加`-stacktrace&lpar;-s&rpar;`参数进行额外的堆 
+    Ng DevUI 14.1.0版本发布啦~ 现在你可以在 Angular 项目中愉快地使用 Ng DevUI 组件库啦！我们一起来看看 Ng DevUI 14.1.0 都更新了哪些新特性吧！ 
     </details> 
 
-- 💪 [Jetpack Compose 上新：瀑布流布局、下拉加载、DrawScope.drawText](https://juejin.cn/post/7165805186118582308) | Mon Nov 14 2022 9:44 AM 
+- 💪 [如何查看github热门趋势和star排行榜](https://juejin.cn/post/7165838204380119077) | Mon Nov 14 2022 11:52 AM 
     <details><summary>展开描述 ...</summary> 
-    不久前，Jetpack Compose 发布了 1.3.0 正式版。经过一年多的发展，再回头去看，Compose 终于带来了缺失已久的瀑布流布局以及DrawScope.drawText方法。本文就简单 
+    怎么样查看github热门趋势和star排行榜，介绍几个查看github热点的工具，查看开源项目star增长曲线 
     </details> 
 <!-- juejin:END -->
 ### 少数派
