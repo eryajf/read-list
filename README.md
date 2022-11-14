@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [精读《我们为何弃用 css-in-js》](https://juejin.cn/post/7165670146017591309) | Mon Nov 14 2022 1:00 AM 
+- 🤗 [kotlin修炼指南9-Sequence的秘密](https://juejin.cn/post/7165681894883852319) | Mon Nov 14 2022 1:45 AM 
     <details><summary>展开描述 ...</summary> 
-    emotion 排名第二的维护者 Sam 所在公司弃用了 css-in-js 方案，引起了不小的讨论：Why We&#39;re Breaking Up with CSS-in-JS 
+    人们经常忽略Iterable和Sequence之间的区别。这是可以理解的，因为即使它们的定义也几乎是相同的。 你可以说它们之间唯一的正式区别就是名字。尽管Iterable和Sequence有着完全不同 
     </details> 
 
-- 🎡 [一文带你学懂axios](https://juejin.cn/post/7165669920733134878) | Mon Nov 14 2022 12:59 AM 
+- 🎡 [从 SPL 看开放计算能力的意义](https://juejin.cn/post/7165680787742785550) | Mon Nov 14 2022 1:41 AM 
     <details><summary>展开描述 ...</summary> 
-    Vue本身是不支持发送ajax请求的，需要使用第三方插件，而axios就是Vue2.0官方推荐的一个插件。 
+    关系数据库提供了SQL，因而有较强的计算能力，但很遗憾的是，这个计算能力是封闭的。所谓计算封闭性，是指要被数据库计算和处理的数据，必须事先装入数据库之内，数据在数据库内部还是外部是很明确的。与之相对， 
     </details> 
 
-- 🕯 [第 N 次Hello World ! Ready ？Go !](https://juejin.cn/post/7165669292522864676) | Mon Nov 14 2022 12:57 AM 
+- 🕯 [Web 中使用 IndexedDB 实现缓存](https://juejin.cn/post/7165679432638660645) | Mon Nov 14 2022 1:35 AM 
     <details><summary>展开描述 ...</summary> 
-    Go语言诞生的小故事，已经环境变量的配置，开发工具的选择，写出第 N 个 Hello World ! 
+    用户需要在本地存储大量的数据以满足离线缓存或者其他操作。并且可以按顺序检索，有效搜索值并可键值对存储，IndexedDB 应运而生。该规范提供了一个具体的 API 来执行高级键值数据管理。 
     </details> 
 
-- 🚀 [此文带你详细了解MySQL数据库的存储引擎知识](https://juejin.cn/post/7165669183932334116) | Mon Nov 14 2022 12:56 AM 
+- 🚀 [前端全栈之路 - 玩转 Docker &lpar;制品库&rpar;](https://juejin.cn/post/7165677903085043749) | Mon Nov 14 2022 1:30 AM 
     <details><summary>展开描述 ...</summary> 
-    数据库存储引擎是数据库底层软件组织，数据库管理系统&lpar;DBMS&rpar;使用数据引擎进行创建、查询、更新和删除数据。 
+    前言 在之前的章节中，我们一起学习了 Docker 的基础使用以及如何去构建一个生产的 Docker Image。 本章将介绍制品库的相关知识以及使用。 
     </details> 
 
-- 💪 [Nacos 版本不一致报错: Request nacos server failed](https://juejin.cn/post/7165668349211312158) | Mon Nov 14 2022 12:54 AM 
+- 💪 [靓仔，说一下keep-alive缓存组件后怎么更新及原理？](https://juejin.cn/post/7165675789885636616) | Mon Nov 14 2022 1:22 AM 
     <details><summary>展开描述 ...</summary> 
-    在做微服务开发中，测试环境使用Nacos没有问题，但是生产环境服务启动一直报错： 原因分析 版本不一致 代码没有改动，测试环境没问题，但是生产环境有问题呢？首先看一下两者不同的地方，大多数都是环境配置 
+    keep-alive怎么缓存组件的，是性能优化常见的一点，面试中我们怎么去回答比较好，缓存可用keep-alive，说一下它的作用与用法、使用细节，如缓存指定/排除、更新activated、原理阐述 
     </details> 
 <!-- juejin:END -->
 ### 少数派
