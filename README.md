@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [为什么同一表情&#39;🧔‍♂️&#39;.length==5但&#39;🧔‍♂&#39;.length==4？本文带你深入理解 String Unicode UTF8 UTF16](https://juejin.cn/post/7165859792861265928) | Mon Nov 14 2022 1:18 PM 
+- 🤗 [Flutter 如何优雅地阻止系统键盘弹出](https://juejin.cn/post/7166046328609308685) | Tue Nov 15 2022 1:20 AM 
     <details><summary>展开描述 ...</summary> 
-    为什么同样是男人，但有的男人&#39;🧔‍♂️&#39;长度是5，有的男人&#39;🧔‍♂&#39;长度是4呢？本文带你深入理解String Unicode UTF8 UTF16。 
+    前言 我们来看一个常见的场景，就是自定义键盘。要想显示自己自定义的键盘，那么必然需要隐藏系统的键盘. 
     </details> 
 
-- 🎡 [JS如何使用sessionStorage实现计数器功能](https://juejin.cn/post/7165849845948203016) | Mon Nov 14 2022 12:37 PM 
+- 🎡 [扒去Spring事件监听机制的外衣，竟然是观察者模式](https://juejin.cn/post/7166043282995150885) | Tue Nov 15 2022 1:07 AM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 前言 当你掌握了localStorage的使用后,针对sessionStorage也是一样的,它也是本地存储的一种方式,它是临时会话存储,有时,是需要利 
+    前言 Spring中提供了一套默认的事件监听机制，在容器初始化时便使用了这套机制。同时，Spring也提供了事件监听机制的接口扩展能力，开发者基于此可快速实现自定义的事件监听功能。 Spring的事件 
     </details> 
 
-- 🕯 [工程师的自我修养：了解技术的前世今生](https://juejin.cn/post/7165846372153819172) | Mon Nov 14 2022 12:24 PM 
+- 🕯 [衍生需求：按钮集成图标组件 &amp; 图标选择器](https://juejin.cn/post/7166029886128128014) | Tue Nov 15 2022 12:15 AM 
     <details><summary>展开描述 ...</summary> 
-    真正的教育，不传授任何的知识和技能 --- 耶鲁大学校长 理查德莱文 去了解你所涉足的技术的前世今生，甚至细节到一个小小的功能特性，那么或许看透事物本质的你可以看到未来 
+    本文是 基于Vite+AntDesignVue打造业务组件库 专栏第 5 篇文章【衍生需求：按钮集成图标组件 &amp; 图标选择器】，聊聊实际业务中与图标组件相关的一些衍生需求... 
     </details> 
 
-- 🚀 [用 Flutter 轻松做个红包界面](https://juejin.cn/post/7165840856518885413) | Mon Nov 14 2022 12:03 PM 
+- 🚀 [s50.网络协议和管理配置](https://juejin.cn/post/7166026249213575205) | Tue Nov 15 2022 12:01 AM 
     <details><summary>展开描述 ...</summary> 
-    通过 FittedBox 可以调整子组件适配父组件的方式，非常实用。我们利用 FittedBox 轻松搞了一个红包界面。 
+    一.TCP的三次握手四次挥手 三次握手（three-way handshaking） 1.背景：TCP位于传输层，作用是提供可靠的字节流服务，为了准确无误地将数据送达目的地，TCP协议采纳三次握手策略 
     </details> 
 
-- 💪 [Angular DevUI 14.1.0版本已发布，快来看下都有哪些变化吧~🎉](https://juejin.cn/post/7165838530617278477) | Mon Nov 14 2022 11:53 AM 
+- 💪 [s49.磁盘存储和文件系统管理](https://juejin.cn/post/7166026230712500260) | Tue Nov 15 2022 12:01 AM 
     <details><summary>展开描述 ...</summary> 
-    Ng DevUI 14.1.0版本发布啦~ 现在你可以在 Angular 项目中愉快地使用 Ng DevUI 组件库啦！我们一起来看看 Ng DevUI 14.1.0 都更新了哪些新特性吧！ 
+    第一部分 1、创建一个2G的文件系统，块大小为2048byte，预留1%可用空间，文件系统ext4，卷标为TEST，要求此分区开机后自动挂载至/test目录，且默认有acl挂载选项 2、写一个脚本，完 
     </details> 
 <!-- juejin:END -->
 ### 少数派
