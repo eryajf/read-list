@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [为什么云服务商的付费策略这么流氓](https://www.v2ex.com/t/895375#reply6) | Tue Nov 15 2022 5:01 AM
-- 🤗 [关于 nodejs 对数据库操作产生重复数据的问题&lpar;幂等性&rpar;](https://www.v2ex.com/t/895366#reply4) | Tue Nov 15 2022 4:16 AM
-- 🎭 [有哪些支持私有化部署的文档服务](https://www.v2ex.com/t/895364#reply9) | Tue Nov 15 2022 4:09 AM
-- 🥷 [mac dns 问题](https://www.v2ex.com/t/895361#reply5) | Tue Nov 15 2022 4:01 AM
-- 🐵 [请教个 sql 查询问题](https://www.v2ex.com/t/895355#reply4) | Tue Nov 15 2022 3:33 AM<!-- v2ex:END -->
+- 🥸 [求 Java 大佬帮忙分析下这个程序](https://www.v2ex.com/t/895388#reply0) | Tue Nov 15 2022 5:58 AM
+- 🤗 [为什么云服务商的付费策略这么流氓](https://www.v2ex.com/t/895375#reply16) | Tue Nov 15 2022 5:01 AM
+- 🎭 [关于 nodejs 对数据库操作产生重复数据的问题&lpar;幂等性&rpar;](https://www.v2ex.com/t/895366#reply5) | Tue Nov 15 2022 4:16 AM
+- 🥷 [有哪些支持私有化部署的文档服务](https://www.v2ex.com/t/895364#reply14) | Tue Nov 15 2022 4:09 AM
+- 🐵 [mac dns 问题](https://www.v2ex.com/t/895361#reply5) | Tue Nov 15 2022 4:01 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
