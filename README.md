@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [在上海失业两个半月了， 11 月 5 号学完了 bilibili 上黑马的 react，欢呼雀跃时，却发现是官方文档的第一章而已](https://www.v2ex.com/t/895402#reply16) | Tue Nov 15 2022 7:04 AM
-- 🤗 [兄弟们， https 网站有办法访问 http 资源吗](https://www.v2ex.com/t/895398#reply9) | Tue Nov 15 2022 6:47 AM
-- 🎭 [求 Java 大佬帮忙分析下这个程序](https://www.v2ex.com/t/895388#reply7) | Tue Nov 15 2022 5:58 AM
-- 🥷 [为什么云服务商的付费策略这么流氓](https://www.v2ex.com/t/895375#reply22) | Tue Nov 15 2022 5:01 AM
-- 🐵 [关于 nodejs 对数据库操作产生重复数据的问题&lpar;幂等性&rpar;](https://www.v2ex.com/t/895366#reply6) | Tue Nov 15 2022 4:16 AM<!-- v2ex:END -->
+- 🥸 [开放式播客合集，以 YAML 格式来维护](https://www.v2ex.com/t/895434#reply0) | Tue Nov 15 2022 8:15 AM
+- 🤗 [在上海失业两个半月了， 11 月 5 号学完了 bilibili 上黑马的 react，欢呼雀跃时，却发现是官方文档的第一章而已](https://www.v2ex.com/t/895402#reply31) | Tue Nov 15 2022 7:04 AM
+- 🎭 [兄弟们， https 网站有办法访问 http 资源吗](https://www.v2ex.com/t/895398#reply14) | Tue Nov 15 2022 6:47 AM
+- 🥷 [求 Java 大佬帮忙分析下这个程序](https://www.v2ex.com/t/895388#reply13) | Tue Nov 15 2022 5:58 AM
+- 🐵 [为什么云服务商的付费策略这么流氓](https://www.v2ex.com/t/895375#reply22) | Tue Nov 15 2022 5:01 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
