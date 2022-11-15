@@ -378,24 +378,24 @@
     在Java开发中，三元操作符是 if-else 的简化写法，在项目中使用它的地方很多，也非常好用，但是好用又简单的东西并不表示就可以随便用 
     </details> 
 
-- 🎡 [❤️❤️异步的发展历程（小白版）](https://juejin.cn/post/7166150324116422664) | Tue Nov 15 2022 8:04 AM 
+- 🎡 [强化学习第一课复习](https://juejin.cn/post/7166158058194731016) | Tue Nov 15 2022 8:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 关键词 强化学习（reinforcement learning，RL） ：智能体可以在与复杂且不确定的环境进行交互时，尝试使所获得的奖励最大化的算法。  
+    </details> 
+
+- 🕯 [Android Framework知识整理：WindowManager体系（上）](https://juejin.cn/post/7166157765570723871) | Tue Nov 15 2022 8:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 大家好，本篇文章来由是最近工作和面试需要，特定结合自身源码以及大佬们的经验，写的一篇关于Android framework层：WindowManager体系的讲解。 本篇文章是Android f 
+    </details> 
+
+- 🚀 [Android自定义View绘制进阶-水波浪温度刻度表](https://juejin.cn/post/7166151382154608670) | Tue Nov 15 2022 8:07 AM 
+    <details><summary>展开描述 ...</summary> 
+    之前的绘制圆环，我们了解了如何绘制想要的形状和进度的一些特点，那么此篇文章我们更近一步，绘制一个稍微复杂一点的刻度与波浪。来一起复习一下Android的绘制。 
+    </details> 
+
+- 💪 [❤️❤️异步的发展历程（小白版）](https://juejin.cn/post/7166150324116422664) | Tue Nov 15 2022 8:04 AM 
     <details><summary>展开描述 ...</summary> 
     前言 因为自己淋过雨，所以想给别人撑把伞。 在这一节，因为主要目标对象是刚学异步的小白同学，所以笔者打算用更通俗的语言来简单梳理一下这方面的内容。😋 同步与异步 既然要谈异步的发展历程，这里当然也要提 
-    </details> 
-
-- 🕯 [如何快速搭建 Web 端直播审核后台？](https://juejin.cn/post/7166149568965378084) | Tue Nov 15 2022 8:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    有越来越多的行业客户，通过七牛云「互动直播低代码解决方案」完成了直播间的搭建，那如何快速为直播间搭建 Web 端审核后台呢？看这一篇就够了！ 
-    </details> 
-
-- 🚀 [GSON踩坑：对象转换成Map时，Long型变为科学计数法及时间格式转换异常的解决方案](https://juejin.cn/post/7166130357476163597) | Tue Nov 15 2022 6:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    GSON踩坑：对象转换成Map时，Long型变为科学计数法及时间格式转换异常的解决方案 调用Gson.fromJson发现，原来对象中的long类型的timestamp会变成科学计数法 
-    </details> 
-
-- 💪 [【PY】pandas 处理 Excel 中错别字修正](https://juejin.cn/post/7166128286811029512) | Tue Nov 15 2022 6:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    今天有友友问起来，如何对 Excel 进行操作，对里面的内容进行错别字修正，那接下来由博主来为各位读者细细讲解一番，结合实际场景，具体问题具体分析，图文并茂，细致的讲解操作过程以及其中需要注意的细节； 
     </details> 
 <!-- juejin:END -->
 ### 少数派
