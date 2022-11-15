@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [实战教程·元宇宙来了，准备好你的电子名片了吗？（五）](https://juejin.cn/post/7166231873109590052) | Tue Nov 15 2022 1:21 PM 
+- 🤗 [SQL思维训练二](https://juejin.cn/post/7166243033439010829) | Tue Nov 15 2022 2:03 PM 
+    <details><summary>展开描述 ...</summary> 
+    简单 难度： 这个应该算是思路比较简单的 先创建表结构 问题 某网站包含两个表，Customers 表和 Orders 表。编写一个 SQL 查询，找出所有从不订购任何东西的客户。 示例 分析 两个表 
+    </details> 
+
+- 🎡 [实战教程·元宇宙来了，准备好你的电子名片了吗？（五）](https://juejin.cn/post/7166231873109590052) | Tue Nov 15 2022 1:21 PM 
     <details><summary>展开描述 ...</summary> 
     在前几个章节中，我们已经完成了Linkworld的基本功能，但要达到最小MVP产品还有些距离。完成的功能目前只能在模拟器中使用，缺少本地化存储、网络请求和编辑、删除等功能，这尚未达到最小...... 
     </details> 
 
-- 🎡 [全网比较全的 ThreadLocal 原理详细解析 —— 源码篇](https://juejin.cn/post/7166202801470013476) | Tue Nov 15 2022 11:27 AM 
+- 🕯 [iPa逆向之路](https://juejin.cn/post/7166220484810375176) | Tue Nov 15 2022 12:36 PM 
     <details><summary>展开描述 ...</summary> 
-    在上一篇文章里，我们聊到了 ThreadLocal 的基本原理，这一节我们来结合 ThreadLocalMap 的源码做分析。 
+    最近在做一些App调研，用到ipa逆向的相关工具和知识，在此记录下，巩固所学，共同讨论。后续会继续补充新发现 
     </details> 
 
-- 🕯 [全网比较全的 ThreadLocal 原理详细解析 —— 原理篇](https://juejin.cn/post/7166202551782604837) | Tue Nov 15 2022 11:26 AM 
+- 🚀 [AutoML - Hyperparameter Optimization](https://juejin.cn/post/7166213128982626341) | Tue Nov 15 2022 12:07 PM 
     <details><summary>展开描述 ...</summary> 
-    在前面的文章里，我们聊到了散列表的开放寻址法和分离链表法，我们来讨论 Java 标准库中一个使用开放寻址法的散列表结构 ——ThreadLocal。 
+    AutoML 目的是将模型结构和参数的搜索从手工变为自动化方法，降低机器学习专家的计算资源成本，提升公司进行机器学习应用的能力。本文从易用性和加深对业务数据理解两方面进行分享。 
     </details> 
 
-- 🚀 [设计模式-门面模式](https://juejin.cn/post/7166198063738912775) | Tue Nov 15 2022 11:09 AM 
+- 💪 [AutoML - Hyperparameter Optimization](https://juejin.cn/post/7166212763197374494) | Tue Nov 15 2022 12:06 PM 
     <details><summary>展开描述 ...</summary> 
-    门面模式，是指提供一个统一的接口去访问多个子系统的多个不同的接口，它为子系统中的一组接口提供一个统一的高层接口。使得子系统更容易使用。 
-    </details> 
-
-- 💪 [消息队列Kafka的通俗理解和安装](https://juejin.cn/post/7166195593353232397) | Tue Nov 15 2022 10:59 AM 
-    <details><summary>展开描述 ...</summary> 
-    对于Kafka的概念，我们首先应该知道它是一个消息队列（Message Queue），也就是先进先出，那么这就可以想到电商中的秒杀系统，由Kafka充当一个缓冲区，不至于使得服务器宕机； 
+    AutoML 目的是将模型结构和参数的搜索从手工变为自动化方法，降低机器学习专家的计算资源成本，提升公司进行机器学习应用的能力。本文从易用性和加深对业务数据理解两方面进行分享。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
