@@ -378,24 +378,24 @@
     在Java开发中，三元操作符是 if-else 的简化写法，在项目中使用它的地方很多，也非常好用，但是好用又简单的东西并不表示就可以随便用 
     </details> 
 
-- 🎡 [强化学习第一课复习](https://juejin.cn/post/7166158058194731016) | Tue Nov 15 2022 8:34 AM 
+- 🎡 [Android Compose 动画使用详解&lpar;七&rpar;动画配置之RepeatableSpec、InfiniteRepeatableSpec](https://juejin.cn/post/7166176678257901581) | Tue Nov 15 2022 9:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    本篇详细介绍了RepeatableSpec（重复动画配置）、InfiniteRepeatableSpec（无限重复动画配置）的详细配置使用并展示了不同配置呈现的效果 
+    </details> 
+
+- 🕯 [手把手教你使用Idea调试RocketMQ源码](https://juejin.cn/post/7166175844145037319) | Tue Nov 15 2022 9:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    为了更好地了解RocketMQ，我打算看一看它的源码了。随着RocketMQ5.0版本的发布，应该有更多小伙伴在实际应用中选择RocketMQ。那 
+    </details> 
+
+- 🚀 [Elasticsearch：将关系数据库中的数据提取到 Elasticsearch 集群中](https://juejin.cn/post/7166173371145650207) | Tue Nov 15 2022 9:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    本指南介绍了如何使用 Logstash JDBC 输入插件通过 Logstash 将关系数据库中的数据提取到 Elasticsearch 集群中。 它演示了如何使用 Logstash 高效地复制记录并 
+    </details> 
+
+- 💪 [强化学习第一课复习](https://juejin.cn/post/7166158058194731016) | Tue Nov 15 2022 8:34 AM 
     <details><summary>展开描述 ...</summary> 
     本文正在参加「金石计划 . 瓜分6万现金大奖」 关键词 强化学习（reinforcement learning，RL） ：智能体可以在与复杂且不确定的环境进行交互时，尝试使所获得的奖励最大化的算法。  
-    </details> 
-
-- 🕯 [Android Framework知识整理：WindowManager体系（上）](https://juejin.cn/post/7166157765570723871) | Tue Nov 15 2022 8:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 大家好，本篇文章来由是最近工作和面试需要，特定结合自身源码以及大佬们的经验，写的一篇关于Android framework层：WindowManager体系的讲解。 本篇文章是Android f 
-    </details> 
-
-- 🚀 [Android自定义View绘制进阶-水波浪温度刻度表](https://juejin.cn/post/7166151382154608670) | Tue Nov 15 2022 8:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    之前的绘制圆环，我们了解了如何绘制想要的形状和进度的一些特点，那么此篇文章我们更近一步，绘制一个稍微复杂一点的刻度与波浪。来一起复习一下Android的绘制。 
-    </details> 
-
-- 💪 [❤️❤️异步的发展历程（小白版）](https://juejin.cn/post/7166150324116422664) | Tue Nov 15 2022 8:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 因为自己淋过雨，所以想给别人撑把伞。 在这一节，因为主要目标对象是刚学异步的小白同学，所以笔者打算用更通俗的语言来简单梳理一下这方面的内容。😋 同步与异步 既然要谈异步的发展历程，这里当然也要提 
     </details> 
 <!-- juejin:END -->
 ### 少数派
