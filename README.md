@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Flutter 如何优雅地阻止系统键盘弹出](https://juejin.cn/post/7166046328609308685) | Tue Nov 15 2022 1:20 AM 
+- 🤗 [sharding-jdbc 分享](https://juejin.cn/post/7166047512191565832) | Tue Nov 15 2022 1:24 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 我们来看一个常见的场景，就是自定义键盘。要想显示自己自定义的键盘，那么必然需要隐藏系统的键盘. 
+    Sharding-JDBC 历史 Sharding-JDBC 是当当应用框架 ddframe 中，从关系型数据库模块 dd-rdb 中分离出来的数据库水平分片框架，实现透明化数据库分库分表 
     </details> 
 
-- 🎡 [扒去Spring事件监听机制的外衣，竟然是观察者模式](https://juejin.cn/post/7166043282995150885) | Tue Nov 15 2022 1:07 AM 
+- 🎡 [这个Github宝藏仓库竟然收藏了这么多好东西？](https://juejin.cn/post/7166044609678671886) | Tue Nov 15 2022 1:13 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 Spring中提供了一套默认的事件监听机制，在容器初始化时便使用了这套机制。同时，Spring也提供了事件监听机制的接口扩展能力，开发者基于此可快速实现自定义的事件监听功能。 Spring的事件 
+    今天要给大家介绍的是Github里一个宝藏仓库，仓库的名字叫 AwesomeSites 为什么大帅会建这么一个仓库呢？ 因为随着时间的流逝，很多网 
     </details> 
 
-- 🕯 [衍生需求：按钮集成图标组件 &amp; 图标选择器](https://juejin.cn/post/7166029886128128014) | Tue Nov 15 2022 12:15 AM 
+- 🕯 [SpringBoot整合JDBC数据库操作-6:实现查询数据操作](https://juejin.cn/post/7166043550746935333) | Tue Nov 15 2022 1:09 AM 
     <details><summary>展开描述 ...</summary> 
-    本文是 基于Vite+AntDesignVue打造业务组件库 专栏第 5 篇文章【衍生需求：按钮集成图标组件 &amp; 图标选择器】，聊聊实际业务中与图标组件相关的一些衍生需求... 
+    上篇文章我们讲到了怎么对批量操作&lpar;批量增加,批量修改,批量删除&rpar;,这篇文章主要讲解一下对数据的查询操作. 修改ArticleRepository类文件, 增加查询数据方法 修改ArticleServi 
     </details> 
 
-- 🚀 [s50.网络协议和管理配置](https://juejin.cn/post/7166026249213575205) | Tue Nov 15 2022 12:01 AM 
+- 🚀 [全平台数据管理工具 DataCap 1.1.0.20221115 发布](https://juejin.cn/post/7166043313835868173) | Tue Nov 15 2022 1:08 AM 
     <details><summary>展开描述 ...</summary> 
-    一.TCP的三次握手四次挥手 三次握手（three-way handshaking） 1.背景：TCP位于传输层，作用是提供可靠的字节流服务，为了准确无误地将数据送达目的地，TCP协议采纳三次握手策略 
+    DataCap is released Release Version Release Time 1.1.0.20221115 2022-11-15 General Replace plugin na 
     </details> 
 
-- 💪 [s49.磁盘存储和文件系统管理](https://juejin.cn/post/7166026230712500260) | Tue Nov 15 2022 12:01 AM 
+- 💪 [AI运动计数器](https://juejin.cn/post/7166042967713513509) | Tue Nov 15 2022 1:06 AM 
     <details><summary>展开描述 ...</summary> 
-    第一部分 1、创建一个2G的文件系统，块大小为2048byte，预留1%可用空间，文件系统ext4，卷标为TEST，要求此分区开机后自动挂载至/test目录，且默认有acl挂载选项 2、写一个脚本，完 
+    背景介绍 近年来，在人工智能技术更迭及后口罩时代居民生活模式改变的背景之下，智能运动健身行业得到了极大的发展。刘畊宏带起的“本草纲目”健身热潮也正式 
     </details> 
 <!-- juejin:END -->
 ### 少数派
