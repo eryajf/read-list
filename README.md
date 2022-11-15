@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [求一个多条件查询，每个条件都能查询指定数量的结果的语句](https://www.v2ex.com/t/895480#reply0) | Tue Nov 15 2022 10:44 AM
-- 🤗 [现在 Pycharm 依旧没法打开 samba 共享文件夹吗](https://www.v2ex.com/t/895477#reply0) | Tue Nov 15 2022 10:22 AM
-- 🎭 [十年程序员难倒了一个算法上面，真的老了](https://www.v2ex.com/t/895464#reply79) | Tue Nov 15 2022 9:40 AM
-- 🥷 [minio 登陆迷之报错](https://www.v2ex.com/t/895451#reply1) | Tue Nov 15 2022 8:58 AM
-- 🐵 [各位 V 友，如何下载阿里云盘相册](https://www.v2ex.com/t/895450#reply5) | Tue Nov 15 2022 8:52 AM<!-- v2ex:END -->
+- 🥸 [各位程序员都自己部署了那些似有服务？](https://www.v2ex.com/t/895498#reply0) | Tue Nov 15 2022 12:31 PM
+- 🤗 [有没有一种比较好的方案在尽量保证网页样式不变的情况下进行剪藏的方案呢？](https://www.v2ex.com/t/895488#reply1) | Tue Nov 15 2022 11:22 AM
+- 🎭 [求一个多条件查询，每个条件都能查询指定数量的结果的语句](https://www.v2ex.com/t/895480#reply5) | Tue Nov 15 2022 10:44 AM
+- 🥷 [现在 Pycharm 依旧没法打开 samba 共享文件夹吗](https://www.v2ex.com/t/895477#reply0) | Tue Nov 15 2022 10:22 AM
+- 🐵 [十年程序员难倒了一个算法上面，真的老了](https://www.v2ex.com/t/895464#reply98) | Tue Nov 15 2022 9:40 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
