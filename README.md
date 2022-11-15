@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [使用 AIDEGen 将 AOSP 项目导入 Android Studio](https://juejin.cn/post/7166061140298956836) | Tue Nov 15 2022 2:18 AM 
+- 🤗 [Vue3.2 + Element-Plus 二次封装 el-table（Pro版🚀🚀）](https://juejin.cn/post/7166068828202336263) | Tue Nov 15 2022 2:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 📖 一、在线预览 👀 Link：https://admin.spicyboy.cn 二、Git 仓库地址 &lpar;欢迎 Star⭐⭐⭐&rpar; Gitee：https://gitee.com/laramie 
+    </details> 
+
+- 🎡 [使用 AIDEGen 将 AOSP 项目导入 Android Studio](https://juejin.cn/post/7166061140298956836) | Tue Nov 15 2022 2:18 AM 
     <details><summary>展开描述 ...</summary> 
     本文介绍了如何使用 Google 推荐的 AIDEGen 将 AOSP 的模块导入 Andriod Studio。相比于使用传统的 idegen.sh 和手动编辑 iml 文件，这种方式更加便捷高效。 
     </details> 
 
-- 🎡 [Markdown还能这么玩？这款开源神器绝了！](https://juejin.cn/post/7166051368665350152) | Tue Nov 15 2022 1:39 AM 
+- 🕯 [算法基础：离散化及模板详解](https://juejin.cn/post/7166053848623579166) | Tue Nov 15 2022 1:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 离散化 基本思想 首先，离散化是指数值域非常大，例如$1-10^6$，但是个数相对较少,例如只有$10^3$个, 但在我们的程序中需要通过这些数值作为下 
+    </details> 
+
+- 🚀 [国外大厂面试题， 7 个 Android Lifecycle 重要的知识点](https://juejin.cn/post/7166053395366117407) | Tue Nov 15 2022 1:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    Android Lifecycle 是非常重要的知识点，很多新的 Android 开发对 Android Lifecycle 不是很了解 
+    </details> 
+
+- 💪 [Markdown还能这么玩？这款开源神器绝了！](https://juejin.cn/post/7166051368665350152) | Tue Nov 15 2022 1:39 AM 
     <details><summary>展开描述 ...</summary> 
     Markdown是一款轻量级标记语言，由于它易读易写的特性，很多程序员用它来写项目文档。其实Markdown的功能不止于此，结合一些工具还能实现更多功能！ 
-    </details> 
-
-- 🕯 [36、Flutter之布局类组件-布局类组件简介](https://juejin.cn/post/7166050019077226527) | Tue Nov 15 2022 1:34 AM 
-    <details><summary>展开描述 ...</summary> 
-    简介 布局类组件都会包含一个或多个子组件，不同的布局类组件对子组件排列（layout）方式不同。 Widget 说明 用途 LeafRenderObjectWidget 非容器类组件基类 Widget 
-    </details> 
-
-- 🚀 [Redhat运维-FTP服务故障](https://juejin.cn/post/7166049481002057765) | Tue Nov 15 2022 1:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 FTP 概述 文件传输协议（File Transfer Protocol，FTP）是用于在网络上进行文件传输的一套标准协议。 FTP允许用户以文件操作的 
-    </details> 
-
-- 💪 [Kubernetes 系统化学习之 资源清单篇（三）](https://juejin.cn/post/7166049303083876383) | Tue Nov 15 2022 1:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    当使用 Kubernetes API 创建对象时，API 请求必须在请求体中包含 JSON 格式的信息。大多数情况下，需要在 .yaml 文件中为 kubectl 提供这些信息。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
