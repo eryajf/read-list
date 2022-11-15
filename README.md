@@ -364,10 +364,10 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [奈飞动漫《万神殿》的一张截图，能看出多少内容？](https://www.v2ex.com/t/895537#reply0) | Tue Nov 15 2022 3:15 PM
+- 🥸 [奈飞动漫《万神殿》的一张截图，能看出多少内容？](https://www.v2ex.com/t/895537#reply7) | Tue Nov 15 2022 3:15 PM
 - 🤗 [把一个数据库 sql 语句转换成另一个数据库的框架](https://www.v2ex.com/t/895529#reply1) | Tue Nov 15 2022 2:35 PM
-- 🎭 [为什么甲骨文投诉了 javaeyes 商标侵权，没投诉 javascript 商标侵权？这两个还是同一类的](https://www.v2ex.com/t/895522#reply2) | Tue Nov 15 2022 2:20 PM
-- 🥷 [有一个算法问题，求大佬们给个思路](https://www.v2ex.com/t/895521#reply1) | Tue Nov 15 2022 2:16 PM
+- 🎭 [为什么甲骨文投诉了 javaeyes 商标侵权，没投诉 javascript 商标侵权？这两个还是同一类的](https://www.v2ex.com/t/895522#reply3) | Tue Nov 15 2022 2:20 PM
+- 🥷 [有一个算法问题，求大佬们给个思路](https://www.v2ex.com/t/895521#reply4) | Tue Nov 15 2022 2:16 PM
 - 🐵 [迷茫的小 iOS 开发该何去何从？ 32 岁程序员是继续 iOS 还是 nodejs 亦或者彻底转行呢？](https://www.v2ex.com/t/895520#reply2) | Tue Nov 15 2022 2:12 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
