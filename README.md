@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Java开发高质量代码建议1：三元操作符的类型务必一致](https://juejin.cn/post/7166179739017674766) | Tue Nov 15 2022 9:58 AM 
+- 🤗 [实战教程·元宇宙来了，准备好你的电子名片了吗？（五）](https://juejin.cn/post/7166231873109590052) | Tue Nov 15 2022 1:21 PM 
     <details><summary>展开描述 ...</summary> 
-    在Java开发中，三元操作符是 if-else 的简化写法，在项目中使用它的地方很多，也非常好用，但是好用又简单的东西并不表示就可以随便用 
+    在前几个章节中，我们已经完成了Linkworld的基本功能，但要达到最小MVP产品还有些距离。完成的功能目前只能在模拟器中使用，缺少本地化存储、网络请求和编辑、删除等功能，这尚未达到最小...... 
     </details> 
 
-- 🎡 [Android Compose 动画使用详解&lpar;七&rpar;动画配置之RepeatableSpec、InfiniteRepeatableSpec](https://juejin.cn/post/7166176678257901581) | Tue Nov 15 2022 9:45 AM 
+- 🎡 [全网比较全的 ThreadLocal 原理详细解析 —— 源码篇](https://juejin.cn/post/7166202801470013476) | Tue Nov 15 2022 11:27 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇详细介绍了RepeatableSpec（重复动画配置）、InfiniteRepeatableSpec（无限重复动画配置）的详细配置使用并展示了不同配置呈现的效果 
+    在上一篇文章里，我们聊到了 ThreadLocal 的基本原理，这一节我们来结合 ThreadLocalMap 的源码做分析。 
     </details> 
 
-- 🕯 [手把手教你使用Idea调试RocketMQ源码](https://juejin.cn/post/7166175844145037319) | Tue Nov 15 2022 9:42 AM 
+- 🕯 [全网比较全的 ThreadLocal 原理详细解析 —— 原理篇](https://juejin.cn/post/7166202551782604837) | Tue Nov 15 2022 11:26 AM 
     <details><summary>展开描述 ...</summary> 
-    为了更好地了解RocketMQ，我打算看一看它的源码了。随着RocketMQ5.0版本的发布，应该有更多小伙伴在实际应用中选择RocketMQ。那 
+    在前面的文章里，我们聊到了散列表的开放寻址法和分离链表法，我们来讨论 Java 标准库中一个使用开放寻址法的散列表结构 ——ThreadLocal。 
     </details> 
 
-- 🚀 [Elasticsearch：将关系数据库中的数据提取到 Elasticsearch 集群中](https://juejin.cn/post/7166173371145650207) | Tue Nov 15 2022 9:33 AM 
+- 🚀 [设计模式-门面模式](https://juejin.cn/post/7166198063738912775) | Tue Nov 15 2022 11:09 AM 
     <details><summary>展开描述 ...</summary> 
-    本指南介绍了如何使用 Logstash JDBC 输入插件通过 Logstash 将关系数据库中的数据提取到 Elasticsearch 集群中。 它演示了如何使用 Logstash 高效地复制记录并 
+    门面模式，是指提供一个统一的接口去访问多个子系统的多个不同的接口，它为子系统中的一组接口提供一个统一的高层接口。使得子系统更容易使用。 
     </details> 
 
-- 💪 [强化学习第一课复习](https://juejin.cn/post/7166158058194731016) | Tue Nov 15 2022 8:34 AM 
+- 💪 [消息队列Kafka的通俗理解和安装](https://juejin.cn/post/7166195593353232397) | Tue Nov 15 2022 10:59 AM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 关键词 强化学习（reinforcement learning，RL） ：智能体可以在与复杂且不确定的环境进行交互时，尝试使所获得的奖励最大化的算法。  
+    对于Kafka的概念，我们首先应该知道它是一个消息队列（Message Queue），也就是先进先出，那么这就可以想到电商中的秒杀系统，由Kafka充当一个缓冲区，不至于使得服务器宕机； 
     </details> 
 <!-- juejin:END -->
 ### 少数派
