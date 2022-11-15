@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [sharding-jdbc 分享](https://juejin.cn/post/7166047512191565832) | Tue Nov 15 2022 1:24 AM 
+- 🤗 [使用 AIDEGen 将 AOSP 项目导入 Android Studio](https://juejin.cn/post/7166061140298956836) | Tue Nov 15 2022 2:18 AM 
     <details><summary>展开描述 ...</summary> 
-    Sharding-JDBC 历史 Sharding-JDBC 是当当应用框架 ddframe 中，从关系型数据库模块 dd-rdb 中分离出来的数据库水平分片框架，实现透明化数据库分库分表 
+    本文介绍了如何使用 Google 推荐的 AIDEGen 将 AOSP 的模块导入 Andriod Studio。相比于使用传统的 idegen.sh 和手动编辑 iml 文件，这种方式更加便捷高效。 
     </details> 
 
-- 🎡 [这个Github宝藏仓库竟然收藏了这么多好东西？](https://juejin.cn/post/7166044609678671886) | Tue Nov 15 2022 1:13 AM 
+- 🎡 [Markdown还能这么玩？这款开源神器绝了！](https://juejin.cn/post/7166051368665350152) | Tue Nov 15 2022 1:39 AM 
     <details><summary>展开描述 ...</summary> 
-    今天要给大家介绍的是Github里一个宝藏仓库，仓库的名字叫 AwesomeSites 为什么大帅会建这么一个仓库呢？ 因为随着时间的流逝，很多网 
+    Markdown是一款轻量级标记语言，由于它易读易写的特性，很多程序员用它来写项目文档。其实Markdown的功能不止于此，结合一些工具还能实现更多功能！ 
     </details> 
 
-- 🕯 [SpringBoot整合JDBC数据库操作-6:实现查询数据操作](https://juejin.cn/post/7166043550746935333) | Tue Nov 15 2022 1:09 AM 
+- 🕯 [36、Flutter之布局类组件-布局类组件简介](https://juejin.cn/post/7166050019077226527) | Tue Nov 15 2022 1:34 AM 
     <details><summary>展开描述 ...</summary> 
-    上篇文章我们讲到了怎么对批量操作&lpar;批量增加,批量修改,批量删除&rpar;,这篇文章主要讲解一下对数据的查询操作. 修改ArticleRepository类文件, 增加查询数据方法 修改ArticleServi 
+    简介 布局类组件都会包含一个或多个子组件，不同的布局类组件对子组件排列（layout）方式不同。 Widget 说明 用途 LeafRenderObjectWidget 非容器类组件基类 Widget 
     </details> 
 
-- 🚀 [全平台数据管理工具 DataCap 1.1.0.20221115 发布](https://juejin.cn/post/7166043313835868173) | Tue Nov 15 2022 1:08 AM 
+- 🚀 [Redhat运维-FTP服务故障](https://juejin.cn/post/7166049481002057765) | Tue Nov 15 2022 1:32 AM 
     <details><summary>展开描述 ...</summary> 
-    DataCap is released Release Version Release Time 1.1.0.20221115 2022-11-15 General Replace plugin na 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 FTP 概述 文件传输协议（File Transfer Protocol，FTP）是用于在网络上进行文件传输的一套标准协议。 FTP允许用户以文件操作的 
     </details> 
 
-- 💪 [AI运动计数器](https://juejin.cn/post/7166042967713513509) | Tue Nov 15 2022 1:06 AM 
+- 💪 [Kubernetes 系统化学习之 资源清单篇（三）](https://juejin.cn/post/7166049303083876383) | Tue Nov 15 2022 1:31 AM 
     <details><summary>展开描述 ...</summary> 
-    背景介绍 近年来，在人工智能技术更迭及后口罩时代居民生活模式改变的背景之下，智能运动健身行业得到了极大的发展。刘畊宏带起的“本草纲目”健身热潮也正式 
+    当使用 Kubernetes API 创建对象时，API 请求必须在请求体中包含 JSON 格式的信息。大多数情况下，需要在 .yaml 文件中为 kubectl 提供这些信息。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
