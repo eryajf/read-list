@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [CSS实现一个『简约高级』的输入框](https://juejin.cn/post/7166119659484217375) | Tue Nov 15 2022 6:04 AM 
+- 🤗 [前端食堂技术周刊第 59 期：GitHub Universe 2022、Rome v10、Parcel v2.8.0、可扩展的 CSS 演变、Solid Sta](https://juejin.cn/post/7166108391536869383) | Tue Nov 15 2022 5:22 AM 
     <details><summary>展开描述 ...</summary> 
-    前几天在逛codepen的时候，发现了一个很有意思的登陆界面，于是就想着自己实现一下，于是就有了这个demo。 顺便将接下来网站的登陆界面也改成这个样式了。 先上一个效果图： 
+    - GitHub Universe 2022 - Rome v10 - Parcel v2.8.0 - 50 个有用的 Vim 命令 - TanStack Router - 如何使用 CSS 
     </details> 
 
-- 🎡 [前端周热点121: Next.js, experimental_cache, CSS-in-JS, Qwikify, Typesafety, 3D](https://juejin.cn/post/7166072324599316516) | Tue Nov 15 2022 3:01 AM 
+- 🎡 [打脸了兄弟们，Go1.20 arena 来了！](https://juejin.cn/post/7166097509238964232) | Tue Nov 15 2022 4:39 AM 
     <details><summary>展开描述 ...</summary> 
-    Next.js, experimental_cache, CSS-in-JS, Qwikify, Typesafety, 3D, Vitest Preview, Outstatic, Remix 
+    大家好，我是煎鱼。 大概半年前，我写过一篇文章《Go 要违背初心吗？新提案：手动管理内存》。有兴趣了深入解的同学，可以再回顾一下。 当时我们还想着 Go 团队应该不会接纳，至少不会那么快： 懒得翻也可 
     </details> 
 
-- 🕯 [7个原则，看懂「深色模式」设计](https://juejin.cn/post/7166072286162714637) | Tue Nov 15 2022 3:00 AM 
+- 🕯 [D3&lpar;v7&rpar;入门八：和弦图](https://juejin.cn/post/7166089801718824997) | Tue Nov 15 2022 4:09 AM 
     <details><summary>展开描述 ...</summary> 
-    深色模式的浪潮逐渐褪去，现在只留下对它两极化的评论,爱的人爱不释手，讨厌的人也咬牙切齿。7个设计原则,从视觉到设置，看懂深色模式！ 
+    弦图，是一种表示实体之间相互关系的图形方法。直观的看，弦图由节点分段和弧形的边构成。节点分段沿圆周排列，节点之间的关系通过使用弧线或贝塞尔曲线相互连接。值得注意的是，这些弧线是有宽度的，且起止宽度可以 
     </details> 
 
-- 🚀 [一次 G1 堆大小不均问题的排查及解决](https://juejin.cn/post/7166071970117730312) | Tue Nov 15 2022 2:59 AM 
+- 🚀 [JS in CSS：一键支持响应式布局](https://juejin.cn/post/7166089724061319175) | Tue Nov 15 2022 4:08 AM 
     <details><summary>展开描述 ...</summary> 
-    部分服务在 JVM 参数、POD 规格、物理机规格 一致，负载流量差异不大的情况下，出现在内存使用上差异较大的情况。 
+    如今网速不再成为适配移动端时选择响应式设计的限制因素，在资源充足的条件下，针对各端各自设计应用界面能达到应用最佳用户体验... 
     </details> 
 
-- 💪 [Q&amp;A特辑|剪得断，理不乱，一场直播解开关联网络与反团伙欺诈谜团](https://juejin.cn/post/7166071202295840775) | Tue Nov 15 2022 2:56 AM 
+- 💪 [用 Java 的 IO 流进行读写文件操作](https://juejin.cn/post/7166085870720647198) | Tue Nov 15 2022 3:53 AM 
     <details><summary>展开描述 ...</summary> 
-    11月 10 日下午15:00 第九期《关联网络技术在业务安全中的应用》正式开讲。顶象数据科学家翼龙详尽的介绍了关联网络在反团伙欺诈中的作用，深度剖析了关联网络的技术框架、关联网络的图谱构建以及关联网 
+    前面四篇文章给大家汇总了一下 Java 编程中那些绕不开的接口，给大家介绍了 Java 的几个基础 Interface 以及内置的函数式接口，接下来两篇文章我们简单的过一下Java IO 方面的基础， 
     </details> 
 <!-- juejin:END -->
 ### 少数派
