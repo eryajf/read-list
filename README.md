@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [.tif 的图像可以直接在Ａ ndroid studio 里面显示出来吗？](https://www.v2ex.com/t/895278#reply1) | Mon Nov 14 2022 11:05 PM
-- 🤗 [付费 100 求解一个 wordpress/ PHP 问题](https://www.v2ex.com/t/895277#reply4) | Mon Nov 14 2022 10:49 PM
-- 🎭 [这个项目 算开源的吗？ epusdt](https://www.v2ex.com/t/895274#reply1) | Mon Nov 14 2022 7:19 PM
-- 🥷 [有没有 Java 大佬分析这是什么错误](https://www.v2ex.com/t/895267#reply5) | Mon Nov 14 2022 4:29 PM
-- 🐵 [坚持好难啊](https://www.v2ex.com/t/895256#reply8) | Mon Nov 14 2022 2:41 PM<!-- v2ex:END -->
+- 🥸 [如何同步远程仓库的 tag 到本地](https://www.v2ex.com/t/895286#reply2) | Tue Nov 15 2022 1:13 AM
+- 🤗 [关于微前端，你理解到究极奥义了么？](https://www.v2ex.com/t/895285#reply2) | Tue Nov 15 2022 1:13 AM
+- 🎭 [.tif 的图像可以直接在Ａ ndroid studio 里面显示出来吗？](https://www.v2ex.com/t/895278#reply2) | Mon Nov 14 2022 11:05 PM
+- 🥷 [付费 100 求解一个 wordpress/ PHP 问题](https://www.v2ex.com/t/895277#reply12) | Mon Nov 14 2022 10:49 PM
+- 🐵 [这个项目 算开源的吗？ epusdt](https://www.v2ex.com/t/895274#reply2) | Mon Nov 14 2022 7:19 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
