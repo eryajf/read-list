@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [求知 | 聊聊Android资源加载那些事 - Resource的初始化](https://juejin.cn/post/7166243062077718535) | Tue Nov 15 2022 2:03 PM 
+- 🤗 [【MySQL】MySQL日志系统以及InnoDB背后的技术（MySQL专栏启动）](https://juejin.cn/post/7166264618958979086) | Tue Nov 15 2022 3:26 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文主要详解MySQL数据库中 Redo log（重做日志）、 Bin Log （归档日志）、Uudo Log（撤销日志），以及 Log 与 InnoDB 的关系和区别，和MySQL事务特性 
+    </details> 
+
+- 🎡 [视频获取音频+对应字幕](https://juejin.cn/post/7166264023271342093) | Tue Nov 15 2022 3:25 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 背景 语音识别的主流语言中文、英文等开源语料库都很丰富，比如说：THCHS-30、Aishell、LibriSpeech等。 
+    </details> 
+
+- 🕯 [求知 | 聊聊Android资源加载那些事 - Resource的初始化](https://juejin.cn/post/7166243062077718535) | Tue Nov 15 2022 2:03 PM 
     <details><summary>展开描述 ...</summary> 
     本篇将由浅入深，解释Android Resources初始化的流程，以及context.resources 与 Resources.getSystem&lpar;&rpar; 的不同之处。 
     </details> 
 
-- 🎡 [SQL思维训练二](https://juejin.cn/post/7166243033439010829) | Tue Nov 15 2022 2:03 PM 
+- 🚀 [SQL思维训练二](https://juejin.cn/post/7166243033439010829) | Tue Nov 15 2022 2:03 PM 
     <details><summary>展开描述 ...</summary> 
     简单 难度： 这个应该算是思路比较简单的 先创建表结构 问题 某网站包含两个表，Customers 表和 Orders 表。编写一个 SQL 查询，找出所有从不订购任何东西的客户。 示例 分析 两个表 
     </details> 
 
-- 🕯 [CSS background-position、clip-path 和 SVG Sprites 小图标生成方法](https://juejin.cn/post/7166238060789628965) | Tue Nov 15 2022 1:44 PM 
+- 💪 [CSS background-position、clip-path 和 SVG Sprites 小图标生成方法](https://juejin.cn/post/7166238060789628965) | Tue Nov 15 2022 1:44 PM 
     <details><summary>展开描述 ...</summary> 
     CSS clip-path 属性除了剪裁圆、多边形之外，还支持 url&lpar;&rpar; 函数语法，即可以把 SVG 元素中的路径作为剪裁路径。SVG 提供了 clipPathUnits 属性指示用于 `&lt;clip 
-    </details> 
-
-- 🚀 [实战教程·元宇宙来了，准备好你的电子名片了吗？（五）](https://juejin.cn/post/7166231873109590052) | Tue Nov 15 2022 1:21 PM 
-    <details><summary>展开描述 ...</summary> 
-    在前几个章节中，我们已经完成了Linkworld的基本功能，但要达到最小MVP产品还有些距离。完成的功能目前只能在模拟器中使用，缺少本地化存储、网络请求和编辑、删除等功能，这尚未达到最小...... 
-    </details> 
-
-- 💪 [Android封装SDK深度解读+思路步骤](https://juejin.cn/post/7166230626213822478) | Tue Nov 15 2022 1:15 PM 
-    <details><summary>展开描述 ...</summary> 
-    前言 通常涉及到的网络请求在项目中为了方便管理，我们都会做成一个SDK 统一进行调用管理。一般的网络请求方面不会涉及到资源的管理和相关图标的展示之类的，所以封装成一个.a文件更加方便一下。 sdk，又 
     </details> 
 <!-- juejin:END -->
 ### 少数派
