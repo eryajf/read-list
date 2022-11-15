@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [SQL思维训练二](https://juejin.cn/post/7166243033439010829) | Tue Nov 15 2022 2:03 PM 
+- 🤗 [求知 | 聊聊Android资源加载那些事 - Resource的初始化](https://juejin.cn/post/7166243062077718535) | Tue Nov 15 2022 2:03 PM 
+    <details><summary>展开描述 ...</summary> 
+    本篇将由浅入深，解释Android Resources初始化的流程，以及context.resources 与 Resources.getSystem&lpar;&rpar; 的不同之处。 
+    </details> 
+
+- 🎡 [SQL思维训练二](https://juejin.cn/post/7166243033439010829) | Tue Nov 15 2022 2:03 PM 
     <details><summary>展开描述 ...</summary> 
     简单 难度： 这个应该算是思路比较简单的 先创建表结构 问题 某网站包含两个表，Customers 表和 Orders 表。编写一个 SQL 查询，找出所有从不订购任何东西的客户。 示例 分析 两个表 
     </details> 
 
-- 🎡 [实战教程·元宇宙来了，准备好你的电子名片了吗？（五）](https://juejin.cn/post/7166231873109590052) | Tue Nov 15 2022 1:21 PM 
+- 🕯 [CSS background-position、clip-path 和 SVG Sprites 小图标生成方法](https://juejin.cn/post/7166238060789628965) | Tue Nov 15 2022 1:44 PM 
+    <details><summary>展开描述 ...</summary> 
+    CSS clip-path 属性除了剪裁圆、多边形之外，还支持 url&lpar;&rpar; 函数语法，即可以把 SVG 元素中的路径作为剪裁路径。SVG 提供了 clipPathUnits 属性指示用于 `&lt;clip 
+    </details> 
+
+- 🚀 [实战教程·元宇宙来了，准备好你的电子名片了吗？（五）](https://juejin.cn/post/7166231873109590052) | Tue Nov 15 2022 1:21 PM 
     <details><summary>展开描述 ...</summary> 
     在前几个章节中，我们已经完成了Linkworld的基本功能，但要达到最小MVP产品还有些距离。完成的功能目前只能在模拟器中使用，缺少本地化存储、网络请求和编辑、删除等功能，这尚未达到最小...... 
     </details> 
 
-- 🕯 [iPa逆向之路](https://juejin.cn/post/7166220484810375176) | Tue Nov 15 2022 12:36 PM 
+- 💪 [Android封装SDK深度解读+思路步骤](https://juejin.cn/post/7166230626213822478) | Tue Nov 15 2022 1:15 PM 
     <details><summary>展开描述 ...</summary> 
-    最近在做一些App调研，用到ipa逆向的相关工具和知识，在此记录下，巩固所学，共同讨论。后续会继续补充新发现 
-    </details> 
-
-- 🚀 [AutoML - Hyperparameter Optimization](https://juejin.cn/post/7166213128982626341) | Tue Nov 15 2022 12:07 PM 
-    <details><summary>展开描述 ...</summary> 
-    AutoML 目的是将模型结构和参数的搜索从手工变为自动化方法，降低机器学习专家的计算资源成本，提升公司进行机器学习应用的能力。本文从易用性和加深对业务数据理解两方面进行分享。 
-    </details> 
-
-- 💪 [AutoML - Hyperparameter Optimization](https://juejin.cn/post/7166212763197374494) | Tue Nov 15 2022 12:06 PM 
-    <details><summary>展开描述 ...</summary> 
-    AutoML 目的是将模型结构和参数的搜索从手工变为自动化方法，降低机器学习专家的计算资源成本，提升公司进行机器学习应用的能力。本文从易用性和加深对业务数据理解两方面进行分享。 
+    前言 通常涉及到的网络请求在项目中为了方便管理，我们都会做成一个SDK 统一进行调用管理。一般的网络请求方面不会涉及到资源的管理和相关图标的展示之类的，所以封装成一个.a文件更加方便一下。 sdk，又 
     </details> 
 <!-- juejin:END -->
 ### 少数派
