@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [各位程序员都自己部署了那些似有服务？](https://www.v2ex.com/t/895498#reply5) | Tue Nov 15 2022 12:31 PM
-- 🤗 [有没有一种比较好的方案在尽量保证网页样式不变的情况下进行剪藏的方案呢？](https://www.v2ex.com/t/895488#reply4) | Tue Nov 15 2022 11:22 AM
-- 🎭 [求一个多条件查询，每个条件都能查询指定数量的结果的语句](https://www.v2ex.com/t/895480#reply8) | Tue Nov 15 2022 10:44 AM
-- 🥷 [现在 Pycharm 依旧没法打开 samba 共享文件夹吗](https://www.v2ex.com/t/895477#reply0) | Tue Nov 15 2022 10:22 AM
-- 🐵 [十年程序员难倒了一个算法上面，真的老了](https://www.v2ex.com/t/895464#reply105) | Tue Nov 15 2022 9:40 AM<!-- v2ex:END -->
+- 🥸 [迷茫的小 iOS 开发该何去何从？ 32 岁程序员是继续 iOS 还是 nodejs 亦或者彻底转行呢？](https://www.v2ex.com/t/895520#reply0) | Tue Nov 15 2022 2:12 PM
+- 🤗 [吐槽两句阿里云函数计算](https://www.v2ex.com/t/895516#reply0) | Tue Nov 15 2022 2:06 PM
+- 🎭 [[nginx] 几个易混淆的术语](https://www.v2ex.com/t/895515#reply1) | Tue Nov 15 2022 2:05 PM
+- 🥷 [实现了一套基于 lockfree 的并发安全的数据结构](https://www.v2ex.com/t/895512#reply0) | Tue Nov 15 2022 1:52 PM
+- 🐵 [各位程序员都自己部署了那些似有服务？](https://www.v2ex.com/t/895498#reply8) | Tue Nov 15 2022 12:31 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
