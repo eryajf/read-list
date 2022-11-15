@@ -364,7 +364,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [奈飞动漫《万神殿》的一张截图，能看出多少内容？](https://www.v2ex.com/t/895537#reply8) | Tue Nov 15 2022 3:15 PM
+- 🥸 [奈飞动漫《万神殿》的一张截图，能看出多少内容？](https://www.v2ex.com/t/895537#reply9) | Tue Nov 15 2022 3:15 PM
 - 🤗 [把一个数据库 sql 语句转换成另一个数据库的框架](https://www.v2ex.com/t/895529#reply3) | Tue Nov 15 2022 2:35 PM
 - 🎭 [为什么甲骨文投诉了 javaeyes 商标侵权，没投诉 javascript 商标侵权？这两个还是同一类的](https://www.v2ex.com/t/895522#reply3) | Tue Nov 15 2022 2:20 PM
 - 🥷 [有一个算法问题，求大佬们给个思路](https://www.v2ex.com/t/895521#reply6) | Tue Nov 15 2022 2:16 PM
