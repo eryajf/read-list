@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [十年程序员难到了一个正则上面](https://www.v2ex.com/t/895733#reply0) | Wed Nov 16 2022 9:06 AM
-- 🤗 [Wild Chicken University 是怎么拿到波兰的教育网域名的](https://www.v2ex.com/t/895727#reply0) | Wed Nov 16 2022 8:56 AM
-- 🎭 [scratch 也有硬件么？](https://www.v2ex.com/t/895726#reply0) | Wed Nov 16 2022 8:56 AM
-- 🥷 [[Arc 浏览器] 有人想体验的不, 有 macOS 的包](https://www.v2ex.com/t/895718#reply12) | Wed Nov 16 2022 8:21 AM
-- 🐵 [Windows 的线程逻辑?](https://www.v2ex.com/t/895711#reply9) | Wed Nov 16 2022 7:57 AM<!-- v2ex:END -->
+- 🥸 [YouTube 涨价了， Google One 有没有涨价？](https://www.v2ex.com/t/895747#reply1) | Wed Nov 16 2022 9:53 AM
+- 🤗 [那些非顶级的高级大佬，比如马云马化腾，到底是如何保证自己的个人信息和通信安全的](https://www.v2ex.com/t/895744#reply15) | Wed Nov 16 2022 9:46 AM
+- 🎭 [十年程序员难到了一个正则上面](https://www.v2ex.com/t/895733#reply2) | Wed Nov 16 2022 9:06 AM
+- 🥷 [Wild Chicken University 是怎么拿到波兰的教育网域名的](https://www.v2ex.com/t/895727#reply5) | Wed Nov 16 2022 8:56 AM
+- 🐵 [scratch 也有硬件么？](https://www.v2ex.com/t/895726#reply1) | Wed Nov 16 2022 8:56 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
