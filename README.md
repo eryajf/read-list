@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有办法把养老金和公积金提取出来么？](https://www.v2ex.com/t/895786#reply0) | Wed Nov 16 2022 1:35 PM
-- 🤗 [自建 bark-server 用于安卓转发短信到 iPhone](https://www.v2ex.com/t/895773#reply0) | Wed Nov 16 2022 11:59 AM
-- 🎭 [Kubernetes 挂载 cephfs 二级路径问题](https://www.v2ex.com/t/895761#reply0) | Wed Nov 16 2022 10:58 AM
-- 🥷 [TrueNAS Scale 的硬件要求这么高？](https://www.v2ex.com/t/895756#reply2) | Wed Nov 16 2022 10:35 AM
-- 🐵 [请教下关于 git 的工作流](https://www.v2ex.com/t/895754#reply9) | Wed Nov 16 2022 10:29 AM<!-- v2ex:END -->
+- 🥸 [收费咯，腾讯云公共解析 Public DNS 专业版将于 12 月 1 日全面计费](https://www.v2ex.com/t/895789#reply2) | Wed Nov 16 2022 1:47 PM
+- 🤗 [有办法把养老金和公积金提取出来么？](https://www.v2ex.com/t/895786#reply1) | Wed Nov 16 2022 1:35 PM
+- 🎭 [自建 bark-server 用于安卓转发短信到 iPhone](https://www.v2ex.com/t/895773#reply3) | Wed Nov 16 2022 11:59 AM
+- 🥷 [Kubernetes 挂载 cephfs 二级路径问题](https://www.v2ex.com/t/895761#reply0) | Wed Nov 16 2022 10:58 AM
+- 🐵 [TrueNAS Scale 的硬件要求这么高？](https://www.v2ex.com/t/895756#reply2) | Wed Nov 16 2022 10:35 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
