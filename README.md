@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [我是如何利用持久化缓存策略来提升 Vite 开发模式下首屏性能的 ？](https://juejin.cn/post/7166554132428357645) | Wed Nov 16 2022 10:11 AM 
+- 🤗 [【深入浅出之透析RocketMQ原理及实战指南】RocketMQ学习入门指南 | ​​RocketMQ物理和逻辑架构结构精讲​](https://juejin.cn/post/7166572505967607844) | Wed Nov 16 2022 11:21 AM 
+    <details><summary>展开描述 ...</summary> 
+    RocketMQ物理部署角色 RocketMQ架构上主要分为四部分，如上图所示: Producer：消息发布的角色，支持分布式集群方式部署。Producer通过MQ的负载均衡模块选择相应的Broker 
+    </details> 
+
+- 🎡 [我是如何利用持久化缓存策略来提升 Vite 开发模式下首屏性能的 ？](https://juejin.cn/post/7166554132428357645) | Wed Nov 16 2022 10:11 AM 
     <details><summary>展开描述 ...</summary> 
     看过小编上一篇文章 - 简单聊一聊 Vite 开发模式下的缓存策略 童鞋们，想必会记得小编在文章结束时，简单提到了使用类似 Webpack5 的持久缓存策略来优化 Vite 开发模式下的首屏性能。 经 
     </details> 
 
-- 🎡 [实战教程·元宇宙来了，准备好你的电子名片了吗？（六）](https://juejin.cn/post/7166549404759883784) | Wed Nov 16 2022 9:52 AM 
+- 🕯 [Vue3响应系统的实现（二）](https://juejin.cn/post/7166553870779285512) | Wed Nov 16 2022 10:09 AM 
+    <details><summary>展开描述 ...</summary> 
+    我们已经能够实现一个简单的响应系统了，但是仍然存在很多缺陷，我们不难发现响应系统的工作流程大致如下： 当读取操作发生时，将副作用函数收集到“桶”中； 当设置操作发生时，从“桶”中取出副作用函数并执行 
+    </details> 
+
+- 🚀 [【k哥爬虫普法】非法入侵计算机信息系统，获取1500万余条个人信息！](https://juejin.cn/post/7166552871138230280) | Wed Nov 16 2022 10:05 AM 
+    <details><summary>展开描述 ...</summary> 
+    ![]&lpar;https://s2.loli.net/2022/11/07/Lx2ZiWGpanJbOvc.png&rpar; &gt; 我国目前并未出台专门针对网络爬虫技术的法律规范，但在司法实践中，相关判决已屡见不 
+    </details> 
+
+- 💪 [实战教程·元宇宙来了，准备好你的电子名片了吗？（六）](https://juejin.cn/post/7166549404759883784) | Wed Nov 16 2022 9:52 AM 
     <details><summary>展开描述 ...</summary> 
     在上一章节中，我们学习了Model-View-ViewModel架构模式，并实现了添加、删除方法。其中删除方法使用的是最简单的，利用SwiftUI自带的contextMenu上下文菜单按钮...... 
-    </details> 
-
-- 🕯 [React 之 requestIdleCallback 来了解一下](https://juejin.cn/post/7166547963517337614) | Wed Nov 16 2022 9:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    2022 年了，requestIdleCallback 还不会吗？赶紧学一下，买不了吃亏，买不了上当 
-    </details> 
-
-- 🚀 [个人理解版 Typescript SOLID 原则](https://juejin.cn/post/7166537062382993422) | Wed Nov 16 2022 9:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    每个人都会、也应该有一套自己对 SOLID 的理解，在理解后有选择地应用于工作中才是最重要的，毕竟某些原则在一定环境下反而是违背了更好，不要死脑筋，原则不是真理 
-    </details> 
-
-- 💪 [简单封装JS下的异步任务对象](https://juejin.cn/post/7166532398237089799) | Wed Nov 16 2022 8:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    废话开篇：js有微任务跟宏任务，但是不管是哪种任务并不代表着会开辟新的线程，可以理解为将上述两种任务放到“主任务”之后执行，有点像iOS下的在主线程调用异步函数一样，其实也只是将异步任务降低了优先级， 
     </details> 
 <!-- juejin:END -->
 ### 少数派
