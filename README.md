@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [OKR之剑·实战篇03：OKR的跟踪需要有“自己”的节奏](https://juejin.cn/post/7166442655738495006) | Wed Nov 16 2022 2:58 AM 
+- 🤗 [2022寒冬下的面试知识点总结【Vue3、Vue2、Vite】篇](https://juejin.cn/post/7166446028266733581) | Wed Nov 16 2022 3:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    你真的了解Vue3、Vue2、Vite吗？这篇文章总结了较为经典核心的一些面试知识点，如果这篇文章对你有用，请一键三连（点赞评论+收藏），手动狗头~ 
+    </details> 
+
+- 🎡 [四个可以改变移动端键盘的属性](https://juejin.cn/post/7166445694583046181) | Wed Nov 16 2022 3:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    代码片段 手机扫一扫访问 inputmode（设置键盘的类型） 关键词 描述 none 不显示键盘，需要实现自己的键盘输入控件时很有用（比如车牌输入，身份证号码输入等）。 text 标准文本输入键盘。 
+    </details> 
+
+- 🕯 [OKR之剑·实战篇03：OKR的跟踪需要有“自己”的节奏](https://juejin.cn/post/7166442655738495006) | Wed Nov 16 2022 2:58 AM 
     <details><summary>展开描述 ...</summary> 
     OKR的跟踪是一个持续的过程，过程中如果没有良好的节奏，慢慢会在无序中迷失，在琐碎的工作中淹没，最终沦为纸上谈兵。OKR的跟踪需要融入自己团队的特点，找到适合自己的节奏，这是一个螺旋上升的过程。 
     </details> 
 
-- 🎡 [inert 属性，让浏览器忽略所有用户交互](https://juejin.cn/post/7166441986080112670) | Wed Nov 16 2022 2:55 AM 
+- 🚀 [inert 属性，让浏览器忽略所有用户交互](https://juejin.cn/post/7166441986080112670) | Wed Nov 16 2022 2:55 AM 
     <details><summary>展开描述 ...</summary> 
     在浏览器中，用户交互包括永远排在第一位，不可被打断，哪怕浏览器在假死的状态下，用户的交互行为也是不可被打断的; 但是在inert属性的作用下，用户的交互行为就会被忽略，接下来就带你一起来看看inert 
     </details> 
 
-- 🕯 [775. 全局倒置与局部倒置 :「树状数组」&amp;「数学」](https://juejin.cn/post/7166441317835702309) | Wed Nov 16 2022 2:52 AM 
+- 💪 [775. 全局倒置与局部倒置 :「树状数组」&amp;「数学」](https://juejin.cn/post/7166441317835702309) | Wed Nov 16 2022 2:52 AM 
     <details><summary>展开描述 ...</summary> 
     题目描述 这是 LeetCode 上的 775. 全局倒置与局部倒置 ，难度为 中等。 Tag : 「树状数组」、「数学」 给你一个长度为 n 的整数数组 nums，表示由范围 $[0, n - 1] 
-    </details> 
-
-- 🚀 [深入理解 String Unicode UTF8 UTF16、MySQL 是怎么加行级锁的？| 酱酱的下午茶第111期](https://juejin.cn/post/7166441307588526094) | Wed Nov 16 2022 2:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    酱酱们的下午茶全新改版，欢迎大家多提宝贵意见！ 【掘金酱的下午茶】亮点： 还在用 JS 做节流吗？CSS 也可以防止按钮重复点击 大屏经典组件：“无限滚动” 从分析到开发 WebRTC 从实战到未来！ 
-    </details> 
-
-- 💪 [uni-app 开发一些自定义组件](https://juejin.cn/post/7166438253254410247) | Wed Nov 16 2022 2:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    近期开发移动业务多一点，都是使用 uni-app 开发；开发中一些需要注意的地方和开发技巧记录下来，以便后续能有个地方查证。 自定义头部导航栏 自定义头部应该是最常见的一个需求，以前小程序都不能修改头 
     </details> 
 <!-- juejin:END -->
 ### 少数派
