@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [鬼才想法 issue 做 blog](https://www.v2ex.com/t/895641#reply2) | Wed Nov 16 2022 4:09 AM
-- 🤗 [新西兰的 Tesla 车主新鲜出炉的 Model 3 故障](https://www.v2ex.com/t/895638#reply9) | Wed Nov 16 2022 4:00 AM
-- 🎭 [求个性价比机场](https://www.v2ex.com/t/895634#reply4) | Wed Nov 16 2022 3:41 AM
-- 🥷 [Python 新手语法问题，为什么用 str split 后新建 dict 爆黄呢？](https://www.v2ex.com/t/895631#reply11) | Wed Nov 16 2022 3:36 AM
-- 🐵 [请教一下， nodejs/express 是如何处理多个请求的](https://www.v2ex.com/t/895617#reply9) | Wed Nov 16 2022 2:55 AM<!-- v2ex:END -->
+- 🥸 [吐槽！ Gitlab 使用中的代码下载新方式](https://www.v2ex.com/t/895647#reply0) | Wed Nov 16 2022 4:48 AM
+- 🤗 [鬼才想法 issue 做 blog](https://www.v2ex.com/t/895641#reply11) | Wed Nov 16 2022 4:09 AM
+- 🎭 [新西兰的 Tesla 车主新鲜出炉的 Model 3 故障](https://www.v2ex.com/t/895638#reply18) | Wed Nov 16 2022 4:00 AM
+- 🥷 [求个性价比机场](https://www.v2ex.com/t/895634#reply9) | Wed Nov 16 2022 3:41 AM
+- 🐵 [Python 新手语法问题，为什么用 str split 后新建 dict 爆黄呢？](https://www.v2ex.com/t/895631#reply12) | Wed Nov 16 2022 3:36 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
