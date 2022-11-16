@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [程序员学习 CPU 有什么用？](https://juejin.cn/post/7166625448254767118) | Wed Nov 16 2022 2:47 PM 
+- 🤗 [【MySQL】MySQL复制与高可用水平扩展架构实战（MySQL专栏启动）](https://juejin.cn/post/7166639597223411749) | Wed Nov 16 2022 3:42 PM 
     <details><summary>展开描述 ...</summary> 
-    在后续文章中，我们将从 CPU 的基本认识开始，逐步将 CPU 与执行系统、存储系统 和 I/O 系统串联起来。 
+    本文简单介绍几种复制方式复制在生产中解决的实际问题，MySQL复制的配置流程和MySQL复制类型，不会深入到 MTBF、MTTR平均故障间隔、平均修复时间等等以及MMM 集群架构、MHA 
     </details> 
 
-- 🎡 [后端自学两个小时前端，究竟能做出什么东西？](https://juejin.cn/post/7166624661491580941) | Wed Nov 16 2022 2:44 PM 
+- 🎡 [【Gradle-3】Gradle中的DSL，Groovy &amp; Kotlin](https://juejin.cn/post/7166638852503765006) | Wed Nov 16 2022 3:40 PM 
     <details><summary>展开描述 ...</summary> 
-    三年 Java 自学两个小时前端，做了一个后台系统。请各位前端大佬来点评一下我的前端学习路线，想要全栈的后端老哥们也可以来看看我的个人自学经历。 
+    1.什么是DSL； 2.Groovy DSL &amp; Kotlin DSL； 3.Groovy 基础语法； 
     </details> 
 
-- 🕯 [使用 Sentry 做异常监控 - 如何优雅的解决 Qiankun 下 release 配置的问题](https://juejin.cn/post/7166622284948439054) | Wed Nov 16 2022 2:35 PM 
+- 🕯 [深入客户端储存大比拼](https://juejin.cn/post/7166636169596239902) | Wed Nov 16 2022 3:28 PM 
     <details><summary>展开描述 ...</summary> 
-    本文为稀土掘金技术社区首发签约文章，14天内禁止转载，14天后未获授权禁止转载，侵权必究！ 之前，小编写过一篇关于使用 Sentry 做异常监控的文章 - 使用 Sentry 做异常监控 - 如何优雅 
+    大家好，我是云牧，今天带来的是客户端存储有关内容，包含Cookie、WebStorge、indexedDB等等，详细探究他们的高级用法及区别。 
     </details> 
 
-- 🚀 [Connect to maven.google.com:443 [maven.google.com] failed: connect timed out](https://juejin.cn/post/7166618076132638728) | Wed Nov 16 2022 2:18 PM 
+- 🚀 [原汁原味的安卓文件存储（数据存储系列）](https://juejin.cn/post/7166633519274426381) | Wed Nov 16 2022 3:18 PM 
     <details><summary>展开描述 ...</summary> 
-    背景 解决方法 找这个包的位置（../node_modules/react-native-freshchat-sdk），修改./android/build.gradle文件中的的maven地址： 将h 
+    本篇讲述了安卓数据存储中的文件存储，使用例子对其用法说明，适合作为基础巩固，是数据存储系列的第一篇，也是数据存储最基本的数据存储方式。 
     </details> 
 
-- 💪 [怎么加入到开源社区，开心做开源](https://juejin.cn/post/7166615601505386526) | Wed Nov 16 2022 2:08 PM 
+- 💪 [【前端组件化】系列第二篇——monorepo方案实战](https://juejin.cn/post/7166625561769410591) | Wed Nov 16 2022 2:47 PM 
     <details><summary>展开描述 ...</summary> 
-    谈到程序员往往伴随着格子衫，老实有点木讷的刻板印象，我们往往也是站在幕后的那批人。开源社区希望开发者们能因为开源，有机会站到前台来展示自己，用开源代码“包装”自己。 
+    一个使用 pnpm + workspace + changeset 的 monorepo 多包管理组件化项目 
     </details> 
 <!-- juejin:END -->
 ### 少数派
