@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2022寒冬下的面试知识点总结【Vue3、Vue2、Vite】篇](https://juejin.cn/post/7166446028266733581) | Wed Nov 16 2022 3:11 AM 
+- 🤗 [前端必读的Tapable源码、Nacos深度源码解析｜掘金一周 11.16](https://juejin.cn/post/7166523391736807460) | Wed Nov 16 2022 8:11 AM 
     <details><summary>展开描述 ...</summary> 
-    你真的了解Vue3、Vue2、Vite吗？这篇文章总结了较为经典核心的一些面试知识点，如果这篇文章对你有用，请一键三连（点赞评论+收藏），手动狗头~ 
+    【掘金一周11.16】本期看点：Preact 开始采用 Vue3 的响应式设计、一次搞懂数据大屏适配方案、签约作者专栏更新动态... 
     </details> 
 
-- 🎡 [四个可以改变移动端键盘的属性](https://juejin.cn/post/7166445694583046181) | Wed Nov 16 2022 3:10 AM 
+- 🎡 [Jetpack Compose 重写TopAppBar 实现标题多行折叠](https://juejin.cn/post/7166484884783906829) | Wed Nov 16 2022 5:42 AM 
     <details><summary>展开描述 ...</summary> 
-    代码片段 手机扫一扫访问 inputmode（设置键盘的类型） 关键词 描述 none 不显示键盘，需要实现自己的键盘输入控件时很有用（比如车牌输入，身份证号码输入等）。 text 标准文本输入键盘。 
+    想用compose实现类似掘金的文章详细页面的标题栏 便使用了MediumTopAppBar一开始用着没什么问题，但是标题字数多了，MediumTopAppBar就不支持了 
     </details> 
 
-- 🕯 [OKR之剑·实战篇03：OKR的跟踪需要有“自己”的节奏](https://juejin.cn/post/7166442655738495006) | Wed Nov 16 2022 2:58 AM 
+- 🕯 [重磅出击，20张图带你彻底了解ReentrantLock加锁解锁的原理](https://juejin.cn/post/7166478578190663710) | Wed Nov 16 2022 5:17 AM 
     <details><summary>展开描述 ...</summary> 
-    OKR的跟踪是一个持续的过程，过程中如果没有良好的节奏，慢慢会在无序中迷失，在琐碎的工作中淹没，最终沦为纸上谈兵。OKR的跟踪需要融入自己团队的特点，找到适合自己的节奏，这是一个螺旋上升的过程。 
+    最近是上班忙项目，下班带娃，忙的不可开交，连摸鱼的时间都没有了。今天趁假期用图解的方式从源码角度给大家说一下ReentrantLock加锁解锁的全过程。系好安全带，发车了。 
     </details> 
 
-- 🚀 [inert 属性，让浏览器忽略所有用户交互](https://juejin.cn/post/7166441986080112670) | Wed Nov 16 2022 2:55 AM 
+- 🚀 [Dragonfly 中 P2P 传输协议优化](https://juejin.cn/post/7166472256128811039) | Wed Nov 16 2022 4:53 AM 
     <details><summary>展开描述 ...</summary> 
-    在浏览器中，用户交互包括永远排在第一位，不可被打断，哪怕浏览器在假死的状态下，用户的交互行为也是不可被打断的; 但是在inert属性的作用下，用户的交互行为就会被忽略，接下来就带你一起来看看inert 
+    文｜孙珩珂 上海交通大学 本文1987字 阅读 10 分钟 01 优化背景 此前 Dragonfly 的 P2P 下载采用静态限流策略，相关配置项在 dfget.yaml 配置文件中： 其中 perP 
     </details> 
 
-- 💪 [775. 全局倒置与局部倒置 :「树状数组」&amp;「数学」](https://juejin.cn/post/7166441317835702309) | Wed Nov 16 2022 2:52 AM 
+- 💪 [两万字盘点被玩烂了的9种设计模式](https://juejin.cn/post/7166466161398251528) | Wed Nov 16 2022 4:29 AM 
     <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 775. 全局倒置与局部倒置 ，难度为 中等。 Tag : 「树状数组」、「数学」 给你一个长度为 n 的整数数组 nums，表示由范围 $[0, n - 1] 
+    大家好，我是三友~~ 之前有小伙伴私信我说看源码的时候感觉源码很难，不知道该怎么看，其实这有部分原因是因为没有弄懂一些源码实现的套路，也就是设计模式，所以本文我就总结了9种在源码中非常常见的设计模式， 
     </details> 
 <!-- juejin:END -->
 ### 少数派
