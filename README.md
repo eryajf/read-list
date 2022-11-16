@@ -378,24 +378,24 @@
     看过小编上一篇文章 - 简单聊一聊 Vite 开发模式下的缓存策略 童鞋们，想必会记得小编在文章结束时，简单提到了使用类似 Webpack5 的持久缓存策略来优化 Vite 开发模式下的首屏性能。 经 
     </details> 
 
-- 🎡 [微信小程序web-view与H5 通信方式探索](https://juejin.cn/post/7166516470996959245) | Wed Nov 16 2022 7:44 AM 
+- 🎡 [实战教程·元宇宙来了，准备好你的电子名片了吗？（六）](https://juejin.cn/post/7166549404759883784) | Wed Nov 16 2022 9:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    在上一章节中，我们学习了Model-View-ViewModel架构模式，并实现了添加、删除方法。其中删除方法使用的是最简单的，利用SwiftUI自带的contextMenu上下文菜单按钮...... 
+    </details> 
+
+- 🕯 [微信小程序web-view与H5 通信方式探索](https://juejin.cn/post/7166516470996959245) | Wed Nov 16 2022 7:44 AM 
     <details><summary>展开描述 ...</summary> 
     小程序简介 小程序是一种全新的连接用户与服务的方式，它可以在微信内被便捷地获取和传播，同时具有出色的使用体验。 需求 微信小程序 H5 混合开发就是 在一个小程序中，采用部分小程序原生页面，部分通过W 
     </details> 
 
-- 🕯 [【简历优化】如何写好项目的亮点难点？项目经历怎么写最好？](https://juejin.cn/post/7166516163604643854) | Wed Nov 16 2022 7:43 AM 
+- 🚀 [【简历优化】如何写好项目的亮点难点？项目经历怎么写最好？](https://juejin.cn/post/7166516163604643854) | Wed Nov 16 2022 7:43 AM 
     <details><summary>展开描述 ...</summary> 
     好的简历大多相似，不好的简历各有各的问题。分享出来给大家看看，抛砖引玉，希望对大家有帮助。 项目经历的内容结构怎么写最好？ 如何写好项目的亮点难点？ 简历内容的顺序如何排最好？ 
     </details> 
 
-- 🚀 [思必驰周强：AI 和传统信号技术在实时音频通话中的应用](https://juejin.cn/post/7166515652813914148) | Wed Nov 16 2022 7:42 AM 
+- 💪 [思必驰周强：AI 和传统信号技术在实时音频通话中的应用](https://juejin.cn/post/7166515652813914148) | Wed Nov 16 2022 7:42 AM 
     <details><summary>展开描述 ...</summary> 
     ANS 算法面临的问题是如何从被噪声污染的麦克风信号中恢复期望信号，这当中的难点是希望能把噪声去掉的同时，尽可能高保真的恢复干净纯洁的语音信号。 
-    </details> 
-
-- 💪 [Android Studio gradle配置项 packagingOptions说明 Android打包so库重复问题](https://juejin.cn/post/7166515657570254884) | Wed Nov 16 2022 7:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    在安卓开发中，通常会使用到gradle来编译，packagingOptions 是其中的一个打包配置,在日常代码开发中，我们需要知其然，而知其所以然，本文章知识也是Android日常瘦身的的必备知识。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
