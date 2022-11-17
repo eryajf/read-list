@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [RunLoop - 同是天涯打工人](https://juejin.cn/post/7166856920425299976) | Thu Nov 17 2022 5:45 AM 
+- 🤗 [s54.运维自运化之ANSIBLE&lpar;一&rpar;](https://juejin.cn/post/7166875617927888927) | Thu Nov 17 2022 6:57 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 没有困难的工作，只有勇敢的打工人。 概念 如果你经历过这么一种上班状态，有需求需要开发的时候，开发需求，没有需求开发（小概率事件），下班也没有真正意义上的下班，因为群里随时有线上问题需要响应，所 
+    一.ansible playbook 1.1利用 playbook 创建 mysql 用户 1.2利用 playbook 安装 和卸载nginx 1.3利用 playbook 安装和卸载 httpd  
     </details> 
 
-- 🎡 [不科学，RocketMQ生产者在一个应用服务竟然不能向多个NameServer发送消息](https://juejin.cn/post/7166855806355406879) | Thu Nov 17 2022 5:42 AM 
+- 🎡 [🚀 Go 语言中的 Gin 框架 💪](https://juejin.cn/post/7166872141189775373) | Thu Nov 17 2022 6:45 AM 
     <details><summary>展开描述 ...</summary> 
-    目前有两套RocketMQ集群，集群A包含topic名称为cluster_A_topic，集群B包含topic名称为cluster_B_topic 
+    Go 语言中的 gin 框架简易上手指南，初始化安装，加载静态资源和页面，以及表单提交示例，等等其他一系列操作。 
     </details> 
 
-- 🕯 [【Logback+Spring-Aop】实现全面生态化的全链路日志追踪系统服务插件「Logback-MDC篇」](https://juejin.cn/post/7166856076548603935) | Thu Nov 17 2022 5:42 AM 
+- 🕯 [「2022」寒冬下我的万字面试准备【计算机网络】篇](https://juejin.cn/post/7166870049066582053) | Thu Nov 17 2022 6:36 AM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」  日志追踪 日志追踪对于功能问题的排查和数据流转的路径分析时非常重要的，有了全链路日志追踪体系机制可以非常有效且快速的定位问题，但在多线程环境中，若没有 
+    从输入URL到呈现页面过程的经典面试题，究竟该怎么答？103状态码的作用，究竟是什么？这篇文章会一一给你讲解；如果这篇文章对你有帮助，请一键三连（点赞评论+收藏）；手动狗头~ 
     </details> 
 
-- 🚀 [货拉拉应用架构演进，堪称单体落地微服务避坑指南](https://juejin.cn/post/7166854759645708301) | Thu Nov 17 2022 5:37 AM 
+- 🚀 [Xintell——全生命周期的模型建设+智能数据中台](https://juejin.cn/post/7166867542017835039) | Thu Nov 17 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-    徐少敏 货拉拉  技术中心  核心基础设施部  Java技术专家 主要负责货拉拉Java开发框架、脚手架、任务调度中心、配置中心、SOA和微服务框架的架构设计及框架和工具在货拉拉技术中心的实施和落地。 
+    在业务反欺诈、运营及数据分析上，经常会涉及到模型。模型就是基于目标群体的大规模采样数据，挖掘出某个实际问题或客观事物的现象本质及运行规律，利用抽象的概念分析存在问题或风险，计算推演出减轻、防范问题或风 
     </details> 
 
-- 💪 [ROSIntegration ROSIntegrationVision与虚幻引擎4（Unreal Engine 4）的配置](https://juejin.cn/post/7166853935473360927) | Thu Nov 17 2022 5:34 AM 
+- 💪 [数据库平滑扩容方案剖析](https://juejin.cn/post/7166859294615273480) | Thu Nov 17 2022 5:55 AM 
     <details><summary>展开描述 ...</summary> 
-    要启用虚幻和ROS之间的通信，需要一个正在运行的ROSBridge和bson_mode 注意：请使用 rosbridge 版本=&gt;0.8.0 以获得完整的 BSON 支持 安装rosbridge的 
+     ## 1. 扩容方案剖析 ### 1.1 扩容问题 在项目初期，我们部署了三个数据库A、B、C，此时数据库的规模可以满足我们的业务需求。为了将数据做到平均分配，我们在Service服务层使用 
     </details> 
 <!-- juejin:END -->
 ### 少数派
