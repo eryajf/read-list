@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [浏览器的网站如何关闭电脑？或者发起关机请求？ Windows10 系统](https://www.v2ex.com/t/896009#reply2) | Thu Nov 17 2022 10:13 AM
-- 🤗 [用 Swift 写 CLI 遇到的问题](https://www.v2ex.com/t/896005#reply5) | Thu Nov 17 2022 9:47 AM
-- 🎭 [有没有做 iOS 开发的朋友， iOS 的后台刷新真的有用吗？](https://www.v2ex.com/t/896004#reply0) | Thu Nov 17 2022 9:44 AM
-- 🥷 [为什么这段代码会报错](https://www.v2ex.com/t/896000#reply2) | Thu Nov 17 2022 9:31 AM
-- 🐵 [求一个抗关机方案](https://www.v2ex.com/t/895993#reply19) | Thu Nov 17 2022 9:13 AM<!-- v2ex:END -->
+- 🥸 [new A&lpar;&rpar;.new B&lpar;&rpar;这个是什么 Java 语法](https://www.v2ex.com/t/896017#reply4) | Thu Nov 17 2022 11:06 AM
+- 🤗 [Inoreader 今年又又又涨了 20$ ，现在是 89.9$一年！](https://www.v2ex.com/t/896011#reply2) | Thu Nov 17 2022 10:25 AM
+- 🎭 [浏览器的网站如何关闭电脑？或者发起关机请求？ Windows10 系统](https://www.v2ex.com/t/896009#reply7) | Thu Nov 17 2022 10:13 AM
+- 🥷 [用 Swift 写 CLI 遇到的问题](https://www.v2ex.com/t/896005#reply5) | Thu Nov 17 2022 9:47 AM
+- 🐵 [有没有做 iOS 开发的朋友， iOS 的后台刷新真的有用吗？](https://www.v2ex.com/t/896004#reply2) | Thu Nov 17 2022 9:44 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
