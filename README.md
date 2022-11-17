@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [第134期：用vue3结合hooks开发一个可以注册的二次确认弹框](https://juejin.cn/post/7167012292758880287) | Thu Nov 17 2022 3:49 PM 
+- 🤗 [brython | 初探鼠标事件-1：点击事件](https://juejin.cn/post/7167024129814560804) | Thu Nov 17 2022 4:35 PM 
+    <details><summary>展开描述 ...</summary> 
+    前段时间在【码上掘金】看见大佬使用【文言文】写了一个连连看，于是我也想用【brython】也实现一个连连看。 于是乎，你们就看到这篇文章和这个项目了。 https://code.juejin.cn/p 
+    </details> 
+
+- 🎡 [第134期：用vue3结合hooks开发一个可以注册的二次确认弹框](https://juejin.cn/post/7167012292758880287) | Thu Nov 17 2022 3:49 PM 
     <details><summary>展开描述 ...</summary> 
     封面图 中午在公司楼顶平台上晒太阳，不知不觉睡着了 背景 上次开发了一个类似popConfirm的二次确认弹框，如下面两个图： 图一 图二 完成开发后，准备集成到项目中时忽然发现无法集成到公司内部的组 
     </details> 
 
-- 🎡 [【MySQL】MySQL复制原理与主备一致性同步工作原理解析（原理篇）（MySQL专栏启动）](https://juejin.cn/post/7167005471202541605) | Thu Nov 17 2022 3:22 PM 
+- 🕯 [【MySQL】MySQL复制原理与主备一致性同步工作原理解析（原理篇）（MySQL专栏启动）](https://juejin.cn/post/7167005471202541605) | Thu Nov 17 2022 3:22 PM 
     <details><summary>展开描述 ...</summary> 
     ​ 本文导读 本文基于《MySQL复制与高可用水平扩展架构实战》扩展其复制的原理以及切换一致性问题。还没看基础的读者们请先行了解这篇基础的MySQL复制详解与实战。本文主要对 MySQL 复制原理与主 
     </details> 
 
-- 🕯 [声网深度学习时序编码器的资源预测实践丨Dev for Dev 专栏](https://juejin.cn/post/7167004258833793037) | Thu Nov 17 2022 3:18 PM 
+- 🚀 [声网深度学习时序编码器的资源预测实践丨Dev for Dev 专栏](https://juejin.cn/post/7167004258833793037) | Thu Nov 17 2022 3:18 PM 
     <details><summary>展开描述 ...</summary> 
     随着深度学习技术的发展，编码器的结构在构建神经网络中成为了热门之选，在计算机视觉领域有众多成功案列。 
     </details> 
 
-- 🚀 [抓包理解 DNS 流程和 CDN 原理](https://juejin.cn/post/7166995181093257246) | Thu Nov 17 2022 2:42 PM 
+- 💪 [抓包理解 DNS 流程和 CDN 原理](https://juejin.cn/post/7166995181093257246) | Thu Nov 17 2022 2:42 PM 
     <details><summary>展开描述 ...</summary> 
     DNS （Domain Name System）是我们每天都用到的协议，CDN （Content Delivery Network）也经常会接触到，但你能说出它们的原理么？ 能说出原理的话，有抓包看过 
-    </details> 
-
-- 💪 [如何将 win32 程序虚拟内存扩展到 3GB？](https://juejin.cn/post/7166991733366980639) | Thu Nov 17 2022 2:29 PM 
-    <details><summary>展开描述 ...</summary> 
-    在 [Windows 内存管理知识总结一篇中，我提到了在 Windows 中 32 位进程只能使用 2GB 的虚拟内存，Windows 为我们提供了扩展虚拟内存到 3GB 的方式，具体要怎么做呢？ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
