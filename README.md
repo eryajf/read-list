@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【MySQL】MySQL复制与高可用水平扩展架构实战（MySQL专栏启动）](https://juejin.cn/post/7166639597223411749) | Wed Nov 16 2022 3:42 PM 
+- 🤗 [结合实践解读 package.json](https://juejin.cn/post/7166779348572176414) | Thu Nov 17 2022 12:44 AM 
     <details><summary>展开描述 ...</summary> 
-    本文简单介绍几种复制方式复制在生产中解决的实际问题，MySQL复制的配置流程和MySQL复制类型，不会深入到 MTBF、MTTR平均故障间隔、平均修复时间等等以及MMM 集群架构、MHA 
+    大家在入手一个项目的时候，里面的 package.json 的各个字段都了解吗？本文结合工作和社区实践来带你解读 package.json 文件 
     </details> 
 
-- 🎡 [【Gradle-3】Gradle中的DSL，Groovy &amp; Kotlin](https://juejin.cn/post/7166638852503765006) | Wed Nov 16 2022 3:40 PM 
+- 🎡 [我服了，整理了 40 余种图片优化工具，论图片压缩，直接甩给他这个列表](https://juejin.cn/post/7166777437143957534) | Thu Nov 17 2022 12:37 AM 
     <details><summary>展开描述 ...</summary> 
-    1.什么是DSL； 2.Groovy DSL &amp; Kotlin DSL； 3.Groovy 基础语法； 
+    图像往往是任何特定网页上最大的资源。虽然许多开发者花时间优化网页性能的其他方面，但减少图像的大小对性能的影响比所有其他方面加起来还要大。这篇文章将纯粹关注于可用于减少图片大小的不同工具。 WebUti 
     </details> 
 
-- 🕯 [深入客户端储存大比拼](https://juejin.cn/post/7166636169596239902) | Wed Nov 16 2022 3:28 PM 
+- 🕯 [Elasticsearch：使用 docker compose 来实现热温冷架构的 Elasticsearch 集群](https://juejin.cn/post/7166768892793094158) | Thu Nov 17 2022 12:03 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是云牧，今天带来的是客户端存储有关内容，包含Cookie、WebStorge、indexedDB等等，详细探究他们的高级用法及区别。 
+    在我们的许多练习中，我需要模拟索引生命管理周期的环境。在这样的集群中，我们需要模拟出热（hot），温（warm）及冷（cold）的架构。那么我们该如何进行模拟呢？ 我们参考之前的文章 “Elastic 
     </details> 
 
-- 🚀 [原汁原味的安卓文件存储（数据存储系列）](https://juejin.cn/post/7166633519274426381) | Wed Nov 16 2022 3:18 PM 
+- 🚀 [SpringBoot项目基础设施搭建](https://juejin.cn/post/7166760176899325988) | Wed Nov 16 2022 11:31 PM 
     <details><summary>展开描述 ...</summary> 
-    本篇讲述了安卓数据存储中的文件存储，使用例子对其用法说明，适合作为基础巩固，是数据存储系列的第一篇，也是数据存储最基本的数据存储方式。 
+    每个项目中都会有一些共用的代码，我们称之为项目的基础设施，随拿随用。本文主要介绍 SpringBoot 项目中的一些基础设施。 
     </details> 
 
-- 💪 [【前端组件化】系列第二篇——monorepo方案实战](https://juejin.cn/post/7166625561769410591) | Wed Nov 16 2022 2:47 PM 
+- 💪 [解读JVM级别本地缓存Caffeine青出于蓝的要诀3 —— 讲透Caffeine的数据驱逐淘汰机制与用法](https://juejin.cn/post/7166748976241180708) | Wed Nov 16 2022 10:49 PM 
     <details><summary>展开描述 ...</summary> 
-    一个使用 pnpm + workspace + changeset 的 monorepo 多包管理组件化项目 
+    上一篇文章中聊了Caffeine的同步、异步的数据回源方式。本篇我们再一起研讨下经Caffeine改良过的异步数据驱逐处理实现，以及Caffeine支持的多种不同的数据淘汰驱逐机制和对应的实际使用。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
