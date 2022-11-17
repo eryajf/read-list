@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [TVM 中文站正式上线！最全机器学习模型部署「参考书」它来了](https://juejin.cn/post/7166943999008178190) | Thu Nov 17 2022 11:23 AM 
+- 🤗 [同事吐槽我的接口性能差，原来它是真凶！](https://juejin.cn/post/7166965043253215240) | Thu Nov 17 2022 12:45 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 最近我在公司优化过几个慢查询接口的性能，总结了一些心得体会拿出来跟大家一起分享一下，希望对你会有所帮助。 我们使用的数据库是Mysql8，使用的存储引擎是Innodb。这次优化除了优化索引之外， 
+    </details> 
+
+- 🎡 [TVM 中文站正式上线！最全机器学习模型部署「参考书」它来了](https://juejin.cn/post/7166943999008178190) | Thu Nov 17 2022 11:23 AM 
     <details><summary>展开描述 ...</summary> 
     近日，由 MLC 社区志愿者共同翻译校对的 TVM 中文文档正式发布，现已托管至超神经官网 Hyper.AI。 
     </details> 
 
-- 🎡 [React Devtools 使用技巧](https://juejin.cn/post/7166942387141345316) | Thu Nov 17 2022 11:17 AM 
+- 🕯 [React Devtools 使用技巧](https://juejin.cn/post/7166942387141345316) | Thu Nov 17 2022 11:17 AM 
     <details><summary>展开描述 ...</summary> 
     通过在Chrome中添加React Devtools工具，可以方便我们调试React组件，能够更清楚的看到各组件的内部状态。 
     </details> 
 
-- 🕯 [实战教程·元宇宙来了，准备好你的电子名片了吗？（七）](https://juejin.cn/post/7166931401101541406) | Thu Nov 17 2022 10:35 AM 
+- 🚀 [Shader从入门到放弃（二） —— 常见GLSL内置函数](https://juejin.cn/post/7166939417599279112) | Thu Nov 17 2022 11:05 AM 
     <details><summary>展开描述 ...</summary> 
-    不知不觉已经到了第七章了，在过往每一个章节中，我们都增加和完成项目的一些功能，让Linkwirld这款产品越来越接近完成品。 一款以用户操作为核心功能的产品，需要包含增删改查4部分功能...... 
+    今天，我们将要进行进一步的学习，我们要学习一些GLSL中常用的内置函数，为我们后面的学习打下坚实的基础。 
     </details> 
 
-- 🚀 [加密技术科普](https://juejin.cn/post/7166925768012857374) | Thu Nov 17 2022 10:13 AM 
+- 💪 [Android中的硬件加速那么好用？为啥没被普及？](https://juejin.cn/post/7166935241108488222) | Thu Nov 17 2022 10:49 AM 
     <details><summary>展开描述 ...</summary> 
-    本文从密码技术的分布阶段、摘要算法、对称加密、非对称加密、混合加密、数字签名、数字证书和CA科普加密技术。 
-    </details> 
-
-- 💪 [加密技术科普](https://juejin.cn/post/7166925683308888095) | Thu Nov 17 2022 10:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文从密码技术的分布阶段、摘要算法、对称加密、非对称加密、混合加密、数字签名、数字证书和CA科普加密技术。 
+    前几天有个朋友问我：Android中硬件加速那么好用，为啥没被普及？，嗯？其实我也想知道。。。于是。。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
