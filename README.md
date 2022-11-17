@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [实战教程·元宇宙来了，准备好你的电子名片了吗？（七）](https://juejin.cn/post/7166931401101541406) | Thu Nov 17 2022 10:35 AM 
+- 🤗 [TVM 中文站正式上线！最全机器学习模型部署「参考书」它来了](https://juejin.cn/post/7166943999008178190) | Thu Nov 17 2022 11:23 AM 
+    <details><summary>展开描述 ...</summary> 
+    近日，由 MLC 社区志愿者共同翻译校对的 TVM 中文文档正式发布，现已托管至超神经官网 Hyper.AI。 
+    </details> 
+
+- 🎡 [React Devtools 使用技巧](https://juejin.cn/post/7166942387141345316) | Thu Nov 17 2022 11:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    通过在Chrome中添加React Devtools工具，可以方便我们调试React组件，能够更清楚的看到各组件的内部状态。 
+    </details> 
+
+- 🕯 [实战教程·元宇宙来了，准备好你的电子名片了吗？（七）](https://juejin.cn/post/7166931401101541406) | Thu Nov 17 2022 10:35 AM 
     <details><summary>展开描述 ...</summary> 
     不知不觉已经到了第七章了，在过往每一个章节中，我们都增加和完成项目的一些功能，让Linkwirld这款产品越来越接近完成品。 一款以用户操作为核心功能的产品，需要包含增删改查4部分功能...... 
     </details> 
 
-- 🎡 [Android activity六种数据传递类型+【示例详细解说】](https://juejin.cn/post/7166904494108704776) | Thu Nov 17 2022 8:49 AM 
+- 🚀 [加密技术科普](https://juejin.cn/post/7166925768012857374) | Thu Nov 17 2022 10:13 AM 
     <details><summary>展开描述 ...</summary> 
-    概述 在开发中，我们经常涌用到Activity，那么既然用到了Activity，就一定免不了在两个或者多个Activity之间传递数据。这里我们先说一说原理，然后在看看代码和例子。 情况A： 我们需要 
+    本文从密码技术的分布阶段、摘要算法、对称加密、非对称加密、混合加密、数字签名、数字证书和CA科普加密技术。 
     </details> 
 
-- 🕯 [拦截 JavaScript Fetch API 的请求和响应](https://juejin.cn/post/7166903919208038430) | Thu Nov 17 2022 8:49 AM 
+- 💪 [加密技术科普](https://juejin.cn/post/7166925683308888095) | Thu Nov 17 2022 10:12 AM 
     <details><summary>展开描述 ...</summary> 
-    拦截器是可用于预处理或后处理 HTTP 请求的代码块，有助于全局错误处理、身份验证、日志记录等。在本文中，你将学习如何拦截 JavaScript Fetch API 请求。 
-    </details> 
-
-- 🚀 [编译原理两三事](https://juejin.cn/post/7166902365499441188) | Thu Nov 17 2022 8:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 编译原理是一套复杂庞大的偏底层的知识体系。目的是将高级程序设计语言转换成计算机硬件能识别的机器语言，以便计算机进行处理。本文将给大家提炼介绍整体的流程，以及具体深挖部分细节流程。主要会围绕以下几 
-    </details> 
-
-- 💪 [杂篇（一）](https://juejin.cn/post/7166899226260013093) | Thu Nov 17 2022 8:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    姑妄言之，姑妄听之。我本是红尘一俗客，没有那文人酸腐气。突然有一股冲动，想要写点不一样的东西，虽然内容无法功利。 
+    本文从密码技术的分布阶段、摘要算法、对称加密、非对称加密、混合加密、数字签名、数字证书和CA科普加密技术。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
