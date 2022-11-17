@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [从一个案例出发，入门 MySQL 的性能优化](https://juejin.cn/entry/7166820065814249509) | Thu Nov 17 2022 3:22 AM 
+- 🤗 [RunLoop - 同是天涯打工人](https://juejin.cn/post/7166856920425299976) | Thu Nov 17 2022 5:45 AM 
     <details><summary>展开描述 ...</summary> 
-    本文将从案例出发，带着实际问题带领读者入门 MySQL 的性能优化，涉及到的内容主要是入门知识，面向对 MySQL 不甚了解的读者。如果能让任何人有那么一点点收获，那我不胜荣幸。 话不多说，先介绍一下 
+    前言 没有困难的工作，只有勇敢的打工人。 概念 如果你经历过这么一种上班状态，有需求需要开发的时候，开发需求，没有需求开发（小概率事件），下班也没有真正意义上的下班，因为群里随时有线上问题需要响应，所 
     </details> 
 
-- 🎡 [得物视频编辑工具优化全指南](https://juejin.cn/post/7166816385287323655) | Thu Nov 17 2022 3:09 AM 
+- 🎡 [不科学，RocketMQ生产者在一个应用服务竟然不能向多个NameServer发送消息](https://juejin.cn/post/7166855806355406879) | Thu Nov 17 2022 5:42 AM 
     <details><summary>展开描述 ...</summary> 
-    本文开篇从介绍得物App的主要功能展开，提出了视频编辑工具优化的三个维度： 1.优化内存占用 2.提升视频导出速度 3.提升导出视频的清晰度 
+    目前有两套RocketMQ集群，集群A包含topic名称为cluster_A_topic，集群B包含topic名称为cluster_B_topic 
     </details> 
 
-- 🕯 [视频清晰度优化指南](https://juejin.cn/post/7166812768459784200) | Thu Nov 17 2022 2:54 AM 
+- 🕯 [【Logback+Spring-Aop】实现全面生态化的全链路日志追踪系统服务插件「Logback-MDC篇」](https://juejin.cn/post/7166856076548603935) | Thu Nov 17 2022 5:42 AM 
     <details><summary>展开描述 ...</summary> 
-    现在5G发展地如火如荼，网络的高速发展，手机硬件性能的提升，用户越来越不满足于低画质和低清晰度的视频。提升视频的画质和清晰度势在必行，需要一套行之有效提升视频清晰度的优化方案。 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」  日志追踪 日志追踪对于功能问题的排查和数据流转的路径分析时非常重要的，有了全链路日志追踪体系机制可以非常有效且快速的定位问题，但在多线程环境中，若没有 
     </details> 
 
-- 🚀 [Ernie-SimCSE对比学习在内容反作弊上应用](https://juejin.cn/post/7166809706470572069) | Thu Nov 17 2022 2:42 AM 
+- 🚀 [货拉拉应用架构演进，堪称单体落地微服务避坑指南](https://juejin.cn/post/7166854759645708301) | Thu Nov 17 2022 5:37 AM 
     <details><summary>展开描述 ...</summary> 
-    将前沿文本表示学习引入与spammer的持续对抗中，不断提升反作弊能力，提高spammer作弊成本。 
+    徐少敏 货拉拉  技术中心  核心基础设施部  Java技术专家 主要负责货拉拉Java开发框架、脚手架、任务调度中心、配置中心、SOA和微服务框架的架构设计及框架和工具在货拉拉技术中心的实施和落地。 
     </details> 
 
-- 💪 [【常见题型总结】二分以及为何能二分（二段性的拓展）](https://juejin.cn/post/7166807276156616740) | Thu Nov 17 2022 2:32 AM 
+- 💪 [ROSIntegration ROSIntegrationVision与虚幻引擎4（Unreal Engine 4）的配置](https://juejin.cn/post/7166853935473360927) | Thu Nov 17 2022 5:34 AM 
     <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 162. 寻找峰值 ，难度为 中等。 Tag : 「二分」 峰值元素是指其值严格大于左右相邻值的元素。 给你一个整数数组 nums，找到峰值元素并返回其索引。数 
+    要启用虚幻和ROS之间的通信，需要一个正在运行的ROSBridge和bson_mode 注意：请使用 rosbridge 版本=&gt;0.8.0 以获得完整的 BSON 支持 安装rosbridge的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
