@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [同事吐槽我的接口性能差，原来它是真凶！](https://juejin.cn/post/7166965043253215240) | Thu Nov 17 2022 12:45 PM 
+- 🤗 [抓包理解 DNS 流程和 CDN 原理](https://juejin.cn/post/7166995181093257246) | Thu Nov 17 2022 2:42 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 最近我在公司优化过几个慢查询接口的性能，总结了一些心得体会拿出来跟大家一起分享一下，希望对你会有所帮助。 我们使用的数据库是Mysql8，使用的存储引擎是Innodb。这次优化除了优化索引之外， 
+    DNS （Domain Name System）是我们每天都用到的协议，CDN （Content Delivery Network）也经常会接触到，但你能说出它们的原理么？ 能说出原理的话，有抓包看过 
     </details> 
 
-- 🎡 [安卓动画壁纸实战：制作一个星空动态壁纸（带随机流星动画）](https://juejin.cn/post/7166954430167220231) | Thu Nov 17 2022 12:03 PM 
+- 🎡 [2022下半年《软考-系统架构设计师》备考经验分享](https://juejin.cn/post/7166985984477757447) | Thu Nov 17 2022 2:06 PM 
     <details><summary>展开描述 ...</summary> 
-    在本文中，我们将通过实战制作一款带有随机流星动画的星空背景动态壁纸的方式讲解如何在安卓中通过获取 SurfaceHolder 的 Canvas 来绘制动态壁纸。 
+    前言 我参加了2022年11月份的《软考-系统架构设计师》考试，在一个多月的备考之中我总结了一些学习经验和答题技巧，现毫无保留的分享给大家，希望对报考的同学们有所帮助。 
     </details> 
 
-- 🕯 [探究JS中“类”的创建与继承过程](https://juejin.cn/post/7166949915640233992) | Thu Nov 17 2022 11:46 AM 
+- 🕯 [css样式vh屏幕高度，踩坑指南](https://juejin.cn/post/7166980817112186894) | Thu Nov 17 2022 1:46 PM 
     <details><summary>展开描述 ...</summary> 
-    鉴于初中级前端程序员在平时业务开发中比较少去接触“类”这个概念，但在面试中其实经常会考察到相关的概念，一些优秀代码仓库中对类的使用也比较频繁。当涉及到constructor、super这些概念的时候 
+    众所周知，在从css3中，vh和wh 指的是浏览器可见区域。 1vh 等于视窗总高度的1% ，移动端使用vh 遇到的问题 由于，各种浏览器的计算高度不一样，譬如 Safari 浏览器会计算地址栏。 
     </details> 
 
-- 🚀 [TVM 中文站正式上线！最全机器学习模型部署「参考书」它来了](https://juejin.cn/post/7166943999008178190) | Thu Nov 17 2022 11:23 AM 
+- 🚀 [SpringBoot单元测试Maven打包时不运行的问题](https://juejin.cn/post/7166976755935215629) | Thu Nov 17 2022 1:30 PM 
     <details><summary>展开描述 ...</summary> 
-    近日，由 MLC 社区志愿者共同翻译校对的 TVM 中文文档正式发布，现已托管至超神经官网 Hyper.AI。 
+    今天正常写代码，碰到一个问题，单元测试在Maven打包的时候死活不自动运行，明明我没有skip test，为什么会出现这种情况？ 今天我们就简单来探讨一下 
     </details> 
 
-- 💪 [React Devtools 使用技巧](https://juejin.cn/post/7166942387141345316) | Thu Nov 17 2022 11:17 AM 
+- 💪 [业务中 自定义异常用 Exception 还是 RuntimeException? 为什么？](https://juejin.cn/post/7166976169152086024) | Thu Nov 17 2022 1:28 PM 
     <details><summary>展开描述 ...</summary> 
-    通过在Chrome中添加React Devtools工具，可以方便我们调试React组件，能够更清楚的看到各组件的内部状态。 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 序 今天和同事 聊了下异常 相关的事，整理在此  目前公司中使用的 自定义异常是 extend RuntimeException  继承异常 我们在业务 
     </details> 
 <!-- juejin:END -->
 ### 少数派
