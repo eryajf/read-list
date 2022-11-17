@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [结合实践解读 package.json](https://juejin.cn/post/7166779348572176414) | Thu Nov 17 2022 12:44 AM 
+- 🤗 [【Gradle-3】Gradle中的DSL，Groovy &amp; Kotlin](https://juejin.cn/post/7166638852503765006) | Wed Nov 16 2022 3:40 PM 
     <details><summary>展开描述 ...</summary> 
-    大家在入手一个项目的时候，里面的 package.json 的各个字段都了解吗？本文结合工作和社区实践来带你解读 package.json 文件 
+    1.什么是DSL； 2.Groovy DSL &amp; Kotlin DSL； 3.Groovy 基础语法； 
     </details> 
 
-- 🎡 [我服了，整理了 40 余种图片优化工具，论图片压缩，直接甩给他这个列表](https://juejin.cn/post/7166777437143957534) | Thu Nov 17 2022 12:37 AM 
+- 🎡 [后端自学两个小时前端，究竟能做出什么东西？](https://juejin.cn/post/7166624661491580941) | Wed Nov 16 2022 2:44 PM 
     <details><summary>展开描述 ...</summary> 
-    图像往往是任何特定网页上最大的资源。虽然许多开发者花时间优化网页性能的其他方面，但减少图像的大小对性能的影响比所有其他方面加起来还要大。这篇文章将纯粹关注于可用于减少图片大小的不同工具。 WebUti 
+    三年 Java 自学两个小时前端，做了一个后台系统。请各位前端大佬来点评一下我的前端学习路线，想要全栈的后端老哥们也可以来看看我的个人自学经历。 
     </details> 
 
-- 🕯 [Elasticsearch：使用 docker compose 来实现热温冷架构的 Elasticsearch 集群](https://juejin.cn/post/7166768892793094158) | Thu Nov 17 2022 12:03 AM 
+- 🕯 [我是如何利用持久化缓存策略来提升 Vite 开发模式下首屏性能的 ？](https://juejin.cn/post/7166554132428357645) | Wed Nov 16 2022 10:11 AM 
     <details><summary>展开描述 ...</summary> 
-    在我们的许多练习中，我需要模拟索引生命管理周期的环境。在这样的集群中，我们需要模拟出热（hot），温（warm）及冷（cold）的架构。那么我们该如何进行模拟呢？ 我们参考之前的文章 “Elastic 
+    看过小编上一篇文章 - 简单聊一聊 Vite 开发模式下的缓存策略 童鞋们，想必会记得小编在文章结束时，简单提到了使用类似 Webpack5 的持久缓存策略来优化 Vite 开发模式下的首屏性能。 经 
     </details> 
 
-- 🚀 [SpringBoot项目基础设施搭建](https://juejin.cn/post/7166760176899325988) | Wed Nov 16 2022 11:31 PM 
+- 🚀 [实战教程·元宇宙来了，准备好你的电子名片了吗？（六）](https://juejin.cn/post/7166549404759883784) | Wed Nov 16 2022 9:52 AM 
     <details><summary>展开描述 ...</summary> 
-    每个项目中都会有一些共用的代码，我们称之为项目的基础设施，随拿随用。本文主要介绍 SpringBoot 项目中的一些基础设施。 
+    在上一章节中，我们学习了Model-View-ViewModel架构模式，并实现了添加、删除方法。其中删除方法使用的是最简单的，利用SwiftUI自带的contextMenu上下文菜单按钮...... 
     </details> 
 
-- 💪 [解读JVM级别本地缓存Caffeine青出于蓝的要诀3 —— 讲透Caffeine的数据驱逐淘汰机制与用法](https://juejin.cn/post/7166748976241180708) | Wed Nov 16 2022 10:49 PM 
+- 💪 [React 之 requestIdleCallback 来了解一下](https://juejin.cn/post/7166547963517337614) | Wed Nov 16 2022 9:47 AM 
     <details><summary>展开描述 ...</summary> 
-    上一篇文章中聊了Caffeine的同步、异步的数据回源方式。本篇我们再一起研讨下经Caffeine改良过的异步数据驱逐处理实现，以及Caffeine支持的多种不同的数据淘汰驱逐机制和对应的实际使用。 
+    2022 年了，requestIdleCallback 还不会吗？赶紧学一下，买不了吃亏，买不了上当 
     </details> 
 <!-- juejin:END -->
 ### 少数派
