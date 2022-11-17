@@ -378,24 +378,24 @@
     前言 最近我在公司优化过几个慢查询接口的性能，总结了一些心得体会拿出来跟大家一起分享一下，希望对你会有所帮助。 我们使用的数据库是Mysql8，使用的存储引擎是Innodb。这次优化除了优化索引之外， 
     </details> 
 
-- 🎡 [TVM 中文站正式上线！最全机器学习模型部署「参考书」它来了](https://juejin.cn/post/7166943999008178190) | Thu Nov 17 2022 11:23 AM 
+- 🎡 [安卓动画壁纸实战：制作一个星空动态壁纸（带随机流星动画）](https://juejin.cn/post/7166954430167220231) | Thu Nov 17 2022 12:03 PM 
+    <details><summary>展开描述 ...</summary> 
+    在本文中，我们将通过实战制作一款带有随机流星动画的星空背景动态壁纸的方式讲解如何在安卓中通过获取 SurfaceHolder 的 Canvas 来绘制动态壁纸。 
+    </details> 
+
+- 🕯 [探究JS中“类”的创建与继承过程](https://juejin.cn/post/7166949915640233992) | Thu Nov 17 2022 11:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    鉴于初中级前端程序员在平时业务开发中比较少去接触“类”这个概念，但在面试中其实经常会考察到相关的概念，一些优秀代码仓库中对类的使用也比较频繁。当涉及到constructor、super这些概念的时候 
+    </details> 
+
+- 🚀 [TVM 中文站正式上线！最全机器学习模型部署「参考书」它来了](https://juejin.cn/post/7166943999008178190) | Thu Nov 17 2022 11:23 AM 
     <details><summary>展开描述 ...</summary> 
     近日，由 MLC 社区志愿者共同翻译校对的 TVM 中文文档正式发布，现已托管至超神经官网 Hyper.AI。 
     </details> 
 
-- 🕯 [React Devtools 使用技巧](https://juejin.cn/post/7166942387141345316) | Thu Nov 17 2022 11:17 AM 
+- 💪 [React Devtools 使用技巧](https://juejin.cn/post/7166942387141345316) | Thu Nov 17 2022 11:17 AM 
     <details><summary>展开描述 ...</summary> 
     通过在Chrome中添加React Devtools工具，可以方便我们调试React组件，能够更清楚的看到各组件的内部状态。 
-    </details> 
-
-- 🚀 [Shader从入门到放弃（二） —— 常见GLSL内置函数](https://juejin.cn/post/7166939417599279112) | Thu Nov 17 2022 11:05 AM 
-    <details><summary>展开描述 ...</summary> 
-    今天，我们将要进行进一步的学习，我们要学习一些GLSL中常用的内置函数，为我们后面的学习打下坚实的基础。 
-    </details> 
-
-- 💪 [Android中的硬件加速那么好用？为啥没被普及？](https://juejin.cn/post/7166935241108488222) | Thu Nov 17 2022 10:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    前几天有个朋友问我：Android中硬件加速那么好用，为啥没被普及？，嗯？其实我也想知道。。。于是。。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
