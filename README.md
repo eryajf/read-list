@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [抓包理解 DNS 流程和 CDN 原理](https://juejin.cn/post/7166995181093257246) | Thu Nov 17 2022 2:42 PM 
+- 🤗 [第134期：用vue3结合hooks开发一个可以注册的二次确认弹框](https://juejin.cn/post/7167012292758880287) | Thu Nov 17 2022 3:49 PM 
+    <details><summary>展开描述 ...</summary> 
+    封面图 中午在公司楼顶平台上晒太阳，不知不觉睡着了 背景 上次开发了一个类似popConfirm的二次确认弹框，如下面两个图： 图一 图二 完成开发后，准备集成到项目中时忽然发现无法集成到公司内部的组 
+    </details> 
+
+- 🎡 [【MySQL】MySQL复制原理与主备一致性同步工作原理解析（原理篇）（MySQL专栏启动）](https://juejin.cn/post/7167005471202541605) | Thu Nov 17 2022 3:22 PM 
+    <details><summary>展开描述 ...</summary> 
+    ​ 本文导读 本文基于《MySQL复制与高可用水平扩展架构实战》扩展其复制的原理以及切换一致性问题。还没看基础的读者们请先行了解这篇基础的MySQL复制详解与实战。本文主要对 MySQL 复制原理与主 
+    </details> 
+
+- 🕯 [声网深度学习时序编码器的资源预测实践丨Dev for Dev 专栏](https://juejin.cn/post/7167004258833793037) | Thu Nov 17 2022 3:18 PM 
+    <details><summary>展开描述 ...</summary> 
+    随着深度学习技术的发展，编码器的结构在构建神经网络中成为了热门之选，在计算机视觉领域有众多成功案列。 
+    </details> 
+
+- 🚀 [抓包理解 DNS 流程和 CDN 原理](https://juejin.cn/post/7166995181093257246) | Thu Nov 17 2022 2:42 PM 
     <details><summary>展开描述 ...</summary> 
     DNS （Domain Name System）是我们每天都用到的协议，CDN （Content Delivery Network）也经常会接触到，但你能说出它们的原理么？ 能说出原理的话，有抓包看过 
     </details> 
 
-- 🎡 [2022下半年《软考-系统架构设计师》备考经验分享](https://juejin.cn/post/7166985984477757447) | Thu Nov 17 2022 2:06 PM 
+- 💪 [如何将 win32 程序虚拟内存扩展到 3GB？](https://juejin.cn/post/7166991733366980639) | Thu Nov 17 2022 2:29 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 我参加了2022年11月份的《软考-系统架构设计师》考试，在一个多月的备考之中我总结了一些学习经验和答题技巧，现毫无保留的分享给大家，希望对报考的同学们有所帮助。 
-    </details> 
-
-- 🕯 [css样式vh屏幕高度，踩坑指南](https://juejin.cn/post/7166980817112186894) | Thu Nov 17 2022 1:46 PM 
-    <details><summary>展开描述 ...</summary> 
-    众所周知，在从css3中，vh和wh 指的是浏览器可见区域。 1vh 等于视窗总高度的1% ，移动端使用vh 遇到的问题 由于，各种浏览器的计算高度不一样，譬如 Safari 浏览器会计算地址栏。 
-    </details> 
-
-- 🚀 [SpringBoot单元测试Maven打包时不运行的问题](https://juejin.cn/post/7166976755935215629) | Thu Nov 17 2022 1:30 PM 
-    <details><summary>展开描述 ...</summary> 
-    今天正常写代码，碰到一个问题，单元测试在Maven打包的时候死活不自动运行，明明我没有skip test，为什么会出现这种情况？ 今天我们就简单来探讨一下 
-    </details> 
-
-- 💪 [业务中 自定义异常用 Exception 还是 RuntimeException? 为什么？](https://juejin.cn/post/7166976169152086024) | Thu Nov 17 2022 1:28 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 序 今天和同事 聊了下异常 相关的事，整理在此  目前公司中使用的 自定义异常是 extend RuntimeException  继承异常 我们在业务 
+    在 [Windows 内存管理知识总结一篇中，我提到了在 Windows 中 32 位进程只能使用 2GB 的虚拟内存，Windows 为我们提供了扩展虚拟内存到 3GB 的方式，具体要怎么做呢？ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
