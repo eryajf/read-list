@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [如何在两个相关泛型类之间创建类似子类型的关系](https://juejin.cn/post/7166895537252368391) | Thu Nov 17 2022 8:15 AM 
+- 🤗 [实战教程·元宇宙来了，准备好你的电子名片了吗？（七）](https://juejin.cn/post/7166931401101541406) | Thu Nov 17 2022 10:35 AM 
     <details><summary>展开描述 ...</summary> 
-    泛型类或者接口并不会仅仅因为它们的类型之间有关系而变得相关，如果要达到相关，我们可以使用通配符来创建泛型类或接口之间的关系。 
+    不知不觉已经到了第七章了，在过往每一个章节中，我们都增加和完成项目的一些功能，让Linkwirld这款产品越来越接近完成品。 一款以用户操作为核心功能的产品，需要包含增删改查4部分功能...... 
     </details> 
 
-- 🎡 [HP 800G1 DM 刷BIOS教程](https://juejin.cn/post/7166643141179605022) | Wed Nov 16 2022 3:55 PM 
+- 🎡 [Android activity六种数据传递类型+【示例详细解说】](https://juejin.cn/post/7166904494108704776) | Thu Nov 17 2022 8:49 AM 
     <details><summary>展开描述 ...</summary> 
-    最近收了一台1L小主机HP 800G1 DM。最初见到这个机器应该是在UNSW的CSE机房里面，思绪一下回到了好多年前机房赶DUE的场景。看了很多博主的教程，这个机器可以通过修改BIOS来支持NVME 
+    概述 在开发中，我们经常涌用到Activity，那么既然用到了Activity，就一定免不了在两个或者多个Activity之间传递数据。这里我们先说一说原理，然后在看看代码和例子。 情况A： 我们需要 
     </details> 
 
-- 🕯 [node脚手架搭建快速入门](https://juejin.cn/post/7166618069823913997) | Wed Nov 16 2022 2:18 PM 
+- 🕯 [拦截 JavaScript Fetch API 的请求和响应](https://juejin.cn/post/7166903919208038430) | Thu Nov 17 2022 8:49 AM 
     <details><summary>展开描述 ...</summary> 
-    目标1：搭建 test-cli 脚手架 目标2：脚手架本地调试 一、搭建 test-cli 脚手架 操作步骤如下： step1: 初始化操作 构建下图所示的目录结构 step2: 编写bin\inde 
+    拦截器是可用于预处理或后处理 HTTP 请求的代码块，有助于全局错误处理、身份验证、日志记录等。在本文中，你将学习如何拦截 JavaScript Fetch API 请求。 
     </details> 
 
-- 🚀 [120.乾坤css隔离机制](https://juejin.cn/post/7166613066631626759) | Wed Nov 16 2022 1:59 PM 
+- 🚀 [编译原理两三事](https://juejin.cn/post/7166902365499441188) | Thu Nov 17 2022 8:41 AM 
     <details><summary>展开描述 ...</summary> 
-    直观的可以看到，子应用的代码不是正常的dom,上面显示的shadow-root，先不管shadow-root是什么，接着往下看 在主应用中，通过配置sandbox做到样式隔离 在start得时候配置得 
+    前言 编译原理是一套复杂庞大的偏底层的知识体系。目的是将高级程序设计语言转换成计算机硬件能识别的机器语言，以便计算机进行处理。本文将给大家提炼介绍整体的流程，以及具体深挖部分细节流程。主要会围绕以下几 
     </details> 
 
-- 💪 [图像高斯金字塔（三层简单举例matlab）](https://juejin.cn/post/7166602427901149198) | Wed Nov 16 2022 1:18 PM 
+- 💪 [杂篇（一）](https://juejin.cn/post/7166899226260013093) | Thu Nov 17 2022 8:29 AM 
     <details><summary>展开描述 ...</summary> 
-    对图像生成三层高斯金字塔。对图像生成三层高斯金字塔。对图像生成三层高斯金字塔。对图像生成三层高斯金字塔。对图像生成三层高斯金字塔。 
+    姑妄言之，姑妄听之。我本是红尘一俗客，没有那文人酸腐气。突然有一股冲动，想要写点不一样的东西，虽然内容无法功利。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
