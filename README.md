@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [38、Flutter之布局组件 弹性布局Flex](https://juejin.cn/post/7167149959853277214) | Fri Nov 18 2022 12:42 AM 
+- 🤗 [【带你读源码】GToken替换JWT实现SSO单点登录](https://juejin.cn/post/7167184582067011614) | Fri Nov 18 2022 2:57 AM 
     <details><summary>展开描述 ...</summary> 
-    弹性布局允许子组件按照一定比例来分配父容器空间。弹性布局的概念在其它UI系统中也都存在，如 H5 中的弹性盒子布局，Android中 的FlexboxLayout等。Flutter中的弹性布局主要通过 
+    期间我也踩了一些坑，最终是通过阅读源码解决了项目中遇到的问题。觉得这个经历比较有意思，整理一篇文章分享给大家。 
     </details> 
 
-- 🎡 [s56.MYSQL数据库](https://juejin.cn/post/7167126849024163854) | Thu Nov 17 2022 11:13 PM 
+- 🎡 [扒一扒 Jetpack Compose 实现原理](https://juejin.cn/post/7167171495276806181) | Fri Nov 18 2022 2:06 AM 
     <details><summary>展开描述 ...</summary> 
-    “ ***本文正在参加[「金石计划 . 瓜分6万现金大奖」]&lpar;https://juejin.cn/p 
+    Google 于2021年7月底正式发布 Jetpack Compose 的 1.0 正式版本，这是 Android 的现代化开发工具包，可以帮助开发者更高效的开发应用 
     </details> 
 
-- 🕯 [s55.运维自运化之ANSIBLE&lpar;二&rpar;](https://juejin.cn/post/7167126825133408293) | Thu Nov 17 2022 11:12 PM 
+- 🕯 [Mac使用进阶之Mac Iterm2开启SSH密钥转发功能](https://juejin.cn/post/7167167350330884103) | Fri Nov 18 2022 1:49 AM 
     <details><summary>展开描述 ...</summary> 
-    2.4实现 mysql 的角色 2.5实现多角色的选择 实现 mysql5.6 的角色 [root@centos8 ansible]# mkdir -pv roles/  
+    最近公司使用机房跳板机才能登录使用线上各个服务器,这样的话导致每次登录服务器的话都要先去输入服务器的密码&lpar;即使打通了SSH密钥登录也不可以,因为登录的时间没有将私钥传递过去导致的&rpar;. 创建自己电脑主机 
     </details> 
 
-- 🚀 [brython | 初探鼠标事件-1：点击事件](https://juejin.cn/post/7167024129814560804) | Thu Nov 17 2022 4:35 PM 
+- 🚀 [SpringBoot整合JDBC数据库操作-10:第三方DataSource配置](https://juejin.cn/post/7167166965763538981) | Fri Nov 18 2022 1:48 AM 
     <details><summary>展开描述 ...</summary> 
-    前段时间在【码上掘金】看见大佬使用【文言文】写了一个连连看，于是我也想用【brython】也实现一个连连看。 于是乎，你们就看到这篇文章和这个项目了。 https://code.juejin.cn/p 
+    上篇文章我们讲到了在项目中配置多DataSource和启用Transactional事务, 这篇文章主要讲解一下使用第三方DataSource配置示例. 在pom文件中加入druid数据源的依赖 配置 
     </details> 
 
-- 💪 [关于Json Web Token&lpar;token&rpar;在前后端的实践思考](https://juejin.cn/post/7167013703798226958) | Thu Nov 17 2022 3:54 PM 
+- 💪 [4个计算机视觉领域用作迁移学习的模型](https://juejin.cn/post/7167165990705299492) | Fri Nov 18 2022 1:44 AM 
     <details><summary>展开描述 ...</summary> 
-    来学习一下Token在前端和后端的简单应用分析，来了解Token的整个过程。最近看了公司后端的代码，主要来看看他们到底是如何实现的JWT，做个记录留着看看 
+    使用SOTA的预训练模型来通过迁移学习解决现实的计算机视觉问题。 如果你试过构建高精度的机器学习模型，但还没有试过迁移学习，这篇文章将改变你的生活。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
