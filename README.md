@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [获取CSV文件，转成Excel格式的文件供用户从浏览器下载](https://juejin.cn/post/7167268567740579848) | Fri Nov 18 2022 8:23 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 前言 最近这十几天每天都很充实，刚完成了几个小需求；今天简单记录一下其中一个：从某系统获取csv文件，然后处理成可供用户在浏览器中下载的Excel文件； 
-    </details> 
-
-- 🎡 [【性能优化上】第三方组织结构同步优化一，你 get 到了吗？](https://juejin.cn/post/7167256516276256776) | Fri Nov 18 2022 7:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文正在参加 「金石计划 . 瓜分6万现金大奖」 在工作中，云产品之间自然少不了各种系统的对接，接下来是关于上篇文章谈到的组织结构同步优化的思考，希望能够给 xdm 带来不一样的思考 
-    </details> 
-
-- 🕯 [Android自定义View的交互，往往都是从星星开始](https://juejin.cn/post/7167256092051767326) | Fri Nov 18 2022 7:34 AM 
+- 🤗 [Android自定义View的交互，往往都是从星星开始](https://juejin.cn/post/7167256092051767326) | Fri Nov 18 2022 7:34 AM 
     <details><summary>展开描述 ...</summary> 
     星星自定义View评分效果实现 前言 在前面的学习中，我们基本了解了一些 Canvas 的绘制，那么这一章我们一起复习一下图片的绘制几种方式，和事件的简单交互方式。 我们从易到难，作为基础的进阶控件 
     </details> 
 
-- 🚀 [react实现 Modal组件前置技术：react-transtion-group源码分析](https://juejin.cn/post/7167244641941602312) | Fri Nov 18 2022 6:50 AM 
+- 🎡 [悬浮窗开发设计实践](https://juejin.cn/post/7167255763893616670) | Fri Nov 18 2022 7:33 AM 
     <details><summary>展开描述 ...</summary> 
-    因为要实现react Modal组件，前置知识点是需要一个能实现简单动画的组件，通常使用的是react-transtion-group，所以我们来简单实现一下它 
+    目录介绍 01.整体概述 1.1 项目背景 1.2 遇到问题 1.3 基础概念 1.4 设计目标 1.5 收益分析 02.Window概念 2.1 Window添加View 2.2 Window的概念 
     </details> 
 
-- 💪 [&lpar;二十&rpar;MySQL特性篇：2022年的我们，必须要懂的那些数据库新技术！](https://juejin.cn/post/7167239385883082782) | Fri Nov 18 2022 6:29 AM 
+- 🕯 [UED Landing 页 - 定时抓取掘金文章](https://juejin.cn/post/7167255105257865229) | Fri Nov 18 2022 7:31 AM 
     <details><summary>展开描述 ...</summary> 
-    对于技术新特性，这是诸多开发者下意识会忽略的地方，如Java最新发布了Java19，但绝大多数小伙伴的认知却依旧停留在Java8，而MySQL最新发行了8.0.29版本，期间推出许多新技术也鲜为人知！ 
+    本次分享基于『袋鼠云数栈UED团队』新发布的 UED Landing 页 实践得来，UED Landing 页集合了团队目前所有的基础建设以及精选文章，是团队展现风采的一个地方。 
+    </details> 
+
+- 🚀 [重学Android基础系列篇（五）：Android虚拟机类和对象的结构](https://juejin.cn/post/7167254181395791880) | Fri Nov 18 2022 7:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    本系列文章主要是汇总了一下大佬们的技术文章，属于Android基础部分，作为一名合格的安卓开发工程师，咱们肯定要熟练掌握java和android，本篇介绍Android虚拟机类和对象的结构~ 
+    </details> 
+
+- 💪 [如何通过 NFTScan 浏览器捕获 NFT 投资机会](https://juejin.cn/post/7167253424021438478) | Fri Nov 18 2022 7:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    以如何监测热门 NFT 项目、及时获取铸造预告、实时了解趋势以及便捷查看 NFT 数据从而获取 NFT 投资机会？ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
