@@ -364,7 +364,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [关于容器化部署 vue 项目思路讨论](https://www.v2ex.com/t/896278#reply0) | Fri Nov 18 2022 10:06 AM
+- 🥸 [关于容器化部署 vue 项目思路讨论](https://www.v2ex.com/t/896278#reply2) | Fri Nov 18 2022 10:06 AM
 - 🤗 [pm2 出现幽灵进程](https://www.v2ex.com/t/896273#reply0) | Fri Nov 18 2022 9:52 AM
 - 🎭 [C++ 中的 enum 可以强制要求使用命名前缀吗？](https://www.v2ex.com/t/896264#reply4) | Fri Nov 18 2022 9:14 AM
 - 🥷 [路由双网卡问题](https://www.v2ex.com/t/896260#reply3) | Fri Nov 18 2022 9:02 AM
