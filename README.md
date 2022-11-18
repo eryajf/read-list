@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [浅析基于消息中间件延迟消息的几种实现方式](https://juejin.cn/post/7167194807968743431) | Fri Nov 18 2022 3:37 AM 
+- 🤗 [Elasticsearch：Data streams（二）](https://juejin.cn/post/7167217978398752776) | Fri Nov 18 2022 5:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    这是继上一篇文章 “Elasticsearch：Data streams（一）” 的续篇。在上一篇文章中，我详述了如何创建 ILM 策略，index template 以及数据流的相关知识。设置数据流 
+    </details> 
+
+- 🎡 [浅析基于消息中间件延迟消息的几种实现方式](https://juejin.cn/post/7167194807968743431) | Fri Nov 18 2022 3:37 AM 
     <details><summary>展开描述 ...</summary> 
     1. RabbitMQ TTL+死信队列 TTL是RabbitMQ中一个消息或者队列的属性，表明一条消息或者该队列中的所有消息的最大存活时间，单位是毫秒。 进入死信队列具备的条件： 消息被否定确认 消 
     </details> 
 
-- 🎡 [深度解读隐语密态计算设备SPU](https://juejin.cn/post/7167173544173338631) | Fri Nov 18 2022 2:14 AM 
+- 🕯 [深度解读隐语密态计算设备SPU](https://juejin.cn/post/7167173544173338631) | Fri Nov 18 2022 2:14 AM 
     <details><summary>展开描述 ...</summary> 
     SPU是Secretflow Processing Unit的简称，它作为隐语平台的密态计算单元，为隐语提供安全计算服务。 1.SPU概念理解 密态计算单元这个概念听起来比较晦涩，我们用一个实际的例子 
     </details> 
 
-- 🕯 [这项技术，让虚拟世界走进现实！](https://juejin.cn/post/7167173484232048676) | Fri Nov 18 2022 2:14 AM 
+- 🚀 [这项技术，让虚拟世界走进现实！](https://juejin.cn/post/7167173484232048676) | Fri Nov 18 2022 2:14 AM 
     <details><summary>展开描述 ...</summary> 
     导语|2021年元宇宙概念已无处不在，也寓意数字虚拟世界和现实世界新一轮的大融合已开启。要构建以假乱真、令人沉浸、承载多人实时交互的虚拟世界，需要庞大的渲染算力支撑，仅依靠终端设备算力无法实现。本文介 
     </details> 
 
-- 🚀 [是什么影响了MySQL索引B+树的高度？](https://juejin.cn/post/7167173431308484639) | Fri Nov 18 2022 2:13 AM 
+- 💪 [是什么影响了MySQL索引B+树的高度？](https://juejin.cn/post/7167173431308484639) | Fri Nov 18 2022 2:13 AM 
     <details><summary>展开描述 ...</summary> 
     本文正在参加「金石计划 . 瓜分6万现金大奖」 hello，大家好，我是张张，「架构精进之路」公号作者。 提到MySQL，想必大多后端同学都不会陌生，提到B+树，想必还是有很大部分都知道InnoDB引 
-    </details> 
-
-- 💪 [如何精简 Prometheus 的指标和存储占用](https://juejin.cn/post/7167171883686297637) | Fri Nov 18 2022 2:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    ## 前言 随着 Prometheus 监控的组件、数量、指标越来越多，Prometheus 对计算性能的要求会越来越高，存储占用也会越来越多。 在这种情况下，要优化 Prometheus 性能 
     </details> 
 <!-- juejin:END -->
 ### 少数派
