@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【带你读源码】GToken替换JWT实现SSO单点登录](https://juejin.cn/post/7167184582067011614) | Fri Nov 18 2022 2:57 AM 
+- 🤗 [浅析基于消息中间件延迟消息的几种实现方式](https://juejin.cn/post/7167194807968743431) | Fri Nov 18 2022 3:37 AM 
     <details><summary>展开描述 ...</summary> 
-    期间我也踩了一些坑，最终是通过阅读源码解决了项目中遇到的问题。觉得这个经历比较有意思，整理一篇文章分享给大家。 
+    1. RabbitMQ TTL+死信队列 TTL是RabbitMQ中一个消息或者队列的属性，表明一条消息或者该队列中的所有消息的最大存活时间，单位是毫秒。 进入死信队列具备的条件： 消息被否定确认 消 
     </details> 
 
-- 🎡 [扒一扒 Jetpack Compose 实现原理](https://juejin.cn/post/7167171495276806181) | Fri Nov 18 2022 2:06 AM 
+- 🎡 [深度解读隐语密态计算设备SPU](https://juejin.cn/post/7167173544173338631) | Fri Nov 18 2022 2:14 AM 
     <details><summary>展开描述 ...</summary> 
-    Google 于2021年7月底正式发布 Jetpack Compose 的 1.0 正式版本，这是 Android 的现代化开发工具包，可以帮助开发者更高效的开发应用 
+    SPU是Secretflow Processing Unit的简称，它作为隐语平台的密态计算单元，为隐语提供安全计算服务。 1.SPU概念理解 密态计算单元这个概念听起来比较晦涩，我们用一个实际的例子 
     </details> 
 
-- 🕯 [Mac使用进阶之Mac Iterm2开启SSH密钥转发功能](https://juejin.cn/post/7167167350330884103) | Fri Nov 18 2022 1:49 AM 
+- 🕯 [这项技术，让虚拟世界走进现实！](https://juejin.cn/post/7167173484232048676) | Fri Nov 18 2022 2:14 AM 
     <details><summary>展开描述 ...</summary> 
-    最近公司使用机房跳板机才能登录使用线上各个服务器,这样的话导致每次登录服务器的话都要先去输入服务器的密码&lpar;即使打通了SSH密钥登录也不可以,因为登录的时间没有将私钥传递过去导致的&rpar;. 创建自己电脑主机 
+    导语|2021年元宇宙概念已无处不在，也寓意数字虚拟世界和现实世界新一轮的大融合已开启。要构建以假乱真、令人沉浸、承载多人实时交互的虚拟世界，需要庞大的渲染算力支撑，仅依靠终端设备算力无法实现。本文介 
     </details> 
 
-- 🚀 [SpringBoot整合JDBC数据库操作-10:第三方DataSource配置](https://juejin.cn/post/7167166965763538981) | Fri Nov 18 2022 1:48 AM 
+- 🚀 [是什么影响了MySQL索引B+树的高度？](https://juejin.cn/post/7167173431308484639) | Fri Nov 18 2022 2:13 AM 
     <details><summary>展开描述 ...</summary> 
-    上篇文章我们讲到了在项目中配置多DataSource和启用Transactional事务, 这篇文章主要讲解一下使用第三方DataSource配置示例. 在pom文件中加入druid数据源的依赖 配置 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 hello，大家好，我是张张，「架构精进之路」公号作者。 提到MySQL，想必大多后端同学都不会陌生，提到B+树，想必还是有很大部分都知道InnoDB引 
     </details> 
 
-- 💪 [4个计算机视觉领域用作迁移学习的模型](https://juejin.cn/post/7167165990705299492) | Fri Nov 18 2022 1:44 AM 
+- 💪 [如何精简 Prometheus 的指标和存储占用](https://juejin.cn/post/7167171883686297637) | Fri Nov 18 2022 2:07 AM 
     <details><summary>展开描述 ...</summary> 
-    使用SOTA的预训练模型来通过迁移学习解决现实的计算机视觉问题。 如果你试过构建高精度的机器学习模型，但还没有试过迁移学习，这篇文章将改变你的生活。 
+    ## 前言 随着 Prometheus 监控的组件、数量、指标越来越多，Prometheus 对计算性能的要求会越来越高，存储占用也会越来越多。 在这种情况下，要优化 Prometheus 性能 
     </details> 
 <!-- juejin:END -->
 ### 少数派
