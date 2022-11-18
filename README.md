@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【uni-app】菜菜的我xie了一个电池电量组件](https://juejin.cn/post/7167200149326954533) | Fri Nov 18 2022 3:57 AM 
+- 🤗 [打造云开发环境](https://juejin.cn/post/7167229658293862408) | Fri Nov 18 2022 5:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文讲解如何使用容器化技术，打造专属前端研发使用的云开发环境。 笔者已将项目开源，一步完成云开发环境的构建，欢迎使用。 
+    </details> 
+
+- 🎡 [ts|基础知识点回顾&amp;&amp;复习入门项目🍄🍄](https://juejin.cn/post/7167229613696319501) | Fri Nov 18 2022 5:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    对ts的基本认识 A ts是未来的发展语言，为什么这么说，因为Google的Angular、vue源码、React、微信小程序都开始采用这个语言，这足以看出这个语言的重要性 ts的特点：类型系统和完整 
+    </details> 
+
+- 🕯 [【uni-app】菜菜的我xie了一个电池电量组件](https://juejin.cn/post/7167200149326954533) | Fri Nov 18 2022 3:57 AM 
     <details><summary>展开描述 ...</summary> 
     本文正在参加「金石计划 . 瓜分6万现金大奖」 这种组件还是挺少的，所以样式只能说是勉勉强强。 但是客户不管呢，让改第一次看着不行，又改了两次。最后要求这个电量图标非得要跟设计图上的一模一样。 😔 不 
     </details> 
 
-- 🎡 [891. 子序列宽度之和 : 逐步分析如何求解对展开式的最终贡献](https://juejin.cn/post/7167199316392542222) | Fri Nov 18 2022 3:54 AM 
+- 🚀 [891. 子序列宽度之和 : 逐步分析如何求解对展开式的最终贡献](https://juejin.cn/post/7167199316392542222) | Fri Nov 18 2022 3:54 AM 
     <details><summary>展开描述 ...</summary> 
     题目描述 这是 LeetCode 上的 891. 子序列宽度之和 ，难度为 困难。 Tag : 「数学」 一个序列的 宽度 定义为该序列中最大元素和最小元素的差值。 给你一个整数数组 nums，返回  
     </details> 
 
-- 🕯 [沉浸式刷视频，抖音的产品设计妙在何处？](https://juejin.cn/post/7167198453679226910) | Fri Nov 18 2022 3:51 AM 
+- 💪 [新人如何高效写 API 文档](https://juejin.cn/post/7167196722366513189) | Fri Nov 18 2022 3:43 AM 
     <details><summary>展开描述 ...</summary> 
-    在短视频领域，抖音（TikTok）无疑是全球范围内最热门的短视频平台之一。 “抖音5分钟，人间2小时”用来描述我们对抖音的“上瘾”程度再准确不过了。 人们对抖音“上头”，除了依赖于它的神级算法机制，其 
-    </details> 
-
-- 🚀 [未来的产品经理，需要什么样的原型设计工具？](https://juejin.cn/post/7167197899007197197) | Fri Nov 18 2022 3:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    我和原型工具的往事 作为一只工龄十年的产品汪，我一直在使用原型设计工具——摹客 ，对于摹客可谓耳熟能详。 初次听说，是产品社群里的点赞安利：做移动端，用摹客。 当时正值2015年，移动端热到不行，每个 
-    </details> 
-
-- 💪 [详解Native Memory Tracking之追踪区域分析](https://juejin.cn/post/7167189914457473054) | Fri Nov 18 2022 3:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文分享自华为云社区《【技术剖析】17. Native Memory Tracking 详解（3）追踪区域分析&lpar;二&rpar;》，本篇图文将介绍追踪区域的内存类型以及 NMT 无法追踪的内存。 
+    希望我的文章能帮助你高效写 API 文档，全文大概阅读完成需要 10 分钟，包含 API 文档是什么以及如何高效写 API 文档等结构 
     </details> 
 <!-- juejin:END -->
 ### 少数派
