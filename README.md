@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android自定义View的交互，往往都是从星星开始](https://juejin.cn/post/7167256092051767326) | Fri Nov 18 2022 7:34 AM 
+- 🤗 [掘金日新计划 ｜ 12月更文挑战来袭，开启掘金成长之旅](https://juejin.cn/post/7167294154827890702) | Fri Nov 18 2022 10:03 AM 
     <details><summary>展开描述 ...</summary> 
-    星星自定义View评分效果实现 前言 在前面的学习中，我们基本了解了一些 Canvas 的绘制，那么这一章我们一起复习一下图片的绘制几种方式，和事件的简单交互方式。 我们从易到难，作为基础的进阶控件 
+    Hello，掘友们好，「掘金·日新计划」12月更文挑战来了！寒冬袭来，但唯有追求技术与进步的热情不会冷却，磨炼成长的同时还有多重大礼等你来拿，一起加入挑战吧！ 
     </details> 
 
-- 🎡 [悬浮窗开发设计实践](https://juejin.cn/post/7167255763893616670) | Fri Nov 18 2022 7:33 AM 
+- 🎡 [ACM MM &amp; ECCV 2022 | 美团视觉8篇论文揭秘内容领域的智能科技](https://juejin.cn/post/7167261019142619149) | Fri Nov 18 2022 7:53 AM 
     <details><summary>展开描述 ...</summary> 
-    目录介绍 01.整体概述 1.1 项目背景 1.2 遇到问题 1.3 基础概念 1.4 设计目标 1.5 收益分析 02.Window概念 2.1 Window添加View 2.2 Window的概念 
+    前不久，美团视觉智能部的8篇论文被多媒体和计算机视觉领域顶会ACM MM 与ECCV收录，本文将快速带你了解这8篇论文的研究成果及其可在内容领域的落地应用。 
     </details> 
 
-- 🕯 [UED Landing 页 - 定时抓取掘金文章](https://juejin.cn/post/7167255105257865229) | Fri Nov 18 2022 7:31 AM 
+- 🕯 [美团外卖搜索基于Elasticsearch的优化实践](https://juejin.cn/post/7167260663621320734) | Fri Nov 18 2022 7:52 AM 
     <details><summary>展开描述 ...</summary> 
-    本次分享基于『袋鼠云数栈UED团队』新发布的 UED Landing 页 实践得来，UED Landing 页集合了团队目前所有的基础建设以及精选文章，是团队展现风采的一个地方。 
+    美团外卖搜索工程团队在Elasticsearch的优化实践中，基于Location-Based Service（LBS）业务场景对Elasticsearch的查询性能进行优化。 
     </details> 
 
-- 🚀 [重学Android基础系列篇（五）：Android虚拟机类和对象的结构](https://juejin.cn/post/7167254181395791880) | Fri Nov 18 2022 7:28 AM 
+- 🚀 [JAVA中使用最广泛的本地缓存？Ehcache的自信从何而来 —— 感受来自Ehcache的强大实力](https://juejin.cn/post/7167259989826863112) | Fri Nov 18 2022 7:49 AM 
     <details><summary>展开描述 ...</summary> 
-    本系列文章主要是汇总了一下大佬们的技术文章，属于Android基础部分，作为一名合格的安卓开发工程师，咱们肯定要熟练掌握java和android，本篇介绍Android虚拟机类和对象的结构~ 
+    提到JAVA本地缓存框架，还有一个同样无法被忽视的强大存在 —— Ehcache!其官网直言不讳的将自己称为“JAVA中使用最广泛的缓存”，那么这份自信与实力从何而来？让我们一起解读下。 
     </details> 
 
-- 💪 [如何通过 NFTScan 浏览器捕获 NFT 投资机会](https://juejin.cn/post/7167253424021438478) | Fri Nov 18 2022 7:25 AM 
+- 💪 [手写 Vue2 源码之模板解析成AST语法树](https://juejin.cn/post/7167245010717868046) | Fri Nov 18 2022 6:52 AM 
     <details><summary>展开描述 ...</summary> 
-    以如何监测热门 NFT 项目、及时获取铸造预告、实时了解趋势以及便捷查看 NFT 数据从而获取 NFT 投资机会？ 
+    前言 Vue 源码一直是前端面试必问的题目，熟悉源码能让我们在面试过程中脱颖而出，熟悉源码也能让我们在开发过程中知道整个框架是如何运转的，遇到了问题，我们能第一时间知道是哪里出了问题。 过去的章节，已 
     </details> 
 <!-- juejin:END -->
 ### 少数派
