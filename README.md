@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [如果你的真实姓名 .com 域名未被注册，你会注册并一直续费吗？](https://www.v2ex.com/t/896325#reply11) | Fri Nov 18 2022 2:52 PM
-- 🤗 [群晖 DriveApp 的在线文档编辑功能来了](https://www.v2ex.com/t/896316#reply1) | Fri Nov 18 2022 1:55 PM
-- 🎭 [喜欢原生安卓手机的为什么不尝试一下摩托罗拉。](https://www.v2ex.com/t/896311#reply3) | Fri Nov 18 2022 1:31 PM
-- 🥷 [凹语言、图灵机和 BF 语言](https://www.v2ex.com/t/896306#reply0) | Fri Nov 18 2022 1:20 PM
-- 🐵 [AI 卡的工作原理](https://www.v2ex.com/t/896302#reply4) | Fri Nov 18 2022 1:05 PM<!-- v2ex:END -->
+- 🥸 [Vue 表单问题](https://www.v2ex.com/t/896335#reply7) | Fri Nov 18 2022 3:29 PM
+- 🤗 [如果你的真实姓名 .com 域名未被注册，你会注册并一直续费吗？](https://www.v2ex.com/t/896325#reply26) | Fri Nov 18 2022 2:52 PM
+- 🎭 [群晖 DriveApp 的在线文档编辑功能来了](https://www.v2ex.com/t/896316#reply1) | Fri Nov 18 2022 1:55 PM
+- 🥷 [喜欢原生安卓手机的为什么不尝试一下摩托罗拉。](https://www.v2ex.com/t/896311#reply3) | Fri Nov 18 2022 1:31 PM
+- 🐵 [凹语言、图灵机和 BF 语言](https://www.v2ex.com/t/896306#reply0) | Fri Nov 18 2022 1:20 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
