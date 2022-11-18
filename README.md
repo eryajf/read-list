@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有 Stash for Mac 拼车的老哥或者拼车群吗](https://www.v2ex.com/t/896161#reply0) | Fri Nov 18 2022 3:13 AM
-- 🤗 [有 angular 大神吗， cdk-virtual-scroll-viewport 和 formArray 一起用滚动中间顺序乱了](https://www.v2ex.com/t/896158#reply0) | Fri Nov 18 2022 3:05 AM
-- 🎭 [求推荐一款能本地部署的人事档案管理系统](https://www.v2ex.com/t/896153#reply0) | Fri Nov 18 2022 2:58 AM
-- 🥷 [求解 bash zsh fish 的区别以及会有的影响](https://www.v2ex.com/t/896148#reply6) | Fri Nov 18 2022 2:44 AM
-- 🐵 [寻一个 old school 的 table 组件 &lpar;vue2&rpar;](https://www.v2ex.com/t/896142#reply7) | Fri Nov 18 2022 2:35 AM<!-- v2ex:END -->
+- 🥸 [为什么回送地址那么宽，作用是什么？](https://www.v2ex.com/t/896163#reply5) | Fri Nov 18 2022 3:19 AM
+- 🤗 [有 Stash for Mac 拼车的老哥或者拼车群吗](https://www.v2ex.com/t/896161#reply5) | Fri Nov 18 2022 3:13 AM
+- 🎭 [有 angular 大神吗， cdk-virtual-scroll-viewport 和 formArray 一起用滚动中间顺序乱了](https://www.v2ex.com/t/896158#reply1) | Fri Nov 18 2022 3:05 AM
+- 🥷 [求推荐一款能本地部署的人事档案管理系统](https://www.v2ex.com/t/896153#reply0) | Fri Nov 18 2022 2:58 AM
+- 🐵 [求解 bash zsh fish 的区别以及会有的影响](https://www.v2ex.com/t/896148#reply14) | Fri Nov 18 2022 2:44 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
