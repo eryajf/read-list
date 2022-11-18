@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [brython | 初探鼠标事件-1：点击事件](https://juejin.cn/post/7167024129814560804) | Thu Nov 17 2022 4:35 PM 
+- 🤗 [38、Flutter之布局组件 弹性布局Flex](https://juejin.cn/post/7167149959853277214) | Fri Nov 18 2022 12:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    弹性布局允许子组件按照一定比例来分配父容器空间。弹性布局的概念在其它UI系统中也都存在，如 H5 中的弹性盒子布局，Android中 的FlexboxLayout等。Flutter中的弹性布局主要通过 
+    </details> 
+
+- 🎡 [s56.MYSQL数据库](https://juejin.cn/post/7167126849024163854) | Thu Nov 17 2022 11:13 PM 
+    <details><summary>展开描述 ...</summary> 
+    “ ***本文正在参加[「金石计划 . 瓜分6万现金大奖」]&lpar;https://juejin.cn/p 
+    </details> 
+
+- 🕯 [s55.运维自运化之ANSIBLE&lpar;二&rpar;](https://juejin.cn/post/7167126825133408293) | Thu Nov 17 2022 11:12 PM 
+    <details><summary>展开描述 ...</summary> 
+    2.4实现 mysql 的角色 2.5实现多角色的选择 实现 mysql5.6 的角色 [root@centos8 ansible]# mkdir -pv roles/  
+    </details> 
+
+- 🚀 [brython | 初探鼠标事件-1：点击事件](https://juejin.cn/post/7167024129814560804) | Thu Nov 17 2022 4:35 PM 
     <details><summary>展开描述 ...</summary> 
     前段时间在【码上掘金】看见大佬使用【文言文】写了一个连连看，于是我也想用【brython】也实现一个连连看。 于是乎，你们就看到这篇文章和这个项目了。 https://code.juejin.cn/p 
     </details> 
 
-- 🎡 [关于Json Web Token&lpar;token&rpar;在前后端的实践思考](https://juejin.cn/post/7167013703798226958) | Thu Nov 17 2022 3:54 PM 
+- 💪 [关于Json Web Token&lpar;token&rpar;在前后端的实践思考](https://juejin.cn/post/7167013703798226958) | Thu Nov 17 2022 3:54 PM 
     <details><summary>展开描述 ...</summary> 
     来学习一下Token在前端和后端的简单应用分析，来了解Token的整个过程。最近看了公司后端的代码，主要来看看他们到底是如何实现的JWT，做个记录留着看看 
-    </details> 
-
-- 🕯 [第134期：用vue3结合hooks开发一个可以注册的二次确认弹框](https://juejin.cn/post/7167012292758880287) | Thu Nov 17 2022 3:49 PM 
-    <details><summary>展开描述 ...</summary> 
-    封面图 中午在公司楼顶平台上晒太阳，不知不觉睡着了 背景 上次开发了一个类似popConfirm的二次确认弹框，如下面两个图： 图一 图二 完成开发后，准备集成到项目中时忽然发现无法集成到公司内部的组 
-    </details> 
-
-- 🚀 [【MySQL】MySQL复制原理与主备一致性同步工作原理解析（原理篇）（MySQL专栏启动）](https://juejin.cn/post/7167005471202541605) | Thu Nov 17 2022 3:22 PM 
-    <details><summary>展开描述 ...</summary> 
-    ​ 本文导读 本文基于《MySQL复制与高可用水平扩展架构实战》扩展其复制的原理以及切换一致性问题。还没看基础的读者们请先行了解这篇基础的MySQL复制详解与实战。本文主要对 MySQL 复制原理与主 
-    </details> 
-
-- 💪 [声网深度学习时序编码器的资源预测实践丨Dev for Dev 专栏](https://juejin.cn/post/7167004258833793037) | Thu Nov 17 2022 3:18 PM 
-    <details><summary>展开描述 ...</summary> 
-    随着深度学习技术的发展，编码器的结构在构建神经网络中成为了热门之选，在计算机视觉领域有众多成功案列。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
