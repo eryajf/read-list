@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [详解Native Memory Tracking之追踪区域分析](https://juejin.cn/post/7167189914457473054) | Fri Nov 18 2022 3:17 AM 
+- 🤗 [【uni-app】菜菜的我xie了一个电池电量组件](https://juejin.cn/post/7167200149326954533) | Fri Nov 18 2022 3:57 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 这种组件还是挺少的，所以样式只能说是勉勉强强。 但是客户不管呢，让改第一次看着不行，又改了两次。最后要求这个电量图标非得要跟设计图上的一模一样。 😔 不 
+    </details> 
+
+- 🎡 [891. 子序列宽度之和 : 逐步分析如何求解对展开式的最终贡献](https://juejin.cn/post/7167199316392542222) | Fri Nov 18 2022 3:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    题目描述 这是 LeetCode 上的 891. 子序列宽度之和 ，难度为 困难。 Tag : 「数学」 一个序列的 宽度 定义为该序列中最大元素和最小元素的差值。 给你一个整数数组 nums，返回  
+    </details> 
+
+- 🕯 [沉浸式刷视频，抖音的产品设计妙在何处？](https://juejin.cn/post/7167198453679226910) | Fri Nov 18 2022 3:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    在短视频领域，抖音（TikTok）无疑是全球范围内最热门的短视频平台之一。 “抖音5分钟，人间2小时”用来描述我们对抖音的“上瘾”程度再准确不过了。 人们对抖音“上头”，除了依赖于它的神级算法机制，其 
+    </details> 
+
+- 🚀 [未来的产品经理，需要什么样的原型设计工具？](https://juejin.cn/post/7167197899007197197) | Fri Nov 18 2022 3:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    我和原型工具的往事 作为一只工龄十年的产品汪，我一直在使用原型设计工具——摹客 ，对于摹客可谓耳熟能详。 初次听说，是产品社群里的点赞安利：做移动端，用摹客。 当时正值2015年，移动端热到不行，每个 
+    </details> 
+
+- 💪 [详解Native Memory Tracking之追踪区域分析](https://juejin.cn/post/7167189914457473054) | Fri Nov 18 2022 3:17 AM 
     <details><summary>展开描述 ...</summary> 
     本文分享自华为云社区《【技术剖析】17. Native Memory Tracking 详解（3）追踪区域分析&lpar;二&rpar;》，本篇图文将介绍追踪区域的内存类型以及 NMT 无法追踪的内存。 
-    </details> 
-
-- 🎡 [使用 Elastic 8.5 版构建强大的搜索体验，缩短实现可观测性的时间，并简化安全工作流](https://juejin.cn/post/7167189523065995272) | Fri Nov 18 2022 3:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    作者：Dan Courcy 2022年11月1日 今天，我们很高兴宣布，全球领先的搜索驱动型解决方案平台的最新版 Elastic 8.5 正式全面上线。 Elastic 8.5 版为 Elastic  
-    </details> 
-
-- 🕯 [机器学习模型在云音乐指标异动预测的应用实践](https://juejin.cn/post/7167188942943420423) | Fri Nov 18 2022 3:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    数据指标的异常波动，是一个客观存在且无法避免的问题。云音乐数据仓库团队，通过引入机器学习模型，有效弥补了传统阈值方式发现异动的不足。并联合杭研大数据产品部，在产品化方面做了一定的探索。 
-    </details> 
-
-- 🚀 [什么是Docker？看这一篇干货文章就够了！](https://juejin.cn/post/7167188537287278600) | Fri Nov 18 2022 3:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    什么是Docker？看这一篇干货文章就够了！ 作为程序员我们应怎样理解docker？ 容器技术的起源 假设你们公司正在秘密研发下一个“今日头条”APP，我们姑且称为明日头条，程序员自己从头到尾搭建了一 
-    </details> 
-
-- 💪 [【Java开发常见错误】数值计算精度和舍入问题](https://juejin.cn/post/7167186864871309348) | Fri Nov 18 2022 3:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    今天单独分享数值计算的问题，是因为最近处理一次线上服务告警时，发现还有很多同学不了解浮点数计算的坑。 数值精度问题引发的Bug一般难以发现，所以我们在公司处理这方面的业务时一定要特别注意。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
