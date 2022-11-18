@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [掘金日新计划 ｜ 12月更文挑战来袭，开启掘金成长之旅](https://juejin.cn/post/7167294154827890702) | Fri Nov 18 2022 10:03 AM 
+- 🤗 [关于HTTP，你能侃侃而谈嘛？](https://juejin.cn/post/7167337166274560036) | Fri Nov 18 2022 12:49 PM 
     <details><summary>展开描述 ...</summary> 
-    Hello，掘友们好，「掘金·日新计划」12月更文挑战来了！寒冬袭来，但唯有追求技术与进步的热情不会冷却，磨炼成长的同时还有多重大礼等你来拿，一起加入挑战吧！ 
+    HTTP，超文本传输协议（HyperText Transfer Protocol）。HTTP是用于从万维网服务器传输超文本到本地浏览器的传送协议， 
     </details> 
 
-- 🎡 [GC Roots，safePoint安插点，STW，CMS；Davlik/ART垃圾回收](https://juejin.cn/post/7167290763502911501) | Fri Nov 18 2022 9:49 AM 
+- 🎡 [React 之从 requestIdleCallback 到时间切片](https://juejin.cn/post/7167335700424196127) | Fri Nov 18 2022 12:44 PM 
+    <details><summary>展开描述 ...</summary> 
+    在上篇《React 之 requestIdleCallback 来了解一下》，我们讲解了 requestIdleCallback 这个 API，它可以实现在浏览器空闲的时候执行代码，这就与 React 
+    </details> 
+
+- 🕯 [GC Roots，safePoint安插点，STW，CMS；Davlik/ART垃圾回收](https://juejin.cn/post/7167290763502911501) | Fri Nov 18 2022 9:49 AM 
     <details><summary>展开描述 ...</summary> 
     方法区用于存储已被虚拟机加载的类型信息，常量，静态变量，被即时编译器编译后的代码缓存。 也就是存放类型信息、常量、静态变量、即时编译器编译后的代码缓存、域信息、方法信息等。 方法区中清除垃圾常量和垃圾 
     </details> 
 
-- 🕯 [关于使用原子类css的优缺点](https://juejin.cn/post/7167290166527131684) | Fri Nov 18 2022 9:46 AM 
+- 🚀 [关于使用原子类css的优缺点](https://juejin.cn/post/7167290166527131684) | Fri Nov 18 2022 9:46 AM 
     <details><summary>展开描述 ...</summary> 
     前端开发使用原子类css框架（tailwindcss、windicss、unocss）的优缺点和使用场景 
     </details> 
 
-- 🚀 [文本分类微调技巧实战2.0](https://juejin.cn/post/7167288630942105613) | Fri Nov 18 2022 9:41 AM 
+- 💪 [文本分类微调技巧实战2.0](https://juejin.cn/post/7167288630942105613) | Fri Nov 18 2022 9:41 AM 
     <details><summary>展开描述 ...</summary> 
     讯飞比赛答辩结束，笔者和小伙伴们参加了一些讯飞的比赛，今年讯飞文本分类比赛相比去年更加多元化，涉及领域、任务和数据呈现多样性，听完各位大佬的答辩之后，结合之前经验和以下赛题总结下文本分类比赛的实战思路 
-    </details> 
-
-- 💪 [你了解的事件循环还是微宏任务吗？来看看EventLoop事件循环最新概念&lpar;MessageLoop消息循环&rpar;吧！](https://juejin.cn/post/7167286353795743752) | Fri Nov 18 2022 9:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    浏览器在执行代码时渲染主线程时会先以代码的顺序进行判断，如果是异步任务就会将其放入至指定的队列中，如果是同步任务就会立即执行。当同步任务执行完毕之后，浏览器就会根据队列`（微队列、交互队列、延时队列） 
     </details> 
 <!-- juejin:END -->
 ### 少数派
