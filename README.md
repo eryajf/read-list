@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Canvas 实现文字水印和图片水印合成](https://juejin.cn/post/7167364161461026852) | Fri Nov 18 2022 2:33 PM 
+- 🤗 [实现一个可左右滑动操作的vue3组件](https://juejin.cn/post/7167404574058217479) | Fri Nov 18 2022 5:13 PM 
+    <details><summary>展开描述 ...</summary> 
+    为了实现左右滑动能够切换页面，便有了做成组件的想法。 代码实现 监听touchstart，记录开始位置。 监听touchmove，记录移动的位置，计算移动的方向，再把值设置给translateX（计算 
+    </details> 
+
+- 🎡 [Canvas 实现文字水印和图片水印合成](https://juejin.cn/post/7167364161461026852) | Fri Nov 18 2022 2:33 PM 
     <details><summary>展开描述 ...</summary> 
     给图片添加水印可以帮助网站或作者保护自己的版权，或防止内容被别人利用。给图片添加水印分为添加文字水印和添加图片水印。Canvas 图片水印合成与 Canvas 实现图片压缩 原理基本相同： 
     </details> 
 
-- 🎡 [CSS 的快乐：画一个可爱的三只小鸟 Button](https://juejin.cn/post/7167355169934409758) | Fri Nov 18 2022 1:59 PM 
+- 🕯 [CSS 的快乐：画一个可爱的三只小鸟 Button](https://juejin.cn/post/7167355169934409758) | Fri Nov 18 2022 1:59 PM 
     <details><summary>展开描述 ...</summary> 
     做为前端工程师，最大的快乐之一就是可以用 CSS 画出各种有趣的效果。 比如我最近画的一个 Button： 画的过程中确实很开心，这也是我当时选择做前端的很大一部分原因。 今天我们就一起来画下这个可爱 
     </details> 
 
-- 🕯 [关于HTTP，你能侃侃而谈嘛？](https://juejin.cn/post/7167337166274560036) | Fri Nov 18 2022 12:49 PM 
+- 🚀 [关于HTTP，你能侃侃而谈嘛？](https://juejin.cn/post/7167337166274560036) | Fri Nov 18 2022 12:49 PM 
     <details><summary>展开描述 ...</summary> 
     HTTP，超文本传输协议（HyperText Transfer Protocol）。HTTP是用于从万维网服务器传输超文本到本地浏览器的传送协议， 
     </details> 
 
-- 🚀 [React 之从 requestIdleCallback 到时间切片](https://juejin.cn/post/7167335700424196127) | Fri Nov 18 2022 12:44 PM 
+- 💪 [React 之从 requestIdleCallback 到时间切片](https://juejin.cn/post/7167335700424196127) | Fri Nov 18 2022 12:44 PM 
     <details><summary>展开描述 ...</summary> 
     在上篇《React 之 requestIdleCallback 来了解一下》，我们讲解了 requestIdleCallback 这个 API，它可以实现在浏览器空闲的时候执行代码，这就与 React 
-    </details> 
-
-- 💪 [GC Roots，safePoint安插点，STW，CMS；Davlik/ART垃圾回收](https://juejin.cn/post/7167290763502911501) | Fri Nov 18 2022 9:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    方法区用于存储已被虚拟机加载的类型信息，常量，静态变量，被即时编译器编译后的代码缓存。 也就是存放类型信息、常量、静态变量、即时编译器编译后的代码缓存、域信息、方法信息等。 方法区中清除垃圾常量和垃圾 
     </details> 
 <!-- juejin:END -->
 ### 少数派
