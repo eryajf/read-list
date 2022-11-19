@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [OpenGL教程（五）](https://juejin.cn/post/7167547882373906468) | Sat Nov 19 2022 2:26 AM 
+- 🤗 [1732. 找到最高海拔 : 简单模拟题](https://juejin.cn/post/7167565909555413023) | Sat Nov 19 2022 3:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    题目描述 这是 LeetCode 上的 1732. 找到最高海拔 ，难度为 简单。 Tag : 「模拟」 有一个自行车手打算进行一场公路骑行，这条路线总共由 $n + 1$ 个不同海拔的点组成。自行车 
+    </details> 
+
+- 🎡 [【云原生】k8s 中的 hostNetwork 和 NetworkPolicy（网络策略）讲解与实战操作](https://juejin.cn/post/7167563953956978725) | Sat Nov 19 2022 3:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    一、hostNetwork 介绍 Default： 继承Pod所在宿主机的DNS设置，hostNetwork的默认策略。 ClusterFirst（默认DNS策略）：优先使用kubernetes环境的 
+    </details> 
+
+- 🕯 [OpenGL教程（五）](https://juejin.cn/post/7167547882373906468) | Sat Nov 19 2022 2:26 AM 
     <details><summary>展开描述 ...</summary> 
     前言 正如之前章节所提到的，着色器就是运行在GPU上的小程序，简单来说，着色器就是仅仅是一个将输入数据经过一定转换然后输出的过程，着色器之间是非常独立的，彼此之间除了输入输出之外没有其他交流，这篇文章 
     </details> 
 
-- 🎡 [以太坊协议简介](https://juejin.cn/post/7167547066237845512) | Sat Nov 19 2022 2:24 AM 
+- 🚀 [以太坊协议简介](https://juejin.cn/post/7167547066237845512) | Sat Nov 19 2022 2:24 AM 
     <details><summary>展开描述 ...</summary> 
     什么是 ERC？ ERC 代表以太坊征求意见。ERC 是一份主协议，概述了所有 ETH 开发人员在创建代币和智能合约时参考和遵循的标准。有助于区分在 ETH 区块链上做不同事情的硬币的标准，并使编写代 
     </details> 
 
-- 🕯 [l2.计算机硬件与组成原理基础&lpar;二&rpar;](https://juejin.cn/post/7167545754502823949) | Sat Nov 19 2022 2:18 AM 
+- 💪 [l2.计算机硬件与组成原理基础&lpar;二&rpar;](https://juejin.cn/post/7167545754502823949) | Sat Nov 19 2022 2:18 AM 
     <details><summary>展开描述 ...</summary> 
     “ 本文正在参加「金石计划 . 瓜分6万现金大奖」 ” 0.5.5 Raid卡（阵列卡） 当企业网站（业务）数据量很大的时候，单块盘装不下了的时候，若购买多块盘存放数据，就需要利用工具（Raid）把所 
-    </details> 
-
-- 🚀 [l1.计算机硬件与组成原理基础&lpar;一&rpar;](https://juejin.cn/post/7167545731991994381) | Sat Nov 19 2022 2:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    0.1 计算机硬件分类 0.1.1 家用台式电脑介绍 家用电脑，顾名思义，就是专为普通家庭用户所涉及制造的微型计算机，和其他微型计算机，比如商用电脑相比，在硬件结构和系统、软件结构上，基本无异，主要功 
-    </details> 
-
-- 💪 [OC对象的本质之：OC的内存对齐](https://juejin.cn/post/7167544186227392543) | Sat Nov 19 2022 2:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    在我们日常开发中使用的类一般都是继承于NSObject，那么这些类它们所需的内存大小又是如何计算的呢？ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
