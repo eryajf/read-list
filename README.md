@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [不就是一个空白页，有必要那么讲究吗？](https://juejin.cn/post/7167677383628521509) | Sat Nov 19 2022 10:49 AM 
+- 🤗 [MicroBlocks 编程案例: 正中靶心！](https://juejin.cn/post/7167689915721859102) | Sat Nov 19 2022 11:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    硬核接管你的玩具！ 从猜想、探索、实验到做出预期的项目，我们前后只花了 1 小时不到，中间有遇到困难，但没有迈不过的。我将这视为: 精心设计的创作平台增强用户心智和能力的一个例子。 
+    </details> 
+
+- 🎡 [不就是一个空白页，有必要那么讲究吗？](https://juejin.cn/post/7167677383628521509) | Sat Nov 19 2022 10:49 AM 
     <details><summary>展开描述 ...</summary> 
     人对于空白状态都是有点畏惧的。开发出好的体验的空页面就是需要给用户合理的解释和必要的引导，让空页面不那么空！ 
     </details> 
 
-- 🎡 [比较图形化硬件编程平台](https://juejin.cn/post/7167674458415579143) | Sat Nov 19 2022 10:37 AM 
+- 🕯 [比较图形化硬件编程平台](https://juejin.cn/post/7167674458415579143) | Sat Nov 19 2022 10:37 AM 
     <details><summary>展开描述 ...</summary> 
     在图形化硬件编程领域，出色的项目极少，上一个值得被批评的项目是微软的 MakeCode，迄今为止，真正做到出色的项目只有 MicroBlocks 
     </details> 
 
-- 🕯 [从浏览器地址栏输入url到页面展示都发生了啥？](https://juejin.cn/post/7167673894269599752) | Sat Nov 19 2022 10:35 AM 
+- 🚀 [从浏览器地址栏输入url到页面展示都发生了啥？](https://juejin.cn/post/7167673894269599752) | Sat Nov 19 2022 10:35 AM 
     <details><summary>展开描述 ...</summary> 
     从浏览器地址栏输入url到页面展示，主要是拿到资源，然后在浏览器这个工厂中将拿到的资源进行加工处理，最后呈现出完成的产品，也就是用户浏览到的页面。 
     </details> 
 
-- 🚀 [Swift &amp;&amp; LeetCode 初级算法之数组（上）](https://juejin.cn/post/7167672774922600455) | Sat Nov 19 2022 10:31 AM 
+- 💪 [Swift &amp;&amp; LeetCode 初级算法之数组（上）](https://juejin.cn/post/7167672774922600455) | Sat Nov 19 2022 10:31 AM 
     <details><summary>展开描述 ...</summary> 
     前言：最近自己也开始系统的刷面试题了，算法是过不去的坎，希望自己能够坚持下去✊，同行的朋友们共勉。# 题一：删除排序数组中的重复项 
-    </details> 
-
-- 💪 [Kubernetes安全之Open Policy Agent](https://juejin.cn/post/7167652300066914334) | Sat Nov 19 2022 9:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    一 前言 无论是在业务开发还是在业务直接的访问，很多时候，Policy 的实现都与具体的服务耦合在一起，这导致 Policy 很难被单独抽象描述和灵活变更（比如动态加载新的规则）。而且，不同的服务对  
     </details> 
 <!-- juejin:END -->
 ### 少数派
