@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Ant Design 5.0 正式发布了，你要升级吗](https://juejin.cn/post/7167635563904761887) | Sat Nov 19 2022 8:07 AM 
+- 🤗 [kubernetes安全之Polaris](https://juejin.cn/post/7167651540524597262) | Sat Nov 19 2022 9:10 AM 
     <details><summary>展开描述 ...</summary> 
-    antd正式发布了5.0版本，笔者是antd重度用户，公司的B端业务组件就是基于antd定制开发的，在5.0发布之前，也在一直在关注beta版本，让我们一起看看5.0在技术上引入了什么新的变化吧 
+    一 polaris简介 Fairwinds&#39; Polaris 让您的集群顺利航行。它运行各种检查以确保使用最佳实践配置 Kubernetes pod 和控制器，从而帮助您避免将来出现问题。 Polar 
     </details> 
 
-- 🎡 [LeetCode 题解：897. 递增顺序搜索树，栈，JavaScript，详细注释](https://juejin.cn/post/7167627814215090206) | Sat Nov 19 2022 7:38 AM 
+- 🎡 [区间dp](https://juejin.cn/post/7167650145574600734) | Sat Nov 19 2022 9:04 AM 
     <details><summary>展开描述 ...</summary> 
-    1. 由于二叉搜索树是有序的，任意两个节点之差的最小值，即为相邻节点的值之差的最小值。 2. 使用中序遍历二叉搜索树，即可从左到右按顺序读取每个值，再计算与上一个节点值的之差，同时取最小值即可。 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 三角形数字 因为f[i][j]是要求的那个，所以我们要求出它的状态方程 f[i][j]=max&lpar;f[i-1][j-1]+a[i][j],f[i-1][j 
     </details> 
 
-- 🕯 [SpringBoot项目实现发布订阅模式，真的很简单！](https://juejin.cn/post/7167618169312378916) | Sat Nov 19 2022 7:00 AM 
+- 🕯 [Kubernetes安全之NPD&lpar;node-problem-detector&rpar;](https://juejin.cn/post/7167648867482075173) | Sat Nov 19 2022 8:58 AM 
     <details><summary>展开描述 ...</summary> 
-    SpringBoot项目实现发布订阅模式，非核心业务流程解耦，异步降低RT，实现起来，真的很简单！快来看看吧！ 
+    一 前言 在云原生时代，有大量的节点问题可能会影响节点上运行的 pod，例如： 基础设施守护进程问题：ntp 服务关闭； 硬件问题：CPU、内存或磁盘损坏； 内核问题：内核死锁、文件系统损坏； 容器运 
     </details> 
 
-- 🚀 [仿照navicat整一个mongo数据库查询web工具](https://juejin.cn/post/7167608732568780830) | Sat Nov 19 2022 6:23 AM 
+- 🚀 [C++模板进阶](https://juejin.cn/post/7167647964427452423) | Sat Nov 19 2022 8:55 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 我个人比较不喜欢Mongo的语法，反而比较喜欢SQL语法（可能是先入为主吧，毕竟先学习SQL），所以就想着，是否有个工具可以通过写SQL去查询Mongo，很遗憾的是并没有找到好一些的工具（Stu 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 非类型模板参数 非类型的模板参数就是：这个模板的形参是一个常量。 模板特化 先回答第一个问题，什么是模板特化——在原先已有模板的情况下，将参数T写成具体 
     </details> 
 
-- 💪 [我这样实现Promise](https://juejin.cn/post/7167596536053334052) | Sat Nov 19 2022 5:36 AM 
+- 💪 [React Native ｜ 创建IOS原生模块](https://juejin.cn/post/7167647075801235487) | Sat Nov 19 2022 8:54 AM 
     <details><summary>展开描述 ...</summary> 
-    一、剖析Promise的基础框架 要实现Promise原理，肯定得先明白其原理。Promsie的基础框架如下： 二、实现Promsie中两个类型为函数的 
+    简单使用 1.创建模块文件 首先用XCode打开我们的项目，然后选中project-&gt; 右击选择&quot;new file&quot;，然后根据下图建立class： 2.RNHello.m 3.RNHello.h 4. 
     </details> 
 <!-- juejin:END -->
 ### 少数派
