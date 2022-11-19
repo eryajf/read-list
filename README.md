@@ -365,10 +365,10 @@
 
 <!-- v2ex:START -->
 - 🥸 [测速频道推荐](https://www.v2ex.com/t/896473#reply0) | Sat Nov 19 2022 11:57 AM
-- 🤗 [想问一道 Java 面试题，关于数据处理](https://www.v2ex.com/t/896472#reply1) | Sat Nov 19 2022 11:57 AM
-- 🎭 [新人程序员如何选择职业方向？（前端/后端）求指点](https://www.v2ex.com/t/896460#reply1) | Sat Nov 19 2022 10:44 AM
-- 🥷 [求一份 lua 入门教程](https://www.v2ex.com/t/896453#reply5) | Sat Nov 19 2022 10:08 AM
-- 🐵 [索尼 Xperia 1 III 换到 Moto X30 Pro 的使用感受记录](https://www.v2ex.com/t/896439#reply9) | Sat Nov 19 2022 7:46 AM<!-- v2ex:END -->
+- 🤗 [想问一道 Java 面试题，关于数据处理](https://www.v2ex.com/t/896472#reply2) | Sat Nov 19 2022 11:57 AM
+- 🎭 [新人程序员如何选择职业方向？（前端/后端）求指点](https://www.v2ex.com/t/896460#reply2) | Sat Nov 19 2022 10:44 AM
+- 🥷 [求一份 lua 入门教程](https://www.v2ex.com/t/896453#reply7) | Sat Nov 19 2022 10:08 AM
+- 🐵 [索尼 Xperia 1 III 换到 Moto X30 Pro 的使用感受记录](https://www.v2ex.com/t/896439#reply11) | Sat Nov 19 2022 7:46 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
