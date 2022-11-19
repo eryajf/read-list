@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [[React 的 onclick 事件函数中:执行语句外面包了一层 setTimeout&lpar;&lpar;...&rpar;, 0&rpar;是啥意思? 谢谢]](https://www.v2ex.com/t/896510#reply5) | Sat Nov 19 2022 7:16 PM
-- 🤗 [刚更新了 win11，难顶](https://www.v2ex.com/t/896506#reply3) | Sat Nov 19 2022 4:10 PM
-- 🎭 [宿主机固态硬盘与 hyper-v 虚拟机相比， 4k 读写速度相差很大](https://www.v2ex.com/t/896498#reply4) | Sat Nov 19 2022 3:06 PM
-- 🥷 [分享一个用于高效管理多个 gitlab golang 项目通用 CI/CD 的轻量级开源框架](https://www.v2ex.com/t/896493#reply1) | Sat Nov 19 2022 2:39 PM
-- 🐵 [[自学 Java 后端, 请推荐教训视频和书籍, 最好配笔记的那种, 谢谢]](https://www.v2ex.com/t/896491#reply3) | Sat Nov 19 2022 2:29 PM<!-- v2ex:END -->
+- 🥸 [&lpar;&rpar; =&gt; X vs &lpar;&rpar; =&gt; { return X }](https://www.v2ex.com/t/896514#reply0) | Sat Nov 19 2022 11:06 PM
+- 🤗 [[React 的 onclick 事件函数中:执行语句外面包了一层 setTimeout&lpar;&lpar;...&rpar;, 0&rpar;是啥意思? 谢谢]](https://www.v2ex.com/t/896510#reply5) | Sat Nov 19 2022 7:16 PM
+- 🎭 [刚更新了 win11，难顶](https://www.v2ex.com/t/896506#reply3) | Sat Nov 19 2022 4:10 PM
+- 🥷 [宿主机固态硬盘与 hyper-v 虚拟机相比， 4k 读写速度相差很大](https://www.v2ex.com/t/896498#reply4) | Sat Nov 19 2022 3:06 PM
+- 🐵 [分享一个用于高效管理多个 gitlab golang 项目通用 CI/CD 的轻量级开源框架](https://www.v2ex.com/t/896493#reply1) | Sat Nov 19 2022 2:39 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
