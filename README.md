@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [多渠道打包配置和打包脚本修改](https://juejin.cn/post/7167576554816405512) | Sat Nov 19 2022 4:18 AM 
+- 🤗 [我这样实现Promise](https://juejin.cn/post/7167596536053334052) | Sat Nov 19 2022 5:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    一、剖析Promise的基础框架 要实现Promise原理，肯定得先明白其原理。Promsie的基础框架如下： 二、实现Promsie中两个类型为函数的 
+    </details> 
+
+- 🎡 [多渠道打包配置和打包脚本修改](https://juejin.cn/post/7167576554816405512) | Sat Nov 19 2022 4:18 AM 
     <details><summary>展开描述 ...</summary> 
     本文主要介绍 Android 多渠道打包的一些配置方式和技巧，以及开源打包脚本的一些特性的更新说明。 
     </details> 
 
-- 🎡 [Python冷知识：如何找出新版本增加或删除了哪些标准库？](https://juejin.cn/post/7167566593554120741) | Sat Nov 19 2022 3:40 AM 
+- 🕯 [Python冷知识：如何找出新版本增加或删除了哪些标准库？](https://juejin.cn/post/7167566593554120741) | Sat Nov 19 2022 3:40 AM 
     <details><summary>展开描述 ...</summary> 
     “内置电池”是 Python 最为显著的特性之一，它提供了 200 多个开箱即用的标准库。但是，历经了 30 多年的发展，很多标准库已经成为了不得不舍弃的历史包袱，因为它们正在“漏电”！ 好消息是，P 
     </details> 
 
-- 🕯 [1732. 找到最高海拔 : 简单模拟题](https://juejin.cn/post/7167565909555413023) | Sat Nov 19 2022 3:36 AM 
+- 🚀 [1732. 找到最高海拔 : 简单模拟题](https://juejin.cn/post/7167565909555413023) | Sat Nov 19 2022 3:36 AM 
     <details><summary>展开描述 ...</summary> 
     题目描述 这是 LeetCode 上的 1732. 找到最高海拔 ，难度为 简单。 Tag : 「模拟」 有一个自行车手打算进行一场公路骑行，这条路线总共由 $n + 1$ 个不同海拔的点组成。自行车 
     </details> 
 
-- 🚀 [【云原生】k8s 中的 hostNetwork 和 NetworkPolicy（网络策略）讲解与实战操作](https://juejin.cn/post/7167563953956978725) | Sat Nov 19 2022 3:29 AM 
+- 💪 [【云原生】k8s 中的 hostNetwork 和 NetworkPolicy（网络策略）讲解与实战操作](https://juejin.cn/post/7167563953956978725) | Sat Nov 19 2022 3:29 AM 
     <details><summary>展开描述 ...</summary> 
     一、hostNetwork 介绍 Default： 继承Pod所在宿主机的DNS设置，hostNetwork的默认策略。 ClusterFirst（默认DNS策略）：优先使用kubernetes环境的 
-    </details> 
-
-- 💪 [OpenGL教程（五）](https://juejin.cn/post/7167547882373906468) | Sat Nov 19 2022 2:26 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 正如之前章节所提到的，着色器就是运行在GPU上的小程序，简单来说，着色器就是仅仅是一个将输入数据经过一定转换然后输出的过程，着色器之间是非常独立的，彼此之间除了输入输出之外没有其他交流，这篇文章 
     </details> 
 <!-- juejin:END -->
 ### 少数派
