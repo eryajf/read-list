@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Kubernetes安全之Open Policy Agent](https://juejin.cn/post/7167652300066914334) | Sat Nov 19 2022 9:12 AM 
+- 🤗 [不就是一个空白页，有必要那么讲究吗？](https://juejin.cn/post/7167677383628521509) | Sat Nov 19 2022 10:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    人对于空白状态都是有点畏惧的。开发出好的体验的空页面就是需要给用户合理的解释和必要的引导，让空页面不那么空！ 
+    </details> 
+
+- 🎡 [比较图形化硬件编程平台](https://juejin.cn/post/7167674458415579143) | Sat Nov 19 2022 10:37 AM 
+    <details><summary>展开描述 ...</summary> 
+    在图形化硬件编程领域，出色的项目极少，上一个值得被批评的项目是微软的 MakeCode，迄今为止，真正做到出色的项目只有 MicroBlocks 
+    </details> 
+
+- 🕯 [从浏览器地址栏输入url到页面展示都发生了啥？](https://juejin.cn/post/7167673894269599752) | Sat Nov 19 2022 10:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    从浏览器地址栏输入url到页面展示，主要是拿到资源，然后在浏览器这个工厂中将拿到的资源进行加工处理，最后呈现出完成的产品，也就是用户浏览到的页面。 
+    </details> 
+
+- 🚀 [Swift &amp;&amp; LeetCode 初级算法之数组（上）](https://juejin.cn/post/7167672774922600455) | Sat Nov 19 2022 10:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言：最近自己也开始系统的刷面试题了，算法是过不去的坎，希望自己能够坚持下去✊，同行的朋友们共勉。# 题一：删除排序数组中的重复项 
+    </details> 
+
+- 💪 [Kubernetes安全之Open Policy Agent](https://juejin.cn/post/7167652300066914334) | Sat Nov 19 2022 9:12 AM 
     <details><summary>展开描述 ...</summary> 
     一 前言 无论是在业务开发还是在业务直接的访问，很多时候，Policy 的实现都与具体的服务耦合在一起，这导致 Policy 很难被单独抽象描述和灵活变更（比如动态加载新的规则）。而且，不同的服务对  
-    </details> 
-
-- 🎡 [kubernetes安全之Polaris](https://juejin.cn/post/7167651540524597262) | Sat Nov 19 2022 9:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    一 polaris简介 Fairwinds&#39; Polaris 让您的集群顺利航行。它运行各种检查以确保使用最佳实践配置 Kubernetes pod 和控制器，从而帮助您避免将来出现问题。 Polar 
-    </details> 
-
-- 🕯 [区间dp](https://juejin.cn/post/7167650145574600734) | Sat Nov 19 2022 9:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 三角形数字 因为f[i][j]是要求的那个，所以我们要求出它的状态方程 f[i][j]=max&lpar;f[i-1][j-1]+a[i][j],f[i-1][j 
-    </details> 
-
-- 🚀 [Kubernetes安全之NPD&lpar;node-problem-detector&rpar;](https://juejin.cn/post/7167648867482075173) | Sat Nov 19 2022 8:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    一 前言 在云原生时代，有大量的节点问题可能会影响节点上运行的 pod，例如： 基础设施守护进程问题：ntp 服务关闭； 硬件问题：CPU、内存或磁盘损坏； 内核问题：内核死锁、文件系统损坏； 容器运 
-    </details> 
-
-- 💪 [C++模板进阶](https://juejin.cn/post/7167647964427452423) | Sat Nov 19 2022 8:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 非类型模板参数 非类型的模板参数就是：这个模板的形参是一个常量。 模板特化 先回答第一个问题，什么是模板特化——在原先已有模板的情况下，将参数T写成具体 
     </details> 
 <!-- juejin:END -->
 ### 少数派
