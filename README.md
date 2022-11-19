@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [杂谈：数组index问题和对象key问题](https://juejin.cn/post/7167712433853693966) | Sat Nov 19 2022 1:06 PM 
+- 🤗 [开发H5都会喜欢这个Vite插件](https://juejin.cn/post/7167725818125221918) | Sat Nov 19 2022 1:57 PM 
+    <details><summary>展开描述 ...</summary> 
+    在开发小程序的时候经常会通过手机扫描小程序开发工具生成的二维码来快速在手机上打开正在开发的小程序进行功能调试，但是在H5开发时却还是通过聊天软件来粘贴地址，费时费力，所以我将编写一个Vite插件来支持 
+    </details> 
+
+- 🎡 [Kubernetes（k8s）CNI（Calico）网络模型原理](https://juejin.cn/post/7167724072443314190) | Sat Nov 19 2022 1:50 PM 
+    <details><summary>展开描述 ...</summary> 
+    一、概述 GitHub地址： https://github.com/projectcalico/calico 官方文档：https://projectcalico.docs.tigera.io/abo 
+    </details> 
+
+- 🕯 [❤️❤️包教包会——Cookie、Session、Token、JWT](https://juejin.cn/post/7167718864447340558) | Sat Nov 19 2022 1:30 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 最近在做一个登陆注册的功能，这个功能要用到JWT鉴权。提到鉴权又想到自己直接学的Cookie，Session，Token。就想干脆也用一篇文章小小的概括一下。 😋😋 用文章输出这种方式来记录学习 
+    </details> 
+
+- 🚀 [杂谈：数组index问题和对象key问题](https://juejin.cn/post/7167712433853693966) | Sat Nov 19 2022 1:06 PM 
     <details><summary>展开描述 ...</summary> 
     对象的下标如果不是字符串，会将其先转换成字符串，再去求值。数组的下标如果不是数字，先将其尝试转成数字去取值；如果转不成数字，则会利用数组也是对象的特点，将其转换成字符串，再去取值。 
     </details> 
 
-- 🎡 [数据仓库实战教程](https://juejin.cn/post/7167710526166794270) | Sat Nov 19 2022 12:58 PM 
+- 💪 [数据仓库实战教程](https://juejin.cn/post/7167710526166794270) | Sat Nov 19 2022 12:58 PM 
     <details><summary>展开描述 ...</summary> 
     数据仓库实战教程 数据仓库已经是企业的数据竞争的核心了，学好数据仓库对提高自己和找到一份好的工作都至关重要，但是很多人对数仓的印象还是停留在写SQL的层面,其实今天的数仓更像是一个数据平台应用,我们学 
-    </details> 
-
-- 🕯 [代码规范-对抗软件复杂度](https://juejin.cn/post/7167707693333872647) | Sat Nov 19 2022 12:48 PM 
-    <details><summary>展开描述 ...</summary> 
-    任何系统性的项目都需要架构设计，而架构设计的核心命题是控制复杂度。 但随着项目的不断迭代，复杂度就会不断上升，研发效率就会不断下降。 而代码规范正是对抗软件复杂度的有效手段。 
-    </details> 
-
-- 🚀 [MicroBlocks 编程案例: sonoff 智能插座](https://juejin.cn/post/7167705496156110856) | Sat Nov 19 2022 12:39 PM 
-    <details><summary>展开描述 ...</summary> 
-    市面上的许多智能设备都搭载了 ESP32 系列微控制器，由于 microblocks 支持 ESP32&lpar;esp32 devkit-v1&rpar; 和 ESP8266&lpar;NodeMCU&rpar;, 想用 microblo 
-    </details> 
-
-- 💪 [Antd5一出，治好了我组件库选择内耗，我直接搭配React18+Vite+Ts做了一个管理后台（1）](https://juejin.cn/post/7167701003976835102) | Sat Nov 19 2022 12:21 PM 
-    <details><summary>展开描述 ...</summary> 
-    Antd5最最最吸引我的点 Antd5 官网 又好用，又能好看。 没有Antd5之前，我是选Mui的。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
