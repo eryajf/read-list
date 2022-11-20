@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [SQL 思维训练四](https://juejin.cn/post/7168099604540424200) | Sun Nov 20 2022 2:07 PM 
+- 🤗 [如果把网络原理倒过来看，从无到有，一切如此清晰（中）](https://juejin.cn/post/7168111975879311397) | Sun Nov 20 2022 2:56 PM 
     <details><summary>展开描述 ...</summary> 
-    通过思路解析 分析SQL书写 拆分逻辑 简单易懂 跟着学习 等系列更新完 SQL编写能力 和 SQL思维都会有提升 欢迎关注专栏 如果有更简单的接替方法 可以发在评论区会补充完善 创建表 如果已 
+    计算机网络是怎么连接更多人，以及怎么样容纳这么多人？ 最后又是怎么样用更低的成本，更快的彼此通信的？ 
     </details> 
 
-- 🎡 [Android IO 框架 Okio 的实现原理，如何检测超时？](https://juejin.cn/post/7168097359807971342) | Sun Nov 20 2022 1:59 PM 
+- 🎡 [Java中Callable和Future](https://juejin.cn/post/7168111807515754527) | Sun Nov 20 2022 2:55 PM 
     <details><summary>展开描述 ...</summary> 
-    在上一篇文章里，我们聊到了 Okio 的三个优势：精简且全面的 API、基于共享的缓冲区设计以及超时机制。前两个优势已经分析过了，今天我们来分析 Okio 的超时检测机制。 
+    在java中有两种创建线程的方法：一种是继承Thread类，重写run方法，第二种是使用Runnable创建一个线程。后续又出现了Callable，又有什么用呢？ 
     </details> 
 
-- 🕯 [数据仓库实战教程](https://juejin.cn/post/7168096066242347016) | Sun Nov 20 2022 1:54 PM 
+- 🕯 [TypeScript学习笔记-类型推论和类型断言](https://juejin.cn/post/7168110288623894535) | Sun Nov 20 2022 2:49 PM 
     <details><summary>展开描述 ...</summary> 
-    数据仓库实战教程 数据仓库已经是企业的数据竞争的核心了，学好数据仓库对提高自己和找到一份好的工作都至关重要，但是很多人对数仓的印象还是停留在写SQL的层面,其实今天的数仓更像是一个数据平台应用,我们学 
+    类型推论，顾名思义就是指类型在哪里如何被推断。在TS语法中，如果有些没地方有明确指出类型，类型推论就会帮助提供类型，即声明变量时，不赋给类 
     </details> 
 
-- 🚀 [使用 &lt;dialog&gt; 元素和 Popup API 自定义对话框](https://juejin.cn/post/7168087251090407460) | Sun Nov 20 2022 1:20 PM 
+- 🚀 [🎊🎊🎊深入 ServiceWorker，消息推送，后台同步，一网打尽！](https://juejin.cn/post/7168107934046486541) | Sun Nov 20 2022 2:39 PM 
     <details><summary>展开描述 ...</summary> 
-    Popup API 提供了比 &lt;dialog&gt; 更简单的方式来定义弹框：通过在 HTML 元素上定义 popup 属性即可实现将任意元素（除了 template 模板元素）包装为一个弹框，并且将默认地 
+    上一章讲到了ServiceWorker的基础使用，但是它的功能不仅仅只有这些，还有很多很多，比如消息推送，后台同步，甚至还有WebRTC，这一章我们来进阶ServiceWorker。 
     </details> 
 
-- 💪 [Android 逆向系列（二）：Android APK 代码混淆](https://juejin.cn/post/7168086915445424136) | Sun Nov 20 2022 1:18 PM 
+- 💪 [适合编程初学者的开源博客系统（Go语言版）](https://juejin.cn/post/7168104586006233125) | Sun Nov 20 2022 2:27 PM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 前言 很高兴遇见你~ 在本系列的上一篇文章中，我们讲了： 还没有看过上一篇的朋友，建议先去阅读Android 逆向系列（一）：反编译 APK 技术完全解 
+    目标 为编程初学者打造入门学习项目，使用各种主流编程语言来实现。让想学编程的，一个都不落下。 上述基本涵盖了当前编程开发所有主流语言（我这里说的主流，直白点讲就是互联网公司都在用的）。 左侧为前端版本 
     </details> 
 <!-- juejin:END -->
 ### 少数派
