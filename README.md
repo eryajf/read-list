@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [vue3封装轮播图组件](https://juejin.cn/post/7168084746026057758) | Sun Nov 20 2022 1:10 PM 
+- 🤗 [SQL 思维训练四](https://juejin.cn/post/7168099604540424200) | Sun Nov 20 2022 2:07 PM 
     <details><summary>展开描述 ...</summary> 
-    ## 组件传值 封装组件可以通过父子组件传值,插槽传值,实现数据传递 ## 轮播图实现无限滚动 我们需要在图片到达临界时对index进行处理,实现图片首尾衔接 - 当index小于零时,把inde 
+    通过思路解析 分析SQL书写 拆分逻辑 简单易懂 跟着学习 等系列更新完 SQL编写能力 和 SQL思维都会有提升 欢迎关注专栏 如果有更简单的接替方法 可以发在评论区会补充完善 创建表 如果已 
     </details> 
 
-- 🎡 [云原生架构的定义和原则](https://juejin.cn/post/7168079488851378184) | Sun Nov 20 2022 12:50 PM 
+- 🎡 [Android IO 框架 Okio 的实现原理，如何检测超时？](https://juejin.cn/post/7168097359807971342) | Sun Nov 20 2022 1:59 PM 
     <details><summary>展开描述 ...</summary> 
-    云原生架构的构建和演进都是围绕云计算的核心价值（弹性、自动化、韧性）进行的，必然在实践中有一定的规律可循，来一起看下行业内典型的架构原则 
+    在上一篇文章里，我们聊到了 Okio 的三个优势：精简且全面的 API、基于共享的缓冲区设计以及超时机制。前两个优势已经分析过了，今天我们来分析 Okio 的超时检测机制。 
     </details> 
 
-- 🕯 [SQL思维训练三 思路拆分解析](https://juejin.cn/post/7168076295568687140) | Sun Nov 20 2022 12:37 PM 
+- 🕯 [数据仓库实战教程](https://juejin.cn/post/7168096066242347016) | Sun Nov 20 2022 1:54 PM 
     <details><summary>展开描述 ...</summary> 
-    通过思路解析 分析SQL书写 拆分逻辑 简单易懂 跟着学习 等系列更新完 SQL编写能力 和 SQL思维都会有提升 欢迎关注专栏 如果有更简单的接替方法 可以发在评论区会补充完善 
+    数据仓库实战教程 数据仓库已经是企业的数据竞争的核心了，学好数据仓库对提高自己和找到一份好的工作都至关重要，但是很多人对数仓的印象还是停留在写SQL的层面,其实今天的数仓更像是一个数据平台应用,我们学 
     </details> 
 
-- 🚀 [NSNotificationCenter面试题简单整理](https://juejin.cn/post/7168056608952418317) | Sun Nov 20 2022 11:21 AM 
+- 🚀 [使用 &lt;dialog&gt; 元素和 Popup API 自定义对话框](https://juejin.cn/post/7168087251090407460) | Sun Nov 20 2022 1:20 PM 
     <details><summary>展开描述 ...</summary> 
-    ​ 面试题： 一、NSNotificationCenter 和 delegate 的区别 是使用 观察者模式 来实现的用于跨层传递消息的机制 （无需代理，双方无需建立关系） KVO也是观察者模式 
+    Popup API 提供了比 &lt;dialog&gt; 更简单的方式来定义弹框：通过在 HTML 元素上定义 popup 属性即可实现将任意元素（除了 template 模板元素）包装为一个弹框，并且将默认地 
     </details> 
 
-- 💪 [前端接口调试利器之apifox](https://juejin.cn/post/7168051090779291684) | Sun Nov 20 2022 10:59 AM 
+- 💪 [Android 逆向系列（二）：Android APK 代码混淆](https://juejin.cn/post/7168086915445424136) | Sun Nov 20 2022 1:18 PM 
     <details><summary>展开描述 ...</summary> 
-    本文受apifox邀请写的文章，同时也因软件的体验确实不错而写，并未收任何推广费。 初遇apifox 我是一名一线城市的前端开发人员———天平，之前一直都是使用postman来做接口调试的，但是pos 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 前言 很高兴遇见你~ 在本系列的上一篇文章中，我们讲了： 还没有看过上一篇的朋友，建议先去阅读Android 逆向系列（一）：反编译 APK 技术完全解 
     </details> 
 <!-- juejin:END -->
 ### 少数派
