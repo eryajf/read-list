@@ -367,8 +367,8 @@
 - 🥸 [一个帮助合并 state 的自定义 hook` 大家看看有啥问题·](https://www.v2ex.com/t/896645#reply4) | Sun Nov 20 2022 1:04 PM
 - 🤗 [macos12 编译 openjdk8 &#39;JavaVM/jni.h&#39; file not found](https://www.v2ex.com/t/896636#reply0) | Sun Nov 20 2022 12:42 PM
 - 🎭 [Edge 浏览器稳定性是真的不行](https://www.v2ex.com/t/896614#reply23) | Sun Nov 20 2022 10:49 AM
-- 🥷 [提高手机安全性的想法](https://www.v2ex.com/t/896613#reply16) | Sun Nov 20 2022 10:43 AM
-- 🐵 [客户端 app 闪退有什么告警机制](https://www.v2ex.com/t/896606#reply10) | Sun Nov 20 2022 10:05 AM<!-- v2ex:END -->
+- 🥷 [提高手机安全性的想法](https://www.v2ex.com/t/896613#reply18) | Sun Nov 20 2022 10:43 AM
+- 🐵 [客户端 app 闪退有什么告警机制](https://www.v2ex.com/t/896606#reply11) | Sun Nov 20 2022 10:05 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
