@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [目前的远程工作, 什么技术方向岗位比较多?](https://www.v2ex.com/t/896516#reply10) | Sun Nov 20 2022 12:10 AM
-- 🤗 [&lpar;&rpar; =&gt; X vs &lpar;&rpar; =&gt; { return X }](https://www.v2ex.com/t/896514#reply8) | Sat Nov 19 2022 11:06 PM
-- 🎭 [[React 的 onclick 事件函数中:执行语句外面包了一层 setTimeout&lpar;&lpar;...&rpar;, 0&rpar;是啥意思? 谢谢]](https://www.v2ex.com/t/896510#reply6) | Sat Nov 19 2022 7:16 PM
-- 🥷 [刚更新了 win11，难顶](https://www.v2ex.com/t/896506#reply9) | Sat Nov 19 2022 4:10 PM
-- 🐵 [宿主机固态硬盘与 hyper-v 虚拟机相比， 4k 读写速度相差很大](https://www.v2ex.com/t/896498#reply4) | Sat Nov 19 2022 3:06 PM<!-- v2ex:END -->
+- 🥸 [想入个 Steam Deck，求打醒。](https://www.v2ex.com/t/896537#reply8) | Sun Nov 20 2022 3:38 AM
+- 🤗 [目前的远程工作, 什么技术方向岗位比较多?](https://www.v2ex.com/t/896516#reply12) | Sun Nov 20 2022 12:10 AM
+- 🎭 [&lpar;&rpar; =&gt; X vs &lpar;&rpar; =&gt; { return X }](https://www.v2ex.com/t/896514#reply9) | Sat Nov 19 2022 11:06 PM
+- 🥷 [[React 的 onclick 事件函数中:执行语句外面包了一层 setTimeout&lpar;&lpar;...&rpar;, 0&rpar;是啥意思? 谢谢]](https://www.v2ex.com/t/896510#reply7) | Sat Nov 19 2022 7:16 PM
+- 🐵 [刚更新了 win11，难顶](https://www.v2ex.com/t/896506#reply9) | Sat Nov 19 2022 4:10 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
