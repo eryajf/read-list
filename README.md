@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一看就懂的OpenGL ES教程——仿抖音滤镜的各种奇技淫巧（一）](https://juejin.cn/post/7168042219163779108) | Sun Nov 20 2022 10:25 AM 
+- 🤗 [NSNotificationCenter面试题简单整理](https://juejin.cn/post/7168056608952418317) | Sun Nov 20 2022 11:21 AM 
+    <details><summary>展开描述 ...</summary> 
+    ​ 面试题： 一、NSNotificationCenter 和 delegate 的区别 是使用 观察者模式 来实现的用于跨层传递消息的机制 （无需代理，双方无需建立关系） KVO也是观察者模式 
+    </details> 
+
+- 🎡 [前端接口调试利器之apifox](https://juejin.cn/post/7168051090779291684) | Sun Nov 20 2022 10:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文受apifox邀请写的文章，同时也因软件的体验确实不错而写，并未收任何推广费。 初遇apifox 我是一名一线城市的前端开发人员———天平，之前一直都是使用postman来做接口调试的，但是pos 
+    </details> 
+
+- 🕯 [二阶思维](https://juejin.cn/post/7168050256804839437) | Sun Nov 20 2022 10:57 AM 
+    <details><summary>展开描述 ...</summary> 
+    事情往往不是你想象的那样，有时候，看似解决了问题，却在不经意间，引发了更严重的后果。帮助我们思考、决策、解决问题的最有效方法是，运用二阶思维。 
+    </details> 
+
+- 🚀 [一看就懂的OpenGL ES教程——仿抖音滤镜的各种奇技淫巧（一）](https://juejin.cn/post/7168042219163779108) | Sun Nov 20 2022 10:25 AM 
     <details><summary>展开描述 ...</summary> 
     你们知道仅仅渲染视频是不够的，我们要的是，能够在视频上面玩出花来，于是，在本系列已经渐入高潮的上一篇文章之后，我将在本文掀起更大的“浪花”，本文将讲解使用OpenGL es给视频添加各种放抖音滤镜特。 
     </details> 
 
-- 🎡 [PixiJs学前篇（二）：Canvas基础【中篇】](https://juejin.cn/post/7168040195365797902) | Sun Nov 20 2022 10:18 AM 
+- 💪 [PixiJs学前篇（二）：Canvas基础【中篇】](https://juejin.cn/post/7168040195365797902) | Sun Nov 20 2022 10:18 AM 
     <details><summary>展开描述 ...</summary> 
     面对网页性能要求越来越高的今天，项目性能优化已经成了项目开发中必不可少的一个环节。尤其是现在越来越火🔥的在线教育、在线编辑、直播、游戏等类型的项目中Canvas和WebGL的运用越来越多。 
-    </details> 
-
-- 🕯 [提了第一个 PR 给 ElementPlus 的 ElTable 竟然就凉了，于是我......](https://juejin.cn/post/7168028478791483399) | Sun Nov 20 2022 9:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    于是我！！！当然是要写一个 el-table 的源码分析，把自己已经看过、理解过的源码分享出来啦！也算是给自己做一个总结吧～毕竟提了 pr 合不合并不要紧，但是源码总不能白读！读了不能不分享是吧！ 
-    </details> 
-
-- 🚀 [深入浅出学习透析Nginx服务器的基本原理和配置指南「负载均衡篇」](https://juejin.cn/post/7168028278102425614) | Sun Nov 20 2022 9:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 负载均衡 Nginx作为HTTP负载均衡器 Nginx是以高并发和内存占用少出名，它是一个http服务器，也是反向代理服务器，它更是负载均衡器。作为负载 
-    </details> 
-
-- 💪 [推荐10个Vue 3.0开发的开源前端项目](https://juejin.cn/post/7168025628334096397) | Sun Nov 20 2022 9:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    Vue 是一款用于构建用户界面的 JavaScript 框，它基于标准 的HTML、CSS 和 JavaScript 构建，并提供了一套声明式的、组件化的编程模型，用以帮助开发者高效地开发用户界面。目 
     </details> 
 <!-- juejin:END -->
 ### 少数派
