@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [想用 K8S 管理 WSL2 的 NV GPU 资源怎么搞?](https://www.v2ex.com/t/896683#reply0) | Sun Nov 20 2022 8:10 PM
+- 🥸 [想用 K8S 管理 WSL2 的 NV GPU 资源怎么搞?](https://www.v2ex.com/t/896683#reply1) | Sun Nov 20 2022 8:10 PM
 - 🤗 [一个帮助合并 state 的自定义 hook` 大家看看有啥问题·](https://www.v2ex.com/t/896645#reply4) | Sun Nov 20 2022 1:04 PM
 - 🎭 [macos12 编译 openjdk8 &#39;JavaVM/jni.h&#39; file not found](https://www.v2ex.com/t/896636#reply0) | Sun Nov 20 2022 12:42 PM
 - 🥷 [Edge 浏览器稳定性是真的不行](https://www.v2ex.com/t/896614#reply27) | Sun Nov 20 2022 10:49 AM
-- 🐵 [提高手机安全性的想法](https://www.v2ex.com/t/896613#reply19) | Sun Nov 20 2022 10:43 AM<!-- v2ex:END -->
+- 🐵 [提高手机安全性的想法](https://www.v2ex.com/t/896613#reply21) | Sun Nov 20 2022 10:43 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
