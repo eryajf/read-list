@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【Mac导航】毕业一年之后，我终于入手了人生中第一台Mac电脑](https://juejin.cn/post/7168004843255103501) | Sun Nov 20 2022 8:00 AM 
+- 🤗 [从0-1实现文件下载CLI工具](https://juejin.cn/post/7168014002159616007) | Sun Nov 20 2022 8:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    从 0-1 使用Node实现一个 “url文件下载” 工具，读者可以收获包含但不限于如下知识点，Node下载文件实现，通过Proxy（🪜）代理下载资源，通用的Node本地持久化方法等。 
+    </details> 
+
+- 🎡 [【雨夜】我的文章不是我的了？](https://juejin.cn/post/7168013384561917960) | Sun Nov 20 2022 8:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    序 本来今天周末 想发一个 微信公众号的文章，18号我在掘金 分享了一篇文章，就想着 copy过去，结果。。。。 出现了意外 事情起因 一切都很正常的 copy中，因为掘金 和 微信公众号的格式不一致 
+    </details> 
+
+- 🕯 [【Mac导航】毕业一年之后，我终于入手了人生中第一台Mac电脑](https://juejin.cn/post/7168004843255103501) | Sun Nov 20 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     大家好,我是东东吖，本人是一名前端工程师。毕业一年之后，我终于入手了人生中第一台mac电脑。我入手的是2021款：m1+14寸+16GB内存+512GB硬盘，价格是1.5W。 
     </details> 
 
-- 🎡 [最终，还是对运行时的render下手了](https://juejin.cn/post/7167998066841092127) | Sun Nov 20 2022 7:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文主要阐述runtime-dom模块渲染时需要用到的rendererOptions。主要分为两类，一类是针对dom属性操作的nodeOps,另一类就是节点的patchProp。 
-    </details> 
-
-- 🕯 [JavaScript设计模式之发布-订阅模式](https://juejin.cn/post/7167987075344990238) | Sun Nov 20 2022 6:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文将介绍发布-订阅模式的基本概念和通用实现方式，结合vue源码中的实现方式，使读者对该模式有更深刻的理解和认识 
-    </details> 
-
-- 🚀 [优秀开源项目解读&lpar;六&rpar; - Piggy Metrics微服务项目](https://juejin.cn/post/7167972547437264904) | Sun Nov 20 2022 5:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    一、Piggy Metrics介绍 项目工程结构 二、Piggy Metrics服务拆分 技术栈 技术栈选型 API网关 Spring Cloud Zuul 负载均衡 Eurake+Ribbon 远程 
-    </details> 
-
-- 💪 [ELFK集群部署与Logstash的过滤模块](https://juejin.cn/post/7167969002738679844) | Sun Nov 20 2022 5:41 AM 
+- 🚀 [ELFK集群部署与Logstash的过滤模块](https://juejin.cn/post/7167969002738679844) | Sun Nov 20 2022 5:41 AM 
     <details><summary>展开描述 ...</summary> 
     ELFK集群部署（Filebeat+ELK） ELFK= ES + logstash + filebeat + kibana Filebeat 轻量级的开源日志文件数据搜集器。通常在需要采集数据的客户 
+    </details> 
+
+- 💪 [【性能优化下】组织结构同步优化二，全量同步/增量同步，断点续传实现方式](https://juejin.cn/post/7167922608153821220) | Sun Nov 20 2022 2:40 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文正在参加 「金石计划 . 瓜分6万现金大奖」 看到这一篇文章的 xdm ，应该对组织结构同步有一些想法了吧，如果没有，可以看前面两篇文章，可以通过如下地址查看一下： 【性能优化上】第三方组织结构同 
     </details> 
 <!-- juejin:END -->
 ### 少数派
