@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [vite项目为什么可以直接使用NODE_ENV？](https://juejin.cn/post/7167933987925524516) | Sun Nov 20 2022 3:27 AM 
+- 🤗 [优秀开源项目解读&lpar;六&rpar; - Piggy Metrics微服务项目](https://juejin.cn/post/7167972547437264904) | Sun Nov 20 2022 5:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    一、Piggy Metrics介绍 项目工程结构 二、Piggy Metrics服务拆分 技术栈 技术栈选型 API网关 Spring Cloud Zuul 负载均衡 Eurake+Ribbon 远程 
+    </details> 
+
+- 🎡 [vite项目为什么可以直接使用NODE_ENV？](https://juejin.cn/post/7167933987925524516) | Sun Nov 20 2022 3:27 AM 
     <details><summary>展开描述 ...</summary> 
     大家好，我是前端队长小冯。本文正在参加「金石计划 . 瓜分6万现金大奖」 背景 我们知道，在process.env中并没有NODE_ENV这个变量，但是我们却可以在项目的代码中使用process.en 
     </details> 
 
-- 🎡 [OpenFeign源码1-环境搭建及核心类说明](https://juejin.cn/post/7167930230860939301) | Sun Nov 20 2022 3:10 AM 
+- 🕯 [OpenFeign源码1-环境搭建及核心类说明](https://juejin.cn/post/7167930230860939301) | Sun Nov 20 2022 3:10 AM 
     <details><summary>展开描述 ...</summary> 
     OpenFeign环境搭建，核心类说明@EnableFeignClients和@FeignClient 
     </details> 
 
-- 🕯 [浏览器渲染原理详解](https://juejin.cn/post/7167927579867873311) | Sun Nov 20 2022 3:00 AM 
+- 🚀 [浏览器渲染原理详解](https://juejin.cn/post/7167927579867873311) | Sun Nov 20 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     前言 浏览器的主要功能总结起来就是一句话：将用户输入的 URL 转变成可视化的图像。 从 URL 到 DOM 树； 从 DOM 树到可视化图像；这两个过程之间 
     </details> 
 
-- 🚀 [Threejs核心——场景图](https://juejin.cn/post/7167925006389739533) | Sun Nov 20 2022 2:50 AM 
+- 💪 [Threejs核心——场景图](https://juejin.cn/post/7167925006389739533) | Sun Nov 20 2022 2:50 AM 
     <details><summary>展开描述 ...</summary> 
     场景图是Three的核心概念，其在 3D 引擎是一个图中节点的层次结构，其中每个节点代表了一个局部空间，理解场景图可以将复杂的需求进行合理拆分，降低项目实现难度。 
-    </details> 
-
-- 💪 [799. 香槟塔 : 简单线性 DP 运用题](https://juejin.cn/post/7167919953864032270) | Sun Nov 20 2022 2:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 799. 香槟塔 ，难度为 中等。 Tag : 「动态规划」、「线性 DP」 我们把玻璃杯摆成金字塔的形状，其中 第一层 有 1 个玻璃杯， 第二层 有 2 个 
     </details> 
 <!-- juejin:END -->
 ### 少数派
