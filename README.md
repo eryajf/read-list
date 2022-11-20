@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [如果把网络原理倒过来看，从无到有，一切如此清晰（中）](https://juejin.cn/post/7168111975879311397) | Sun Nov 20 2022 2:56 PM 
+- 🤗 [React Native | 原生IOS模块与JS通信，监听App被Kill](https://juejin.cn/post/7168123058849316872) | Sun Nov 20 2022 3:39 PM 
+    <details><summary>展开描述 ...</summary> 
+    一、创建原生模块 先按这个文档： React Native ｜ 创建IOS原生模块创建一个RNGlobalManager原生模块。 二、编写原生模块 这里可以根据官网React Native官网 -  
+    </details> 
+
+- 🎡 [PixiJs学前篇（三）：Canvas基础【下篇】](https://juejin.cn/post/7168122048437288996) | Sun Nov 20 2022 3:35 PM 
+    <details><summary>展开描述 ...</summary> 
+    面对网页性能要求越来越高的今天，项目性能优化已经成了项目开发中必不可少的一个环节。尤其是现在越来越火🔥的在线教育、在线编辑、直播、游戏等类型的项目中Canvas和WebGL的运用越来越多。 
+    </details> 
+
+- 🕯 [前端人100% 要掌握的Vue（万字总结 持续更新）](https://juejin.cn/post/7168113052536012830) | Sun Nov 20 2022 3:00 PM 
+    <details><summary>展开描述 ...</summary> 
+    Vue的介绍 Vue 是一个渐进式框架，可以部分采用vue开发，其他组件或页面采用其他框架开发 Vue 声明式编程&lpar;编程范式&rpar; Vue在国内，有着举足轻重的地位，所以学习好Vue是非常重要的！ 
+    </details> 
+
+- 🚀 [如果把网络原理倒过来看，从无到有，一切如此清晰（中）](https://juejin.cn/post/7168111975879311397) | Sun Nov 20 2022 2:56 PM 
     <details><summary>展开描述 ...</summary> 
     计算机网络是怎么连接更多人，以及怎么样容纳这么多人？ 最后又是怎么样用更低的成本，更快的彼此通信的？ 
     </details> 
 
-- 🎡 [Java中Callable和Future](https://juejin.cn/post/7168111807515754527) | Sun Nov 20 2022 2:55 PM 
+- 💪 [Java中Callable和Future](https://juejin.cn/post/7168111807515754527) | Sun Nov 20 2022 2:55 PM 
     <details><summary>展开描述 ...</summary> 
     在java中有两种创建线程的方法：一种是继承Thread类，重写run方法，第二种是使用Runnable创建一个线程。后续又出现了Callable，又有什么用呢？ 
-    </details> 
-
-- 🕯 [TypeScript学习笔记-类型推论和类型断言](https://juejin.cn/post/7168110288623894535) | Sun Nov 20 2022 2:49 PM 
-    <details><summary>展开描述 ...</summary> 
-    类型推论，顾名思义就是指类型在哪里如何被推断。在TS语法中，如果有些没地方有明确指出类型，类型推论就会帮助提供类型，即声明变量时，不赋给类 
-    </details> 
-
-- 🚀 [🎊🎊🎊深入 ServiceWorker，消息推送，后台同步，一网打尽！](https://juejin.cn/post/7168107934046486541) | Sun Nov 20 2022 2:39 PM 
-    <details><summary>展开描述 ...</summary> 
-    上一章讲到了ServiceWorker的基础使用，但是它的功能不仅仅只有这些，还有很多很多，比如消息推送，后台同步，甚至还有WebRTC，这一章我们来进阶ServiceWorker。 
-    </details> 
-
-- 💪 [适合编程初学者的开源博客系统（Go语言版）](https://juejin.cn/post/7168104586006233125) | Sun Nov 20 2022 2:27 PM 
-    <details><summary>展开描述 ...</summary> 
-    目标 为编程初学者打造入门学习项目，使用各种主流编程语言来实现。让想学编程的，一个都不落下。 上述基本涵盖了当前编程开发所有主流语言（我这里说的主流，直白点讲就是互联网公司都在用的）。 左侧为前端版本 
     </details> 
 <!-- juejin:END -->
 ### 少数派
