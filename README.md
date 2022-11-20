@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [在Spring MVC REST服务中使用HATEOAS](https://juejin.cn/post/7167888676645502983) | Sun Nov 20 2022 12:29 AM 
+- 🤗 [Threejs核心——场景图](https://juejin.cn/post/7167925006389739533) | Sun Nov 20 2022 2:50 AM 
     <details><summary>展开描述 ...</summary> 
-    本文将重点介绍Spring REST服务中可发现性的实现以及满足HATEOAS约束。 可发现性作为Web层一个单独的方面或关注点应该与处理HTTP请求的控制器分离。为此，Controller将触发所有 
+    场景图是Three的核心概念，其在 3D 引擎是一个图中节点的层次结构，其中每个节点代表了一个局部空间，理解场景图可以将复杂的需求进行合理拆分，降低项目实现难度。 
     </details> 
 
-- 🎡 [避免对Service层进行脆性测试](https://juejin.cn/post/7167888582978306078) | Sun Nov 20 2022 12:28 AM 
+- 🎡 [799. 香槟塔 : 简单线性 DP 运用题](https://juejin.cn/post/7167919953864032270) | Sun Nov 20 2022 2:30 AM 
     <details><summary>展开描述 ...</summary> 
-    有许多方法可以测试应用程序的Service层。本文的目标是通过模拟完全与数据库的交互来展示单独测试该层的一种方法。 这个例子将使用Spring进行依赖注入，JUnit，Hamcrest和Mockito 
+    题目描述 这是 LeetCode 上的 799. 香槟塔 ，难度为 中等。 Tag : 「动态规划」、「线性 DP」 我们把玻璃杯摆成金字塔的形状，其中 第一层 有 1 个玻璃杯， 第二层 有 2 个 
     </details> 
 
-- 🕯 [l4.Linux系统介绍与环境搭建准备&lpar;二&rpar;](https://juejin.cn/post/7167873189920374821) | Sat Nov 19 2022 11:30 PM 
+- 🕯 [聊一聊 Vite 中的一个关键实例 - ViteDevServer](https://juejin.cn/post/7167916435543932965) | Sun Nov 20 2022 2:17 AM 
     <details><summary>展开描述 ...</summary> 
-    1.5 Linux的应用领域 1.5.1 IT服务器Linux系统应用领域 如今的IT服务器领域是Linux、Unix、Windows三分天下，Linux系统可谓后起之秀，特别是最近几年来，服务器端L 
+    本文为稀土掘金技术社区首发签约文章，14天内禁止转载，14天后未获授权禁止转载，侵权必究！ 在上一篇文章 - 我是如何利用持久化缓存策略来提升 Vite 开发模式下首屏性能的? 中，小编给大家展示了如 
     </details> 
 
-- 🚀 [l3.Linux系统介绍与环境搭建准备&lpar;一&rpar;](https://juejin.cn/post/7167872740991434788) | Sat Nov 19 2022 11:30 PM 
+- 🚀 [MicroBlocks 编程案例: 使用 micro:bit 接管 xlight](https://juejin.cn/post/7167915712537690126) | Sun Nov 20 2022 2:14 AM 
     <details><summary>展开描述 ...</summary> 
-    本章以操作系统的介绍作开篇，首先介绍操作系统的基础概念以及操作系统的原理；然后带领读者了解Unix/Linux的诞生和发展史，以及市面上常见的Unix/Linux系统版本，并且针对发展过程中的相关关键 
+    彩虹灯很好看，小巧而明媚。 但我不想用它的控制盒和编程软件。 不爱用图形化编程领域的大多数软件/硬件。 
     </details> 
 
-- 💪 [【Logback+Spring-Aop】实现全面生态化的全链路日志追踪系统服务插件「SpringAOP 整合篇」](https://juejin.cn/post/7167765591074275341) | Sat Nov 19 2022 4:32 PM 
+- 💪 [为什么用户线程必须映射到内核线程](https://juejin.cn/post/7167914276575789087) | Sun Nov 20 2022 2:09 AM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」  承接前文 Spring-AOP注解概述 Spring的AOP功能除了在配置文件中配置一大堆的配置，比如：切入点、表达式、通知等等以外，使用注解的方式更 
+    内核线程是由内核创建的，对它来说是可见的。一个用户进程在所提供的库的帮助下，要求内核为该进程创建一个可执行的线程，而内核则代表该进程创建该线程，并将其放在现有的可执行线程列表中。在这个过程中，线程的创 
     </details> 
 <!-- juejin:END -->
 ### 少数派
