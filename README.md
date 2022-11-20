@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Canvas学习笔记 | 4个示例详细讲述缓动动画，绝对的干货](https://juejin.cn/post/7167758899750109220) | Sat Nov 19 2022 4:06 PM 
+- 🤗 [在Spring MVC REST服务中使用HATEOAS](https://juejin.cn/post/7167888676645502983) | Sun Nov 20 2022 12:29 AM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 前言 大家好，我是汪小成。最近在学习Canvas。这篇文章是我学习Canvas缓动动画时记的笔记，欢迎大家审阅。 什么是缓动动画？ 缓动动画，指的是带有 
+    本文将重点介绍Spring REST服务中可发现性的实现以及满足HATEOAS约束。 可发现性作为Web层一个单独的方面或关注点应该与处理HTTP请求的控制器分离。为此，Controller将触发所有 
     </details> 
 
-- 🎡 [box-shadow 高阶玩法：纯 CSS 画蒙娜丽莎和星空](https://juejin.cn/post/7167754946828304392) | Sat Nov 19 2022 3:50 PM 
+- 🎡 [避免对Service层进行脆性测试](https://juejin.cn/post/7167888582978306078) | Sun Nov 20 2022 12:28 AM 
     <details><summary>展开描述 ...</summary> 
-    想必写过 CSS 的同学都用过 box-shadow，它可以给元素设置阴影，增加立体效果。 比如说这样： 但它能做的可不只是阴影，还可以用来做出很多有趣的效果： 比如画蒙娜丽莎： 画星空： 这些效果都 
+    有许多方法可以测试应用程序的Service层。本文的目标是通过模拟完全与数据库的交互来展示单独测试该层的一种方法。 这个例子将使用Spring进行依赖注入，JUnit，Hamcrest和Mockito 
     </details> 
 
-- 🕯 [[保姆级教程]带你使用idea快速构建Github项目🥳](https://juejin.cn/post/7167751214715633700) | Sat Nov 19 2022 3:36 PM 
+- 🕯 [l4.Linux系统介绍与环境搭建准备&lpar;二&rpar;](https://juejin.cn/post/7167873189920374821) | Sat Nov 19 2022 11:30 PM 
     <details><summary>展开描述 ...</summary> 
-    面向群众 本文适合刚开始软件开发的初学者，如果您有任何的建议和疑问，欢迎评论区留言！ IntelliJ IDEA 
+    1.5 Linux的应用领域 1.5.1 IT服务器Linux系统应用领域 如今的IT服务器领域是Linux、Unix、Windows三分天下，Linux系统可谓后起之秀，特别是最近几年来，服务器端L 
     </details> 
 
-- 🚀 [VueDialog弹窗诟病轻松解决](https://juejin.cn/post/7167747048786264094) | Sat Nov 19 2022 3:20 PM 
+- 🚀 [l3.Linux系统介绍与环境搭建准备&lpar;一&rpar;](https://juejin.cn/post/7167872740991434788) | Sat Nov 19 2022 11:30 PM 
     <details><summary>展开描述 ...</summary> 
-    摘要 相信用Vue框架多的老哥对弹窗的使用的问题都有一些使用上的诟病,本轮主要阐述针对组件封装不符合逻辑编写,如何最小化封装达成简化调用目的。 分析 常规的Vue前端UI组件如elment-ui、Iv 
+    本章以操作系统的介绍作开篇，首先介绍操作系统的基础概念以及操作系统的原理；然后带领读者了解Unix/Linux的诞生和发展史，以及市面上常见的Unix/Linux系统版本，并且针对发展过程中的相关关键 
     </details> 
 
-- 💪 [39 、Flutter之 布局组件 流式布局Wrap，Flow](https://juejin.cn/post/7167736742559088670) | Sat Nov 19 2022 2:39 PM 
+- 💪 [【Logback+Spring-Aop】实现全面生态化的全链路日志追踪系统服务插件「SpringAOP 整合篇」](https://juejin.cn/post/7167765591074275341) | Sat Nov 19 2022 4:32 PM 
     <details><summary>展开描述 ...</summary> 
-    Row 和 Colum 如果子 widget 超出屏幕范围，则会报溢出错误，如： 运行效果所示： 可以看到，右边溢出部分报错。这是因为Row默认只有一行，如果超出屏幕不会折行。我们把超出屏幕显示范围会 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」  承接前文 Spring-AOP注解概述 Spring的AOP功能除了在配置文件中配置一大堆的配置，比如：切入点、表达式、通知等等以外，使用注解的方式更 
     </details> 
 <!-- juejin:END -->
 ### 少数派
