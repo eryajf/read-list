@@ -364,7 +364,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有在数字化转型里开发过的老哥们吗？想问下平时都是写的什么方面的代码](https://www.v2ex.com/t/896907#reply0) | Mon Nov 21 2022 1:38 PM
+- 🥸 [有在数字化转型里开发过的老哥们吗？想问下平时都是写的什么方面的代码](https://www.v2ex.com/t/896907#reply1) | Mon Nov 21 2022 1:38 PM
 - 🤗 [求推荐个低配的 NAS 系统](https://www.v2ex.com/t/896900#reply3) | Mon Nov 21 2022 1:07 PM
 - 🎭 [K8s 高可用数据持久化方案](https://www.v2ex.com/t/896891#reply3) | Mon Nov 21 2022 12:11 PM
 - 🥷 [找个 Android 高手，熟悉图表相关的](https://www.v2ex.com/t/896886#reply0) | Mon Nov 21 2022 12:02 PM
