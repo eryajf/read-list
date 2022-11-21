@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [求教~ 前后端分离网站，怎么应对爬虫](https://www.v2ex.com/t/896776#reply5) | Mon Nov 21 2022 5:33 AM
-- 🤗 [国内有类似 novelai 的产品吗？](https://www.v2ex.com/t/896770#reply2) | Mon Nov 21 2022 5:11 AM
-- 🎭 [一个非常奇怪的问题， supervisord 启动的用 aiohttp 发请求的爬虫同时发 10 万请求的情况下有大约 30%的请求会无法解析域名，而在 bash 中手动运行则没有这个问题， Google 上没找到一个类似情况的](https://www.v2ex.com/t/896755#reply13) | Mon Nov 21 2022 4:18 AM
-- 🥷 [你们的服务请求比是多少？](https://www.v2ex.com/t/896754#reply0) | Mon Nov 21 2022 4:09 AM
-- 🐵 [前端学习后端，语言选择](https://www.v2ex.com/t/896745#reply19) | Mon Nov 21 2022 3:38 AM<!-- v2ex:END -->
+- 🥸 [0x02 kustz 从一个简单的 Deployment 开始](https://www.v2ex.com/t/896805#reply0) | Mon Nov 21 2022 7:14 AM
+- 🤗 [求教~ 前后端分离网站，怎么应对爬虫](https://www.v2ex.com/t/896776#reply15) | Mon Nov 21 2022 5:33 AM
+- 🎭 [国内有类似 novelai 的产品吗？](https://www.v2ex.com/t/896770#reply2) | Mon Nov 21 2022 5:11 AM
+- 🥷 [一个非常奇怪的问题， supervisord 启动的用 aiohttp 发请求的爬虫同时发 10 万请求的情况下有大约 30%的请求会无法解析域名，而在 bash 中手动运行则没有这个问题， Google 上没找到一个类似情况的](https://www.v2ex.com/t/896755#reply13) | Mon Nov 21 2022 4:18 AM
+- 🐵 [你们的服务请求比是多少？](https://www.v2ex.com/t/896754#reply0) | Mon Nov 21 2022 4:09 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
