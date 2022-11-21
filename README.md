@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [InnoDB 怎么支持范围查找的](https://juejin.cn/post/7168452332219924494) | Mon Nov 21 2022 12:57 PM 
+- 🤗 [SQL 思维训练五](https://juejin.cn/post/7168465000036564999) | Mon Nov 21 2022 1:45 PM 
+    <details><summary>展开描述 ...</summary> 
+    最近的练习 感觉提升是反应更加快了 看到一些业务就能大概明白怎么去选择 怎么去使用 在写完时候还去分析一下是不是最优解 
+    </details> 
+
+- 🎡 [InnoDB 怎么支持范围查找的](https://juejin.cn/post/7168452332219924494) | Mon Nov 21 2022 12:57 PM 
     <details><summary>展开描述 ...</summary> 
     这些知识的话基本上都是面试比较喜欢问东西 所以就再细分整理一下 一是巩固自己的知识 二是 当作笔记记录 能帮到大家最好 逻辑图 这个是一个主键索引的索引图 最底层是 数据 上面是索引 怎么支持范 
     </details> 
 
-- 🎡 [「React 深入」知悉Fiber，方能百战不殆～](https://juejin.cn/post/7168443785993519117) | Mon Nov 21 2022 12:23 PM 
+- 🕯 [Nginx 实战系列之三：Nginx TCP backlog 分析优化和性能相关经验汇总](https://juejin.cn/post/7168433638562856973) | Mon Nov 21 2022 11:44 AM 
     <details><summary>展开描述 ...</summary> 
-    Fiber是react团队花费两年的时间重构的架构，那么你知道如何将jsx转化为fiber链表，又是如何将链表链接起来的？fiber中又保存了哪些信息吗？..。 
+    Nginx 实战系列之三：Nginx TCP backlog 分析优化和性能相关经验汇总，包括Nginx TCP backlog 分析和优化和Nginx 在线上运行中的一些性能相关经验汇总 
     </details> 
 
-- 🕯 [高并发场景下如何保证系统稳定性](https://juejin.cn/post/7168408421006311461) | Mon Nov 21 2022 10:06 AM 
+- 🚀 [前端食堂技术周刊第 60 期：TypeScript 4.9、Ant Design 5.0、用 vanilla-extract 编写高性能的 CSS、Node.j](https://juejin.cn/post/7168433475404922910) | Mon Nov 21 2022 11:43 AM 
     <details><summary>展开描述 ...</summary> 
-    微服务产品团队为了广大开发者朋友们可以更好的使用腾讯云微服务产品，将持续为大家提供微服务上云快速入门的指引性文档，内容通俗易懂易上手，本篇为本系列的第二篇，为开发者朋友们详解高并发场景里限流的解觉方案 
+    - TypeScript 4.9 - Ant Design 5.0 - 用 vanilla-extract 编写高性能的 CSS - 4 个必要的可访问性测试 - Node.js 安全最佳实践 
     </details> 
 
-- 🚀 [C++继承](https://juejin.cn/post/7168407611652440072) | Mon Nov 21 2022 10:02 AM 
+- 💪 [Nginx 实战系列之二：Nginx 优化中在 Nginx 侧 和 Linux 系统侧必须要调整优化的参数详细和最佳推荐配置](https://juejin.cn/post/7168433090371518472) | Mon Nov 21 2022 11:42 AM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 什么是继承？ 不同继承方式的访问限定 结论： 基类 / 派生类 public继承 protected继承 private继承 public成员 派生类p 
-    </details> 
-
-- 💪 [二十一个必会微信小程序开发技巧&lpar;上&rpar;](https://juejin.cn/post/7168397058095710216) | Mon Nov 21 2022 9:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    一、前言 一些微信小程序开发技巧，希望能帮助到大家 二、behaviors （bɪ&#39;heɪvjəz 行为） 先看看官方文档是如何介绍的 再看下官 
+    Nginx 实战系列之二：Nginx 优化中在 Nginx 侧 和 Linux 系统侧必须要调整优化的参数详细和最佳推荐配置，包括 Nginx Server 和 Linux 系统侧必须要调整的参数 
     </details> 
 <!-- juejin:END -->
 ### 少数派
