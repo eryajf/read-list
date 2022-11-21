@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【云原生】Kubernetes（k8s）Calico 客户端工具 calicoctl](https://juejin.cn/post/7168497129189539853) | Mon Nov 21 2022 3:50 PM 
+- 🤗 [Tip2 - 从源码看 [self class] 和 [super class]](https://juejin.cn/post/7168539976223686687) | Mon Nov 21 2022 6:38 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 这篇文章起源于很古老的一个面试题，为什么一个类的 [self class] 和 [super class] 的输出是相同的，今天从源码的角度去分析一下。 场景再现： 输出： 源码 既然都是调用的 
+    </details> 
+
+- 🎡 [【云原生】Kubernetes（k8s）Calico 客户端工具 calicoctl](https://juejin.cn/post/7168497129189539853) | Mon Nov 21 2022 3:50 PM 
     <details><summary>展开描述 ...</summary> 
     calicoctl 是 Calico 客户端管理工具。 可以方便的管理 calico 网络，配置和安全策略，calicoctl 命令行提供了许多资源管理命令，允许您创建，修改，删除和查看不同的 Cal 
     </details> 
 
-- 🎡 [安卓开发学Flutter——安装与构建环境的一些注意点（第一篇）](https://juejin.cn/post/7168491081825419277) | Mon Nov 21 2022 3:27 PM 
+- 🕯 [安卓开发学Flutter——安装与构建环境的一些注意点（第一篇）](https://juejin.cn/post/7168491081825419277) | Mon Nov 21 2022 3:27 PM 
     <details><summary>展开描述 ...</summary> 
     Flutter是多平台开发的利器，我在半年前和技术交流群就接触到了，但一直没有去主动学习，但为了未来的长足发展，还是去认真学习一下，本篇主要说明作者的安装与搭建环境的过程，如有错误，烦请大佬们指正！ 
     </details> 
 
-- 🕯 [记一次序列帧动画预渲染解决方案](https://juejin.cn/post/7168480701849960455) | Mon Nov 21 2022 2:47 PM 
+- 🚀 [记一次序列帧动画预渲染解决方案](https://juejin.cn/post/7168480701849960455) | Mon Nov 21 2022 2:47 PM 
     <details><summary>展开描述 ...</summary> 
     主要在最近的免单突袭活动中，利用了大量的动画特效。 但是有一个 钥匙碎裂的动画特别卡， 一开始对问题的定义是不是页面上的序列帧动画太多，导致can 
     </details> 
 
-- 🚀 [项目重构，从零开始搭建一套新的后台管理系统](https://juejin.cn/post/7168475244099797029) | Mon Nov 21 2022 2:25 PM 
+- 💪 [项目重构，从零开始搭建一套新的后台管理系统](https://juejin.cn/post/7168475244099797029) | Mon Nov 21 2022 2:25 PM 
     <details><summary>展开描述 ...</summary> 
     应公司发展需求，我决定重构公司的后台管理系统，从提出需求建议到现在的实施，期间花了将近半个月的时间，决定把这些都记录下来。 
-    </details> 
-
-- 💪 [浅谈App的启动优化](https://juejin.cn/post/7168473350522699783) | Mon Nov 21 2022 2:18 PM 
-    <details><summary>展开描述 ...</summary> 
-    1. 应用启动的方式 在Android中，应用启动一般可分为三种：冷启动、温启动、热启动。 那么什么是冷启动、温启动和热启动呢？下面我们来简单看一下它们的定义： 冷启动：当启动应用时，后台没有该应用的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
