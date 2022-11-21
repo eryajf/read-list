@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [ppp 协议、电路交换 和 点对点信道 这三者是什么关系？](https://www.v2ex.com/t/896951#reply0) | Mon Nov 21 2022 9:15 PM
-- 🤗 [dnf 安装 rpm 包时怎么同步接受 gpgkey 呢？](https://www.v2ex.com/t/896941#reply0) | Mon Nov 21 2022 4:25 PM
-- 🎭 [Magician-Route 发布啦，去除反射，性能得到有效提升](https://www.v2ex.com/t/896937#reply0) | Mon Nov 21 2022 3:42 PM
-- 🥷 [2.2. [kustz] 定义字符串创建 Service](https://www.v2ex.com/t/896935#reply0) | Mon Nov 21 2022 3:31 PM
-- 🐵 [在设计表的时候，库存表和商品表是推荐库存是放到 sku 字段里，还是单独拆两个表呢 ？](https://www.v2ex.com/t/896932#reply0) | Mon Nov 21 2022 3:22 PM<!-- v2ex:END -->
+- 🥸 [dnf 安装 rpm 包时怎么同步接受 gpgkey 呢？](https://www.v2ex.com/t/896941#reply0) | Mon Nov 21 2022 4:25 PM
+- 🤗 [Magician-Route 发布啦，去除反射，性能得到有效提升](https://www.v2ex.com/t/896937#reply0) | Mon Nov 21 2022 3:42 PM
+- 🎭 [2.2. [kustz] 定义字符串创建 Service](https://www.v2ex.com/t/896935#reply0) | Mon Nov 21 2022 3:31 PM
+- 🥷 [在设计表的时候，库存表和商品表是推荐库存是放到 sku 字段里，还是单独拆两个表呢 ？](https://www.v2ex.com/t/896932#reply0) | Mon Nov 21 2022 3:22 PM
+- 🐵 [市面有哪些好用的 AI 智能回复平台？](https://www.v2ex.com/t/896929#reply0) | Mon Nov 21 2022 3:10 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
