@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Tensorflow 2.1 完成 HEART 数据的分类预测](https://juejin.cn/post/7168380298273488904) | Mon Nov 21 2022 8:16 AM 
+- 🤗 [字节跳动数据中台的 Data Catalog 系统搜索实践](https://juejin.cn/post/7168369560259657765) | Mon Nov 21 2022 7:35 AM 
     <details><summary>展开描述 ...</summary> 
-    本文使用 cpu 版本的 tensorflow - 2.1 完成对 heart 数据的二分类结果预测。 
+    字节跳动数据中台的Data Catalog系统通过汇总和组织各种元数据，解决了数据生产者梳理数据、数据消费者找数和理解数的业务场景，其中搜索是Data Catalog的主要功能之一。 
     </details> 
 
-- 🎡 [建立私人知识网站 cpolar轻松做到2 （发布DokuWiki）](https://juejin.cn/post/7168363307005870110) | Mon Nov 21 2022 7:10 AM 
+- 🎡 [2022 年从零搭建 npm 私服教程](https://juejin.cn/post/7168367967292358687) | Mon Nov 21 2022 7:29 AM 
     <details><summary>展开描述 ...</summary> 
-    在上篇文章中，我们向大家展示了如何在本地电脑上部署一个DokuWiki网站，并在本地电脑成功访问到这个网站。不过只在本地电脑和本地局域网内访问dokuwiki网站并不是我们的目标。因此我们还需要使用c 
+    2022 年最新版本在 ubuntu 裸机使用 verdaccio、pm2 搭建 npm 私服教程。 
     </details> 
 
-- 🕯 [建立私人知识网站 cpolar轻松做到1 （部署DokuWiki）](https://juejin.cn/post/7168363187618725918) | Mon Nov 21 2022 7:10 AM 
+- 🕯 [实现一个比ant功能更丰富的Modal组件](https://juejin.cn/post/7168364723161792542) | Mon Nov 21 2022 7:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    比ant design更好modal组件哦，其实ant deisgn的组件大家可以copy下来改造试试 
+    </details> 
+
+- 🚀 [建立私人知识网站 cpolar轻松做到1 （部署DokuWiki）](https://juejin.cn/post/7168363187618725918) | Mon Nov 21 2022 7:10 AM 
     <details><summary>展开描述 ...</summary> 
     维基百科（wiki）相信大家都有所耳闻，作为全球最有名的百科知识搜索网站，很多不常见的知识点都能在这上面搜索到，而维基百科能够成功的原因，就是可以编辑的和修订的功能，让维基百科能够收到各领域专家的专业 
     </details> 
 
-- 🚀 [这一次，彻底入门前端测试，覆盖单元测试、组件测试（2.4w 字）](https://juejin.cn/post/7168145171492634661) | Sun Nov 20 2022 5:08 PM 
+- 💪 [老司机 iOS 周报 #224 | 2022-11-21](https://juejin.cn/post/7168324982215278599) | Mon Nov 21 2022 4:44 AM 
     <details><summary>展开描述 ...</summary> 
-    前端测试一直是前端工程化中很重要的话题，但是很多人往往对测试产生误解，认为测试不仅没有什么用而且还浪费时间，或者测试应该让测试人员来做，自己应该专注于开发。所以，文章开头会先从&quot;软件工程语境下的软件测 
-    </details> 
-
-- 💪 [听说你学过架构设计？来，弄个短链系统](https://juejin.cn/post/7168090412370886686) | Sun Nov 20 2022 1:32 PM 
-    <details><summary>展开描述 ...</summary> 
-    这是本人在面试“字节抖音”部门的一道系统设计题，岗位是“后端高级开发工程师”。目录 01 引言 1）背景 2）系统设计 
+    老司机 iOS 周报，只为你呈现有价值的信息。 你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎 
     </details> 
 <!-- juejin:END -->
 ### 少数派
