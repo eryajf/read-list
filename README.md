@@ -373,24 +373,24 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [CSS 绘制一个3d掘金 logo](https://juejin.cn/post/7168355537396957198) | Mon Nov 21 2022 6:40 AM 
+- 🤗 [你知道 top-layer 吗？](https://juejin.cn/post/7168381474792538142) | Mon Nov 21 2022 8:22 AM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」。 尝试一下用 CSS 绘制简单的 3d 图形，比如一个掘金 logo？ 相比 2d 绘制，3d 有哪些需要注意的小细节呢？一起看看吧 一、金字塔形/四棱 
+    在浏览器窗口中，`top-layer` 位于其相关层 `document` 之上 ，并且每个 `document` 层都有一个相关联的`top-layer`.... 
     </details> 
 
-- 🎡 [808. 分汤 : 挺有意思的 DP 题](https://juejin.cn/post/7168340195924770846) | Mon Nov 21 2022 5:41 AM 
+- 🎡 [l6.Linux系统命令行入门基础](https://juejin.cn/post/7168350262166290462) | Mon Nov 21 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 808. 分汤 ，难度为 中等。 Tag : 「数学」、「动态规划」、「线性 DP」 有 A 和 B 两种类型 的汤。一开始每种类型的汤有 n 毫升。有四种分配 
+    “ 本文正在参加「金石计划 . 瓜分6万现金大奖」 ” 4.1 Linux命令行概述 4.1.1 Linux命令行的作用与意义 众所周知，Linux是一个主要通过命令行来进行管理的操作系统，即通过键盘 
     </details> 
 
-- 🕯 [深入浅出学习透析Nginx服务器的基本原理和配置指南「Https安全控制篇」](https://juejin.cn/post/7168339552799555615) | Mon Nov 21 2022 5:38 AM 
+- 🕯 [l5.远程连接管理Linux实践](https://juejin.cn/post/7168350155589025805) | Mon Nov 21 2022 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 Https反向代理 之前的内容中我们主要针对于一些对安全性要求比较高的站点，可能会使用HTTPS（一种使用SSL通信标准的安全HTTP协议），针对于HT 
+    3.1 远程连接Linux系统管理 3.1.1 为什么要远程连接Linux系统 在很多机构的培训教学中，教员通常会直接在虚拟机界面或者虚拟机里的图形界面讲解知识，这也就导致了非常多的学生只熟悉如何在虚 
     </details> 
 
-- 🚀 [数据仓库实战教程](https://juejin.cn/post/7168339355222671397) | Mon Nov 21 2022 5:37 AM 
+- 🚀 [JVM虚拟机（整体架构、类文件结构）我来了~~~](https://juejin.cn/post/7168348583089930253) | Mon Nov 21 2022 6:14 AM 
     <details><summary>展开描述 ...</summary> 
-    数据仓库实战教程 数据仓库已经是企业的数据竞争的核心了，学好数据仓库对提高自己和找到一份好的工作都至关重要，但是很多人对数仓的印象还是停留在写SQL的层面,其实今天的数仓更像是一个数据平台应用,我们学 
+    # 虚拟机 ## 1.1 发展历程 ### 1.1.1 java往事 ​ Java诞生在一群懒惰、急躁而傲慢的程序天才之中。 ​ 1990年12月，Sun的工程师Patrick Naug 
     </details> 
 
 - 💪 [【进阶向】普通前端该如何搭建自己的脚手架？](https://juejin.cn/post/7168333291915837477) | Mon Nov 21 2022 5:15 AM 
