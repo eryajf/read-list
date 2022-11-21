@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [字节跳动数据中台的 Data Catalog 系统搜索实践](https://juejin.cn/post/7168369560259657765) | Mon Nov 21 2022 7:35 AM 
+- 🤗 [「React 深入」知悉Fiber，方能百战不殆～](https://juejin.cn/post/7168443785993519117) | Mon Nov 21 2022 12:23 PM 
     <details><summary>展开描述 ...</summary> 
-    字节跳动数据中台的Data Catalog系统通过汇总和组织各种元数据，解决了数据生产者梳理数据、数据消费者找数和理解数的业务场景，其中搜索是Data Catalog的主要功能之一。 
+    Fiber是react团队花费两年的时间重构的架构，那么你知道如何将jsx转化为fiber链表，又是如何将链表链接起来的？fiber中又保存了哪些信息吗？..。 
     </details> 
 
-- 🎡 [2022 年从零搭建 npm 私服教程](https://juejin.cn/post/7168367967292358687) | Mon Nov 21 2022 7:29 AM 
+- 🎡 [Android APK安装过程【手把手细节解析】](https://juejin.cn/post/7168388621815250952) | Mon Nov 21 2022 8:49 AM 
     <details><summary>展开描述 ...</summary> 
-    2022 年最新版本在 ubuntu 裸机使用 verdaccio、pm2 搭建 npm 私服教程。 
+    概述 一讲到APK安装流程，它有四种安装方式： 系统应用和预制应用安装，开机时完成，没有安装界面，在PKMS的构造函数中欧冠完成安装 网络下载应用安装，通过应用商店来完成，调用PackageManag 
     </details> 
 
-- 🕯 [实现一个比ant功能更丰富的Modal组件](https://juejin.cn/post/7168364723161792542) | Mon Nov 21 2022 7:16 AM 
+- 🕯 [卡在99%的进度条，让我越来越焦虑](https://juejin.cn/post/7168388351320391693) | Mon Nov 21 2022 8:48 AM 
     <details><summary>展开描述 ...</summary> 
-    比ant design更好modal组件哦，其实ant deisgn的组件大家可以copy下来改造试试 
+    如今，在做Web或App设计时，除了常见的加载动效外，“进度条”也是设计师们常常要花费时间与精力来着重思考的组件设计。 进度条可以理解成可视化等待，能缓解用户在等待过程中的焦虑情绪，及时给予用户反馈和 
     </details> 
 
-- 🚀 [建立私人知识网站 cpolar轻松做到1 （部署DokuWiki）](https://juejin.cn/post/7168363187618725918) | Mon Nov 21 2022 7:10 AM 
+- 🚀 [设计模式-享元模式](https://juejin.cn/post/7168383202753511431) | Mon Nov 21 2022 8:28 AM 
     <details><summary>展开描述 ...</summary> 
-    维基百科（wiki）相信大家都有所耳闻，作为全球最有名的百科知识搜索网站，很多不常见的知识点都能在这上面搜索到，而维基百科能够成功的原因，就是可以编辑的和修订的功能，让维基百科能够收到各领域专家的专业 
+    它使用物件用来尽可能减少内存使用量；于相似物件中分享尽可能多的资讯。当大量物件近乎重复方式存在，因而使用大量内存时，此法适用。通常物件中的部分状态&lpar;state&rpar;能够共享。常见做法是把它们放在数据结构外 
     </details> 
 
-- 💪 [老司机 iOS 周报 #224 | 2022-11-21](https://juejin.cn/post/7168324982215278599) | Mon Nov 21 2022 4:44 AM 
+- 💪 [EMP v2.5三级共享深度定制对ESM 的支持](https://juejin.cn/post/7168375892933574664) | Mon Nov 21 2022 7:59 AM 
     <details><summary>展开描述 ...</summary> 
-    老司机 iOS 周报，只为你呈现有价值的信息。 你也可以为这个项目出一份力，如果发现有价值的信息、文章、工具等可以到 Issues 里提给我们，我们会尽快处理。记得写上推荐的理由哦。有建议和意见也欢迎 
+    版本背景 1 Module Federation 共享逻辑CDN复用性不高 2 ESM兼容性日益成熟，性能表现越来越好 3 市面上针对 ESM 的模块共享实现不完善 4 开发、正式环境结合共享的开发体 
     </details> 
 <!-- juejin:END -->
 ### 少数派
