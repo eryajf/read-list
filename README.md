@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [基于Nuxt3的移动端模版搭建](https://juejin.cn/post/7168465813249196068) | Mon Nov 21 2022 1:48 PM 
+- 🤗 [【云原生】Kubernetes（k8s）Calico 客户端工具 calicoctl](https://juejin.cn/post/7168497129189539853) | Mon Nov 21 2022 3:50 PM 
     <details><summary>展开描述 ...</summary> 
-    基于Nuxt3、TypeScript、Vant4、Vite、Pinia、UnoCSS的移动端模版搭建。 
+    calicoctl 是 Calico 客户端管理工具。 可以方便的管理 calico 网络，配置和安全策略，calicoctl 命令行提供了许多资源管理命令，允许您创建，修改，删除和查看不同的 Cal 
     </details> 
 
-- 🎡 [SQL 思维训练五](https://juejin.cn/post/7168465000036564999) | Mon Nov 21 2022 1:45 PM 
+- 🎡 [安卓开发学Flutter——安装与构建环境的一些注意点（第一篇）](https://juejin.cn/post/7168491081825419277) | Mon Nov 21 2022 3:27 PM 
     <details><summary>展开描述 ...</summary> 
-    最近的练习 感觉提升是反应更加快了 看到一些业务就能大概明白怎么去选择 怎么去使用 在写完时候还去分析一下是不是最优解 
+    Flutter是多平台开发的利器，我在半年前和技术交流群就接触到了，但一直没有去主动学习，但为了未来的长足发展，还是去认真学习一下，本篇主要说明作者的安装与搭建环境的过程，如有错误，烦请大佬们指正！ 
     </details> 
 
-- 🕯 [react如何把组件渲染到任意另一个组件内？](https://juejin.cn/post/7168462260241694727) | Mon Nov 21 2022 1:35 PM 
+- 🕯 [记一次序列帧动画预渲染解决方案](https://juejin.cn/post/7168480701849960455) | Mon Nov 21 2022 2:47 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 继续更新react组件库源码，大家有没有想过，我们在用Modal或者Dialog组件时，这个Modal被渲染到哪了？答案是body的下面：如下图： 如图，主流的组件库都是把弹框渲染到body元素 
+    主要在最近的免单突袭活动中，利用了大量的动画特效。 但是有一个 钥匙碎裂的动画特别卡， 一开始对问题的定义是不是页面上的序列帧动画太多，导致can 
     </details> 
 
-- 🚀 [Android开发——ThreadPoolExecutor与自定义线程池](https://juejin.cn/post/7168453723591540743) | Mon Nov 21 2022 1:02 PM 
+- 🚀 [项目重构，从零开始搭建一套新的后台管理系统](https://juejin.cn/post/7168475244099797029) | Mon Nov 21 2022 2:25 PM 
     <details><summary>展开描述 ...</summary> 
-    一、概述 1、ThreadPoolExecutor作为java.util.concurrent包对外提供基础实现，以内部线程池的形式对外提供管理任务执行，线程调度，线程池管理等等服务； 2、Execu 
+    应公司发展需求，我决定重构公司的后台管理系统，从提出需求建议到现在的实施，期间花了将近半个月的时间，决定把这些都记录下来。 
     </details> 
 
-- 💪 [手摸手打造类码上掘金在线IDE（四）——双向通信](https://juejin.cn/post/7168443166566465544) | Mon Nov 21 2022 12:21 PM 
+- 💪 [浅谈App的启动优化](https://juejin.cn/post/7168473350522699783) | Mon Nov 21 2022 2:18 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 写字楼里写字间，写字间里程序员； 程序人员写程序，挣点小钱过大年 一首定场诗送给大家 上回书说道，一个在线IDE所必备的条件之一——沙箱环境，我们讲了现在市面上主流的沙箱环境的原理 讲了现在主流 
+    1. 应用启动的方式 在Android中，应用启动一般可分为三种：冷启动、温启动、热启动。 那么什么是冷启动、温启动和热启动呢？下面我们来简单看一下它们的定义： 冷启动：当启动应用时，后台没有该应用的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
