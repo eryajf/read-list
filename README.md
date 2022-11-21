@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [市面有哪些好用的 AI 智能回复平台？](https://www.v2ex.com/t/896929#reply0) | Mon Nov 21 2022 3:10 PM
-- 🤗 [MIRACLE Linux ～ CentOSに替わる日本製の Linux](https://www.v2ex.com/t/896922#reply0) | Mon Nov 21 2022 2:32 PM
-- 🎭 [接上一个帖子，起诉中国联通诉状书已经提交，可是还是太慢了，还有其他的渠道吗。](https://www.v2ex.com/t/896920#reply0) | Mon Nov 21 2022 2:32 PM
-- 🥷 [有在数字化转型里开发过的老哥们吗？想问下平时都是写的什么方面的代码](https://www.v2ex.com/t/896907#reply1) | Mon Nov 21 2022 1:38 PM
-- 🐵 [求推荐个低配的 NAS 系统](https://www.v2ex.com/t/896900#reply6) | Mon Nov 21 2022 1:07 PM<!-- v2ex:END -->
+- 🥸 [Magician-Route 发布啦，去除反射，性能得到有效提升](https://www.v2ex.com/t/896937#reply0) | Mon Nov 21 2022 3:42 PM
+- 🤗 [2.2. [kustz] 定义字符串创建 Service](https://www.v2ex.com/t/896935#reply0) | Mon Nov 21 2022 3:31 PM
+- 🎭 [在设计表的时候，库存表和商品表是推荐库存是放到 sku 字段里，还是单独拆两个表呢 ？](https://www.v2ex.com/t/896932#reply0) | Mon Nov 21 2022 3:22 PM
+- 🥷 [市面有哪些好用的 AI 智能回复平台？](https://www.v2ex.com/t/896929#reply0) | Mon Nov 21 2022 3:10 PM
+- 🐵 [MIRACLE Linux ～ CentOSに替わる日本製の Linux](https://www.v2ex.com/t/896922#reply0) | Mon Nov 21 2022 2:32 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
