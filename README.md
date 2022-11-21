@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [想用 K8S 管理 WSL2 的 NV GPU 资源怎么搞?](https://www.v2ex.com/t/896683#reply1) | Sun Nov 20 2022 8:10 PM
-- 🤗 [一个帮助合并 state 的自定义 hook` 大家看看有啥问题·](https://www.v2ex.com/t/896645#reply4) | Sun Nov 20 2022 1:04 PM
-- 🎭 [macos12 编译 openjdk8 &#39;JavaVM/jni.h&#39; file not found](https://www.v2ex.com/t/896636#reply0) | Sun Nov 20 2022 12:42 PM
-- 🥷 [Edge 浏览器稳定性是真的不行](https://www.v2ex.com/t/896614#reply27) | Sun Nov 20 2022 10:49 AM
-- 🐵 [提高手机安全性的想法](https://www.v2ex.com/t/896613#reply21) | Sun Nov 20 2022 10:43 AM<!-- v2ex:END -->
+- 🥸 [项目中的专用调试器如何实现？分享一些来自项目中的思考](https://www.v2ex.com/t/896704#reply0) | Mon Nov 21 2022 1:37 AM
+- 🤗 [好兄弟 推荐几个收费好用的短信平台 [国内外能都发送]](https://www.v2ex.com/t/896703#reply0) | Mon Nov 21 2022 1:37 AM
+- 🎭 [有偿求代做网测， Hacker Rank 平台的数据分析题](https://www.v2ex.com/t/896700#reply0) | Mon Nov 21 2022 1:26 AM
+- 🥷 [一款小而美的 Markdown 静态博客程序更新啦！](https://www.v2ex.com/t/896698#reply1) | Mon Nov 21 2022 1:14 AM
+- 🐵 [想用 K8S 管理 WSL2 的 NV GPU 资源怎么搞?](https://www.v2ex.com/t/896683#reply2) | Sun Nov 20 2022 8:10 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
