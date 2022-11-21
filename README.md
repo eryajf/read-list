@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [买了把海沃氏二手 look,没有后仰锁定,人有点晕了](https://www.v2ex.com/t/896860#reply0) | Mon Nov 21 2022 10:04 AM
-- 🤗 [独立产品灵感周刊 DecoHack #038 - 纽约市 90 年代的街景长什么样](https://www.v2ex.com/t/896845#reply0) | Mon Nov 21 2022 8:51 AM
-- 🎭 [Celery+Django 如何动态修改已被接收或已在队列中的任务？](https://www.v2ex.com/t/896844#reply5) | Mon Nov 21 2022 8:45 AM
-- 🥷 [手机自带的“找回手机”功能就从来没有派上用场过。真的。。](https://www.v2ex.com/t/896824#reply6) | Mon Nov 21 2022 7:57 AM
-- 🐵 [云计算 openstack](https://www.v2ex.com/t/896810#reply5) | Mon Nov 21 2022 7:22 AM<!-- v2ex:END -->
+- 🥸 [求教， m1 mac 在执行 minikube start 时卡在 Preparing Kubernetes v1.22.3 on Docker 20.10.8 怎么办](https://www.v2ex.com/t/896870#reply2) | Mon Nov 21 2022 10:44 AM
+- 🤗 [想用 AssetStudio 从一个日本手游提取想要的语音文件，发现大部分语音大小都为 4660 字节，文件头有 ACB Format/PC 标识，和 Google 找到的教程情况都不一样， VGMToolbox 解析卡在 Begin](https://www.v2ex.com/t/896866#reply0) | Mon Nov 21 2022 10:30 AM
+- 🎭 [买了把海沃氏二手 look,没有后仰锁定,人有点晕了](https://www.v2ex.com/t/896860#reply3) | Mon Nov 21 2022 10:04 AM
+- 🥷 [独立产品灵感周刊 DecoHack #038 - 纽约市 90 年代的街景长什么样](https://www.v2ex.com/t/896845#reply0) | Mon Nov 21 2022 8:51 AM
+- 🐵 [Celery+Django 如何动态修改已被接收或已在队列中的任务？](https://www.v2ex.com/t/896844#reply5) | Mon Nov 21 2022 8:45 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
