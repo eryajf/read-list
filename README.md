@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Flutter Widget 之Badges](https://juejin.cn/post/7168331315245219871) | Mon Nov 21 2022 5:07 AM 
+- 🤗 [CSS 绘制一个3d掘金 logo](https://juejin.cn/post/7168355537396957198) | Mon Nov 21 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
-    曾经有大约72个未接来电并看到其中一个红色标记提醒你必须回电的人？ 这些赛色缤纷的弹出窗口非常适合在很小的空间内为哟哦那个户提供一些信息。 因为我要回那些未接来电，你花时间知道，我怎样才能将那些漂亮的 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」。 尝试一下用 CSS 绘制简单的 3d 图形，比如一个掘金 logo？ 相比 2d 绘制，3d 有哪些需要注意的小细节呢？一起看看吧 一、金字塔形/四棱 
     </details> 
 
-- 🎡 [Go 语言学习技巧和编程思维](https://juejin.cn/post/7168326970172768286) | Mon Nov 21 2022 4:49 AM 
+- 🎡 [808. 分汤 : 挺有意思的 DP 题](https://juejin.cn/post/7168340195924770846) | Mon Nov 21 2022 5:41 AM 
+    <details><summary>展开描述 ...</summary> 
+    题目描述 这是 LeetCode 上的 808. 分汤 ，难度为 中等。 Tag : 「数学」、「动态规划」、「线性 DP」 有 A 和 B 两种类型 的汤。一开始每种类型的汤有 n 毫升。有四种分配 
+    </details> 
+
+- 🕯 [深入浅出学习透析Nginx服务器的基本原理和配置指南「Https安全控制篇」](https://juejin.cn/post/7168339552799555615) | Mon Nov 21 2022 5:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 Https反向代理 之前的内容中我们主要针对于一些对安全性要求比较高的站点，可能会使用HTTPS（一种使用SSL通信标准的安全HTTP协议），针对于HT 
+    </details> 
+
+- 🚀 [数据仓库实战教程](https://juejin.cn/post/7168339355222671397) | Mon Nov 21 2022 5:37 AM 
+    <details><summary>展开描述 ...</summary> 
+    数据仓库实战教程 数据仓库已经是企业的数据竞争的核心了，学好数据仓库对提高自己和找到一份好的工作都至关重要，但是很多人对数仓的印象还是停留在写SQL的层面,其实今天的数仓更像是一个数据平台应用,我们学 
+    </details> 
+
+- 💪 [Go 语言学习技巧和编程思维](https://juejin.cn/post/7168326970172768286) | Mon Nov 21 2022 4:49 AM 
     <details><summary>展开描述 ...</summary> 
     本文结合业内大牛的一些观点和作者的实战经历，可以全面了解 Go 语言的学习技巧和编程思维，方便更加快速的掌握 Go 语言 
-    </details> 
-
-- 🕯 [Tips 1 - 消息转发的三板斧](https://juejin.cn/post/7168322422083420167) | Mon Nov 21 2022 4:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 在 Objective-C 中，一个方法的调用，编译器会将其被转成 objc_msgSend 的方式，沿着这个对象或者类的继承链，依次去查找是否有对应的方法实现，如果查找至根类，也就是 NSOb 
-    </details> 
-
-- 🚀 [Metal每日分享，分镜滤镜效果](https://juejin.cn/post/7168309341974429704) | Mon Nov 21 2022 3:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    「这是我参与2022首次更文挑战的第1天，活动详情查看：2022首次更文挑战」 本文正在参加「金石计划 . 瓜分6万现金大奖」 本案例的目的是理解如何用Metal实现行列分屏滤镜，将图片内容画布切分成 
-    </details> 
-
-- 💪 [写个自己的chrome插件](https://juejin.cn/post/7168309099175067685) | Mon Nov 21 2022 3:40 AM 
-    <details><summary>展开描述 ...</summary> 
-    有没有好奇chrome插件是用什么做的？像类似掘金插件又是怎么实现的，当我安装稀土掘金插件后，我的导航页都被改掉了，因此你也可以做一个类似的插件 
     </details> 
 <!-- juejin:END -->
 ### 少数派
