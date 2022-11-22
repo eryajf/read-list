@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请问大家有遇到 K8S 中 pod 一直在 pending，也没有 event 的情况吗？](https://www.v2ex.com/t/897185#reply3) | Tue Nov 22 2022 1:10 PM
-- 🤗 [三星 S22， Pixel 7 Pro 选哪个？](https://www.v2ex.com/t/897184#reply3) | Tue Nov 22 2022 1:06 PM
-- 🎭 [现在的技术网站都喜欢这么恰饭的吗？ 如果讨厌的话给你支招](https://www.v2ex.com/t/897180#reply0) | Tue Nov 22 2022 12:52 PM
-- 🥷 [有没有在局域网 wifi 环境下视频通话的开源软件](https://www.v2ex.com/t/897172#reply1) | Tue Nov 22 2022 12:08 PM
-- 🐵 [大家有没有 50 元左右安卓设备推荐](https://www.v2ex.com/t/897165#reply10) | Tue Nov 22 2022 11:23 AM<!-- v2ex:END -->
+- 🥸 [刚入手 TS-464C，大家都在用什么内存条、固态、硬盘啊，交流一下](https://www.v2ex.com/t/897214#reply0) | Tue Nov 22 2022 4:18 PM
+- 🤗 [订餐小程序方案咨询](https://www.v2ex.com/t/897211#reply0) | Tue Nov 22 2022 3:45 PM
+- 🎭 [请问大家有遇到 K8S 中 pod 一直在 pending，也没有 event 的情况吗？](https://www.v2ex.com/t/897185#reply3) | Tue Nov 22 2022 1:10 PM
+- 🥷 [三星 S22， Pixel 7 Pro 选哪个？](https://www.v2ex.com/t/897184#reply8) | Tue Nov 22 2022 1:06 PM
+- 🐵 [现在的技术网站都喜欢这么恰饭的吗？ 如果讨厌的话给你支招](https://www.v2ex.com/t/897180#reply0) | Tue Nov 22 2022 12:52 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
