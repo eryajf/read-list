@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [兄弟们，我来做个小调研。](https://www.v2ex.com/t/897146#reply0) | Tue Nov 22 2022 9:37 AM
-- 🤗 [大家在防拆/保密上有什么设计的感悟么](https://www.v2ex.com/t/897143#reply3) | Tue Nov 22 2022 9:21 AM
-- 🎭 [想请一位 K8S 和虚拟机专家来帮帮我, 虚拟机 GPU 容器的问题](https://www.v2ex.com/t/897137#reply1) | Tue Nov 22 2022 9:04 AM
-- 🥷 [为什么我们不用 git 当数据库呢?](https://www.v2ex.com/t/897127#reply39) | Tue Nov 22 2022 8:47 AM
-- 🐵 [朋友们，有用过 opengl glsl 去水印的么？](https://www.v2ex.com/t/897124#reply3) | Tue Nov 22 2022 8:36 AM<!-- v2ex:END -->
+- 🥸 [有没有在局域网 wifi 环境下视频通话的开源软件](https://www.v2ex.com/t/897172#reply0) | Tue Nov 22 2022 12:08 PM
+- 🤗 [大家有没有 50 元左右安卓设备推荐](https://www.v2ex.com/t/897165#reply6) | Tue Nov 22 2022 11:23 AM
+- 🎭 [兄弟们，我来做个小调研。](https://www.v2ex.com/t/897146#reply1) | Tue Nov 22 2022 9:37 AM
+- 🥷 [大家在防拆/保密上有什么设计的感悟么](https://www.v2ex.com/t/897143#reply8) | Tue Nov 22 2022 9:21 AM
+- 🐵 [想请一位 K8S 和虚拟机专家来帮帮我, 虚拟机 GPU 容器的问题](https://www.v2ex.com/t/897137#reply2) | Tue Nov 22 2022 9:04 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
