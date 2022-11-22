@@ -368,7 +368,7 @@
 - 🤗 [刚入手 TS-464C，大家都在用什么内存条、固态、硬盘啊，交流一下](https://www.v2ex.com/t/897214#reply3) | Tue Nov 22 2022 4:18 PM
 - 🎭 [订餐小程序方案咨询](https://www.v2ex.com/t/897211#reply1) | Tue Nov 22 2022 3:45 PM
 - 🥷 [请问大家有遇到 K8S 中 pod 一直在 pending，也没有 event 的情况吗？](https://www.v2ex.com/t/897185#reply3) | Tue Nov 22 2022 1:10 PM
-- 🐵 [三星 S22， Pixel 7 Pro 选哪个？](https://www.v2ex.com/t/897184#reply10) | Tue Nov 22 2022 1:06 PM<!-- v2ex:END -->
+- 🐵 [三星 S22， Pixel 7 Pro 选哪个？](https://www.v2ex.com/t/897184#reply11) | Tue Nov 22 2022 1:06 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
