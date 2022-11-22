@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [第6章 Elasticsearch优化](https://juejin.cn/post/7168849228523896846) | Tue Nov 22 2022 2:36 PM 
+- 🤗 [RabbitMQ的高可用和高可靠](https://juejin.cn/post/7168868458367549453) | Tue Nov 22 2022 3:51 PM 
     <details><summary>展开描述 ...</summary> 
-    6 . 1 硬件选择 Elasticsearch的基础是 Lucene，所有的索引和文档数据是存储在本地的磁盘中，具体的路径可在 ES 的配置文件../config/elasticsearch.yml 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 RabbitMQ消息队列高可用和高可靠 01、什么是高可用机制 所谓高可用：是指产品在规定的条件和规定的时刻或时间内处于可执行规定功能状态的能力。 当业 
     </details> 
 
-- 🎡 [第5章 Elasticsearch集成](https://juejin.cn/post/7168847715302916126) | Tue Nov 22 2022 2:31 PM 
+- 🎡 [Redis数据结构大全](https://juejin.cn/post/7168867437897596965) | Tue Nov 22 2022 3:47 PM 
     <details><summary>展开描述 ...</summary> 
-    5 . 1 pring Data框架集成 5 . 1 .1 Spring Data框架介绍 Spring Data是一个用于简化数据库、非关系型数据库、索引库访问，并支持云服务的开源框架。其主要目标是 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 Redis数据结构大全 五大基本数据类型 Redis是一个开源（BSD许可），内存存储的数据结构服务器，可用作数据库，高速缓存和消息队列代理。它支持字符 
     </details> 
 
-- 🕯 [第4章 Elasticsearch进阶](https://juejin.cn/post/7168845946737360932) | Tue Nov 22 2022 2:24 PM 
+- 🕯 [LeetCode 第107题](https://juejin.cn/post/7168866260925546503) | Tue Nov 22 2022 3:42 PM 
     <details><summary>展开描述 ...</summary> 
-    4 .1 核心概念 4 . 1 .1 索引（Index） 一个索引就是一个拥有几分相似特征的文档的集合。比如说，你可以有一个客户数据的索引，另一个产品目录的索引，还有一个订单数据的索引。一个索引由一个 
+    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第2天，点击查看活动详情 LeetCode 第107题 题目描述（中等难度） 树的层次遍历，和 102 题 的不同之处是，之前输出的 
     </details> 
 
-- 🚀 [【从0到1学习go语言】Go语言基础之运算符](https://juejin.cn/post/7168844494417166350) | Tue Nov 22 2022 2:18 PM 
+- 🚀 [通过 Apifox Echo 了解 Content-Type 及对应的请求体编码](https://juejin.cn/post/7168852906865606669) | Tue Nov 22 2022 2:50 PM 
     <details><summary>展开描述 ...</summary> 
-    大家好,我是东东吖，本人是一名前端工程师，希望借助go语言能打通前后端的任通二脉，成为一名全栈工程师！另外，需要进技术交流群的同学，可以加我微信fangdongdong_25。 
+    我们在与后端接口联调中，你知道请求体可以由哪几种类型，以及对应的 Content-Type 是多少吗？ 今天以 Apifox Echo 演示一下不同 Content-Type 的 HTTP 报文。关于 
     </details> 
 
-- 💪 [Golang Channel 详细原理和使用技巧](https://juejin.cn/post/7168842332723216420) | Tue Nov 22 2022 2:10 PM 
+- 💪 [精华推荐 | 【深入浅出RocketMQ原理及实战】「底层原理挖掘系列」透彻剖析贯穿RocketMQ的存储系统的实现原理和持久化机制](https://juejin.cn/post/7168850573750435877) | Tue Nov 22 2022 2:41 PM 
     <details><summary>展开描述 ...</summary> 
-    通过本文可以全面的了解 Golang Channel 详细原理和相关使用技巧，可以把 channel 的一些基础能力和各个状态都弄清楚 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 RocketMQ的发展历史 RocketMQ是一个统一消息引擎、轻量级数据处理平台。RocketMQ是一款阿里巴巴开源的消息中间件。 2016 年 11 
     </details> 
 <!-- juejin:END -->
 ### 少数派
