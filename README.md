@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [使用Spring Data JPA和QueryDSL为REST API构建查询语言](https://juejin.cn/post/7168669018839056391) | Tue Nov 22 2022 2:57 AM 
+- 🤗 [如何突破技术瓶颈（适合P6以下）](https://juejin.cn/post/7168671474234949662) | Tue Nov 22 2022 3:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 最近在更新react组件库源码的文章，其实vue和其他框架都一样，就是我发现自己在一年前直接看这些源码（不调试），还是有点吃力的，然后就放弃了。 可最近不知道为啥，看这些源码对我来说没啥太大难度 
+    </details> 
+
+- 🎡 [使用Spring Data JPA和QueryDSL为REST API构建查询语言](https://juejin.cn/post/7168669018839056391) | Tue Nov 22 2022 2:57 AM 
     <details><summary>展开描述 ...</summary> 
     为什么要使用查询语言？对于任何复杂的API来说 - 通过非常简单的字段搜索 / 过滤资源是不够的。查询语言更灵活，允许您精确过滤所需的资源。 Query DSL配置 我们需要将以下依赖项添加到pom. 
     </details> 
 
-- 🎡 [Dart 扩展提示能用了吗？](https://juejin.cn/post/7168656227709222948) | Tue Nov 22 2022 2:07 AM 
+- 🕯 [Dart 扩展提示能用了吗？](https://juejin.cn/post/7168656227709222948) | Tue Nov 22 2022 2:07 AM 
     <details><summary>展开描述 ...</summary> 
     在上一篇我们讲到了如何利用 analyzer_plugin 来自定义 `Lint`, 其实 `analyzer_plugin` 也能完成一些其他功能，我们一起看看这些的功能是如何完成的。 
     </details> 
 
-- 🕯 [Flutter 底部弹窗ModelBottomSheet的使用示例](https://juejin.cn/post/7168620905663299615) | Mon Nov 21 2022 11:50 PM 
+- 🚀 [数据库主键一定要自增的吗？有哪些场景下不建议自增？](https://juejin.cn/post/7168638701784793124) | Tue Nov 22 2022 1:00 AM 
     <details><summary>展开描述 ...</summary> 
-    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第2天，点击查看活动详情 Flutter 底部弹窗ModelBottomSheet的使用示例   在实际开发过程中，经常会用到底部弹 
+    我们平时建表的时候，一般会像下面这样。 出于习惯，我们一般会加一列id作为主键，而这个主键一般边上都有个AUTO_INCREMENT, 意思是这个主键是自增的。自增就是i++，也就是每次都加1。 但问 
     </details> 
 
-- 🚀 [【深度学习】TensorFlow：TFRecords文件读取](https://juejin.cn/post/7168509679979347998) | Mon Nov 21 2022 4:38 PM 
+- 💪 [Java集合与数据类型](https://juejin.cn/post/7168638554573111326) | Tue Nov 22 2022 12:59 AM 
     <details><summary>展开描述 ...</summary> 
-    1. 读取TFRecords文件 其实读取TFRecords文件大体思路与常规文件读取思路比较一致。但是，还是有一点不一样，在解码操作之前，需要解析Example操作（因为TFRecords比其他文件 
-    </details> 
-
-- 💪 [OpenGL之仿美图实现不规则物体加描边特效](https://juejin.cn/post/7168502592249692197) | Mon Nov 21 2022 4:11 PM 
-    <details><summary>展开描述 ...</summary> 
-    仿造美图用OpenGL在Android中实现描边功能，双通道有向距离场生成描边外框降低计算量，各种函数控制描边大小 
+    一. Java集合与数据类型 Java 集合系列文章 深度剖析ArrayList 深度剖析LinkedList 深度剖析Vector 深度剖析Stack 深度剖析HashMap 深度剖析LinkedH 
     </details> 
 <!-- juejin:END -->
 ### 少数派
