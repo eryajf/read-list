@@ -378,24 +378,24 @@
     本文正在参加「金石计划 . 瓜分6万现金大奖」 RabbitMQ消息队列高可用和高可靠 01、什么是高可用机制 所谓高可用：是指产品在规定的条件和规定的时刻或时间内处于可执行规定功能状态的能力。 当业 
     </details> 
 
-- 🎡 [Redis数据结构大全](https://juejin.cn/post/7168867437897596965) | Tue Nov 22 2022 3:47 PM 
+- 🎡 [老酒新瓶  |  关于Lifecycle, 你应该知道的这些事](https://juejin.cn/post/7168868230977552421) | Tue Nov 22 2022 3:51 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文将深入浅出，从背景到源码实现，分析Lifecycle本身的设计思想，从而为理解JetPack系列库迈下第一步。 
+    </details> 
+
+- 🕯 [Redis数据结构大全](https://juejin.cn/post/7168867437897596965) | Tue Nov 22 2022 3:47 PM 
     <details><summary>展开描述 ...</summary> 
     本文正在参加「金石计划 . 瓜分6万现金大奖」 Redis数据结构大全 五大基本数据类型 Redis是一个开源（BSD许可），内存存储的数据结构服务器，可用作数据库，高速缓存和消息队列代理。它支持字符 
     </details> 
 
-- 🕯 [LeetCode 第107题](https://juejin.cn/post/7168866260925546503) | Tue Nov 22 2022 3:42 PM 
+- 🚀 [LeetCode 第107题](https://juejin.cn/post/7168866260925546503) | Tue Nov 22 2022 3:42 PM 
     <details><summary>展开描述 ...</summary> 
     开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第2天，点击查看活动详情 LeetCode 第107题 题目描述（中等难度） 树的层次遍历，和 102 题 的不同之处是，之前输出的 
     </details> 
 
-- 🚀 [通过 Apifox Echo 了解 Content-Type 及对应的请求体编码](https://juejin.cn/post/7168852906865606669) | Tue Nov 22 2022 2:50 PM 
+- 💪 [通过 Apifox Echo 了解 Content-Type 及对应的请求体编码](https://juejin.cn/post/7168852906865606669) | Tue Nov 22 2022 2:50 PM 
     <details><summary>展开描述 ...</summary> 
     我们在与后端接口联调中，你知道请求体可以由哪几种类型，以及对应的 Content-Type 是多少吗？ 今天以 Apifox Echo 演示一下不同 Content-Type 的 HTTP 报文。关于 
-    </details> 
-
-- 💪 [精华推荐 | 【深入浅出RocketMQ原理及实战】「底层原理挖掘系列」透彻剖析贯穿RocketMQ的存储系统的实现原理和持久化机制](https://juejin.cn/post/7168850573750435877) | Tue Nov 22 2022 2:41 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 RocketMQ的发展历史 RocketMQ是一个统一消息引擎、轻量级数据处理平台。RocketMQ是一款阿里巴巴开源的消息中间件。 2016 年 11 
     </details> 
 <!-- juejin:END -->
 ### 少数派
