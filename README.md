@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [我服了！SpringBoot升级后这服务我一个星期都没跑起来！（下）](https://juejin.cn/post/7168780065256243208) | Tue Nov 22 2022 10:08 AM 
+- 🤗 [从 0 开始编译 Android 系统源码](https://juejin.cn/post/7168809689990299678) | Tue Nov 22 2022 12:05 PM 
     <details><summary>展开描述 ...</summary> 
-    上一次的升级过程中差不多已经跑起来90%了，这周一上班解决完一点小问题，服务已经正常跑起来了，于是再拿着一些其他的服务测试了一下，又发现了一些其他的报错，所以继续。 14. DiscoveryEnab 
+    在开始学习 Android Framework 的知识前，准备好相关的源码环境是非常有必要的。所以这篇文章主要是为了后续编译 Android 源码来做准备的。 
     </details> 
 
-- 🎡 [从 MicroBlocks 开始你的硬件编程之旅](https://juejin.cn/post/7168779967608651784) | Tue Nov 22 2022 10:08 AM 
+- 🎡 [PyTorch 官方库「上新」，TorchMultimodal 助力多模态人工智能](https://juejin.cn/post/7168810150185304072) | Tue Nov 22 2022 12:05 PM 
     <details><summary>展开描述 ...</summary> 
-    MicroBlocks 是硬件编程&lpar;物理计算&rpar;领域的 Scratch, 它是第一个具有 Scratch 临界质量的硬件编程平台，能够帮助数以千万的新手真正入门。 
+    多模态人工智能是一种新型 AI 范式，是指图像、文本、语音、视频等多种数据类型，与多种智能处理算法相结合，以期实现更高的性能。 
     </details> 
 
-- 🕯 [雪球跨端架构建设之三端同构篇](https://juejin.cn/post/7168778901970223111) | Tue Nov 22 2022 10:04 AM 
+- 🕯 [RichTalk 快报 第 10 期](https://juejin.cn/post/7168799633089495053) | Tue Nov 22 2022 11:24 AM 
     <details><summary>展开描述 ...</summary> 
-    随着移动互联网的迅猛发展，目前市面上「端」的形态多种多样，Web、App 、车载、微信小程序等各种端大行其道，同一个业务需求往往又需要在多端上去实现，针对不同端去编写多套代码的成本显然非常高。 
+    这里是Tech 快报，每两周为你带来新鲜的技术资讯，如果想第一时间收到更新请关注本知识库。 本期快报速览： Typescirpt 4.9 从零实现一个迷你 Webpack 前端架构师的一些思考和总结  
     </details> 
 
-- 🚀 [最终一致性的方案](https://juejin.cn/post/7168777176521637924) | Tue Nov 22 2022 9:57 AM 
+- 🚀 [微前端——qiankun 主要特点](https://juejin.cn/post/7168794776882544676) | Tue Nov 22 2022 11:05 AM 
     <details><summary>展开描述 ...</summary> 
-    分布式系统中不可避免存在分布式事务带来的一致性问题。对于一致性的处理，分为强一致和最终一致性。对于大部分分布式系统，强烈建议放弃强一致性，采取最终一致性方案。 
+    qiankun 是基于 single-spa 提出的微前端框架, 提供了更加开箱即用的 API（single-spa + sandbox + import-html-entry）。 
     </details> 
 
-- 💪 [最终一致性的方案](https://juejin.cn/post/7168776842676027399) | Tue Nov 22 2022 9:56 AM 
+- 💪 [使用canvas给上传的整张图片添加平铺的水印](https://juejin.cn/post/7168790987093835789) | Tue Nov 22 2022 10:50 AM 
     <details><summary>展开描述 ...</summary> 
-    分布式系统中不可避免存在分布式事务带来的一致性问题。对于一致性的处理，分为强一致和最终一致性。对于大部分分布式系统，强烈建议放弃强一致性，采取最终一致性方案。 
+    哈喽，各位倔友们又见面了，本章我们继续来分享一个实用小技巧，给图片加水印功能，水印功能的目的是为了保护网站或作者版权，防止内容被别人利用或白嫖。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
