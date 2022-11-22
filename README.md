@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请问选 Unity 还是 Godot](https://www.v2ex.com/t/897079#reply1) | Tue Nov 22 2022 6:15 AM
-- 🤗 [2023 PHPer 路在何方？](https://www.v2ex.com/t/897074#reply2) | Tue Nov 22 2022 6:07 AM
-- 🎭 [一个流式操作数据库的开源框架 stream-query，从此告别 stream 流和 Optional](https://www.v2ex.com/t/897068#reply0) | Tue Nov 22 2022 5:49 AM
-- 🥷 [手贱把 C 盘用户下的文档指给了 D 盘，求教如何恢复？](https://www.v2ex.com/t/897063#reply7) | Tue Nov 22 2022 5:34 AM
-- 🐵 [[转] 图个明白 | 信创未来发展怎么看？](https://www.v2ex.com/t/897061#reply0) | Tue Nov 22 2022 5:32 AM<!-- v2ex:END -->
+- 🥸 [yq 封控与三体黑域](https://www.v2ex.com/t/897104#reply0) | Tue Nov 22 2022 7:12 AM
+- 🤗 [windows 有类似 netdata 这种工具吗？](https://www.v2ex.com/t/897102#reply0) | Tue Nov 22 2022 7:10 AM
+- 🎭 [AI 模型编译器 MegCC 开源，解决推理引擎体积问题](https://www.v2ex.com/t/897100#reply0) | Tue Nov 22 2022 7:09 AM
+- 🥷 [最近有人提“国产”，我也说说我的感受，抛砖引玉](https://www.v2ex.com/t/897090#reply10) | Tue Nov 22 2022 6:43 AM
+- 🐵 [遊戲開發 短信發送](https://www.v2ex.com/t/897081#reply0) | Tue Nov 22 2022 6:23 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
