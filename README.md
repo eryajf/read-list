@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [都是同样条件的mysql select语句，为什么读到的内容却不一样？](https://juejin.cn/post/7168634033025318948) | Tue Nov 22 2022 12:41 AM 
+- 🤗 [使用Spring Data JPA和QueryDSL为REST API构建查询语言](https://juejin.cn/post/7168669018839056391) | Tue Nov 22 2022 2:57 AM 
     <details><summary>展开描述 ...</summary> 
-    假设当前数据库里有下面这张表。 老规矩，以下内容还是默认发生在innodb引擎的可重复读隔离级别下。 大家可以看到，线程1，同样都是读 age &gt;= 3 的数据。第一次读到1条数据，这个是原始状态。这 
+    为什么要使用查询语言？对于任何复杂的API来说 - 通过非常简单的字段搜索 / 过滤资源是不够的。查询语言更灵活，允许您精确过滤所需的资源。 Query DSL配置 我们需要将以下依赖项添加到pom. 
     </details> 
 
-- 🎡 [基于gitlab ci_cd实现代码质量管理](https://juejin.cn/post/7168632863598837797) | Tue Nov 22 2022 12:37 AM 
+- 🎡 [Dart 扩展提示能用了吗？](https://juejin.cn/post/7168656227709222948) | Tue Nov 22 2022 2:07 AM 
     <details><summary>展开描述 ...</summary> 
-    在日常的代码开发工作中，为了管理代码的质量，不管是开发团队，还是测试团队，或多或少都有一些自己的管理规范。 但是规范的执行需要强有力的工具， 
+    在上一篇我们讲到了如何利用 analyzer_plugin 来自定义 `Lint`, 其实 `analyzer_plugin` 也能完成一些其他功能，我们一起看看这些的功能是如何完成的。 
     </details> 
 
-- 🕯 [两个事务并发写，能保证数据唯一吗？](https://juejin.cn/post/7168632493767065630) | Tue Nov 22 2022 12:35 AM 
+- 🕯 [Flutter 底部弹窗ModelBottomSheet的使用示例](https://juejin.cn/post/7168620905663299615) | Mon Nov 21 2022 11:50 PM 
     <details><summary>展开描述 ...</summary> 
-    哟，又是我小白。最近有点高产了。 连我自己都害怕了。 直接进入正题吧。 两个事务并发写，能保证数据唯一吗？ 我先来解释下标题讲的是个啥。 我们假设有这么一个用户注册的场景。用户并发请求注册新用户。 你 
+    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第2天，点击查看活动详情 Flutter 底部弹窗ModelBottomSheet的使用示例   在实际开发过程中，经常会用到底部弹 
     </details> 
 
-- 🚀 [mysql的索引为什么使用B+树而不使用跳表？](https://juejin.cn/post/7168631143539933192) | Tue Nov 22 2022 12:30 AM 
+- 🚀 [【深度学习】TensorFlow：TFRecords文件读取](https://juejin.cn/post/7168509679979347998) | Mon Nov 21 2022 4:38 PM 
     <details><summary>展开描述 ...</summary> 
-    在我们的印象中，mysql数据表里无非就是存储一行行的数据。跟个excel似的。 直接遍历这一行行数据，性能就是O&lpar;n&rpar;，比较慢。为了加速查询，使用了B+树来做索引，将查询性能优化到了O&lpar;lg&lpar;n&rpar;&rpar; 
+    1. 读取TFRecords文件 其实读取TFRecords文件大体思路与常规文件读取思路比较一致。但是，还是有一点不一样，在解码操作之前，需要解析Example操作（因为TFRecords比其他文件 
     </details> 
 
-- 💪 [八个 Web Components 前端框架，一定有一个你用得上](https://juejin.cn/post/7168630364246638606) | Tue Nov 22 2022 12:27 AM 
+- 💪 [OpenGL之仿美图实现不规则物体加描边特效](https://juejin.cn/post/7168502592249692197) | Mon Nov 21 2022 4:11 PM 
     <details><summary>展开描述 ...</summary> 
-    尽管 Web Components 可能还没有全面的进入研发者的视野，现在还备受争议，但是它已经被很多大厂已经直接或者间接将它用于实践，并且在市场上也出现了很多 Web Components 库。。。 
+    仿造美图用OpenGL在Android中实现描边功能，双通道有向距离场生成描边外框降低计算量，各种函数控制描边大小 
     </details> 
 <!-- juejin:END -->
 ### 少数派
