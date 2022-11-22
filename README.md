@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Tip2 - 从源码看 [self class] 和 [super class]](https://juejin.cn/post/7168539976223686687) | Mon Nov 21 2022 6:38 PM 
+- 🤗 [都是同样条件的mysql select语句，为什么读到的内容却不一样？](https://juejin.cn/post/7168634033025318948) | Tue Nov 22 2022 12:41 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 这篇文章起源于很古老的一个面试题，为什么一个类的 [self class] 和 [super class] 的输出是相同的，今天从源码的角度去分析一下。 场景再现： 输出： 源码 既然都是调用的 
+    假设当前数据库里有下面这张表。 老规矩，以下内容还是默认发生在innodb引擎的可重复读隔离级别下。 大家可以看到，线程1，同样都是读 age &gt;= 3 的数据。第一次读到1条数据，这个是原始状态。这 
     </details> 
 
-- 🎡 [Kotlin Flow啊，你将流向何方？](https://juejin.cn/post/7168511169781563428) | Mon Nov 21 2022 4:46 PM 
+- 🎡 [基于gitlab ci_cd实现代码质量管理](https://juejin.cn/post/7168632863598837797) | Tue Nov 22 2022 12:37 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 前边一系列的协程文章铺垫了很久，终于要分析Flow了。如果说协程是Kotlin的精华，那么Flow就是协程的精髓。 通过本篇文章，你将了解到： 1. 什么是流 而对于计算机世界的流： 比如想要查 
+    在日常的代码开发工作中，为了管理代码的质量，不管是开发团队，还是测试团队，或多或少都有一些自己的管理规范。 但是规范的执行需要强有力的工具， 
     </details> 
 
-- 🕯 [[Android开发学iOS系列] TableView展现一个list](https://juejin.cn/post/7168500107095048199) | Mon Nov 21 2022 4:02 PM 
+- 🕯 [两个事务并发写，能保证数据唯一吗？](https://juejin.cn/post/7168632493767065630) | Tue Nov 22 2022 12:35 AM 
     <details><summary>展开描述 ...</summary> 
-    传统&lpar;UIKit&rpar;iOS app中展现一个list的方法. 本文讲讲TableView的基本使用. 顺便介绍一下delegation. 
+    哟，又是我小白。最近有点高产了。 连我自己都害怕了。 直接进入正题吧。 两个事务并发写，能保证数据唯一吗？ 我先来解释下标题讲的是个啥。 我们假设有这么一个用户注册的场景。用户并发请求注册新用户。 你 
     </details> 
 
-- 🚀 [【云原生】Kubernetes（k8s）Calico 客户端工具 calicoctl](https://juejin.cn/post/7168497129189539853) | Mon Nov 21 2022 3:50 PM 
+- 🚀 [mysql的索引为什么使用B+树而不使用跳表？](https://juejin.cn/post/7168631143539933192) | Tue Nov 22 2022 12:30 AM 
     <details><summary>展开描述 ...</summary> 
-    calicoctl 是 Calico 客户端管理工具。 可以方便的管理 calico 网络，配置和安全策略，calicoctl 命令行提供了许多资源管理命令，允许您创建，修改，删除和查看不同的 Cal 
+    在我们的印象中，mysql数据表里无非就是存储一行行的数据。跟个excel似的。 直接遍历这一行行数据，性能就是O&lpar;n&rpar;，比较慢。为了加速查询，使用了B+树来做索引，将查询性能优化到了O&lpar;lg&lpar;n&rpar;&rpar; 
     </details> 
 
-- 💪 [安卓开发学Flutter——安装与构建环境的一些注意点（第一篇）](https://juejin.cn/post/7168491081825419277) | Mon Nov 21 2022 3:27 PM 
+- 💪 [八个 Web Components 前端框架，一定有一个你用得上](https://juejin.cn/post/7168630364246638606) | Tue Nov 22 2022 12:27 AM 
     <details><summary>展开描述 ...</summary> 
-    Flutter是多平台开发的利器，我在半年前和技术交流群就接触到了，但一直没有去主动学习，但为了未来的长足发展，还是去认真学习一下，本篇主要说明作者的安装与搭建环境的过程，如有错误，烦请大佬们指正！ 
+    尽管 Web Components 可能还没有全面的进入研发者的视野，现在还备受争议，但是它已经被很多大厂已经直接或者间接将它用于实践，并且在市场上也出现了很多 Web Components 库。。。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
