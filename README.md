@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [「MongoDB」基础操作](https://juejin.cn/post/7168770573118504991) | Tue Nov 22 2022 9:32 AM 
+- 🤗 [Mybatis-plus通过TypeHandler实现wkt字符串类型和数据库GEOMETRY类型自动转换](https://juejin.cn/post/7168760625190371364) | Tue Nov 22 2022 8:53 AM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「技术专题19期 漫谈数据库技术」活动 关于本文主要会介绍一些关于MongoDB数据库的基本操作： * 数据库相关 * 数据的导入、导出 * 集合操作 * 文档操作 * 关于游标 * 管道 
+    步骤一：导入依赖 步骤二：创建handle类 步骤三：对字段设置该handle 步骤四：测试 其他：XML写法 以上就完成了postgis数据自动入库和查询，是不是很秀，该块去尝试吧！！！ 
     </details> 
 
-- 🎡 [SwiftUI 开发之旅：Face ID 的使用技巧](https://juejin.cn/post/7168739744246038565) | Tue Nov 22 2022 7:31 AM 
+- 🎡 [MyBatis-工作原理](https://juejin.cn/post/7168755315654000647) | Tue Nov 22 2022 8:31 AM 
     <details><summary>展开描述 ...</summary> 
-    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第2天，点击查看活动详情 苹果在 iPhone X 上发布 Face ID 后，这一功能基本已经成为 iPhone 系列的标配了；在 
+    MyBatis-工作原理 Configuration封装了所有配置文件的详细信息 总结：把配置文件的信息解析并保存在Configuration对象中，返回包含了Configuration的Defaul 
     </details> 
 
-- 🕯 [从 NASL 说开：低代码编程语言能饭否](https://juejin.cn/post/7168732984525193230) | Tue Nov 22 2022 7:05 AM 
+- 🕯 [Jetpack Compose - 初识Modifier （十）](https://juejin.cn/post/7168754412804915213) | Tue Nov 22 2022 8:28 AM 
     <details><summary>展开描述 ...</summary> 
-    从 NASL 说开：低代码编程语言能饭否 风口之上，国内的低代码、无代码方案数不胜数。如下图所示，对于网易数帆推出的轻舟低代码平台，NASL是其中的关键，也是最大的差异化。NASL全称是NetEase 
+    modifier: Modifier = Modifier 的用法 Google 推荐在自定义一个Compose的时候，第一个有默认参数值的类型 要用 modifer ，例如： 有人可能会问为啥要这样 
     </details> 
 
-- 🚀 [Serverless 架构下的 AI 应用开发](https://juejin.cn/post/7168705867410636836) | Tue Nov 22 2022 5:20 AM 
+- 🚀 [关于优化响应速度的那些事情](https://juejin.cn/post/7168750174687199246) | Tue Nov 22 2022 8:12 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇内容连载自《Serverless 架构下的 AI 应用开发：入门、实战与性能优化》，欢迎大家点击观看。 
+    前端响应速度 抛却API的耗时不提，前端的响应速度主要是如下几部分 环节 解释 请求资源时间 通常在控制台的Network里面会看到，需要加载一些JS、IMG等的资源，这部分受网络、带宽等因素影响比较 
     </details> 
 
-- 💪 [全网v-model最详细讲解](https://juejin.cn/post/7168665158787530760) | Tue Nov 22 2022 2:42 AM 
+- 💪 [最新系统MacOs13 Ventura&lpar;M1/M2芯片&rpar; + Parallels Desktop 18&lpar;PD18史上最强虚拟机&rpar;永久使用攻略](https://juejin.cn/post/7168748960188727326) | Tue Nov 22 2022 8:07 AM 
     <details><summary>展开描述 ...</summary> 
-    v-model 是Vue框架的一种内置的API指令，本质是一种语法糖写法。它负责监听用户的输入事件以更新数据，并对一些极端场景进行一些特殊处理。 
+    众神殿内，高朋满座，胜友如云，Vmware、VirtualBox、Utm等虚拟机大神群英荟萃，只见位于C位王座上的Parallels怅惘抬头，缓缓逡巡，睥睨群小，目光到处，无人敢抬头对视。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
