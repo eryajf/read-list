@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [React native ios 上架](https://www.v2ex.com/t/897116#reply0) | Tue Nov 22 2022 7:55 AM
-- 🤗 [兄弟们，来吹爆东哥](https://www.v2ex.com/t/897106#reply61) | Tue Nov 22 2022 7:17 AM
-- 🎭 [yq 封控与三体黑域](https://www.v2ex.com/t/897104#reply1) | Tue Nov 22 2022 7:12 AM
-- 🥷 [windows 有类似 netdata 这种工具吗？](https://www.v2ex.com/t/897102#reply0) | Tue Nov 22 2022 7:10 AM
-- 🐵 [AI 模型编译器 MegCC 开源，解决推理引擎体积问题](https://www.v2ex.com/t/897100#reply0) | Tue Nov 22 2022 7:09 AM<!-- v2ex:END -->
+- 🥸 [想请一位 K8S 和虚拟机专家来帮帮我, 虚拟机 GPU 容器的问题](https://www.v2ex.com/t/897137#reply1) | Tue Nov 22 2022 9:04 AM
+- 🤗 [为什么我们不用 git 当数据库呢?](https://www.v2ex.com/t/897127#reply16) | Tue Nov 22 2022 8:47 AM
+- 🎭 [朋友们，有用过 opengl glsl 去水印的么？](https://www.v2ex.com/t/897124#reply0) | Tue Nov 22 2022 8:36 AM
+- 🥷 [Python 列表推导式的新手问题](https://www.v2ex.com/t/897122#reply3) | Tue Nov 22 2022 8:33 AM
+- 🐵 [React native ios 上架](https://www.v2ex.com/t/897116#reply0) | Tue Nov 22 2022 7:55 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
