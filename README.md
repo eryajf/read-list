@@ -364,7 +364,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请问大家有遇到 K8S 中 pod 一直在 pending，也没有 event 的情况吗？](https://www.v2ex.com/t/897185#reply0) | Tue Nov 22 2022 1:10 PM
+- 🥸 [请问大家有遇到 K8S 中 pod 一直在 pending，也没有 event 的情况吗？](https://www.v2ex.com/t/897185#reply1) | Tue Nov 22 2022 1:10 PM
 - 🤗 [三星 S22， Pixel 7 Pro 选哪个？](https://www.v2ex.com/t/897184#reply1) | Tue Nov 22 2022 1:06 PM
 - 🎭 [现在的技术网站都喜欢这么恰饭的吗？ 如果讨厌的话给你支招](https://www.v2ex.com/t/897180#reply0) | Tue Nov 22 2022 12:52 PM
 - 🥷 [有没有在局域网 wifi 环境下视频通话的开源软件](https://www.v2ex.com/t/897172#reply1) | Tue Nov 22 2022 12:08 PM
