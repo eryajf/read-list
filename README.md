@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [如何设计字段？你需要知道数据库设计范式](https://juejin.cn/post/7168822614096347172) | Tue Nov 22 2022 12:53 PM 
+- 🤗 [第6章 Elasticsearch优化](https://juejin.cn/post/7168849228523896846) | Tue Nov 22 2022 2:36 PM 
     <details><summary>展开描述 ...</summary> 
-    刚接触互联网时，从事的是前端岗位，跟一个40多岁的老大哥合作项目，项目推进的时候老大哥各种摆谱不按计划来，那种被扼住咽喉的感觉让我暗下决心，一定要能独挡一面，一个人要有搞定一个项目的能力和视野。 
+    6 . 1 硬件选择 Elasticsearch的基础是 Lucene，所有的索引和文档数据是存储在本地的磁盘中，具体的路径可在 ES 的配置文件../config/elasticsearch.yml 
     </details> 
 
-- 🎡 [React 之如何调试源码](https://juejin.cn/post/7168821587251036167) | Tue Nov 22 2022 12:49 PM 
+- 🎡 [第5章 Elasticsearch集成](https://juejin.cn/post/7168847715302916126) | Tue Nov 22 2022 2:31 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 React 源码如何调试，想必大家在阅读源码的时候一定会遇到，所以本篇我们来讲讲如何进行源码调试。 
+    5 . 1 pring Data框架集成 5 . 1 .1 Spring Data框架介绍 Spring Data是一个用于简化数据库、非关系型数据库、索引库访问，并支持云服务的开源框架。其主要目标是 
     </details> 
 
-- 🕯 [第1章 Elasticsearch概述](https://juejin.cn/post/7168818408639856676) | Tue Nov 22 2022 12:37 PM 
+- 🕯 [第4章 Elasticsearch进阶](https://juejin.cn/post/7168845946737360932) | Tue Nov 22 2022 2:24 PM 
     <details><summary>展开描述 ...</summary> 
-    1.1  Elasticsearch是什么 The Elastic Stack, 包括 Elasticsearch、Kibana、Beats 和 Logstash（也称为 ELK Stack）。能够安 
+    4 .1 核心概念 4 . 1 .1 索引（Index） 一个索引就是一个拥有几分相似特征的文档的集合。比如说，你可以有一个客户数据的索引，另一个产品目录的索引，还有一个订单数据的索引。一个索引由一个 
     </details> 
 
-- 🚀 [从 0 开始编译 Android 系统源码](https://juejin.cn/post/7168809689990299678) | Tue Nov 22 2022 12:05 PM 
+- 🚀 [【从0到1学习go语言】Go语言基础之运算符](https://juejin.cn/post/7168844494417166350) | Tue Nov 22 2022 2:18 PM 
     <details><summary>展开描述 ...</summary> 
-    在开始学习 Android Framework 的知识前，准备好相关的源码环境是非常有必要的。所以这篇文章主要是为了后续编译 Android 源码来做准备的。 
+    大家好,我是东东吖，本人是一名前端工程师，希望借助go语言能打通前后端的任通二脉，成为一名全栈工程师！另外，需要进技术交流群的同学，可以加我微信fangdongdong_25。 
     </details> 
 
-- 💪 [PyTorch 官方库「上新」，TorchMultimodal 助力多模态人工智能](https://juejin.cn/post/7168810150185304072) | Tue Nov 22 2022 12:05 PM 
+- 💪 [Golang Channel 详细原理和使用技巧](https://juejin.cn/post/7168842332723216420) | Tue Nov 22 2022 2:10 PM 
     <details><summary>展开描述 ...</summary> 
-    多模态人工智能是一种新型 AI 范式，是指图像、文本、语音、视频等多种数据类型，与多种智能处理算法相结合，以期实现更高的性能。 
+    通过本文可以全面的了解 Golang Channel 详细原理和相关使用技巧，可以把 channel 的一些基础能力和各个状态都弄清楚 
     </details> 
 <!-- juejin:END -->
 ### 少数派
