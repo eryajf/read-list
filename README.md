@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [求助，短信被删除，有没有办法还原恢复？](https://www.v2ex.com/t/896970#reply2) | Tue Nov 22 2022 1:20 AM
-- 🤗 [dnf 安装 rpm 包时怎么同步接受 gpgkey 呢？](https://www.v2ex.com/t/896941#reply3) | Mon Nov 21 2022 4:25 PM
-- 🎭 [Magician-Route 发布啦，去除反射，性能得到有效提升](https://www.v2ex.com/t/896937#reply0) | Mon Nov 21 2022 3:42 PM
-- 🥷 [2.2. [kustz] 定义字符串创建 Service](https://www.v2ex.com/t/896935#reply0) | Mon Nov 21 2022 3:31 PM
-- 🐵 [在设计表的时候，库存表和商品表是推荐库存是放到 sku 字段里，还是单独拆两个表呢 ？](https://www.v2ex.com/t/896932#reply3) | Mon Nov 21 2022 3:22 PM<!-- v2ex:END -->
+- 🥸 [Vscode 插件能否捕获到 terminal 中输出内容？](https://www.v2ex.com/t/897012#reply2) | Tue Nov 22 2022 2:57 AM
+- 🤗 [Python web UI 也来了](https://www.v2ex.com/t/897007#reply4) | Tue Nov 22 2022 2:49 AM
+- 🎭 [Rancher RKE2 给每个 worker node 都装一个 Ingress Controller 是为什么呢?](https://www.v2ex.com/t/896996#reply0) | Tue Nov 22 2022 2:37 AM
+- 🥷 [2017 年双 11 买的威联通 ts-251+还在服役](https://www.v2ex.com/t/896982#reply7) | Tue Nov 22 2022 2:01 AM
+- 🐵 [这个应该是比较全的各语言框架性能排行榜！](https://www.v2ex.com/t/896978#reply18) | Tue Nov 22 2022 1:42 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
