@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [从 0 开始编译 Android 系统源码](https://juejin.cn/post/7168809689990299678) | Tue Nov 22 2022 12:05 PM 
+- 🤗 [如何设计字段？你需要知道数据库设计范式](https://juejin.cn/post/7168822614096347172) | Tue Nov 22 2022 12:53 PM 
+    <details><summary>展开描述 ...</summary> 
+    刚接触互联网时，从事的是前端岗位，跟一个40多岁的老大哥合作项目，项目推进的时候老大哥各种摆谱不按计划来，那种被扼住咽喉的感觉让我暗下决心，一定要能独挡一面，一个人要有搞定一个项目的能力和视野。 
+    </details> 
+
+- 🎡 [React 之如何调试源码](https://juejin.cn/post/7168821587251036167) | Tue Nov 22 2022 12:49 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 React 源码如何调试，想必大家在阅读源码的时候一定会遇到，所以本篇我们来讲讲如何进行源码调试。 
+    </details> 
+
+- 🕯 [第1章 Elasticsearch概述](https://juejin.cn/post/7168818408639856676) | Tue Nov 22 2022 12:37 PM 
+    <details><summary>展开描述 ...</summary> 
+    1.1  Elasticsearch是什么 The Elastic Stack, 包括 Elasticsearch、Kibana、Beats 和 Logstash（也称为 ELK Stack）。能够安 
+    </details> 
+
+- 🚀 [从 0 开始编译 Android 系统源码](https://juejin.cn/post/7168809689990299678) | Tue Nov 22 2022 12:05 PM 
     <details><summary>展开描述 ...</summary> 
     在开始学习 Android Framework 的知识前，准备好相关的源码环境是非常有必要的。所以这篇文章主要是为了后续编译 Android 源码来做准备的。 
     </details> 
 
-- 🎡 [PyTorch 官方库「上新」，TorchMultimodal 助力多模态人工智能](https://juejin.cn/post/7168810150185304072) | Tue Nov 22 2022 12:05 PM 
+- 💪 [PyTorch 官方库「上新」，TorchMultimodal 助力多模态人工智能](https://juejin.cn/post/7168810150185304072) | Tue Nov 22 2022 12:05 PM 
     <details><summary>展开描述 ...</summary> 
     多模态人工智能是一种新型 AI 范式，是指图像、文本、语音、视频等多种数据类型，与多种智能处理算法相结合，以期实现更高的性能。 
-    </details> 
-
-- 🕯 [RichTalk 快报 第 10 期](https://juejin.cn/post/7168799633089495053) | Tue Nov 22 2022 11:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    这里是Tech 快报，每两周为你带来新鲜的技术资讯，如果想第一时间收到更新请关注本知识库。 本期快报速览： Typescirpt 4.9 从零实现一个迷你 Webpack 前端架构师的一些思考和总结  
-    </details> 
-
-- 🚀 [微前端——qiankun 主要特点](https://juejin.cn/post/7168794776882544676) | Tue Nov 22 2022 11:05 AM 
-    <details><summary>展开描述 ...</summary> 
-    qiankun 是基于 single-spa 提出的微前端框架, 提供了更加开箱即用的 API（single-spa + sandbox + import-html-entry）。 
-    </details> 
-
-- 💪 [使用canvas给上传的整张图片添加平铺的水印](https://juejin.cn/post/7168790987093835789) | Tue Nov 22 2022 10:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    哈喽，各位倔友们又见面了，本章我们继续来分享一个实用小技巧，给图片加水印功能，水印功能的目的是为了保护网站或作者版权，防止内容被别人利用或白嫖。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
