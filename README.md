@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Mybatis-plus通过TypeHandler实现wkt字符串类型和数据库GEOMETRY类型自动转换](https://juejin.cn/post/7168760625190371364) | Tue Nov 22 2022 8:53 AM 
+- 🤗 [我服了！SpringBoot升级后这服务我一个星期都没跑起来！（下）](https://juejin.cn/post/7168780065256243208) | Tue Nov 22 2022 10:08 AM 
     <details><summary>展开描述 ...</summary> 
-    步骤一：导入依赖 步骤二：创建handle类 步骤三：对字段设置该handle 步骤四：测试 其他：XML写法 以上就完成了postgis数据自动入库和查询，是不是很秀，该块去尝试吧！！！ 
+    上一次的升级过程中差不多已经跑起来90%了，这周一上班解决完一点小问题，服务已经正常跑起来了，于是再拿着一些其他的服务测试了一下，又发现了一些其他的报错，所以继续。 14. DiscoveryEnab 
     </details> 
 
-- 🎡 [MyBatis-工作原理](https://juejin.cn/post/7168755315654000647) | Tue Nov 22 2022 8:31 AM 
+- 🎡 [从 MicroBlocks 开始你的硬件编程之旅](https://juejin.cn/post/7168779967608651784) | Tue Nov 22 2022 10:08 AM 
     <details><summary>展开描述 ...</summary> 
-    MyBatis-工作原理 Configuration封装了所有配置文件的详细信息 总结：把配置文件的信息解析并保存在Configuration对象中，返回包含了Configuration的Defaul 
+    MicroBlocks 是硬件编程&lpar;物理计算&rpar;领域的 Scratch, 它是第一个具有 Scratch 临界质量的硬件编程平台，能够帮助数以千万的新手真正入门。 
     </details> 
 
-- 🕯 [Jetpack Compose - 初识Modifier （十）](https://juejin.cn/post/7168754412804915213) | Tue Nov 22 2022 8:28 AM 
+- 🕯 [雪球跨端架构建设之三端同构篇](https://juejin.cn/post/7168778901970223111) | Tue Nov 22 2022 10:04 AM 
     <details><summary>展开描述 ...</summary> 
-    modifier: Modifier = Modifier 的用法 Google 推荐在自定义一个Compose的时候，第一个有默认参数值的类型 要用 modifer ，例如： 有人可能会问为啥要这样 
+    随着移动互联网的迅猛发展，目前市面上「端」的形态多种多样，Web、App 、车载、微信小程序等各种端大行其道，同一个业务需求往往又需要在多端上去实现，针对不同端去编写多套代码的成本显然非常高。 
     </details> 
 
-- 🚀 [关于优化响应速度的那些事情](https://juejin.cn/post/7168750174687199246) | Tue Nov 22 2022 8:12 AM 
+- 🚀 [最终一致性的方案](https://juejin.cn/post/7168777176521637924) | Tue Nov 22 2022 9:57 AM 
     <details><summary>展开描述 ...</summary> 
-    前端响应速度 抛却API的耗时不提，前端的响应速度主要是如下几部分 环节 解释 请求资源时间 通常在控制台的Network里面会看到，需要加载一些JS、IMG等的资源，这部分受网络、带宽等因素影响比较 
+    分布式系统中不可避免存在分布式事务带来的一致性问题。对于一致性的处理，分为强一致和最终一致性。对于大部分分布式系统，强烈建议放弃强一致性，采取最终一致性方案。 
     </details> 
 
-- 💪 [最新系统MacOs13 Ventura&lpar;M1/M2芯片&rpar; + Parallels Desktop 18&lpar;PD18史上最强虚拟机&rpar;永久使用攻略](https://juejin.cn/post/7168748960188727326) | Tue Nov 22 2022 8:07 AM 
+- 💪 [最终一致性的方案](https://juejin.cn/post/7168776842676027399) | Tue Nov 22 2022 9:56 AM 
     <details><summary>展开描述 ...</summary> 
-    众神殿内，高朋满座，胜友如云，Vmware、VirtualBox、Utm等虚拟机大神群英荟萃，只见位于C位王座上的Parallels怅惘抬头，缓缓逡巡，睥睨群小，目光到处，无人敢抬头对视。 
+    分布式系统中不可避免存在分布式事务带来的一致性问题。对于一致性的处理，分为强一致和最终一致性。对于大部分分布式系统，强烈建议放弃强一致性，采取最终一致性方案。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
