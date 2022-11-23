@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Java 实现 ElasticSearch-SQL 检索流程](https://juejin.cn/post/7169178660925079583) | Wed Nov 23 2022 11:54 AM 
+- 🤗 [SQL 事务级别 与 支持 图解逻辑记录](https://juejin.cn/post/7169188595822460964) | Wed Nov 23 2022 12:33 PM 
+    <details><summary>展开描述 ...</summary> 
+    事务这个东西基本都了解 但是很多人不能将整个逻辑串联起来 可能大部分人就知道ACID 但是事务的知识远远不止ACID 怎么能抗住追问 和 完善自己的知识目录 这个还是不错的 建议认真看完 SQL 
+    </details> 
+
+- 🎡 [Java 实现 ElasticSearch-SQL 检索流程](https://juejin.cn/post/7169178660925079583) | Wed Nov 23 2022 11:54 AM 
     <details><summary>展开描述 ...</summary> 
     记录一个最近半年犯了两次的低级编码错误，校验某个字符串信息为枚举类的某实例时，写成了：枚举类的实例.equals&lpar;字符串&rpar; ，结果总是 false ，打印信息貌似正确，实际执行结果总是不达预期， 
     </details> 
 
-- 🎡 [安卓与串口通信-基础篇](https://juejin.cn/post/7169176877389578276) | Wed Nov 23 2022 11:49 AM 
+- 🕯 [安卓与串口通信-基础篇](https://juejin.cn/post/7169176877389578276) | Wed Nov 23 2022 11:49 AM 
     <details><summary>展开描述 ...</summary> 
     本文介绍了常用的串行通信和并行通信，而使用的串行比较多，其又分为同步串行与异步串行，常用异步串行，异步串行常用协议是UART即串口，为了解决串口通信的问题，又衍生出了 RS232和RS485协议 
     </details> 
 
-- 🕯 [react组件库系列：实现Anchor组件](https://juejin.cn/post/7169176663782064135) | Wed Nov 23 2022 11:47 AM 
+- 🚀 [react组件库系列：实现Anchor组件](https://juejin.cn/post/7169176663782064135) | Wed Nov 23 2022 11:47 AM 
     <details><summary>展开描述 ...</summary> 
     前言 之前写的react组件如下： Affix组件: react组件库源码+ 单测解析（Affix 固钉组件&rpar; Form组件：实现一个比ant-design更好form组件，可用于生产环境！ Grid 
     </details> 
 
-- 🚀 [从 RPC 到服务化框架设计](https://juejin.cn/post/7169170431587549198) | Wed Nov 23 2022 11:24 AM 
+- 💪 [从 RPC 到服务化框架设计](https://juejin.cn/post/7169170431587549198) | Wed Nov 23 2022 11:24 AM 
     <details><summary>展开描述 ...</summary> 
     从 RPC 到服务化框架设计 目前互联网系统都是微服务化，那么就需要 RPC 调用，因此本文梳理了从 RPC 基本框架协议到整个服务化框架体系建设中所包含的知识点，重点在于 RPC 框架 和 服务治理 
-    </details> 
-
-- 💪 [Docker安装MySql8主从](https://juejin.cn/post/7169164947664928775) | Wed Nov 23 2022 11:01 AM 
-    <details><summary>展开描述 ...</summary> 
-    主要介绍了基于docker环境，mysql:8.0.31的主从模式搭建步骤和使用说明和一些常见的错误解决方案 
     </details> 
 <!-- juejin:END -->
 ### 少数派
