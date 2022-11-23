@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [这是 google one 的 bug 还是 feature](https://www.v2ex.com/t/897461#reply0) | Wed Nov 23 2022 2:51 PM
-- 🤗 [geohot 找 Musk 说 12 周修好 twitter，结果发现不会改 react 于是就发帖在线求助。。。](https://www.v2ex.com/t/897447#reply2) | Wed Nov 23 2022 1:29 PM
-- 🎭 [一套 A 股提醒系统](https://www.v2ex.com/t/897435#reply7) | Wed Nov 23 2022 12:13 PM
-- 🥷 [有没有懂 springcloud 的兄弟，请教个问题](https://www.v2ex.com/t/897432#reply2) | Wed Nov 23 2022 11:53 AM
-- 🐵 [每月 10 刀上下，能否拥有亚太地区延迟稳定性能够用流量划算的省心服务器](https://www.v2ex.com/t/897430#reply13) | Wed Nov 23 2022 11:37 AM<!-- v2ex:END -->
+- 🥸 [有没有人在 Windows 下把 Caps Lock 和 Ctrl 互换的？](https://www.v2ex.com/t/897472#reply2) | Wed Nov 23 2022 4:16 PM
+- 🤗 [抛弃黑苹果，重回 Windows 怀抱](https://www.v2ex.com/t/897469#reply9) | Wed Nov 23 2022 3:53 PM
+- 🎭 [centos 有什么软件或者自己写脚本,实现网速推送呢](https://www.v2ex.com/t/897467#reply3) | Wed Nov 23 2022 3:26 PM
+- 🥷 [这是 google one 的 bug 还是 feature](https://www.v2ex.com/t/897461#reply3) | Wed Nov 23 2022 2:51 PM
+- 🐵 [geohot 找 Musk 说 12 周修好 twitter，结果发现不会改 react 于是就发帖在线求助。。。](https://www.v2ex.com/t/897447#reply2) | Wed Nov 23 2022 1:29 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
