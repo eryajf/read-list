@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [ES6中的Proxy](https://juejin.cn/post/7169103132679962654) | Wed Nov 23 2022 7:02 AM 
+- 🤗 [Tongsuo 支持半同态加密算法 Paillier](https://juejin.cn/post/7169115389627105294) | Wed Nov 23 2022 7:49 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 如果我们想要监视对象中的属性读写，可以使用es5提供的Object.defineProperty&lpar;&rpar;为对象添加属性，就可以捕获到对象中的属性读写的过程，这种方法应用非常广泛，在vue3.0之前的 
+    文｜王祖熙（花名：金九 &rpar; 蚂蚁集团开发工程师 负责国产化密码库 Tongsuo 的开发和维护 专注于密码学、高性能网络、网络安全等领域 本文 4316 字 阅读10 分钟 1. 背景 在《Tongs 
     </details> 
 
-- 🎡 [百度APP iOS端内存优化实践、像 Canvas 一样自由绘图构建样式！ | 酱酱的下午茶第116期](https://juejin.cn/post/7169098334446190605) | Wed Nov 23 2022 6:43 AM 
+- 🎡 [推荐10个React开源项目](https://juejin.cn/post/7169108697950453773) | Wed Nov 23 2022 7:23 AM 
     <details><summary>展开描述 ...</summary> 
-    【本期掘金酱的下午茶】亮点： 货拉拉客户端通用日志组件 - Glog Element Plus 组件库相关技术揭秘：7. 组件实现的基本流程及 Icon 组件的实现 如何管理pnpm monorepo 
+    1，Kutt.it Kutt是一个现代的URL缩短器，支持自定义域，可以用来缩短网址、管理链接并查看点击率统计信息。Kutt支持自定义域名，设置链接密码和描述，缩短URL的私人统计信息，查看、编辑、删 
     </details> 
 
-- 🕯 [突破 etcd 限制！字节自研 K8s 存储 KubeBrain](https://juejin.cn/post/7169088308771815431) | Wed Nov 23 2022 6:04 AM 
+- 🕯 [Shader从入门到放弃（四） —— 绘制闪耀星际](https://juejin.cn/post/7169108140024135688) | Wed Nov 23 2022 7:23 AM 
     <details><summary>展开描述 ...</summary> 
-    KubeBrain 是字节跳动针对 Kubernetes 元信息存储的使用需求，基于分布式 KV 存储引擎设计并实现的、可以取代 etcd 的元信息存储系统。 
+    今天的学习内容是绘制“闪耀星际”，正如歌中唱的那样：星际闪耀光影，落入你的眼睛，如迷人的水晶，把浪漫放映…… 
     </details> 
 
-- 🚀 [Java并发编程--多线程间的同步控制和通信](https://juejin.cn/post/7169085249329037348) | Wed Nov 23 2022 5:52 AM 
+- 🚀 [Apache Flume拦截器案例——日志的采集和汇总](https://juejin.cn/post/7169108428638388231) | Wed Nov 23 2022 7:22 AM 
     <details><summary>展开描述 ...</summary> 
-    使用多线程并发处理，目的是为了让程序更充分地利用CPU ，好能加快程序的处理速度和用户体验。如果每个线程各自处理的部分互不相干，那真是极好的，我们在程序主线程要做的同步控制最多也就是等待几个工作线程的 
+    1. 案例场景 A、B两台日志服务机器实时生产日志主要类型为access.log、nginx.log、web.log 现在要求：   把A、B 机器中的 
     </details> 
 
-- 💪 [进 4 球得 1 分，阿根廷败北背后的科技与狠活](https://juejin.cn/post/7169076291256205349) | Wed Nov 23 2022 5:18 AM 
+- 💪 [基于目录为VitePress生成侧边栏](https://juejin.cn/post/7169108165198348302) | Wed Nov 23 2022 7:22 AM 
     <details><summary>展开描述 ...</summary> 
-    11 月 22 日，世界杯 C 组首场比赛，沙特阿拉伯 2:1 反超阿根廷，今天我们将逐一盘点阿根廷进 4 球得 1 分背后的科技与狠活。 
+    今天封装了一个用于自动生成VitePress 侧边栏的npm包，分享一下。vitepress-plugin-autobar这应该是目前最简洁好用的生成VitePress 侧边栏的工具了。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
