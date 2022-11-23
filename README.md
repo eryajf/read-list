@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [小册上新 | 掌握 SpringBoot 场景整合，成为开发多面手！](https://juejin.cn/post/7169136052311949348) | Wed Nov 23 2022 9:09 AM 
+- 🤗 [前端如何快速实现业务大盘、dumi2正式发布｜掘金一周 11.23](https://juejin.cn/post/7169150966116139016) | Wed Nov 23 2022 10:07 AM 
+    <details><summary>展开描述 ...</summary> 
+    【掘金一周11.23】本期看点：原生 canvas 实现大屏、修复Vite升级后导致首屏时间长的负优化、签约作者专栏更新动态... 
+    </details> 
+
+- 🎡 [以小博大外小内大,Db数据库SQL优化之小数据驱动大数据](https://juejin.cn/post/7169138411008180232) | Wed Nov 23 2022 9:18 AM 
+    <details><summary>展开描述 ...</summary> 
+    SQL优化中，有一条放之四海而皆准的既定方针，那就是：永远以小数据驱动大数据。其本质其实就是以小的数据样本作为驱动查询能够优化查询效率。 
+    </details> 
+
+- 🕯 [小册上新 | 掌握 SpringBoot 场景整合，成为开发多面手！](https://juejin.cn/post/7169136052311949348) | Wed Nov 23 2022 9:09 AM 
     <details><summary>展开描述 ...</summary> 
     结合 6 种场景，讲解 SpringBoot 与场景中各项技术的整合过程，以及底层核心组件注册和相关工作原理。每个章节中不止有技术使用和 SpringBoot 的整合，还有自动装配和核心组件的讲解 
     </details> 
 
-- 🎡 [前端性能优化的思路（33个药引子）](https://juejin.cn/post/7169131511390666789) | Wed Nov 23 2022 8:52 AM 
+- 🚀 [MacOS 如何选择鼠标不飘滚动平滑](https://juejin.cn/post/7169112104677425165) | Wed Nov 23 2022 7:36 AM 
     <details><summary>展开描述 ...</summary> 
-    优化大体可以就拉取资源体积的大小，请求速度和资源组织方式角度去优化。也可以通过浏览器的`Performance`和`Lighthouse`模块生成加载或者性能报告，根据其提示的思路去优化页面。 
+    今天不务正业的聊聊 macos 下的鼠标的事情，群里也有朋友和我聊，正好说说这事。 我在很长的时间里都在用 macbook pro 的触控板 + 键盘的高效模式，因为触控板和键盘很近所以效率很高。 
     </details> 
 
-- 🕯 [TypeScript](https://juejin.cn/post/7169130782286413837) | Wed Nov 23 2022 8:49 AM 
+- 💪 [Java、Kotlin泛型全面解析](https://juejin.cn/post/7169109476933369886) | Wed Nov 23 2022 7:27 AM 
     <details><summary>展开描述 ...</summary> 
-    1、环境搭建 安装Node.js 使用npm包管理器全局安装typescript 创建ts文件 ts文件不能直接被浏览器识别，因此先使用tsc命令对ts文件进行编译 执行完毕文件夹中生成同名js文件  
-    </details> 
-
-- 🚀 [小城市里，也有原型](https://juejin.cn/post/7169130126444068901) | Wed Nov 23 2022 8:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    在产品经理手中，如同吃饭睡觉一般熟练的原型工具，对于茫茫大众来说，可能是个一生都不会有交集的名词。即使站在专业的高峰，如Axure，对于行外人来说，也是从未听说过的名字。即使有品牌的支撑，如Adobe 
-    </details> 
-
-- 💪 [四年前端真实过往面试经历](https://juejin.cn/post/7169130443139186718) | Wed Nov 23 2022 8:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    我这个人不喜欢也不擅长面试，从毕业到现在其实经历过的面试并不多，有记录的就更少了，以下是我在工作四年时面过的几家公司的一些面试题，分享出来，有的有的答案，有的没有，有的是认真答的，有的是胡扯的，仅供参 
+    相信大家对 Java、Kotlin 中的泛型都不陌生，今天带大家重新梳理一遍，进一步加深对泛型的理解。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
