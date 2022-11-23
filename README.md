@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有没有浏览器的请求头是 Accept-Encoding: deflate, gzip, br](https://www.v2ex.com/t/897423#reply0) | Wed Nov 23 2022 11:08 AM
-- 🤗 [List&lt;Apple&gt;不能赋值给 List&lt;object&gt;吗?](https://www.v2ex.com/t/897411#reply7) | Wed Nov 23 2022 10:13 AM
-- 🎭 [wine 有没有其他更好的替代软件](https://www.v2ex.com/t/897410#reply2) | Wed Nov 23 2022 10:12 AM
-- 🥷 [ubuntu18 如何升级到 openssh9.x， openssl3.x](https://www.v2ex.com/t/897388#reply5) | Wed Nov 23 2022 8:40 AM
-- 🐵 [一文讲透 CabloyJS 全栈框架的来龙去脉](https://www.v2ex.com/t/897377#reply9) | Wed Nov 23 2022 7:45 AM<!-- v2ex:END -->
+- 🥸 [一套 A 股提醒系统](https://www.v2ex.com/t/897435#reply1) | Wed Nov 23 2022 12:13 PM
+- 🤗 [有没有懂 springcloud 的兄弟，请教个问题](https://www.v2ex.com/t/897432#reply1) | Wed Nov 23 2022 11:53 AM
+- 🎭 [每月 10 刀上下，能否拥有亚太地区延迟稳定性能够用流量划算的省心服务器](https://www.v2ex.com/t/897430#reply6) | Wed Nov 23 2022 11:37 AM
+- 🥷 [有没有浏览器的请求头是 Accept-Encoding: deflate, gzip, br](https://www.v2ex.com/t/897423#reply1) | Wed Nov 23 2022 11:08 AM
+- 🐵 [List&lt;Apple&gt;不能赋值给 List&lt;object&gt;吗?](https://www.v2ex.com/t/897411#reply8) | Wed Nov 23 2022 10:13 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
