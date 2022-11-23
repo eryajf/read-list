@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [[Linux修炼]gcc和gdb的基本使用](https://juejin.cn/post/7169153555897516062) | Wed Nov 23 2022 10:17 AM 
+- 🤗 [Java 实现 ElasticSearch-SQL 检索流程](https://juejin.cn/post/7169178660925079583) | Wed Nov 23 2022 11:54 AM 
     <details><summary>展开描述 ...</summary> 
-    本文就来分享一波作者对Linux下gcc和gdb的学习心得与见解。笔者水平有限，难免存在纰漏，欢迎指正交流。 
+    记录一个最近半年犯了两次的低级编码错误，校验某个字符串信息为枚举类的某实例时，写成了：枚举类的实例.equals&lpar;字符串&rpar; ，结果总是 false ，打印信息貌似正确，实际执行结果总是不达预期， 
     </details> 
 
-- 🎡 [前端如何快速实现业务大盘、dumi2正式发布｜掘金一周 11.23](https://juejin.cn/post/7169150966116139016) | Wed Nov 23 2022 10:07 AM 
+- 🎡 [安卓与串口通信-基础篇](https://juejin.cn/post/7169176877389578276) | Wed Nov 23 2022 11:49 AM 
     <details><summary>展开描述 ...</summary> 
-    【掘金一周11.23】本期看点：原生 canvas 实现大屏、修复Vite升级后导致首屏时间长的负优化、签约作者专栏更新动态... 
+    本文介绍了常用的串行通信和并行通信，而使用的串行比较多，其又分为同步串行与异步串行，常用异步串行，异步串行常用协议是UART即串口，为了解决串口通信的问题，又衍生出了 RS232和RS485协议 
     </details> 
 
-- 🕯 [第135期：一次不算优化的优化](https://juejin.cn/post/7169148644967317535) | Wed Nov 23 2022 9:58 AM 
+- 🕯 [react组件库系列：实现Anchor组件](https://juejin.cn/post/7169176663782064135) | Wed Nov 23 2022 11:47 AM 
     <details><summary>展开描述 ...</summary> 
-    封面图 上周日本来想骑车去附近的定陵和昭陵转一转，但是由于疫情的原因都闭园了。 但是不得不说的是，骑着摩托车在幽静的盘山路上慢慢的跑，那种感觉真的是太棒了。 背景 前几天基于高德地图的API写的那个功 
+    前言 之前写的react组件如下： Affix组件: react组件库源码+ 单测解析（Affix 固钉组件&rpar; Form组件：实现一个比ant-design更好form组件，可用于生产环境！ Grid 
     </details> 
 
-- 🚀 [G 5.0：灵活易用的可视化渲染引擎来了](https://juejin.cn/post/7169146970005569566) | Wed Nov 23 2022 9:52 AM 
+- 🚀 [从 RPC 到服务化框架设计](https://juejin.cn/post/7169170431587549198) | Wed Nov 23 2022 11:24 AM 
     <details><summary>展开描述 ...</summary> 
-    导读 G 作为 AntV 底层的可视化渲染引擎，先进、稳定且高可扩展性的渲染能力可以为上层产品提供更多想象空间。同时我们也一直期待着 AntV 现有不同的可视化方案能够在统一的画布中绘制完成，并进行自 
+    从 RPC 到服务化框架设计 目前互联网系统都是微服务化，那么就需要 RPC 调用，因此本文梳理了从 RPC 基本框架协议到整个服务化框架体系建设中所包含的知识点，重点在于 RPC 框架 和 服务治理 
     </details> 
 
-- 💪 [前端需要去了解的nodejs知识（express源码分析）](https://juejin.cn/post/7169144446179606541) | Wed Nov 23 2022 9:42 AM 
+- 💪 [Docker安装MySql8主从](https://juejin.cn/post/7169164947664928775) | Wed Nov 23 2022 11:01 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 express是目前常用的nodejs框架之一，适用express开发项目可以节省我们 大量项目架构的时间，因为express的路由为核心的设计方便了我们适用传统的MVC来架构我们的项目。 路由 
+    主要介绍了基于docker环境，mysql:8.0.31的主从模式搭建步骤和使用说明和一些常见的错误解决方案 
     </details> 
 <!-- juejin:END -->
 ### 少数派
