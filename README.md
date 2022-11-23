@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Flutter Widget 之StatefulBuilder](https://juejin.cn/post/7169066463272108069) | Wed Nov 23 2022 4:39 AM 
+- 🤗 [ESP-IDF 蓝牙开发之 添加 characteristic](https://juejin.cn/post/7169056957569957918) | Wed Nov 23 2022 4:02 AM 
     <details><summary>展开描述 ...</summary> 
-    你曾否意识到你需要拆分一个大型的构建方法，但又觉得这听起来很费劲？ 试试StatefulBuilder 以最小的代价获得一个个单独的小部件的所有性能 想象一下，这样的一个小部件，有一个可以切换单一标志 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 我们主要需要认清目标：我们不是来研究蓝牙协议的，我们是来使用 ESP32-C3 跑蓝牙协议，用来 数据传输通讯的。我们要会用 ESP—IDF 提供的示例 
     </details> 
 
-- 🎡 [看到你的mock方案这么好用，比我的mock难用还要难受](https://juejin.cn/post/7169035584793640974) | Wed Nov 23 2022 2:39 AM 
+- 🎡 [【从0到1学习go语言】Go语言基础之数组](https://juejin.cn/post/7169047492502224932) | Wed Nov 23 2022 3:27 AM 
     <details><summary>展开描述 ...</summary> 
-    前言： 我们知道软件通常是在敏捷、竞争激烈的环境中开发的，现在很多时候我们很多开发都是前后端分离的，在前后端完成后就要马上进行联调测试上线等，那么这个时候一款好的mock工具就尤其重要了。 现有方案  
+    大家好,我是东东吖，本人是一名前端工程师，希望借助go语言能打通前后端的任通二脉，成为一名全栈工程师！另外，需要进技术交流群的同学，可以加我微信fangdongdong_25 
     </details> 
 
-- 🕯 [MicroBlocks 与其他编程语言的互操作](https://juejin.cn/post/7169031321291849735) | Wed Nov 23 2022 2:23 AM 
+- 🕯 [1742. 盒子中小球的最大数量 : 简单模拟题](https://juejin.cn/post/7169046957904625672) | Wed Nov 23 2022 3:24 AM 
     <details><summary>展开描述 ...</summary> 
-    在 MicroBlocks 和其他编程语言之间进行消息通信，以达到互操作的目的。 先来看一个简单的视频演示。可以在 Scratch 里控制 MicroBlocks 已经支持的数十种设备... 
+    题目描述 这是 LeetCode 上的 1742. 盒子中小球的最大数量 ，难度为 简单。 Tag : 「哈希表」、「模拟」 你在一家生产小球的玩具厂工作，有 n 个小球，编号从 lowLimit 开 
     </details> 
 
-- 🚀 [开源共建 | 中国移动冯江涛：ChunJun（原FlinkX）在数据入湖中的应用](https://juejin.cn/post/7169029984776880135) | Wed Nov 23 2022 2:18 AM 
+- 🚀 [云原生入门到进阶，1篇就够了！](https://juejin.cn/post/7169046730209427486) | Wed Nov 23 2022 3:22 AM 
     <details><summary>展开描述 ...</summary> 
-    ChunJun（原 FlinkX）是一个基于 Flink 提供易用、稳定、高效的批流统一的数据集成工具。2018 年 4 月，秉承着开源共享的理念，数栈技术团队在 github 上开源了 FlinkX 
+    开始阅读文章前，请角色切换：设想你作为一位中小型IT公司CTO，面对云原生技术决策，你需要回答两个问题： 为什么需要上云？ 上云有何弊端？ 作为一家公司的技术决策者，必须理解上云的利与弊，并结合公司各 
     </details> 
 
-- 💪 [上传文件很费时费力？那是你没用对方式](https://juejin.cn/post/7169027899062747167) | Wed Nov 23 2022 2:09 AM 
+- 💪 [基于NestJs + PostgresSQL + Docker + React + TypeScript模仿微信记账](https://juejin.cn/post/7169044991175000077) | Wed Nov 23 2022 3:17 AM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 前言 嗨，大家好，我是希留，一个被迫致力于全栈开发的老菜鸟。 上一篇文章说到上传文件使用云服务商的对象存储，感兴趣的可以阅读该文章：传送门 发布后有不少 
+    关于项目 这是一个模仿微信记账小程序的前后端分离全栈项目,共经历了需求分析,表结构设计,api接口设计,技术选型,前端开发,接口联调,生产环境部署上线等流程. 模拟了真实项目从无到有的流程. 关于技术 
     </details> 
 <!-- juejin:END -->
 ### 少数派
