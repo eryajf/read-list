@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Material Motion 的最完整实现 - Material Studies 示例应用 Reply 的 Angular 实现现已公开](https://www.v2ex.com/t/897332#reply0) | Wed Nov 23 2022 6:02 AM
-- 🤗 [杭州技术的薪资的中位数或平均数和北京差不多哇](https://www.v2ex.com/t/897324#reply1) | Wed Nov 23 2022 5:31 AM
-- 🎭 [请教买阿里云开票的方案](https://www.v2ex.com/t/897320#reply6) | Wed Nov 23 2022 5:25 AM
-- 🥷 [国产机 debug 特别卡顿的根本原因是什么？](https://www.v2ex.com/t/897308#reply1) | Wed Nov 23 2022 4:26 AM
-- 🐵 [求 mysql 数据同步 mongo 的工具或者方案](https://www.v2ex.com/t/897300#reply1) | Wed Nov 23 2022 3:55 AM<!-- v2ex:END -->
+- 🥸 [2.3. [kustz] 解析 URL 为 Ingress](https://www.v2ex.com/t/897358#reply0) | Wed Nov 23 2022 6:51 AM
+- 🤗 [RockyLinux vsftpd 虚拟用户问题](https://www.v2ex.com/t/897349#reply0) | Wed Nov 23 2022 6:37 AM
+- 🎭 [Material Motion 的最完整实现 - Material Studies 示例应用 Reply 的 Angular 实现现已公开](https://www.v2ex.com/t/897332#reply0) | Wed Nov 23 2022 6:02 AM
+- 🥷 [杭州技术的薪资的中位数或平均数和北京差不多哇](https://www.v2ex.com/t/897324#reply1) | Wed Nov 23 2022 5:31 AM
+- 🐵 [请教买阿里云开票的方案](https://www.v2ex.com/t/897320#reply10) | Wed Nov 23 2022 5:25 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
