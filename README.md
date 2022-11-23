@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Java语言中，关键字Volatile的使用你清楚吗？](https://juejin.cn/post/7169239464944861221) | Wed Nov 23 2022 3:50 PM 
+- 🤗 [最近我的视频播放浅学总结](https://juejin.cn/post/7169271322525040671) | Wed Nov 23 2022 5:54 PM 
+    <details><summary>展开描述 ...</summary> 
+    因为想做一个类似苹果的同播共享功能，这一段时间对音视频做了一些浅浅的学习，现简单总结记录。 我的需求是找到一个尽可能简单的方案来两人播放一段视频，并且能够进度和操作同步。 
+    </details> 
+
+- 🎡 [Java语言中，关键字Volatile的使用你清楚吗？](https://juejin.cn/post/7169239464944861221) | Wed Nov 23 2022 3:50 PM 
     <details><summary>展开描述 ...</summary> 
     开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第3天，点击查看活动详情 前言 在Java开发中，若仅为读写一个或两个对象就使用同步锁处理，会增大程序内存开销，而volatile关 
     </details> 
 
-- 🎡 [Redis的springboot整合](https://juejin.cn/post/7169237531115028493) | Wed Nov 23 2022 3:43 PM 
+- 🕯 [Redis的springboot整合](https://juejin.cn/post/7169237531115028493) | Wed Nov 23 2022 3:43 PM 
     <details><summary>展开描述 ...</summary> 
     本文正在参加「金石计划 . 瓜分6万现金大奖」 Redis的springboot整合 1、springboot整合 导入依赖 springboot 2.x后 ，原来使用的 Jedis 被 lettuc 
     </details> 
 
-- 🕯 [分布式事务](https://juejin.cn/post/7169237023910264840) | Wed Nov 23 2022 3:41 PM 
+- 🚀 [分布式事务](https://juejin.cn/post/7169237023910264840) | Wed Nov 23 2022 3:41 PM 
     <details><summary>展开描述 ...</summary> 
     本文正在参加「金石计划 . 瓜分6万现金大奖」 分布式事务 简述 分布式事务指事务的操作位于不同的节点上，需要保证事务的 AICD 特性。 例如在下单场景下，库存和订单如果不在同一个节点上，就涉及分布 
     </details> 
 
-- 🚀 [LeetCode 第108题](https://juejin.cn/post/7169236302091517960) | Wed Nov 23 2022 3:38 PM 
+- 💪 [LeetCode 第108题](https://juejin.cn/post/7169236302091517960) | Wed Nov 23 2022 3:38 PM 
     <details><summary>展开描述 ...</summary> 
     开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第3天，点击查看活动详情 LeetCode 第108题 题目描述（中等难度） 给一个升序数组，生成一个平衡二叉搜索树。平衡二叉树定义 
-    </details> 
-
-- 💪 [3天3定制大屏，反向PUA](https://juejin.cn/post/7169228978559926285) | Wed Nov 23 2022 3:10 PM 
-    <details><summary>展开描述 ...</summary> 
-    摘要     本次分享一段无讨价还价余地的单人3天定制化大屏全过程（强调说拖拽屏的请绕道,和你想的不一样）,要动效、要地图、要流光。天坑的心理博弈到最终解决的过程及技术思路。 前因      没啥征兆 
     </details> 
 <!-- juejin:END -->
 ### 少数派
