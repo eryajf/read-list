@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [geohot 找 Musk 说 12 周修好 twitter，结果发现不会改 react 于是就发帖在线求助。。。](https://www.v2ex.com/t/897447#reply2) | Wed Nov 23 2022 1:29 PM
-- 🤗 [一套 A 股提醒系统](https://www.v2ex.com/t/897435#reply7) | Wed Nov 23 2022 12:13 PM
-- 🎭 [有没有懂 springcloud 的兄弟，请教个问题](https://www.v2ex.com/t/897432#reply1) | Wed Nov 23 2022 11:53 AM
-- 🥷 [每月 10 刀上下，能否拥有亚太地区延迟稳定性能够用流量划算的省心服务器](https://www.v2ex.com/t/897430#reply12) | Wed Nov 23 2022 11:37 AM
-- 🐵 [有没有浏览器的请求头是 Accept-Encoding: deflate, gzip, br](https://www.v2ex.com/t/897423#reply1) | Wed Nov 23 2022 11:08 AM<!-- v2ex:END -->
+- 🥸 [这是 google one 的 bug 还是 feature](https://www.v2ex.com/t/897461#reply0) | Wed Nov 23 2022 2:51 PM
+- 🤗 [geohot 找 Musk 说 12 周修好 twitter，结果发现不会改 react 于是就发帖在线求助。。。](https://www.v2ex.com/t/897447#reply2) | Wed Nov 23 2022 1:29 PM
+- 🎭 [一套 A 股提醒系统](https://www.v2ex.com/t/897435#reply7) | Wed Nov 23 2022 12:13 PM
+- 🥷 [有没有懂 springcloud 的兄弟，请教个问题](https://www.v2ex.com/t/897432#reply2) | Wed Nov 23 2022 11:53 AM
+- 🐵 [每月 10 刀上下，能否拥有亚太地区延迟稳定性能够用流量划算的省心服务器](https://www.v2ex.com/t/897430#reply13) | Wed Nov 23 2022 11:37 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
