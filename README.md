@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [ESP-IDF 蓝牙开发之 添加 characteristic](https://juejin.cn/post/7169056957569957918) | Wed Nov 23 2022 4:02 AM 
+- 🤗 [ES6中的Proxy](https://juejin.cn/post/7169103132679962654) | Wed Nov 23 2022 7:02 AM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 我们主要需要认清目标：我们不是来研究蓝牙协议的，我们是来使用 ESP32-C3 跑蓝牙协议，用来 数据传输通讯的。我们要会用 ESP—IDF 提供的示例 
+    前言 如果我们想要监视对象中的属性读写，可以使用es5提供的Object.defineProperty&lpar;&rpar;为对象添加属性，就可以捕获到对象中的属性读写的过程，这种方法应用非常广泛，在vue3.0之前的 
     </details> 
 
-- 🎡 [【从0到1学习go语言】Go语言基础之数组](https://juejin.cn/post/7169047492502224932) | Wed Nov 23 2022 3:27 AM 
+- 🎡 [百度APP iOS端内存优化实践、像 Canvas 一样自由绘图构建样式！ | 酱酱的下午茶第116期](https://juejin.cn/post/7169098334446190605) | Wed Nov 23 2022 6:43 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好,我是东东吖，本人是一名前端工程师，希望借助go语言能打通前后端的任通二脉，成为一名全栈工程师！另外，需要进技术交流群的同学，可以加我微信fangdongdong_25 
+    【本期掘金酱的下午茶】亮点： 货拉拉客户端通用日志组件 - Glog Element Plus 组件库相关技术揭秘：7. 组件实现的基本流程及 Icon 组件的实现 如何管理pnpm monorepo 
     </details> 
 
-- 🕯 [1742. 盒子中小球的最大数量 : 简单模拟题](https://juejin.cn/post/7169046957904625672) | Wed Nov 23 2022 3:24 AM 
+- 🕯 [突破 etcd 限制！字节自研 K8s 存储 KubeBrain](https://juejin.cn/post/7169088308771815431) | Wed Nov 23 2022 6:04 AM 
     <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 1742. 盒子中小球的最大数量 ，难度为 简单。 Tag : 「哈希表」、「模拟」 你在一家生产小球的玩具厂工作，有 n 个小球，编号从 lowLimit 开 
+    KubeBrain 是字节跳动针对 Kubernetes 元信息存储的使用需求，基于分布式 KV 存储引擎设计并实现的、可以取代 etcd 的元信息存储系统。 
     </details> 
 
-- 🚀 [云原生入门到进阶，1篇就够了！](https://juejin.cn/post/7169046730209427486) | Wed Nov 23 2022 3:22 AM 
+- 🚀 [Java并发编程--多线程间的同步控制和通信](https://juejin.cn/post/7169085249329037348) | Wed Nov 23 2022 5:52 AM 
     <details><summary>展开描述 ...</summary> 
-    开始阅读文章前，请角色切换：设想你作为一位中小型IT公司CTO，面对云原生技术决策，你需要回答两个问题： 为什么需要上云？ 上云有何弊端？ 作为一家公司的技术决策者，必须理解上云的利与弊，并结合公司各 
+    使用多线程并发处理，目的是为了让程序更充分地利用CPU ，好能加快程序的处理速度和用户体验。如果每个线程各自处理的部分互不相干，那真是极好的，我们在程序主线程要做的同步控制最多也就是等待几个工作线程的 
     </details> 
 
-- 💪 [基于NestJs + PostgresSQL + Docker + React + TypeScript模仿微信记账](https://juejin.cn/post/7169044991175000077) | Wed Nov 23 2022 3:17 AM 
+- 💪 [进 4 球得 1 分，阿根廷败北背后的科技与狠活](https://juejin.cn/post/7169076291256205349) | Wed Nov 23 2022 5:18 AM 
     <details><summary>展开描述 ...</summary> 
-    关于项目 这是一个模仿微信记账小程序的前后端分离全栈项目,共经历了需求分析,表结构设计,api接口设计,技术选型,前端开发,接口联调,生产环境部署上线等流程. 模拟了真实项目从无到有的流程. 关于技术 
+    11 月 22 日，世界杯 C 组首场比赛，沙特阿拉伯 2:1 反超阿根廷，今天我们将逐一盘点阿根廷进 4 球得 1 分背后的科技与狠活。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
