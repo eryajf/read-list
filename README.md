@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Java 8 Strem基本操作](https://juejin.cn/post/7169038595725426719) | Wed Nov 23 2022 2:51 AM 
+- 🤗 [看到你的mock方案这么好用，比我的mock难用还要难受](https://juejin.cn/post/7169035584793640974) | Wed Nov 23 2022 2:39 AM 
     <details><summary>展开描述 ...</summary> 
-    本文提供了有关Java 8 Stream的深入概述。当我第一次读到的Stream API，我感到很困惑，因为它听起来类似Java I/O的InputStream，OutputStream。但Java  
+    前言： 我们知道软件通常是在敏捷、竞争激烈的环境中开发的，现在很多时候我们很多开发都是前后端分离的，在前后端完成后就要马上进行联调测试上线等，那么这个时候一款好的mock工具就尤其重要了。 现有方案  
     </details> 
 
-- 🎡 [如何使用轮播图实现水平内容自动切换](https://juejin.cn/post/7169025065302884383) | Wed Nov 23 2022 1:58 AM 
+- 🎡 [pgsql slot 问题定位](https://juejin.cn/post/7169020267862163486) | Wed Nov 23 2022 1:40 AM 
     <details><summary>展开描述 ...</summary> 
-    本文介绍了使用Towify在微信小程序中如何使用轮播图实现水平内容自动切换，欢迎大家试用我们的无代码开发平台Towify制作微信小程序。 
+    本文正在参加「技术专题19期 漫谈数据库技术」活动 序 今天上线一个 binlog监听和 分发到 业务端的中间系统, 刚上线 告诉我 ReplicationSlot延迟 比较大 。。。。不要这么搞啊  
     </details> 
 
-- 🕯 [对抗生成网络GAN系列——Spectral Normalization原理详解及源码解析](https://juejin.cn/post/7169013279304941582) | Wed Nov 23 2022 1:13 AM 
+- 🕯 [保姆级Vue3+Vite项目实战黑白模式切换](https://juejin.cn/post/7169019721747005454) | Wed Nov 23 2022 1:38 AM 
     <details><summary>展开描述 ...</summary> 
-    本文介绍了一种实现Lipschitz 连续条件的新方法——SpectralNormalization，以实现更稳定的GAN，快来看看叭🌱🌱🌱 
+    本文为 Vue3+Vite 项目实战系列教程文章第四篇，系列文章建议从头观看效果更佳，本文的核心是介绍项目中的黑白模式切换。 
     </details> 
 
-- 🚀 [以非设计师身份设计直观的 Kibana 仪表板](https://juejin.cn/post/7169008097011171364) | Wed Nov 23 2022 12:53 AM 
+- 🚀 [动态路由TheRouter的设计与实践](https://juejin.cn/post/7169017197442891806) | Wed Nov 23 2022 1:28 AM 
     <details><summary>展开描述 ...</summary> 
-    作者：Carly Richmond，Marco Vettorello，Giovanni Magni 开发人员、SRE 工程师和才华横溢的技术人员通常需要构建快速仪表板来展示有关其应用程序状态的重要信息 
+    大家好，今天跟大家分享的是一个开源路由TheRouter的设计。 代码地址： https://github.com/HuolalaTech/hll-wp-therouter-android 先来看一下 
     </details> 
 
-- 💪 [Rollup 与 Webpack 的 Tree-shaking](https://juejin.cn/post/7169004126469914654) | Wed Nov 23 2022 12:38 AM 
+- 💪 [编译实战 | 手摸手教你在Windows环境下运行Redis6.x](https://juejin.cn/post/7169016441310543885) | Wed Nov 23 2022 1:25 AM 
     <details><summary>展开描述 ...</summary> 
-    Rollup 和 Webpack 是目前项目中使用较为广泛的两种打包工具，去年发布的 Vite 中打包所依赖的也是 Rollup；在对界面加载效率要求越来越高的今天，打包工具最终产出的包体积也影响着开 
+    windows系统不支持redis6？气抖冷，我们windows用户什么时候才能站起来！算了，咱们自己来编译一个吧~ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
