@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [前端如何快速实现业务大盘、dumi2正式发布｜掘金一周 11.23](https://juejin.cn/post/7169150966116139016) | Wed Nov 23 2022 10:07 AM 
+- 🤗 [[Linux修炼]gcc和gdb的基本使用](https://juejin.cn/post/7169153555897516062) | Wed Nov 23 2022 10:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文就来分享一波作者对Linux下gcc和gdb的学习心得与见解。笔者水平有限，难免存在纰漏，欢迎指正交流。 
+    </details> 
+
+- 🎡 [前端如何快速实现业务大盘、dumi2正式发布｜掘金一周 11.23](https://juejin.cn/post/7169150966116139016) | Wed Nov 23 2022 10:07 AM 
     <details><summary>展开描述 ...</summary> 
     【掘金一周11.23】本期看点：原生 canvas 实现大屏、修复Vite升级后导致首屏时间长的负优化、签约作者专栏更新动态... 
     </details> 
 
-- 🎡 [以小博大外小内大,Db数据库SQL优化之小数据驱动大数据](https://juejin.cn/post/7169138411008180232) | Wed Nov 23 2022 9:18 AM 
+- 🕯 [第135期：一次不算优化的优化](https://juejin.cn/post/7169148644967317535) | Wed Nov 23 2022 9:58 AM 
     <details><summary>展开描述 ...</summary> 
-    SQL优化中，有一条放之四海而皆准的既定方针，那就是：永远以小数据驱动大数据。其本质其实就是以小的数据样本作为驱动查询能够优化查询效率。 
+    封面图 上周日本来想骑车去附近的定陵和昭陵转一转，但是由于疫情的原因都闭园了。 但是不得不说的是，骑着摩托车在幽静的盘山路上慢慢的跑，那种感觉真的是太棒了。 背景 前几天基于高德地图的API写的那个功 
     </details> 
 
-- 🕯 [小册上新 | 掌握 SpringBoot 场景整合，成为开发多面手！](https://juejin.cn/post/7169136052311949348) | Wed Nov 23 2022 9:09 AM 
+- 🚀 [G 5.0：灵活易用的可视化渲染引擎来了](https://juejin.cn/post/7169146970005569566) | Wed Nov 23 2022 9:52 AM 
     <details><summary>展开描述 ...</summary> 
-    结合 6 种场景，讲解 SpringBoot 与场景中各项技术的整合过程，以及底层核心组件注册和相关工作原理。每个章节中不止有技术使用和 SpringBoot 的整合，还有自动装配和核心组件的讲解 
+    导读 G 作为 AntV 底层的可视化渲染引擎，先进、稳定且高可扩展性的渲染能力可以为上层产品提供更多想象空间。同时我们也一直期待着 AntV 现有不同的可视化方案能够在统一的画布中绘制完成，并进行自 
     </details> 
 
-- 🚀 [MacOS 如何选择鼠标不飘滚动平滑](https://juejin.cn/post/7169112104677425165) | Wed Nov 23 2022 7:36 AM 
+- 💪 [前端需要去了解的nodejs知识（express源码分析）](https://juejin.cn/post/7169144446179606541) | Wed Nov 23 2022 9:42 AM 
     <details><summary>展开描述 ...</summary> 
-    今天不务正业的聊聊 macos 下的鼠标的事情，群里也有朋友和我聊，正好说说这事。 我在很长的时间里都在用 macbook pro 的触控板 + 键盘的高效模式，因为触控板和键盘很近所以效率很高。 
-    </details> 
-
-- 💪 [Java、Kotlin泛型全面解析](https://juejin.cn/post/7169109476933369886) | Wed Nov 23 2022 7:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    相信大家对 Java、Kotlin 中的泛型都不陌生，今天带大家重新梳理一遍，进一步加深对泛型的理解。 
+    前言 express是目前常用的nodejs框架之一，适用express开发项目可以节省我们 大量项目架构的时间，因为express的路由为核心的设计方便了我们适用传统的MVC来架构我们的项目。 路由 
     </details> 
 <!-- juejin:END -->
 ### 少数派
