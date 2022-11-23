@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [RabbitMQ的高可用和高可靠](https://juejin.cn/post/7168868458367549453) | Tue Nov 22 2022 3:51 PM 
+- 🤗 [Redis缓存何以一枝独秀？——从百变应用场景与热门面试题中感受下Redis的核心特性与使用注意点](https://juejin.cn/post/7168986323754156069) | Tue Nov 22 2022 11:29 PM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 RabbitMQ消息队列高可用和高可靠 01、什么是高可用机制 所谓高可用：是指产品在规定的条件和规定的时刻或时间内处于可执行规定功能状态的能力。 当业 
+    在分布式盛行的今天，本地缓存明显无法满足分布式场景的缓存诉求。作为应对之法，集中式缓存被广泛使用在各中分布式系统中，而使用最广泛的莫过于大家耳熟能详的Redis了，本篇开始聊一聊Redis相关的内容。 
     </details> 
 
-- 🎡 [老酒新瓶  |  关于Lifecycle, 你应该知道的这些事](https://juejin.cn/post/7168868230977552421) | Tue Nov 22 2022 3:51 PM 
+- 🎡 [现代 CSS 高阶技巧，像 Canvas 一样自由绘图构建样式！](https://juejin.cn/post/7168984450230353950) | Tue Nov 22 2022 11:21 PM 
     <details><summary>展开描述 ...</summary> 
-    本文将深入浅出，从背景到源码实现，分析Lifecycle本身的设计思想，从而为理解JetPack系列库迈下第一步。 
+    我的新的专栏 -- 现代 CSS 与 Web 动画解决方案。 将专注于实现复杂布局，兼容设备差异，制作酷炫动画，制作复杂交互，提升可访问性及构建奇思妙想效果等方面的内容。 在兼顾基础概述的同时，注重对 
     </details> 
 
-- 🕯 [Redis数据结构大全](https://juejin.cn/post/7168867437897596965) | Tue Nov 22 2022 3:47 PM 
+- 🕯 [使用 Next.js 搭建 Monorepo 组件库文档](https://juejin.cn/post/7168885699507126303) | Tue Nov 22 2022 4:59 PM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 Redis数据结构大全 五大基本数据类型 Redis是一个开源（BSD许可），内存存储的数据结构服务器，可用作数据库，高速缓存和消息队列代理。它支持字符 
+    本文，我们从零开始，使用 Next.js 和 pnpm 搭建了一个组件库文档，主要使用 Next.js 动态导入功能解决了开发服务缓慢的问题，使用 Next.js 的 SSG 模式来生成静态文档。 
     </details> 
 
-- 🚀 [LeetCode 第107题](https://juejin.cn/post/7168866260925546503) | Tue Nov 22 2022 3:42 PM 
+- 🚀 [Tip3 - 让我们搞定 GCD](https://juejin.cn/post/7168884409104334885) | Tue Nov 22 2022 4:56 PM 
     <details><summary>展开描述 ...</summary> 
-    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第2天，点击查看活动详情 LeetCode 第107题 题目描述（中等难度） 树的层次遍历，和 102 题 的不同之处是，之前输出的 
+    GCD 是什么？ GCD，全称 Grand Central Dispatch，是异步执行任务的技术之一。一般将应用程序中记述的线程管理用的代码在系统级中实现。开发者只需要定义想执行的任务并追加到适当的 
     </details> 
 
-- 💪 [通过 Apifox Echo 了解 Content-Type 及对应的请求体编码](https://juejin.cn/post/7168852906865606669) | Tue Nov 22 2022 2:50 PM 
+- 💪 [在k8s安装CICD-devtron](https://juejin.cn/post/7168882356429062151) | Tue Nov 22 2022 4:45 PM 
     <details><summary>展开描述 ...</summary> 
-    我们在与后端接口联调中，你知道请求体可以由哪几种类型，以及对应的 Content-Type 是多少吗？ 今天以 Apifox Echo 演示一下不同 Content-Type 的 HTTP 报文。关于 
+    在k8s安装CICD-devtron 先前条件 《kubernetes&lpar;k8s&rpar; 存储动态挂载》 参考我之前的文档进行部署 https://www.oiox.cn/index.php/archives 
     </details> 
 <!-- juejin:END -->
 ### 少数派
