@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [ubuntu18 如何升级到 openssh9.x， openssl3.x](https://www.v2ex.com/t/897388#reply2) | Wed Nov 23 2022 8:40 AM
-- 🤗 [一文讲透 CabloyJS 全栈框架的来龙去脉](https://www.v2ex.com/t/897377#reply6) | Wed Nov 23 2022 7:45 AM
-- 🎭 [2.3. [kustz] 解析 URL 为 Ingress](https://www.v2ex.com/t/897358#reply0) | Wed Nov 23 2022 6:51 AM
-- 🥷 [RockyLinux vsftpd 虚拟用户问题](https://www.v2ex.com/t/897349#reply0) | Wed Nov 23 2022 6:37 AM
-- 🐵 [Material Motion 的最完整实现 - Material Studies 示例应用 Reply 的 Angular 实现现已公开](https://www.v2ex.com/t/897332#reply0) | Wed Nov 23 2022 6:02 AM<!-- v2ex:END -->
+- 🥸 [List&lt;Apple&gt;不能赋值给 List&lt;object&gt;吗?](https://www.v2ex.com/t/897411#reply0) | Wed Nov 23 2022 10:13 AM
+- 🤗 [wine 有没有其他更好的替代软件](https://www.v2ex.com/t/897410#reply0) | Wed Nov 23 2022 10:12 AM
+- 🎭 [ubuntu18 如何升级到 openssh9.x， openssl3.x](https://www.v2ex.com/t/897388#reply5) | Wed Nov 23 2022 8:40 AM
+- 🥷 [一文讲透 CabloyJS 全栈框架的来龙去脉](https://www.v2ex.com/t/897377#reply7) | Wed Nov 23 2022 7:45 AM
+- 🐵 [2.3. [kustz] 解析 URL 为 Ingress](https://www.v2ex.com/t/897358#reply0) | Wed Nov 23 2022 6:51 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
