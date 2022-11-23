@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [MySQL关于Count你知道多少](https://juejin.cn/post/7169209454049624077) | Wed Nov 23 2022 1:54 PM 
+- 🤗 [3天3定制大屏，反向PUA](https://juejin.cn/post/7169228978559926285) | Wed Nov 23 2022 3:10 PM 
+    <details><summary>展开描述 ...</summary> 
+    摘要     本次分享一段无讨价还价余地的单人3天定制化大屏全过程（强调说拖拽屏的请绕道,和你想的不一样）,要动效、要地图、要流光。天坑的心理博弈到最终解决的过程及技术思路。 前因      没啥征兆 
+    </details> 
+
+- 🎡 [ThreadPoolExecutor源码细节探索](https://juejin.cn/post/7169216470512041992) | Wed Nov 23 2022 2:21 PM 
+    <details><summary>展开描述 ...</summary> 
+    理解ThreadPoolExecutor，甚至任何其他的类或组件，我觉得从两个点出发会更顺滑：他的数据结构和结构中的属性变化。在整体脉络的基础上探索细节，以加深理解线程池的设计 
+    </details> 
+
+- 🕯 [MySQL关于Count你知道多少](https://juejin.cn/post/7169209454049624077) | Wed Nov 23 2022 1:54 PM 
     <details><summary>展开描述 ...</summary> 
     MySQL关于Count你知道多少 统计数据的需求在我们日常开发中是非常容易遇到了，MySQL也支持多种的计算的函数， 接下来我们来看一看他们之间有什么区别，以及他们是否存在一些坑。 
     </details> 
 
-- 🎡 [每天一个摸鱼小技巧之「理解代码评审」](https://juejin.cn/post/7169209171747799077) | Wed Nov 23 2022 1:53 PM 
+- 🚀 [每天一个摸鱼小技巧之「理解代码评审」](https://juejin.cn/post/7169209171747799077) | Wed Nov 23 2022 1:53 PM 
     <details><summary>展开描述 ...</summary> 
     本文正在参加「金石计划 . 瓜分6万现金大奖」 每个人的代码风格不同，在需要团队协作的项目里，如果没有统一的编程规范，那么会出现各式各样的代码，这对于团队成员来讲是个「灾难」。在需要对接协作模块时，要 
     </details> 
 
-- 🕯 [SQL 事务级别 与 支持 图解逻辑记录](https://juejin.cn/post/7169188595822460964) | Wed Nov 23 2022 12:33 PM 
+- 💪 [SQL 事务级别 与 支持 图解逻辑记录](https://juejin.cn/post/7169188595822460964) | Wed Nov 23 2022 12:33 PM 
     <details><summary>展开描述 ...</summary> 
     事务这个东西基本都了解 但是很多人不能将整个逻辑串联起来 可能大部分人就知道ACID 但是事务的知识远远不止ACID 怎么能抗住追问 和 完善自己的知识目录 这个还是不错的 建议认真看完 SQL 
-    </details> 
-
-- 🚀 [Java 实现 ElasticSearch-SQL 检索流程](https://juejin.cn/post/7169178660925079583) | Wed Nov 23 2022 11:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    记录一个最近半年犯了两次的低级编码错误，校验某个字符串信息为枚举类的某实例时，写成了：枚举类的实例.equals&lpar;字符串&rpar; ，结果总是 false ，打印信息貌似正确，实际执行结果总是不达预期， 
-    </details> 
-
-- 💪 [安卓与串口通信-基础篇](https://juejin.cn/post/7169176877389578276) | Wed Nov 23 2022 11:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文介绍了常用的串行通信和并行通信，而使用的串行比较多，其又分为同步串行与异步串行，常用异步串行，异步串行常用协议是UART即串口，为了解决串口通信的问题，又衍生出了 RS232和RS485协议 
     </details> 
 <!-- juejin:END -->
 ### 少数派
