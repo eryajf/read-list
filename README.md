@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Tongsuo 支持半同态加密算法 Paillier](https://juejin.cn/post/7169115389627105294) | Wed Nov 23 2022 7:49 AM 
+- 🤗 [小册上新 | 掌握 SpringBoot 场景整合，成为开发多面手！](https://juejin.cn/post/7169136052311949348) | Wed Nov 23 2022 9:09 AM 
     <details><summary>展开描述 ...</summary> 
-    文｜王祖熙（花名：金九 &rpar; 蚂蚁集团开发工程师 负责国产化密码库 Tongsuo 的开发和维护 专注于密码学、高性能网络、网络安全等领域 本文 4316 字 阅读10 分钟 1. 背景 在《Tongs 
+    结合 6 种场景，讲解 SpringBoot 与场景中各项技术的整合过程，以及底层核心组件注册和相关工作原理。每个章节中不止有技术使用和 SpringBoot 的整合，还有自动装配和核心组件的讲解 
     </details> 
 
-- 🎡 [推荐10个React开源项目](https://juejin.cn/post/7169108697950453773) | Wed Nov 23 2022 7:23 AM 
+- 🎡 [前端性能优化的思路（33个药引子）](https://juejin.cn/post/7169131511390666789) | Wed Nov 23 2022 8:52 AM 
     <details><summary>展开描述 ...</summary> 
-    1，Kutt.it Kutt是一个现代的URL缩短器，支持自定义域，可以用来缩短网址、管理链接并查看点击率统计信息。Kutt支持自定义域名，设置链接密码和描述，缩短URL的私人统计信息，查看、编辑、删 
+    优化大体可以就拉取资源体积的大小，请求速度和资源组织方式角度去优化。也可以通过浏览器的`Performance`和`Lighthouse`模块生成加载或者性能报告，根据其提示的思路去优化页面。 
     </details> 
 
-- 🕯 [Shader从入门到放弃（四） —— 绘制闪耀星际](https://juejin.cn/post/7169108140024135688) | Wed Nov 23 2022 7:23 AM 
+- 🕯 [TypeScript](https://juejin.cn/post/7169130782286413837) | Wed Nov 23 2022 8:49 AM 
     <details><summary>展开描述 ...</summary> 
-    今天的学习内容是绘制“闪耀星际”，正如歌中唱的那样：星际闪耀光影，落入你的眼睛，如迷人的水晶，把浪漫放映…… 
+    1、环境搭建 安装Node.js 使用npm包管理器全局安装typescript 创建ts文件 ts文件不能直接被浏览器识别，因此先使用tsc命令对ts文件进行编译 执行完毕文件夹中生成同名js文件  
     </details> 
 
-- 🚀 [Apache Flume拦截器案例——日志的采集和汇总](https://juejin.cn/post/7169108428638388231) | Wed Nov 23 2022 7:22 AM 
+- 🚀 [小城市里，也有原型](https://juejin.cn/post/7169130126444068901) | Wed Nov 23 2022 8:48 AM 
     <details><summary>展开描述 ...</summary> 
-    1. 案例场景 A、B两台日志服务机器实时生产日志主要类型为access.log、nginx.log、web.log 现在要求：   把A、B 机器中的 
+    在产品经理手中，如同吃饭睡觉一般熟练的原型工具，对于茫茫大众来说，可能是个一生都不会有交集的名词。即使站在专业的高峰，如Axure，对于行外人来说，也是从未听说过的名字。即使有品牌的支撑，如Adobe 
     </details> 
 
-- 💪 [基于目录为VitePress生成侧边栏](https://juejin.cn/post/7169108165198348302) | Wed Nov 23 2022 7:22 AM 
+- 💪 [四年前端真实过往面试经历](https://juejin.cn/post/7169130443139186718) | Wed Nov 23 2022 8:47 AM 
     <details><summary>展开描述 ...</summary> 
-    今天封装了一个用于自动生成VitePress 侧边栏的npm包，分享一下。vitepress-plugin-autobar这应该是目前最简洁好用的生成VitePress 侧边栏的工具了。 
+    我这个人不喜欢也不擅长面试，从毕业到现在其实经历过的面试并不多，有记录的就更少了，以下是我在工作四年时面过的几家公司的一些面试题，分享出来，有的有的答案，有的没有，有的是认真答的，有的是胡扯的，仅供参 
     </details> 
 <!-- juejin:END -->
 ### 少数派
