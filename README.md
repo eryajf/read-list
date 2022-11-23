@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Redis缓存何以一枝独秀？——从百变应用场景与热门面试题中感受下Redis的核心特性与使用注意点](https://juejin.cn/post/7168986323754156069) | Tue Nov 22 2022 11:29 PM 
+- 🤗 [Java 8 Strem基本操作](https://juejin.cn/post/7169038595725426719) | Wed Nov 23 2022 2:51 AM 
     <details><summary>展开描述 ...</summary> 
-    在分布式盛行的今天，本地缓存明显无法满足分布式场景的缓存诉求。作为应对之法，集中式缓存被广泛使用在各中分布式系统中，而使用最广泛的莫过于大家耳熟能详的Redis了，本篇开始聊一聊Redis相关的内容。 
+    本文提供了有关Java 8 Stream的深入概述。当我第一次读到的Stream API，我感到很困惑，因为它听起来类似Java I/O的InputStream，OutputStream。但Java  
     </details> 
 
-- 🎡 [现代 CSS 高阶技巧，像 Canvas 一样自由绘图构建样式！](https://juejin.cn/post/7168984450230353950) | Tue Nov 22 2022 11:21 PM 
+- 🎡 [如何使用轮播图实现水平内容自动切换](https://juejin.cn/post/7169025065302884383) | Wed Nov 23 2022 1:58 AM 
     <details><summary>展开描述 ...</summary> 
-    我的新的专栏 -- 现代 CSS 与 Web 动画解决方案。 将专注于实现复杂布局，兼容设备差异，制作酷炫动画，制作复杂交互，提升可访问性及构建奇思妙想效果等方面的内容。 在兼顾基础概述的同时，注重对 
+    本文介绍了使用Towify在微信小程序中如何使用轮播图实现水平内容自动切换，欢迎大家试用我们的无代码开发平台Towify制作微信小程序。 
     </details> 
 
-- 🕯 [使用 Next.js 搭建 Monorepo 组件库文档](https://juejin.cn/post/7168885699507126303) | Tue Nov 22 2022 4:59 PM 
+- 🕯 [对抗生成网络GAN系列——Spectral Normalization原理详解及源码解析](https://juejin.cn/post/7169013279304941582) | Wed Nov 23 2022 1:13 AM 
     <details><summary>展开描述 ...</summary> 
-    本文，我们从零开始，使用 Next.js 和 pnpm 搭建了一个组件库文档，主要使用 Next.js 动态导入功能解决了开发服务缓慢的问题，使用 Next.js 的 SSG 模式来生成静态文档。 
+    本文介绍了一种实现Lipschitz 连续条件的新方法——SpectralNormalization，以实现更稳定的GAN，快来看看叭🌱🌱🌱 
     </details> 
 
-- 🚀 [Tip3 - 让我们搞定 GCD](https://juejin.cn/post/7168884409104334885) | Tue Nov 22 2022 4:56 PM 
+- 🚀 [以非设计师身份设计直观的 Kibana 仪表板](https://juejin.cn/post/7169008097011171364) | Wed Nov 23 2022 12:53 AM 
     <details><summary>展开描述 ...</summary> 
-    GCD 是什么？ GCD，全称 Grand Central Dispatch，是异步执行任务的技术之一。一般将应用程序中记述的线程管理用的代码在系统级中实现。开发者只需要定义想执行的任务并追加到适当的 
+    作者：Carly Richmond，Marco Vettorello，Giovanni Magni 开发人员、SRE 工程师和才华横溢的技术人员通常需要构建快速仪表板来展示有关其应用程序状态的重要信息 
     </details> 
 
-- 💪 [在k8s安装CICD-devtron](https://juejin.cn/post/7168882356429062151) | Tue Nov 22 2022 4:45 PM 
+- 💪 [Rollup 与 Webpack 的 Tree-shaking](https://juejin.cn/post/7169004126469914654) | Wed Nov 23 2022 12:38 AM 
     <details><summary>展开描述 ...</summary> 
-    在k8s安装CICD-devtron 先前条件 《kubernetes&lpar;k8s&rpar; 存储动态挂载》 参考我之前的文档进行部署 https://www.oiox.cn/index.php/archives 
+    Rollup 和 Webpack 是目前项目中使用较为广泛的两种打包工具，去年发布的 Vite 中打包所依赖的也是 Rollup；在对界面加载效率要求越来越高的今天，打包工具最终产出的包体积也影响着开 
     </details> 
 <!-- juejin:END -->
 ### 少数派
