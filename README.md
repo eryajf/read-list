@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请教一下备份+下载的 NAS 方案](https://www.v2ex.com/t/897274#reply1) | Wed Nov 23 2022 2:46 AM
-- 🤗 [大容量硬盘应该使用什么文件系统比较好？](https://www.v2ex.com/t/897255#reply15) | Wed Nov 23 2022 1:57 AM
-- 🎭 [请教各位大佬，如果想更改一个程序发出请求的返回值，该如何操作？](https://www.v2ex.com/t/897252#reply5) | Wed Nov 23 2022 1:54 AM
-- 🥷 [谷歌是怎么爬 React 网站的？](https://www.v2ex.com/t/897251#reply4) | Wed Nov 23 2022 1:53 AM
-- 🐵 [M1 电脑无法安装 centos7，大家知道是什么原因吗？](https://www.v2ex.com/t/897248#reply6) | Wed Nov 23 2022 1:47 AM<!-- v2ex:END -->
+- 🥸 [求 mysql 数据同步 mongo 的工具或者方案](https://www.v2ex.com/t/897300#reply1) | Wed Nov 23 2022 3:55 AM
+- 🤗 [只有一个人用的 Windows，安装软件时选“为所有用户安装”和“仅为我安装”有什么区别吗？](https://www.v2ex.com/t/897298#reply3) | Wed Nov 23 2022 3:52 AM
+- 🎭 [HTML5 单文件网页版 ACME 客户端，方便在线申请 Let&#39;s Encrypt、ZeroSSL 免费 HTTPS 多域名通配符 SSL/TLS 证书，操作丝滑](https://www.v2ex.com/t/897290#reply5) | Wed Nov 23 2022 3:27 AM
+- 🥷 [Tech Lead 的 干系人管理](https://www.v2ex.com/t/897288#reply0) | Wed Nov 23 2022 3:24 AM
+- 🐵 [kubernetes 环境下部署 nacos 集群的持久化路径“不生效”问题请教](https://www.v2ex.com/t/897281#reply2) | Wed Nov 23 2022 3:08 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
