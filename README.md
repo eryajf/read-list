@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有没有人在 Windows 下把 Caps Lock 和 Ctrl 互换的？](https://www.v2ex.com/t/897472#reply2) | Wed Nov 23 2022 4:16 PM
-- 🤗 [抛弃黑苹果，重回 Windows 怀抱](https://www.v2ex.com/t/897469#reply9) | Wed Nov 23 2022 3:53 PM
-- 🎭 [centos 有什么软件或者自己写脚本,实现网速推送呢](https://www.v2ex.com/t/897467#reply3) | Wed Nov 23 2022 3:26 PM
-- 🥷 [这是 google one 的 bug 还是 feature](https://www.v2ex.com/t/897461#reply3) | Wed Nov 23 2022 2:51 PM
-- 🐵 [geohot 找 Musk 说 12 周修好 twitter，结果发现不会改 react 于是就发帖在线求助。。。](https://www.v2ex.com/t/897447#reply2) | Wed Nov 23 2022 1:29 PM<!-- v2ex:END -->
+- 🥸 [关于 nas 的 ups 是必需品吗？入 APC 是不是可以](https://www.v2ex.com/t/897474#reply3) | Wed Nov 23 2022 4:31 PM
+- 🤗 [有没有人在 Windows 下把 Caps Lock 和 Ctrl 互换的？](https://www.v2ex.com/t/897472#reply4) | Wed Nov 23 2022 4:16 PM
+- 🎭 [抛弃黑苹果，重回 Windows 怀抱](https://www.v2ex.com/t/897469#reply11) | Wed Nov 23 2022 3:53 PM
+- 🥷 [centos 有什么软件或者自己写脚本,实现网速推送呢](https://www.v2ex.com/t/897467#reply7) | Wed Nov 23 2022 3:26 PM
+- 🐵 [这是 google one 的 bug 还是 feature](https://www.v2ex.com/t/897461#reply3) | Wed Nov 23 2022 2:51 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
