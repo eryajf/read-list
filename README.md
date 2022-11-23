@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [3天3定制大屏，反向PUA](https://juejin.cn/post/7169228978559926285) | Wed Nov 23 2022 3:10 PM 
+- 🤗 [Java语言中，关键字Volatile的使用你清楚吗？](https://juejin.cn/post/7169239464944861221) | Wed Nov 23 2022 3:50 PM 
+    <details><summary>展开描述 ...</summary> 
+    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第3天，点击查看活动详情 前言 在Java开发中，若仅为读写一个或两个对象就使用同步锁处理，会增大程序内存开销，而volatile关 
+    </details> 
+
+- 🎡 [Redis的springboot整合](https://juejin.cn/post/7169237531115028493) | Wed Nov 23 2022 3:43 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 Redis的springboot整合 1、springboot整合 导入依赖 springboot 2.x后 ，原来使用的 Jedis 被 lettuc 
+    </details> 
+
+- 🕯 [分布式事务](https://juejin.cn/post/7169237023910264840) | Wed Nov 23 2022 3:41 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 分布式事务 简述 分布式事务指事务的操作位于不同的节点上，需要保证事务的 AICD 特性。 例如在下单场景下，库存和订单如果不在同一个节点上，就涉及分布 
+    </details> 
+
+- 🚀 [LeetCode 第108题](https://juejin.cn/post/7169236302091517960) | Wed Nov 23 2022 3:38 PM 
+    <details><summary>展开描述 ...</summary> 
+    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第3天，点击查看活动详情 LeetCode 第108题 题目描述（中等难度） 给一个升序数组，生成一个平衡二叉搜索树。平衡二叉树定义 
+    </details> 
+
+- 💪 [3天3定制大屏，反向PUA](https://juejin.cn/post/7169228978559926285) | Wed Nov 23 2022 3:10 PM 
     <details><summary>展开描述 ...</summary> 
     摘要     本次分享一段无讨价还价余地的单人3天定制化大屏全过程（强调说拖拽屏的请绕道,和你想的不一样）,要动效、要地图、要流光。天坑的心理博弈到最终解决的过程及技术思路。 前因      没啥征兆 
-    </details> 
-
-- 🎡 [ThreadPoolExecutor源码细节探索](https://juejin.cn/post/7169216470512041992) | Wed Nov 23 2022 2:21 PM 
-    <details><summary>展开描述 ...</summary> 
-    理解ThreadPoolExecutor，甚至任何其他的类或组件，我觉得从两个点出发会更顺滑：他的数据结构和结构中的属性变化。在整体脉络的基础上探索细节，以加深理解线程池的设计 
-    </details> 
-
-- 🕯 [MySQL关于Count你知道多少](https://juejin.cn/post/7169209454049624077) | Wed Nov 23 2022 1:54 PM 
-    <details><summary>展开描述 ...</summary> 
-    MySQL关于Count你知道多少 统计数据的需求在我们日常开发中是非常容易遇到了，MySQL也支持多种的计算的函数， 接下来我们来看一看他们之间有什么区别，以及他们是否存在一些坑。 
-    </details> 
-
-- 🚀 [每天一个摸鱼小技巧之「理解代码评审」](https://juejin.cn/post/7169209171747799077) | Wed Nov 23 2022 1:53 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 每个人的代码风格不同，在需要团队协作的项目里，如果没有统一的编程规范，那么会出现各式各样的代码，这对于团队成员来讲是个「灾难」。在需要对接协作模块时，要 
-    </details> 
-
-- 💪 [SQL 事务级别 与 支持 图解逻辑记录](https://juejin.cn/post/7169188595822460964) | Wed Nov 23 2022 12:33 PM 
-    <details><summary>展开描述 ...</summary> 
-    事务这个东西基本都了解 但是很多人不能将整个逻辑串联起来 可能大部分人就知道ACID 但是事务的知识远远不止ACID 怎么能抗住追问 和 完善自己的知识目录 这个还是不错的 建议认真看完 SQL 
     </details> 
 <!-- juejin:END -->
 ### 少数派
