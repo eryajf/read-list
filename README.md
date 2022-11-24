@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Flutter Widget 之package: shared_preferences](https://juejin.cn/post/7169439596428673060) | Thu Nov 24 2022 4:47 AM 
+- 🤗 [Hadoop小文件解决方案-Hadoop小文件的前因后果](https://juejin.cn/post/7169490837981069320) | Thu Nov 24 2022 8:06 AM 
     <details><summary>展开描述 ...</summary> 
-    您已为自己的Flutter应用程序添加了又新又棒的深色主题，出于照顾用户，您甚至还为此设置功能切换键。 一切都很顺利，直到您发现应用重启后，主题又变回浅色。深色主题的偏好设置并未保存，所以不会固定套用 
+    Hadoop不适用于大量小文件，而是需要更少的大文件。这可能是您之前听过的声明。但是，为什么Hadoop会出现大量小文件的问题？而且，“小”究竟是什么意思呢？在本系列的第一部分中，我将回答这些问题。后 
     </details> 
 
-- 🎡 [Elasticsearch：使用反向地理编码在地图上显示自定义区域](https://juejin.cn/post/7169433271632134181) | Thu Nov 24 2022 4:22 AM 
+- 🎡 [Java 8 Stream并行流](https://juejin.cn/post/7169490689711931399) | Thu Nov 24 2022 8:05 AM 
     <details><summary>展开描述 ...</summary> 
-    在实际的许多应用中，我们可能并不一定按照行政区来进行划分区域，比如我们常说江浙一代，我们可以理解江苏和浙江这两个省合在一起，而不是把它们分开。我们有时也说长江三角区，它可能是跨几个省市的一个区域，而不 
+    流可以并行执行，以增加大量输入元素的运行时性能。并行流ForkJoinPool通过静态ForkJoinPool.commonPool&lpar;&rpar;方法使用公共可用的流。底层线程池的大小最多使用五个线程 - 具体 
     </details> 
 
-- 🕯 [795. 区间子数组个数 :「单调栈」&amp;「模拟」](https://juejin.cn/post/7169424247905845285) | Thu Nov 24 2022 3:48 AM 
+- 🕯 [SpringBoot集成Spring Data JPA项目实操](https://juejin.cn/post/7169472183184719886) | Thu Nov 24 2022 6:53 AM 
     <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 795. 区间子数组个数 ，难度为 中等。 Tag : 「模拟」、「单调栈」 给你一个整数数组 nums 和两个整数：left 及 right 。 找出 num 
+    本文将实现 SpringBoot+ Spring Data JPA 的项目搭建，项目特色是针对 JPA 专门写了一套动态链式查询工具类，进而实现一对多查询和连表查询。 
     </details> 
 
-- 🚀 [Google MVP Demo深入学习和总结](https://juejin.cn/post/7169418953385574408) | Thu Nov 24 2022 3:27 AM 
+- 🚀 [原生javascript手写一个丝滑的轮播图](https://juejin.cn/post/7169471068539715598) | Thu Nov 24 2022 6:50 AM 
     <details><summary>展开描述 ...</summary> 
-    1.什么是MVP？ MVP架构已经推出很多年了，现在已经非常普及了，我在这里就不过多介绍，简单的说，它分为以下三个层次： Model：数据模型层，主要用来数据处理，获取数据； View：显示界面元素， 
+    &gt; 本文正在参加「金石计划 . 瓜分6万现金大奖」。 通过本文，你将学到: html css js 没错，就是html，css,js,现在是框架盛行的时代，所以很少会有人在意原生三件套，通过本文实现一 
     </details> 
 
-- 💪 [了结了loadavg数据异常引发的心病](https://juejin.cn/post/7169417417599401998) | Thu Nov 24 2022 3:21 AM 
+- 💪 [TMD，JVM类加载原来是这样的！！！！](https://juejin.cn/post/7169458309731188744) | Thu Nov 24 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-    在从事的大屏领域遇到一个问题,就是`loadavg`中的数值其高无比,对比`8`核手机的`3+`,`4+`,目前的手头的设备`loadavg`竟然高达`70+`,这个问题一直困扰了我很久. 
+     接上篇： 通过字节码，我们了解了class文件的结构 通过运行数据区，我们了解了jvm内部的内存划分及结构 接下来，让我们看看，字节码怎么进入jvm的内存空间，各自进入那个空间，以及怎么跑起 
     </details> 
 <!-- juejin:END -->
 ### 少数派
