@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [最近我的视频播放浅学总结](https://juejin.cn/post/7169271322525040671) | Wed Nov 23 2022 5:54 PM 
+- 🤗 [redis 性能分享](https://juejin.cn/post/7169375214344929288) | Thu Nov 24 2022 12:38 AM 
     <details><summary>展开描述 ...</summary> 
-    因为想做一个类似苹果的同播共享功能，这一段时间对音视频做了一些浅浅的学习，现简单总结记录。 我的需求是找到一个尽可能简单的方案来两人播放一段视频，并且能够进度和操作同步。 
+    Redis为什么变慢了? 带你如何排查redis性能问题 redis 真的变慢了吗？ 在开始之前，首先要弄清楚 redis 是否真的变慢了？ 如果你发现你的业务服务 API 响应延迟变长，首先你需要先 
     </details> 
 
-- 🎡 [Java语言中，关键字Volatile的使用你清楚吗？](https://juejin.cn/post/7169239464944861221) | Wed Nov 23 2022 3:50 PM 
+- 🎡 [如何使用CSS创建高级动画，这个函数必须掌握](https://juejin.cn/post/7169375268321116196) | Thu Nov 24 2022 12:38 AM 
     <details><summary>展开描述 ...</summary> 
-    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第3天，点击查看活动详情 前言 在Java开发中，若仅为读写一个或两个对象就使用同步锁处理，会增大程序内存开销，而volatile关 
+    我们每天都在网上摸鱼，作为前端开发人员，网站上微妙的细节变化通过比别人会更关注。我一直注意到的一件事是网站上的动画的流畅性。动画对于用户体验来说是非常好的，有时我们可以一些有趣的动画来留住用户。 创建 
     </details> 
 
-- 🕯 [Redis的springboot整合](https://juejin.cn/post/7169237531115028493) | Wed Nov 23 2022 3:43 PM 
+- 🕯 [l12.Linux文件过滤及内容编辑处理&lpar;二&rpar;](https://juejin.cn/post/7169359841373192223) | Wed Nov 23 2022 11:38 PM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 Redis的springboot整合 1、springboot整合 导入依赖 springboot 2.x后 ，原来使用的 Jedis 被 lettuc 
+    “ 本文正在参加「金石计划 . 瓜分6万现金大奖」 ” 7.5 less：分页显示文件内容 7.5.1 命令详解 【命令星级】 ★★★★★ 【功能说明】 如果使用man less查看less的帮助文档 
     </details> 
 
-- 🚀 [分布式事务](https://juejin.cn/post/7169237023910264840) | Wed Nov 23 2022 3:41 PM 
+- 🚀 [l11.Linux文件过滤及内容编辑处理&lpar;一&rpar;](https://juejin.cn/post/7169359492763615263) | Wed Nov 23 2022 11:37 PM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 分布式事务 简述 分布式事务指事务的操作位于不同的节点上，需要保证事务的 AICD 特性。 例如在下单场景下，库存和订单如果不在同一个节点上，就涉及分布 
+    “ 本文正在参加「金石计划 . 瓜分6万现金大奖」 ” 7.1 vi/vim：纯文本编辑器 Windows下最基本的文本编辑器就是记事本，当然还有一些功能强大的文本编辑器，例如notepad++、em 
     </details> 
 
-- 💪 [LeetCode 第108题](https://juejin.cn/post/7169236302091517960) | Wed Nov 23 2022 3:38 PM 
+- 💪 [你知道这个 CSS 属性吗 —— getComputedStyle](https://juejin.cn/post/7169351511602888734) | Wed Nov 23 2022 11:06 PM 
     <details><summary>展开描述 ...</summary> 
-    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第3天，点击查看活动详情 LeetCode 第108题 题目描述（中等难度） 给一个升序数组，生成一个平衡二叉搜索树。平衡二叉树定义 
+     Computed 在 Vue 中常用，是一种计算属性，里面的值是响应式的，但你知道 getComputedStyle 这个 CSS 属性吗？Computed + Style ，没错，样式也能做到响应 
     </details> 
 <!-- juejin:END -->
 ### 少数派
