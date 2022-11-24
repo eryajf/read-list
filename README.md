@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [全解析 ESM 模块语法，出去还是进来都由你说了算](https://juejin.cn/post/7169581968336617485) | Thu Nov 24 2022 2:00 PM 
+- 🤗 [终端中的彩色文本控制指令的格式构成简介](https://juejin.cn/post/7169590495277449247) | Thu Nov 24 2022 2:33 PM 
+    <details><summary>展开描述 ...</summary> 
+    你知道终端上打印的彩色文本是怎样实现的吗？本文主要介绍控制台上关于彩色字符的格式构成规则，并列举一些简单的示例以供参考理解。 
+    </details> 
+
+- 🎡 [前端如何主导ddd架构（上）](https://juejin.cn/post/7169588887411490852) | Thu Nov 24 2022 2:27 PM 
+    <details><summary>展开描述 ...</summary> 
+    这是一个兼具技术和剧情的故事。 首先，我其实是一个技术经理 我当初给我司投简历的时候，其实是想做前端经理的。面试官看着简历：做过四年的.net，接着就一直做前端开发了，所以，做技术经理似乎也没啥毛病。 
+    </details> 
+
+- 🕯 [[学点操作系统]初识操作系统](https://juejin.cn/post/7169588642556411941) | Thu Nov 24 2022 2:25 PM 
+    <details><summary>展开描述 ...</summary> 
+    这是本专栏【学点操作系统】的第一篇文章。本文就来分享一波作者对操作系统的初步认识。笔者水平有限，难免存在纰漏，所以下文有些内容可能不太严谨和准确，欢迎指正交流。 
+    </details> 
+
+- 🚀 [全解析 ESM 模块语法，出去还是进来都由你说了算](https://juejin.cn/post/7169581968336617485) | Thu Nov 24 2022 2:00 PM 
     <details><summary>展开描述 ...</summary> 
     模块语法是ES6的一个重要特性，它的出现让JavaScript的模块化编程成为了可能。在JavaScript中可以直接使用import和export关键字来导入和导出模块。 
     </details> 
 
-- 🎡 [SQl 思维训练六](https://juejin.cn/post/7169578434526953502) | Thu Nov 24 2022 1:47 PM 
+- 💪 [SQl 思维训练六](https://juejin.cn/post/7169578434526953502) | Thu Nov 24 2022 1:47 PM 
     <details><summary>展开描述 ...</summary> 
     为什么 进行SQL 思维训练 真正做过实战项目的人明白 其实开发思维很重要 开发思维是大于 开发能力的 SQL思维能力也一样 因为SQL是和数据直接打交道的 需要去训练自己的编写能力和编写思路 能够最 
-    </details> 
-
-- 🕯 [谷歌社区说｜Android 开发者的跨平台 - Flutter or Compose ？](https://juejin.cn/post/7169569482405314573) | Thu Nov 24 2022 1:11 PM 
-    <details><summary>展开描述 ...</summary> 
-    hello 大家好，我是 Flutter GDE 郭树煜，同时也是 Github GSY 项目的负责人，比如 GSYVideoPlayer ，今天要给大家分享的主题是 Android 开发者的跨平台  
-    </details> 
-
-- 🚀 [深入理解Java线程间通信](https://juejin.cn/post/7169562896668557320) | Thu Nov 24 2022 12:45 PM 
-    <details><summary>展开描述 ...</summary> 
-    合理的使用Java多线程可以更好地利用服务器资源。一般来讲，线程内部有自己私有的线程上下文，互不干扰。但是当我们需要多个线程之间相互协作的时候，就需要我们掌握Java线程的通信方式。 
-    </details> 
-
-- 💪 [信息量、信息熵、交叉熵、似然](https://juejin.cn/post/7169557774207025166) | Thu Nov 24 2022 12:26 PM 
-    <details><summary>展开描述 ...</summary> 
-    交叉熵，KL散度，信息熵，信息量是有密切的关系的。 信息量 信息量是对信息的度量，一件事情发生之后我们会从中得到的信息。一般来说概率小的事情发生比概率大的事情发生传递更多的消息。因此信息量与事件发生概 
     </details> 
 <!-- juejin:END -->
 ### 少数派
