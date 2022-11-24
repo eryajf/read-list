@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Flutter Widget 之package: google_fonts](https://juejin.cn/post/7169432359551533064) | Thu Nov 24 2022 4:19 AM 
+- 🤗 [G2 5.0：从语言到思维](https://juejin.cn/post/7169451914172563470) | Thu Nov 24 2022 5:35 AM 
     <details><summary>展开描述 ...</summary> 
-    检视行动应用是否想过，“嗯，默认的系统字体看来不错，但我希望过能更有特色”。 这样的话，试试google_fonts包，这个软件包能让各位无需在本机存储任何字体文件即可访问1400多种字体。因此，是个 
+    导读 G2（发音为 /ʤiː tuː/） 是蚂蚁集团 AntV 旗下的开源可视化图表库。如今，我们推出全新的 5.0 Beta 版本：全新的定位、语法、架构和开发哲学，希望能让大家看到可视化的更多可能 
     </details> 
 
-- 🎡 [先聊聊「堆栈」，再聊聊「逃逸分析」。Let’s Go!](https://juejin.cn/post/7169403270719340574) | Thu Nov 24 2022 2:27 AM 
+- 🎡 [795. 区间子数组个数 :「单调栈」&amp;「模拟」](https://juejin.cn/post/7169424247905845285) | Thu Nov 24 2022 3:48 AM 
     <details><summary>展开描述 ...</summary> 
-    要搞清楚GO的逃逸分析一定要先搞清楚内存分配和堆栈： 内存分配既可以分配到堆中，也可以分配到栈中。 什么样的数据会被分配到栈中，什么样的数据又会被分配到堆中呢？ 我们先来聊一下内存管理、堆、栈的知识点 
+    题目描述 这是 LeetCode 上的 795. 区间子数组个数 ，难度为 中等。 Tag : 「模拟」、「单调栈」 给你一个整数数组 nums 和两个整数：left 及 right 。 找出 num 
     </details> 
 
-- 🕯 [浅析Go中Channel的各路用法](https://juejin.cn/post/7169400353715290142) | Thu Nov 24 2022 2:15 AM 
+- 🕯 [国际化翻译平台文档解析 2.0 技术原理解析](https://juejin.cn/post/7169421899796054023) | Thu Nov 24 2022 3:39 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇文章主要为读者介绍了Go语言中的if、select等循环控制语句，同时也详细讲解了Go中Channel的各路用法，在一定程度上能够帮助Go语言初学者了解循环控制的基本概念，并进一步加深对通道的理解 
+    前端业务或 Node.js SDK 中重复逻辑太多，牵一发而动全身？本文或许可以帮到你。通过对业务本质的分析进行合理抽象，可扩展性与可维护性大幅提升。 
     </details> 
 
-- 🚀 [Ribbon源码2-Ribbon工作流程](https://juejin.cn/post/7169399707800698911) | Thu Nov 24 2022 2:13 AM 
+- 🚀 [一文带你深入了解HTTP](https://juejin.cn/post/7169421748914356260) | Thu Nov 24 2022 3:38 AM 
     <details><summary>展开描述 ...</summary> 
-    Ribbon的工作流程，Ribbon配合RestTemplate使用，LoadBalancerClient负载均衡客户端 
+    http的发展史 在学习网络之前，了解它的历史能够帮助我明白为何它会发展为如今这个样子，能让我有探究它的兴趣。下面的这张图片就展示了“互联网”诞生至今的发展历程 http是什么？ HyperTextT 
     </details> 
 
-- 💪 [一个漏测Bug能让你想到多少？](https://juejin.cn/post/7169398886581141518) | Thu Nov 24 2022 2:09 AM 
+- 💪 [从根源上看触摸事件是如何传递到View中的（上）-事件获取](https://juejin.cn/post/7169421307421917214) | Thu Nov 24 2022 3:36 AM 
     <details><summary>展开描述 ...</summary> 
-    漏测Bug是指产品逻辑缺陷在测试过程中没有被发现（尤其是测试环境可以重现的缺陷），上线版本发布后或者在用户使用体验后发现并反馈回来的缺陷。因此对Bug漏测进行一些思考，并进行总结。 
+    曾经在开发的很长一段时间内，笔者对点击事件的认知只存在于自定义View中的onTouchEvent等方法的处理。 后来慢慢的接触到Android的事件分发机制，但也只是在Activity-&gt;Vi 
     </details> 
 <!-- juejin:END -->
 ### 少数派
