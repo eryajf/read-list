@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Hadoop小文件解决方案-Hadoop小文件的前因后果](https://juejin.cn/post/7169490837981069320) | Thu Nov 24 2022 8:06 AM 
+- 🤗 [Compose 动画艺术探索之 Easing](https://juejin.cn/post/7169500770344599582) | Thu Nov 24 2022 8:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    如果想玩好 Compose 中的动画，Easing 是必不可少的一环，那么什么是 Easing 呢？Easing 是用来来调整动画的小数值的，这样可让动画值加速和减速，而不是以恒定的速率移动。。。。。 
+    </details> 
+
+- 🎡 [Hadoop小文件解决方案-Hadoop小文件的前因后果](https://juejin.cn/post/7169490837981069320) | Thu Nov 24 2022 8:06 AM 
     <details><summary>展开描述 ...</summary> 
     Hadoop不适用于大量小文件，而是需要更少的大文件。这可能是您之前听过的声明。但是，为什么Hadoop会出现大量小文件的问题？而且，“小”究竟是什么意思呢？在本系列的第一部分中，我将回答这些问题。后 
     </details> 
 
-- 🎡 [Java 8 Stream并行流](https://juejin.cn/post/7169490689711931399) | Thu Nov 24 2022 8:05 AM 
+- 🕯 [Java 8 Stream并行流](https://juejin.cn/post/7169490689711931399) | Thu Nov 24 2022 8:05 AM 
     <details><summary>展开描述 ...</summary> 
     流可以并行执行，以增加大量输入元素的运行时性能。并行流ForkJoinPool通过静态ForkJoinPool.commonPool&lpar;&rpar;方法使用公共可用的流。底层线程池的大小最多使用五个线程 - 具体 
     </details> 
 
-- 🕯 [SpringBoot集成Spring Data JPA项目实操](https://juejin.cn/post/7169472183184719886) | Thu Nov 24 2022 6:53 AM 
+- 🚀 [设计模式-适配器模式](https://juejin.cn/post/7169485842707447845) | Thu Nov 24 2022 7:46 AM 
     <details><summary>展开描述 ...</summary> 
-    本文将实现 SpringBoot+ Spring Data JPA 的项目搭建，项目特色是针对 JPA 专门写了一套动态链式查询工具类，进而实现一对多查询和连表查询。 
+    适配器模式&lpar;Adapter Pattern）又叫做变压器模式，它的功能是将一个类的接口变成客户端所期望的另一种接口，从而使原本因接口不匹配而导致无法在一起工作的两个类能够一起工作，属于结构计模式。 
     </details> 
 
-- 🚀 [原生javascript手写一个丝滑的轮播图](https://juejin.cn/post/7169471068539715598) | Thu Nov 24 2022 6:50 AM 
+- 💪 [uniapp自定义富文本编辑器](https://juejin.cn/post/7169485538209038366) | Thu Nov 24 2022 7:45 AM 
     <details><summary>展开描述 ...</summary> 
-    &gt; 本文正在参加「金石计划 . 瓜分6万现金大奖」。 通过本文，你将学到: html css js 没错，就是html，css,js,现在是框架盛行的时代，所以很少会有人在意原生三件套，通过本文实现一 
-    </details> 
-
-- 💪 [TMD，JVM类加载原来是这样的！！！！](https://juejin.cn/post/7169458309731188744) | Thu Nov 24 2022 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     接上篇： 通过字节码，我们了解了class文件的结构 通过运行数据区，我们了解了jvm内部的内存划分及结构 接下来，让我们看看，字节码怎么进入jvm的内存空间，各自进入那个空间，以及怎么跑起 
+    前言 在我们使用uniapp开发的时候有时会用到富文本编辑器，而uniapp官方内置的组件就有富文本编辑器 而示例代码出来的效果有时候样式或者功能和我们所需求的不一致，我们可以通过自定义富文本编辑器来 
     </details> 
 <!-- juejin:END -->
 ### 少数派
