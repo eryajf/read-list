@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Java 爬虫类库推荐？](https://www.v2ex.com/t/897501#reply0) | Thu Nov 24 2022 1:33 AM
-- 🤗 [Windows 的 Microsoft 账号现在这么拉胯了？](https://www.v2ex.com/t/897494#reply8) | Thu Nov 24 2022 1:03 AM
-- 🎭 [兄弟们，关于 sql 优化的问题想请教一下](https://www.v2ex.com/t/897481#reply4) | Wed Nov 23 2022 6:51 PM
-- 🥷 [职业认知课，是增长见识还是另外的割韭菜](https://www.v2ex.com/t/897477#reply3) | Wed Nov 23 2022 5:05 PM
-- 🐵 [关于 nas 的 ups 是必需品吗？入 APC 是不是可以](https://www.v2ex.com/t/897474#reply24) | Wed Nov 23 2022 4:31 PM<!-- v2ex:END -->
+- 🥸 [xdm，有没有比较好用的对象存储上传聚合 Java 库](https://www.v2ex.com/t/897530#reply2) | Thu Nov 24 2022 2:42 AM
+- 🤗 [更换蜗牛星际的主板并重装 Ubuntu20.04 ， zfs 硬盘需要重新 rebuild 吗？](https://www.v2ex.com/t/897517#reply6) | Thu Nov 24 2022 2:17 AM
+- 🎭 [Java 爬虫类库推荐？](https://www.v2ex.com/t/897501#reply3) | Thu Nov 24 2022 1:33 AM
+- 🥷 [Windows 的 Microsoft 账号现在这么拉胯了？](https://www.v2ex.com/t/897494#reply12) | Thu Nov 24 2022 1:03 AM
+- 🐵 [兄弟们，关于 sql 优化的问题想请教一下](https://www.v2ex.com/t/897481#reply9) | Wed Nov 23 2022 6:51 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
