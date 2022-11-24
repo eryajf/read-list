@@ -365,10 +365,10 @@
 
 <!-- v2ex:START -->
 - 🥸 [C++代码问题咨询](https://www.v2ex.com/t/897584#reply0) | Thu Nov 24 2022 6:04 AM
-- 🤗 [给你们说一下美国亚马逊的价格政策，是怎样坑老用户的](https://www.v2ex.com/t/897581#reply12) | Thu Nov 24 2022 5:56 AM
-- 🎭 [System Design 学习路径](https://www.v2ex.com/t/897568#reply1) | Thu Nov 24 2022 5:20 AM
-- 🥷 [为什么 navicat 连接某个 mysql 库很慢，程序中连接很快](https://www.v2ex.com/t/897565#reply3) | Thu Nov 24 2022 4:47 AM
-- 🐵 [有个上位机软件开发私活需求](https://www.v2ex.com/t/897562#reply0) | Thu Nov 24 2022 4:34 AM<!-- v2ex:END -->
+- 🤗 [给你们说一下美国亚马逊的价格政策，是怎样坑老用户的](https://www.v2ex.com/t/897581#reply14) | Thu Nov 24 2022 5:56 AM
+- 🎭 [System Design 学习路径](https://www.v2ex.com/t/897568#reply2) | Thu Nov 24 2022 5:20 AM
+- 🥷 [为什么 navicat 连接某个 mysql 库很慢，程序中连接很快](https://www.v2ex.com/t/897565#reply6) | Thu Nov 24 2022 4:47 AM
+- 🐵 [有个上位机软件开发私活需求](https://www.v2ex.com/t/897562#reply1) | Thu Nov 24 2022 4:34 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
