@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [G2 5.0：从语言到思维](https://juejin.cn/post/7169451914172563470) | Thu Nov 24 2022 5:35 AM 
+- 🤗 [Flutter Widget 之package: shared_preferences](https://juejin.cn/post/7169439596428673060) | Thu Nov 24 2022 4:47 AM 
     <details><summary>展开描述 ...</summary> 
-    导读 G2（发音为 /ʤiː tuː/） 是蚂蚁集团 AntV 旗下的开源可视化图表库。如今，我们推出全新的 5.0 Beta 版本：全新的定位、语法、架构和开发哲学，希望能让大家看到可视化的更多可能 
+    您已为自己的Flutter应用程序添加了又新又棒的深色主题，出于照顾用户，您甚至还为此设置功能切换键。 一切都很顺利，直到您发现应用重启后，主题又变回浅色。深色主题的偏好设置并未保存，所以不会固定套用 
     </details> 
 
-- 🎡 [795. 区间子数组个数 :「单调栈」&amp;「模拟」](https://juejin.cn/post/7169424247905845285) | Thu Nov 24 2022 3:48 AM 
+- 🎡 [Elasticsearch：使用反向地理编码在地图上显示自定义区域](https://juejin.cn/post/7169433271632134181) | Thu Nov 24 2022 4:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    在实际的许多应用中，我们可能并不一定按照行政区来进行划分区域，比如我们常说江浙一代，我们可以理解江苏和浙江这两个省合在一起，而不是把它们分开。我们有时也说长江三角区，它可能是跨几个省市的一个区域，而不 
+    </details> 
+
+- 🕯 [795. 区间子数组个数 :「单调栈」&amp;「模拟」](https://juejin.cn/post/7169424247905845285) | Thu Nov 24 2022 3:48 AM 
     <details><summary>展开描述 ...</summary> 
     题目描述 这是 LeetCode 上的 795. 区间子数组个数 ，难度为 中等。 Tag : 「模拟」、「单调栈」 给你一个整数数组 nums 和两个整数：left 及 right 。 找出 num 
     </details> 
 
-- 🕯 [国际化翻译平台文档解析 2.0 技术原理解析](https://juejin.cn/post/7169421899796054023) | Thu Nov 24 2022 3:39 AM 
+- 🚀 [Google MVP Demo深入学习和总结](https://juejin.cn/post/7169418953385574408) | Thu Nov 24 2022 3:27 AM 
     <details><summary>展开描述 ...</summary> 
-    前端业务或 Node.js SDK 中重复逻辑太多，牵一发而动全身？本文或许可以帮到你。通过对业务本质的分析进行合理抽象，可扩展性与可维护性大幅提升。 
+    1.什么是MVP？ MVP架构已经推出很多年了，现在已经非常普及了，我在这里就不过多介绍，简单的说，它分为以下三个层次： Model：数据模型层，主要用来数据处理，获取数据； View：显示界面元素， 
     </details> 
 
-- 🚀 [一文带你深入了解HTTP](https://juejin.cn/post/7169421748914356260) | Thu Nov 24 2022 3:38 AM 
+- 💪 [了结了loadavg数据异常引发的心病](https://juejin.cn/post/7169417417599401998) | Thu Nov 24 2022 3:21 AM 
     <details><summary>展开描述 ...</summary> 
-    http的发展史 在学习网络之前，了解它的历史能够帮助我明白为何它会发展为如今这个样子，能让我有探究它的兴趣。下面的这张图片就展示了“互联网”诞生至今的发展历程 http是什么？ HyperTextT 
-    </details> 
-
-- 💪 [从根源上看触摸事件是如何传递到View中的（上）-事件获取](https://juejin.cn/post/7169421307421917214) | Thu Nov 24 2022 3:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    曾经在开发的很长一段时间内，笔者对点击事件的认知只存在于自定义View中的onTouchEvent等方法的处理。 后来慢慢的接触到Android的事件分发机制，但也只是在Activity-&gt;Vi 
+    在从事的大屏领域遇到一个问题,就是`loadavg`中的数值其高无比,对比`8`核手机的`3+`,`4+`,目前的手头的设备`loadavg`竟然高达`70+`,这个问题一直困扰了我很久. 
     </details> 
 <!-- juejin:END -->
 ### 少数派
