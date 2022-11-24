@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [来开发一个比较规整的九宫格抽奖～](https://juejin.cn/post/7169557396355252237) | Thu Nov 24 2022 12:24 PM 
+- 🤗 [全解析 ESM 模块语法，出去还是进来都由你说了算](https://juejin.cn/post/7169581968336617485) | Thu Nov 24 2022 2:00 PM 
     <details><summary>展开描述 ...</summary> 
-    本文书写✍️耗时 30min 建议阅读时长 10min 🏄🏽‍♂️ 定义一下组件接口 🥡 奖项数据是必不可少的 「九宫格抛弃抽奖按钮占去一个外，还剩下8个」 抽奖运动的时间 抽奖完成之后的回调 是否需 
+    模块语法是ES6的一个重要特性，它的出现让JavaScript的模块化编程成为了可能。在JavaScript中可以直接使用import和export关键字来导入和导出模块。 
     </details> 
 
-- 🎡 [RocketMQ消息生产者是如何选择Broker的](https://juejin.cn/post/7169539055548858398) | Thu Nov 24 2022 11:14 AM 
+- 🎡 [SQl 思维训练六](https://juejin.cn/post/7169578434526953502) | Thu Nov 24 2022 1:47 PM 
     <details><summary>展开描述 ...</summary> 
-    在RocketMQ中为，我们创建消息生产者时，只需要设置NameServer地址，消息就能正确地发送到对应的Broker中，那么RocketMQ消 
+    为什么 进行SQL 思维训练 真正做过实战项目的人明白 其实开发思维很重要 开发思维是大于 开发能力的 SQL思维能力也一样 因为SQL是和数据直接打交道的 需要去训练自己的编写能力和编写思路 能够最 
     </details> 
 
-- 🕯 [手摸手打造类码上掘金在线IDE（五）——沙箱编译](https://juejin.cn/post/7169534217926213640) | Thu Nov 24 2022 10:54 AM 
+- 🕯 [谷歌社区说｜Android 开发者的跨平台 - Flutter or Compose ？](https://juejin.cn/post/7169569482405314573) | Thu Nov 24 2022 1:11 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 终于来到了第五篇，到了东家发盒饭的日子了。 打工人的快乐，就是如此简单！不过让我最开心的就是上篇文章的一个诚恳的评论！ 这个世道 势利眼、冷脸子、闲言碎语、指桑骂槐， 好了遭人嫉妒，差了让人瞧不 
+    hello 大家好，我是 Flutter GDE 郭树煜，同时也是 Github GSY 项目的负责人，比如 GSYVideoPlayer ，今天要给大家分享的主题是 Android 开发者的跨平台  
     </details> 
 
-- 🚀 [vue3中如何使用JSX？](https://juejin.cn/post/7169533991854374949) | Thu Nov 24 2022 10:53 AM 
+- 🚀 [深入理解Java线程间通信](https://juejin.cn/post/7169562896668557320) | Thu Nov 24 2022 12:45 PM 
     <details><summary>展开描述 ...</summary> 
-    我们该怎么选择 JSX 和 template 呢？在实现业务需求的时候，优先使用 template，尽可能地利用 Vue 本身的性能优化。而对于动态性要求较高的组件可以使用 JSX 来实现。 
+    合理的使用Java多线程可以更好地利用服务器资源。一般来讲，线程内部有自己私有的线程上下文，互不干扰。但是当我们需要多个线程之间相互协作的时候，就需要我们掌握Java线程的通信方式。 
     </details> 
 
-- 💪 [unplugin-auto-import 和 unplugin-vue-components](https://juejin.cn/post/7169523949167411236) | Thu Nov 24 2022 10:15 AM 
+- 💪 [信息量、信息熵、交叉熵、似然](https://juejin.cn/post/7169557774207025166) | Thu Nov 24 2022 12:26 PM 
     <details><summary>展开描述 ...</summary> 
-    unplugin-auto-import：为 Vite、Webpack、Rollup 和 esbuild 按需自动导入 API。支持 TypeScript......... 
+    交叉熵，KL散度，信息熵，信息量是有密切的关系的。 信息量 信息量是对信息的度量，一件事情发生之后我们会从中得到的信息。一般来说概率小的事情发生比概率大的事情发生传递更多的消息。因此信息量与事件发生概 
     </details> 
 <!-- juejin:END -->
 ### 少数派
