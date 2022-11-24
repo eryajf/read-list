@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [redis 性能分享](https://juejin.cn/post/7169375214344929288) | Thu Nov 24 2022 12:38 AM 
+- 🤗 [Android Jetpack - Navigation](https://juejin.cn/post/7169390943013961742) | Thu Nov 24 2022 1:38 AM 
     <details><summary>展开描述 ...</summary> 
-    Redis为什么变慢了? 带你如何排查redis性能问题 redis 真的变慢了吗？ 在开始之前，首先要弄清楚 redis 是否真的变慢了？ 如果你发现你的业务服务 API 响应延迟变长，首先你需要先 
+    本文从代码和应用场景出发，讲解了 Android Jetpack - navigation 的使用和对导航组件的一些理解。 
     </details> 
 
-- 🎡 [如何使用CSS创建高级动画，这个函数必须掌握](https://juejin.cn/post/7169375268321116196) | Thu Nov 24 2022 12:38 AM 
+- 🎡 [Android自定义View交互进阶，价格区间选择控件](https://juejin.cn/post/7169384350608261133) | Thu Nov 24 2022 1:13 AM 
     <details><summary>展开描述 ...</summary> 
-    我们每天都在网上摸鱼，作为前端开发人员，网站上微妙的细节变化通过比别人会更关注。我一直注意到的一件事是网站上的动画的流畅性。动画对于用户体验来说是非常好的，有时我们可以一些有趣的动画来留住用户。 创建 
+    价格区间选择的控件实现 前言 之前我们的复习中，我们已经对原生 Canvas 的绘制有了详细的了解，我们对事件的处理也有了简单的了解，这一期我们就对绘制与事件的处理做更进一步的实现。 如图，我们需要做 
     </details> 
 
-- 🕯 [l12.Linux文件过滤及内容编辑处理&lpar;二&rpar;](https://juejin.cn/post/7169359841373192223) | Wed Nov 23 2022 11:38 PM 
+- 🕯 [【Kotlin回顾】3.object的几种用法](https://juejin.cn/post/7169382354425741343) | Thu Nov 24 2022 1:05 AM 
     <details><summary>展开描述 ...</summary> 
-    “ 本文正在参加「金石计划 . 瓜分6万现金大奖」 ” 7.5 less：分页显示文件内容 7.5.1 命令详解 【命令星级】 ★★★★★ 【功能说明】 如果使用man less查看less的帮助文档 
+    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第3天，点击查看活动详情 1.object：匿名内部类 在Android最常用的匿名内部类之一就是点击事件，用Java语言写的话就是 
     </details> 
 
-- 🚀 [l11.Linux文件过滤及内容编辑处理&lpar;一&rpar;](https://juejin.cn/post/7169359492763615263) | Wed Nov 23 2022 11:37 PM 
+- 🚀 [Redis缓存何以一枝独秀？&lpar;2&rpar; —— 聊聊Redis的数据过期、数据淘汰以及数据持久化的实现机制](https://juejin.cn/post/7169381569684373541) | Thu Nov 24 2022 1:02 AM 
     <details><summary>展开描述 ...</summary> 
-    “ 本文正在参加「金石计划 . 瓜分6万现金大奖」 ” 7.1 vi/vim：纯文本编辑器 Windows下最基本的文本编辑器就是记事本，当然还有一些功能强大的文本编辑器，例如notepad++、em 
+    Redis作为一个非关系型数据库，由于其超高的并发处理性能，及其对缓存场景所提供的系列能力构建，使其成为了集中缓存的绝佳选择。本篇我们聊聊Redis数据管理的能力，如数据过期、数据淘汰、数据持久化等。 
     </details> 
 
-- 💪 [你知道这个 CSS 属性吗 —— getComputedStyle](https://juejin.cn/post/7169351511602888734) | Wed Nov 23 2022 11:06 PM 
+- 💪 [大屏图表，ECharts 从“熟练”到入门](https://juejin.cn/post/7169381562834747406) | Thu Nov 24 2022 1:02 AM 
     <details><summary>展开描述 ...</summary> 
-     Computed 在 Vue 中常用，是一种计算属性，里面的值是响应式的，但你知道 getComputedStyle 这个 CSS 属性吗？Computed + Style ，没错，样式也能做到响应 
+    ECharts，作为大屏开发最主流的图表组件，为什么大家都觉得自己“熟练使用”它？它具有那些特质？？ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
