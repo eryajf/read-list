@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请教个 du df ls 磁盘满的问题](https://www.v2ex.com/t/897641#reply0) | Thu Nov 24 2022 9:46 AM
-- 🤗 [每年一问，毕设不知道做什么](https://www.v2ex.com/t/897633#reply8) | Thu Nov 24 2022 9:09 AM
-- 🎭 [大家攒新电脑后是怎么装驱动的？](https://www.v2ex.com/t/897632#reply38) | Thu Nov 24 2022 9:04 AM
-- 🥷 [PHP 编译器 BPC 6.0 发布,支持 namespace,支持 closure,成功编译 workerman](https://www.v2ex.com/t/897626#reply2) | Thu Nov 24 2022 8:49 AM
-- 🐵 [无论哪个公司换了 CTO 或者架构师，系统必然迎来一波重构](https://www.v2ex.com/t/897620#reply21) | Thu Nov 24 2022 8:37 AM<!-- v2ex:END -->
+- 🥸 [FY 技术中心官方总部直招： GO 后端副总监， GO 资深专家，后端开发转 GO](https://www.v2ex.com/t/897660#reply3) | Thu Nov 24 2022 10:52 AM
+- 🤗 [请教个 du df ls 磁盘满的问题](https://www.v2ex.com/t/897641#reply0) | Thu Nov 24 2022 9:46 AM
+- 🎭 [每年一问，毕设不知道做什么](https://www.v2ex.com/t/897633#reply8) | Thu Nov 24 2022 9:09 AM
+- 🥷 [大家攒新电脑后是怎么装驱动的？](https://www.v2ex.com/t/897632#reply48) | Thu Nov 24 2022 9:04 AM
+- 🐵 [PHP 编译器 BPC 6.0 发布,支持 namespace,支持 closure,成功编译 workerman](https://www.v2ex.com/t/897626#reply2) | Thu Nov 24 2022 8:49 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
