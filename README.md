@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [求助！搭梯子后如何不受影响的访问国内网站？ clash for windows](https://www.v2ex.com/t/897609#reply8) | Thu Nov 24 2022 7:55 AM
-- 🤗 [C++代码问题咨询](https://www.v2ex.com/t/897584#reply0) | Thu Nov 24 2022 6:04 AM
-- 🎭 [给你们说一下美国亚马逊的价格政策，是怎样坑老用户的](https://www.v2ex.com/t/897581#reply17) | Thu Nov 24 2022 5:56 AM
-- 🥷 [System Design 学习路径](https://www.v2ex.com/t/897568#reply2) | Thu Nov 24 2022 5:20 AM
-- 🐵 [为什么 navicat 连接某个 mysql 库很慢，程序中连接很快](https://www.v2ex.com/t/897565#reply6) | Thu Nov 24 2022 4:47 AM<!-- v2ex:END -->
+- 🥸 [每年一问，毕设不知道做什么](https://www.v2ex.com/t/897633#reply0) | Thu Nov 24 2022 9:09 AM
+- 🤗 [大家攒新电脑后是怎么装驱动的？](https://www.v2ex.com/t/897632#reply11) | Thu Nov 24 2022 9:04 AM
+- 🎭 [PHP 编译器 BPC 6.0 发布,支持 namespace,支持 closure,成功编译 workerman](https://www.v2ex.com/t/897626#reply1) | Thu Nov 24 2022 8:49 AM
+- 🥷 [无论哪个公司换了 CTO 或者架构师，系统必然迎来一波重构](https://www.v2ex.com/t/897620#reply12) | Thu Nov 24 2022 8:37 AM
+- 🐵 [求助！搭梯子后如何不受影响的访问国内网站？ clash for windows](https://www.v2ex.com/t/897609#reply11) | Thu Nov 24 2022 7:55 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
