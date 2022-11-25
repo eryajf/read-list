@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Canvas 射线渐变问题求助 &lpar;有偿&rpar;](https://www.v2ex.com/t/897725#reply5) | Thu Nov 24 2022 2:59 PM
-- 🤗 [菜鸟请各位大佬再帮我指点一下在 android studio 里如何.tiff 转换成 png](https://www.v2ex.com/t/897722#reply5) | Thu Nov 24 2022 2:48 PM
-- 🎭 [我这个爬虫是否违法？](https://www.v2ex.com/t/897720#reply16) | Thu Nov 24 2022 2:43 PM
-- 🥷 [Jump Desktop 使用触控板滚动特别快,如何解决](https://www.v2ex.com/t/897710#reply3) | Thu Nov 24 2022 2:05 PM
-- 🐵 [mac idea 快捷键冲突问题求助](https://www.v2ex.com/t/897708#reply1) | Thu Nov 24 2022 2:01 PM<!-- v2ex:END -->
+- 🥸 [pve 直接安装最新版 Kodi，并实现与盒子一样的使用体验](https://www.v2ex.com/t/897755#reply1) | Fri Nov 25 2022 12:49 AM
+- 🤗 [Canvas 射线渐变问题求助 &lpar;有偿&rpar;](https://www.v2ex.com/t/897725#reply8) | Thu Nov 24 2022 2:59 PM
+- 🎭 [菜鸟请各位大佬再帮我指点一下在 android studio 里如何.tiff 转换成 png](https://www.v2ex.com/t/897722#reply5) | Thu Nov 24 2022 2:48 PM
+- 🥷 [我这个爬虫是否违法？](https://www.v2ex.com/t/897720#reply21) | Thu Nov 24 2022 2:43 PM
+- 🐵 [Jump Desktop 使用触控板滚动特别快,如何解决](https://www.v2ex.com/t/897710#reply3) | Thu Nov 24 2022 2:05 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
