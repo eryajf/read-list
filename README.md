@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [基于Springboot完成新增员工功能并设置全局异常处理器](https://juejin.cn/post/7169969206199320613) | Fri Nov 25 2022 3:03 PM 
+- 🤗 [在掘金第一次记录失眠](https://juejin.cn/post/7170039159900340232) | Fri Nov 25 2022 7:40 PM 
+    <details><summary>展开描述 ...</summary> 
+    又失眠了。对于一个男人来说，没有什么比家国之事更为忧心的了。 给女儿唱了一个小时儿歌之后，她终于睡着了。我起身打开电脑，楞了一会儿，忽然缓过神来，感觉发愣是在浪费自己的时间。 因此，我就想，要不整理一 
+    </details> 
+
+- 🎡 [基于Springboot完成新增员工功能并设置全局异常处理器](https://juejin.cn/post/7169969206199320613) | Fri Nov 25 2022 3:03 PM 
     <details><summary>展开描述 ...</summary> 
     开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第4天，点击查看活动详情  1. 新增员工 1.1 需求分析 后台系统中可以管理员工信息，通过新增员工来添加后台系统用户。点击[添加 
     </details> 
 
-- 🎡 [为什么计算机中的负数要用补码表示？](https://juejin.cn/post/7169966346753540103) | Fri Nov 25 2022 2:51 PM 
+- 🕯 [为什么计算机中的负数要用补码表示？](https://juejin.cn/post/7169966346753540103) | Fri Nov 25 2022 2:51 PM 
     <details><summary>展开描述 ...</summary> 
     我们日常生活接触到的大部分数字却是十进制编码，例如手机号码、工牌号、学号。那为什么计算机要使用二进制数制？二进制数据如何进行运算，以及计算机做了哪些优化来如何提高运算的效率？ 
     </details> 
 
-- 🕯 [你肯定不知道RocketMQ生产者是如何规避故障Broker的](https://juejin.cn/post/7169958001225400333) | Fri Nov 25 2022 2:19 PM 
+- 🚀 [你肯定不知道RocketMQ生产者是如何规避故障Broker的](https://juejin.cn/post/7169958001225400333) | Fri Nov 25 2022 2:19 PM 
     <details><summary>展开描述 ...</summary> 
     在消息发送过程中，生产者从NameServer中获取到了指定Topic对应的Broker信息，在同步发送消息的代码中，如果消息发送失败，生产者默认 
     </details> 
 
-- 🚀 [MobPush Android 快速集成](https://juejin.cn/post/7169954863449964552) | Fri Nov 25 2022 2:07 PM 
+- 💪 [MobPush Android 快速集成](https://juejin.cn/post/7169954863449964552) | Fri Nov 25 2022 2:07 PM 
     <details><summary>展开描述 ...</summary> 
     开发工具：Android Studio 集成方式：Gradle在线集成 安卓版本支持：minSdkVersion 19 集成准备 注册账号 使用PushSDK之前，需要先在MobTech官网注册开发者 
-    </details> 
-
-- 💪 [前端技术周刊 2022-11-25](https://juejin.cn/post/7169949752908480525) | Fri Nov 25 2022 1:47 PM 
-    <details><summary>展开描述 ...</summary> 
-    目光所及之处，只是不远的前方，即使如此，依然可以看到那里有许多值得去完成的工作在等待我们。 —— 阿兰·图灵（Alan Turing）, 《计算机器和智能》, 1950年 
     </details> 
 <!-- juejin:END -->
 ### 少数派
