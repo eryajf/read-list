@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [子进程如何重新读取系统环境变量, 而不只是继承了父级的环境变量?](https://www.v2ex.com/t/897890#reply2) | Fri Nov 25 2022 7:47 AM
-- 🤗 [深度学习框架新手快速上手指南](https://www.v2ex.com/t/897888#reply0) | Fri Nov 25 2022 7:44 AM
-- 🎭 [有没有对 Verdaccio 熟悉的？ yarn add 私有包报错了](https://www.v2ex.com/t/897884#reply4) | Fri Nov 25 2022 7:30 AM
-- 🥷 [每年一问，开题报告、文献综述、毕业论文](https://www.v2ex.com/t/897882#reply0) | Fri Nov 25 2022 7:25 AM
-- 🐵 [求问，有没有比较快的、准确的计算方式？谢谢。](https://www.v2ex.com/t/897876#reply3) | Fri Nov 25 2022 7:12 AM<!-- v2ex:END -->
+- 🥸 [Visual Studio Code 上已有两百万 Java 开发者！ 2022 年 11 月的更新 -- 调试新功能和 Spring 组件图示](https://www.v2ex.com/t/897934#reply2) | Fri Nov 25 2022 9:50 AM
+- 🤗 [iOS App 上架 App Store 详细教程](https://www.v2ex.com/t/897930#reply0) | Fri Nov 25 2022 9:41 AM
+- 🎭 [求助，更新 macOS12.6.1 后，无法在 IDEA 里启动 tomcat 服务](https://www.v2ex.com/t/897929#reply0) | Fri Nov 25 2022 9:39 AM
+- 🥷 [鼠标是不是暴利？](https://www.v2ex.com/t/897925#reply28) | Fri Nov 25 2022 9:27 AM
+- 🐵 [高并发下怎么做余额扣减？](https://www.v2ex.com/t/897920#reply10) | Fri Nov 25 2022 9:10 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
