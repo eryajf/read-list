@@ -122,29 +122,29 @@
 ### 独立开发变现周刊
 
 <!-- easyindie:START -->
-- 💂 [独立开发变现周刊（第80期） : Notion页面转成网站客服小部件，月收入5K美金](https://www.ezindie.com/weekly/issue-80) | Fri Nov 18 2022 12:00 AM 
+- 💂 [独立开发变现周刊（第81期） : 开发一个应用来减少屏幕使用时间，月收入2万美元](https://www.ezindie.com/weekly/issue-81) | Fri Nov 25 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。开发一个应用来减少屏幕使用时间，月收入2万美元 
+    </details> 
+
+- 💡 [独立开发变现周刊（第80期） : Notion页面转成网站客服小部件，月收入5K美金](https://www.ezindie.com/weekly/issue-80) | Fri Nov 18 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。Notion页面转成网站客服小部件，月收入5K美金 
     </details> 
 
-- 💡 [独立开发变现周刊（第79期） : 一个产品页面流灵感网站，每月4.5K美元](https://www.ezindie.com/weekly/issue-79) | Fri Nov 11 2022 12:00 AM 
+- 🌋 [独立开发变现周刊（第79期） : 一个产品页面流灵感网站，每月4.5K美元](https://www.ezindie.com/weekly/issue-79) | Fri Nov 11 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。一个产品页面流灵感网站，每月4.5K美元 
     </details> 
 
-- 🌋 [独立开发变现周刊（第78期） : 建立一个佣金网站，每月赚4万美元](https://www.ezindie.com/weekly/issue-78) | Fri Nov 04 2022 12:00 AM 
+- 🕴 [独立开发变现周刊（第78期） : 建立一个佣金网站，每月赚4万美元](https://www.ezindie.com/weekly/issue-78) | Fri Nov 04 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。建立一个佣金网站，每月赚4万美元 
     </details> 
 
-- 🕴 [独立开发变现周刊（第77期） : 文章转短视频工具短短5个月内达到月收入6000美元](https://www.ezindie.com/weekly/issue-77) | Fri Oct 28 2022 12:00 AM 
+- 🎊 [独立开发变现周刊（第77期） : 文章转短视频工具短短5个月内达到月收入6000美元](https://www.ezindie.com/weekly/issue-77) | Fri Oct 28 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。文章转短视频工具短短5个月内达到月收入6000美元 
-    </details> 
-
-- 🎊 [独立开发变现周刊（第76期） : 一款两性关系治愈类iPhone应用是如何盈利的？](https://www.ezindie.com/weekly/issue-76) | Fri Oct 21 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。一款两性关系治愈类iPhone应用是如何盈利的？ 
     </details> 
 <!-- easyindie:END -->
 
