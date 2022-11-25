@@ -364,7 +364,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [小白求助!望各位大佬帮忙!&lpar;跪谢!&rpar;](https://www.v2ex.com/t/898007#reply1) | Fri Nov 25 2022 6:14 PM
+- 🥸 [小白求助!望各位大佬帮忙!&lpar;跪谢!&rpar;](https://www.v2ex.com/t/898007#reply2) | Fri Nov 25 2022 6:14 PM
 - 🤗 [RH 系 Linux 发行版怎么删除推荐包](https://www.v2ex.com/t/898004#reply0) | Fri Nov 25 2022 5:41 PM
 - 🎭 [DSM7 安装 docker 版的 bitwarden 无法创建账户](https://www.v2ex.com/t/897997#reply6) | Fri Nov 25 2022 4:49 PM
 - 🥷 [Go2.0 什么时候出来](https://www.v2ex.com/t/897987#reply12) | Fri Nov 25 2022 3:08 PM
