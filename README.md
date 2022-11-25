@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Visual Studio Code 上已有两百万 Java 开发者！ 2022 年 11 月的更新 -- 调试新功能和 Spring 组件图示](https://www.v2ex.com/t/897934#reply2) | Fri Nov 25 2022 9:50 AM
-- 🤗 [iOS App 上架 App Store 详细教程](https://www.v2ex.com/t/897930#reply0) | Fri Nov 25 2022 9:41 AM
+- 🥸 [Visual Studio Code 上已有两百万 Java 开发者！ 2022 年 11 月的更新 -- 调试新功能和 Spring 组件图示](https://www.v2ex.com/t/897934#reply6) | Fri Nov 25 2022 9:50 AM
+- 🤗 [iOS App 上架 App Store 详细教程](https://www.v2ex.com/t/897930#reply2) | Fri Nov 25 2022 9:41 AM
 - 🎭 [求助，更新 macOS12.6.1 后，无法在 IDEA 里启动 tomcat 服务](https://www.v2ex.com/t/897929#reply0) | Fri Nov 25 2022 9:39 AM
-- 🥷 [鼠标是不是暴利？](https://www.v2ex.com/t/897925#reply28) | Fri Nov 25 2022 9:27 AM
-- 🐵 [高并发下怎么做余额扣减？](https://www.v2ex.com/t/897920#reply10) | Fri Nov 25 2022 9:10 AM<!-- v2ex:END -->
+- 🥷 [鼠标是不是暴利？](https://www.v2ex.com/t/897925#reply42) | Fri Nov 25 2022 9:27 AM
+- 🐵 [高并发下怎么做余额扣减？](https://www.v2ex.com/t/897920#reply11) | Fri Nov 25 2022 9:10 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
