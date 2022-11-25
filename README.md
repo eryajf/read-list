@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [最近换代理软件后没法玩 Node 了，各位大佬是怎么解决 npm 挂代理的问题的](https://www.v2ex.com/t/897824#reply0) | Fri Nov 25 2022 4:54 AM
-- 🤗 [win11 有关于 HDR 视频流的问题。](https://www.v2ex.com/t/897802#reply7) | Fri Nov 25 2022 3:17 AM
-- 🎭 [求助大佬：上海移动 5G 网络无法访问公司服务接口。应该往那些方向排查呢](https://www.v2ex.com/t/897785#reply14) | Fri Nov 25 2022 2:35 AM
-- 🥷 [腾讯云官网产品可做额外折扣，短信，企业邮箱，服务器， cnd， cos 等均可](https://www.v2ex.com/t/897783#reply0) | Fri Nov 25 2022 2:30 AM
-- 🐵 [求一个商品热度排序的解决方案](https://www.v2ex.com/t/897782#reply9) | Fri Nov 25 2022 2:24 AM<!-- v2ex:END -->
+- 🥸 [子进程如何重新读取系统环境变量, 而不只是继承了父级的环境变量?](https://www.v2ex.com/t/897890#reply2) | Fri Nov 25 2022 7:47 AM
+- 🤗 [深度学习框架新手快速上手指南](https://www.v2ex.com/t/897888#reply0) | Fri Nov 25 2022 7:44 AM
+- 🎭 [有没有对 Verdaccio 熟悉的？ yarn add 私有包报错了](https://www.v2ex.com/t/897884#reply4) | Fri Nov 25 2022 7:30 AM
+- 🥷 [每年一问，开题报告、文献综述、毕业论文](https://www.v2ex.com/t/897882#reply0) | Fri Nov 25 2022 7:25 AM
+- 🐵 [求问，有没有比较快的、准确的计算方式？谢谢。](https://www.v2ex.com/t/897876#reply3) | Fri Nov 25 2022 7:12 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
