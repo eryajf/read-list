@@ -378,24 +378,24 @@
     看点:大屏图表，ECharts 从“熟练”到入门、深入【虚拟列表】动态高度、缓冲、异步加载、基于gitlab ci_cd实现代码质量管理、听说你学过架构设计？来，弄个短链系统 
     </details> 
 
-- 🎡 [别再用不规范的方法来解决软键盘遮挡输入框问题了](https://juejin.cn/post/7169763455946194952) | Fri Nov 25 2022 1:44 AM 
+- 🎡 [当大火的文图生成模型遇见知识图谱，AI画像趋近于真实世界](https://juejin.cn/post/7169762761390424077) | Fri Nov 25 2022 1:41 AM 
     <details><summary>展开描述 ...</summary> 
-    创新型技术方法来解决，舍弃网络广泛传播的不规范方法来就解决问题。并带你搞清楚问题的前因后果，拓展知识 
+    模型免费开放！零基础也能一键进行AI艺术创作。本⽂简要介绍ARTIST的技术解读，以及如何在EasyNLP框架中使⽤ARTIST模型。 
     </details> 
 
-- 🕯 [『  CSS 实战』教你用 CSS 实现一个丰富的自定义输入框交互动画](https://juejin.cn/post/7169762045112352805) | Fri Nov 25 2022 1:38 AM 
+- 🕯 [Android TextView 字体大小&amp;组件高度自适应解决方案](https://juejin.cn/post/7169622015299551240) | Thu Nov 24 2022 4:36 PM 
     <details><summary>展开描述 ...</summary> 
-    介绍 大家好，我是爱吃鱼的桶哥Z，在日常的开发中，我们经常会与表单元素打交道，其中最常用的莫过于账号密码的输入框，今天我们就一起来学习一下丰富的自定义输入框交互动画。首先还是先来看一下最终的实现效果， 
+    通常在做UI的时候，文本都是比较重要的一部分。 但是在Android中，往往会出现实际效果与UI图不太一致的情况，导致这种情况的出现主要是以下3个点。 
     </details> 
 
-- 🚀 [AntV 图分析：新产品开源，新架构启航](https://juejin.cn/post/7169761520900177950) | Fri Nov 25 2022 1:36 AM 
+- 🚀 [swift指针&amp;内存管理-闭包的循环引用](https://juejin.cn/post/7169611453404545061) | Thu Nov 24 2022 3:55 PM 
     <details><summary>展开描述 ...</summary> 
-    导读 AntV 图技术已随 AntV 品牌开源 6 年，一路奔跑在通向远方的路上，得助于社区与用户支持。因此，我们将更坚定地拥抱开源，为大家带来开源开放的图产品 GraphInsight，以及将来时  
+    无主引用 - swift实例内存空间引用存储方式 闭包循环引用 - 强引用 弱引用存储方式 deinit执行逻辑 强应用，导致deinit不执行的真正逻辑是什么 闭包捕获列表参数理解 闭包延长周期 
     </details> 
 
-- 💪 [【架构师（第五十二篇）】 几个前端工具的基本使用](https://juejin.cn/post/7169760921936461861) | Fri Nov 25 2022 1:34 AM 
+- 💪 [Android中常见的那些内存泄漏——【问题分析+方案】](https://juejin.cn/post/7169562471353548813) | Thu Nov 24 2022 12:44 PM 
     <details><summary>展开描述 ...</summary> 
-    脱离业务的架构就是耍流氓。架构师必须要深入理解需求、参与需求、看透需求背后的业务本质。这是我学习架构师的第五十二篇笔记。 
+    1.静态Activity&lpar;Activity上下文Context&rpar;和View 静态变量Activity和View会导致内存泄漏，在下面代码中对Activity的Context和TextView设置为静态 
     </details> 
 <!-- juejin:END -->
 ### 少数派
