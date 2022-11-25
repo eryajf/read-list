@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [MyBatis缓存技术（一级缓存、二级缓存）](https://juejin.cn/post/7169884517050155044) | Fri Nov 25 2022 9:34 AM 
+- 🤗 [基于Springboot完成新增员工功能并设置全局异常处理器](https://juejin.cn/post/7169969206199320613) | Fri Nov 25 2022 3:03 PM 
     <details><summary>展开描述 ...</summary> 
-    1、MyBatis的缓存分类 一级缓存 一级缓存的作用域是一个SqlSession。MyBatis默认开启一级缓存。在同一个SqlSession中，执行相同的查询SQL，第一次会查询数据库，并写到缓存 
+    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第4天，点击查看活动详情  1. 新增员工 1.1 需求分析 后台系统中可以管理员工信息，通过新增员工来添加后台系统用户。点击[添加 
     </details> 
 
-- 🎡 [会员中心 足迹 动态 消息 创作中心 发布 MyBatis动态拼接SQL](https://juejin.cn/post/7169884182523740167) | Fri Nov 25 2022 9:32 AM 
+- 🎡 [为什么计算机中的负数要用补码表示？](https://juejin.cn/post/7169966346753540103) | Fri Nov 25 2022 2:51 PM 
     <details><summary>展开描述 ...</summary> 
-    通过使用MyBatis提供的标签方法可以实现动态SQL拼接 1、if标签 以上SQL语句表示，如果POJO类中id值不为空，则把id作为条件进行检索；如果username属性值不为空，则把userna 
+    我们日常生活接触到的大部分数字却是十进制编码，例如手机号码、工牌号、学号。那为什么计算机要使用二进制数制？二进制数据如何进行运算，以及计算机做了哪些优化来如何提高运算的效率？ 
     </details> 
 
-- 🕯 [Linux 命令 su 和 sudo 的区别](https://juejin.cn/post/7169874215636566024) | Fri Nov 25 2022 8:54 AM 
+- 🕯 [你肯定不知道RocketMQ生产者是如何规避故障Broker的](https://juejin.cn/post/7169958001225400333) | Fri Nov 25 2022 2:19 PM 
     <details><summary>展开描述 ...</summary> 
-    之前一直对 su 和 sudo 这两个命令犯迷糊，最近专门搜了这方面的资料，总算是把两者的关系以及用法搞清楚了，这篇文章来系统总结一下。 1. 准备工作 因为本篇博客中涉及到用户切换，所以我需要提前准 
+    在消息发送过程中，生产者从NameServer中获取到了指定Topic对应的Broker信息，在同步发送消息的代码中，如果消息发送失败，生产者默认 
     </details> 
 
-- 🚀 [hyperf 框架完善之枚举类和公共函数库（连载中）](https://juejin.cn/post/7169873416613756941) | Fri Nov 25 2022 8:51 AM 
+- 🚀 [MobPush Android 快速集成](https://juejin.cn/post/7169954863449964552) | Fri Nov 25 2022 2:07 PM 
     <details><summary>展开描述 ...</summary> 
-    今天我们来看两个问题，枚举类和公众函数库的引入。 枚举类 上节课最后我们抛出的问题其实就是如何自定义 code 的问题。 为了方便管理错误码，我们利用 hyperf 的枚举类进 
+    开发工具：Android Studio 集成方式：Gradle在线集成 安卓版本支持：minSdkVersion 19 集成准备 注册账号 使用PushSDK之前，需要先在MobTech官网注册开发者 
     </details> 
 
-- 💪 [手写muduo库&lpar;EventLoopThreadPool&rpar;](https://juejin.cn/post/7169870741700083726) | Fri Nov 25 2022 8:40 AM 
+- 💪 [前端技术周刊 2022-11-25](https://juejin.cn/post/7169949752908480525) | Fri Nov 25 2022 1:47 PM 
     <details><summary>展开描述 ...</summary> 
-    EventLoopThreadPool是一个事件线程池，通过这个池来管理EventLoop，EventLoop本身绑定的就是线程 EventLoopThreadPool.h 成员变量baseLoop_ 
+    目光所及之处，只是不远的前方，即使如此，依然可以看到那里有许多值得去完成的工作在等待我们。 —— 阿兰·图灵（Alan Turing）, 《计算机器和智能》, 1950年 
     </details> 
 <!-- juejin:END -->
 ### 少数派
