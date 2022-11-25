@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [深入虚拟列表、大屏图表、短链系统设计、推理互动小游戏 | 酱酱的下午茶第 118 期](https://juejin.cn/post/7169767170887385096) | Fri Nov 25 2022 1:58 AM 
+- 🤗 [袋鼠云数据湖平台「DataLake」，存储全量数据，打造数字底座](https://juejin.cn/post/7169783467054465061) | Fri Nov 25 2022 3:01 AM 
     <details><summary>展开描述 ...</summary> 
-    看点:大屏图表，ECharts 从“熟练”到入门、深入【虚拟列表】动态高度、缓冲、异步加载、基于gitlab ci_cd实现代码质量管理、听说你学过架构设计？来，弄个短链系统 
+    一、什么是数据湖？ 在探讨数据湖技术或如何构建数据湖之前，我们需要先明确，什么是数据湖？ 数据湖的起源，应该追溯到 2010 年 10 月。基于对半结构化、非结构化存储的需求，同时为了推广自家的 Pe 
     </details> 
 
-- 🎡 [当大火的文图生成模型遇见知识图谱，AI画像趋近于真实世界](https://juejin.cn/post/7169762761390424077) | Fri Nov 25 2022 1:41 AM 
+- 🎡 [JavaScript 模块化 —— 从概念到原理](https://juejin.cn/post/7169782602411278366) | Fri Nov 25 2022 2:58 AM 
     <details><summary>展开描述 ...</summary> 
-    模型免费开放！零基础也能一键进行AI艺术创作。本⽂简要介绍ARTIST的技术解读，以及如何在EasyNLP框架中使⽤ARTIST模型。 
+    1. 为什么需要 Javascipt 模块化？ 2. 你知道哪几种模块化规范？ 3. CommonJS 和 ES6 模块的区别 4. CommonJS 和 AMD 实现原理 
     </details> 
 
-- 🕯 [Android TextView 字体大小&amp;组件高度自适应解决方案](https://juejin.cn/post/7169622015299551240) | Thu Nov 24 2022 4:36 PM 
+- 🕯 [vue构建仿掘金插件](https://juejin.cn/post/7169780005839634439) | Fri Nov 25 2022 2:48 AM 
     <details><summary>展开描述 ...</summary> 
-    通常在做UI的时候，文本都是比较重要的一部分。 但是在Android中，往往会出现实际效果与UI图不太一致的情况，导致这种情况的出现主要是以下3个点。 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 掘金chrome插件装在浏览器上，既可记笔记，又可看github热点项目，还可交友吃瓜，这沸点就差个树洞功能了，掘金为广大程序员提供了交友的机会 
     </details> 
 
-- 🚀 [swift指针&amp;内存管理-闭包的循环引用](https://juejin.cn/post/7169611453404545061) | Thu Nov 24 2022 3:55 PM 
+- 🚀 [Metal每日分享，调整胶片颗粒感滤镜效果](https://juejin.cn/post/7169778576076570638) | Fri Nov 25 2022 2:42 AM 
     <details><summary>展开描述 ...</summary> 
-    无主引用 - swift实例内存空间引用存储方式 闭包循环引用 - 强引用 弱引用存储方式 deinit执行逻辑 强应用，导致deinit不执行的真正逻辑是什么 闭包捕获列表参数理解 闭包延长周期 
+    「这是我参与2022首次更文挑战的第8天，活动详情查看：2022首次更文挑战」 本案例的目的是理解如何用Metal实现调节胶片颗粒感滤镜，通过调整颗粒参数来调整晶粒尺寸来达到颗粒感效果； 
     </details> 
 
-- 💪 [Android中常见的那些内存泄漏——【问题分析+方案】](https://juejin.cn/post/7169562471353548813) | Thu Nov 24 2022 12:44 PM 
+- 💪 [Metal每日分享，调节亮度滤镜效果](https://juejin.cn/post/7169777856820707336) | Fri Nov 25 2022 2:40 AM 
     <details><summary>展开描述 ...</summary> 
-    1.静态Activity&lpar;Activity上下文Context&rpar;和View 静态变量Activity和View会导致内存泄漏，在下面代码中对Activity的Context和TextView设置为静态 
+    「这是我参与2022首次更文挑战的第7天，活动详情查看：2022首次更文挑战」 本案例的目的是理解如何用Metal实现调节亮度滤镜，简单讲就是通过对像素rgb+亮度值来改变图片亮度; 
     </details> 
 <!-- juejin:END -->
 ### 少数派
