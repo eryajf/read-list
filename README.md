@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Go2.0 什么时候出来](https://www.v2ex.com/t/897987#reply3) | Fri Nov 25 2022 3:08 PM
+- 🥸 [Go2.0 什么时候出来](https://www.v2ex.com/t/897987#reply8) | Fri Nov 25 2022 3:08 PM
 - 🤗 [Magician-Web3 1.0.5，加入了负载均衡 和 重试策略](https://www.v2ex.com/t/897982#reply0) | Fri Nov 25 2022 2:40 PM
 - 🎭 [做了一个 golang 的 企业微信 SDK](https://www.v2ex.com/t/897974#reply0) | Fri Nov 25 2022 2:01 PM
 - 🥷 [Java 后端传值到 Vue 前端发现 Integer 变成了字符串，有可能是什么原因](https://www.v2ex.com/t/897964#reply1) | Fri Nov 25 2022 1:03 PM
-- 🐵 [求推荐点 txt 风格的博客 博客主题](https://www.v2ex.com/t/897963#reply15) | Fri Nov 25 2022 1:02 PM<!-- v2ex:END -->
+- 🐵 [求推荐点 txt 风格的博客 博客主题](https://www.v2ex.com/t/897963#reply18) | Fri Nov 25 2022 1:02 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
