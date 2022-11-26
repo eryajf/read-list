@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android Compose 动画使用详解&lpar;八&rpar;Animatable的使用](https://juejin.cn/post/7170177890531688478) | Sat Nov 26 2022 4:33 AM 
+- 🤗 [Terraform多环境创建实战](https://juejin.cn/post/7170197027173695495) | Sat Nov 26 2022 5:47 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇介绍了更底层动画api Animatable的创建以及animateTo和snapTo的使用，并通过一个简单的实战实例完成了如何通过 Animatable实现自定义动画 
+    一 背景 Don&#39;t repeat yourself &lpar;DRY&rpar; 使用Terraform在多个environments/regions/cloud-providers中创建您的基础设施 Terrafo 
     </details> 
 
-- 🎡 [Java5、Java9内存模型](https://juejin.cn/post/7170150026520297502) | Sat Nov 26 2022 2:44 AM 
+- 🎡 [Android数据结构全面分析（上）](https://juejin.cn/post/7170196659798818829) | Sat Nov 26 2022 5:45 AM 
     <details><summary>展开描述 ...</summary> 
-    序 为了充分利用CPU多核心，我们要编写多线程的程序。大部分场景下，线程间交互会造成很大的开销，充分理解内存模型有利于编写最高性能的多线程程序。 Java5的内存模型资料网上很多，而Java9的修订就 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 总结给你Android和java中所定义的数据结构，并分析它们的特点和使用。 
     </details> 
 
-- 🕯 [协程&lpar;17&rpar; | 扒一扒Continuation和suspendCoroutineUninterceptedOrReturn{}函数](https://juejin.cn/post/7170149820575776782) | Sat Nov 26 2022 2:43 AM 
+- 🕯 [Pulumi实战部署K8s资源](https://juejin.cn/post/7170196270403813407) | Sat Nov 26 2022 5:44 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 在文章 挂起函数原理解析中，我们把挂起函数经过CPS转换后，通过多出的Continuation变量，以及巧妙的状态机模型，来实现挂起函数的调用。 在文章 # 协程&lpar;16&rpar; | 优雅地实现一个挂起 
+    一 背景 在IaC的实现中，老牌选手Terraform已经成为业界标准，但对于使用人员还是需要单独去学习HCL语法，对于简单的运算Terraform内置的一些函数可以满足日常编排需求，但对于复杂的计算 
     </details> 
 
-- 🚀 [弄懂自定义 Hooks 不难，改变开发认知有点不习惯](https://juejin.cn/post/7170148990355259429) | Sat Nov 26 2022 2:40 AM 
+- 🚀 [IaC工具之Pulumi](https://juejin.cn/post/7170194422007758879) | Sat Nov 26 2022 5:37 AM 
     <details><summary>展开描述 ...</summary> 
-    自定义 Hooks 是我对逻辑重用的第二波探索。研究的过程，除了搞明白怎么创建 自定义 Hooks、优点、使用场景，还因此意识到项目代码中存在的可提升空间。收获颇丰！ 
+    Pulumi是一个开源工具，您可以使用基础设施即代码&lpar;IaC&rpar;和声明性方法，使用熟悉的编程语言管理阿里云资源。阿里云是第一家与Pulumi融合的云厂商，我们的开放平台现在为Pulumi提供全面支持。P 
     </details> 
 
-- 💪 [图神经网络之预训练大模型结合：ERNIESage在链接预测任务应用](https://juejin.cn/post/7170130096198516744) | Sat Nov 26 2022 1:26 AM 
+- 💪 [Kubernetes自助快速生成kubeconfig](https://juejin.cn/post/7170192825596772383) | Sat Nov 26 2022 5:30 AM 
     <details><summary>展开描述 ...</summary> 
-    “ 本文正在参加「金石计划 . 瓜分6万现金大奖」 ” 1.ERNIESage运行实例介绍&lpar;1.8x版本&rpar; 本项目原链接：https://aistudio.baidu.com/aistudio/pro 
+    一 背景 在微服务架构中尤其如此，您需要在隔离环境中测试您的应用程序，然后再将其发布给其他团队使用。 当工作负载太重而无法在单台笔记本电脑上运行时，它也很有用（例如：测试机器学习算法）。 在这篇文章中 
     </details> 
 <!-- juejin:END -->
 ### 少数派
