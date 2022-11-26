@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [太强了，全面解析缓存应用经典问题](https://juejin.cn/post/7170322254541094943) | Sat Nov 26 2022 1:53 PM 
+- 🤗 [小程序实践多角色下的菜单权限管理](https://juejin.cn/post/7170340281940705310) | Sat Nov 26 2022 3:03 PM 
+    <details><summary>展开描述 ...</summary> 
+    一直以来，权限管理都是 PC 后台的重要底层功能，但随着移动互联网的深入普及、客户运营的精细化管理要求，移动端的管理平台也成为了商家进行日常经营活动不可或缺的一端。 本文将从原生小程序实现菜 
+    </details> 
+
+- 🎡 [【杰哥带你玩转Android自动化】AccessibilityService实战-微信僵尸好友检测](https://juejin.cn/post/7170340157185327118) | Sat Nov 26 2022 3:02 PM 
+    <details><summary>展开描述 ...</summary> 
+    🤡 利用前面学到的AccessibilityService的基础姿势，借&lpar;chao&rpar;鉴&lpar;xi&rpar;李跳跳-真实好友4.0，实现一个自己的微信🧟‍♀️好友检测工具。除了能学到一些常用技巧，还能get.. 
+    </details> 
+
+- 🕯 [太强了，全面解析缓存应用经典问题](https://juejin.cn/post/7170322254541094943) | Sat Nov 26 2022 1:53 PM 
     <details><summary>展开描述 ...</summary> 
     本文正在参加「金石计划 . 瓜分6万现金大奖」 hello，大家好，我是张张，「架构精进之路」公号作者。 1、前言 随着互联网从简单的单向浏览请求，发展为基于用户个性信息的定制化以及社交化的请求，这要 
     </details> 
 
-- 🎡 [CSS如何实现毛玻璃效果](https://juejin.cn/post/7170318195269009416) | Sat Nov 26 2022 1:38 PM 
+- 🚀 [CSS如何实现毛玻璃效果](https://juejin.cn/post/7170318195269009416) | Sat Nov 26 2022 1:38 PM 
     <details><summary>展开描述 ...</summary> 
     之前在逛一些网站的时候，就经常看见一些图片背景模糊的效果，这样的效果可以使得用户将更多的注意力放在清晰的地方上，可以不经意间引导用户。 我就很好奇，这样的一种效果是怎么实现的。恰好这几天周末，顺便弥 
     </details> 
 
-- 🕯 [剑指 Offer（专项突击版）第1|2题](https://juejin.cn/post/7170311942635487240) | Sat Nov 26 2022 1:12 PM 
+- 💪 [剑指 Offer（专项突击版）第1|2题](https://juejin.cn/post/7170311942635487240) | Sat Nov 26 2022 1:12 PM 
     <details><summary>展开描述 ...</summary> 
     前言 现在前端要求变高了,找工作的时可能会碰上算法题,每天刷几道算法题做足准备,今天是《剑指 Offer（专项突击版）》第1|2题。 
-    </details> 
-
-- 🚀 [云原生Docker篇-----docker  数据管理&lpar;数据卷、容器互联&rpar;](https://juejin.cn/post/7170311038879924261) | Sat Nov 26 2022 1:10 PM 
-    <details><summary>展开描述 ...</summary> 
-    用户在使用Docker的过程中，往往需要能查看容器内应用产生的数据，或者需要把容器内的数据进行备份，甚至多个容器之间进行数据的共享，这必然涉及容器的数据管理操作。 容器中管理数据主要有两种方式： 数据 
-    </details> 
-
-- 💪 [create-vite 源码解析它来喽](https://juejin.cn/post/7170305291819417607) | Sat Nov 26 2022 12:48 PM 
-    <details><summary>展开描述 ...</summary> 
-    create-vite的源码很简单，只有一个文件，代码总行数400左右，但是实际需要阅读的代码大约只有200行左右，废话不多说，直接开始吧。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
