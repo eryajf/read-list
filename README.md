@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [l16.Linux文件核心属性知识&lpar;二&rpar;](https://juejin.cn/post/7170097783620239391) | Fri Nov 25 2022 11:22 PM 
+- 🤗 [Rust简明学习手册 - Rust安装和基本概念](https://juejin.cn/post/7170154950381535269) | Sat Nov 26 2022 3:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 好久没学新语言了，最近打算学学Rust并记录一下Rust的要点，方便后期给自己参考。 快速安装 Macos | Linux Windows 安装包下载地址 Visual Studio Code  
+    </details> 
+
+- 🎡 [l16.Linux文件核心属性知识&lpar;二&rpar;](https://juejin.cn/post/7170097783620239391) | Fri Nov 25 2022 11:22 PM 
     <details><summary>展开描述 ...</summary> 
     “ 本文正在参加「金石计划 . 瓜分6万现金大奖」 ” 9.5 索引节点 索引节点（Inode）是Linux系统中的基础知识，这部分知识内容比较复杂，不易理解，因为其中会涉及Linux文件系统的核心知 
     </details> 
 
-- 🎡 [l15.Linux文件核心属性知识&lpar;一&rpar;](https://juejin.cn/post/7170097787885846558) | Fri Nov 25 2022 11:22 PM 
+- 🕯 [l15.Linux文件核心属性知识&lpar;一&rpar;](https://juejin.cn/post/7170097787885846558) | Fri Nov 25 2022 11:22 PM 
     <details><summary>展开描述 ...</summary> 
     “ 本文正在参加「金石计划 . 瓜分6万现金大奖」 ” 9.1 回顾Linux文件属性知识 前文已经讲解过，Linux系统中的文件或目录的属性主要包括：索引节点（Inode）、文件类型、权限属性、连接 
     </details> 
 
-- 🕯 [在掘金第一次记录失眠](https://juejin.cn/post/7170039159900340232) | Fri Nov 25 2022 7:40 PM 
+- 🚀 [在掘金第一次记录失眠](https://juejin.cn/post/7170039159900340232) | Fri Nov 25 2022 7:40 PM 
     <details><summary>展开描述 ...</summary> 
     又失眠了。对于一个男人来说，没有什么比家国之事更为忧心的了。 给女儿唱了一个小时儿歌之后，她终于睡着了。我起身打开电脑，楞了一会儿，忽然缓过神来，感觉发愣是在浪费自己的时间。 因此，我就想，要不整理一 
     </details> 
 
-- 🚀 [杂谈：vue中created、watch和computed的执行顺序](https://juejin.cn/post/7169990997223407646) | Fri Nov 25 2022 4:28 PM 
+- 💪 [杂谈：vue中created、watch和computed的执行顺序](https://juejin.cn/post/7169990997223407646) | Fri Nov 25 2022 4:28 PM 
     <details><summary>展开描述 ...</summary> 
     关于vue中created和watch的执行顺序相对比较简单，而其中computed是通过Object.defineProperty为当前vm进行定义，再到后续创建vNode阶段才去触发执行。 
-    </details> 
-
-- 💪 [源码阅读之 create-vite —— 阅读前的准备工作](https://juejin.cn/post/7169979808670023716) | Fri Nov 25 2022 3:43 PM 
-    <details><summary>展开描述 ...</summary> 
-    响应组织的号召，正好最近在学习 vite，活动上也正好有一篇关于阅读 create-vite 的任务，于是就果断的加入了，这里记录一下阅读的过程。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
