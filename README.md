@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [使用 utools 打开 vscode 出现 gcc : 无法将“gcc”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然后再试一次。](https://www.v2ex.com/t/898145#reply3) | Sat Nov 26 2022 11:53 AM
-- 🤗 [群晖系统挂载 TrueNAS 存储使用有坑吗](https://www.v2ex.com/t/898144#reply0) | Sat Nov 26 2022 11:44 AM
-- 🎭 [同样的网络环境，针对一个 websocket 链接，为啥不同浏览器反应表现不一样](https://www.v2ex.com/t/898134#reply3) | Sat Nov 26 2022 10:53 AM
-- 🥷 [红米 6a termux 里面的 debian 系统运行的程序老是被干掉](https://www.v2ex.com/t/898131#reply4) | Sat Nov 26 2022 10:28 AM
-- 🐵 [有人能用编程语言讲解「税后到手工资」的计算方式吗？](https://www.v2ex.com/t/898119#reply13) | Sat Nov 26 2022 9:15 AM<!-- v2ex:END -->
+- 🥸 [腾讯云该不该赶快买，以后是不是会没了？](https://www.v2ex.com/t/898156#reply9) | Sat Nov 26 2022 12:52 PM
+- 🤗 [使用 utools 打开 vscode 出现 gcc : 无法将“gcc”项识别为 cmdlet、函数、脚本文件或可运行程序的名称。请检查名称的拼写，如果包括路径，请确保路径正确，然后再试一次。](https://www.v2ex.com/t/898145#reply3) | Sat Nov 26 2022 11:53 AM
+- 🎭 [群晖系统挂载 TrueNAS 存储使用有坑吗](https://www.v2ex.com/t/898144#reply5) | Sat Nov 26 2022 11:44 AM
+- 🥷 [同样的网络环境，针对一个 websocket 链接，为啥不同浏览器反应表现不一样](https://www.v2ex.com/t/898134#reply3) | Sat Nov 26 2022 10:53 AM
+- 🐵 [红米 6a termux 里面的 debian 系统运行的程序老是被干掉](https://www.v2ex.com/t/898131#reply8) | Sat Nov 26 2022 10:28 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
