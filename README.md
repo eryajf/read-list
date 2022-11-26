@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [咨询下国内信息审查的问题](https://www.v2ex.com/t/898041#reply0) | Sat Nov 26 2022 3:18 AM
-- 🤗 [卡马克谈最好的编程语言](https://www.v2ex.com/t/898027#reply1) | Sat Nov 26 2022 2:21 AM
-- 🎭 [为何使用 inline 函数并不能达到真正 inline 写代码的性能？](https://www.v2ex.com/t/898026#reply2) | Sat Nov 26 2022 2:20 AM
-- 🥷 [2.5 机械盘适合做 nas 吗 读写只有 100 不到 会不会太慢 看个视频都拖不动进度条？](https://www.v2ex.com/t/898015#reply11) | Sat Nov 26 2022 1:29 AM
-- 🐵 [laravel 开发扩展包，如何可以像正常开发项目中去使用 PHP artisan 去创建模型、API 资源、中间件这样的命令呢？](https://www.v2ex.com/t/898011#reply2) | Sat Nov 26 2022 12:13 AM<!-- v2ex:END -->
+- 🥸 [win11 网络启动，刚关机启动和内网启动都能网络开机，过段时间就不行。台式机、七彩虹 b460m 主板，有动态公网 ip 用 ddns 方式做了端口映射](https://www.v2ex.com/t/898055#reply3) | Sat Nov 26 2022 4:21 AM
+- 🤗 [引擎之神卡马克谈调试器、代码分析器和最好的 IDE](https://www.v2ex.com/t/898053#reply0) | Sat Nov 26 2022 4:13 AM
+- 🎭 [vue 里面给一个组件传入绑定的值，如何把一个字符串和一个字符串变量拼接在一起？](https://www.v2ex.com/t/898046#reply4) | Sat Nov 26 2022 3:42 AM
+- 🥷 [咨询下国内信息审查的问题](https://www.v2ex.com/t/898041#reply4) | Sat Nov 26 2022 3:18 AM
+- 🐵 [卡马克谈最好的编程语言](https://www.v2ex.com/t/898027#reply4) | Sat Nov 26 2022 2:21 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
