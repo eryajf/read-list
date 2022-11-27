@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Linux 编译环境 如何更好实现全局科学?](https://www.v2ex.com/t/898300#reply0) | Sun Nov 27 2022 10:13 AM
-- 🤗 [Telegram twitter 微博这类应用是如何面对无线增长的数据的啊？](https://www.v2ex.com/t/898296#reply1) | Sun Nov 27 2022 9:55 AM
-- 🎭 [请教我想用 AI 作画生成这两个场景的图片，怎么给 promts 比较好？](https://www.v2ex.com/t/898292#reply2) | Sun Nov 27 2022 9:44 AM
-- 🥷 [支付宝某个鉴权文档中，有段 Java 代码样例，本人 Python 写的比较多, Java 不太熟，想转成 Python 代码](https://www.v2ex.com/t/898290#reply1) | Sun Nov 27 2022 9:37 AM
-- 🐵 [自建邮箱的 ip 被墙了，怎么在国内收邮件？](https://www.v2ex.com/t/898282#reply5) | Sun Nov 27 2022 9:10 AM<!-- v2ex:END -->
+- 🥸 [今年 CNCF 还打折么?打算报名 CKA 考试](https://www.v2ex.com/t/898304#reply1) | Sun Nov 27 2022 10:41 AM
+- 🤗 [Linux 编译环境 如何更好实现全局科学?](https://www.v2ex.com/t/898300#reply5) | Sun Nov 27 2022 10:13 AM
+- 🎭 [Telegram twitter 微博这类应用是如何面对无线增长的数据的啊？](https://www.v2ex.com/t/898296#reply1) | Sun Nov 27 2022 9:55 AM
+- 🥷 [请教我想用 AI 作画生成这两个场景的图片，怎么给 promts 比较好？](https://www.v2ex.com/t/898292#reply2) | Sun Nov 27 2022 9:44 AM
+- 🐵 [支付宝某个鉴权文档中，有段 Java 代码样例，本人 Python 写的比较多, Java 不太熟，想转成 Python 代码](https://www.v2ex.com/t/898290#reply1) | Sun Nov 27 2022 9:37 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
