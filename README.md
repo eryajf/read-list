@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [关于Redis的知识点，你都学会了吗？](https://juejin.cn/post/7170700896060309518) | Sun Nov 27 2022 2:22 PM 
+- 🤗 [现代CSS样式重置最佳实践！](https://juejin.cn/post/7170765064545239071) | Sun Nov 27 2022 6:31 PM 
     <details><summary>展开描述 ...</summary> 
-    Redis的介绍、优缺点、使用场景 Linux中的安装 常用命令 Redis各个数据类型及其使用场景 Redis字符串（String） Redis哈希 Redis列表（List） 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 大家好，我是 CUGGZ。 当开始一个新的前端项目时，首要任务就是重置 CSS 中的一些默认样式。下面就来看看现代 CSS 重置的最佳实践。我们将深入研 
     </details> 
 
-- 🎡 [剑指 Offer（专项突击版）第3|4题](https://juejin.cn/post/7170694765057409031) | Sun Nov 27 2022 1:59 PM 
+- 🎡 [runtime-core中的虚拟节点](https://juejin.cn/post/7170718067989676039) | Sun Nov 27 2022 3:28 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 现在前端要求变高了,找工作的时可能会碰上算法题,每天刷几道算法题做足准备,今天是《剑指 Offer（专项突击版）》第3|4题。 
+    本文讲述的内容是：实现 runtime-core 中的createAppAPI，完成虚拟节点的创建，以及render中的挂载所需参数的获取。 
     </details> 
 
-- 🕯 [Nodejs、GraphQL、MongoDB、Hapi 和 Swagger 构建 API（一）](https://juejin.cn/post/7170691966663917582) | Sun Nov 27 2022 1:47 PM 
+- 🕯 [优秀开源项目解读&lpar;七&rpar; - dante-cloud微服务企业级技术中台](https://juejin.cn/post/7170717192013479944) | Sun Nov 27 2022 3:25 PM 
     <details><summary>展开描述 ...</summary> 
-    可重用 API 流行的最大原因是 API 允许使用来自 Web 客户端、移动应用程序、桌面应用程序的数据，实际上是任何客户端。将构建一个基于 Nodejs，由 MongoDB 数据驱动的强大而灵活的  
+    🌈Danta Cloud介绍 🌊一句话介绍： Danta Cloud是基于Spring Authorization Server全新适配OAth2.1协议的企业级微服务架构企业级技术中台微服务架构与服 
     </details> 
 
-- 🚀 [镜像搬运工 skopeo](https://juejin.cn/post/7170691326357274655) | Sun Nov 27 2022 1:45 PM 
+- 🚀 [Element Plus 组件库相关技术揭秘：8. 为什么组件库或插件需要定义 peerDependencies](https://juejin.cn/post/7170716245762048036) | Sun Nov 27 2022 3:21 PM 
     <details><summary>展开描述 ...</summary> 
-    镜像搬运工 skopeo 介绍 skopeo 是一个命令行工具，可对容器镜像和容器存储进行操作。 在没有dockerd的环境下，使用 skopeo 操作镜像是非常方便的。 安装 使用 实际应用 
+    peerDependencies 表示同版本依赖，简单来说就是，如果你安装我，那么你最好也安装我对应的依赖。peerDependencies 中定义的依赖不会重复下载，但会要求宿主提供一致 peer 
     </details> 
 
-- 💪 [brython | 笨办法写个连连看-3.地图制作](https://juejin.cn/post/7170690441514319903) | Sun Nov 27 2022 1:42 PM 
+- 💪 [Cold Diffusion：高斯噪声，我一定非你不可吗？](https://juejin.cn/post/7170716216602918949) | Sun Nov 27 2022 3:21 PM 
     <details><summary>展开描述 ...</summary> 
-    之前看【码上掘金】，有位老哥用文言文写了一个【连连看】，正巧那时候在学习brython，就想着，能不能用brython也来写一个【连连看】，于是乎，你们就看到了这个项目了。 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 不知道是哪个懒鬼，八月份的文章现在才开始看。 论文地址：https://arxiv.org/abs/2208.09392v1 代码地址：GitHub - 
     </details> 
 <!-- juejin:END -->
 ### 少数派
