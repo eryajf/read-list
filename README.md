@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [关于Vue3中的&lt;script setup&gt;语法使用详解](https://juejin.cn/post/7170568397728514084) | Sun Nov 27 2022 5:48 AM 
+- 🤗 [开发中碰到大数字问题，是怎么解决的？](https://juejin.cn/post/7170591236020469797) | Sun Nov 27 2022 7:16 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 大家好，我是CoderBin，本次讲讲Vue3中关于 &lt;script setup&gt; 的基本使用语法，其中包含了响应式、组件相关、数据暴露等内容，希望对大家有所帮助，谢谢。 
+    大数字问题 🤨 什么是大数字 JS 能表示的最大安全数值区间是 -Math.pow&lpar;2, 53&rpar; + 1 ~ Math.pow&lpar;2, 53&rpar; - 1， 
     </details> 
 
-- 🎡 [你知道MySQL是如何解决幻读的吗？](https://juejin.cn/post/7170566851641442334) | Sun Nov 27 2022 5:41 AM 
+- 🎡 [Flutter Widget 之 flutter_rating_bar](https://juejin.cn/post/7170590815587139614) | Sun Nov 27 2022 7:14 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 SQL标准中定义了4种隔离级别，分别是读未提交、读已提交、可重复读以及序列化。不同的隔离级别下，可以解决不同的并发问题，如下图所示。当然MySQL也基本遵循了这个标准，但是在实现上稍有不同。 本 
+    你若尝试过从头开始执行评分条控制项RatingBar，可能得要一番功夫 下次不妨试试flutter_rating_bar 首先初始化RatingBar并设定最小与最大值和一个备选的initialRat 
     </details> 
 
-- 🕯 [含辞未吐,声若幽兰,史上最强免费人工智能AI语音合成TTS服务微软Azure&lpar;Python3.10接入&rpar;](https://juejin.cn/post/7170562663158644766) | Sun Nov 27 2022 5:25 AM 
+- 🕯 [Docker的网络模式](https://juejin.cn/post/7170590831076704287) | Sun Nov 27 2022 7:14 AM 
     <details><summary>展开描述 ...</summary> 
-    所谓文无第一，武无第二，云原生人工智能技术目前呈现三足鼎立的态势，微软，谷歌以及亚马逊三大巨头各擅胜场，不分伯仲，但目前微软Azure平台不仅仅只是一个PaaS平台，相比AWS，以及GAE 
+    Docker网络  Docker网络实现原理 docker 使用linux 桥接，在宿主机虚拟一个docker 容器网桥（docker0&rpar; ，docker 启动一个容器时会根据docker 网桥的网段 
     </details> 
 
-- 🚀 [终于理解～Android 模块化里的资源冲突](https://juejin.cn/post/7170562275374268447) | Sun Nov 27 2022 5:24 AM 
+- 🚀 [如何用纯CSS打造一个不一样的滚动条](https://juejin.cn/post/7170578303776981006) | Sun Nov 27 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-    ⚽ 前言 作为 Android 开发者，我们常常需要去管理非常多不同的资源文件，编译时这些资源文件会被统一地收集和整合到同一个包下面。根据官方的《Configure your build》文档介绍的构 
+    每次浏览网页的时候，有个东西必不可少，那就是滚动条。这时候有的同学可能会说了：这句话不对，有的网页看不到滚动条。其实吧，那并不是看不到滚动条，而是被隐藏了 
     </details> 
 
-- 💪 [[Git实操] Git撤销某个版本（生成新版本）](https://juejin.cn/post/7170538491233697829) | Sun Nov 27 2022 3:52 AM 
+- 💪 [二年前端关于未来的一些思考&lpar;贵阳&rpar;](https://juejin.cn/post/7170576564701118501) | Sun Nov 27 2022 6:19 AM 
     <details><summary>展开描述 ...</summary> 
-    上一篇git文章记录了git的版本回退，`回退是回退到目标版本，并且撤销目标版本之后的提交`，今天的文章主要讲解多次提交，撤销其中某一个提交，并且生成一个新的提交版本，开始干活吧 
+    对于一个平凡人来说，能够社会洪流中生存已经很不错了。而我选择在社会的洪流中躺平，也许哪一天因为各种危机我会被洪流卷入谷底，但那也无所谓我无悔这样的选择。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
