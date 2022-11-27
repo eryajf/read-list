@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [浅谈业务中台前端设计](https://juejin.cn/post/7170649396470612004) | Sun Nov 27 2022 11:02 AM 
+- 🤗 [Nodejs、GraphQL、MongoDB、Hapi 和 Swagger 构建 API（一）](https://juejin.cn/post/7170691966663917582) | Sun Nov 27 2022 1:47 PM 
     <details><summary>展开描述 ...</summary> 
-    做前端中台业务一年多的时间，有一些心得体会，和大家分享分享。 中台是什么，中台业务的价值是什么，做了哪些前端中台业务 如何设计前端中台业务，未来展望 
+    可重用 API 流行的最大原因是 API 允许使用来自 Web 客户端、移动应用程序、桌面应用程序的数据，实际上是任何客户端。将构建一个基于 Nodejs，由 MongoDB 数据驱动的强大而灵活的  
     </details> 
 
-- 🎡 [Flowable 中的网关、流程变量以及历史流程](https://juejin.cn/post/7170626726374932494) | Sun Nov 27 2022 9:34 AM 
+- 🎡 [深入浅出带你学习Nginx中间件常见漏洞](https://juejin.cn/post/7170662969339019300) | Sun Nov 27 2022 11:55 AM 
     <details><summary>展开描述 ...</summary> 
-    [TOC] 本文为稀土掘金技术社区首发签约文章，14天内禁止转载，14天后未获授权禁止转载，侵权必究！ 本专栏第四篇已发布，尚未看过的小伙伴请移步这里： [ Flowable 开篇，流程引擎扫盲]&lpar;h 
+    上篇文章总结了APACHE中间件的常见漏洞，本文介绍一个同样很常用的中间件——nginx，本文会讲解关于nginx中间件的常见漏洞利用方式与危害。 
     </details> 
 
-- 🕯 [学习SSIS的XML源与XML任务](https://juejin.cn/post/7170620822678142989) | Sun Nov 27 2022 9:11 AM 
+- 🕯 [TS泛型进阶](https://juejin.cn/post/7170662948656906253) | Sun Nov 27 2022 11:55 AM 
     <details><summary>展开描述 ...</summary> 
-    本文介绍了SSIS XML源和SSIS XML任务，它们是SQL Server集成服务中与XML相关的组件。 本文是SSIS功能面对面系列的第十六篇，旨在比较类似的SSIS组件，以消除使用该技术的数据 
+    拿下泛型，TS 还有什么难的吗？本文将带你加深入的理解和掌握泛型，以及更加熟练 TS 内置工具类型在项目中的运用 
     </details> 
 
-- 🚀 [SQL Server DBA面试问题和答案](https://juejin.cn/post/7170620824326995998) | Sun Nov 27 2022 9:11 AM 
+- 🚀 [Flutter Widget 之TextStyle](https://juejin.cn/post/7170632492708265991) | Sun Nov 27 2022 9:56 AM 
     <details><summary>展开描述 ...</summary> 
-    这篇文章将帮助你了解一些流行的SQL Server DBA面试问题和答案。我建议你阅读这篇文章，以及SQL Server面试问题和答案，以了解更多关于SQL面试问题。在这篇文章中，我也试图以一种非常精 
+    严格来说，TextStyle虽不是小部件，但就像生日礼物的彩色包装，与小部件搭配。 TextStyle是tin类中一项顾名思义的工具。因此毕竟是样式文本。 首先，在你的应用中获取一个文本小部件,并添加 
     </details> 
 
-- 💪 [SQL Server 2022私人预览版公告](https://juejin.cn/post/7170620709536792607) | Sun Nov 27 2022 9:10 AM 
+- 💪 [Flutter桌面开发 - windows插件开发](https://juejin.cn/post/7170627272830320654) | Sun Nov 27 2022 9:36 AM 
     <details><summary>展开描述 ...</summary> 
-    这篇文章谈到了SQL Server的下一个版本，即SQL Server 2022。这将涵盖最新的公告，发布，以及SQL Server 2022提供的所有令人兴奋的功能。 简介 在一个组织大量数字化的世 
+    通过此篇文章，你将了解到： 1. Flutter插件的基本介绍； 2. windows插件开发的实战和踩坑经验。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
