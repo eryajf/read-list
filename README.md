@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [现代CSS样式重置最佳实践！](https://juejin.cn/post/7170765064545239071) | Sun Nov 27 2022 6:31 PM 
+- 🤗 [面对集中式缓存实现上的挑战，Redis交出的是何种答卷？聊聊Redis在分布式方面的能力设计](https://juejin.cn/post/7170836774917242893) | Sun Nov 27 2022 11:13 PM 
+    <details><summary>展开描述 ...</summary> 
+    对于一个集中式缓存的分布式能力构建，必须要额外提供一些机制，来保障数据在各个节点上的安全与一致性。本文以Redis为代表，看下集Redis面对上述问题交出的是怎样一份答卷。 
+    </details> 
+
+- 🎡 [现代CSS样式重置最佳实践！](https://juejin.cn/post/7170765064545239071) | Sun Nov 27 2022 6:31 PM 
     <details><summary>展开描述 ...</summary> 
     本文正在参加「金石计划 . 瓜分6万现金大奖」 大家好，我是 CUGGZ。 当开始一个新的前端项目时，首要任务就是重置 CSS 中的一些默认样式。下面就来看看现代 CSS 重置的最佳实践。我们将深入研 
     </details> 
 
-- 🎡 [runtime-core中的虚拟节点](https://juejin.cn/post/7170718067989676039) | Sun Nov 27 2022 3:28 PM 
+- 🕯 [runtime-core中的虚拟节点](https://juejin.cn/post/7170718067989676039) | Sun Nov 27 2022 3:28 PM 
     <details><summary>展开描述 ...</summary> 
     本文讲述的内容是：实现 runtime-core 中的createAppAPI，完成虚拟节点的创建，以及render中的挂载所需参数的获取。 
     </details> 
 
-- 🕯 [优秀开源项目解读&lpar;七&rpar; - dante-cloud微服务企业级技术中台](https://juejin.cn/post/7170717192013479944) | Sun Nov 27 2022 3:25 PM 
+- 🚀 [优秀开源项目解读&lpar;七&rpar; - dante-cloud微服务企业级技术中台](https://juejin.cn/post/7170717192013479944) | Sun Nov 27 2022 3:25 PM 
     <details><summary>展开描述 ...</summary> 
     🌈Danta Cloud介绍 🌊一句话介绍： Danta Cloud是基于Spring Authorization Server全新适配OAth2.1协议的企业级微服务架构企业级技术中台微服务架构与服 
     </details> 
 
-- 🚀 [Element Plus 组件库相关技术揭秘：8. 为什么组件库或插件需要定义 peerDependencies](https://juejin.cn/post/7170716245762048036) | Sun Nov 27 2022 3:21 PM 
+- 💪 [Element Plus 组件库相关技术揭秘：8. 为什么组件库或插件需要定义 peerDependencies](https://juejin.cn/post/7170716245762048036) | Sun Nov 27 2022 3:21 PM 
     <details><summary>展开描述 ...</summary> 
     peerDependencies 表示同版本依赖，简单来说就是，如果你安装我，那么你最好也安装我对应的依赖。peerDependencies 中定义的依赖不会重复下载，但会要求宿主提供一致 peer 
-    </details> 
-
-- 💪 [Cold Diffusion：高斯噪声，我一定非你不可吗？](https://juejin.cn/post/7170716216602918949) | Sun Nov 27 2022 3:21 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 不知道是哪个懒鬼，八月份的文章现在才开始看。 论文地址：https://arxiv.org/abs/2208.09392v1 代码地址：GitHub - 
     </details> 
 <!-- juejin:END -->
 ### 少数派
