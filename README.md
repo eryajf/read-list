@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [初中级到高级的标志: 能够读懂源码](https://juejin.cn/post/7170352394499260423) | Sat Nov 26 2022 3:49 PM 
+- 🤗 [ReactNative支付密码输入框](https://juejin.cn/post/7170513204731183117) | Sun Nov 27 2022 2:13 AM 
     <details><summary>展开描述 ...</summary> 
-    一、为什么有这一篇阅读源码的文章？ 想要提升自己的编码水平，阅读优秀的开源项目是一个重要的手段。比如掘金网站上面有很多解析各种框架源码的文章，还有更多教你如何组织好代码的文章。 红皮书、绿皮书、黄皮书 
+    项目中需求如果涉及钱包，支付等功能，可以大概率会用到输入密码组件，也算是个常见组件吧。 之前写过一个纯js的开源组件，使用的类的形式，也比较老了，可直接添加npm库到项目中进行使用。 最近项目需要，又 
     </details> 
 
-- 🎡 [小程序实践多角色下的菜单权限管理](https://juejin.cn/post/7170340281940705310) | Sat Nov 26 2022 3:03 PM 
+- 🎡 [Kotlin协程Flow浅析](https://juejin.cn/post/7170512939445649444) | Sun Nov 27 2022 2:12 AM 
     <details><summary>展开描述 ...</summary> 
-    一直以来，权限管理都是 PC 后台的重要底层功能，但随着移动互联网的深入普及、客户运营的精细化管理要求，移动端的管理平台也成为了商家进行日常经营活动不可或缺的一端。 本文将从原生小程序实现菜 
+    Kotlin协程中的Flow主要用于处理复杂的异步数据，以一种”流“的方式，从上到下依次处理，和RxJava的处理方式类型，但是比后者更加强大。 Flow基本概念 Flow中基本上有三个概念，即 发送 
     </details> 
 
-- 🕯 [【杰哥带你玩转Android自动化】AccessibilityService实战-微信僵尸好友检测](https://juejin.cn/post/7170340157185327118) | Sat Nov 26 2022 3:02 PM 
+- 🕯 [Vue3 函数式组件的开发方式](https://juejin.cn/post/7170511660648988685) | Sun Nov 27 2022 2:07 AM 
     <details><summary>展开描述 ...</summary> 
-    🤡 利用前面学到的AccessibilityService的基础姿势，借&lpar;chao&rpar;鉴&lpar;xi&rpar;李跳跳-真实好友4.0，实现一个自己的微信🧟‍♀️好友检测工具。除了能学到一些常用技巧，还能get.. 
+    声明式组件和服务式组件 无论是使用第三方组件库，还是自己封装组件，有一类组件有些与众不同，那就是函数式/服务式组件，比如 Message 消息组件、Notification 通知组件、Loading  
     </details> 
 
-- 🚀 [太强了，全面解析缓存应用经典问题](https://juejin.cn/post/7170322254541094943) | Sat Nov 26 2022 1:53 PM 
+- 🚀 [基于一段神奇的CSS渐变制作噪点效果](https://juejin.cn/post/7170506641211654157) | Sun Nov 27 2022 1:48 AM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 hello，大家好，我是张张，「架构精进之路」公号作者。 1、前言 随着互联网从简单的单向浏览请求，发展为基于用户个性信息的定制化以及社交化的请求，这要 
+    噪点效果本质用canvas SVG等都是可以实现，本文基于一段神奇的CSS渐变制作噪音效果，结合混合模式及滤镜效果还能实现更多的艺术效果，快来看看吧 
     </details> 
 
-- 💪 [CSS如何实现毛玻璃效果](https://juejin.cn/post/7170318195269009416) | Sat Nov 26 2022 1:38 PM 
+- 💪 [SpringBoot整合Kotlin构建Web服务](https://juejin.cn/post/7170505045711159327) | Sun Nov 27 2022 1:42 AM 
     <details><summary>展开描述 ...</summary> 
-    之前在逛一些网站的时候，就经常看见一些图片背景模糊的效果，这样的效果可以使得用户将更多的注意力放在清晰的地方上，可以不经意间引导用户。 我就很好奇，这样的一种效果是怎么实现的。恰好这几天周末，顺便弥 
+    今天我们尝试Spring Boot整合Kotlin，并决定建立一个非常简单的Spring Boot微服务，使用Kotlin作为编程语言进行编码构建。 创建一个简单的Spring Boot应用程序。我会 
     </details> 
 <!-- juejin:END -->
 ### 少数派
