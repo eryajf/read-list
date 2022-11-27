@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [线上一旦出现了问题或者故障，你们的 leader 或者兄弟团队的领导是怎么处理并沟通的？](https://www.v2ex.com/t/898329#reply1) | Sun Nov 27 2022 12:24 PM
-- 🤗 [今年 CNCF 还打折么?打算报名 CKA 考试](https://www.v2ex.com/t/898304#reply1) | Sun Nov 27 2022 10:41 AM
-- 🎭 [Linux 编译环境 如何更好实现全局科学?](https://www.v2ex.com/t/898300#reply11) | Sun Nov 27 2022 10:13 AM
-- 🥷 [Telegram twitter 微博这类应用是如何面对无线增长的数据的啊？](https://www.v2ex.com/t/898296#reply3) | Sun Nov 27 2022 9:55 AM
-- 🐵 [请教我想用 AI 作画生成这两个场景的图片，怎么给 promts 比较好？](https://www.v2ex.com/t/898292#reply2) | Sun Nov 27 2022 9:44 AM<!-- v2ex:END -->
+- 🥸 [数组索引的时间复杂度 O&lpar;1&rpar; 的本质是并行二分查找](https://www.v2ex.com/t/898350#reply0) | Sun Nov 27 2022 2:10 PM
+- 🤗 [请问线上 web 项目如何自动更新？](https://www.v2ex.com/t/898339#reply8) | Sun Nov 27 2022 1:12 PM
+- 🎭 [开源监控平台 WGCLOUD v3.4.2 更新功能](https://www.v2ex.com/t/898334#reply0) | Sun Nov 27 2022 12:36 PM
+- 🥷 [线上一旦出现了问题或者故障，你们的 leader 或者兄弟团队的领导是怎么处理并沟通的？](https://www.v2ex.com/t/898329#reply5) | Sun Nov 27 2022 12:24 PM
+- 🐵 [今年 CNCF 还打折么?打算报名 CKA 考试](https://www.v2ex.com/t/898304#reply1) | Sun Nov 27 2022 10:41 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
