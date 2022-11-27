@@ -378,24 +378,24 @@
     做前端中台业务一年多的时间，有一些心得体会，和大家分享分享。 中台是什么，中台业务的价值是什么，做了哪些前端中台业务 如何设计前端中台业务，未来展望 
     </details> 
 
-- 🎡 [使用SQL Server从Amazon Athena查询数据](https://juejin.cn/post/7170615539868368904) | Sun Nov 27 2022 8:50 AM 
+- 🎡 [Flowable 中的网关、流程变量以及历史流程](https://juejin.cn/post/7170626726374932494) | Sun Nov 27 2022 9:34 AM 
     <details><summary>展开描述 ...</summary> 
-    在这篇文章中，我们将使用SQL Server在Amazon Athena的帮助下查询驻留在Amazon S3桶中的数据。SQL Server是微软开发的最流行的关系型数据库管理系统之一。 SQL Se 
+    [TOC] 本文为稀土掘金技术社区首发签约文章，14天内禁止转载，14天后未获授权禁止转载，侵权必究！ 本专栏第四篇已发布，尚未看过的小伙伴请移步这里： [ Flowable 开篇，流程引擎扫盲]&lpar;h 
     </details> 
 
-- 🕯 [复制数据工具，将数据从网络来源导入Azure SQL数据库中](https://juejin.cn/post/7170615530217275429) | Sun Nov 27 2022 8:50 AM 
+- 🕯 [学习SSIS的XML源与XML任务](https://juejin.cn/post/7170620822678142989) | Sun Nov 27 2022 9:11 AM 
     <details><summary>展开描述 ...</summary> 
-    本文将探讨用于将数据从网络源导入Azure SQL数据库的复制数据工具。 简介 假设你需要将数据从CSV文件导入到Azure数据库表中。CSV文件的来源是一个Web URL。通常情况下，我们会在本地目 
+    本文介绍了SSIS XML源和SSIS XML任务，它们是SQL Server集成服务中与XML相关的组件。 本文是SSIS功能面对面系列的第十六篇，旨在比较类似的SSIS组件，以消除使用该技术的数据 
     </details> 
 
-- 🚀 [Azure Data Studio中的参数化SQL笔记本](https://juejin.cn/post/7170615528103346184) | Sun Nov 27 2022 8:50 AM 
+- 🚀 [SQL Server DBA面试问题和答案](https://juejin.cn/post/7170620824326995998) | Sun Nov 27 2022 9:11 AM 
     <details><summary>展开描述 ...</summary> 
-    本文将探讨Azure Data Studio中的参数化SQL笔记本。 简介 Azure Data Studio中的SQL笔记本或Jupyter笔记本有很好的功能，包括单个文件中的代码和文本。你可以把它 
+    这篇文章将帮助你了解一些流行的SQL Server DBA面试问题和答案。我建议你阅读这篇文章，以及SQL Server面试问题和答案，以了解更多关于SQL面试问题。在这篇文章中，我也试图以一种非常精 
     </details> 
 
-- 💪 [使用SSDT 2017在SQL Server实例的主数据库之间传输存储程序](https://juejin.cn/post/7170615444791885855) | Sun Nov 27 2022 8:50 AM 
+- 💪 [SQL Server 2022私人预览版公告](https://juejin.cn/post/7170620709536792607) | Sun Nov 27 2022 9:10 AM 
     <details><summary>展开描述 ...</summary> 
-    这是《使用SSDT 2017迁移SQL Server对象》系列的第二篇文章。在这篇文章中，我们将学习如何复制在SQL Server主数据库中创建的用户存储过程。 演示设置 为了演示，我在Nisarg- 
+    这篇文章谈到了SQL Server的下一个版本，即SQL Server 2022。这将涵盖最新的公告，发布，以及SQL Server 2022提供的所有令人兴奋的功能。 简介 在一个组织大量数字化的世 
     </details> 
 <!-- juejin:END -->
 ### 少数派
