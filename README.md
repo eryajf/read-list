@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请教两个线上问题该怎么做好](https://www.v2ex.com/t/898245#reply5) | Sun Nov 27 2022 5:17 AM
-- 🤗 [寻找支持网络 ACL 的容器/虚拟化方案](https://www.v2ex.com/t/898228#reply4) | Sun Nov 27 2022 3:30 AM
-- 🎭 [有能使用 qemu 作 backend 运行 docker 镜像的程序吗](https://www.v2ex.com/t/898200#reply14) | Sat Nov 26 2022 8:01 PM
-- 🥷 [翻译微软独立研究员 Anthony Shaw 的《CPython Internals》-《CPython 实现原理》](https://www.v2ex.com/t/898194#reply4) | Sat Nov 26 2022 5:30 PM
-- 🐵 [腾讯云该不该赶快买，以后是不是会没了？](https://www.v2ex.com/t/898156#reply18) | Sat Nov 26 2022 12:52 PM<!-- v2ex:END -->
+- 🥸 [用 Go 开发了一款命令行的的数据库导入导出工具 Heimdall](https://www.v2ex.com/t/898270#reply2) | Sun Nov 27 2022 7:36 AM
+- 🤗 [有需要 Markdown 博客的🙋‍♂️小伙伴 ，里边请~](https://www.v2ex.com/t/898268#reply1) | Sun Nov 27 2022 7:35 AM
+- 🎭 [Java 字符串 split 的一个反直觉陷阱](https://www.v2ex.com/t/898263#reply0) | Sun Nov 27 2022 7:02 AM
+- 🥷 [关于开机挂载硬盘 /etc/fstab](https://www.v2ex.com/t/898262#reply1) | Sun Nov 27 2022 7:02 AM
+- 🐵 [想问下 平时工作中， mysql 的字段长度的设定有什么固定规范吗？是喜欢用 varchar&lpar;255&rpar;还是 varchar&lpar;256&rpar;](https://www.v2ex.com/t/898255#reply2) | Sun Nov 27 2022 6:48 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
