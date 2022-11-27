@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Nodejs、GraphQL、MongoDB、Hapi 和 Swagger 构建 API（一）](https://juejin.cn/post/7170691966663917582) | Sun Nov 27 2022 1:47 PM 
+- 🤗 [关于Redis的知识点，你都学会了吗？](https://juejin.cn/post/7170700896060309518) | Sun Nov 27 2022 2:22 PM 
+    <details><summary>展开描述 ...</summary> 
+    Redis的介绍、优缺点、使用场景 Linux中的安装 常用命令 Redis各个数据类型及其使用场景 Redis字符串（String） Redis哈希 Redis列表（List） 
+    </details> 
+
+- 🎡 [剑指 Offer（专项突击版）第3|4题](https://juejin.cn/post/7170694765057409031) | Sun Nov 27 2022 1:59 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 现在前端要求变高了,找工作的时可能会碰上算法题,每天刷几道算法题做足准备,今天是《剑指 Offer（专项突击版）》第3|4题。 
+    </details> 
+
+- 🕯 [Nodejs、GraphQL、MongoDB、Hapi 和 Swagger 构建 API（一）](https://juejin.cn/post/7170691966663917582) | Sun Nov 27 2022 1:47 PM 
     <details><summary>展开描述 ...</summary> 
     可重用 API 流行的最大原因是 API 允许使用来自 Web 客户端、移动应用程序、桌面应用程序的数据，实际上是任何客户端。将构建一个基于 Nodejs，由 MongoDB 数据驱动的强大而灵活的  
     </details> 
 
-- 🎡 [深入浅出带你学习Nginx中间件常见漏洞](https://juejin.cn/post/7170662969339019300) | Sun Nov 27 2022 11:55 AM 
+- 🚀 [镜像搬运工 skopeo](https://juejin.cn/post/7170691326357274655) | Sun Nov 27 2022 1:45 PM 
     <details><summary>展开描述 ...</summary> 
-    上篇文章总结了APACHE中间件的常见漏洞，本文介绍一个同样很常用的中间件——nginx，本文会讲解关于nginx中间件的常见漏洞利用方式与危害。 
+    镜像搬运工 skopeo 介绍 skopeo 是一个命令行工具，可对容器镜像和容器存储进行操作。 在没有dockerd的环境下，使用 skopeo 操作镜像是非常方便的。 安装 使用 实际应用 
     </details> 
 
-- 🕯 [TS泛型进阶](https://juejin.cn/post/7170662948656906253) | Sun Nov 27 2022 11:55 AM 
+- 💪 [brython | 笨办法写个连连看-3.地图制作](https://juejin.cn/post/7170690441514319903) | Sun Nov 27 2022 1:42 PM 
     <details><summary>展开描述 ...</summary> 
-    拿下泛型，TS 还有什么难的吗？本文将带你加深入的理解和掌握泛型，以及更加熟练 TS 内置工具类型在项目中的运用 
-    </details> 
-
-- 🚀 [Flutter Widget 之TextStyle](https://juejin.cn/post/7170632492708265991) | Sun Nov 27 2022 9:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    严格来说，TextStyle虽不是小部件，但就像生日礼物的彩色包装，与小部件搭配。 TextStyle是tin类中一项顾名思义的工具。因此毕竟是样式文本。 首先，在你的应用中获取一个文本小部件,并添加 
-    </details> 
-
-- 💪 [Flutter桌面开发 - windows插件开发](https://juejin.cn/post/7170627272830320654) | Sun Nov 27 2022 9:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    通过此篇文章，你将了解到： 1. Flutter插件的基本介绍； 2. windows插件开发的实战和踩坑经验。 
+    之前看【码上掘金】，有位老哥用文言文写了一个【连连看】，正巧那时候在学习brython，就想着，能不能用brython也来写一个【连连看】，于是乎，你们就看到了这个项目了。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
