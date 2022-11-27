@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [了解Azure SQL数据库的备份](https://juejin.cn/post/7170611717154537485) | Sun Nov 27 2022 8:35 AM 
+- 🤗 [浅谈业务中台前端设计](https://juejin.cn/post/7170649396470612004) | Sun Nov 27 2022 11:02 AM 
     <details><summary>展开描述 ...</summary> 
-    Azure SQL数据库是Azure云中PaaS模式下的数据库即服务产品。它是一个完全管理的SQL Server数据库引擎，使用最新的稳定版本的SQL Server企业版。这个数据库服务提供了丰富的功 
+    做前端中台业务一年多的时间，有一些心得体会，和大家分享分享。 中台是什么，中台业务的价值是什么，做了哪些前端中台业务 如何设计前端中台业务，未来展望 
     </details> 
 
-- 🎡 [SSIS脚本任务与脚本组件](https://juejin.cn/post/7170611683461709855) | Sun Nov 27 2022 8:35 AM 
+- 🎡 [使用SQL Server从Amazon Athena查询数据](https://juejin.cn/post/7170615539868368904) | Sun Nov 27 2022 8:50 AM 
     <details><summary>展开描述 ...</summary> 
-    本文介绍了SSIS脚本任务和脚本组件，这是SQL Server集成服务（SSIS）中的脚本工具。 本文是SSIS功能面面观系列的第十七篇，旨在比较类似的SSIS组件，以消除使用该技术的数据集成开发人员 
+    在这篇文章中，我们将使用SQL Server在Amazon Athena的帮助下查询驻留在Amazon S3桶中的数据。SQL Server是微软开发的最流行的关系型数据库管理系统之一。 SQL Se 
     </details> 
 
-- 🕯 [使用SSDT 2017在SQL Server实例之间传输SQL登录信息](https://juejin.cn/post/7170611658664968206) | Sun Nov 27 2022 8:35 AM 
+- 🕯 [复制数据工具，将数据从网络来源导入Azure SQL数据库中](https://juejin.cn/post/7170615530217275429) | Sun Nov 27 2022 8:50 AM 
     <details><summary>展开描述 ...</summary> 
-    这是《使用SSDT 2017迁移SQL Server对象》系列的第三篇文章。在第二篇文章中，我们学习了如何转移主数据库的存储过程。在这篇文章中，我们将学习如何使用SSDT 2017将SQL Login 
+    本文将探讨用于将数据从网络源导入Azure SQL数据库的复制数据工具。 简介 假设你需要将数据从CSV文件导入到Azure数据库表中。CSV文件的来源是一个Web URL。通常情况下，我们会在本地目 
     </details> 
 
-- 🚀 [SQL服务器中的SQL百分比计算实例](https://juejin.cn/post/7170611649102446606) | Sun Nov 27 2022 8:35 AM 
+- 🚀 [Azure Data Studio中的参数化SQL笔记本](https://juejin.cn/post/7170615528103346184) | Sun Nov 27 2022 8:50 AM 
     <details><summary>展开描述 ...</summary> 
-    在这篇文章中，你将看到计算多个列和行之间的SQL百分比的不同方法。你还将看到如何计算数字列的SQL百分比，并对分类列进行分组。你将使用子查询、OVER子句和通用表表达式（CTE）来寻找SQL百分比。  
+    本文将探讨Azure Data Studio中的参数化SQL笔记本。 简介 Azure Data Studio中的SQL笔记本或Jupyter笔记本有很好的功能，包括单个文件中的代码和文本。你可以把它 
     </details> 
 
-- 💪 [如何为PostgreSQL配置Azure数据库的ODBC驱动程序](https://juejin.cn/post/7170611439239954462) | Sun Nov 27 2022 8:35 AM 
+- 💪 [使用SSDT 2017在SQL Server实例的主数据库之间传输存储程序](https://juejin.cn/post/7170615444791885855) | Sun Nov 27 2022 8:50 AM 
     <details><summary>展开描述 ...</summary> 
-    这篇文章帮助你学习如何配置ODBC驱动来连接PostgreSQL的Azure数据库。在我之前的文章《为PostgreSQL配置ODBC驱动》中，你学到了下载、安装和配置PostgreSQL的ODBC驱 
+    这是《使用SSDT 2017迁移SQL Server对象》系列的第二篇文章。在这篇文章中，我们将学习如何复制在SQL Server主数据库中创建的用户存储过程。 演示设置 为了演示，我在Nisarg- 
     </details> 
 <!-- juejin:END -->
 ### 少数派
