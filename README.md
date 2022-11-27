@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [开发中碰到大数字问题，是怎么解决的？](https://juejin.cn/post/7170591236020469797) | Sun Nov 27 2022 7:16 AM 
+- 🤗 [Qt编程基础：认识常用的基本类型](https://juejin.cn/post/7170613824876183565) | Sun Nov 27 2022 8:44 AM 
     <details><summary>展开描述 ...</summary> 
-    大数字问题 🤨 什么是大数字 JS 能表示的最大安全数值区间是 -Math.pow&lpar;2, 53&rpar; + 1 ~ Math.pow&lpar;2, 53&rpar; - 1， 
+    上一节已经成功创建了一个Qt项目，接下来就是要在创建好的项目中，添加自己想要的功能。在写代码之前，我们需要掌握Qt的一些基础知识。 
     </details> 
 
-- 🎡 [Flutter Widget 之 flutter_rating_bar](https://juejin.cn/post/7170590815587139614) | Sun Nov 27 2022 7:14 AM 
+- 🎡 [使用SQL Server漏洞评估进行数据库安全测试](https://juejin.cn/post/7170606652570206239) | Sun Nov 27 2022 8:16 AM 
     <details><summary>展开描述 ...</summary> 
-    你若尝试过从头开始执行评分条控制项RatingBar，可能得要一番功夫 下次不妨试试flutter_rating_bar 首先初始化RatingBar并设定最小与最大值和一个备选的initialRat 
+    在这篇文章中，我将解释如何使用SQL Server漏洞评估来进行安全测试。在上一篇文章中，我已经解释了关于多层安全的基本理解，我们配置这些安全来保护我们的SQL Server实例。我还解释了我们应该在 
     </details> 
 
-- 🕯 [Docker的网络模式](https://juejin.cn/post/7170590831076704287) | Sun Nov 27 2022 7:14 AM 
+- 🕯 [Microsoft SQL Server 跟踪标志和使用细节](https://juejin.cn/post/7170606618789773319) | Sun Nov 27 2022 8:16 AM 
     <details><summary>展开描述 ...</summary> 
-    Docker网络  Docker网络实现原理 docker 使用linux 桥接，在宿主机虚拟一个docker 容器网桥（docker0&rpar; ，docker 启动一个容器时会根据docker 网桥的网段 
+    在这篇文章中，我们将探讨Microsoft SQL Server跟踪标志的各个方面，并且我们将学习如何使用它们。 简介 跟踪标志是高级配置选项，用于改变SQL Server的特定行为。追踪标志通常用于 
     </details> 
 
-- 🚀 [如何用纯CSS打造一个不一样的滚动条](https://juejin.cn/post/7170578303776981006) | Sun Nov 27 2022 6:26 AM 
+- 🚀 [开始使用Azure存储探索器](https://juejin.cn/post/7170606602838343694) | Sun Nov 27 2022 8:16 AM 
     <details><summary>展开描述 ...</summary> 
-    每次浏览网页的时候，有个东西必不可少，那就是滚动条。这时候有的同学可能会说了：这句话不对，有的网页看不到滚动条。其实吧，那并不是看不到滚动条，而是被隐藏了 
+    本文将解释Azure存储资源管理器，它的安装，以及如何开始使用这个应用程序来访问Azure存储服务的细节。Azure存储提供了一个灵活的解决方案，可以在云环境中大规模地存储各种类型的数据。如果你在Az 
     </details> 
 
-- 💪 [二年前端关于未来的一些思考&lpar;贵阳&rpar;](https://juejin.cn/post/7170576564701118501) | Sun Nov 27 2022 6:19 AM 
+- 💪 [SQL删除语句的幕后花絮](https://juejin.cn/post/7170606606634188813) | Sun Nov 27 2022 8:16 AM 
     <details><summary>展开描述 ...</summary> 
-    对于一个平凡人来说，能够社会洪流中生存已经很不错了。而我选择在社会的洪流中躺平，也许哪一天因为各种危机我会被洪流卷入谷底，但那也无所谓我无悔这样的选择。 
+    在这篇文章中，我们将探讨执行SQL删除语句时幕后发生的细节。 简介 SQL删除语句是数据库操作命令（DML）之一，用于从表中删除记录。 当我们执行删除语句时，数据库引擎将执行许多活动，但有些因素会影响 
     </details> 
 <!-- juejin:END -->
 ### 少数派
