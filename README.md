@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Qt编程基础：认识常用的基本类型](https://juejin.cn/post/7170613824876183565) | Sun Nov 27 2022 8:44 AM 
+- 🤗 [了解Azure SQL数据库的备份](https://juejin.cn/post/7170611717154537485) | Sun Nov 27 2022 8:35 AM 
     <details><summary>展开描述 ...</summary> 
-    上一节已经成功创建了一个Qt项目，接下来就是要在创建好的项目中，添加自己想要的功能。在写代码之前，我们需要掌握Qt的一些基础知识。 
+    Azure SQL数据库是Azure云中PaaS模式下的数据库即服务产品。它是一个完全管理的SQL Server数据库引擎，使用最新的稳定版本的SQL Server企业版。这个数据库服务提供了丰富的功 
     </details> 
 
-- 🎡 [使用SQL Server漏洞评估进行数据库安全测试](https://juejin.cn/post/7170606652570206239) | Sun Nov 27 2022 8:16 AM 
+- 🎡 [SSIS脚本任务与脚本组件](https://juejin.cn/post/7170611683461709855) | Sun Nov 27 2022 8:35 AM 
     <details><summary>展开描述 ...</summary> 
-    在这篇文章中，我将解释如何使用SQL Server漏洞评估来进行安全测试。在上一篇文章中，我已经解释了关于多层安全的基本理解，我们配置这些安全来保护我们的SQL Server实例。我还解释了我们应该在 
+    本文介绍了SSIS脚本任务和脚本组件，这是SQL Server集成服务（SSIS）中的脚本工具。 本文是SSIS功能面面观系列的第十七篇，旨在比较类似的SSIS组件，以消除使用该技术的数据集成开发人员 
     </details> 
 
-- 🕯 [Microsoft SQL Server 跟踪标志和使用细节](https://juejin.cn/post/7170606618789773319) | Sun Nov 27 2022 8:16 AM 
+- 🕯 [使用SSDT 2017在SQL Server实例之间传输SQL登录信息](https://juejin.cn/post/7170611658664968206) | Sun Nov 27 2022 8:35 AM 
     <details><summary>展开描述 ...</summary> 
-    在这篇文章中，我们将探讨Microsoft SQL Server跟踪标志的各个方面，并且我们将学习如何使用它们。 简介 跟踪标志是高级配置选项，用于改变SQL Server的特定行为。追踪标志通常用于 
+    这是《使用SSDT 2017迁移SQL Server对象》系列的第三篇文章。在第二篇文章中，我们学习了如何转移主数据库的存储过程。在这篇文章中，我们将学习如何使用SSDT 2017将SQL Login 
     </details> 
 
-- 🚀 [开始使用Azure存储探索器](https://juejin.cn/post/7170606602838343694) | Sun Nov 27 2022 8:16 AM 
+- 🚀 [SQL服务器中的SQL百分比计算实例](https://juejin.cn/post/7170611649102446606) | Sun Nov 27 2022 8:35 AM 
     <details><summary>展开描述 ...</summary> 
-    本文将解释Azure存储资源管理器，它的安装，以及如何开始使用这个应用程序来访问Azure存储服务的细节。Azure存储提供了一个灵活的解决方案，可以在云环境中大规模地存储各种类型的数据。如果你在Az 
+    在这篇文章中，你将看到计算多个列和行之间的SQL百分比的不同方法。你还将看到如何计算数字列的SQL百分比，并对分类列进行分组。你将使用子查询、OVER子句和通用表表达式（CTE）来寻找SQL百分比。  
     </details> 
 
-- 💪 [SQL删除语句的幕后花絮](https://juejin.cn/post/7170606606634188813) | Sun Nov 27 2022 8:16 AM 
+- 💪 [如何为PostgreSQL配置Azure数据库的ODBC驱动程序](https://juejin.cn/post/7170611439239954462) | Sun Nov 27 2022 8:35 AM 
     <details><summary>展开描述 ...</summary> 
-    在这篇文章中，我们将探讨执行SQL删除语句时幕后发生的细节。 简介 SQL删除语句是数据库操作命令（DML）之一，用于从表中删除记录。 当我们执行删除语句时，数据库引擎将执行许多活动，但有些因素会影响 
+    这篇文章帮助你学习如何配置ODBC驱动来连接PostgreSQL的Azure数据库。在我之前的文章《为PostgreSQL配置ODBC驱动》中，你学到了下载、安装和配置PostgreSQL的ODBC驱 
     </details> 
 <!-- juejin:END -->
 ### 少数派
