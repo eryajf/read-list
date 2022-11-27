@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [ReactNative支付密码输入框](https://juejin.cn/post/7170513204731183117) | Sun Nov 27 2022 2:13 AM 
+- 🤗 [[Git实操] Git撤销某个版本（生成新版本）](https://juejin.cn/post/7170538491233697829) | Sun Nov 27 2022 3:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    上一篇git文章记录了git的版本回退，`回退是回退到目标版本，并且撤销目标版本之后的提交`，今天的文章主要讲解多次提交，撤销其中某一个提交，并且生成一个新的提交版本，开始干活吧 
+    </details> 
+
+- 🎡 [Nacos配置中心2-配置文件的动态更新](https://juejin.cn/post/7170531612700966920) | Sun Nov 27 2022 3:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    Nacos配置文件的动态更新，长轮询模型，client定时发送检测请求，server端通过长轮询模型处理请求 
+    </details> 
+
+- 🕯 [ModuleFederationPlugin 源码解析（三）](https://juejin.cn/post/7170530764587532318) | Sun Nov 27 2022 3:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    如果 remotes 应用没有提供该模块或者提供了一个有问题的模块，或者说 remote 应用因为单点故障挂掉，都会影响到 host 应用正常的功能，所以有了 FallbackModule 提供的兜底 
+    </details> 
+
+- 🚀 [ReactNative支付密码输入框](https://juejin.cn/post/7170513204731183117) | Sun Nov 27 2022 2:13 AM 
     <details><summary>展开描述 ...</summary> 
     项目中需求如果涉及钱包，支付等功能，可以大概率会用到输入密码组件，也算是个常见组件吧。 之前写过一个纯js的开源组件，使用的类的形式，也比较老了，可直接添加npm库到项目中进行使用。 最近项目需要，又 
     </details> 
 
-- 🎡 [Kotlin协程Flow浅析](https://juejin.cn/post/7170512939445649444) | Sun Nov 27 2022 2:12 AM 
+- 💪 [Kotlin协程Flow浅析](https://juejin.cn/post/7170512939445649444) | Sun Nov 27 2022 2:12 AM 
     <details><summary>展开描述 ...</summary> 
     Kotlin协程中的Flow主要用于处理复杂的异步数据，以一种”流“的方式，从上到下依次处理，和RxJava的处理方式类型，但是比后者更加强大。 Flow基本概念 Flow中基本上有三个概念，即 发送 
-    </details> 
-
-- 🕯 [Vue3 函数式组件的开发方式](https://juejin.cn/post/7170511660648988685) | Sun Nov 27 2022 2:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    声明式组件和服务式组件 无论是使用第三方组件库，还是自己封装组件，有一类组件有些与众不同，那就是函数式/服务式组件，比如 Message 消息组件、Notification 通知组件、Loading  
-    </details> 
-
-- 🚀 [基于一段神奇的CSS渐变制作噪点效果](https://juejin.cn/post/7170506641211654157) | Sun Nov 27 2022 1:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    噪点效果本质用canvas SVG等都是可以实现，本文基于一段神奇的CSS渐变制作噪音效果，结合混合模式及滤镜效果还能实现更多的艺术效果，快来看看吧 
-    </details> 
-
-- 💪 [SpringBoot整合Kotlin构建Web服务](https://juejin.cn/post/7170505045711159327) | Sun Nov 27 2022 1:42 AM 
-    <details><summary>展开描述 ...</summary> 
-    今天我们尝试Spring Boot整合Kotlin，并决定建立一个非常简单的Spring Boot微服务，使用Kotlin作为编程语言进行编码构建。 创建一个简单的Spring Boot应用程序。我会 
     </details> 
 <!-- juejin:END -->
 ### 少数派
