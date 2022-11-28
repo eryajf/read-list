@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Golang Context 详细原理和使用技巧](https://juejin.cn/post/7171022350303887397) | Mon Nov 28 2022 11:10 AM 
+- 🤗 [使用ClickHouse JDBC官方驱动，踩坑无数](https://juejin.cn/post/7171068921565413407) | Mon Nov 28 2022 2:10 PM 
     <details><summary>展开描述 ...</summary> 
-    Golang Context 详细原理和使用技巧，包括 Context 的同步控制设计、Context 的基本原理、Context 的常见常见和使用技巧 
+    前言 最近遇到一个ClickHouse的线上问题： Code: 242, e.displayText&lpar;&rpar; = DB::Exception: Table is in readonly mode&lpar;zook 
     </details> 
 
-- 🎡 [深入浅出React&lpar;Scheduler调度器的源码分析&rpar;](https://juejin.cn/post/7171003859249135624) | Mon Nov 28 2022 9:58 AM 
+- 🎡 [不吹牛，完爆ant deisgn的定位组件！flouting-ui来也](https://juejin.cn/post/7171054283591254029) | Mon Nov 28 2022 1:13 PM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是六六。这是深入浅出react的第五篇，主要讲述react中的调度器，本章从以下3个问题开始： Scheduler是什么，作用是什么？ 什么是 
+    前言 因为要写react定位组件（这不是标题党，就是完爆ant deisgn的定位组件，你应该看到一半就会同意我的观点），如下图： 红框部分是用绝对定位放在按钮上面的，你们B端用的主流组件库都是这样实 
     </details> 
 
-- 🕯 [使用useReducer + useContext 代替 react-redux](https://juejin.cn/post/7171001583239921672) | Mon Nov 28 2022 9:49 AM 
+- 🕯 [手摸手打造类码上掘金在线IDE（六）——沙箱编译（二）](https://juejin.cn/post/7171052227551821854) | Mon Nov 28 2022 1:06 PM 
     <details><summary>展开描述 ...</summary> 
-    一. 概述 在 React16.8推出之前，我们使用react-redux并配合一些中间件，来对一些大型项目进行状态管理，React16.8推出后，我们普遍使用函数组件来构建我们的项目，React提供 
+    前言 我们上回书说道沙箱编译的vue编译部分，很多jym以为我会就此金盆洗手， 等着东家发完盒饭踏实回家搬砖。 甚至有Jy 略带嘲讽的给我评论道： 我能从他们的字里行间体会到他们在质问我，就这？我那啥 
     </details> 
 
-- 🚀 [React 之 Scheduler 源码解读（一）](https://juejin.cn/post/7171000978278187038) | Mon Nov 28 2022 9:47 AM 
+- 🚀 [Vite 的首屏性能为什么不好？](https://juejin.cn/post/7171044801763082276) | Mon Nov 28 2022 12:36 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 在《React 之从 requestIdleCallback 到时间切片》中，我们讲到，React 会把更新做成一个个任务，放进任务队列里。任务有不同的优先级、开始时间等，那怎么判断哪些任务先执 
+    Vite 给人一种又快又慢的感觉，快主要体现在 DevServer 的启动和热更新上，但随之带来的问题是，首屏性能不好以及页面加载时间长的问题。那为什么 Vite 的首屏性能不是怎么好呢？ 
     </details> 
 
-- 💪 [NSURLSession 跨域重定向透传 HTTP Header 问题](https://juejin.cn/post/7170998701853245447) | Mon Nov 28 2022 9:37 AM 
+- 💪 [Electron中如何使用SQLite存储笔记](https://juejin.cn/post/7171042626907406372) | Mon Nov 28 2022 12:28 PM 
     <details><summary>展开描述 ...</summary> 
-    背景 在源网页通过服务器重定向打开某个三方网页，网络层出现了 -1005 &lpar;NSURLErrorNetworkConnectionLost&rpar; 错误码，排查差异后发现是由于给这个三方服务带了源网页特有的 
+    上一篇，我们使用 remirror 实现了一个简单的 markdown 编辑器。接下来，我们要学习如何去存储这些笔记。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
