@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [使用ClickHouse JDBC官方驱动，踩坑无数](https://juejin.cn/post/7171068921565413407) | Mon Nov 28 2022 2:10 PM 
+- 🤗 [夯实算法-行星碰撞](https://juejin.cn/post/7171089082850754574) | Mon Nov 28 2022 3:28 PM 
+    <details><summary>展开描述 ...</summary> 
+    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第4天，点击查看活动详情 题目：LeetCode 给定一个整数数组 asteroids，表示在同一行的行星。 对于数组中的每一个元素 
+    </details> 
+
+- 🎡 [🚂🚂🚂 ServiceWorker -&gt; PWA的基石，在线离线都能玩！](https://juejin.cn/post/7171088699164213279) | Mon Nov 28 2022 3:27 PM 
+    <details><summary>展开描述 ...</summary> 
+    PWA是Progressive Web App的缩写，翻译过来就是渐进式网络应用，它是一种新的网络应用模式，它结合了Web App和Native App的优点 
+    </details> 
+
+- 🕯 [夯实算法-等式方程的可满足性](https://juejin.cn/post/7171084466071437319) | Mon Nov 28 2022 3:12 PM 
+    <details><summary>展开描述 ...</summary> 
+    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第4天，点击查看活动详情 题目：LeetCode 给定一个由表示变量之间关系的字符串方程组成的数组，每个字符串方程 equation 
+    </details> 
+
+- 🚀 [Mysql replace into](https://juejin.cn/post/7171074921185935368) | Mon Nov 28 2022 2:33 PM 
+    <details><summary>展开描述 ...</summary> 
+    Mysql replace into问题在不同版本之间的差异 主从复制自增列香港的问题。 。 。 
+    </details> 
+
+- 💪 [使用ClickHouse JDBC官方驱动，踩坑无数](https://juejin.cn/post/7171068921565413407) | Mon Nov 28 2022 2:10 PM 
     <details><summary>展开描述 ...</summary> 
     前言 最近遇到一个ClickHouse的线上问题： Code: 242, e.displayText&lpar;&rpar; = DB::Exception: Table is in readonly mode&lpar;zook 
-    </details> 
-
-- 🎡 [不吹牛，完爆ant deisgn的定位组件！flouting-ui来也](https://juejin.cn/post/7171054283591254029) | Mon Nov 28 2022 1:13 PM 
-    <details><summary>展开描述 ...</summary> 
-    前言 因为要写react定位组件（这不是标题党，就是完爆ant deisgn的定位组件，你应该看到一半就会同意我的观点），如下图： 红框部分是用绝对定位放在按钮上面的，你们B端用的主流组件库都是这样实 
-    </details> 
-
-- 🕯 [手摸手打造类码上掘金在线IDE（六）——沙箱编译（二）](https://juejin.cn/post/7171052227551821854) | Mon Nov 28 2022 1:06 PM 
-    <details><summary>展开描述 ...</summary> 
-    前言 我们上回书说道沙箱编译的vue编译部分，很多jym以为我会就此金盆洗手， 等着东家发完盒饭踏实回家搬砖。 甚至有Jy 略带嘲讽的给我评论道： 我能从他们的字里行间体会到他们在质问我，就这？我那啥 
-    </details> 
-
-- 🚀 [Vite 的首屏性能为什么不好？](https://juejin.cn/post/7171044801763082276) | Mon Nov 28 2022 12:36 PM 
-    <details><summary>展开描述 ...</summary> 
-    Vite 给人一种又快又慢的感觉，快主要体现在 DevServer 的启动和热更新上，但随之带来的问题是，首屏性能不好以及页面加载时间长的问题。那为什么 Vite 的首屏性能不是怎么好呢？ 
-    </details> 
-
-- 💪 [Electron中如何使用SQLite存储笔记](https://juejin.cn/post/7171042626907406372) | Mon Nov 28 2022 12:28 PM 
-    <details><summary>展开描述 ...</summary> 
-    上一篇，我们使用 remirror 实现了一个简单的 markdown 编辑器。接下来，我们要学习如何去存储这些笔记。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
