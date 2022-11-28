@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请教一个问题，也想花钱得到这么一套程序](https://www.v2ex.com/t/898480#reply0) | Mon Nov 28 2022 5:14 AM
-- 🤗 [暴力和镇压是不能带来和平的。](https://www.v2ex.com/t/898476#reply19) | Mon Nov 28 2022 4:53 AM
-- 🎭 [Python 之父谈缩进和大括号](https://www.v2ex.com/t/898455#reply0) | Mon Nov 28 2022 4:03 AM
-- 🥷 [数据应用测试实践分享](https://www.v2ex.com/t/898449#reply0) | Mon Nov 28 2022 3:41 AM
-- 🐵 [如何实现一个共同协作的文件编辑](https://www.v2ex.com/t/898447#reply2) | Mon Nov 28 2022 3:35 AM<!-- v2ex:END -->
+- 🥸 [求助 1 核 1G 远程桌面 只需要显示浏览器](https://www.v2ex.com/t/898518#reply0) | Mon Nov 28 2022 7:09 AM
+- 🤗 [mysql 悲观锁 机制 请教](https://www.v2ex.com/t/898510#reply6) | Mon Nov 28 2022 6:55 AM
+- 🎭 [tabnine 黑五半价](https://www.v2ex.com/t/898495#reply5) | Mon Nov 28 2022 6:16 AM
+- 🥷 [双 11 活动马上结束，最后三天冲波福利！短信、企业邮箱、运维均有折扣](https://www.v2ex.com/t/898492#reply0) | Mon Nov 28 2022 5:58 AM
+- 🐵 [有什么办法可以扫二级目录？](https://www.v2ex.com/t/898484#reply0) | Mon Nov 28 2022 5:32 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
