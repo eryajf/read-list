@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Tauri 热度那么高 因为国外一致性问题比较少吗?](https://www.v2ex.com/t/898562#reply1) | Mon Nov 28 2022 9:07 AM
-- 🤗 [求助 ubuntu 22.04 用了 usb 转换器的网线，没有反应](https://www.v2ex.com/t/898559#reply1) | Mon Nov 28 2022 8:58 AM
-- 🎭 [[iot 行业技术闲聊] 收到一个 iot 行业的 offer，要会 webservice+mqtt](https://www.v2ex.com/t/898558#reply3) | Mon Nov 28 2022 8:57 AM
-- 🥷 [[仅闲聊] 不考虑服务器和基础设施硬件的成本，在国内开一家正规的 IDC 的成本是多少](https://www.v2ex.com/t/898522#reply5) | Mon Nov 28 2022 7:22 AM
-- 🐵 [求助 1 核 1G 远程桌面 只需要显示浏览器](https://www.v2ex.com/t/898518#reply13) | Mon Nov 28 2022 7:09 AM<!-- v2ex:END -->
+- 🥸 [公司绩效反馈不好，心里很失落，工作没干劲怎么办](https://www.v2ex.com/t/898604#reply1) | Mon Nov 28 2022 11:38 AM
+- 🤗 [能推荐点黑五中 unity 商店中值得买的资产么？](https://www.v2ex.com/t/898598#reply0) | Mon Nov 28 2022 11:25 AM
+- 🎭 [预装的 win11 中文版，升个级要￥ 808](https://www.v2ex.com/t/898593#reply8) | Mon Nov 28 2022 10:48 AM
+- 🥷 [在一款比较老的电脑上安装 Ubuntu server 22.04, 开不了机， BIOS 找不到安装 Ubuntu 的硬盘](https://www.v2ex.com/t/898584#reply0) | Mon Nov 28 2022 10:15 AM
+- 🐵 [有本地小说库的推荐吗](https://www.v2ex.com/t/898577#reply12) | Mon Nov 28 2022 9:47 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
