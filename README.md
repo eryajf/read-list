@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [公司绩效反馈不好，心里很失落，工作没干劲怎么办](https://www.v2ex.com/t/898604#reply1) | Mon Nov 28 2022 11:38 AM
-- 🤗 [能推荐点黑五中 unity 商店中值得买的资产么？](https://www.v2ex.com/t/898598#reply0) | Mon Nov 28 2022 11:25 AM
-- 🎭 [预装的 win11 中文版，升个级要￥ 808](https://www.v2ex.com/t/898593#reply8) | Mon Nov 28 2022 10:48 AM
-- 🥷 [在一款比较老的电脑上安装 Ubuntu server 22.04, 开不了机， BIOS 找不到安装 Ubuntu 的硬盘](https://www.v2ex.com/t/898584#reply0) | Mon Nov 28 2022 10:15 AM
-- 🐵 [有本地小说库的推荐吗](https://www.v2ex.com/t/898577#reply12) | Mon Nov 28 2022 9:47 AM<!-- v2ex:END -->
+- 🥸 [请教一个关于 NAS 或者 raid 的问题](https://www.v2ex.com/t/898648#reply0) | Mon Nov 28 2022 2:52 PM
+- 🤗 [win10，有无可以查看电脑全局快捷键的方法或软件](https://www.v2ex.com/t/898645#reply1) | Mon Nov 28 2022 2:40 PM
+- 🎭 [硬盘存储的数据发生静态错误的概率](https://www.v2ex.com/t/898631#reply0) | Mon Nov 28 2022 1:47 PM
+- 🥷 [pe 类的 aosp 如何不同密码进入不同用户](https://www.v2ex.com/t/898624#reply0) | Mon Nov 28 2022 1:16 PM
+- 🐵 [公司绩效反馈不好，心里很失落，工作没干劲怎么办](https://www.v2ex.com/t/898604#reply2) | Mon Nov 28 2022 11:38 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
