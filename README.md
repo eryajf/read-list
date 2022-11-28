@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Python 项目工程化最佳实践指南](https://juejin.cn/post/7170876308505755679) | Mon Nov 28 2022 1:42 AM 
+- 🤗 [Flutter Widget 之Shortcuts](https://juejin.cn/post/7170929670320291847) | Mon Nov 28 2022 5:11 AM 
     <details><summary>展开描述 ...</summary> 
-    Python 工程化这件事都没有统一的规范和项目管理的方案，也许是因为 Python 突然兴起的时间较短、用于开发大型项目的公司较少。所以为了帮助内部的同学更好的解决 Python 工程化问题和分享下 
+    Flutter所提供的键盘快捷键系统直接用就很棒了，而且还提供了大量的空间可根据自己的喜好配置操作，之前那一篇博客介绍了小部件Focus 它会指示Flutter以你的应用来包裹键盘事件，以寻找匹配的S 
     </details> 
 
-- 🎡 [【官宣新晋开源项目】微服务中后台快速开发平台 [灯灯] 加入 Dromara 开源社区](https://juejin.cn/post/7170875715900932103) | Mon Nov 28 2022 1:40 AM 
+- 🎡 [Flutter Widget 之Focus](https://juejin.cn/post/7170924861760471048) | Mon Nov 28 2022 4:52 AM 
     <details><summary>展开描述 ...</summary> 
-    【官宣新晋开源项目】微服务中后台快速开发平台 [灯灯] 加入 Dromara 开源社区。 微服务中后台快速开发平台，专注于多租户&lpar;SaaS架构&rpar;解决方案，亦可作为普通项目（非SaaS架构）的基础开发框 
+    就网络和应用程序而言，键盘快捷键很重要，今天我们要谈的便是让这类快捷键得以在Flutter运作的小部件：Focus、Shortcuts和Action。 这套系统中的第一个小部件是Focus,小部件树中 
     </details> 
 
-- 🕯 [vivo大数据日志采集Agent设计实践](https://juejin.cn/post/7170870864571793422) | Mon Nov 28 2022 1:21 AM 
+- 🕯 [SSIS的部署](https://juejin.cn/post/7170907640292671496) | Mon Nov 28 2022 3:44 AM 
     <details><summary>展开描述 ...</summary> 
-    本文通过在vivo的日志采集服务的设计实践经验，为大家提供日志采集Agent在设计开发过程中的关键设计思路。 
+    SSIS部署简介 下面的文章提供了一个SSIS部署的概要。项目部署期和传统的包部署模式都被集成服务所支持。此外，应用程序部署方法使项目能够被部署到集成服务。最后，项目部署文件是一个自成一体的安装容器， 
     </details> 
 
-- 🚀 [runtime-core中的虚拟节点](https://juejin.cn/post/7170718067989676039) | Sun Nov 27 2022 3:28 PM 
+- 🚀 [QlikView ApplyMap简介](https://juejin.cn/post/7170906174093525023) | Mon Nov 28 2022 3:38 AM 
     <details><summary>展开描述 ...</summary> 
-    本文讲述的内容是：实现 runtime-core 中的createAppAPI，完成虚拟节点的创建，以及render中的挂载所需参数的获取。 
+    QlikView ApplyMap简介 我们都知道MS Excel的函数Vlookup可以完成映射表的任务。同样，为了简化复合数据模型，我们需要对表进行映射，所以在这里我们通过使用Applymap&lpar;&rpar; 
     </details> 
 
-- 💪 [Element Plus 组件库相关技术揭秘：8. 为什么组件库或插件需要定义 peerDependencies](https://juejin.cn/post/7170716245762048036) | Sun Nov 27 2022 3:21 PM 
+- 💪 [Scikit Learn KMeans简介](https://juejin.cn/post/7170905074871304200) | Mon Nov 28 2022 3:34 AM 
     <details><summary>展开描述 ...</summary> 
-    peerDependencies 表示同版本依赖，简单来说就是，如果你安装我，那么你最好也安装我对应的依赖。peerDependencies 中定义的依赖不会重复下载，但会要求宿主提供一致 peer 
+    Scikit Learn KMeans简介 下面的文章提供了一个Scikit Learn KMeans的概要。Kmeans属于机器学习中的无监督学习算法；通常Kmeans算法用于按照我们的要求对数据集 
     </details> 
 <!-- juejin:END -->
 ### 少数派
