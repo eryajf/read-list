@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [求助 1 核 1G 远程桌面 只需要显示浏览器](https://www.v2ex.com/t/898518#reply0) | Mon Nov 28 2022 7:09 AM
-- 🤗 [mysql 悲观锁 机制 请教](https://www.v2ex.com/t/898510#reply6) | Mon Nov 28 2022 6:55 AM
-- 🎭 [tabnine 黑五半价](https://www.v2ex.com/t/898495#reply5) | Mon Nov 28 2022 6:16 AM
-- 🥷 [双 11 活动马上结束，最后三天冲波福利！短信、企业邮箱、运维均有折扣](https://www.v2ex.com/t/898492#reply0) | Mon Nov 28 2022 5:58 AM
-- 🐵 [有什么办法可以扫二级目录？](https://www.v2ex.com/t/898484#reply0) | Mon Nov 28 2022 5:32 AM<!-- v2ex:END -->
+- 🥸 [[仅闲聊] 不考虑服务器和基础设施硬件的成本，在国内开一家正规的 IDC 的成本是多少](https://www.v2ex.com/t/898522#reply2) | Mon Nov 28 2022 7:22 AM
+- 🤗 [求助 1 核 1G 远程桌面 只需要显示浏览器](https://www.v2ex.com/t/898518#reply11) | Mon Nov 28 2022 7:09 AM
+- 🎭 [mysql 悲观锁 机制 请教](https://www.v2ex.com/t/898510#reply22) | Mon Nov 28 2022 6:55 AM
+- 🥷 [tabnine 黑五半价](https://www.v2ex.com/t/898495#reply7) | Mon Nov 28 2022 6:16 AM
+- 🐵 [双 11 活动马上结束，最后三天冲波福利！短信、企业邮箱、运维均有折扣](https://www.v2ex.com/t/898492#reply0) | Mon Nov 28 2022 5:58 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
