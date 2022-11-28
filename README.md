@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Flutter Widget 之Shortcuts](https://juejin.cn/post/7170929670320291847) | Mon Nov 28 2022 5:11 AM 
+- 🤗 [PHP转Go，框架选什么？](https://juejin.cn/post/7170955521694892039) | Mon Nov 28 2022 6:51 AM 
     <details><summary>展开描述 ...</summary> 
-    Flutter所提供的键盘快捷键系统直接用就很棒了，而且还提供了大量的空间可根据自己的喜好配置操作，之前那一篇博客介绍了小部件Focus 它会指示Flutter以你的应用来包裹键盘事件，以寻找匹配的S 
+    这是一期会引起广泛讨论的内容，不亚于“PHP是世界上最好的语言”。不管我们使用什么框架去开发，6个字的内功心法一定要牢记：高内聚，低耦合。 
     </details> 
 
-- 🎡 [Flutter Widget 之Focus](https://juejin.cn/post/7170924861760471048) | Mon Nov 28 2022 4:52 AM 
+- 🎡 [&lpar;二十六&rpar;MySQL分库篇：Sharding-Sphere分库分表框架的保姆级教学！](https://juejin.cn/post/7170939041989263396) | Mon Nov 28 2022 5:47 AM 
     <details><summary>展开描述 ...</summary> 
-    就网络和应用程序而言，键盘快捷键很重要，今天我们要谈的便是让这类快捷键得以在Flutter运作的小部件：Focus、Shortcuts和Action。 这套系统中的第一个小部件是Focus,小部件树中 
+    讲分库分表概念的文章比比皆是，但真正带人落地实践资料相对较少，而本次会基于最新的Sharding-Sphere5.2.1框架，来逐步讲解分库分表的完整性实战~ 
     </details> 
 
-- 🕯 [SSIS的部署](https://juejin.cn/post/7170907640292671496) | Mon Nov 28 2022 3:44 AM 
+- 🕯 [在国内用 mac 安装 Rust](https://juejin.cn/post/7170936872548433950) | Mon Nov 28 2022 5:38 AM 
     <details><summary>展开描述 ...</summary> 
-    SSIS部署简介 下面的文章提供了一个SSIS部署的概要。项目部署期和传统的包部署模式都被集成服务所支持。此外，应用程序部署方法使项目能够被部署到集成服务。最后，项目部署文件是一个自成一体的安装容器， 
+    一、安装 Homebrew 视频教程见 www.bilibili.com/video/BV1fg411q758/ 二、安装 Rust 和 Cargo 运行 brew install rust 期间会发 
     </details> 
 
-- 🚀 [QlikView ApplyMap简介](https://juejin.cn/post/7170906174093525023) | Mon Nov 28 2022 3:38 AM 
+- 🚀 [数据仓库实战教程](https://juejin.cn/post/7170935463481376804) | Mon Nov 28 2022 5:32 AM 
     <details><summary>展开描述 ...</summary> 
-    QlikView ApplyMap简介 我们都知道MS Excel的函数Vlookup可以完成映射表的任务。同样，为了简化复合数据模型，我们需要对表进行映射，所以在这里我们通过使用Applymap&lpar;&rpar; 
+    数据仓库已经是企业的数据竞争的核心了，学好数据仓库对提高自己和找到一份好的工作都至关重要，但是很多人对数仓的印象还是停留在写SQL的层面,其实今天的数仓更像是一个数据平台应用,我们学习的大数据技术其实 
     </details> 
 
-- 💪 [Scikit Learn KMeans简介](https://juejin.cn/post/7170905074871304200) | Mon Nov 28 2022 3:34 AM 
+- 💪 [网关GateWay-简单使用](https://juejin.cn/post/7170933034248732703) | Mon Nov 28 2022 5:24 AM 
     <details><summary>展开描述 ...</summary> 
-    Scikit Learn KMeans简介 下面的文章提供了一个Scikit Learn KMeans的概要。Kmeans属于机器学习中的无监督学习算法；通常Kmeans算法用于按照我们的要求对数据集 
+    Spring Cloud GateWay介绍。以及zuul对比。简单使用，和断言、过滤器等业务使用。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
