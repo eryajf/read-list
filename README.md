@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【AI】浅谈使用正则化防止过拟合（下）](https://juejin.cn/post/7170880211997687815) | Mon Nov 28 2022 1:58 AM 
+- 🤗 [Python 项目工程化最佳实践指南](https://juejin.cn/post/7170876308505755679) | Mon Nov 28 2022 1:42 AM 
     <details><summary>展开描述 ...</summary> 
-    对于机器学习问题，我们最常遇到的一个问题便是过拟合。因此，我们需要通过正则化的方法来防止过拟合，接下来跟博主一起来了解一下吧。本篇将重点介绍什么是正则化，以及如何进行权重衰减？ 
+    Python 工程化这件事都没有统一的规范和项目管理的方案，也许是因为 Python 突然兴起的时间较短、用于开发大型项目的公司较少。所以为了帮助内部的同学更好的解决 Python 工程化问题和分享下 
     </details> 
 
-- 🎡 [嘿，vue中keep-alive有个「大坑」你可能还不知道](https://juejin.cn/post/7170878262061563941) | Mon Nov 28 2022 1:50 AM 
+- 🎡 [【官宣新晋开源项目】微服务中后台快速开发平台 [灯灯] 加入 Dromara 开源社区](https://juejin.cn/post/7170875715900932103) | Mon Nov 28 2022 1:40 AM 
     <details><summary>展开描述 ...</summary> 
-    背景 背景是这样的，我们使用vue2开发一个在线客服使用的IM应用，基本布局是左边是访客列表，右边是访客对话，为了让对话加载更友好，我们将对话的路由使用&lt;keep-alive&gt;缓存起来。但是如果将所有 
+    【官宣新晋开源项目】微服务中后台快速开发平台 [灯灯] 加入 Dromara 开源社区。 微服务中后台快速开发平台，专注于多租户&lpar;SaaS架构&rpar;解决方案，亦可作为普通项目（非SaaS架构）的基础开发框 
     </details> 
 
-- 🕯 [微服务线上问题排查困难？不知道问题出在哪一环？那是你还不会分布式链路追踪](https://juejin.cn/post/7170877799237386254) | Mon Nov 28 2022 1:48 AM 
+- 🕯 [vivo大数据日志采集Agent设计实践](https://juejin.cn/post/7170870864571793422) | Mon Nov 28 2022 1:21 AM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加 「金石计划 . 瓜分6万现金大奖」 咱们以前单体应用里面有很多的应用和功能，依赖各个功能之间相互调用，使用公共的代码包等等，排查问题，使用类似于 gdb/dlv 工具或者直接查看代码日志 
+    本文通过在vivo的日志采集服务的设计实践经验，为大家提供日志采集Agent在设计开发过程中的关键设计思路。 
     </details> 
 
-- 🚀 [稳定性建设之e2e](https://juejin.cn/post/7170874345651175432) | Mon Nov 28 2022 1:35 AM 
+- 🚀 [runtime-core中的虚拟节点](https://juejin.cn/post/7170718067989676039) | Sun Nov 27 2022 3:28 PM 
     <details><summary>展开描述 ...</summary> 
-    稳定性建设之e2e：1. e2e框架选择 3. e2e能带来的收益 4. e2e在稳定性建设中能cover住的场景 5. 如何衡量e2e对业务的价值 6. 一些e2e的难点场景 
+    本文讲述的内容是：实现 runtime-core 中的createAppAPI，完成虚拟节点的创建，以及render中的挂载所需参数的获取。 
     </details> 
 
-- 💪 [使用 CSS Gradient 的缺陷实现噪点画面](https://juejin.cn/post/7170870737186586661) | Mon Nov 28 2022 1:20 AM 
+- 💪 [Element Plus 组件库相关技术揭秘：8. 为什么组件库或插件需要定义 peerDependencies](https://juejin.cn/post/7170716245762048036) | Sun Nov 27 2022 3:21 PM 
     <details><summary>展开描述 ...</summary> 
-    你是否记得老式电视没有信号的噪点画面呢？或者说，当信号不好的时，失真的画面？如果你没有电视信号（失真）的概念，可以看下面的 GIF 图，你就会明白我说什么了... 
+    peerDependencies 表示同版本依赖，简单来说就是，如果你安装我，那么你最好也安装我对应的依赖。peerDependencies 中定义的依赖不会重复下载，但会要求宿主提供一致 peer 
     </details> 
 <!-- juejin:END -->
 ### 少数派
