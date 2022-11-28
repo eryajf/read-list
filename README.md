@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [面对集中式缓存实现上的挑战，Redis交出的是何种答卷？聊聊Redis在分布式方面的能力设计](https://juejin.cn/post/7170836774917242893) | Sun Nov 27 2022 11:13 PM 
+- 🤗 [为什么我在公司里访问不了家里的电脑？](https://juejin.cn/post/7170850066473680927) | Mon Nov 28 2022 12:01 AM 
     <details><summary>展开描述 ...</summary> 
-    对于一个集中式缓存的分布式能力构建，必须要额外提供一些机制，来保障数据在各个节点上的安全与一致性。本文以Redis为代表，看下集Redis面对上述问题交出的是怎样一份答卷。 
+    上篇文章「为什么我们家里的IP都是192.168开头的？」提到，因为IPv4地址有限，最大42亿个。为了更好的利用这有限的IP数量，网络分为局域网和广域网，将IP分为了私有IP和公网IP，一个局域网里 
     </details> 
 
-- 🎡 [现代CSS样式重置最佳实践！](https://juejin.cn/post/7170765064545239071) | Sun Nov 27 2022 6:31 PM 
+- 🎡 [如何避免 React hooks 闭包陷阱？](https://juejin.cn/post/7170849250543140900) | Sun Nov 27 2022 11:57 PM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 大家好，我是 CUGGZ。 当开始一个新的前端项目时，首要任务就是重置 CSS 中的一些默认样式。下面就来看看现代 CSS 重置的最佳实践。我们将深入研 
+    有时候我们使用了useMemo useCallback 来优化性能，这些函数与外围的 state 形成闭包，导致缓存函数中获取到的 state 不是最新的值，这就是闭包陷阱。 
     </details> 
 
-- 🕯 [runtime-core中的虚拟节点](https://juejin.cn/post/7170718067989676039) | Sun Nov 27 2022 3:28 PM 
+- 🕯 [学习一下 nowinandroid 的构建脚本](https://juejin.cn/post/7170848190139203614) | Sun Nov 27 2022 11:54 PM 
     <details><summary>展开描述 ...</summary> 
-    本文讲述的内容是：实现 runtime-core 中的createAppAPI，完成虚拟节点的创建，以及render中的挂载所需参数的获取。 
+    nowinandroid 项目是谷歌开源的示例项目，它遵循 Android 设计和开发的最佳实践，并旨在成为开发人员的有用参考 
     </details> 
 
-- 🚀 [优秀开源项目解读&lpar;七&rpar; - dante-cloud微服务企业级技术中台](https://juejin.cn/post/7170717192013479944) | Sun Nov 27 2022 3:25 PM 
+- 🚀 [低代码跨 iframe 拖拽](https://juejin.cn/post/7170845236078313486) | Sun Nov 27 2022 11:42 PM 
     <details><summary>展开描述 ...</summary> 
-    🌈Danta Cloud介绍 🌊一句话介绍： Danta Cloud是基于Spring Authorization Server全新适配OAth2.1协议的企业级微服务架构企业级技术中台微服务架构与服 
+    为了给渲染器提供一个纯净的渲染环境，渲染器和设计器处于不同的 iframe 中，因此拖拽组件不仅涉及在同一个 iframe 中拖拽组件，还涉及跨 iframe 拖拽组件。 
     </details> 
 
-- 💪 [Element Plus 组件库相关技术揭秘：8. 为什么组件库或插件需要定义 peerDependencies](https://juejin.cn/post/7170716245762048036) | Sun Nov 27 2022 3:21 PM 
+- 💪 [Vite 配置篇：日常开发掌握这些配置就够了！](https://juejin.cn/post/7170843707217412126) | Sun Nov 27 2022 11:36 PM 
     <details><summary>展开描述 ...</summary> 
-    peerDependencies 表示同版本依赖，简单来说就是，如果你安装我，那么你最好也安装我对应的依赖。peerDependencies 中定义的依赖不会重复下载，但会要求宿主提供一致 peer 
+    不知道有没有这样的兄弟，学习 Vite 的时候，官网上各种配置看的是眼花缭乱。不知道哪些需要掌握，哪些只用简单了解一下。为了提高大家的效率，我把日常开发中常用的配置梳理了一下分享给大家！ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
