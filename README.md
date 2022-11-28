@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [已经有安装 U 盘怎么样把他做成 ISO？](https://www.v2ex.com/t/898390#reply4) | Mon Nov 28 2022 12:42 AM
-- 🤗 [快速私搭聊天室](https://www.v2ex.com/t/898386#reply1) | Sun Nov 27 2022 7:36 PM
-- 🎭 [独立产品灵感周刊 DecoHack #039 - 制作自己的音乐墙](https://www.v2ex.com/t/898383#reply0) | Sun Nov 27 2022 6:12 PM
-- 🥷 [付费求帮忙配置 therecipe/qt 库 msvc 版本 webengine 环境](https://www.v2ex.com/t/898374#reply2) | Sun Nov 27 2022 4:01 PM
-- 🐵 [为什么我觉得 grpc.io 里的文档不全, 是我使用方式不对吗](https://www.v2ex.com/t/898359#reply5) | Sun Nov 27 2022 2:38 PM<!-- v2ex:END -->
+- 🥸 [你们公司/部门 有没有遇到这种场景，你们的一个工作台，需要集成很多其他事业部/部门/小组的能力，这个能力可能是接口，组件。这种你们有没有统一的解决方案](https://www.v2ex.com/t/898427#reply0) | Mon Nov 28 2022 2:53 AM
+- 🤗 [Smartgit 终生版国区 869，到手 1023 值得入吗？](https://www.v2ex.com/t/898423#reply3) | Mon Nov 28 2022 2:37 AM
+- 🎭 [google play 上面的应用无法更新，一直等待中（pending）](https://www.v2ex.com/t/898414#reply4) | Mon Nov 28 2022 2:14 AM
+- 🥷 [怎么避免自己写的代码变成屎山？](https://www.v2ex.com/t/898413#reply28) | Mon Nov 28 2022 2:11 AM
+- 🐵 [软件的终结？](https://www.v2ex.com/t/898405#reply5) | Mon Nov 28 2022 1:42 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
