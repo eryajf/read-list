@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [你们公司/部门 有没有遇到这种场景，你们的一个工作台，需要集成很多其他事业部/部门/小组的能力，这个能力可能是接口，组件。这种你们有没有统一的解决方案](https://www.v2ex.com/t/898427#reply0) | Mon Nov 28 2022 2:53 AM
-- 🤗 [Smartgit 终生版国区 869，到手 1023 值得入吗？](https://www.v2ex.com/t/898423#reply3) | Mon Nov 28 2022 2:37 AM
-- 🎭 [google play 上面的应用无法更新，一直等待中（pending）](https://www.v2ex.com/t/898414#reply4) | Mon Nov 28 2022 2:14 AM
-- 🥷 [怎么避免自己写的代码变成屎山？](https://www.v2ex.com/t/898413#reply28) | Mon Nov 28 2022 2:11 AM
-- 🐵 [软件的终结？](https://www.v2ex.com/t/898405#reply5) | Mon Nov 28 2022 1:42 AM<!-- v2ex:END -->
+- 🥸 [Python 之父谈缩进和大括号](https://www.v2ex.com/t/898455#reply0) | Mon Nov 28 2022 4:03 AM
+- 🤗 [数据应用测试实践分享](https://www.v2ex.com/t/898449#reply0) | Mon Nov 28 2022 3:41 AM
+- 🎭 [如何实现一个共同协作的文件编辑](https://www.v2ex.com/t/898447#reply1) | Mon Nov 28 2022 3:35 AM
+- 🥷 [红米 k50 至尊等待 PE 系统](https://www.v2ex.com/t/898442#reply2) | Mon Nov 28 2022 3:20 AM
+- 🐵 [你们公司/部门 有没有遇到这种场景，你们的一个工作台，需要集成很多其他事业部/部门/小组的能力，这个能力可能是接口，组件。这种你们有没有统一的解决方案](https://www.v2ex.com/t/898427#reply2) | Mon Nov 28 2022 2:53 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
