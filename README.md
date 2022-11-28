@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [夯实算法-行星碰撞](https://juejin.cn/post/7171089082850754574) | Mon Nov 28 2022 3:28 PM 
+- 🤗 [简单瀑布流](https://juejin.cn/post/7171104406317269029) | Mon Nov 28 2022 4:29 PM 
+    <details><summary>展开描述 ...</summary> 
+    又称为瀑布流布局，是一种比较经典的网站布局方式，尤其多见于图片较多的页面。常见有两种瀑布流方式。分别为 1. 定宽不定高 2. 定高不定宽 
+    </details> 
+
+- 🎡 [夯实算法-行星碰撞](https://juejin.cn/post/7171089082850754574) | Mon Nov 28 2022 3:28 PM 
     <details><summary>展开描述 ...</summary> 
     开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第4天，点击查看活动详情 题目：LeetCode 给定一个整数数组 asteroids，表示在同一行的行星。 对于数组中的每一个元素 
     </details> 
 
-- 🎡 [🚂🚂🚂 ServiceWorker -&gt; PWA的基石，在线离线都能玩！](https://juejin.cn/post/7171088699164213279) | Mon Nov 28 2022 3:27 PM 
+- 🕯 [🚂🚂🚂 ServiceWorker -&gt; PWA的基石，在线离线都能玩！](https://juejin.cn/post/7171088699164213279) | Mon Nov 28 2022 3:27 PM 
     <details><summary>展开描述 ...</summary> 
     PWA是Progressive Web App的缩写，翻译过来就是渐进式网络应用，它是一种新的网络应用模式，它结合了Web App和Native App的优点 
     </details> 
 
-- 🕯 [夯实算法-等式方程的可满足性](https://juejin.cn/post/7171084466071437319) | Mon Nov 28 2022 3:12 PM 
+- 🚀 [夯实算法-等式方程的可满足性](https://juejin.cn/post/7171084466071437319) | Mon Nov 28 2022 3:12 PM 
     <details><summary>展开描述 ...</summary> 
     开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第4天，点击查看活动详情 题目：LeetCode 给定一个由表示变量之间关系的字符串方程组成的数组，每个字符串方程 equation 
     </details> 
 
-- 🚀 [Mysql replace into](https://juejin.cn/post/7171074921185935368) | Mon Nov 28 2022 2:33 PM 
+- 💪 [Mysql replace into](https://juejin.cn/post/7171074921185935368) | Mon Nov 28 2022 2:33 PM 
     <details><summary>展开描述 ...</summary> 
     Mysql replace into问题在不同版本之间的差异 主从复制自增列香港的问题。 。 。 
-    </details> 
-
-- 💪 [使用ClickHouse JDBC官方驱动，踩坑无数](https://juejin.cn/post/7171068921565413407) | Mon Nov 28 2022 2:10 PM 
-    <details><summary>展开描述 ...</summary> 
-    前言 最近遇到一个ClickHouse的线上问题： Code: 242, e.displayText&lpar;&rpar; = DB::Exception: Table is in readonly mode&lpar;zook 
     </details> 
 <!-- juejin:END -->
 ### 少数派
