@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [PHP转Go，框架选什么？](https://juejin.cn/post/7170955521694892039) | Mon Nov 28 2022 6:51 AM 
+- 🤗 [Nacos 中的配置文件如何实现加密传输](https://juejin.cn/post/7170964309428666399) | Mon Nov 28 2022 7:24 AM 
     <details><summary>展开描述 ...</summary> 
-    这是一期会引起广泛讨论的内容，不亚于“PHP是世界上最好的语言”。不管我们使用什么框架去开发，6个字的内功心法一定要牢记：高内聚，低耦合。 
+    小伙伴们知道，Spring Cloud Config 很早就提供了配置文件的加解密功能，并且支持对称加密和非对称加密两种不同的模式。Nacos 作为分布式配置中心+服务注册中心的合体，在配置文件加密这 
     </details> 
 
-- 🎡 [Java并发编程--变量可见性、避免指令重排，还得是用它](https://juejin.cn/post/7170952960539623431) | Mon Nov 28 2022 6:40 AM 
+- 🎡 [Naive UI 组件使用体验之-级联选择 Cascader](https://juejin.cn/post/7170962147260760071) | Mon Nov 28 2022 7:16 AM 
     <details><summary>展开描述 ...</summary> 
-    上一篇文章讲的是线程本地存储 ThreadLocal，讲究的是让每个线程持有一份数据副本，大家各自访问各自的，就不用争抢了。 那怎么保证程序里一个线程对共享变量的修改能立马被其他线程看到了？这时候有人 
+    使用场景 地址区域选择 简单使用 安装依赖 npm install naive-ui -D 按需引入之-手动引入 使用 增加操作 这里我们是要对收货地址进行一个增加操作。 我们这里只针对所在地址进行说 
     </details> 
 
-- 🕯 [oauth2之理论-实战-模式-踩坑](https://juejin.cn/post/7170951160566644749) | Mon Nov 28 2022 6:33 AM 
+- 🕯 [Flowable 表单](https://juejin.cn/post/7170961993577267207) | Mon Nov 28 2022 7:15 AM 
     <details><summary>展开描述 ...</summary> 
-    对于身份认证和用户授权，之前写过几篇关于Shiro和Security的文章。从发送口令获取源码的反馈来看，大家还是比较认可的。今天给大家带来一种新的授权方式：oauth2。 
+    [TOC] 本文为稀土掘金技术社区首发签约文章，14天内禁止转载，14天后未获授权禁止转载，侵权必究！ 本专栏第五篇已发布，尚未看过的小伙伴请移步这里： 1. [ Flowable 开篇，流程引擎扫盲 
     </details> 
 
-- 🚀 [Elasticsearch：构建地图以按国家或地区比较指标](https://juejin.cn/post/7170949665418903588) | Mon Nov 28 2022 6:29 AM 
+- 🚀 [vue3项目开发问题记录](https://juejin.cn/post/7170961870818377736) | Mon Nov 28 2022 7:14 AM 
     <details><summary>展开描述 ...</summary> 
-    标如果你不熟悉 Elastic 地图，本教程是一个不错的起点。 它会指导你完成处理位置数据的常见步骤。在完成本教程后，你将学会: 创建具有多个图层和数据源的地图 使用符号、颜色和标签来设置数据值的样式 
+    input框光标错位问题 el-input 当 type=&quot;number&quot; 时，输入字符串，光标会出现上移的情况 https://blog.csdn.net/monparadis/article/de 
     </details> 
 
-- 💪 [带你了解自然语言处理文本生成方向](https://juejin.cn/post/7170949408429703198) | Mon Nov 28 2022 6:26 AM 
+- 💪 [如何成为优秀工程师之软技能篇](https://juejin.cn/post/7170960144275079182) | Mon Nov 28 2022 7:08 AM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加「金石计划 . 瓜分6万现金大奖」 自然语言处理 每次有人问：你是搞什么的？ （对于普通人）我：搞AI的。 （对于程序员）我：搞算法的。 我一般不会说我是做自然语言处理（Natural L 
+    引言|我们日常工作中我们经常发现部分技术能力和自己相当的人，但绩效、成长速度、合作口碑方面却远超自己，具体是什么原因呢？核心差异是软能力。笔者结合十年来的工作经验，讲述技术之外大家应当具备的软能力，期 
     </details> 
 <!-- juejin:END -->
 ### 少数派
