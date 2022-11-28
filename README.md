@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [[仅闲聊] 不考虑服务器和基础设施硬件的成本，在国内开一家正规的 IDC 的成本是多少](https://www.v2ex.com/t/898522#reply2) | Mon Nov 28 2022 7:22 AM
-- 🤗 [求助 1 核 1G 远程桌面 只需要显示浏览器](https://www.v2ex.com/t/898518#reply11) | Mon Nov 28 2022 7:09 AM
-- 🎭 [mysql 悲观锁 机制 请教](https://www.v2ex.com/t/898510#reply22) | Mon Nov 28 2022 6:55 AM
-- 🥷 [tabnine 黑五半价](https://www.v2ex.com/t/898495#reply7) | Mon Nov 28 2022 6:16 AM
-- 🐵 [双 11 活动马上结束，最后三天冲波福利！短信、企业邮箱、运维均有折扣](https://www.v2ex.com/t/898492#reply0) | Mon Nov 28 2022 5:58 AM<!-- v2ex:END -->
+- 🥸 [Tauri 热度那么高 因为国外一致性问题比较少吗?](https://www.v2ex.com/t/898562#reply1) | Mon Nov 28 2022 9:07 AM
+- 🤗 [求助 ubuntu 22.04 用了 usb 转换器的网线，没有反应](https://www.v2ex.com/t/898559#reply1) | Mon Nov 28 2022 8:58 AM
+- 🎭 [[iot 行业技术闲聊] 收到一个 iot 行业的 offer，要会 webservice+mqtt](https://www.v2ex.com/t/898558#reply3) | Mon Nov 28 2022 8:57 AM
+- 🥷 [[仅闲聊] 不考虑服务器和基础设施硬件的成本，在国内开一家正规的 IDC 的成本是多少](https://www.v2ex.com/t/898522#reply5) | Mon Nov 28 2022 7:22 AM
+- 🐵 [求助 1 核 1G 远程桌面 只需要显示浏览器](https://www.v2ex.com/t/898518#reply13) | Mon Nov 28 2022 7:09 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
