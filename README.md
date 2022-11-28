@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Python 之父谈缩进和大括号](https://www.v2ex.com/t/898455#reply0) | Mon Nov 28 2022 4:03 AM
-- 🤗 [数据应用测试实践分享](https://www.v2ex.com/t/898449#reply0) | Mon Nov 28 2022 3:41 AM
-- 🎭 [如何实现一个共同协作的文件编辑](https://www.v2ex.com/t/898447#reply1) | Mon Nov 28 2022 3:35 AM
-- 🥷 [红米 k50 至尊等待 PE 系统](https://www.v2ex.com/t/898442#reply2) | Mon Nov 28 2022 3:20 AM
-- 🐵 [你们公司/部门 有没有遇到这种场景，你们的一个工作台，需要集成很多其他事业部/部门/小组的能力，这个能力可能是接口，组件。这种你们有没有统一的解决方案](https://www.v2ex.com/t/898427#reply2) | Mon Nov 28 2022 2:53 AM<!-- v2ex:END -->
+- 🥸 [请教一个问题，也想花钱得到这么一套程序](https://www.v2ex.com/t/898480#reply0) | Mon Nov 28 2022 5:14 AM
+- 🤗 [暴力和镇压是不能带来和平的。](https://www.v2ex.com/t/898476#reply19) | Mon Nov 28 2022 4:53 AM
+- 🎭 [Python 之父谈缩进和大括号](https://www.v2ex.com/t/898455#reply0) | Mon Nov 28 2022 4:03 AM
+- 🥷 [数据应用测试实践分享](https://www.v2ex.com/t/898449#reply0) | Mon Nov 28 2022 3:41 AM
+- 🐵 [如何实现一个共同协作的文件编辑](https://www.v2ex.com/t/898447#reply2) | Mon Nov 28 2022 3:35 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
