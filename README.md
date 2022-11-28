@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请教一个关于 NAS 或者 raid 的问题](https://www.v2ex.com/t/898648#reply0) | Mon Nov 28 2022 2:52 PM
-- 🤗 [win10，有无可以查看电脑全局快捷键的方法或软件](https://www.v2ex.com/t/898645#reply1) | Mon Nov 28 2022 2:40 PM
-- 🎭 [硬盘存储的数据发生静态错误的概率](https://www.v2ex.com/t/898631#reply0) | Mon Nov 28 2022 1:47 PM
-- 🥷 [pe 类的 aosp 如何不同密码进入不同用户](https://www.v2ex.com/t/898624#reply0) | Mon Nov 28 2022 1:16 PM
-- 🐵 [公司绩效反馈不好，心里很失落，工作没干劲怎么办](https://www.v2ex.com/t/898604#reply2) | Mon Nov 28 2022 11:38 AM<!-- v2ex:END -->
+- 🥸 [能否对防火墙的 DNS 抢答服务器发起 DDOS 攻击？](https://www.v2ex.com/t/898665#reply0) | Mon Nov 28 2022 4:11 PM
+- 🤗 [如果只考虑赚钱多和快，应该学哪种编程语言？](https://www.v2ex.com/t/898663#reply4) | Mon Nov 28 2022 4:08 PM
+- 🎭 [安卓机彻底关闭美颜吗？自制相机 app 能禁用美颜吗？](https://www.v2ex.com/t/898661#reply2) | Mon Nov 28 2022 3:48 PM
+- 🥷 [求教一个 Java 问题,关于 configuration-processor 配置提示](https://www.v2ex.com/t/898659#reply1) | Mon Nov 28 2022 3:33 PM
+- 🐵 [请教一个关于 NAS 或者 raid 的问题](https://www.v2ex.com/t/898648#reply0) | Mon Nov 28 2022 2:52 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
