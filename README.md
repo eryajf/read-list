@@ -378,24 +378,24 @@
     这是一期会引起广泛讨论的内容，不亚于“PHP是世界上最好的语言”。不管我们使用什么框架去开发，6个字的内功心法一定要牢记：高内聚，低耦合。 
     </details> 
 
-- 🎡 [&lpar;二十六&rpar;MySQL分库篇：Sharding-Sphere分库分表框架的保姆级教学！](https://juejin.cn/post/7170939041989263396) | Mon Nov 28 2022 5:47 AM 
+- 🎡 [Java并发编程--变量可见性、避免指令重排，还得是用它](https://juejin.cn/post/7170952960539623431) | Mon Nov 28 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
-    讲分库分表概念的文章比比皆是，但真正带人落地实践资料相对较少，而本次会基于最新的Sharding-Sphere5.2.1框架，来逐步讲解分库分表的完整性实战~ 
+    上一篇文章讲的是线程本地存储 ThreadLocal，讲究的是让每个线程持有一份数据副本，大家各自访问各自的，就不用争抢了。 那怎么保证程序里一个线程对共享变量的修改能立马被其他线程看到了？这时候有人 
     </details> 
 
-- 🕯 [在国内用 mac 安装 Rust](https://juejin.cn/post/7170936872548433950) | Mon Nov 28 2022 5:38 AM 
+- 🕯 [oauth2之理论-实战-模式-踩坑](https://juejin.cn/post/7170951160566644749) | Mon Nov 28 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-    一、安装 Homebrew 视频教程见 www.bilibili.com/video/BV1fg411q758/ 二、安装 Rust 和 Cargo 运行 brew install rust 期间会发 
+    对于身份认证和用户授权，之前写过几篇关于Shiro和Security的文章。从发送口令获取源码的反馈来看，大家还是比较认可的。今天给大家带来一种新的授权方式：oauth2。 
     </details> 
 
-- 🚀 [数据仓库实战教程](https://juejin.cn/post/7170935463481376804) | Mon Nov 28 2022 5:32 AM 
+- 🚀 [Elasticsearch：构建地图以按国家或地区比较指标](https://juejin.cn/post/7170949665418903588) | Mon Nov 28 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-    数据仓库已经是企业的数据竞争的核心了，学好数据仓库对提高自己和找到一份好的工作都至关重要，但是很多人对数仓的印象还是停留在写SQL的层面,其实今天的数仓更像是一个数据平台应用,我们学习的大数据技术其实 
+    标如果你不熟悉 Elastic 地图，本教程是一个不错的起点。 它会指导你完成处理位置数据的常见步骤。在完成本教程后，你将学会: 创建具有多个图层和数据源的地图 使用符号、颜色和标签来设置数据值的样式 
     </details> 
 
-- 💪 [网关GateWay-简单使用](https://juejin.cn/post/7170933034248732703) | Mon Nov 28 2022 5:24 AM 
+- 💪 [带你了解自然语言处理文本生成方向](https://juejin.cn/post/7170949408429703198) | Mon Nov 28 2022 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-    Spring Cloud GateWay介绍。以及zuul对比。简单使用，和断言、过滤器等业务使用。 
+    本文正在参加「金石计划 . 瓜分6万现金大奖」 自然语言处理 每次有人问：你是搞什么的？ （对于普通人）我：搞AI的。 （对于程序员）我：搞算法的。 我一般不会说我是做自然语言处理（Natural L 
     </details> 
 <!-- juejin:END -->
 ### 少数派
