@@ -792,29 +792,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 1129](http://jandan.net/p/111783) | Tue Nov 29 2022 2:26 AM 
+- 🚀 [奔驰的电动版大G将于2024年中发布](http://jandan.net/p/111784) | Tue Nov 29 2022 3:26 AM 
+    <details><summary>展开描述 ...</summary> 
+    越野探险的未来是电动的。 
+    </details> 
+
+- 🙉 [今日好价 1129](http://jandan.net/p/111783) | Tue Nov 29 2022 2:26 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：45 
     </details> 
 
-- 🙉 [加拿大调查发现，送修电脑或手机，维修人员有不小几率会窥探用户的隐私数据](http://jandan.net/p/111781) | Mon Nov 28 2022 1:00 PM 
+- 🎉 [加拿大调查发现，送修电脑或手机，维修人员有不小几率会窥探用户的隐私数据](http://jandan.net/p/111781) | Mon Nov 28 2022 1:00 PM 
     <details><summary>展开描述 ...</summary> 
     冠希老师:这一结论非常有说服力 
     </details> 
 
-- 🎉 [装有黄金舌头的古埃及木乃伊](http://jandan.net/p/111780) | Mon Nov 28 2022 12:37 PM 
+- 🐲 [装有黄金舌头的古埃及木乃伊](http://jandan.net/p/111780) | Mon Nov 28 2022 12:37 PM 
     <details><summary>展开描述 ...</summary> 
     奥西里斯讨厌噪音 
     </details> 
 
-- 🐲 [每天喝8杯水，最为健康吗](http://jandan.net/p/111779) | Mon Nov 28 2022 9:21 AM 
+-  [每天喝8杯水，最为健康吗](http://jandan.net/p/111779) | Mon Nov 28 2022 9:21 AM 
     <details><summary>展开描述 ...</summary> 
     年龄、性别、活动水平和环境气候 
-    </details> 
-
--  [可能会导致口腔溃疡的7个原因](http://jandan.net/p/111777) | Mon Nov 28 2022 6:05 AM 
-    <details><summary>展开描述 ...</summary> 
-    口腔溃疡是一种常见的困扰 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
