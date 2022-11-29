@@ -208,29 +208,29 @@
 ### 美团技术团队
 
 <!-- meituan:START -->
-- 🕯 [深入理解函数式编程（上）](https://tech.meituan.com/2022/10/13/dive-into-functional-programming-01.html) | Thu Oct 13 2022 12:00 AM 
+- 🕯 [大规模异构图召回在美团到店推荐广告的应用](https://tech.meituan.com/2022/11/24/application-of-large-scale-heterogeneous-graph-in-meituan-recommended-ads.html) | Thu Nov 24 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
-    函数式编程是一种历史悠久的编程范式。作为演算法，它的历史可以追溯到现代计算机诞生之前的λ演算，本文希望带大家快速了解函数式编程的历史、基础技术、重要特性和实践法则。在内容层面，主要使用JavaScript语言来描述函数式编程的特性，并以演算规则、语言特性、范式特性、副作用处理等方面作为切入点，通过大量演示示例来讲解这种编程范式。同时，文末列举比较一些此范式的优缺点，供读者参考。因为文章涵盖一些范畴论知识，可能需要其他参考资料一起辅助阅读。 
+    美团到店推荐广告团队在图神经网络的长期落地实践中，思考分析了场景的特点与挑战，针对性地进行了模型设计，并通过大规模训练工具及线上部署优化多次成功落地，带来了线上收入提升。本文主要介绍了大规模图召回技术在美团到店广告场景下的实践经验，包括模型设计思路、模型迭代历程、大规模训练工具以及线上部署性能优化等，希望为从事相关工作的读者带来一些启发。 
     </details> 
 
-- 🤠 [深入理解函数式编程（下）](https://tech.meituan.com/2022/10/13/dive-into-functional-programming-02.html) | Thu Oct 13 2022 12:00 AM 
+- 🤠 [清华大学课题组联合美团研发无人机声波定位技术获顶会大奖](https://tech.meituan.com/2022/11/24/acm-sensys-best-paper-runner-up.html) | Thu Nov 24 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
-    函数式编程是一种历史悠久的编程范式。作为演算法，它的历史可以追溯到现代计算机诞生之前的λ演算，本文希望带大家快速了解函数式编程的历史、基础技术、重要特性和实践法则。在内容层面，主要使用JavaScript语言来描述函数式编程的特性，并以演算规则、语言特性、范式特性、副作用处理等方面作为切入点，通过大量演示示例来讲解这种编程范式。同时，文末列举比较一些此范式的优缺点，供读者参考。因为文章涵盖一些范畴论知识，可能需要其他参考资料一起辅助阅读。 
+    11月6日至9日，第20届国际计算机学会ACM嵌入式网络感知系统大会SenSys在美国波士顿召开。清华大学软件学院何源副教授课题组和美团无人机团队合作论文“麦巢：辅助无人机精准降落的远距离即时声源定位技术”获得了大会最佳论文奖第二名（Best Paper Runner-Up）。 
     </details> 
 
-- 🤠 [数字化新业态下数据安全创新——Token化](https://tech.meituan.com/2022/09/22/token-pii.html) | Thu Sep 22 2022 12:00 AM 
+- 🤠 [美团SemEval2022结构化情感分析跨语言赛道冠军方法总结](https://tech.meituan.com/2022/11/24/mt-speech-at-semeval-2022-task-10-structured-sentiment-analysis.html) | Thu Nov 24 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
-    数据安全最大的挑战是高速扩张前提下，解决数据暴露性问题。Token化让安全成为数据默认属性，让安全性随数据自动扩展，从根本上解决效率和安全合规的矛盾，实现设计安全和默认安全。本文主要介绍了Token化方案、Token化安全性实现以及美团所做的一些工程实践和经验分享。 
+    美团语音交互部针对跨语言结构化情感分析任务中缺少小语种的标注数据、传统方法优化成本高昂的问题，通过利用跨语言预训练语言模型、多任务和数据增强方法在不同语言间实现低成本的迁移，相关方法获得了SemEval 2022结构化情感分析跨语言赛道的冠军。 
     </details> 
 
-- 🚀 [通用目标检测开源框架YOLOv6在美团的量化部署实战](https://tech.meituan.com/2022/09/22/yolov6-quantization-in-meituan.html) | Thu Sep 22 2022 12:00 AM 
+- 🚀 [ACM MM &amp; ECCV 2022 | 美团视觉8篇论文揭秘内容领域的智能科技](https://tech.meituan.com/2022/11/17/acm-mm-eccv-2022.html) | Thu Nov 17 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
-    基于美团目标检测模型开源框架 YOLOv6，本文提供了一种通用的量化部署方案，在保持精度的同时大幅提升了检测的速度，为通用检测的工业化部署探索出一条可行之路，希望能给大家带来一些启发或者帮助。 
+    前不久，美团视觉智能部的8篇论文被多媒体和计算机视觉领域顶会 ACM MM 与 ECCV 收录，本文将快速带你了解这8篇论文的研究成果及其可在内容领域的落地应用。 
     </details> 
 
-- ⚗️ [目标检测开源框架YOLOv6全面升级，更快更准的2.0版本来啦](https://tech.meituan.com/2022/09/15/yolov6-2.0.html) | Thu Sep 15 2022 12:00 AM 
+- ⚗️ [美团外卖搜索基于Elasticsearch的优化实践](https://tech.meituan.com/2022/11/17/elasicsearch-optimization-practice-based-on-run-length-encoding.html) | Thu Nov 17 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
-    近日，美团视觉智能部发布了YOLOv6 2.0版本，本次更新对轻量级网络进行了全面升级，量化版模型 YOLOv6-S 达到了 869 FPS，同时，还推出了综合性能优异的中大型网络（YOLOv6-M/L），丰富了 YOLOv6 网络系列。 
+    美团外卖搜索工程团队在Elasticsearch的优化实践中，基于Location-Based Service（LBS）业务场景对Elasticsearch的查询性能进行优化。该优化基于Run-Length Encoding（RLE）设计了一款高效的倒排索引结构，使检索耗时（TP99）降低了84%。本文从问题分析、技术选型、优化方案等方面进行阐述，并给出最终灰度验证的结论。 
     </details> 
 <!-- meituan:END -->
 
