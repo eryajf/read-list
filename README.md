@@ -401,7 +401,7 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：马斯克指责 Apple，瑞典一国有基金起诉微软与动视暴雪等](https://sspai.com/post/77034) | Tue Nov 29 2022 1:01 AM 
+- 👹 [派早报：苹果撤下推特广告投放，瑞典一国有基金起诉微软与动视暴雪等](https://sspai.com/post/77034) | Tue Nov 29 2022 1:01 AM 
     <details><summary>展开描述 ...</summary> 
     马斯克称推特用户注册达到历史高峰，OpenAI 创造了《我的世界》游玩 AI 等&lt;a href=&quot;https://sspai.com/post/77034&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
