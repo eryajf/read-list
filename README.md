@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [SwiftUI 与 Core Data —— 数据定义](https://juejin.cn/post/7171234002592858126) | Tue Nov 29 2022 12:51 AM 
+- 🤗 [ShareSDK Android端权限说明](https://juejin.cn/post/7171262025719840798) | Tue Nov 29 2022 2:39 AM 
     <details><summary>展开描述 ...</summary> 
-    我们将尝试用新的思路来创建一个 SwiftUI + Core Data 的 app，看看能否避免并改善上篇文章中描述的一些问题。本文将首先探讨如何定义数据。 
+    ShareSDK使用权限情况 权限 权限说明 是否必须 INTERNET 允许应用程序联网 必须 ACCESS_NETWORK_STATE 允许访问网络状态 必须 READ_PHONE_STATE 读 
     </details> 
 
-- 🎡 [指标体系的设计和思考](https://juejin.cn/post/7171228806986858509) | Tue Nov 29 2022 12:30 AM 
+- 🎡 [Jetpack Compose - LayoutModifier （十二）](https://juejin.cn/post/7171251325655580685) | Tue Nov 29 2022 1:58 AM 
     <details><summary>展开描述 ...</summary> 
-    指标，是认识世界的一种方式，而且是快速认识世界的一种有效方式。指标与项目息息相关，在项目中通常有各种指标，来描述对应的对象。在项目推进过程中，指标的定量数据描述，比定性的描述，更加具有说服力。管理学大 
+    Modifier.layout 看下面这段代码 这里的2个Text 在实际展示上 位置和大小都一样，没有区别，放这个例子 其实就是为了给大家展示一下 layout的作用，实际上对于Modifer.si 
     </details> 
 
-- 🕯 [vant4.0 正式发布了，分析其源码学会用 vue3 写一个图片懒加载组件！](https://juejin.cn/post/7171227417246171149) | Tue Nov 29 2022 12:25 AM 
+- 🕯 [用kotlin来开发一个cli工具 | 没用的技能+1](https://juejin.cn/post/7171248904971747341) | Tue Nov 29 2022 1:49 AM 
     <details><summary>展开描述 ...</summary> 
-    1. 学会如何用 vue3 + ts 开发一个 lazyload 组件 2. 学会 `lazyload` 图片懒加载组件其原理 3. 学会使用事件和 IntersectionObserver API 
+    --- theme: smartblue --- # 脚手架 &gt; 脚手架是为了保证各施工过程顺利 
     </details> 
 
-- 🚀 [深入浅出带你学习JBoss中间件常见漏洞](https://juejin.cn/post/7171222400556597284) | Tue Nov 29 2022 12:05 AM 
+- 🚀 [探索Vite的设计和实现、Element Plus 组件库相关技术揭秘、码上掘金版皮影戏 | 酱酱的下午茶第120期](https://juejin.cn/post/7171248463387033631) | Tue Nov 29 2022 1:47 AM 
     <details><summary>展开描述 ...</summary> 
-    本文给大家带来的是JBOSS中间件漏洞的总结，详细讲解一下JBOSS中间件的常见漏洞以及利用方法，本文就着JBOSS中间件的特性来分析该中间件的常见漏洞。 
+    本期下午茶看点：如何实现一个基于WebRTC的音视频通信系统、全解析 ESM 模块语法，出去还是进来都由你说了算、读 RocketMQ 源码，学习并发编程三大神器... 
     </details> 
 
-- 💪 [带你了解Springboot3.0新特性](https://juejin.cn/post/7171218020382015519) | Mon Nov 28 2022 11:48 PM 
+- 💪 [ShareSDK 第三方平台注册指南](https://juejin.cn/post/7171247041413136414) | Tue Nov 29 2022 1:41 AM 
     <details><summary>展开描述 ...</summary> 
-    Spring Boot 3.0 依赖的java 17 并且迁移到了Jakarta命名空间，这是计划将生态依赖JAVA 8 升级到JAVA 17 
+    Android端 平台 开放平台地址 APPkey 申请流程 抖音 https://www.douyin.com/platform/apply/mobile 链接 新浪微博 http://open.w 
     </details> 
 <!-- juejin:END -->
 ### 少数派
