@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [简单瀑布流](https://juejin.cn/post/7171104406317269029) | Mon Nov 28 2022 4:29 PM 
+- 🤗 [SwiftUI 与 Core Data —— 数据定义](https://juejin.cn/post/7171234002592858126) | Tue Nov 29 2022 12:51 AM 
     <details><summary>展开描述 ...</summary> 
-    又称为瀑布流布局，是一种比较经典的网站布局方式，尤其多见于图片较多的页面。常见有两种瀑布流方式。分别为 1. 定宽不定高 2. 定高不定宽 
+    我们将尝试用新的思路来创建一个 SwiftUI + Core Data 的 app，看看能否避免并改善上篇文章中描述的一些问题。本文将首先探讨如何定义数据。 
     </details> 
 
-- 🎡 [夯实算法-行星碰撞](https://juejin.cn/post/7171089082850754574) | Mon Nov 28 2022 3:28 PM 
+- 🎡 [指标体系的设计和思考](https://juejin.cn/post/7171228806986858509) | Tue Nov 29 2022 12:30 AM 
     <details><summary>展开描述 ...</summary> 
-    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第4天，点击查看活动详情 题目：LeetCode 给定一个整数数组 asteroids，表示在同一行的行星。 对于数组中的每一个元素 
+    指标，是认识世界的一种方式，而且是快速认识世界的一种有效方式。指标与项目息息相关，在项目中通常有各种指标，来描述对应的对象。在项目推进过程中，指标的定量数据描述，比定性的描述，更加具有说服力。管理学大 
     </details> 
 
-- 🕯 [🚂🚂🚂 ServiceWorker -&gt; PWA的基石，在线离线都能玩！](https://juejin.cn/post/7171088699164213279) | Mon Nov 28 2022 3:27 PM 
+- 🕯 [vant4.0 正式发布了，分析其源码学会用 vue3 写一个图片懒加载组件！](https://juejin.cn/post/7171227417246171149) | Tue Nov 29 2022 12:25 AM 
     <details><summary>展开描述 ...</summary> 
-    PWA是Progressive Web App的缩写，翻译过来就是渐进式网络应用，它是一种新的网络应用模式，它结合了Web App和Native App的优点 
+    1. 学会如何用 vue3 + ts 开发一个 lazyload 组件 2. 学会 `lazyload` 图片懒加载组件其原理 3. 学会使用事件和 IntersectionObserver API 
     </details> 
 
-- 🚀 [夯实算法-等式方程的可满足性](https://juejin.cn/post/7171084466071437319) | Mon Nov 28 2022 3:12 PM 
+- 🚀 [深入浅出带你学习JBoss中间件常见漏洞](https://juejin.cn/post/7171222400556597284) | Tue Nov 29 2022 12:05 AM 
     <details><summary>展开描述 ...</summary> 
-    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第4天，点击查看活动详情 题目：LeetCode 给定一个由表示变量之间关系的字符串方程组成的数组，每个字符串方程 equation 
+    本文给大家带来的是JBOSS中间件漏洞的总结，详细讲解一下JBOSS中间件的常见漏洞以及利用方法，本文就着JBOSS中间件的特性来分析该中间件的常见漏洞。 
     </details> 
 
-- 💪 [Mysql replace into](https://juejin.cn/post/7171074921185935368) | Mon Nov 28 2022 2:33 PM 
+- 💪 [带你了解Springboot3.0新特性](https://juejin.cn/post/7171218020382015519) | Mon Nov 28 2022 11:48 PM 
     <details><summary>展开描述 ...</summary> 
-    Mysql replace into问题在不同版本之间的差异 主从复制自增列香港的问题。 。 。 
+    Spring Boot 3.0 依赖的java 17 并且迁移到了Jakarta命名空间，这是计划将生态依赖JAVA 8 升级到JAVA 17 
     </details> 
 <!-- juejin:END -->
 ### 少数派
