@@ -792,29 +792,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [奔驰的电动版大G将于2024年中发布](http://jandan.net/p/111784) | Tue Nov 29 2022 3:26 AM 
+- 🚀 [又到年末：如何避免倦怠](http://jandan.net/p/111788) | Tue Nov 29 2022 6:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    振作起来。 
+    </details> 
+
+- 🙉 [创业成功的3个关键步骤](http://jandan.net/p/111787) | Tue Nov 29 2022 5:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    行动起来。 
+    </details> 
+
+- 🎉 [马斯克接盘推特一个月，广告客户跑了一半](http://jandan.net/p/111785) | Tue Nov 29 2022 3:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    对品牌方来说推特已经不安全了。 
+    </details> 
+
+- 🐲 [奔驰的电动版大G将于2024年中发布](http://jandan.net/p/111784) | Tue Nov 29 2022 3:26 AM 
     <details><summary>展开描述 ...</summary> 
     越野探险的未来是电动的。 
     </details> 
 
-- 🙉 [今日好价 1129](http://jandan.net/p/111783) | Tue Nov 29 2022 2:26 AM 
+-  [今日好价 1129](http://jandan.net/p/111783) | Tue Nov 29 2022 2:26 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：45 
-    </details> 
-
-- 🎉 [加拿大调查发现，送修电脑或手机，维修人员有不小几率会窥探用户的隐私数据](http://jandan.net/p/111781) | Mon Nov 28 2022 1:00 PM 
-    <details><summary>展开描述 ...</summary> 
-    冠希老师:这一结论非常有说服力 
-    </details> 
-
-- 🐲 [装有黄金舌头的古埃及木乃伊](http://jandan.net/p/111780) | Mon Nov 28 2022 12:37 PM 
-    <details><summary>展开描述 ...</summary> 
-    奥西里斯讨厌噪音 
-    </details> 
-
--  [每天喝8杯水，最为健康吗](http://jandan.net/p/111779) | Mon Nov 28 2022 9:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    年龄、性别、活动水平和环境气候 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
