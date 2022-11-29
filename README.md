@@ -792,27 +792,27 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [又到年末：如何避免倦怠](http://jandan.net/p/111788) | Tue Nov 29 2022 6:04 AM 
+- 🚀 [药物发现平台：基于代数拓扑学的化合物数据分析方法](http://jandan.net/p/111791) | Tue Nov 29 2022 6:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    药物发现过程可能需要 10 到 15 年，耗资 10 亿美元 
+    </details> 
+
+- 🙉 [不影响食品口味和外观，澳洲墨尔本理工开发了一种人造膳食纤维](http://jandan.net/p/111786) | Tue Nov 29 2022 6:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    可以添加到蛋糕和比萨饼等低纤维食品中，使它们更健康 
+    </details> 
+
+- 🎉 [又到年末：如何避免倦怠](http://jandan.net/p/111788) | Tue Nov 29 2022 6:04 AM 
     <details><summary>展开描述 ...</summary> 
     振作起来。 
     </details> 
 
-- 🙉 [创业成功的3个关键步骤](http://jandan.net/p/111787) | Tue Nov 29 2022 5:35 AM 
+- 🐲 [创业成功的3个关键步骤](http://jandan.net/p/111787) | Tue Nov 29 2022 5:35 AM 
     <details><summary>展开描述 ...</summary> 
     行动起来。 
     </details> 
 
-- 🎉 [马斯克接盘推特一个月，广告客户跑了一半](http://jandan.net/p/111785) | Tue Nov 29 2022 3:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    对品牌方来说推特已经不安全了。 
-    </details> 
-
-- 🐲 [奔驰的电动版大G将于2024年中发布](http://jandan.net/p/111784) | Tue Nov 29 2022 3:26 AM 
-    <details><summary>展开描述 ...</summary> 
-    越野探险的未来是电动的。 
-    </details> 
-
--  [今日好价 1129](http://jandan.net/p/111783) | Tue Nov 29 2022 2:26 AM 
+-  [今日好价 1129](http://jandan.net/p/111783) | Tue Nov 29 2022 5:33 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：45 
     </details> 
