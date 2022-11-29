@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [咖啡地图 | 美洲产地里的牙买加蓝山与夏威夷科纳](https://sspai.com/post/76465) | Fri Oct 28 2022 6:41 AM 
+- 👹 [派早报：马斯克指责 Apple，瑞典一国有基金起诉微软与动视暴雪等](https://sspai.com/post/77034) | Tue Nov 29 2022 1:01 AM 
     <details><summary>展开描述 ...</summary> 
-    美洲产地，可以说是十分丰富，知名的产地比如巴西、哥伦比亚、巴拿马已经着重介绍过了。其他产地有的过于冷门，有的体量不算大。因此我会将它们合并起来，系统的介绍各个产地的情况。核心目的还是想要告诉大家买豆子 ...&lt;a href=&quot;https://sspai.com/post/76465&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    马斯克称推特用户注册达到历史高峰，OpenAI 创造了《我的世界》游玩 AI 等&lt;a href=&quot;https://sspai.com/post/77034&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [自己动手实现 Android 自动化：用 Auto.js 自动复制短信验证码](https://sspai.com/post/76377) | Fri Oct 28 2022 3:30 AM 
+- 🐘 [派评 | 近期值得关注的 App](https://sspai.com/post/77029) | Mon Nov 28 2022 10:04 AM 
     <details><summary>展开描述 ...</summary> 
-    即便是自动化，我也希望能通过代码来完成，而 Auto.js 就是这么一款功能丰富、且允许我们编写代码来实现自动化的 Android 应用。本文介绍如何用 Auto.js 自动复制短信验证码。&lt;a href=&quot;https://sspai.com/post/76377&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/77029&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：Apple 推出新版网页版 iCloud、Spotify 称其将于 2023 年涨价等](https://sspai.com/post/76463) | Fri Oct 28 2022 1:00 AM 
+- 🤭 [我们为什么需要 Matter：飞利浦 Hue 的跨平台联动探索记录](https://sspai.com/post/76922) | Mon Nov 28 2022 8:05 AM 
     <details><summary>展开描述 ...</summary> 
-    Meta 将于明年推出新款消费级虚拟现实头显，尼康发售全新 17-28mm ƒ/2.8 变焦镜头等&lt;a href=&quot;https://sspai.com/post/76463&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    Matter 1.0 正式协议虽已发布，但厂商们还没准备好发布跨平台固件。而我趁着这段时间的空窗期，艰难探索跨平台的联动性，希望可以给你带来一点启示。&lt;a href=&quot;https://sspai.com/post/76922&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [新玩意 125｜少数派的作者们最近买了啥？](https://sspai.com/post/76455) | Thu Oct 27 2022 9:30 AM 
+- 🥸 [App+1 | 你的下一款可穿戴设备，最好支持这个新特性：Health Connect](https://sspai.com/post/77024) | Mon Nov 28 2022 6:37 AM 
     <details><summary>展开描述 ...</summary> 
-    关于栏目为了满足读者们对于《新玩意》栏目加更的需求，机器人特地邀请了Matrix作者们也来聊聊自己近期购买的新奇产品。喜欢本栏目的话，欢迎充电或评论文章来表达自己的喜爱，你的每一次真心夸赞或建议，都是 ...&lt;a href=&quot;https://sspai.com/post/76455&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    经过短暂的前期准备，Health Connect 终于在本月早些时候进入了公开测试阶段。它是如何连接不同健康类应用的？又会给用户和开发者带来什么好处？&lt;a href=&quot;https://sspai.com/post/77024&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🙉 [从零开始做好个人记账，和购物节血拼后遗症说拜拜](https://sspai.com/post/76437) | Thu Oct 27 2022 8:00 AM 
+- 🙉 [九天教会小猫咪「说话」——我家咪咪的求学之旅](https://sspai.com/post/76995) | Mon Nov 28 2022 3:28 AM 
     <details><summary>展开描述 ...</summary> 
-    多年财会经验，带你零基础入门个人记账，实现财富管理的第一步。&lt;a href=&quot;https://sspai.com/post/76437&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/76995&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
