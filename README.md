@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [大家手机套餐用的是什么？哪个性价比较高](https://www.v2ex.com/t/898718#reply5) | Tue Nov 29 2022 2:42 AM
-- 🤗 [四年前端打算转 go 了 大佬们有啥建议吗？](https://www.v2ex.com/t/898689#reply30) | Tue Nov 29 2022 12:31 AM
-- 🎭 [能否对防火墙的 DNS 抢答服务器发起 DDOS 攻击？](https://www.v2ex.com/t/898665#reply5) | Mon Nov 28 2022 4:11 PM
-- 🥷 [如果只考虑赚钱多和快，应该学哪种编程语言？](https://www.v2ex.com/t/898663#reply49) | Mon Nov 28 2022 4:08 PM
-- 🐵 [安卓机彻底关闭美颜吗？自制相机 app 能禁用美颜吗？](https://www.v2ex.com/t/898661#reply2) | Mon Nov 28 2022 3:48 PM<!-- v2ex:END -->
+- 🥸 [大众点评在 Play 市场找不到了](https://www.v2ex.com/t/898730#reply0) | Tue Nov 29 2022 3:13 AM
+- 🤗 [iOS 证书和描述文件申请详情步骤](https://www.v2ex.com/t/898725#reply1) | Tue Nov 29 2022 3:04 AM
+- 🎭 [大家手机套餐用的是什么？哪个性价比较高](https://www.v2ex.com/t/898718#reply21) | Tue Nov 29 2022 2:42 AM
+- 🥷 [四年前端打算转 go 了 大佬们有啥建议吗？](https://www.v2ex.com/t/898689#reply36) | Tue Nov 29 2022 12:31 AM
+- 🐵 [能否对防火墙的 DNS 抢答服务器发起 DDOS 攻击？](https://www.v2ex.com/t/898665#reply5) | Mon Nov 28 2022 4:11 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
