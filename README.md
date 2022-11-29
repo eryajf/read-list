@@ -792,29 +792,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [意识假说：意识是为了统合记忆而存在，自主做出的决定其实是对大脑决策过程的回忆](http://jandan.net/p/111545) | Fri Oct 28 2022 6:36 AM 
+- 🚀 [今日好价 1129](http://jandan.net/p/111783) | Tue Nov 29 2022 2:26 AM 
     <details><summary>展开描述 ...</summary> 
-    自我意识是为了实现记忆过程而进化出来的副产品。 
+    今日带货商品数量：45 
     </details> 
 
-- 🙉 [找到了“时间细胞”：让我们的回忆具有前后顺序](http://jandan.net/p/111544) | Fri Oct 28 2022 6:36 AM 
+- 🙉 [加拿大调查发现，送修电脑或手机，维修人员有不小几率会窥探用户的隐私数据](http://jandan.net/p/111781) | Mon Nov 28 2022 1:00 PM 
     <details><summary>展开描述 ...</summary> 
-    zsbd 
+    冠希老师:这一结论非常有说服力 
     </details> 
 
-- 🎉 [两性员工如何进入工作人际关系网](http://jandan.net/p/111537) | Fri Oct 28 2022 4:25 AM 
+- 🎉 [装有黄金舌头的古埃及木乃伊](http://jandan.net/p/111780) | Mon Nov 28 2022 12:37 PM 
     <details><summary>展开描述 ...</summary> 
-    zsbd 
+    奥西里斯讨厌噪音 
     </details> 
 
-- 🐲 [今日好价 1028](http://jandan.net/p/111546) | Fri Oct 28 2022 4:20 AM 
+- 🐲 [每天喝8杯水，最为健康吗](http://jandan.net/p/111779) | Mon Nov 28 2022 9:21 AM 
     <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：47 
+    年龄、性别、活动水平和环境气候 
     </details> 
 
--  [图论 量子纠错码](http://jandan.net/p/111509) | Thu Oct 27 2022 3:49 PM 
+-  [可能会导致口腔溃疡的7个原因](http://jandan.net/p/111777) | Mon Nov 28 2022 6:05 AM 
     <details><summary>展开描述 ...</summary> 
-    zsbd 
+    口腔溃疡是一种常见的困扰 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
