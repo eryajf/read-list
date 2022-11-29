@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [生产之路](https://www.v2ex.com/t/898786#reply0) | Tue Nov 29 2022 6:19 AM
-- 🤗 [有没有类掘金的英文社区](https://www.v2ex.com/t/898767#reply4) | Tue Nov 29 2022 5:09 AM
-- 🎭 [sql AB， BA 去重问题请教](https://www.v2ex.com/t/898757#reply7) | Tue Nov 29 2022 4:21 AM
-- 🥷 [安卓虚拟定位软件有推荐吗？](https://www.v2ex.com/t/898752#reply11) | Tue Nov 29 2022 3:58 AM
-- 🐵 [html 如何只通过 CSS 控制图片在新窗口打开](https://www.v2ex.com/t/898742#reply5) | Tue Nov 29 2022 3:30 AM<!-- v2ex:END -->
+- 🥸 [除了 rar 有哪些开源免费效果好的压缩格式原生支持恢复记录功能？](https://www.v2ex.com/t/898798#reply1) | Tue Nov 29 2022 7:04 AM
+- 🤗 [云服务器，有没有办法多台服务器共用一个公网 ip](https://www.v2ex.com/t/898792#reply14) | Tue Nov 29 2022 6:54 AM
+- 🎭 [现网的一个 sql 慢查询，不是很懂。](https://www.v2ex.com/t/898787#reply7) | Tue Nov 29 2022 6:21 AM
+- 🥷 [生产之路](https://www.v2ex.com/t/898786#reply0) | Tue Nov 29 2022 6:19 AM
+- 🐵 [有没有类掘金的英文社区](https://www.v2ex.com/t/898767#reply6) | Tue Nov 29 2022 5:09 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
