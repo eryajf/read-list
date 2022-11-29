@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：苹果撤下推特广告投放，瑞典一国有基金起诉微软与动视暴雪等](https://sspai.com/post/77034) | Tue Nov 29 2022 1:01 AM 
+- 👹 [挑战也是机遇，从环境设计实例谈 AI 辅助设计的前景](https://sspai.com/post/77005) | Tue Nov 29 2022 3:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/77005&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派早报：苹果撤下推特广告投放，瑞典一国有基金起诉微软与动视暴雪等](https://sspai.com/post/77034) | Tue Nov 29 2022 1:01 AM 
     <details><summary>展开描述 ...</summary> 
     马斯克称推特用户注册达到历史高峰，OpenAI 创造了《我的世界》游玩 AI 等&lt;a href=&quot;https://sspai.com/post/77034&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派评 | 近期值得关注的 App](https://sspai.com/post/77029) | Mon Nov 28 2022 10:04 AM 
+- 🤭 [派评 | 近期值得关注的 App](https://sspai.com/post/77029) | Mon Nov 28 2022 10:04 AM 
     <details><summary>展开描述 ...</summary> 
     你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/77029&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [我们为什么需要 Matter：飞利浦 Hue 的跨平台联动探索记录](https://sspai.com/post/76922) | Mon Nov 28 2022 8:05 AM 
+- 🥸 [我们为什么需要 Matter：飞利浦 Hue 的跨平台联动探索记录](https://sspai.com/post/76922) | Mon Nov 28 2022 8:05 AM 
     <details><summary>展开描述 ...</summary> 
     Matter 1.0 正式协议虽已发布，但厂商们还没准备好发布跨平台固件。而我趁着这段时间的空窗期，艰难探索跨平台的联动性，希望可以给你带来一点启示。&lt;a href=&quot;https://sspai.com/post/76922&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [App+1 | 你的下一款可穿戴设备，最好支持这个新特性：Health Connect](https://sspai.com/post/77024) | Mon Nov 28 2022 6:37 AM 
+- 🙉 [App+1 | 你的下一款可穿戴设备，最好支持这个新特性：Health Connect](https://sspai.com/post/77024) | Mon Nov 28 2022 6:37 AM 
     <details><summary>展开描述 ...</summary> 
     经过短暂的前期准备，Health Connect 终于在本月早些时候进入了公开测试阶段。它是如何连接不同健康类应用的？又会给用户和开发者带来什么好处？&lt;a href=&quot;https://sspai.com/post/77024&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [九天教会小猫咪「说话」——我家咪咪的求学之旅](https://sspai.com/post/76995) | Mon Nov 28 2022 3:28 AM 
-    <details><summary>展开描述 ...</summary> 
-    Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/76995&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
