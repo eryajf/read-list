@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [前端食堂技术周刊第 61 期：State of JavaScript 2022、Prettier 2.8、Flexbox 交互式指南、JavaScript 可视](https://juejin.cn/post/7171303788098256933) | Tue Nov 29 2022 5:21 AM 
+- 🤗 [使用 nutjs实现前端RPA需求](https://juejin.cn/post/7171060483808559118) | Mon Nov 28 2022 1:37 PM 
     <details><summary>展开描述 ...</summary> 
-    - State of JavaScript 2022 - Prettier 2.8 - Flexbox 交互式指南 - JavaScript 可视化系列文章 - CSS 演变时间轴 
+    前言 在上一节，我们先调研了几种实现模拟点击的几种方案，最终我们决定使用 模拟人工手动操作 的方式来实现我们的需求，下面就带着大家来了解下 nutjs。 
     </details> 
 
-- 🎡 [Flutter Widget 之Actions](https://juejin.cn/post/7171298170041794573) | Tue Nov 29 2022 5:01 AM 
+- 🎡 [手摸手打造类码上掘金在线IDE（六）——沙箱编译（二）](https://juejin.cn/post/7171052227551821854) | Mon Nov 28 2022 1:06 PM 
     <details><summary>展开描述 ...</summary> 
-    在探索Focus和Shortcuts小部件后，我们终于准备很好了解这最后角色 Actions小部件 之前，我们了解到Flutter如何将键盘事件路由到小部件树，从活跃的FocusNode开始 
+    前言 我们上回书说道沙箱编译的vue编译部分，很多jym以为我会就此金盆洗手， 等着东家发完盒饭踏实回家搬砖。 甚至有Jy 略带嘲讽的给我评论道： 我能从他们的字里行间体会到他们在质问我，就这？我那啥 
     </details> 
 
-- 🕯 [【第五届字节跳动青训营 - 寒假专场 Q&amp;A】  🙌🏻 Ask Me Anything！](https://juejin.cn/post/7171281973527838751) | Tue Nov 29 2022 3:57 AM 
+- 🕯 [Electron中如何使用SQLite存储笔记](https://juejin.cn/post/7171042626907406372) | Mon Nov 28 2022 12:28 PM 
     <details><summary>展开描述 ...</summary> 
-    青训营的课程有哪些？如何才能参加？考试不过关会有影响吗？ …… 别担心！请收下这篇为你量身定做的「青训营官方答疑」合集！ 
+    上一篇，我们使用 remirror 实现了一个简单的 markdown 编辑器。接下来，我们要学习如何去存储这些笔记。 
     </details> 
 
-- 🚀 [第五届字节跳动青训营来袭，这个寒假来点不一样的！](https://juejin.cn/post/7171281874357059592) | Tue Nov 29 2022 3:56 AM 
+- 🚀 [TensorFlow2.4 完成 Word2vec 词嵌入训练](https://juejin.cn/post/7171011525551849509) | Mon Nov 28 2022 10:27 AM 
     <details><summary>展开描述 ...</summary> 
-    第五届字节跳动青训营来咯，这个寒假我们一起从学校走进职场、从萌新成长为高手。全程免费，期待与你共赴这场学习之旅~ 
+    本文使用 cpu 版本的 tensorflow 2.4 ，在 shakespeare 数据的基础上使用 Skip-Gram 算法训练词嵌入。 
     </details> 
 
-- 💪 [蚂蚁端智能计算容器](https://juejin.cn/post/7171281819696889886) | Tue Nov 29 2022 3:56 AM 
+- 💪 [Nacos 中的配置文件如何实现加密传输](https://juejin.cn/post/7170964309428666399) | Mon Nov 28 2022 7:24 AM 
     <details><summary>展开描述 ...</summary> 
-    本文是支付宝体验科技沙龙第 3 期-走进蚂蚁端智能技术的回顾系列文章，蚂蚁集团客户端工程师朱木分享了蚂蚁端侧计算容器面临的挑战、思考和设计方案。 
+    小伙伴们知道，Spring Cloud Config 很早就提供了配置文件的加解密功能，并且支持对称加密和非对称加密两种不同的模式。Nacos 作为分布式配置中心+服务注册中心的合体，在配置文件加密这 
     </details> 
 <!-- juejin:END -->
 ### 少数派
