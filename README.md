@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [「更好用」的国际版 app 好在哪？我对比了这 3 款应用](https://sspai.com/post/76710) | Sun Dec 04 2022 3:00 AM 
+- 👹 [[送码] iOS 倒数日应用新选择，让每一天都值得期待：Happy:Days](https://sspai.com/post/77093) | Sun Dec 04 2022 9:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    Happy:Days 是一款新上架的倒数日类应用，在做好基础功能的同时，Happy:Days 还具备精美的界面和差异化的功能，接下来我们不妨看看作为后起之秀的它有何独特之处。&lt;a href=&quot;https://sspai.com/post/77093&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [「更好用」的国际版 app 好在哪？我对比了这 3 款应用](https://sspai.com/post/76710) | Sun Dec 04 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     引子作为几亿人每天花费数小时，拿起数百次的设备，手机这块「小」屏幕背后有着近乎无限的流量。在各大厂商都试图将这份流量的收益最大化的今天，许多App都被逐渐塞入了越来越多的功能和广告，时间流变得肮脏、界 ...&lt;a href=&quot;https://sspai.com/post/76710&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [当谈论可持续时，我们在谈什么？](https://sspai.com/post/77063) | Sat Dec 03 2022 7:00 AM 
+- 🤭 [当谈论可持续时，我们在谈什么？](https://sspai.com/post/77063) | Sat Dec 03 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     可持续话题从来都不是非黑即白的。希望我们都能拥有更好的生活，更好的环境，更好的未来。&lt;a href=&quot;https://sspai.com/post/77063&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [App+1 | Fluent Search：也许微软就是想做这样的一个启动器](https://sspai.com/post/77087) | Sat Dec 03 2022 3:00 AM 
+- 🥸 [App+1 | Fluent Search：也许微软就是想做这样的一个启动器](https://sspai.com/post/77087) | Sat Dec 03 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     在我看来，Fluent Search才是微软「本就应该」做出的产品。&lt;a href=&quot;https://sspai.com/post/77087&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派周报 | 「逃离推特」与去中心化之辩](https://sspai.com/prime/story/pi-weekly-20) | Fri Dec 02 2022 2:31 PM 
+- 🙉 [派周报 | 「逃离推特」与去中心化之辩](https://sspai.com/prime/story/pi-weekly-20) | Fri Dec 02 2022 2:31 PM 
     <details><summary>展开描述 ...</summary> 
     本期周报汇总 11 月 28 日至 12 月 1 日间发布的会员内容，以便会员查阅。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/pi-weekly-20&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
-    </details> 
-
-- 🙉 [本周看什么 | 最近值得一看的一大捆作品](https://sspai.com/post/77080) | Fri Dec 02 2022 9:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    ☕️TL;DR近期佳作推荐：[电影]海贼王：红发歌姬、[英剧]流人第二季、[美剧]犯罪心理第十六季、[电影]塔尔、[韩剧]弱小英雄、[美剧]弗莱斯曼有麻烦了、[国产]风吹半夏、[动画]JOJO的奇妙冒 ...&lt;a href=&quot;https://sspai.com/post/77080&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
