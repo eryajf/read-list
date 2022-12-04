@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [关于阿里 Codeup 的云端 IDEA 是如何实现的？](https://www.v2ex.com/t/900006#reply0) | Sun Dec 04 2022 9:09 AM
-- 🤗 [基于 Go 的开源博客系统，第二款主题来啦！](https://www.v2ex.com/t/900001#reply0) | Sun Dec 04 2022 8:32 AM
-- 🎭 [请教基于 Wifi 探针设备的数据分析统计算法思路？](https://www.v2ex.com/t/899994#reply3) | Sun Dec 04 2022 8:04 AM
-- 🥷 [Next.JS 可以作为 fullstack 框架吗？](https://www.v2ex.com/t/899993#reply6) | Sun Dec 04 2022 8:03 AM
-- 🐵 [Spring Boot3.0 升级，踩坑之旅，附解决方案](https://www.v2ex.com/t/899991#reply0) | Sun Dec 04 2022 7:56 AM<!-- v2ex:END -->
+- 🥸 [公司黄了，目前三个多月没发工资，想开车周游全国，做自媒体，是否可行！](https://www.v2ex.com/t/900016#reply18) | Sun Dec 04 2022 9:48 AM
+- 🤗 [现在怎么实现公众号给用户发消息呢？](https://www.v2ex.com/t/900011#reply3) | Sun Dec 04 2022 9:36 AM
+- 🎭 [PLEX 终身购买有无推荐渠道](https://www.v2ex.com/t/900007#reply2) | Sun Dec 04 2022 9:18 AM
+- 🥷 [关于阿里 Codeup 的云端 IDEA 是如何实现的？](https://www.v2ex.com/t/900006#reply8) | Sun Dec 04 2022 9:09 AM
+- 🐵 [基于 Go 的开源博客系统，第二款主题来啦！](https://www.v2ex.com/t/900001#reply0) | Sun Dec 04 2022 8:32 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
