@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [使用 nutjs实现前端RPA需求](https://juejin.cn/post/7171060483808559118) | Mon Nov 28 2022 1:37 PM 
+- 🤗 [Leaf分布式ID-Leaf原理及优化改进](https://juejin.cn/post/7173213310869831693) | Sun Dec 04 2022 8:54 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 在上一节，我们先调研了几种实现模拟点击的几种方案，最终我们决定使用 模拟人工手动操作 的方式来实现我们的需求，下面就带着大家来了解下 nutjs。 
+    Leaf分布式ID的原理和github上提出的比较好issue，并给出对应的优化代码，注册中心扩展等 
     </details> 
 
-- 🎡 [手摸手打造类码上掘金在线IDE（六）——沙箱编译（二）](https://juejin.cn/post/7171052227551821854) | Mon Nov 28 2022 1:06 PM 
+- 🎡 [CSS常见布局整理](https://juejin.cn/post/7173210437268275230) | Sun Dec 04 2022 8:40 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 我们上回书说道沙箱编译的vue编译部分，很多jym以为我会就此金盆洗手， 等着东家发完盒饭踏实回家搬砖。 甚至有Jy 略带嘲讽的给我评论道： 我能从他们的字里行间体会到他们在质问我，就这？我那啥 
+    一、单列布局 -- 上下固定，中间自适应 效果图： 1、 使用绝对定位实现 2、 使用 flex 实现 二、两列布局 -- 左边固定，右边自适应 效果图： 1、 使用绝对定位实现 &lpar;1&rpar; 左边元素设置 
     </details> 
 
-- 🕯 [Electron中如何使用SQLite存储笔记](https://juejin.cn/post/7171042626907406372) | Mon Nov 28 2022 12:28 PM 
+- 🕯 [Nextjs 自定义注解实现接口权限控制](https://juejin.cn/post/7173208959677890567) | Sun Dec 04 2022 8:35 AM 
     <details><summary>展开描述 ...</summary> 
-    上一篇，我们使用 remirror 实现了一个简单的 markdown 编辑器。接下来，我们要学习如何去存储这些笔记。 
+    当业务接口开发完成之后，正式上线之前还需要对每个接口进行权限控制。比如删除用户只能管理员角色操作，查询全部用户只有管理员有权限等 
     </details> 
 
-- 🚀 [TensorFlow2.4 完成 Word2vec 词嵌入训练](https://juejin.cn/post/7171011525551849509) | Mon Nov 28 2022 10:27 AM 
+- 🚀 [ES6 Reflect](https://juejin.cn/post/7173205921038860319) | Sun Dec 04 2022 8:23 AM 
     <details><summary>展开描述 ...</summary> 
-    本文使用 cpu 版本的 tensorflow 2.4 ，在 shakespeare 数据的基础上使用 Skip-Gram 算法训练词嵌入。 
+    前言   此文总结了Reflect对象的部分语法，对比了与Object方法的差异性，希望对你有用。 语法   Reflect与Math类似，都是JavaScript内置对象，提供了工具方法。 get  
     </details> 
 
-- 💪 [Nacos 中的配置文件如何实现加密传输](https://juejin.cn/post/7170964309428666399) | Mon Nov 28 2022 7:24 AM 
+- 💪 [常见的限流算法分析以及手写实现（计数器、漏斗、令牌桶）](https://juejin.cn/post/7172943304655372325) | Sat Dec 03 2022 3:24 PM 
     <details><summary>展开描述 ...</summary> 
-    小伙伴们知道，Spring Cloud Config 很早就提供了配置文件的加解密功能，并且支持对称加密和非对称加密两种不同的模式。Nacos 作为分布式配置中心+服务注册中心的合体，在配置文件加密这 
+    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第10天，点击查看活动详情 常见的限流算法分析 限流在我们日常生活中经常见到，如火车站门口的栏杆、一些景点的门票只出售一定的数量 等 
     </details> 
 <!-- juejin:END -->
 ### 少数派
