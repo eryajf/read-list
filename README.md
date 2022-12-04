@@ -401,29 +401,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [App Store Awards 2022 年度大奖出炉，我们和获奖开发者聊了聊](https://sspai.com/post/77038) | Tue Nov 29 2022 5:22 AM 
+- 👹 [「更好用」的国际版 app 好在哪？我对比了这 3 款应用](https://sspai.com/post/76710) | Sun Dec 04 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
-    App Store Awards 年度 App 奖项评选结果出炉，中国开发者继续展现精彩表现。&lt;a href=&quot;https://sspai.com/post/77038&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    引子作为几亿人每天花费数小时，拿起数百次的设备，手机这块「小」屏幕背后有着近乎无限的流量。在各大厂商都试图将这份流量的收益最大化的今天，许多App都被逐渐塞入了越来越多的功能和广告，时间流变得肮脏、界 ...&lt;a href=&quot;https://sspai.com/post/76710&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [挑战也是机遇，从环境设计实例谈 AI 辅助设计的前景](https://sspai.com/post/77005) | Tue Nov 29 2022 3:27 AM 
+- 🐘 [当谈论可持续时，我们在谈什么？](https://sspai.com/post/77063) | Sat Dec 03 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
-    Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/77005&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    可持续话题从来都不是非黑即白的。希望我们都能拥有更好的生活，更好的环境，更好的未来。&lt;a href=&quot;https://sspai.com/post/77063&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：苹果撤下推特广告投放，瑞典一国有基金起诉微软与动视暴雪等](https://sspai.com/post/77034) | Tue Nov 29 2022 1:01 AM 
+- 🤭 [App+1 | Fluent Search：也许微软就是想做这样的一个启动器](https://sspai.com/post/77087) | Sat Dec 03 2022 3:00 AM 
     <details><summary>展开描述 ...</summary> 
-    马斯克称推特用户注册达到历史高峰，OpenAI 创造了《我的世界》游玩 AI 等&lt;a href=&quot;https://sspai.com/post/77034&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    在我看来，Fluent Search才是微软「本就应该」做出的产品。&lt;a href=&quot;https://sspai.com/post/77087&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派评 | 近期值得关注的 App](https://sspai.com/post/77029) | Mon Nov 28 2022 10:04 AM 
+- 🥸 [派周报 | 「逃离推特」与去中心化之辩](https://sspai.com/prime/story/pi-weekly-20) | Fri Dec 02 2022 2:31 PM 
     <details><summary>展开描述 ...</summary> 
-    你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/77029&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    本期周报汇总 11 月 28 日至 12 月 1 日间发布的会员内容，以便会员查阅。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/pi-weekly-20&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🙉 [我们为什么需要 Matter：飞利浦 Hue 的跨平台联动探索记录](https://sspai.com/post/76922) | Mon Nov 28 2022 8:05 AM 
+- 🙉 [本周看什么 | 最近值得一看的一大捆作品](https://sspai.com/post/77080) | Fri Dec 02 2022 9:49 AM 
     <details><summary>展开描述 ...</summary> 
-    Matter 1.0 正式协议虽已发布，但厂商们还没准备好发布跨平台固件。而我趁着这段时间的空窗期，艰难探索跨平台的联动性，希望可以给你带来一点启示。&lt;a href=&quot;https://sspai.com/post/76922&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    ☕️TL;DR近期佳作推荐：[电影]海贼王：红发歌姬、[英剧]流人第二季、[美剧]犯罪心理第十六季、[电影]塔尔、[韩剧]弱小英雄、[美剧]弗莱斯曼有麻烦了、[国产]风吹半夏、[动画]JOJO的奇妙冒 ...&lt;a href=&quot;https://sspai.com/post/77080&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
