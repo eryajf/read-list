@@ -792,29 +792,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [药物发现平台：基于代数拓扑学的化合物数据分析方法](http://jandan.net/p/111791) | Tue Nov 29 2022 6:58 AM 
+- 🚀 [美国：谈论经济已没有意义](http://jandan.net/p/111833) | Sun Dec 04 2022 5:56 AM 
     <details><summary>展开描述 ...</summary> 
-    药物发现过程可能需要 10 到 15 年，耗资 10 亿美元 
+    如今经济状况如何？看你往哪看。 
     </details> 
 
-- 🙉 [不影响食品口味和外观，澳洲墨尔本理工开发了一种人造膳食纤维](http://jandan.net/p/111786) | Tue Nov 29 2022 6:25 AM 
+- 🙉 [来自Midjourney的AI艺术画廊](http://jandan.net/p/111831) | Sun Dec 04 2022 5:55 AM 
     <details><summary>展开描述 ...</summary> 
-    可以添加到蛋糕和比萨饼等低纤维食品中，使它们更健康 
+    人们在那里发布正在创作的艺术作品 
     </details> 
 
-- 🎉 [又到年末：如何避免倦怠](http://jandan.net/p/111788) | Tue Nov 29 2022 6:04 AM 
+- 🎉 [2023的潘通年度色彩是由AI工具Midjourney“创造”的](http://jandan.net/p/111830) | Sun Dec 04 2022 5:54 AM 
     <details><summary>展开描述 ...</summary> 
-    振作起来。 
+    还好它不叫MAGA Magenta 
     </details> 
 
-- 🐲 [创业成功的3个关键步骤](http://jandan.net/p/111787) | Tue Nov 29 2022 5:35 AM 
+- 🐲 [今日好价 1204](http://jandan.net/p/111829) | Sun Dec 04 2022 5:53 AM 
     <details><summary>展开描述 ...</summary> 
-    行动起来。 
+    今日带货商品数量：33 
     </details> 
 
--  [今日好价 1129](http://jandan.net/p/111783) | Tue Nov 29 2022 5:33 AM 
+-  [Dezeen：2022年十大摩天大楼](http://jandan.net/p/111828) | Sun Dec 04 2022 5:52 AM 
     <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：45 
+    包括欧盟最高建筑、世界最瘦摩天大楼和世界最高的木质建筑。 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
