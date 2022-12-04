@@ -66,29 +66,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [Vuepress配置评论插件为Artalk](https://wiki.eryajf.net/pages/b74c2b/) | Sun Nov 27 2022 5:33 PM 
+- 🫶 [学习周刊-总第82期-2022年第47周](https://wiki.eryajf.net/pages/273843/) | Fri Dec 02 2022 9:12 AM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第82期-两个生成与解析二维码的go三方库 
+    </details> 
+
+- 🧰 [Vuepress配置评论插件为Artalk](https://wiki.eryajf.net/pages/b74c2b/) | Sun Nov 27 2022 5:33 PM 
     <details><summary>展开描述 ...</summary> 
     把博客平台迁移到 vuepress 以来，之前折腾过好几次评论系统，大多是依赖第三方作为后端存储，导致要么是加载速度不理想，要么是配置费劲儿，于是，我终于下决心，自建评论系统。 
     </details> 
 
-- 🧰 [Windows10利用winsw将应用封装成系统服务后台启动](https://wiki.eryajf.net/pages/d9b595/) | Sat Nov 26 2022 7:39 PM 
+- 🌏 [Windows10利用winsw将应用封装成系统服务后台启动](https://wiki.eryajf.net/pages/d9b595/) | Sat Nov 26 2022 7:39 PM 
     <details><summary>展开描述 ...</summary> 
     接到一个需求，是基于 Jenkins 给 unity 打包，unity 则需要在 Windows 环境下构建，因此实现这个需求的第一步，就是需要解决给主 Jenkins 添加一个 Windows 节点的 slave。而 slave 基于Java启动，如何将这个Java启动的命令放到后台启动，就成了一个问题！ 
     </details> 
 
-- 🌏 [学习周刊-总第81期-2022年第46周](https://wiki.eryajf.net/pages/2ef415/) | Fri Nov 25 2022 9:16 AM 
+- 😎 [学习周刊-总第81期-2022年第46周](https://wiki.eryajf.net/pages/2ef415/) | Fri Nov 25 2022 9:16 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第81期-Mac启用clash之后本地hosts失效的解决办法 
     </details> 
 
-- 😎 [学习周刊-总第80期-2022年第45周](https://wiki.eryajf.net/pages/b442a6/) | Fri Nov 18 2022 9:07 AM 
+- 💂 [学习周刊-总第80期-2022年第45周](https://wiki.eryajf.net/pages/b442a6/) | Fri Nov 18 2022 9:07 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第80期-两个前端代码生成项目与一个go语言时间库 
-    </details> 
-
-- 💂 [结合Multitouch完成我在Mac触摸板上的高效使用](https://wiki.eryajf.net/pages/301514/) | Sat Nov 12 2022 3:32 PM 
-    <details><summary>展开描述 ...</summary> 
-    Mac 的触摸板已经是一大神器，通过辅助软件配置好，将会生发出更大的能量。本文分享记录我的触摸板规则及配置。 
     </details> 
 <!-- eryajf:END -->
 
