@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Parcel-Binder流水线的打包侠](https://juejin.cn/post/7180934643493896252) | Sun Dec 25 2022 4:14 AM 
+- 🤗 [你需要知道的TypeScript](https://juejin.cn/post/7180944389504499768) | Sun Dec 25 2022 4:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 随着时间的推移，typeScript 已经成为现在前端必备的技能，但是由于一些项目历史原因，可能还并不能及时用上这门技术。但是对于个人能力的提升来说，这个又是当下必须要会的以应该学习它为编码保驾 
+    </details> 
+
+- 🎡 [Parcel-Binder流水线的打包侠](https://juejin.cn/post/7180934643493896252) | Sun Dec 25 2022 4:14 AM 
     <details><summary>展开描述 ...</summary> 
     前言 在我们日常开发中，有可能会接触到Parcel，这是一个在android中非常有趣的类，本章将通过对Parcel的作用出发，了解到Parcel类设计的出发点! 
     </details> 
 
-- 🎡 [TypeScript 规范项目错误处理](https://juejin.cn/post/7180928481306345509) | Sun Dec 25 2022 3:54 AM 
+- 🕯 [TypeScript 规范项目错误处理](https://juejin.cn/post/7180928481306345509) | Sun Dec 25 2022 3:54 AM 
     <details><summary>展开描述 ...</summary> 
     在 JavaScript 开发中，通常都不太重视起错误处理，捕获和记录错误对于任何项目的开发周期都是至关重要的。随着 TypeScript 项目开发多了，开始意识到并不真正了解错误处理。经常在项目代码 
     </details> 
 
-- 🕯 [【架构设计】你的类足够“专一”吗](https://juejin.cn/post/7180927613160915003) | Sun Dec 25 2022 3:47 AM 
+- 🚀 [【架构设计】你的类足够“专一”吗](https://juejin.cn/post/7180927613160915003) | Sun Dec 25 2022 3:47 AM 
     <details><summary>展开描述 ...</summary> 
     如果本文对你有帮助的话，救救孩子吧，可以投很多票，投票通道 ，万分感谢呀~~ 前言 软件设计SOLID原则中有一个最基础的原则就是单一职责原则，我想绝大部分的程序员都知道，而且都理解它的意思，甚至觉得 
     </details> 
 
-- 🚀 [跳槽、换房、坚持输出，与你分享我匆忙的 2022～](https://juejin.cn/post/7180925604357734455) | Sun Dec 25 2022 3:39 AM 
+- 💪 [跳槽、换房、坚持输出，与你分享我匆忙的 2022～](https://juejin.cn/post/7180925604357734455) | Sun Dec 25 2022 3:39 AM 
     <details><summary>展开描述 ...</summary> 
     前些日子下班回家的瞬间，忽然想起去年春节还在跟老爸吐露职场的困境和对房子的无奈。哪曾想过了不到半年的时间竟全部解决，令我不禁感叹人生的捉摸不透。 让我姑且花点文字记录下，与你分享我这一年的匆匆忙忙～  
-    </details> 
-
-- 💪 [组合模式，从下班回家说起](https://juejin.cn/post/7180922629451153466) | Sun Dec 25 2022 3:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    组合模式，在执行根组合对象、节点组合对象和叶子对象时都是execute，也就说不管从哪里开始，都可以执行execute，这让组合模式的使用变得简单。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
