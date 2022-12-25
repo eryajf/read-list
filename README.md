@@ -680,29 +680,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [XKCD漫画五则](http://jandan.net/p/112003) | Sun Dec 25 2022 2:46 AM 
+- 🚀 [关于日行万步的研究](http://jandan.net/p/112005) | Sun Dec 25 2022 4:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    多走路对健康大有裨益，但从科学角度我们应该保持适度。 
+    </details> 
+
+- 🙉 [XKCD漫画五则](http://jandan.net/p/112003) | Sun Dec 25 2022 2:46 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🙉 [今日好价 1225](http://jandan.net/p/112002) | Sun Dec 25 2022 2:28 AM 
+- 🎉 [今日好价 1225](http://jandan.net/p/112002) | Sun Dec 25 2022 2:28 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：33 
     </details> 
 
-- 🎉 [Quora：爱因斯坦的数学真的很差吗](http://jandan.net/p/111998) | Sat Dec 24 2022 5:35 AM 
+- 🐲 [Quora：爱因斯坦的数学真的很差吗](http://jandan.net/p/111998) | Sat Dec 24 2022 5:35 AM 
     <details><summary>展开描述 ...</summary> 
     按照一般人的标准，他的数学水平非常不错。 
     </details> 
 
-- 🐲 [摩托车上手指南](http://jandan.net/p/111995) | Sat Dec 24 2022 5:34 AM 
+-  [摩托车上手指南](http://jandan.net/p/111995) | Sat Dec 24 2022 5:34 AM 
     <details><summary>展开描述 ...</summary> 
     如何获得摩托车驾照、买到你的第一辆摩托车 
-    </details> 
-
--  [今日好价 1224](http://jandan.net/p/111997) | Sat Dec 24 2022 5:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：43 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
