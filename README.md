@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2022, 6年技术路, 后疫情时代复盘](https://juejin.cn/post/7180977411633184823) | Sun Dec 25 2022 7:01 AM 
+- 🤗 [2022年终总结-前路坎坷难， 坚持不懈勇往直前！](https://juejin.cn/post/7180992872945041466) | Sun Dec 25 2022 8:01 AM 
+    <details><summary>展开描述 ...</summary> 
+    新的一年又开始了，在我们昂首期待未来的时候，有必要对过去一年的工作做一个回顾，总结以往的经验教训，以待在新的一年有所改进。 
+    </details> 
+
+- 🎡 [春招升级打年兽拿offer，10w+字总结的Java面试题（附答案）够你刷](https://juejin.cn/post/7180990375866138681) | Sun Dec 25 2022 7:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    春招升级打年兽拿offer，献上熬夜整理最新“10w+字总结的Java面试题（附答案）”够你刷！ 其包含的内容模块有：基础、JVM、多线程与高并发、Spring、MyBatis、SpringBoot、 
+    </details> 
+
+- 🕯 [第142期：flutter的状态组件和状态管理](https://juejin.cn/post/7180989491757187132) | Sun Dec 25 2022 7:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    封面图 我们在看电影的时候，往往只关注某个主演的角色，其实那些小角色的表演，远远比主演角色的表演要丰富～ 场景 怎样才能在我们的flutter应用中对用户输入做出响应？比如我们有个图标，我们想让它支持 
+    </details> 
+
+- 🚀 [这一年，我真的回家种地了！](https://juejin.cn/post/7180983684500521016) | Sun Dec 25 2022 7:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    相信很多背井离乡来到一线城市奋斗的小伙伴都开过这种“大不了回家种地”类似的玩笑，而在2022年这个玩笑照进了我的现实生活。倒不是我直接提桶跑路回家全心扛起锄头，而是今年我的父亲身体抱恙干不了农活，所以 
+    </details> 
+
+- 💪 [2022, 6年技术路, 后疫情时代复盘](https://juejin.cn/post/7180977411633184823) | Sun Dec 25 2022 7:01 AM 
     <details><summary>展开描述 ...</summary> 
     又到了每年一度的复盘时间。 转眼一想, 做技术已经 6 年了。 说实话，有点疲惫了。今年整个互联网行业都不好过, 加上疫情的反复不断, 从耳边流出了很多裁员的信息, 股市也比较低迷, 身处底层的我们只 
-    </details> 
-
-- 🎡 [神奇的年终总结](https://juejin.cn/post/7180952706301820988) | Sun Dec 25 2022 5:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    「回顾2022，展望2023，我正在参与2022年终总结征文大赛活动」 年终总结 这算是搭上了掘金年终总结活动的末班车了！当然，这也是我第一次在掘金这个平台上发布年终总结系列的文章 
-    </details> 
-
-- 🕯 [你需要知道的TypeScript](https://juejin.cn/post/7180944389504499768) | Sun Dec 25 2022 4:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 随着时间的推移，typeScript 已经成为现在前端必备的技能，但是由于一些项目历史原因，可能还并不能及时用上这门技术。但是对于个人能力的提升来说，这个又是当下必须要会的以应该学习它为编码保驾 
-    </details> 
-
-- 🚀 [Parcel-Binder流水线的打包侠](https://juejin.cn/post/7180934643493896252) | Sun Dec 25 2022 4:14 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 在我们日常开发中，有可能会接触到Parcel，这是一个在android中非常有趣的类，本章将通过对Parcel的作用出发，了解到Parcel类设计的出发点! 
-    </details> 
-
-- 💪 [TypeScript 规范项目错误处理](https://juejin.cn/post/7180928481306345509) | Sun Dec 25 2022 3:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    在 JavaScript 开发中，通常都不太重视起错误处理，捕获和记录错误对于任何项目的开发周期都是至关重要的。随着 TypeScript 项目开发多了，开始意识到并不真正了解错误处理。经常在项目代码 
     </details> 
 <!-- juejin:END -->
 ### 少数派
