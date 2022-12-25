@@ -695,28 +695,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Trativus Hosting - 以客户为中心的云托管](https://xinquji.com/posts/792322?utm_campaign=xinquji-rss) | Sat Dec 24 2022 6:00 AM
-    <details><summary>展开描述 ...</summary>
-     以客户为中心的云托管
-    </details>
+- 👀 [Trativus Hosting - 以客户为中心的云托管](https://xinquji.com/posts/792322?utm_campaign=xinquji-rss) | Sat Dec 24 2022 6:00 AM 
+    <details><summary>展开描述 ...</summary> 
+     以客户为中心的云托管  
+    </details> 
 
-- 🥷 [Overbooked - 独立合作业主的自托管工作平台](https://xinquji.com/posts/792321?utm_campaign=xinquji-rss) | Sat Dec 24 2022 6:00 AM
-    <details><summary>展开描述 ...</summary>
-     独立合作业主的自托管工作平台
-    </details>
+- 🥷 [Overbooked - 独立合作业主的自托管工作平台](https://xinquji.com/posts/792321?utm_campaign=xinquji-rss) | Sat Dec 24 2022 6:00 AM 
+    <details><summary>展开描述 ...</summary> 
+     独立合作业主的自托管工作平台  
+    </details> 
 
-- 💼 [holr - 与周围的人进行动态群聊](https://xinquji.com/posts/792320?utm_campaign=xinquji-rss) | Sat Dec 24 2022 6:00 AM
-    <details><summary>展开描述 ...</summary>
-     与周围的人进行动态群聊
-    </details>
+- 💼 [holr - 与周围的人进行动态群聊](https://xinquji.com/posts/792320?utm_campaign=xinquji-rss) | Sat Dec 24 2022 6:00 AM 
+    <details><summary>展开描述 ...</summary> 
+     与周围的人进行动态群聊  
+    </details> 
 
-- 🦅 [Hello History: AI ChatBot - 与 AI 生成的历史人物对话](https://xinquji.com/posts/792319?utm_campaign=xinquji-rss) | Sat Dec 24 2022 6:00 AM
-    <details><summary>展开描述 ...</summary>
-     与 AI 生成的历史人物对话
-    </details>
+- 🦅 [Hello History: AI ChatBot - 与 AI 生成的历史人物对话](https://xinquji.com/posts/792319?utm_campaign=xinquji-rss) | Sat Dec 24 2022 6:00 AM 
+    <details><summary>展开描述 ...</summary> 
+     与 AI 生成的历史人物对话  
+    </details> 
 
-- 😺 [Oldest Search - 在 Internet 上搜索最早的结果](https://xinquji.com/posts/792318?utm_campaign=xinquji-rss) | Sat Dec 24 2022 6:00 AM
-    <details><summary>展开描述 ...</summary>
-     在 Internet 上搜索最早的结果
-    </details>
+- 😺 [Oldest Search - 在 Internet 上搜索最早的结果](https://xinquji.com/posts/792318?utm_campaign=xinquji-rss) | Sat Dec 24 2022 6:00 AM 
+    <details><summary>展开描述 ...</summary> 
+     在 Internet 上搜索最早的结果  
+    </details> 
 <!-- xinquji:END -->
