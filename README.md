@@ -175,30 +175,30 @@
 ### 卢冬冬博客
 
 <!-- ldd:START -->
-- 🔥 [湛卢通讯 – lssue #2](https://www.ldd.cc/2292.html) | Sat Aug 27 2022 10:32 AM
-    <details><summary>展开描述 ...</summary>
-    重启少年的浪漫 少年曾经有很多想法，后来都一一归于平淡。 言论 一个好的领导（或者产品经理），应该具备五项技能：SQL、Excel、简洁写作、讲故事、区分优先级。 旁边的程序看完之后想说，最好是个女的… 循此苦旅，直抵群星 苹果发布会提前，迫于开发进度，主力开发不惧背刺怒升顶配开肝！Respect！！！ 推荐 &amp;#8230;&lt;p class=&quot;read-more&quot;&gt; &lt;a class=&quot;ast-button&quot; href=&quot;https://www.ldd.cc/2292.html&quot;&gt; &lt;span class=&quot;screen-reader-text&quot;&gt;湛卢通讯 &amp;#8211; lssue #2&lt;/span&gt; 阅读更多 »&lt;/a&gt;&lt;/p&gt;
-    </details>
+- 🔥 [湛卢通讯 – lssue #2](https://www.ldd.cc/2292.html) | Sat Aug 27 2022 10:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    重启少年的浪漫 少年曾经有很多想法，后来都一一归于平淡。 言论 一个好的领导（或者产品经理），应该具备五项技能：SQL、Excel、简洁写作、讲故事、区分优先级。 旁边的程序看完之后想说，最好是个女的… 循此苦旅，直抵群星 苹果发布会提前，迫于开发进度，主力开发不惧背刺怒升顶配开肝！Respect！！！ 推荐 &amp;#8230;&lt;p class=&quot;read-more&quot;&gt; &lt;a class=&quot;ast-button&quot; href=&quot;https://www.ldd.cc/2292.html&quot;&gt; &lt;span class=&quot;screen-reader-text&quot;&gt;湛卢通讯 &amp;#8211; lssue #2&lt;/span&gt; 阅读更多 »&lt;/a&gt;&lt;/p&gt; 
+    </details> 
 
-- 🔭 [湛卢通讯 – Issue #1](https://www.ldd.cc/2287.html) | Mon Aug 22 2022 10:25 AM
-    <details><summary>展开描述 ...</summary>
-    《湛卢周刊》-&amp;#62; 《湛卢通讯》周刊定义：周刊指的是一星期出版一次的书刊，杂志或文摘。&amp;#160;札记之类的出版物。对于目前的我来说，负担太重，导致实际更新发稿的时候根本不想发布。 今天起，写 Newsletter，写随心所欲的，不受定义的「湛卢通讯」目前是一份自我观察的 Newsletter。 不要给自 &amp;#8230;&lt;p class=&quot;read-more&quot;&gt; &lt;a class=&quot;ast-button&quot; href=&quot;https://www.ldd.cc/2287.html&quot;&gt; &lt;span class=&quot;screen-reader-text&quot;&gt;湛卢通讯 &amp;#8211; Issue #1&lt;/span&gt; 阅读更多 »&lt;/a&gt;&lt;/p&gt;
-    </details>
+- 🔭 [湛卢通讯 – Issue #1](https://www.ldd.cc/2287.html) | Mon Aug 22 2022 10:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    《湛卢周刊》-&amp;#62; 《湛卢通讯》周刊定义：周刊指的是一星期出版一次的书刊，杂志或文摘。&amp;#160;札记之类的出版物。对于目前的我来说，负担太重，导致实际更新发稿的时候根本不想发布。 今天起，写 Newsletter，写随心所欲的，不受定义的「湛卢通讯」目前是一份自我观察的 Newsletter。 不要给自 &amp;#8230;&lt;p class=&quot;read-more&quot;&gt; &lt;a class=&quot;ast-button&quot; href=&quot;https://www.ldd.cc/2287.html&quot;&gt; &lt;span class=&quot;screen-reader-text&quot;&gt;湛卢通讯 &amp;#8211; Issue #1&lt;/span&gt; 阅读更多 »&lt;/a&gt;&lt;/p&gt; 
+    </details> 
 
-- 🏊 [APK汉化手记 &amp; 现金流游戏放出](https://www.ldd.cc/949.html) | Tue Dec 08 2020 10:56 AM
-    <details><summary>展开描述 ...</summary>
-    🔮汉化项目 现金流游戏 Windows 版本 现金流游戏 Android 版本 💡Q&amp;#38;A 为什么是 CASHFLOW GAME ?这是一款经典的财商益智游戏，国内名称多样，现金流游戏/穷爸爸富爸爸/老鼠赛跑，游戏里的东西虽然是虚的，但思路还是可以借鉴的，学会改善自己的财商与现金流，2020年四处暴雷， &amp;#8230;&lt;p class=&quot;read-more&quot;&gt; &lt;a class=&quot;ast-button&quot; href=&quot;https://www.ldd.cc/949.html&quot;&gt; &lt;span class=&quot;screen-reader-text&quot;&gt;APK汉化手记 &amp;#038; 现金流游戏放出&lt;/span&gt; 阅读更多 »&lt;/a&gt;&lt;/p&gt;
-    </details>
+- 🏊 [APK汉化手记 &amp; 现金流游戏放出](https://www.ldd.cc/949.html) | Tue Dec 08 2020 10:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    🔮汉化项目 现金流游戏 Windows 版本 现金流游戏 Android 版本 💡Q&amp;#38;A 为什么是 CASHFLOW GAME ?这是一款经典的财商益智游戏，国内名称多样，现金流游戏/穷爸爸富爸爸/老鼠赛跑，游戏里的东西虽然是虚的，但思路还是可以借鉴的，学会改善自己的财商与现金流，2020年四处暴雷， &amp;#8230;&lt;p class=&quot;read-more&quot;&gt; &lt;a class=&quot;ast-button&quot; href=&quot;https://www.ldd.cc/949.html&quot;&gt; &lt;span class=&quot;screen-reader-text&quot;&gt;APK汉化手记 &amp;#038; 现金流游戏放出&lt;/span&gt; 阅读更多 »&lt;/a&gt;&lt;/p&gt; 
+    </details> 
 
-- 🐻 [中卢周刊（第1期）：内卷的打工人](https://www.ldd.cc/875.html) | Fri Oct 30 2020 7:02 AM
-    <details><summary>展开描述 ...</summary>
-    作者：&amp;#160;卢东东日期：&amp;#160;2020年10月30日 这里记录过去一周，我看到的值得分享的东西，周五发布。对于喜欢无休止探索折腾各类科技问题的我，阮一峰老师创立的科技爱好者周刊无疑让我得益匪浅，于是“西颦东效”，建立了《中卢周刊》。 长久以来，我一直用各种方式，尝试整理我的收藏夹。最近想到，把它写 &amp;#8230;&lt;p class=&quot;read-more&quot;&gt; &lt;a class=&quot;ast-button&quot; href=&quot;https://www.ldd.cc/875.html&quot;&gt; &lt;span class=&quot;screen-reader-text&quot;&gt;中卢周刊（第1期）：内卷的打工人&lt;/span&gt; 阅读更多 »&lt;/a&gt;&lt;/p&gt;
-    </details>
+- 🐻 [中卢周刊（第1期）：内卷的打工人](https://www.ldd.cc/875.html) | Fri Oct 30 2020 7:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    作者：&amp;#160;卢东东日期：&amp;#160;2020年10月30日 这里记录过去一周，我看到的值得分享的东西，周五发布。对于喜欢无休止探索折腾各类科技问题的我，阮一峰老师创立的科技爱好者周刊无疑让我得益匪浅，于是“西颦东效”，建立了《中卢周刊》。 长久以来，我一直用各种方式，尝试整理我的收藏夹。最近想到，把它写 &amp;#8230;&lt;p class=&quot;read-more&quot;&gt; &lt;a class=&quot;ast-button&quot; href=&quot;https://www.ldd.cc/875.html&quot;&gt; &lt;span class=&quot;screen-reader-text&quot;&gt;中卢周刊（第1期）：内卷的打工人&lt;/span&gt; 阅读更多 »&lt;/a&gt;&lt;/p&gt; 
+    </details> 
 
-- 👺 [「湛卢导航」上线：十年一剑，霜刃未试](https://www.ldd.cc/816.html) | Thu Sep 10 2020 4:49 PM
-    <details><summary>展开描述 ...</summary>
-    感谢各位的等待，经过几个月的准备工作后目前新版网址导航已经上线啦！部分书签数据尚未同步完成，此前有用户和站长提交的网站未收录的会尽快处理。关于新版本大家在使用过程中有什么意见或建议欢迎在评论中留言反馈。 一直以来我都使用Chrome的收藏夹来整理网站， 直到收藏的网站越来越多，收藏夹也越来越多， 当想要回头需 &amp;#8230;&lt;p class=&quot;read-more&quot;&gt; &lt;a class=&quot;ast-button&quot; href=&quot;https://www.ldd.cc/816.html&quot;&gt; &lt;span class=&quot;screen-reader-text&quot;&gt;「湛卢导航」上线：十年一剑，霜刃未试&lt;/span&gt; 阅读更多 »&lt;/a&gt;&lt;/p&gt;
-    </details>
+- 👺 [「湛卢导航」上线：十年一剑，霜刃未试](https://www.ldd.cc/816.html) | Thu Sep 10 2020 4:49 PM 
+    <details><summary>展开描述 ...</summary> 
+    感谢各位的等待，经过几个月的准备工作后目前新版网址导航已经上线啦！部分书签数据尚未同步完成，此前有用户和站长提交的网站未收录的会尽快处理。关于新版本大家在使用过程中有什么意见或建议欢迎在评论中留言反馈。 一直以来我都使用Chrome的收藏夹来整理网站， 直到收藏的网站越来越多，收藏夹也越来越多， 当想要回头需 &amp;#8230;&lt;p class=&quot;read-more&quot;&gt; &lt;a class=&quot;ast-button&quot; href=&quot;https://www.ldd.cc/816.html&quot;&gt; &lt;span class=&quot;screen-reader-text&quot;&gt;「湛卢导航」上线：十年一剑，霜刃未试&lt;/span&gt; 阅读更多 »&lt;/a&gt;&lt;/p&gt; 
+    </details> 
 <!-- ldd:END -->
 
 ### 美团技术团队
