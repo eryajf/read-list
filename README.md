@@ -442,11 +442,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [电影中「将碎纸机吐出的碎片拼接起来找线索」的情节在现实中可能吗？](https://daily.zhihu.com/story/9755751) | Sun Dec 04 2022 12:27 AM
-- 🐻 [为什么诸葛亮的历史地位如此之高？](https://daily.zhihu.com/story/9755767) | Sun Dec 04 2022 12:27 AM
-- 🌏 [水母大多有毒，可以食用的海蜇是没有毒的品种还是通过烹饪消去了毒性？](https://daily.zhihu.com/story/9755771) | Sun Dec 04 2022 12:27 AM
-- 🕴 [河西走廊具体位置在哪里，为什么它对于中国的意义非凡？](https://daily.zhihu.com/story/9755773) | Sun Dec 04 2022 12:27 AM
-- 🌮 [月球真是自然形成的吗？](https://daily.zhihu.com/story/9755779) | Sun Dec 04 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [生物种群有寿命吗？](https://daily.zhihu.com/story/9756494) | Sun Dec 25 2022 12:27 AM
+- 🐻 [为什么神农架林区深处不允许前往？](https://daily.zhihu.com/story/9756503) | Sun Dec 25 2022 12:27 AM
+- 🌏 [昆虫为什么要进化出蛹这种不利于生存的形态？](https://daily.zhihu.com/story/9756506) | Sun Dec 25 2022 12:27 AM
+- 🕴 [古代也没便携的热源，卖馄饨的挑子用什么加热开水来下馄饨？](https://daily.zhihu.com/story/9756510) | Sun Dec 25 2022 12:27 AM
+- 🌮 [「冻干技术」的原理是什么，可以应用在哪些方面？](https://daily.zhihu.com/story/9756512) | Sun Dec 25 2022 12:27 AM<!-- zhihu:END -->
 
 ### cnbeta
 
