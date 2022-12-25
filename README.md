@@ -753,27 +753,27 @@
 ### 摄影世界
 
 <!-- photoworld:START -->
-- 🤠 [萌化了！这些猴子天生就是 “莫西干” 发型](https://www.photoworld.com.cn/post/165577) | Tue Oct 25 2022 2:30 AM 
+- 🤠 [2022 首届集美中国新风景摄影十杰：王海江](https://www.photoworld.com.cn/post/168023) | Thu Dec 22 2022 3:10 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 🎃 [霜降 | 山明水净夜来霜，数树深红出浅黄](https://www.photoworld.com.cn/post/165539) | Sun Oct 23 2022 12:00 AM 
+- 🎃 [小米徕卡影像大赛《2022 中国影像辞典》获奖作品揭晓](https://www.photoworld.com.cn/post/168013) | Thu Dec 22 2022 3:08 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 👀 [索尼小屏旗舰 Xperia 5 IV 预售开启，Xperia 1 IV 专属配件同步开售](https://www.photoworld.com.cn/post/165416) | Tue Oct 11 2022 6:54 AM 
+- 👀 [2022 首届集美中国新风景摄影十杰：金炳仁](https://www.photoworld.com.cn/post/167510) | Thu Dec 22 2022 2:37 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 🤔 [吉林：以品牌建设为引擎，促进粮食产业提质增效](https://www.photoworld.com.cn/post/165325) | Sat Oct 08 2022 6:48 AM 
+- 🤔 [2022 首届集美中国新风景摄影十杰：欧阳世忠](https://www.photoworld.com.cn/post/167481) | Thu Dec 22 2022 2:36 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 👀 [2022 重阳：与国结缘，致敬芳华](https://www.photoworld.com.cn/post/165317) | Sat Oct 08 2022 6:47 AM 
+- 👀 [2022 首届集美中国新风景摄影十杰：刘轶恒](https://www.photoworld.com.cn/post/167371) | Thu Dec 22 2022 2:34 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
