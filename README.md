@@ -122,29 +122,29 @@
 ### 独立开发变现周刊
 
 <!-- easyindie:START -->
-- 💂 [独立开发变现周刊（第82期） : 开发一个在线PDF编辑器，年收入50万美元](https://www.ezindie.com/weekly/issue-82) | Fri Dec 02 2022 12:00 AM 
+- 💂 [独立开发变现周刊（第85期） : 一个会员服务的SaaS，月收入2万美金](https://www.ezindie.com/weekly/issue-85) | Fri Dec 23 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。一个会员服务的SaaS，月收入2万美金 
+    </details> 
+
+- 💡 [独立开发变现周刊（第84期） : 一个地理位置API服务，月收入1.5万美元](https://www.ezindie.com/weekly/issue-84) | Fri Dec 16 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。一个地理位置API服务，月收入1.5万美元 
+    </details> 
+
+- 🌋 [独立开发变现周刊（第83期） : 建在Stripe上的应用，年收入70万美元](https://www.ezindie.com/weekly/issue-83) | Fri Dec 09 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。建在Stripe上的应用，年收入70万美元 
+    </details> 
+
+- 🕴 [独立开发变现周刊（第82期） : 开发一个在线PDF编辑器，年收入50万美元](https://www.ezindie.com/weekly/issue-82) | Fri Dec 02 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。开发一个在线PDF编辑器，年收入50万美元 
     </details> 
 
-- 💡 [独立开发变现周刊（第81期） : 开发一个应用来减少屏幕使用时间，月收入2万美元](https://www.ezindie.com/weekly/issue-81) | Fri Nov 25 2022 12:00 AM 
+- 🎊 [独立开发变现周刊（第81期） : 开发一个应用来减少屏幕使用时间，月收入2万美元](https://www.ezindie.com/weekly/issue-81) | Fri Nov 25 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。开发一个应用来减少屏幕使用时间，月收入2万美元 
-    </details> 
-
-- 🌋 [独立开发变现周刊（第80期） : Notion页面转成网站客服小部件，月收入5K美金](https://www.ezindie.com/weekly/issue-80) | Fri Nov 18 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。Notion页面转成网站客服小部件，月收入5K美金 
-    </details> 
-
-- 🕴 [独立开发变现周刊（第79期） : 一个产品页面流灵感网站，每月4.5K美元](https://www.ezindie.com/weekly/issue-79) | Fri Nov 11 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。一个产品页面流灵感网站，每月4.5K美元 
-    </details> 
-
-- 🎊 [独立开发变现周刊（第78期） : 建立一个佣金网站，每月赚4万美元](https://www.ezindie.com/weekly/issue-78) | Fri Nov 04 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。建立一个佣金网站，每月赚4万美元 
     </details> 
 <!-- easyindie:END -->
 
