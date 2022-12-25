@@ -66,29 +66,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第82期-2022年第47周](https://wiki.eryajf.net/pages/273843/) | Fri Dec 02 2022 9:12 AM 
+- 🫶 [学习周刊-总第85期-2022年第50周](https://wiki.eryajf.net/pages/a11db4/) | Fri Dec 23 2022 8:44 PM 
     <details><summary>展开描述 ...</summary> 
-    学习周刊-总第82期-两个生成与解析二维码的go三方库 
+    学习周刊-总第85期-go语言进程管理工具 
     </details> 
 
-- 🧰 [Vuepress配置评论插件为Artalk](https://wiki.eryajf.net/pages/b74c2b/) | Sun Nov 27 2022 5:33 PM 
+- 🧰 [学习周刊-总第84期-2022年第49周](https://wiki.eryajf.net/pages/355e5b/) | Fri Dec 16 2022 6:16 PM 
     <details><summary>展开描述 ...</summary> 
-    把博客平台迁移到 vuepress 以来，之前折腾过好几次评论系统，大多是依赖第三方作为后端存储，导致要么是加载速度不理想，要么是配置费劲儿，于是，我终于下决心，自建评论系统。 
+    学习周刊-总第84期-关于手机号的正则校验应该用严格校验，还是宽松校验呢 
     </details> 
 
-- 🌏 [Windows10利用winsw将应用封装成系统服务后台启动](https://wiki.eryajf.net/pages/d9b595/) | Sat Nov 26 2022 7:39 PM 
+- 🌏 [利用GitHub Actions自动构建go项目的二进制到release](https://wiki.eryajf.net/pages/d16f3f/) | Mon Dec 12 2022 1:10 PM 
     <details><summary>展开描述 ...</summary> 
-    接到一个需求，是基于 Jenkins 给 unity 打包，unity 则需要在 Windows 环境下构建，因此实现这个需求的第一步，就是需要解决给主 Jenkins 添加一个 Windows 节点的 slave。而 slave 基于Java启动，如何将这个Java启动的命令放到后台启动，就成了一个问题！ 
+    最近 ChatGPT 大火，随之一起火起来的，有一大批基于 ChatGPT 编写的工具，我的项目chatgpt-dingtalk也是这批项目中的一个，旨在提供在钉钉群聊中与 ChatGPT 交互的能力。这是一个工具类的项目，已经提供了 docker 一键部署的能力。但是也有人只想通过二进制直接部署的方式进行体验，多平台兼容的二进制构建，早已有成熟的 Actions 支持，本文就来介绍一个实现方案。 
     </details> 
 
-- 😎 [学习周刊-总第81期-2022年第46周](https://wiki.eryajf.net/pages/2ef415/) | Fri Nov 25 2022 9:16 AM 
+- 😎 [chatGPT钉钉群聊交互版-chatgpt-dingtalk](https://wiki.eryajf.net/pages/e85cbc/) | Fri Dec 09 2022 5:47 PM 
     <details><summary>展开描述 ...</summary> 
-    学习周刊-总第81期-Mac启用clash之后本地hosts失效的解决办法 
+    最近chatGPT异常火爆，本项目可以将GPT机器人集成到钉钉群聊中。 
     </details> 
 
-- 💂 [学习周刊-总第80期-2022年第45周](https://wiki.eryajf.net/pages/b442a6/) | Fri Nov 18 2022 9:07 AM 
+- 💂 [学习周刊-总第83期-2022年第48周](https://wiki.eryajf.net/pages/0c1a1b/) | Fri Dec 09 2022 5:41 PM 
     <details><summary>展开描述 ...</summary> 
-    学习周刊-总第80期-两个前端代码生成项目与一个go语言时间库 
+    学习周刊-总第83期-几个chatGPT相关的项目与两个短链项目 
     </details> 
 <!-- eryajf:END -->
 
