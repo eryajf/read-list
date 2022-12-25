@@ -152,9 +152,9 @@
 ### 好工具周刊
 
 <!-- bestxtools:START -->
-- 🕯 [好工具周刊（第 40 期）: Sort Visualizer, Quick Reference, Compare OSS Projects, ...](https://discuss-cn.bestxtools.com/d/102/1) | Thu Dec 01 2022 8:38 AM
-- 🦩 [好工具周刊（第 39 期）: Color Palette Generator, Gradient Maker, Showcode, 中科大测速网站, ...](https://discuss-cn.bestxtools.com/d/99/1) | Thu Nov 24 2022 9:22 AM
-- 🙉 [好工具周刊（第 38 期）: GitHub Business Card, ShortcutFoo, typing.io, Lingva, ...](https://discuss-cn.bestxtools.com/d/94/1) | Thu Nov 17 2022 10:32 AM<!-- bestxtools:END -->
+- 🕯 [好工具周刊（第 42 期）: AnyWebP, VirScan, 聊聊, Maze Generator, 小学生口算题, 田字格字帖生成器, 追踪圣诞老人](https://discuss-cn.bestxtools.com/d/116/1) | Thu Dec 22 2022 2:30 AM
+- 🦩 [好工具周刊本周停一期（2022/12/15）](https://discuss-cn.bestxtools.com/d/114/1) | Thu Dec 15 2022 12:53 AM
+- 🙉 [好工具周刊（第 41 期）: SmartyNames, Rayst Domains, Screenshot.Rocks, Magic Mockups, ...](https://discuss-cn.bestxtools.com/d/105/1) | Thu Dec 08 2022 7:37 AM<!-- bestxtools:END -->
 
 ### 王登科-DK博客
 
