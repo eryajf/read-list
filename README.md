@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [模板方法模式，父类封装流程，子类具体实现](https://juejin.cn/post/7181020575714771001) | Sun Dec 25 2022 9:49 AM 
+- 🤗 [2022年年终总结：安全感是自己给的](https://juejin.cn/post/7181028271016902714) | Sun Dec 25 2022 10:23 AM 
+    <details><summary>展开描述 ...</summary> 
+    「回顾2022，展望2023，我正在参与2022年终总结征文大赛活动」 转眼间，2022年就剩一周了。今天周末，对这一年做个总结，也给2022年画上一个句号。 一、一些感想 这一年是里程碑的一年，三年 
+    </details> 
+
+- 🎡 [既生 synchronized 何生 JUC 的 显式 locks ？](https://juejin.cn/post/7181027840932970554) | Sun Dec 25 2022 10:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    新事物的出现要不是替代老事物，要么就是对老事物的补充 JUC 中所提供的显式 locks 就是对 synchronized 的补充 
+    </details> 
+
+- 🕯 [模板方法模式，父类封装流程，子类具体实现](https://juejin.cn/post/7181020575714771001) | Sun Dec 25 2022 9:49 AM 
     <details><summary>展开描述 ...</summary> 
     模板方法模式,解决的主要业务场景是父类创建确定的子类功能或者任务的执行流程，子类继承的时候可以重写父类的某些方法。 
     </details> 
 
-- 🎡 [云计算运营—02FusionSphere 6.5 服务器虚拟化运营](https://juejin.cn/post/7181006875284996156) | Sun Dec 25 2022 8:59 AM 
+- 🚀 [云计算运营—02FusionSphere 6.5 服务器虚拟化运营](https://juejin.cn/post/7181006875284996156) | Sun Dec 25 2022 8:59 AM 
     <details><summary>展开描述 ...</summary> 
     FusionSphere 6.5 服务器虚拟化运营 1、虚拟化 特性介绍 云操作系统架构 Tool/PV driver&lpar;虚拟机驱动&rpar; Tools是虚拟机的驱动程序。 安装并启动Tools后，用户无需做 
     </details> 
 
-- 🕯 [RocketMQ事务消息-解密事务消息实现原理&lpar;下篇&rpar;](https://juejin.cn/post/7181007000073928759) | Sun Dec 25 2022 8:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    本篇文章将会详细的解析一下，服务端是如何处理那些在指定的事务超时时间内没有处理完成的预消息的，也就是服务端是如何回查客户端的事务状态。 
-    </details> 
-
-- 🚀 [使用Nestjs+mongodb+vue2构建一套完整的应用。](https://juejin.cn/post/7181005259924308025) | Sun Dec 25 2022 8:50 AM 
+- 💪 [使用Nestjs+mongodb+vue2构建一套完整的应用。](https://juejin.cn/post/7181005259924308025) | Sun Dec 25 2022 8:50 AM 
     <details><summary>展开描述 ...</summary> 
     由于业务拖延，目前手上一个纯前端的小项目需要添加后台登陆以及数据保存功能。然后后端开发人员人手不足，所以决定用nodejs写一个后端应用，框架就选用nestjs，数据库就用mongodb。 首先、需要 
-    </details> 
-
-- 💪 [Combine | &lpar;V&rpar; Combine 中的错误处理和 Scheduler](https://juejin.cn/post/7180990074408927292) | Sun Dec 25 2022 7:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    我们将深入了解 Failure 在 Publisher 中的作用。此外，我们还将了解 Combine 中的 Scheduler。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
