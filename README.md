@@ -523,29 +523,29 @@
 ### v2方圆
 
 <!-- v2fy:START -->
-- 😺 [MacBook通过XGP玩女神异闻录5皇家版不踩坑指南](https://v2fy.com/p/2022-10-29-xbox-cloud-gaming-1667041571000/) | Sat Oct 29 2022 12:31 PM 
+- 😺 [分享使用git的实用小技巧](https://v2fy.com/p/2022-10-31-git-tips-1667197196000/) | Sun Dec 25 2022 10:26 AM 
+    <details><summary>展开描述 ...</summary> 
+    title: 分享使用git的实用小技巧 放弃本地更改，使用远端数据覆盖本地数据（以main分支为例） git [&amp;#8230;] 
+    </details> 
+
+- 💃 [折腾Transmission实现固定IP服务器BT做种全过程](https://v2fy.com/p/2022-12-25-bt-1671963832000/) | Sun Dec 25 2022 10:26 AM 
+    <details><summary>展开描述 ...</summary> 
+    title: 折腾Transmission实现固定IP服务器BT做种全过程 通过网络分享资源，是为了让人下载， [&amp;#8230;] 
+    </details> 
+
+- 💡 [MacBook通过XGP玩女神异闻录5皇家版不踩坑指南](https://v2fy.com/p/2022-10-29-xbox-cloud-gaming-1667041571000/) | Sat Oct 29 2022 12:31 PM 
     <details><summary>展开描述 ...</summary> 
     title: MacBook通过XGP玩女神异闻录5皇家版不踩坑指南 XGP是微软Xbox游戏通行证服务，全称 [&amp;#8230;] 
     </details> 
 
-- 💃 [099p5r_女神异闻录_BQB](https://v2fy.com/p/099p5r_%e5%a5%b3%e7%a5%9e%e5%bc%82%e9%97%bb%e5%bd%95_bqb/) | Sun Oct 23 2022 11:43 AM 
+- 🐘 [099p5r_女神异闻录_BQB](https://v2fy.com/p/099p5r_%e5%a5%b3%e7%a5%9e%e5%bc%82%e9%97%bb%e5%bd%95_bqb/) | Sun Oct 23 2022 11:43 AM 
     <details><summary>展开描述 ...</summary> 
     title: 099p5r女神异闻录BQB 以下为收录的表情包库 女神异闻录 下载地址: https://ww [&amp;#8230;] 
     </details> 
 
-- 💡 [Chrome插件英雄榜116《EXIF Viewer Classic》查看网页中摄影图片的拍摄时间光圈快门等Exif参数信息](https://v2fy.com/p/116-exif-viewer-classic-2022-10-22/) | Sat Oct 22 2022 9:03 AM 
+- 🪜 [Chrome插件英雄榜116《EXIF Viewer Classic》查看网页中摄影图片的拍摄时间光圈快门等Exif参数信息](https://v2fy.com/p/116-exif-viewer-classic-2022-10-22/) | Sat Oct 22 2022 9:03 AM 
     <details><summary>展开描述 ...</summary> 
     title: Chrome插件英雄榜116《EXIF Viewer Classic》查看网页中摄影图片的拍摄时 [&amp;#8230;] 
-    </details> 
-
-- 🐘 [Chrome插件英雄榜115《Linkclump》在网页画个长方形，打开长方形内所有超链接](https://v2fy.com/p/115-linkclump-2022-10-22/) | Sat Oct 22 2022 9:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    title: Chrome插件英雄榜115《Linkclump》在网页画个长方形，打开长方形内所有超链接 Li [&amp;#8230;] 
-    </details> 
-
-- 🪜 [098spyxfamily_间谍过家家_BQB](https://v2fy.com/p/098spyxfamily_%e9%97%b4%e8%b0%8d%e8%bf%87%e5%ae%b6%e5%ae%b6_bqb/) | Sun Oct 16 2022 2:54 PM 
-    <details><summary>展开描述 ...</summary> 
-    title: 098spyxfamily间谍过家家BQB 以下为收录的表情包库 下载地址: https://w [&amp;#8230;] 
     </details> 
 <!-- v2fy:END -->
 
