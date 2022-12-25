@@ -24,7 +24,7 @@ jobs:
           retry_count: 2
           rand_seed: "seed1"
           comment_tag_name: "eryajf"
-          feed_list: "https://wiki.eryajf.net/rss.xml"
+          feed_list: "https://eryajf.github.io/rss.xml"
           template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,) [$title]($url) | $date $newline    <details><summary>展开描述 ...</summary> $newline    $description $newline    </details> $newline"
       - name: Pull in 阮一峰 posts
         uses: gautamkrishnar/blog-post-workflow@v1
@@ -179,17 +179,6 @@ jobs:
           rand_seed: "jandan"
           comment_tag_name: "jandan"
           feed_list: "http://jandan.net/feed"
-          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,) [$title]($url) | $date $newline    <details><summary>展开描述 ...</summary> $newline    $description $newline    </details> $newline"
-      - name: Pull in cnBeta posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          max_post_count: 5
-          committer_username: "eryajf"
-          committer_email: "eryajf@163.com"
-          retry_count: 2
-          rand_seed: "cnbeta"
-          comment_tag_name: "cnbeta"
-          feed_list: "https://rss.cnbeta.com/"
           template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,) [$title]($url) | $date $newline    <details><summary>展开描述 ...</summary> $newline    $description $newline    </details> $newline"
       - name: Pull in 摄影世界 posts
         uses: gautamkrishnar/blog-post-workflow@v1
