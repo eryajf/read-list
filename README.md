@@ -496,30 +496,30 @@
 
 
 <!-- xclient:START -->
-- 🦏 [TinkerTool System 8.0.221019 系统深度设置维护工具](https://xclient.info/s/tinkertool-system.html) | Wed Oct 26 2022 12:28 AM
-    <details><summary>展开描述 ...</summary>
-    TinkerTool System 是一款Mac平台的系统深度设置维护工具，以帮助你修改一些系统隐藏的属性,包括系统界面字体,是否不显示隐藏文件等
-    </details>
+- 🦏 [WidsMob Panorama 4.28 图片拼接工具](https://xclient.info/s/widsmob-panorama.html) | Fri Dec 23 2022 2:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    WidsMob Panorama是一款Mac平台上备受好评的图片拼接软件。有了它您可以将多个照片拼接成一张照片。 
+    </details> 
 
--  [Task Office 8.4 多功能办公软件](https://xclient.info/s/task-office.html) | Wed Oct 26 2022 12:27 AM
-    <details><summary>展开描述 ...</summary>
-    Task Office 是Mac平台上的一款办公软件，包含了GTD，做列表，项目和联系人管理的应用程序。旨在使商业计划、日程安排和做事更有效率。
-    </details>
+-  [Sublime Text 4 Build 4147 Dev](https://xclient.info/s/sublime-text.html) | Fri Dec 23 2022 2:18 AM 
+    <details><summary>展开描述 ...</summary> 
+    Sublime Text被称作Mac下的TextMate，而根据其官网介绍，Sublime Text的特点如下：拥有高效、没有干扰的界面，在编辑方面的多选、宏、代码片段等功能，以及很有特色的Minimap。 
+    </details> 
 
-- ⚗️ [TaskPaper 3.9 纯文本GTD工具](https://xclient.info/s/taskpaper.html) | Wed Oct 26 2022 12:26 AM
-    <details><summary>展开描述 ...</summary>
-    TaskPaper是一个令人惊讶的纯文本待办事项工具
-    </details>
+- ⚗️ [VideoProc Converter 4K 5.3 视频格式转换](https://xclient.info/s/videoproc.html) | Fri Dec 23 2022 2:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    VideoProc是Mac平台上的一款视频处理软件，旨在通过全硬件加速来剪切，修剪，合并，调整，转码，编辑4k视频。 
+    </details> 
 
-- 🔥 [SuperDuper! 3.7 Mac数据备份恢复工具](https://xclient.info/s/superduper.html) | Wed Oct 26 2022 12:25 AM
-    <details><summary>展开描述 ...</summary>
-    SuperDuper 是 Mac OS X 平台上的一款数据恢复及备份工具，它可以帮助你恢复你电脑误删除文件，甚至回复你格式化后丢失的数据。
-    </details>
+- 🔥 [Tipard Mac Video Converter Ultimate 10.2.22.15707 视频格式转换器](https://xclient.info/s/tipard-mac-video-converter-ultimate.html) | Fri Dec 23 2022 2:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    Tipard Video Converter Ultimate 可以将任何视频转换为MP4，AVI，MOV，WMV，MP3等，通过强大的编辑功能来裁剪，剪辑，设置3D模式，旋转视频等，以满足您的需求。您还可以提高视频质量在转换之前，通过消除视频噪音和减少视频抖动。 
+    </details> 
 
-- 🌋 [Scapple 1.4.2 思维导图软件](https://xclient.info/s/scapple.html) | Wed Oct 26 2022 12:25 AM
-    <details><summary>展开描述 ...</summary>
-    Scapple 是 Mac OS X 上一款思维导图软件，可创建字数不限的条目，并且条目之间可用直线连接，也可以随意排列，适用于团队项目讨论以及软件开发设计等诸多工作。
-    </details>
+- 🌋 [Joyoshare iPasscode Unlocker 4.3.0 密码解锁器](https://xclient.info/s/joyoshare-ipasscode-unlocker.html) | Fri Dec 23 2022 2:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    Joyoshare iPasscode Unlocker是Mac平台上的一款密码解锁器工具，旨在仅通过几次点击即可在没有密码的情况下从iPhone，iPad到iPod touch上移除屏幕锁定。 
+    </details> 
 <!-- xclient:END -->
 
 ### 不死鸟
