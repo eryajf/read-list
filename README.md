@@ -832,28 +832,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Idiomics - 品牌和博主的成语插图](https://xinquji.com/posts/180778?utm_campaign=xinquji-rss) | Sun Oct 23 2022 6:22 AM 
+- 👀 [Trativus Hosting - 以客户为中心的云托管](https://xinquji.com/posts/792322?utm_campaign=xinquji-rss) | Sat Dec 24 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     品牌和博主的成语插图  
+     以客户为中心的云托管  
     </details> 
 
-- 🥷 [Link transformer - 将链接转换为纯文本以在任何社交媒体上共享](https://xinquji.com/posts/180777?utm_campaign=xinquji-rss) | Sun Oct 23 2022 6:20 AM 
+- 🥷 [Overbooked - 独立合作业主的自托管工作平台](https://xinquji.com/posts/792321?utm_campaign=xinquji-rss) | Sat Dec 24 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     将链接转换为纯文本以在任何社交媒体上共享  
+     独立合作业主的自托管工作平台  
     </details> 
 
-- 💼 [ZoZo App - 您分享最多的内容的键盘快捷键](https://xinquji.com/posts/180776?utm_campaign=xinquji-rss) | Sun Oct 23 2022 6:18 AM 
+- 💼 [holr - 与周围的人进行动态群聊](https://xinquji.com/posts/792320?utm_campaign=xinquji-rss) | Sat Dec 24 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     您分享最多的内容的键盘快捷键  
+     与周围的人进行动态群聊  
     </details> 
 
-- 🦅 [Demand Cloud - 云成本优化的简单企业解决方案](https://xinquji.com/posts/180775?utm_campaign=xinquji-rss) | Sun Oct 23 2022 6:18 AM 
+- 🦅 [Hello History: AI ChatBot - 与 AI 生成的历史人物对话](https://xinquji.com/posts/792319?utm_campaign=xinquji-rss) | Sat Dec 24 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     云成本优化的简单企业解决方案  
+     与 AI 生成的历史人物对话  
     </details> 
 
-- 😺 [glook - 让开发人员轻松搜索网络](https://xinquji.com/posts/180774?utm_campaign=xinquji-rss) | Sun Oct 23 2022 6:16 AM 
+- 😺 [Oldest Search - 在 Internet 上搜索最早的结果](https://xinquji.com/posts/792318?utm_campaign=xinquji-rss) | Sat Dec 24 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     让开发人员轻松搜索网络  
+     在 Internet 上搜索最早的结果  
     </details> 
 <!-- xinquji:END -->
