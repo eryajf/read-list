@@ -493,30 +493,30 @@
 ### 不死鸟
 
 <!-- iui:START -->
-- 🌊 [2022 年 10 月每日分享](https://iui.su/161/) | Sun Oct 09 2022 5:21 AM
-    <details><summary>展开描述 ...</summary>
-    可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。10月9日Noise Fl...
-    </details>
+- 🌊 [2022 年 12月 每日分享](https://iui.su/163/) | Sat Dec 24 2022 9:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。12月24日打字打字@匿名... 
+    </details> 
 
-- 🫣 [macOS 看图软件Picture View](https://iui.su/3688/) | Sun Oct 09 2022 4:56 AM
-    <details><summary>展开描述 ...</summary>
-    Picture View是一款不错的Mac本地看图应用，加载图片快速，没有多余功能，免费使用，可以替代默认看图软件。.dmg下载dmg文件来自Picture View看图官网：https://w...
-    </details>
+- 🫣 [AI写作，文章自成](https://iui.su/3766/) | Thu Dec 22 2022 9:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    「秘塔写作猫」是一款集AI写作、多人协作、文本校对、改写润色等功能为一体的AI原生内容创作平台。适合各类写作场景及人群，如作家、写手或律师、编辑，以及大学生、职场人士等。官网https://xi... 
+    </details> 
 
-- 🌜 [crazy games网页小游戏](https://iui.su/1988/) | Sat Oct 08 2022 2:53 AM
-    <details><summary>展开描述 ...</summary>
-    crazy games，一个类似4399的网页游戏平台，游戏的丰富性和可玩性要好很多，所有游戏统统免费，由于是国外网站，部分稍微大一点的网页游戏加载时间较长，可以等待片刻。官网https://w...
-    </details>
+- 🌜 [AnyViewer远程控制](https://iui.su/2700/) | Wed Dec 21 2022 9:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    AnyViewer是傲梅科技推出的多平台远程控制软件，可以免费、安全地远程控制电脑。免费版本有限速，目前暂无Mac版本。WindowsApp StoreAndroid下载地址来自：AnyView... 
+    </details> 
 
-- 🏊 [Microsoft Store 应用免账户下载](https://iui.su/1890/) | Tue Oct 04 2022 1:54 PM
-    <details><summary>展开描述 ...</summary>
-    在最新的微软商店中，微软要求用户下载商店的应用需登陆账户方可下载。这对一些从不使用微软账户且应用必须依赖商店下载的用户带来了困扰。GetStoreApp，绕开了微软商店官方提供的应用下载渠道。用...
-    </details>
+- 🏊 [Windows装系统必看](https://iui.su/2954/) | Wed Dec 14 2022 12:05 PM 
+    <details><summary>展开描述 ...</summary> 
+    Windows系统下载Latest10快速获取原版windows系统镜像itellyou十余年持续提供可靠的原版系统sysmini提供极简Windows系统下载pggho青苹果gho系统镜像下载... 
+    </details> 
 
-- 🚦 [悦录 - 免费语音转写app](https://iui.su/3600/) | Tue Oct 04 2022 1:38 PM
-    <details><summary>展开描述 ...</summary>
-    悦录 是原i笛云听写改名后的语音转写app，自然语言处理、声纹识别、语音识别等核心语音技术，实现了录音器械级别的语音质量，可以满足您在知识学习、采访录音、交谈对话、实时笔记等多种场景下的录音转文...
-    </details>
+- 🚦 [磁力搜索网站](https://iui.su/908/) | Tue Dec 13 2022 12:33 PM 
+    <details><summary>展开描述 ...</summary> 
+    不死鸟&lpar;iui.su&rpar;不提供磁力资源搜索服务，本页仅做导航索引用途！吃粥搜饭今麦郎麦当劳必胜客肯德基赛百味海底捞汉堡王真功夫星巴克德克士最多关注赚零花钱免费影视免费离线离线神器资源搜索引擎快速投... 
+    </details> 
 <!-- iui:END -->
 
 
