@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [讨论：开源项目的 customization](https://www.v2ex.com/t/904585#reply2) | Sun Dec 25 2022 7:56 AM
-- 🤗 [阿里云发布 12 月 18 日香港 Region C 可用区服务中断故障报告](https://www.v2ex.com/t/904584#reply0) | Sun Dec 25 2022 7:55 AM
-- 🎭 [K40s 刷了 PixelExperience os 后续，解决 NFC 刷门禁问题](https://www.v2ex.com/t/904577#reply0) | Sun Dec 25 2022 7:01 AM
-- 🥷 [X-UI 证书三个月到期后不会自动续怎么解决](https://www.v2ex.com/t/904569#reply3) | Sun Dec 25 2022 6:16 AM
-- 🐵 [一年半 Java 经验，想转行嵌入式。](https://www.v2ex.com/t/904566#reply7) | Sun Dec 25 2022 5:47 AM<!-- v2ex:END -->
+- 🥸 [请教中台项目的一些问题？](https://www.v2ex.com/t/904594#reply0) | Sun Dec 25 2022 9:05 AM
+- 🤗 [讨论：开源项目的 customization](https://www.v2ex.com/t/904585#reply5) | Sun Dec 25 2022 7:56 AM
+- 🎭 [阿里云发布 12 月 18 日香港 Region C 可用区服务中断故障报告](https://www.v2ex.com/t/904584#reply2) | Sun Dec 25 2022 7:55 AM
+- 🥷 [K40s 刷了 PixelExperience os 后续，解决 NFC 刷门禁问题](https://www.v2ex.com/t/904577#reply0) | Sun Dec 25 2022 7:01 AM
+- 🐵 [X-UI 证书三个月到期后不会自动续怎么解决](https://www.v2ex.com/t/904569#reply4) | Sun Dec 25 2022 6:16 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
