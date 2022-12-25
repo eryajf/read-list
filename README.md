@@ -401,29 +401,41 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [[送码] iOS 倒数日应用新选择，让每一天都值得期待：Happy:Days](https://sspai.com/post/77093) | Sun Dec 04 2022 9:11 AM 
+- 👹 [找到基础与关键，让保持心流不再是难事](https://sspai.com/post/77435) | Sat Dec 24 2022 9:20 AM 
     <details><summary>展开描述 ...</summary> 
-    Happy:Days 是一款新上架的倒数日类应用，在做好基础功能的同时，Happy:Days 还具备精美的界面和差异化的功能，接下来我们不妨看看作为后起之秀的它有何独特之处。&lt;a href=&quot;https://sspai.com/post/77093&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    &lt;p&gt;欢迎来到《创造心流》的第三步：获取并保持心流。&lt;/p&gt;
+&lt;p&gt;在前一篇中，我们介绍了启动心流你必须掌握的关键模型：执行意图和 WOOP 模型，带着你完成了必要的准备工作，用按下 Cubi 的大按钮作为行动触发器，啪嗒一下，马上开始。这一篇我们会带着你正式踏入心流的领地，开展一段奇妙的心灵奇旅。&lt;/p&gt;
+&lt;p&gt;本篇同样会分成理论和实践 2 个部分。在理论部分，你将会了解心流的心理基础和生理基础。在实践部分，我们会告诉你心流的前、中、后 3 个阶段要如何做，才能达到最佳效果&lt;/p&gt;
+&lt;p&gt;理论部分：&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;心流的心理基础&lt;/li&gt;
+    &lt;li&gt;心流的生理基础&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;实践部分：&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;心流前期：大脑热身&lt;/li&gt;
+    &lt;li&gt;心流中期：保持流动&lt;/li&gt;
+    &lt;li&gt;心流后期：正确退出&lt;/li&gt;&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/post/77435&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为付费栏目文章，出自&lt;a href=&quot;https://sspai.com/series/290&quot; target=&quot;_blank&quot;&gt;《心流管理魔方》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🐘 [「更好用」的国际版 app 好在哪？我对比了这 3 款应用](https://sspai.com/post/76710) | Sun Dec 04 2022 3:00 AM 
+- 🐘 [心动的信号：人的心脏为什么会跳动？​](https://sspai.com/post/77452) | Sat Dec 24 2022 6:36 AM 
     <details><summary>展开描述 ...</summary> 
-    引子作为几亿人每天花费数小时，拿起数百次的设备，手机这块「小」屏幕背后有着近乎无限的流量。在各大厂商都试图将这份流量的收益最大化的今天，许多App都被逐渐塞入了越来越多的功能和广告，时间流变得肮脏、界 ...&lt;a href=&quot;https://sspai.com/post/76710&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    人的心脏为什么会跳动？在工作中，我更多时间考虑的是「心脏为什么不跳了？」，从来没有患者或家属问「为什么他/她的心脏能跳动」。学了这么多年，想通过浅显易懂的语言把「心跳」描述出来，真不是一件简单的事情。 ...&lt;a href=&quot;https://sspai.com/post/77452&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [当谈论可持续时，我们在谈什么？](https://sspai.com/post/77063) | Sat Dec 03 2022 7:00 AM 
+- 🤭 [本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/77443) | Fri Dec 23 2022 10:24 AM 
     <details><summary>展开描述 ...</summary> 
-    可持续话题从来都不是非黑即白的。希望我们都能拥有更好的生活，更好的环境，更好的未来。&lt;a href=&quot;https://sspai.com/post/77063&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    ☕️TL;DR近期佳作推荐：[电影]利刃出鞘2、[日剧]弥留之国的爱丽丝第二季、[美剧]1923、[西班牙]微笑符、[英剧]利特维年科、[挪威]圣诞风暴几则精彩预告：《哆啦A梦大雄与天空的理想乡》公布 ...&lt;a href=&quot;https://sspai.com/post/77443&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [App+1 | Fluent Search：也许微软就是想做这样的一个启动器](https://sspai.com/post/77087) | Sat Dec 03 2022 3:00 AM 
+- 🥸 [多任务与窗口管理游刃有余：我是这样使用 macOS 台前调度的](https://sspai.com/post/77440) | Fri Dec 23 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
-    在我看来，Fluent Search才是微软「本就应该」做出的产品。&lt;a href=&quot;https://sspai.com/post/77087&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    从尝鲜到安利，这是我对 macOS 上多任务处理和台前调度的思考。&lt;a href=&quot;https://sspai.com/post/77440&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🙉 [派周报 | 「逃离推特」与去中心化之辩](https://sspai.com/prime/story/pi-weekly-20) | Fri Dec 02 2022 2:31 PM 
+- 🙉 [App+1 | iOS 没有「分身」如何隐藏应用？场景化、一键式的解决方案：Cloak](https://sspai.com/post/77439) | Fri Dec 23 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
-    本期周报汇总 11 月 28 日至 12 月 1 日间发布的会员内容，以便会员查阅。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/pi-weekly-20&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
+    对至今没有多用户支持的 iOS 而言，Cloak 提供了一种相对简便的应用隐藏解决方案。&lt;a href=&quot;https://sspai.com/post/77439&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
