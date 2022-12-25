@@ -332,7 +332,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [阿里云发的公告：关于阿里云香港 Region 可用区 C 服务中断事件的说明](https://www.v2ex.com/t/904600#reply2) | Sun Dec 25 2022 9:47 AM
+- 🥸 [阿里云发的公告：关于阿里云香港 Region 可用区 C 服务中断事件的说明](https://www.v2ex.com/t/904600#reply7) | Sun Dec 25 2022 9:47 AM
 - 🤗 [请教中台项目的一些问题？](https://www.v2ex.com/t/904594#reply2) | Sun Dec 25 2022 9:05 AM
 - 🎭 [讨论：开源项目的 customization](https://www.v2ex.com/t/904585#reply7) | Sun Dec 25 2022 7:56 AM
 - 🥷 [阿里云发布 12 月 18 日香港 Region C 可用区服务中断故障报告](https://www.v2ex.com/t/904584#reply3) | Sun Dec 25 2022 7:55 AM
