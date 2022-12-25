@@ -454,11 +454,11 @@
 
 
 <!-- iplaysoft:START -->
-- 🧐 [谷歌翻译中国版停服！教你解决修复 Chrome 浏览器无法翻译网页的问题方法教程](https://www.iplaysoft.com/fix-chrome-translate.html) | Thu Oct 06 2022 11:20 AM
-- 🧑‍🏫 [OBS Studio 最强免费直播软件 - 开源跨平台电脑录屏直播推流工具 &lpar;专业主播 UP 入门必备&rpar;](https://www.iplaysoft.com/obs-studio.html) | Fri Sep 30 2022 9:30 PM
-- 🥰 [Parallels Desktop 18 激活码 - 苹果 Mac 最新版 PD 虚拟机下载 &lpar;支持Win11/macOS Ventura&rpar;](https://www.iplaysoft.com/parallels-desktop.html) | Tue Sep 27 2022 12:00 PM
-- 💻 [金山云技术体 - 免费可商用中文字体下载！现代科技风格 / 适合制作 PPT 海报 LOGO 设计](https://www.iplaysoft.com/kingsoft-cloud-tech-font.html) | Mon Sep 26 2022 1:52 PM
-- 🎃 [Windows 11 22H2 &lpar;2022&rpar; 正式版新功能特性汇总！升级前必看](https://www.iplaysoft.com/p/win11-22h2-features) | Sun Sep 25 2022 6:52 PM<!-- iplaysoft:END -->
+- 🧐 [国货之光 5 折起，40+ 热门正版软件限时大减价！勿错过！](https://www.iplaysoft.com/news/5804) | Fri Dec 23 2022 9:37 AM
+- 🧑‍🏫 [微信键盘正式版下载 - 官方“御用”的手机输入法！拼音五笔手写语音 / 融合微信生态](https://www.iplaysoft.com/wetype.html) | Tue Dec 20 2022 11:03 AM
+- 🥰 [劲爆！Epic 再次连续 15 天免费送游戏！每天“白嫖”一款限免正版 / 领取后永久拥有](https://www.iplaysoft.com/epic-free-games.html) | Sat Dec 17 2022 11:05 AM
+- 💻 [Cubox 多平台收藏夹 - 将分散的网络内容收集并整合管理！集中阅读与全文搜索](https://www.iplaysoft.com/cubox.html) | Wed Dec 14 2022 6:43 PM
+- 🎃 [小米迷你主机发布！巴掌大的桌面神器 / 比 Intel NUC 还小 / 2799 元起](https://www.iplaysoft.com/p/xiaomi-minipc) | Wed Dec 14 2022 10:49 AM<!-- iplaysoft:END -->
 
 ### 精品Mac应用
 
