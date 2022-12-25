@@ -523,30 +523,30 @@
 ### v2方圆
 
 <!-- v2fy:START -->
-- 😺 [如何用macOS玩转Linux？ macOS配置Paralles 安装的 ubuntu20.04 arm64 并通过iTerm ssh自动操作虚拟机](https://v2fy.com/p/2022-09-30-parallels-1664531254000/) | Fri Sep 30 2022 9:54 AM
-    <details><summary>展开描述 ...</summary>
-    title: 如何用macOS玩转Linux？ macOS配置Paralles 安装的 ubuntu20.04 [&amp;#8230;]
-    </details>
+- 😺 [MacBook通过XGP玩女神异闻录5皇家版不踩坑指南](https://v2fy.com/p/2022-10-29-xbox-cloud-gaming-1667041571000/) | Sat Oct 29 2022 12:31 PM 
+    <details><summary>展开描述 ...</summary> 
+    title: MacBook通过XGP玩女神异闻录5皇家版不踩坑指南 XGP是微软Xbox游戏通行证服务，全称 [&amp;#8230;] 
+    </details> 
 
-- 💃 [获取Windows商店app离线安装包](https://v2fy.com/p/2022-08-30-mic-1661837657000/) | Tue Aug 30 2022 5:52 AM
-    <details><summary>展开描述 ...</summary>
-    title: 获取Windows商店app离线安装包 推荐在线解析小工具 https://store.rg-a [&amp;#8230;]
-    </details>
+- 💃 [099p5r_女神异闻录_BQB](https://v2fy.com/p/099p5r_%e5%a5%b3%e7%a5%9e%e5%bc%82%e9%97%bb%e5%bd%95_bqb/) | Sun Oct 23 2022 11:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    title: 099p5r女神异闻录BQB 以下为收录的表情包库 女神异闻录 下载地址: https://ww [&amp;#8230;] 
+    </details> 
 
-- 💡 [用搜索Lite移除广告,优化安卓Color OS搜索体验](https://v2fy.com/p/2022-07-31-search-lite-1659257623000/) | Sun Jul 31 2022 9:45 AM
-    <details><summary>展开描述 ...</summary>
-    title: 用搜索Lite移除广告,优化安卓Color OS搜索体验 我前两年换安卓一加8，是因为iOS太封 [&amp;#8230;]
-    </details>
+- 💡 [Chrome插件英雄榜116《EXIF Viewer Classic》查看网页中摄影图片的拍摄时间光圈快门等Exif参数信息](https://v2fy.com/p/116-exif-viewer-classic-2022-10-22/) | Sat Oct 22 2022 9:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    title: Chrome插件英雄榜116《EXIF Viewer Classic》查看网页中摄影图片的拍摄时 [&amp;#8230;] 
+    </details> 
 
-- 🐘 [轻松从微软服务器高速下载各种版本的Windows镜像](https://v2fy.com/p/2022-07-18-download-windows-1658156978000/) | Mon Jul 18 2022 3:24 PM
-    <details><summary>展开描述 ...</summary>
-    title: 轻松从微软服务器高速下载各种版本的Windows镜像 网站地址：https://uupdump. [&amp;#8230;]
-    </details>
+- 🐘 [Chrome插件英雄榜115《Linkclump》在网页画个长方形，打开长方形内所有超链接](https://v2fy.com/p/115-linkclump-2022-10-22/) | Sat Oct 22 2022 9:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    title: Chrome插件英雄榜115《Linkclump》在网页画个长方形，打开长方形内所有超链接 Li [&amp;#8230;] 
+    </details> 
 
-- 🪜 [Chrome插件英雄榜114《WordPress SideBar》为WordPress网站添加类似GitBook的侧边栏目录](https://v2fy.com/p/114-wordpress-sidebar-2022-07-10/) | Sun Jul 10 2022 4:25 AM
-    <details><summary>展开描述 ...</summary>
-    title: Chrome插件英雄榜114《WordPress SideBar》为WordPress网站添加类 [&amp;#8230;]
-    </details>
+- 🪜 [098spyxfamily_间谍过家家_BQB](https://v2fy.com/p/098spyxfamily_%e9%97%b4%e8%b0%8d%e8%bf%87%e5%ae%b6%e5%ae%b6_bqb/) | Sun Oct 16 2022 2:54 PM 
+    <details><summary>展开描述 ...</summary> 
+    title: 098spyxfamily间谍过家家BQB 以下为收录的表情包库 下载地址: https://w [&amp;#8230;] 
+    </details> 
 <!-- v2fy:END -->
 
 
