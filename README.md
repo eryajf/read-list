@@ -66,30 +66,30 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第85期-2022年第50周](https://wiki.eryajf.net/pages/a11db4/) | Fri Dec 23 2022 8:44 PM
-    <details><summary>展开描述 ...</summary>
-    学习周刊-总第85期-go语言进程管理工具
-    </details>
+- 🫶 [学习周刊-总第85期-2022年第50周](https://wiki.eryajf.net/pages/a11db4/) | Fri Dec 23 2022 8:44 PM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第85期-go语言进程管理工具 
+    </details> 
 
-- 🧰 [学习周刊-总第84期-2022年第49周](https://wiki.eryajf.net/pages/355e5b/) | Fri Dec 16 2022 6:16 PM
-    <details><summary>展开描述 ...</summary>
-    学习周刊-总第84期-关于手机号的正则校验应该用严格校验，还是宽松校验呢
-    </details>
+- 🧰 [学习周刊-总第84期-2022年第49周](https://wiki.eryajf.net/pages/355e5b/) | Fri Dec 16 2022 6:16 PM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第84期-关于手机号的正则校验应该用严格校验，还是宽松校验呢 
+    </details> 
 
-- 🌏 [利用GitHub Actions自动构建go项目的二进制到release](https://wiki.eryajf.net/pages/d16f3f/) | Mon Dec 12 2022 1:10 PM
-    <details><summary>展开描述 ...</summary>
-    最近 ChatGPT 大火，随之一起火起来的，有一大批基于 ChatGPT 编写的工具，我的项目chatgpt-dingtalk也是这批项目中的一个，旨在提供在钉钉群聊中与 ChatGPT 交互的能力。这是一个工具类的项目，已经提供了 docker 一键部署的能力。但是也有人只想通过二进制直接部署的方式进行体验，多平台兼容的二进制构建，早已有成熟的 Actions 支持，本文就来介绍一个实现方案。
-    </details>
+- 🌏 [利用GitHub Actions自动构建go项目的二进制到release](https://wiki.eryajf.net/pages/d16f3f/) | Mon Dec 12 2022 1:10 PM 
+    <details><summary>展开描述 ...</summary> 
+    最近 ChatGPT 大火，随之一起火起来的，有一大批基于 ChatGPT 编写的工具，我的项目chatgpt-dingtalk也是这批项目中的一个，旨在提供在钉钉群聊中与 ChatGPT 交互的能力。这是一个工具类的项目，已经提供了 docker 一键部署的能力。但是也有人只想通过二进制直接部署的方式进行体验，多平台兼容的二进制构建，早已有成熟的 Actions 支持，本文就来介绍一个实现方案。 
+    </details> 
 
-- 😎 [chatGPT钉钉群聊交互版-chatgpt-dingtalk](https://wiki.eryajf.net/pages/e85cbc/) | Fri Dec 09 2022 5:47 PM
-    <details><summary>展开描述 ...</summary>
-    最近chatGPT异常火爆，本项目可以将GPT机器人集成到钉钉群聊中。
-    </details>
+- 😎 [chatGPT钉钉群聊交互版-chatgpt-dingtalk](https://wiki.eryajf.net/pages/e85cbc/) | Fri Dec 09 2022 5:47 PM 
+    <details><summary>展开描述 ...</summary> 
+    最近chatGPT异常火爆，本项目可以将GPT机器人集成到钉钉群聊中。 
+    </details> 
 
-- 💂 [学习周刊-总第83期-2022年第48周](https://wiki.eryajf.net/pages/0c1a1b/) | Fri Dec 09 2022 5:41 PM
-    <details><summary>展开描述 ...</summary>
-    学习周刊-总第83期-几个chatGPT相关的项目与两个短链项目
-    </details>
+- 💂 [学习周刊-总第83期-2022年第48周](https://wiki.eryajf.net/pages/0c1a1b/) | Fri Dec 09 2022 5:41 PM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第83期-几个chatGPT相关的项目与两个短链项目 
+    </details> 
 <!-- eryajf:END -->
 
 ### 酷壳
@@ -122,30 +122,30 @@
 ### 独立开发变现周刊
 
 <!-- easyindie:START -->
-- 💂 [独立开发变现周刊（第85期） : 一个会员服务的SaaS，月收入2万美金](https://www.ezindie.com/weekly/issue-85) | Fri Dec 23 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。一个会员服务的SaaS，月收入2万美金
-    </details>
+- 💂 [独立开发变现周刊（第85期） : 一个会员服务的SaaS，月收入2万美金](https://www.ezindie.com/weekly/issue-85) | Fri Dec 23 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。一个会员服务的SaaS，月收入2万美金 
+    </details> 
 
-- 💡 [独立开发变现周刊（第84期） : 一个地理位置API服务，月收入1.5万美元](https://www.ezindie.com/weekly/issue-84) | Fri Dec 16 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。一个地理位置API服务，月收入1.5万美元
-    </details>
+- 💡 [独立开发变现周刊（第84期） : 一个地理位置API服务，月收入1.5万美元](https://www.ezindie.com/weekly/issue-84) | Fri Dec 16 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。一个地理位置API服务，月收入1.5万美元 
+    </details> 
 
-- 🌋 [独立开发变现周刊（第83期） : 建在Stripe上的应用，年收入70万美元](https://www.ezindie.com/weekly/issue-83) | Fri Dec 09 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。建在Stripe上的应用，年收入70万美元
-    </details>
+- 🌋 [独立开发变现周刊（第83期） : 建在Stripe上的应用，年收入70万美元](https://www.ezindie.com/weekly/issue-83) | Fri Dec 09 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。建在Stripe上的应用，年收入70万美元 
+    </details> 
 
-- 🕴 [独立开发变现周刊（第82期） : 开发一个在线PDF编辑器，年收入50万美元](https://www.ezindie.com/weekly/issue-82) | Fri Dec 02 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。开发一个在线PDF编辑器，年收入50万美元
-    </details>
+- 🕴 [独立开发变现周刊（第82期） : 开发一个在线PDF编辑器，年收入50万美元](https://www.ezindie.com/weekly/issue-82) | Fri Dec 02 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。开发一个在线PDF编辑器，年收入50万美元 
+    </details> 
 
-- 🎊 [独立开发变现周刊（第81期） : 开发一个应用来减少屏幕使用时间，月收入2万美元](https://www.ezindie.com/weekly/issue-81) | Fri Nov 25 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。开发一个应用来减少屏幕使用时间，月收入2万美元
-    </details>
+- 🎊 [独立开发变现周刊（第81期） : 开发一个应用来减少屏幕使用时间，月收入2万美元](https://www.ezindie.com/weekly/issue-81) | Fri Nov 25 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。开发一个应用来减少屏幕使用时间，月收入2万美元 
+    </details> 
 <!-- easyindie:END -->
 
 
@@ -208,59 +208,59 @@
 ### 美团技术团队
 
 <!-- meituan:START -->
-- 🕯 [美团外卖推荐情境化智能流量分发的实践与探索](https://tech.meituan.com/2022/12/08/scenario-aware-ranking-model-for-personalized-recommender-system.html) | Thu Dec 08 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    美团外卖推荐团队在推荐算法的长期落地实践中，针对外卖业务情境化特点对排序模型进行深入探索与优化。本文介绍了面向情境化建模的“情境细分+统一模型”建模思路，通过用户行为序列建模以及专家网络两个模块的优化，实现不同场景间对信息独有性的刻画和信息共性的相互传递，进而提升全部流量效率。
-    </details>
+- 🕯 [美团外卖推荐情境化智能流量分发的实践与探索](https://tech.meituan.com/2022/12/08/scenario-aware-ranking-model-for-personalized-recommender-system.html) | Thu Dec 08 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    美团外卖推荐团队在推荐算法的长期落地实践中，针对外卖业务情境化特点对排序模型进行深入探索与优化。本文介绍了面向情境化建模的“情境细分+统一模型”建模思路，通过用户行为序列建模以及专家网络两个模块的优化，实现不同场景间对信息独有性的刻画和信息共性的相互传递，进而提升全部流量效率。 
+    </details> 
 
-- 🤠 [大规模异构图召回在美团到店推荐广告的应用](https://tech.meituan.com/2022/11/24/application-of-large-scale-heterogeneous-graph-in-meituan-recommended-ads.html) | Thu Nov 24 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    美团到店推荐广告团队在图神经网络的长期落地实践中，思考分析了场景的特点与挑战，针对性地进行了模型设计，并通过大规模训练工具及线上部署优化多次成功落地，带来了线上收入提升。本文主要介绍了大规模图召回技术在美团到店广告场景下的实践经验，包括模型设计思路、模型迭代历程、大规模训练工具以及线上部署性能优化等，希望为从事相关工作的读者带来一些启发。
-    </details>
+- 🤠 [大规模异构图召回在美团到店推荐广告的应用](https://tech.meituan.com/2022/11/24/application-of-large-scale-heterogeneous-graph-in-meituan-recommended-ads.html) | Thu Nov 24 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    美团到店推荐广告团队在图神经网络的长期落地实践中，思考分析了场景的特点与挑战，针对性地进行了模型设计，并通过大规模训练工具及线上部署优化多次成功落地，带来了线上收入提升。本文主要介绍了大规模图召回技术在美团到店广告场景下的实践经验，包括模型设计思路、模型迭代历程、大规模训练工具以及线上部署性能优化等，希望为从事相关工作的读者带来一些启发。 
+    </details> 
 
-- 🤠 [清华大学课题组联合美团研发无人机声波定位技术获顶会大奖](https://tech.meituan.com/2022/11/24/acm-sensys-best-paper-runner-up.html) | Thu Nov 24 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    11月6日至9日，第20届国际计算机学会ACM嵌入式网络感知系统大会SenSys在美国波士顿召开。清华大学软件学院何源副教授课题组和美团无人机团队合作论文“麦巢：辅助无人机精准降落的远距离即时声源定位技术”获得了大会最佳论文奖第二名（Best Paper Runner-Up）。
-    </details>
+- 🤠 [清华大学课题组联合美团研发无人机声波定位技术获顶会大奖](https://tech.meituan.com/2022/11/24/acm-sensys-best-paper-runner-up.html) | Thu Nov 24 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    11月6日至9日，第20届国际计算机学会ACM嵌入式网络感知系统大会SenSys在美国波士顿召开。清华大学软件学院何源副教授课题组和美团无人机团队合作论文“麦巢：辅助无人机精准降落的远距离即时声源定位技术”获得了大会最佳论文奖第二名（Best Paper Runner-Up）。 
+    </details> 
 
-- 🚀 [美团SemEval2022结构化情感分析跨语言赛道冠军方法总结](https://tech.meituan.com/2022/11/24/mt-speech-at-semeval-2022-task-10-structured-sentiment-analysis.html) | Thu Nov 24 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    美团语音交互部针对跨语言结构化情感分析任务中缺少小语种的标注数据、传统方法优化成本高昂的问题，通过利用跨语言预训练语言模型、多任务和数据增强方法在不同语言间实现低成本的迁移，相关方法获得了SemEval 2022结构化情感分析跨语言赛道的冠军。
-    </details>
+- 🚀 [美团SemEval2022结构化情感分析跨语言赛道冠军方法总结](https://tech.meituan.com/2022/11/24/mt-speech-at-semeval-2022-task-10-structured-sentiment-analysis.html) | Thu Nov 24 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    美团语音交互部针对跨语言结构化情感分析任务中缺少小语种的标注数据、传统方法优化成本高昂的问题，通过利用跨语言预训练语言模型、多任务和数据增强方法在不同语言间实现低成本的迁移，相关方法获得了SemEval 2022结构化情感分析跨语言赛道的冠军。 
+    </details> 
 
-- ⚗️ [ACM MM &amp; ECCV 2022 | 美团视觉8篇论文揭秘内容领域的智能科技](https://tech.meituan.com/2022/11/17/acm-mm-eccv-2022.html) | Thu Nov 17 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    前不久，美团视觉智能部的8篇论文被多媒体和计算机视觉领域顶会 ACM MM 与 ECCV 收录，本文将快速带你了解这8篇论文的研究成果及其可在内容领域的落地应用。
-    </details>
+- ⚗️ [ACM MM &amp; ECCV 2022 | 美团视觉8篇论文揭秘内容领域的智能科技](https://tech.meituan.com/2022/11/17/acm-mm-eccv-2022.html) | Thu Nov 17 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    前不久，美团视觉智能部的8篇论文被多媒体和计算机视觉领域顶会 ACM MM 与 ECCV 收录，本文将快速带你了解这8篇论文的研究成果及其可在内容领域的落地应用。 
+    </details> 
 <!-- meituan:END -->
 
 ### 运维咖啡吧
 
 <!-- ops-coffee:START -->
-- 👺 [长三角周边徒步线路简介](https://blog.ops-coffee.cn/o/chang-san-jiao-tu-bu-xian-lu) | Mon Dec 12 2022 12:29 PM
-    <details><summary>展开描述 ...</summary>
-    长三角周边徒步线路简介
-    </details>
+- 👺 [长三角周边徒步线路简介](https://blog.ops-coffee.cn/o/chang-san-jiao-tu-bu-xian-lu) | Mon Dec 12 2022 12:29 PM 
+    <details><summary>展开描述 ...</summary> 
+    长三角周边徒步线路简介 
+    </details> 
 
-- 💯 [多云监控告警系统的优势](https://blog.ops-coffee.cn/s/XTXR-1FBKf2olZQQsesNVg) | Sat Nov 12 2022 12:10 AM
-    <details><summary>展开描述 ...</summary>
-    基于多云构建的监控告警系统究竟有什么意义和优势呢
-    </details>
+- 💯 [多云监控告警系统的优势](https://blog.ops-coffee.cn/s/XTXR-1FBKf2olZQQsesNVg) | Sat Nov 12 2022 12:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    基于多云构建的监控告警系统究竟有什么意义和优势呢 
+    </details> 
 
-- 🚦 [JS字典Dict使用](https://blog.ops-coffee.cn/t/js-dict) | Wed Nov 09 2022 2:05 PM
-    <details><summary>展开描述 ...</summary>
-    JS字典Dict使用
-    </details>
+- 🚦 [JS字典Dict使用](https://blog.ops-coffee.cn/t/js-dict) | Wed Nov 09 2022 2:05 PM 
+    <details><summary>展开描述 ...</summary> 
+    JS字典Dict使用 
+    </details> 
 
-- 👨‍🏫 [游记 | 去皖南看那多彩的秋](https://blog.ops-coffee.cn/r/wannan-318-chuanzangxian-taipinghu) | Tue Nov 01 2022 4:03 PM
-    <details><summary>展开描述 ...</summary>
-    游记 | 去皖南看那多彩的秋
-    </details>
+- 👨‍🏫 [游记 | 去皖南看那多彩的秋](https://blog.ops-coffee.cn/r/wannan-318-chuanzangxian-taipinghu) | Tue Nov 01 2022 4:03 PM 
+    <details><summary>展开描述 ...</summary> 
+    游记 | 去皖南看那多彩的秋 
+    </details> 
 
-- 🌮 [基于多云构建监控告警系统](https://blog.ops-coffee.cn/s/mml5jzQVDzByf0F3sJN5dg) | Fri Oct 21 2022 9:26 AM
-    <details><summary>展开描述 ...</summary>
-    基于多云构建监控告警系统
-    </details>
+- 🌮 [基于多云构建监控告警系统](https://blog.ops-coffee.cn/s/mml5jzQVDzByf0F3sJN5dg) | Fri Oct 21 2022 9:26 AM 
+    <details><summary>展开描述 ...</summary> 
+    基于多云构建监控告警系统 
+    </details> 
 <!-- ops-coffee:END -->
 ### 四火的唠叨
 
@@ -274,30 +274,30 @@
 ### 腾讯全端
 
 <!-- alloyteam:START -->
-- 🤡 [走向匿名化，谈谈微信小程序新授权登录](http://www.alloyteam.com/2021/04/15431/) | Fri Apr 16 2021 5:03 AM
-    <details><summary>展开描述 ...</summary>
-    今年 2 月，微信团队针对小程序登录和用户信息获取进行了一次接口调整，这一举动史无前例地撼动了几乎所有小程序开 [&amp;#8230;]
-    </details>
+- 🤡 [走向匿名化，谈谈微信小程序新授权登录](http://www.alloyteam.com/2021/04/15431/) | Fri Apr 16 2021 5:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    今年 2 月，微信团队针对小程序登录和用户信息获取进行了一次接口调整，这一举动史无前例地撼动了几乎所有小程序开 [&amp;#8230;] 
+    </details> 
 
-- 👍 [yield 学习](http://www.alloyteam.com/2021/03/15427/) | Sat Mar 27 2021 12:10 PM
-    <details><summary>展开描述 ...</summary>
-    最近看的代码 yield 比较多，上次看到这么多 function* 还是在 koa1 时代，脑子中满是 yi [&amp;#8230;]
-    </details>
+- 👍 [yield 学习](http://www.alloyteam.com/2021/03/15427/) | Sat Mar 27 2021 12:10 PM 
+    <details><summary>展开描述 ...</summary> 
+    最近看的代码 yield 比较多，上次看到这么多 function* 还是在 koa1 时代，脑子中满是 yi [&amp;#8230;] 
+    </details> 
 
-- 🚀 [callable-object](http://www.alloyteam.com/2021/03/callable-object/) | Sun Mar 14 2021 8:47 AM
-    <details><summary>展开描述 ...</summary>
-    原文地址：https://github.com/vorshen/blog/blob/master/callab [&amp;#8230;]
-    </details>
+- 🚀 [callable-object](http://www.alloyteam.com/2021/03/callable-object/) | Sun Mar 14 2021 8:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    原文地址：https://github.com/vorshen/blog/blob/master/callab [&amp;#8230;] 
+    </details> 
 
-- 💃 [深入学习定时器](http://www.alloyteam.com/2021/03/15389/) | Tue Mar 02 2021 3:37 PM
-    <details><summary>展开描述 ...</summary>
-    或许在生活中大家都讨厌定时器，比如周一早上的闹钟、承诺老板第二天一早给报告的 deadline；但是在代码的世 [&amp;#8230;]
-    </details>
+- 💃 [深入学习定时器](http://www.alloyteam.com/2021/03/15389/) | Tue Mar 02 2021 3:37 PM 
+    <details><summary>展开描述 ...</summary> 
+    或许在生活中大家都讨厌定时器，比如周一早上的闹钟、承诺老板第二天一早给报告的 deadline；但是在代码的世 [&amp;#8230;] 
+    </details> 
 
-- 🤗 [提高资源的安全性 – SRI 与 CSP](http://www.alloyteam.com/2021/01/sri/) | Thu Jan 14 2021 11:37 AM
-    <details><summary>展开描述 ...</summary>
-    原文地址 在 《前端资源加载失败优化》文章中，我们聊到了前端资源加载失败的监控方式，以及资源加载失败时的优化方 [&amp;#8230;]
-    </details>
+- 🤗 [提高资源的安全性 – SRI 与 CSP](http://www.alloyteam.com/2021/01/sri/) | Thu Jan 14 2021 11:37 AM 
+    <details><summary>展开描述 ...</summary> 
+    原文地址 在 《前端资源加载失败优化》文章中，我们聊到了前端资源加载失败的监控方式，以及资源加载失败时的优化方 [&amp;#8230;] 
+    </details> 
 <!-- alloyteam:END -->
 
 ### 火丁笔记
@@ -333,30 +333,30 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [慢雾：朝鲜 APT 组织对 NFT 用户大规模钓鱼分析](https://www.freebuf.com/articles/blockchain-articles/353456.html) | Fri Dec 23 2022 12:38 PM
-    <details><summary>展开描述 ...</summary>
-    本文仅针对其中一部分 NFT 钓鱼素材进行分析，并提炼出朝鲜黑客的部分钓鱼特征。
-    </details>
+- 🦄 [慢雾：朝鲜 APT 组织对 NFT 用户大规模钓鱼分析](https://www.freebuf.com/articles/blockchain-articles/353456.html) | Fri Dec 23 2022 12:38 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文仅针对其中一部分 NFT 钓鱼素材进行分析，并提炼出朝鲜黑客的部分钓鱼特征。 
+    </details> 
 
-- 🦄 [FreeBuf周报 | 阿里云香港服务器现“史诗级”宕机;蔚来汽车遭遇勒索攻击](https://www.freebuf.com/news/353408.html) | Fri Dec 23 2022 8:02 AM
-    <details><summary>展开描述 ...</summary>
-    总结推荐本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！
-    </details>
+- 🦄 [FreeBuf周报 | 阿里云香港服务器现“史诗级”宕机;蔚来汽车遭遇勒索攻击](https://www.freebuf.com/news/353408.html) | Fri Dec 23 2022 8:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    总结推荐本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
+    </details> 
 
-- 🦅 [博彩公司 BetMGM 发生数据泄露，“赌徒”面临网络风险](https://www.freebuf.com/articles/353403.html) | Fri Dec 23 2022 6:50 AM
-    <details><summary>展开描述 ...</summary>
-    著名体育博彩公司 BetMGM 发生一起数据泄露事件，一名威胁攻击者成功窃取其大量用户个人信息。
-    </details>
+- 🦅 [博彩公司 BetMGM 发生数据泄露，“赌徒”面临网络风险](https://www.freebuf.com/articles/353403.html) | Fri Dec 23 2022 6:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    著名体育博彩公司 BetMGM 发生一起数据泄露事件，一名威胁攻击者成功窃取其大量用户个人信息。 
+    </details> 
 
-- 🪄 [Lastpass事件调查：黑客在云存储漏洞中窃取了保险库数据](https://www.freebuf.com/articles/database/353373.html) | Fri Dec 23 2022 3:49 AM
-    <details><summary>展开描述 ...</summary>
-    威胁者复制了客户基本账户信息和相关元数据的信息，包括公司名称、最终用户名称、账单地址、电子邮件地址、电话号码等信息。
-    </details>
+- 🪄 [Lastpass事件调查：黑客在云存储漏洞中窃取了保险库数据](https://www.freebuf.com/articles/database/353373.html) | Fri Dec 23 2022 3:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    威胁者复制了客户基本账户信息和相关元数据的信息，包括公司名称、最终用户名称、账单地址、电子邮件地址、电话号码等信息。 
+    </details> 
 
-- 💻 [AzureHound：一款针对Microsoft Azure的BloodHound数据收集工具](https://www.freebuf.com/articles/security-management/353343.html) | Thu Dec 22 2022 1:11 PM
-    <details><summary>展开描述 ...</summary>
-    在AzureHound的帮助下，广大研究人员可以轻松管理和审查与Azure相关的安全状态。
-    </details>
+- 💻 [AzureHound：一款针对Microsoft Azure的BloodHound数据收集工具](https://www.freebuf.com/articles/security-management/353343.html) | Thu Dec 22 2022 1:11 PM 
+    <details><summary>展开描述 ...</summary> 
+    在AzureHound的帮助下，广大研究人员可以轻松管理和审查与Azure相关的安全状态。 
+    </details> 
 <!-- freebuf:END -->
 
 ## 新闻热览
@@ -373,36 +373,36 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2022-12-26 技术周刊第 9 期](https://juejin.cn/post/7180749090265759804) | Sat Dec 24 2022 4:14 PM
-    <details><summary>展开描述 ...</summary>
-    阅读与一句话 资讯 # Next.js 13.1 发布 - app 目录（测试版）的改进：改进了可靠性和性能 # 微软工程师展望 Rust 2023：重写编译器、解决管理问题 # 微信键盘诞生背后：国
-    </details>
+- 🤗 [2022-12-26 技术周刊第 9 期](https://juejin.cn/post/7180749090265759804) | Sat Dec 24 2022 4:14 PM 
+    <details><summary>展开描述 ...</summary> 
+    阅读与一句话 资讯 # Next.js 13.1 发布 - app 目录（测试版）的改进：改进了可靠性和性能 # 微软工程师展望 Rust 2023：重写编译器、解决管理问题 # 微信键盘诞生背后：国 
+    </details> 
 
-- 🎡 [iOS小羊人与你回顾2022及展望2023](https://juejin.cn/post/7180746249438494775) | Sat Dec 24 2022 4:04 PM
-    <details><summary>展开描述 ...</summary>
-    「回顾2022，展望2023，我正在参与2022年终总结征文大赛活动」 回顾2022 我是一名Base广州寂寂无名的大龄iOS工程师，现在主要工作语言Swift、以及Flutter😄。
-    </details>
+- 🎡 [iOS小羊人与你回顾2022及展望2023](https://juejin.cn/post/7180746249438494775) | Sat Dec 24 2022 4:04 PM 
+    <details><summary>展开描述 ...</summary> 
+    「回顾2022，展望2023，我正在参与2022年终总结征文大赛活动」 回顾2022 我是一名Base广州寂寂无名的大龄iOS工程师，现在主要工作语言Swift、以及Flutter😄。 
+    </details> 
 
-- 🕯 [npx 命令 - 不仅仅是 command 寻址](https://juejin.cn/post/7180744618403692599) | Sat Dec 24 2022 3:59 PM
-    <details><summary>展开描述 ...</summary>
-    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第26天，点击查看活动详情 前言 npx 出现的次数还是比较多，像 Vite、Expo、React Native 的文档都有介绍它相
-    </details>
+- 🕯 [npx 命令 - 不仅仅是 command 寻址](https://juejin.cn/post/7180744618403692599) | Sat Dec 24 2022 3:59 PM 
+    <details><summary>展开描述 ...</summary> 
+    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第26天，点击查看活动详情 前言 npx 出现的次数还是比较多，像 Vite、Expo、React Native 的文档都有介绍它相 
+    </details> 
 
-- 🚀 [小🐑人日记](https://juejin.cn/post/7180732456188772409) | Sat Dec 24 2022 3:12 PM
-    <details><summary>展开描述 ...</summary>
-    12月14日开始发烧的，今天第11天了，写篇文章记录&amp;分享一下 ；省流版 发烧3天，第4天开始轻症咳嗽流涕，第6天抗原阳，第7天基本回归正常生活
-    </details>
+- 🚀 [小🐑人日记](https://juejin.cn/post/7180732456188772409) | Sat Dec 24 2022 3:12 PM 
+    <details><summary>展开描述 ...</summary> 
+    12月14日开始发烧的，今天第11天了，写篇文章记录&amp;分享一下 ；省流版 发烧3天，第4天开始轻症咳嗽流涕，第6天抗原阳，第7天基本回归正常生活 
+    </details> 
 
-- 💪 [【Flutter】大型项目里Flutter测试应用实例以及集成测试的深度使用](https://juejin.cn/post/7180726473433546808) | Sat Dec 24 2022 2:46 PM
-    <details><summary>展开描述 ...</summary>
-    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第31天，点击查看活动详情 测试应用实例_Flutter 应用的功能越多，手动测试就越困难。一整套自动化测试将帮助确保应用程序在发布
-    </details>
+- 💪 [【Flutter】大型项目里Flutter测试应用实例以及集成测试的深度使用](https://juejin.cn/post/7180726473433546808) | Sat Dec 24 2022 2:46 PM 
+    <details><summary>展开描述 ...</summary> 
+    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第31天，点击查看活动详情 测试应用实例_Flutter 应用的功能越多，手动测试就越困难。一整套自动化测试将帮助确保应用程序在发布 
+    </details> 
 <!-- juejin:END -->
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [找到基础与关键，让保持心流不再是难事](https://sspai.com/post/77435) | Sat Dec 24 2022 9:20 AM
-    <details><summary>展开描述 ...</summary>
+- 👹 [找到基础与关键，让保持心流不再是难事](https://sspai.com/post/77435) | Sat Dec 24 2022 9:20 AM 
+    <details><summary>展开描述 ...</summary> 
     &lt;p&gt;欢迎来到《创造心流》的第三步：获取并保持心流。&lt;/p&gt;
 &lt;p&gt;在前一篇中，我们介绍了启动心流你必须掌握的关键模型：执行意图和 WOOP 模型，带着你完成了必要的准备工作，用按下 Cubi 的大按钮作为行动触发器，啪嗒一下，马上开始。这一篇我们会带着你正式踏入心流的领地，开展一段奇妙的心灵奇旅。&lt;/p&gt;
 &lt;p&gt;本篇同样会分成理论和实践 2 个部分。在理论部分，你将会了解心流的心理基础和生理基础。在实践部分，我们会告诉你心流的前、中、后 3 个阶段要如何做，才能达到最佳效果&lt;/p&gt;
@@ -415,28 +415,28 @@
 &lt;ul&gt;
     &lt;li&gt;心流前期：大脑热身&lt;/li&gt;
     &lt;li&gt;心流中期：保持流动&lt;/li&gt;
-    &lt;li&gt;心流后期：正确退出&lt;/li&gt;&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/post/77435&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为付费栏目文章，出自&lt;a href=&quot;https://sspai.com/series/290&quot; target=&quot;_blank&quot;&gt;《心流管理魔方》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt;
-    </details>
+    &lt;li&gt;心流后期：正确退出&lt;/li&gt;&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/post/77435&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为付费栏目文章，出自&lt;a href=&quot;https://sspai.com/series/290&quot; target=&quot;_blank&quot;&gt;《心流管理魔方》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
+    </details> 
 
-- 🐘 [心动的信号：人的心脏为什么会跳动？​](https://sspai.com/post/77452) | Sat Dec 24 2022 6:36 AM
-    <details><summary>展开描述 ...</summary>
-    人的心脏为什么会跳动？在工作中，我更多时间考虑的是「心脏为什么不跳了？」，从来没有患者或家属问「为什么他/她的心脏能跳动」。学了这么多年，想通过浅显易懂的语言把「心跳」描述出来，真不是一件简单的事情。 ...&lt;a href=&quot;https://sspai.com/post/77452&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
+- 🐘 [心动的信号：人的心脏为什么会跳动？​](https://sspai.com/post/77452) | Sat Dec 24 2022 6:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    人的心脏为什么会跳动？在工作中，我更多时间考虑的是「心脏为什么不跳了？」，从来没有患者或家属问「为什么他/她的心脏能跳动」。学了这么多年，想通过浅显易懂的语言把「心跳」描述出来，真不是一件简单的事情。 ...&lt;a href=&quot;https://sspai.com/post/77452&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
 
-- 🤭 [本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/77443) | Fri Dec 23 2022 10:24 AM
-    <details><summary>展开描述 ...</summary>
-    ☕️TL;DR近期佳作推荐：[电影]利刃出鞘2、[日剧]弥留之国的爱丽丝第二季、[美剧]1923、[西班牙]微笑符、[英剧]利特维年科、[挪威]圣诞风暴几则精彩预告：《哆啦A梦大雄与天空的理想乡》公布 ...&lt;a href=&quot;https://sspai.com/post/77443&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
+- 🤭 [本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/77443) | Fri Dec 23 2022 10:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    ☕️TL;DR近期佳作推荐：[电影]利刃出鞘2、[日剧]弥留之国的爱丽丝第二季、[美剧]1923、[西班牙]微笑符、[英剧]利特维年科、[挪威]圣诞风暴几则精彩预告：《哆啦A梦大雄与天空的理想乡》公布 ...&lt;a href=&quot;https://sspai.com/post/77443&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
 
-- 🥸 [多任务与窗口管理游刃有余：我是这样使用 macOS 台前调度的](https://sspai.com/post/77440) | Fri Dec 23 2022 8:00 AM
-    <details><summary>展开描述 ...</summary>
-    从尝鲜到安利，这是我对 macOS 上多任务处理和台前调度的思考。&lt;a href=&quot;https://sspai.com/post/77440&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
+- 🥸 [多任务与窗口管理游刃有余：我是这样使用 macOS 台前调度的](https://sspai.com/post/77440) | Fri Dec 23 2022 8:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    从尝鲜到安利，这是我对 macOS 上多任务处理和台前调度的思考。&lt;a href=&quot;https://sspai.com/post/77440&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
 
-- 🙉 [App+1 | iOS 没有「分身」如何隐藏应用？场景化、一键式的解决方案：Cloak](https://sspai.com/post/77439) | Fri Dec 23 2022 6:30 AM
-    <details><summary>展开描述 ...</summary>
-    对至今没有多用户支持的 iOS 而言，Cloak 提供了一种相对简便的应用隐藏解决方案。&lt;a href=&quot;https://sspai.com/post/77439&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
+- 🙉 [App+1 | iOS 没有「分身」如何隐藏应用？场景化、一键式的解决方案：Cloak](https://sspai.com/post/77439) | Fri Dec 23 2022 6:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    对至今没有多用户支持的 iOS 而言，Cloak 提供了一种相对简便的应用隐藏解决方案。&lt;a href=&quot;https://sspai.com/post/77439&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
 <!-- sspai:END -->
 
 ### 知乎每日精选
@@ -455,30 +455,30 @@
 
 
 <!-- zuijiastore:START -->
-- 🎓 [v1.2.6_纯净版！这个兄弟们赶紧下载](http://www.zuijiastore.com/3143.html) | Wed Nov 30 2022 7:30 AM
-    <details><summary>展开描述 ...</summary>
-    软件名称：蜂王小说 软件版本：v1.2.6_纯净版 软件语言：中文 软件大小：30.1M 支持系统：Android 6.0+ 测试机型：一加9Pro-ColorOS-12.1-C.66 涵盖最丰富最优质的小说资源，精选最优质最实用上千书源，全网书籍一键免费阅读。 蜂王小说是一款安卓端手机小说交互软件，也是一款小说种子搜索神器。 从“我能从一个小小的角落，走到这里，凭借的便是不曾畏惧”&amp;#8211; [&amp;#8230;]
-    </details>
+- 🎓 [v1.2.6_纯净版！这个兄弟们赶紧下载](http://www.zuijiastore.com/3143.html) | Wed Nov 30 2022 7:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    软件名称：蜂王小说 软件版本：v1.2.6_纯净版 软件语言：中文 软件大小：30.1M 支持系统：Android 6.0+ 测试机型：一加9Pro-ColorOS-12.1-C.66 涵盖最丰富最优质的小说资源，精选最优质最实用上千书源，全网书籍一键免费阅读。 蜂王小说是一款安卓端手机小说交互软件，也是一款小说种子搜索神器。 从“我能从一个小小的角落，走到这里，凭借的便是不曾畏惧”&amp;#8211; [&amp;#8230;] 
+    </details> 
 
-- 🦣 [观影必备这个字幕网！那种电影字幕都有](http://www.zuijiastore.com/3136.html) | Fri Aug 12 2022 12:39 AM
-    <details><summary>展开描述 ...</summary>
-    其实现在一般的电影网站都能看到中英文字幕了，但是也有一些朋友自己下载的电影没有字幕，好多字幕网站都被停更或者停运了。搜罗君给大家分享个你们可能不太熟悉的字幕网站，这个网站叫Subtitlecat，这是一个用户分享字幕的平台，用户可上传近100种语言的电影字幕。支持的电影也是五花八门，其中岛国电影也占了一大部分。 传送门：https://www.subtitlecat.com/
-    </details>
+- 🦣 [观影必备这个字幕网！那种电影字幕都有](http://www.zuijiastore.com/3136.html) | Fri Aug 12 2022 12:39 AM 
+    <details><summary>展开描述 ...</summary> 
+    其实现在一般的电影网站都能看到中英文字幕了，但是也有一些朋友自己下载的电影没有字幕，好多字幕网站都被停更或者停运了。搜罗君给大家分享个你们可能不太熟悉的字幕网站，这个网站叫Subtitlecat，这是一个用户分享字幕的平台，用户可上传近100种语言的电影字幕。支持的电影也是五花八门，其中岛国电影也占了一大部分。 传送门：https://www.subtitlecat.com/ 
+    </details> 
 
-- 🧑‍🏫 [最佳应用-在线免费小说阅读汇总](http://www.zuijiastore.com/2429.html) | Sun Jun 05 2022 1:00 AM
-    <details><summary>展开描述 ...</summary>
-    本文主要整理的是在线小说阅读网站。 01、轻小说文库（下载：TXT） 网址：https://www.wenku8.net/index.php 02、轻之过度（下载：EPUB） 网址：http://www.lightnovel.us 03、Animex动漫（下载：EPUB/TXT） 网址：http://www.animmetox.com 04、哔哩哔哩小说（下载：TXT） 网址：https://ww [&amp;#8230;]
-    </details>
+- 🧑‍🏫 [最佳应用-在线免费小说阅读汇总](http://www.zuijiastore.com/2429.html) | Sun Jun 05 2022 1:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文主要整理的是在线小说阅读网站。 01、轻小说文库（下载：TXT） 网址：https://www.wenku8.net/index.php 02、轻之过度（下载：EPUB） 网址：http://www.lightnovel.us 03、Animex动漫（下载：EPUB/TXT） 网址：http://www.animmetox.com 04、哔哩哔哩小说（下载：TXT） 网址：https://ww [&amp;#8230;] 
+    </details> 
 
-- 🦣 [最佳应用-视频下载、转换、压缩必备的网站](http://www.zuijiastore.com/3118.html) | Sat Jun 04 2022 12:15 AM
-    <details><summary>展开描述 ...</summary>
-    网上遇到不少喜欢的视频，但是平台禁止下载怎么办？这篇文章分享一些视频下载、转换、压缩必备的网站。 获取说明：点击右侧链接即可访问 温馨提示：如果部分打不开，可能需要特殊网络 1、YouTube视频下载：https://x2download.com/zh-tw62 2、Twitter视频下载：https://twdown.net/index.php
-    </details>
+- 🦣 [最佳应用-视频下载、转换、压缩必备的网站](http://www.zuijiastore.com/3118.html) | Sat Jun 04 2022 12:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    网上遇到不少喜欢的视频，但是平台禁止下载怎么办？这篇文章分享一些视频下载、转换、压缩必备的网站。 获取说明：点击右侧链接即可访问 温馨提示：如果部分打不开，可能需要特殊网络 1、YouTube视频下载：https://x2download.com/zh-tw62 2、Twitter视频下载：https://twdown.net/index.php 
+    </details> 
 
-- 🤠 [最佳应用-App Store经常限免的优质软件](http://www.zuijiastore.com/3115.html) | Thu Jun 02 2022 12:58 AM
-    <details><summary>展开描述 ...</summary>
-    App Store有很多优质软件是经常会限免下载的，这篇文章我就汇总一下经常限免但很实用的iOS软件，建议收藏。 远程输入法：App Store 上的“远程输入法” &lpar;apple.com&rpar; 河马英文阅读器：App Store 上的“河马英文阅读器 &lpar;Hippo Reader&rpar;” &lpar;apple.com&rpar; 画画树专业版：App Store 上的“画画树专业版 &amp;#8211; 大师级美术绘画板” &lpar;ap [&amp;#8230;]
-    </details>
+- 🤠 [最佳应用-App Store经常限免的优质软件](http://www.zuijiastore.com/3115.html) | Thu Jun 02 2022 12:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    App Store有很多优质软件是经常会限免下载的，这篇文章我就汇总一下经常限免但很实用的iOS软件，建议收藏。 远程输入法：App Store 上的“远程输入法” &lpar;apple.com&rpar; 河马英文阅读器：App Store 上的“河马英文阅读器 &lpar;Hippo Reader&rpar;” &lpar;apple.com&rpar; 画画树专业版：App Store 上的“画画树专业版 &amp;#8211; 大师级美术绘画板” &lpar;ap [&amp;#8230;] 
+    </details> 
 <!-- zuijiastore:END -->
 
 
@@ -496,30 +496,30 @@
 
 
 <!-- xclient:START -->
-- 🦏 [TinkerTool System 8.0.221019 系统深度设置维护工具](https://xclient.info/s/tinkertool-system.html) | Wed Oct 26 2022 12:28 AM
-    <details><summary>展开描述 ...</summary>
-    TinkerTool System 是一款Mac平台的系统深度设置维护工具，以帮助你修改一些系统隐藏的属性,包括系统界面字体,是否不显示隐藏文件等
-    </details>
+- 🦏 [WidsMob Panorama 4.28 图片拼接工具](https://xclient.info/s/widsmob-panorama.html) | Fri Dec 23 2022 2:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    WidsMob Panorama是一款Mac平台上备受好评的图片拼接软件。有了它您可以将多个照片拼接成一张照片。 
+    </details> 
 
--  [Task Office 8.4 多功能办公软件](https://xclient.info/s/task-office.html) | Wed Oct 26 2022 12:27 AM
-    <details><summary>展开描述 ...</summary>
-    Task Office 是Mac平台上的一款办公软件，包含了GTD，做列表，项目和联系人管理的应用程序。旨在使商业计划、日程安排和做事更有效率。
-    </details>
+-  [Sublime Text 4 Build 4147 Dev](https://xclient.info/s/sublime-text.html) | Fri Dec 23 2022 2:18 AM 
+    <details><summary>展开描述 ...</summary> 
+    Sublime Text被称作Mac下的TextMate，而根据其官网介绍，Sublime Text的特点如下：拥有高效、没有干扰的界面，在编辑方面的多选、宏、代码片段等功能，以及很有特色的Minimap。 
+    </details> 
 
-- ⚗️ [TaskPaper 3.9 纯文本GTD工具](https://xclient.info/s/taskpaper.html) | Wed Oct 26 2022 12:26 AM
-    <details><summary>展开描述 ...</summary>
-    TaskPaper是一个令人惊讶的纯文本待办事项工具
-    </details>
+- ⚗️ [VideoProc Converter 4K 5.3 视频格式转换](https://xclient.info/s/videoproc.html) | Fri Dec 23 2022 2:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    VideoProc是Mac平台上的一款视频处理软件，旨在通过全硬件加速来剪切，修剪，合并，调整，转码，编辑4k视频。 
+    </details> 
 
-- 🔥 [SuperDuper! 3.7 Mac数据备份恢复工具](https://xclient.info/s/superduper.html) | Wed Oct 26 2022 12:25 AM
-    <details><summary>展开描述 ...</summary>
-    SuperDuper 是 Mac OS X 平台上的一款数据恢复及备份工具，它可以帮助你恢复你电脑误删除文件，甚至回复你格式化后丢失的数据。
-    </details>
+- 🔥 [Tipard Mac Video Converter Ultimate 10.2.22.15707 视频格式转换器](https://xclient.info/s/tipard-mac-video-converter-ultimate.html) | Fri Dec 23 2022 2:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    Tipard Video Converter Ultimate 可以将任何视频转换为MP4，AVI，MOV，WMV，MP3等，通过强大的编辑功能来裁剪，剪辑，设置3D模式，旋转视频等，以满足您的需求。您还可以提高视频质量在转换之前，通过消除视频噪音和减少视频抖动。 
+    </details> 
 
-- 🌋 [Scapple 1.4.2 思维导图软件](https://xclient.info/s/scapple.html) | Wed Oct 26 2022 12:25 AM
-    <details><summary>展开描述 ...</summary>
-    Scapple 是 Mac OS X 上一款思维导图软件，可创建字数不限的条目，并且条目之间可用直线连接，也可以随意排列，适用于团队项目讨论以及软件开发设计等诸多工作。
-    </details>
+- 🌋 [Joyoshare iPasscode Unlocker 4.3.0 密码解锁器](https://xclient.info/s/joyoshare-ipasscode-unlocker.html) | Fri Dec 23 2022 2:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    Joyoshare iPasscode Unlocker是Mac平台上的一款密码解锁器工具，旨在仅通过几次点击即可在没有密码的情况下从iPhone，iPad到iPod touch上移除屏幕锁定。 
+    </details> 
 <!-- xclient:END -->
 
 ### 不死鸟
@@ -648,30 +648,30 @@
 ### 摄影世界
 
 <!-- photoworld:START -->
-- 🤠 [2022 首届集美中国新风景摄影十杰：王海江](https://www.photoworld.com.cn/post/168023) | Thu Dec 22 2022 3:10 AM
-    <details><summary>展开描述 ...</summary>
+- 🤠 [2022 首届集美中国新风景摄影十杰：王海江](https://www.photoworld.com.cn/post/168023) | Thu Dec 22 2022 3:10 AM 
+    <details><summary>展开描述 ...</summary> 
+     
+    </details> 
 
-    </details>
+- 🎃 [小米徕卡影像大赛《2022 中国影像辞典》获奖作品揭晓](https://www.photoworld.com.cn/post/168013) | Thu Dec 22 2022 3:08 AM 
+    <details><summary>展开描述 ...</summary> 
+     
+    </details> 
 
-- 🎃 [小米徕卡影像大赛《2022 中国影像辞典》获奖作品揭晓](https://www.photoworld.com.cn/post/168013) | Thu Dec 22 2022 3:08 AM
-    <details><summary>展开描述 ...</summary>
+- 👀 [2022 首届集美中国新风景摄影十杰：金炳仁](https://www.photoworld.com.cn/post/167510) | Thu Dec 22 2022 2:37 AM 
+    <details><summary>展开描述 ...</summary> 
+     
+    </details> 
 
-    </details>
+- 🤔 [2022 首届集美中国新风景摄影十杰：欧阳世忠](https://www.photoworld.com.cn/post/167481) | Thu Dec 22 2022 2:36 AM 
+    <details><summary>展开描述 ...</summary> 
+     
+    </details> 
 
-- 👀 [2022 首届集美中国新风景摄影十杰：金炳仁](https://www.photoworld.com.cn/post/167510) | Thu Dec 22 2022 2:37 AM
-    <details><summary>展开描述 ...</summary>
-
-    </details>
-
-- 🤔 [2022 首届集美中国新风景摄影十杰：欧阳世忠](https://www.photoworld.com.cn/post/167481) | Thu Dec 22 2022 2:36 AM
-    <details><summary>展开描述 ...</summary>
-
-    </details>
-
-- 👀 [2022 首届集美中国新风景摄影十杰：刘轶恒](https://www.photoworld.com.cn/post/167371) | Thu Dec 22 2022 2:34 AM
-    <details><summary>展开描述 ...</summary>
-
-    </details>
+- 👀 [2022 首届集美中国新风景摄影十杰：刘轶恒](https://www.photoworld.com.cn/post/167371) | Thu Dec 22 2022 2:34 AM 
+    <details><summary>展开描述 ...</summary> 
+     
+    </details> 
 <!-- photoworld:END -->
 
 ### 视觉联盟
@@ -699,56 +699,56 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [Quora：爱因斯坦的数学真的很差吗](http://jandan.net/p/111998) | Sat Dec 24 2022 5:35 AM
-    <details><summary>展开描述 ...</summary>
-    按照一般人的标准，他的数学水平非常不错。
-    </details>
+- 🚀 [Quora：爱因斯坦的数学真的很差吗](http://jandan.net/p/111998) | Sat Dec 24 2022 5:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    按照一般人的标准，他的数学水平非常不错。 
+    </details> 
 
-- 🙉 [摩托车上手指南](http://jandan.net/p/111995) | Sat Dec 24 2022 5:34 AM
-    <details><summary>展开描述 ...</summary>
-    如何获得摩托车驾照、买到你的第一辆摩托车
-    </details>
+- 🙉 [摩托车上手指南](http://jandan.net/p/111995) | Sat Dec 24 2022 5:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    如何获得摩托车驾照、买到你的第一辆摩托车 
+    </details> 
 
-- 🎉 [今日好价 1224](http://jandan.net/p/111997) | Sat Dec 24 2022 5:33 AM
-    <details><summary>展开描述 ...</summary>
-    今日带货商品数量：43
-    </details>
+- 🎉 [今日好价 1224](http://jandan.net/p/111997) | Sat Dec 24 2022 5:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    今日带货商品数量：43 
+    </details> 
 
-- 🐲 [酒精+药物=？](http://jandan.net/p/111983) | Sat Dec 24 2022 5:32 AM
-    <details><summary>展开描述 ...</summary>
-    头孢就酒
-    </details>
+- 🐲 [酒精+药物=？](http://jandan.net/p/111983) | Sat Dec 24 2022 5:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    头孢就酒 
+    </details> 
 
--  [4年后，火星洞察号结束了它的使命](http://jandan.net/p/111990) | Sat Dec 24 2022 5:31 AM
-    <details><summary>展开描述 ...</summary>
-    开辟了行星科学的新天地
-    </details>
+-  [4年后，火星洞察号结束了它的使命](http://jandan.net/p/111990) | Sat Dec 24 2022 5:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    开辟了行星科学的新天地 
+    </details> 
 <!-- jandan:END -->
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Trativus Hosting - 以客户为中心的云托管](https://xinquji.com/posts/792322?utm_campaign=xinquji-rss) | Sat Dec 24 2022 6:00 AM
-    <details><summary>展开描述 ...</summary>
-     以客户为中心的云托管
-    </details>
+- 👀 [Trativus Hosting - 以客户为中心的云托管](https://xinquji.com/posts/792322?utm_campaign=xinquji-rss) | Sat Dec 24 2022 6:00 AM 
+    <details><summary>展开描述 ...</summary> 
+     以客户为中心的云托管  
+    </details> 
 
-- 🥷 [Overbooked - 独立合作业主的自托管工作平台](https://xinquji.com/posts/792321?utm_campaign=xinquji-rss) | Sat Dec 24 2022 6:00 AM
-    <details><summary>展开描述 ...</summary>
-     独立合作业主的自托管工作平台
-    </details>
+- 🥷 [Overbooked - 独立合作业主的自托管工作平台](https://xinquji.com/posts/792321?utm_campaign=xinquji-rss) | Sat Dec 24 2022 6:00 AM 
+    <details><summary>展开描述 ...</summary> 
+     独立合作业主的自托管工作平台  
+    </details> 
 
-- 💼 [holr - 与周围的人进行动态群聊](https://xinquji.com/posts/792320?utm_campaign=xinquji-rss) | Sat Dec 24 2022 6:00 AM
-    <details><summary>展开描述 ...</summary>
-     与周围的人进行动态群聊
-    </details>
+- 💼 [holr - 与周围的人进行动态群聊](https://xinquji.com/posts/792320?utm_campaign=xinquji-rss) | Sat Dec 24 2022 6:00 AM 
+    <details><summary>展开描述 ...</summary> 
+     与周围的人进行动态群聊  
+    </details> 
 
-- 🦅 [Hello History: AI ChatBot - 与 AI 生成的历史人物对话](https://xinquji.com/posts/792319?utm_campaign=xinquji-rss) | Sat Dec 24 2022 6:00 AM
-    <details><summary>展开描述 ...</summary>
-     与 AI 生成的历史人物对话
-    </details>
+- 🦅 [Hello History: AI ChatBot - 与 AI 生成的历史人物对话](https://xinquji.com/posts/792319?utm_campaign=xinquji-rss) | Sat Dec 24 2022 6:00 AM 
+    <details><summary>展开描述 ...</summary> 
+     与 AI 生成的历史人物对话  
+    </details> 
 
-- 😺 [Oldest Search - 在 Internet 上搜索最早的结果](https://xinquji.com/posts/792318?utm_campaign=xinquji-rss) | Sat Dec 24 2022 6:00 AM
-    <details><summary>展开描述 ...</summary>
-     在 Internet 上搜索最早的结果
-    </details>
+- 😺 [Oldest Search - 在 Internet 上搜索最早的结果](https://xinquji.com/posts/792318?utm_campaign=xinquji-rss) | Sat Dec 24 2022 6:00 AM 
+    <details><summary>展开描述 ...</summary> 
+     在 Internet 上搜索最早的结果  
+    </details> 
 <!-- xinquji:END -->
