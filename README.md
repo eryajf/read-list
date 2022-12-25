@@ -113,11 +113,11 @@
 ### 独立产品灵感周刊
 
 <!-- DecoHack:START -->
-- 🦣 [独立产品灵感周刊 DecoHack #039 – 制作自己的音乐墙](https://www.decohack.com/Post/1168) | Sun Nov 27 2022 6:16 PM
-- 👺 [独立产品灵感周刊 DecoHack #038 – 纽约市90年代的街景长什么样](https://www.decohack.com/Post/1146) | Mon Nov 21 2022 9:08 AM
--  [独立产品灵感周刊 DecoHack #037 – 整理你的愿望清单](https://www.decohack.com/Post/1130) | Mon Nov 14 2022 8:32 AM
-- 🐲 [独立产品灵感周刊 DecoHack #036 – 好用的播客工具](https://www.decohack.com/Post/1110) | Mon Oct 31 2022 9:56 AM
-- 🦅 [独立产品灵感周刊 DecoHack #035 – YouTube 设计改版了](https://www.decohack.com/Post/1098) | Tue Oct 25 2022 7:28 AM<!-- DecoHack:END -->
+- 🦣 [独立产品灵感周刊 DecoHack #042 – 白嫖微信读书无限卡](https://www.decohack.com/Post/1230) | Mon Dec 19 2022 5:33 AM
+- 👺 [独立产品灵感周刊 DecoHack #041 – 那些独立开发者是怎么养活自己的](https://www.decohack.com/Post/1208) | Mon Dec 12 2022 1:19 AM
+-  [独立产品灵感周刊 DecoHack #040 – Google公布2022年度最佳应用榜单](https://www.decohack.com/Post/1192) | Mon Dec 05 2022 6:24 AM
+- 🐲 [独立产品灵感周刊 DecoHack #039 – 制作自己的音乐墙](https://www.decohack.com/Post/1168) | Sun Nov 27 2022 6:16 PM
+- 🦅 [独立产品灵感周刊 DecoHack #038 – 纽约市90年代的街景长什么样](https://www.decohack.com/Post/1146) | Mon Nov 21 2022 9:08 AM<!-- DecoHack:END -->
 
 ### 独立开发变现周刊
 
