@@ -708,28 +708,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Trativus Hosting - 以客户为中心的云托管](https://xinquji.com/posts/792322?utm_campaign=xinquji-rss) | Sat Dec 24 2022 6:00 AM 
+- 👀 [Admittee - 揭开大学录取的神秘面纱](https://xinquji.com/posts/792337?utm_campaign=xinquji-rss) | Sun Dec 25 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     以客户为中心的云托管  
+     揭开大学录取的神秘面纱  
     </details> 
 
-- 🥷 [Overbooked - 独立合作业主的自托管工作平台](https://xinquji.com/posts/792321?utm_campaign=xinquji-rss) | Sat Dec 24 2022 6:00 AM 
+- 🥷 [Twitter University - 2000 个最佳 Twitter 线程，经过精心挑选和分类](https://xinquji.com/posts/792336?utm_campaign=xinquji-rss) | Sun Dec 25 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     独立合作业主的自托管工作平台  
+     2000 个最佳 Twitter 线程，经过精心挑选和分类  
     </details> 
 
-- 💼 [holr - 与周围的人进行动态群聊](https://xinquji.com/posts/792320?utm_campaign=xinquji-rss) | Sat Dec 24 2022 6:00 AM 
+- 💼 [Build a GIANT - 查找在任何利基市场中赚取 6 位数的所有热门产品](https://xinquji.com/posts/792335?utm_campaign=xinquji-rss) | Sun Dec 25 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     与周围的人进行动态群聊  
+     查找在任何利基市场中赚取 6 位数的所有热门产品  
     </details> 
 
-- 🦅 [Hello History: AI ChatBot - 与 AI 生成的历史人物对话](https://xinquji.com/posts/792319?utm_campaign=xinquji-rss) | Sat Dec 24 2022 6:00 AM 
+- 🦅 [Syllabics - 提高你的英语发音](https://xinquji.com/posts/792334?utm_campaign=xinquji-rss) | Sun Dec 25 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     与 AI 生成的历史人物对话  
+     提高你的英语发音  
     </details> 
 
-- 😺 [Oldest Search - 在 Internet 上搜索最早的结果](https://xinquji.com/posts/792318?utm_campaign=xinquji-rss) | Sat Dec 24 2022 6:00 AM 
+- 😺 [Gist Snip - 让你的要点真正有用](https://xinquji.com/posts/792333?utm_campaign=xinquji-rss) | Sun Dec 25 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     在 Internet 上搜索最早的结果  
+     让你的要点真正有用  
     </details> 
 <!-- xinquji:END -->
