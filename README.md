@@ -333,29 +333,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [Hive勒索组织宣称已攻击塔塔电力，数据可能外泄](https://www.freebuf.com/articles/347859.html) | Tue Oct 25 2022 11:16 AM 
+- 🦄 [慢雾：朝鲜 APT 组织对 NFT 用户大规模钓鱼分析](https://www.freebuf.com/articles/blockchain-articles/353456.html) | Fri Dec 23 2022 12:38 PM 
     <details><summary>展开描述 ...</summary> 
-    前不久印度最大的电力集团塔塔电力公布遭遇网络攻击。10月25日，Hive勒索组织宣称对此次网络攻击负责。 
+    本文仅针对其中一部分 NFT 钓鱼素材进行分析，并提炼出朝鲜黑客的部分钓鱼特征。 
     </details> 
 
-- 🦄 [FreeBuf早报 | WhatsApp在全球多地发生故障；韩首次参加美主导的网络战联演](https://www.freebuf.com/news/347854.html) | Tue Oct 25 2022 10:48 AM 
+- 🦄 [FreeBuf周报 | 阿里云香港服务器现“史诗级”宕机;蔚来汽车遭遇勒索攻击](https://www.freebuf.com/news/353408.html) | Fri Dec 23 2022 8:02 AM 
     <details><summary>展开描述 ...</summary> 
-    韩国国防部24日说，韩国军队当天开始首次参加美国主导的“网络旗帜”多国联合网络攻防演习，演习将持续至28日。 
+    总结推荐本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
     </details> 
 
-- 🦅 [超2000万的安装量，Google Play已成恶意广告程序的温床](https://www.freebuf.com/news/347844.html) | Tue Oct 25 2022 9:26 AM 
+- 🦅 [博彩公司 BetMGM 发生数据泄露，“赌徒”面临网络风险](https://www.freebuf.com/articles/353403.html) | Fri Dec 23 2022 6:50 AM 
     <details><summary>展开描述 ...</summary> 
-    其中一个名为DxClean的应用程序的安装次数更是超过500万次，搞笑的是，其用户评级竟然还有4.1分&lpar;满分5分&rpar;。 
+    著名体育博彩公司 BetMGM 发生一起数据泄露事件，一名威胁攻击者成功窃取其大量用户个人信息。 
     </details> 
 
-- 🪄 [反者道之动——fintech下的数据安全思考 | CIS 2022网络安全创新大会议题前瞻](https://www.freebuf.com/fevents/347833.html) | Tue Oct 25 2022 8:51 AM 
+- 🪄 [Lastpass事件调查：黑客在云存储漏洞中窃取了保险库数据](https://www.freebuf.com/articles/database/353373.html) | Fri Dec 23 2022 3:49 AM 
     <details><summary>展开描述 ...</summary> 
-    议题主要以漏洞挖掘从业者的视角分享Fuzzing技术的演进和发展，以及移动端框架层挖掘技术的探索实践。 
+    威胁者复制了客户基本账户信息和相关元数据的信息，包括公司名称、最终用户名称、账单地址、电子邮件地址、电话号码等信息。 
     </details> 
 
-- 💻 [被索要6000万，这家汽车经销商坚持拒绝支付！](https://www.freebuf.com/news/347783.html) | Tue Oct 25 2022 2:52 AM 
+- 💻 [AzureHound：一款针对Microsoft Azure的BloodHound数据收集工具](https://www.freebuf.com/articles/security-management/353343.html) | Thu Dec 22 2022 1:11 PM 
     <details><summary>展开描述 ...</summary> 
-    英国著名汽车经销商集团Pendragon近期遭遇LockBit勒索软件组织攻击，部分数据被窃取，并被索要6000万美元。 
+    在AzureHound的帮助下，广大研究人员可以轻松管理和审查与Azure相关的安全状态。 
     </details> 
 <!-- freebuf:END -->
 
