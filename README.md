@@ -316,7 +316,7 @@
     著名体育博彩公司 BetMGM 发生一起数据泄露事件，一名威胁攻击者成功窃取其大量用户个人信息。 
     </details> 
 
-- 🪄 [Lastpass事件调查：黑客在云存储漏洞中窃取了保险库数据](https://www.freebuf.com/articles/database/353373.html) | Fri Dec 23 2022 3:49 AM 
+- 🪄 [Lastpass事件调查：黑客在云存储漏洞中窃取了加密密码库](https://www.freebuf.com/articles/database/353373.html) | Fri Dec 23 2022 3:49 AM 
     <details><summary>展开描述 ...</summary> 
     威胁者复制了客户基本账户信息和相关元数据的信息，包括公司名称、最终用户名称、账单地址、电子邮件地址、电话号码等信息。 
     </details> 
