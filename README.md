@@ -423,30 +423,30 @@
 
 
 <!-- zuijiastore:START -->
-- 🎓 [v1.2.6_纯净版！这个兄弟们赶紧下载](http://www.zuijiastore.com/3143.html) | Wed Nov 30 2022 7:30 AM
-    <details><summary>展开描述 ...</summary>
-    软件名称：蜂王小说 软件版本：v1.2.6_纯净版 软件语言：中文 软件大小：30.1M 支持系统：Android 6.0+ 测试机型：一加9Pro-ColorOS-12.1-C.66 涵盖最丰富最优质的小说资源，精选最优质最实用上千书源，全网书籍一键免费阅读。 蜂王小说是一款安卓端手机小说交互软件，也是一款小说种子搜索神器。 从“我能从一个小小的角落，走到这里，凭借的便是不曾畏惧”&amp;#8211; [&amp;#8230;]
-    </details>
+- 🎓 [v1.2.6_纯净版！这个兄弟们赶紧下载](http://www.zuijiastore.com/3143.html) | Wed Nov 30 2022 7:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    软件名称：蜂王小说 软件版本：v1.2.6_纯净版 软件语言：中文 软件大小：30.1M 支持系统：Android 6.0+ 测试机型：一加9Pro-ColorOS-12.1-C.66 涵盖最丰富最优质的小说资源，精选最优质最实用上千书源，全网书籍一键免费阅读。 蜂王小说是一款安卓端手机小说交互软件，也是一款小说种子搜索神器。 从“我能从一个小小的角落，走到这里，凭借的便是不曾畏惧”&amp;#8211; [&amp;#8230;] 
+    </details> 
 
-- 🦣 [观影必备这个字幕网！那种电影字幕都有](http://www.zuijiastore.com/3136.html) | Fri Aug 12 2022 12:39 AM
-    <details><summary>展开描述 ...</summary>
-    其实现在一般的电影网站都能看到中英文字幕了，但是也有一些朋友自己下载的电影没有字幕，好多字幕网站都被停更或者停运了。搜罗君给大家分享个你们可能不太熟悉的字幕网站，这个网站叫Subtitlecat，这是一个用户分享字幕的平台，用户可上传近100种语言的电影字幕。支持的电影也是五花八门，其中岛国电影也占了一大部分。 传送门：https://www.subtitlecat.com/
-    </details>
+- 🦣 [观影必备这个字幕网！那种电影字幕都有](http://www.zuijiastore.com/3136.html) | Fri Aug 12 2022 12:39 AM 
+    <details><summary>展开描述 ...</summary> 
+    其实现在一般的电影网站都能看到中英文字幕了，但是也有一些朋友自己下载的电影没有字幕，好多字幕网站都被停更或者停运了。搜罗君给大家分享个你们可能不太熟悉的字幕网站，这个网站叫Subtitlecat，这是一个用户分享字幕的平台，用户可上传近100种语言的电影字幕。支持的电影也是五花八门，其中岛国电影也占了一大部分。 传送门：https://www.subtitlecat.com/ 
+    </details> 
 
-- 🧑‍🏫 [最佳应用-在线免费小说阅读汇总](http://www.zuijiastore.com/2429.html) | Sun Jun 05 2022 1:00 AM
-    <details><summary>展开描述 ...</summary>
-    本文主要整理的是在线小说阅读网站。 01、轻小说文库（下载：TXT） 网址：https://www.wenku8.net/index.php 02、轻之过度（下载：EPUB） 网址：http://www.lightnovel.us 03、Animex动漫（下载：EPUB/TXT） 网址：http://www.animmetox.com 04、哔哩哔哩小说（下载：TXT） 网址：https://ww [&amp;#8230;]
-    </details>
+- 🧑‍🏫 [最佳应用-在线免费小说阅读汇总](http://www.zuijiastore.com/2429.html) | Sun Jun 05 2022 1:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文主要整理的是在线小说阅读网站。 01、轻小说文库（下载：TXT） 网址：https://www.wenku8.net/index.php 02、轻之过度（下载：EPUB） 网址：http://www.lightnovel.us 03、Animex动漫（下载：EPUB/TXT） 网址：http://www.animmetox.com 04、哔哩哔哩小说（下载：TXT） 网址：https://ww [&amp;#8230;] 
+    </details> 
 
-- 🦣 [最佳应用-视频下载、转换、压缩必备的网站](http://www.zuijiastore.com/3118.html) | Sat Jun 04 2022 12:15 AM
-    <details><summary>展开描述 ...</summary>
-    网上遇到不少喜欢的视频，但是平台禁止下载怎么办？这篇文章分享一些视频下载、转换、压缩必备的网站。 获取说明：点击右侧链接即可访问 温馨提示：如果部分打不开，可能需要特殊网络 1、YouTube视频下载：https://x2download.com/zh-tw62 2、Twitter视频下载：https://twdown.net/index.php
-    </details>
+- 🦣 [最佳应用-视频下载、转换、压缩必备的网站](http://www.zuijiastore.com/3118.html) | Sat Jun 04 2022 12:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    网上遇到不少喜欢的视频，但是平台禁止下载怎么办？这篇文章分享一些视频下载、转换、压缩必备的网站。 获取说明：点击右侧链接即可访问 温馨提示：如果部分打不开，可能需要特殊网络 1、YouTube视频下载：https://x2download.com/zh-tw62 2、Twitter视频下载：https://twdown.net/index.php 
+    </details> 
 
-- 🤠 [最佳应用-App Store经常限免的优质软件](http://www.zuijiastore.com/3115.html) | Thu Jun 02 2022 12:58 AM
-    <details><summary>展开描述 ...</summary>
-    App Store有很多优质软件是经常会限免下载的，这篇文章我就汇总一下经常限免但很实用的iOS软件，建议收藏。 远程输入法：App Store 上的“远程输入法” &lpar;apple.com&rpar; 河马英文阅读器：App Store 上的“河马英文阅读器 &lpar;Hippo Reader&rpar;” &lpar;apple.com&rpar; 画画树专业版：App Store 上的“画画树专业版 &amp;#8211; 大师级美术绘画板” &lpar;ap [&amp;#8230;]
-    </details>
+- 🤠 [最佳应用-App Store经常限免的优质软件](http://www.zuijiastore.com/3115.html) | Thu Jun 02 2022 12:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    App Store有很多优质软件是经常会限免下载的，这篇文章我就汇总一下经常限免但很实用的iOS软件，建议收藏。 远程输入法：App Store 上的“远程输入法” &lpar;apple.com&rpar; 河马英文阅读器：App Store 上的“河马英文阅读器 &lpar;Hippo Reader&rpar;” &lpar;apple.com&rpar; 画画树专业版：App Store 上的“画画树专业版 &amp;#8211; 大师级美术绘画板” &lpar;ap [&amp;#8230;] 
+    </details> 
 <!-- zuijiastore:END -->
 
 
