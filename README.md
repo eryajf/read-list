@@ -369,7 +369,12 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [找到基础与关键，让保持心流不再是难事](https://sspai.com/post/77435) | Sat Dec 24 2022 9:20 AM 
+- 👹 [除了成为马桶里的惊吓，红心火龙果真的是「通便神器」吗？](https://sspai.com/post/77457) | Sun Dec 25 2022 7:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    祝大家肠道健康。&lt;a href=&quot;https://sspai.com/post/77457&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [找到基础与关键，让保持心流不再是难事](https://sspai.com/post/77435) | Sat Dec 24 2022 9:20 AM 
     <details><summary>展开描述 ...</summary> 
     &lt;p&gt;欢迎来到《创造心流》的第三步：获取并保持心流。&lt;/p&gt;
 &lt;p&gt;在前一篇中，我们介绍了启动心流你必须掌握的关键模型：执行意图和 WOOP 模型，带着你完成了必要的准备工作，用按下 Cubi 的大按钮作为行动触发器，啪嗒一下，马上开始。这一篇我们会带着你正式踏入心流的领地，开展一段奇妙的心灵奇旅。&lt;/p&gt;
@@ -386,24 +391,19 @@
     &lt;li&gt;心流后期：正确退出&lt;/li&gt;&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/post/77435&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为付费栏目文章，出自&lt;a href=&quot;https://sspai.com/series/290&quot; target=&quot;_blank&quot;&gt;《心流管理魔方》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🐘 [心动的信号：人的心脏为什么会跳动？​](https://sspai.com/post/77452) | Sat Dec 24 2022 6:36 AM 
+- 🤭 [心动的信号：人的心脏为什么会跳动？​](https://sspai.com/post/77452) | Sat Dec 24 2022 6:36 AM 
     <details><summary>展开描述 ...</summary> 
     人的心脏为什么会跳动？在工作中，我更多时间考虑的是「心脏为什么不跳了？」，从来没有患者或家属问「为什么他/她的心脏能跳动」。学了这么多年，想通过浅显易懂的语言把「心跳」描述出来，真不是一件简单的事情。 ...&lt;a href=&quot;https://sspai.com/post/77452&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/77443) | Fri Dec 23 2022 10:24 AM 
+- 🥸 [本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/77443) | Fri Dec 23 2022 10:24 AM 
     <details><summary>展开描述 ...</summary> 
     ☕️TL;DR近期佳作推荐：[电影]利刃出鞘2、[日剧]弥留之国的爱丽丝第二季、[美剧]1923、[西班牙]微笑符、[英剧]利特维年科、[挪威]圣诞风暴几则精彩预告：《哆啦A梦大雄与天空的理想乡》公布 ...&lt;a href=&quot;https://sspai.com/post/77443&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [多任务与窗口管理游刃有余：我是这样使用 macOS 台前调度的](https://sspai.com/post/77440) | Fri Dec 23 2022 8:00 AM 
+- 🙉 [多任务与窗口管理游刃有余：我是这样使用 macOS 台前调度的](https://sspai.com/post/77440) | Fri Dec 23 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     从尝鲜到安利，这是我对 macOS 上多任务处理和台前调度的思考。&lt;a href=&quot;https://sspai.com/post/77440&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [App+1 | iOS 没有「分身」如何隐藏应用？场景化、一键式的解决方案：Cloak](https://sspai.com/post/77439) | Fri Dec 23 2022 6:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    对至今没有多用户支持的 iOS 而言，Cloak 提供了一种相对简便的应用隐藏解决方案。&lt;a href=&quot;https://sspai.com/post/77439&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
