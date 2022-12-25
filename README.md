@@ -332,9 +332,9 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [双向文件同步算法，没有就只能自己造轮子？](https://www.v2ex.com/t/904641#reply1) | Sun Dec 25 2022 2:40 PM
-- 🤗 [大神们 请教下个很少见的问题](https://www.v2ex.com/t/904629#reply5) | Sun Dec 25 2022 1:09 PM
-- 🎭 [阿里云发的公告：关于阿里云香港 Region 可用区 C 服务中断事件的说明](https://www.v2ex.com/t/904600#reply22) | Sun Dec 25 2022 9:47 AM
+- 🥸 [双向文件同步算法，没有就只能自己造轮子？](https://www.v2ex.com/t/904641#reply2) | Sun Dec 25 2022 2:40 PM
+- 🤗 [大神们 请教下个很少见的问题](https://www.v2ex.com/t/904629#reply6) | Sun Dec 25 2022 1:09 PM
+- 🎭 [阿里云发的公告：关于阿里云香港 Region 可用区 C 服务中断事件的说明](https://www.v2ex.com/t/904600#reply23) | Sun Dec 25 2022 9:47 AM
 - 🥷 [请教中台项目的一些问题？](https://www.v2ex.com/t/904594#reply9) | Sun Dec 25 2022 9:05 AM
 - 🐵 [讨论：开源项目的 customization](https://www.v2ex.com/t/904585#reply7) | Sun Dec 25 2022 7:56 AM<!-- v2ex:END -->
 
