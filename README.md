@@ -104,11 +104,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [科技爱好者周刊（第 233 期）：生活就像一个鱼缸](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-233.html) | Fri Dec 02 2022 12:11 AM
-- 💪 [科技爱好者周刊（第 232 期）：好用的平面设计软件](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-232.html) | Fri Nov 25 2022 12:18 AM
-- 🐎 [科技爱好者周刊（第 231 期）：互联网公司需要多少员工？](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-231.html) | Fri Nov 18 2022 12:17 AM
-- 🤔 [科技爱好者周刊（第 230 期）：电子产品的用电量](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-230.html) | Fri Nov 11 2022 12:19 AM
-- 🧠 [科技爱好者周刊（第 229 期）：手机充电问题的解决](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html) | Fri Nov 04 2022 12:14 AM<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 236 期）：中国的阳光地带](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-236.html) | Fri Dec 23 2022 12:14 AM
+- 💪 [科技爱好者周刊（第 235 期）：青年失业率与选择创业](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-235.html) | Fri Dec 16 2022 12:08 AM
+- 🐎 [科技爱好者周刊（第 234 期）：AI 聊天有多强？](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-234.html) | Fri Dec 09 2022 12:17 AM
+- 🤔 [科技爱好者周刊（第 233 期）：生活就像一个鱼缸](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-233.html) | Fri Dec 02 2022 12:11 AM
+- 🧠 [科技爱好者周刊（第 232 期）：好用的平面设计软件](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-232.html) | Fri Nov 25 2022 12:18 AM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
