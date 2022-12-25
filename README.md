@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [X-UI 证书三个月到期后不会自动续怎么解决](https://www.v2ex.com/t/904569#reply0) | Sun Dec 25 2022 6:16 AM
-- 🤗 [一年半 Java 经验，想转行嵌入式。](https://www.v2ex.com/t/904566#reply3) | Sun Dec 25 2022 5:47 AM
-- 🎭 [SE Linux Flag is Enabled 这个检测项如何屏蔽？](https://www.v2ex.com/t/904565#reply0) | Sun Dec 25 2022 5:41 AM
-- 🥷 [基于 koa 封装了下后端 API 框架](https://www.v2ex.com/t/904562#reply0) | Sun Dec 25 2022 5:36 AM
-- 🐵 [国内怎么配置代理下载 git 项目？](https://www.v2ex.com/t/904559#reply7) | Sun Dec 25 2022 4:14 AM<!-- v2ex:END -->
+- 🥸 [K40s 刷了 PixelExperience os 后续，解决 NFC 刷门禁问题](https://www.v2ex.com/t/904577#reply0) | Sun Dec 25 2022 7:01 AM
+- 🤗 [X-UI 证书三个月到期后不会自动续怎么解决](https://www.v2ex.com/t/904569#reply3) | Sun Dec 25 2022 6:16 AM
+- 🎭 [一年半 Java 经验，想转行嵌入式。](https://www.v2ex.com/t/904566#reply4) | Sun Dec 25 2022 5:47 AM
+- 🥷 [SE Linux Flag is Enabled 这个检测项如何屏蔽？](https://www.v2ex.com/t/904565#reply1) | Sun Dec 25 2022 5:41 AM
+- 🐵 [基于 koa 封装了下后端 API 框架](https://www.v2ex.com/t/904562#reply0) | Sun Dec 25 2022 5:36 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
