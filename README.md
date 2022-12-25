@@ -373,29 +373,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [SQL 知识点训练 12](https://juejin.cn/post/7173228334040481828) | Sun Dec 04 2022 9:51 AM 
+- 🤗 [2022-12-26 技术周刊第 9 期](https://juejin.cn/post/7180749090265759804) | Sat Dec 24 2022 4:14 PM 
     <details><summary>展开描述 ...</summary> 
-    - 分组统计 - 嵌套查询 - 窗口函数over的详细使用 - 求和函数 sum 一些实战思路解析， 
+    阅读与一句话 资讯 # Next.js 13.1 发布 - app 目录（测试版）的改进：改进了可靠性和性能 # 微软工程师展望 Rust 2023：重写编译器、解决管理问题 # 微信键盘诞生背后：国 
     </details> 
 
-- 🎡 [vite-pretty-lint 源码解读之为 vite 项目添加 eslint和prettier](https://juejin.cn/post/7173225145371197448) | Sun Dec 04 2022 9:37 AM 
+- 🎡 [iOS小羊人与你回顾2022及展望2023](https://juejin.cn/post/7180746249438494775) | Sat Dec 24 2022 4:04 PM 
     <details><summary>展开描述 ...</summary> 
-    我正在参与掘金会员专属活动-源码共读第一期 vite 作为一种前端工具，创建项目是非常快的，但是今天我们要聊的并不是 vite 创建项目有多快有多好，而是来聊聊如何为 vite 项目添加前端规范 
+    「回顾2022，展望2023，我正在参与2022年终总结征文大赛活动」 回顾2022 我是一名Base广州寂寂无名的大龄iOS工程师，现在主要工作语言Swift、以及Flutter😄。 
     </details> 
 
-- 🕯 [⚡一文弄懂 React 生命周期](https://juejin.cn/post/7173223688353873950) | Sun Dec 04 2022 9:31 AM 
+- 🕯 [npx 命令 - 不仅仅是 command 寻址](https://juejin.cn/post/7180744618403692599) | Sat Dec 24 2022 3:59 PM 
     <details><summary>展开描述 ...</summary> 
-    从一个 Vue 使用者转到 React，在初次接触 React 的生命周期时总是会觉得疑惑 希望读完本文能让你一次性搞定 React 生命周期的流程和能弄清楚在各个生命周期做些什么 
+    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第26天，点击查看活动详情 前言 npx 出现的次数还是比较多，像 Vite、Expo、React Native 的文档都有介绍它相 
     </details> 
 
-- 🚀 [Flutter Tips之 - Colorful Logs in Flutter](https://juejin.cn/post/7173223270009798664) | Sun Dec 04 2022 9:30 AM 
+- 🚀 [小🐑人日记](https://juejin.cn/post/7180732456188772409) | Sat Dec 24 2022 3:12 PM 
     <details><summary>展开描述 ...</summary> 
-    今天想要封装一个带颜色区别的log，例如将Null的数据显示为红色。 思路是使用拓展，增加一个log方法，使用ANSI转义代码来区分Null还是正常的值 
+    12月14日开始发烧的，今天第11天了，写篇文章记录&amp;分享一下 ；省流版 发烧3天，第4天开始轻症咳嗽流涕，第6天抗原阳，第7天基本回归正常生活 
     </details> 
 
-- 💪 [Docker consul的容器服务更新与发现](https://juejin.cn/post/7173221936560898079) | Sun Dec 04 2022 9:25 AM 
+- 💪 [【Flutter】大型项目里Flutter测试应用实例以及集成测试的深度使用](https://juejin.cn/post/7180726473433546808) | Sat Dec 24 2022 2:46 PM 
     <details><summary>展开描述 ...</summary> 
-    服务注册与发现是*微服务*架构中不可或缺的重要组件。起初服务都是单节点的，不保障高可用性，也不考虑服务的压力承载，服务之间调用单纯的通过接口访问。直到后来出现了多个节点的分布式架构，起初的解决手段是在 
+    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第31天，点击查看活动详情 测试应用实例_Flutter 应用的功能越多，手动测试就越困难。一整套自动化测试将帮助确保应用程序在发布 
     </details> 
 <!-- juejin:END -->
 ### 少数派
