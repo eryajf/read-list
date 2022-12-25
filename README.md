@@ -364,11 +364,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [公司黄了，目前三个多月没发工资，想开车周游全国，做自媒体，是否可行！](https://www.v2ex.com/t/900016#reply18) | Sun Dec 04 2022 9:48 AM
-- 🤗 [现在怎么实现公众号给用户发消息呢？](https://www.v2ex.com/t/900011#reply3) | Sun Dec 04 2022 9:36 AM
-- 🎭 [PLEX 终身购买有无推荐渠道](https://www.v2ex.com/t/900007#reply2) | Sun Dec 04 2022 9:18 AM
-- 🥷 [关于阿里 Codeup 的云端 IDEA 是如何实现的？](https://www.v2ex.com/t/900006#reply8) | Sun Dec 04 2022 9:09 AM
-- 🐵 [基于 Go 的开源博客系统，第二款主题来啦！](https://www.v2ex.com/t/900001#reply0) | Sun Dec 04 2022 8:32 AM<!-- v2ex:END -->
+- 🥸 [公司打算进军短视频直播带货&lpar;饰品/珠宝/保健品类&rpar;, 主战场是 DY/TK,有些资源和技巧想请教下大佬们](https://www.v2ex.com/t/904523#reply0) | Sun Dec 25 2022 12:04 AM
+- 🤗 [请教大家一个 typescript 前后端开发（react+nestjs），共用 interface 的问题](https://www.v2ex.com/t/904521#reply1) | Sat Dec 24 2022 11:12 PM
+- 🎭 [UDP TCP DOT DOH。兄弟们只论性能哪个好](https://www.v2ex.com/t/904518#reply4) | Sat Dec 24 2022 9:01 PM
+- 🥷 [Java 的泛型能够向 golang 一样， T 可以表示多个类型？](https://www.v2ex.com/t/904511#reply8) | Sat Dec 24 2022 4:49 PM
+- 🐵 [ASP .NET Core 默认配置下对本机调试也会启用 HTTPS 的意义是什么？反代不方便，还要信任一个自签证书不然会红屏，信任的自签 CA 如果被利用还会更严重的安全问题。](https://www.v2ex.com/t/904508#reply8) | Sat Dec 24 2022 4:13 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
