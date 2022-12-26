@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [包括美国前总统特朗普，攻击者窃取Twitter 4亿数据并出售](https://www.freebuf.com/news/353514.html) | Mon Dec 26 2022 2:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    攻击者还提供了包含1000个帐户的样本作为证明，其中包含了美国前总统特朗普的账户数据。 
+    </details> 
+
 - 🦄 [FreeBuf早报 | 黑客出售4亿推特用户数据库；字节跳动承认访问记者TikTok数据](https://www.freebuf.com/articles/353500.html) | Sun Dec 25 2022 3:21 PM 
     <details><summary>展开描述 ...</summary> 
     美国国会通过了拨款法案，其中包括禁止政府设备安装 TikTok，法案将在总统拜登签署之后生效。 
     </details> 
 
-- 🦄 [慢雾：朝鲜 APT 组织对 NFT 用户大规模钓鱼分析](https://www.freebuf.com/articles/blockchain-articles/353456.html) | Fri Dec 23 2022 12:38 PM 
+- 🦅 [慢雾：朝鲜 APT 组织对 NFT 用户大规模钓鱼分析](https://www.freebuf.com/articles/blockchain-articles/353456.html) | Fri Dec 23 2022 12:38 PM 
     <details><summary>展开描述 ...</summary> 
     本文仅针对其中一部分 NFT 钓鱼素材进行分析，并提炼出朝鲜黑客的部分钓鱼特征。 
     </details> 
 
-- 🦅 [FreeBuf周报 | 阿里云香港服务器现“史诗级”宕机;蔚来汽车遭遇勒索攻击](https://www.freebuf.com/news/353408.html) | Fri Dec 23 2022 8:02 AM 
+- 🪄 [FreeBuf周报 | 阿里云香港服务器现“史诗级”宕机;蔚来汽车遭遇勒索攻击](https://www.freebuf.com/news/353408.html) | Fri Dec 23 2022 8:02 AM 
     <details><summary>展开描述 ...</summary> 
     总结推荐本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
     </details> 
 
-- 🪄 [博彩公司 BetMGM 发生数据泄露，“赌徒”面临网络风险](https://www.freebuf.com/articles/353403.html) | Fri Dec 23 2022 6:50 AM 
+- 💻 [博彩公司 BetMGM 发生数据泄露，“赌徒”面临网络风险](https://www.freebuf.com/articles/353403.html) | Fri Dec 23 2022 6:50 AM 
     <details><summary>展开描述 ...</summary> 
     著名体育博彩公司 BetMGM 发生一起数据泄露事件，一名威胁攻击者成功窃取其大量用户个人信息。 
-    </details> 
-
-- 💻 [Lastpass事件调查：黑客在云存储漏洞中窃取了加密密码库](https://www.freebuf.com/articles/database/353373.html) | Fri Dec 23 2022 3:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    威胁者复制了客户基本账户信息和相关元数据的信息，包括公司名称、最终用户名称、账单地址、电子邮件地址、电话号码等信息。 
     </details> 
 <!-- freebuf:END -->
 
