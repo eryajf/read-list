@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [微信开放小程序运行SDK，我们的App可以跑小程序了](https://juejin.cn/post/7181301359554068541) | Mon Dec 26 2022 3:57 AM 
+- 🤗 [Dragonfly 和 Nydus Mirror 模式集成实践](https://juejin.cn/post/7181312721139269691) | Mon Dec 26 2022 4:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    文｜戚文博 （花名：百蓦） Dragonfly Maintainer蚂蚁集团软件工程师 主要负责「基于 P2P 的文件以及镜像加速系统」。 本文 2175 字 阅读 15 分钟 PART. 1 背景  
+    </details> 
+
+- 🎡 [已来到 “后云原生时代” 的我们，如何规模化运维？](https://juejin.cn/post/7181305399595761719) | Mon Dec 26 2022 4:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    文｜李大元 （花名：达远） Kusion 项目负责人 来自蚂蚁集团 PaaS 核心团队，PaaS IaC 基础平台负责人。 本文 4331 字 阅读 11 分钟 PART. 1 后云原生时代 距离 K 
+    </details> 
+
+- 🕯 [微信开放小程序运行SDK，我们的App可以跑小程序了](https://juejin.cn/post/7181301359554068541) | Mon Dec 26 2022 3:57 AM 
     <details><summary>展开描述 ...</summary> 
     这几天看到微信团队推出了一个名为 Donut 的小程序原生语法开发移动应用框架，通俗的讲就是将微信小程序的能力开放给其他的企业，第三方的 App 也能像微信一样运行小程序了。 
     </details> 
 
-- 🎡 [球王梅西喜欢在哪里射门？](https://juejin.cn/post/7181299522910306363) | Mon Dec 26 2022 3:51 AM 
+- 🚀 [球王梅西喜欢在哪里射门？](https://juejin.cn/post/7181299522910306363) | Mon Dec 26 2022 3:51 AM 
     <details><summary>展开描述 ...</summary> 
     来蹭一个世界杯热点，大家想知道球王梅西最喜欢在哪里射门吗？这个到了我擅长的地方，用 G2 来数据可视化一下。小手一抖，也可以 star 一下。 准备数据 这个网站上有各个球员的所有数据，我们拉下来即可 
     </details> 
 
-- 🕯 [如何优雅的写 css 代码](https://juejin.cn/post/7181296677607702584) | Mon Dec 26 2022 3:39 AM 
+- 💪 [订单30分钟未支付自动取消怎么实现？](https://juejin.cn/post/7181297729979547705) | Mon Dec 26 2022 3:43 AM 
     <details><summary>展开描述 ...</summary> 
-    CSS（全称 Cascading Style Sheets，层叠样式表）为开发人员提供声明式的样式语言，是前端必备的技能之一，基于互联网上全面的资料和简单易懂的语法，CSS 非常易于学习，但其知识点广 
-    </details> 
-
-- 🚀 [💰 金石计划二期活动 开奖啦！](https://juejin.cn/post/7181293876471136317) | Mon Dec 26 2022 3:28 AM 
-    <details><summary>展开描述 ...</summary> 
-    🎉金石计划02期——瓜分 6 万元现金大奖活动正式落幕啦！感谢每位掘友的付出，希望大家在这次活动中都已经有所收获。 
-    </details> 
-
-- 💪 [MMEval正式支持OneFlow评测](https://juejin.cn/post/7181292093078732859) | Mon Dec 26 2022 3:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    作为一款易用、高效、高扩展、自主研发的开源深度学习框架，OneFlow引领并代表了新一代深度学习框架的技术演进和产品迭代方向，获得了国内外高度关注和认可，也得到同行和友商的研究和追随。 
+    方案 1：数据库轮询 方案 2：JDK 的延迟队列 方案 3：时间轮算法 方案 4：redis 缓存 方案 5：使用消息队列 了解需求 在开发中，往往会遇到一些关于延时任务的需求。 例 
     </details> 
 <!-- juejin:END -->
 ### 少数派
