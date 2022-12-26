@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [mac 下的 microsoft autoupdate](https://www.v2ex.com/t/904751#reply1) | Mon Dec 26 2022 7:06 AM
-- 🤗 [[硅谷外企] [核心业务] [业内 Top] [支持远程] Engineer Manager - 100%远程+期权+双休+四周年假+各种福利补贴](https://www.v2ex.com/t/904750#reply0) | Mon Dec 26 2022 7:05 AM
-- 🎭 [[Golang] 一个线上的 Go 程序，是否应该长期开启 pprof](https://www.v2ex.com/t/904748#reply2) | Mon Dec 26 2022 7:00 AM
-- 🥷 [icloudpd 同步不了 live photo](https://www.v2ex.com/t/904740#reply0) | Mon Dec 26 2022 6:43 AM
-- 🐵 [Spring 的 @Service 注解使用到自定义注解上,不生效,有人知道这是为什么么](https://www.v2ex.com/t/904730#reply2) | Mon Dec 26 2022 5:58 AM<!-- v2ex:END -->
+- 🥸 [请问一下这种股票图表用的是什么库？](https://www.v2ex.com/t/904773#reply0) | Mon Dec 26 2022 8:16 AM
+- 🤗 [请教一下 Synology Photos 局域网备份照片速度太慢，和在公网上备份差不多，速度差不多 3MB/s，大家有遇到过么](https://www.v2ex.com/t/904769#reply2) | Mon Dec 26 2022 8:02 AM
+- 🎭 [mac 下的 microsoft autoupdate](https://www.v2ex.com/t/904751#reply8) | Mon Dec 26 2022 7:06 AM
+- 🥷 [[硅谷外企] [核心业务] [业内 Top] [支持远程] Engineer Manager - 100%远程+期权+双休+四周年假+各种福利补贴](https://www.v2ex.com/t/904750#reply0) | Mon Dec 26 2022 7:05 AM
+- 🐵 [[Golang] 一个线上的 Go 程序，是否应该长期开启 pprof](https://www.v2ex.com/t/904748#reply3) | Mon Dec 26 2022 7:00 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
