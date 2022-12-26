@@ -680,29 +680,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [Quora：高智商的人有哪些异常的表现？](http://jandan.net/p/112008) | Mon Dec 26 2022 5:33 AM 
+- 🚀 [美国亚裔人口罹患胃癌的风险异常高](http://jandan.net/p/112010) | Mon Dec 26 2022 7:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    相对其他族裔而言。原因不明 
+    </details> 
+
+- 🙉 [Quora：高智商的人有哪些异常的表现？](http://jandan.net/p/112008) | Mon Dec 26 2022 5:33 AM 
     <details><summary>展开描述 ...</summary> 
     极其聪明的的副作用之一是懒惰。 
     </details> 
 
-- 🙉 [安全警示：自来水有毒](http://jandan.net/p/112006) | Mon Dec 26 2022 5:32 AM 
+- 🎉 [安全警示：自来水有毒](http://jandan.net/p/112006) | Mon Dec 26 2022 5:32 AM 
     <details><summary>展开描述 ...</summary> 
     饮用水中潜伏的有害物质及如何消除它们 
     </details> 
 
-- 🎉 [今日好价 1226](http://jandan.net/p/112011) | Mon Dec 26 2022 2:34 AM 
+- 🐲 [雌性南方斑鹛：生的雏鸟越多，就变得越笨？](http://jandan.net/p/112012) | Mon Dec 26 2022 4:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    野生动物与年龄相关的认知能力下降存在性别差异 
+    </details> 
+
+-  [今日好价 1226](http://jandan.net/p/112011) | Mon Dec 26 2022 2:34 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：33 
-    </details> 
-
-- 🐲 [关于日行万步的研究](http://jandan.net/p/112005) | Sun Dec 25 2022 5:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    多走路对健康大有裨益，但从科学角度我们应该保持适度。 
-    </details> 
-
--  [XKCD漫画五则](http://jandan.net/p/112003) | Sun Dec 25 2022 5:05 AM 
-    <details><summary>展开描述 ...</summary> 
-    ZSBD 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
