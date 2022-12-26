@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请问一下这种股票图表用的是什么库？](https://www.v2ex.com/t/904773#reply4) | Mon Dec 26 2022 8:16 AM
-- 🤗 [请教一下 Synology Photos 局域网备份照片速度太慢，和在公网上备份差不多，速度差不多 3MB/s，大家有遇到过么](https://www.v2ex.com/t/904769#reply12) | Mon Dec 26 2022 8:02 AM
-- 🎭 [mac 下的 microsoft autoupdate](https://www.v2ex.com/t/904751#reply11) | Mon Dec 26 2022 7:06 AM
-- 🥷 [[硅谷外企] [核心业务] [业内 Top] [支持远程] Engineer Manager - 100%远程+期权+双休+四周年假+各种福利补贴](https://www.v2ex.com/t/904750#reply0) | Mon Dec 26 2022 7:05 AM
-- 🐵 [[Golang] 一个线上的 Go 程序，是否应该长期开启 pprof](https://www.v2ex.com/t/904748#reply8) | Mon Dec 26 2022 7:00 AM<!-- v2ex:END -->
+- 🥸 [✅长期腾讯云全线业务折扣 短信、邮箱、服务器、CDN 全部...](https://www.v2ex.com/t/904791#reply0) | Mon Dec 26 2022 9:47 AM
+- 🤗 [想做个读英语文章的 App,有没有可以提供每个单词时间戳的本地 TTS？](https://www.v2ex.com/t/904789#reply0) | Mon Dec 26 2022 9:18 AM
+- 🎭 [请问一下这种股票图表用的是什么库？](https://www.v2ex.com/t/904773#reply5) | Mon Dec 26 2022 8:16 AM
+- 🥷 [请教一下 Synology Photos 局域网备份照片速度太慢，和在公网上备份差不多，速度差不多 3MB/s，大家有遇到过么](https://www.v2ex.com/t/904769#reply16) | Mon Dec 26 2022 8:02 AM
+- 🐵 [mac 下的 microsoft autoupdate](https://www.v2ex.com/t/904751#reply12) | Mon Dec 26 2022 7:06 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
