@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [如何快速实现 BitSail Connector？](https://juejin.cn/post/7181331800881365052) | Mon Dec 26 2022 5:58 AM 
+- 🤗 [首届「掘金未来大会」1月6日将启，探索企业如何在数字技术革命中求胜](https://juejin.cn/post/7181344298879680572) | Mon Dec 26 2022 6:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    2023年1月6日，稀土掘金技术社区将举办一场面向技术与商业的行业盛会——第一届「掘金未来大会，欢迎参与报名，免费预约直播，点击官网查看更多精彩内容！ 
+    </details> 
+
+- 🎡 [技术写作输出一年，2022总结](https://juejin.cn/post/7181340753077993531) | Mon Dec 26 2022 6:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    「回顾2022，展望2023，我正在参与2022年终总结征文大赛活动」 在卡塔尔世界杯结束的阿根廷夺冠后，全网为之兴奋，最后的决赛，我只看了上半场&lpar;我太懂足球，平时也很少看足球比赛&rpar;，我感觉阿根廷稳了 
+    </details> 
+
+- 🕯 [Elasticsearch：使用 runtime fields 探索你的数据](https://juejin.cn/post/7181337499040481339) | Mon Dec 26 2022 6:18 AM 
+    <details><summary>展开描述 ...</summary> 
+    考虑要提取字段的大量日志数据。 为数据建立索引非常耗时，并且会占用大量磁盘空间，而你只想探索数据结构而无需预先提交 schema。 你知道你的日志数据包含你要提取的特定字段。 在这种情况下，我们要关注 
+    </details> 
+
+- 🚀 [如何快速实现 BitSail Connector？](https://juejin.cn/post/7181331800881365052) | Mon Dec 26 2022 5:58 AM 
     <details><summary>展开描述 ...</summary> 
     本文面向 BitSail 的 Connector 开发人员，通过开发者的角度全面的阐述开发一个完整 Connector 的全流程，快速上手 Connector 开发。 
     </details> 
 
-- 🎡 [CSS 如何根据背景色自动切换黑白文字？](https://juejin.cn/post/7181328175774269500) | Mon Dec 26 2022 5:42 AM 
+- 💪 [CSS 如何根据背景色自动切换黑白文字？](https://juejin.cn/post/7181328175774269500) | Mon Dec 26 2022 5:42 AM 
     <details><summary>展开描述 ...</summary> 
     在项目中，经常会碰到背景色不确定的场景，为了让内容文字足够清晰可见，文字和背景之间需要有足够的对比度。换句话说，当背景是深色时，文字为白色，当背景是浅色时，文字为黑色，就像这样： 通常这种情况，大家可 
-    </details> 
-
-- 🕯 [聊聊Web3为什么能赚钱？为什么不要All in Web3？](https://juejin.cn/post/7181325879178428453) | Mon Dec 26 2022 5:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    Web3 是集各种技术之大成而形成的一种全新概念。 Web3 之所以赚钱，是因为它不是特别透明，而且大多数项目似乎都有魔法。 很多项目并没有那么高的价值，只是对其他项目进行 fork，然后换皮，或者换 
-    </details> 
-
-- 🚀 [正确理解和使用JAVA中的字符串常量池](https://juejin.cn/post/7181322531863806007) | Mon Dec 26 2022 5:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    如果本文对你有帮助的话，救救孩子吧，可以投很多票，投票通道 ，万分感谢呀~~ 前言 研究表明，Java堆中对象占据最大比重的就是字符串对象，所以弄清楚字符串知识很重要，本文主要重点聊聊字符串常量池。J 
-    </details> 
-
-- 💪 [阿里P8裸辞真实心路历程，他底气来源于Java高阶面试合集](https://juejin.cn/post/7181322070817833017) | Mon Dec 26 2022 5:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    我为什么从阿里离职？ 终于从阿里裸辞了，阿里带来的强大的压力让人有一些窒息。坦白来讲，最初进阿里应该是抱着满腔的期待和向往的，甚至做好了三年规划，五年规划。但这一年多经历了比较多的事情，我一贯的想法是 
     </details> 
 <!-- juejin:END -->
 ### 少数派
