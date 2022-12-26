@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【年终总结】求职面试一定要扬长避短](https://juejin.cn/post/7181202136644976698) | Sun Dec 25 2022 10:18 PM 
+- 🤗 [不懂Nacos没关系，可以看看它是怎么运用代理模式的](https://juejin.cn/post/7181258161632837687) | Mon Dec 26 2022 1:09 AM 
     <details><summary>展开描述 ...</summary> 
-    我最近帮不少读者做了简历优化，我也学到了很多，我也不止一次感受到寒气，不止一次扼腕叹息。趁热打铁，把昨天帮一位8年后端老兵做简历优化的过程分享出来，抛砖引玉，希望对大家有启发。没被优化的朋友们千万苟住 
+    背景 看Nacos的源代码时，发现其中有对代理模式的运用，而且用得还不错，可以作为一个典型案例来聊聊，方便大家以更真实的案例来体验一下代理模式的运用。如果你对Nacos不了解，也并不影响对本篇文章的阅 
     </details> 
 
-- 🎡 [React Router V6.4 （React Router 组件-钩子函数篇）](https://juejin.cn/post/7181159412273250359) | Sun Dec 25 2022 7:53 PM 
+- 🎡 [笑死，面试官又问我SpringBoot自动配置原理](https://juejin.cn/post/7181257290677223461) | Mon Dec 26 2022 1:06 AM 
     <details><summary>展开描述 ...</summary> 
-    React Router v6.4 进入 钩子函数-组件篇，开始封装 React 函数钩子和 React 组件。此文章讨论 react-router-dom （web 平台）。下面分析梳洗从 cont 
+    嗯，SpringBoot的自动配置我觉得是SpringBoot很重要的“特性”了。众所周知，SpringBoot有着“ 
     </details> 
 
-- 🕯 [Swift Concurrency 学习笔记](https://juejin.cn/post/7181121378471378981) | Sun Dec 25 2022 4:19 PM 
+- 🕯 [如何做好一款管理后台框架](https://juejin.cn/post/7181256996443095099) | Mon Dec 26 2022 1:05 AM 
     <details><summary>展开描述 ...</summary> 
-    Swift Concurrency 学习笔记 Swift 5.5里新增了Swift Concurrency，语法和Web前端里的异步非常之像，语法学习起来比较简单。 
+    一个有手就能写的框架，要让开发者选择使用你的，而不是自己去写，想必肯定不是实现上面那些功能那么简单，那要如何服务好开发者呢？ 
     </details> 
 
-- 🚀 [Flutter如何调试应用【Dart Observatory 】以及调试模式断言](https://juejin.cn/post/7181107759503376445) | Sun Dec 25 2022 3:26 PM 
+- 🚀 [学 Rust 要几天？「GitHub 热点速览 v.22.51」](https://juejin.cn/post/7181254463842156581) | Mon Dec 26 2022 12:56 AM 
     <details><summary>展开描述 ...</summary> 
-    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第32天，点击查看活动详情 Flutter如何调试应用 我们上面写了Flutter测试应用，这远远不够，这篇，我们来写一下Flutt 
+    本周的 GitHub Trending 非常给力，一是解决了 Rust 的学习问题，提供了一个全面的教学课程；二是提供了多个高性能工具，比如，为 PWA 而生的 atrilabs-engine，部署方 
     </details> 
 
-- 💪 [【源码共读】跨平台打开 URL、文件、可执行文件 open](https://juejin.cn/post/7181099828665909303) | Sun Dec 25 2022 2:57 PM 
+- 💪 [深度学习——dgl.DGLGraph.multi_update_all函数](https://juejin.cn/post/7181243473058594872) | Mon Dec 26 2022 12:14 AM 
     <details><summary>展开描述 ...</summary> 
-    open是一个跨平台的打开文件、URL、可执行文件的库，支持Windows、Linux、Mac，当然这也意味着不能在浏览器环境中使用。 
+    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第29天，点击查看活动详情 dgl.DGLGraph.multi_update_all介绍 dgl.DGLGraph.multi_u 
     </details> 
 <!-- juejin:END -->
 ### 少数派
