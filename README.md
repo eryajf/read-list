@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Go并发与锁的两种方式，如何提效](https://juejin.cn/post/7181490237439213629) | Mon Dec 26 2022 4:11 PM 
+- 🤗 [第143期：flutter中的资源和图片](https://juejin.cn/post/7181525805044858939) | Mon Dec 26 2022 6:56 PM 
+    <details><summary>展开描述 ...</summary> 
+    封面图 下个季度的目标是把前端监控相关的内容梳理出来，梳理出来之后可能会在公司内部做个分享～ Flutter应用程序既括代码也包括一些其他的资产，我们通常这些资产为资源。 有时候我会思考assets这 
+    </details> 
+
+- 🎡 [Go并发与锁的两种方式，如何提效](https://juejin.cn/post/7181490237439213629) | Mon Dec 26 2022 4:11 PM 
     <details><summary>展开描述 ...</summary> 
     很多语言的并发编程很容易在同时修改某个变量的时候，因为操作不是原子的，而出现错误计算，比如一个加法运算使用中的变量被修改，而导致计算结果出错，典型的像统计商品库存。 个人建议只要涉及到共享变量统统使用 
     </details> 
 
-- 🎡 [NodeJS 零散小项目难管理？试试这个 npm 提供的 &#39;monorepo&#39; - workspace](https://juejin.cn/post/7181486158667317308) | Mon Dec 26 2022 3:54 PM 
+- 🕯 [NodeJS 零散小项目难管理？试试这个 npm 提供的 &#39;monorepo&#39; - workspace](https://juejin.cn/post/7181486158667317308) | Mon Dec 26 2022 3:54 PM 
     <details><summary>展开描述 ...</summary> 
     最近写了的一些模块化，还有偏实验的文章，里面都有很多例子，大多都是提交 1 到 2 次，基本就结束整个项目的生命周期了，所以我就想着能不能把它们集中起来管理，简单搜索了一下，也许 monorepo 
     </details> 
 
-- 🕯 [坐着地铁学习职责链模式，一学就会](https://juejin.cn/post/7181481877205680186) | Mon Dec 26 2022 3:39 PM 
+- 🚀 [坐着地铁学习职责链模式，一学就会](https://juejin.cn/post/7181481877205680186) | Mon Dec 26 2022 3:39 PM 
     <details><summary>展开描述 ...</summary> 
     职责链模式，指的是由拥有处理能力的职责节点对象组成一个链条，一个请求从链条的开始或者中间进入，都有机会被后续的职责节点对象处理。进入职责链的请求，会沿着后续链条被传递，直到请求被处理才会终止传递。 
     </details> 
 
-- 🚀 [Flutter框架在项目中使用App Manifest检查用户界面以及配置混乱之后对于构建配置的方案【Flutter】](https://juejin.cn/post/7181477327568633917) | Mon Dec 26 2022 3:20 PM 
+- 💪 [Flutter框架在项目中使用App Manifest检查用户界面以及配置混乱之后对于构建配置的方案【Flutter】](https://juejin.cn/post/7181477327568633917) | Mon Dec 26 2022 3:20 PM 
     <details><summary>展开描述 ...</summary> 
     开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第33天，点击查看活动详情 配置混乱 默认情况下，flutter不支持Android混淆。 如果使用第三方Java或Android库 
-    </details> 
-
-- 💪 [基于声网 Flat 构建白板插件应用“成语解谜”的最佳实践](https://juejin.cn/post/7181467353907986489) | Mon Dec 26 2022 2:43 PM 
-    <details><summary>展开描述 ...</summary> 
-    “成语解谜”是一个基于互动白板 SDK 的互动小游戏应用。通过前端编码、调用白板 API 能力、定制化后端逻辑等，实现了一个老少咸宜、寓教于乐的成语解谜游戏。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
