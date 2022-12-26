@@ -369,22 +369,27 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：魅族发布 M3 Pro 播放器，加州新法将禁止特斯拉使用 FSD 名称等](https://sspai.com/post/77460) | Mon Dec 26 2022 1:01 AM 
+- 👹 [更换 Apple ID 后的资料备份与迁移，我是这样做的](https://sspai.com/post/77458) | Mon Dec 26 2022 6:40 AM 
+    <details><summary>展开描述 ...</summary> 
+    尽管在迁移 Apple ID 前做了不少功课，但我仍然遇到了不少问题以及遗憾。在这篇文章中，我整理了迁移 iCloud 帐户涉及的主要项目及对应方法，以供参考。&lt;a href=&quot;https://sspai.com/post/77458&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派早报：魅族发布 M3 Pro 播放器，加州新法将禁止特斯拉使用 FSD 名称等](https://sspai.com/post/77460) | Mon Dec 26 2022 1:01 AM 
     <details><summary>展开描述 ...</summary> 
     你可能错过的新鲜事魅族发布M3ProHi-Fi播放器12月23日下午，魅族科技召开魅友大会，活动期间发布了型号为M3Pro的「全场景Hi-Fi播放器」。据介绍，该产品搭载魅族定制的H1Hi-Fi解码芯 ...&lt;a href=&quot;https://sspai.com/post/77460&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [App+1 | 有声有色有形，为 Android 本地音乐播放增味：椒盐音乐](https://sspai.com/post/77446) | Sun Dec 25 2022 9:50 AM 
+- 🤭 [App+1 | 有声有色有形，为 Android 本地音乐播放增味：椒盐音乐](https://sspai.com/post/77446) | Sun Dec 25 2022 9:50 AM 
     <details><summary>展开描述 ...</summary> 
     椒盐音乐或许是一款各个方面都能对你胃口的本地音乐播放器——无论是 UI 设计、使用体验还是丰富的音乐播放功能。&lt;a href=&quot;https://sspai.com/post/77446&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [除了成为马桶里的惊吓，红心火龙果真的是「通便神器」吗？](https://sspai.com/post/77457) | Sun Dec 25 2022 7:00 AM 
+- 🥸 [除了成为马桶里的惊吓，红心火龙果真的是「通便神器」吗？](https://sspai.com/post/77457) | Sun Dec 25 2022 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     祝大家肠道健康。&lt;a href=&quot;https://sspai.com/post/77457&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [找到基础与关键，让保持心流不再是难事](https://sspai.com/post/77435) | Sat Dec 24 2022 9:20 AM 
+- 🙉 [找到基础与关键，让保持心流不再是难事](https://sspai.com/post/77435) | Sat Dec 24 2022 9:20 AM 
     <details><summary>展开描述 ...</summary> 
     &lt;p&gt;欢迎来到《创造心流》的第三步：获取并保持心流。&lt;/p&gt;
 &lt;p&gt;在前一篇中，我们介绍了启动心流你必须掌握的关键模型：执行意图和 WOOP 模型，带着你完成了必要的准备工作，用按下 Cubi 的大按钮作为行动触发器，啪嗒一下，马上开始。这一篇我们会带着你正式踏入心流的领地，开展一段奇妙的心灵奇旅。&lt;/p&gt;
@@ -399,11 +404,6 @@
     &lt;li&gt;心流前期：大脑热身&lt;/li&gt;
     &lt;li&gt;心流中期：保持流动&lt;/li&gt;
     &lt;li&gt;心流后期：正确退出&lt;/li&gt;&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/post/77435&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为付费栏目文章，出自&lt;a href=&quot;https://sspai.com/series/290&quot; target=&quot;_blank&quot;&gt;《心流管理魔方》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
-    </details> 
-
-- 🙉 [心动的信号：人的心脏为什么会跳动？​](https://sspai.com/post/77452) | Sat Dec 24 2022 6:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    人的心脏为什么会跳动？在工作中，我更多时间考虑的是「心脏为什么不跳了？」，从来没有患者或家属问「为什么他/她的心脏能跳动」。学了这么多年，想通过浅显易懂的语言把「心跳」描述出来，真不是一件简单的事情。 ...&lt;a href=&quot;https://sspai.com/post/77452&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
