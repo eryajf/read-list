@@ -481,29 +481,29 @@
 ### 不死鸟
 
 <!-- iui:START -->
-- 🌊 [2022 年 12月 每日分享](https://iui.su/163/) | Sun Dec 25 2022 9:24 AM 
+- 🌊 [发现有趣的东西](https://iui.su/3093/) | Mon Dec 26 2022 10:45 AM 
     <details><summary>展开描述 ...</summary> 
-    可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。12月25日我的ABC软件... 
+    分享一些有趣、新奇的网站或app等，可以通过以下网站找到一些有趣的内容！不死鸟https://iui.su/t/https://iui.su/fx/发现产品名称简介新趣集发现有趣的新产品Alle... 
     </details> 
 
-- 🫣 [AI写作，文章自成](https://iui.su/3766/) | Thu Dec 22 2022 9:30 AM 
+- 🫣 [2022 年 12月 每日分享](https://iui.su/163/) | Mon Dec 26 2022 10:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。12月26日AlleyRe... 
+    </details> 
+
+- 🌜 [限免优惠网站](https://iui.su/3735/) | Mon Dec 26 2022 10:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    鲜面连线APPSO 每天提供苹果app限免、优惠的网站，iOSAPP更新比较快。https://app.so/xianmian/极简限免 每天提供iOS限免应用推荐https://free.wa... 
+    </details> 
+
+- 🏊 [AI写作，文章自成](https://iui.su/3766/) | Thu Dec 22 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
     「秘塔写作猫」是一款集AI写作、多人协作、文本校对、改写润色等功能为一体的AI原生内容创作平台。适合各类写作场景及人群，如作家、写手或律师、编辑，以及大学生、职场人士等。官网https://xi... 
     </details> 
 
-- 🌜 [AnyViewer远程控制](https://iui.su/2700/) | Wed Dec 21 2022 9:48 AM 
+- 🚦 [AnyViewer远程控制](https://iui.su/2700/) | Wed Dec 21 2022 9:48 AM 
     <details><summary>展开描述 ...</summary> 
     AnyViewer是傲梅科技推出的多平台远程控制软件，可以免费、安全地远程控制电脑。免费版本有限速，目前暂无Mac版本。WindowsApp StoreAndroid下载地址来自：AnyView... 
-    </details> 
-
-- 🏊 [Windows装系统必看](https://iui.su/2954/) | Wed Dec 14 2022 12:05 PM 
-    <details><summary>展开描述 ...</summary> 
-    Windows系统下载Latest10快速获取原版windows系统镜像itellyou十余年持续提供可靠的原版系统sysmini提供极简Windows系统下载pggho青苹果gho系统镜像下载... 
-    </details> 
-
-- 🚦 [磁力搜索网站](https://iui.su/908/) | Tue Dec 13 2022 12:33 PM 
-    <details><summary>展开描述 ...</summary> 
-    不死鸟&lpar;iui.su&rpar;不提供磁力资源搜索服务，本页仅做导航索引用途！吃粥搜饭今麦郎麦当劳必胜客肯德基赛百味海底捞汉堡王真功夫星巴克德克士最多关注赚零花钱免费影视免费离线离线神器资源搜索引擎快速投... 
     </details> 
 <!-- iui:END -->
 
