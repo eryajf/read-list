@@ -341,24 +341,24 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [个人怎么搭建小型渲染农场？渲染农场搭建配置](https://juejin.cn/post/7181398234835714107) | Mon Dec 26 2022 10:14 AM 
+- 🤗 [CSS中你可能不知道的Selectors特性](https://juejin.cn/post/7181403667818348605) | Mon Dec 26 2022 10:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    引言 最近看了2022年全球CSS调查报告，发现了一些不常见的伪类和伪元素。 伪类 :has&lpar;&rpar; html css :is&lpar;&rpar; html css :host html :host&lpar;&rpar; html :ho 
+    </details> 
+
+- 🎡 [FinClip凡泰极客小程序（让我们的App成为一个超级App！）](https://juejin.cn/post/7181398132675051580) | Mon Dec 26 2022 10:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    现在很多App内部都有自己的小程序，比如微信、支付宝、字节跳动、百度等等。小程序之所以这几年来这么火，是因为它是比较方便的，不需要用户下载App就能直接体验。它可以让开发者开发一些小程序然后上架到他们 
+    </details> 
+
+- 🕯 [个人怎么搭建小型渲染农场？渲染农场搭建配置](https://juejin.cn/post/7181398234835714107) | Mon Dec 26 2022 10:14 AM 
     <details><summary>展开描述 ...</summary> 
     渲染农场是众多机器组成的渲染集群，通常用来渲染你的单帧效果图或动画项目，我们借助渲染农场的力量，可以满足3D项目交期时间迫在眉睫的需求，当你试着在自己的机器上渲染一个复杂的动画项目时，可能需要几十小时 
     </details> 
 
-- 🎡 [辞旧迎新，纯 CSS 实现手绘新年贺卡，城市星河与祝福一并奉上](https://juejin.cn/post/7181395913867280442) | Mon Dec 26 2022 10:04 AM 
+- 🚀 [辞旧迎新，纯 CSS 实现手绘新年贺卡，城市星河与祝福一并奉上](https://juejin.cn/post/7181395913867280442) | Mon Dec 26 2022 10:04 AM 
     <details><summary>展开描述 ...</summary> 
     岁末将至，敬颂冬绥。因为好友天南海北的，所以想到赠送电子贺卡的传统方式。于是，我用 CSS 绘制了一张新年贺卡，用以传递我的祝福。 
-    </details> 
-
-- 🕯 [当青训营遇上码上掘金之”寻友之旅“](https://juejin.cn/post/7181387106610151485) | Mon Dec 26 2022 9:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    小青要找小码去玩，他们的家在一条直线上，当前小青在地点 N ，小码在地点 K &lpar;0≤N , K≤100000&rpar;，并且小码在自己家原地不动等待小青。小青有两种交通方式可选：步行和公交。 
-    </details> 
-
-- 🚀 [我的打怪升级2022年终总结——跳槽、裁员、改变](https://juejin.cn/post/7181382957909671995) | Mon Dec 26 2022 9:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    「回顾2022，展望2023，我正在参与2022年终总结征文大赛活动」 又是一年一度的年终总结与展望未来，扛着小阳人的名号躺在床上的我，敲下了本年度还算过得去的年终总结了。 
     </details> 
 
 - 💪 [小册上新｜从零开发企业级 Go 应用](https://juejin.cn/post/7181378808006574137) | Mon Dec 26 2022 8:59 AM 
