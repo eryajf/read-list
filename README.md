@@ -696,28 +696,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Taction - 更快地计划你的一天](https://xinquji.com/posts/792365?utm_campaign=xinquji-rss) | Mon Dec 26 2022 6:00 AM 
+- 👀 [Axmax - 开箱即用的产品设计资源库](https://xinquji.com/posts/792283?utm_campaign=xinquji-rss) | Tue Dec 27 2022 8:07 AM 
+    <details><summary>展开描述 ...</summary> 
+     开箱即用的产品设计资源库  
+    </details> 
+
+- 🥷 [便捷搜索 - 搜索工具浏览器插件，支持添加自定义搜索引擎，支持右键搜索](https://xinquji.com/posts/792282?utm_campaign=xinquji-rss) | Tue Dec 27 2022 8:07 AM 
+    <details><summary>展开描述 ...</summary> 
+     搜索工具浏览器插件，支持添加自定义搜索引擎，支持右键搜索  
+    </details> 
+
+- 💼 [Taction - 更快地计划你的一天](https://xinquji.com/posts/792365?utm_campaign=xinquji-rss) | Mon Dec 26 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
      更快地计划你的一天  
     </details> 
 
-- 🥷 [My Browsing Habits - 自动检测您的浏览趋势和习惯](https://xinquji.com/posts/792364?utm_campaign=xinquji-rss) | Mon Dec 26 2022 6:00 AM 
+- 🦅 [My Browsing Habits - 自动检测您的浏览趋势和习惯](https://xinquji.com/posts/792364?utm_campaign=xinquji-rss) | Mon Dec 26 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
      自动检测您的浏览趋势和习惯  
     </details> 
 
-- 💼 [MobAI - 人工智能艺术生成器](https://xinquji.com/posts/792363?utm_campaign=xinquji-rss) | Mon Dec 26 2022 6:00 AM 
+- 😺 [MobAI - 人工智能艺术生成器](https://xinquji.com/posts/792363?utm_campaign=xinquji-rss) | Mon Dec 26 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
      人工智能艺术生成器  
-    </details> 
-
-- 🦅 [ChatGPT Matrix Style - 让 ChatGPT 像黑客帝国一样](https://xinquji.com/posts/792362?utm_campaign=xinquji-rss) | Mon Dec 26 2022 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     让 ChatGPT 像黑客帝国一样  
-    </details> 
-
-- 😺 [StatusTweet - 从 Mac 的菜单栏发推文](https://xinquji.com/posts/792361?utm_campaign=xinquji-rss) | Mon Dec 26 2022 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     从 Mac 的菜单栏发推文  
     </details> 
 <!-- xinquji:END -->
