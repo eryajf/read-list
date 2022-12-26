@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [美国国会通过法案禁止政府设备安装 TikTok](https://www.freebuf.com/articles/353538.html) | Mon Dec 26 2022 8:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    当地时间12月23日，美国国会通过了支出法案，其中包含禁止在政府设备上安装TikTok。 
+    </details> 
+
 - 🦄 [【倒计时1天】精彩议题抢先看，贝壳SRC线上与你相约！](https://www.freebuf.com/fevents/353530.html) | Mon Dec 26 2022 7:25 AM 
     <details><summary>展开描述 ...</summary> 
     充足干货、福利都已备好，1227就等你来！还没报名的小伙伴抓紧上车！ 
     </details> 
 
-- 🦄 [包括美国前总统特朗普，攻击者窃取Twitter 4亿数据并出售](https://www.freebuf.com/news/353514.html) | Mon Dec 26 2022 2:50 AM 
+- 🦅 [包括美国前总统特朗普，攻击者窃取Twitter 4亿数据并出售](https://www.freebuf.com/news/353514.html) | Mon Dec 26 2022 2:50 AM 
     <details><summary>展开描述 ...</summary> 
     攻击者还提供了包含1000个帐户的样本作为证明，其中包含了美国前总统特朗普的账户数据。 
     </details> 
 
-- 🦅 [FreeBuf早报 | 黑客出售4亿推特用户数据库；字节跳动承认访问记者TikTok数据](https://www.freebuf.com/articles/353500.html) | Sun Dec 25 2022 3:21 PM 
+- 🪄 [FreeBuf早报 | 黑客出售4亿推特用户数据库；字节跳动承认访问记者TikTok数据](https://www.freebuf.com/articles/353500.html) | Sun Dec 25 2022 3:21 PM 
     <details><summary>展开描述 ...</summary> 
     美国国会通过了拨款法案，其中包括禁止政府设备安装 TikTok，法案将在总统拜登签署之后生效。 
     </details> 
 
-- 🪄 [慢雾：朝鲜 APT 组织对 NFT 用户大规模钓鱼分析](https://www.freebuf.com/articles/blockchain-articles/353456.html) | Fri Dec 23 2022 12:38 PM 
+- 💻 [慢雾：朝鲜 APT 组织对 NFT 用户大规模钓鱼分析](https://www.freebuf.com/articles/blockchain-articles/353456.html) | Fri Dec 23 2022 12:38 PM 
     <details><summary>展开描述 ...</summary> 
     本文仅针对其中一部分 NFT 钓鱼素材进行分析，并提炼出朝鲜黑客的部分钓鱼特征。 
-    </details> 
-
-- 💻 [FreeBuf周报 | 阿里云香港服务器现“史诗级”宕机;蔚来汽车遭遇勒索攻击](https://www.freebuf.com/news/353408.html) | Fri Dec 23 2022 8:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    总结推荐本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
     </details> 
 <!-- freebuf:END -->
 
