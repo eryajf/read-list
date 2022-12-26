@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [基于声网 Flat 构建白板插件应用“成语解谜”的最佳实践](https://juejin.cn/post/7181467353907986489) | Mon Dec 26 2022 2:43 PM 
+- 🤗 [Go并发与锁的两种方式，如何提效](https://juejin.cn/post/7181490237439213629) | Mon Dec 26 2022 4:11 PM 
+    <details><summary>展开描述 ...</summary> 
+    很多语言的并发编程很容易在同时修改某个变量的时候，因为操作不是原子的，而出现错误计算，比如一个加法运算使用中的变量被修改，而导致计算结果出错，典型的像统计商品库存。 个人建议只要涉及到共享变量统统使用 
+    </details> 
+
+- 🎡 [NodeJS 零散小项目难管理？试试这个 npm 提供的 &#39;monorepo&#39; - workspace](https://juejin.cn/post/7181486158667317308) | Mon Dec 26 2022 3:54 PM 
+    <details><summary>展开描述 ...</summary> 
+    最近写了的一些模块化，还有偏实验的文章，里面都有很多例子，大多都是提交 1 到 2 次，基本就结束整个项目的生命周期了，所以我就想着能不能把它们集中起来管理，简单搜索了一下，也许 monorepo 
+    </details> 
+
+- 🕯 [坐着地铁学习职责链模式，一学就会](https://juejin.cn/post/7181481877205680186) | Mon Dec 26 2022 3:39 PM 
+    <details><summary>展开描述 ...</summary> 
+    职责链模式，指的是由拥有处理能力的职责节点对象组成一个链条，一个请求从链条的开始或者中间进入，都有机会被后续的职责节点对象处理。进入职责链的请求，会沿着后续链条被传递，直到请求被处理才会终止传递。 
+    </details> 
+
+- 🚀 [Flutter框架在项目中使用App Manifest检查用户界面以及配置混乱之后对于构建配置的方案【Flutter】](https://juejin.cn/post/7181477327568633917) | Mon Dec 26 2022 3:20 PM 
+    <details><summary>展开描述 ...</summary> 
+    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第33天，点击查看活动详情 配置混乱 默认情况下，flutter不支持Android混淆。 如果使用第三方Java或Android库 
+    </details> 
+
+- 💪 [基于声网 Flat 构建白板插件应用“成语解谜”的最佳实践](https://juejin.cn/post/7181467353907986489) | Mon Dec 26 2022 2:43 PM 
     <details><summary>展开描述 ...</summary> 
     “成语解谜”是一个基于互动白板 SDK 的互动小游戏应用。通过前端编码、调用白板 API 能力、定制化后端逻辑等，实现了一个老少咸宜、寓教于乐的成语解谜游戏。 
-    </details> 
-
-- 🎡 [Nest.js 这么大的项目是怎么优化 ts 编译性能的？新版源码如何调试？](https://juejin.cn/post/7181462211964076093) | Mon Dec 26 2022 2:21 PM 
-    <details><summary>展开描述 ...</summary> 
-    Nest.js 是流行的 node 服务端框架，最近我注意到它有一个大的 PR。 这个 PR 涉及到 50 多个文件，800 多行代码的改动： 同学们肯定会觉得这么多代码改动肯定是大版本升级无疑了。  
-    </details> 
-
-- 🕯 [2022前端总结](https://juejin.cn/post/7181454049118535737) | Mon Dec 26 2022 1:50 PM 
-    <details><summary>展开描述 ...</summary> 
-    「回顾2022，展望2023，我正在参与2022年终总结征文大赛活动」 前言 2022年即将过去，给自己这一年写个总结吧 一月份 22年过完年后，才是我新婚2个月，在郑州银行外包干了一年多，由于项目紧 
-    </details> 
-
-- 🚀 [【理论指导实践】Seata-TCC模式](https://juejin.cn/post/7181441320894857253) | Mon Dec 26 2022 1:01 PM 
-    <details><summary>展开描述 ...</summary> 
-    TCC其核心思想是是：通过对资源进行预留，尽量减少对资源的锁定时间；如果事务提交则完成对预留资源的确认；如果事务回滚，则释放预留的资源。 
-    </details> 
-
-- 💪 [96. Spring Validation及慢sql自定义日志](https://juejin.cn/post/7181430996577812535) | Mon Dec 26 2022 12:20 PM 
-    <details><summary>展开描述 ...</summary> 
-    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第32天，点击查看活动详情 96. Spring Validation及慢sql小计 
     </details> 
 <!-- juejin:END -->
 ### 少数派
