@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [不懂Nacos没关系，可以看看它是怎么运用代理模式的](https://juejin.cn/post/7181258161632837687) | Mon Dec 26 2022 1:09 AM 
+- 🤗 [低代码多分支协同开发的建设与实践,MySql索引下推知识分享,Android的线程和线程池| 酱酱的下午茶第139期](https://juejin.cn/post/7181278342815940664) | Mon Dec 26 2022 2:29 AM 
     <details><summary>展开描述 ...</summary> 
-    背景 看Nacos的源代码时，发现其中有对代理模式的运用，而且用得还不错，可以作为一个典型案例来聊聊，方便大家以更真实的案例来体验一下代理模式的运用。如果你对Nacos不了解，也并不影响对本篇文章的阅 
+    今日看点： ajax、axios、fetch之间优缺点重点对比，8种最坑SQL语法 ，从源码层面深度剖析Spring循环依赖，软件设计中最关键的“开闭原则”，究竟指什么呢？ MySql索引下推知识分享 
     </details> 
 
-- 🎡 [笑死，面试官又问我SpringBoot自动配置原理](https://juejin.cn/post/7181257290677223461) | Mon Dec 26 2022 1:06 AM 
+- 🎡 [2022 我用 MacBook Pro 整一年 【感想 与 踩坑指南】](https://juejin.cn/post/7181274704659873850) | Mon Dec 26 2022 2:13 AM 
     <details><summary>展开描述 ...</summary> 
-    嗯，SpringBoot的自动配置我觉得是SpringBoot很重要的“特性”了。众所周知，SpringBoot有着“ 
+    我从 Thinkpad 转用 M1 的 Macbook pro 已经一年了，几乎没有任何不适应，整体感受那是真的牛👃，速度和续航惊艳到我了，同时开启 6个 vscode 加几十个浏览器标签、post 
     </details> 
 
-- 🕯 [如何做好一款管理后台框架](https://juejin.cn/post/7181256996443095099) | Mon Dec 26 2022 1:05 AM 
+- 🕯 [如何不改一行代码，让Hippy启动速度提升50%？](https://juejin.cn/post/7181274458291142715) | Mon Dec 26 2022 2:13 AM 
     <details><summary>展开描述 ...</summary> 
-    一个有手就能写的框架，要让开发者选择使用你的，而不是自己去写，想必肯定不是实现上面那些功能那么简单，那要如何服务好开发者呢？ 
+    导读｜Hippy使用JS引擎进行异步渲染，在用户从点击到打开首屏可交互过程中会有一定的耗时，影响用户体验。如何优化这段耗时？腾讯客户端开发工程师李鹏，将介绍QQ浏览器通过切换JS引擎来优化耗时的探索过 
     </details> 
 
-- 🚀 [学 Rust 要几天？「GitHub 热点速览 v.22.51」](https://juejin.cn/post/7181254463842156581) | Mon Dec 26 2022 12:56 AM 
+- 🚀 [精读《磁贴布局 - 性能优化》](https://juejin.cn/post/7181273815513563193) | Mon Dec 26 2022 2:10 AM 
     <details><summary>展开描述 ...</summary> 
-    本周的 GitHub Trending 非常给力，一是解决了 Rust 的学习问题，提供了一个全面的教学课程；二是提供了多个高性能工具，比如，为 PWA 而生的 atrilabs-engine，部署方 
+    经过上一篇 精读《磁贴布局 - 功能实现》 的介绍，这次我们进入性能优化环节。 精读 磁贴布局性能优化方式有很多，比如通过空间换时间，存储父子关系的索引，方便快速查找到目标组件。但有一个最核心的性能优 
     </details> 
 
-- 💪 [深度学习——dgl.DGLGraph.multi_update_all函数](https://juejin.cn/post/7181243473058594872) | Mon Dec 26 2022 12:14 AM 
+- 💪 [Typescript的interface自动化生成API文档](https://juejin.cn/post/7181271791468281913) | Mon Dec 26 2022 2:02 AM 
     <details><summary>展开描述 ...</summary> 
-    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第29天，点击查看活动详情 dgl.DGLGraph.multi_update_all介绍 dgl.DGLGraph.multi_u 
+    这两天搞定了使用ast（抽象语法树）去把interface转为对象或者数组，这些数据就可以渲染为react组件的table或者markdown的table 
     </details> 
 <!-- juejin:END -->
 ### 少数派
