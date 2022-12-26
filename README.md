@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2022前端总结](https://juejin.cn/post/7181454049118535737) | Mon Dec 26 2022 1:50 PM 
+- 🤗 [基于声网 Flat 构建白板插件应用“成语解谜”的最佳实践](https://juejin.cn/post/7181467353907986489) | Mon Dec 26 2022 2:43 PM 
+    <details><summary>展开描述 ...</summary> 
+    “成语解谜”是一个基于互动白板 SDK 的互动小游戏应用。通过前端编码、调用白板 API 能力、定制化后端逻辑等，实现了一个老少咸宜、寓教于乐的成语解谜游戏。 
+    </details> 
+
+- 🎡 [Nest.js 这么大的项目是怎么优化 ts 编译性能的？新版源码如何调试？](https://juejin.cn/post/7181462211964076093) | Mon Dec 26 2022 2:21 PM 
+    <details><summary>展开描述 ...</summary> 
+    Nest.js 是流行的 node 服务端框架，最近我注意到它有一个大的 PR。 这个 PR 涉及到 50 多个文件，800 多行代码的改动： 同学们肯定会觉得这么多代码改动肯定是大版本升级无疑了。  
+    </details> 
+
+- 🕯 [2022前端总结](https://juejin.cn/post/7181454049118535737) | Mon Dec 26 2022 1:50 PM 
     <details><summary>展开描述 ...</summary> 
     「回顾2022，展望2023，我正在参与2022年终总结征文大赛活动」 前言 2022年即将过去，给自己这一年写个总结吧 一月份 22年过完年后，才是我新婚2个月，在郑州银行外包干了一年多，由于项目紧 
     </details> 
 
-- 🎡 [【理论指导实践】Seata-TCC模式](https://juejin.cn/post/7181441320894857253) | Mon Dec 26 2022 1:01 PM 
+- 🚀 [【理论指导实践】Seata-TCC模式](https://juejin.cn/post/7181441320894857253) | Mon Dec 26 2022 1:01 PM 
     <details><summary>展开描述 ...</summary> 
     TCC其核心思想是是：通过对资源进行预留，尽量减少对资源的锁定时间；如果事务提交则完成对预留资源的确认；如果事务回滚，则释放预留的资源。 
     </details> 
 
-- 🕯 [96. Spring Validation及慢sql自定义日志](https://juejin.cn/post/7181430996577812535) | Mon Dec 26 2022 12:20 PM 
+- 💪 [96. Spring Validation及慢sql自定义日志](https://juejin.cn/post/7181430996577812535) | Mon Dec 26 2022 12:20 PM 
     <details><summary>展开描述 ...</summary> 
     开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第32天，点击查看活动详情 96. Spring Validation及慢sql小计 
-    </details> 
-
-- 🚀 [Android代码静态检查（lint、Checkstyle、ktlint、Detekt）](https://juejin.cn/post/7181424552583364645) | Mon Dec 26 2022 11:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    不同团队的代码的风格不尽相同，不同的项目对于代码的规范也不一样。目前项目开发中有很多同学几乎没有用过代码检测工具，但是对于一些重要的项目中代码中存在的缺陷、性能问题、隐藏bug都是零容忍的。 
-    </details> 
-
-- 💪 [前端食堂技术周刊第 64 期：Node.js 19、Interop 2022、SvelteKit 1.0、2022 Web 性能回顾、最流行的 Node.js](https://juejin.cn/post/7181413448536817719) | Mon Dec 26 2022 11:14 AM 
-    <details><summary>展开描述 ...</summary> 
-    - Node.js 19 的新特性 - Interop 2022 年终更新 - SvelteKit 1.0 - 2022 Web 性能回顾 - 最流行的 Node.js 框架 - 最流行的 CSS-i 
     </details> 
 <!-- juejin:END -->
 ### 少数派
