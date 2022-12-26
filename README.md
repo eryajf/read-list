@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [低代码多分支协同开发的建设与实践,MySql索引下推知识分享,Android的线程和线程池| 酱酱的下午茶第139期](https://juejin.cn/post/7181278342815940664) | Mon Dec 26 2022 2:29 AM 
+- 🤗 [开源库、大项目的公共包，是这么用建造者模式的](https://juejin.cn/post/7181286978384887865) | Mon Dec 26 2022 3:01 AM 
+    <details><summary>展开描述 ...</summary> 
+    建造者模式，也有翻译成生成器模式的，大家看到后知道他们是一个东西，都是Builer Pattern翻译过来的就行。它是一种对象构建模式，是将一个复杂对象的构建与它的表示分离，使得同样的构建过程可以创建 
+    </details> 
+
+- 🎡 [前端怎么处理文件](https://juejin.cn/post/7181282391737466937) | Mon Dec 26 2022 2:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    在前端开发时，经常会遇到一些和文件相关的场景。比如：文件下载、文件上传、文件预览等。本文通过列举一些场景介绍前端处理文件的方式和知识点。 
+    </details> 
+
+- 🕯 [低代码多分支协同开发的建设与实践,MySql索引下推知识分享,Android的线程和线程池| 酱酱的下午茶第139期](https://juejin.cn/post/7181278342815940664) | Mon Dec 26 2022 2:29 AM 
     <details><summary>展开描述 ...</summary> 
     今日看点： ajax、axios、fetch之间优缺点重点对比，8种最坑SQL语法 ，从源码层面深度剖析Spring循环依赖，软件设计中最关键的“开闭原则”，究竟指什么呢？ MySql索引下推知识分享 
     </details> 
 
-- 🎡 [2022 我用 MacBook Pro 整一年 【感想 与 踩坑指南】](https://juejin.cn/post/7181274704659873850) | Mon Dec 26 2022 2:13 AM 
+- 🚀 [2022 我用 MacBook Pro 整一年 【感想 与 踩坑指南】](https://juejin.cn/post/7181274704659873850) | Mon Dec 26 2022 2:13 AM 
     <details><summary>展开描述 ...</summary> 
     我从 Thinkpad 转用 M1 的 Macbook pro 已经一年了，几乎没有任何不适应，整体感受那是真的牛👃，速度和续航惊艳到我了，同时开启 6个 vscode 加几十个浏览器标签、post 
     </details> 
 
-- 🕯 [如何不改一行代码，让Hippy启动速度提升50%？](https://juejin.cn/post/7181274458291142715) | Mon Dec 26 2022 2:13 AM 
+- 💪 [如何不改一行代码，让Hippy启动速度提升50%？](https://juejin.cn/post/7181274458291142715) | Mon Dec 26 2022 2:13 AM 
     <details><summary>展开描述 ...</summary> 
     导读｜Hippy使用JS引擎进行异步渲染，在用户从点击到打开首屏可交互过程中会有一定的耗时，影响用户体验。如何优化这段耗时？腾讯客户端开发工程师李鹏，将介绍QQ浏览器通过切换JS引擎来优化耗时的探索过 
-    </details> 
-
-- 🚀 [精读《磁贴布局 - 性能优化》](https://juejin.cn/post/7181273815513563193) | Mon Dec 26 2022 2:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    经过上一篇 精读《磁贴布局 - 功能实现》 的介绍，这次我们进入性能优化环节。 精读 磁贴布局性能优化方式有很多，比如通过空间换时间，存储父子关系的索引，方便快速查找到目标组件。但有一个最核心的性能优 
-    </details> 
-
-- 💪 [Typescript的interface自动化生成API文档](https://juejin.cn/post/7181271791468281913) | Mon Dec 26 2022 2:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    这两天搞定了使用ast（抽象语法树）去把interface转为对象或者数组，这些数据就可以渲染为react组件的table或者markdown的table 
     </details> 
 <!-- juejin:END -->
 ### 少数派
