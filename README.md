@@ -696,28 +696,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Admittee - 揭开大学录取的神秘面纱](https://xinquji.com/posts/792337?utm_campaign=xinquji-rss) | Sun Dec 25 2022 6:00 AM 
+- 👀 [Taction - 更快地计划你的一天](https://xinquji.com/posts/792365?utm_campaign=xinquji-rss) | Mon Dec 26 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     揭开大学录取的神秘面纱  
+     更快地计划你的一天  
     </details> 
 
-- 🥷 [Twitter University - 2000 个最佳 Twitter 线程，经过精心挑选和分类](https://xinquji.com/posts/792336?utm_campaign=xinquji-rss) | Sun Dec 25 2022 6:00 AM 
+- 🥷 [My Browsing Habits - 自动检测您的浏览趋势和习惯](https://xinquji.com/posts/792364?utm_campaign=xinquji-rss) | Mon Dec 26 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     2000 个最佳 Twitter 线程，经过精心挑选和分类  
+     自动检测您的浏览趋势和习惯  
     </details> 
 
-- 💼 [Build a GIANT - 查找在任何利基市场中赚取 6 位数的所有热门产品](https://xinquji.com/posts/792335?utm_campaign=xinquji-rss) | Sun Dec 25 2022 6:00 AM 
+- 💼 [MobAI - 人工智能艺术生成器](https://xinquji.com/posts/792363?utm_campaign=xinquji-rss) | Mon Dec 26 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     查找在任何利基市场中赚取 6 位数的所有热门产品  
+     人工智能艺术生成器  
     </details> 
 
-- 🦅 [Syllabics - 提高你的英语发音](https://xinquji.com/posts/792334?utm_campaign=xinquji-rss) | Sun Dec 25 2022 6:00 AM 
+- 🦅 [ChatGPT Matrix Style - 让 ChatGPT 像黑客帝国一样](https://xinquji.com/posts/792362?utm_campaign=xinquji-rss) | Mon Dec 26 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     提高你的英语发音  
+     让 ChatGPT 像黑客帝国一样  
     </details> 
 
-- 😺 [Gist Snip - 让你的要点真正有用](https://xinquji.com/posts/792333?utm_campaign=xinquji-rss) | Sun Dec 25 2022 6:00 AM 
+- 😺 [StatusTweet - 从 Mac 的菜单栏发推文](https://xinquji.com/posts/792361?utm_campaign=xinquji-rss) | Mon Dec 26 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     让你的要点真正有用  
+     从 Mac 的菜单栏发推文  
     </details> 
 <!-- xinquji:END -->
