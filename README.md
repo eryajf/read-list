@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android代码静态检查（lint、Checkstyle、ktlint、Detekt）](https://juejin.cn/post/7181424552583364645) | Mon Dec 26 2022 11:56 AM 
+- 🤗 [96. Spring Validation及慢sql自定义日志](https://juejin.cn/post/7181430996577812535) | Mon Dec 26 2022 12:20 PM 
+    <details><summary>展开描述 ...</summary> 
+    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第32天，点击查看活动详情 96. Spring Validation及慢sql小计 
+    </details> 
+
+- 🎡 [Android代码静态检查（lint、Checkstyle、ktlint、Detekt）](https://juejin.cn/post/7181424552583364645) | Mon Dec 26 2022 11:56 AM 
     <details><summary>展开描述 ...</summary> 
     不同团队的代码的风格不尽相同，不同的项目对于代码的规范也不一样。目前项目开发中有很多同学几乎没有用过代码检测工具，但是对于一些重要的项目中代码中存在的缺陷、性能问题、隐藏bug都是零容忍的。 
     </details> 
 
-- 🎡 [前端食堂技术周刊第 64 期：Node.js 19、Interop 2022、SvelteKit 1.0、2022 Web 性能回顾、最流行的 Node.js](https://juejin.cn/post/7181413448536817719) | Mon Dec 26 2022 11:14 AM 
+- 🕯 [前端食堂技术周刊第 64 期：Node.js 19、Interop 2022、SvelteKit 1.0、2022 Web 性能回顾、最流行的 Node.js](https://juejin.cn/post/7181413448536817719) | Mon Dec 26 2022 11:14 AM 
     <details><summary>展开描述 ...</summary> 
     - Node.js 19 的新特性 - Interop 2022 年终更新 - SvelteKit 1.0 - 2022 Web 性能回顾 - 最流行的 Node.js 框架 - 最流行的 CSS-i 
     </details> 
 
-- 🕯 [ChatGPT进化的秘密](https://juejin.cn/post/7181405978447839269) | Mon Dec 26 2022 10:47 AM 
+- 🚀 [ChatGPT进化的秘密](https://juejin.cn/post/7181405978447839269) | Mon Dec 26 2022 10:47 AM 
     <details><summary>展开描述 ...</summary> 
     最近，OpenAI 的预训练模型 ChatGPT 给人工智能领域的研究人员留下了深刻的印象和启发。它又强又聪明，且跟它说话很好玩，还会写代码。它在多个方面的能力远远超过了自然语言处理研究者们的预期。 
     </details> 
 
-- 🚀 [CSS中你可能不知道的Selectors特性](https://juejin.cn/post/7181403667818348605) | Mon Dec 26 2022 10:36 AM 
+- 💪 [CSS中你可能不知道的Selectors特性](https://juejin.cn/post/7181403667818348605) | Mon Dec 26 2022 10:36 AM 
     <details><summary>展开描述 ...</summary> 
     引言 最近看了2022年全球CSS调查报告，发现了一些不常见的伪类和伪元素。 伪类 :has&lpar;&rpar; html css :is&lpar;&rpar; html css :host html :host&lpar;&rpar; html :ho 
-    </details> 
-
-- 💪 [FinClip凡泰极客小程序（让我们的App成为一个超级App！）](https://juejin.cn/post/7181398132675051580) | Mon Dec 26 2022 10:14 AM 
-    <details><summary>展开描述 ...</summary> 
-    现在很多App内部都有自己的小程序，比如微信、支付宝、字节跳动、百度等等。小程序之所以这几年来这么火，是因为它是比较方便的，不需要用户下载App就能直接体验。它可以让开发者开发一些小程序然后上架到他们 
     </details> 
 <!-- juejin:END -->
 ### 少数派
