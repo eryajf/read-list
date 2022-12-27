@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 1227](http://jandan.net/p/112017) | Tue Dec 27 2022 2:37 AM 
+- 🚀 [2022年度物理学简评](http://jandan.net/p/112019) | Tue Dec 27 2022 5:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    基础物理乏力，材料和天体物理学捷报频传 
+    </details> 
+
+- 🙉 [Quora：什么是磷悖论？](http://jandan.net/p/112014) | Tue Dec 27 2022 5:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    磷其实很难获得，而地球上却相当丰富。 
+    </details> 
+
+- 🎉 [今日好价 1227](http://jandan.net/p/112017) | Tue Dec 27 2022 5:43 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：38 
     </details> 
 
-- 🙉 [Quora：高智商的人有哪些异常的表现？](http://jandan.net/p/112008) | Mon Dec 26 2022 5:33 AM 
+- 🐲 [我们正在接近治愈癌症](http://jandan.net/p/112013) | Tue Dec 27 2022 5:42 AM 
     <details><summary>展开描述 ...</summary> 
-    极其聪明的的副作用之一是懒惰。 
+    12名癌症患者刚刚被Dostarlimab治愈。 
     </details> 
 
-- 🎉 [安全警示：自来水有毒](http://jandan.net/p/112006) | Mon Dec 26 2022 5:32 AM 
+-  [哪怕在中世纪，人们仍然非常喜欢猫猫](http://jandan.net/p/112018) | Tue Dec 27 2022 5:41 AM 
     <details><summary>展开描述 ...</summary> 
-    饮用水中潜伏的有害物质及如何消除它们 
-    </details> 
-
-- 🐲 [美国亚裔人口罹患胃癌的风险异常高](http://jandan.net/p/112010) | Mon Dec 26 2022 5:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    相对其他族裔而言。原因不明 
-    </details> 
-
--  [雌性南方斑鹛：生的雏鸟越多，就变得越笨？](http://jandan.net/p/112012) | Mon Dec 26 2022 4:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    野生动物与年龄相关的认知能力下降存在性别差异 
+    哪怕传说中猫是女巫的伙伴 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
