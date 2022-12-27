@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [没想到小米 13 居然支持 NETFLIX HDR 10 和 Dolby Vision](https://www.v2ex.com/t/904861#reply0) | Mon Dec 26 2022 7:46 PM
-- 🤗 [请推荐屏幕尺寸不超过 6 寸的优质手机，最好是国外品牌国外 ROM](https://www.v2ex.com/t/904857#reply7) | Mon Dec 26 2022 6:03 PM
-- 🎭 [你们有过想要舔屏的冲动吗？](https://www.v2ex.com/t/904840#reply11) | Mon Dec 26 2022 2:40 PM
-- 🥷 [请问大家有没有好用的 json 或者 api 文档管理工具](https://www.v2ex.com/t/904830#reply6) | Mon Dec 26 2022 1:30 PM
-- 🐵 [SSH 怎么发送本地的信号到远端](https://www.v2ex.com/t/904828#reply3) | Mon Dec 26 2022 1:22 PM<!-- v2ex:END -->
+- 🥸 [怎么在数据库存敏感数据？](https://www.v2ex.com/t/904868#reply6) | Tue Dec 27 2022 12:48 AM
+- 🤗 [安利一下自己用 Golang 写的下载工具 bookhunter](https://www.v2ex.com/t/904862#reply1) | Tue Dec 27 2022 12:00 AM
+- 🎭 [没想到小米 13 居然支持 NETFLIX HDR 10 和 Dolby Vision](https://www.v2ex.com/t/904861#reply4) | Mon Dec 26 2022 7:46 PM
+- 🥷 [请推荐屏幕尺寸不超过 6 寸的优质手机，最好是国外品牌国外 ROM](https://www.v2ex.com/t/904857#reply11) | Mon Dec 26 2022 6:03 PM
+- 🐵 [你们有过想要舔屏的冲动吗？](https://www.v2ex.com/t/904840#reply20) | Mon Dec 26 2022 2:40 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
