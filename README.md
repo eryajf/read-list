@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Java 实在太卷了, 如何在面试中脱颖而出, 怎么提前准备?](https://www.v2ex.com/t/905040#reply4) | Tue Dec 27 2022 2:24 PM
-- 🤗 [「Goravel 上新」验证表单的三种新姿势，估计你只用过一种](https://www.v2ex.com/t/905036#reply0) | Tue Dec 27 2022 1:53 PM
-- 🎭 [[硅谷外企] [核心业务] [业内 Top] [支持远程] [全美新兴科技 50 强] Engineer Manager - 期权+双休+四周年假+各种福利补贴](https://www.v2ex.com/t/905034#reply0) | Tue Dec 27 2022 1:45 PM
-- 🥷 [如何将 https 的文件链接转成本地服务器上？](https://www.v2ex.com/t/905031#reply10) | Tue Dec 27 2022 1:22 PM
-- 🐵 [Win10 最后一个机械硬盘友好的版本](https://www.v2ex.com/t/905007#reply19) | Tue Dec 27 2022 10:33 AM<!-- v2ex:END -->
+- 🥸 [windows10 局域网无法访问已经共享的主机？提示找不到网络位置](https://www.v2ex.com/t/905052#reply0) | Tue Dec 27 2022 7:05 PM
+- 🤗 [Java 实在太卷了, 如何在面试中脱颖而出, 怎么提前准备?](https://www.v2ex.com/t/905040#reply5) | Tue Dec 27 2022 2:24 PM
+- 🎭 [「Goravel 上新」验证表单的三种新姿势，估计你只用过一种](https://www.v2ex.com/t/905036#reply0) | Tue Dec 27 2022 1:53 PM
+- 🥷 [[硅谷外企] [核心业务] [业内 Top] [支持远程] [全美新兴科技 50 强] Engineer Manager - 期权+双休+四周年假+各种福利补贴](https://www.v2ex.com/t/905034#reply0) | Tue Dec 27 2022 1:45 PM
+- 🐵 [如何将 https 的文件链接转成本地服务器上？](https://www.v2ex.com/t/905031#reply10) | Tue Dec 27 2022 1:22 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
