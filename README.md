@@ -704,18 +704,18 @@
      搜索工具浏览器插件，支持添加自定义搜索引擎，支持右键搜索  
     </details> 
 
-- 💼 [Taction - 更快地计划你的一天](https://xinquji.com/posts/792365?utm_campaign=xinquji-rss) | Mon Dec 26 2022 6:00 AM 
+- 💼 [HFF Products - 数以百万计的免费中奖直销产品导入](https://xinquji.com/posts/792394?utm_campaign=xinquji-rss) | Tue Dec 27 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     更快地计划你的一天  
+     数以百万计的免费中奖直销产品导入  
     </details> 
 
-- 🦅 [My Browsing Habits - 自动检测您的浏览趋势和习惯](https://xinquji.com/posts/792364?utm_campaign=xinquji-rss) | Mon Dec 26 2022 6:00 AM 
+- 🦅 [Dry&lpar;ish&rpar; January Challenge by Sunnyside - 从 2023 年开始，戒酒、戒酒或减少饮酒量](https://xinquji.com/posts/792393?utm_campaign=xinquji-rss) | Tue Dec 27 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     自动检测您的浏览趋势和习惯  
+     从 2023 年开始，戒酒、戒酒或减少饮酒量  
     </details> 
 
-- 😺 [MobAI - 人工智能艺术生成器](https://xinquji.com/posts/792363?utm_campaign=xinquji-rss) | Mon Dec 26 2022 6:00 AM 
+- 😺 [Fourth Grader or ChatGPT? - 这是四年级学生写的还是 ChatGPT？](https://xinquji.com/posts/792392?utm_campaign=xinquji-rss) | Tue Dec 27 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     人工智能艺术生成器  
+     这是四年级学生写的还是 ChatGPT？  
     </details> 
 <!-- xinquji:END -->
