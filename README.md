@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [之前有运动习惯的朋友，有没有因为最近疫情不敢出门运动了](https://www.v2ex.com/t/904938#reply1) | Tue Dec 27 2022 6:06 AM
-- 🤗 [postman 发布文档有 5 个免费的限制 如何解决或绕过？](https://www.v2ex.com/t/904937#reply0) | Tue Dec 27 2022 6:05 AM
-- 🎭 [[硅谷外企]] [核心业务] [业内 Top1] [支持远程] Engineer Manager - 期权+双休+四周年假+各种福利补贴](https://www.v2ex.com/t/904934#reply0) | Tue Dec 27 2022 6:03 AM
-- 🥷 [请问 NAS 里的硬盘到底多怕震动](https://www.v2ex.com/t/904927#reply6) | Tue Dec 27 2022 5:42 AM
-- 🐵 [那个免费的 win10 的来自设备制造商的 hevc 编解码器扩展怎么找不到了？](https://www.v2ex.com/t/904921#reply7) | Tue Dec 27 2022 5:24 AM<!-- v2ex:END -->
+- 🥸 [这次的 UI 应该可以了 不乱了](https://www.v2ex.com/t/904950#reply0) | Tue Dec 27 2022 7:10 AM
+- 🤗 [android 的 gsi/treble 大家用上了么？](https://www.v2ex.com/t/904947#reply0) | Tue Dec 27 2022 7:01 AM
+- 🎭 [大家在 Mac 上安装 parallels 之后都装什么软件呢？](https://www.v2ex.com/t/904946#reply2) | Tue Dec 27 2022 6:58 AM
+- 🥷 [求有 CV 方面的朋友帮忙解释这个 WIKI 页面的含义](https://www.v2ex.com/t/904944#reply5) | Tue Dec 27 2022 6:40 AM
+- 🐵 [之前有运动习惯的朋友，有没有因为最近疫情不敢出门运动了](https://www.v2ex.com/t/904938#reply11) | Tue Dec 27 2022 6:06 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
