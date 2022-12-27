@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [听一位产品经理的分享而记-通用技能](https://juejin.cn/post/7181813989628870716) | Tue Dec 27 2022 1:08 PM 
+- 🤗 [Spring Boot 自动装配原理](https://juejin.cn/post/7181828330574839866) | Tue Dec 27 2022 2:02 PM 
+    <details><summary>展开描述 ...</summary> 
+    首先，先看SpringBoot的主配置类： 点进@SpringBootApplication来看，发现@SpringBootApplication是一个组合注解。 首先我们先来看 @SpringBoo 
+    </details> 
+
+- 🎡 [Spring 为何需要三级缓存解决循环依赖？](https://juejin.cn/post/7181827086552662053) | Tue Dec 27 2022 1:58 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 在使用spring框架的日常开发中，bean之间的循环依赖太频繁了，spring已经帮我们去解决循环依赖问题，对我们开发者来说是无感知的，下面具体分析一下spring是如何解决bean之间循环依 
+    </details> 
+
+- 🕯 [2022年度人气创作者榜单 瓜分奖池第四天名单公布](https://juejin.cn/post/7181815967863799868) | Tue Dec 27 2022 1:17 PM 
+    <details><summary>展开描述 ...</summary> 
+    2022年度人气创作者榜单评选第四天，共有 626 名创作者参与瓜分总值 9000 元奖池。来看看你能瓜分多少吧。 
+    </details> 
+
+- 🚀 [听一位产品经理的分享而记-通用技能](https://juejin.cn/post/7181813989628870716) | Tue Dec 27 2022 1:08 PM 
     <details><summary>展开描述 ...</summary> 
     带着一些偶然性，让我看到了这个视频分享，有了一些收获，最后让我总结出了一些文字能够呈现给大家，也给我自己。 适用于每一位初中级工作者的通用基础技能 
     </details> 
 
-- 🎡 [字节跳动在 Rust 微服务方向的探索和实践](https://juejin.cn/post/7181794889238052901) | Tue Dec 27 2022 11:52 AM 
+- 💪 [字节跳动在 Rust 微服务方向的探索和实践](https://juejin.cn/post/7181794889238052901) | Tue Dec 27 2022 11:52 AM 
     <details><summary>展开描述 ...</summary> 
     本文整理自字节跳动火山引擎基础架构服务框架工程师吴迪于Qcon全球软件开发大会上的发言,内容主要分为以下三个部分：我们为什么选择了 Rust 语言;我们做了什么； 展望未来：机遇与挑战。 
-    </details> 
-
-- 🕯 [2022 年终总结，知识沉淀这一年](https://juejin.cn/post/7181791768143200313) | Tue Dec 27 2022 11:40 AM 
-    <details><summary>展开描述 ...</summary> 
-    「回顾2022，展望2023，我正在参与2022年终总结征文大赛活动」 Hello ，大家好，我是小马，一名小厂前端工程师，普通的不能再普通的小前端，本来不想写年终总结了，因为一年下来，也没啥变化。 
-    </details> 
-
-- 🚀 [一种基于DH算法的多方通讯加密的协议设计](https://juejin.cn/post/7181790762881941560) | Tue Dec 27 2022 11:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文基于区块链各类算法和协议的研究，实现一种基于 DH 算法的去中心化的多方通讯的加密协议设计，来保证群体信息交换的安全性。 
-    </details> 
-
-- 💪 [一种基于DH算法的多方通讯加密的协议设计](https://juejin.cn/post/7181790656908492857) | Tue Dec 27 2022 11:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文基于区块链各类算法和协议的研究，实现一种基于 DH 算法的去中心化的多方通讯的加密协议设计，来保证群体信息交换的安全性。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
