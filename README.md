@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [可视化绘制梅西射球点位、实现 Meterial UI 交互波浪动画、SVG绘画一只小猫咪 | 酱酱的下午茶第140期](https://juejin.cn/post/7181658083649650725) | Tue Dec 27 2022 3:02 AM 
+- 🤗 [Dubbo源码|二十一、Dubbo服务引入——创建代理对象](https://juejin.cn/post/7181676071090126885) | Tue Dec 27 2022 4:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第31天，本文介绍Dubbo服务引入部分的源码分析——创建代理对象。 
+    </details> 
+
+- 🎡 [一个前端混子的2022，持续性混吃等死，间歇性踌躇满志](https://juejin.cn/post/7181673785097977914) | Tue Dec 27 2022 4:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    「回顾2022，展望2023，我正在参与2022年终总结征文大赛活动」 欢迎来到一个前端混子的2022，此人的2022一句话能总结：持续性混吃等死，间歇性踌躇满志。 几年前，我觉得自己应该可以通过自己 
+    </details> 
+
+- 🕯 [🎈🎈🎈SharedWorkerGlobalScope 居然只是看起来复杂](https://juejin.cn/post/7181667535577120824) | Tue Dec 27 2022 3:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    上一章介绍了Worker的全局作用域，了解到DedicatedWorkerGlobalScope是继承自WorkerGlobalScope的; 这一章介绍的SharedWorkerGlobalScop 
+    </details> 
+
+- 🚀 [可视化绘制梅西射球点位、实现 Meterial UI 交互波浪动画、SVG绘画一只小猫咪 | 酱酱的下午茶第140期](https://juejin.cn/post/7181658083649650725) | Tue Dec 27 2022 3:02 AM 
     <details><summary>展开描述 ...</summary> 
     【本期下午茶看点】：订单30分钟未支付自动取消怎么实现、一次因 Too many open files 引发的服务雪崩、如何选择一个合适的Web存储方案... 
     </details> 
 
-- 🎡 [nextjs 与 unocss 最佳实践](https://juejin.cn/post/7181656512056524855) | Tue Dec 27 2022 2:55 AM 
+- 💪 [nextjs 与 unocss 最佳实践](https://juejin.cn/post/7181656512056524855) | Tue Dec 27 2022 2:55 AM 
     <details><summary>展开描述 ...</summary> 
     前言 作为一个前端开发来说，对于css，真是又爱又恨。可以用其实现各种炫酷的效果，但真的很难写。特别是使用 React 作为主要开发框架，有着各种各样的css写法。 你可以选择复古的引入css文件的方 
-    </details> 
-
-- 🕯 [分布式系统关键路径延迟分析实践](https://juejin.cn/post/7181656452044423205) | Tue Dec 27 2022 2:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文介绍了目前在线服务中常用的延迟分析方法，重点讲解了关键路径分析的原理和技术实现方案，实践表明此方案效果显著，在耗时优化方面发挥了重要作用，希望这些内容能够对有兴趣的读者产生启发，并有所帮助。 
-    </details> 
-
-- 🚀 [将云原生进行到底：腾讯百万级别容器云平台实践揭秘](https://juejin.cn/post/7181651277590298682) | Tue Dec 27 2022 2:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    导读｜基于 K8s 的云原生容器化已经在腾讯内部海量业务中大范围落地实践。业务从传统的虚拟机部署形态无缝切换到容器部署形态，运行在 K8s 上的应用从无状态服务扩展到有状态服务，这个过程经历了哪些改造 
-    </details> 
-
-- 💪 [Mysql到TiDB迁移，双写数据库兜底方案](https://juejin.cn/post/7181646464102187063) | Tue Dec 27 2022 2:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    TiDB 作为开源 NewSQL 数据库的典型代表之一，同样支持 SQL，支持事务 ACID 特性。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
