@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2022 年度盘点 | 更成熟的 AI，更破圈的技术狂欢](https://juejin.cn/post/7181702766161887290) | Tue Dec 27 2022 5:55 AM 
+- 🤗 [pnpm + monorepo + changeset实现多包管理和发布](https://juejin.cn/post/7181720787400228925) | Tue Dec 27 2022 7:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    pnpm提供对monorepo的支持，通过`workspace:*`可以软连接到其他软件包，实现实时更新。通过changset生成变更集，管理版本，生成changelog，并通过`publish`发布 
+    </details> 
+
+- 🎡 [叮叮叮！双旦掘金小册帮你来省钱啦！](https://juejin.cn/post/7181714689615724599) | Tue Dec 27 2022 6:40 AM 
+    <details><summary>展开描述 ...</summary> 
+    双旦狂欢季，掘金小册送来暖心好礼 100张5折小册券，全场小册8折，购小册满100元参与抽奖 多重惊喜，抢先剧透 
+    </details> 
+
+- 🕯 [Netty中8大组件详解（EventLoop、Channel、ChannelFuture、Future、 Promise、Handler 、 Pipeline、ByteBuf）](https://juejin.cn/post/7181713105490018341) | Tue Dec 27 2022 6:34 AM 
+    <details><summary>展开描述 ...</summary> 
+     # Netty 概述 ## 1、什么是 Netty ``` Netty is an asynchronous event-driven network application framewor 
+    </details> 
+
+- 🚀 [【yechaoa】2022进阶成长，扬帆再起航！](https://juejin.cn/post/7181708481513127992) | Tue Dec 27 2022 6:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    阶段性回顾过去这一年的得与失，是一次审视自己的好机会，也有助于养成自我管理的好习惯。 在逆境中成长，失败中总结，不断重塑自己，直到 站上山巅！ 
+    </details> 
+
+- 💪 [2022 年度盘点 | 更成熟的 AI，更破圈的技术狂欢](https://juejin.cn/post/7181702766161887290) | Tue Dec 27 2022 5:55 AM 
     <details><summary>展开描述 ...</summary> 
     2022 年在此起彼伏的咳嗽声中接近尾声，这一年，AIGC 成为人工智能领域最大黑马，ScienceAI 有了更多实际落地的应用。一起看看人工智能今年的新发展吧。 
-    </details> 
-
-- 🎡 [nvm  mac 环境搭建小计](https://juejin.cn/post/7181701774154301496) | Tue Dec 27 2022 5:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    需要用到多个node环境所以需要安装nvm，故此有本文，不成功来打我！5分钟配置完成！傻瓜式教程，跟着敲就完事了！ 
-    </details> 
-
-- 🕯 [大数据启蒙-学习Hadoop-HDFS（六）](https://juejin.cn/post/7181697859740237882) | Tue Dec 27 2022 5:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第22天，点击查看活动详情 前言 终究还是难逃一劫，这几天中招休息了，趁着今天好，赶紧结束这一部分，拖得有点长了，抱歉。 
-    </details> 
-
-- 🚀 [前端基础_矩阵变换](https://juejin.cn/post/7181694725286527036) | Tue Dec 27 2022 5:23 AM 
-    <details><summary>展开描述 ...</summary> 
-    矩阵变换 在介绍矩阵变换之前，首先要介绍一下变换矩阵，这个矩阵是专门用来实现图形变形的，它与坐标一起配合使用，以达到变形的目的。当图形上下文被创建完毕时，事实上也创建了一个默认的变换矩阵，如果不对这个 
-    </details> 
-
-- 💪 [前端基础_组合多个图形](https://juejin.cn/post/7181694475620581413) | Tue Dec 27 2022 5:23 AM 
-    <details><summary>展开描述 ...</summary> 
-    组合多个图形 在前面的实例中，我们看到使用Canvas API可以将一个图形重叠绘制在另一个图形上面，但图形中能够被看到的部分完全取决于以哪种方式进行组合，这时需要使用到Canvas API的图形组合 
     </details> 
 <!-- juejin:END -->
 ### 少数派
