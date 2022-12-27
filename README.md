@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [第143期：flutter中的资源和图片](https://juejin.cn/post/7181525805044858939) | Mon Dec 26 2022 6:56 PM 
+- 🤗 [【TypeScript】TS交叉类型&amp;联合类型（六）](https://juejin.cn/post/7181623514355466296) | Tue Dec 27 2022 12:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    什么是交叉类型呢？简单来说就是**通过`&amp;`符号将多个类型进行合并成一个类型**，然后用`type`来声明新生成的类型。 
+    </details> 
+
+- 🎡 [p5.js 使用npm安装p5.js后如何使用？](https://juejin.cn/post/7181621860516724796) | Tue Dec 27 2022 12:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    按照 《p5.js 光速入门》 的方式在 module 模式下使用 p5.js ，如果不出意外的话肯定会有意外！ 
+    </details> 
+
+- 🕯 [数据库备份](https://juejin.cn/post/7181611401398452283) | Tue Dec 27 2022 12:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    MYSQL数据备份相信大家都很熟悉，听过、见过、玩过，我们这次就来对 MYSQL 备份做一个介绍 首先理一下备份有哪些类型，可以按不同的维度来做解释 备份类型 按根据服务器状态 热备份：读、写不受影响 
+    </details> 
+
+- 🚀 [C++——业务办理时间问题](https://juejin.cn/post/7181596871683473465) | Mon Dec 26 2022 11:19 PM 
+    <details><summary>展开描述 ...</summary> 
+    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第30天，点击查看活动详情 为了解决这个问题，我们可以使用贪心的思想，每次选择最少的时间办理业务的窗口。 首先，我们需要定义一个数组 
+    </details> 
+
+- 💪 [第143期：flutter中的资源和图片](https://juejin.cn/post/7181525805044858939) | Mon Dec 26 2022 6:56 PM 
     <details><summary>展开描述 ...</summary> 
     封面图 下个季度的目标是把前端监控相关的内容梳理出来，梳理出来之后可能会在公司内部做个分享～ Flutter应用程序既括代码也包括一些其他的资产，我们通常这些资产为资源。 有时候我会思考assets这 
-    </details> 
-
-- 🎡 [Go并发与锁的两种方式，如何提效](https://juejin.cn/post/7181490237439213629) | Mon Dec 26 2022 4:11 PM 
-    <details><summary>展开描述 ...</summary> 
-    很多语言的并发编程很容易在同时修改某个变量的时候，因为操作不是原子的，而出现错误计算，比如一个加法运算使用中的变量被修改，而导致计算结果出错，典型的像统计商品库存。 个人建议只要涉及到共享变量统统使用 
-    </details> 
-
-- 🕯 [NodeJS 零散小项目难管理？试试这个 npm 提供的 &#39;monorepo&#39; - workspace](https://juejin.cn/post/7181486158667317308) | Mon Dec 26 2022 3:54 PM 
-    <details><summary>展开描述 ...</summary> 
-    最近写了的一些模块化，还有偏实验的文章，里面都有很多例子，大多都是提交 1 到 2 次，基本就结束整个项目的生命周期了，所以我就想着能不能把它们集中起来管理，简单搜索了一下，也许 monorepo 
-    </details> 
-
-- 🚀 [坐着地铁学习职责链模式，一学就会](https://juejin.cn/post/7181481877205680186) | Mon Dec 26 2022 3:39 PM 
-    <details><summary>展开描述 ...</summary> 
-    职责链模式，指的是由拥有处理能力的职责节点对象组成一个链条，一个请求从链条的开始或者中间进入，都有机会被后续的职责节点对象处理。进入职责链的请求，会沿着后续链条被传递，直到请求被处理才会终止传递。 
-    </details> 
-
-- 💪 [Flutter框架在项目中使用App Manifest检查用户界面以及配置混乱之后对于构建配置的方案【Flutter】](https://juejin.cn/post/7181477327568633917) | Mon Dec 26 2022 3:20 PM 
-    <details><summary>展开描述 ...</summary> 
-    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第33天，点击查看活动详情 配置混乱 默认情况下，flutter不支持Android混淆。 如果使用第三方Java或Android库 
     </details> 
 <!-- juejin:END -->
 ### 少数派
