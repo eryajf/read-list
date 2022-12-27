@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [不读可以先收藏：2022 少数派年度高分内容「合订本」](https://sspai.com/post/77488) | Tue Dec 27 2022 9:30 AM 
+- 👹 [给新手的播客录制完全入门建议](https://sspai.com/post/76438) | Tue Dec 27 2022 11:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    本期直播，我们将重点谈及录音过程中需要注意的事项，包含录音环境、录音设备、录制方法等。婉莹手绘了本期内容的大纲，你也可以单独下载这份大纲的 PDF 版本。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/post/76438&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为付费栏目文章，出自&lt;a href=&quot;https://sspai.com/series/280&quot; target=&quot;_blank&quot;&gt;《100 小时后请叫我播客主理人（视频版）》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
+    </details> 
+
+- 🐘 [不读可以先收藏：2022 少数派年度高分内容「合订本」](https://sspai.com/post/77488) | Tue Dec 27 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
     希望来年大家一如既往，在数字世界里看清真相，更要于忙碌生活中照顾好自己。&lt;a href=&quot;https://sspai.com/post/77488&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [我的文科转码之路：入门新领域的思路与方法](https://sspai.com/post/77485) | Tue Dec 27 2022 6:42 AM 
+- 🤭 [我的文科转码之路：入门新领域的思路与方法](https://sspai.com/post/77485) | Tue Dec 27 2022 6:42 AM 
     <details><summary>展开描述 ...</summary> 
     编注：作者为香港大学计算机学院硕士，目前是区块链开发从业者。以前并不算是一个很崇尚各种学习方法论的人，对这种「如何」体也比较无感，总觉得学习是一件很因人而异的事，常常固守着自己原本的习惯与方法。发生转 ...&lt;a href=&quot;https://sspai.com/post/77485&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [本月玩什么 | 巫师 3 次世代版、极品飞车 不羁、木卫四协议](https://sspai.com/post/77477) | Tue Dec 27 2022 3:30 AM 
+- 🥸 [本月玩什么 | 巫师 3 次世代版、极品飞车 不羁、木卫四协议](https://sspai.com/post/77477) | Tue Dec 27 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     最近值得一玩的新作推荐。&lt;a href=&quot;https://sspai.com/post/77477&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：红魔 8 Pro 系列发布、荣耀发布 80 GT 等](https://sspai.com/post/77478) | Tue Dec 27 2022 1:01 AM 
+- 🙉 [派早报：红魔 8 Pro 系列发布、荣耀发布 80 GT 等](https://sspai.com/post/77478) | Tue Dec 27 2022 1:01 AM 
     <details><summary>展开描述 ...</summary> 
     全新的 QQ for Linux 版现已发布，和包全国通行卡可使用 Apple Pay 快捷交通模式等。&lt;a href=&quot;https://sspai.com/post/77478&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派评 | 近期值得关注的 App](https://sspai.com/post/77473) | Mon Dec 26 2022 9:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/77473&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
