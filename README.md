@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [pnpm + monorepo + changeset实现多包管理和发布](https://juejin.cn/post/7181720787400228925) | Tue Dec 27 2022 7:06 AM 
+- 🤗 [从零开发一个 Chrome 扩展程序&lpar;自动给网页加个看板娘，盯着你认真工作/摸鱼&rpar;](https://juejin.cn/post/7181709885409591354) | Tue Dec 27 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-    pnpm提供对monorepo的支持，通过`workspace:*`可以软连接到其他软件包，实现实时更新。通过changset生成变更集，管理版本，生成changelog，并通过`publish`发布 
+    前言 本文打算实现一个自动给网页添加一个看板娘的扩展，可以显示/隐藏， 并且有持久化记录功能；根据网页的href记录是否开启看板娘；以及鼠标选中文本出现扩展自定义的 menu事件；如图所示： 
     </details> 
 
-- 🎡 [叮叮叮！双旦掘金小册帮你来省钱啦！](https://juejin.cn/post/7181714689615724599) | Tue Dec 27 2022 6:40 AM 
+- 🎡 [Redis的网络模型究竟有多强](https://juejin.cn/post/7181650709635399738) | Tue Dec 27 2022 2:33 AM 
     <details><summary>展开描述 ...</summary> 
-    双旦狂欢季，掘金小册送来暖心好礼 100张5折小册券，全场小册8折，购小册满100元参与抽奖 多重惊喜，抢先剧透 
+    高效的网络模型是Redis实现高吞吐量的重要底层支撑，是“高性能”的重要原因，却不是“快”的直接理由。本文将从BIO开始介绍，经过NIO、多路复用，最终说回Redis的Reactor模型，力求详尽。 
     </details> 
 
-- 🕯 [Netty中8大组件详解（EventLoop、Channel、ChannelFuture、Future、 Promise、Handler 、 Pipeline、ByteBuf）](https://juejin.cn/post/7181713105490018341) | Tue Dec 27 2022 6:34 AM 
+- 🕯 [源码解析ReentrantLock加锁过程](https://juejin.cn/post/7181647763061342245) | Tue Dec 27 2022 2:22 AM 
     <details><summary>展开描述 ...</summary> 
-     # Netty 概述 ## 1、什么是 Netty ``` Netty is an asynchronous event-driven network application framewor 
+    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第6天，点击查看活动详情 相信对并发有所了解的同学对于ReentrantLock并不陌生。 
     </details> 
 
-- 🚀 [【yechaoa】2022进阶成长，扬帆再起航！](https://juejin.cn/post/7181708481513127992) | Tue Dec 27 2022 6:17 AM 
+- 🚀 [使用Mockito进行单元测试实践](https://juejin.cn/post/7181635278740652089) | Tue Dec 27 2022 1:32 AM 
     <details><summary>展开描述 ...</summary> 
-    阶段性回顾过去这一年的得与失，是一次审视自己的好机会，也有助于养成自我管理的好习惯。 在逆境中成长，失败中总结，不断重塑自己，直到 站上山巅！ 
+    使用Mockito进行单元测试实践 Mockito简介以及工作流程 Mockito是一个用于在软件测试中模拟对象的开源框架，使用Mockito很大程度简化了对具有外部依赖项的类的测试开发。 mock的 
     </details> 
 
-- 💪 [2022 年度盘点 | 更成熟的 AI，更破圈的技术狂欢](https://juejin.cn/post/7181702766161887290) | Tue Dec 27 2022 5:55 AM 
+- 💪 [Eureka开启https实践](https://juejin.cn/post/7181634639990603835) | Tue Dec 27 2022 1:31 AM 
     <details><summary>展开描述 ...</summary> 
-    2022 年在此起彼伏的咳嗽声中接近尾声，这一年，AIGC 成为人工智能领域最大黑马，ScienceAI 有了更多实际落地的应用。一起看看人工智能今年的新发展吧。 
+    Eureka开启https实践 前言 本篇主要整理了eureka server如何开启https，以及eureka client之前如何通过https进行访问。 测试工程 本次主要涉及三个工程，一个是 
     </details> 
 <!-- juejin:END -->
 ### 少数派
