@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [本月玩什么 | 巫师 3 次世代版、极品飞车 不羁、木卫四协议](https://sspai.com/post/77477) | Tue Dec 27 2022 3:30 AM 
+- 👹 [我的文科转码之路：入门新领域的思路与方法](https://sspai.com/post/77485) | Tue Dec 27 2022 6:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    编注：作者为香港大学计算机学院硕士，目前是区块链开发从业者。以前并不算是一个很崇尚各种学习方法论的人，对这种「如何」体也比较无感，总觉得学习是一件很因人而异的事，常常固守着自己原本的习惯与方法。发生转 ...&lt;a href=&quot;https://sspai.com/post/77485&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [本月玩什么 | 巫师 3 次世代版、极品飞车 不羁、木卫四协议](https://sspai.com/post/77477) | Tue Dec 27 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     最近值得一玩的新作推荐。&lt;a href=&quot;https://sspai.com/post/77477&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：红魔 8 Pro 系列发布、荣耀发布 80 GT 等](https://sspai.com/post/77478) | Tue Dec 27 2022 1:01 AM 
+- 🤭 [派早报：红魔 8 Pro 系列发布、荣耀发布 80 GT 等](https://sspai.com/post/77478) | Tue Dec 27 2022 1:01 AM 
     <details><summary>展开描述 ...</summary> 
     全新的 QQ for Linux 版现已发布，和包全国通行卡可使用 Apple Pay 快捷交通模式等。&lt;a href=&quot;https://sspai.com/post/77478&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派评 | 近期值得关注的 App](https://sspai.com/post/77473) | Mon Dec 26 2022 9:58 AM 
+- 🥸 [派评 | 近期值得关注的 App](https://sspai.com/post/77473) | Mon Dec 26 2022 9:58 AM 
     <details><summary>展开描述 ...</summary> 
     你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/77473&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [更换 Apple ID 后的资料备份与迁移，我是这样做的](https://sspai.com/post/77458) | Mon Dec 26 2022 6:40 AM 
+- 🙉 [更换 Apple ID 后的资料备份与迁移，我是这样做的](https://sspai.com/post/77458) | Mon Dec 26 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
     尽管在迁移 Apple ID 前做了不少功课，但我仍然遇到了不少问题以及遗憾。在这篇文章中，我整理了迁移 iCloud 帐户涉及的主要项目及对应方法，以供参考。&lt;a href=&quot;https://sspai.com/post/77458&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派早报：魅族发布 M3 Pro 播放器，加州新法将禁止特斯拉使用 FSD 名称等](https://sspai.com/post/77460) | Mon Dec 26 2022 1:01 AM 
-    <details><summary>展开描述 ...</summary> 
-    你可能错过的新鲜事魅族发布M3ProHi-Fi播放器12月23日下午，魅族科技召开魅友大会，活动期间发布了型号为M3Pro的「全场景Hi-Fi播放器」。据介绍，该产品搭载魅族定制的H1Hi-Fi解码芯 ...&lt;a href=&quot;https://sspai.com/post/77460&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
