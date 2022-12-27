@@ -398,11 +398,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯·如何正确地吐槽](https://daily.zhihu.com/story/9756563) | Mon Dec 26 2022 12:27 AM
-- 🐻 [有哪些危险的植物？](https://daily.zhihu.com/story/9756525) | Mon Dec 26 2022 12:27 AM
-- 🌏 [水泥寿命是60一70年，那么多的水利大坝70年以后会如何？](https://daily.zhihu.com/story/9756535) | Mon Dec 26 2022 12:27 AM
-- 🕴 [除了马、犬、象之外，还有什么动物曾用于军事战争用途？](https://daily.zhihu.com/story/9756538) | Mon Dec 26 2022 12:27 AM
-- 🌮 [为什么中国人的眼睛是乍看像黑色的棕色，而西方人眼睛的颜色很多？](https://daily.zhihu.com/story/9756547) | Mon Dec 26 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯·如何正确地吐槽](https://daily.zhihu.com/story/9756595) | Tue Dec 27 2022 12:27 AM
+- 🐻 [血是红色的，为什么静脉是蓝色的？](https://daily.zhihu.com/story/9756565) | Tue Dec 27 2022 12:27 AM
+- 🌏 [为什么猫咪喜欢伸懒腰？](https://daily.zhihu.com/story/9756572) | Tue Dec 27 2022 12:27 AM
+- 🕴 [为什么蒸汽机车有时往轨道上撒沙子？](https://daily.zhihu.com/story/9756574) | Tue Dec 27 2022 12:27 AM
+- 🌮 [中国的青铜技术是从何而来？](https://daily.zhihu.com/story/9756580) | Tue Dec 27 2022 12:27 AM<!-- zhihu:END -->
 
 
 ## 应用资源
