@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【TypeScript】TS交叉类型&amp;联合类型（六）](https://juejin.cn/post/7181623514355466296) | Tue Dec 27 2022 12:47 AM 
+- 🤗 [Mysql到TiDB迁移，双写数据库兜底方案](https://juejin.cn/post/7181646464102187063) | Tue Dec 27 2022 2:16 AM 
     <details><summary>展开描述 ...</summary> 
-    什么是交叉类型呢？简单来说就是**通过`&amp;`符号将多个类型进行合并成一个类型**，然后用`type`来声明新生成的类型。 
+    TiDB 作为开源 NewSQL 数据库的典型代表之一，同样支持 SQL，支持事务 ACID 特性。 
     </details> 
 
-- 🎡 [p5.js 使用npm安装p5.js后如何使用？](https://juejin.cn/post/7181621860516724796) | Tue Dec 27 2022 12:42 AM 
+- 🎡 [【WebRTC 跨端通信】React + React Native 双端视频聊天、屏幕共享](https://juejin.cn/post/7181646070181527611) | Tue Dec 27 2022 2:14 AM 
     <details><summary>展开描述 ...</summary> 
-    按照 《p5.js 光速入门》 的方式在 module 模式下使用 p5.js ，如果不出意外的话肯定会有意外！ 
+    我们以 App（React Native）为呼叫端，Web（React）为接收端，分别介绍两端如何进行视频通话。 
     </details> 
 
-- 🕯 [数据库备份](https://juejin.cn/post/7181611401398452283) | Tue Dec 27 2022 12:03 AM 
+- 🕯 [Elasticsearch查询及聚合类DSL语句宝典](https://juejin.cn/post/7181645045211070519) | Tue Dec 27 2022 2:11 AM 
     <details><summary>展开描述 ...</summary> 
-    MYSQL数据备份相信大家都很熟悉，听过、见过、玩过，我们这次就来对 MYSQL 备份做一个介绍 首先理一下备份有哪些类型，可以按不同的维度来做解释 备份类型 按根据服务器状态 热备份：读、写不受影响 
+    随着使用es场景的增多，工作当中避免不了去使用es进行数据的存储，本专题主要是分享常用的DSL语句，拿来即用。 
     </details> 
 
-- 🚀 [C++——业务办理时间问题](https://juejin.cn/post/7181596871683473465) | Mon Dec 26 2022 11:19 PM 
+- 🚀 [一种Android应用耗电定位方案](https://juejin.cn/post/7181644426257629243) | Tue Dec 27 2022 2:10 AM 
     <details><summary>展开描述 ...</summary> 
-    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第30天，点击查看活动详情 为了解决这个问题，我们可以使用贪心的思想，每次选择最少的时间办理业务的窗口。 首先，我们需要定义一个数组 
+    背景 通常来说，app耗电相比于其他的性能问题（Crash，Anr）等，会受到比较少的关注，耗电通常是一个app隐藏的性能问题，同时又由于手机性能不同，使用时长不同，使用习惯不同，“耗电问题”从诞生以 
     </details> 
 
-- 💪 [第143期：flutter中的资源和图片](https://juejin.cn/post/7181525805044858939) | Mon Dec 26 2022 6:56 PM 
+- 💪 [Innodb的RR到底有没有解决幻读？看不懂你打我！](https://juejin.cn/post/7181643886547173413) | Tue Dec 27 2022 2:07 AM 
     <details><summary>展开描述 ...</summary> 
-    封面图 下个季度的目标是把前端监控相关的内容梳理出来，梳理出来之后可能会在公司内部做个分享～ Flutter应用程序既括代码也包括一些其他的资产，我们通常这些资产为资源。 有时候我会思考assets这 
+    关于Innodb中的REPEATABLE READ这种隔离级别到底有没有解决幻读？好像众说纷纭，大家的说法都不一致。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
