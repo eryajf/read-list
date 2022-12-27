@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [1 月 1 日前求拼良心云 V100 合租](https://www.v2ex.com/t/904996#reply0) | Tue Dec 27 2022 9:36 AM
-- 🤗 [如何回老家找一份运营商的活？](https://www.v2ex.com/t/904995#reply1) | Tue Dec 27 2022 9:31 AM
-- 🎭 [如何把 Linux 的字体渲染成这样圆润的风格（图）](https://www.v2ex.com/t/904982#reply5) | Tue Dec 27 2022 8:58 AM
-- 🥷 [离职后的期权一般怎么处理？有经验的 V 友来分享一下啊](https://www.v2ex.com/t/904975#reply14) | Tue Dec 27 2022 8:37 AM
-- 🐵 [安卓刷其他第三方安卓系统之后需要担心驱动问题吗](https://www.v2ex.com/t/904973#reply5) | Tue Dec 27 2022 8:30 AM<!-- v2ex:END -->
+- 🥸 [Win10 最后一个机械硬盘友好的版本](https://www.v2ex.com/t/905007#reply4) | Tue Dec 27 2022 10:33 AM
+- 🤗 [1 月 1 日前求拼良心云 V100 合租](https://www.v2ex.com/t/904996#reply0) | Tue Dec 27 2022 9:36 AM
+- 🎭 [如何回老家找一份运营商的活？](https://www.v2ex.com/t/904995#reply2) | Tue Dec 27 2022 9:31 AM
+- 🥷 [如何把 Linux 的字体渲染成这样圆润的风格（图）](https://www.v2ex.com/t/904982#reply8) | Tue Dec 27 2022 8:58 AM
+- 🐵 [离职后的期权一般怎么处理？有经验的 V 友来分享一下啊](https://www.v2ex.com/t/904975#reply16) | Tue Dec 27 2022 8:37 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
