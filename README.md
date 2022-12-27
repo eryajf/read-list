@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [字节跳动在 Rust 微服务方向的探索和实践](https://juejin.cn/post/7181794889238052901) | Tue Dec 27 2022 11:52 AM 
+- 🤗 [听一位产品经理的分享而记-通用技能](https://juejin.cn/post/7181813989628870716) | Tue Dec 27 2022 1:08 PM 
+    <details><summary>展开描述 ...</summary> 
+    带着一些偶然性，让我看到了这个视频分享，有了一些收获，最后让我总结出了一些文字能够呈现给大家，也给我自己。 适用于每一位初中级工作者的通用基础技能 
+    </details> 
+
+- 🎡 [字节跳动在 Rust 微服务方向的探索和实践](https://juejin.cn/post/7181794889238052901) | Tue Dec 27 2022 11:52 AM 
     <details><summary>展开描述 ...</summary> 
     本文整理自字节跳动火山引擎基础架构服务框架工程师吴迪于Qcon全球软件开发大会上的发言,内容主要分为以下三个部分：我们为什么选择了 Rust 语言;我们做了什么； 展望未来：机遇与挑战。 
     </details> 
 
-- 🎡 [2022 年终总结，知识沉淀这一年](https://juejin.cn/post/7181791768143200313) | Tue Dec 27 2022 11:40 AM 
+- 🕯 [2022 年终总结，知识沉淀这一年](https://juejin.cn/post/7181791768143200313) | Tue Dec 27 2022 11:40 AM 
     <details><summary>展开描述 ...</summary> 
     「回顾2022，展望2023，我正在参与2022年终总结征文大赛活动」 Hello ，大家好，我是小马，一名小厂前端工程师，普通的不能再普通的小前端，本来不想写年终总结了，因为一年下来，也没啥变化。 
     </details> 
 
-- 🕯 [一种基于DH算法的多方通讯加密的协议设计](https://juejin.cn/post/7181790762881941560) | Tue Dec 27 2022 11:37 AM 
+- 🚀 [一种基于DH算法的多方通讯加密的协议设计](https://juejin.cn/post/7181790762881941560) | Tue Dec 27 2022 11:37 AM 
     <details><summary>展开描述 ...</summary> 
     本文基于区块链各类算法和协议的研究，实现一种基于 DH 算法的去中心化的多方通讯的加密协议设计，来保证群体信息交换的安全性。 
     </details> 
 
-- 🚀 [一种基于DH算法的多方通讯加密的协议设计](https://juejin.cn/post/7181790656908492857) | Tue Dec 27 2022 11:36 AM 
+- 💪 [一种基于DH算法的多方通讯加密的协议设计](https://juejin.cn/post/7181790656908492857) | Tue Dec 27 2022 11:36 AM 
     <details><summary>展开描述 ...</summary> 
     本文基于区块链各类算法和协议的研究，实现一种基于 DH 算法的去中心化的多方通讯的加密协议设计，来保证群体信息交换的安全性。 
-    </details> 
-
-- 💪 [使用 QuTrunk+Amazon ParallelCluster3 进行并行计算](https://juejin.cn/post/7181790699124162619) | Tue Dec 27 2022 11:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    QuTrunk 是启科量子自主研发的一款免费、开源、跨平台的量子计算编程框架，包括量子编程 API、量子命令转译、量子计算后端接口等。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
