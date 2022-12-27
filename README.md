@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：红魔 8 Pro 系列发布、荣耀发布 80 GT 等](https://sspai.com/post/77478) | Tue Dec 27 2022 1:01 AM 
+- 👹 [本月玩什么 | 巫师 3 次世代版、极品飞车 不羁、木卫四协议](https://sspai.com/post/77477) | Tue Dec 27 2022 3:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    最近值得一玩的新作推荐。&lt;a href=&quot;https://sspai.com/post/77477&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派早报：红魔 8 Pro 系列发布、荣耀发布 80 GT 等](https://sspai.com/post/77478) | Tue Dec 27 2022 1:01 AM 
     <details><summary>展开描述 ...</summary> 
     全新的 QQ for Linux 版现已发布，和包全国通行卡可使用 Apple Pay 快捷交通模式等。&lt;a href=&quot;https://sspai.com/post/77478&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派评 | 近期值得关注的 App](https://sspai.com/post/77473) | Mon Dec 26 2022 9:58 AM 
+- 🤭 [派评 | 近期值得关注的 App](https://sspai.com/post/77473) | Mon Dec 26 2022 9:58 AM 
     <details><summary>展开描述 ...</summary> 
     你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/77473&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [更换 Apple ID 后的资料备份与迁移，我是这样做的](https://sspai.com/post/77458) | Mon Dec 26 2022 6:40 AM 
+- 🥸 [更换 Apple ID 后的资料备份与迁移，我是这样做的](https://sspai.com/post/77458) | Mon Dec 26 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
     尽管在迁移 Apple ID 前做了不少功课，但我仍然遇到了不少问题以及遗憾。在这篇文章中，我整理了迁移 iCloud 帐户涉及的主要项目及对应方法，以供参考。&lt;a href=&quot;https://sspai.com/post/77458&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：魅族发布 M3 Pro 播放器，加州新法将禁止特斯拉使用 FSD 名称等](https://sspai.com/post/77460) | Mon Dec 26 2022 1:01 AM 
+- 🙉 [派早报：魅族发布 M3 Pro 播放器，加州新法将禁止特斯拉使用 FSD 名称等](https://sspai.com/post/77460) | Mon Dec 26 2022 1:01 AM 
     <details><summary>展开描述 ...</summary> 
     你可能错过的新鲜事魅族发布M3ProHi-Fi播放器12月23日下午，魅族科技召开魅友大会，活动期间发布了型号为M3Pro的「全场景Hi-Fi播放器」。据介绍，该产品搭载魅族定制的H1Hi-Fi解码芯 ...&lt;a href=&quot;https://sspai.com/post/77460&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [App+1 | 有声有色有形，为 Android 本地音乐播放增味：椒盐音乐](https://sspai.com/post/77446) | Sun Dec 25 2022 9:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    椒盐音乐或许是一款各个方面都能对你胃口的本地音乐播放器——无论是 UI 设计、使用体验还是丰富的音乐播放功能。&lt;a href=&quot;https://sspai.com/post/77446&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
