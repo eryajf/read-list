@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [公司项目代码太恶心了怎么办](https://www.v2ex.com/t/904967#reply5) | Tue Dec 27 2022 8:06 AM
-- 🤗 [厂商自定义的暗码是什么原理？](https://www.v2ex.com/t/904955#reply8) | Tue Dec 27 2022 7:34 AM
-- 🎭 [这次的 UI 应该可以了 不乱了](https://www.v2ex.com/t/904950#reply0) | Tue Dec 27 2022 7:10 AM
-- 🥷 [android 的 gsi/treble 大家用上了么？](https://www.v2ex.com/t/904947#reply1) | Tue Dec 27 2022 7:01 AM
-- 🐵 [大家在 Mac 上安装 parallels 之后都装什么软件呢？](https://www.v2ex.com/t/904946#reply17) | Tue Dec 27 2022 6:58 AM<!-- v2ex:END -->
+- 🥸 [如何把 Linux 的字体渲染成这样圆润的风格（图）](https://www.v2ex.com/t/904982#reply1) | Tue Dec 27 2022 8:58 AM
+- 🤗 [离职后的期权一般怎么处理？有经验的 V 友来分享一下啊](https://www.v2ex.com/t/904975#reply8) | Tue Dec 27 2022 8:37 AM
+- 🎭 [安卓刷其他第三方安卓系统之后需要担心驱动问题吗](https://www.v2ex.com/t/904973#reply4) | Tue Dec 27 2022 8:30 AM
+- 🥷 [马上 2023 年，大家开发 uniapp 的最佳实践是怎么样的？](https://www.v2ex.com/t/904972#reply4) | Tue Dec 27 2022 8:29 AM
+- 🐵 [哪里能下到传奇私服代码，想 NAS 搭个服务自己玩](https://www.v2ex.com/t/904971#reply5) | Tue Dec 27 2022 8:26 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
