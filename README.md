@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [高性能网关基石——OpenResty](https://juejin.cn/post/7182046516549763130) | Wed Dec 28 2022 4:11 AM 
+- 🤗 [Class constructor HttpResponseList cannot be invoked without &#39;new&#39;](https://juejin.cn/post/7182060248142708796) | Wed Dec 28 2022 5:04 AM 
     <details><summary>展开描述 ...</summary> 
-    什么是 OpenResty OpenResty 一个基于 Nginx 的高性能 Web 平台，能够方便地搭建处理超高并发的动态 Web 应用、 Web 服务和动态网关。例如有名的 Kong 网关和国产 
+    Vue3 项目启动服务 控制台报错 Class constructor HttpResponseList cannot be invoked without &#39;new&#39;解决升级webpack 
     </details> 
 
-- 🎡 [你又是怎么理解「Memento Pattern」的呢](https://juejin.cn/post/7182045103450488889) | Wed Dec 28 2022 4:07 AM 
+- 🎡 [GO并发之好用的sync包](https://juejin.cn/post/7182059760567451685) | Wed Dec 28 2022 5:02 AM 
     <details><summary>展开描述 ...</summary> 
-    备忘录模式（Memento Pattern）是一种软件设计模式：在不破坏封闭的前提下，捕获一个对象的内部状态，并在该对象之外保存这个状态。这样以后就可将该对象恢复到原先保存的状态。 
+    sync.Map 并发安全的Map 反例如下，两个Goroutine分别读写。 执行报错： 使用并发安全的Map 不需要make就能使用 还内置了Store、Load、LoadOrStore、Dele 
     </details> 
 
-- 🕯 [利用IntersectionObserver实现动态渲染](https://juejin.cn/post/7182041181818191909) | Wed Dec 28 2022 3:48 AM 
+- 🕯 [Go并发之原子操作](https://juejin.cn/post/7182058346445766711) | Wed Dec 28 2022 4:58 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 开发表格时，希望支持可视后的动态加载。在查找资料做了一些尝试后，最终使用IntersectionObserver，相对方便地实现了该功能 
+    代码中的加锁操作因为涉及内核态的上下文切换会比较耗时、代价比较高。针对基本数据类型我们还可以使用原子操作来保证并发安全，因为原子操作是Go语言提供的方法它在用户态就可以完成，因此性能比加锁操作更好。G 
     </details> 
 
-- 🚀 [分库分表，可能真的要退出历史舞台了！](https://juejin.cn/post/7182036974708981797) | Wed Dec 28 2022 3:31 AM 
+- 🚀 [算法 | 如何用位运算从一堆数中寻找出现奇数次的数？](https://juejin.cn/post/7182054473739534395) | Wed Dec 28 2022 4:41 AM 
     <details><summary>展开描述 ...</summary> 
-    即使是不懂编程的玩家，在对比 NAS 的时候，也会两眼放光，考虑很多因素，比如 RAID 级别、速度、易用程度等。作为时时刻刻与代码打交道的我们，更需要关注数据的存取问题。 一开始，开箱即用的 MyS 
+    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第32天，本文主要介绍如何使用位运算从一堆数中寻找出现奇数次的数。 
     </details> 
 
-- 💪 [【译】如何在ChatGPT内构建一个Python解释器](https://juejin.cn/post/7182035553062223932) | Wed Dec 28 2022 3:27 AM 
+- 💪 [阿里云——运维安全中心（堡垒机）](https://juejin.cn/post/7182051731105284152) | Wed Dec 28 2022 4:31 AM 
     <details><summary>展开描述 ...</summary> 
-    引用：Art Kulakov 《How to Build a Python Interpreter Inside ChatGPT》 这个灵感来自于一个类似的故事，在ChatGPT里面建立一个虚拟机（B 
+    ​  运维安全中心（堡垒机） 构建云上统一、高效、安全运维通道，保障云端运维、办公权限可管控、操作行为可审计 高效&amp;安全运维 运维安全中心（堡垒机）用于集中管理资产权限，全程监控操作行为，实时还原运维 
     </details> 
 <!-- juejin:END -->
 ### 少数派
