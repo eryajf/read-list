@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【5000字长文】从 S3 到 DataZone，亚马逊云科技用16年讲完一个数据的故事](https://juejin.cn/post/7182027013807898681) | Wed Dec 28 2022 2:52 AM 
+- 🤗 [高性能网关基石——OpenResty](https://juejin.cn/post/7182046516549763130) | Wed Dec 28 2022 4:11 AM 
     <details><summary>展开描述 ...</summary> 
-    亚马逊云科技 2022 re:Invent 在 Las Vegas 刚落下帷幕，和去年疫情刚结束后开的 2021 re:Invent 相比，这次的现场参展人数规模空前，官方统计超过5万。 
+    什么是 OpenResty OpenResty 一个基于 Nginx 的高性能 Web 平台，能够方便地搭建处理超高并发的动态 Web 应用、 Web 服务和动态网关。例如有名的 Kong 网关和国产 
     </details> 
 
-- 🎡 [掘金守望者，2022 年终总结，烂尾了。。。](https://juejin.cn/post/7182022691652632635) | Wed Dec 28 2022 2:37 AM 
+- 🎡 [你又是怎么理解「Memento Pattern」的呢](https://juejin.cn/post/7182045103450488889) | Wed Dec 28 2022 4:07 AM 
     <details><summary>展开描述 ...</summary> 
-    事实证明，不管你想的多美，现实总是没有太多情感，如果你非要赋予一点什么情感，也应该趁热打铁，趁激情褪去前就实现它。 
+    备忘录模式（Memento Pattern）是一种软件设计模式：在不破坏封闭的前提下，捕获一个对象的内部状态，并在该对象之外保存这个状态。这样以后就可将该对象恢复到原先保存的状态。 
     </details> 
 
-- 🕯 [转转AB平台的设计与实现](https://juejin.cn/post/7182019823591751717) | Wed Dec 28 2022 2:25 AM 
+- 🕯 [利用IntersectionObserver实现动态渲染](https://juejin.cn/post/7182041181818191909) | Wed Dec 28 2022 3:48 AM 
     <details><summary>展开描述 ...</summary> 
-    在数据驱动时代，不管是在产品功能迭代还是策略决策时都需要数据的支撑。那么，当我们准备上线一个新功能或者策略时，如何评估新老版本优劣，即数据的可量化就成了问题。这个时候就需要引入 A/B Test 了。 
+    前言 开发表格时，希望支持可视后的动态加载。在查找资料做了一些尝试后，最终使用IntersectionObserver，相对方便地实现了该功能 
     </details> 
 
-- 🚀 [基于 GraphQL 的云音乐 BFF 建设实践](https://juejin.cn/post/7182019663004434488) | Wed Dec 28 2022 2:25 AM 
+- 🚀 [分库分表，可能真的要退出历史舞台了！](https://juejin.cn/post/7182036974708981797) | Wed Dec 28 2022 3:31 AM 
     <details><summary>展开描述 ...</summary> 
-    BFF 研发模式一直是业界广泛青睐的前后端协作模式，它能有效解耦前后端在协作上的依赖关系，从而大幅度提升研发效率。今年，云音乐基于 GraphQL 成功在团队内部落地 BFF。 
+    即使是不懂编程的玩家，在对比 NAS 的时候，也会两眼放光，考虑很多因素，比如 RAID 级别、速度、易用程度等。作为时时刻刻与代码打交道的我们，更需要关注数据的存取问题。 一开始，开箱即用的 MyS 
     </details> 
 
-- 💪 [js打印功能](https://juejin.cn/post/7182019480376213565) | Wed Dec 28 2022 2:24 AM 
+- 💪 [【译】如何在ChatGPT内构建一个Python解释器](https://juejin.cn/post/7182035553062223932) | Wed Dec 28 2022 3:27 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 需要打印html页面，本来用的什么c lood插件，很难用，后来选择直接js打印，废话不多说，直接上可复制粘贴的代码 代码 不打印的地方，加个样式 完事 
+    引用：Art Kulakov 《How to Build a Python Interpreter Inside ChatGPT》 这个灵感来自于一个类似的故事，在ChatGPT里面建立一个虚拟机（B 
     </details> 
 <!-- juejin:END -->
 ### 少数派
