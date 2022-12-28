@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Class constructor HttpResponseList cannot be invoked without &#39;new&#39;](https://juejin.cn/post/7182060248142708796) | Wed Dec 28 2022 5:04 AM 
+- 🤗 [AI 训练加速原理解析与工程实践分享](https://juejin.cn/post/7182075179089002552) | Wed Dec 28 2022 6:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    这次分享将系统性的分析在 AI 模型训练过程中的主要性能瓶颈，以及当前针对这些瓶颈的主要的加速方案和技术原理，并介绍百度智能云在这方面的一些实践成果。 
+    </details> 
+
+- 🎡 [隐私计算之多方安全计算（MPC，Secure Multi-Party Computation）](https://juejin.cn/post/7182072953243172923) | Wed Dec 28 2022 5:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    如今，组织在收集、存储敏感的个人信息以及在外部环境（例如云​​）中处理、共享个人信息时， 越来越关注数据安全。 
+    </details> 
+
+- 🕯 [熟读虚拟机栈5连问，轻松对线面试官](https://juejin.cn/post/7182067841963655225) | Wed Dec 28 2022 5:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    如果对象是在方法内部产生且在内部消亡，不会返回到外部就不存在线程安全问题；反之如果类本身线程不安全的话就存在线程安全问题。 
+    </details> 
+
+- 🚀 [Class constructor HttpResponseList cannot be invoked without &#39;new&#39;](https://juejin.cn/post/7182060248142708796) | Wed Dec 28 2022 5:04 AM 
     <details><summary>展开描述 ...</summary> 
     Vue3 项目启动服务 控制台报错 Class constructor HttpResponseList cannot be invoked without &#39;new&#39;解决升级webpack 
     </details> 
 
-- 🎡 [GO并发之好用的sync包](https://juejin.cn/post/7182059760567451685) | Wed Dec 28 2022 5:02 AM 
+- 💪 [GO并发之好用的sync包](https://juejin.cn/post/7182059760567451685) | Wed Dec 28 2022 5:02 AM 
     <details><summary>展开描述 ...</summary> 
     sync.Map 并发安全的Map 反例如下，两个Goroutine分别读写。 执行报错： 使用并发安全的Map 不需要make就能使用 还内置了Store、Load、LoadOrStore、Dele 
-    </details> 
-
-- 🕯 [Go并发之原子操作](https://juejin.cn/post/7182058346445766711) | Wed Dec 28 2022 4:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    代码中的加锁操作因为涉及内核态的上下文切换会比较耗时、代价比较高。针对基本数据类型我们还可以使用原子操作来保证并发安全，因为原子操作是Go语言提供的方法它在用户态就可以完成，因此性能比加锁操作更好。G 
-    </details> 
-
-- 🚀 [算法 | 如何用位运算从一堆数中寻找出现奇数次的数？](https://juejin.cn/post/7182054473739534395) | Wed Dec 28 2022 4:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第32天，本文主要介绍如何使用位运算从一堆数中寻找出现奇数次的数。 
-    </details> 
-
-- 💪 [阿里云——运维安全中心（堡垒机）](https://juejin.cn/post/7182051731105284152) | Wed Dec 28 2022 4:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    ​  运维安全中心（堡垒机） 构建云上统一、高效、安全运维通道，保障云端运维、办公权限可管控、操作行为可审计 高效&amp;安全运维 运维安全中心（堡垒机）用于集中管理资产权限，全程监控操作行为，实时还原运维 
     </details> 
 <!-- juejin:END -->
 ### 少数派
