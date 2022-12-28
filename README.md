@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [realme V11s 5G， RMX3125，有哪位大哥能提供底包？或者，导出分区 image 文件？](https://www.v2ex.com/t/905255#reply1) | Wed Dec 28 2022 6:01 PM
-- 🤗 [你们会用 supabase 吗？](https://www.v2ex.com/t/905252#reply7) | Wed Dec 28 2022 4:33 PM
-- 🎭 [不用 webpack，如何纯前端实现压缩图片？](https://www.v2ex.com/t/905251#reply3) | Wed Dec 28 2022 4:03 PM
-- 🥷 [这个 class 是什么意思](https://www.v2ex.com/t/905238#reply1) | Wed Dec 28 2022 1:42 PM
-- 🐵 [不靠应用市场，请问各位是如何管理 app 版本升级的](https://www.v2ex.com/t/905237#reply0) | Wed Dec 28 2022 1:42 PM<!-- v2ex:END -->
+- 🥸 [StackOverflow 的调查结果显示使用 Linux 进行开发的开发者超过了使用 macOS 的](https://www.v2ex.com/t/905262#reply1) | Wed Dec 28 2022 10:55 PM
+- 🤗 [realme V11s 5G， RMX3125，有哪位大哥能提供底包？或者，导出分区 image 文件？](https://www.v2ex.com/t/905255#reply1) | Wed Dec 28 2022 6:01 PM
+- 🎭 [你们会用 supabase 吗？](https://www.v2ex.com/t/905252#reply7) | Wed Dec 28 2022 4:33 PM
+- 🥷 [不用 webpack，如何纯前端实现压缩图片？](https://www.v2ex.com/t/905251#reply3) | Wed Dec 28 2022 4:03 PM
+- 🐵 [这个 class 是什么意思](https://www.v2ex.com/t/905238#reply1) | Wed Dec 28 2022 1:42 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
