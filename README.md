@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [90%的Java开发人员都会犯的5个错误](https://juejin.cn/post/7182184496517611576) | Wed Dec 28 2022 1:05 PM 
+- 🤗 [2023年，祝你有个好习惯！](https://juejin.cn/post/7182194367904841765) | Wed Dec 28 2022 1:42 PM 
+    <details><summary>展开描述 ...</summary> 
+    在总结的时候，我就感觉，好习惯真的非常重要，尤其是我们希望自己能够抽出时间来学习新知识的人。所以必须给大伙好好讲讲。 
+    </details> 
+
+- 🎡 [Seata-AT模式数据源代理-JDBC中的关键知识点](https://juejin.cn/post/7182188616334966844) | Wed Dec 28 2022 1:22 PM 
+    <details><summary>展开描述 ...</summary> 
+    Seata 对业务无侵入是通过数据源代理实现的，数据源代理的实现涉及到 DataSource、Connection 以及 Statement，这几个关键知识属于 JDBC 的范畴 
+    </details> 
+
+- 🕯 [90%的Java开发人员都会犯的5个错误](https://juejin.cn/post/7182184496517611576) | Wed Dec 28 2022 1:05 PM 
     <details><summary>展开描述 ...</summary> 
     如果本文对你有帮助的话，救救孩子吧，可以投很多票，投票通道 ，万分感谢呀~~ 前言 作为一名java开发程序员，不知道大家有没有遇到过一些匪夷所思的bug。这些错误通常需要您几个小时才能解决。当你找到 
     </details> 
 
-- 🎡 [应届生学习Java八个月，offer年薪28W，这一年我经历了什么？](https://juejin.cn/post/7182171033116344381) | Wed Dec 28 2022 12:14 PM 
+- 🚀 [应届生学习Java八个月，offer年薪28W，这一年我经历了什么？](https://juejin.cn/post/7182171033116344381) | Wed Dec 28 2022 12:14 PM 
     <details><summary>展开描述 ...</summary> 
     我叫阿杆，19级本科在读，双非院校，希望和大家交个朋友😋。主修软件工程，学习方向是后端开发，主要语言Java，今年秋招拿到了一份18*16的offer。 
     </details> 
 
-- 🕯 [云渲染可以关机吗_云渲染时电脑可以关闭吗？](https://juejin.cn/post/7182160798142169144) | Wed Dec 28 2022 11:33 AM 
+- 💪 [云渲染可以关机吗_云渲染时电脑可以关闭吗？](https://juejin.cn/post/7182160798142169144) | Wed Dec 28 2022 11:33 AM 
     <details><summary>展开描述 ...</summary> 
     很多用户通过云渲染作业，解放了自己本地电脑的负载以及漫长的等渲染时长，当进行到云渲染中这一阶段时，大家又开始有了新的疑虑，譬如：使用云渲染时可以关机吗？在云渲染电脑可以关闭吗？本文将为您解答~ 
-    </details> 
-
-- 🚀 [RecyclerChart动态属性&lpar;一&rpar;](https://juejin.cn/post/7182155495027769405) | Wed Dec 28 2022 11:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    本章节将讲述一些RecyclerChart中笔者归结为动态属性，比如高亮选中Item时类似Top Poupwindow的窗口显示展示的值；左右滑动无限加载RecyclerChart的数据；滑动过程中松 
-    </details> 
-
-- 💪 [平台云原生架构演进之道、2022年终总结｜掘金一周 12.28](https://juejin.cn/post/7182149713083236412) | Wed Dec 28 2022 10:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    【掘金一周12.28】本期看点：一文详解内网穿透原理、Mysql的14个神仙功能、掘友2022年终总结... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
