@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2023年，祝你有个好习惯！](https://juejin.cn/post/7182194367904841765) | Wed Dec 28 2022 1:42 PM 
+- 🤗 [SVG 安全](https://juejin.cn/post/7182215103297617980) | Wed Dec 28 2022 3:04 PM 
+    <details><summary>展开描述 ...</summary> 
+    本篇文章的目的有：1、了解 SVG 漏洞；2、了解 SVG 常见防护手段；3、搜寻 SVG 数据安全性校验和过滤的库；4、了解如何使用此类库来进行 SVG 上传防护；5、阅读源码，能明确讲述此类库做了 
+    </details> 
+
+- 🎡 [原生微信小程序项目基建实践](https://juejin.cn/post/7182202653533798455) | Wed Dec 28 2022 2:16 PM 
+    <details><summary>展开描述 ...</summary> 
+    一、  前言 本文适用于初次使用原生小程序开发项目，介绍一些基础必要的点，可以应用于各种业务项目，请结合官方文档进行阅读。 二、  前期准备工作 使用原生微信小程序开发，必须要仔细阅读官方开发文档，要 
+    </details> 
+
+- 🕯 [2023年，祝你有个好习惯！](https://juejin.cn/post/7182194367904841765) | Wed Dec 28 2022 1:42 PM 
     <details><summary>展开描述 ...</summary> 
     在总结的时候，我就感觉，好习惯真的非常重要，尤其是我们希望自己能够抽出时间来学习新知识的人。所以必须给大伙好好讲讲。 
     </details> 
 
-- 🎡 [Seata-AT模式数据源代理-JDBC中的关键知识点](https://juejin.cn/post/7182188616334966844) | Wed Dec 28 2022 1:22 PM 
+- 🚀 [Seata-AT模式数据源代理-JDBC中的关键知识点](https://juejin.cn/post/7182188616334966844) | Wed Dec 28 2022 1:22 PM 
     <details><summary>展开描述 ...</summary> 
     Seata 对业务无侵入是通过数据源代理实现的，数据源代理的实现涉及到 DataSource、Connection 以及 Statement，这几个关键知识属于 JDBC 的范畴 
     </details> 
 
-- 🕯 [90%的Java开发人员都会犯的5个错误](https://juejin.cn/post/7182184496517611576) | Wed Dec 28 2022 1:05 PM 
+- 💪 [90%的Java开发人员都会犯的5个错误](https://juejin.cn/post/7182184496517611576) | Wed Dec 28 2022 1:05 PM 
     <details><summary>展开描述 ...</summary> 
     如果本文对你有帮助的话，救救孩子吧，可以投很多票，投票通道 ，万分感谢呀~~ 前言 作为一名java开发程序员，不知道大家有没有遇到过一些匪夷所思的bug。这些错误通常需要您几个小时才能解决。当你找到 
-    </details> 
-
-- 🚀 [应届生学习Java八个月，offer年薪28W，这一年我经历了什么？](https://juejin.cn/post/7182171033116344381) | Wed Dec 28 2022 12:14 PM 
-    <details><summary>展开描述 ...</summary> 
-    我叫阿杆，19级本科在读，双非院校，希望和大家交个朋友😋。主修软件工程，学习方向是后端开发，主要语言Java，今年秋招拿到了一份18*16的offer。 
-    </details> 
-
-- 💪 [云渲染可以关机吗_云渲染时电脑可以关闭吗？](https://juejin.cn/post/7182160798142169144) | Wed Dec 28 2022 11:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    很多用户通过云渲染作业，解放了自己本地电脑的负载以及漫长的等渲染时长，当进行到云渲染中这一阶段时，大家又开始有了新的疑虑，譬如：使用云渲染时可以关机吗？在云渲染电脑可以关闭吗？本文将为您解答~ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
