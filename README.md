@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [转转AB平台的设计与实现](https://juejin.cn/post/7182019823591751717) | Wed Dec 28 2022 2:25 AM 
+- 🤗 [【5000字长文】从 S3 到 DataZone，亚马逊云科技用16年讲完一个数据的故事](https://juejin.cn/post/7182027013807898681) | Wed Dec 28 2022 2:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    亚马逊云科技 2022 re:Invent 在 Las Vegas 刚落下帷幕，和去年疫情刚结束后开的 2021 re:Invent 相比，这次的现场参展人数规模空前，官方统计超过5万。 
+    </details> 
+
+- 🎡 [掘金守望者，2022 年终总结，烂尾了。。。](https://juejin.cn/post/7182022691652632635) | Wed Dec 28 2022 2:37 AM 
+    <details><summary>展开描述 ...</summary> 
+    事实证明，不管你想的多美，现实总是没有太多情感，如果你非要赋予一点什么情感，也应该趁热打铁，趁激情褪去前就实现它。 
+    </details> 
+
+- 🕯 [转转AB平台的设计与实现](https://juejin.cn/post/7182019823591751717) | Wed Dec 28 2022 2:25 AM 
     <details><summary>展开描述 ...</summary> 
     在数据驱动时代，不管是在产品功能迭代还是策略决策时都需要数据的支撑。那么，当我们准备上线一个新功能或者策略时，如何评估新老版本优劣，即数据的可量化就成了问题。这个时候就需要引入 A/B Test 了。 
     </details> 
 
-- 🎡 [基于 GraphQL 的云音乐 BFF 建设实践](https://juejin.cn/post/7182019663004434488) | Wed Dec 28 2022 2:25 AM 
+- 🚀 [基于 GraphQL 的云音乐 BFF 建设实践](https://juejin.cn/post/7182019663004434488) | Wed Dec 28 2022 2:25 AM 
     <details><summary>展开描述 ...</summary> 
     BFF 研发模式一直是业界广泛青睐的前后端协作模式，它能有效解耦前后端在协作上的依赖关系，从而大幅度提升研发效率。今年，云音乐基于 GraphQL 成功在团队内部落地 BFF。 
     </details> 
 
-- 🕯 [js打印功能](https://juejin.cn/post/7182019480376213565) | Wed Dec 28 2022 2:24 AM 
+- 💪 [js打印功能](https://juejin.cn/post/7182019480376213565) | Wed Dec 28 2022 2:24 AM 
     <details><summary>展开描述 ...</summary> 
     前言 需要打印html页面，本来用的什么c lood插件，很难用，后来选择直接js打印，废话不多说，直接上可复制粘贴的代码 代码 不打印的地方，加个样式 完事 
-    </details> 
-
-- 🚀 [Redis  cluster去中心化设计的思考与总结](https://juejin.cn/post/7182018446769520695) | Wed Dec 28 2022 2:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    分布式存储⼀般是通过多副本的形式保证数据可靠，多副本之间使⽤⼀致性协议保证数据一致，⾼并发场景下Leader单节点中心问题会成为系统瓶颈，解决办法是采用去中心化的设计如redis cluster模式 
-    </details> 
-
-- 💪 [开箱即用！动态修改RocketMQ线程池](https://juejin.cn/post/7182017271399710778) | Wed Dec 28 2022 2:15 AM 
-    <details><summary>展开描述 ...</summary> 
-    动态修改RocketMQ线程池，那我们如何才能够通过管理页面对不同消费者组的线程池进行管理自由的随着业务波动进行平滑修改，降低线程池参数修改的成本。 另外，从功能性以及健壮性而言还有许多值得我们思考 
     </details> 
 <!-- juejin:END -->
 ### 少数派
