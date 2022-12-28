@@ -306,9 +306,9 @@
     被盗资产中属于 BTC.com 客户的资产约70万美元，属于公司的资产价值约230万美元。 
     </details> 
 
-- 🦄 [又一最新罚款！Facebook将支付7.25亿美元，处理数据泄露诉讼](https://www.freebuf.com/articles/353691.html) | Wed Dec 28 2022 2:58 AM 
+- 🦄 [剑桥分析丑闻最新进展，Mate花7.25亿美元进行和解](https://www.freebuf.com/news/353691.html) | Wed Dec 28 2022 2:58 AM 
     <details><summary>展开描述 ...</summary> 
-    近日，Facebook、Instagram 和 WhatsApp 的母公司 Meta Platform 已同意支付 7.25 亿美元来解决 2018 年提起的长期集体诉讼。这场法律纠纷是因为这家社交媒体巨头允许第三方应用程序（例如Cambridge Analytica使用的应用程序）在未经用户同意的情况下访问用户的个人信息以进行政治广告。路透社上周首次报道的拟议和解协议是该公司多年来在一系列隐私事 
+    Meta Platform 已同意支付 7.25 亿美元来解决 2018 年提起的长期集体诉讼。 
     </details> 
 
 - 🦅 [FreeBuf早报 | 全球反勒索工作将于明年1月启动；微软违反隐私政策被罚六千万](https://www.freebuf.com/news/353671.html) | Tue Dec 27 2022 12:36 PM 
