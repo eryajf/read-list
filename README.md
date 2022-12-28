@@ -511,9 +511,9 @@
 ### v2方圆
 
 <!-- v2fy:START -->
-- 😺 [为笔记本电脑绑定公网IP随时随地BT做种完整方案（frp加v2ray配合比特彗星点亮绿灯）](https://v2fy.com/p/2022-12-27-btcomet-frp-v2ray-1672119312000/) | Tue Dec 27 2022 5:37 AM 
+- 😺 [提升BT下载速度，为笔记本电脑绑定公网IP随时随地BT做种完整方案（frp加v2ray配合比特彗星点亮绿灯）](https://v2fy.com/p/2022-12-27-btcomet-frp-v2ray-1672119312000/) | Tue Dec 27 2022 5:37 AM 
     <details><summary>展开描述 ...</summary> 
-    title: 为笔记本电脑绑定公网IP随时随地BT做种完整方案（frp加v2ray配合比特彗星点亮绿灯） BT [&amp;#8230;] 
+    title: 提升BT下载速度，为笔记本电脑绑定公网IP随时随地BT做种完整方案（frp加v2ray配合比特彗 [&amp;#8230;] 
     </details> 
 
 - 💃 [分享使用git的实用小技巧](https://v2fy.com/p/2022-10-31-git-tips-1667197196000/) | Sun Dec 25 2022 10:26 AM 
