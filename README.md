@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [FreeBuf早报 | 全球反勒索工作将于明年1月启动；微软违反隐私政策被罚六千万](https://www.freebuf.com/news/353671.html) | Tue Dec 27 2022 12:36 PM 
+    <details><summary>展开描述 ...</summary> 
+    澳大利亚网络安全部长Clare O &#39;Neil计划在未来几天宣布，一个打击勒索软件的全球特别工作组将于下个月开始运作。 
+    </details> 
+
 - 🦄 [展望：2023 年值得关注的网络安全趋势](https://www.freebuf.com/news/353647.html) | Tue Dec 27 2022 9:17 AM 
     <details><summary>展开描述 ...</summary> 
     本文是一些专家对未来一年网络安全领域的展望。 
     </details> 
 
-- 🦄 [2022 全球网络黑产常用攻击方法 Top 10](https://www.freebuf.com/articles/353623.html) | Tue Dec 27 2022 7:29 AM 
+- 🦅 [2022 全球网络黑产常用攻击方法 Top 10](https://www.freebuf.com/articles/353623.html) | Tue Dec 27 2022 7:29 AM 
     <details><summary>展开描述 ...</summary> 
     本文列举当下最流行的网络黑产常用攻击方法，总结了2022全球网络黑产常用攻击方法Top 10，带你更深刻认识网络黑产。 
     </details> 
 
-- 🦅 [Linux 被爆“满分级”关键内核级漏洞](https://www.freebuf.com/news/353584.html) | Tue Dec 27 2022 3:07 AM 
+- 🪄 [Linux 被爆“满分级”关键内核级漏洞](https://www.freebuf.com/news/353584.html) | Tue Dec 27 2022 3:07 AM 
     <details><summary>展开描述 ...</summary> 
     该漏洞的 CVSS 评分达到了最高级别的10分，影响启用了 KSMBD 的服务器。 
     </details> 
 
-- 🪄 [FreeBuf早报 | 超9成中国企业将在2023年提升安全预算；蔚来汽车CEO再谈数据泄露](https://www.freebuf.com/news/353561.html) | Mon Dec 26 2022 1:58 PM 
+- 💻 [红蓝对抗之致盲 Windows defender](https://www.freebuf.com/articles/web/353563.html) | Mon Dec 26 2022 2:16 PM 
     <details><summary>展开描述 ...</summary> 
-    12月25日，CEO李斌在谈及数据泄露事件时表示，蔚来“坚决不妥协”，“哪怕公司赔破产了，也不会在这个事情上妥协。 
-    </details> 
-
-- 💻 [2023的网安玩家，会和布洛芬退烧一样“凉”得快吗？](https://www.freebuf.com/articles/353555.html) | Mon Dec 26 2022 11:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    作为网安行业一级市场投资人，在这里为大家做一下今年网安市场惨状的年终总结，也邀请了两位业界知名公司负责人讲述他们的行业见解。 
+    Microsoft Defender 防病毒软件在 Windows 10 和 Windows 11 以及 Windows Server 版本中可用。 
     </details> 
 <!-- freebuf:END -->
 
