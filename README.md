@@ -704,18 +704,18 @@
      一个类似 Hacker News, Lobsters 的链接分享社区  
     </details> 
 
-- 💼 [Axmax - 开箱即用的产品设计资源库](https://xinquji.com/posts/792283?utm_campaign=xinquji-rss) | Tue Dec 27 2022 8:07 AM 
+- 💼 [Fundraiser - 面向 50,000 多名天使投资人和风险投资人的 AI 自动化筹款工具](https://xinquji.com/posts/792416?utm_campaign=xinquji-rss) | Wed Dec 28 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     开箱即用的产品设计资源库  
+     面向 50,000 多名天使投资人和风险投资人的 AI 自动化筹款工具  
     </details> 
 
-- 🦅 [便捷搜索 - 搜索工具浏览器插件，支持添加自定义搜索引擎，支持右键搜索](https://xinquji.com/posts/792282?utm_campaign=xinquji-rss) | Tue Dec 27 2022 8:07 AM 
+- 🦅 [Smashboard - 真实的工作场所协作](https://xinquji.com/posts/792415?utm_campaign=xinquji-rss) | Wed Dec 28 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     搜索工具浏览器插件，支持添加自定义搜索引擎，支持右键搜索  
+     真实的工作场所协作  
     </details> 
 
-- 😺 [HFF Products - 数以百万计的免费中奖直销产品导入](https://xinquji.com/posts/792394?utm_campaign=xinquji-rss) | Tue Dec 27 2022 6:00 AM 
+- 😺 [Metatelling - 一站式 3D PPT 启动器 - 将您的想法变为现实](https://xinquji.com/posts/792414?utm_campaign=xinquji-rss) | Wed Dec 28 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     数以百万计的免费中奖直销产品导入  
+     一站式 3D PPT 启动器 - 将您的想法变为现实  
     </details> 
 <!-- xinquji:END -->
