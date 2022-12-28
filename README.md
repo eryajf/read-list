@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 1228](http://jandan.net/p/112032) | Wed Dec 28 2022 2:47 AM 
+- 🚀 [如果恐龙从未灭绝](http://jandan.net/p/112020) | Wed Dec 28 2022 5:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    它们今天会是什么样子？ 
+    </details> 
+
+- 🙉 [迄今为止最有希望的长寿药物](http://jandan.net/p/112025) | Wed Dec 28 2022 5:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    对动物试验结果和人类应用的回顾。 
+    </details> 
+
+- 🎉 [今日好价 1228](http://jandan.net/p/112032) | Wed Dec 28 2022 5:33 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：31 
     </details> 
 
-- 🙉 [2022年度物理学简评](http://jandan.net/p/112019) | Tue Dec 27 2022 5:45 AM 
+- 🐲 [在其他行星，我们能把球抛出多远？](http://jandan.net/p/112033) | Wed Dec 28 2022 5:32 AM 
     <details><summary>展开描述 ...</summary> 
-    基础物理乏力，材料和天体物理学捷报频传 
+    天文学家 James O&#39;Donoghue 做了所有的计算并制作了视频 
     </details> 
 
-- 🎉 [Quora：什么是磷悖论？](http://jandan.net/p/112014) | Tue Dec 27 2022 5:44 AM 
+-  [实时闪动的社交媒体阻碍我们体验更彻底的无聊，这不是好事](http://jandan.net/p/112034) | Wed Dec 28 2022 5:31 AM 
     <details><summary>展开描述 ...</summary> 
-    磷其实很难获得，而地球上却相当丰富。 
-    </details> 
-
-- 🐲 [我们正在接近治愈癌症](http://jandan.net/p/112013) | Tue Dec 27 2022 5:42 AM 
-    <details><summary>展开描述 ...</summary> 
-    12名癌症患者刚刚被Dostarlimab治愈。 
-    </details> 
-
--  [哪怕在中世纪，人们仍然非常喜欢猫猫](http://jandan.net/p/112018) | Tue Dec 27 2022 5:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    哪怕传说中猫是女巫的伙伴 
+    我们需要深刻的无聊体验 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
