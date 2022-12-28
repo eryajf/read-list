@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [前端有多少工作是能用到 AST 的](https://www.v2ex.com/t/905062#reply1) | Wed Dec 28 2022 1:03 AM
-- 🤗 [windows10 局域网无法访问已经共享的主机？提示找不到网络位置](https://www.v2ex.com/t/905052#reply7) | Tue Dec 27 2022 7:05 PM
-- 🎭 [Java 实在太卷了, 如何在面试中脱颖而出, 怎么提前准备?](https://www.v2ex.com/t/905040#reply6) | Tue Dec 27 2022 2:24 PM
-- 🥷 [「Goravel 上新」验证表单的三种新姿势，估计你只用过一种](https://www.v2ex.com/t/905036#reply0) | Tue Dec 27 2022 1:53 PM
-- 🐵 [[硅谷外企] [核心业务] [业内 Top] [支持远程] [全美新兴科技 50 强] Engineer Manager - 期权+双休+四周年假+各种福利补贴](https://www.v2ex.com/t/905034#reply0) | Tue Dec 27 2022 1:45 PM<!-- v2ex:END -->
+- 🥸 [在字符串性能上，传统 C++库被游戏业打的鼻青脸肿。](https://www.v2ex.com/t/905072#reply19) | Wed Dec 28 2022 1:44 AM
+- 🤗 [google pin 码验证找不到验证的入口](https://www.v2ex.com/t/905069#reply0) | Wed Dec 28 2022 1:42 AM
+- 🎭 [前端有多少工作是能用到 AST 的](https://www.v2ex.com/t/905062#reply16) | Wed Dec 28 2022 1:03 AM
+- 🥷 [windows10 局域网无法访问已经共享的主机？提示找不到网络位置](https://www.v2ex.com/t/905052#reply9) | Tue Dec 27 2022 7:05 PM
+- 🐵 [Java 实在太卷了, 如何在面试中脱颖而出, 怎么提前准备?](https://www.v2ex.com/t/905040#reply17) | Tue Dec 27 2022 2:24 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
