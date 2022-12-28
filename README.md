@@ -704,18 +704,18 @@
      一个类似 Hacker News, Lobsters 的链接分享社区  
     </details> 
 
-- 💼 [Fundraiser - 面向 50,000 多名天使投资人和风险投资人的 AI 自动化筹款工具](https://xinquji.com/posts/792416?utm_campaign=xinquji-rss) | Wed Dec 28 2022 6:00 AM 
+- 💼 [RedGorillas - 印度社区驱动的社交商务](https://xinquji.com/posts/792418?utm_campaign=xinquji-rss) | Wed Dec 28 2022 6:00 AM 
+    <details><summary>展开描述 ...</summary> 
+     印度社区驱动的社交商务  
+    </details> 
+
+- 🦅 [OmneShip - 分散的点对点最后一英里交付](https://xinquji.com/posts/792417?utm_campaign=xinquji-rss) | Wed Dec 28 2022 6:00 AM 
+    <details><summary>展开描述 ...</summary> 
+     分散的点对点最后一英里交付  
+    </details> 
+
+- 😺 [Fundraiser - 面向 50,000 多名天使投资人和风险投资人的 AI 自动化筹款工具](https://xinquji.com/posts/792416?utm_campaign=xinquji-rss) | Wed Dec 28 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
      面向 50,000 多名天使投资人和风险投资人的 AI 自动化筹款工具  
-    </details> 
-
-- 🦅 [Smashboard - 真实的工作场所协作](https://xinquji.com/posts/792415?utm_campaign=xinquji-rss) | Wed Dec 28 2022 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     真实的工作场所协作  
-    </details> 
-
-- 😺 [Metatelling - 一站式 3D PPT 启动器 - 将您的想法变为现实](https://xinquji.com/posts/792414?utm_campaign=xinquji-rss) | Wed Dec 28 2022 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     一站式 3D PPT 启动器 - 将您的想法变为现实  
     </details> 
 <!-- xinquji:END -->
