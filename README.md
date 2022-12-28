@@ -398,11 +398,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯·如何正确地吐槽](https://daily.zhihu.com/story/9756595) | Tue Dec 27 2022 12:27 AM
-- 🐻 [血是红色的，为什么静脉是蓝色的？](https://daily.zhihu.com/story/9756565) | Tue Dec 27 2022 12:27 AM
-- 🌏 [为什么猫咪喜欢伸懒腰？](https://daily.zhihu.com/story/9756572) | Tue Dec 27 2022 12:27 AM
-- 🕴 [为什么蒸汽机车有时往轨道上撒沙子？](https://daily.zhihu.com/story/9756574) | Tue Dec 27 2022 12:27 AM
-- 🌮 [中国的青铜技术是从何而来？](https://daily.zhihu.com/story/9756580) | Tue Dec 27 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯·如何正确地吐槽](https://daily.zhihu.com/story/9756639) | Wed Dec 28 2022 12:27 AM
+- 🐻 [所有的星球为什么是圆的？](https://daily.zhihu.com/story/9756613) | Wed Dec 28 2022 12:27 AM
+- 🌏 [冰岛有独立的语言、文字吗？](https://daily.zhihu.com/story/9756622) | Wed Dec 28 2022 12:27 AM
+- 🕴 [猪为什么是蛇的「克星」？](https://daily.zhihu.com/story/9756626) | Wed Dec 28 2022 12:27 AM
+- 🌮 [如果把地球生命历史分成两段来写，你觉得该以拿个事件或里程为分界？](https://daily.zhihu.com/story/9756633) | Wed Dec 28 2022 12:27 AM<!-- zhihu:END -->
 
 
 ## 应用资源
