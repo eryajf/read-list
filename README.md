@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [平台云原生架构演进之道、2022年终总结｜掘金一周 12.28](https://juejin.cn/post/7182149713083236412) | Wed Dec 28 2022 10:50 AM 
+- 🤗 [应届生学习Java八个月，offer年薪28W，这一年我经历了什么？](https://juejin.cn/post/7182171033116344381) | Wed Dec 28 2022 12:14 PM 
+    <details><summary>展开描述 ...</summary> 
+    我叫阿杆，19级本科在读，双非院校，希望和大家交个朋友😋。主修软件工程，学习方向是后端开发，主要语言Java，今年秋招拿到了一份18*16的offer。 
+    </details> 
+
+- 🎡 [云渲染可以关机吗_云渲染时电脑可以关闭吗？](https://juejin.cn/post/7182160798142169144) | Wed Dec 28 2022 11:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    很多用户通过云渲染作业，解放了自己本地电脑的负载以及漫长的等渲染时长，当进行到云渲染中这一阶段时，大家又开始有了新的疑虑，譬如：使用云渲染时可以关机吗？在云渲染电脑可以关闭吗？本文将为您解答~ 
+    </details> 
+
+- 🕯 [RecyclerChart动态属性&lpar;一&rpar;](https://juejin.cn/post/7182155495027769405) | Wed Dec 28 2022 11:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    本章节将讲述一些RecyclerChart中笔者归结为动态属性，比如高亮选中Item时类似Top Poupwindow的窗口显示展示的值；左右滑动无限加载RecyclerChart的数据；滑动过程中松 
+    </details> 
+
+- 🚀 [平台云原生架构演进之道、2022年终总结｜掘金一周 12.28](https://juejin.cn/post/7182149713083236412) | Wed Dec 28 2022 10:50 AM 
     <details><summary>展开描述 ...</summary> 
     【掘金一周12.28】本期看点：一文详解内网穿透原理、Mysql的14个神仙功能、掘友2022年终总结... 
     </details> 
 
-- 🎡 [【刷题笔记】1122. 数组的相对排序](https://juejin.cn/post/7182149630363172921) | Wed Dec 28 2022 10:49 AM 
+- 💪 [【刷题笔记】1122. 数组的相对排序](https://juejin.cn/post/7182149630363172921) | Wed Dec 28 2022 10:49 AM 
     <details><summary>展开描述 ...</summary> 
     开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第29天，点击查看活动详情 题目描述 1122. 数组的相对排序 - 力扣（LeetCode） 给你两个数组，arr1 和 arr2 
-    </details> 
-
-- 🕯 [【刷题笔记】1051. 高度检查器](https://juejin.cn/post/7182149035816386616) | Wed Dec 28 2022 10:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第29天，点击查看活动详情 题目描述 1051. 高度检查器 - 力扣（LeetCode） 学校打算为全体学生拍一张年度纪念照。根据 
-    </details> 
-
-- 🚀 [使用虚拟机初始化 K8S 集群](https://juejin.cn/post/7182146841885179960) | Wed Dec 28 2022 10:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    使用 kubespray 在 Vagrant + VirtualBox 的几个虚拟机上初始化一个 K8S 集群。 &lt;!--more--&gt; 
-    </details> 
-
-- 💪 [2022我的个人总结](https://juejin.cn/post/7182141348152082489) | Wed Dec 28 2022 10:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    「回顾2022，展望2023，我正在参与2022年终总结征文大赛活动」 前言 时光如梭，岁月匆匆而过，2022年一转眼就已经到了末尾，今年的环境异常艰难，可是想想自己这一年来的付出，也还是值得做一个复 
     </details> 
 <!-- juejin:END -->
 ### 少数派
