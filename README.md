@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [创作热榜 - 创作热榜 - 全网内容热榜](https://xinquji.com/posts/792368?utm_campaign=xinquji-rss) | Wed Dec 28 2022 8:57 AM 
+- 👀 [填数字找规律 - 闯关挑战锻炼观察和思考能力](https://xinquji.com/posts/792395?utm_campaign=xinquji-rss) | Thu Dec 29 2022 9:45 AM 
+    <details><summary>展开描述 ...</summary> 
+     闯关挑战锻炼观察和思考能力  
+    </details> 
+
+- 🥷 [繁体字转换器 - 简体，繁体，火星文，拼音相互转换](https://xinquji.com/posts/792396?utm_campaign=xinquji-rss) | Thu Dec 29 2022 9:45 AM 
+    <details><summary>展开描述 ...</summary> 
+     简体，繁体，火星文，拼音相互转换  
+    </details> 
+
+- 💼 [创作热榜 - 创作热榜 - 全网内容热榜](https://xinquji.com/posts/792368?utm_campaign=xinquji-rss) | Wed Dec 28 2022 8:57 AM 
     <details><summary>展开描述 ...</summary> 
      创作热榜 - 全网内容热榜  
     </details> 
 
-- 🥷 [DTO - 中文 Hacker News 社区 - 一个类似 Hacker News, Lobsters 的链接分享社区](https://xinquji.com/posts/792340?utm_campaign=xinquji-rss) | Wed Dec 28 2022 8:57 AM 
+- 🦅 [DTO - 中文 Hacker News 社区 - 一个类似 Hacker News, Lobsters 的链接分享社区](https://xinquji.com/posts/792340?utm_campaign=xinquji-rss) | Wed Dec 28 2022 8:57 AM 
     <details><summary>展开描述 ...</summary> 
      一个类似 Hacker News, Lobsters 的链接分享社区  
     </details> 
 
-- 💼 [RedGorillas - 印度社区驱动的社交商务](https://xinquji.com/posts/792418?utm_campaign=xinquji-rss) | Wed Dec 28 2022 6:00 AM 
+- 😺 [RedGorillas - 印度社区驱动的社交商务](https://xinquji.com/posts/792418?utm_campaign=xinquji-rss) | Wed Dec 28 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
      印度社区驱动的社交商务  
-    </details> 
-
-- 🦅 [OmneShip - 分散的点对点最后一英里交付](https://xinquji.com/posts/792417?utm_campaign=xinquji-rss) | Wed Dec 28 2022 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     分散的点对点最后一英里交付  
-    </details> 
-
-- 😺 [Fundraiser - 面向 50,000 多名天使投资人和风险投资人的 AI 自动化筹款工具](https://xinquji.com/posts/792416?utm_campaign=xinquji-rss) | Wed Dec 28 2022 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     面向 50,000 多名天使投资人和风险投资人的 AI 自动化筹款工具  
     </details> 
 <!-- xinquji:END -->
