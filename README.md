@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [JavaScript 闭包](https://juejin.cn/post/7181895706330791995) | Tue Dec 27 2022 7:50 PM 
+- 🤗 [c——设计扫描器的自动机](https://juejin.cn/post/7181998174955896869) | Wed Dec 28 2022 1:01 AM 
     <details><summary>展开描述 ...</summary> 
-    什么是闭包？ 闭包的概念是有很多版本，不同的地方对闭包的说法不一 个人理解： 闭包是一个函数（返回一个函数） 返回的函数保存了对外变量引用 一个简单的示例 num 变量作用域在 fn 函数中, rFn 
+    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第31天，[点击查看活动详情]&lpar;https://juejin.cn/post/7167294154827890702 &quot;https: 
     </details> 
 
-- 🎡 [你是如何实现移动端适配方案的？看看这里有没有你心水的](https://juejin.cn/post/7181858133856223287) | Tue Dec 27 2022 3:59 PM 
+- 🎡 [字节国际支付十连问](https://juejin.cn/post/7181993748895629367) | Wed Dec 28 2022 12:45 AM 
     <details><summary>展开描述 ...</summary> 
-    以前的简历为了突显我在 H5 也有一定涉猎，总是会想办法写一点相关的上去，其中移动端适配是问的比较多的，但是每次的回答面试官都不太满意，因为我在这方面纯纯是半桶水，没有亲自有过实际环境处理，所以今天的 
+    大家好，我是田螺。 之前有位读者去字节面试，面的是国际支付部门，他凭记忆，回忆被问到一些面试真题。于是，我整理了比较全的答案，希望对大家找工作有帮助呀，加油~ 
     </details> 
 
-- 🕯 [盘点一下Mysql中的一些小知识](https://juejin.cn/post/7181856653086883895) | Tue Dec 27 2022 3:54 PM 
+- 🕯 [Okhttp源码分析&amp;实践（九）【实践环节：OKhttp拦截器的实现】](https://juejin.cn/post/7181992810667573306) | Wed Dec 28 2022 12:42 AM 
     <details><summary>展开描述 ...</summary> 
-    根据MySQL 速成课程 - Ben Forta（本·福塔）课程记录的一些关于Mysql数据库的笔记 
+    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第31天，点击查看活动详情 先简单回顾一下各个拦截器的作用： RetryAndFollowUpInterceptor：重试拦截器 处 
     </details> 
 
-- 🚀 [【Flutter框架】项目的手动序列化小项目以及对于进程异步性和格式化代码的研究](https://juejin.cn/post/7181851613491888189) | Tue Dec 27 2022 3:33 PM 
+- 🚀 [开源月刊《HelloGitHub》第 81 期](https://juejin.cn/post/7181991797457944634) | Wed Dec 28 2022 12:40 AM 
     <details><summary>展开描述 ...</summary> 
-    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第34天，点击查看活动详情 手动序列化小项目 手动JSON序列化是指在dart:convert中使用内置的JSON解码器。它将原始J 
+    简介 HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。 这里有实战项目、入门教程、黑科技、开源书籍、大厂开源项目等，涵盖多种编程语言 Python、Java、Go、C/C++、S 
     </details> 
 
-- 💪 [项目中 2 个真实的 TS 类型编程案例](https://juejin.cn/post/7181846488937398309) | Tue Dec 27 2022 3:17 PM 
+- 💪 [Perf8：Python 的性能指标](https://juejin.cn/post/7181984728625446970) | Wed Dec 28 2022 12:12 AM 
     <details><summary>展开描述 ...</summary> 
-    最近有两个同学问了我项目中遇到的 ts 问题，这俩问题都是典型的可以用类型编程来解决的。 理解了这两个问题的解决思路，就能知道什么时候要用类型编程。 我们一起看一下吧： 第一个问题是这样的，项目中定义 
+    作者：Tarek Ziadé 我们正在用 Python 构建这个简洁的服务，以从 Elasticsearch 中的各种来源（MySQL、网络驱动器、A​​WS 等）获取数据，用于企业搜索。 从第三方服 
     </details> 
 <!-- juejin:END -->
 ### 少数派
