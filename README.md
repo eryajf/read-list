@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [c——设计扫描器的自动机](https://juejin.cn/post/7181998174955896869) | Wed Dec 28 2022 1:01 AM 
+- 🤗 [转转AB平台的设计与实现](https://juejin.cn/post/7182019823591751717) | Wed Dec 28 2022 2:25 AM 
     <details><summary>展开描述 ...</summary> 
-    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第31天，[点击查看活动详情]&lpar;https://juejin.cn/post/7167294154827890702 &quot;https: 
+    在数据驱动时代，不管是在产品功能迭代还是策略决策时都需要数据的支撑。那么，当我们准备上线一个新功能或者策略时，如何评估新老版本优劣，即数据的可量化就成了问题。这个时候就需要引入 A/B Test 了。 
     </details> 
 
-- 🎡 [字节国际支付十连问](https://juejin.cn/post/7181993748895629367) | Wed Dec 28 2022 12:45 AM 
+- 🎡 [基于 GraphQL 的云音乐 BFF 建设实践](https://juejin.cn/post/7182019663004434488) | Wed Dec 28 2022 2:25 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是田螺。 之前有位读者去字节面试，面的是国际支付部门，他凭记忆，回忆被问到一些面试真题。于是，我整理了比较全的答案，希望对大家找工作有帮助呀，加油~ 
+    BFF 研发模式一直是业界广泛青睐的前后端协作模式，它能有效解耦前后端在协作上的依赖关系，从而大幅度提升研发效率。今年，云音乐基于 GraphQL 成功在团队内部落地 BFF。 
     </details> 
 
-- 🕯 [Okhttp源码分析&amp;实践（九）【实践环节：OKhttp拦截器的实现】](https://juejin.cn/post/7181992810667573306) | Wed Dec 28 2022 12:42 AM 
+- 🕯 [js打印功能](https://juejin.cn/post/7182019480376213565) | Wed Dec 28 2022 2:24 AM 
     <details><summary>展开描述 ...</summary> 
-    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第31天，点击查看活动详情 先简单回顾一下各个拦截器的作用： RetryAndFollowUpInterceptor：重试拦截器 处 
+    前言 需要打印html页面，本来用的什么c lood插件，很难用，后来选择直接js打印，废话不多说，直接上可复制粘贴的代码 代码 不打印的地方，加个样式 完事 
     </details> 
 
-- 🚀 [开源月刊《HelloGitHub》第 81 期](https://juejin.cn/post/7181991797457944634) | Wed Dec 28 2022 12:40 AM 
+- 🚀 [Redis  cluster去中心化设计的思考与总结](https://juejin.cn/post/7182018446769520695) | Wed Dec 28 2022 2:20 AM 
     <details><summary>展开描述 ...</summary> 
-    简介 HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。 这里有实战项目、入门教程、黑科技、开源书籍、大厂开源项目等，涵盖多种编程语言 Python、Java、Go、C/C++、S 
+    分布式存储⼀般是通过多副本的形式保证数据可靠，多副本之间使⽤⼀致性协议保证数据一致，⾼并发场景下Leader单节点中心问题会成为系统瓶颈，解决办法是采用去中心化的设计如redis cluster模式 
     </details> 
 
-- 💪 [Perf8：Python 的性能指标](https://juejin.cn/post/7181984728625446970) | Wed Dec 28 2022 12:12 AM 
+- 💪 [开箱即用！动态修改RocketMQ线程池](https://juejin.cn/post/7182017271399710778) | Wed Dec 28 2022 2:15 AM 
     <details><summary>展开描述 ...</summary> 
-    作者：Tarek Ziadé 我们正在用 Python 构建这个简洁的服务，以从 Elasticsearch 中的各种来源（MySQL、网络驱动器、A​​WS 等）获取数据，用于企业搜索。 从第三方服 
+    动态修改RocketMQ线程池，那我们如何才能够通过管理页面对不同消费者组的线程池进行管理自由的随着业务波动进行平滑修改，降低线程池参数修改的成本。 另外，从功能性以及健壮性而言还有许多值得我们思考 
     </details> 
 <!-- juejin:END -->
 ### 少数派
