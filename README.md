@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一分钟搞定Netty 三大组件，如果搞不定，再加2钟](https://juejin.cn/post/7182090831283617853) | Wed Dec 28 2022 7:01 AM 
+- 🤗 [iOS 简单的操作杆旋转实现](https://juejin.cn/post/7182105890244263973) | Wed Dec 28 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
-     ## 1. 三大组件简介 Channel 与 Buffer Java NIO 系统的核心在于：**通道 &lpar;Channel&rpar; 和缓冲区 &lpar;Buffer&rpar;。通道表示打开到 IO 设备 &lpar;例如：文 
+    废话开篇：简单的操作杆旋转实现 一、效果实现 简单实现了一个消灭病毒的小效果，画面略显粗糙，多多见谅 控制球复位 二、操作杆实现 实现拖动小球，获取当前小球的旋转方向，将旋转的方向传递出去，旋转“坦克 
     </details> 
 
-- 🎡 [基于Seata探寻分布式事务的实现方案](https://juejin.cn/post/7182088193134002213) | Wed Dec 28 2022 6:50 AM 
+- 🎡 [面试官针对大文件上传的追问](https://juejin.cn/post/7182105299921141817) | Wed Dec 28 2022 7:59 AM 
     <details><summary>展开描述 ...</summary> 
-    随着业务的快速发展、业务复杂度越来越高，几乎每个公司的系统都会从单体走向分布式，特别是转向微服务架构。随之而来就必然遇到分布式事务这个难题，这篇文章通过seata框架总结了分布式事务的几种解决方案。 
+    大文件断点续传 思路：通过file.slice方法对大文件进行切割，利用spark-md5.js计算文件唯一的hash值，点击开始上传，发送文件的hash值给服务端，服务端返回是否需要上传以及已经上传 
     </details> 
 
-- 🕯 [字节跳动模型大规模部署实战](https://juejin.cn/post/7182086816445497403) | Wed Dec 28 2022 6:46 AM 
+- 🕯 [Nest.js 项目优化 ts 编译性能实战、Innodb的RR到底有没有解决幻读 | 酱酱的下午茶第141期](https://juejin.cn/post/7182100706701574199) | Wed Dec 28 2022 7:39 AM 
     <details><summary>展开描述 ...</summary> 
-    字节跳动内部模型部署方案，利用编译技术实现了模型前后处理的训推一体化，在字节跳动内部以中台的形式服务了大量核心业务，相关的方案已经开源。 
+    本期亮点：Android自动化打包记录--Jenkins+Docker+WSL2 CSS 如何根据背景色自动切换黑白文字？ 深入分析JVM类加载&lpar;三&rpar;-ClassLoader是如何加载类的 
     </details> 
 
-- 🚀 [都快2023年了！赶快来熟悉一下ES6的Proxy用法吧](https://juejin.cn/post/7182084369454989349) | Wed Dec 28 2022 6:36 AM 
+- 🚀 [Server Sent Events](https://juejin.cn/post/7182100585213231164) | Wed Dec 28 2022 7:39 AM 
     <details><summary>展开描述 ...</summary> 
-    面试必备 一、Proxy介绍 Proxy ：用于创建一个对象的代理，从而实现基本操作的拦截和自定义。`target`表示所要拦截的目标对象（任何类型的对象，包括原生数组，函数，甚至另一个代理 
+    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第20天，点击查看活动详情 Server-Sent Events 规范描述了一个内建的类 EventSource，它能保持与服务器的 
     </details> 
 
-- 💪 [字节内部课又双叒叕上新，充会员还送会员？！](https://juejin.cn/post/7182082186186522681) | Wed Dec 28 2022 6:27 AM 
+- 💪 [手把手提高开发体验：dev-containe](https://juejin.cn/post/7182100280438325308) | Wed Dec 28 2022 7:38 AM 
     <details><summary>展开描述 ...</summary> 
-    「字节内部课」上新活动又来了！这个冬天，与字节工程师们同行，开通会员免费学，带着你的技术热情，加入课程学习，更有超多字节内部好礼相送！ 
+    之前看过方应杭的一期工作流视频，讲他是如何配置开发环境的。讲真，这期视频给我一丝震撼，原来不用虚拟机也能在 linux 上开发，但是它的配置过于复杂，我想配置一套自己的一套开发环境... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
