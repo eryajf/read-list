@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [不用 webpack，如何纯前端实现压缩图片？](https://www.v2ex.com/t/905251#reply0) | Wed Dec 28 2022 4:03 PM
-- 🤗 [这个 class 是什么意思](https://www.v2ex.com/t/905238#reply1) | Wed Dec 28 2022 1:42 PM
-- 🎭 [不靠应用市场，请问各位是如何管理 app 版本升级的](https://www.v2ex.com/t/905237#reply0) | Wed Dec 28 2022 1:42 PM
-- 🥷 [app 开发公/私链问题](https://www.v2ex.com/t/905232#reply0) | Wed Dec 28 2022 12:56 PM
-- 🐵 [搞个自动化引导配置系统试试吗（一）](https://www.v2ex.com/t/905228#reply0) | Wed Dec 28 2022 12:21 PM<!-- v2ex:END -->
+- 🥸 [你们会用 supabase 吗？](https://www.v2ex.com/t/905252#reply0) | Wed Dec 28 2022 4:33 PM
+- 🤗 [不用 webpack，如何纯前端实现压缩图片？](https://www.v2ex.com/t/905251#reply3) | Wed Dec 28 2022 4:03 PM
+- 🎭 [这个 class 是什么意思](https://www.v2ex.com/t/905238#reply1) | Wed Dec 28 2022 1:42 PM
+- 🥷 [不靠应用市场，请问各位是如何管理 app 版本升级的](https://www.v2ex.com/t/905237#reply0) | Wed Dec 28 2022 1:42 PM
+- 🐵 [app 开发公/私链问题](https://www.v2ex.com/t/905232#reply0) | Wed Dec 28 2022 12:56 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
