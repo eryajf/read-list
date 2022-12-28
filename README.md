@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [AI 训练加速原理解析与工程实践分享](https://juejin.cn/post/7182075179089002552) | Wed Dec 28 2022 6:00 AM 
+- 🤗 [一分钟搞定Netty 三大组件，如果搞不定，再加2钟](https://juejin.cn/post/7182090831283617853) | Wed Dec 28 2022 7:01 AM 
     <details><summary>展开描述 ...</summary> 
-    这次分享将系统性的分析在 AI 模型训练过程中的主要性能瓶颈，以及当前针对这些瓶颈的主要的加速方案和技术原理，并介绍百度智能云在这方面的一些实践成果。 
+     ## 1. 三大组件简介 Channel 与 Buffer Java NIO 系统的核心在于：**通道 &lpar;Channel&rpar; 和缓冲区 &lpar;Buffer&rpar;。通道表示打开到 IO 设备 &lpar;例如：文 
     </details> 
 
-- 🎡 [隐私计算之多方安全计算（MPC，Secure Multi-Party Computation）](https://juejin.cn/post/7182072953243172923) | Wed Dec 28 2022 5:52 AM 
+- 🎡 [基于Seata探寻分布式事务的实现方案](https://juejin.cn/post/7182088193134002213) | Wed Dec 28 2022 6:50 AM 
     <details><summary>展开描述 ...</summary> 
-    如今，组织在收集、存储敏感的个人信息以及在外部环境（例如云​​）中处理、共享个人信息时， 越来越关注数据安全。 
+    随着业务的快速发展、业务复杂度越来越高，几乎每个公司的系统都会从单体走向分布式，特别是转向微服务架构。随之而来就必然遇到分布式事务这个难题，这篇文章通过seata框架总结了分布式事务的几种解决方案。 
     </details> 
 
-- 🕯 [熟读虚拟机栈5连问，轻松对线面试官](https://juejin.cn/post/7182067841963655225) | Wed Dec 28 2022 5:33 AM 
+- 🕯 [字节跳动模型大规模部署实战](https://juejin.cn/post/7182086816445497403) | Wed Dec 28 2022 6:46 AM 
     <details><summary>展开描述 ...</summary> 
-    如果对象是在方法内部产生且在内部消亡，不会返回到外部就不存在线程安全问题；反之如果类本身线程不安全的话就存在线程安全问题。 
+    字节跳动内部模型部署方案，利用编译技术实现了模型前后处理的训推一体化，在字节跳动内部以中台的形式服务了大量核心业务，相关的方案已经开源。 
     </details> 
 
-- 🚀 [Class constructor HttpResponseList cannot be invoked without &#39;new&#39;](https://juejin.cn/post/7182060248142708796) | Wed Dec 28 2022 5:04 AM 
+- 🚀 [都快2023年了！赶快来熟悉一下ES6的Proxy用法吧](https://juejin.cn/post/7182084369454989349) | Wed Dec 28 2022 6:36 AM 
     <details><summary>展开描述 ...</summary> 
-    Vue3 项目启动服务 控制台报错 Class constructor HttpResponseList cannot be invoked without &#39;new&#39;解决升级webpack 
+    面试必备 一、Proxy介绍 Proxy ：用于创建一个对象的代理，从而实现基本操作的拦截和自定义。`target`表示所要拦截的目标对象（任何类型的对象，包括原生数组，函数，甚至另一个代理 
     </details> 
 
-- 💪 [GO并发之好用的sync包](https://juejin.cn/post/7182059760567451685) | Wed Dec 28 2022 5:02 AM 
+- 💪 [字节内部课又双叒叕上新，充会员还送会员？！](https://juejin.cn/post/7182082186186522681) | Wed Dec 28 2022 6:27 AM 
     <details><summary>展开描述 ...</summary> 
-    sync.Map 并发安全的Map 反例如下，两个Goroutine分别读写。 执行报错： 使用并发安全的Map 不需要make就能使用 还内置了Store、Load、LoadOrStore、Dele 
+    「字节内部课」上新活动又来了！这个冬天，与字节工程师们同行，开通会员免费学，带着你的技术热情，加入课程学习，更有超多字节内部好礼相送！ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
