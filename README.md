@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [iOS 简单的操作杆旋转实现](https://juejin.cn/post/7182105890244263973) | Wed Dec 28 2022 8:00 AM 
+- 🤗 [自动驾驶入行难？先把靠谱的技术开放平台利用起来](https://juejin.cn/post/7182123969711964216) | Wed Dec 28 2022 9:09 AM 
     <details><summary>展开描述 ...</summary> 
-    废话开篇：简单的操作杆旋转实现 一、效果实现 简单实现了一个消灭病毒的小效果，画面略显粗糙，多多见谅 控制球复位 二、操作杆实现 实现拖动小球，获取当前小球的旋转方向，将旋转的方向传递出去，旋转“坦克 
+    Apollo这个名字小包就特别喜欢，百度是自动驾驶的领头羊。百度Apollo是一个自动驾驶领域的开放生态平台，为很多想学习自动驾驶技术的开发者提供诸多学习资源，不管你是想入门或者想磨炼技术，都不容错过 
     </details> 
 
-- 🎡 [面试官针对大文件上传的追问](https://juejin.cn/post/7182105299921141817) | Wed Dec 28 2022 7:59 AM 
+- 🎡 [小册上新｜Flutter 跨平台开发实战](https://juejin.cn/post/7182120458869817399) | Wed Dec 28 2022 8:55 AM 
     <details><summary>展开描述 ...</summary> 
-    大文件断点续传 思路：通过file.slice方法对大文件进行切割，利用spark-md5.js计算文件唯一的hash值，点击开始上传，发送文件的hash值给服务端，服务端返回是否需要上传以及已经上传 
+    对于客户端和前端而言，跨平台恰恰就意味着低成本和高效率，Flutter 无疑成为了最值得选择的解决方案。求职者若能熟练掌握 Flutter 开发技能，将在众多面试者之中脱颖而出，独具优势 
     </details> 
 
-- 🕯 [Nest.js 项目优化 ts 编译性能实战、Innodb的RR到底有没有解决幻读 | 酱酱的下午茶第141期](https://juejin.cn/post/7182100706701574199) | Wed Dec 28 2022 7:39 AM 
+- 🕯 [爱意平山海（1）](https://juejin.cn/post/7182118172420472891) | Wed Dec 28 2022 8:47 AM 
     <details><summary>展开描述 ...</summary> 
-    本期亮点：Android自动化打包记录--Jenkins+Docker+WSL2 CSS 如何根据背景色自动切换黑白文字？ 深入分析JVM类加载&lpar;三&rpar;-ClassLoader是如何加载类的 
+    灯会初遇 “年年灯会，再无今日之盛景”，我走出家门叹道，那些雪飘飘摇摇，纷纷扬扬的洒在我的身上，我每一脚踩在雪地上，都会咔咔作响，实在有趣得紧。而那满披银条的柳树竖立在小桥两边，四处都挂满了灯笼和灯花 
     </details> 
 
-- 🚀 [Server Sent Events](https://juejin.cn/post/7182100585213231164) | Wed Dec 28 2022 7:39 AM 
+- 🚀 [32篇年度最佳AI论文；Python编译器Codon开源；ChatGPT的前世今生](https://juejin.cn/post/7182112033498726457) | Wed Dec 28 2022 8:24 AM 
     <details><summary>展开描述 ...</summary> 
-    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第20天，点击查看活动详情 Server-Sent Events 规范描述了一个内建的类 EventSource，它能保持与服务器的 
+    1. 2022年最佳AI论文32篇：DALL·E 2、Stable Diffusion、ChatGPT等入选 大模型和文生图、跨模态是今年毫无疑问的热点，此外也有多篇GAN等视觉领域的文章。 
     </details> 
 
-- 💪 [手把手提高开发体验：dev-containe](https://juejin.cn/post/7182100280438325308) | Wed Dec 28 2022 7:38 AM 
+- 💪 [YOLOv5全面解析教程②：如何制作训练效果更好的数据集](https://juejin.cn/post/7182108654638727227) | Wed Dec 28 2022 8:10 AM 
     <details><summary>展开描述 ...</summary> 
-    之前看过方应杭的一期工作流视频，讲他是如何配置开发环境的。讲真，这期视频给我一丝震撼，原来不用虚拟机也能在 linux 上开发，但是它的配置过于复杂，我想配置一套自己的一套开发环境... 
+    本文主要介绍 One-YOLOv5 使用的数据集格式以及如何制作一个可以获得更好训练效果的数据集。本节教程的数据集标准部分翻译了 Ultralytics/YOLOv5 wiki 中对数据集相关的描述。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
