@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [SDK 是什么？和 npm 有什么区别？简单写个例子了解 JS SDK](https://juejin.cn/post/7182226100947255352) | Wed Dec 28 2022 3:45 PM 
+- 🤗 [Vue 面试题汇总](https://juejin.cn/post/7182249611350769725) | Wed Dec 28 2022 5:27 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 本文来自 我的个人博客，原文地址：https://yejiwei.com/post/84 面试题整理自 B站 前端杨村长的 Vue面试专题，题解有结合个人的思考，供大家参考。 个人觉得村长的题目 
+    </details> 
+
+- 🎡 [SDK 是什么？和 npm 有什么区别？简单写个例子了解 JS SDK](https://juejin.cn/post/7182226100947255352) | Wed Dec 28 2022 3:45 PM 
     <details><summary>展开描述 ...</summary> 
     什么是 SDK？SDK（Software Development Kit）即软件开发工具包，就是帮助我们开发出软件的工具集合，除了代码之外，一般还要搭配文档、示例等。除了 
     </details> 
 
-- 🎡 [我的 2022 年终总结：技术、生活还有裁员](https://juejin.cn/post/7182222872222384189) | Wed Dec 28 2022 3:34 PM 
+- 🕯 [我的 2022 年终总结：技术、生活还有裁员](https://juejin.cn/post/7182222872222384189) | Wed Dec 28 2022 3:34 PM 
     <details><summary>展开描述 ...</summary> 
     转眼 2022 即将过去，又到一年一度年终总结的时候了。作为一线互联网程序员的我经历了哪些？有哪些思考？未来我的一些想法？ 
     </details> 
 
-- 🕯 [SVG 安全](https://juejin.cn/post/7182215103297617980) | Wed Dec 28 2022 3:04 PM 
+- 🚀 [SVG 安全](https://juejin.cn/post/7182215103297617980) | Wed Dec 28 2022 3:04 PM 
     <details><summary>展开描述 ...</summary> 
     本篇文章的目的有：1、了解 SVG 漏洞；2、了解 SVG 常见防护手段；3、搜寻 SVG 数据安全性校验和过滤的库；4、了解如何使用此类库来进行 SVG 上传防护；5、阅读源码，能明确讲述此类库做了 
     </details> 
 
-- 🚀 [原生微信小程序项目基建实践](https://juejin.cn/post/7182202653533798455) | Wed Dec 28 2022 2:16 PM 
+- 💪 [原生微信小程序项目基建实践](https://juejin.cn/post/7182202653533798455) | Wed Dec 28 2022 2:16 PM 
     <details><summary>展开描述 ...</summary> 
     一、  前言 本文适用于初次使用原生小程序开发项目，介绍一些基础必要的点，可以应用于各种业务项目，请结合官方文档进行阅读。 二、  前期准备工作 使用原生微信小程序开发，必须要仔细阅读官方开发文档，要 
-    </details> 
-
-- 💪 [2023年，祝你有个好习惯！](https://juejin.cn/post/7182194367904841765) | Wed Dec 28 2022 1:42 PM 
-    <details><summary>展开描述 ...</summary> 
-    在总结的时候，我就感觉，好习惯真的非常重要，尤其是我们希望自己能够抽出时间来学习新知识的人。所以必须给大伙好好讲讲。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
