@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [又一最新罚款！Facebook将支付7.25亿美元，处理数据泄露诉讼](https://www.freebuf.com/articles/353691.html) | Wed Dec 28 2022 2:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    近日，Facebook、Instagram 和 WhatsApp 的母公司 Meta Platform 已同意支付 7.25 亿美元来解决 2018 年提起的长期集体诉讼。这场法律纠纷是因为这家社交媒体巨头允许第三方应用程序（例如Cambridge Analytica使用的应用程序）在未经用户同意的情况下访问用户的个人信息以进行政治广告。路透社上周首次报道的拟议和解协议是该公司多年来在一系列隐私事 
+    </details> 
+
 - 🦄 [FreeBuf早报 | 全球反勒索工作将于明年1月启动；微软违反隐私政策被罚六千万](https://www.freebuf.com/news/353671.html) | Tue Dec 27 2022 12:36 PM 
     <details><summary>展开描述 ...</summary> 
     澳大利亚网络安全部长Clare O &#39;Neil计划在未来几天宣布，一个打击勒索软件的全球特别工作组将于下个月开始运作。 
     </details> 
 
-- 🦄 [展望：2023 年值得关注的网络安全趋势](https://www.freebuf.com/news/353647.html) | Tue Dec 27 2022 9:17 AM 
+- 🦅 [展望：2023 年值得关注的网络安全趋势](https://www.freebuf.com/news/353647.html) | Tue Dec 27 2022 9:17 AM 
     <details><summary>展开描述 ...</summary> 
     本文是一些专家对未来一年网络安全领域的展望。 
     </details> 
 
-- 🦅 [2022 全球网络黑产常用攻击方法 Top 10](https://www.freebuf.com/articles/353623.html) | Tue Dec 27 2022 7:29 AM 
+- 🪄 [2022 全球网络黑产常用攻击方法 Top 10](https://www.freebuf.com/articles/353623.html) | Tue Dec 27 2022 7:29 AM 
     <details><summary>展开描述 ...</summary> 
     本文列举当下最流行的网络黑产常用攻击方法，总结了2022全球网络黑产常用攻击方法Top 10，带你更深刻认识网络黑产。 
     </details> 
 
-- 🪄 [Linux 被爆“满分级”关键内核级漏洞](https://www.freebuf.com/news/353584.html) | Tue Dec 27 2022 3:07 AM 
+- 💻 [FB赠书第 92 期 | 《域渗透攻防指南》在手! 助你成为 AD 域专家](https://www.freebuf.com/fevents/353606.html) | Tue Dec 27 2022 6:43 AM 
     <details><summary>展开描述 ...</summary> 
-    该漏洞的 CVSS 评分达到了最高级别的10分，影响启用了 KSMBD 的服务器。 
-    </details> 
-
-- 💻 [红蓝对抗之致盲 Windows defender](https://www.freebuf.com/articles/web/353563.html) | Mon Dec 26 2022 2:16 PM 
-    <details><summary>展开描述 ...</summary> 
-    Microsoft Defender 防病毒软件在 Windows 10 和 Windows 11 以及 Windows Server 版本中可用。 
+    如果域控沦陷，则 AD 域环境中的所有机器都将被控制，这是一件多么可怕的事啊！因此，AD域安全至关重要。 
     </details> 
 <!-- freebuf:END -->
 
