@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Eon 2.9.4 优秀的时间跟踪定时器](https://xclient.info/s/eon.html) | Wed Dec 28 2022 1:55 AM 
+- 🦏 [System Toolkit 5.9.8 系统工具包](https://xclient.info/s/system-toolkit.html) | Thu Dec 29 2022 2:06 AM 
     <details><summary>展开描述 ...</summary> 
-    Eon 是一款Mac上优秀的时间跟踪定时器，支持中文界面，可以进行时间统计跟踪，设置定时器等，简单易用。 
+    System Toolkit 是为MacOS设计的一体化信息和维护应用程序。 
     </details> 
 
--  [Aiseesoft Mac Blu-ray Player 6.6.26.122956 蓝光播放器](https://xclient.info/s/aiseesoft-mac-blu-ray-player.html) | Wed Dec 28 2022 1:54 AM 
+-  [uDock 3.3&lpar;33001&rpar; 轻量级Dock栏快速启动工具](https://xclient.info/s/udock.html) | Thu Dec 29 2022 2:05 AM 
     <details><summary>展开描述 ...</summary> 
-    Aiseesoft Mac Blu-Ray Player是一款Mac平台上的蓝光视频播放器，除了蓝光视频外，软件还支持MPG ， MPEG ， VOB ， MP4， RMVB ， MKV ， AVI，FLV ， SWF ， MOD ， TOD ， AAC，AC3 ， MP3，OGG， WAV，WMA 等格式的播放。 
+    轻量级系统扩展uDock可以在系统工具栏中工作，使用键盘快捷键或鼠标热点来激活 μDock，它几乎是隐形的，并且在您需要时随时准备就绪 
     </details> 
 
-- ⚗️ [TunesKit AceMovi Video Editor 4.9.20.152 视频制作](https://xclient.info/s/tuneskit-acemovi-video-editor.html) | Wed Dec 28 2022 1:53 AM 
+- ⚗️ [Path Finder 2149 超赞Mac资源 文件管理工具](https://xclient.info/s/path-finder.html) | Thu Dec 29 2022 2:05 AM 
     <details><summary>展开描述 ...</summary> 
-    TunesKit AceMovi Video Editor是一款功能强大且全面的视频编辑软件，主要功能是帮助用户制作精美的视频，支持编辑滤镜、过渡、动画、文本、音乐以及模板等功能。 
+    Path Finder 是一款类似于Finder的系统文件管理器，它能轻而易举访问系统文件或者网络硬盘。可自定义标签集，支持新建不同的侧边栏，根据不同的应用调取。使用操作的确比系统自带的 Finder 操作方便多了。 
     </details> 
 
-- 🔥 [iCalamus 2.3&lpar;19044&rpar; 版面设计](https://xclient.info/s/icalamus.html) | Wed Dec 28 2022 1:50 AM 
+- 🔥 [Perfectly Clear WorkBench 4.2.0.2380 智能图片瑕疵处理工具](https://xclient.info/s/perfectly-clear-workbench.html) | Thu Dec 29 2022 2:03 AM 
     <details><summary>展开描述 ...</summary> 
-    iCalamus 是一款Mac平台的图像版面设计软件，无论是简单的明信片的图像版面设计还是复杂的杂志版面设计，该软件都能够帮助我们轻松完成，非常适合于DTP排版职业的人群。 
+    Perfectly Clear Workbench可以帮您在几分钟内自动修复、微调和批处理图片。 
     </details> 
 
-- 🌋 [EasyDataTransform 1.38.1 Excel和CSV文件转换工具](https://xclient.info/s/easydatatransform.html) | Wed Dec 28 2022 1:25 AM 
+- 🌋 [Millumin 4.16.c 视频处理工具](https://xclient.info/s/millumin.html) | Thu Dec 29 2022 2:02 AM 
     <details><summary>展开描述 ...</summary> 
-    EasyDataTransform是一款功能强大的Excel和CSV文件转换工具，使您无需编程即可将表和列表数据快速转换为新的，更有用的形式。 
+    Millumin 是Mac平台上的一款专业的视频编辑软件，功能十分强大且十分齐全。 
     </details> 
 <!-- xclient:END -->
 
