@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [什么是点击劫持？实例讲解并教你如何实施一次点击劫持攻击](https://juejin.cn/post/7182599905439907898) | Thu Dec 29 2022 3:58 PM 
+- 🤗 [2022 开心大于烦恼](https://juejin.cn/post/7182612996760272952) | Thu Dec 29 2022 4:53 PM 
+    <details><summary>展开描述 ...</summary> 
+    「回顾2022，展望2023，我正在参与2022年终总结征文大赛活动」 前言 很高兴遇见你～ 过去的过不去的终将过去 未来的还没来的即将到来 2022感恩~ 2022 年是被疫情笼罩的⼀年，核酸从年头 
+    </details> 
+
+- 🎡 [什么是点击劫持？实例讲解并教你如何实施一次点击劫持攻击](https://juejin.cn/post/7182599905439907898) | Thu Dec 29 2022 3:58 PM 
     <details><summary>展开描述 ...</summary> 
     点击劫持是当初我在面步步高前端的时候面试官问我的一道问题，当时我以为是类似 proxy 之类的前端代理技术实现，但面试官话锋一转，其实这是一个前端安全方面的八股，面试官这个老 6 属实是给我来了一击措 
     </details> 
 
-- 🎡 [算法 | 如何把一个int型二进制数的最右侧的1提取出来？](https://juejin.cn/post/7182591067856830523) | Thu Dec 29 2022 3:23 PM 
+- 🕯 [算法 | 如何把一个int型二进制数的最右侧的1提取出来？](https://juejin.cn/post/7182591067856830523) | Thu Dec 29 2022 3:23 PM 
     <details><summary>展开描述 ...</summary> 
     开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第33天， 本文主要介绍如何把一个int型二进制数的最右侧的1提取出来。 
     </details> 
 
-- 🕯 [使用虚拟机初始化 K8S 集群](https://juejin.cn/post/7182591040790986813) | Thu Dec 29 2022 3:21 PM 
+- 🚀 [使用虚拟机初始化 K8S 集群](https://juejin.cn/post/7182591040790986813) | Thu Dec 29 2022 3:21 PM 
     <details><summary>展开描述 ...</summary> 
     使用 kubespray 在 Vagrant + VirtualBox 的几个虚拟机上初始化一个 K8S 集群。 &lt;!--more--&gt; 
     </details> 
 
-- 🚀 [探究 iOS 内存](https://juejin.cn/post/7182588153302089789) | Thu Dec 29 2022 3:10 PM 
+- 💪 [探究 iOS 内存](https://juejin.cn/post/7182588153302089789) | Thu Dec 29 2022 3:10 PM 
     <details><summary>展开描述 ...</summary> 
     本文从 Tagged Pointer、objc 源码、dealloc 原理、AutoreleasePool 原理、野指针探究等技术点展开聊了聊 iOS 内存相关问题。 
-    </details> 
-
-- 💪 [人生的喜悦、不快与成长，都在那一篇篇的文字中得到记录 | 2022 年终总结](https://juejin.cn/post/7182586000244703269) | Thu Dec 29 2022 3:02 PM 
-    <details><summary>展开描述 ...</summary> 
-    一代又一代人，生命就像是往复的陀螺，兜兜转转。这些平凡的日子中所表达出的喜悦、愤怒，都是生命中不可或缺的时光，而这些时光铸就了我。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
