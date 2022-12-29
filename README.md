@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [云原生kubernetes--声明式资源管理](https://juejin.cn/post/7182539134169251898) | Thu Dec 29 2022 12:01 PM 
+- 🤗 [剑指 Offer（专项突击版）第21|22题](https://juejin.cn/post/7182553767479345189) | Thu Dec 29 2022 12:57 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 现在前端要求变高了,找工作的时可能会碰上算法题,每天刷几道算法题做足准备,今天是《剑指 Offer（专项突击版）》第21|22题。 
+    </details> 
+
+- 🎡 [云原生kubernetes--声明式资源管理](https://juejin.cn/post/7182539134169251898) | Thu Dec 29 2022 12:01 PM 
     <details><summary>展开描述 ...</summary> 
     声明式管理方法 适合于对资源的修改操作 声明式资源管理方法依赖于资源配置清单文件对资源进行管理。资源配置清单文件有两种格式： yaml（人性化，易读） json（易于api接口解析&rpar; 对资源的管理，是 
     </details> 
 
-- 🎡 [如果你要跳槽，该怎样准备面试？](https://juejin.cn/post/7182537712686071867) | Thu Dec 29 2022 11:56 AM 
+- 🕯 [如果你要跳槽，该怎样准备面试？](https://juejin.cn/post/7182537712686071867) | Thu Dec 29 2022 11:56 AM 
     <details><summary>展开描述 ...</summary> 
     今年各种形式都不太好到处都在砍人，裁员就算还在你头上暴扣。 很多兄弟姐妹就动了跑路的心思。这里简答分 
     </details> 
 
-- 🕯 [云渲染一张图大概多久？云渲染快吗?](https://juejin.cn/post/7182518362180681786) | Thu Dec 29 2022 10:44 AM 
+- 🚀 [云渲染一张图大概多久？云渲染快吗?](https://juejin.cn/post/7182518362180681786) | Thu Dec 29 2022 10:44 AM 
     <details><summary>展开描述 ...</summary> 
     本地渲染时间太长又赶项目交付周期，想寻求云渲染助力，云渲染一张图大概要多长时间呢？云渲染快吗？Renderbus瑞云渲染来回答这个问题。 其实云渲染跟我们本地渲染的底层逻辑是一样的，都是靠电脑算力来提 
     </details> 
 
-- 🚀 [JavaScript 常见手写题汇总](https://juejin.cn/post/7182505545994076215) | Thu Dec 29 2022 9:50 AM 
+- 💪 [JavaScript 常见手写题汇总](https://juejin.cn/post/7182505545994076215) | Thu Dec 29 2022 9:50 AM 
     <details><summary>展开描述 ...</summary> 
     本文来自 我的个人博客，原文地址：https://yejiwei.com/post/85 之前有陆续写过一些 JavaScript 手写题的文章，但是时间有点久了而且感觉写的太散了，于是我把 
-    </details> 
-
-- 💪 [Spring Security架构和核心类一览](https://juejin.cn/post/7182504387875438649) | Thu Dec 29 2022 9:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 又到了恶心人环节, 概念 Spring Security框架 spring 官方给出了几张图片说明 spring security 是什么? 我就挑出两张看看吧 全文大意是说, spring s 
     </details> 
 <!-- juejin:END -->
 ### 少数派
