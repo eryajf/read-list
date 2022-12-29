@@ -665,29 +665,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 1229](http://jandan.net/p/112040) | Thu Dec 29 2022 2:55 AM 
+- 🚀 [为了科学发展和救助他人，“出卖”身体能够获得多少收入](http://jandan.net/p/112036) | Thu Dec 29 2022 5:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    注意，有偿器官捐献基本上是不合法的 
+    </details> 
+
+- 🙉 [为什么人类的自然寿命平均是80岁？](http://jandan.net/p/112042) | Thu Dec 29 2022 5:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    我们可能已经解开了这一谜团。 
+    </details> 
+
+- 🎉 [为什么活太久不是好事](http://jandan.net/p/112038) | Thu Dec 29 2022 5:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    活太久会带来很多问题。 
+    </details> 
+
+- 🐲 [今日好价 1229](http://jandan.net/p/112040) | Thu Dec 29 2022 5:52 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：38 
     </details> 
 
-- 🙉 [如果恐龙从未灭绝](http://jandan.net/p/112020) | Wed Dec 28 2022 5:35 AM 
+-  [第一次在猪猪身上实施全耳道消融手术](http://jandan.net/p/112037) | Thu Dec 29 2022 5:51 AM 
     <details><summary>展开描述 ...</summary> 
-    它们今天会是什么样子？ 
-    </details> 
-
-- 🎉 [迄今为止最有希望的长寿药物](http://jandan.net/p/112025) | Wed Dec 28 2022 5:34 AM 
-    <details><summary>展开描述 ...</summary> 
-    对动物试验结果和人类应用的回顾。 
-    </details> 
-
-- 🐲 [今日好价 1228](http://jandan.net/p/112032) | Wed Dec 28 2022 5:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：31 
-    </details> 
-
--  [在其他行星，我们能把球抛出多远？](http://jandan.net/p/112033) | Wed Dec 28 2022 5:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    天文学家 James O&#39;Donoghue 做了所有的计算并制作了视频 
+    把病例报告写出来供其他医生学习 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
