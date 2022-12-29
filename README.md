@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [人生的喜悦、不快与成长，都在那一篇篇的文字中得到记录 | 2022 年终总结](https://juejin.cn/post/7182586000244703269) | Thu Dec 29 2022 3:02 PM 
+- 🤗 [什么是点击劫持？实例讲解并教你如何实施一次点击劫持攻击](https://juejin.cn/post/7182599905439907898) | Thu Dec 29 2022 3:58 PM 
+    <details><summary>展开描述 ...</summary> 
+    点击劫持是当初我在面步步高前端的时候面试官问我的一道问题，当时我以为是类似 proxy 之类的前端代理技术实现，但面试官话锋一转，其实这是一个前端安全方面的八股，面试官这个老 6 属实是给我来了一击措 
+    </details> 
+
+- 🎡 [算法 | 如何把一个int型二进制数的最右侧的1提取出来？](https://juejin.cn/post/7182591067856830523) | Thu Dec 29 2022 3:23 PM 
+    <details><summary>展开描述 ...</summary> 
+    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第33天， 本文主要介绍如何把一个int型二进制数的最右侧的1提取出来。 
+    </details> 
+
+- 🕯 [使用虚拟机初始化 K8S 集群](https://juejin.cn/post/7182591040790986813) | Thu Dec 29 2022 3:21 PM 
+    <details><summary>展开描述 ...</summary> 
+    使用 kubespray 在 Vagrant + VirtualBox 的几个虚拟机上初始化一个 K8S 集群。 &lt;!--more--&gt; 
+    </details> 
+
+- 🚀 [探究 iOS 内存](https://juejin.cn/post/7182588153302089789) | Thu Dec 29 2022 3:10 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文从 Tagged Pointer、objc 源码、dealloc 原理、AutoreleasePool 原理、野指针探究等技术点展开聊了聊 iOS 内存相关问题。 
+    </details> 
+
+- 💪 [人生的喜悦、不快与成长，都在那一篇篇的文字中得到记录 | 2022 年终总结](https://juejin.cn/post/7182586000244703269) | Thu Dec 29 2022 3:02 PM 
     <details><summary>展开描述 ...</summary> 
     一代又一代人，生命就像是往复的陀螺，兜兜转转。这些平凡的日子中所表达出的喜悦、愤怒，都是生命中不可或缺的时光，而这些时光铸就了我。 
-    </details> 
-
-- 🎡 [2022年度人气创作者榜单 瓜分奖池第五天&amp;第六天名单公布](https://juejin.cn/post/7182583245182074938) | Thu Dec 29 2022 2:52 PM 
-    <details><summary>展开描述 ...</summary> 
-    第六天公布 2022年度人气创作者榜单评选第六天，共有 379 名创作者参与瓜分总值 9000 元奖池。看看你瓜分了多少。 
-    </details> 
-
-- 🕯 [一道 3 层的 TypeScript 面试题，你能答到第几层？](https://juejin.cn/post/7182574672687398968) | Thu Dec 29 2022 2:20 PM 
-    <details><summary>展开描述 ...</summary> 
-    最近遇见一道不错的 TS 面试题，分享一下。 这道题有 3 个层次，我们一层层来看。 第一层的要求是这样的： 实现一个 zip 函数，对两个数组的元素按顺序两两合并，比如输入 [1,2,3], [4, 
-    </details> 
-
-- 🚀 [【架构设计】保持简单轻量设计的三个原则——DRY，KISS, YAGNI](https://juejin.cn/post/7182571937485291580) | Thu Dec 29 2022 2:10 PM 
-    <details><summary>展开描述 ...</summary> 
-    如果本文对你有帮助的话，救救孩子吧，可以投很多票，投票通道 ，万分感谢呀~~ 前言 一个软件轻量简单的软件架构是非常重要的，它可以让我们花最小的代价就能满足业务上的需求。那如何保证轻量简单呢？那今天就 
-    </details> 
-
-- 💪 [实测腾讯高精定位：赋能车道级导航 对驶入应急车道、车道级偏航等驾驶行为及时响应](https://juejin.cn/post/7182571208200847419) | Thu Dec 29 2022 2:07 PM 
-    <details><summary>展开描述 ...</summary> 
-    近日，腾讯位置服务团队自研并且支持北斗的高精度卫星定位服务，上线真我10 Pro+。该服务基于腾讯自研的网络RTK技术，可使真我10 Pro+的手机定位精度由传统卫星定位的5-10米精度提升至亚米级 
     </details> 
 <!-- juejin:END -->
 ### 少数派
