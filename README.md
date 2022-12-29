@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有没有这么一个后端服务项目](https://www.v2ex.com/t/905454#reply1) | Thu Dec 29 2022 1:12 PM
-- 🤗 [手机连接 wifi 期间， app 可以选择使用流量而不是 wifi 吗](https://www.v2ex.com/t/905446#reply0) | Thu Dec 29 2022 12:29 PM
-- 🎭 [请问大家 node 写 mysql 一般主流用什么库，类比 mongoose](https://www.v2ex.com/t/905435#reply3) | Thu Dec 29 2022 11:19 AM
-- 🥷 [总结开源项目中的常见坏实践（Bad Practice）](https://www.v2ex.com/t/905432#reply7) | Thu Dec 29 2022 10:50 AM
-- 🐵 [mysqldump 问题请教 V2！](https://www.v2ex.com/t/905429#reply10) | Thu Dec 29 2022 10:27 AM<!-- v2ex:END -->
+- 🥸 [有大佬遇到过 Ubuntu22.04 系统没有声音的问题吗？](https://www.v2ex.com/t/905463#reply0) | Thu Dec 29 2022 2:06 PM
+- 🤗 [请教：请问可以反向代理到国内的云服务器吗？](https://www.v2ex.com/t/905459#reply1) | Thu Dec 29 2022 1:48 PM
+- 🎭 [有没有这么一个后端服务项目](https://www.v2ex.com/t/905454#reply7) | Thu Dec 29 2022 1:12 PM
+- 🥷 [手机连接 wifi 期间， app 可以选择使用流量而不是 wifi 吗](https://www.v2ex.com/t/905446#reply1) | Thu Dec 29 2022 12:29 PM
+- 🐵 [请问大家 node 写 mysql 一般主流用什么库，类比 mongoose](https://www.v2ex.com/t/905435#reply5) | Thu Dec 29 2022 11:19 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
