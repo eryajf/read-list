@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [FreeBuf早报 | 欧盟网络安全局2022年度威胁报告；美国司法部正在调查 FTX 黑客攻击](https://www.freebuf.com/articles/353759.html) | Wed Dec 28 2022 10:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    数字资产衍生品交易所FTX 于 11 月申请破产后数小时内，未知黑客从 FTX 中窃取了 3.72 亿美元。 
+    </details> 
+
 - 🦄 [加密货币矿池 BTC.com 数字资产被盗，损失 300 万美金](https://www.freebuf.com/news/353705.html) | Wed Dec 28 2022 4:32 AM 
     <details><summary>展开描述 ...</summary> 
     被盗资产中属于 BTC.com 客户的资产约70万美元，属于公司的资产价值约230万美元。 
     </details> 
 
-- 🦄 [剑桥分析丑闻最新进展，Mate花7.25亿美元进行和解](https://www.freebuf.com/news/353691.html) | Wed Dec 28 2022 2:58 AM 
+- 🦅 [剑桥分析丑闻最新进展，Mate花7.25亿美元进行和解](https://www.freebuf.com/news/353691.html) | Wed Dec 28 2022 2:58 AM 
     <details><summary>展开描述 ...</summary> 
     Meta Platform 已同意支付 7.25 亿美元来解决 2018 年提起的长期集体诉讼。 
     </details> 
 
-- 🦅 [FreeBuf早报 | 全球反勒索工作将于明年1月启动；微软违反隐私政策被罚六千万](https://www.freebuf.com/news/353671.html) | Tue Dec 27 2022 12:36 PM 
+- 🪄 [FreeBuf早报 | 全球反勒索工作将于明年1月启动；微软违反隐私政策被罚六千万](https://www.freebuf.com/news/353671.html) | Tue Dec 27 2022 12:36 PM 
     <details><summary>展开描述 ...</summary> 
     澳大利亚网络安全部长Clare O &#39;Neil计划在未来几天宣布，一个打击勒索软件的全球特别工作组将于下个月开始运作。 
     </details> 
 
-- 🪄 [记一次灰盒代码审计之旅](https://www.freebuf.com/vuls/353646.html) | Tue Dec 27 2022 9:33 AM 
+- 💻 [记一次灰盒代码审计之旅](https://www.freebuf.com/vuls/353646.html) | Tue Dec 27 2022 9:33 AM 
     <details><summary>展开描述 ...</summary> 
     我们可以利用黑盒来快速寻找source点（外部传入参数），利用白盒来寻找sink点（风险函数），从而快速定位漏洞点。 
-    </details> 
-
-- 💻 [展望：2023 年值得关注的网络安全趋势](https://www.freebuf.com/news/353647.html) | Tue Dec 27 2022 9:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文是一些专家对未来一年网络安全领域的展望。 
     </details> 
 <!-- freebuf:END -->
 
