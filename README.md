@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [云渲染一张图大概多久？云渲染快吗?](https://juejin.cn/post/7182518362180681786) | Thu Dec 29 2022 10:44 AM 
+- 🤗 [云原生kubernetes--声明式资源管理](https://juejin.cn/post/7182539134169251898) | Thu Dec 29 2022 12:01 PM 
+    <details><summary>展开描述 ...</summary> 
+    声明式管理方法 适合于对资源的修改操作 声明式资源管理方法依赖于资源配置清单文件对资源进行管理。资源配置清单文件有两种格式： yaml（人性化，易读） json（易于api接口解析&rpar; 对资源的管理，是 
+    </details> 
+
+- 🎡 [如果你要跳槽，该怎样准备面试？](https://juejin.cn/post/7182537712686071867) | Thu Dec 29 2022 11:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    今年各种形式都不太好到处都在砍人，裁员就算还在你头上暴扣。 很多兄弟姐妹就动了跑路的心思。这里简答分 
+    </details> 
+
+- 🕯 [云渲染一张图大概多久？云渲染快吗?](https://juejin.cn/post/7182518362180681786) | Thu Dec 29 2022 10:44 AM 
     <details><summary>展开描述 ...</summary> 
     本地渲染时间太长又赶项目交付周期，想寻求云渲染助力，云渲染一张图大概要多长时间呢？云渲染快吗？Renderbus瑞云渲染来回答这个问题。 其实云渲染跟我们本地渲染的底层逻辑是一样的，都是靠电脑算力来提 
     </details> 
 
-- 🎡 [JavaScript 常见手写题汇总](https://juejin.cn/post/7182505545994076215) | Thu Dec 29 2022 9:50 AM 
+- 🚀 [JavaScript 常见手写题汇总](https://juejin.cn/post/7182505545994076215) | Thu Dec 29 2022 9:50 AM 
     <details><summary>展开描述 ...</summary> 
     本文来自 我的个人博客，原文地址：https://yejiwei.com/post/85 之前有陆续写过一些 JavaScript 手写题的文章，但是时间有点久了而且感觉写的太散了，于是我把 
     </details> 
 
-- 🕯 [相见恨晚！终于有篇文章能把Git给讲明白了](https://juejin.cn/post/7182500848713334821) | Thu Dec 29 2022 9:32 AM 
+- 💪 [Spring Security架构和核心类一览](https://juejin.cn/post/7182504387875438649) | Thu Dec 29 2022 9:46 AM 
     <details><summary>展开描述 ...</summary> 
-    本文用较为简单的语言讨论了git的部分原理，希望能够在Git的理解以及使用上给大家带来帮助或者能解决大家的部分疑惑。 
-    </details> 
-
-- 🚀 [关于后端开发该会的「HTTP协议」](https://juejin.cn/post/7182495798326739001) | Thu Dec 29 2022 9:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文全面介绍了 HTTP 协议相关知识，包括 HTTP 请求报文、响应报文、持久连接、缓存、Cookie 以及 HTTP 版本升级等！ 
-    </details> 
-
-- 💪 [前端打包工具 Esbuild](https://juejin.cn/post/7182495384197922873) | Thu Dec 29 2022 9:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    esbuild 作为一款新的构建工具，构建打包速度几乎完全碾压市面上流行的 webpack5，rollup 等工具。目前国内流行的 Vite 也使用了 esbuild 来预构建依赖...... 
+    前言 又到了恶心人环节, 概念 Spring Security框架 spring 官方给出了几张图片说明 spring security 是什么? 我就挑出两张看看吧 全文大意是说, spring s 
     </details> 
 <!-- juejin:END -->
 ### 少数派
