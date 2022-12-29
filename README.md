@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [阿里云——专有网络VPC](https://juejin.cn/post/7182414097609130043) | Thu Dec 29 2022 3:56 AM 
+- 🤗 [Dubbo源码|二十二、Dubbo服务引入——服务发现](https://juejin.cn/post/7182429610423320632) | Thu Dec 29 2022 4:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第33天，本文介绍Dubbo服务引入部分的源码分析——服务发现。 
+    </details> 
+
+- 🎡 [万字长文，我的2022年终总结](https://juejin.cn/post/7182425389367558181) | Thu Dec 29 2022 4:39 AM 
+    <details><summary>展开描述 ...</summary> 
+    白驹过隙，2022接近尾声，过去一年来，似乎经历了不少形形色色的事情，很想把这些事情与感受一字一句记录下来，但再大的苦难与欢喜也会随着时间的流逝而逐渐忘却。 
+    </details> 
+
+- 🕯 [阿里云——专有网络VPC](https://juejin.cn/post/7182414097609130043) | Thu Dec 29 2022 3:56 AM 
     <details><summary>展开描述 ...</summary> 
     什么是专有网络 专有网络是您专有的云上私有网络。您可以完全掌控自己的专有网络，例如选择IP地址范围、配置路由表和网关等，您可以在自己定义的专有网络中使用阿里云资源，如云服务器、云数据库RDS和负载均衡 
     </details> 
 
-- 🎡 [Web Component 探索之旅](https://juejin.cn/post/7182410527346262076) | Thu Dec 29 2022 3:41 AM 
+- 🚀 [【alibaba/jvm-sandbox#01】debug源码的技巧](https://juejin.cn/post/7182413887856197691) | Thu Dec 29 2022 3:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    alibaba/jvm-sandbox是 一种JVM的非侵入式运行期 AOP 解决方案。沙箱容器提供 1. 动态增强类你所指定的类，获取你想要的参数和行信息甚至改变方法执行 2. 动态可插拔容器框架 
+    </details> 
+
+- 💪 [Web Component 探索之旅](https://juejin.cn/post/7182410527346262076) | Thu Dec 29 2022 3:41 AM 
     <details><summary>展开描述 ...</summary> 
     本篇文章会带大家走进 Web Components，了解 Web Components 是什么、怎么用。在框架横行的时代，Web Components 能否引领跨框架时代的到来呢？欢迎一起阅读讨论～ 
-    </details> 
-
-- 🕯 [那些年我用过的JSON格式化工具](https://juejin.cn/post/7182409716008484920) | Thu Dec 29 2022 3:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    JSON格式化是开发中不可或缺的一个工具，但是要做这个事其实有很多方式，有的同学习惯用本地的工具，比如VsCode或者Utool之类的，有的同学习惯用在线的工具，当然各有各的好处，但本质上是习惯的问题 
-    </details> 
-
-- 🚀 [一个普通学生在掘金的2022](https://juejin.cn/post/7182406527121096762) | Thu Dec 29 2022 3:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    一个普通学生在掘金的2022 写在前面   2022年年终总结，一开始满怀憧憬，准备从多个角度好好写写这一年的得失。但是各种琐事缠身，一直也没有下笔。眼看着活动截止日期一天天的靠近，连标题都没确定的我 
-    </details> 
-
-- 💪 [模板方法实践](https://juejin.cn/post/7182405342670618661) | Thu Dec 29 2022 3:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    最近在设计一个对某个中间件的测试方案，这个测试方案需要包含不同的测试逻辑，但相同的是需要对各个环节进行记录；比如统计耗时、调用通知 API 等相同的逻辑。 如果每个测试都单独写这些逻辑那无疑是做 
     </details> 
 <!-- juejin:END -->
 ### 少数派
