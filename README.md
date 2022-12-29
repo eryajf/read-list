@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [总结开源项目中的常见坏实践（Bad Practice）](https://www.v2ex.com/t/905432#reply0) | Thu Dec 29 2022 10:50 AM
-- 🤗 [mysqldump 问题请教 V2！](https://www.v2ex.com/t/905429#reply3) | Thu Dec 29 2022 10:27 AM
-- 🎭 [ef core 如何用自定义长度随机字母数字做 ID？](https://www.v2ex.com/t/905427#reply2) | Thu Dec 29 2022 10:19 AM
-- 🥷 [又造了一个 CLI 轮子，有没有老哥点评一下（](https://www.v2ex.com/t/905414#reply0) | Thu Dec 29 2022 9:31 AM
-- 🐵 [关于手机安全性的讨论](https://www.v2ex.com/t/905408#reply6) | Thu Dec 29 2022 9:06 AM<!-- v2ex:END -->
+- 🥸 [请问大家 node 写 mysql 一般主流用什么库，类比 mongoose](https://www.v2ex.com/t/905435#reply3) | Thu Dec 29 2022 11:19 AM
+- 🤗 [总结开源项目中的常见坏实践（Bad Practice）](https://www.v2ex.com/t/905432#reply4) | Thu Dec 29 2022 10:50 AM
+- 🎭 [mysqldump 问题请教 V2！](https://www.v2ex.com/t/905429#reply3) | Thu Dec 29 2022 10:27 AM
+- 🥷 [ef core 如何用自定义长度随机字母数字做 ID？](https://www.v2ex.com/t/905427#reply2) | Thu Dec 29 2022 10:19 AM
+- 🐵 [又造了一个 CLI 轮子，有没有老哥点评一下（](https://www.v2ex.com/t/905414#reply0) | Thu Dec 29 2022 9:31 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
