@@ -703,18 +703,18 @@
      简体，繁体，火星文，拼音相互转换  
     </details> 
 
-- 💼 [创作热榜 - 创作热榜 - 全网内容热榜](https://xinquji.com/posts/792368?utm_campaign=xinquji-rss) | Wed Dec 28 2022 8:57 AM 
+- 💼 [Discord TL;DR by Wordcab - 在不到一分钟的时间内总结您的 Discord 聊天记录。](https://xinquji.com/posts/792447?utm_campaign=xinquji-rss) | Thu Dec 29 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     创作热榜 - 全网内容热榜  
+     在不到一分钟的时间内总结您的 Discord 聊天记录。  
     </details> 
 
-- 🦅 [DTO - 中文 Hacker News 社区 - 一个类似 Hacker News, Lobsters 的链接分享社区](https://xinquji.com/posts/792340?utm_campaign=xinquji-rss) | Wed Dec 28 2022 8:57 AM 
+- 🦅 [Haptogon API - 通过 API 订购 3D 打印件和 PCB](https://xinquji.com/posts/792446?utm_campaign=xinquji-rss) | Thu Dec 29 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     一个类似 Hacker News, Lobsters 的链接分享社区  
+     通过 API 订购 3D 打印件和 PCB  
     </details> 
 
-- 😺 [RedGorillas - 印度社区驱动的社交商务](https://xinquji.com/posts/792418?utm_campaign=xinquji-rss) | Wed Dec 28 2022 6:00 AM 
+- 😺 [Linkeview - 您的客户推荐通过 LinkedIn 验证](https://xinquji.com/posts/792445?utm_campaign=xinquji-rss) | Thu Dec 29 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     印度社区驱动的社交商务  
+     您的客户推荐通过 LinkedIn 验证  
     </details> 
 <!-- xinquji:END -->
