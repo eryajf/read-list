@@ -316,14 +316,14 @@
     Meta Platform 已同意支付 7.25 亿美元来解决 2018 年提起的长期集体诉讼。 
     </details> 
 
-- 🪄 [FreeBuf早报 | 全球反勒索工作将于明年1月启动；微软违反隐私政策被罚六千万](https://www.freebuf.com/news/353671.html) | Tue Dec 27 2022 12:36 PM 
+- 🪄 [从红队视角看AWD攻击](https://www.freebuf.com/articles/web/353680.html) | Tue Dec 27 2022 7:26 PM 
     <details><summary>展开描述 ...</summary> 
-    澳大利亚网络安全部长Clare O &#39;Neil计划在未来几天宣布，一个打击勒索软件的全球特别工作组将于下个月开始运作。 
+    AWD的权限维持攻防兼备AWD模式是一种综合考核参赛团队攻击、防御技术能力、即时策略的比赛模式。 
     </details> 
 
-- 💻 [记一次灰盒代码审计之旅](https://www.freebuf.com/vuls/353646.html) | Tue Dec 27 2022 9:33 AM 
+- 💻 [FreeBuf早报 | 全球反勒索工作将于明年1月启动；微软违反隐私政策被罚六千万](https://www.freebuf.com/news/353671.html) | Tue Dec 27 2022 12:36 PM 
     <details><summary>展开描述 ...</summary> 
-    我们可以利用黑盒来快速寻找source点（外部传入参数），利用白盒来寻找sink点（风险函数），从而快速定位漏洞点。 
+    澳大利亚网络安全部长Clare O &#39;Neil计划在未来几天宣布，一个打击勒索软件的全球特别工作组将于下个月开始运作。 
     </details> 
 <!-- freebuf:END -->
 
