@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [深入浅出JVM（十五）之三色标记法与并发可达性分析](https://juejin.cn/post/7182489117262315578) | Thu Dec 29 2022 8:46 AM 
+- 🤗 [JavaScript 常见手写题汇总](https://juejin.cn/post/7182505545994076215) | Thu Dec 29 2022 9:50 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇文章围绕并发的可达性分析深入浅出的解析三色标记法、并发可达性分析可能出现的浮动垃圾，对象丢失问题以及解决对象丢失问题的增量更新、原始快照两种方式 
+    本文来自 我的个人博客，原文地址：https://yejiwei.com/post/85 之前有陆续写过一些 JavaScript 手写题的文章，但是时间有点久了而且感觉写的太散了，于是我把 
     </details> 
 
-- 🎡 [复杂并发场景下的并发调度模型在转转的演进之路](https://juejin.cn/post/7182483256149803065) | Thu Dec 29 2022 8:25 AM 
+- 🎡 [相见恨晚！终于有篇文章能把Git给讲明白了](https://juejin.cn/post/7182500848713334821) | Thu Dec 29 2022 9:32 AM 
     <details><summary>展开描述 ...</summary> 
-    设想，打开一个 APP，我们会看到什么？答案是：内容信息。 在电商APP中的各类信息聚合场景，如何在保证系统性能的同时兼容研发效率？ 本文讲述了这类复杂并发场景在转转的落地实践中的演变过程。 
+    本文用较为简单的语言讨论了git的部分原理，希望能够在Git的理解以及使用上给大家带来帮助或者能解决大家的部分疑惑。 
     </details> 
 
-- 🕯 [如何在html页面使用vue组件](https://juejin.cn/post/7182483337683861562) | Thu Dec 29 2022 8:25 AM 
+- 🕯 [关于后端开发该会的「HTTP协议」](https://juejin.cn/post/7182495798326739001) | Thu Dec 29 2022 9:12 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 对公司那老旧的项目进行改造升级，从头再来时间太久，我也累，那就改造部分地方，对原生html升级成vue，那就需要代码复用，那咋办呢，用vue组件 第一步 引用 我就喜欢整简单的，大伙按顺序来，直 
+    本文全面介绍了 HTTP 协议相关知识，包括 HTTP 请求报文、响应报文、持久连接、缓存、Cookie 以及 HTTP 版本升级等！ 
     </details> 
 
-- 🚀 [用 Oasis 开发一个跳一跳（三）—— 角色创建和角色动画](https://juejin.cn/post/7182482276402331708) | Thu Dec 29 2022 8:19 AM 
+- 🚀 [前端打包工具 Esbuild](https://juejin.cn/post/7182495384197922873) | Thu Dec 29 2022 9:11 AM 
     <details><summary>展开描述 ...</summary> 
-    在完成场景逻辑之后，我们需要把角色放到场景中，这篇文章主要和大家分享如何把角色模型和角色动画创建出来～ 
+    esbuild 作为一款新的构建工具，构建打包速度几乎完全碾压市面上流行的 webpack5，rollup 等工具。目前国内流行的 Vite 也使用了 esbuild 来预构建依赖...... 
     </details> 
 
-- 💪 [Android进阶——Javac编译解析](https://juejin.cn/post/7182480669686595641) | Thu Dec 29 2022 8:13 AM 
+- 💪 [上新！智能地址服务发布](https://juejin.cn/post/7182493296551198775) | Thu Dec 29 2022 9:03 AM 
     <details><summary>展开描述 ...</summary> 
-    Javac编译器 1.Javac的源码与调试 Javac的源码下载地址：Javac的源码下载地址，在Myeclipse中新建项目Compiler_javac，把源码复制到项目中。 Javac的源码目录 
+    本次地址服务升级，对地址输入联想、标准化、清洗、纠错、验真，地址地名验证分析等多环节、多场景提供了有力支持，助力地址数据价值腾飞。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
