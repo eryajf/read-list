@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [没人评价 12 月 27 日出的红米 k60 吗](https://www.v2ex.com/t/905291#reply2) | Thu Dec 29 2022 2:29 AM
-- 🤗 [sql 表设计问题：需索引的可选字段应该允许 null 吗？](https://www.v2ex.com/t/905289#reply7) | Thu Dec 29 2022 2:16 AM
-- 🎭 [终端 Warp 怎么保存 ssh 的自动登录呢](https://www.v2ex.com/t/905281#reply2) | Thu Dec 29 2022 1:57 AM
-- 🥷 [一个 14 岁初中生开发的前端工具库，轻量级高可用，各位可以体验一下](https://www.v2ex.com/t/905279#reply11) | Thu Dec 29 2022 1:47 AM
-- 🐵 [以前我以为 v2、知乎有钱多，没想到有钱人都在 Soul](https://www.v2ex.com/t/905271#reply25) | Thu Dec 29 2022 1:11 AM<!-- v2ex:END -->
+- 🥸 [昨天提测出现了问题，问下这种算提测失败吗](https://www.v2ex.com/t/905298#reply7) | Thu Dec 29 2022 2:53 AM
+- 🤗 [程序员逃离北上广来到成都 2 年多，聊聊感想](https://www.v2ex.com/t/905294#reply3) | Thu Dec 29 2022 2:43 AM
+- 🎭 [没人评价 12 月 27 日出的红米 k60 吗](https://www.v2ex.com/t/905291#reply11) | Thu Dec 29 2022 2:29 AM
+- 🥷 [sql 表设计问题：需索引的可选字段应该允许 null 吗？](https://www.v2ex.com/t/905289#reply11) | Thu Dec 29 2022 2:16 AM
+- 🐵 [终端 Warp 怎么保存 ssh 的自动登录呢](https://www.v2ex.com/t/905281#reply2) | Thu Dec 29 2022 1:57 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
