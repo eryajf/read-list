@@ -693,28 +693,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [填数字找规律 - 闯关挑战锻炼观察和思考能力](https://xinquji.com/posts/792395?utm_campaign=xinquji-rss) | Thu Dec 29 2022 9:45 AM 
+- 👀 [Calliper - 文档内容比对神器，可以交叉比对Word和PDF](https://xinquji.com/posts/792397?utm_campaign=xinquji-rss) | Fri Dec 30 2022 7:22 AM 
+    <details><summary>展开描述 ...</summary> 
+     文档内容比对神器，可以交叉比对Word和PDF  
+    </details> 
+
+- 🥷 [UI8资源分享 - 收集互联网上的UI8资源，以小程序为载体进行免费分享。](https://xinquji.com/posts/792339?utm_campaign=xinquji-rss) | Fri Dec 30 2022 7:21 AM 
+    <details><summary>展开描述 ...</summary> 
+     收集互联网上的UI8资源，以小程序为载体进行免费分享。  
+    </details> 
+
+- 💼 [填数字找规律 - 闯关挑战锻炼观察和思考能力](https://xinquji.com/posts/792395?utm_campaign=xinquji-rss) | Thu Dec 29 2022 9:45 AM 
     <details><summary>展开描述 ...</summary> 
      闯关挑战锻炼观察和思考能力  
     </details> 
 
-- 🥷 [繁体字转换器 - 简体，繁体，火星文，拼音相互转换](https://xinquji.com/posts/792396?utm_campaign=xinquji-rss) | Thu Dec 29 2022 9:45 AM 
+- 🦅 [繁体字转换器 - 简体，繁体，火星文，拼音相互转换](https://xinquji.com/posts/792396?utm_campaign=xinquji-rss) | Thu Dec 29 2022 9:45 AM 
     <details><summary>展开描述 ...</summary> 
      简体，繁体，火星文，拼音相互转换  
     </details> 
 
-- 💼 [Discord TL;DR by Wordcab - 在不到一分钟的时间内总结您的 Discord 聊天记录。](https://xinquji.com/posts/792447?utm_campaign=xinquji-rss) | Thu Dec 29 2022 6:00 AM 
+- 😺 [Discord TL;DR by Wordcab - 在不到一分钟的时间内总结您的 Discord 聊天记录。](https://xinquji.com/posts/792447?utm_campaign=xinquji-rss) | Thu Dec 29 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
      在不到一分钟的时间内总结您的 Discord 聊天记录。  
-    </details> 
-
-- 🦅 [Haptogon API - 通过 API 订购 3D 打印件和 PCB](https://xinquji.com/posts/792446?utm_campaign=xinquji-rss) | Thu Dec 29 2022 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     通过 API 订购 3D 打印件和 PCB  
-    </details> 
-
-- 😺 [Linkeview - 您的客户推荐通过 LinkedIn 验证](https://xinquji.com/posts/792445?utm_campaign=xinquji-rss) | Thu Dec 29 2022 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     您的客户推荐通过 LinkedIn 验证  
     </details> 
 <!-- xinquji:END -->
