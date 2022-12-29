@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [跳进框框，你的 Markdown 链接可以更整洁](https://sspai.com/post/77513) | Thu Dec 29 2022 3:30 AM 
+- 👹 [App +1 | 同文输入法：把 RIME 装进 Android 手机](https://sspai.com/post/77499) | Thu Dec 29 2022 6:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    《同文输入法》是 Android 平台使用 RIME 的绝佳方式，几乎完整保留了 PC 平台上的优点和输入体验。&lt;a href=&quot;https://sspai.com/post/77499&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [跳进框框，你的 Markdown 链接可以更整洁](https://sspai.com/post/77513) | Thu Dec 29 2022 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     本文介绍了这两种「引用式写作方式」，以及如何借助 Keyboard Maestro 或 Pandoc 来快速插入或转换引用式链接和脚注，以提高写作效率。&lt;a href=&quot;https://sspai.com/post/77513&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：钉钉推出大版本升级、墨案发布新款电纸书等](https://sspai.com/post/77515) | Thu Dec 29 2022 12:31 AM 
+- 🤭 [派早报：钉钉推出大版本升级、墨案发布新款电纸书等](https://sspai.com/post/77515) | Thu Dec 29 2022 12:31 AM 
     <details><summary>展开描述 ...</summary> 
     工信部拟规范 App 诱导安装、下载等行为、2022 年进口网络游戏审批信息公布等。&lt;a href=&quot;https://sspai.com/post/77515&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [看什么 · 特别篇 | 戏不嫌多、票不嫌少，这是我们的「年度看什么」](https://sspai.com/post/77483) | Wed Dec 28 2022 9:22 AM 
+- 🥸 [看什么 · 特别篇 | 戏不嫌多、票不嫌少，这是我们的「年度看什么」](https://sspai.com/post/77483) | Wed Dec 28 2022 9:22 AM 
     <details><summary>展开描述 ...</summary> 
     转眼间2022年到了尾声，这也是「本周看什么」栏目陪伴大家的第三年啦，这一年我们向大家推荐了数百部影视作品，不仅在评论区获得了不少好作品的推荐，也收到了很多朋友的「彩蛋」投稿和支持。也许今年没有如往常 ...&lt;a href=&quot;https://sspai.com/post/77483&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [Apple 推出协作白板工具，想让你的创意灵感轻松「无边记」](https://sspai.com/post/77467) | Wed Dec 28 2022 7:10 AM 
+- 🙉 [Apple 推出协作白板工具，想让你的创意灵感轻松「无边记」](https://sspai.com/post/77467) | Wed Dec 28 2022 7:10 AM 
     <details><summary>展开描述 ...</summary> 
     无边记 App 是一张灵活的画布，可以让你添加文件、图像以及更多素材，用于在 Mac、 iPad 和 iPhone 上与朋友或同事一起完成各种创意工作。&lt;a href=&quot;https://sspai.com/post/77467&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [家庭调酒要实用工具，但也不可失浪漫主义的器物之美](https://sspai.com/post/77255) | Wed Dec 28 2022 2:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    工欲善其事，必先利其器。-论语·卫灵公一个悠闲的周末，是一个不错的继续开启「家庭调酒」的时机。长时间呆在家里的日子，会让人失去时间的观念，印象中一直记得上一篇调酒文章的日期是在今年春天，翻了一下记录， ...&lt;a href=&quot;https://sspai.com/post/77255&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
