@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [小核不关闭， server2022 hyper-v 无法启动](https://www.v2ex.com/t/905385#reply0) | Thu Dec 29 2022 8:15 AM
-- 🤗 [有没有使用 django 国际化模块的，针对 django.po 国际化文件写了一个 vscode 的插件](https://www.v2ex.com/t/905382#reply0) | Thu Dec 29 2022 7:51 AM
-- 🎭 [大家新冠好了会一直咳么](https://www.v2ex.com/t/905381#reply13) | Thu Dec 29 2022 7:49 AM
-- 🥷 [cf 的 page transform 规则撰写请教](https://www.v2ex.com/t/905374#reply0) | Thu Dec 29 2022 7:27 AM
-- 🐵 [寻找熟悉精通腾讯云 cloudbase 的兼职开发人员](https://www.v2ex.com/t/905357#reply4) | Thu Dec 29 2022 6:17 AM<!-- v2ex:END -->
+- 🥸 [关于手机安全性的讨论](https://www.v2ex.com/t/905408#reply0) | Thu Dec 29 2022 9:06 AM
+- 🤗 [有一个 V2ray 节点，有没有简单的办法让部署 K3S 的节点都设置上代理](https://www.v2ex.com/t/905396#reply1) | Thu Dec 29 2022 8:41 AM
+- 🎭 [求助贴： JBOD 转 RAID1 问题](https://www.v2ex.com/t/905395#reply0) | Thu Dec 29 2022 8:38 AM
+- 🥷 [测试用例，这题谁会，求](https://www.v2ex.com/t/905387#reply3) | Thu Dec 29 2022 8:21 AM
+- 🐵 [小核不关闭， server2022 hyper-v 无法启动](https://www.v2ex.com/t/905385#reply0) | Thu Dec 29 2022 8:15 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
