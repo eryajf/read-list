@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 1230](http://jandan.net/p/112045) | Fri Dec 30 2022 3:10 AM 
+- 🚀 [Quora：时间是真实存在的吗？](http://jandan.net/p/112047) | Fri Dec 30 2022 5:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    对我们人类来说，它是真实的。 
+    </details> 
+
+- 🙉 [原来，泡沫泡泡的膜的温度显著低于周围环境](http://jandan.net/p/112046) | Fri Dec 30 2022 5:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    想一想泡沫，您会发现它们无处不在 
+    </details> 
+
+- 🎉 [今日好价 1230](http://jandan.net/p/112045) | Fri Dec 30 2022 5:23 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：34 
     </details> 
 
-- 🙉 [为了科学发展和救助他人，“出卖”身体能够获得多少收入](http://jandan.net/p/112036) | Thu Dec 29 2022 5:55 AM 
+- 🐲 [看而不触：在没有相互作用的情况下进行测量](http://jandan.net/p/112041) | Fri Dec 30 2022 5:22 AM 
     <details><summary>展开描述 ...</summary> 
-    注意，有偿器官捐献基本上是不合法的 
+    一种无需吸收和重新发射任何光波即可“看到”微波脉冲的方法 
     </details> 
 
-- 🎉 [为什么人类的自然寿命平均是80岁？](http://jandan.net/p/112042) | Thu Dec 29 2022 5:54 AM 
+-  [高蛋白饮食健康吗？](http://jandan.net/p/112035) | Fri Dec 30 2022 5:21 AM 
     <details><summary>展开描述 ...</summary> 
-    我们可能已经解开了这一谜团。 
-    </details> 
-
-- 🐲 [为什么活太久不是好事](http://jandan.net/p/112038) | Thu Dec 29 2022 5:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    活太久会带来很多问题。 
-    </details> 
-
--  [今日好价 1229](http://jandan.net/p/112040) | Thu Dec 29 2022 5:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：38 
+    我们以及地球的健康，可能会受到高蛋白饮食趋势的负面影响。 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
