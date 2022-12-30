@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [互联网时代的大公司霸权](https://www.v2ex.com/t/905698#reply5) | Fri Dec 30 2022 2:59 PM
-- 🤗 [请教大神： 生产新的安卓平板，所有内容都压扁了](https://www.v2ex.com/t/905697#reply0) | Fri Dec 30 2022 2:45 PM
-- 🎭 [即时通讯应用寻求开源协作者](https://www.v2ex.com/t/905691#reply1) | Fri Dec 30 2022 2:35 PM
-- 🥷 [请问 Windows 程序开发教程?](https://www.v2ex.com/t/905690#reply2) | Fri Dec 30 2022 2:28 PM
-- 🐵 [分享我开发的音乐服务器](https://www.v2ex.com/t/905687#reply0) | Fri Dec 30 2022 2:19 PM<!-- v2ex:END -->
+- 🥸 [有偿帮忙： 需要放一个 apk 文件在 aws s3 中国](https://www.v2ex.com/t/905700#reply2) | Fri Dec 30 2022 3:20 PM
+- 🤗 [互联网时代的大公司霸权](https://www.v2ex.com/t/905698#reply5) | Fri Dec 30 2022 2:59 PM
+- 🎭 [请教大神： 生产新的安卓平板，所有内容都压扁了](https://www.v2ex.com/t/905697#reply1) | Fri Dec 30 2022 2:45 PM
+- 🥷 [即时通讯应用寻求开源协作者](https://www.v2ex.com/t/905691#reply2) | Fri Dec 30 2022 2:35 PM
+- 🐵 [请问 Windows 程序开发教程?](https://www.v2ex.com/t/905690#reply4) | Fri Dec 30 2022 2:28 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
