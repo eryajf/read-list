@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [你的 2022，藏在这些数字里](https://sspai.com/post/77519) | Fri Dec 30 2022 3:33 AM 
+- 👹 [这些好物和小技巧，让我保持数字健康](https://sspai.com/prime/story/vol014-how-they-stay-on-digital-healthy) | Fri Dec 30 2022 6:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    数字健康是近年来逐步在国内流行起来的概念，也是许多小伙伴们在反思使用电子设备的过程中一定会关注或尝试的生活方式。在这篇文章中，我们邀请了几位少数派作者，听听他们对数字健康的理解和具体行动。其中既有保持数字健康过程中用到的技巧和好物，也也有自己的成功经验。&lt;a href=&quot;https://sspai.com/prime/story/vol014-how-they-stay-on-digital-healthy&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/vol014-pre-digital-life&quot; target=&quot;_blank&quot;&gt;《数字、模拟、实体——漫谈数字健康》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
+    </details> 
+
+- 🐘 [你的 2022，藏在这些数字里](https://sspai.com/post/77519) | Fri Dec 30 2022 3:33 AM 
     <details><summary>展开描述 ...</summary> 
     不知道你的 2022 过得怎么样呢？不妨去各大年度报告中回忆自己这一年的生活与工作吧。一如往年，我们给各位读者整理了各种数字媒体与应用发布的年度报告。&lt;a href=&quot;https://sspai.com/post/77519&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：iQOO Neo7 竞速版发布、科大讯飞推出讯飞有声书等](https://sspai.com/post/77538) | Fri Dec 30 2022 12:25 AM 
+- 🤭 [派早报：iQOO Neo7 竞速版发布、科大讯飞推出讯飞有声书等](https://sspai.com/post/77538) | Fri Dec 30 2022 12:25 AM 
     <details><summary>展开描述 ...</summary> 
     Office Mobile 将停用「传输文件」功能、OneDrive 将停止对 iOS 14 的支持等。&lt;a href=&quot;https://sspai.com/post/77538&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [新玩意 131｜少数派的编辑们最近买了啥？](https://sspai.com/post/77527) | Thu Dec 29 2022 9:02 AM 
+- 🥸 [新玩意 131｜少数派的编辑们最近买了啥？](https://sspai.com/post/77527) | Thu Dec 29 2022 9:02 AM 
     <details><summary>展开描述 ...</summary> 
     关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...&lt;a href=&quot;https://sspai.com/post/77527&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [评论有奖 | 请给明年的自己种下一颗梦，100 小时后请叫我播客主理人](https://sspai.com/post/77510) | Thu Dec 29 2022 8:28 AM 
+- 🙉 [评论有奖 | 请给明年的自己种下一颗梦，100 小时后请叫我播客主理人](https://sspai.com/post/77510) | Thu Dec 29 2022 8:28 AM 
     <details><summary>展开描述 ...</summary> 
     📬省流公告板栏目折扣：《100小时后请叫我播客主理人》视频版129元上架，跨年活动期间八折优惠，会员可使用麦亏券享受折上折；恭喜获奖：《100小时后请叫我播客主理人》直播版课程作业奖励名单公布，奖品为 ...&lt;a href=&quot;https://sspai.com/post/77510&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [App +1 | 同文输入法：把 RIME 装进 Android 手机](https://sspai.com/post/77499) | Thu Dec 29 2022 6:34 AM 
-    <details><summary>展开描述 ...</summary> 
-    《同文输入法》是 Android 平台使用 RIME 的绝佳方式，几乎完整保留了 PC 平台上的优点和输入体验。&lt;a href=&quot;https://sspai.com/post/77499&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
