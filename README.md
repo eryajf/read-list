@@ -705,18 +705,18 @@
      收集互联网上的UI8资源，以小程序为载体进行免费分享。  
     </details> 
 
-- 💼 [填数字找规律 - 闯关挑战锻炼观察和思考能力](https://xinquji.com/posts/792395?utm_campaign=xinquji-rss) | Thu Dec 29 2022 9:45 AM 
+- 💼 [Chatter - 体育、时事或讨论的实时聊天](https://xinquji.com/posts/792472?utm_campaign=xinquji-rss) | Fri Dec 30 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     闯关挑战锻炼观察和思考能力  
+     体育、时事或讨论的实时聊天  
     </details> 
 
-- 🦅 [繁体字转换器 - 简体，繁体，火星文，拼音相互转换](https://xinquji.com/posts/792396?utm_campaign=xinquji-rss) | Thu Dec 29 2022 9:45 AM 
+- 🦅 [Seam - 使用 Seam 搜索您最喜爱的品牌并发现新品牌](https://xinquji.com/posts/792471?utm_campaign=xinquji-rss) | Fri Dec 30 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     简体，繁体，火星文，拼音相互转换  
+     使用 Seam 搜索您最喜爱的品牌并发现新品牌  
     </details> 
 
-- 😺 [Discord TL;DR by Wordcab - 在不到一分钟的时间内总结您的 Discord 聊天记录。](https://xinquji.com/posts/792447?utm_campaign=xinquji-rss) | Thu Dec 29 2022 6:00 AM 
+- 😺 [Wallet Guard - 安全浏览 web3](https://xinquji.com/posts/792470?utm_campaign=xinquji-rss) | Fri Dec 30 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     在不到一分钟的时间内总结您的 Discord 聊天记录。  
+     安全浏览 web3  
     </details> 
 <!-- xinquji:END -->
