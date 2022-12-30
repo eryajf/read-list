@@ -303,7 +303,7 @@
 <!-- freebuf:START -->
 - 🦄 [FreeBuf早报 | 推特正经历全球性中断；谷歌智能音箱存在后门](https://www.freebuf.com/news/353885.html) | Thu Dec 29 2022 11:54 PM 
     <details><summary>展开描述 ...</summary> 
-    111 
+    12月29日，互联网监控器NetBlocks表示，“Twitter 正在经历全球性中断，影响包括移动应用程序、功能（含通知）”。 
     </details> 
 
 - 🦄 [俄亥俄州法院、警察局遭到 LockBit 勒索软件攻击](https://www.freebuf.com/news/353816.html) | Thu Dec 29 2022 5:32 AM 
