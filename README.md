@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Sync Folders Pro 4.6.5 文件夹同步工具](https://xclient.info/s/sync-folders-pro.html) | Fri Dec 30 2022 1:32 AM 
+- 🦏 [元旦期间，这些App限时半价！](https://xclient.info/a/a25d2cf9-52aa-ed65-f0c9-bf09a2924f24.html) | Fri Dec 30 2022 8:21 AM 
+    <details><summary>展开描述 ...</summary> 
+    元旦期间Omniplayer，Omi录屏专家，即刻转换有半价活动哦。 
+    </details> 
+
+-  [Sync Folders Pro 4.6.5 文件夹同步工具](https://xclient.info/s/sync-folders-pro.html) | Fri Dec 30 2022 1:32 AM 
     <details><summary>展开描述 ...</summary> 
     Sync Folders 是一款Mac上的文件夹同步工具，最大的特点是简单易用，支持及时同步、计划同步和手动同步等，还支持文件过滤，除了本地磁盘外，也支持移动硬盘、U盘等外部存储和网络存储 
     </details> 
 
--  [FSNotes 6.0.6 轻量级的笔记工具](https://xclient.info/s/fsnotes.html) | Fri Dec 30 2022 1:31 AM 
+- ⚗️ [FSNotes 6.0.6 轻量级的笔记工具](https://xclient.info/s/fsnotes.html) | Fri Dec 30 2022 1:31 AM 
     <details><summary>展开描述 ...</summary> 
     FSNotes 是一款轻量级的笔记工具，帮助用户快速记录灵感。 
     </details> 
 
-- ⚗️ [FonePaw iPhone Data Recovery 7.6.0.127007 专业的iPhone数据恢复软件](https://xclient.info/s/fonepaw-iphone-data-recovery.html) | Fri Dec 30 2022 1:28 AM 
+- 🔥 [FonePaw iPhone Data Recovery 7.6.0.127007 专业的iPhone数据恢复软件](https://xclient.info/s/fonepaw-iphone-data-recovery.html) | Fri Dec 30 2022 1:28 AM 
     <details><summary>展开描述 ...</summary> 
     FonePaw iPhone Data Recovery 是Mac电脑上的一款专业的iPhone数据恢复救援软件，可以帮助您轻松恢复iPhone/iPad设备上误删的照片、视频、备忘录、联络人、信息、社交软件的聊天记录等资料。 
     </details> 
 
-- 🔥 [EdgeView 3.9.0 图像查看器](https://xclient.info/s/edgeview.html) | Fri Dec 30 2022 1:27 AM 
+- 🌋 [EdgeView 3.9.0 图像查看器](https://xclient.info/s/edgeview.html) | Fri Dec 30 2022 1:27 AM 
     <details><summary>展开描述 ...</summary> 
     EdgeView是MacOS X的一款图像查看器。你可以打开各种图像文件，也可以打开像ZIP这样的归档文件，而不用提取。您可以在内置的文件浏览器中检查和打开文件，并且可以连接到FTP并直接打开文件。 
-    </details> 
-
-- 🌋 [Metasequoia 4.8.4b 水杉建模](https://xclient.info/s/metasequoia.html) | Fri Dec 30 2022 1:26 AM 
-    <details><summary>展开描述 ...</summary> 
-    水杉建模&lpar;Metasequoia&rpar; 是一款Mac平台上的3D模型建模软件，能够提供专业的工具供您设计，该软件支持流行格式，开放脚本编辑使得设计者不是局域约束，从而更好的设计出3D模型。 
     </details> 
 <!-- xclient:END -->
 
