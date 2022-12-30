@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [如何无损地进行操作系统分区及数据文件的完整迁移](https://www.v2ex.com/t/905553#reply0) | Fri Dec 30 2022 4:15 AM
-- 🤗 [Pycharme 的格式设置问题](https://www.v2ex.com/t/905549#reply0) | Fri Dec 30 2022 3:57 AM
-- 🎭 [Windows 上有没有一款好用的 PDF 阅读器？](https://www.v2ex.com/t/905548#reply4) | Fri Dec 30 2022 3:56 AM
-- 🥷 [12 岁运维自建 doh 服务器，用爱发电，欢迎使用](https://www.v2ex.com/t/905545#reply8) | Fri Dec 30 2022 3:37 AM
-- 🐵 [作为程序员，你造过那些轮子，改变或者优化了什么？](https://www.v2ex.com/t/905544#reply1) | Fri Dec 30 2022 3:34 AM<!-- v2ex:END -->
+- 🥸 [Potplayer 内存占用问题](https://www.v2ex.com/t/905557#reply1) | Fri Dec 30 2022 4:32 AM
+- 🤗 [如何无损地进行操作系统分区及数据文件的完整迁移](https://www.v2ex.com/t/905553#reply3) | Fri Dec 30 2022 4:15 AM
+- 🎭 [Pycharme 的格式设置问题](https://www.v2ex.com/t/905549#reply0) | Fri Dec 30 2022 3:57 AM
+- 🥷 [Windows 上有没有一款好用的 PDF 阅读器？](https://www.v2ex.com/t/905548#reply23) | Fri Dec 30 2022 3:56 AM
+- 🐵 [作为程序员，你造过那些轮子，改变或者优化了什么？](https://www.v2ex.com/t/905544#reply2) | Fri Dec 30 2022 3:34 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
