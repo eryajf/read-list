@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [靠年龄来营销自己是否已经成为社会舆论的正确导向？](https://www.v2ex.com/t/905496#reply9) | Fri Dec 30 2022 12:25 AM
-- 🤗 [Cpp/OpenGL 独立体素沙盒游戏开发 [以太效应, Ethertia]](https://www.v2ex.com/t/905495#reply1) | Fri Dec 30 2022 12:12 AM
-- 🎭 [HowToLiveWithCovid | 新冠共存指南](https://www.v2ex.com/t/905475#reply2) | Thu Dec 29 2022 3:25 PM
-- 🥷 [想了解一下计算机视觉（opencv）方向的工作岗位多吗](https://www.v2ex.com/t/905466#reply3) | Thu Dec 29 2022 2:36 PM
-- 🐵 [有大佬遇到过 Ubuntu22.04 系统没有声音的问题吗？](https://www.v2ex.com/t/905463#reply3) | Thu Dec 29 2022 2:06 PM<!-- v2ex:END -->
+- 🥸 [Go+Vue.js 如何较好的实现 Web 下载大文件？](https://www.v2ex.com/t/905515#reply2) | Fri Dec 30 2022 2:13 AM
+- 🤗 [如何用远程控制带红外的手机打开家里的空调](https://www.v2ex.com/t/905513#reply6) | Fri Dec 30 2022 2:12 AM
+- 🎭 [[ROS] rosbridge CBOR-RAW 格式中&quot;bytes&quot;是如何解码?](https://www.v2ex.com/t/905505#reply1) | Fri Dec 30 2022 1:57 AM
+- 🥷 [13 岁初中生写的一个简单 Typescript mirai-api-http 对接库](https://www.v2ex.com/t/905504#reply13) | Fri Dec 30 2022 1:46 AM
+- 🐵 [靠年龄来营销自己是否已经成为社会舆论的正确导向？](https://www.v2ex.com/t/905496#reply22) | Fri Dec 30 2022 12:25 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
