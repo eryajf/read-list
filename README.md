@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Nodejs、GraphQL、MongoDB、Hapi 和 Swagger 构建 API（四）](https://juejin.cn/post/7182894676934918204) | Fri Dec 30 2022 11:00 AM 
+- 🤗 [CRA 很方便但不够灵活](https://juejin.cn/post/7182899662364344378) | Fri Dec 30 2022 11:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    现在写 React 项目基本上都是用 create-react-app 脚手架来创建，非常方便，省去一大堆的打包和构建配置。然而方便的代价就是牺牲了一些灵活性，像是一个黑盒，开发者没办法在构建流程中添 
+    </details> 
+
+- 🎡 [终于弄明白了 RocketMQ 的存储模型](https://juejin.cn/post/7182899204786749500) | Fri Dec 30 2022 11:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    RocketMQ 优异的性能表现，必然绕不开其优秀的存储模型 。 这篇文章，笔者按照自己的理解 , 尝试分析 RocketMQ 的存储模型，希望对大家有所启发。 1 整体概览 首先温习下 Rocket 
+    </details> 
+
+- 🕯 [一名“双非“”学生的心路历程——2022](https://juejin.cn/post/7182898085863882808) | Fri Dec 30 2022 11:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 既然都到年末了，还是回顾一下今年的自己留下的脚印吧 ⭐⭐⭐ 前端之路 选择前端 接触前端还是在今年的三月底，那个时候还在大二下学期，正好学校里面开了一个分方向的会，需要我们后面选择一个方向再进行 
+    </details> 
+
+- 🚀 [Nodejs、GraphQL、MongoDB、Hapi 和 Swagger 构建 API（四）](https://juejin.cn/post/7182894676934918204) | Fri Dec 30 2022 11:00 AM 
     <details><summary>展开描述 ...</summary> 
     可重用 API 流行的最大原因是 API 允许使用来自 Web 客户端、移动应用程序、桌面应用程序的数据，实际上是任何客户端。将构建一个基于 Nodejs，由 MongoDB 数据驱动的强大而灵活的  
     </details> 
 
-- 🎡 [微服务系列专栏介绍](https://juejin.cn/post/7182887958498771001) | Fri Dec 30 2022 10:35 AM 
+- 💪 [云渲染和自己的电脑渲染哪个好？](https://juejin.cn/post/7182892569146179645) | Fri Dec 30 2022 10:54 AM 
     <details><summary>展开描述 ...</summary> 
-    一 专栏介绍 本专栏是专门介绍微服务学习内容，希望大家能够通过学习本专栏，掌握微服务技术，现在系统介绍一下微服务。 1.1 微服务行业背景 不同行业IT系统更新频率 IT系统存在的问题 微服务架构在企 
-    </details> 
-
-- 🕯 [「Python」词频统计](https://juejin.cn/post/7182876463853469754) | Fri Dec 30 2022 9:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第6天，点击查看活动详情 单词统计 需求 用户需求： 英语的26 个字母的频率在一本小说中是如何分布的？某类型文章中常出现的单词是什 
-    </details> 
-
-- 🚀 [2022 年终总结——充满意义和感动的 2022 就这样结束了，你反应过来了吗？](https://juejin.cn/post/7182873838697316412) | Fri Dec 30 2022 9:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    又到了一年一度的年终总结环节，就像有的人喜欢写日记一样，写年终总结也成了我的一个习惯，每一年的年终总结都是对自己这一年的反思和总结。 工作 工作上今年的一个很大的变化是一切从头开始，了解的朋友都知道从 
-    </details> 
-
-- 💪 [Tiktok运营指南？如何利用tiktok给跨境电商店铺引流？](https://juejin.cn/post/7182870462504894524) | Fri Dec 30 2022 9:26 AM 
-    <details><summary>展开描述 ...</summary> 
-    短视频平台TikTok可以说，在国外越来越受欢迎，许多跨境电子商务的开始涌向TikTok这个平台是用来营销和推广的，所以如果你日夜思考如何推出新产品，如何以低成本吸引客户，提供销以使用TikTok实现 
+    如果您想用自己的电脑渲染出一张高质量效果图，首先要耗费不少时间，打个比方，一张全景图通常需要2到8个小时的渲染时长，而电脑在进行渲图的时候，几乎没办法利用自己的电脑再进行其他操作，在渲染效率方面会有一 
     </details> 
 <!-- juejin:END -->
 ### 少数派
