@@ -398,11 +398,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9756667) | Thu Dec 29 2022 12:27 AM
-- 🐻 [有哪些有趣的岛屿？](https://daily.zhihu.com/story/9756646) | Thu Dec 29 2022 12:27 AM
-- 🌏 [足球场上的草，为什么要一深一浅的？](https://daily.zhihu.com/story/9756653) | Thu Dec 29 2022 12:27 AM
-- 🕴 [自然界为什么会生出这么多吸血的昆虫动物？](https://daily.zhihu.com/story/9756656) | Thu Dec 29 2022 12:27 AM
-- 🌮 [哪些石头会开花？](https://daily.zhihu.com/story/9756659) | Thu Dec 29 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯·如何正确地吐槽](https://daily.zhihu.com/story/9756688) | Fri Dec 30 2022 12:27 AM
+- 🐻 [为什么人体的温度不设置的高一点使病毒、癌细胞失活？](https://daily.zhihu.com/story/9756671) | Fri Dec 30 2022 12:27 AM
+- 🌏 [为什么人们潜意识里的「未来」或「高科技」是以蓝色为主色调的？](https://daily.zhihu.com/story/9756673) | Fri Dec 30 2022 12:27 AM
+- 🕴 [电影里把大量毒品冲进下水道，会造成什么影响？](https://daily.zhihu.com/story/9756675) | Fri Dec 30 2022 12:27 AM
+- 🌮 [乒乓球发球的落点为什么是对称的？](https://daily.zhihu.com/story/9756684) | Fri Dec 30 2022 12:27 AM<!-- zhihu:END -->
 
 
 ## 应用资源
