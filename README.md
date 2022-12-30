@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [行尽白云云里路，满身还带白云归：我的日本行经验分享](https://sspai.com/post/77549) | Fri Dec 30 2022 8:00 AM 
+- 👹 [本周看什么 | 最近值得一看的一大串作品](https://sspai.com/post/77554) | Fri Dec 30 2022 9:37 AM 
+    <details><summary>展开描述 ...</summary> 
+    ☕️TL;DR近期佳作推荐：[电影]穿靴子的猫2、[港剧]廉政狙击、[国产]回来的女儿、[日剧]噬亡村、[电影]6/45、[电影]犬王、[英剧]平摊公寓、[英剧]SAS：叛逆勇士第一季、[意大利]坏人 ...&lt;a href=&quot;https://sspai.com/post/77554&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [行尽白云云里路，满身还带白云归：我的日本行经验分享](https://sspai.com/post/77549) | Fri Dec 30 2022 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     本篇文章写于 2022 年 12 月的日本旅游后的经验总结分享，主要关于一些实际旅行体验中前期攻略没有覆盖到的点，希望能给后来的人提供更多的信息。&lt;a href=&quot;https://sspai.com/post/77549&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [即将到来的 2023，希望你与少数派都能一切「如常」](https://sspai.com/post/77541) | Fri Dec 30 2022 7:23 AM 
+- 🤭 [即将到来的 2023，希望你与少数派都能一切「如常」](https://sspai.com/post/77541) | Fri Dec 30 2022 7:23 AM 
     <details><summary>展开描述 ...</summary> 
     用自己的热爱对抗压力，消解负面情绪，我们带着 OPPO Find N2 开了场「露营音乐会」。&lt;a href=&quot;https://sspai.com/post/77541&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [这些好物和小技巧，让我保持数字健康](https://sspai.com/prime/story/vol014-how-they-stay-on-digital-healthy) | Fri Dec 30 2022 6:30 AM 
+- 🥸 [这些好物和小技巧，让我保持数字健康](https://sspai.com/prime/story/vol014-how-they-stay-on-digital-healthy) | Fri Dec 30 2022 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     数字健康是近年来逐步在国内流行起来的概念，也是许多小伙伴们在反思使用电子设备的过程中一定会关注或尝试的生活方式。在这篇文章中，我们邀请了几位少数派作者，听听他们对数字健康的理解和具体行动。其中既有保持数字健康过程中用到的技巧和好物，也也有自己的成功经验。&lt;a href=&quot;https://sspai.com/prime/story/vol014-how-they-stay-on-digital-healthy&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/vol014-pre-digital-life&quot; target=&quot;_blank&quot;&gt;《数字、模拟、实体——漫谈数字健康》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🥸 [你的 2022，藏在这些数字里](https://sspai.com/post/77519) | Fri Dec 30 2022 3:33 AM 
+- 🙉 [你的 2022，藏在这些数字里](https://sspai.com/post/77519) | Fri Dec 30 2022 3:33 AM 
     <details><summary>展开描述 ...</summary> 
     不知道你的 2022 过得怎么样呢？不妨去各大年度报告中回忆自己这一年的生活与工作吧。一如往年，我们给各位读者整理了各种数字媒体与应用发布的年度报告。&lt;a href=&quot;https://sspai.com/post/77519&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派早报：iQOO Neo7 竞速版发布、科大讯飞推出讯飞有声书等](https://sspai.com/post/77538) | Fri Dec 30 2022 12:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    Office Mobile 将停用「传输文件」功能、OneDrive 将停止对 iOS 14 的支持等。&lt;a href=&quot;https://sspai.com/post/77538&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
