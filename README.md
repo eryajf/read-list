@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [CRA 很方便但不够灵活](https://juejin.cn/post/7182899662364344378) | Fri Dec 30 2022 11:22 AM 
+- 🤗 [重学C++系列（一）：从C到C++](https://juejin.cn/post/7182926962070356023) | Fri Dec 30 2022 1:05 PM 
     <details><summary>展开描述 ...</summary> 
-    现在写 React 项目基本上都是用 create-react-app 脚手架来创建，非常方便，省去一大堆的打包和构建配置。然而方便的代价就是牺牲了一些灵活性，像是一个黑盒，开发者没办法在构建流程中添 
+    前言 作为一个Android开发者，可能你觉得我是不是跑错场了，Android开发又用不到C++的知识。。 额，如果你这么觉得，只能说明你还是一个Android基础开发者，C++在高级领域，如性能优化 
     </details> 
 
-- 🎡 [终于弄明白了 RocketMQ 的存储模型](https://juejin.cn/post/7182899204786749500) | Fri Dec 30 2022 11:19 AM 
+- 🎡 [模块联邦在微前端架构中的实践](https://juejin.cn/post/7182875788943818789) | Fri Dec 30 2022 9:48 AM 
     <details><summary>展开描述 ...</summary> 
-    RocketMQ 优异的性能表现，必然绕不开其优秀的存储模型 。 这篇文章，笔者按照自己的理解 , 尝试分析 RocketMQ 的存储模型，希望对大家有所启发。 1 整体概览 首先温习下 Rocket 
+    译自# Micro Frontends Architecture with Webpack Module Federation 背景 我们有一个用React编写的管理面板，在这里我们跟踪和管理Tren 
     </details> 
 
-- 🕯 [一名“双非“”学生的心路历程——2022](https://juejin.cn/post/7182898085863882808) | Fri Dec 30 2022 11:14 AM 
+- 🕯 [Element Plus - Message组件源码解析学习](https://juejin.cn/post/7182858256950231101) | Fri Dec 30 2022 8:38 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 既然都到年末了，还是回顾一下今年的自己留下的脚印吧 ⭐⭐⭐ 前端之路 选择前端 接触前端还是在今年的三月底，那个时候还在大二下学期，正好学校里面开了一个分方向的会，需要我们后面选择一个方向再进行 
+    本文参加了由公众号@若川视野 发起的每周源码共读活动，      点击了解详情一起参与。 这是源码共读的第28期 | # vue react 小程序 message 组件 前言 平常业务开发多多少少都 
     </details> 
 
-- 🚀 [Nodejs、GraphQL、MongoDB、Hapi 和 Swagger 构建 API（四）](https://juejin.cn/post/7182894676934918204) | Fri Dec 30 2022 11:00 AM 
+- 🚀 [react实现4种轮播效果](https://juejin.cn/post/7182856737036107833) | Fri Dec 30 2022 8:32 AM 
     <details><summary>展开描述 ...</summary> 
-    可重用 API 流行的最大原因是 API 允许使用来自 Web 客户端、移动应用程序、桌面应用程序的数据，实际上是任何客户端。将构建一个基于 Nodejs，由 MongoDB 数据驱动的强大而灵活的  
+    完整demo 链接：https://github.com/webfamer/react-swiper.git 
     </details> 
 
-- 💪 [云渲染和自己的电脑渲染哪个好？](https://juejin.cn/post/7182892569146179645) | Fri Dec 30 2022 10:54 AM 
+- 💪 [小玩意——贪吃蛇](https://juejin.cn/post/7182850484548894775) | Fri Dec 30 2022 8:09 AM 
     <details><summary>展开描述 ...</summary> 
-    如果您想用自己的电脑渲染出一张高质量效果图，首先要耗费不少时间，打个比方，一张全景图通常需要2到8个小时的渲染时长，而电脑在进行渲图的时候，几乎没办法利用自己的电脑再进行其他操作，在渲染效率方面会有一 
+    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第7天，点击查看活动详情 年底无事做，看各种资料也都看腻了，索性自己写点小玩意消遣一下时间。 贪吃蛇用cavans写的，那么我们首先 
     </details> 
 <!-- juejin:END -->
 ### 少数派
