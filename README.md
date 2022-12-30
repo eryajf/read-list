@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [FreeBuf早报 | 推特正经历全球性中断；谷歌智能音箱存在后门](https://www.freebuf.com/news/353885.html) | Thu Dec 29 2022 11:54 PM 
+    <details><summary>展开描述 ...</summary> 
+    111 
+    </details> 
+
 - 🦄 [俄亥俄州法院、警察局遭到 LockBit 勒索软件攻击](https://www.freebuf.com/news/353816.html) | Thu Dec 29 2022 5:32 AM 
     <details><summary>展开描述 ...</summary> 
     攻击者安装了名为 LockBit 的勒索软件，并要求支付赎金以获取某些文件。 
     </details> 
 
-- 🦄 [赶紧自查，Citrix数千台服务器存在严重安全风险](https://www.freebuf.com/news/353804.html) | Thu Dec 29 2022 3:50 AM 
+- 🦅 [赶紧自查，Citrix数千台服务器存在严重安全风险](https://www.freebuf.com/news/353804.html) | Thu Dec 29 2022 3:50 AM 
     <details><summary>展开描述 ...</summary> 
     数以千计的Citrix ADC 和网关部署仍然存在安全风险，即便该品牌服务器在此之前已经修复了两个严重的安全漏洞。 
     </details> 
 
-- 🦅 [27万名患者信息泄露，美国路易斯安那州医院遭勒索攻击](https://www.freebuf.com/news/353798.html) | Thu Dec 29 2022 3:36 AM 
+- 🪄 [27万名患者信息泄露，美国路易斯安那州医院遭勒索攻击](https://www.freebuf.com/news/353798.html) | Thu Dec 29 2022 3:36 AM 
     <details><summary>展开描述 ...</summary> 
     美国路易斯安那州的查尔斯湖纪念医院发出通告称，该院近期发生一起网络勒索攻击事件，近27万名患者信息遭到泄露。 
     </details> 
 
-- 🪄 [BitKeep遭网络攻击，数字货币损失超900万美元](https://www.freebuf.com/news/353792.html) | Thu Dec 29 2022 2:47 AM 
+- 💻 [BitKeep遭网络攻击，数字货币损失超900万美元](https://www.freebuf.com/news/353792.html) | Thu Dec 29 2022 2:47 AM 
     <details><summary>展开描述 ...</summary> 
     区块链加密钱包BitKeep于12月28日证实了一次网络攻击，该攻击目的是窃取用户的数字货币。 
-    </details> 
-
-- 💻 [FreeBuf早报 | 欧盟网络安全局2022年度威胁报告；美国司法部正在调查 FTX 黑客攻击](https://www.freebuf.com/articles/353759.html) | Wed Dec 28 2022 10:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    数字资产衍生品交易所FTX 于 11 月申请破产后数小时内，未知黑客从 FTX 中窃取了 3.72 亿美元。 
     </details> 
 <!-- freebuf:END -->
 
