@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [LockBit被破解！日本警方已帮助3家企业恢复数据](https://www.freebuf.com/articles/353927.html) | Fri Dec 30 2022 6:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    日本警察厅已成功解密由LockBit勒索软件组织加密的文件，帮助至少 3 家公司在没有支付赎金的情况下恢复了数据。 
+    </details> 
+
 - 🦄 [马斯克疯狂裁员75%后，推特出现全球宕机](https://www.freebuf.com/news/353919.html) | Fri Dec 30 2022 5:39 AM 
     <details><summary>展开描述 ...</summary> 
     上万名Twitter用户报告Twitter出现故障，用户无法访问该网站或使用其主要功能。 
     </details> 
 
-- 🦄 [FreeBuf早报 | 推特正经历全球性中断；谷歌智能音箱存在后门](https://www.freebuf.com/news/353885.html) | Thu Dec 29 2022 11:54 PM 
+- 🦅 [FreeBuf早报 | 推特正经历全球性中断；谷歌智能音箱存在后门](https://www.freebuf.com/news/353885.html) | Thu Dec 29 2022 11:54 PM 
     <details><summary>展开描述 ...</summary> 
     12月29日，互联网监控器NetBlocks表示，“Twitter 正在经历全球性中断，影响包括移动应用程序、功能（含通知）”。 
     </details> 
 
-- 🦅 [俄亥俄州法院、警察局遭到 LockBit 勒索软件攻击](https://www.freebuf.com/news/353816.html) | Thu Dec 29 2022 5:32 AM 
+- 🪄 [俄亥俄州法院、警察局遭到 LockBit 勒索软件攻击](https://www.freebuf.com/news/353816.html) | Thu Dec 29 2022 5:32 AM 
     <details><summary>展开描述 ...</summary> 
     攻击者安装了名为 LockBit 的勒索软件，并要求支付赎金以获取某些文件。 
     </details> 
 
-- 🪄 [赶紧自查，Citrix数千台服务器存在严重安全风险](https://www.freebuf.com/news/353804.html) | Thu Dec 29 2022 3:50 AM 
+- 💻 [赶紧自查，Citrix数千台服务器存在严重安全风险](https://www.freebuf.com/news/353804.html) | Thu Dec 29 2022 3:50 AM 
     <details><summary>展开描述 ...</summary> 
     数以千计的Citrix ADC 和网关部署仍然存在安全风险，即便该品牌服务器在此之前已经修复了两个严重的安全漏洞。 
-    </details> 
-
-- 💻 [27万名患者信息泄露，美国路易斯安那州医院遭勒索攻击](https://www.freebuf.com/news/353798.html) | Thu Dec 29 2022 3:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    美国路易斯安那州的查尔斯湖纪念医院发出通告称，该院近期发生一起网络勒索攻击事件，近27万名患者信息遭到泄露。 
     </details> 
 <!-- freebuf:END -->
 
