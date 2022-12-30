@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [海外静态IP代理为什么比其他代理类型好用？](https://juejin.cn/post/7182866594853290041) | Fri Dec 30 2022 9:11 AM 
+- 🤗 [中奖公示｜源码共读第一期](https://juejin.cn/post/7182871424749715512) | Fri Dec 30 2022 9:30 AM 
     <details><summary>展开描述 ...</summary> 
-    静态IP又叫做固定IP，是一种长期持续分配给固定一台网络设备使用的IP地址，静态IP最大的特点就是重新拨号上网后得到的IP几乎是一直不会变化的的，所以它主要用于企业用户。 正如你已经知道的，静态IP永 
+    各位会员们好！ 源码共读第一期活动 已于 12月25日 圆满结束！感谢大家的积极参与！ 本文将展示本期活动中的优秀笔记及公示获奖名单。 
     </details> 
 
-- 🎡 [算法 | 如何用位运算从一堆数中寻找出现奇数次的2个数？](https://juejin.cn/post/7182855230889918519) | Fri Dec 30 2022 8:27 AM 
+- 🎡 [跨境电商如何利用海外HTTP代理做好出海广告？](https://juejin.cn/post/7182869047132815421) | Fri Dec 30 2022 9:22 AM 
     <details><summary>展开描述 ...</summary> 
-    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第34天，本文主要介绍如何用位运算从一堆数中寻找出现奇数次的2个数。 
+    随着现在电子商务全球化，越来越多的国内卖家把目标市场定为海外，从而你会发现近几年身边有越来越多做跨境电商的了，一方面是因为海外市场比较于国内好做的多，一方面是把国内产品卖到海外的利润要比国内出售高的多 
     </details> 
 
-- 🕯 [alibaba/jvm-sandbox#07】事件监听的关键实现](https://juejin.cn/post/7182851986906808376) | Fri Dec 30 2022 8:17 AM 
+- 🕯 [Flutter异常监控 - 伍 | 关于异常监控框架设计的思考](https://juejin.cn/post/7182859962958217277) | Fri Dec 30 2022 8:45 AM 
     <details><summary>展开描述 ...</summary> 
-    代码中的 new 一个 Listener，sandbox 内部就创建并注册一个与之对应的事件处理器。Spy 的静态方法中将方法事件交给了事件处理器经过一些内部处理，最终回调 listener 的方法。 
+    Flutter异常监控框架Catcher、Bugsnag、Rollbar优缺点和应用场景总结;对如何设计异常监控框架我的一些思考，如何读框架的建议 
     </details> 
 
-- 🚀 [Logic Pro X for Mac&lpar;音频制作软件&rpar;](https://juejin.cn/post/7182849981274030117) | Fri Dec 30 2022 8:07 AM 
+- 🚀 [Android性能优化——内存泄漏的根本原因](https://juejin.cn/post/7182852816896000059) | Fri Dec 30 2022 8:18 AM 
     <details><summary>展开描述 ...</summary> 
-    Logic Pro X是苹果公司设计的一款音频制作软件，作为 Mac 上功能完备的专业录音室，Logic Pro X为音乐人提供了从创作第一个音符到完成最后的母带所需的一切。它为您带来的软件乐器与音频 
+    ## 什么是内存泄露 什么是内存泄露，通俗的来说就是堆中的一些对象已经不会再被使用了，但垃圾收集器却无法将它们从内存中清除。 内存泄漏很严重的问题，因为它会阻塞内存资源并随着时间的推移降低系统性能。如 
     </details> 
 
-- 💪 [sublime text for Mac&lpar;前端代码开发工具&rpar;](https://juejin.cn/post/7182848946945916984) | Fri Dec 30 2022 8:02 AM 
+- 💪 [浅看 Bean 的一生](https://juejin.cn/post/7182846693200068669) | Fri Dec 30 2022 7:55 AM 
     <details><summary>展开描述 ...</summary> 
-    sublime text for Mac是应用在Mac上的一款前端代码开发神器，支持语法高亮、代码补全、代码片段&lpar;Snippet&rpar;、代码折叠、行号显示、自定义皮肤、配色方案等所有其它代码编辑器所拥有的 
+    继上周末肝了一个丐版的Spring IOC容器&lt;https://zhuanlan.zhihu.com/p/594516378&gt;，在解决循环依赖的时候，知道了 Spring 的 Bean 的大体的创建过 
     </details> 
 <!-- juejin:END -->
 ### 少数派
