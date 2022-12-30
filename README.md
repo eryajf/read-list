@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一条咸鱼的2022 | 掘金 &amp; 开源 &amp; 项目](https://juejin.cn/post/7182930931286556732) | Fri Dec 30 2022 1:21 PM 
+- 🤗 [工厂模式，我们造一个精简版服装生产厂模型](https://juejin.cn/post/7182958475431903269) | Fri Dec 30 2022 3:10 PM 
+    <details><summary>展开描述 ...</summary> 
+    工厂模式指的是，批量创建对象的时候可以避免使用“new + 构造函数”的方式去暴露创建对象的行为，而是通过工厂模式将创建对象的行为隐藏到工厂函数内部 
+    </details> 
+
+- 🎡 [一条咸鱼的2022 | 掘金 &amp; 开源 &amp; 项目](https://juejin.cn/post/7182930931286556732) | Fri Dec 30 2022 1:21 PM 
     <details><summary>展开描述 ...</summary> 
     Hi 各位好，我是咸鱼。第一次尝试动笔，总结过去的一年，也算一种奇妙的感受吧。 咸鱼 我的 ID 是 “FunnySaltyFish”，直译过来是 “有趣的咸鱼”，或者 “滑稽的咸鱼”。这当然带有一点 
     </details> 
 
-- 🎡 [重学C++系列（一）：从C到C++](https://juejin.cn/post/7182926962070356023) | Fri Dec 30 2022 1:05 PM 
+- 🕯 [重学C++系列（一）：从C到C++](https://juejin.cn/post/7182926962070356023) | Fri Dec 30 2022 1:05 PM 
     <details><summary>展开描述 ...</summary> 
     前言 作为一个Android开发者，可能你觉得我是不是跑错场了，Android开发又用不到C++的知识。。 额，如果你这么觉得，只能说明你还是一个Android基础开发者，C++在高级领域，如性能优化 
     </details> 
 
-- 🕯 [模块联邦在微前端架构中的实践](https://juejin.cn/post/7182875788943818789) | Fri Dec 30 2022 9:48 AM 
+- 🚀 [模块联邦在微前端架构中的实践](https://juejin.cn/post/7182875788943818789) | Fri Dec 30 2022 9:48 AM 
     <details><summary>展开描述 ...</summary> 
     译自# Micro Frontends Architecture with Webpack Module Federation 背景 我们有一个用React编写的管理面板，在这里我们跟踪和管理Tren 
     </details> 
 
-- 🚀 [Element Plus - Message组件源码解析学习](https://juejin.cn/post/7182858256950231101) | Fri Dec 30 2022 8:38 AM 
+- 💪 [Element Plus - Message组件源码解析学习](https://juejin.cn/post/7182858256950231101) | Fri Dec 30 2022 8:38 AM 
     <details><summary>展开描述 ...</summary> 
     本文参加了由公众号@若川视野 发起的每周源码共读活动，      点击了解详情一起参与。 这是源码共读的第28期 | # vue react 小程序 message 组件 前言 平常业务开发多多少少都 
-    </details> 
-
-- 💪 [react实现4种轮播效果](https://juejin.cn/post/7182856737036107833) | Fri Dec 30 2022 8:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    完整demo 链接：https://github.com/webfamer/react-swiper.git 
     </details> 
 <!-- juejin:END -->
 ### 少数派
