@@ -604,27 +604,27 @@
 ### 摄影世界
 
 <!-- photoworld:START -->
-- 🤠 [足球世界杯记者说｜肖艺九：每一场比赛都是一个故事](https://www.photoworld.com.cn/post/168056) | Mon Dec 26 2022 7:09 AM 
+- 🤠 [“南山情•资源景” 大美资源全国摄影大展开幕](https://www.photoworld.com.cn/post/168112) | Fri Dec 30 2022 1:56 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 🎃 [足球世界杯记者说｜潘昱龙：可靠的设备让摄影师事半功倍](https://www.photoworld.com.cn/post/168041) | Mon Dec 26 2022 7:08 AM 
+- 🎃 [足球世界杯记者说｜肖艺九：每一场比赛都是一个故事](https://www.photoworld.com.cn/post/168056) | Mon Dec 26 2022 7:09 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 👀 [2022 首届集美中国新风景摄影十杰：王海江](https://www.photoworld.com.cn/post/168023) | Thu Dec 22 2022 3:10 AM 
+- 👀 [足球世界杯记者说｜潘昱龙：可靠的设备让摄影师事半功倍](https://www.photoworld.com.cn/post/168041) | Mon Dec 26 2022 7:08 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 🤔 [小米徕卡影像大赛《2022 中国影像辞典》获奖作品揭晓](https://www.photoworld.com.cn/post/168013) | Thu Dec 22 2022 3:08 AM 
+- 🤔 [2022 首届集美中国新风景摄影十杰：王海江](https://www.photoworld.com.cn/post/168023) | Thu Dec 22 2022 3:10 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 👀 [2022 首届集美中国新风景摄影十杰：金炳仁](https://www.photoworld.com.cn/post/167510) | Thu Dec 22 2022 2:37 AM 
+- 👀 [小米徕卡影像大赛《2022 中国影像辞典》获奖作品揭晓](https://www.photoworld.com.cn/post/168013) | Thu Dec 22 2022 3:08 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
