@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【alibaba/jvm-sandbox#03】JavaAgent 修改字节码的机制](https://juejin.cn/post/7182817784689066044) | Fri Dec 30 2022 6:03 AM 
+- 🤗 [Flink在转转商业实时数仓的应用](https://juejin.cn/post/7182831395574644796) | Fri Dec 30 2022 6:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    数据中心是转转商业化平台的核心模块之一，业务发展过程中，经历了2次改造，第2次借用flink流批处理能力，实现了高实时性、高可扩展性，很大程度上提升了数据计算的吞吐能力和稳定性，也对业务更加友好 
+    </details> 
+
+- 🎡 [2022年终总结——时间都去哪了？三张图让我清晰了](https://juejin.cn/post/7182826901163999289) | Fri Dec 30 2022 6:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    静下心回顾了一下这一年在工作、学习、生活三方面的情况，分别用三张图梳理了一下：一张时间轴图回顾了这一年工作中的关键事件；一张雷达图展示了这一年学习情况；一张鱼骨图罗列了这一年的生活的状态。 
+    </details> 
+
+- 🕯 [第146期：如果背面试题能让我们的技术段位提升](https://juejin.cn/post/7182822178843263035) | Fri Dec 30 2022 6:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    封面图 昨晚下班随手拍的一张照片 如果背面试题能让我们的技术段位提升 昨天下班回去之后我在思考一个问题，如果靠背面试题能让我们的技术段位得到提升，那么相信我们现在都应该成为自己所属领域的顶级高手了吧。 
+    </details> 
+
+- 🚀 [【alibaba/jvm-sandbox#03】JavaAgent 修改字节码的机制](https://juejin.cn/post/7182817784689066044) | Fri Dec 30 2022 6:03 AM 
     <details><summary>展开描述 ...</summary> 
     开发者一般采用建立一个 Agent 的方式来使用 JVMTI，使用 JVMTI 一个基本的方式就是设置回调函数，在回调函数体内，可以 获取各种各样的VM级信息，甚至控制VM行为，如类加载时修改类 
     </details> 
 
-- 🎡 [sqlite wal 分析](https://juejin.cn/post/7182817252012621881) | Fri Dec 30 2022 6:00 AM 
+- 💪 [sqlite wal 分析](https://juejin.cn/post/7182817252012621881) | Fri Dec 30 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
     本文将介绍wal原理，并源码剖析checkpoint过程，同时讨论下wal使用中的一些注意点。由于sqlite的复杂性，会省略掉一些细节，重点放在核心流程和wal并发的实现。 
-    </details> 
-
-- 🕯 [【alibaba/jvm-sandbox#02】通过无侵入AOP实现行为注入和流控](https://juejin.cn/post/7182790460640624696) | Fri Dec 30 2022 4:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    任何一个 Java 方法的调用都可以分解为`BEFORE`、`RETURN`和`THROWS`三个环节，由此在三个环节上引申出对应环节的事件探测和流程控制机制。 
-    </details> 
-
-- 🚀 [SVG安全、责任链模式、Gradle Plugin的开发及发布、Mysql到TiDB迁移| 酱酱的下午茶第 143 期](https://juejin.cn/post/7182782495388074040) | Fri Dec 30 2022 3:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    看点：SVG 安全、 CSS新规范：样式查询、责任链模式的高级用法：多级校验、工作流，这样写代码才足够优雅、Mysql到TiDB迁移，双写数据库兜底方案、Gradle Plugin的开发及发布 
-    </details> 
-
-- 💪 [纵然来路漫漫，也有星光灿灿|2022，我这一年。](https://juejin.cn/post/7182779754834034749) | Fri Dec 30 2022 3:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    希望我们明年的今天，回首这一年的时候，纵然来路漫漫，也有星光灿灿。感谢你阅读我的文章，我知道你肯定没有看完，但是真的没有关系的，你能过来小坐一会，我就很开心了。遗憾的是我不能开酒款待，与你把酒言欢。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
