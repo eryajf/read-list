@@ -148,9 +148,9 @@
 ### 好工具周刊
 
 <!-- bestxtools:START -->
-- 🕯 [好工具周刊（第 43 期）: 亲戚称谓计算器, 地铁数据库, Mozilla Observatory, Web Developer Checklist,...](https://discuss-cn.bestxtools.com/d/117/1) | Thu Dec 29 2022 5:55 AM
-- 🦩 [好工具周刊（第 42 期）: AnyWebP, VirScan, 聊聊, Maze Generator, 小学生口算题, 田字格字帖生成器, 追踪圣诞老人](https://discuss-cn.bestxtools.com/d/116/1) | Thu Dec 22 2022 2:30 AM
-- 🙉 [好工具周刊（第 41 期）: SmartyNames, Rayst Domains, Screenshot.Rocks, Magic Mockups, ...](https://discuss-cn.bestxtools.com/d/105/1) | Thu Dec 08 2022 7:37 AM<!-- bestxtools:END -->
+- 🕯 [抽奖送话费，好工具周刊与 DTO 社区祝大家 2023 年好运连连](https://discuss-cn.bestxtools.com/d/118/1) | Fri Dec 30 2022 3:21 AM
+- 🦩 [好工具周刊（第 43 期）: 亲戚称谓计算器, 地铁数据库, Mozilla Observatory, Web Developer Checklist,...](https://discuss-cn.bestxtools.com/d/117/1) | Thu Dec 29 2022 5:55 AM
+- 🙉 [好工具周刊（第 42 期）: AnyWebP, VirScan, 聊聊, Maze Generator, 小学生口算题, 田字格字帖生成器, 追踪圣诞老人](https://discuss-cn.bestxtools.com/d/116/1) | Thu Dec 22 2022 2:30 AM<!-- bestxtools:END -->
 
 ### 王登科-DK博客
 
