@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [System Toolkit 5.9.8 系统工具包](https://xclient.info/s/system-toolkit.html) | Thu Dec 29 2022 2:06 AM 
+- 🦏 [Sync Folders Pro 4.6.5 文件夹同步工具](https://xclient.info/s/sync-folders-pro.html) | Fri Dec 30 2022 1:32 AM 
     <details><summary>展开描述 ...</summary> 
-    System Toolkit 是为MacOS设计的一体化信息和维护应用程序。 
+    Sync Folders 是一款Mac上的文件夹同步工具，最大的特点是简单易用，支持及时同步、计划同步和手动同步等，还支持文件过滤，除了本地磁盘外，也支持移动硬盘、U盘等外部存储和网络存储 
     </details> 
 
--  [uDock 3.3&lpar;33001&rpar; 轻量级Dock栏快速启动工具](https://xclient.info/s/udock.html) | Thu Dec 29 2022 2:05 AM 
+-  [FSNotes 6.0.6 轻量级的笔记工具](https://xclient.info/s/fsnotes.html) | Fri Dec 30 2022 1:31 AM 
     <details><summary>展开描述 ...</summary> 
-    轻量级系统扩展uDock可以在系统工具栏中工作，使用键盘快捷键或鼠标热点来激活 μDock，它几乎是隐形的，并且在您需要时随时准备就绪 
+    FSNotes 是一款轻量级的笔记工具，帮助用户快速记录灵感。 
     </details> 
 
-- ⚗️ [Path Finder 2149 超赞Mac资源 文件管理工具](https://xclient.info/s/path-finder.html) | Thu Dec 29 2022 2:05 AM 
+- ⚗️ [FonePaw iPhone Data Recovery 7.6.0.127007 专业的iPhone数据恢复软件](https://xclient.info/s/fonepaw-iphone-data-recovery.html) | Fri Dec 30 2022 1:28 AM 
     <details><summary>展开描述 ...</summary> 
-    Path Finder 是一款类似于Finder的系统文件管理器，它能轻而易举访问系统文件或者网络硬盘。可自定义标签集，支持新建不同的侧边栏，根据不同的应用调取。使用操作的确比系统自带的 Finder 操作方便多了。 
+    FonePaw iPhone Data Recovery 是Mac电脑上的一款专业的iPhone数据恢复救援软件，可以帮助您轻松恢复iPhone/iPad设备上误删的照片、视频、备忘录、联络人、信息、社交软件的聊天记录等资料。 
     </details> 
 
-- 🔥 [Perfectly Clear WorkBench 4.2.0.2380 智能图片瑕疵处理工具](https://xclient.info/s/perfectly-clear-workbench.html) | Thu Dec 29 2022 2:03 AM 
+- 🔥 [EdgeView 3.9.0 图像查看器](https://xclient.info/s/edgeview.html) | Fri Dec 30 2022 1:27 AM 
     <details><summary>展开描述 ...</summary> 
-    Perfectly Clear Workbench可以帮您在几分钟内自动修复、微调和批处理图片。 
+    EdgeView是MacOS X的一款图像查看器。你可以打开各种图像文件，也可以打开像ZIP这样的归档文件，而不用提取。您可以在内置的文件浏览器中检查和打开文件，并且可以连接到FTP并直接打开文件。 
     </details> 
 
-- 🌋 [Millumin 4.16.c 视频处理工具](https://xclient.info/s/millumin.html) | Thu Dec 29 2022 2:02 AM 
+- 🌋 [Metasequoia 4.8.4b 水杉建模](https://xclient.info/s/metasequoia.html) | Fri Dec 30 2022 1:26 AM 
     <details><summary>展开描述 ...</summary> 
-    Millumin 是Mac平台上的一款专业的视频编辑软件，功能十分强大且十分齐全。 
+    水杉建模&lpar;Metasequoia&rpar; 是一款Mac平台上的3D模型建模软件，能够提供专业的工具供您设计，该软件支持流行格式，开放脚本编辑使得设计者不是局域约束，从而更好的设计出3D模型。 
     </details> 
 <!-- xclient:END -->
 
