@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [坚果的2022年终总结](https://juejin.cn/post/7182846390593126457) | Fri Dec 30 2022 7:53 AM 
+- 🤗 [海外静态IP代理为什么比其他代理类型好用？](https://juejin.cn/post/7182866594853290041) | Fri Dec 30 2022 9:11 AM 
     <details><summary>展开描述 ...</summary> 
-    「回顾2022，展望2023，我正在参与[2022年终总结征文大赛活动]&lpar;https://juejin.cn/post/7172462429929111559 &quot;https://juejin.cn/p 
+    静态IP又叫做固定IP，是一种长期持续分配给固定一台网络设备使用的IP地址，静态IP最大的特点就是重新拨号上网后得到的IP几乎是一直不会变化的的，所以它主要用于企业用户。 正如你已经知道的，静态IP永 
     </details> 
 
-- 🎡 [&lpar;十一&rpar;Netty实战篇：基于Netty框架打造一款高性能的IM即时通讯程序](https://juejin.cn/post/7182845662126407737) | Fri Dec 30 2022 7:49 AM 
+- 🎡 [算法 | 如何用位运算从一堆数中寻找出现奇数次的2个数？](https://juejin.cn/post/7182855230889918519) | Fri Dec 30 2022 8:27 AM 
     <details><summary>展开描述 ...</summary> 
-    很多Netty的文章中，仅仅只是停留在基本的组件介绍，这很难让一些初学者真正掌握Netty框架，而本文的撰写初衷就在于此，通过一个完整的IM程序，助力于每位初学者真正上手掌握Netty框架。 
+    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第34天，本文主要介绍如何用位运算从一堆数中寻找出现奇数次的2个数。 
     </details> 
 
-- 🕯 [Rxjava源码分析&amp;实践（四）【RxJava基本原理分析之触发流】](https://juejin.cn/post/7182841957583224890) | Fri Dec 30 2022 7:37 AM 
+- 🕯 [alibaba/jvm-sandbox#07】事件监听的关键实现](https://juejin.cn/post/7182851986906808376) | Fri Dec 30 2022 8:17 AM 
     <details><summary>展开描述 ...</summary> 
-    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第33天，[点击查看活动详情]&lpar; 
+    代码中的 new 一个 Listener，sandbox 内部就创建并注册一个与之对应的事件处理器。Spy 的静态方法中将方法事件交给了事件处理器经过一些内部处理，最终回调 listener 的方法。 
     </details> 
 
-- 🚀 [Okhttp源码分析&amp;实践（十一）【 实践环节：Okhttp断点下载功能的实现 】](https://juejin.cn/post/7182841404769435685) | Fri Dec 30 2022 7:35 AM 
+- 🚀 [Logic Pro X for Mac&lpar;音频制作软件&rpar;](https://juejin.cn/post/7182849981274030117) | Fri Dec 30 2022 8:07 AM 
     <details><summary>展开描述 ...</summary> 
-    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第33天，[点击查看活动详情]&lpar; 
+    Logic Pro X是苹果公司设计的一款音频制作软件，作为 Mac 上功能完备的专业录音室，Logic Pro X为音乐人提供了从创作第一个音符到完成最后的母带所需的一切。它为您带来的软件乐器与音频 
     </details> 
 
-- 💪 [微机相关的问题求解（1）](https://juejin.cn/post/7182840714324082747) | Fri Dec 30 2022 7:31 AM 
+- 💪 [sublime text for Mac&lpar;前端代码开发工具&rpar;](https://juejin.cn/post/7182848946945916984) | Fri Dec 30 2022 8:02 AM 
     <details><summary>展开描述 ...</summary> 
-    启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第33天，点击查看活动详情 前言：解答别人问题，顺便发文章 微机相关的问题求解 经量是8250，8255，8251这种 二、基于微机系 
+    sublime text for Mac是应用在Mac上的一款前端代码开发神器，支持语法高亮、代码补全、代码片段&lpar;Snippet&rpar;、代码折叠、行号显示、自定义皮肤、配色方案等所有其它代码编辑器所拥有的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
