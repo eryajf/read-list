@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [这么做，你也可以开发JavaScript库！](https://juejin.cn/post/7183297220173627448) | Sat Dec 31 2022 1:04 PM 
+- 🤗 [2022年终总结：点滴积累让我不再迷茫](https://juejin.cn/post/7183305023927877693) | Sat Dec 31 2022 1:32 PM 
+    <details><summary>展开描述 ...</summary> 
+    今年是开始写作的第二年，如果说第一年是起步的话，今年就是开始有了一些小收获了，通过点滴积累让我知道积累的充实感，通过一点一点粉丝或阅读量的积累，增加写作的自信。 今年的收获 首先看一下今年的阅读量和粉 
+    </details> 
+
+- 🎡 [NIO-内存映射文件-理论篇](https://juejin.cn/post/7183300072829321273) | Sat Dec 31 2022 1:13 PM 
+    <details><summary>展开描述 ...</summary> 
+    内存映射文件是一种允许程序直接从内存访问的特殊文件。通过将整个文件或者文件的一部分映射到内存中、操作系统负责获取页面请求和写入文件，应用程序就只需要处理内存数据，这样可以实现非常快速的 IO 操作。 
+    </details> 
+
+- 🕯 [这么做，你也可以开发JavaScript库！](https://juejin.cn/post/7183297220173627448) | Sat Dec 31 2022 1:04 PM 
     <details><summary>展开描述 ...</summary> 
     最近一年，互联网裁员现象愈演愈烈，很多大厂裁员的消息冲上了微博热搜，这不禁让很多程序员（包括我）心中焦虑。 我也时常在想，什么样的人能够抵御这场互联网寒冬，抑或不怕重走一遍求职路呢？ 
     </details> 
 
-- 🎡 [遵循Happens-Before规则来保证可见性|而非掌握所有底层](https://juejin.cn/post/7183292181531066425) | Sat Dec 31 2022 12:43 PM 
+- 🚀 [遵循Happens-Before规则来保证可见性|而非掌握所有底层](https://juejin.cn/post/7183292181531066425) | Sat Dec 31 2022 12:43 PM 
     <details><summary>展开描述 ...</summary> 
     基于JSR -133内存模型提出了happens-before的概念，通过这个概念来阐述操作之间的内存可见性。要保证可见性，就是遵守 Happens-Before 规则，合理的使用java提供的工具。 
     </details> 
 
-- 🕯 [算法笔记 -- 1576. 替换所有的问号](https://juejin.cn/post/7183279876844027963) | Sat Dec 31 2022 11:57 AM 
+- 💪 [算法笔记 -- 1576. 替换所有的问号](https://juejin.cn/post/7183279876844027963) | Sat Dec 31 2022 11:57 AM 
     <details><summary>展开描述 ...</summary> 
     开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第32天，点击查看活动详情 一、题目描述： 1576. 替换所有的问号 - 力扣（LeetCode） &lpar;leetcode-cn.co 
-    </details> 
-
-- 🚀 [SkyWalking 拓扑功能的性能优化](https://juejin.cn/post/7183251950027145271) | Sat Dec 31 2022 10:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    1. 增加查询的并行度，减少串行耗时。 2. 规避无效查询的触发，避免带来额外消耗。 3. 提升分片检索的命中，缩小检索分片数 
-    </details> 
-
-- 💪 [iOS老司机的2022年回顾, 展望2023聊聊学习的方法论&lt;&lt;人人都能用英语&gt;&gt;](https://juejin.cn/post/7183249800970633273) | Sat Dec 31 2022 10:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    作为一线开发人员, 学习一直围绕着我们的工作和生活中.有这样一个技能, 我们学习了十多年, 却很少人做到熟练使用, 那就是英语. 如何在不断地学习中做到事半功倍? 是否存在一种学习的方法论? 
     </details> 
 <!-- juejin:END -->
 ### 少数派
