@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [每一个 go 库都是精品，组合到一块儿就这么恶心](https://www.v2ex.com/t/905854#reply0) | Sat Dec 31 2022 3:34 PM
-- 🤗 [Chrome 团队 CrUX 发布了月度的最流行网站排名&lpar;top 百万&rpar;](https://www.v2ex.com/t/905852#reply3) | Sat Dec 31 2022 3:26 PM
-- 🎭 [想搞客户端， flutter 和 Swift 选一个，选哪个！](https://www.v2ex.com/t/905851#reply3) | Sat Dec 31 2022 3:24 PM
-- 🥷 [ef core 关联不上的属性默认是用 NULL 表示，怎么改成用 0 表示？（因为有一个运行了几年的 PHP 老系统用的是 0，要继承他的数据库）直接把默认值改成 0 的话会提示外键错误。](https://www.v2ex.com/t/905850#reply0) | Sat Dec 31 2022 3:14 PM
-- 🐵 [新的一年，大家有什么愿望吗](https://www.v2ex.com/t/905848#reply9) | Sat Dec 31 2022 3:08 PM<!-- v2ex:END -->
+- 🥸 [v 友们新年快乐](https://www.v2ex.com/t/905862#reply1) | Sat Dec 31 2022 4:30 PM
+- 🤗 [每一个 go 库都是精品，组合到一块儿就这么恶心](https://www.v2ex.com/t/905854#reply1) | Sat Dec 31 2022 3:34 PM
+- 🎭 [Chrome 团队 CrUX 发布了月度的最流行网站排名&lpar;top 百万&rpar;](https://www.v2ex.com/t/905852#reply7) | Sat Dec 31 2022 3:26 PM
+- 🥷 [想搞客户端， flutter 和 Swift 选一个，选哪个！](https://www.v2ex.com/t/905851#reply7) | Sat Dec 31 2022 3:24 PM
+- 🐵 [ef core 关联不上的属性默认是用 NULL 表示，怎么改成用 0 表示？（因为有一个运行了几年的 PHP 老系统用的是 0，要继承他的数据库）直接把默认值改成 0 的话会提示外键错误。](https://www.v2ex.com/t/905850#reply0) | Sat Dec 31 2022 3:14 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
