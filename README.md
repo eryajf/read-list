@@ -667,29 +667,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 1231](http://jandan.net/p/112049) | Sat Dec 31 2022 4:30 AM 
+- 🚀 [脑力小体操：无信任的信任算法](http://jandan.net/p/111504) | Sat Dec 31 2022 5:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    拜个早年 
+    </details> 
+
+- 🙉 [Quora：在泳装出现之前人们穿什么](http://jandan.net/p/112055) | Sat Dec 31 2022 5:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    什么也不穿。 
+    </details> 
+
+- 🎉 [2022年度，计算机科学最重要的成果](http://jandan.net/p/112044) | Sat Dec 31 2022 5:23 AM 
+    <details><summary>展开描述 ...</summary> 
+    计算机科学家的工作越来越跨学科：量子纠缠与量子计算，密码与数学，AI与应用算法 
+    </details> 
+
+- 🐲 [今日好价 1231](http://jandan.net/p/112049) | Sat Dec 31 2022 5:22 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：36 
     </details> 
 
-- 🙉 [Quora：时间是真实存在的吗？](http://jandan.net/p/112047) | Fri Dec 30 2022 5:25 AM 
+-  [能快速降低胆固醇的食物](http://jandan.net/p/112050) | Sat Dec 31 2022 5:21 AM 
     <details><summary>展开描述 ...</summary> 
-    对我们人类来说，它是真实的。 
-    </details> 
-
-- 🎉 [原来，泡沫泡泡的膜的温度显著低于周围环境](http://jandan.net/p/112046) | Fri Dec 30 2022 5:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    想一想泡沫，您会发现它们无处不在 
-    </details> 
-
-- 🐲 [看而不触：在没有相互作用的情况下进行测量](http://jandan.net/p/112041) | Fri Dec 30 2022 5:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    一种无需吸收和重新发射任何光波即可“看到”微波脉冲的方法 
-    </details> 
-
--  [高蛋白饮食健康吗？](http://jandan.net/p/112035) | Fri Dec 30 2022 5:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    我们以及地球的健康，可能会受到高蛋白饮食趋势的负面影响。 
+    并不一定包括减掉很多体重。 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
