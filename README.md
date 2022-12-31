@@ -695,28 +695,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Calliper - 文档内容比对神器，可以交叉比对Word和PDF](https://xinquji.com/posts/792397?utm_campaign=xinquji-rss) | Fri Dec 30 2022 7:22 AM 
+- 👀 [Grocery Delivery App Development - SpotnEats 为您开发定制的应用程序](https://xinquji.com/posts/792488?utm_campaign=xinquji-rss) | Sat Dec 31 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     文档内容比对神器，可以交叉比对Word和PDF  
+     SpotnEats 为您开发定制的应用程序  
     </details> 
 
-- 🥷 [UI8资源分享 - 收集互联网上的UI8资源，以小程序为载体进行免费分享。](https://xinquji.com/posts/792339?utm_campaign=xinquji-rss) | Fri Dec 30 2022 7:21 AM 
+- 🥷 [RCE-Blog - 用于网络的 Jupyter 笔记本](https://xinquji.com/posts/792487?utm_campaign=xinquji-rss) | Sat Dec 31 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     收集互联网上的UI8资源，以小程序为载体进行免费分享。  
+     用于网络的 Jupyter 笔记本  
     </details> 
 
-- 💼 [Chatter - 体育、时事或讨论的实时聊天](https://xinquji.com/posts/792472?utm_campaign=xinquji-rss) | Fri Dec 30 2022 6:00 AM 
+- 💼 [Monitorly - 获取有关 SSL 到期的实时警报](https://xinquji.com/posts/792486?utm_campaign=xinquji-rss) | Sat Dec 31 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     体育、时事或讨论的实时聊天  
+     获取有关 SSL 到期的实时警报  
     </details> 
 
-- 🦅 [Seam - 使用 Seam 搜索您最喜爱的品牌并发现新品牌](https://xinquji.com/posts/792471?utm_campaign=xinquji-rss) | Fri Dec 30 2022 6:00 AM 
+- 🦅 [Markers for Product Hunt - 向 Product Hunt 添加“标记为可见”按钮](https://xinquji.com/posts/792485?utm_campaign=xinquji-rss) | Sat Dec 31 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     使用 Seam 搜索您最喜爱的品牌并发现新品牌  
+     向 Product Hunt 添加“标记为可见”按钮  
     </details> 
 
-- 😺 [Wallet Guard - 安全浏览 web3](https://xinquji.com/posts/792470?utm_campaign=xinquji-rss) | Fri Dec 30 2022 6:00 AM 
+- 😺 [SuenaGringo AI - 帮助西班牙移民写出自然且引人入胜的英语](https://xinquji.com/posts/792484?utm_campaign=xinquji-rss) | Sat Dec 31 2022 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     安全浏览 web3  
+     帮助西班牙移民写出自然且引人入胜的英语  
     </details> 
 <!-- xinquji:END -->
