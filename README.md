@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [算法笔记 -- 1576. 替换所有的问号](https://juejin.cn/post/7183279876844027963) | Sat Dec 31 2022 11:57 AM 
+- 🤗 [这么做，你也可以开发JavaScript库！](https://juejin.cn/post/7183297220173627448) | Sat Dec 31 2022 1:04 PM 
+    <details><summary>展开描述 ...</summary> 
+    最近一年，互联网裁员现象愈演愈烈，很多大厂裁员的消息冲上了微博热搜，这不禁让很多程序员（包括我）心中焦虑。 我也时常在想，什么样的人能够抵御这场互联网寒冬，抑或不怕重走一遍求职路呢？ 
+    </details> 
+
+- 🎡 [遵循Happens-Before规则来保证可见性|而非掌握所有底层](https://juejin.cn/post/7183292181531066425) | Sat Dec 31 2022 12:43 PM 
+    <details><summary>展开描述 ...</summary> 
+    基于JSR -133内存模型提出了happens-before的概念，通过这个概念来阐述操作之间的内存可见性。要保证可见性，就是遵守 Happens-Before 规则，合理的使用java提供的工具。 
+    </details> 
+
+- 🕯 [算法笔记 -- 1576. 替换所有的问号](https://juejin.cn/post/7183279876844027963) | Sat Dec 31 2022 11:57 AM 
     <details><summary>展开描述 ...</summary> 
     开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第32天，点击查看活动详情 一、题目描述： 1576. 替换所有的问号 - 力扣（LeetCode） &lpar;leetcode-cn.co 
     </details> 
 
-- 🎡 [SkyWalking 拓扑功能的性能优化](https://juejin.cn/post/7183251950027145271) | Sat Dec 31 2022 10:06 AM 
+- 🚀 [SkyWalking 拓扑功能的性能优化](https://juejin.cn/post/7183251950027145271) | Sat Dec 31 2022 10:06 AM 
     <details><summary>展开描述 ...</summary> 
     1. 增加查询的并行度，减少串行耗时。 2. 规避无效查询的触发，避免带来额外消耗。 3. 提升分片检索的命中，缩小检索分片数 
     </details> 
 
-- 🕯 [iOS老司机的2022年回顾, 展望2023聊聊学习的方法论&lt;&lt;人人都能用英语&gt;&gt;](https://juejin.cn/post/7183249800970633273) | Sat Dec 31 2022 10:00 AM 
+- 💪 [iOS老司机的2022年回顾, 展望2023聊聊学习的方法论&lt;&lt;人人都能用英语&gt;&gt;](https://juejin.cn/post/7183249800970633273) | Sat Dec 31 2022 10:00 AM 
     <details><summary>展开描述 ...</summary> 
     作为一线开发人员, 学习一直围绕着我们的工作和生活中.有这样一个技能, 我们学习了十多年, 却很少人做到熟练使用, 那就是英语. 如何在不断地学习中做到事半功倍? 是否存在一种学习的方法论? 
-    </details> 
-
-- 🚀 [Java版管程：Synchronized](https://juejin.cn/post/7183247865441943608) | Sat Dec 31 2022 9:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    同步机制中有经典的管程方案，管程其实就是对共享变量以及其操作的封装： 1. 将共享资源封装起来，对外提供操作这些共享资源的方法。 2. 线程只能通过调用管程中的方法来间接地访问管程中的共享资源 
-    </details> 
-
-- 💪 [🎙️ 如何写好一篇新闻资讯稿?（时事政治篇）](https://juejin.cn/post/7183246710917824549) | Sat Dec 31 2022 9:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    写新闻/资讯（结构部分） 较为复杂的标题（额外扩展） 通俗的说，就是正题上面的一行小字是引题，正题下面的是副题。 相关案例 引题：经常在正题的上面 正题 副题 量大幅度增长“**。 副题还负有交代形势 
     </details> 
 <!-- juejin:END -->
 ### 少数派
