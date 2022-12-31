@@ -306,24 +306,24 @@
     12月29日至30日，京东集团联合多家生态社区伙伴共同举办2022京麒网络安全大会，大会主题“新格局、新理念、新安全”。 
     </details> 
 
-- 🦄 [黑客可以监听用户对话！谷歌 Home 音箱出现安全问题](https://www.freebuf.com/news/353938.html) | Fri Dec 30 2022 7:17 AM 
+- 🦄 [FreeBuf 周报 | 马斯克裁员75%后、推特出现全球宕机；攻击者窃取推特 4 亿数据并出售](https://www.freebuf.com/news/353948.html) | Fri Dec 30 2022 7:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    文章总结本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
+    </details> 
+
+- 🦅 [黑客可以监听用户对话！谷歌 Home 音箱出现安全问题](https://www.freebuf.com/news/353938.html) | Fri Dec 30 2022 7:17 AM 
     <details><summary>展开描述 ...</summary> 
     Google Home 智能音箱中出现一个安全漏洞，攻击者可以利用漏洞安装后门账户，远程控制音箱。 
     </details> 
 
-- 🦅 [LockBit被破解！日本警方已帮助3家企业恢复数据](https://www.freebuf.com/articles/353927.html) | Fri Dec 30 2022 6:13 AM 
+- 🪄 [LockBit被破解！日本警方已帮助3家企业恢复数据](https://www.freebuf.com/articles/353927.html) | Fri Dec 30 2022 6:13 AM 
     <details><summary>展开描述 ...</summary> 
     日本警察厅已成功解密由LockBit勒索软件组织加密的文件，帮助至少 3 家公司在没有支付赎金的情况下恢复了数据。 
     </details> 
 
-- 🪄 [马斯克疯狂裁员75%后，推特出现全球宕机](https://www.freebuf.com/news/353919.html) | Fri Dec 30 2022 5:39 AM 
+- 💻 [马斯克疯狂裁员75%后，推特出现全球宕机](https://www.freebuf.com/news/353919.html) | Fri Dec 30 2022 5:39 AM 
     <details><summary>展开描述 ...</summary> 
     上万名Twitter用户报告Twitter出现故障，用户无法访问该网站或使用其主要功能。 
-    </details> 
-
-- 💻 [FreeBuf早报 | 推特正经历全球性中断；谷歌智能音箱存在后门](https://www.freebuf.com/news/353885.html) | Thu Dec 29 2022 11:54 PM 
-    <details><summary>展开描述 ...</summary> 
-    12月29日，互联网监控器NetBlocks表示，“Twitter 正在经历全球性中断，影响包括移动应用程序、功能（含通知）”。 
     </details> 
 <!-- freebuf:END -->
 
