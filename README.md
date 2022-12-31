@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Chrome 打印的 PDF ，在使用了 Apple PDFKit 的软件里阅读会出现文字选中错位的问题，发现换字体可以解决。](https://www.v2ex.com/t/905792#reply0) | Sat Dec 31 2022 8:30 AM
-- 🤗 [很好奇，为何有人要关闭 win 的数字签名功能？](https://www.v2ex.com/t/905778#reply1) | Sat Dec 31 2022 6:54 AM
-- 🎭 [Win10 部分软件字体模糊，如何解决？](https://www.v2ex.com/t/905768#reply9) | Sat Dec 31 2022 5:41 AM
-- 🥷 [想买一台笔记本装 Linux ，必须有 6800H/125&lpar;7&rpar;00H， 32G 内存，指纹能用， LCD](https://www.v2ex.com/t/905767#reply19) | Sat Dec 31 2022 5:33 AM
-- 🐵 [求推荐音视频入门教程](https://www.v2ex.com/t/905762#reply2) | Sat Dec 31 2022 5:09 AM<!-- v2ex:END -->
+- 🥸 [没啥用的新发现，群晖 SHR 不同容量硬盘组全新阵列，可以！添加更小容量，不行！](https://www.v2ex.com/t/905809#reply0) | Sat Dec 31 2022 9:57 AM
+- 🤗 [系统开启 TRIM 指令后恢复固态硬盘删除数据](https://www.v2ex.com/t/905808#reply0) | Sat Dec 31 2022 9:57 AM
+- 🎭 [Chrome 打印的 PDF ，在使用了 Apple PDFKit 的软件里阅读会出现文字选中错位的问题，发现换字体可以解决。](https://www.v2ex.com/t/905792#reply0) | Sat Dec 31 2022 8:30 AM
+- 🥷 [很好奇，为何有人要关闭 win 的数字签名功能？](https://www.v2ex.com/t/905778#reply1) | Sat Dec 31 2022 6:54 AM
+- 🐵 [Win10 部分软件字体模糊，如何解决？](https://www.v2ex.com/t/905768#reply12) | Sat Dec 31 2022 5:41 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
