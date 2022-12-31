@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【进阶】logback之 AsyncAppender 的原理、源码及避坑建议](https://juejin.cn/post/7183174451021185085) | Sat Dec 31 2022 5:07 AM 
+- 🤗 [笑对过往、活在当下、期盼未来](https://juejin.cn/post/7183177056941768764) | Sat Dec 31 2022 5:18 AM 
+    <details><summary>展开描述 ...</summary> 
+    时至今日，年末将至，再次执笔已时隔一年，再不拿笔记录这转瞬的年华，时光的马车就又将我淹没在前进的车轮之中了。 
+    </details> 
+
+- 🎡 [【进阶】logback之 AsyncAppender 的原理、源码及避坑建议](https://juejin.cn/post/7183174451021185085) | Sat Dec 31 2022 5:07 AM 
     <details><summary>展开描述 ...</summary> 
     AsyncAppender 接收日志，放入其内部的一个阻塞队列，专开一个线程从阻塞队列中取数据&lpar;每次一个&rpar;丢给链路下游的如 FileAppender，把日志写盘 变成 日志写内存，减少写日志的 RT。 
     </details> 
 
-- 🎡 [算法笔记 -- 1431. 拥有最多糖果的孩子](https://juejin.cn/post/7183174023533035576) | Sat Dec 31 2022 5:05 AM 
+- 🕯 [算法笔记 -- 1431. 拥有最多糖果的孩子](https://juejin.cn/post/7183174023533035576) | Sat Dec 31 2022 5:05 AM 
     <details><summary>展开描述 ...</summary> 
     开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第32天，点击查看活动详情 一、题目描述： 1431. 拥有最多糖果的孩子 - 力扣（LeetCode） &lpar;leetcode-cn. 
     </details> 
 
-- 🕯 [算法笔记 -- 1313. 解压缩编码列表](https://juejin.cn/post/7183173133250560055) | Sat Dec 31 2022 5:02 AM 
+- 🚀 [算法笔记 -- 1313. 解压缩编码列表](https://juejin.cn/post/7183173133250560055) | Sat Dec 31 2022 5:02 AM 
     <details><summary>展开描述 ...</summary> 
     开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第32天，点击查看活动详情 一、题目描述： 1313. 解压缩编码列表 给你一个以行程长度编码压缩的整数列表 nums 。 考虑每对 
     </details> 
 
-- 🚀 [单点登录SSO原理简析与接入实践](https://juejin.cn/post/7183169538702180408) | Sat Dec 31 2022 4:47 AM 
+- 💪 [单点登录SSO原理简析与接入实践](https://juejin.cn/post/7183169538702180408) | Sat Dec 31 2022 4:47 AM 
     <details><summary>展开描述 ...</summary> 
     大家好，我是前端小冯。这是2022年的最后一篇文章，希望对你有帮助。 背景 在企业发展初期，企业使用的系统很少，通常一个或者两个，每个系统都有自己的登录模块，运营人员每天用自己的账号登录，很方便。但随 
-    </details> 
-
-- 💪 [【进阶】logback之 RollingFileAppender 的原理及避坑建议](https://juejin.cn/post/7183152831677857847) | Sat Dec 31 2022 3:44 AM 
-    <details><summary>展开描述 ...</summary> 
-    buffer ：通俗来说就是化零为整，把少量多次变成多量少次；具体来说就是进行流量整形，把突发的大数量较小规模的 I/O 整理成平稳的小数量较大规模的 I/O，以减少响应次数 
     </details> 
 <!-- juejin:END -->
 ### 少数派
