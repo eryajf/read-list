@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [这下 zlib 真的寿终正寝了](https://www.v2ex.com/t/905820#reply9) | Sat Dec 31 2022 11:34 AM
-- 🤗 [年末，分享下我在 vim 下的中文输入方案](https://www.v2ex.com/t/905814#reply4) | Sat Dec 31 2022 11:04 AM
-- 🎭 [美国，澳洲，加拿大，都用什么主流的编程语言？](https://www.v2ex.com/t/905812#reply15) | Sat Dec 31 2022 10:53 AM
-- 🥷 [没啥用的新发现，群晖 SHR 不同容量硬盘组全新阵列，可以！添加更小容量，不行！](https://www.v2ex.com/t/905809#reply1) | Sat Dec 31 2022 9:57 AM
-- 🐵 [系统开启 TRIM 指令后恢复固态硬盘删除数据](https://www.v2ex.com/t/905808#reply0) | Sat Dec 31 2022 9:57 AM<!-- v2ex:END -->
+- 🥸 [AWS ECR 是否有 P2P 加速镜像下载功能？](https://www.v2ex.com/t/905831#reply0) | Sat Dec 31 2022 1:05 PM
+- 🤗 [这下 zlib 真的寿终正寝了](https://www.v2ex.com/t/905820#reply12) | Sat Dec 31 2022 11:34 AM
+- 🎭 [年末，分享下我在 vim 下的中文输入方案](https://www.v2ex.com/t/905814#reply8) | Sat Dec 31 2022 11:04 AM
+- 🥷 [美国，澳洲，加拿大，都用什么主流的编程语言？](https://www.v2ex.com/t/905812#reply22) | Sat Dec 31 2022 10:53 AM
+- 🐵 [没啥用的新发现，群晖 SHR 不同容量硬盘组全新阵列，可以！添加更小容量，不行！](https://www.v2ex.com/t/905809#reply1) | Sat Dec 31 2022 9:57 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
