@@ -398,11 +398,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯·如何正确地吐槽](https://daily.zhihu.com/story/9756688) | Fri Dec 30 2022 12:27 AM
-- 🐻 [为什么人体的温度不设置的高一点使病毒、癌细胞失活？](https://daily.zhihu.com/story/9756671) | Fri Dec 30 2022 12:27 AM
-- 🌏 [为什么人们潜意识里的「未来」或「高科技」是以蓝色为主色调的？](https://daily.zhihu.com/story/9756673) | Fri Dec 30 2022 12:27 AM
-- 🕴 [电影里把大量毒品冲进下水道，会造成什么影响？](https://daily.zhihu.com/story/9756675) | Fri Dec 30 2022 12:27 AM
-- 🌮 [乒乓球发球的落点为什么是对称的？](https://daily.zhihu.com/story/9756684) | Fri Dec 30 2022 12:27 AM<!-- zhihu:END -->
+- 🤩 [人类活动对地球影响几乎可以忽略不计，现在的极端天气不过是地球正常的运行周期，是这样吗?](https://daily.zhihu.com/story/9756690) | Sat Dec 31 2022 12:27 AM
+- 🐻 [中国邮政兔年邮票遭吐槽，网友称「想起童年阴影」，官网阐释「为了展现童稚和纯真」，如何看待此形象设计？](https://daily.zhihu.com/story/9756695) | Sat Dec 31 2022 12:27 AM
+- 🌏 [《回来的女儿》第二集中播放的《魔方大厦》是第几集，说的什么内容？](https://daily.zhihu.com/story/9756703) | Sat Dec 31 2022 12:27 AM
+- 🕴 [中国古代的帆船的速度一般是多少？那逆风的速度呢？](https://daily.zhihu.com/story/9756704) | Sat Dec 31 2022 12:27 AM
+- 🌮 [AIGC 将如何变革内容创作行业？](https://daily.zhihu.com/story/9756708) | Sat Dec 31 2022 12:27 AM<!-- zhihu:END -->
 
 
 ## 应用资源
