@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [SwitchResX for Mac&lpar;屏幕分辨率修改工具&rpar;](https://juejin.cn/post/7183214906856964153) | Sat Dec 31 2022 7:44 AM 
+- 🤗 [【kubernetes入门到精通】Kubernetes的健康监测机制以及常见ExitCode问题分析「探索篇」](https://juejin.cn/post/7183231458889171004) | Sat Dec 31 2022 8:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    kubernetes进行Killed我们服务的问题背景 无论是在微服务体系还是云原生体系的开发迭代过程中，通常都会以Kubernetes进行容器化部署，但是这也往往带来了很多意外的场景和情况。例如，虽 
+    </details> 
+
+- 🎡 [算法 | 寻找距离整数num最近的2的某次方](https://juejin.cn/post/7183231141124669499) | Sat Dec 31 2022 8:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第35天，本文主要介绍如何寻找距离int型整数num最近的2的某次方。 
+    </details> 
+
+- 🕯 [从 0 搭建一个 mini-vue 项目（二）：初见 reactivity 模块](https://juejin.cn/post/7183223303031488572) | Sat Dec 31 2022 8:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 从本章开始我们将开始实现 Vue3 中的 reactivity 模块 接下来我们看一段代码： 上面的代码很简单大家应该也都会写，最终的效果就是视图中的 张三 在 2 秒钟之后变成了 李四。但是大 
+    </details> 
+
+- 🚀 [SwitchResX for Mac&lpar;屏幕分辨率修改工具&rpar;](https://juejin.cn/post/7183214906856964153) | Sat Dec 31 2022 7:44 AM 
     <details><summary>展开描述 ...</summary> 
     Mac哪款屏幕分辨率修改工具好用呢？switchresx mac是一款非常实用的Mac屏幕分辨率修改器，能够简单快速的更改Mac显示屏的分辨率，将Mac的内容显示在不同的屏幕上。switchresX  
     </details> 
 
-- 🎡 [Go 1.20要来了，看看都有哪些变化-终结篇](https://juejin.cn/post/7183213965303316536) | Sat Dec 31 2022 7:42 AM 
+- 💪 [Go 1.20要来了，看看都有哪些变化-终结篇](https://juejin.cn/post/7183213965303316536) | Sat Dec 31 2022 7:42 AM 
     <details><summary>展开描述 ...</summary> 
     Go官方团队在2022.12.08发布了Go 1.20 rc1&lpar;release candidate&rpar;版本，Go 1.20的正式release版本预计会在2023年2月份发布。 让我们先睹为快，看 
-    </details> 
-
-- 🕯 [避免重排序之使用 Volatile 关键字](https://juejin.cn/post/7183214018159444005) | Sat Dec 31 2022 7:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    volatile 关键字本身就包含了禁止指令重排序的语义,仅保证赋值过程的原子性，保障变量的可见性，但不具备排它性 
-    </details> 
-
-- 🚀 [JS 简单的操作杆旋转实现](https://juejin.cn/post/7183209529675350077) | Sat Dec 31 2022 7:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    废话开篇：JS 简单的操作杆旋转实现 一、实现效果 首先说明一下，请直接忽略背景图，这里主要实现的是杆旋转控制方向盘旋转。 鼠标移出控制区域，控制球复位 二、组成部分 创建 ballOption.js 
-    </details> 
-
-- 💪 [Electron + React应用如何实现多窗口数据共享](https://juejin.cn/post/7183201422509506617) | Sat Dec 31 2022 6:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    父子窗口的通信不要再只会window.opener或者postmessage啦，快来试试这种更简单的方式吧 
     </details> 
 <!-- juejin:END -->
 ### 少数派
