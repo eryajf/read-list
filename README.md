@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Electron + React应用如何实现多窗口数据共享](https://juejin.cn/post/7183201422509506617) | Sat Dec 31 2022 6:54 AM 
+- 🤗 [SwitchResX for Mac&lpar;屏幕分辨率修改工具&rpar;](https://juejin.cn/post/7183214906856964153) | Sat Dec 31 2022 7:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    Mac哪款屏幕分辨率修改工具好用呢？switchresx mac是一款非常实用的Mac屏幕分辨率修改器，能够简单快速的更改Mac显示屏的分辨率，将Mac的内容显示在不同的屏幕上。switchresX  
+    </details> 
+
+- 🎡 [Go 1.20要来了，看看都有哪些变化-终结篇](https://juejin.cn/post/7183213965303316536) | Sat Dec 31 2022 7:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    Go官方团队在2022.12.08发布了Go 1.20 rc1&lpar;release candidate&rpar;版本，Go 1.20的正式release版本预计会在2023年2月份发布。 让我们先睹为快，看 
+    </details> 
+
+- 🕯 [避免重排序之使用 Volatile 关键字](https://juejin.cn/post/7183214018159444005) | Sat Dec 31 2022 7:41 AM 
+    <details><summary>展开描述 ...</summary> 
+    volatile 关键字本身就包含了禁止指令重排序的语义,仅保证赋值过程的原子性，保障变量的可见性，但不具备排它性 
+    </details> 
+
+- 🚀 [JS 简单的操作杆旋转实现](https://juejin.cn/post/7183209529675350077) | Sat Dec 31 2022 7:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    废话开篇：JS 简单的操作杆旋转实现 一、实现效果 首先说明一下，请直接忽略背景图，这里主要实现的是杆旋转控制方向盘旋转。 鼠标移出控制区域，控制球复位 二、组成部分 创建 ballOption.js 
+    </details> 
+
+- 💪 [Electron + React应用如何实现多窗口数据共享](https://juejin.cn/post/7183201422509506617) | Sat Dec 31 2022 6:54 AM 
     <details><summary>展开描述 ...</summary> 
     父子窗口的通信不要再只会window.opener或者postmessage啦，快来试试这种更简单的方式吧 
-    </details> 
-
-- 🎡 [运行期重排序：内存系统的重排序](https://juejin.cn/post/7183198513625301049) | Sat Dec 31 2022 6:40 AM 
-    <details><summary>展开描述 ...</summary> 
-    CPU提供内存屏障指令，来解决内存系重排序。读屏障清空本地的invalidate queue保证之前的所有load都已经生效；写屏障清空本地的store buffer，使得之前的所有store操作生效 
-    </details> 
-
-- 🕯 [从 0 搭建一个 mini-vue 项目（一）：搭建框架雏形](https://juejin.cn/post/7183194456315658299) | Sat Dec 31 2022 6:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 本系列文章旨在通过学习阅读解析 vue3 源码，来实现并产出一个 精简版的 vue 库 小励志一下：阅读源码的过程会是痛苦的，但这一步总是要迈出去的，如果我们能咬牙坚持到最后，回过头会发现，其实 
-    </details> 
-
-- 🚀 [Lightroom Classic 2022 for Mac&lpar;LrC中文版&rpar;](https://juejin.cn/post/7183194856271904828) | Sat Dec 31 2022 6:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    Lightroom Classic 2022是一款桌面照片编辑和管理软件，照片后期处理软件，数码摄影师必备工具，主要面向数码摄影师、图形设计等专业人士和高端用户，以及所有喜好拍照、需要拍照的人群，支持 
-    </details> 
-
-- 💪 [MacDroid for mac&lpar;安卓设备文件传输助手&rpar;](https://juejin.cn/post/7183194254586413114) | Sat Dec 31 2022 6:23 AM 
-    <details><summary>展开描述 ...</summary> 
-    MacDroid for mac版是一款帮助用户在mac安卓手机数据传输助手，由于 Mac OS X 本身并不支持 MTP 协议，所以通过 USB 将 Android 设备连接到 Mac 电脑上是无法 
     </details> 
 <!-- juejin:END -->
 ### 少数派
