@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [笑对过往、活在当下、期盼未来](https://juejin.cn/post/7183177056941768764) | Sat Dec 31 2022 5:18 AM 
+- 🤗 [Electron + React应用如何实现多窗口数据共享](https://juejin.cn/post/7183201422509506617) | Sat Dec 31 2022 6:54 AM 
     <details><summary>展开描述 ...</summary> 
-    时至今日，年末将至，再次执笔已时隔一年，再不拿笔记录这转瞬的年华，时光的马车就又将我淹没在前进的车轮之中了。 
+    父子窗口的通信不要再只会window.opener或者postmessage啦，快来试试这种更简单的方式吧 
     </details> 
 
-- 🎡 [【进阶】logback之 AsyncAppender 的原理、源码及避坑建议](https://juejin.cn/post/7183174451021185085) | Sat Dec 31 2022 5:07 AM 
+- 🎡 [运行期重排序：内存系统的重排序](https://juejin.cn/post/7183198513625301049) | Sat Dec 31 2022 6:40 AM 
     <details><summary>展开描述 ...</summary> 
-    AsyncAppender 接收日志，放入其内部的一个阻塞队列，专开一个线程从阻塞队列中取数据&lpar;每次一个&rpar;丢给链路下游的如 FileAppender，把日志写盘 变成 日志写内存，减少写日志的 RT。 
+    CPU提供内存屏障指令，来解决内存系重排序。读屏障清空本地的invalidate queue保证之前的所有load都已经生效；写屏障清空本地的store buffer，使得之前的所有store操作生效 
     </details> 
 
-- 🕯 [算法笔记 -- 1431. 拥有最多糖果的孩子](https://juejin.cn/post/7183174023533035576) | Sat Dec 31 2022 5:05 AM 
+- 🕯 [从 0 搭建一个 mini-vue 项目（一）：搭建框架雏形](https://juejin.cn/post/7183194456315658299) | Sat Dec 31 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第32天，点击查看活动详情 一、题目描述： 1431. 拥有最多糖果的孩子 - 力扣（LeetCode） &lpar;leetcode-cn. 
+    前言 本系列文章旨在通过学习阅读解析 vue3 源码，来实现并产出一个 精简版的 vue 库 小励志一下：阅读源码的过程会是痛苦的，但这一步总是要迈出去的，如果我们能咬牙坚持到最后，回过头会发现，其实 
     </details> 
 
-- 🚀 [算法笔记 -- 1313. 解压缩编码列表](https://juejin.cn/post/7183173133250560055) | Sat Dec 31 2022 5:02 AM 
+- 🚀 [Lightroom Classic 2022 for Mac&lpar;LrC中文版&rpar;](https://juejin.cn/post/7183194856271904828) | Sat Dec 31 2022 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-    开启掘金成长之旅！这是我参与「掘金日新计划 · 12 月更文挑战」的第32天，点击查看活动详情 一、题目描述： 1313. 解压缩编码列表 给你一个以行程长度编码压缩的整数列表 nums 。 考虑每对 
+    Lightroom Classic 2022是一款桌面照片编辑和管理软件，照片后期处理软件，数码摄影师必备工具，主要面向数码摄影师、图形设计等专业人士和高端用户，以及所有喜好拍照、需要拍照的人群，支持 
     </details> 
 
-- 💪 [单点登录SSO原理简析与接入实践](https://juejin.cn/post/7183169538702180408) | Sat Dec 31 2022 4:47 AM 
+- 💪 [MacDroid for mac&lpar;安卓设备文件传输助手&rpar;](https://juejin.cn/post/7183194254586413114) | Sat Dec 31 2022 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是前端小冯。这是2022年的最后一篇文章，希望对你有帮助。 背景 在企业发展初期，企业使用的系统很少，通常一个或者两个，每个系统都有自己的登录模块，运营人员每天用自己的账号登录，很方便。但随 
+    MacDroid for mac版是一款帮助用户在mac安卓手机数据传输助手，由于 Mac OS X 本身并不支持 MTP 协议，所以通过 USB 将 Android 设备连接到 Mac 电脑上是无法 
     </details> 
 <!-- juejin:END -->
 ### 少数派
