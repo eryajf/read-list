@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [求推荐音视频入门教程](https://www.v2ex.com/t/905762#reply1) | Sat Dec 31 2022 5:09 AM
-- 🤗 [HCIE IGP 高级特性 OSPF 快速收敛/路由控制](https://www.v2ex.com/t/905756#reply0) | Sat Dec 31 2022 4:27 AM
-- 🎭 [求个免费的抖音推流码获取工具](https://www.v2ex.com/t/905748#reply2) | Sat Dec 31 2022 3:22 AM
-- 🥷 [求 Linux 的跳转代码](https://www.v2ex.com/t/905744#reply6) | Sat Dec 31 2022 2:57 AM
-- 🐵 [学习用纯 C++ 11 命令行编辑器——lightpad](https://www.v2ex.com/t/905741#reply0) | Sat Dec 31 2022 2:45 AM<!-- v2ex:END -->
+- 🥸 [Win10 部分软件字体模糊，如何解决？](https://www.v2ex.com/t/905768#reply0) | Sat Dec 31 2022 5:41 AM
+- 🤗 [想买一台笔记本装 Linux ，必须有 6800H/125&lpar;7&rpar;00H， 32G 内存，指纹能用， LCD](https://www.v2ex.com/t/905767#reply2) | Sat Dec 31 2022 5:33 AM
+- 🎭 [求推荐音视频入门教程](https://www.v2ex.com/t/905762#reply2) | Sat Dec 31 2022 5:09 AM
+- 🥷 [HCIE IGP 高级特性 OSPF 快速收敛/路由控制](https://www.v2ex.com/t/905756#reply1) | Sat Dec 31 2022 4:27 AM
+- 🐵 [求个免费的抖音推流码获取工具](https://www.v2ex.com/t/905748#reply2) | Sat Dec 31 2022 3:22 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
