@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [学习积累🌄🌄🌄](https://juejin.cn/post/7183558014123638842) | Sun Jan 01 2023 5:54 AM 
+- 🤗 [中二魔法使的2022年终总结](https://juejin.cn/post/7183575941988220983) | Sun Jan 01 2023 7:05 AM 
+    <details><summary>展开描述 ...</summary> 
+    呀哈喽！这里是alphardex。 一年是如此的短暂，是时候来场总结了。让我们在新的一年里继续加油！ 
+    </details> 
+
+- 🎡 [React Docs 2023 进阶版](https://juejin.cn/post/7183571094199074875) | Sun Jan 01 2023 6:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    新年快乐！React Docs 官方文档 2023 进阶版。 从 React Docs 中学到的知识 
+    </details> 
+
+- 🕯 [学习积累🌄🌄🌄](https://juejin.cn/post/7183558014123638842) | Sun Jan 01 2023 5:54 AM 
     <details><summary>展开描述 ...</summary> 
     前端学习知识点： 2022-12-27更： 手撕题参考网站： 前端面试题之手写代码篇 前端知识复习网站1： 前端进阶之旅 前端知识复习网站2： 前端面试题之Vue篇 前端知识复习网站3： web前端面 
     </details> 
 
-- 🎡 [【JVM故障问题排查心得】「内存诊断系列」Xmx和Xms的大小是小于Docker容器以及Pod的大小的，为啥还是会出现OOMKilled？](https://juejin.cn/post/7183549109025013815) | Sun Jan 01 2023 5:22 AM 
+- 🚀 [[React 源码] useRef  [1.4k 字 - 阅读时长3min]](https://juejin.cn/post/7183549932370919481) | Sun Jan 01 2023 5:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    如果我们想让 ref.current 修改的时候页面刷新，该怎么办，笔者的想法是 通过 Object.definedProperty 中定义 settter getter ，修改的时候 调 
+    </details> 
+
+- 💪 [【JVM故障问题排查心得】「内存诊断系列」Xmx和Xms的大小是小于Docker容器以及Pod的大小的，为啥还是会出现OOMKilled？](https://juejin.cn/post/7183549109025013815) | Sun Jan 01 2023 5:22 AM 
     <details><summary>展开描述 ...</summary> 
     为什么我设置的大小关系没有错，还会OOMKilled？ 这种问题常发生在JDK8u131或者JDK9版本之后所出现在容器中运行JVM的问题：在大多数情况下，JVM将一般默认会采用宿主机Node节点的内 
-    </details> 
-
-- 🕯 [2022掘金年度技术创作者榜单](https://juejin.cn/post/7183531339256660024) | Sun Jan 01 2023 4:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    正值 2022 年结尾，掘金举办《2022年度创作者打榜》活动，让我们程序员狂欢的同时，其实也让优秀的开发者和团队，出现在大众的视野，出现在闪烁光芒的舞台舞台上！ 
-    </details> 
-
-- 🚀 [React Docs 2023 ADVANCED](https://juejin.cn/post/7183513290104897595) | Sun Jan 01 2023 3:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    React Docs 2023 ADVANCED Learn and Reference from React Docs Beta 
-    </details> 
-
-- 💪 [2022年终总结：路虽远，行则将至](https://juejin.cn/post/7183511879988281403) | Sun Jan 01 2023 3:01 AM 
-    <details><summary>展开描述 ...</summary> 
-    转眼间，又是过完一年，翻了一下去年的年终总结，开始续写今年的年终总结。凡是过往皆为序章，年终总结的意义，首先在于复盘，整体回顾一 
     </details> 
 <!-- juejin:END -->
 ### 少数派
