@@ -333,10 +333,10 @@
 
 <!-- v2ex:START -->
 - 🥸 [如何学习 B 端常见系统/模块建模？](https://www.v2ex.com/t/905975#reply1) | Sun Jan 01 2023 2:07 PM
-- 🤗 [2022 年终总结：不上班 700 多天，我得到了个寂寞，你呢？](https://www.v2ex.com/t/905969#reply20) | Sun Jan 01 2023 1:38 PM
+- 🤗 [2022 年终总结：不上班 700 多天，我得到了个寂寞，你呢？](https://www.v2ex.com/t/905969#reply21) | Sun Jan 01 2023 1:38 PM
 - 🎭 [现在 MacOS Ventura 稳定性如何](https://www.v2ex.com/t/905960#reply7) | Sun Jan 01 2023 12:24 PM
 - 🥷 [收到了一条有点诡异的邮件](https://www.v2ex.com/t/905959#reply4) | Sun Jan 01 2023 12:19 PM
-- 🐵 [组件命名求建议，想了很多名字总觉得不能很好地表达业务含义。](https://www.v2ex.com/t/905958#reply0) | Sun Jan 01 2023 12:15 PM<!-- v2ex:END -->
+- 🐵 [组件命名求建议，想了很多名字总觉得不能很好地表达业务含义。](https://www.v2ex.com/t/905958#reply1) | Sun Jan 01 2023 12:15 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
