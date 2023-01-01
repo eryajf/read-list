@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Python 折腾 web 交互的痛](https://www.v2ex.com/t/905941#reply6) | Sun Jan 01 2023 9:49 AM
-- 🤗 [请教一个关于 Windows 备份恢复的问题](https://www.v2ex.com/t/905918#reply2) | Sun Jan 01 2023 7:00 AM
-- 🎭 [这几年来，感觉人生毫无出路](https://www.v2ex.com/t/905915#reply27) | Sun Jan 01 2023 6:38 AM
-- 🥷 [win11 重装后，权限问题](https://www.v2ex.com/t/905911#reply5) | Sun Jan 01 2023 4:53 AM
-- 🐵 [如何打造云主机和家里服务器的 K3S 集群](https://www.v2ex.com/t/905909#reply8) | Sun Jan 01 2023 4:39 AM<!-- v2ex:END -->
+- 🥸 [请问小米或者红米手机刷国际版 rom，用电信卡和原来有区别吗？](https://www.v2ex.com/t/905949#reply0) | Sun Jan 01 2023 10:54 AM
+- 🤗 [Python 折腾 web 交互的痛](https://www.v2ex.com/t/905941#reply8) | Sun Jan 01 2023 9:49 AM
+- 🎭 [请教一个关于 Windows 备份恢复的问题](https://www.v2ex.com/t/905918#reply2) | Sun Jan 01 2023 7:00 AM
+- 🥷 [这几年来，感觉人生毫无出路](https://www.v2ex.com/t/905915#reply29) | Sun Jan 01 2023 6:38 AM
+- 🐵 [win11 重装后，权限问题](https://www.v2ex.com/t/905911#reply5) | Sun Jan 01 2023 4:53 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
