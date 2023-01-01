@@ -695,28 +695,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Grocery Delivery App Development - SpotnEats 为您开发定制的应用程序](https://xinquji.com/posts/792488?utm_campaign=xinquji-rss) | Sat Dec 31 2022 6:00 AM 
+- 👀 [India GK Quiz - 以有趣的方式学习和测试有关印度的知识](https://xinquji.com/posts/792508?utm_campaign=xinquji-rss) | Mon Jan 02 2023 6:13 AM 
     <details><summary>展开描述 ...</summary> 
-     SpotnEats 为您开发定制的应用程序  
+     以有趣的方式学习和测试有关印度的知识  
     </details> 
 
-- 🥷 [RCE-Blog - 用于网络的 Jupyter 笔记本](https://xinquji.com/posts/792487?utm_campaign=xinquji-rss) | Sat Dec 31 2022 6:00 AM 
+- 🥷 [Cachy - 查找、连接、交谈和共享，1-1 音频和视频空间](https://xinquji.com/posts/792507?utm_campaign=xinquji-rss) | Sun Jan 01 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     用于网络的 Jupyter 笔记本  
+     查找、连接、交谈和共享，1-1 音频和视频空间  
     </details> 
 
-- 💼 [Monitorly - 获取有关 SSL 到期的实时警报](https://xinquji.com/posts/792486?utm_campaign=xinquji-rss) | Sat Dec 31 2022 6:00 AM 
+- 💼 [The Wrestle Break - 您的一站式了解所有摔跤的最新信息](https://xinquji.com/posts/792506?utm_campaign=xinquji-rss) | Sun Jan 01 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     获取有关 SSL 到期的实时警报  
+     您的一站式了解所有摔跤的最新信息  
     </details> 
 
-- 🦅 [Markers for Product Hunt - 向 Product Hunt 添加“标记为可见”按钮](https://xinquji.com/posts/792485?utm_campaign=xinquji-rss) | Sat Dec 31 2022 6:00 AM 
+- 🦅 [CantoCards - 通过间隔重复学习粤语字符和阅读](https://xinquji.com/posts/792505?utm_campaign=xinquji-rss) | Sun Jan 01 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     向 Product Hunt 添加“标记为可见”按钮  
+     通过间隔重复学习粤语字符和阅读  
     </details> 
 
-- 😺 [SuenaGringo AI - 帮助西班牙移民写出自然且引人入胜的英语](https://xinquji.com/posts/792484?utm_campaign=xinquji-rss) | Sat Dec 31 2022 6:00 AM 
+- 😺 [TickerTracker - 通过深入的数据增强您的投资策略](https://xinquji.com/posts/792504?utm_campaign=xinquji-rss) | Sun Jan 01 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     帮助西班牙移民写出自然且引人入胜的英语  
+     通过深入的数据增强您的投资策略  
     </details> 
 <!-- xinquji:END -->
