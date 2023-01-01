@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [中二魔法使的2022年终总结](https://juejin.cn/post/7183575941988220983) | Sun Jan 01 2023 7:05 AM 
+- 🤗 [OpenTelemetry系列 （五）｜ OpenTelemetry Java Instrumentation二次开发指南](https://juejin.cn/post/7183580820026687525) | Sun Jan 01 2023 7:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 我们上一章介绍了OpenTelemetry Java Instrumentation的使用，但是那些都是一些基本的使用，如果有一些自定义的功能，还是需要一些开发工作。本章节将以保姆级教程来介绍一 
+    </details> 
+
+- 🎡 [状态模式，从老生常谈的开关案例说起](https://juejin.cn/post/7183578736149659685) | Sun Jan 01 2023 7:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    状态模式，指的是事物内部状态的变化，会导致事物具体行为的变化。并且，状态的切换可以是循环的。最简单的例子是生活中的开关，基本都是状态模式的使用。 
+    </details> 
+
+- 🕯 [中二魔法使的2022年终总结](https://juejin.cn/post/7183575941988220983) | Sun Jan 01 2023 7:05 AM 
     <details><summary>展开描述 ...</summary> 
     呀哈喽！这里是alphardex。 一年是如此的短暂，是时候来场总结了。让我们在新的一年里继续加油！ 
     </details> 
 
-- 🎡 [React Docs 2023 进阶版](https://juejin.cn/post/7183571094199074875) | Sun Jan 01 2023 6:49 AM 
+- 🚀 [React Docs 2023 进阶版](https://juejin.cn/post/7183571094199074875) | Sun Jan 01 2023 6:49 AM 
     <details><summary>展开描述 ...</summary> 
     新年快乐！React Docs 官方文档 2023 进阶版。 从 React Docs 中学到的知识 
     </details> 
 
-- 🕯 [学习积累🌄🌄🌄](https://juejin.cn/post/7183558014123638842) | Sun Jan 01 2023 5:54 AM 
+- 💪 [学习积累🌄🌄🌄](https://juejin.cn/post/7183558014123638842) | Sun Jan 01 2023 5:54 AM 
     <details><summary>展开描述 ...</summary> 
     前端学习知识点： 2022-12-27更： 手撕题参考网站： 前端面试题之手写代码篇 前端知识复习网站1： 前端进阶之旅 前端知识复习网站2： 前端面试题之Vue篇 前端知识复习网站3： web前端面 
-    </details> 
-
-- 🚀 [[React 源码] useRef  [1.4k 字 - 阅读时长3min]](https://juejin.cn/post/7183549932370919481) | Sun Jan 01 2023 5:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    如果我们想让 ref.current 修改的时候页面刷新，该怎么办，笔者的想法是 通过 Object.definedProperty 中定义 settter getter ，修改的时候 调 
-    </details> 
-
-- 💪 [【JVM故障问题排查心得】「内存诊断系列」Xmx和Xms的大小是小于Docker容器以及Pod的大小的，为啥还是会出现OOMKilled？](https://juejin.cn/post/7183549109025013815) | Sun Jan 01 2023 5:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    为什么我设置的大小关系没有错，还会OOMKilled？ 这种问题常发生在JDK8u131或者JDK9版本之后所出现在容器中运行JVM的问题：在大多数情况下，JVM将一般默认会采用宿主机Node节点的内 
     </details> 
 <!-- juejin:END -->
 ### 少数派
