@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2022掘金年度技术创作者榜单](https://juejin.cn/post/7183531339256660024) | Sun Jan 01 2023 4:11 AM 
+- 🤗 [学习积累🌄🌄🌄](https://juejin.cn/post/7183558014123638842) | Sun Jan 01 2023 5:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    前端学习知识点： 2022-12-27更： 手撕题参考网站： 前端面试题之手写代码篇 前端知识复习网站1： 前端进阶之旅 前端知识复习网站2： 前端面试题之Vue篇 前端知识复习网站3： web前端面 
+    </details> 
+
+- 🎡 [【JVM故障问题排查心得】「内存诊断系列」Xmx和Xms的大小是小于Docker容器以及Pod的大小的，为啥还是会出现OOMKilled？](https://juejin.cn/post/7183549109025013815) | Sun Jan 01 2023 5:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    为什么我设置的大小关系没有错，还会OOMKilled？ 这种问题常发生在JDK8u131或者JDK9版本之后所出现在容器中运行JVM的问题：在大多数情况下，JVM将一般默认会采用宿主机Node节点的内 
+    </details> 
+
+- 🕯 [2022掘金年度技术创作者榜单](https://juejin.cn/post/7183531339256660024) | Sun Jan 01 2023 4:11 AM 
     <details><summary>展开描述 ...</summary> 
     正值 2022 年结尾，掘金举办《2022年度创作者打榜》活动，让我们程序员狂欢的同时，其实也让优秀的开发者和团队，出现在大众的视野，出现在闪烁光芒的舞台舞台上！ 
     </details> 
 
-- 🎡 [React Docs 2023 ADVANCED](https://juejin.cn/post/7183513290104897595) | Sun Jan 01 2023 3:04 AM 
+- 🚀 [React Docs 2023 ADVANCED](https://juejin.cn/post/7183513290104897595) | Sun Jan 01 2023 3:04 AM 
     <details><summary>展开描述 ...</summary> 
     React Docs 2023 ADVANCED Learn and Reference from React Docs Beta 
     </details> 
 
-- 🕯 [第三十章 使用系统监视器 - 编写用户定义的应用程序监视器类](https://juejin.cn/post/7183471312596107301) | Sun Jan 01 2023 12:19 AM 
+- 💪 [2022年终总结：路虽远，行则将至](https://juejin.cn/post/7183511879988281403) | Sun Jan 01 2023 3:01 AM 
     <details><summary>展开描述 ...</summary> 
-    第三十章 使用系统监视器 - 编写用户定义的应用程序监视器类 编写用户定义的应用程序监视器类 除了提供的系统类之外，还可以编写监视器类和示例类来监视用户应用程序数据和计数器。 监视器类是从抽象的监视器 
-    </details> 
-
-- 🚀 [纵有疾风起，Petterp与他的2022](https://juejin.cn/post/7183365892623826999) | Sat Dec 31 2022 5:29 PM 
-    <details><summary>展开描述 ...</summary> 
-    每逢年末，都要来聊一聊关于今年的各种事情，本篇聊一聊一个普通Android开发的2022，希望我的经历，对你也会有所帮助:&rpar; 
-    </details> 
-
-- 💪 [死月的二零二二总结](https://juejin.cn/post/7183349257825910821) | Sat Dec 31 2022 4:24 PM 
-    <details><summary>展开描述 ...</summary> 
-    今年的工作有了一定的变化。我又重新开始带团队了，虽然还是大头兵的那种，不过相比起来，多年前在大搜车时简直就是过家家，只是对大家进行任务的分配，连项目管理都算不上。角色的转变，让我又强行从舒适区中拔出来 
+    转眼间，又是过完一年，翻了一下去年的年终总结，开始续写今年的年终总结。凡是过往皆为序章，年终总结的意义，首先在于复盘，整体回顾一 
     </details> 
 <!-- juejin:END -->
 ### 少数派
