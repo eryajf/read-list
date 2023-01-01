@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [数据结构与算法（八）树的进阶](https://juejin.cn/post/7183632459660001341) | Sun Jan 01 2023 10:44 AM 
+- 🤗 [【精】现代前端框架的重要概念](https://juejin.cn/post/7183639661246414909) | Sun Jan 01 2023 11:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    梳理现代前端框架重要概念，深入代码原理分析。适用于各个阶段前端开发者学习理解，尤其是前端小白入门以及技术 leader 框架选型。建议收藏 
+    </details> 
+
+- 🎡 [数据结构与算法（八）树的进阶](https://juejin.cn/post/7183632459660001341) | Sun Jan 01 2023 10:44 AM 
     <details><summary>展开描述 ...</summary> 
     之前我们学习过二叉查找树，发现它的查询效率比单纯的链表和数组的查询效率要高很多，大部分情况下，确实是这样的，但不幸的是，在最坏情况下，二叉查找树的性能还是很糟糕。 例如我们依次往二叉查找树中插入9,8 
     </details> 
 
-- 🎡 [计算机组成原理系列（二）：计算机编码全解析](https://juejin.cn/post/7183630054352486455) | Sun Jan 01 2023 10:37 AM 
+- 🕯 [计算机组成原理系列（二）：计算机编码全解析](https://juejin.cn/post/7183630054352486455) | Sun Jan 01 2023 10:37 AM 
     <details><summary>展开描述 ...</summary> 
     🔥 Hi，我是小余。 本文已收录到 GitHub · Androider-Planet 中。这里有 Android 进阶成长知识体系，关注公众号 [小余的自习室] ，在成功的路上不迷路！ 前言 你是不 
     </details> 
 
-- 🕯 [Electron打包错误的踩坑小记](https://juejin.cn/post/7183626887103529016) | Sun Jan 01 2023 10:22 AM 
+- 🚀 [Electron打包错误的踩坑小记](https://juejin.cn/post/7183626887103529016) | Sun Jan 01 2023 10:22 AM 
     <details><summary>展开描述 ...</summary> 
     windows墙内打包失败办法 在网络环境不好&lpar;无科学上网&rpar;的条件下，项目可能可以启动成功却无法打包，注意查看报错信息，如下图所示： 这种都是缺少相关包导致的问题，根据报错信息手动下载相应的资源，放入 
     </details> 
 
-- 🚀 [分布式存储系统 Ceph 介绍与环境部署](https://juejin.cn/post/7183626455950524476) | Sun Jan 01 2023 10:20 AM 
+- 💪 [分布式存储系统 Ceph 介绍与环境部署](https://juejin.cn/post/7183626455950524476) | Sun Jan 01 2023 10:20 AM 
     <details><summary>展开描述 ...</summary> 
     一、概述 特点： 高性能 摒弃了传统的集中式存储元数据寻址的方案，采用CRUSH算法，数据分布均衡，并行度高。 考虑了容灾域的隔离，能够实现各类负载的副本放置规则，例如跨机房、机架感知等。 能够支持上 
-    </details> 
-
-- 💪 [我的 2022 年](https://juejin.cn/post/7183625285575639098) | Sun Jan 01 2023 10:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    用 4 个关键词总结 2022 年——我的技术书，我的房子、我的车子和我的晋升，所以这篇年终总结以我的 2022 年为题。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
