@@ -667,29 +667,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0101](http://jandan.net/p/112063) | Sun Jan 01 2023 3:43 AM 
+- 🚀 [Quora：为什么CRT显示器仍被认为优于现代显示器？](http://jandan.net/p/112060) | Sun Jan 01 2023 5:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    然而并不是。 
+    </details> 
+
+- 🙉 [3种有隐患的流行补充剂](http://jandan.net/p/112059) | Sun Jan 01 2023 5:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    一些你认为补充剂有用的方法可能并不管用。 
+    </details> 
+
+- 🎉 [今日好价 0101](http://jandan.net/p/112063) | Sun Jan 01 2023 5:13 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：45 
     </details> 
 
-- 🙉 [脑力小体操：无信任的信任算法](http://jandan.net/p/111504) | Sat Dec 31 2022 5:25 AM 
+- 🐲 [新冠感染为什么会导致嗅觉丧失](http://jandan.net/p/112057) | Sun Jan 01 2023 5:12 AM 
     <details><summary>展开描述 ...</summary> 
-    拜个早年 
+    我的嗅觉和味觉灵敏度确实降了不少 
     </details> 
 
-- 🎉 [Quora：在泳装出现之前人们穿什么](http://jandan.net/p/112055) | Sat Dec 31 2022 5:24 AM 
+-  [推荐一个网站：集思广益的群众智慧、预测现实世界的未来与自我认知](http://jandan.net/p/112062) | Sun Jan 01 2023 5:11 AM 
     <details><summary>展开描述 ...</summary> 
-    什么也不穿。 
-    </details> 
-
-- 🐲 [2022年度，计算机科学最重要的成果](http://jandan.net/p/112044) | Sat Dec 31 2022 5:23 AM 
-    <details><summary>展开描述 ...</summary> 
-    计算机科学家的工作越来越跨学科：量子纠缠与量子计算，密码与数学，AI与应用算法 
-    </details> 
-
--  [能快速降低胆固醇的食物](http://jandan.net/p/112050) | Sat Dec 31 2022 5:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    并不一定包括减掉很多体重。 
+    正好现在是新年第一天。 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
