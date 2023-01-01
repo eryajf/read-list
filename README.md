@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [React Docs 2023 ADVANCED](https://juejin.cn/post/7183513290104897595) | Sun Jan 01 2023 3:04 AM 
+- 🤗 [2022掘金年度技术创作者榜单](https://juejin.cn/post/7183531339256660024) | Sun Jan 01 2023 4:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    正值 2022 年结尾，掘金举办《2022年度创作者打榜》活动，让我们程序员狂欢的同时，其实也让优秀的开发者和团队，出现在大众的视野，出现在闪烁光芒的舞台舞台上！ 
+    </details> 
+
+- 🎡 [React Docs 2023 ADVANCED](https://juejin.cn/post/7183513290104897595) | Sun Jan 01 2023 3:04 AM 
     <details><summary>展开描述 ...</summary> 
     React Docs 2023 ADVANCED Learn and Reference from React Docs Beta 
     </details> 
 
-- 🎡 [第三十章 使用系统监视器 - 编写用户定义的应用程序监视器类](https://juejin.cn/post/7183471312596107301) | Sun Jan 01 2023 12:19 AM 
+- 🕯 [第三十章 使用系统监视器 - 编写用户定义的应用程序监视器类](https://juejin.cn/post/7183471312596107301) | Sun Jan 01 2023 12:19 AM 
     <details><summary>展开描述 ...</summary> 
     第三十章 使用系统监视器 - 编写用户定义的应用程序监视器类 编写用户定义的应用程序监视器类 除了提供的系统类之外，还可以编写监视器类和示例类来监视用户应用程序数据和计数器。 监视器类是从抽象的监视器 
     </details> 
 
-- 🕯 [纵有疾风起，Petterp与他的2022](https://juejin.cn/post/7183365892623826999) | Sat Dec 31 2022 5:29 PM 
+- 🚀 [纵有疾风起，Petterp与他的2022](https://juejin.cn/post/7183365892623826999) | Sat Dec 31 2022 5:29 PM 
     <details><summary>展开描述 ...</summary> 
     每逢年末，都要来聊一聊关于今年的各种事情，本篇聊一聊一个普通Android开发的2022，希望我的经历，对你也会有所帮助:&rpar; 
     </details> 
 
-- 🚀 [死月的二零二二总结](https://juejin.cn/post/7183349257825910821) | Sat Dec 31 2022 4:24 PM 
+- 💪 [死月的二零二二总结](https://juejin.cn/post/7183349257825910821) | Sat Dec 31 2022 4:24 PM 
     <details><summary>展开描述 ...</summary> 
     今年的工作有了一定的变化。我又重新开始带团队了，虽然还是大头兵的那种，不过相比起来，多年前在大搜车时简直就是过家家，只是对大家进行任务的分配，连项目管理都算不上。角色的转变，让我又强行从舒适区中拔出来 
-    </details> 
-
-- 💪 [半年120GC盘红盘，电脑救赎之旅](https://juejin.cn/post/7183343983907569720) | Sat Dec 31 2022 4:04 PM 
-    <details><summary>展开描述 ...</summary> 
-    工作开始,一直被程序猿=修电脑的，厌恶感十足,很可惜打脸来的太快，经历了公司换新电脑，坏了几次，再到工作变动自己搞了新电脑，直到红盘,被迫开启了自己的电脑救赎之旅，本次以这次被迫优化为例,主要想说的是 
     </details> 
 <!-- juejin:END -->
 ### 少数派
