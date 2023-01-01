@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [OpenTelemetry系列 （五）｜ OpenTelemetry Java Instrumentation二次开发指南](https://juejin.cn/post/7183580820026687525) | Sun Jan 01 2023 7:28 AM 
+- 🤗 [运动APP视频轨迹回放分享实现](https://juejin.cn/post/7183602475591548986) | Sun Jan 01 2023 8:47 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 我们上一章介绍了OpenTelemetry Java Instrumentation的使用，但是那些都是一些基本的使用，如果有一些自定义的功能，还是需要一些开发工作。本章节将以保姆级教程来介绍一 
+    喜欢户外运动的朋友一般都应该使用过运动APP&lpar;keep, 咕咚，悦跑圈，国外的Strava等&rpar;的一项功能，就是运动轨迹视频分享，分享到朋友圈或是运动群的圈子里。笔者本身平常也是喜欢户外跑、骑行、爬山等 
     </details> 
 
-- 🎡 [状态模式，从老生常谈的开关案例说起](https://juejin.cn/post/7183578736149659685) | Sun Jan 01 2023 7:19 AM 
+- 🎡 [历时一个月，我终于搞懂了闭包](https://juejin.cn/post/7183600879231041597) | Sun Jan 01 2023 8:42 AM 
     <details><summary>展开描述 ...</summary> 
-    状态模式，指的是事物内部状态的变化，会导致事物具体行为的变化。并且，状态的切换可以是循环的。最简单的例子是生活中的开关，基本都是状态模式的使用。 
+    一提到闭包，大家就会想起JavaScript中的闭包，没错，闭包是JavaScript的一大特色，这是因为有了闭包，让JavaScript可以做一些特别的工作。 但是闭包对 
     </details> 
 
-- 🕯 [中二魔法使的2022年终总结](https://juejin.cn/post/7183575941988220983) | Sun Jan 01 2023 7:05 AM 
+- 🕯 [2023-01-02 技术周刊第 10 期](https://juejin.cn/post/7183598205475487799) | Sun Jan 01 2023 8:35 AM 
     <details><summary>展开描述 ...</summary> 
-    呀哈喽！这里是alphardex。 一年是如此的短暂，是时候来场总结了。让我们在新的一年里继续加油！ 
+    阅读与一句话 资讯 Stack Overflow 2022 年度开发者调查报告 全新 QQ Linux 3.0 正式上线 其他平台的客户端 QQ 同样更新 Remix 1.9 发布，全栈框架 支持可选 
     </details> 
 
-- 🚀 [React Docs 2023 进阶版](https://juejin.cn/post/7183571094199074875) | Sun Jan 01 2023 6:49 AM 
+- 🚀 [关于微服务，这些你都了解吗-微服务介绍](https://juejin.cn/post/7183596043039146039) | Sun Jan 01 2023 8:26 AM 
     <details><summary>展开描述 ...</summary> 
-    新年快乐！React Docs 官方文档 2023 进阶版。 从 React Docs 中学到的知识 
+    一 认识微服务 1.1 什么是微服务 使用一套小服务来开发单个应用的方式，每个服务运行在独立的进程里，一般采用轻量级的通讯机制互联，并且它们可以通过自动化的方式部署 什么叫微？ 单一功能 代码少，不是 
     </details> 
 
-- 💪 [学习积累🌄🌄🌄](https://juejin.cn/post/7183558014123638842) | Sun Jan 01 2023 5:54 AM 
+- 💪 [我的 2022，进一寸有一寸的欢喜](https://juejin.cn/post/7183595217424121915) | Sun Jan 01 2023 8:24 AM 
     <details><summary>展开描述 ...</summary> 
-    前端学习知识点： 2022-12-27更： 手撕题参考网站： 前端面试题之手写代码篇 前端知识复习网站1： 前端进阶之旅 前端知识复习网站2： 前端面试题之Vue篇 前端知识复习网站3： web前端面 
+    魔幻的一年又过去了，今年是毕业的第三年，也是疫情的第三年，这一年见证了太多魔幻的事情，但做好自己就好，进一寸有一寸的欢喜。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
