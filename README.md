@@ -335,8 +335,8 @@
 - 🥸 [请教： nodejs 怎么打包成 exe， apk](https://www.v2ex.com/t/905882#reply3) | Sun Jan 01 2023 2:21 AM
 - 🤗 [Pixel6a 无法发送短信](https://www.v2ex.com/t/905873#reply6) | Sun Jan 01 2023 1:06 AM
 - 🎭 [3R 教室-TS 全栈&lpar;React/Nextjs+Node.js/Nestjs&rpar;在线学习+远程工作内推/海外外包分配/自由职业创意](https://www.v2ex.com/t/905864#reply0) | Sat Dec 31 2022 5:35 PM
-- 🥷 [v 友们新年快乐](https://www.v2ex.com/t/905862#reply6) | Sat Dec 31 2022 4:30 PM
-- 🐵 [每一个 go 库都是精品，组合到一块儿就这么恶心](https://www.v2ex.com/t/905854#reply2) | Sat Dec 31 2022 3:34 PM<!-- v2ex:END -->
+- 🥷 [v 友们新年快乐](https://www.v2ex.com/t/905862#reply7) | Sat Dec 31 2022 4:30 PM
+- 🐵 [每一个 go 库都是精品，组合到一块儿就这么恶心](https://www.v2ex.com/t/905854#reply3) | Sat Dec 31 2022 3:34 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
