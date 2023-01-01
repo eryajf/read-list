@@ -481,29 +481,29 @@
 ### 不死鸟
 
 <!-- iui:START -->
-- 🌊 [2022 年 12月 每日分享](https://iui.su/163/) | Sat Dec 31 2022 9:00 AM 
+- 🌊 [手机万能收音机](https://iui.su/1577/) | Sun Jan 01 2023 6:18 AM 
+    <details><summary>展开描述 ...</summary> 
+    一款支持iOS和安卓的免费收音机，随心听国家台、地方台、网络台应有尽有；新闻资讯、音乐、交通、体育、故事广播分门别类一应俱全。iOShttps://apps.apple.com/cn/app/i... 
+    </details> 
+
+- 🫣 [MusicFree：支持插件的安卓音乐播放器](https://iui.su/1620/) | Sun Jan 01 2023 6:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    MusicFree是一款免费开源，支持插件化、定制化、无广告的免费音乐播放器。使用插件后就可以实现免费的搜索、下载各大平台的音乐。下载安装MusicFree后，先复制下方的插件链接，找到：左上角... 
+    </details> 
+
+- 🌜 [PotPlayer下载](https://iui.su/372/) | Sun Jan 01 2023 5:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    免费影音播放器PotPlayer是Windows平台知名的视频播放器。PotPlayer美化精简增强版，由分享迷、mefcl&#39;s 提供，基于官方版本，美化图标、精简多余文件。天翼云https:/... 
+    </details> 
+
+- 🏊 [2023 年 1月 每日分享](https://iui.su/164/) | Sun Jan 01 2023 5:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。1月1日eSearcheS... 
+    </details> 
+
+- 🚦 [2022 年 12月 每日分享](https://iui.su/163/) | Sat Dec 31 2022 9:00 AM 
     <details><summary>展开描述 ...</summary> 
     可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。12月31日漫画大全iOS... 
-    </details> 
-
-- 🫣 [发现有趣的东西](https://iui.su/3093/) | Mon Dec 26 2022 10:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享一些有趣、新奇的网站或app等，可以通过以下网站找到一些有趣的内容！不死鸟https://iui.su/t/https://iui.su/fx/发现产品名称简介新趣集发现有趣的新产品Alle... 
-    </details> 
-
-- 🌜 [限免优惠网站](https://iui.su/3735/) | Mon Dec 26 2022 10:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    鲜面连线APPSO 每天提供苹果app限免、优惠的网站，iOSAPP更新比较快。https://app.so/xianmian/极简限免 每天提供iOS限免应用推荐https://free.wa... 
-    </details> 
-
-- 🏊 [AI写作，文章自成](https://iui.su/3766/) | Thu Dec 22 2022 9:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    「秘塔写作猫」是一款集AI写作、多人协作、文本校对、改写润色等功能为一体的AI原生内容创作平台。适合各类写作场景及人群，如作家、写手或律师、编辑，以及大学生、职场人士等。官网https://xi... 
-    </details> 
-
-- 🚦 [AnyViewer远程控制](https://iui.su/2700/) | Wed Dec 21 2022 9:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    AnyViewer是傲梅科技推出的多平台远程控制软件，可以免费、安全地远程控制电脑。免费版本有限速，目前暂无Mac版本。WindowsApp StoreAndroid下载地址来自：AnyView... 
     </details> 
 <!-- iui:END -->
 
