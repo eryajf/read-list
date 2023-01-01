@@ -700,23 +700,23 @@
      以有趣的方式学习和测试有关印度的知识  
     </details> 
 
-- 🥷 [Cachy - 查找、连接、交谈和共享，1-1 音频和视频空间](https://xinquji.com/posts/792507?utm_campaign=xinquji-rss) | Sun Jan 01 2023 6:00 AM 
+- 🥷 [Penguin Diary - 用 3 个选择评估一天](https://xinquji.com/posts/792509?utm_campaign=xinquji-rss) | Sun Jan 01 2023 6:00 AM 
+    <details><summary>展开描述 ...</summary> 
+     用 3 个选择评估一天  
+    </details> 
+
+- 💼 [Cachy - 查找、连接、交谈和共享，1-1 音频和视频空间](https://xinquji.com/posts/792507?utm_campaign=xinquji-rss) | Sun Jan 01 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
      查找、连接、交谈和共享，1-1 音频和视频空间  
     </details> 
 
-- 💼 [The Wrestle Break - 您的一站式了解所有摔跤的最新信息](https://xinquji.com/posts/792506?utm_campaign=xinquji-rss) | Sun Jan 01 2023 6:00 AM 
+- 🦅 [The Wrestle Break - 您的一站式了解所有摔跤的最新信息](https://xinquji.com/posts/792506?utm_campaign=xinquji-rss) | Sun Jan 01 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
      您的一站式了解所有摔跤的最新信息  
     </details> 
 
-- 🦅 [CantoCards - 通过间隔重复学习粤语字符和阅读](https://xinquji.com/posts/792505?utm_campaign=xinquji-rss) | Sun Jan 01 2023 6:00 AM 
+- 😺 [CantoCards - 通过间隔重复学习粤语字符和阅读](https://xinquji.com/posts/792505?utm_campaign=xinquji-rss) | Sun Jan 01 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
      通过间隔重复学习粤语字符和阅读  
-    </details> 
-
-- 😺 [TickerTracker - 通过深入的数据增强您的投资策略](https://xinquji.com/posts/792504?utm_campaign=xinquji-rss) | Sun Jan 01 2023 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     通过深入的数据增强您的投资策略  
     </details> 
 <!-- xinquji:END -->
