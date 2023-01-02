@@ -398,11 +398,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [山药豆和山药是什么关系啊？](https://daily.zhihu.com/story/9756718) | Sun Jan 01 2023 12:27 AM
-- 🐻 [为何中国象棋中要设置马脚？](https://daily.zhihu.com/story/9756726) | Sun Jan 01 2023 12:27 AM
-- 🌏 [动物会给自己治病吗？](https://daily.zhihu.com/story/9756729) | Sun Jan 01 2023 12:27 AM
-- 🕴 [世界上有哪些常被误认为是首都的城市？](https://daily.zhihu.com/story/9756736) | Sun Jan 01 2023 12:27 AM
-- 🌮 [人工智能应用于医疗领域，你有哪些期待？AI 将为医学带来哪些想象？](https://daily.zhihu.com/story/9756746) | Sun Jan 01 2023 12:27 AM<!-- zhihu:END -->
+- 🤩 [中国空间站工程巡天望远镜和哈勃相比有什么优势和劣势？我们离自己的哈勃、韦布有多远？](https://daily.zhihu.com/story/9756750) | Mon Jan 02 2023 12:27 AM
+- 🐻 [古代的大侠一般吹的笛还是箫？](https://daily.zhihu.com/story/9756754) | Mon Jan 02 2023 12:27 AM
+- 🌏 [《将进酒》的「将」应念 qiāng 还是 jiāng？](https://daily.zhihu.com/story/9756755) | Mon Jan 02 2023 12:27 AM
+- 🕴 [为什么睫毛长的（无论男女）总会让人看了觉得很心动？](https://daily.zhihu.com/story/9756758) | Mon Jan 02 2023 12:27 AM
+- 🌮 [古代打仗为城墙为什么不造成大于90度的角的?](https://daily.zhihu.com/story/9756760) | Mon Jan 02 2023 12:27 AM<!-- zhihu:END -->
 
 
 ## 应用资源
