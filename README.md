@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请问 wsl 内 welcome message 如何配置？](https://www.v2ex.com/t/906142#reply0) | Mon Jan 02 2023 6:14 PM
-- 🤗 [关于 Redis 的 PTTL 命令的一个疑惑](https://www.v2ex.com/t/906135#reply2) | Mon Jan 02 2023 3:54 PM
-- 🎭 [vue3 vite3 gzip 提示 Failed to load module script](https://www.v2ex.com/t/906132#reply0) | Mon Jan 02 2023 3:29 PM
-- 🥷 [Vue 如何实现根据当前所在页面不同决定点击后的不同行为？](https://www.v2ex.com/t/906125#reply6) | Mon Jan 02 2023 2:45 PM
-- 🐵 [使用 adb 访问安卓的剪贴板除了利用第三方 app 做桥梁没有其他直接方法了么？](https://www.v2ex.com/t/906122#reply2) | Mon Jan 02 2023 2:11 PM<!-- v2ex:END -->
+- 🥸 [AWS Certified Developer Associate 的题库哪里能购买到最新最全的题库?](https://www.v2ex.com/t/906143#reply0) | Mon Jan 02 2023 7:10 PM
+- 🤗 [请问 wsl 内 welcome message 如何配置？](https://www.v2ex.com/t/906142#reply0) | Mon Jan 02 2023 6:14 PM
+- 🎭 [关于 Redis 的 PTTL 命令的一个疑惑](https://www.v2ex.com/t/906135#reply2) | Mon Jan 02 2023 3:54 PM
+- 🥷 [vue3 vite3 gzip 提示 Failed to load module script](https://www.v2ex.com/t/906132#reply0) | Mon Jan 02 2023 3:29 PM
+- 🐵 [Vue 如何实现根据当前所在页面不同决定点击后的不同行为？](https://www.v2ex.com/t/906125#reply6) | Mon Jan 02 2023 2:45 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
