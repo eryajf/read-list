@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [各位玩 PT 都用的啥盘啊？](https://www.v2ex.com/t/906013#reply0) | Mon Jan 02 2023 2:24 AM
-- 🤗 [求各位大佬给些报表优化的思路?](https://www.v2ex.com/t/906010#reply3) | Mon Jan 02 2023 1:45 AM
-- 🎭 [请教各位 极空间 z4s 怎么刷机？](https://www.v2ex.com/t/906008#reply3) | Mon Jan 02 2023 1:42 AM
-- 🥷 [请问 AWS Certified Developer Associate 认证如何备考?](https://www.v2ex.com/t/906005#reply2) | Mon Jan 02 2023 12:58 AM
-- 🐵 [如何学习 B 端常见系统/模块建模？](https://www.v2ex.com/t/905975#reply1) | Sun Jan 01 2023 2:07 PM<!-- v2ex:END -->
+- 🥸 [有人对北美就业市场有了解么？具体什么语言和生态提供的岗位多呢？](https://www.v2ex.com/t/906022#reply7) | Mon Jan 02 2023 2:55 AM
+- 🤗 [各位玩 PT 都用的啥盘啊？](https://www.v2ex.com/t/906013#reply10) | Mon Jan 02 2023 2:24 AM
+- 🎭 [求各位大佬给些报表优化的思路?](https://www.v2ex.com/t/906010#reply7) | Mon Jan 02 2023 1:45 AM
+- 🥷 [请教各位 极空间 z4s 怎么刷机？](https://www.v2ex.com/t/906008#reply3) | Mon Jan 02 2023 1:42 AM
+- 🐵 [请问 AWS Certified Developer Associate 认证如何备考?](https://www.v2ex.com/t/906005#reply4) | Mon Jan 02 2023 12:58 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
