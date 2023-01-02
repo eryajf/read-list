@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2023年了, 推荐5种前端测试的方案](https://juejin.cn/post/7183766128806592549) | Sun Jan 01 2023 9:48 PM 
+- 🤗 [谈到首屏优化，都能说些什么,干掉 “重复代码” 的技巧有哪些,探究 iOS 内存| 酱酱的下午茶第 144期](https://juejin.cn/post/7183866758309085243) | Mon Jan 02 2023 1:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    看点：在开发h5移动端项目（v3+vant3+pinia+vite）时遇到的问题总结，[Golang早读] 谈谈 go.mod、go.sum、go.work，Android进阶——Javac编译解析 
+    </details> 
+
+- 🎡 [学习交流群](https://juejin.cn/post/7183859416532254776) | Mon Jan 02 2023 1:23 AM 
+    <details><summary>展开描述 ...</summary> 
+    诚挚欢迎各位加入夏沫の梦学习交流群的大家庭，大家有问题可以在群内提问，可以在群内分享自己的学习心得、博客。欢迎各位前端、后端等人才一起摸鱼闲聊！ 本群目的很简单：技术交流、技术分享、学习！ 
+    </details> 
+
+- 🕯 [2023年了, 推荐5种前端测试的方案](https://juejin.cn/post/7183766128806592549) | Sun Jan 01 2023 9:48 PM 
     <details><summary>展开描述 ...</summary> 
     2023年了, 相信很多前端团队都开始考虑上自动化测试了, 这里分享 5 种推荐的前端测试方案. 根据测试金字塔, 我们给出以下 5 种推荐的测试方案. 并且每一种方案都会附上链接地址. 1. 单元测 
     </details> 
 
-- 🎡 [从 0 搭建一个 mini-vue 项目（四）：computed 的响应性](https://juejin.cn/post/7183760494736441401) | Sun Jan 01 2023 9:22 PM 
+- 🚀 [从 0 搭建一个 mini-vue 项目（四）：computed 的响应性](https://juejin.cn/post/7183760494736441401) | Sun Jan 01 2023 9:22 PM 
     <details><summary>展开描述 ...</summary> 
     前言 对于响应性系统而言，除了前两章接触的 ref 和 reactive 之外，还有另外两个也是我们经常使用到的，那就是： 计算属性：computed 侦听器：watch 本章我们先来实现一下 com 
     </details> 
 
-- 🕯 [虽喜忧参半，仍愿来年亦如是](https://juejin.cn/post/7183732899311517755) | Sun Jan 01 2023 5:37 PM 
+- 💪 [【Maven从入门到精通】09、SpringBoot搭建SSM项目的完整过程](https://juejin.cn/post/7183739358883610680) | Sun Jan 01 2023 5:51 PM 
     <details><summary>展开描述 ...</summary> 
-    在打开编辑器准备开始写下这篇文章时，仅仅标题便让我沉思许久~ 从 17 年毕业，到 18 年年底正式开始从事前端开发，到如今 2022 结束，一晃已经是 5 年过去，期间有难过、有快乐、有焦虑、有满足 
-    </details> 
-
-- 🚀 [设计模式手记（16种）](https://juejin.cn/post/7183718559053250615) | Sun Jan 01 2023 4:19 PM 
-    <details><summary>展开描述 ...</summary> 
-    入行几年，可能发现除了发布订阅者模式和单例模式知道些外，其他的模式只是对其名称有所耳闻，只知其名，不知其义。好像这丝毫不影响我搬砖，那么学习总结设计模式的意义在哪里？ 
-    </details> 
-
-- 💪 [Flutter接入Apple的WeatherKit](https://juejin.cn/post/7183707954481365053) | Sun Jan 01 2023 3:36 PM 
-    <details><summary>展开描述 ...</summary> 
-    为什么选择WeatherKit 最近个人在开发一个Flutter项目，是钓鱼相关的，提供水文查询，钓点记录，钓鱼记录等功能。其中钓鱼记录需要关联到天气相关的内容，主要是要用到历史天气数据。 
+    9、SpringBoot搭建SSM项目的完整过程 01、新建一个springboot项目 选择依赖和版本 SpringBoot整合lombok lombok是一个快速生成javabean的一个工具工程 
     </details> 
 <!-- juejin:END -->
 ### 少数派
