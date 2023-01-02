@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [在前端开发中，如何禁止浏览器插件在 127.0.0.1 和 localhost 生效？](https://www.v2ex.com/t/906043#reply4) | Mon Jan 02 2023 4:50 AM
-- 🤗 [有人对北美就业市场有了解么？具体什么语言和生态提供的岗位多呢？](https://www.v2ex.com/t/906022#reply16) | Mon Jan 02 2023 2:55 AM
-- 🎭 [各位玩 PT 都用的啥盘啊？](https://www.v2ex.com/t/906013#reply27) | Mon Jan 02 2023 2:24 AM
-- 🥷 [求各位大佬给些报表优化的思路?](https://www.v2ex.com/t/906010#reply12) | Mon Jan 02 2023 1:45 AM
-- 🐵 [请教各位 极空间 z4s 怎么刷机？](https://www.v2ex.com/t/906008#reply3) | Mon Jan 02 2023 1:42 AM<!-- v2ex:END -->
+- 🥸 [用 Python 给 Windows 10/11 写了一个动态平铺窗口管理器](https://www.v2ex.com/t/906049#reply0) | Mon Jan 02 2023 5:24 AM
+- 🤗 [在前端开发中，如何禁止浏览器插件在 127.0.0.1 和 localhost 生效？](https://www.v2ex.com/t/906043#reply5) | Mon Jan 02 2023 4:50 AM
+- 🎭 [有人对北美就业市场有了解么？具体什么语言和生态提供的岗位多呢？](https://www.v2ex.com/t/906022#reply22) | Mon Jan 02 2023 2:55 AM
+- 🥷 [各位玩 PT 都用的啥盘啊？](https://www.v2ex.com/t/906013#reply34) | Mon Jan 02 2023 2:24 AM
+- 🐵 [求各位大佬给些报表优化的思路?](https://www.v2ex.com/t/906010#reply20) | Mon Jan 02 2023 1:45 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
