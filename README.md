@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [谈到首屏优化，都能说些什么,干掉 “重复代码” 的技巧有哪些,探究 iOS 内存| 酱酱的下午茶第 144期](https://juejin.cn/post/7183866758309085243) | Mon Jan 02 2023 1:54 AM 
+- 🤗 [从React源码分析看useEffect](https://juejin.cn/post/7183887507082182717) | Mon Jan 02 2023 3:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    热身准备 这里不再讲useLayoutEffect，它和useEffect的代码是一样的，区别主要是： 执行时机不同； useEffect是异步， useLayoutEffect是同步，会阻塞渲染；  
+    </details> 
+
+- 🎡 [谈到首屏优化，都能说些什么,干掉 “重复代码” 的技巧有哪些,探究 iOS 内存| 酱酱的下午茶第 144期](https://juejin.cn/post/7183866758309085243) | Mon Jan 02 2023 1:54 AM 
     <details><summary>展开描述 ...</summary> 
     看点：在开发h5移动端项目（v3+vant3+pinia+vite）时遇到的问题总结，[Golang早读] 谈谈 go.mod、go.sum、go.work，Android进阶——Javac编译解析 
     </details> 
 
-- 🎡 [学习交流群](https://juejin.cn/post/7183859416532254776) | Mon Jan 02 2023 1:23 AM 
+- 🕯 [学习交流群](https://juejin.cn/post/7183859416532254776) | Mon Jan 02 2023 1:23 AM 
     <details><summary>展开描述 ...</summary> 
     诚挚欢迎各位加入夏沫の梦学习交流群的大家庭，大家有问题可以在群内提问，可以在群内分享自己的学习心得、博客。欢迎各位前端、后端等人才一起摸鱼闲聊！ 本群目的很简单：技术交流、技术分享、学习！ 
     </details> 
 
-- 🕯 [2023年了, 推荐5种前端测试的方案](https://juejin.cn/post/7183766128806592549) | Sun Jan 01 2023 9:48 PM 
+- 🚀 [2023年了, 推荐5种前端测试的方案](https://juejin.cn/post/7183766128806592549) | Sun Jan 01 2023 9:48 PM 
     <details><summary>展开描述 ...</summary> 
     2023年了, 相信很多前端团队都开始考虑上自动化测试了, 这里分享 5 种推荐的前端测试方案. 根据测试金字塔, 我们给出以下 5 种推荐的测试方案. 并且每一种方案都会附上链接地址. 1. 单元测 
     </details> 
 
-- 🚀 [从 0 搭建一个 mini-vue 项目（四）：computed 的响应性](https://juejin.cn/post/7183760494736441401) | Sun Jan 01 2023 9:22 PM 
+- 💪 [从 0 搭建一个 mini-vue 项目（四）：computed 的响应性](https://juejin.cn/post/7183760494736441401) | Sun Jan 01 2023 9:22 PM 
     <details><summary>展开描述 ...</summary> 
     前言 对于响应性系统而言，除了前两章接触的 ref 和 reactive 之外，还有另外两个也是我们经常使用到的，那就是： 计算属性：computed 侦听器：watch 本章我们先来实现一下 com 
-    </details> 
-
-- 💪 [【Maven从入门到精通】09、SpringBoot搭建SSM项目的完整过程](https://juejin.cn/post/7183739358883610680) | Sun Jan 01 2023 5:51 PM 
-    <details><summary>展开描述 ...</summary> 
-    9、SpringBoot搭建SSM项目的完整过程 01、新建一个springboot项目 选择依赖和版本 SpringBoot整合lombok lombok是一个快速生成javabean的一个工具工程 
     </details> 
 <!-- juejin:END -->
 ### 少数派
