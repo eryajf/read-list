@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [你好， 2023，最该问自己的7个问题](https://juejin.cn/post/7184022955234426935) | Mon Jan 02 2023 12:02 PM 
+- 🤗 [2023想说的一些事](https://juejin.cn/post/7184035393161920571) | Mon Jan 02 2023 12:48 PM 
+    <details><summary>展开描述 ...</summary> 
+    元旦假期的最后一天，其实之前想了很多，但是最后还是简短的说一些吧...... 其实作为技术人，我们面对的貌似只有业务、加班，很多人说程序员没有生活，其实这仅仅是偏见，但是作为正能量的博主，还是说点实际 
+    </details> 
+
+- 🎡 [K8S的pod基础](https://juejin.cn/post/7184033335692230716) | Mon Jan 02 2023 12:41 PM 
+    <details><summary>展开描述 ...</summary> 
+    pod基础概念 pod是kubernetes中最小的资源管理组件，Pod也是最小化运行容器化应用的资源对象。一个Pod代表着集群中运行的一个进程。kubernetes中其他大多数组件都是用绕着Pod来 
+    </details> 
+
+- 🕯 [计算机组成原理系列（三）：计算机存储器结构体系详解](https://juejin.cn/post/7184033079810326583) | Mon Jan 02 2023 12:38 PM 
+    <details><summary>展开描述 ...</summary> 
+    🔥 Hi，我是小余。 本文已收录到 GitHub · Androider-Planet 中。这里有 Android 进阶成长知识体系，关注公众号 [小余的自习室] ，在成功的路上不迷路！ 前言 生活中 
+    </details> 
+
+- 🚀 [你好， 2023，最该问自己的7个问题](https://juejin.cn/post/7184022955234426935) | Mon Jan 02 2023 12:02 PM 
     <details><summary>展开描述 ...</summary> 
     你好， 2023，最该问自己的7个问题，快速反思，让2023勇往直前。什么让你振奋，什么让你沮丧？什么让你成功 
     </details> 
 
-- 🎡 [朝花夕拾 - 2023 莽一年](https://juejin.cn/post/7184022644809793591) | Mon Jan 02 2023 11:58 AM 
+- 💪 [朝花夕拾 - 2023 莽一年](https://juejin.cn/post/7184022644809793591) | Mon Jan 02 2023 11:58 AM 
     <details><summary>展开描述 ...</summary> 
     Hello 2023，我屁颠屁颠地来了！今年，又是一个怎样的楚门世界，我要如何在里面撒泼，莫名期待…… 
-    </details> 
-
-- 🕯 [Flutter使用技巧（二）](https://juejin.cn/post/7184022626426159162) | Mon Jan 02 2023 11:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    一、padding 例子如下 二、margin 三、alignment 四、Row和Column 属性 五、Spacer 
-    </details> 
-
-- 🚀 [年终小作文](https://juejin.cn/post/7184016310123102264) | Mon Jan 02 2023 11:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    本来是不打算写年末总结的，因为也没啥写的，我的生活跟我的人一样，平淡又无趣。 可谁能拒绝白嫖一只小黄鸭呢？ 
-    </details> 
-
-- 💪 [2022 年：我在死亡边缘走过](https://juejin.cn/post/7184012075411177527) | Mon Jan 02 2023 11:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    当我躺在核磁共振机器里，就像科幻电影中的冷冻仓，我希望自己被封印在里面，睡个几百年。 我并没有写年终总结的习惯，以前也从来没写过。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
