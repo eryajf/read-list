@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [我的2022年](https://wiki.eryajf.net/pages/813b7b/) | Sun Jan 01 2023 7:48 PM 
+- 🫶 [学习周刊-总第87期-2022年第52周](https://wiki.eryajf.net/pages/ba509d/) | Mon Jan 02 2023 11:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第87期-一个能够ssh到action容器的debug方式 
+    </details> 
+
+- 🧰 [我的2022年](https://wiki.eryajf.net/pages/813b7b/) | Sun Jan 01 2023 7:48 PM 
     <details><summary>展开描述 ...</summary> 
     我的2022年年终总结 
     </details> 
 
-- 🧰 [学习周刊-总第86期-2022年第51周](https://wiki.eryajf.net/pages/f86f4e/) | Thu Dec 29 2022 3:30 PM 
+- 🌏 [学习周刊-总第86期-2022年第51周](https://wiki.eryajf.net/pages/f86f4e/) | Thu Dec 29 2022 3:30 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第86期-简洁易用的行为式验证码Go库 
     </details> 
 
-- 🌏 [学习周刊-总第85期-2022年第50周](https://wiki.eryajf.net/pages/a11db4/) | Fri Dec 23 2022 8:44 PM 
+- 😎 [学习周刊-总第85期-2022年第50周](https://wiki.eryajf.net/pages/a11db4/) | Fri Dec 23 2022 8:44 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第85期-go语言进程管理工具 
     </details> 
 
-- 😎 [学习周刊-总第84期-2022年第49周](https://wiki.eryajf.net/pages/355e5b/) | Fri Dec 16 2022 6:16 PM 
+- 💂 [学习周刊-总第84期-2022年第49周](https://wiki.eryajf.net/pages/355e5b/) | Fri Dec 16 2022 6:16 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第84期-关于手机号的正则校验应该用严格校验，还是宽松校验呢 
-    </details> 
-
-- 💂 [利用GitHub Actions自动构建go项目的二进制到release](https://wiki.eryajf.net/pages/d16f3f/) | Mon Dec 12 2022 1:10 PM 
-    <details><summary>展开描述 ...</summary> 
-    最近 ChatGPT 大火，随之一起火起来的，有一大批基于 ChatGPT 编写的工具，我的项目chatgpt-dingtalk也是这批项目中的一个，旨在提供在钉钉群聊中与 ChatGPT 交互的能力。这是一个工具类的项目，已经提供了 docker 一键部署的能力。但是也有人只想通过二进制直接部署的方式进行体验，多平台兼容的二进制构建，早已有成熟的 Actions 支持，本文就来介绍一个实现方案。 
     </details> 
 <!-- eryajf:END -->
 
