@@ -511,29 +511,29 @@
 ### v2方圆
 
 <!-- v2fy:START -->
-- 😺 [如何在星巴克连接家中Windows台式机？（安卓，iOS, Windows, macOS配合frp穿透公网IP实现）](https://v2fy.com/p/2023-01-01-windows-remote-1672560763000/) | Sun Jan 01 2023 8:14 AM 
+- 😺 [自建服务器远程游玩PS5不踩坑指南](https://v2fy.com/p/2023-01-02-ps5-frp-1672642919000/) | Mon Jan 02 2023 7:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    title: 自建服务器远程游玩PS5不踩坑指南 阅读本文前，需要先拥有一台服务器，并完成frp服务端的搭建， [&amp;#8230;] 
+    </details> 
+
+- 💃 [如何在星巴克连接家中Windows台式机？（安卓，iOS, Windows, macOS配合frp穿透公网IP实现）](https://v2fy.com/p/2023-01-01-windows-remote-1672560763000/) | Sun Jan 01 2023 8:14 AM 
     <details><summary>展开描述 ...</summary> 
     title: 如何在星巴克连接家中Windows台式机？（安卓，iOS, Windows, macOS配合fr [&amp;#8230;] 
     </details> 
 
-- 💃 [杂谈:在国内用Windows给BT做种，真是一山绕过一山缠（附解决方案）](https://v2fy.com/p/2022-12-29-mount-bt-1672309849000/) | Thu Dec 29 2022 10:32 AM 
+- 💡 [杂谈:在国内用Windows给BT做种，真是一山绕过一山缠（附解决方案）](https://v2fy.com/p/2022-12-29-mount-bt-1672309849000/) | Thu Dec 29 2022 10:32 AM 
     <details><summary>展开描述 ...</summary> 
     title: 杂谈:在国内用Windows给BT做种，真是一山绕过一山缠（附解决方案） 国内的网盘，动不动就乱 [&amp;#8230;] 
     </details> 
 
-- 💡 [提升BT下载速度，为笔记本电脑绑定公网IP随时随地BT做种完整方案（frp加v2ray配合比特彗星点亮绿灯）](https://v2fy.com/p/2022-12-27-btcomet-frp-v2ray-1672119312000/) | Tue Dec 27 2022 5:37 AM 
+- 🐘 [提升BT下载速度，为笔记本电脑绑定公网IP随时随地BT做种完整方案（frp加v2ray配合比特彗星点亮绿灯）](https://v2fy.com/p/2022-12-27-btcomet-frp-v2ray-1672119312000/) | Tue Dec 27 2022 5:37 AM 
     <details><summary>展开描述 ...</summary> 
     title: 提升BT下载速度，为笔记本电脑绑定公网IP随时随地BT做种完整方案（frp加v2ray配合比特彗 [&amp;#8230;] 
     </details> 
 
-- 🐘 [分享使用git的实用小技巧](https://v2fy.com/p/2022-10-31-git-tips-1667197196000/) | Sun Dec 25 2022 10:26 AM 
+- 🪜 [分享使用git的实用小技巧](https://v2fy.com/p/2022-10-31-git-tips-1667197196000/) | Sun Dec 25 2022 10:26 AM 
     <details><summary>展开描述 ...</summary> 
     title: 分享使用git的实用小技巧 放弃本地更改，使用远端数据覆盖本地数据（以main分支为例） git [&amp;#8230;] 
-    </details> 
-
-- 🪜 [折腾Transmission实现固定IP服务器BT做种全过程](https://v2fy.com/p/2022-12-25-bt-1671963832000/) | Sun Dec 25 2022 10:26 AM 
-    <details><summary>展开描述 ...</summary> 
-    title: 折腾Transmission实现固定IP服务器BT做种全过程 通过网络分享资源，是为了让人下载， [&amp;#8230;] 
     </details> 
 <!-- v2fy:END -->
 
