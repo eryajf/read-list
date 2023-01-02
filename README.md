@@ -346,24 +346,24 @@
     2023年了, 相信很多前端团队都开始考虑上自动化测试了, 这里分享 5 种推荐的前端测试方案. 根据测试金字塔, 我们给出以下 5 种推荐的测试方案. 并且每一种方案都会附上链接地址. 1. 单元测 
     </details> 
 
-- 🎡 [设计模式手记（16种）](https://juejin.cn/post/7183718559053250615) | Sun Jan 01 2023 4:19 PM 
+- 🎡 [从 0 搭建一个 mini-vue 项目（四）：computed 的响应性](https://juejin.cn/post/7183760494736441401) | Sun Jan 01 2023 9:22 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 对于响应性系统而言，除了前两章接触的 ref 和 reactive 之外，还有另外两个也是我们经常使用到的，那就是： 计算属性：computed 侦听器：watch 本章我们先来实现一下 com 
+    </details> 
+
+- 🕯 [虽喜忧参半，仍愿来年亦如是](https://juejin.cn/post/7183732899311517755) | Sun Jan 01 2023 5:37 PM 
+    <details><summary>展开描述 ...</summary> 
+    在打开编辑器准备开始写下这篇文章时，仅仅标题便让我沉思许久~ 从 17 年毕业，到 18 年年底正式开始从事前端开发，到如今 2022 结束，一晃已经是 5 年过去，期间有难过、有快乐、有焦虑、有满足 
+    </details> 
+
+- 🚀 [设计模式手记（16种）](https://juejin.cn/post/7183718559053250615) | Sun Jan 01 2023 4:19 PM 
     <details><summary>展开描述 ...</summary> 
     入行几年，可能发现除了发布订阅者模式和单例模式知道些外，其他的模式只是对其名称有所耳闻，只知其名，不知其义。好像这丝毫不影响我搬砖，那么学习总结设计模式的意义在哪里？ 
     </details> 
 
-- 🕯 [尤雨溪：回顾2022，展望2023](https://juejin.cn/post/7183705937180524601) | Sun Jan 01 2023 3:31 PM 
+- 💪 [Flutter接入Apple的WeatherKit](https://juejin.cn/post/7183707954481365053) | Sun Jan 01 2023 3:36 PM 
     <details><summary>展开描述 ...</summary> 
-    2023 年 1 月 1 日，尤雨溪发布博客 《2022 Year In Review》， 文中回顾了 2022 年发生的事，并讨论了 2023 年的期望。下面就来看看详细内容吧！ 回顾 2022 年 
-    </details> 
-
-- 🚀 [有哪些有梯度的刷题网站或app推荐](https://juejin.cn/post/7183696068629151799) | Sun Jan 01 2023 2:53 PM 
-    <details><summary>展开描述 ...</summary> 
-    话不多说，直接上干货！ 首先推荐几个学习数据结构和算法的网站和可视化工具。 Data Structure Visualizations 这是一个在线数据可视化工具，可以手动创建各种数据结构，包括队列、 
-    </details> 
-
-- 💪 [一名工作七年安卓开发的 2022 总结](https://juejin.cn/post/7183696646218186808) | Sun Jan 01 2023 2:53 PM 
-    <details><summary>展开描述 ...</summary> 
-    大家好，我是 shixin。 一转眼到了 2022 的最后一天，今年发生了很多事，这篇文章来总结一下。 
+    为什么选择WeatherKit 最近个人在开发一个Flutter项目，是钓鱼相关的，提供水文查询，钓点记录，钓鱼记录等功能。其中钓鱼记录需要关联到天气相关的内容，主要是要用到历史天气数据。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
