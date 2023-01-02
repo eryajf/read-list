@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [10 分钟带你一览 SOFAStack 的 2022！](https://juejin.cn/post/7183911738201342012) | Mon Jan 02 2023 4:51 AM 
+- 🤗 [5个接口性能提升的通用技巧](https://juejin.cn/post/7183929841257807928) | Mon Jan 02 2023 6:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    作为后端开发人员，我们总是在编写各种API，无论是为前端web提供数据支持的HTTP REST API ，还是提供内部使用的RPC API。这些API在服务初期可能表现不错，但随着用户数量的增长，一开 
+    </details> 
+
+- 🎡 [10 分钟带你一览 SOFAStack 的 2022！](https://juejin.cn/post/7183911738201342012) | Mon Jan 02 2023 4:51 AM 
     <details><summary>展开描述 ...</summary> 
     SOFAStack 社区 2022 开源年报来啦～～～ 点击长图参与 SOFA 年度问卷还有机会获得社区 2023 限量新年周边哦！ 
     </details> 
 
-- 🎡 [2022 年终总结](https://juejin.cn/post/7183903637570224183) | Mon Jan 02 2023 4:16 AM 
+- 🕯 [论文笔记：A Systematic Evaluation of Large Language Models of Code](https://juejin.cn/post/7183908973756547130) | Mon Jan 02 2023 4:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    导语 会议：MAPS 2022 链接：https://arxiv.org/abs/2202.13169 关键词 code language model, evaluation, pretraining 
+    </details> 
+
+- 🚀 [论文笔记：CodeT5: Identiﬁer-aware Uniﬁed Pre-trained Encoder-Decoder Models for Code](https://juejin.cn/post/7183908662950232124) | Mon Jan 02 2023 4:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    导语 会议：EMNLP 2021 链接：https://arxiv.org/abs/2109.00859 1 简介 最近，很多研究尝试将NLP领域的PLM模型引入到编程语言领域，如CodeBERT等， 
+    </details> 
+
+- 💪 [2022 年终总结](https://juejin.cn/post/7183903637570224183) | Mon Jan 02 2023 4:16 AM 
     <details><summary>展开描述 ...</summary> 
     2022年就是打游戏、调作息、写代码、看书、写文章、吃瓜的宅男生活的一年。躺平的一年，也是没钱的一年。 
-    </details> 
-
-- 🕯 [写了个自动巡检多个接口地址的脚本！](https://juejin.cn/post/7183895955643564090) | Mon Jan 02 2023 3:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    自动巡检多个接口地址是否正常并按 crontab 定时任务通过企业微信机器人以文本的形式发送到告警群的脚本。 
-    </details> 
-
-- 🚀 [react源码中的hooks](https://juejin.cn/post/7183892203578753082) | Mon Jan 02 2023 3:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    今天，让我们一起深入探究 React Hook 的实现方法，以便更好的理解它。但是，它的各种神奇特性的不足是，一旦出现问题，调试非常困难，这是由于它的背后是由复杂的堆栈追踪（stack trace）支 
-    </details> 
-
-- 💪 [react源码中的协调与调度](https://juejin.cn/post/7183892532211187773) | Mon Jan 02 2023 3:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    requestEventTime 其实在React执行过程中，会有数不清的任务要去执行，但是他们会有一个优先级的判定，假如两个事件的优先级一样，那么React是怎么去判定他们两谁先执行呢？ Rende 
     </details> 
 <!-- juejin:END -->
 ### 少数派
