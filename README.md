@@ -667,29 +667,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0102](http://jandan.net/p/112070) | Mon Jan 02 2023 3:49 AM 
+- 🚀 [“我厌倦了假装新冠疫情已经结束”](http://jandan.net/p/112066) | Mon Jan 02 2023 5:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    疫情成为我们陷入的又一个灾难性循环。 
+    </details> 
+
+- 🙉 [Quora：为什么越来越多的科学家反对进化论？](http://jandan.net/p/112068) | Mon Jan 02 2023 5:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    因为创造论者在伪造数据。 
+    </details> 
+
+- 🎉 [今日好价 0102](http://jandan.net/p/112070) | Mon Jan 02 2023 5:23 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：37 
     </details> 
 
-- 🙉 [Quora：为什么CRT显示器仍被认为优于现代显示器？](http://jandan.net/p/112060) | Sun Jan 01 2023 5:15 AM 
+- 🐲 [virovory：首次发现以病毒为食的生物](http://jandan.net/p/112065) | Mon Jan 02 2023 5:22 AM 
     <details><summary>展开描述 ...</summary> 
-    然而并不是。 
+    就像食草动物，食肉动物，以后会有一个分类——食病毒生物 
     </details> 
 
-- 🎉 [3种有隐患的流行补充剂](http://jandan.net/p/112059) | Sun Jan 01 2023 5:14 AM 
+-  [2022 年第三季度：独立显卡的出货量创下20年来新低](http://jandan.net/p/112071) | Mon Jan 02 2023 5:21 AM 
     <details><summary>展开描述 ...</summary> 
-    一些你认为补充剂有用的方法可能并不管用。 
-    </details> 
-
-- 🐲 [今日好价 0101](http://jandan.net/p/112063) | Sun Jan 01 2023 5:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：45 
-    </details> 
-
--  [新冠感染为什么会导致嗅觉丧失](http://jandan.net/p/112057) | Sun Jan 01 2023 5:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    我的嗅觉和味觉灵敏度确实降了不少 
+    Nvidia 持续占据市场优势地位 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
