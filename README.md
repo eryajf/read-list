@@ -700,23 +700,23 @@
      以有趣的方式学习和测试有关印度的知识  
     </details> 
 
-- 🥷 [Penguin Diary - 用 3 个选择评估一天](https://xinquji.com/posts/792509?utm_campaign=xinquji-rss) | Sun Jan 01 2023 6:00 AM 
+- 🥷 [Bizzmill - 业务增长规划](https://xinquji.com/posts/792536?utm_campaign=xinquji-rss) | Mon Jan 02 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     用 3 个选择评估一天  
+     业务增长规划  
     </details> 
 
-- 💼 [Cachy - 查找、连接、交谈和共享，1-1 音频和视频空间](https://xinquji.com/posts/792507?utm_campaign=xinquji-rss) | Sun Jan 01 2023 6:00 AM 
+- 💼 [Song Sketch AI - 独一无二的艺术作品，灵感来自您的 Spotify 播放列表](https://xinquji.com/posts/792535?utm_campaign=xinquji-rss) | Mon Jan 02 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     查找、连接、交谈和共享，1-1 音频和视频空间  
+     独一无二的艺术作品，灵感来自您的 Spotify 播放列表  
     </details> 
 
-- 🦅 [The Wrestle Break - 您的一站式了解所有摔跤的最新信息](https://xinquji.com/posts/792506?utm_campaign=xinquji-rss) | Sun Jan 01 2023 6:00 AM 
+- 🦅 [TeamDynamic - 旨在提高士气和提高绩效的活动](https://xinquji.com/posts/792534?utm_campaign=xinquji-rss) | Mon Jan 02 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     您的一站式了解所有摔跤的最新信息  
+     旨在提高士气和提高绩效的活动  
     </details> 
 
-- 😺 [CantoCards - 通过间隔重复学习粤语字符和阅读](https://xinquji.com/posts/792505?utm_campaign=xinquji-rss) | Sun Jan 01 2023 6:00 AM 
+- 😺 [Noni - 保护您的数字财产](https://xinquji.com/posts/792533?utm_campaign=xinquji-rss) | Mon Jan 02 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     通过间隔重复学习粤语字符和阅读  
+     保护您的数字财产  
     </details> 
 <!-- xinquji:END -->
