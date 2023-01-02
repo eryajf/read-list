@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [从React源码分析看useEffect](https://juejin.cn/post/7183887507082182717) | Mon Jan 02 2023 3:13 AM 
+- 🤗 [2022 年终总结](https://juejin.cn/post/7183903637570224183) | Mon Jan 02 2023 4:16 AM 
     <details><summary>展开描述 ...</summary> 
-    热身准备 这里不再讲useLayoutEffect，它和useEffect的代码是一样的，区别主要是： 执行时机不同； useEffect是异步， useLayoutEffect是同步，会阻塞渲染；  
+    2022年就是打游戏、调作息、写代码、看书、写文章、吃瓜的宅男生活的一年。躺平的一年，也是没钱的一年。 
     </details> 
 
-- 🎡 [谈到首屏优化，都能说些什么,干掉 “重复代码” 的技巧有哪些,探究 iOS 内存| 酱酱的下午茶第 144期](https://juejin.cn/post/7183866758309085243) | Mon Jan 02 2023 1:54 AM 
+- 🎡 [react源码中的hooks](https://juejin.cn/post/7183892203578753082) | Mon Jan 02 2023 3:35 AM 
     <details><summary>展开描述 ...</summary> 
-    看点：在开发h5移动端项目（v3+vant3+pinia+vite）时遇到的问题总结，[Golang早读] 谈谈 go.mod、go.sum、go.work，Android进阶——Javac编译解析 
+    今天，让我们一起深入探究 React Hook 的实现方法，以便更好的理解它。但是，它的各种神奇特性的不足是，一旦出现问题，调试非常困难，这是由于它的背后是由复杂的堆栈追踪（stack trace）支 
     </details> 
 
-- 🕯 [学习交流群](https://juejin.cn/post/7183859416532254776) | Mon Jan 02 2023 1:23 AM 
+- 🕯 [react源码中的协调与调度](https://juejin.cn/post/7183892532211187773) | Mon Jan 02 2023 3:35 AM 
     <details><summary>展开描述 ...</summary> 
-    诚挚欢迎各位加入夏沫の梦学习交流群的大家庭，大家有问题可以在群内提问，可以在群内分享自己的学习心得、博客。欢迎各位前端、后端等人才一起摸鱼闲聊！ 本群目的很简单：技术交流、技术分享、学习！ 
+    requestEventTime 其实在React执行过程中，会有数不清的任务要去执行，但是他们会有一个优先级的判定，假如两个事件的优先级一样，那么React是怎么去判定他们两谁先执行呢？ Rende 
     </details> 
 
-- 🚀 [2023年了, 推荐5种前端测试的方案](https://juejin.cn/post/7183766128806592549) | Sun Jan 01 2023 9:48 PM 
+- 🚀 [react源码中的生命周期和事件系统](https://juejin.cn/post/7183892568264933432) | Mon Jan 02 2023 3:34 AM 
     <details><summary>展开描述 ...</summary> 
-    2023年了, 相信很多前端团队都开始考虑上自动化测试了, 这里分享 5 种推荐的前端测试方案. 根据测试金字塔, 我们给出以下 5 种推荐的测试方案. 并且每一种方案都会附上链接地址. 1. 单元测 
+    这一章我想跟大家探讨的是React的生命周期与事件系统。 jsx的编译结果 因为前面也讲到jsx在v17中的编译结果，除了标签名，其他的挂在标签上的属性（比如class），事件（比如click事件）， 
     </details> 
 
-- 💪 [从 0 搭建一个 mini-vue 项目（四）：computed 的响应性](https://juejin.cn/post/7183760494736441401) | Sun Jan 01 2023 9:22 PM 
+- 💪 [小树的 2022 年终总结](https://juejin.cn/post/7183890962815385658) | Mon Jan 02 2023 3:29 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 对于响应性系统而言，除了前两章接触的 ref 和 reactive 之外，还有另外两个也是我们经常使用到的，那就是： 计算属性：computed 侦听器：watch 本章我们先来实现一下 com 
+    看了看去年的计划，完成度还不错。 新的一年，我给自己的关键字是「进」。 我希望继续为自己的人生探索，持续前进。但相较去年，我会给自己的要求更聚焦。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
