@@ -667,29 +667,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [“我厌倦了假装新冠疫情已经结束”](http://jandan.net/p/112066) | Mon Jan 02 2023 5:25 AM 
+- 🚀 [睡眠中的玻璃蛙通过把大部分血细胞储存在肝脏中来隐藏自己](http://jandan.net/p/112079) | Mon Jan 02 2023 8:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    而且这样做也没有副作用。 
+    </details> 
+
+- 🙉 [“我厌倦了假装新冠疫情已经结束”](http://jandan.net/p/112066) | Mon Jan 02 2023 5:25 AM 
     <details><summary>展开描述 ...</summary> 
     疫情成为我们陷入的又一个灾难性循环。 
     </details> 
 
-- 🙉 [Quora：为什么越来越多的科学家反对进化论？](http://jandan.net/p/112068) | Mon Jan 02 2023 5:24 AM 
+- 🎉 [Quora：为什么越来越多的科学家反对进化论？](http://jandan.net/p/112068) | Mon Jan 02 2023 5:24 AM 
     <details><summary>展开描述 ...</summary> 
     因为创造论者在伪造数据。 
     </details> 
 
-- 🎉 [今日好价 0102](http://jandan.net/p/112070) | Mon Jan 02 2023 5:23 AM 
+- 🐲 [今日好价 0102](http://jandan.net/p/112070) | Mon Jan 02 2023 5:23 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：37 
     </details> 
 
-- 🐲 [virovory：首次发现以病毒为食的生物](http://jandan.net/p/112065) | Mon Jan 02 2023 5:22 AM 
+-  [virovory：首次发现以病毒为食的生物](http://jandan.net/p/112065) | Mon Jan 02 2023 5:22 AM 
     <details><summary>展开描述 ...</summary> 
     就像食草动物，食肉动物，以后会有一个分类——食病毒生物 
-    </details> 
-
--  [2022 年第三季度：独立显卡的出货量创下20年来新低](http://jandan.net/p/112071) | Mon Jan 02 2023 5:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    Nvidia 持续占据市场优势地位 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
