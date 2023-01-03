@@ -204,7 +204,12 @@
 ### 美团技术团队
 
 <!-- meituan:START -->
-- 🕯 [美团外卖推荐情境化智能流量分发的实践与探索](https://tech.meituan.com/2022/12/08/scenario-aware-ranking-model-for-personalized-recommender-system.html) | Thu Dec 08 2022 12:00 AM 
+- 🕯 [2022年 | 美团技术团队公众号最受欢迎的20篇文章](https://tech.meituan.com/2022/12/30/2022-summary.html) | Fri Dec 30 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    时光匆匆，就要跟2022年说再见了！2013年12月4日，美团技术团队博客诞生，发表了第1篇技术文章。9年多的时间，3311个日夜，目前我们已经发布了548篇技术文章，美团技术团队博客/公众号，感谢大家的一路相伴。 
+    </details> 
+
+- 🤠 [美团外卖推荐情境化智能流量分发的实践与探索](https://tech.meituan.com/2022/12/08/scenario-aware-ranking-model-for-personalized-recommender-system.html) | Thu Dec 08 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     美团外卖推荐团队在推荐算法的长期落地实践中，针对外卖业务情境化特点对排序模型进行深入探索与优化。本文介绍了面向情境化建模的“情境细分+统一模型”建模思路，通过用户行为序列建模以及专家网络两个模块的优化，实现不同场景间对信息独有性的刻画和信息共性的相互传递，进而提升全部流量效率。 
     </details> 
@@ -214,19 +219,14 @@
     美团到店推荐广告团队在图神经网络的长期落地实践中，思考分析了场景的特点与挑战，针对性地进行了模型设计，并通过大规模训练工具及线上部署优化多次成功落地，带来了线上收入提升。本文主要介绍了大规模图召回技术在美团到店广告场景下的实践经验，包括模型设计思路、模型迭代历程、大规模训练工具以及线上部署性能优化等，希望为从事相关工作的读者带来一些启发。 
     </details> 
 
-- 🤠 [清华大学课题组联合美团研发无人机声波定位技术获顶会大奖](https://tech.meituan.com/2022/11/24/acm-sensys-best-paper-runner-up.html) | Thu Nov 24 2022 12:00 AM 
+- 🚀 [清华大学课题组联合美团研发无人机声波定位技术获顶会大奖](https://tech.meituan.com/2022/11/24/acm-sensys-best-paper-runner-up.html) | Thu Nov 24 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     11月6日至9日，第20届国际计算机学会ACM嵌入式网络感知系统大会SenSys在美国波士顿召开。清华大学软件学院何源副教授课题组和美团无人机团队合作论文“麦巢：辅助无人机精准降落的远距离即时声源定位技术”获得了大会最佳论文奖第二名（Best Paper Runner-Up）。 
     </details> 
 
-- 🚀 [美团SemEval2022结构化情感分析跨语言赛道冠军方法总结](https://tech.meituan.com/2022/11/24/mt-speech-at-semeval-2022-task-10-structured-sentiment-analysis.html) | Thu Nov 24 2022 12:00 AM 
+- ⚗️ [美团SemEval2022结构化情感分析跨语言赛道冠军方法总结](https://tech.meituan.com/2022/11/24/mt-speech-at-semeval-2022-task-10-structured-sentiment-analysis.html) | Thu Nov 24 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     美团语音交互部针对跨语言结构化情感分析任务中缺少小语种的标注数据、传统方法优化成本高昂的问题，通过利用跨语言预训练语言模型、多任务和数据增强方法在不同语言间实现低成本的迁移，相关方法获得了SemEval 2022结构化情感分析跨语言赛道的冠军。 
-    </details> 
-
-- ⚗️ [ACM MM &amp; ECCV 2022 | 美团视觉8篇论文揭秘内容领域的智能科技](https://tech.meituan.com/2022/11/17/acm-mm-eccv-2022.html) | Thu Nov 17 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    前不久，美团视觉智能部的8篇论文被多媒体和计算机视觉领域顶会 ACM MM 与 ECCV 收录，本文将快速带你了解这8篇论文的研究成果及其可在内容领域的落地应用。 
     </details> 
 <!-- meituan:END -->
 
