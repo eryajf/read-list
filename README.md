@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Monorepo 下 Git 工作流的最佳实践](https://juejin.cn/post/7184345662597627965) | Tue Jan 03 2023 8:51 AM 
+- 🤗 [你可能需要的React开发小技巧！](https://juejin.cn/post/7184358781738811449) | Tue Jan 03 2023 9:42 AM 
     <details><summary>展开描述 ...</summary> 
-    本文从适合小型 Monorepo 的 Feature branch 工作流开始分享，接着分享适用于中大型 Monorepo 的 Trunk-based 工作流，并给出一些选型标准供参考。 
+    大家好，我是 CUGGZ。 今天来分享 10 个编写更简洁 React 代码的实用小技巧！ 1. JSX 简写 如何将 true 值传递给给定的 props？ 在下面的示例中，使用 prop show 
     </details> 
 
-- 🎡 [Monorepo 下 Git 工作流的最佳实践](https://juejin.cn/post/7184344160151961661) | Tue Jan 03 2023 8:45 AM 
+- 🎡 [使用海外HTTP代理会有延迟吗？](https://juejin.cn/post/7184358645214216247) | Tue Jan 03 2023 9:41 AM 
     <details><summary>展开描述 ...</summary> 
-    本文从适合小型 Monorepo 的 Feature branch 工作流开始分享，接着分享适用于中大型 Monorepo 的 Trunk-based 工作流，并给出一些选型标准供参考。 
+    我们在工作中往往需要用到海外海外代理IP，但是在用海外海外代理IP的时候，有时候会遇到网络延迟现象，甚至有时候延迟还特别严重，这是怎么回事呢？接下来会为大家具体分析使用海外代理IP延迟高的原因。 首先 
     </details> 
 
-- 🕯 [Django开发员工管理系统（Part I）](https://juejin.cn/post/7184332567393337405) | Tue Jan 03 2023 8:00 AM 
+- 🕯 [算法问题：如何在不把数字转为字符串的前提下反转数字](https://juejin.cn/post/7184357886435262524) | Tue Jan 03 2023 9:38 AM 
     <details><summary>展开描述 ...</summary> 
-    使用Django框架开发网站的第一部分，主要的内容包括jQuery、bootstrap的使用，模板的继承以及ModelForm的使用等... 
+    题目要求 问题要求是：把一组Integer类型的数字进行反转，前提是不能把数字转为String。 例如，输入 123456，输出 654321。 
     </details> 
 
-- 🚀 [性能成本难两全？OpenMLDB 实时计算双存储引擎让你不必纠结（附测评报告）](https://juejin.cn/post/7184329572245045285) | Tue Jan 03 2023 7:49 AM 
+- 🚀 [Rust学习笔记之基础概念](https://juejin.cn/post/7184357581186891832) | Tue Jan 03 2023 9:37 AM 
     <details><summary>展开描述 ...</summary> 
-    内存和磁盘的双存储引擎架构 1.1 使用场景描述 OpenMLDB 的线上服务部分为了满足不同的性能和成本需求，提供了两种分别基于内存和磁盘的存储引擎。 
+    大家好，我是柒八九。 今天，我们继续Rust学习笔记的探索。我们来谈谈关于基础概念的相关知识点。 要么我说了算，要么我什么也不说 -- 拿破仑 
     </details> 
 
-- 💪 [TKE 注册节点，IDC 轻量云原生上云的最佳路径](https://juejin.cn/post/7184328414994628645) | Tue Jan 03 2023 7:45 AM 
+- 💪 [CAS乐观锁](https://juejin.cn/post/7184357179053310013) | Tue Jan 03 2023 9:36 AM 
     <details><summary>展开描述 ...</summary> 
-    林顺利，腾讯云原生产品经理，负责分布式云产品迭代和注册节点客户扩展，专注于云原生混合云新形态的推广实践。 背景 企业在持续业务运维过程中，感受到腾讯云 TKE 带来的便捷性和极致的使用体验，将新业务的 
+    乐观锁CAS和悲观锁synchronized Compare and Swap，简称CAS，是一种通过乐观锁保证变量操作原子性的机制。与synchronized锁相比，CAS原子更新方式代表一种不 
     </details> 
 <!-- juejin:END -->
 ### 少数派
