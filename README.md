@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Finale To Do - 个人任务管理器、计划器和习惯跟踪器](https://xinquji.com/posts/792568?utm_campaign=xinquji-rss) | Tue Jan 03 2023 6:00 AM 
+- 👀 [bok - 网页书签管理工具](https://xinquji.com/posts/792398?utm_campaign=xinquji-rss) | Wed Jan 04 2023 8:16 AM 
+    <details><summary>展开描述 ...</summary> 
+     网页书签管理工具  
+    </details> 
+
+- 🥷 [万能头像生成器 - 一键生成几十种专业实用头像](https://xinquji.com/posts/792338?utm_campaign=xinquji-rss) | Wed Jan 04 2023 8:16 AM 
+    <details><summary>展开描述 ...</summary> 
+     一键生成几十种专业实用头像  
+    </details> 
+
+- 💼 [Finale To Do - 个人任务管理器、计划器和习惯跟踪器](https://xinquji.com/posts/792568?utm_campaign=xinquji-rss) | Tue Jan 03 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
      个人任务管理器、计划器和习惯跟踪器  
     </details> 
 
-- 🥷 [Dewey Beta - 与我们的 AI 问责伙伴一起发短信，助您成功](https://xinquji.com/posts/792567?utm_campaign=xinquji-rss) | Tue Jan 03 2023 6:00 AM 
+- 🦅 [Dewey Beta - 与我们的 AI 问责伙伴一起发短信，助您成功](https://xinquji.com/posts/792567?utm_campaign=xinquji-rss) | Tue Jan 03 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
      与我们的 AI 问责伙伴一起发短信，助您成功  
     </details> 
 
-- 💼 [FilmForge AI - 提示视频 - 使用 AI 立即创建引人入胜的视频](https://xinquji.com/posts/792566?utm_campaign=xinquji-rss) | Tue Jan 03 2023 6:00 AM 
+- 😺 [FilmForge AI - 提示视频 - 使用 AI 立即创建引人入胜的视频](https://xinquji.com/posts/792566?utm_campaign=xinquji-rss) | Tue Jan 03 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
      提示视频 - 使用 AI 立即创建引人入胜的视频  
-    </details> 
-
-- 🦅 [Prompt Theory by AE Studio - 人工智能生成图像的猜谜游戏](https://xinquji.com/posts/792565?utm_campaign=xinquji-rss) | Tue Jan 03 2023 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     人工智能生成图像的猜谜游戏  
-    </details> 
-
-- 😺 [Vasona Hire - 简化您的招聘流程](https://xinquji.com/posts/792564?utm_campaign=xinquji-rss) | Tue Jan 03 2023 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     简化您的招聘流程  
     </details> 
 <!-- xinquji:END -->
