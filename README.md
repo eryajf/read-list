@@ -481,29 +481,29 @@
 ### 不死鸟
 
 <!-- iui:START -->
-- 🌊 [2023 年 1月 每日分享](https://iui.su/164/) | Mon Jan 02 2023 11:34 AM 
+- 🌊 [2023 年 1月 每日分享](https://iui.su/164/) | Tue Jan 03 2023 7:54 AM 
     <details><summary>展开描述 ...</summary> 
-    可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。1月2日怠惰小说下载器通用... 
+    可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。1月3日TTSMaker@... 
     </details> 
 
-- 🫣 [手机万能收音机](https://iui.su/1577/) | Sun Jan 01 2023 6:18 AM 
+- 🫣 [最新可用的二维码生成 api](https://iui.su/2225/) | Tue Jan 03 2023 7:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    支持https的二维码api服务并不多，这里是经过站长精心筛选后剩下的结果。使用方法很简单，替换https://iui.su为想要生成的文字或链接即可。https 二维码生成 apioschin... 
+    </details> 
+
+- 🌜 [手机万能收音机](https://iui.su/1577/) | Sun Jan 01 2023 6:18 AM 
     <details><summary>展开描述 ...</summary> 
     一款支持iOS和安卓的免费收音机，随心听国家台、地方台、网络台应有尽有；新闻资讯、音乐、交通、体育、故事广播分门别类一应俱全。iOShttps://apps.apple.com/cn/app/i... 
     </details> 
 
-- 🌜 [MusicFree：支持插件的安卓音乐播放器](https://iui.su/1620/) | Sun Jan 01 2023 6:02 AM 
+- 🏊 [MusicFree：支持插件的安卓音乐播放器](https://iui.su/1620/) | Sun Jan 01 2023 6:02 AM 
     <details><summary>展开描述 ...</summary> 
     MusicFree是一款免费开源，支持插件化、定制化、无广告的免费音乐播放器。使用插件后就可以实现免费的搜索、下载各大平台的音乐。下载安装MusicFree后，先复制下方的插件链接，找到：左上角... 
     </details> 
 
-- 🏊 [PotPlayer下载](https://iui.su/372/) | Sun Jan 01 2023 5:47 AM 
+- 🚦 [PotPlayer下载](https://iui.su/372/) | Sun Jan 01 2023 5:47 AM 
     <details><summary>展开描述 ...</summary> 
     免费影音播放器PotPlayer是Windows平台知名的视频播放器。PotPlayer美化精简增强版，由分享迷、mefcl&#39;s 提供，基于官方版本，美化图标、精简多余文件。天翼云https:/... 
-    </details> 
-
-- 🚦 [2022 年 12月 每日分享](https://iui.su/163/) | Sat Dec 31 2022 9:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。12月31日漫画大全iOS... 
     </details> 
 <!-- iui:END -->
 
