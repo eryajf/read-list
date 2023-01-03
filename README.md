@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [FreeBuf早报 | 谷歌将支付2950万美元诉讼费；加拿大矿业公司遭攻击后关闭](https://www.freebuf.com/articles/354087.html) | Mon Jan 02 2023 9:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    全球动态1.LockBit被破解！日本警方已帮助3家企业恢复数据据日本媒体报道，日本警察厅已成功解密由LockBit勒索软件组织加密的文件，帮助至少 3 家公司在没有支付赎金的情况下恢复了数据。【阅读原文】2.勒索软件团伙克隆受害者的网站以泄露被盗数据ALPHV 勒索软件运营商在勒索策略上发挥了创意，至少在一个案例中，创建了受害者网站的复制品以在其上发布被盗数据。【外刊-阅读原文】3.美国路易斯安 
+    </details> 
+
 - 🦄 [在这场2022京麒网络安全大会，我看到了京东安全的新格局](https://www.freebuf.com/articles/network/353975.html) | Fri Dec 30 2022 8:28 AM 
     <details><summary>展开描述 ...</summary> 
     12月29日至30日，京东集团联合多家生态社区伙伴共同举办2022京麒网络安全大会，大会主题“新格局、新理念、新安全”。 
     </details> 
 
-- 🦄 [FreeBuf 周报 | 马斯克裁员75%后、推特出现全球宕机；攻击者窃取推特 4 亿数据并出售](https://www.freebuf.com/news/353948.html) | Fri Dec 30 2022 7:33 AM 
+- 🦅 [FreeBuf 周报 | 马斯克裁员75%后、推特出现全球宕机；攻击者窃取推特 4 亿数据并出售](https://www.freebuf.com/news/353948.html) | Fri Dec 30 2022 7:33 AM 
     <details><summary>展开描述 ...</summary> 
     文章总结本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
     </details> 
 
-- 🦅 [黑客可以监听用户对话！谷歌 Home 音箱出现安全问题](https://www.freebuf.com/news/353938.html) | Fri Dec 30 2022 7:17 AM 
+- 🪄 [黑客可以监听用户对话！谷歌 Home 音箱出现安全问题](https://www.freebuf.com/news/353938.html) | Fri Dec 30 2022 7:17 AM 
     <details><summary>展开描述 ...</summary> 
     Google Home 智能音箱中出现一个安全漏洞，攻击者可以利用漏洞安装后门账户，远程控制音箱。 
     </details> 
 
-- 🪄 [LockBit被破解！日本警方已帮助3家企业恢复数据](https://www.freebuf.com/articles/353927.html) | Fri Dec 30 2022 6:13 AM 
+- 💻 [LockBit被破解！日本警方已帮助3家企业恢复数据](https://www.freebuf.com/articles/353927.html) | Fri Dec 30 2022 6:13 AM 
     <details><summary>展开描述 ...</summary> 
     日本警察厅已成功解密由LockBit勒索软件组织加密的文件，帮助至少 3 家公司在没有支付赎金的情况下恢复了数据。 
-    </details> 
-
-- 💻 [马斯克疯狂裁员75%后，推特出现全球宕机](https://www.freebuf.com/news/353919.html) | Fri Dec 30 2022 5:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    上万名Twitter用户报告Twitter出现故障，用户无法访问该网站或使用其主要功能。 
     </details> 
 <!-- freebuf:END -->
 
