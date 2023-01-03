@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [【读者福利】FreeBuf编辑羊了，只能“开发”来了](https://www.freebuf.com/fevents/354169.html) | Tue Jan 03 2023 9:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    领福利啦，几万个G的学习资料还有兔  等你来~ 
+    </details> 
+
 - 🦄 [波兰安全机构发布警告将应对亲俄黑客全方位、多手段的网络攻击](https://www.freebuf.com/news/354107.html) | Tue Jan 03 2023 3:18 AM 
     <details><summary>展开描述 ...</summary> 
     自俄乌冲突以来，波兰一直是亲俄黑客进行网络攻击的目标。这些攻击几乎针对波兰的任何实体，包括政府部门、私人组织、媒体机构。 
     </details> 
 
-- 🦄 [谷歌同意支付 2950 万美元，以解决两起追踪用户位置信息的诉讼案](https://www.freebuf.com/news/354106.html) | Tue Jan 03 2023 3:09 AM 
+- 🦅 [谷歌同意支付 2950 万美元，以解决两起追踪用户位置信息的诉讼案](https://www.freebuf.com/news/354106.html) | Tue Jan 03 2023 3:09 AM 
     <details><summary>展开描述 ...</summary> 
     谷歌同意支付总计 2950 万美元。以了结两起与追踪用户位置相关的诉讼。 
     </details> 
 
-- 🦅 [LockBit竟然道歉了！并为受害者发布解密器](https://www.freebuf.com/news/354101.html) | Tue Jan 03 2023 2:44 AM 
+- 🪄 [LockBit竟然道歉了！并为受害者发布解密器](https://www.freebuf.com/news/354101.html) | Tue Jan 03 2023 2:44 AM 
     <details><summary>展开描述 ...</summary> 
     LockBit宣布为袭击位于多伦多的儿童医院SickKids而道歉，并免费给受害者解密器用来解密被加密的文件。 
     </details> 
 
-- 🪄 [FreeBuf早报 | 谷歌将支付近三千万美元和解位置跟踪；加拿大矿业公司遭攻击后关闭](https://www.freebuf.com/news/354087.html) | Mon Jan 02 2023 9:52 AM 
+- 💻 [FreeBuf早报 | 谷歌将支付近三千万美元和解位置跟踪；加拿大矿业公司遭攻击后关闭](https://www.freebuf.com/news/354087.html) | Mon Jan 02 2023 9:52 AM 
     <details><summary>展开描述 ...</summary> 
     谷歌已同意支付总计2950万美元，以解决印第安纳州和华盛顿特区就其“欺骗性”位置跟踪做法提起的两起不同的诉讼。 
-    </details> 
-
-- 💻 [在这场2022京麒网络安全大会，我看到了京东安全的新格局](https://www.freebuf.com/articles/network/353975.html) | Fri Dec 30 2022 8:28 AM 
-    <details><summary>展开描述 ...</summary> 
-    12月29日至30日，京东集团联合多家生态社区伙伴共同举办2022京麒网络安全大会，大会主题“新格局、新理念、新安全”。 
     </details> 
 <!-- freebuf:END -->
 
