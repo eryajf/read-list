@@ -311,7 +311,7 @@
     谷歌同意支付总计 2950 万美元。以了结两起与追踪用户位置相关的诉讼。 
     </details> 
 
-- 🦅 [Lockbit竟然道歉了！并为受害者发布解密器](https://www.freebuf.com/news/354101.html) | Tue Jan 03 2023 2:44 AM 
+- 🦅 [LockBit竟然道歉了！并为受害者发布解密器](https://www.freebuf.com/news/354101.html) | Tue Jan 03 2023 2:44 AM 
     <details><summary>展开描述 ...</summary> 
     LockBit宣布为袭击位于多伦多的儿童医院SickKids而道歉，并免费给受害者解密器用来解密被加密的文件。 
     </details> 
