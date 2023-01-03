@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：Dark Sky 停止运营、海信 Hi Reader Pro 发布等](https://sspai.com/post/77585) | Tue Jan 03 2023 12:38 AM 
+- 👹 [搭在乐高积木上的机械键盘：MelGeek Pixel 开箱体验](https://sspai.com/post/77589) | Tue Jan 03 2023 3:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    Pixel 积木键盘的整个包装，都给人一种「这是一份好玩的礼物」的感觉，这符合这把键盘创意、好玩的产品定位，也符合它作为一把售价 1699 的昂贵机械键盘的「礼物属性」。&lt;a href=&quot;https://sspai.com/post/77589&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派早报：Dark Sky 停止运营、海信 Hi Reader Pro 发布等](https://sspai.com/post/77585) | Tue Jan 03 2023 12:38 AM 
     <details><summary>展开描述 ...</summary> 
     iPhone 14 系列之前机型保外电池服务费用将增加，多亲 Qin3 系列手机开启预购等。&lt;a href=&quot;https://sspai.com/post/77585&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [幕后 | 一款热门三消游戏的背后：对话 3 Tiles 开发团队](https://sspai.com/post/77575) | Mon Jan 02 2023 7:00 AM 
+- 🤭 [幕后 | 一款热门三消游戏的背后：对话 3 Tiles 开发团队](https://sspai.com/post/77575) | Mon Jan 02 2023 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     少数派联系到了热门 3 消游戏作品 3 Tiles 的开发团队 Appsulove，和他们一起探讨了对于如何做好一款游戏的诸多经验与见解，以及对于众多模仿者的相关看法。&lt;a href=&quot;https://sspai.com/post/77575&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [设计实战分析：用两天完成一次线下活动的物料设计](https://sspai.com/post/77572) | Sun Jan 01 2023 9:06 AM 
+- 🥸 [设计实战分析：用两天完成一次线下活动的物料设计](https://sspai.com/post/77572) | Sun Jan 01 2023 9:06 AM 
     <details><summary>展开描述 ...</summary> 
     我们在直播回放视频的基础上，为各位整理了内容梗概和知识点，配合时间戳可在视频中直接找到相应内容。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/post/77572&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为付费栏目文章，出自&lt;a href=&quot;https://sspai.com/series/269&quot; target=&quot;_blank&quot;&gt;《100 小时后请叫我设计师》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🥸 [少数派 2022 年度征文：高分创作，年度悬赏](https://sspai.com/post/77562) | Sat Dec 31 2022 4:00 PM 
+- 🙉 [少数派 2022 年度征文：高分创作，年度悬赏](https://sspai.com/post/77562) | Sat Dec 31 2022 4:00 PM 
     <details><summary>展开描述 ...</summary> 
     最高 10 倍稿酬相送，悬赏好文章。&lt;a href=&quot;https://sspai.com/post/77562&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [旧手机的智能家居新使命：如何用 Notifya 把好门关](https://sspai.com/post/77556) | Sat Dec 31 2022 7:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    所以除了把旧手机交给 Apple 来「免费回收」，给它们充上电、在「力所能及」的场景里继续发光发热也是一个值得思考的方案。&lt;a href=&quot;https://sspai.com/post/77556&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
