@@ -667,29 +667,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0103](http://jandan.net/p/112080) | Tue Jan 03 2023 2:26 AM 
+- 🚀 [Quora：如何报复负心人](http://jandan.net/p/112076) | Tue Jan 03 2023 4:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    “你不能通过伤害他人来修复你自己” 
+    </details> 
+
+- 🙉 [五个令科学家费解的惊人发现](http://jandan.net/p/112074) | Tue Jan 03 2023 4:23 AM 
+    <details><summary>展开描述 ...</summary> 
+    老鼠保留了大量可能腐烂的有机文物。 
+    </details> 
+
+- 🎉 [今日好价 0103](http://jandan.net/p/112080) | Tue Jan 03 2023 4:22 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：32 
     </details> 
 
-- 🙉 [睡眠中的玻璃蛙通过把大部分血细胞储存在肝脏中来隐藏自己](http://jandan.net/p/112079) | Mon Jan 02 2023 8:31 AM 
+- 🐲 [深度学习是如何工作的](http://jandan.net/p/112077) | Tue Jan 03 2023 4:21 AM 
+    <details><summary>展开描述 ...</summary> 
+    驱动当今人工智能的神经网络内核 
+    </details> 
+
+-  [睡眠中的玻璃蛙通过把大部分血细胞储存在肝脏中来隐藏自己](http://jandan.net/p/112079) | Mon Jan 02 2023 8:31 AM 
     <details><summary>展开描述 ...</summary> 
     而且这样做也没有副作用。 
-    </details> 
-
-- 🎉 [“我厌倦了假装新冠疫情已经结束”](http://jandan.net/p/112066) | Mon Jan 02 2023 5:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    疫情成为我们陷入的又一个灾难性循环。 
-    </details> 
-
-- 🐲 [Quora：为什么越来越多的科学家反对进化论？](http://jandan.net/p/112068) | Mon Jan 02 2023 5:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    因为创造论者在伪造数据。 
-    </details> 
-
--  [virovory：首次发现以病毒为食的生物](http://jandan.net/p/112065) | Mon Jan 02 2023 5:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    就像食草动物，食肉动物，以后会有一个分类——食病毒生物 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
