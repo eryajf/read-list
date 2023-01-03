@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [有没有免费的云渲染平台？](https://juejin.cn/post/7184400520583315515) | Tue Jan 03 2023 12:23 PM 
+- 🤗 [评论二则：年龄大了能否写代码、上大学不喜欢IT专业咋整](https://juejin.cn/post/7184421852381937719) | Tue Jan 03 2023 1:48 PM 
+    <details><summary>展开描述 ...</summary> 
+    下班了，你背着包第一个走，这就是不好。工作群里深夜发信息，他回复收到，能24小时待命，这就是好。我始终感觉我们没有任何核心技术…… 
+    </details> 
+
+- 🎡 [如何用 Redis 统计用户访问量？](https://juejin.cn/post/7184420946554388536) | Tue Jan 03 2023 1:44 PM 
+    <details><summary>展开描述 ...</summary> 
+    拼多多有数亿的用户，那么对于某个网页，怎么使用Redis来统计一个网站的用户访问数呢？ 1、Hash 哈希是Redis的一种基础数据结构，Redis底层维护的是一个开散列，会把不同的key映射到哈希表 
+    </details> 
+
+- 🕯 [微前端方案 qiankun 的样式隔离比较坑，能不用就别用吧](https://juejin.cn/post/7184419253087535165) | Tue Jan 03 2023 1:38 PM 
+    <details><summary>展开描述 ...</summary> 
+    qiankun 是主流的微前端方案，其他的还有京东的 micro-app、腾讯的 wujie 等。 微前端就是可以一个页面跑多个 vue、react 甚至 jquery 等不同项目，它之间的 JS、C 
+    </details> 
+
+- 🚀 [再快一点？动态内容如何加速](https://juejin.cn/post/7184417704078508090) | Tue Jan 03 2023 1:31 PM 
+    <details><summary>展开描述 ...</summary> 
+    近年来 Web 3 的概念在程序员的小圈子也几乎是人尽皆知了。功能再强，噱头再足，但是如果访问速度没有跟上，一起都是浮云。 
+    </details> 
+
+- 💪 [有没有免费的云渲染平台？](https://juejin.cn/post/7184400520583315515) | Tue Jan 03 2023 12:23 PM 
     <details><summary>展开描述 ...</summary> 
     有没有免费的云渲染平台？相信很多人在找云渲染平台的时候都会先网上查找下有没有免费的平台可以使用，而且也确实看到很多云渲染平台写着“免费渲染”，所以这免费是真的免费还是只是一个噱头呢？ 
-    </details> 
-
-- 🎡 [【重学C/C++系列（二）】：extern关键字用法全解析](https://juejin.cn/post/7184392083493355557) | Tue Jan 03 2023 11:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    🔥 Hi，我是小余。 本文已收录到 GitHub · Androider-Planet 中。这里有 Android 进阶成长知识体系，关注公众号 [小余的自习室] ，在成功的路上不迷路！ 前言 ext 
-    </details> 
-
-- 🕯 [相学长的2022年度总结](https://juejin.cn/post/7184382077477847095) | Tue Jan 03 2023 11:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    今年的总结相对意识流，并非十分体系化。作为我的读者，你可以把我当一个话痨子，或者把我当做一个朋友，倾听一下我这一年的一些故事。 
-    </details> 
-
-- 🚀 [梦开始的地方](https://juejin.cn/post/7184382028064751672) | Tue Jan 03 2023 11:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    本人是95前端菜鸟一枚，目前在广州打工混口饭吃。刚好换了工作，感觉生活节奏变得慢了下来，打了这么多年工总觉得想纪录些什么，怕以后自己老了忘记自己还有这么一些风流往事。书接上回。 
-    </details> 
-
-- 💪 [面试加分，Github 代码热力图，一键填充](https://juejin.cn/post/7184378367225888805) | Tue Jan 03 2023 11:01 AM 
-    <details><summary>展开描述 ...</summary> 
-    写了一个脚本，用来填充 Github 的代码提交热力图，效果如下图所示： 此脚本支持跨年度，直接提供开始日期和结束日期，即可生成此时间区间的所有 Git Commit 信息。 使用 克隆本仓库（ ht 
     </details> 
 <!-- juejin:END -->
 ### 少数派
