@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [vue3 源码学习，实现一个 mini-vue（五）：watch 侦听器](https://juejin.cn/post/7184088829014310971) | Mon Jan 02 2023 4:27 PM 
+- 🤗 [张晋涛：我的 2022 总结](https://juejin.cn/post/7184226135520051237) | Tue Jan 03 2023 1:06 AM 
     <details><summary>展开描述 ...</summary> 
-    1. 前言 本片文章原文来自 我的个人博客 这是 《vue3 源码学习，实现一个 mini-vue》 系列文章 响应式模块 的最后一章了，在前面几章我们分别介绍了 reactive、ref 以及 co 
+    大家好，我是张晋涛。 2022 年已经结束，我每年都会惯例的做个小回顾，今年因为阳了在恢复身体，一直拖到了今天才写。 
     </details> 
 
-- 🎡 [这几个SQL语法的坑，你踩过吗？](https://juejin.cn/post/7184085677888913465) | Mon Jan 02 2023 4:03 PM 
+- 🎡 [如何保证接口幂等性？一口气说了12种方法！](https://juejin.cn/post/7184224735432015929) | Tue Jan 03 2023 1:01 AM 
     <details><summary>展开描述 ...</summary> 
-    8种最坑SQL语法 大家好，我是大彬~ 今天给大家分享几个SQL常见的“坏毛病”及优化技巧。 SQL语句的执行顺序： 1、LIMIT 语句 分页查询是最常用的场景之一，但也通常也是最容易出问题的地方。 
+    大家好，我是大彬~ 今天来聊聊接口幂等性。 什么是接口幂等性？如何保证接口幂等性？ 什么是接口幂等性？ 首先看看幂等性的概念： 幂等性原本是数学上的概念，用在接口上就可以理解为：同一个接口，多次发出同 
     </details> 
 
-- 🕯 [一次简单的 JVM 调优，拿去写到简历里](https://juejin.cn/post/7184047757869449273) | Mon Jan 02 2023 1:37 PM 
+- 🕯 [2022倒带-NutUI](https://juejin.cn/post/7184224060673359933) | Tue Jan 03 2023 12:59 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是大彬。 JVM调优一直是面试官很喜欢问的问题。周末在网上看到一篇JVM调优的文章，给大家分享一下。 背景 最近对负责的项目进行了一次性能优化，其中包括对 JVM 参数的调整，算是进行了一次 
+    时光飞逝，流年似水，让我们倒带 2022，回首这跌宕起伏一年走过的 “升级之路”。 NutUI 表现如何？ 成绩单等着您打分！ 
     </details> 
 
-- 🚀 [2023想说的一些事](https://juejin.cn/post/7184035393161920571) | Mon Jan 02 2023 12:48 PM 
+- 🚀 [你的 GitHub 年度报告「GitHub 热点速览 v.22.52」](https://juejin.cn/post/7184219686953812025) | Tue Jan 03 2023 12:44 AM 
     <details><summary>展开描述 ...</summary> 
-    元旦假期的最后一天，其实之前想了很多，但是最后还是简短的说一些吧...... 其实作为技术人，我们面对的貌似只有业务、加班，很多人说程序员没有生活，其实这仅仅是偏见，但是作为正能量的博主，还是说点实际 
+    辞旧迎新的日子，又是年度报告满天飞的时候。GitHub 也不落其他平台之后，推出了用户 GitHub Contributions 报告。不知道，今年的你是不是比去年搬了更多的砖呢？在本期的 News  
     </details> 
 
-- 💪 [K8S的pod基础](https://juejin.cn/post/7184033335692230716) | Mon Jan 02 2023 12:41 PM 
+- 💪 [将Android进行到底之服务（service）](https://juejin.cn/post/7184212906890756133) | Tue Jan 03 2023 12:24 AM 
     <details><summary>展开描述 ...</summary> 
-    pod基础概念 pod是kubernetes中最小的资源管理组件，Pod也是最小化运行容器化应用的资源对象。一个Pod代表着集群中运行的一个进程。kubernetes中其他大多数组件都是用绕着Pod来 
+    近些年随着VR眼镜的兴起，Android的的服务（Service）和广播（Broadcast）以及内容提供者（Content Provider）越来越被重用.服务的用处很多，进程间通信、后台下载、线程 
     </details> 
 <!-- juejin:END -->
 ### 少数派
