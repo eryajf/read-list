@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [超60%开发者跳过槽、Vue是国内最具认知度前端框架、Java仍是企业级编程语言首选，2022中国开发者生态调研报告重磅发布](https://juejin.cn/post/7184284976702521401) | Tue Jan 03 2023 4:58 AM 
+- 🤗 [2022 倒带 - NutUI](https://juejin.cn/post/7184299594346905661) | Tue Jan 03 2023 5:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    时光飞逝，流年似水，让我们倒带 2022，回首这跌宕起伏一年走过的 “升级之路”。 NutUI 表现如何？ 成绩单等着您打分！ 
+    </details> 
+
+- 🎡 [超60%开发者跳过槽、Vue是国内最具认知度前端框架、Java仍是企业级编程语言首选，2022中国开发者生态调研报告重磅发布](https://juejin.cn/post/7184284976702521401) | Tue Jan 03 2023 4:58 AM 
     <details><summary>展开描述 ...</summary> 
     稀土掘金技术社区充分发挥自身优势以及市场洞察能力，发布《稀土掘金 2022 中国开发者生态报告》，想要了解更多报告内容，欢迎点击链接获取全文吧~ 
     </details> 
 
-- 🎡 [【综合笔试题】难度 3/5，近期小厂面试原题](https://juejin.cn/post/7184277431790862397) | Tue Jan 03 2023 4:27 AM 
+- 🕯 [【综合笔试题】难度 3/5，近期小厂面试原题](https://juejin.cn/post/7184277431790862397) | Tue Jan 03 2023 4:27 AM 
     <details><summary>展开描述 ...</summary> 
     题目描述 这是 LeetCode 上的 1239. 串联字符串的最大长度 ，难度为 中等。 Tag : 「DFS」、「二进制枚举」、「模拟退火」、「随机化」、「启发式搜索」 给定一个字符串数组 arr 
     </details> 
 
-- 🕯 [手把手带你开发starter，点对点带你讲解原理](https://juejin.cn/post/7184263606031581241) | Tue Jan 03 2023 3:34 AM 
+- 🚀 [手把手带你开发starter，点对点带你讲解原理](https://juejin.cn/post/7184263606031581241) | Tue Jan 03 2023 3:34 AM 
     <details><summary>展开描述 ...</summary> 
     京东物流 孔祥东 1. 为什么要用Starter? 现在我们就来回忆一下，在还没有Spring-boot框架的时候，我们使用Spring 开发项目，如果需要某一个框架，例如mybatis，我们的步骤一 
     </details> 
 
-- 🚀 [华为云服务器宕机，阿里云无人撼动！](https://juejin.cn/post/7184262952613052453) | Tue Jan 03 2023 3:31 AM 
+- 💪 [华为云服务器宕机，阿里云无人撼动！](https://juejin.cn/post/7184262952613052453) | Tue Jan 03 2023 3:31 AM 
     <details><summary>展开描述 ...</summary> 
     华为云的宕机事件引起舆论轩然大波。 2022年4月10日上午9时左右，华为云“挂了”的话题频繁出现在微博等公众平台。 
-    </details> 
-
-- 💪 [Gobrs-Async 1.2.9-RELEASE 高性能并发编程框架](https://juejin.cn/post/7184258779003748413) | Tue Jan 03 2023 3:14 AM 
-    <details><summary>展开描述 ...</summary> 
-    Gobrs-Async 1.2.9-RELEASE 高性能并发编程框架 前言 大家好！ 元旦快乐！很高兴又和大家见面啦！在新的一年里祝大家元旦快乐 大吉大利！心想事成！平平安安！万事如意 
     </details> 
 <!-- juejin:END -->
 ### 少数派
