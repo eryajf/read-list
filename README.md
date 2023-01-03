@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [你可能需要的React开发小技巧！](https://juejin.cn/post/7184358781738811449) | Tue Jan 03 2023 9:42 AM 
+- 🤗 [面试加分，Github 代码热力图，一键填充](https://juejin.cn/post/7184378367225888805) | Tue Jan 03 2023 11:01 AM 
+    <details><summary>展开描述 ...</summary> 
+    写了一个脚本，用来填充 Github 的代码提交热力图，效果如下图所示： 此脚本支持跨年度，直接提供开始日期和结束日期，即可生成此时间区间的所有 Git Commit 信息。 使用 克隆本仓库（ ht 
+    </details> 
+
+- 🎡 [你可能需要的React开发小技巧！](https://juejin.cn/post/7184358781738811449) | Tue Jan 03 2023 9:42 AM 
     <details><summary>展开描述 ...</summary> 
     大家好，我是 CUGGZ。 今天来分享 10 个编写更简洁 React 代码的实用小技巧！ 1. JSX 简写 如何将 true 值传递给给定的 props？ 在下面的示例中，使用 prop show 
     </details> 
 
-- 🎡 [使用海外HTTP代理会有延迟吗？](https://juejin.cn/post/7184358645214216247) | Tue Jan 03 2023 9:41 AM 
+- 🕯 [使用海外HTTP代理会有延迟吗？](https://juejin.cn/post/7184358645214216247) | Tue Jan 03 2023 9:41 AM 
     <details><summary>展开描述 ...</summary> 
     我们在工作中往往需要用到海外海外代理IP，但是在用海外海外代理IP的时候，有时候会遇到网络延迟现象，甚至有时候延迟还特别严重，这是怎么回事呢？接下来会为大家具体分析使用海外代理IP延迟高的原因。 首先 
     </details> 
 
-- 🕯 [算法问题：如何在不把数字转为字符串的前提下反转数字](https://juejin.cn/post/7184357886435262524) | Tue Jan 03 2023 9:38 AM 
+- 🚀 [算法问题：如何在不把数字转为字符串的前提下反转数字](https://juejin.cn/post/7184357886435262524) | Tue Jan 03 2023 9:38 AM 
     <details><summary>展开描述 ...</summary> 
     题目要求 问题要求是：把一组Integer类型的数字进行反转，前提是不能把数字转为String。 例如，输入 123456，输出 654321。 
     </details> 
 
-- 🚀 [Rust学习笔记之基础概念](https://juejin.cn/post/7184357581186891832) | Tue Jan 03 2023 9:37 AM 
+- 💪 [Rust学习笔记之基础概念](https://juejin.cn/post/7184357581186891832) | Tue Jan 03 2023 9:37 AM 
     <details><summary>展开描述 ...</summary> 
     大家好，我是柒八九。 今天，我们继续Rust学习笔记的探索。我们来谈谈关于基础概念的相关知识点。 要么我说了算，要么我什么也不说 -- 拿破仑 
-    </details> 
-
-- 💪 [CAS乐观锁](https://juejin.cn/post/7184357179053310013) | Tue Jan 03 2023 9:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    乐观锁CAS和悲观锁synchronized Compare and Swap，简称CAS，是一种通过乐观锁保证变量操作原子性的机制。与synchronized锁相比，CAS原子更新方式代表一种不 
     </details> 
 <!-- juejin:END -->
 ### 少数派
