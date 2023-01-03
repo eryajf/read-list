@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [其实你们 base64 让爬虫更好收集联系方式了](https://www.v2ex.com/t/906333#reply0) | Tue Jan 03 2023 10:13 AM
-- 🤗 [k8s Lens 这个应用已经废了，分享自己 build 的 OpenLens 包](https://www.v2ex.com/t/906332#reply0) | Tue Jan 03 2023 10:12 AM
-- 🎭 [Postgresql 升级问题](https://www.v2ex.com/t/906314#reply2) | Tue Jan 03 2023 9:26 AM
-- 🥷 [请教一个 pm2 的问题](https://www.v2ex.com/t/906307#reply5) | Tue Jan 03 2023 9:08 AM
-- 🐵 [求助 iptables 开放端口无效](https://www.v2ex.com/t/906306#reply2) | Tue Jan 03 2023 9:05 AM<!-- v2ex:END -->
+- 🥸 [买房子，存款嗖的一声全刷了](https://www.v2ex.com/t/906339#reply18) | Tue Jan 03 2023 10:48 AM
+- 🤗 [其实你们 base64 让爬虫更好收集联系方式了](https://www.v2ex.com/t/906333#reply1) | Tue Jan 03 2023 10:13 AM
+- 🎭 [k8s Lens 这个应用已经废了，分享自己 build 的 OpenLens 包](https://www.v2ex.com/t/906332#reply6) | Tue Jan 03 2023 10:12 AM
+- 🥷 [Postgresql 升级问题](https://www.v2ex.com/t/906314#reply2) | Tue Jan 03 2023 9:26 AM
+- 🐵 [请教一个 pm2 的问题](https://www.v2ex.com/t/906307#reply5) | Tue Jan 03 2023 9:08 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
