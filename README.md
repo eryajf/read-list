@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [张晋涛：我的 2022 总结](https://juejin.cn/post/7184226135520051237) | Tue Jan 03 2023 1:06 AM 
+- 🤗 [了解下 Rust 的所有权机制](https://juejin.cn/post/7184247646293819451) | Tue Jan 03 2023 2:30 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是张晋涛。 2022 年已经结束，我每年都会惯例的做个小回顾，今年因为阳了在恢复身体，一直拖到了今天才写。 
+    what&#39;s ownership? 常见的高级语言都有自己的 Garbage Collection（GC）机制来管理程序运行的内存，例如 Java、Go 等。而 Rust 引入了一种全新的内存管理机制 
     </details> 
 
-- 🎡 [如何保证接口幂等性？一口气说了12种方法！](https://juejin.cn/post/7184224735432015929) | Tue Jan 03 2023 1:01 AM 
+- 🎡 [从源代码构建TensorFlow流程记录](https://juejin.cn/post/7184246589278388279) | Tue Jan 03 2023 2:26 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是大彬~ 今天来聊聊接口幂等性。 什么是接口幂等性？如何保证接口幂等性？ 什么是接口幂等性？ 首先看看幂等性的概念： 幂等性原本是数学上的概念，用在接口上就可以理解为：同一个接口，多次发出同 
+    为什么从源代码构建 通常情况下，直接安装构建好的.whl即可。不过，当需要一些特殊配置的时候，则需要选择从源代码构建Tensorflow。 
     </details> 
 
-- 🕯 [2022倒带-NutUI](https://juejin.cn/post/7184224060673359933) | Tue Jan 03 2023 12:59 AM 
+- 🕯 [HoudahSpot for Mac&lpar;多功能文件搜索软件&rpar;](https://juejin.cn/post/7184244478834638903) | Tue Jan 03 2023 2:18 AM 
     <details><summary>展开描述 ...</summary> 
-    时光飞逝，流年似水，让我们倒带 2022，回首这跌宕起伏一年走过的 “升级之路”。 NutUI 表现如何？ 成绩单等着您打分！ 
+    Mac哪款文件搜索软件好用呢？HoudahSpot for mac是Mac上的一款帮助用户更快更好的搜索自己想要的文件，HoudahSpot for mac是一款构建苹果公司的强大的Spotlight 
     </details> 
 
-- 🚀 [你的 GitHub 年度报告「GitHub 热点速览 v.22.52」](https://juejin.cn/post/7184219686953812025) | Tue Jan 03 2023 12:44 AM 
+- 🚀 [Little Snitch 5 for Mac&lpar;小飞贼防火墙&rpar;](https://juejin.cn/post/7184244017930960955) | Tue Jan 03 2023 2:17 AM 
     <details><summary>展开描述 ...</summary> 
-    辞旧迎新的日子，又是年度报告满天飞的时候。GitHub 也不落其他平台之后，推出了用户 GitHub Contributions 报告。不知道，今年的你是不是比去年搬了更多的砖呢？在本期的 News  
+    Little Snitch 5 for Mac是应用在mac上的一款小飞贼系统安全防火墙软件，可快速的扫描您电脑里面的病毒，并且进行清除，当一个程序试图建立一个传出的互联网连接时。 Little Sn 
     </details> 
 
-- 💪 [将Android进行到底之服务（service）](https://juejin.cn/post/7184212906890756133) | Tue Jan 03 2023 12:24 AM 
+- 💪 [聊聊业务项目如何主动感知mysql是否存活](https://juejin.cn/post/7184240942918926396) | Tue Jan 03 2023 2:04 AM 
     <details><summary>展开描述 ...</summary> 
-    近些年随着VR眼镜的兴起，Android的的服务（Service）和广播（Broadcast）以及内容提供者（Content Provider）越来越被重用.服务的用处很多，进程间通信、后台下载、线程 
+    前言 先前写过一篇文章聊聊如何利用redis实现多级缓存同步,里面讲到业务部门因数据库宕机，有技术提出当数据库宕机，切换到redis，今天我们就来聊聊如何触发这个切换动作？ 1、方案一：利用异常机制  
     </details> 
 <!-- juejin:END -->
 ### 少数派
