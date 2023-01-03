@@ -686,9 +686,9 @@
     驱动当今人工智能的神经网络内核 
     </details> 
 
--  [睡眠中的玻璃蛙通过把大部分血细胞储存在肝脏中来隐藏自己](http://jandan.net/p/112079) | Mon Jan 02 2023 8:31 AM 
+-  [初步显示，低和中等水平的压力有助于我们的短期记忆](http://jandan.net/p/112082) | Tue Jan 03 2023 3:31 AM 
     <details><summary>展开描述 ...</summary> 
-    而且这样做也没有副作用。 
+    毒物兴奋效应假说 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
