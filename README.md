@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Ray -分布式计算框架架构设计详解 v2](https://juejin.cn/post/7184323768540463161) | Tue Jan 03 2023 7:26 AM 
+- 🤗 [Monorepo 下 Git 工作流的最佳实践](https://juejin.cn/post/7184345662597627965) | Tue Jan 03 2023 8:51 AM 
     <details><summary>展开描述 ...</summary> 
-    2022年12月28日 72 min read 架构 综述 Ray 是一个为了给分布式提供通用的 API 发明出来的分布式计算框架，希望通过简单但通用的抽象编程方式，让系统自动完成所有的工作。Ray  
+    本文从适合小型 Monorepo 的 Feature branch 工作流开始分享，接着分享适用于中大型 Monorepo 的 Trunk-based 工作流，并给出一些选型标准供参考。 
     </details> 
 
-- 🎡 [解密秒杀系统架构：不是所有的秒杀都是秒杀](https://juejin.cn/post/7184315192472240165) | Tue Jan 03 2023 6:52 AM 
+- 🎡 [Monorepo 下 Git 工作流的最佳实践](https://juejin.cn/post/7184344160151961661) | Tue Jan 03 2023 8:45 AM 
     <details><summary>展开描述 ...</summary> 
-    本文分享自华为云社区《【高并发】秒杀系统架构解密，不是所有的秒杀都是秒杀（升级版）！！》，究竟什么样的系统算是高并发系统？今天，我们就一起解密高并发业务场景下典型的秒杀系统的架构。 
+    本文从适合小型 Monorepo 的 Feature branch 工作流开始分享，接着分享适用于中大型 Monorepo 的 Trunk-based 工作流，并给出一些选型标准供参考。 
     </details> 
 
-- 🕯 [如何看待PyTorch 2.0？](https://juejin.cn/post/7184312769771438135) | Tue Jan 03 2023 6:42 AM 
+- 🕯 [Django开发员工管理系统（Part I）](https://juejin.cn/post/7184332567393337405) | Tue Jan 03 2023 8:00 AM 
     <details><summary>展开描述 ...</summary> 
-    Graph capture 把用户 Python 写的模型代码变成 graph是一切编译的根基。而 PyTorch 似乎已经锁定 TorchDynamo 作为 graph capture 的未来方向。 
+    使用Django框架开发网站的第一部分，主要的内容包括jQuery、bootstrap的使用，模板的继承以及ModelForm的使用等... 
     </details> 
 
-- 🚀 [从Redis、HTTP协议，看Nett协议设计，我发现了个惊天大秘密](https://juejin.cn/post/7184312570260488251) | Tue Jan 03 2023 6:42 AM 
+- 🚀 [性能成本难两全？OpenMLDB 实时计算双存储引擎让你不必纠结（附测评报告）](https://juejin.cn/post/7184329572245045285) | Tue Jan 03 2023 7:49 AM 
     <details><summary>展开描述 ...</summary> 
-     ## 1. 协议的作用 TCP/IP 中消息传输基于流的方式，没有边界 **协议的目的就是划定消息的边界，制定通信双方要共同遵守的通信规则** ## 2. Redis 协议 如果我 
+    内存和磁盘的双存储引擎架构 1.1 使用场景描述 OpenMLDB 的线上服务部分为了满足不同的性能和成本需求，提供了两种分别基于内存和磁盘的存储引擎。 
     </details> 
 
-- 💪 [El-Table 源码解析&lpar;二&rpar;——探究多级表头实现原理](https://juejin.cn/post/7184309446439338043) | Tue Jan 03 2023 6:31 AM 
+- 💪 [TKE 注册节点，IDC 轻量云原生上云的最佳路径](https://juejin.cn/post/7184328414994628645) | Tue Jan 03 2023 7:45 AM 
     <details><summary>展开描述 ...</summary> 
-    继上次给 Element Plus 的 el-table 组件提了个 pr 后，总感觉源码看了这么多只提一个 pr 太亏了，根本对不起我 debugger 的时间...于是我决定，继续亏下去！ 
+    林顺利，腾讯云原生产品经理，负责分布式云产品迭代和注册节点客户扩展，专注于云原生混合云新形态的推广实践。 背景 企业在持续业务运维过程中，感受到腾讯云 TKE 带来的便捷性和极致的使用体验，将新业务的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
