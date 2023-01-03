@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [India GK Quiz - 以有趣的方式学习和测试有关印度的知识](https://xinquji.com/posts/792508?utm_campaign=xinquji-rss) | Mon Jan 02 2023 6:13 AM 
+- 👀 [Finale To Do - 个人任务管理器、计划器和习惯跟踪器](https://xinquji.com/posts/792568?utm_campaign=xinquji-rss) | Tue Jan 03 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     以有趣的方式学习和测试有关印度的知识  
+     个人任务管理器、计划器和习惯跟踪器  
     </details> 
 
-- 🥷 [Bizzmill - 业务增长规划](https://xinquji.com/posts/792536?utm_campaign=xinquji-rss) | Mon Jan 02 2023 6:00 AM 
+- 🥷 [Dewey Beta - 与我们的 AI 问责伙伴一起发短信，助您成功](https://xinquji.com/posts/792567?utm_campaign=xinquji-rss) | Tue Jan 03 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     业务增长规划  
+     与我们的 AI 问责伙伴一起发短信，助您成功  
     </details> 
 
-- 💼 [Song Sketch AI - 独一无二的艺术作品，灵感来自您的 Spotify 播放列表](https://xinquji.com/posts/792535?utm_campaign=xinquji-rss) | Mon Jan 02 2023 6:00 AM 
+- 💼 [FilmForge AI - 提示视频 - 使用 AI 立即创建引人入胜的视频](https://xinquji.com/posts/792566?utm_campaign=xinquji-rss) | Tue Jan 03 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     独一无二的艺术作品，灵感来自您的 Spotify 播放列表  
+     提示视频 - 使用 AI 立即创建引人入胜的视频  
     </details> 
 
-- 🦅 [TeamDynamic - 旨在提高士气和提高绩效的活动](https://xinquji.com/posts/792534?utm_campaign=xinquji-rss) | Mon Jan 02 2023 6:00 AM 
+- 🦅 [Prompt Theory by AE Studio - 人工智能生成图像的猜谜游戏](https://xinquji.com/posts/792565?utm_campaign=xinquji-rss) | Tue Jan 03 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     旨在提高士气和提高绩效的活动  
+     人工智能生成图像的猜谜游戏  
     </details> 
 
-- 😺 [Noni - 保护您的数字财产](https://xinquji.com/posts/792533?utm_campaign=xinquji-rss) | Mon Jan 02 2023 6:00 AM 
+- 😺 [Vasona Hire - 简化您的招聘流程](https://xinquji.com/posts/792564?utm_campaign=xinquji-rss) | Tue Jan 03 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     保护您的数字财产  
+     简化您的招聘流程  
     </details> 
 <!-- xinquji:END -->
