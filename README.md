@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [群晖通过反代安装 Vaultwarden 无法访问求助](https://www.v2ex.com/t/906147#reply3) | Mon Jan 02 2023 9:25 PM
-- 🤗 [AWS Certified Developer Associate 的题库哪里能购买到最新最全的题库?](https://www.v2ex.com/t/906143#reply0) | Mon Jan 02 2023 7:10 PM
-- 🎭 [请问 wsl 内 welcome message 如何配置？](https://www.v2ex.com/t/906142#reply0) | Mon Jan 02 2023 6:14 PM
-- 🥷 [关于 Redis 的 PTTL 命令的一个疑惑](https://www.v2ex.com/t/906135#reply2) | Mon Jan 02 2023 3:54 PM
-- 🐵 [vue3 vite3 gzip 提示 Failed to load module script](https://www.v2ex.com/t/906132#reply0) | Mon Jan 02 2023 3:29 PM<!-- v2ex:END -->
+- 🥸 [请问有大佬知道怎么在服务器中预装 Linux 操作系统么](https://www.v2ex.com/t/906156#reply0) | Tue Jan 03 2023 1:01 AM
+- 🤗 [怎么系统学习嵌入式驱动开发？](https://www.v2ex.com/t/906149#reply1) | Mon Jan 02 2023 11:38 PM
+- 🎭 [群晖通过反代安装 Vaultwarden 无法访问求助](https://www.v2ex.com/t/906147#reply5) | Mon Jan 02 2023 9:25 PM
+- 🥷 [AWS Certified Developer Associate 的题库哪里能购买到最新最全的题库?](https://www.v2ex.com/t/906143#reply0) | Mon Jan 02 2023 7:10 PM
+- 🐵 [请问 wsl 内 welcome message 如何配置？](https://www.v2ex.com/t/906142#reply1) | Mon Jan 02 2023 6:14 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
