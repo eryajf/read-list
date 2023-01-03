@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [如何看待PyTorch 2.0？](https://juejin.cn/post/7184312769771438135) | Tue Jan 03 2023 6:42 AM 
+- 🤗 [Ray -分布式计算框架架构设计详解 v2](https://juejin.cn/post/7184323768540463161) | Tue Jan 03 2023 7:26 AM 
+    <details><summary>展开描述 ...</summary> 
+    2022年12月28日 72 min read 架构 综述 Ray 是一个为了给分布式提供通用的 API 发明出来的分布式计算框架，希望通过简单但通用的抽象编程方式，让系统自动完成所有的工作。Ray  
+    </details> 
+
+- 🎡 [解密秒杀系统架构：不是所有的秒杀都是秒杀](https://juejin.cn/post/7184315192472240165) | Tue Jan 03 2023 6:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文分享自华为云社区《【高并发】秒杀系统架构解密，不是所有的秒杀都是秒杀（升级版）！！》，究竟什么样的系统算是高并发系统？今天，我们就一起解密高并发业务场景下典型的秒杀系统的架构。 
+    </details> 
+
+- 🕯 [如何看待PyTorch 2.0？](https://juejin.cn/post/7184312769771438135) | Tue Jan 03 2023 6:42 AM 
     <details><summary>展开描述 ...</summary> 
     Graph capture 把用户 Python 写的模型代码变成 graph是一切编译的根基。而 PyTorch 似乎已经锁定 TorchDynamo 作为 graph capture 的未来方向。 
     </details> 
 
-- 🎡 [从Redis、HTTP协议，看Nett协议设计，我发现了个惊天大秘密](https://juejin.cn/post/7184312570260488251) | Tue Jan 03 2023 6:42 AM 
+- 🚀 [从Redis、HTTP协议，看Nett协议设计，我发现了个惊天大秘密](https://juejin.cn/post/7184312570260488251) | Tue Jan 03 2023 6:42 AM 
     <details><summary>展开描述 ...</summary> 
      ## 1. 协议的作用 TCP/IP 中消息传输基于流的方式，没有边界 **协议的目的就是划定消息的边界，制定通信双方要共同遵守的通信规则** ## 2. Redis 协议 如果我 
     </details> 
 
-- 🕯 [El-Table 源码解析&lpar;二&rpar;——探究多级表头实现原理](https://juejin.cn/post/7184309446439338043) | Tue Jan 03 2023 6:31 AM 
+- 💪 [El-Table 源码解析&lpar;二&rpar;——探究多级表头实现原理](https://juejin.cn/post/7184309446439338043) | Tue Jan 03 2023 6:31 AM 
     <details><summary>展开描述 ...</summary> 
     继上次给 Element Plus 的 el-table 组件提了个 pr 后，总感觉源码看了这么多只提一个 pr 太亏了，根本对不起我 debugger 的时间...于是我决定，继续亏下去！ 
-    </details> 
-
-- 🚀 [TorchDynamo初探：Python ByteCode的动态修改](https://juejin.cn/post/7184307116352471101) | Tue Jan 03 2023 6:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    深度学习框架编译优化时，需要先根据计算逻辑形成一个逻辑计算图，然后再改写计算图，最后执行改写后的计算图。其中生成逻辑计算图方式有两种。 
-    </details> 
-
-- 💪 [现代前端框架的重要概念、puppeteer在调试流程的应用 | 酱酱的下午茶第145期](https://juejin.cn/post/7184306836449787965) | Tue Jan 03 2023 6:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    常见类型的hashCode都是如何计算的啊？、深入理解 go reflect - 反射基本原理... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
