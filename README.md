@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [RichTalk 快报 第 11 期](https://juejin.cn/post/7184747065639960634) | Wed Jan 04 2023 10:52 AM 
+- 🤗 [为什么很多程序员都建议使用Linux？](https://juejin.cn/post/7184764149161787453) | Wed Jan 04 2023 12:01 PM 
+    <details><summary>展开描述 ...</summary> 
+    在知乎上有这么一个问题：为什么很多程序员都建议使用Linux？在这个问题上我其实有挺多想聊的，虽然比不上专门用C/C++编译的工程师了解的那么底层，也比不上运维工程师每天接触Linux，但是我们的工作 
+    </details> 
+
+- 🎡 [【技术管理】如何给任务排优先级？](https://juejin.cn/post/7184759838432297015) | Wed Jan 04 2023 11:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    作为一个打工人，经常碰到很多工作需要同时进行的情况，你可能会很头疼，究竟要先做哪项工作呢？我给大家推荐一个方法，那就是采用轻重缓急四象限法。 你可能知道这个方法，也很清楚“重要紧急的工作要排在最前面” 
+    </details> 
+
+- 🕯 [Nest.js 之依赖注入](https://juejin.cn/post/7184756186351140920) | Wed Jan 04 2023 11:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    趁着最近“阳康”了，学习一下 TypeScript 中依赖注入这种高级的技术吧，做前端了终究还是逃不过这个东西呀。 
+    </details> 
+
+- 🚀 [RichTalk 快报 第 11 期](https://juejin.cn/post/7184747065639960634) | Wed Jan 04 2023 10:52 AM 
     <details><summary>展开描述 ...</summary> 
     这里是Tech 快报，每两周为你带来新鲜的技术资讯，如果想第一时间收到更新请关注本知识库。 本期快报速览： 第 93 次 TC39 会议 Vite 4.0 is out！ 图解浏览器的多进程渲染机制  
     </details> 
 
-- 🎡 [Android自定义ViewGroup的交互，往往都是侧滑菜单开始](https://juejin.cn/post/7184741165475266620) | Wed Jan 04 2023 10:25 AM 
+- 💪 [Android自定义ViewGroup的交互，往往都是侧滑菜单开始](https://juejin.cn/post/7184741165475266620) | Wed Jan 04 2023 10:25 AM 
     <details><summary>展开描述 ...</summary> 
     ViewGroup的自定义侧滑菜单 前言 前文我们理解了ViewGroup的测量与布局，但是并没有涉及到多少的交互逻辑，而 ViewGroup 的交互逻辑说起来范围其实是比较大的。从哪开始说起呢？ 我 
-    </details> 
-
-- 🕯 [什么？比 MySQL 性价比更高的 TiDB Cloud Serverless Tier 来了？](https://juejin.cn/post/7184736296709914683) | Wed Jan 04 2023 10:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    每隔一段时间，TiDB 会发布一些关于架构演进的大新闻。比如 2020 年的 TiFlash 和 HTAP，2021 年的 MPP，比如今年的 TiDB Cloud。在靠近年底时，我们很高兴又有大新闻 
-    </details> 
-
-- 🚀 [Nydus 镜像扫描加速](https://juejin.cn/post/7184731083605606437) | Wed Jan 04 2023 9:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    文｜余硕 上海交通大学22届毕业生阿里云开发工程师 从事云原生底层系统的开发和探索工作。 本文 6369 字 阅读 16 分钟 PART. 1 课题背景 Nydus 开源镜像加速框架 Nydus 是  
-    </details> 
-
-- 💪 [得物染色环境落地实践](https://juejin.cn/post/7184722874425409594) | Wed Jan 04 2023 9:14 AM 
-    <details><summary>展开描述 ...</summary> 
-    测试环境治理一直是各大公司非常重要的一个课题，测试环境稳定性很大程度影响迭代开发&amp;测试效率。 综合来看，测试环境不稳定的原因主要有以下几点 
     </details> 
 <!-- juejin:END -->
 ### 少数派
