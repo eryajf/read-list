@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [bok - 网页书签管理工具](https://xinquji.com/posts/792398?utm_campaign=xinquji-rss) | Wed Jan 04 2023 8:16 AM 
+- 👀 [网页DNF - 可以自由的缩放改变大小，以及透明度。能够随时随地的快乐玩耍DNF](https://xinquji.com/posts/792399?utm_campaign=xinquji-rss) | Thu Jan 05 2023 6:16 AM 
+    <details><summary>展开描述 ...</summary> 
+     可以自由的缩放改变大小，以及透明度。能够随时随地的快乐玩耍DNF  
+    </details> 
+
+- 🥷 [豹猫文案大师 - 黑科技，帮您写高质量文案。](https://xinquji.com/posts/792538?utm_campaign=xinquji-rss) | Thu Jan 05 2023 6:16 AM 
+    <details><summary>展开描述 ...</summary> 
+     黑科技，帮您写高质量文案。  
+    </details> 
+
+- 💼 [bok - 网页书签管理工具](https://xinquji.com/posts/792398?utm_campaign=xinquji-rss) | Wed Jan 04 2023 8:16 AM 
     <details><summary>展开描述 ...</summary> 
      网页书签管理工具  
     </details> 
 
-- 🥷 [万能头像生成器 - 一键生成几十种专业实用头像](https://xinquji.com/posts/792338?utm_campaign=xinquji-rss) | Wed Jan 04 2023 8:16 AM 
+- 🦅 [万能头像生成器 - 一键生成几十种专业实用头像](https://xinquji.com/posts/792338?utm_campaign=xinquji-rss) | Wed Jan 04 2023 8:16 AM 
     <details><summary>展开描述 ...</summary> 
      一键生成几十种专业实用头像  
     </details> 
 
-- 💼 [Finale To Do - 个人任务管理器、计划器和习惯跟踪器](https://xinquji.com/posts/792568?utm_campaign=xinquji-rss) | Tue Jan 03 2023 6:00 AM 
+- 😺 [Whiskey AI - 通过语音比以往更快地创建内容](https://xinquji.com/posts/792586?utm_campaign=xinquji-rss) | Wed Jan 04 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     个人任务管理器、计划器和习惯跟踪器  
-    </details> 
-
-- 🦅 [Dewey Beta - 与我们的 AI 问责伙伴一起发短信，助您成功](https://xinquji.com/posts/792567?utm_campaign=xinquji-rss) | Tue Jan 03 2023 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     与我们的 AI 问责伙伴一起发短信，助您成功  
-    </details> 
-
-- 😺 [FilmForge AI - 提示视频 - 使用 AI 立即创建引人入胜的视频](https://xinquji.com/posts/792566?utm_campaign=xinquji-rss) | Tue Jan 03 2023 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     提示视频 - 使用 AI 立即创建引人入胜的视频  
+     通过语音比以往更快地创建内容  
     </details> 
 <!-- xinquji:END -->
