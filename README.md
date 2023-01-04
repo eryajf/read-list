@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0104](http://jandan.net/p/112086) | Wed Jan 04 2023 2:39 AM 
+- 🚀 [Quora：科学家最怕什么化学物质？](http://jandan.net/p/112085) | Wed Jan 04 2023 5:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    内容警告——你已经被警告了。 
+    </details> 
+
+- 🙉 [什么是长新冠](http://jandan.net/p/112083) | Wed Jan 04 2023 5:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    现在知道的比以前多，而且仍然令人担忧。 
+    </details> 
+
+- 🎉 [今日好价 0104](http://jandan.net/p/112086) | Wed Jan 04 2023 5:43 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：37 
     </details> 
 
-- 🙉 [Quora：如何报复负心人](http://jandan.net/p/112076) | Tue Jan 03 2023 4:24 AM 
+- 🐲 [新发现植物：不进行光合作用，从真菌盟友那里偷营养的植物窃贼](http://jandan.net/p/112061) | Wed Jan 04 2023 5:42 AM 
     <details><summary>展开描述 ...</summary> 
-    “你不能通过伤害他人来修复你自己” 
+    木维网wood wide web 
     </details> 
 
-- 🎉 [五个令科学家费解的惊人发现](http://jandan.net/p/112074) | Tue Jan 03 2023 4:23 AM 
+-  [意大利诺奖得主提议用省天然气的方法煮意面，举国震动](http://jandan.net/p/112087) | Wed Jan 04 2023 5:41 AM 
     <details><summary>展开描述 ...</summary> 
-    老鼠保留了大量可能腐烂的有机文物。 
-    </details> 
-
-- 🐲 [深度学习是如何工作的](http://jandan.net/p/112077) | Tue Jan 03 2023 4:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    驱动当今人工智能的神经网络内核 
-    </details> 
-
--  [初步显示，低和中等水平的压力有助于我们的短期记忆](http://jandan.net/p/112082) | Tue Jan 03 2023 3:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    毒物兴奋效应假说 
+    这次是意面，下次是不是就轮到披萨了？ 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
