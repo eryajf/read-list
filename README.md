@@ -714,8 +714,8 @@
      一键生成几十种专业实用头像  
     </details> 
 
-- 😺 [Whiskey AI - 通过语音比以往更快地创建内容](https://xinquji.com/posts/792586?utm_campaign=xinquji-rss) | Wed Jan 04 2023 6:00 AM 
+- 😺 [Publicist - 按需雇用经过审查的公关和营销人才，只需支付一笔费用](https://xinquji.com/posts/792600?utm_campaign=xinquji-rss) | Wed Jan 04 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     通过语音比以往更快地创建内容  
+     按需雇用经过审查的公关和营销人才，只需支付一笔费用  
     </details> 
 <!-- xinquji:END -->
