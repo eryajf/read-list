@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [用这4招 优雅的实现Spring Boot 异步线程间数据传递](https://juejin.cn/post/7184599118482767909) | Wed Jan 04 2023 1:14 AM 
+- 🤗 [SVG 动画指南 &lpar;SMIL&rpar;](https://juejin.cn/post/7184615771048247356) | Wed Jan 04 2023 2:18 AM 
     <details><summary>展开描述 ...</summary> 
-    Spring Boot 自定义线程池实现异步开发相信看过陈某的文章都了解，但是在实际开发中需要在父子线程之间传递一些数据，比如用户信息，链路信息等等 比如用户登录信息使用ThreadLocal存放保证 
+    概述 SVG 图形可以使用animation elements（动画元素），进行动画处理。动画元素最初是在SMIL动画规范中定义的；这些element包括： &lt;animate&gt;&lt;/animate&gt;–  
     </details> 
 
-- 🎡 [用JavaScript检测用户是否在线](https://juejin.cn/post/7184588083944226877) | Wed Jan 04 2023 12:32 AM 
+- 🎡 [高性能且小巧的脚本语言 LuaJIT](https://juejin.cn/post/7184614952898920508) | Wed Jan 04 2023 2:15 AM 
     <details><summary>展开描述 ...</summary> 
-    &gt; 微信搜索 【大迁世界】, 我会第一时间和你分享前端行业趋势，学习途径等等。 &gt; 本文 GitHub [https://github.com/qq449245884/xiaozhi]&lpar;https:/ 
+    What&#39;s JIT? Just-In-Time or JIT 是指在程序运行时进行代码编译的技术，像 Java，Python（这里指PyPy）、LuaJIT 都引入了这种技术。 一般 JIT 编译器 
     </details> 
 
-- 🕯 [前端食堂技术周刊第 65 期：2022 Vue 年终总结、2022 HTTP 状态、12 月登陆 Web 平台的新功能、Bun v0.4](https://juejin.cn/post/7184571181662470200) | Tue Jan 03 2023 11:54 PM 
+- 🕯 [PB 级数据秒级分析：腾讯云原生湖仓DLC 架构揭秘](https://juejin.cn/post/7184613266486722619) | Wed Jan 04 2023 2:10 AM 
     <details><summary>展开描述 ...</summary> 
-    - 2022 Vue 年终总结 - 2022 HTTP 状态 - 12 月登陆 Web 平台的新功能 - Bun v0.4 - JavaScript 框架之迈向 2023 年 - Web 
+    导读｜过去几年，数据湖能力已经在腾讯内部包括微信视频号、小程序等多个业务大规模落地，数据规模达到 PB至 EB 级别。在此基础上，腾讯自研业务也启动了云原生湖仓能力建设。云原生湖仓架构最大的挑战什么？ 
     </details> 
 
-- 🚀 [vue3 源码学习，实现一个 mini-vue（六）：构建 h 函数，生成 VNode](https://juejin.cn/post/7184473155606413372) | Tue Jan 03 2023 5:12 PM 
+- 🚀 [AC Leetcode-56 合并区间](https://juejin.cn/post/7184611990659137595) | Wed Jan 04 2023 2:05 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 本章原文来自 我的个人博客 终于来到渲染系统啦~ ，在 vue3 渲染系统学习的第一章，我们先来处理 h 函数的构建，关于 h 函数的介绍我这里就不多讲了，具体可以查询文档 h&lpar;&rpar; 以及 创建V 
+    本文已参与「新人创作礼」活动，一起开启掘金创作之路​。（第28篇） 56. 合并区间 解题思路 本质在于两两做对比，如果两个区间，可以合并，则为结果二维数组中的一员，如果不可合并，则放入结果二维数组， 
     </details> 
 
-- 💪 [前端设计模式系列——工厂模式](https://juejin.cn/post/7184455726725775417) | Tue Jan 03 2023 4:03 PM 
+- 💪 [AC Leetcode.三数之和](https://juejin.cn/post/7184612047282241593) | Wed Jan 04 2023 2:05 AM 
     <details><summary>展开描述 ...</summary> 
-    工厂模式的用法不止一种，用途非常广。用户只通过工厂函数来创建对象，这样写出来的代码更加健壮，也更容易理解。例如在 JavaScript 中，创建一个对象可以用 new 或者 ... 
+    本文已参与「新人创作礼」活动，一起开启掘金创作之路​。（第27篇） 15. 三数之和 给你一个包含 n 个整数的数组 nums，判断 nums 中是否存在三个元素 a，b，c ，使得 a + b +  
     </details> 
 <!-- juejin:END -->
 ### 少数派
