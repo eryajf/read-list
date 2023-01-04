@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [K8S 的 cka 认证有必要考一个吗？ 新手 想找个 Linux 运维工作](https://www.v2ex.com/t/906517#reply7) | Wed Jan 04 2023 6:24 AM
-- 🤗 [大公司游戏开发时贴图、音效一般怎么管理？也是用 Git、SVN 之类版本控制工具吗？](https://www.v2ex.com/t/906508#reply4) | Wed Jan 04 2023 6:07 AM
-- 🎭 [golang 程序突然超时](https://www.v2ex.com/t/906504#reply1) | Wed Jan 04 2023 6:00 AM
-- 🥷 [EFF 的扩展 HTTPS EVERYWHERE 真的能确保 100%在所有请求发出前对非 HTTPS 链接弹出提示吗？提示的时候会不会已经建立了 HTTP 连接，并明文发送了 cookies？](https://www.v2ex.com/t/906494#reply0) | Wed Jan 04 2023 5:37 AM
-- 🐵 [✅腾讯云 23 年新政策，无法关联用户也可以做折扣返佣](https://www.v2ex.com/t/906492#reply0) | Wed Jan 04 2023 5:36 AM<!-- v2ex:END -->
+- 🥸 [小白问两个数据库的问题](https://www.v2ex.com/t/906546#reply9) | Wed Jan 04 2023 7:48 AM
+- 🤗 [在线求助，希望工作年限较长的老哥能指点一下，目前完全不想编程了](https://www.v2ex.com/t/906543#reply26) | Wed Jan 04 2023 7:45 AM
+- 🎭 [PHP 多条件动态查询数据库要怎么写](https://www.v2ex.com/t/906542#reply3) | Wed Jan 04 2023 7:44 AM
+- 🥷 [1.有啥工具能检测 android app 的 SharedPref 是否加密； 2.APICloud 咋给 SharedPref 加密](https://www.v2ex.com/t/906539#reply1) | Wed Jan 04 2023 7:36 AM
+- 🐵 [体素沙盒游戏 Ethertia·以太效应 游戏官网设计初版草案](https://www.v2ex.com/t/906538#reply5) | Wed Jan 04 2023 7:33 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
