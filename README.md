@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [vue3 源码学习，实现一个 mini-vue（六）：构建 h 函数，生成 VNode](https://juejin.cn/post/7184473155606413372) | Tue Jan 03 2023 5:12 PM 
+- 🤗 [用这4招 优雅的实现Spring Boot 异步线程间数据传递](https://juejin.cn/post/7184599118482767909) | Wed Jan 04 2023 1:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    Spring Boot 自定义线程池实现异步开发相信看过陈某的文章都了解，但是在实际开发中需要在父子线程之间传递一些数据，比如用户信息，链路信息等等 比如用户登录信息使用ThreadLocal存放保证 
+    </details> 
+
+- 🎡 [用JavaScript检测用户是否在线](https://juejin.cn/post/7184588083944226877) | Wed Jan 04 2023 12:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    &gt; 微信搜索 【大迁世界】, 我会第一时间和你分享前端行业趋势，学习途径等等。 &gt; 本文 GitHub [https://github.com/qq449245884/xiaozhi]&lpar;https:/ 
+    </details> 
+
+- 🕯 [前端食堂技术周刊第 65 期：2022 Vue 年终总结、2022 HTTP 状态、12 月登陆 Web 平台的新功能、Bun v0.4](https://juejin.cn/post/7184571181662470200) | Tue Jan 03 2023 11:54 PM 
+    <details><summary>展开描述 ...</summary> 
+    - 2022 Vue 年终总结 - 2022 HTTP 状态 - 12 月登陆 Web 平台的新功能 - Bun v0.4 - JavaScript 框架之迈向 2023 年 - Web 
+    </details> 
+
+- 🚀 [vue3 源码学习，实现一个 mini-vue（六）：构建 h 函数，生成 VNode](https://juejin.cn/post/7184473155606413372) | Tue Jan 03 2023 5:12 PM 
     <details><summary>展开描述 ...</summary> 
     前言 本章原文来自 我的个人博客 终于来到渲染系统啦~ ，在 vue3 渲染系统学习的第一章，我们先来处理 h 函数的构建，关于 h 函数的介绍我这里就不多讲了，具体可以查询文档 h&lpar;&rpar; 以及 创建V 
     </details> 
 
-- 🎡 [前端设计模式系列——工厂模式](https://juejin.cn/post/7184455726725775417) | Tue Jan 03 2023 4:03 PM 
+- 💪 [前端设计模式系列——工厂模式](https://juejin.cn/post/7184455726725775417) | Tue Jan 03 2023 4:03 PM 
     <details><summary>展开描述 ...</summary> 
     工厂模式的用法不止一种，用途非常广。用户只通过工厂函数来创建对象，这样写出来的代码更加健壮，也更容易理解。例如在 JavaScript 中，创建一个对象可以用 new 或者 ... 
-    </details> 
-
-- 🕯 [数据结构与算法（十一）图的进阶](https://juejin.cn/post/7184450424433770556) | Tue Jan 03 2023 3:40 PM 
-    <details><summary>展开描述 ...</summary> 
-    有向图 在实际生活中，很多应用相关的图都是有方向性的，最直观的就是网络，可以从A页面通过链接跳转到B页面，那么a和b连接的方向是a -&gt; b，但不能说是b -&gt; a，此时我们就需要使用有向图来解决这一 
-    </details> 
-
-- 🚀 [Vite 是如何记录项目中所有模块的依赖关系的？](https://juejin.cn/post/7184435271545389116) | Tue Jan 03 2023 2:40 PM 
-    <details><summary>展开描述 ...</summary> 
-    Vite 在运行过程中，会记录每个模块间的依赖关系，所有的依赖关系，最终会汇总成一个模块依赖图。利用这个模块依赖图，Vite 能够准确地进行热更新。 
-    </details> 
-
-- 💪 [再探DDD以及美团的“野路子”](https://juejin.cn/post/7184435249181376568) | Tue Jan 03 2023 2:39 PM 
-    <details><summary>展开描述 ...</summary> 
-    前言 之前我写过一篇关于DDD文章，大白话之辩论DDD，阿里面试中台化理解，这次心血来潮是因为最近在看掘金的一个关于领域设计的课程，然后下面谈谈我读后感，以及在我现实项目里面究竟用到哪些内容，最后还有 
     </details> 
 <!-- juejin:END -->
 ### 少数派
