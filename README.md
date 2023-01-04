@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [忍俊不禁: Win11 最新更新中又默默的把 Task Manager 给加回了 Taskbar 菜单](https://www.v2ex.com/t/906453#reply3) | Wed Jan 04 2023 3:10 AM
-- 🤗 [AWS 证书认证: 请推荐靠谱的淘宝或咸鱼卖家能提供最新最全的题库, 谢谢!](https://www.v2ex.com/t/906452#reply0) | Wed Jan 04 2023 3:10 AM
-- 🎭 [请教 Android Activity 重建](https://www.v2ex.com/t/906447#reply0) | Wed Jan 04 2023 3:02 AM
-- 🥷 [关于 MySQL 的全文查询，是不是没有高效的办法限定在一个结果集里搜全文？](https://www.v2ex.com/t/906439#reply0) | Wed Jan 04 2023 2:40 AM
-- 🐵 [在 js 中为什么如下方式会找不到值？](https://www.v2ex.com/t/906438#reply12) | Wed Jan 04 2023 2:38 AM<!-- v2ex:END -->
+- 🥸 [优麒麟的微信会修改本地的 lsb_release](https://www.v2ex.com/t/906470#reply2) | Wed Jan 04 2023 4:06 AM
+- 🤗 [Kvrocks 在货拉拉全链路 Trace 下的应用](https://www.v2ex.com/t/906462#reply0) | Wed Jan 04 2023 3:37 AM
+- 🎭 [关于一个 revert merge request 的问题](https://www.v2ex.com/t/906461#reply2) | Wed Jan 04 2023 3:34 AM
+- 🥷 [忍俊不禁: Win11 最新更新中又默默的把 Task Manager 给加回了 Taskbar 菜单](https://www.v2ex.com/t/906453#reply11) | Wed Jan 04 2023 3:10 AM
+- 🐵 [AWS 证书认证: 请推荐靠谱的淘宝或咸鱼卖家能提供最新最全的题库, 谢谢!](https://www.v2ex.com/t/906452#reply0) | Wed Jan 04 2023 3:10 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
