@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [react源码分析：组件的创建和更新](https://juejin.cn/post/7184636786306449468) | Wed Jan 04 2023 3:41 AM 
+- 🤗 [如何减少react组件不必要的重新渲染、5个接口性能提升的通用技巧 | 酱酱的下午茶第146期](https://juejin.cn/post/7184650334625595448) | Wed Jan 04 2023 4:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    真的看不下去了!!!字节的table组件写成啥了！ 妙用 CSS 动画来实现颜色加深、减淡等混合操作 了解下 Rust 的所有权机制 启动优化 · 基础论 · 浅析Android启动优化 vivo 服 
+    </details> 
+
+- 🎡 [react源码分析：组件的创建和更新](https://juejin.cn/post/7184636786306449468) | Wed Jan 04 2023 3:41 AM 
     <details><summary>展开描述 ...</summary> 
     这一章节就来讲讲ReactDOM.render&lpar;&rpar;方法的内部实现与流程吧。 因为初始化的源码文件部分所涵盖的内容很多，包括创建渲染、更新渲染、Fiber树的创建与diff，element的创建与插入， 
     </details> 
 
-- 🎡 [react的useState源码分析](https://juejin.cn/post/7184636589564231735) | Wed Jan 04 2023 3:40 AM 
+- 🕯 [react的useState源码分析](https://juejin.cn/post/7184636589564231735) | Wed Jan 04 2023 3:40 AM 
     <details><summary>展开描述 ...</summary> 
     前言 简单说下为什么React选择函数式组件，主要是class组件比较冗余、生命周期函数写法不友好，骚写法多，functional组件更符合React编程思想等等等。更具体的可以拜读dan大神的blo 
     </details> 
 
-- 🕯 [从react源码看hooks的原理](https://juejin.cn/post/7184636382168481850) | Wed Jan 04 2023 3:39 AM 
+- 🚀 [从react源码看hooks的原理](https://juejin.cn/post/7184636382168481850) | Wed Jan 04 2023 3:39 AM 
     <details><summary>展开描述 ...</summary> 
     React暴露出来的部分Hooks 功能描述 useState、useReducer: 状态值相关 useEffect、useLayoutEffect: 生命周期相关 useContext: 状态共享 
     </details> 
 
-- 🚀 [转转测试环境治理的高效能实践](https://juejin.cn/post/7184632579780247613) | Wed Jan 04 2023 3:24 AM 
+- 💪 [转转测试环境治理的高效能实践](https://juejin.cn/post/7184632579780247613) | Wed Jan 04 2023 3:24 AM 
     <details><summary>展开描述 ...</summary> 
     转转测试环境通过流量路由技术将测试环境的搭建时间从数小时-数天下降至30分钟-1小时，又进一步降至2分钟-5分钟。不仅节约业务同学的测试时间，也减少了架构率同学排查问题的时间，真真正正降本增效。 
-    </details> 
-
-- 💪 [隐私计算技术开源的整体现状](https://juejin.cn/post/7184629953534394405) | Wed Jan 04 2023 3:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    随着政策鼓励与技术成熟，开源作为一种新型的生产方式、创新的协作方式，正逐渐渗入到千行百业，并在国家战略层面的得到了肯定和支持。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
