@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2022年终总结：一年读完的40本书](https://juejin.cn/post/7184820125705453627) | Wed Jan 04 2023 3:33 PM 
+- 🤗 [我在测试我在测试我在测试我在测试：我在测试我在测试我在测试？](https://juejin.cn/post/7184875331336011831) | Wed Jan 04 2023 7:26 PM 
+    <details><summary>展开描述 ...</summary> 
+    我在测试我在测试我在测试我在测试：我在测试我在测试我在测试？ 我在测试我在测试我在测试我在测试：我在测试我在测试我在测试？ 我在测试我在测试我在测试我在测试：我在测试我在测试我在测试？ 我在测试我在测 
+    </details> 
+
+- 🎡 [2022年终总结：一年读完的40本书](https://juejin.cn/post/7184820125705453627) | Wed Jan 04 2023 3:33 PM 
     <details><summary>展开描述 ...</summary> 
     去年读完了50本书，今年只读完40本左右。读书时间并没有少，只因为很多书只是看了，并没有看完。比如产品经理专业的书翻了有十来本，但看完的不多，这里就推荐两本《微信背后的产品观》和《俞军的产品方法论》 
     </details> 
 
-- 🎡 [【深入浅出Sentinel原理及实战】「框架整合专题」Sentinel服务框架对接Dubbo服务框架整合开发指南（4）](https://juejin.cn/post/7184812247393239095) | Wed Jan 04 2023 3:02 PM 
+- 🕯 [【深入浅出Sentinel原理及实战】「框架整合专题」Sentinel服务框架对接Dubbo服务框架整合开发指南（4）](https://juejin.cn/post/7184812247393239095) | Wed Jan 04 2023 3:02 PM 
     <details><summary>展开描述 ...</summary> 
     开源框架适配 为了减少开发的复杂程度，Sentinel 对大部分的主流框架都进行了适配，例如：Web Servlet、Dubbo、Spring Cloud、gRPC、Spring WebFlux 和  
     </details> 
 
-- 🕯 [评论三则：遇到强迫症UI、2年的前端很迷茫、小领导抢我功劳](https://juejin.cn/post/7184806291565445179) | Wed Jan 04 2023 2:38 PM 
+- 🚀 [评论三则：遇到强迫症UI、2年的前端很迷茫、小领导抢我功劳](https://juejin.cn/post/7184806291565445179) | Wed Jan 04 2023 2:38 PM 
     <details><summary>展开描述 ...</summary> 
     小领导也是领导，你的成果也是他的成果；多去揽活干，别想为什么我干他不干。我升官了，我看着新的开发和UI继续吵，和我当初一样。 
     </details> 
 
-- 🚀 [大白话DDD（DDD黑话终结者）](https://juejin.cn/post/7184800180984610873) | Wed Jan 04 2023 2:20 PM 
+- 💪 [大白话DDD（DDD黑话终结者）](https://juejin.cn/post/7184800180984610873) | Wed Jan 04 2023 2:20 PM 
     <details><summary>展开描述 ...</summary> 
     一、吐槽的话 相信听过DDD的人有很大一部分都不知道这玩意具体是干嘛的，甚至觉得它有那么一些虚无缥缈。原因之一是但凡讲DDD的，都是一堆特别高大上的概念，然后冠之以一堆让人看不懂的解释，。作者曾经在极 
-    </details> 
-
-- 💪 [低代码平台组件间通信方案复盘](https://juejin.cn/post/7184801269226143805) | Wed Jan 04 2023 2:19 PM 
-    <details><summary>展开描述 ...</summary> 
-    背景介绍 3年前我开发了一款零代码搭建平台 H5-Dooring, 主要目的是想用更低的成本, 更快的效率, 上线 web 页面&lpar;其实是不想写重复的代码了,写麻了&rpar;. 好在陆陆续续折腾了3年... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
