@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [元旦期间，这些App限时半价！](https://xclient.info/a/a25d2cf9-52aa-ed65-f0c9-bf09a2924f24.html) | Fri Dec 30 2022 8:21 AM 
+- 🦏 [Boxy SVG 3.95.0 矢量图编辑器](https://xclient.info/s/boxy-svg.html) | Wed Jan 04 2023 2:39 AM 
     <details><summary>展开描述 ...</summary> 
-    元旦期间Omniplayer，Omi录屏专家，即刻转换有半价活动哦。 
+    Boxy SVG是一款支持SVG和SVGZ两种格式的矢量图片编辑软件，拥有丰富的功能和特色，可以帮助大家制作任何矢量图，内置多个快捷键，用起来非常的方便。 
     </details> 
 
--  [Sync Folders Pro 4.6.5 文件夹同步工具](https://xclient.info/s/sync-folders-pro.html) | Fri Dec 30 2022 1:32 AM 
+-  [WiFiSpoof 3.8.6 MAC地址修改工具](https://xclient.info/s/wifi-spoof.html) | Wed Jan 04 2023 2:38 AM 
     <details><summary>展开描述 ...</summary> 
-    Sync Folders 是一款Mac上的文件夹同步工具，最大的特点是简单易用，支持及时同步、计划同步和手动同步等，还支持文件过滤，除了本地磁盘外，也支持移动硬盘、U盘等外部存储和网络存储 
+    WiFiSpoof是一款适用于Mac系统的wifi地址修改器，用户只需要安装WiFiSpoof for mac，点击打开就能很直观的修改Mac地址，很容易操作。 
     </details> 
 
-- ⚗️ [FSNotes 6.0.6 轻量级的笔记工具](https://xclient.info/s/fsnotes.html) | Fri Dec 30 2022 1:31 AM 
+- ⚗️ [Xliff Editor 2.9.11 XLIFF文件编辑工具](https://xclient.info/s/xliff-editor.html) | Wed Jan 04 2023 2:37 AM 
     <details><summary>展开描述 ...</summary> 
-    FSNotes 是一款轻量级的笔记工具，帮助用户快速记录灵感。 
+    Xliff Editor是Mac平台上一款本地化XLIFF文件编辑工具，可以用来编辑Xliff格式的本地化文件，支持多个并发文件编辑，功能非常实用。 
     </details> 
 
-- 🔥 [FonePaw iPhone Data Recovery 7.6.0.127007 专业的iPhone数据恢复软件](https://xclient.info/s/fonepaw-iphone-data-recovery.html) | Fri Dec 30 2022 1:28 AM 
+- 🔥 [eMail Address Extractor 4.1.1 提取email邮件地址](https://xclient.info/s/email-address-extractor.html) | Wed Jan 04 2023 2:36 AM 
     <details><summary>展开描述 ...</summary> 
-    FonePaw iPhone Data Recovery 是Mac电脑上的一款专业的iPhone数据恢复救援软件，可以帮助您轻松恢复iPhone/iPad设备上误删的照片、视频、备忘录、联络人、信息、社交软件的聊天记录等资料。 
+    eMail Address Extractor 是一款Mac平台的从文件中提取email邮件地址的工具，可以非常方便地从Apple的邮件数据库、PDF文件、iWork文件、 DOCX文件或者是 XLSX格式的文件中提取email邮件地址，大大提高我们的工作效率。 
     </details> 
 
-- 🌋 [EdgeView 3.9.0 图像查看器](https://xclient.info/s/edgeview.html) | Fri Dec 30 2022 1:27 AM 
+- 🌋 [USBclean 3.7.1 U盘杀毒工具](https://xclient.info/s/usbclean.html) | Wed Jan 04 2023 2:36 AM 
     <details><summary>展开描述 ...</summary> 
-    EdgeView是MacOS X的一款图像查看器。你可以打开各种图像文件，也可以打开像ZIP这样的归档文件，而不用提取。您可以在内置的文件浏览器中检查和打开文件，并且可以连接到FTP并直接打开文件。 
+    USBclean是一款在Mac平台上强大的U盘病毒查杀工具，USBclean可以帮助你快速方便地去除所有那些讨厌的垃圾文件也可以帮你将USB驱动器进行格式化，你可以轻松从系统菜单栏上启动USBclean并直接运行。 
     </details> 
 <!-- xclient:END -->
 
