@@ -442,11 +442,11 @@
 
 
 <!-- iplaysoft:START -->
-- 🧐 [QQ Linux 3.0 全新重构版本 - 腾讯发布新一代 NT 架构 Linux 版 QQ &lpar;与 Mac 版相同&rpar;](https://www.iplaysoft.com/qq-linux.html) | Sat Dec 31 2022 12:04 PM
-- 🧑‍🏫 [Windows 11 22H2 最新官方正式版 ISO 镜像下载 &lpar;微软 MSDN 原版系统 / 网盘 BT 地址&rpar;](https://www.iplaysoft.com/windows11.html) | Sun Dec 25 2022 5:00 AM
-- 🥰 [国货之光 5 折起，40+ 热门正版软件限时大减价！勿错过！](https://www.iplaysoft.com/news/5804) | Fri Dec 23 2022 9:37 AM
-- 💻 [微信键盘正式版下载 - 官方“御用”的手机输入法！拼音五笔手写语音 / 融合微信生态](https://www.iplaysoft.com/wetype.html) | Tue Dec 20 2022 11:03 AM
-- 🎃 [劲爆！Epic 再次连续 15 天免费送游戏！每天“白嫖”一款限免正版 / 领取后永久拥有](https://www.iplaysoft.com/epic-free-games.html) | Sat Dec 17 2022 11:05 AM<!-- iplaysoft:END -->
+- 🧐 [HandBrake 官方绿色中文版 - 开源免费视频格式转换/压缩转码压制工具 &lpar;跨平台&rpar;](https://www.iplaysoft.com/handbrake.html) | Wed Jan 04 2023 7:10 AM
+- 🧑‍🏫 [QQ Linux 3.0 全新重构版本 - 腾讯发布新一代 NT 架构 Linux 版 QQ &lpar;与 Mac 版相同&rpar;](https://www.iplaysoft.com/qq-linux.html) | Sat Dec 31 2022 12:04 PM
+- 🥰 [Windows 11 22H2 最新官方正式版 ISO 镜像下载 &lpar;微软 MSDN 原版系统 / 网盘 BT 地址&rpar;](https://www.iplaysoft.com/windows11.html) | Sun Dec 25 2022 5:00 AM
+- 💻 [国货之光 5 折起，40+ 热门正版软件限时大减价！勿错过！](https://www.iplaysoft.com/news/5804) | Fri Dec 23 2022 9:37 AM
+- 🎃 [微信键盘正式版下载 - 官方“御用”的手机输入法！拼音五笔手写语音 / 融合微信生态](https://www.iplaysoft.com/wetype.html) | Tue Dec 20 2022 11:03 AM<!-- iplaysoft:END -->
 
 ### 精品Mac应用
 
