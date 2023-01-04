@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [前端设计模式系列——单例模式](https://juejin.cn/post/7184685905859313724) | Wed Jan 04 2023 6:52 AM 
+- 🤗 [【年终总结】 新的一年要快乐哦 |  2022 年终总结](https://juejin.cn/post/7184706666498097189) | Wed Jan 04 2023 8:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    大家好，我是一尾流莺 ， 前端界的一名小学生。闲云潭影日悠悠，物换星移几度秋，快来参观我的 2022 年终总结吧！ 
+    </details> 
+
+- 🎡 [2022 总结，2023 take it easy](https://juejin.cn/post/7184703846177603639) | Wed Jan 04 2023 8:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    「回顾2022，展望2023，我正在参与2022年终总结征文大赛活动」 前言 2022年是我毕业奋斗的第四年，第四年经历了很多，大环境很差，过的也一般 回顾2022 年初的时候，我所在的地产公司明源云 
+    </details> 
+
+- 🕯 [前端设计模式系列——单例模式](https://juejin.cn/post/7184685905859313724) | Wed Jan 04 2023 6:52 AM 
     <details><summary>展开描述 ...</summary> 
     单例模式是所有程序设计语言中都会用到的一种模式，单例模式的目标就是**确保某个类只能出现一个实例**，对该类所作的任何访问，都必须通过这个实例执行。例如考虑下面的情况： 
     </details> 
 
-- 🎡 [支付宝动态化卡片技术研发工具 ACT 的演进之路 | Cube 卡片技术栈](https://juejin.cn/post/7184682604661047333) | Wed Jan 04 2023 6:39 AM 
+- 🚀 [支付宝动态化卡片技术研发工具 ACT 的演进之路 | Cube 卡片技术栈](https://juejin.cn/post/7184682604661047333) | Wed Jan 04 2023 6:39 AM 
     <details><summary>展开描述 ...</summary> 
     编者按：本文为《Cube 技术解读》系列第七篇文章，作者是蚂蚁集团客户端工程师佳佑，带大家了解 Cube 卡片工具 ACT 的设计思路与演进历程。 ✍🏾 Cube 技术解读系列文章： 第一篇：支付宝新 
     </details> 
 
-- 🕯 [百万并发场景中倒排索引与位图计算的实践](https://juejin.cn/post/7184680597330067516) | Wed Jan 04 2023 6:30 AM 
+- 💪 [百万并发场景中倒排索引与位图计算的实践](https://juejin.cn/post/7184680597330067516) | Wed Jan 04 2023 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     背景 Promise时效控单系统作为时效域的控制系统，在用户下单前、下单后等多个节点均提供服务，是用户下单黄金链路上的重要节点； 
-    </details> 
-
-- 🚀 [从100w核到450w核：字节跳动超大规模云原生离线训练实践](https://juejin.cn/post/7184678458939670565) | Wed Jan 04 2023 6:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    文章介绍字节跳动离线训练发展的三个阶段和关键节点，以及云原生离线训练中非常重要的两个部分——计算调度和数据编排，最后将结合前两部分分享字节跳动在实践中沉淀的4个案例。 
-    </details> 
-
-- 💪 [IO、NIO、BIO傻傻分不清吗，让我对象告诉你~~](https://juejin.cn/post/7184673497065455677) | Wed Jan 04 2023 6:06 AM 
-    <details><summary>展开描述 ...</summary> 
-     ## 1、Stream 与 Channel * stream 不会自动缓冲数据，channel 会利用系统提供的发送缓冲区、接收缓冲区（更为底层） * stream 仅支持阻塞 API，chan 
     </details> 
 <!-- juejin:END -->
 ### 少数派
