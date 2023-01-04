@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [SVG 动画指南 &lpar;SMIL&rpar;](https://juejin.cn/post/7184615771048247356) | Wed Jan 04 2023 2:18 AM 
+- 🤗 [TorchServe 详解：5 步将模型部署到生产环境](https://juejin.cn/post/7184625296153247804) | Wed Jan 04 2023 2:55 AM 
     <details><summary>展开描述 ...</summary> 
-    概述 SVG 图形可以使用animation elements（动画元素），进行动画处理。动画元素最初是在SMIL动画规范中定义的；这些element包括： &lt;animate&gt;&lt;/animate&gt;–  
+    TorchServe 是 PyTorch 中将模型部署到生产环境的首选解决方案。 它是一个性能良好且可扩展的工具，用 HTTP 或 HTTPS API 封装模型。 
     </details> 
 
-- 🎡 [高性能且小巧的脚本语言 LuaJIT](https://juejin.cn/post/7184614952898920508) | Wed Jan 04 2023 2:15 AM 
+- 🎡 [手写一个react，看透react运行机制](https://juejin.cn/post/7184620183797104701) | Wed Jan 04 2023 2:36 AM 
     <details><summary>展开描述 ...</summary> 
-    What&#39;s JIT? Just-In-Time or JIT 是指在程序运行时进行代码编译的技术，像 Java，Python（这里指PyPy）、LuaJIT 都引入了这种技术。 一般 JIT 编译器 
+    适合人群 本文适合0.5~3年的react开发人员的进阶。 讲讲废话： react的源码，的确是比vue的难度要深一些，本文也是针对初中级，本意让博友们了解整个react的执行过程。 写源码之前的必备 
     </details> 
 
-- 🕯 [PB 级数据秒级分析：腾讯云原生湖仓DLC 架构揭秘](https://juejin.cn/post/7184613266486722619) | Wed Jan 04 2023 2:10 AM 
+- 🕯 [深入React源码揭开渲染更新流程的面纱](https://juejin.cn/post/7184620068515348537) | Wed Jan 04 2023 2:35 AM 
     <details><summary>展开描述 ...</summary> 
-    导读｜过去几年，数据湖能力已经在腾讯内部包括微信视频号、小程序等多个业务大规模落地，数据规模达到 PB至 EB 级别。在此基础上，腾讯自研业务也启动了云原生湖仓能力建设。云原生湖仓架构最大的挑战什么？ 
+    转前端一年半了，平时接触最多的框架就是React。在熟悉了其用法之后，避免不了想深入了解其实现原理，网上相关源码分析的文章挺多的，但是总感觉不如自己阅读理解来得深刻。于是话了几个周末去了解了一下常用的 
     </details> 
 
-- 🚀 [AC Leetcode-56 合并区间](https://juejin.cn/post/7184611990659137595) | Wed Jan 04 2023 2:05 AM 
+- 🚀 [深度分析React源码中的合成事件](https://juejin.cn/post/7184619682719072313) | Wed Jan 04 2023 2:35 AM 
     <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动，一起开启掘金创作之路​。（第28篇） 56. 合并区间 解题思路 本质在于两两做对比，如果两个区间，可以合并，则为结果二维数组中的一员，如果不可合并，则放入结果二维数组， 
+    热身准备 明确几个概念 在React@17.0.3版本中： 所有事件都是委托在id = root的DOM元素中（网上很多说是在document中，17版本不是了）； 在应用中所有节点的事件监听其实都是 
     </details> 
 
-- 💪 [AC Leetcode.三数之和](https://juejin.cn/post/7184612047282241593) | Wed Jan 04 2023 2:05 AM 
+- 💪 [为什么说IO密集型业务，线程数是CPU数的2倍？](https://juejin.cn/post/7184619435309662266) | Wed Jan 04 2023 2:33 AM 
     <details><summary>展开描述 ...</summary> 
-    本文已参与「新人创作礼」活动，一起开启掘金创作之路​。（第27篇） 15. 三数之和 给你一个包含 n 个整数的数组 nums，判断 nums 中是否存在三个元素 a，b，c ，使得 a + b +  
+    I/O密集型业务，线程数量要设置成 CPU 的 2 倍！ 也不知道这是哪本书的坑爹理论，现在总有一些小青年老拿着这样的定理来说教。说的信誓旦旦，毋庸置疑，仿佛是权威的化身。讨论时把这样的理论当作前提， 
     </details> 
 <!-- juejin:END -->
 ### 少数派
