@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [优麒麟的微信会修改本地的 lsb_release](https://www.v2ex.com/t/906470#reply2) | Wed Jan 04 2023 4:06 AM
-- 🤗 [Kvrocks 在货拉拉全链路 Trace 下的应用](https://www.v2ex.com/t/906462#reply0) | Wed Jan 04 2023 3:37 AM
-- 🎭 [关于一个 revert merge request 的问题](https://www.v2ex.com/t/906461#reply2) | Wed Jan 04 2023 3:34 AM
-- 🥷 [忍俊不禁: Win11 最新更新中又默默的把 Task Manager 给加回了 Taskbar 菜单](https://www.v2ex.com/t/906453#reply11) | Wed Jan 04 2023 3:10 AM
-- 🐵 [AWS 证书认证: 请推荐靠谱的淘宝或咸鱼卖家能提供最新最全的题库, 谢谢!](https://www.v2ex.com/t/906452#reply0) | Wed Jan 04 2023 3:10 AM<!-- v2ex:END -->
+- 🥸 [后端是不是很难做独立开发啊？](https://www.v2ex.com/t/906483#reply1) | Wed Jan 04 2023 5:07 AM
+- 🤗 [请教 nas 硬盘规划](https://www.v2ex.com/t/906479#reply0) | Wed Jan 04 2023 4:35 AM
+- 🎭 [优麒麟的微信会修改本地的 lsb_release](https://www.v2ex.com/t/906470#reply3) | Wed Jan 04 2023 4:06 AM
+- 🥷 [Kvrocks 在货拉拉全链路 Trace 下的应用](https://www.v2ex.com/t/906462#reply0) | Wed Jan 04 2023 3:37 AM
+- 🐵 [关于一个 revert merge request 的问题](https://www.v2ex.com/t/906461#reply3) | Wed Jan 04 2023 3:34 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
