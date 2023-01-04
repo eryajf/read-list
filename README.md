@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [TorchServe 详解：5 步将模型部署到生产环境](https://juejin.cn/post/7184625296153247804) | Wed Jan 04 2023 2:55 AM 
+- 🤗 [react源码分析：组件的创建和更新](https://juejin.cn/post/7184636786306449468) | Wed Jan 04 2023 3:41 AM 
     <details><summary>展开描述 ...</summary> 
-    TorchServe 是 PyTorch 中将模型部署到生产环境的首选解决方案。 它是一个性能良好且可扩展的工具，用 HTTP 或 HTTPS API 封装模型。 
+    这一章节就来讲讲ReactDOM.render&lpar;&rpar;方法的内部实现与流程吧。 因为初始化的源码文件部分所涵盖的内容很多，包括创建渲染、更新渲染、Fiber树的创建与diff，element的创建与插入， 
     </details> 
 
-- 🎡 [手写一个react，看透react运行机制](https://juejin.cn/post/7184620183797104701) | Wed Jan 04 2023 2:36 AM 
+- 🎡 [react的useState源码分析](https://juejin.cn/post/7184636589564231735) | Wed Jan 04 2023 3:40 AM 
     <details><summary>展开描述 ...</summary> 
-    适合人群 本文适合0.5~3年的react开发人员的进阶。 讲讲废话： react的源码，的确是比vue的难度要深一些，本文也是针对初中级，本意让博友们了解整个react的执行过程。 写源码之前的必备 
+    前言 简单说下为什么React选择函数式组件，主要是class组件比较冗余、生命周期函数写法不友好，骚写法多，functional组件更符合React编程思想等等等。更具体的可以拜读dan大神的blo 
     </details> 
 
-- 🕯 [深入React源码揭开渲染更新流程的面纱](https://juejin.cn/post/7184620068515348537) | Wed Jan 04 2023 2:35 AM 
+- 🕯 [从react源码看hooks的原理](https://juejin.cn/post/7184636382168481850) | Wed Jan 04 2023 3:39 AM 
     <details><summary>展开描述 ...</summary> 
-    转前端一年半了，平时接触最多的框架就是React。在熟悉了其用法之后，避免不了想深入了解其实现原理，网上相关源码分析的文章挺多的，但是总感觉不如自己阅读理解来得深刻。于是话了几个周末去了解了一下常用的 
+    React暴露出来的部分Hooks 功能描述 useState、useReducer: 状态值相关 useEffect、useLayoutEffect: 生命周期相关 useContext: 状态共享 
     </details> 
 
-- 🚀 [深度分析React源码中的合成事件](https://juejin.cn/post/7184619682719072313) | Wed Jan 04 2023 2:35 AM 
+- 🚀 [转转测试环境治理的高效能实践](https://juejin.cn/post/7184632579780247613) | Wed Jan 04 2023 3:24 AM 
     <details><summary>展开描述 ...</summary> 
-    热身准备 明确几个概念 在React@17.0.3版本中： 所有事件都是委托在id = root的DOM元素中（网上很多说是在document中，17版本不是了）； 在应用中所有节点的事件监听其实都是 
+    转转测试环境通过流量路由技术将测试环境的搭建时间从数小时-数天下降至30分钟-1小时，又进一步降至2分钟-5分钟。不仅节约业务同学的测试时间，也减少了架构率同学排查问题的时间，真真正正降本增效。 
     </details> 
 
-- 💪 [为什么说IO密集型业务，线程数是CPU数的2倍？](https://juejin.cn/post/7184619435309662266) | Wed Jan 04 2023 2:33 AM 
+- 💪 [隐私计算技术开源的整体现状](https://juejin.cn/post/7184629953534394405) | Wed Jan 04 2023 3:13 AM 
     <details><summary>展开描述 ...</summary> 
-    I/O密集型业务，线程数量要设置成 CPU 的 2 倍！ 也不知道这是哪本书的坑爹理论，现在总有一些小青年老拿着这样的定理来说教。说的信誓旦旦，毋庸置疑，仿佛是权威的化身。讨论时把这样的理论当作前提， 
+    随着政策鼓励与技术成熟，开源作为一种新型的生产方式、创新的协作方式，正逐渐渗入到千行百业，并在国家战略层面的得到了肯定和支持。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
