@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [小册上新｜前端开发者的现代 C++ 课](https://juejin.cn/post/7184720791890559037) | Wed Jan 04 2023 9:07 AM 
+- 🤗 [什么？比 MySQL 性价比更高的 TiDB Cloud Serverless Tier 来了？](https://juejin.cn/post/7184736296709914683) | Wed Jan 04 2023 10:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    每隔一段时间，TiDB 会发布一些关于架构演进的大新闻。比如 2020 年的 TiFlash 和 HTAP，2021 年的 MPP，比如今年的 TiDB Cloud。在靠近年底时，我们很高兴又有大新闻 
+    </details> 
+
+- 🎡 [得物染色环境落地实践](https://juejin.cn/post/7184722874425409594) | Wed Jan 04 2023 9:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    测试环境治理一直是各大公司非常重要的一个课题，测试环境稳定性很大程度影响迭代开发&amp;测试效率。 综合来看，测试环境不稳定的原因主要有以下几点 
+    </details> 
+
+- 🕯 [什么是 Heap snapshot](https://juejin.cn/post/7184722493662789688) | Wed Jan 04 2023 9:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    DevTools 的堆快照性能分析会显示网页的 JavaScript 对象和相关 DOM 节点中的内存分配情况。 
+    </details> 
+
+- 🚀 [小册上新｜前端开发者的现代 C++ 课](https://juejin.cn/post/7184720791890559037) | Wed Jan 04 2023 9:07 AM 
     <details><summary>展开描述 ...</summary> 
     前端编程语言都是运行在容器中的，局限性很大。本小册可以带领你轻松掌握系统级 C++ 编程语言，突破容器的限制，开拓能力疆域，提升核心竞争力，为打造更有价值的产品奠定技术基础。 
     </details> 
 
-- 🎡 [写给自己的【新年礼物】：前端面试题汇总](https://juejin.cn/post/7184720010563027001) | Wed Jan 04 2023 9:03 AM 
+- 💪 [写给自己的【新年礼物】：前端面试题汇总](https://juejin.cn/post/7184720010563027001) | Wed Jan 04 2023 9:03 AM 
     <details><summary>展开描述 ...</summary> 
     这是最为特殊的新年礼物，送给自己，希望自己来年能找到一个好的工作吧！疫情都3年了，也该结束了，愿大家也都能找到满意的工作，我们一起努力吧！ 
-    </details> 
-
-- 🕯 [bigScreen大屏项目|那些精彩的打怪积累💥🎉💥🎉](https://juejin.cn/post/7184715771946205240) | Wed Jan 04 2023 8:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    bigScreen大屏项目|那些精彩的打怪积累💥🎉💥🎉💥🎉💥🎉💥🎉💥🎉💥🎉💥🎉 
-    </details> 
-
-- 🚀 [SOFARegistry | 聊一聊服务发现的数据一致性](https://juejin.cn/post/7184714161627070501) | Wed Jan 04 2023 8:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    文｜肖健（花名：昱恒） 蚂蚁集团技术专家 专注于服务发现领域，目前主要从事蚂蚁注册中心 SOFARegistry 设计、研发工作。 本文 9492字 阅读 24 分钟 PART. 1 前言 1.1 什 
-    </details> 
-
-- 💪 [叮~来查收这份不一样的年度总结报告吧（掘金2022创作者版）](https://juejin.cn/post/7184712051171229755) | Wed Jan 04 2023 8:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    年底相信大家都被各种年度总结报告刷屏了吧，看了那么多年度报告，都是一屏滑过一屏，动画全是清一色淡入加淡出，难免有些审美疲劳。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
