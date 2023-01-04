@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [好照片也能「好便宜」，收下这份普通家庭也能游刃有余的相机推荐](https://sspai.com/post/77560) | Tue Jan 03 2023 9:03 AM 
+- 👹 [派早报：英伟达发布 RTX 4070 Ti、英特尔推出 13 代酷睿移动版处理器等](https://sspai.com/post/77608) | Wed Jan 04 2023 1:05 AM 
+    <details><summary>展开描述 ...</summary> 
+    戴尔推出 UltraSharp 32 显示器，Windows 7/8.1 的相关更新支持即将终止等。&lt;a href=&quot;https://sspai.com/post/77608&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [好照片也能「好便宜」，收下这份普通家庭也能游刃有余的相机推荐](https://sspai.com/post/77560) | Tue Jan 03 2023 9:03 AM 
     <details><summary>展开描述 ...</summary> 
     关于低成本摄影的心态问题，其实最重要的一点就是「不被裹挟」，摄影器材毕竟是创作的工具，硬件本身的加持远远没有创作者个人的眼光与创作力重要。&lt;a href=&quot;https://sspai.com/post/77560&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [一日一技 | 两种方法让 Windows 10 也能运行 Android 应用](https://sspai.com/post/77582) | Tue Jan 03 2023 6:30 AM 
+- 🤭 [一日一技 | 两种方法让 Windows 10 也能运行 Android 应用](https://sspai.com/post/77582) | Tue Jan 03 2023 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     我就是要在 Windows 10 上用 Windows Subsystem for Android。&lt;a href=&quot;https://sspai.com/post/77582&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [搭在乐高积木上的机械键盘：MelGeek Pixel 开箱体验](https://sspai.com/post/77589) | Tue Jan 03 2023 3:04 AM 
+- 🥸 [搭在乐高积木上的机械键盘：MelGeek Pixel 开箱体验](https://sspai.com/post/77589) | Tue Jan 03 2023 3:04 AM 
     <details><summary>展开描述 ...</summary> 
     Pixel 积木键盘的整个包装，都给人一种「这是一份好玩的礼物」的感觉，这符合这把键盘创意、好玩的产品定位，也符合它作为一把售价 1699 的昂贵机械键盘的「礼物属性」。&lt;a href=&quot;https://sspai.com/post/77589&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：Dark Sky 停止运营、海信 Hi Reader Pro 发布等](https://sspai.com/post/77585) | Tue Jan 03 2023 12:38 AM 
+- 🙉 [派早报：Dark Sky 停止运营、海信 Hi Reader Pro 发布等](https://sspai.com/post/77585) | Tue Jan 03 2023 12:38 AM 
     <details><summary>展开描述 ...</summary> 
     iPhone 14 系列之前机型保外电池服务费用将增加，多亲 Qin3 系列手机开启预购等。&lt;a href=&quot;https://sspai.com/post/77585&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [幕后 | 一款热门三消游戏的背后：对话 3 Tiles 开发团队](https://sspai.com/post/77575) | Mon Jan 02 2023 7:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    少数派联系到了热门 3 消游戏作品 3 Tiles 的开发团队 Appsulove，和他们一起探讨了对于如何做好一款游戏的诸多经验与见解，以及对于众多模仿者的相关看法。&lt;a href=&quot;https://sspai.com/post/77575&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
