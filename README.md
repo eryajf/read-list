@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [什么？比 MySQL 性价比更高的 TiDB Cloud Serverless Tier 来了？](https://juejin.cn/post/7184736296709914683) | Wed Jan 04 2023 10:10 AM 
+- 🤗 [RichTalk 快报 第 11 期](https://juejin.cn/post/7184747065639960634) | Wed Jan 04 2023 10:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    这里是Tech 快报，每两周为你带来新鲜的技术资讯，如果想第一时间收到更新请关注本知识库。 本期快报速览： 第 93 次 TC39 会议 Vite 4.0 is out！ 图解浏览器的多进程渲染机制  
+    </details> 
+
+- 🎡 [Android自定义ViewGroup的交互，往往都是侧滑菜单开始](https://juejin.cn/post/7184741165475266620) | Wed Jan 04 2023 10:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    ViewGroup的自定义侧滑菜单 前言 前文我们理解了ViewGroup的测量与布局，但是并没有涉及到多少的交互逻辑，而 ViewGroup 的交互逻辑说起来范围其实是比较大的。从哪开始说起呢？ 我 
+    </details> 
+
+- 🕯 [什么？比 MySQL 性价比更高的 TiDB Cloud Serverless Tier 来了？](https://juejin.cn/post/7184736296709914683) | Wed Jan 04 2023 10:10 AM 
     <details><summary>展开描述 ...</summary> 
     每隔一段时间，TiDB 会发布一些关于架构演进的大新闻。比如 2020 年的 TiFlash 和 HTAP，2021 年的 MPP，比如今年的 TiDB Cloud。在靠近年底时，我们很高兴又有大新闻 
     </details> 
 
-- 🎡 [得物染色环境落地实践](https://juejin.cn/post/7184722874425409594) | Wed Jan 04 2023 9:14 AM 
+- 🚀 [Nydus 镜像扫描加速](https://juejin.cn/post/7184731083605606437) | Wed Jan 04 2023 9:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    文｜余硕 上海交通大学22届毕业生阿里云开发工程师 从事云原生底层系统的开发和探索工作。 本文 6369 字 阅读 16 分钟 PART. 1 课题背景 Nydus 开源镜像加速框架 Nydus 是  
+    </details> 
+
+- 💪 [得物染色环境落地实践](https://juejin.cn/post/7184722874425409594) | Wed Jan 04 2023 9:14 AM 
     <details><summary>展开描述 ...</summary> 
     测试环境治理一直是各大公司非常重要的一个课题，测试环境稳定性很大程度影响迭代开发&amp;测试效率。 综合来看，测试环境不稳定的原因主要有以下几点 
-    </details> 
-
-- 🕯 [什么是 Heap snapshot](https://juejin.cn/post/7184722493662789688) | Wed Jan 04 2023 9:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    DevTools 的堆快照性能分析会显示网页的 JavaScript 对象和相关 DOM 节点中的内存分配情况。 
-    </details> 
-
-- 🚀 [小册上新｜前端开发者的现代 C++ 课](https://juejin.cn/post/7184720791890559037) | Wed Jan 04 2023 9:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    前端编程语言都是运行在容器中的，局限性很大。本小册可以带领你轻松掌握系统级 C++ 编程语言，突破容器的限制，开拓能力疆域，提升核心竞争力，为打造更有价值的产品奠定技术基础。 
-    </details> 
-
-- 💪 [写给自己的【新年礼物】：前端面试题汇总](https://juejin.cn/post/7184720010563027001) | Wed Jan 04 2023 9:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    这是最为特殊的新年礼物，送给自己，希望自己来年能找到一个好的工作吧！疫情都3年了，也该结束了，愿大家也都能找到满意的工作，我们一起努力吧！ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
