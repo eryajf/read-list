@@ -308,7 +308,7 @@
 
 - 🦄 [FreeBuf早报 | 丰田印度分公司遭遇数据入侵；火狐浏览器被误识别为IE而遭拒](https://www.freebuf.com/news/354159.html) | Tue Jan 03 2023 8:26 AM 
     <details><summary>展开描述 ...</summary> 
-    据外媒报道，丰田汽车印度分公司（Toyota Kirloskar Motor）在1月1日表示，该公司的数据泄露事件可能暴露了部分客户的个人信息。 
+    据外媒报道，丰田汽车印度分公司在1月1日表示，该公司的数据泄露事件可能暴露了部分客户的个人信息。 
     </details> 
 
 - 🦅 [波兰安全机构发布警告将应对亲俄黑客全方位、多手段的网络攻击](https://www.freebuf.com/news/354107.html) | Tue Jan 03 2023 3:18 AM 
