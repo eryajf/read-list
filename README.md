@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Boxy SVG 3.95.0 矢量图编辑器](https://xclient.info/s/boxy-svg.html) | Wed Jan 04 2023 2:39 AM 
+- 🦏 [Permute 3.9.15 小巧便捷的多媒体文件格式转换器](https://xclient.info/s/permute.html) | Wed Jan 04 2023 2:50 AM 
     <details><summary>展开描述 ...</summary> 
-    Boxy SVG是一款支持SVG和SVGZ两种格式的矢量图片编辑软件，拥有丰富的功能和特色，可以帮助大家制作任何矢量图，内置多个快捷键，用起来非常的方便。 
+    Permute 提供简单的视频格式转换功能，可以简单的将视频文件转换为你想要的格式。将你想要转换的视频拖到软件窗口内，然后选择你想要转换的格式即可。 
     </details> 
 
--  [WiFiSpoof 3.8.6 MAC地址修改工具](https://xclient.info/s/wifi-spoof.html) | Wed Jan 04 2023 2:38 AM 
+-  [PowerPhotos 2.1.3b2 优秀的图片管理工具](https://xclient.info/s/powerphotos.html) | Wed Jan 04 2023 2:49 AM 
     <details><summary>展开描述 ...</summary> 
-    WiFiSpoof是一款适用于Mac系统的wifi地址修改器，用户只需要安装WiFiSpoof for mac，点击打开就能很直观的修改Mac地址，很容易操作。 
+    PowerPhotos 是一款Mac上优秀的图片管理工具，让你能够直接浏览图库，节省iCloud空间，并能够检测重复图片，让你快速删除多余的图片，简单易用。 
     </details> 
 
-- ⚗️ [Xliff Editor 2.9.11 XLIFF文件编辑工具](https://xclient.info/s/xliff-editor.html) | Wed Jan 04 2023 2:37 AM 
+- ⚗️ [A Better Finder Rename 11.56 文件批量重命名](https://xclient.info/s/a-better-finder-rename.html) | Wed Jan 04 2023 2:49 AM 
     <details><summary>展开描述 ...</summary> 
-    Xliff Editor是Mac平台上一款本地化XLIFF文件编辑工具，可以用来编辑Xliff格式的本地化文件，支持多个并发文件编辑，功能非常实用。 
+    A Better Rename是Mac上的一款文件批量重命名工具，仅需要简单的拖拽，设置文件的前缀名称和后缀的规则，就可以快速的批量重命名这些文件，非常的方便和易用，能够帮助我们节约大量的时间。 
     </details> 
 
-- 🔥 [eMail Address Extractor 4.1.1 提取email邮件地址](https://xclient.info/s/email-address-extractor.html) | Wed Jan 04 2023 2:36 AM 
+- 🔥 [Downie 4.6.4 视频下载工具](https://xclient.info/s/downie.html) | Wed Jan 04 2023 2:48 AM 
     <details><summary>展开描述 ...</summary> 
-    eMail Address Extractor 是一款Mac平台的从文件中提取email邮件地址的工具，可以非常方便地从Apple的邮件数据库、PDF文件、iWork文件、 DOCX文件或者是 XLSX格式的文件中提取email邮件地址，大大提高我们的工作效率。 
+    简单的拖放链接到Downie，它就会下载该网站上的视频。 
     </details> 
 
-- 🌋 [USBclean 3.7.1 U盘杀毒工具](https://xclient.info/s/usbclean.html) | Wed Jan 04 2023 2:36 AM 
+- 🌋 [Sync Folders Pro 4.6.6 文件夹同步工具](https://xclient.info/s/sync-folders-pro.html) | Wed Jan 04 2023 2:46 AM 
     <details><summary>展开描述 ...</summary> 
-    USBclean是一款在Mac平台上强大的U盘病毒查杀工具，USBclean可以帮助你快速方便地去除所有那些讨厌的垃圾文件也可以帮你将USB驱动器进行格式化，你可以轻松从系统菜单栏上启动USBclean并直接运行。 
+    Sync Folders 是一款Mac上的文件夹同步工具，最大的特点是简单易用，支持及时同步、计划同步和手动同步等，还支持文件过滤，除了本地磁盘外，也支持移动硬盘、U盘等外部存储和网络存储 
     </details> 
 <!-- xclient:END -->
 
