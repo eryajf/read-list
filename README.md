@@ -311,19 +311,19 @@
     网友发视频称，去哪儿存在大数据杀熟现象，不同用户使用不同设备，在去哪儿网上的价格完全不一样。 
     </details> 
 
-- 🦅 [继蔚来数据泄露后，又一老牌车企泄露200GB用户数据](https://www.freebuf.com/news/354227.html) | Wed Jan 04 2023 5:50 AM 
+- 🦅 [2022 年全球数据泄露事件 TOP 100 | FreeBuf 年度盘点](https://www.freebuf.com/articles/354231.html) | Wed Jan 04 2023 6:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文按照时间线梳理出 2022 年全球重大数据泄露事件 TOP 100，希望能给企业的数据保护和安全建设带来一些帮助。 
+    </details> 
+
+- 🪄 [继蔚来数据泄露后，又一老牌车企泄露200GB用户数据](https://www.freebuf.com/news/354227.html) | Wed Jan 04 2023 5:50 AM 
     <details><summary>展开描述 ...</summary> 
     随着智能汽车的快速发展，汽车数据处理能力增强，汽车数据安全暴露的风险也日益突出。 
     </details> 
 
-- 🪄 [【读者福利】FreeBuf编辑羊了，只能“开发”来了](https://www.freebuf.com/fevents/354169.html) | Tue Jan 03 2023 9:24 AM 
+- 💻 [【读者福利】FreeBuf编辑羊了，只能“开发”来了](https://www.freebuf.com/fevents/354169.html) | Tue Jan 03 2023 9:24 AM 
     <details><summary>展开描述 ...</summary> 
     领福利啦，几万个G的学习资料还有兔  等你来~ 
-    </details> 
-
-- 💻 [FreeBuf早报 | 丰田印度分公司遭遇数据入侵；火狐浏览器被误识别为IE而遭拒](https://www.freebuf.com/news/354159.html) | Tue Jan 03 2023 8:26 AM 
-    <details><summary>展开描述 ...</summary> 
-    据外媒报道，丰田汽车印度分公司在1月1日表示，该公司的数据泄露事件可能暴露了部分客户的个人信息。 
     </details> 
 <!-- freebuf:END -->
 
