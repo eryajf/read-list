@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [「兔了个兔」创意投稿大赛来袭！秀兔兔创意，迎新年好礼！](https://juejin.cn/post/7185104994801025061) | Thu Jan 05 2023 9:57 AM 
+- 🤗 [你需要知道的TypeScript（类、函数、泛型）](https://juejin.cn/post/7185141291758387258) | Thu Jan 05 2023 12:18 PM 
     <details><summary>展开描述 ...</summary> 
-    Hello，掘友们好！又是一年新春之际，祝福大家兔年快乐！ 本期创意投稿大赛主题为「兔了个兔」，围绕“兔”这个元素展开创意！ 
+    类的基本定义与使用 类的继承 使用extends关键字实现继承，子类中使用super关键字来调用父类的构造函数和方法。从基类中继承了属性和方法。这里的Dog是一个派生类，它派生自Animal基类，通过 
     </details> 
 
-- 🎡 [回顾2022，展望2023——守得云开见月明](https://juejin.cn/post/7185097845551136828) | Thu Jan 05 2023 9:29 AM 
+- 🎡 [投影（二）shadowMap](https://juejin.cn/post/7185130186323525692) | Thu Jan 05 2023 11:36 AM 
     <details><summary>展开描述 ...</summary> 
-    「回顾2022，展望2023，」 大家好，我是大熊G，回顾2022应该说是只干了一件事，这件事是从2021年十月一开始的，那就是专升本。 
+    本文简单的介绍了硬阴影的实现方式。 涉及到的内容， 投影贴图的意义和生成，增加输出精度的方法， 帧缓冲区的基本使用，判断投影区域的具体实现 
     </details> 
 
-- 🕯 [Elasticsearch：利用搜索提高医疗保健公平 - 用多语言 NLP 模型和分析来改善最终用户体验](https://juejin.cn/post/7185095018884333623) | Thu Jan 05 2023 9:18 AM 
+- 🕯 [console.log 一定会内存泄漏！用 Performance 和 Memory 告诉你为什么](https://juejin.cn/post/7185128318235541563) | Thu Jan 05 2023 11:32 AM 
     <details><summary>展开描述 ...</summary> 
-    随着更高生产力和更健康的人群寿命更长，医疗保健将成为社会最重要的方面之一。 COVID-19 大流行加速了现代技术的采用，并凸显了患者体验的重要性。 随着越来越多的消费者开始控制他们的数据，医疗保健系 
+    很多前端都喜欢用 console.log 调试，先不谈调试效率怎么样，首先 console.log 有个致命的问题：会导致内存泄漏。 为什么这么说呢？ 用 Performance 和 Memory 工 
     </details> 
 
-- 🚀 [[React 源码]  React 18.2 - 初次渲染 [1.8k 字 - 阅读时长7min]](https://juejin.cn/post/7185092839582203962) | Thu Jan 05 2023 9:12 AM 
+- 🚀 [我在京东做研发 | 京东云算法科学家解析爆火的ChatGPT](https://juejin.cn/post/7185123996576186405) | Thu Jan 05 2023 11:15 AM 
     <details><summary>展开描述 ...</summary> 
-    问题：下面这段 React 代码的初次渲染流程是怎样的？ 第一：调用 createRoot 函数, 传入 root 节点。创建 FiberRoot 节点。 第二：调用 render 函数，在 upda 
+    令人惊艳的ChatGPT横空出世，背后有怎样的前沿技术支撑？走向大规模产品应用又有何局限？深耕对话式AI技术十余年，京东云算法科学家将带您一同走进技术世界，解析ChatGPT的技术亮点与局限 
     </details> 
 
-- 💪 [XINDOO的2022年年终总结](https://juejin.cn/post/7185090024596045885) | Thu Jan 05 2023 8:59 AM 
+- 💪 [前端设计模式系列——代理模式](https://juejin.cn/post/7185123630508933181) | Thu Jan 05 2023 11:14 AM 
     <details><summary>展开描述 ...</summary> 
-    已经好几个月没有认认真真写一篇博客了，借着年底静下心来认认真真写一篇年终总结，这也是我人生中第10篇的年终总结了。 先看下去年立的flag，不用想去年立的flag一个都没完成。首先1 算是勉强及格；2 
+    代理模式用来管控用户对另一个对象的访问.这里面有两个角色：代理对象（Proxy）和目标对象（Target）。当用户通过代理对象来操作目标对象的时候，代理对象可以把目标对象执行的操作拦截下来... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
