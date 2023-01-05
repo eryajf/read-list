@@ -705,18 +705,18 @@
      黑科技，帮您写高质量文案。  
     </details> 
 
-- 💼 [bok - 网页书签管理工具](https://xinquji.com/posts/792398?utm_campaign=xinquji-rss) | Wed Jan 04 2023 8:16 AM 
+- 💼 [reviewgenerator.app - 世界上最快的评论生成器](https://xinquji.com/posts/792631?utm_campaign=xinquji-rss) | Thu Jan 05 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     网页书签管理工具  
+     世界上最快的评论生成器  
     </details> 
 
-- 🦅 [万能头像生成器 - 一键生成几十种专业实用头像](https://xinquji.com/posts/792338?utm_campaign=xinquji-rss) | Wed Jan 04 2023 8:16 AM 
+- 🦅 [Program Strategy HQ - Web3 PM 策略简化](https://xinquji.com/posts/792630?utm_campaign=xinquji-rss) | Thu Jan 05 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     一键生成几十种专业实用头像  
+     Web3 PM 策略简化  
     </details> 
 
-- 😺 [Publicist - 按需雇用经过审查的公关和营销人才，只需支付一笔费用](https://xinquji.com/posts/792600?utm_campaign=xinquji-rss) | Wed Jan 04 2023 6:00 AM 
+- 😺 [CarbonSutra - 用于估算组织碳排放量的 API](https://xinquji.com/posts/792629?utm_campaign=xinquji-rss) | Thu Jan 05 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     按需雇用经过审查的公关和营销人才，只需支付一笔费用  
+     用于估算组织碳排放量的 API  
     </details> 
 <!-- xinquji:END -->
