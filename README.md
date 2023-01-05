@@ -303,7 +303,7 @@
 <!-- freebuf:START -->
 - 🦄 [FreeBuf早报 | 警惕利用Flipper Zero的网络钓鱼；高通修复芯片组多个安全漏洞](https://www.freebuf.com/articles/354308.html) | Wed Jan 04 2023 12:51 PM 
     <details><summary>展开描述 ...</summary> 
-    全球动态1.马来西亚政府下令调查影响1300万公民的数据泄露事件马来西亚通信和数字部长Fahmi Fadzil已下令调查涉嫌大规模数据泄露事件，据报道涉及马来亚银行，Astro和选举委员会的数据。据报道，据称的违规行为影响了1 300万公民。[外刊-阅读原文]2.Google指控印度反垄断机构复制欧盟的部分裁决2022年10月，印度反垄断机构CCI向Google开出1.61亿美元反垄断罚单。现在， 
+    研究员发现一项新的网络钓鱼活动，利用Flipper Zero窃取安全社区的个人信息和加密货币。 
     </details> 
 
 - 🦄 [都已经2023年了，去哪儿还在利用大数据杀熟？官方回应](https://www.freebuf.com/news/354281.html) | Wed Jan 04 2023 8:31 AM 
