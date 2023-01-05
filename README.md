@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Permute 3.9.15 小巧便捷的多媒体文件格式转换器](https://xclient.info/s/permute.html) | Wed Jan 04 2023 2:50 AM 
+- 🦏 [World Clock Deluxe 4.19.0.2 世界时钟](https://xclient.info/s/world-clock-deluxe.html) | Thu Jan 05 2023 1:48 AM 
     <details><summary>展开描述 ...</summary> 
-    Permute 提供简单的视频格式转换功能，可以简单的将视频文件转换为你想要的格式。将你想要转换的视频拖到软件窗口内，然后选择你想要转换的格式即可。 
+    World Clock Deluxe是一款Mac OS平台的世界时钟软件，经常与世界各地的人们联系？有家人或朋友住在其他国家或时区？经常出国旅游吗？World Clock Deluxe 将使你的生活变得更轻松。 
     </details> 
 
--  [PowerPhotos 2.1.3b2 优秀的图片管理工具](https://xclient.info/s/powerphotos.html) | Wed Jan 04 2023 2:49 AM 
+-  [Tap Forms Organizer 5.3.34 数字档案柜](https://xclient.info/s/tap-forms.html) | Thu Jan 05 2023 1:47 AM 
     <details><summary>展开描述 ...</summary> 
-    PowerPhotos 是一款Mac上优秀的图片管理工具，让你能够直接浏览图库，节省iCloud空间，并能够检测重复图片，让你快速删除多余的图片，简单易用。 
+    Tap Forms是一款 Mac 上的个人数字档案柜，我们可以使用这款软件记录收集管理任何信息，其优秀之处是可以自定义表单信息，方便我们存储各种信息，在安全性上支持AES-256加密，此外，还支持iCloud 同步、导入导出、打印、分享、高级搜索等功能。 
     </details> 
 
-- ⚗️ [A Better Finder Rename 11.56 文件批量重命名](https://xclient.info/s/a-better-finder-rename.html) | Wed Jan 04 2023 2:49 AM 
+- ⚗️ [Marked 2.6.18 优秀的Markdown预览工具](https://xclient.info/s/marked.html) | Thu Jan 05 2023 1:46 AM 
     <details><summary>展开描述 ...</summary> 
-    A Better Rename是Mac上的一款文件批量重命名工具，仅需要简单的拖拽，设置文件的前缀名称和后缀的规则，就可以快速的批量重命名这些文件，非常的方便和易用，能够帮助我们节约大量的时间。 
+    Marked是一款用于实时预览多种类型的文档（markdown,html等）的实用工具，它有全套的自定义选项和预览样式，无论您使用任何编辑器修改并保存文档，都可以在Marked上实时看到最新的效果。 
     </details> 
 
-- 🔥 [Downie 4.6.4 视频下载工具](https://xclient.info/s/downie.html) | Wed Jan 04 2023 2:48 AM 
+- 🔥 [Task Office 8.8 多功能办公软件](https://xclient.info/s/task-office.html) | Thu Jan 05 2023 1:46 AM 
     <details><summary>展开描述 ...</summary> 
-    简单的拖放链接到Downie，它就会下载该网站上的视频。 
+    Task Office 是Mac平台上的一款办公软件，包含了GTD，做列表，项目和联系人管理的应用程序。旨在使商业计划、日程安排和做事更有效率。 
     </details> 
 
-- 🌋 [Sync Folders Pro 4.6.6 文件夹同步工具](https://xclient.info/s/sync-folders-pro.html) | Wed Jan 04 2023 2:46 AM 
+- 🌋 [Allavsoft Video Downloader Converter 3.25.3.8403 视频下载工具](https://xclient.info/s/allavsoft-video-downloader-converter.html) | Thu Jan 05 2023 1:43 AM 
     <details><summary>展开描述 ...</summary> 
-    Sync Folders 是一款Mac上的文件夹同步工具，最大的特点是简单易用，支持及时同步、计划同步和手动同步等，还支持文件过滤，除了本地磁盘外，也支持移动硬盘、U盘等外部存储和网络存储 
+    Allavsoft Video Downloader Converter 是一款运行在macOS平台上的视频下载软件，支持任何视频文件格式的转换，支持在任何移动设备上脱机播放下载的视频。 
     </details> 
 <!-- xclient:END -->
 
