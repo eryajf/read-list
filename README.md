@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有没有工具/API 能判断微信号是否真实存在？](https://www.v2ex.com/t/906700#reply0) | Thu Jan 05 2023 3:24 AM
-- 🤗 [多个网站如何部署到同一个域名下，通过路径来区分？](https://www.v2ex.com/t/906699#reply3) | Thu Jan 05 2023 3:22 AM
-- 🎭 [一篇关于定位移动端网页样式问题和下载任意版本 chrome 的文章](https://www.v2ex.com/t/906698#reply0) | Thu Jan 05 2023 3:17 AM
-- 🥷 [作为程序员，你可以开发一个 12306 嘛](https://www.v2ex.com/t/906691#reply18) | Thu Jan 05 2023 3:01 AM
-- 🐵 [VSC 老哥们是怎么管理 monorepo 的, 能让目录更加整洁些.](https://www.v2ex.com/t/906687#reply8) | Thu Jan 05 2023 2:45 AM<!-- v2ex:END -->
+- 🥸 [十分悲剧，学了十多年的英语大部份发音错的离谱](https://www.v2ex.com/t/906722#reply0) | Thu Jan 05 2023 5:08 AM
+- 🤗 [Windows 每次开机后屏幕都会自动投影](https://www.v2ex.com/t/906720#reply0) | Thu Jan 05 2023 5:03 AM
+- 🎭 [运维老哥看过来](https://www.v2ex.com/t/906714#reply9) | Thu Jan 05 2023 4:39 AM
+- 🥷 [有没有工具/API 能判断微信号是否真实存在？](https://www.v2ex.com/t/906700#reply0) | Thu Jan 05 2023 3:24 AM
+- 🐵 [多个网站如何部署到同一个域名下，通过路径来区分？](https://www.v2ex.com/t/906699#reply3) | Thu Jan 05 2023 3:22 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
