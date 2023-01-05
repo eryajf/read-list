@@ -604,27 +604,27 @@
 ### 摄影世界
 
 <!-- photoworld:START -->
-- 🤠 [世界杯初体验](https://www.photoworld.com.cn/post/168169) | Tue Jan 03 2023 11:09 AM 
+- 🤠 [小寒 | 轻舞一曲送冬雪，万家灯里待春风](https://www.photoworld.com.cn/post/168184) | Thu Jan 05 2023 1:16 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 🎃 [记录可抵岁月悠长](https://www.photoworld.com.cn/post/168138) | Tue Jan 03 2023 3:42 AM 
+- 🎃 [在 “诸神黄昏” 的足球赛场，记录下悲欢离合的历史瞬间！](https://www.photoworld.com.cn/post/168190) | Thu Jan 05 2023 1:15 AM 
+    <details><summary>展开描述 ...</summary> 
+     
+    </details> 
+
+- 👀 [世界杯初体验](https://www.photoworld.com.cn/post/168169) | Tue Jan 03 2023 11:09 AM 
+    <details><summary>展开描述 ...</summary> 
+     
+    </details> 
+
+- 🤔 [记录可抵岁月悠长](https://www.photoworld.com.cn/post/168138) | Tue Jan 03 2023 3:42 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
 - 👀 [给 2022 一记温柔的回马枪｜来自手机里的 27 万个动人瞬间](https://www.photoworld.com.cn/post/168123) | Fri Dec 30 2022 6:18 AM 
-    <details><summary>展开描述 ...</summary> 
-     
-    </details> 
-
-- 🤔 [“南山情•资源景” 大美资源全国摄影大展开幕](https://www.photoworld.com.cn/post/168112) | Fri Dec 30 2022 1:56 AM 
-    <details><summary>展开描述 ...</summary> 
-     
-    </details> 
-
-- 👀 [足球世界杯记者说｜肖艺九：每一场比赛都是一个故事](https://www.photoworld.com.cn/post/168056) | Mon Dec 26 2022 7:09 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
