@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有什么可以在网页中快速实现将图片固定在摄像头场景某处，用户移动摄像头图片位置不改变（AR 效果）的开源库？](https://www.v2ex.com/t/906765#reply0) | Thu Jan 05 2023 7:28 AM
-- 🤗 [分布式环境中，业务报错如何保证 redis 数据一致性？](https://www.v2ex.com/t/906764#reply8) | Thu Jan 05 2023 7:27 AM
-- 🎭 [2022 的一个总结，关于我构建工作意义的一个尝试](https://www.v2ex.com/t/906761#reply1) | Thu Jan 05 2023 6:57 AM
-- 🥷 [有没有对 shopify 大神，付费寻求帮助！](https://www.v2ex.com/t/906760#reply3) | Thu Jan 05 2023 6:55 AM
-- 🐵 [写了一些在 JS 里实践函数式编程的经验](https://www.v2ex.com/t/906759#reply1) | Thu Jan 05 2023 6:53 AM<!-- v2ex:END -->
+- 🥸 [初学完 boot，有推荐的合适项目吗？](https://www.v2ex.com/t/906798#reply0) | Thu Jan 05 2023 9:13 AM
+- 🤗 [海外三星手机+Windows 的连携体验也太舒服了](https://www.v2ex.com/t/906789#reply7) | Thu Jan 05 2023 8:37 AM
+- 🎭 [有什么可以在网页中快速实现将图片固定在摄像头场景某处，用户移动摄像头图片位置不改变（AR 效果）的开源库？](https://www.v2ex.com/t/906765#reply3) | Thu Jan 05 2023 7:28 AM
+- 🥷 [分布式环境中，业务报错如何保证 redis 数据一致性？](https://www.v2ex.com/t/906764#reply9) | Thu Jan 05 2023 7:27 AM
+- 🐵 [2022 的一个总结，关于我构建工作意义的一个尝试](https://www.v2ex.com/t/906761#reply2) | Thu Jan 05 2023 6:57 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
