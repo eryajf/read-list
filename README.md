@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [我在测试我在测试我在测试我在测试：我在测试我在测试我在测试？](https://juejin.cn/post/7184875331336011831) | Wed Jan 04 2023 7:26 PM 
+- 🤗 [虽迟但到，我的2022年终总结](https://juejin.cn/post/7184969679570468920) | Thu Jan 05 2023 1:12 AM 
     <details><summary>展开描述 ...</summary> 
-    我在测试我在测试我在测试我在测试：我在测试我在测试我在测试？ 我在测试我在测试我在测试我在测试：我在测试我在测试我在测试？ 我在测试我在测试我在测试我在测试：我在测试我在测试我在测试？ 我在测试我在测 
+    当我想要稍微有点时间谢谢年终总结的时候，发现2022年已经翻过，2023年都已经已经过了好几天了。 我想2022年，对于所有人应该都是特别艰难的一年，坚持，努力，不要倒下，应该都是每个人都在做的事情。 
     </details> 
 
-- 🎡 [2022年终总结：一年读完的40本书](https://juejin.cn/post/7184820125705453627) | Wed Jan 04 2023 3:33 PM 
+- 🎡 [从recat源码角度看setState流程](https://juejin.cn/post/7184966537680257082) | Thu Jan 05 2023 1:00 AM 
     <details><summary>展开描述 ...</summary> 
-    去年读完了50本书，今年只读完40本左右。读书时间并没有少，只因为很多书只是看了，并没有看完。比如产品经理专业的书翻了有十来本，但看完的不多，这里就推荐两本《微信背后的产品观》和《俞军的产品方法论》 
+    setState setState&lpar;&rpar; 将对组件 state 的更改排入队列批量推迟更新，并通知 React 需要使用更新后的 state 重新渲染此组件及其子组件。其实setState实际上不是异步 
     </details> 
 
-- 🕯 [【深入浅出Sentinel原理及实战】「框架整合专题」Sentinel服务框架对接Dubbo服务框架整合开发指南（4）](https://juejin.cn/post/7184812247393239095) | Wed Jan 04 2023 3:02 PM 
+- 🕯 [从源码角度看React-Hydrate原理](https://juejin.cn/post/7184966395762278437) | Thu Jan 05 2023 12:59 AM 
     <details><summary>展开描述 ...</summary> 
-    开源框架适配 为了减少开发的复杂程度，Sentinel 对大部分的主流框架都进行了适配，例如：Web Servlet、Dubbo、Spring Cloud、gRPC、Spring WebFlux 和  
+    Demo 这里，我们在 index.html 中直接返回一段 html，以模拟服务端渲染生成的 html 注意，root 里面的内容不能换行，不然客户端hydrate的时候会提示服务端和客户端的模版不 
     </details> 
 
-- 🚀 [评论三则：遇到强迫症UI、2年的前端很迷茫、小领导抢我功劳](https://juejin.cn/post/7184806291565445179) | Wed Jan 04 2023 2:38 PM 
+- 🚀 [深入react源码看setState究竟做了什么？](https://juejin.cn/post/7184966248420081721) | Thu Jan 05 2023 12:59 AM 
     <details><summary>展开描述 ...</summary> 
-    小领导也是领导，你的成果也是他的成果；多去揽活干，别想为什么我干他不干。我升官了，我看着新的开发和UI继续吵，和我当初一样。 
+    前言 在深究 React 的 setState 原理的时候，我们先要考虑一个问题：setState 是异步的吗？ 首先以 class component 为例，请看下述代码（demo-0） count 
     </details> 
 
-- 💪 [大白话DDD（DDD黑话终结者）](https://juejin.cn/post/7184800180984610873) | Wed Jan 04 2023 2:20 PM 
+- 💪 [2022：被裁后的躺平平🔥](https://juejin.cn/post/7184963782882361405) | Thu Jan 05 2023 12:51 AM 
     <details><summary>展开描述 ...</summary> 
-    一、吐槽的话 相信听过DDD的人有很大一部分都不知道这玩意具体是干嘛的，甚至觉得它有那么一些虚无缥缈。原因之一是但凡讲DDD的，都是一堆特别高大上的概念，然后冠之以一堆让人看不懂的解释，。作者曾经在极 
+    一年一度的年终总结，象征着结束，也意味着开始。2022，绝对躺平平的一年，2023，flag先立起来！ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
