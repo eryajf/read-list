@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [记一次2022某地HVV中的逆向分析](https://www.freebuf.com/articles/network/354424.html) | Thu Jan 05 2023 11:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    事情是这样的，国庆前期某地HVV，接到了客户通知他们收到了钓鱼邮件想要溯源。 
+    </details> 
+
 - 🦄 [多方聚力共筑安全，贝壳找房主办第二届白帽峰会圆满落幕](https://www.freebuf.com/fevents/354378.html) | Thu Jan 05 2023 7:20 AM 
     <details><summary>展开描述 ...</summary> 
     2022年12月27日，“贝壳安全TIME”第二届白帽峰会暨贝壳SRC三周年的生日庆典如约在线上举办。 
     </details> 
 
-- 🦄 [又吃巨额罚单！Meta因违反欧盟数据隐私规定被罚 3.9 亿欧元](https://www.freebuf.com/news/354374.html) | Thu Jan 05 2023 7:18 AM 
+- 🦅 [又吃巨额罚单！Meta因违反欧盟数据隐私规定被罚 3.9 亿欧元](https://www.freebuf.com/news/354374.html) | Thu Jan 05 2023 7:18 AM 
     <details><summary>展开描述 ...</summary> 
     因Meta强迫用户接受定向投放的个性化广告，违反欧盟《通用数据保护条例》，爱尔兰数据保护委员会向Meta开出3.9亿欧元巨额罚单。 
     </details> 
 
-- 🦅 [奔驰、宝马等汽车品牌存在 API 漏洞，可能暴露车主个人信息](https://www.freebuf.com/news/354346.html) | Thu Jan 05 2023 5:19 AM 
+- 🪄 [奔驰、宝马等汽车品牌存在 API 漏洞，可能暴露车主个人信息](https://www.freebuf.com/news/354346.html) | Thu Jan 05 2023 5:19 AM 
     <details><summary>展开描述 ...</summary> 
     API 漏洞允许黑客进行远程解锁、启动车辆、跟踪汽车行踪，窃取车主个人信息的恶意攻击活动。 
     </details> 
 
-- 🪄 [2亿Twitter用户的数据被公开，仅需2美元即可下载](https://www.freebuf.com/news/354336.html) | Thu Jan 05 2023 3:25 AM 
+- 💻 [2亿Twitter用户的数据被公开，仅需2美元即可下载](https://www.freebuf.com/news/354336.html) | Thu Jan 05 2023 3:25 AM 
     <details><summary>展开描述 ...</summary> 
     一个流行的黑客论坛上发布了包含 2亿Twitter用户数据的文件。 
-    </details> 
-
-- 💻 [FreeBuf早报 | 警惕利用Flipper Zero的网络钓鱼；高通修复芯片组多个安全漏洞](https://www.freebuf.com/articles/354308.html) | Wed Jan 04 2023 12:51 PM 
-    <details><summary>展开描述 ...</summary> 
-    研究员发现一项新的网络钓鱼活动，利用Flipper Zero窃取安全社区的个人信息和加密货币。 
     </details> 
 <!-- freebuf:END -->
 
