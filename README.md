@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [虽迟但到，我的2022年终总结](https://juejin.cn/post/7184969679570468920) | Thu Jan 05 2023 1:12 AM 
+- 🤗 [贴吧低代码高性能规则引擎设计](https://juejin.cn/post/7184988067281780796) | Thu Jan 05 2023 2:24 AM 
     <details><summary>展开描述 ...</summary> 
-    当我想要稍微有点时间谢谢年终总结的时候，发现2022年已经翻过，2023年都已经已经过了好几天了。 我想2022年，对于所有人应该都是特别艰难的一年，坚持，努力，不要倒下，应该都是每个人都在做的事情。 
+    本文首先介绍了规则引擎的使用场景，引出贴吧规则引擎。从组件、变量、规则、处置四个模块介绍了规则引擎的组成部分，同时对最终规则文件的编译过程做了详细介绍。 
     </details> 
 
-- 🎡 [从recat源码角度看setState流程](https://juejin.cn/post/7184966537680257082) | Thu Jan 05 2023 1:00 AM 
+- 🎡 [【架构设计】你的应用该如何分层呢？](https://juejin.cn/post/7184986557198598205) | Thu Jan 05 2023 2:17 AM 
     <details><summary>展开描述 ...</summary> 
-    setState setState&lpar;&rpar; 将对组件 state 的更改排入队列批量推迟更新，并通知 React 需要使用更新后的 state 重新渲染此组件及其子组件。其实setState实际上不是异步 
+    前言 最近review公司的代码，发现现在整个代码层级十分混乱，一个service类的长度甚至达到了5000多行。而且各种分层模型DTO、VO乱用， 最终出现逻辑不清晰、各模块相互依赖、代码扩展性差、 
     </details> 
 
-- 🕯 [从源码角度看React-Hydrate原理](https://juejin.cn/post/7184966395762278437) | Thu Jan 05 2023 12:59 AM 
+- 🕯 [4天带你上手HarmonyOS ArkUI开发——《HarmonyOS ArkUI入门训练营之健康生活实战》](https://juejin.cn/post/7184986246925140005) | Thu Jan 05 2023 2:16 AM 
     <details><summary>展开描述 ...</summary> 
-    Demo 这里，我们在 index.html 中直接返回一段 html，以模拟服务端渲染生成的 html 注意，root 里面的内容不能换行，不然客户端hydrate的时候会提示服务端和客户端的模版不 
+    《HarmonyOS ArkUI入门训练营之健康饮食应用》是面向入门开发者打造的实战课程系列。特邀华为终端BG高级开发工程师作为本次训练营讲师，以健康饮食为例，开展技术教学及实战案例分享 
     </details> 
 
-- 🚀 [深入react源码看setState究竟做了什么？](https://juejin.cn/post/7184966248420081721) | Thu Jan 05 2023 12:59 AM 
+- 🚀 [有意思，小程序还可以一键生成App！](https://juejin.cn/post/7184986079437520933) | Thu Jan 05 2023 2:15 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 在深究 React 的 setState 原理的时候，我们先要考虑一个问题：setState 是异步的吗？ 首先以 class component 为例，请看下述代码（demo-0） count 
+    小程序≠微信小程序 说到小程序，大部分同学的第一反应，可能是微信小程序、支付宝小程序，确实，小程序的概念深入人心，并且已经被约定俗成的绑定到某些互联网公司的 APP 上。 但是，“小程序”并不是一个注 
     </details> 
 
-- 💪 [2022：被裁后的躺平平🔥](https://juejin.cn/post/7184963782882361405) | Thu Jan 05 2023 12:51 AM 
+- 💪 [2022，一切都是最好的安排｜2022年终总结](https://juejin.cn/post/7184980383489294397) | Thu Jan 05 2023 1:53 AM 
     <details><summary>展开描述 ...</summary> 
-    一年一度的年终总结，象征着结束，也意味着开始。2022，绝对躺平平的一年，2023，flag先立起来！ 
+    2023年的到了，其实没有什么特别的感觉，就和当初2022年来了一样，平淡如水。可能时间真的不存在吧，我们记住的也不是时间，而是那在有限的时间中遇到的那些人，一起做过的那些事...... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
