@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [为了探讨「数字极简」这件事，我甚至拜访了深山里的高僧](https://sspai.com/prime/story/vol015-talk-about-digital-minimalist) | Thu Jan 05 2023 7:00 AM 
+- 👹 [这些求职经验与工作方法，助你新年迈上新赛道](https://sspai.com/post/77637) | Thu Jan 05 2023 8:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    希望这些文章能帮助你在新的一年中，获得自己希望得到的全新旅程。祝你好运。&lt;a href=&quot;https://sspai.com/post/77637&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [为了探讨「数字极简」这件事，我甚至拜访了深山里的高僧](https://sspai.com/prime/story/vol015-talk-about-digital-minimalist) | Thu Jan 05 2023 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     在节目中，Leon 结合自己近期在数字极简上的思路和设备变化，为我们带来了重审数字极简和数字健康的新视角。&lt;a href=&quot;https://sspai.com/prime/story/vol015-talk-about-digital-minimalist&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/vol015-pre-moving-forward&quot; target=&quot;_blank&quot;&gt;《新的一年，轻装前行》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🐘 [播客未来的更多可能：视频播客、线下场景与程序化购买](https://sspai.com/post/77614) | Thu Jan 05 2023 3:51 AM 
+- 🤭 [播客未来的更多可能：视频播客、线下场景与程序化购买](https://sspai.com/post/77614) | Thu Jan 05 2023 3:51 AM 
     <details><summary>展开描述 ...</summary> 
     放弃生活的人不会做播客，也不会听播客，相信播客未来的人，也是期待明天的人。&lt;a href=&quot;https://sspai.com/post/77614&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：一加 11 发布、CES 少数派现场体验等](https://sspai.com/post/77629) | Thu Jan 05 2023 12:45 AM 
+- 🥸 [派早报：一加 11 发布、CES 少数派现场体验等](https://sspai.com/post/77629) | Thu Jan 05 2023 12:45 AM 
     <details><summary>展开描述 ...</summary> 
     ROG 公布 2023 款笔记本产品阵容、松下发布 Lumix S5 相机系列新品等。&lt;a href=&quot;https://sspai.com/post/77629&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [万字试读 01 | 新一年的必备技能，用 MoneyWiz 搭建个人记账系统](https://sspai.com/post/77618) | Wed Jan 04 2023 8:55 AM 
+- 🙉 [万字试读 01 | 新一年的必备技能，用 MoneyWiz 搭建个人记账系统](https://sspai.com/post/77618) | Wed Jan 04 2023 8:55 AM 
     <details><summary>展开描述 ...</summary> 
     本期「万字试读」的内容选自《经验卷轴：从零开始做好个人记账》。这是一本零门槛的个人记账指南。作者将从搭建记账系统开始，完整覆盖到交易类型、进阶操作和报表与预算的记账流程，手把手带你做好个人记账这件「小事」。&lt;a href=&quot;https://sspai.com/post/77618&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [兜兜转转，我还是想要一台无人机](https://sspai.com/post/77584) | Wed Jan 04 2023 6:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    尽管山河壮丽、美轮美奂有更专业的人在操持，它们也离我很远，但即便如此我依然是一个需要无人机的普通人。&lt;a href=&quot;https://sspai.com/post/77584&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
