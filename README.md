@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [less / vi, 查看 Java 日志文件时，如何把相同线程着色？或者其它类似工具？](https://www.v2ex.com/t/906886#reply2) | Thu Jan 05 2023 5:48 PM
-- 🤗 [好苦恼，毕业两年半，工资好低，是否应该离开广州。](https://www.v2ex.com/t/906883#reply3) | Thu Jan 05 2023 5:24 PM
-- 🎭 [拼音输入法在打字时光标或拼音下面会出现下划线](https://www.v2ex.com/t/906882#reply0) | Thu Jan 05 2023 4:56 PM
-- 🥷 [JSON 数据中，要将 value 转成特定的值，如何优雅的转换](https://www.v2ex.com/t/906880#reply4) | Thu Jan 05 2023 4:31 PM
-- 🐵 [我的酷狼 4T 硬盘挂了](https://www.v2ex.com/t/906876#reply0) | Thu Jan 05 2023 3:51 PM<!-- v2ex:END -->
+- 🥸 [显卡科学计算性能哪里可以查到？](https://www.v2ex.com/t/906890#reply0) | Thu Jan 05 2023 7:39 PM
+- 🤗 [less / vi, 查看 Java 日志文件时，如何把相同线程着色？或者其它类似工具？](https://www.v2ex.com/t/906886#reply2) | Thu Jan 05 2023 5:48 PM
+- 🎭 [好苦恼，毕业两年半，工资好低，是否应该离开广州。](https://www.v2ex.com/t/906883#reply3) | Thu Jan 05 2023 5:24 PM
+- 🥷 [拼音输入法在打字时光标或拼音下面会出现下划线](https://www.v2ex.com/t/906882#reply0) | Thu Jan 05 2023 4:56 PM
+- 🐵 [JSON 数据中，要将 value 转成特定的值，如何优雅的转换](https://www.v2ex.com/t/906880#reply4) | Thu Jan 05 2023 4:31 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
