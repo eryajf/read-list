@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [贴吧低代码高性能规则引擎设计](https://juejin.cn/post/7184988067281780796) | Thu Jan 05 2023 2:24 AM 
+- 🤗 [有意思了，小程序可以一键生成App了](https://juejin.cn/post/7184995394080735269) | Thu Jan 05 2023 2:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    小程序作为一种人机交互的软件载体、一种数字内容格式、一种代码分发传播机制，也到了被商业机构“借鉴”采用的时刻。企业们不是已经一直在用小程序吗？ 
+    </details> 
+
+- 🎡 [pnpm替换lerna+yarn的踩坑记录](https://juejin.cn/post/7184993826879062053) | Thu Jan 05 2023 2:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    如果有使用monorepo的需求，lerna+yarn会是很多开发者的选择，然而在实际开发中，lerna的很多功能我们并不需要，同时它也存在着一定的上手学习成本，而且 yarn也会存在一些问题 
+    </details> 
+
+- 🕯 [贴吧低代码高性能规则引擎设计](https://juejin.cn/post/7184988067281780796) | Thu Jan 05 2023 2:24 AM 
     <details><summary>展开描述 ...</summary> 
     本文首先介绍了规则引擎的使用场景，引出贴吧规则引擎。从组件、变量、规则、处置四个模块介绍了规则引擎的组成部分，同时对最终规则文件的编译过程做了详细介绍。 
     </details> 
 
-- 🎡 [【架构设计】你的应用该如何分层呢？](https://juejin.cn/post/7184986557198598205) | Thu Jan 05 2023 2:17 AM 
+- 🚀 [【架构设计】你的应用该如何分层呢？](https://juejin.cn/post/7184986557198598205) | Thu Jan 05 2023 2:17 AM 
     <details><summary>展开描述 ...</summary> 
     前言 最近review公司的代码，发现现在整个代码层级十分混乱，一个service类的长度甚至达到了5000多行。而且各种分层模型DTO、VO乱用， 最终出现逻辑不清晰、各模块相互依赖、代码扩展性差、 
     </details> 
 
-- 🕯 [4天带你上手HarmonyOS ArkUI开发——《HarmonyOS ArkUI入门训练营之健康生活实战》](https://juejin.cn/post/7184986246925140005) | Thu Jan 05 2023 2:16 AM 
+- 💪 [4天带你上手HarmonyOS ArkUI开发——《HarmonyOS ArkUI入门训练营之健康生活实战》](https://juejin.cn/post/7184986246925140005) | Thu Jan 05 2023 2:16 AM 
     <details><summary>展开描述 ...</summary> 
     《HarmonyOS ArkUI入门训练营之健康饮食应用》是面向入门开发者打造的实战课程系列。特邀华为终端BG高级开发工程师作为本次训练营讲师，以健康饮食为例，开展技术教学及实战案例分享 
-    </details> 
-
-- 🚀 [有意思，小程序还可以一键生成App！](https://juejin.cn/post/7184986079437520933) | Thu Jan 05 2023 2:15 AM 
-    <details><summary>展开描述 ...</summary> 
-    小程序≠微信小程序 说到小程序，大部分同学的第一反应，可能是微信小程序、支付宝小程序，确实，小程序的概念深入人心，并且已经被约定俗成的绑定到某些互联网公司的 APP 上。 但是，“小程序”并不是一个注 
-    </details> 
-
-- 💪 [2022，一切都是最好的安排｜2022年终总结](https://juejin.cn/post/7184980383489294397) | Thu Jan 05 2023 1:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    2023年的到了，其实没有什么特别的感觉，就和当初2022年来了一样，平淡如水。可能时间真的不存在吧，我们记住的也不是时间，而是那在有限的时间中遇到的那些人，一起做过的那些事...... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
