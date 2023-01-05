@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [FreeBuf早报 | 警惕利用Flipper Zero的网络钓鱼；高通修复芯片组多个安全漏洞](https://www.freebuf.com/articles/354308.html) | Wed Jan 04 2023 12:51 PM 
+    <details><summary>展开描述 ...</summary> 
+    全球动态1.马来西亚政府下令调查影响1300万公民的数据泄露事件马来西亚通信和数字部长Fahmi Fadzil已下令调查涉嫌大规模数据泄露事件，据报道涉及马来亚银行，Astro和选举委员会的数据。据报道，据称的违规行为影响了1 300万公民。[外刊-阅读原文]2.Google指控印度反垄断机构复制欧盟的部分裁决2022年10月，印度反垄断机构CCI向Google开出1.61亿美元反垄断罚单。现在， 
+    </details> 
+
 - 🦄 [都已经2023年了，去哪儿还在利用大数据杀熟？官方回应](https://www.freebuf.com/news/354281.html) | Wed Jan 04 2023 8:31 AM 
     <details><summary>展开描述 ...</summary> 
     网友发视频称，去哪儿存在大数据杀熟现象，不同用户使用不同设备，在去哪儿网上的价格完全不一样。 
     </details> 
 
-- 🦄 [继蔚来数据泄露后，又一老牌车企泄露200GB用户数据](https://www.freebuf.com/news/354227.html) | Wed Jan 04 2023 5:50 AM 
+- 🦅 [继蔚来数据泄露后，又一老牌车企泄露200GB用户数据](https://www.freebuf.com/news/354227.html) | Wed Jan 04 2023 5:50 AM 
     <details><summary>展开描述 ...</summary> 
     随着智能汽车的快速发展，汽车数据处理能力增强，汽车数据安全暴露的风险也日益突出。 
     </details> 
 
-- 🦅 [【读者福利】FreeBuf编辑羊了，只能“开发”来了](https://www.freebuf.com/fevents/354169.html) | Tue Jan 03 2023 9:24 AM 
+- 🪄 [【读者福利】FreeBuf编辑羊了，只能“开发”来了](https://www.freebuf.com/fevents/354169.html) | Tue Jan 03 2023 9:24 AM 
     <details><summary>展开描述 ...</summary> 
     领福利啦，几万个G的学习资料还有兔  等你来~ 
     </details> 
 
-- 🪄 [FreeBuf早报 | 丰田印度分公司遭遇数据入侵；火狐浏览器被误识别为IE而遭拒](https://www.freebuf.com/news/354159.html) | Tue Jan 03 2023 8:26 AM 
+- 💻 [FreeBuf早报 | 丰田印度分公司遭遇数据入侵；火狐浏览器被误识别为IE而遭拒](https://www.freebuf.com/news/354159.html) | Tue Jan 03 2023 8:26 AM 
     <details><summary>展开描述 ...</summary> 
     据外媒报道，丰田汽车印度分公司在1月1日表示，该公司的数据泄露事件可能暴露了部分客户的个人信息。 
-    </details> 
-
-- 💻 [波兰安全机构发布警告将应对亲俄黑客全方位、多手段的网络攻击](https://www.freebuf.com/news/354107.html) | Tue Jan 03 2023 3:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    自俄乌冲突以来，波兰一直是亲俄黑客进行网络攻击的目标。这些攻击几乎针对波兰的任何实体，包括政府部门、私人组织、媒体机构。 
     </details> 
 <!-- freebuf:END -->
 
