@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [2亿Twitter用户的数据被公开，仅需2美元即可下载](https://www.freebuf.com/news/354336.html) | Thu Jan 05 2023 3:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    一个流行的黑客论坛上发布了包含 2亿Twitter用户数据的文件。 
+    </details> 
+
 - 🦄 [FreeBuf早报 | 警惕利用Flipper Zero的网络钓鱼；高通修复芯片组多个安全漏洞](https://www.freebuf.com/articles/354308.html) | Wed Jan 04 2023 12:51 PM 
     <details><summary>展开描述 ...</summary> 
     研究员发现一项新的网络钓鱼活动，利用Flipper Zero窃取安全社区的个人信息和加密货币。 
     </details> 
 
-- 🦄 [都已经2023年了，去哪儿还在利用大数据杀熟？官方回应](https://www.freebuf.com/news/354281.html) | Wed Jan 04 2023 8:31 AM 
+- 🦅 [都已经2023年了，去哪儿还在利用大数据杀熟？官方回应](https://www.freebuf.com/news/354281.html) | Wed Jan 04 2023 8:31 AM 
     <details><summary>展开描述 ...</summary> 
     网友发视频称，去哪儿存在大数据杀熟现象，不同用户使用不同设备，在去哪儿网上的价格完全不一样。 
     </details> 
 
-- 🦅 [2022 年全球数据泄露事件 TOP 100 | FreeBuf 年度盘点](https://www.freebuf.com/articles/354231.html) | Wed Jan 04 2023 6:10 AM 
+- 🪄 [2022 年全球数据泄露事件 TOP 100 | FreeBuf 年度盘点](https://www.freebuf.com/articles/354231.html) | Wed Jan 04 2023 6:10 AM 
     <details><summary>展开描述 ...</summary> 
     本文按照时间线梳理出 2022 年全球重大数据泄露事件 TOP 100，希望能给企业的数据保护和安全建设带来一些帮助。 
     </details> 
 
-- 🪄 [继蔚来数据泄露后，又一老牌车企泄露200GB用户数据](https://www.freebuf.com/news/354227.html) | Wed Jan 04 2023 5:50 AM 
+- 💻 [继蔚来数据泄露后，又一老牌车企泄露200GB用户数据](https://www.freebuf.com/news/354227.html) | Wed Jan 04 2023 5:50 AM 
     <details><summary>展开描述 ...</summary> 
     随着智能汽车的快速发展，汽车数据处理能力增强，汽车数据安全暴露的风险也日益突出。 
-    </details> 
-
-- 💻 [【读者福利】FreeBuf编辑羊了，只能“开发”来了](https://www.freebuf.com/fevents/354169.html) | Tue Jan 03 2023 9:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    领福利啦，几万个G的学习资料还有兔  等你来~ 
     </details> 
 <!-- freebuf:END -->
 
