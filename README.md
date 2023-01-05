@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [兔年到了，一起来写个春联吧](https://juejin.cn/post/7185153544608514104) | Thu Jan 05 2023 1:09 PM 
+- 🤗 [为什么 Vite 的请求有时候是相对路径，有时候是 /@fs/ + 绝对路径？](https://juejin.cn/post/7185164908885966907) | Thu Jan 05 2023 1:50 PM 
+    <details><summary>展开描述 ...</summary> 
+    在开发项目时，我发现有时候请求资源的路径是相对路径，有时候是 /@fs/ 开头的绝对路径，这是为什么呢？ 
+    </details> 
+
+- 🎡 [兔年到了，一起来写个春联吧](https://juejin.cn/post/7185153544608514104) | Thu Jan 05 2023 1:09 PM 
     <details><summary>展开描述 ...</summary> 
     我正在参加「兔了个兔」创意投稿大赛，详情请看：「兔了个兔」创意投稿大赛   兔年到了，一起来写个春联吧 咳咳咳，自己又来薅羊毛啦！！！今天一如既往在掘金摸鱼，看到了一个新活动：创意投稿大赛来袭！秀兔兔 
     </details> 
 
-- 🎡 [你需要知道的TypeScript（类、函数、泛型）](https://juejin.cn/post/7185141291758387258) | Thu Jan 05 2023 12:18 PM 
+- 🕯 [你需要知道的TypeScript（类、函数、泛型）](https://juejin.cn/post/7185141291758387258) | Thu Jan 05 2023 12:18 PM 
     <details><summary>展开描述 ...</summary> 
     类的基本定义与使用 类的继承 使用extends关键字实现继承，子类中使用super关键字来调用父类的构造函数和方法。从基类中继承了属性和方法。这里的Dog是一个派生类，它派生自Animal基类，通过 
     </details> 
 
-- 🕯 [大白话DDD（DDD黑话终结者）](https://juejin.cn/post/7184800180984610873) | Wed Jan 04 2023 2:20 PM 
+- 🚀 [大白话DDD（DDD黑话终结者）](https://juejin.cn/post/7184800180984610873) | Wed Jan 04 2023 2:20 PM 
     <details><summary>展开描述 ...</summary> 
     一、吐槽的话 相信听过DDD的人有很大一部分都不知道这玩意具体是干嘛的，甚至觉得它有那么一些虚无缥缈。原因之一是但凡讲DDD的，都是一堆特别高大上的概念，然后冠之以一堆让人看不懂的解释，。作者曾经在极 
     </details> 
 
-- 🚀 [2022年度总结--《三本生的救赎》](https://juejin.cn/post/7184768629903196220) | Wed Jan 04 2023 12:14 PM 
+- 💪 [2022年度总结--《三本生的救赎》](https://juejin.cn/post/7184768629903196220) | Wed Jan 04 2023 12:14 PM 
     <details><summary>展开描述 ...</summary> 
     渣本 救赎之道 抉择 人情世故 醒悟 一个落魄的渣本生的2022总结，底层中的底层，就当笑话看吧。 
-    </details> 
-
-- 💪 [iOS非公开App分发实践](https://juejin.cn/post/7184765499836743738) | Wed Jan 04 2023 12:04 PM 
-    <details><summary>展开描述 ...</summary> 
-    一、前言 非公开分发是苹果新推出的一种分发方式，适用于为有限范围用户开发、不适合在App Store上公开分发的App，比如一些没有注册功能，由公司下发账号密码的企业内部应用。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
