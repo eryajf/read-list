@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [App+1 | 英特尔打出「融合卡」：让 Windows 与你的手机相连](https://sspai.com/post/77647) | Fri Jan 06 2023 8:00 AM 
+- 👹 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/77667) | Fri Jan 06 2023 10:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    ☕️TL;DR近期佳作推荐：[动画]中国奇谭、[韩剧]黑暗荣耀、[电影]上帝的笔误、[电影]玛蒂尔达：音乐剧、[丹麦剧]哥本哈根牛仔、[美剧]星球大战：异等小队第二季、[电影]萍水相腐檐廊下、[电影] ...&lt;a href=&quot;https://sspai.com/post/77667&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [App+1 | 英特尔打出「融合卡」：让 Windows 与你的手机相连](https://sspai.com/post/77647) | Fri Jan 06 2023 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     借助 Intel Unison，iPhone 用户在 Windows 上也能用有 Mac 一样的无缝跨平台体验。&lt;a href=&quot;https://sspai.com/post/77647&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [少数派定制 Keychron K3 用了一年之后，他们想说……](https://sspai.com/post/77661) | Fri Jan 06 2023 7:00 AM 
+- 🤭 [少数派定制 Keychron K3 用了一年之后，他们想说……](https://sspai.com/post/77661) | Fri Jan 06 2023 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     在少数派定制 Keychron K3 发售了一年多之后，我邀请到了几位少数派的作者，来谈谈一年「长测」后的感觉。&lt;a href=&quot;https://sspai.com/post/77661&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [高效阅读、便捷笔记：汉王 N10 mini 上手体验](https://sspai.com/post/77633) | Fri Jan 06 2023 3:50 AM 
+- 🥸 [高效阅读、便捷笔记：汉王 N10 mini 上手体验](https://sspai.com/post/77633) | Fri Jan 06 2023 3:50 AM 
     <details><summary>展开描述 ...</summary> 
     豆瓣上有热门小组叫「买书如山倒 读书如抽丝」，读不进书看来是一种通病，对于我来说，读书也如山倒的原因就是使用了墨水屏阅读器。&lt;a href=&quot;https://sspai.com/post/77633&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：AMD 发布多款处理器与显卡新品、CES・派在现场等](https://sspai.com/post/77654) | Fri Jan 06 2023 12:37 AM 
+- 🙉 [派早报：AMD 发布多款处理器与显卡新品、CES・派在现场等](https://sspai.com/post/77654) | Fri Jan 06 2023 12:37 AM 
     <details><summary>展开描述 ...</summary> 
     华硕笔记本发布多系列新品，Aqara 上线多款新品等&lt;a href=&quot;https://sspai.com/post/77654&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [新玩意 132｜少数派的编辑们最近买了啥？](https://sspai.com/post/77640) | Thu Jan 05 2023 9:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...&lt;a href=&quot;https://sspai.com/post/77640&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
