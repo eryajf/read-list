@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有没有办法实现简单的 Go 服务 leader 选举？](https://www.v2ex.com/t/907067#reply0) | Fri Jan 06 2023 10:15 AM
-- 🤗 [离线部署， pip.exe 和 uvicorn.exe 内含路径，离谱](https://www.v2ex.com/t/907057#reply2) | Fri Jan 06 2023 9:32 AM
-- 🎭 [你们自己做项目写网页的时候原型 UI 设计这些也是自己来的吗](https://www.v2ex.com/t/907050#reply6) | Fri Jan 06 2023 9:10 AM
-- 🥷 [看到 V 友推荐机场,刚好发现用了一年多的机场打 8 折最后一天, 也推荐一波吧](https://www.v2ex.com/t/907041#reply4) | Fri Jan 06 2023 8:41 AM
-- 🐵 [有没有「防监控摸鱼 pac 规则」](https://www.v2ex.com/t/907029#reply7) | Fri Jan 06 2023 8:01 AM<!-- v2ex:END -->
+- 🥸 [程序员 b 站发破解软件给自己公众号引流](https://www.v2ex.com/t/907070#reply6) | Fri Jan 06 2023 10:31 AM
+- 🤗 [安卓有没有方法更新系统自带的证书？](https://www.v2ex.com/t/907069#reply2) | Fri Jan 06 2023 10:21 AM
+- 🎭 [有没有办法实现简单的 Go 服务 leader 选举？](https://www.v2ex.com/t/907067#reply9) | Fri Jan 06 2023 10:15 AM
+- 🥷 [离线部署， pip.exe 和 uvicorn.exe 内含路径，离谱](https://www.v2ex.com/t/907057#reply4) | Fri Jan 06 2023 9:32 AM
+- 🐵 [你们自己做项目写网页的时候原型 UI 设计这些也是自己来的吗](https://www.v2ex.com/t/907050#reply7) | Fri Jan 06 2023 9:10 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
