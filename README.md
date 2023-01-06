@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [完爆90%的性能毛病，数据库优化八大通用绝招！](https://juejin.cn/post/7185338369860173880) | Fri Jan 06 2023 1:03 AM 
+- 🤗 [科学の套路の纸上谈兵の前端技术方案怎么写？](https://juejin.cn/post/7185362504824913976) | Fri Jan 06 2023 2:39 AM 
     <details><summary>展开描述 ...</summary> 
-    毫不夸张的说咱们后端工程师，无论在哪家公司，呆在哪个团队，做哪个系统，遇到的第一个让人头疼的问题绝对是数据库性能问题。如果我们有一套成熟的方法论，能让大家快速、准确的去选择出合适的优化方案，我相信能够 
+    最近我一直在谈论文档，虽然写了一篇也分享出来了。但是说实话非要自己写的时候其实大家都不愿意把这个东西落到纸面上，因为可能过于纸上谈兵了，所以我觉得可能不仅是需要一篇例子，更需要一些技巧和方法论。 
     </details> 
 
-- 🎡 [Flutter Row 实例 —— 新手礼包](https://juejin.cn/post/7185324105720135717) | Fri Jan 06 2023 12:09 AM 
+- 🎡 [【青训营】编程题分析](https://juejin.cn/post/7185357338285457465) | Fri Jan 06 2023 2:17 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇为新手准备的，用实例说明，配图 + 文字说明尽量详细。着重讲了弹性布局。最后讲了嵌套在 Row 和 LIstView 中的注意事项。 
+    本文记录的是青训营的编程题。以下提到的一些练习题均为掘金青训营官方账号发布的练习题。详细内容可以在官方号上查看。 另外，文中提到的代码片段我也发布在了码上掘金。 
     </details> 
 
-- 🕯 [细说react源码中的合成事件](https://juejin.cn/post/7185317161408299068) | Thu Jan 05 2023 11:46 PM 
+- 🕯 [优雅应对故障：QQ音乐怎么做高可用架构体系？](https://juejin.cn/post/7185354219468587066) | Fri Jan 06 2023 2:04 AM 
     <details><summary>展开描述 ...</summary> 
-    最近在做一个功能，然后不小心踩到了 React 合成事件 的坑，好奇心的驱使，去看了 React 官网合成事件 的解释，这不看不知道，一看吓一跳... SyntheticEvent是个什么鬼？咋冒出来 
+    导语 | 故障是开发者高频关注的问题。在分布式系统建设的过程中，我们思考的重点不是避免故障，而是拥抱故障，通过构建高可用架构体系来获得优雅应对故障的能力。本文作者冯煦亮从架构、工具链、可观测三个维度， 
     </details> 
 
-- 🚀 [React Context源码是怎么实现的呢](https://juejin.cn/post/7185316688571662393) | Thu Jan 05 2023 11:45 PM 
+- 🚀 [5分钟搞定 HertzBeat 对物联网数据库 IoTDB 监控实践](https://juejin.cn/post/7185352405704261693) | Fri Jan 06 2023 1:58 AM 
     <details><summary>展开描述 ...</summary> 
-    目前来看 Context 是一个非常强大但是很多时候不会直接使用的 api。大多数项目不会直接使用 createContext 然后向下面传递数据，而是采用第三方库（react-redux）。 想想项 
+    这篇文章带我们体验了如果使用HertzBeat监控IoTDB数据库指标数据，可以发现将监控-告警-通知集一体的HertzBeat在操作与使用方面更加的便捷，在页面上简单点一点就能把IoTDB 纳入监控 
     </details> 
 
-- 💪 [ReactDOM.render在react源码中执行之后发生了什么？](https://juejin.cn/post/7185316372329529403) | Thu Jan 05 2023 11:45 PM 
+- 💪 [【团队效率提升】Python-PyWebIO介绍](https://juejin.cn/post/7185347578102775845) | Fri Jan 06 2023 1:40 AM 
     <details><summary>展开描述 ...</summary> 
-    ReactDOM.render 通常是如下图使用，在提供的 container 里渲染一个 React 元素，并返回对该组件的引用（或者针对无状态组件返回 null）。本文主要是将ReactDOM.r 
+    PyWebIO 提供了一系列命令式的交互函数，能够让咱们用只用 Python 就可以编写 Web 应用, 不需要编写前端页面和后端接口, 让简易的 UI 开发效率大大提高。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
