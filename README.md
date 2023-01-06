@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一篇文章教你正确解锁 代理ip 的使用方式，包含两个实战案例](https://juejin.cn/post/7185479349770911799) | Fri Jan 06 2023 10:10 AM 
+- 🤗 [浅学GZIP DEFLATE算法](https://juejin.cn/post/7185503338472063033) | Fri Jan 06 2023 11:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    gzip 通常指的是压缩软件或者其对应格式，而它所使用的算法名为 DEFLATE。本文主要基于 RFC1951，向大家展示压缩算法的魅力。 
+    </details> 
+
+- 🎡 [console.log 一定会导致内存泄漏？不打开 devtools 就不会](https://juejin.cn/post/7185501830040944698) | Fri Jan 06 2023 11:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    昨天的文章通过 Performance 和 Memory 工具证明了打开 devtools 的时候 console.log 会有内存泄漏。 有 console.log 的时候，内存是这样的： 去掉之后 
+    </details> 
+
+- 🕯 [一篇文章教你正确解锁 代理ip 的使用方式，包含两个实战案例](https://juejin.cn/post/7185479349770911799) | Fri Jan 06 2023 10:10 AM 
     <details><summary>展开描述 ...</summary> 
     作为一个程序员，&quot;ip&quot; 对于我们来说肯定是非常熟悉了。 ip 全称 Internet Protocol，是指网络之间互联的协议，一般被简称为网协，这是专门为计算机网络相互连接进行通信而设计的协议。 
     </details> 
 
-- 🎡 [科技创新实力受认可，网易有道入选 2022 中国技术品牌影响力企业榜](https://juejin.cn/post/7185477535496339513) | Fri Jan 06 2023 10:05 AM 
+- 🚀 [科技创新实力受认可，网易有道入选 2022 中国技术品牌影响力企业榜](https://juejin.cn/post/7185477535496339513) | Fri Jan 06 2023 10:05 AM 
     <details><summary>展开描述 ...</summary> 
     2023年 1 月 4 日，中国技术先锋年度评选 | 2022 中国技术品牌影响力企业榜单正式发布，网易有道凭借科技创新实力入选榜单30 强之列。 
     </details> 
 
-- 🕯 [《Clean Architecture：软件架构与设计匠艺》 速读](https://juejin.cn/post/7185476907310252092) | Fri Jan 06 2023 10:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 《Clean Architecture：软件架构与设计匠艺》这本书豆瓣评分9.7，很多大神推荐的书，但目前只有英文版，自己花了一些时间看完，做一个笔记，留作后续学习 
-    </details> 
-
-- 🚀 [同盾科技 x TiDB丨实时数据架构为风控智能决策保驾护航](https://juejin.cn/post/7185475232671957053) | Fri Jan 06 2023 9:53 AM 
+- 💪 [同盾科技 x TiDB丨实时数据架构为风控智能决策保驾护航](https://juejin.cn/post/7185475232671957053) | Fri Jan 06 2023 9:53 AM 
     <details><summary>展开描述 ...</summary> 
     同盾科技是中国领先的人工智能科技企业。为了确保服务的低延迟和高可用性，同盾的技术团队不断寻找最佳的技术架构。经过长时间调研，他们最终选择了新一代分布式数据库 TiDB 作为离线层的核心数据库，基于 T 
-    </details> 
-
-- 💪 [降本超30%，智聆口语通过 TKE 注册节点实现 IDC GPU 节点降本增效实践](https://juejin.cn/post/7185472360177205304) | Fri Jan 06 2023 9:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    腾讯云原生降本增效案例实践——通过腾讯云原生容器化方案，借助注册节点助力腾讯云智聆口语评测实现降本增效超30% 
     </details> 
 <!-- juejin:END -->
 ### 少数派
