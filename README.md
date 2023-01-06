@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [人体分解需要多久？](http://jandan.net/p/112106) | Fri Jan 06 2023 5:36 AM 
+- 🚀 [[日本]夺命新年糯米团](http://jandan.net/p/112113) | Fri Jan 06 2023 8:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    吃的时候要细嚼慢咽 
+    </details> 
+
+- 🙉 [人体分解需要多久？](http://jandan.net/p/112106) | Fri Jan 06 2023 5:36 AM 
     <details><summary>展开描述 ...</summary> 
     尘归尘土归土 
     </details> 
 
-- 🙉 [Quora：关于衰老的简单事实](http://jandan.net/p/112102) | Fri Jan 06 2023 5:35 AM 
+- 🎉 [Quora：关于衰老的简单事实](http://jandan.net/p/112102) | Fri Jan 06 2023 5:35 AM 
     <details><summary>展开描述 ...</summary> 
     我们无法阻止衰老，这是事实。 
     </details> 
 
-- 🎉 [CIA的五个秘密项目](http://jandan.net/p/112100) | Fri Jan 06 2023 5:34 AM 
+- 🐲 [CIA的五个秘密项目](http://jandan.net/p/112100) | Fri Jan 06 2023 5:34 AM 
     <details><summary>展开描述 ...</summary> 
     关于CIA的许多活动都会导致阴谋论。 
     </details> 
 
-- 🐲 [今日好价 0106](http://jandan.net/p/112105) | Fri Jan 06 2023 5:33 AM 
+-  [今日好价 0106](http://jandan.net/p/112105) | Fri Jan 06 2023 5:33 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：32 
-    </details> 
-
--  [与他人合作时，我们的语言风格会彼此趋同](http://jandan.net/p/112058) | Fri Jan 06 2023 5:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    我们会无意识地模仿合作伙伴的用词习惯和语气 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
