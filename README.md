@@ -311,19 +311,19 @@
     全球动态 1.乌克兰军队通过临时数字矩阵实现“网络中心战”乌克兰军队在俄乌战争期间通过卫星通信和定制软件临时搭建了连接无人机、战士和武器的网络，为该国军队提供了一定程度的情报、协调和准确性，从而能够与俄罗斯庞大但行动迟缓的军队周旋。【阅读原文】2.Facebook因强迫用户接受定向广告而被爱尔兰监管机构罚款 4.14 亿美元爱尔兰数据保护委员会 &lpar;DPC&rpar; 已对 Meta Platforms处以3 
     </details> 
 
-- 🦅 [多方聚力共筑安全，贝壳找房主办第二届白帽峰会圆满落幕](https://www.freebuf.com/fevents/354378.html) | Thu Jan 05 2023 7:20 AM 
+- 🦅 [结合CC链注入无文件Tomcat内存马](https://www.freebuf.com/articles/web/354385.html) | Thu Jan 05 2023 7:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    结合CC链注入无文件Tomcat内存马分享学习！ 
+    </details> 
+
+- 🪄 [多方聚力共筑安全，贝壳找房主办第二届白帽峰会圆满落幕](https://www.freebuf.com/fevents/354378.html) | Thu Jan 05 2023 7:20 AM 
     <details><summary>展开描述 ...</summary> 
     2022年12月27日，“贝壳安全TIME”第二届白帽峰会暨贝壳SRC三周年的生日庆典如约在线上举办。 
     </details> 
 
-- 🪄 [又吃巨额罚单！Meta因违反欧盟数据隐私规定被罚 3.9 亿欧元](https://www.freebuf.com/news/354374.html) | Thu Jan 05 2023 7:18 AM 
+- 💻 [又吃巨额罚单！Meta因违反欧盟数据隐私规定被罚 3.9 亿欧元](https://www.freebuf.com/news/354374.html) | Thu Jan 05 2023 7:18 AM 
     <details><summary>展开描述 ...</summary> 
     因Meta强迫用户接受定向投放的个性化广告，违反欧盟《通用数据保护条例》，爱尔兰数据保护委员会向Meta开出3.9亿欧元巨额罚单。 
-    </details> 
-
-- 💻 [奔驰、宝马等汽车品牌存在 API 漏洞，可能暴露车主个人信息](https://www.freebuf.com/news/354346.html) | Thu Jan 05 2023 5:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    API 漏洞允许黑客进行远程解锁、启动车辆、跟踪汽车行踪，窃取车主个人信息的恶意攻击活动。 
     </details> 
 <!-- freebuf:END -->
 
