@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：AMD 发布多款处理器与显卡新品、CES・派在现场等](https://sspai.com/post/77654) | Fri Jan 06 2023 12:37 AM 
+- 👹 [高效阅读、便捷笔记：汉王 N10 mini 上手体验](https://sspai.com/post/77633) | Fri Jan 06 2023 3:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    豆瓣上有热门小组叫「买书如山倒 读书如抽丝」，读不进书看来是一种通病，对于我来说，读书也如山倒的原因就是使用了墨水屏阅读器。&lt;a href=&quot;https://sspai.com/post/77633&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派早报：AMD 发布多款处理器与显卡新品、CES・派在现场等](https://sspai.com/post/77654) | Fri Jan 06 2023 12:37 AM 
     <details><summary>展开描述 ...</summary> 
     华硕笔记本发布多系列新品，Aqara 上线多款新品等&lt;a href=&quot;https://sspai.com/post/77654&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [新玩意 132｜少数派的编辑们最近买了啥？](https://sspai.com/post/77640) | Thu Jan 05 2023 9:29 AM 
+- 🤭 [新玩意 132｜少数派的编辑们最近买了啥？](https://sspai.com/post/77640) | Thu Jan 05 2023 9:29 AM 
     <details><summary>展开描述 ...</summary> 
     关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...&lt;a href=&quot;https://sspai.com/post/77640&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [这些求职经验与工作方法，助你新年迈上新赛道](https://sspai.com/post/77637) | Thu Jan 05 2023 8:02 AM 
+- 🥸 [这些求职经验与工作方法，助你新年迈上新赛道](https://sspai.com/post/77637) | Thu Jan 05 2023 8:02 AM 
     <details><summary>展开描述 ...</summary> 
     希望这些文章能帮助你在新的一年中，获得自己希望得到的全新旅程。祝你好运。&lt;a href=&quot;https://sspai.com/post/77637&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [为了探讨「数字极简」这件事，我甚至拜访了深山里的高僧](https://sspai.com/prime/story/vol015-talk-about-digital-minimalist) | Thu Jan 05 2023 7:00 AM 
+- 🙉 [为了探讨「数字极简」这件事，我甚至拜访了深山里的高僧](https://sspai.com/prime/story/vol015-talk-about-digital-minimalist) | Thu Jan 05 2023 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     在节目中，Leon 结合自己近期在数字极简上的思路和设备变化，为我们带来了重审数字极简和数字健康的新视角。&lt;a href=&quot;https://sspai.com/prime/story/vol015-talk-about-digital-minimalist&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/vol015-pre-moving-forward&quot; target=&quot;_blank&quot;&gt;《新的一年，轻装前行》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
-    </details> 
-
-- 🙉 [播客未来的更多可能：视频播客、线下场景与程序化购买](https://sspai.com/post/77614) | Thu Jan 05 2023 3:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    放弃生活的人不会做播客，也不会听播客，相信播客未来的人，也是期待明天的人。&lt;a href=&quot;https://sspai.com/post/77614&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
