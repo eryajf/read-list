@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [第148期：财富是到底什么](https://juejin.cn/post/7185223826152620090) | Thu Jan 05 2023 5:54 PM 
+- 🤗 [完爆90%的性能毛病，数据库优化八大通用绝招！](https://juejin.cn/post/7185338369860173880) | Fri Jan 06 2023 1:03 AM 
     <details><summary>展开描述 ...</summary> 
-    你是否知道穷人和富人在思维层面有什么不同？ 其实很简单，一个叫存量思维，一个叫流量思维。 富人绝对不会把自己知道的财富秘诀说出来。百分之九十九的人一辈子都没能搞明白的问题，就是为什么我们非常努力的工作 
+    毫不夸张的说咱们后端工程师，无论在哪家公司，呆在哪个团队，做哪个系统，遇到的第一个让人头疼的问题绝对是数据库性能问题。如果我们有一套成熟的方法论，能让大家快速、准确的去选择出合适的优化方案，我相信能够 
     </details> 
 
-- 🎡 [一道面试题带你了解事件流和Event Loop](https://juejin.cn/post/7185196286806032439) | Thu Jan 05 2023 3:54 PM 
+- 🎡 [Flutter Row 实例 —— 新手礼包](https://juejin.cn/post/7185324105720135717) | Fri Jan 06 2023 12:09 AM 
     <details><summary>展开描述 ...</summary> 
-    最近在网上看到一道面试题，起初我觉得就是一道比较简单的，但是仔细研究一下发现其中有很多考点，并且可以延伸和拓展很多知识点，那么让我们一起来看看这道面试题，并且梳理一下相关的知识点吧。 
+    本篇为新手准备的，用实例说明，配图 + 文字说明尽量详细。着重讲了弹性布局。最后讲了嵌套在 Row 和 LIstView 中的注意事项。 
     </details> 
 
-- 🕯 [5 -- 周四了](https://juejin.cn/post/7185174111000199229) | Thu Jan 05 2023 2:27 PM 
+- 🕯 [细说react源码中的合成事件](https://juejin.cn/post/7185317161408299068) | Thu Jan 05 2023 11:46 PM 
     <details><summary>展开描述 ...</summary> 
-    5 -- 周四了 没想到这周过得这么快 这周疯狂工作，尽量将工作做完 但是公司的集群真是不给力，老是脚本跑不出来，让人等着就很烦躁 今天又是加油好好干的一天 虽然现在的工作不是最后的选择，但是现在的时 
+    最近在做一个功能，然后不小心踩到了 React 合成事件 的坑，好奇心的驱使，去看了 React 官网合成事件 的解释，这不看不知道，一看吓一跳... SyntheticEvent是个什么鬼？咋冒出来 
     </details> 
 
-- 🚀 [2022年终总结：今年学完的付费课程](https://juejin.cn/post/7185173416423620664) | Thu Jan 05 2023 2:23 PM 
+- 🚀 [React Context源码是怎么实现的呢](https://juejin.cn/post/7185316688571662393) | Thu Jan 05 2023 11:45 PM 
     <details><summary>展开描述 ...</summary> 
-    昨天总结了2022年看完的书单，今天分享下今年学完的付费课程。我常用的学习app就三个：得到、混沌学园、极客时间。 
+    目前来看 Context 是一个非常强大但是很多时候不会直接使用的 api。大多数项目不会直接使用 createContext 然后向下面传递数据，而是采用第三方库（react-redux）。 想想项 
     </details> 
 
-- 💪 [vue3 源码学习，实现一个 mini-vue（八）：构建 renderer 渲染器之 ELEMENT 节点的更新与删除](https://juejin.cn/post/7185170225719951418) | Thu Jan 05 2023 2:11 PM 
+- 💪 [ReactDOM.render在react源码中执行之后发生了什么？](https://juejin.cn/post/7185316372329529403) | Thu Jan 05 2023 11:45 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 原文来自 我的个人博客 再上一章中，我们完成了 renderer 的基础架构，完成了 ELEMENT 节点的挂载并且导出了可用的 render 函数。 我们知道对于 render 而言，除了有  
+    ReactDOM.render 通常是如下图使用，在提供的 container 里渲染一个 React 元素，并返回对该组件的引用（或者针对无状态组件返回 null）。本文主要是将ReactDOM.r 
     </details> 
 <!-- juejin:END -->
 ### 少数派
