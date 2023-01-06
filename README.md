@@ -398,11 +398,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯·如何正确地吐槽](https://daily.zhihu.com/story/9756869) | Thu Jan 05 2023 12:27 AM
-- 🐻 [有哪些科技在科幻电影和游戏中广泛运用，但在现实生活中却毫无生产头绪的「黑科技」？](https://daily.zhihu.com/story/9756844) | Thu Jan 05 2023 12:27 AM
-- 🌏 [为什么地球内部的温度那么高，人类却感觉不到？](https://daily.zhihu.com/story/9756845) | Thu Jan 05 2023 12:27 AM
-- 🕴 [山羊为什么能攀岩？](https://daily.zhihu.com/story/9756855) | Thu Jan 05 2023 12:27 AM
-- 🌮 [质子内部到底是什么样的？](https://daily.zhihu.com/story/9756857) | Thu Jan 05 2023 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯·如何正确地吐槽](https://daily.zhihu.com/story/9756898) | Fri Jan 06 2023 12:27 AM
+- 🐻 [在绘画中是否有办法用冷色调来表现炽热感的画面，例如沙漠等？](https://daily.zhihu.com/story/9756874) | Fri Jan 06 2023 12:27 AM
+- 🌏 [上官婉儿墓志首次面向公众展出，历史中的上官婉儿是个什么样的人物，她的墓志考古学意义有多大？](https://daily.zhihu.com/story/9756879) | Fri Jan 06 2023 12:27 AM
+- 🕴 [火星消失了对地球有什么影响？](https://daily.zhihu.com/story/9756880) | Fri Jan 06 2023 12:27 AM
+- 🌮 [古代真的存在削铁如泥的剑吗？](https://daily.zhihu.com/story/9756886) | Fri Jan 06 2023 12:27 AM<!-- zhihu:END -->
 
 
 ## 应用资源
