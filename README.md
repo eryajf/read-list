@@ -481,29 +481,29 @@
 ### 不死鸟
 
 <!-- iui:START -->
-- 🌊 [2023 年 1月 每日分享](https://iui.su/164/) | Fri Jan 06 2023 9:48 AM 
+- 🌊 [2023 年 1月 每日分享](https://iui.su/164/) | Fri Jan 06 2023 11:01 AM 
     <details><summary>展开描述 ...</summary> 
     可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。1月5日CapCut 剪映... 
     </details> 
 
-- 🫣 [全网免费音乐搜索汇总](https://iui.su/2217/) | Fri Jan 06 2023 9:43 AM 
+- 🫣 [阅读：安卓阅读神器](https://iui.su/2551/) | Fri Jan 06 2023 10:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    安卓平台有很多免费阅读软件，很多app刚出来用起来是不错的，但有这样那样的缺点，而安卓阅读就是一款全能战士。可以不用更新app，没有广告的看书神器。只需添加书源地址，定期更新书源，即可实现长久免... 
+    </details> 
+
+- 🌜 [全网免费音乐搜索汇总](https://iui.su/2217/) | Fri Jan 06 2023 10:38 AM 
     <details><summary>展开描述 ...</summary> 
     免费音乐搜索下载网站，这里分享的网站均来源网友推荐及搜索引擎免费音乐下载大全搜索歌曲，支持下载 无损/320k/192khttps://thewind.xyz直接搜索歌曲，sq为flac hd为... 
     </details> 
 
-- 🌜 [国内好用的搜索引擎](https://iui.su/3405/) | Wed Jan 04 2023 9:53 AM 
+- 🏊 [国内好用的搜索引擎](https://iui.su/3405/) | Wed Jan 04 2023 9:53 AM 
     <details><summary>展开描述 ...</summary> 
     推荐使用大佬点入直接进行搜索，整合了几个好用的搜索引擎到导航中。搜索引擎you搜gogo搜searx搜F搜spot搜bing搜一些网盘搜索可以查看：资源搜，更多基于searx的聚合搜索引擎，可通... 
     </details> 
 
-- 🏊 [布丁扫描](https://iui.su/3617/) | Wed Jan 04 2023 9:46 AM 
+- 🚦 [布丁扫描](https://iui.su/3617/) | Wed Jan 04 2023 9:46 AM 
     <details><summary>展开描述 ...</summary> 
     布丁扫描（原全能扫描官/琥珀扫描）是vivo出的一款免费专业的掌上扫描app，比很多收费的的扫描app好用，之前只有安卓版，最近发现iOS端也发布了优点：全功能免费使用，分享无水印/文字识别准、... 
-    </details> 
-
-- 🚦 [最新可用的二维码生成 api](https://iui.su/2225/) | Tue Jan 03 2023 7:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    支持https的二维码api服务并不多，这里是经过站长精心筛选后剩下的结果。使用方法很简单，替换https://iui.su为想要生成的文字或链接即可。https 二维码生成 apioschin... 
     </details> 
 <!-- iui:END -->
 
