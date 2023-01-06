@@ -308,7 +308,7 @@
 
 - 🦄 [FreeBuf早报 | 乌克兰通过数字矩阵实现网络中心战；微软考虑在必应中加入 ChatGPT](https://www.freebuf.com/news/354418.html) | Thu Jan 05 2023 10:30 AM 
     <details><summary>展开描述 ...</summary> 
-    全球动态 1.乌克兰军队通过临时数字矩阵实现“网络中心战”乌克兰军队在俄乌战争期间通过卫星通信和定制软件临时搭建了连接无人机、战士和武器的网络，为该国军队提供了一定程度的情报、协调和准确性，从而能够与俄罗斯庞大但行动迟缓的军队周旋。【阅读原文】2.Facebook因强迫用户接受定向广告而被爱尔兰监管机构罚款 4.14 亿美元爱尔兰数据保护委员会 &lpar;DPC&rpar; 已对 Meta Platforms处以3 
+    为了吸引用户使用它的搜索引擎，微软考虑在必应中加入 OpenAI 的聊天机器人 ChatGPT。 
     </details> 
 
 - 🦅 [结合CC链注入无文件Tomcat内存马](https://www.freebuf.com/articles/web/354385.html) | Thu Jan 05 2023 7:58 AM 
