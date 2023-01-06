@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [记一次2022某地HVV中的逆向分析](https://www.freebuf.com/articles/network/354424.html) | Thu Jan 05 2023 11:28 AM 
+- 🦄 [法国对苹果公司处以 800 万欧元罚款，后者表示会上诉！](https://www.freebuf.com/articles/354472.html) | Fri Jan 06 2023 3:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    苹果公司未经用户同意，在 App Store上收集用户数据，投放定向广告，被罚 800 万欧元。   
+    </details> 
+
+- 🦄 [探究Groovy组件的利用方式](https://www.freebuf.com/vuls/343311.html) | Thu Jan 05 2023 3:24 PM 
+    <details><summary>展开描述 ...</summary> 
+    对java中的Groovy组件漏洞进行了总结 
+    </details> 
+
+- 🦅 [SnakeYaml从漏洞探测到利用姿势](https://www.freebuf.com/vuls/343387.html) | Thu Jan 05 2023 3:23 PM 
+    <details><summary>展开描述 ...</summary> 
+    学习了SnakeYaml的结合第三方库的利用姿势和自身JDK的利用 
+    </details> 
+
+- 🪄 [等保测评项——弱口令空口令](https://www.freebuf.com/articles/web/352224.html) | Thu Jan 05 2023 2:41 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文详细介绍了等保测评中弱口令、空口令的测评关键点以及注意事项，仅供读者参考。 
+    </details> 
+
+- 💻 [记一次2022某地HVV中的逆向分析](https://www.freebuf.com/articles/network/354424.html) | Thu Jan 05 2023 11:28 AM 
     <details><summary>展开描述 ...</summary> 
     事情是这样的，国庆前期某地HVV，接到了客户通知他们收到了钓鱼邮件想要溯源。 
-    </details> 
-
-- 🦄 [FreeBuf早报 | 乌克兰通过数字矩阵实现网络中心战；微软考虑在必应中加入 ChatGPT](https://www.freebuf.com/news/354418.html) | Thu Jan 05 2023 10:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    为了吸引用户使用它的搜索引擎，微软考虑在必应中加入 OpenAI 的聊天机器人 ChatGPT。 
-    </details> 
-
-- 🦅 [结合CC链注入无文件Tomcat内存马](https://www.freebuf.com/articles/web/354385.html) | Thu Jan 05 2023 7:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    结合CC链注入无文件Tomcat内存马分享学习！ 
-    </details> 
-
-- 🪄 [多方聚力共筑安全，贝壳找房主办第二届白帽峰会圆满落幕](https://www.freebuf.com/fevents/354378.html) | Thu Jan 05 2023 7:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    2022年12月27日，“贝壳安全TIME”第二届白帽峰会暨贝壳SRC三周年的生日庆典如约在线上举办。 
-    </details> 
-
-- 💻 [又吃巨额罚单！Meta因违反欧盟数据隐私规定被罚 3.9 亿欧元](https://www.freebuf.com/news/354374.html) | Thu Jan 05 2023 7:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    因Meta强迫用户接受定向投放的个性化广告，违反欧盟《通用数据保护条例》，爱尔兰数据保护委员会向Meta开出3.9亿欧元巨额罚单。 
     </details> 
 <!-- freebuf:END -->
 
