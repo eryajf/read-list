@@ -667,29 +667,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0106](http://jandan.net/p/112105) | Fri Jan 06 2023 2:29 AM 
+- 🚀 [人体分解需要多久？](http://jandan.net/p/112106) | Fri Jan 06 2023 3:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    尘归尘土归土 
+    </details> 
+
+- 🙉 [今日好价 0106](http://jandan.net/p/112105) | Fri Jan 06 2023 2:29 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：32 
     </details> 
 
-- 🙉 [美国“最佳屁屁”审美标准的百年变化](http://jandan.net/p/112098) | Thu Jan 05 2023 5:26 AM 
+- 🎉 [美国“最佳屁屁”审美标准的百年变化](http://jandan.net/p/112098) | Thu Jan 05 2023 5:26 AM 
     <details><summary>展开描述 ...</summary> 
     谨以此文纪念臀魔，感谢那些快乐的日子 
     </details> 
 
-- 🎉 [颠覆性发现越来越少：主要科学和技术领域正在衰退](http://jandan.net/p/112053) | Thu Jan 05 2023 5:25 AM 
+- 🐲 [颠覆性发现越来越少：主要科学和技术领域正在衰退](http://jandan.net/p/112053) | Thu Jan 05 2023 5:25 AM 
     <details><summary>展开描述 ...</summary> 
     随着渐进式创新变得越来越普遍，“研究的本质正在发生变化”。 
     </details> 
 
-- 🐲 [模型显示，狗狗的尾巴不具备运动辅助功能](http://jandan.net/p/112088) | Thu Jan 05 2023 5:23 AM 
+-  [模型显示，狗狗的尾巴不具备运动辅助功能](http://jandan.net/p/112088) | Thu Jan 05 2023 5:23 AM 
     <details><summary>展开描述 ...</summary> 
     主要用于交流 
-    </details> 
-
--  [冰盖融化：北美有史以来最大的灾难](http://jandan.net/p/112093) | Thu Jan 05 2023 5:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    了解即将发生的灾难 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
