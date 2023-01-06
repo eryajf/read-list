@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [2022 推荐的那些开发者工具](https://www.v2ex.com/t/906931#reply0) | Fri Jan 06 2023 2:21 AM
-- 🤗 [前端菜鸟想报课学习，但学费好贵](https://www.v2ex.com/t/906930#reply5) | Fri Jan 06 2023 2:14 AM
-- 🎭 [今年大家，有推荐的书吗？](https://www.v2ex.com/t/906929#reply7) | Fri Jan 06 2023 2:14 AM
-- 🥷 [求助,大家觉得开发转设计怎么样呢](https://www.v2ex.com/t/906926#reply1) | Fri Jan 06 2023 2:13 AM
-- 🐵 [💡 动脑舞：根据词库词频，生成九宫下重码方案最少的双拼方案。](https://www.v2ex.com/t/906918#reply0) | Fri Jan 06 2023 1:52 AM<!-- v2ex:END -->
+- 🥸 [推荐一波机场，速度很快，价格便宜](https://www.v2ex.com/t/906946#reply1) | Fri Jan 06 2023 2:58 AM
+- 🤗 [2022 推荐的那些开发者工具](https://www.v2ex.com/t/906931#reply2) | Fri Jan 06 2023 2:21 AM
+- 🎭 [前端菜鸟想报课学习，但学费好贵](https://www.v2ex.com/t/906930#reply6) | Fri Jan 06 2023 2:14 AM
+- 🥷 [今年大家，有推荐的书吗？](https://www.v2ex.com/t/906929#reply16) | Fri Jan 06 2023 2:14 AM
+- 🐵 [求助,大家觉得开发转设计怎么样呢](https://www.v2ex.com/t/906926#reply3) | Fri Jan 06 2023 2:13 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
