@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [关于微前端，你理解到究极奥义了么？](https://juejin.cn/post/7185863492820926523) | Sat Jan 07 2023 11:01 AM 
+- 🤗 [用 JavaScript 制作一个新年的日历小工具](https://juejin.cn/post/7185876590692630583) | Sat Jan 07 2023 11:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    我正在参加「兔了个兔」创意投稿大赛，详情请看：「兔了个兔」创意投稿大赛 2023年，让我们携手一道兔谋大业、做出兔出贡献！同打拼、共丰盈、多喜乐、长安宁，好运一路相随兔气扬眉！ 日历小部件是事件交互型 
+    </details> 
+
+- 🎡 [前端错误监控以及上报](https://juejin.cn/post/7185871994624147512) | Sat Jan 07 2023 11:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    前端错误捕获方法 前端捕获错误的方法： try..catch：捕获的异常必须是线程执行进入到try...catch且try...catch未执行完的时候抛出来。 语法异常在语法检查阶段就报错了，线程尚 
+    </details> 
+
+- 🕯 [关于微前端，你理解到究极奥义了么？](https://juejin.cn/post/7185863492820926523) | Sat Jan 07 2023 11:01 AM 
     <details><summary>展开描述 ...</summary> 
     在微前端这个概念出现之前，我们或多或少都能够联想到另一个词性上有些相似的概念微服务，它从出现后便一直都很火热，并不断催生着后端架构体系的演进，如探究他们的诞生原因，会发现很多有意思的共同点。 
     </details> 
 
-- 🎡 [swiftUI基本知识点总结](https://juejin.cn/post/7185860050085216317) | Sat Jan 07 2023 10:52 AM 
+- 🚀 [swiftUI基本知识点总结](https://juejin.cn/post/7185860050085216317) | Sat Jan 07 2023 10:52 AM 
     <details><summary>展开描述 ...</summary> 
     一、swiftUI基本笔记 1、状态与动画 过渡就像 Keynote 中的 Magic Move。你只需要设置状态，SwiftUI 就会为你找出两个状态之间的过渡。 
     </details> 
 
-- 🕯 [ReentrantLock底层原理分析](https://juejin.cn/post/7185846237445226554) | Sat Jan 07 2023 9:57 AM 
+- 💪 [ReentrantLock底层原理分析](https://juejin.cn/post/7185846237445226554) | Sat Jan 07 2023 9:57 AM 
     <details><summary>展开描述 ...</summary> 
     J.U.C 简介 Java.util.concurrent 是在并发编程中比较常用的工具类，里面包含很多用来在并发场景中使用的组件。比如线程池、阻塞队列、计时器、同步器、并发集合等等。并发包的作者是大 
-    </details> 
-
-- 🚀 [【云原生】Ceph 在 k8s中应用](https://juejin.cn/post/7185832913009639485) | Sat Jan 07 2023 9:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    一、概述 分布式存储系统 Ceph 介绍与环境部署 分布式存储系统 Ceph 实战操作 前提是需要一个k8s环境，k8s环境的部署可以参考我这篇文章：Kubernetes（k8s）最新版最完整版环境部 
-    </details> 
-
-- 💪 [Next13 新功能整理](https://juejin.cn/post/7185830116352589882) | Sat Jan 07 2023 8:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    Next13 支持 React 服务器组件，服务器组件能够在服务器端执行和渲染 React 组件，以前会影响客户端上 JavaScript 包大小的大型依赖项现在可以完全保留在服务器上，从而提高性能。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
