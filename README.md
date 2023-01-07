@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [年度征文 | 2022 年，在记录中感受混乱与秩序之美](https://sspai.com/post/77642) | Sat Jan 07 2023 3:32 AM 
+- 👹 [如何用 VOSviewer 和 BiblioShiny 快速梳理陌生领域的文献？](https://sspai.com/post/75738) | Sat Jan 07 2023 8:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    VOSviewer 和 BiblioShiny 使用技巧分享&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/post/75738&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为付费栏目文章，出自&lt;a href=&quot;https://sspai.com/series/278&quot; target=&quot;_blank&quot;&gt;《经验卷轴：入门学术论文写作》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
+    </details> 
+
+- 🐘 [年度征文 | 2022 年，在记录中感受混乱与秩序之美](https://sspai.com/post/77642) | Sat Jan 07 2023 3:32 AM 
     <details><summary>展开描述 ...</summary> 
     持续去记录，持续去思考，让我有幸观察到混乱与秩序之间的美。我的笔记体系，也在混乱与秩序之间，有机生长。&lt;a href=&quot;https://sspai.com/post/77642&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/77667) | Fri Jan 06 2023 10:15 AM 
+- 🤭 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/77667) | Fri Jan 06 2023 10:15 AM 
     <details><summary>展开描述 ...</summary> 
     ☕️TL;DR近期佳作推荐：[动画]中国奇谭、[韩剧]黑暗荣耀、[电影]上帝的笔误、[电影]玛蒂尔达：音乐剧、[丹麦剧]哥本哈根牛仔、[美剧]星球大战：异等小队第二季、[电影]萍水相腐檐廊下、[电影] ...&lt;a href=&quot;https://sspai.com/post/77667&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [App+1 | 英特尔打出「融合卡」：让 Windows 与你的手机相连](https://sspai.com/post/77647) | Fri Jan 06 2023 8:00 AM 
+- 🥸 [App+1 | 英特尔打出「融合卡」：让 Windows 与你的手机相连](https://sspai.com/post/77647) | Fri Jan 06 2023 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     借助 Intel Unison，iPhone 用户在 Windows 上也能用有 Mac 一样的无缝跨平台体验。&lt;a href=&quot;https://sspai.com/post/77647&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [少数派定制 Keychron K3 用了一年之后，他们想说……](https://sspai.com/post/77661) | Fri Jan 06 2023 7:00 AM 
+- 🙉 [少数派定制 Keychron K3 用了一年之后，他们想说……](https://sspai.com/post/77661) | Fri Jan 06 2023 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     在少数派定制 Keychron K3 发售了一年多之后，我邀请到了几位少数派的作者，来谈谈一年「长测」后的感觉。&lt;a href=&quot;https://sspai.com/post/77661&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [高效阅读、便捷笔记：汉王 N10 mini 上手体验](https://sspai.com/post/77633) | Fri Jan 06 2023 3:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    豆瓣上有热门小组叫「买书如山倒 读书如抽丝」，读不进书看来是一种通病，对于我来说，读书也如山倒的原因就是使用了墨水屏阅读器。&lt;a href=&quot;https://sspai.com/post/77633&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
