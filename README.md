@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【年终总结】2022，这一年，大雨滂沱，我开始了新的生活](https://juejin.cn/post/7185769474706899003) | Sat Jan 07 2023 4:56 AM 
+- 🤗 [腾讯文档渲染层 Feature 设计](https://juejin.cn/post/7185789225902538811) | Sat Jan 07 2023 6:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    腾讯文档智能表格的界面是用 Canvas 进行绘制的，进行了 Canvas 分层，今天来介绍一下 Feature 层的设计。 
+    </details> 
+
+- 🎡 [OpenTelemetry日志体系](https://juejin.cn/post/7185780050921259065) | Sat Jan 07 2023 5:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 OpenTelemetry为了实现其可观测性有三大体系：Trace，Metrics和Log。本文将对于OpenTelemetry实现的日志体系进行详细的讲述。 日志 说到日志相比大家都能侃侃而谈 
+    </details> 
+
+- 🕯 [【年终总结】2022，这一年，大雨滂沱，我开始了新的生活](https://juejin.cn/post/7185769474706899003) | Sat Jan 07 2023 4:56 AM 
     <details><summary>展开描述 ...</summary> 
     回顾2022，展望2023，希望在新的一年里，自己万事顺利，更上一层楼！但行好事，莫问前程，心之所向，无问西东； 
     </details> 
 
-- 🎡 [【Redis技术探索】「数据迁移实战」手把手教你如何实现在线+离线模式进行迁移Redis数据实战指南（在线同步数据）](https://juejin.cn/post/7185766761902374968) | Sat Jan 07 2023 4:53 AM 
+- 🚀 [【Redis技术探索】「数据迁移实战」手把手教你如何实现在线+离线模式进行迁移Redis数据实战指南（在线同步数据）](https://juejin.cn/post/7185766761902374968) | Sat Jan 07 2023 4:53 AM 
     <details><summary>展开描述 ...</summary> 
     RedisShake基本介绍 RedisShake是基于redis-port基础上进行改进的是一款开源的Redis迁移工具，支持Cluster集群的在线迁移与离线迁移（备份文件导入）。数据可平滑迁移， 
     </details> 
 
-- 🕯 [如何让你使用的web woker使用起来想java线程池一样简单，还有一些重构的思路。](https://juejin.cn/post/7185762134679093285) | Sat Jan 07 2023 4:30 AM 
+- 💪 [如何让你使用的web woker使用起来想java线程池一样简单，还有一些重构的思路。](https://juejin.cn/post/7185762134679093285) | Sat Jan 07 2023 4:30 AM 
     <details><summary>展开描述 ...</summary> 
     大家好，我是梦兽。一个技术分享宅男。欢迎大家订阅我的b站频道。 傻梦兽的个人空间_哔哩哔哩_bilibili 最近梦兽，我在对接一个项目。这个项目的&quot;前任&quot;使用了webworker。但是它使用的这个w 
-    </details> 
-
-- 🚀 [2022年JavaScript明星项目公布，最受欢迎的竟是它？](https://juejin.cn/post/7185760633369919549) | Sat Jan 07 2023 4:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    大家好，我是 CUGGZ。 近日，Best of JS 正式公布 2022 年 JavaScript 明星项目榜单。该榜单提供了过去 12 个月 JavaScript 生态系统中的趋势项目的概述！ 此 
-    </details> 
-
-- 💪 [音视频开发系统入门大致路线](https://juejin.cn/post/7185751578301726757) | Sat Jan 07 2023 3:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享一下对于音视频开发入门路线的看法，基本上还是以音视频基础为主，同时加上一些实践操作。 实践操作反过来也是加深对理论的认识和研究，两者缺一不可。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
