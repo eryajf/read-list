@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [腾讯文档渲染层 Feature 设计](https://juejin.cn/post/7185789225902538811) | Sat Jan 07 2023 6:14 AM 
+- 🤗 [【云原生】Ceph 在 k8s中应用](https://juejin.cn/post/7185832913009639485) | Sat Jan 07 2023 9:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    一、概述 分布式存储系统 Ceph 介绍与环境部署 分布式存储系统 Ceph 实战操作 前提是需要一个k8s环境，k8s环境的部署可以参考我这篇文章：Kubernetes（k8s）最新版最完整版环境部 
+    </details> 
+
+- 🎡 [vue3 源码学习，实现一个 mini-vue（十）：构建 renderer 渲染器之 Text Comment 节点的渲染](https://juejin.cn/post/7185819975376961597) | Sat Jan 07 2023 8:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 原文来自 我的个人博客 在之前的章节中我们实现了 ELEMENT 节点的挂载与更新，以及 class、style、事件 属性等等的挂载与更新。 本章我们就在来实现一下 Text、Comment  
+    </details> 
+
+- 🕯 [波澜起伏的2022（身边的风景很美，可以停下来看看）](https://juejin.cn/post/7185797968501407802) | Sat Jan 07 2023 6:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文是「回顾2022，展望2023，我正在参与2022年终总结征文大赛活动」的文章。 前言 昨天晚上女朋友聊天，突然就问起我2023年的计划拟定好了吗。是啊，恍惚之间，又是一年末尾。不禁想起2022年 
+    </details> 
+
+- 🚀 [腾讯文档渲染层 Feature 设计](https://juejin.cn/post/7185789225902538811) | Sat Jan 07 2023 6:14 AM 
     <details><summary>展开描述 ...</summary> 
     腾讯文档智能表格的界面是用 Canvas 进行绘制的，进行了 Canvas 分层，今天来介绍一下 Feature 层的设计。 
     </details> 
 
-- 🎡 [OpenTelemetry日志体系](https://juejin.cn/post/7185780050921259065) | Sat Jan 07 2023 5:45 AM 
+- 💪 [轻松玩转Excel，springboot集成easyexcel](https://juejin.cn/post/7185784917895151673) | Sat Jan 07 2023 5:57 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 OpenTelemetry为了实现其可观测性有三大体系：Trace，Metrics和Log。本文将对于OpenTelemetry实现的日志体系进行详细的讲述。 日志 说到日志相比大家都能侃侃而谈 
-    </details> 
-
-- 🕯 [【年终总结】2022，这一年，大雨滂沱，我开始了新的生活](https://juejin.cn/post/7185769474706899003) | Sat Jan 07 2023 4:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    回顾2022，展望2023，希望在新的一年里，自己万事顺利，更上一层楼！但行好事，莫问前程，心之所向，无问西东； 
-    </details> 
-
-- 🚀 [【Redis技术探索】「数据迁移实战」手把手教你如何实现在线+离线模式进行迁移Redis数据实战指南（在线同步数据）](https://juejin.cn/post/7185766761902374968) | Sat Jan 07 2023 4:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    RedisShake基本介绍 RedisShake是基于redis-port基础上进行改进的是一款开源的Redis迁移工具，支持Cluster集群的在线迁移与离线迁移（备份文件导入）。数据可平滑迁移， 
-    </details> 
-
-- 💪 [如何让你使用的web woker使用起来想java线程池一样简单，还有一些重构的思路。](https://juejin.cn/post/7185762134679093285) | Sat Jan 07 2023 4:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    大家好，我是梦兽。一个技术分享宅男。欢迎大家订阅我的b站频道。 傻梦兽的个人空间_哔哩哔哩_bilibili 最近梦兽，我在对接一个项目。这个项目的&quot;前任&quot;使用了webworker。但是它使用的这个w 
+    最近这不又接到一个需求，上游用户想要下载上报给我们的列表数据，用来进行一些简单的线下分析。 用户的需求必须满足啊！于是我就吭哧吭哧的找到俺的chrome大哥，立即所搜”springboot下载... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
