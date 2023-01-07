@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [用 JavaScript 制作一个新年的日历小工具](https://juejin.cn/post/7185876590692630583) | Sat Jan 07 2023 11:53 AM 
+- 🤗 [都 35 了 大家一定要学会记笔记啊](https://juejin.cn/post/7185895295862898747) | Sat Jan 07 2023 1:06 PM 
+    <details><summary>展开描述 ...</summary> 
+    随便唠唠 ‧˚₊̥&lpar;∗︎⁰͈꒨⁰͈&rpar;‧˚₊*̥ PS： 2023 年啦，大家新年好呀 &lpar; ˊᵕˋ&rpar;✩︎‧₊ 从今年开始恢复更新啦，现在手里有好多篇文章在写呀 ♬︎&lpar;๑ºั╰︎╯︎ºั๑&rpar;♡︎ 手里有货 
+    </details> 
+
+- 🎡 [【兔年创意投稿】兔兔的奇妙之旅（三）三兔组陷入危机](https://juejin.cn/post/7185895084120866873) | Sat Jan 07 2023 1:06 PM 
+    <details><summary>展开描述 ...</summary> 
+    注：本系列文章以虚构的兔子世界为素材，适度改编算法原题，穿插悬疑侦探。博君一笑，请勿当真。如有雷同，实属巧合~ 前情回顾 上回说到，兔子突突在河边遇到了两兄妹，最后哥哥还为它出了一道N皇后的难题。其实 
+    </details> 
+
+- 🕯 [为什么我能坚持？因为写技术文章给我的太多了呀！](https://juejin.cn/post/7185891954083758136) | Sat Jan 07 2023 12:53 PM 
+    <details><summary>展开描述 ...</summary> 
+    到现在为止，我写了 200 多篇技术文章了。很多人问过我，为啥我能坚持呢？我写文章的动力是什么？ 今天就来解答一下： 有两个学生在做同一道难题。 一个学生绞尽脑汁，快速思考各种思路，一一尝试，最后没做 
+    </details> 
+
+- 🚀 [回顾 2022 年 — 回顾 Elastic 这一年](https://juejin.cn/post/7185888903059111993) | Sat Jan 07 2023 12:39 PM 
+    <details><summary>展开描述 ...</summary> 
+    作者：Elastic Marketing 2022 年对 Elastic 来说是非凡的一年，我们在可观察性、安全性和企业搜索解决方案、新客户和深化合作伙伴关系方面引入了数十项创新。 在我们花点时间回顾 
+    </details> 
+
+- 💪 [用 JavaScript 制作一个新年的日历小工具](https://juejin.cn/post/7185876590692630583) | Sat Jan 07 2023 11:53 AM 
     <details><summary>展开描述 ...</summary> 
     我正在参加「兔了个兔」创意投稿大赛，详情请看：「兔了个兔」创意投稿大赛 2023年，让我们携手一道兔谋大业、做出兔出贡献！同打拼、共丰盈、多喜乐、长安宁，好运一路相随兔气扬眉！ 日历小部件是事件交互型 
-    </details> 
-
-- 🎡 [前端错误监控以及上报](https://juejin.cn/post/7185871994624147512) | Sat Jan 07 2023 11:34 AM 
-    <details><summary>展开描述 ...</summary> 
-    前端错误捕获方法 前端捕获错误的方法： try..catch：捕获的异常必须是线程执行进入到try...catch且try...catch未执行完的时候抛出来。 语法异常在语法检查阶段就报错了，线程尚 
-    </details> 
-
-- 🕯 [关于微前端，你理解到究极奥义了么？](https://juejin.cn/post/7185863492820926523) | Sat Jan 07 2023 11:01 AM 
-    <details><summary>展开描述 ...</summary> 
-    在微前端这个概念出现之前，我们或多或少都能够联想到另一个词性上有些相似的概念微服务，它从出现后便一直都很火热，并不断催生着后端架构体系的演进，如探究他们的诞生原因，会发现很多有意思的共同点。 
-    </details> 
-
-- 🚀 [swiftUI基本知识点总结](https://juejin.cn/post/7185860050085216317) | Sat Jan 07 2023 10:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    一、swiftUI基本笔记 1、状态与动画 过渡就像 Keynote 中的 Magic Move。你只需要设置状态，SwiftUI 就会为你找出两个状态之间的过渡。 
-    </details> 
-
-- 💪 [ReentrantLock底层原理分析](https://juejin.cn/post/7185846237445226554) | Sat Jan 07 2023 9:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    J.U.C 简介 Java.util.concurrent 是在并发编程中比较常用的工具类，里面包含很多用来在并发场景中使用的组件。比如线程池、阻塞队列、计时器、同步器、并发集合等等。并发包的作者是大 
     </details> 
 <!-- juejin:END -->
 ### 少数派
