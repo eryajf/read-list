@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Microsoft Edge 开发者注册进行不下去了，怎么处理？](https://www.v2ex.com/t/907189#reply0) | Sat Jan 07 2023 6:32 AM
-- 🤗 [程序员考试题 请大家鉴定下这个是不是程序员。](https://www.v2ex.com/t/907170#reply6) | Sat Jan 07 2023 5:34 AM
-- 🎭 [威联通 docker 怎么设置 rustdesk 自建服务器](https://www.v2ex.com/t/907167#reply1) | Sat Jan 07 2023 5:16 AM
-- 🥷 [为什么 Generator expression must be parenthesized？](https://www.v2ex.com/t/907163#reply1) | Sat Jan 07 2023 4:39 AM
-- 🐵 [google ReCAPTCHA 打码有什么推荐的平台](https://www.v2ex.com/t/907147#reply3) | Sat Jan 07 2023 3:15 AM<!-- v2ex:END -->
+- 🥸 [rk3326 平台编译 android8.1 报错问题?](https://www.v2ex.com/t/907213#reply0) | Sat Jan 07 2023 8:12 AM
+- 🤗 [AICodeHelper - AI 编程助手，写代码提效神器，改 bug 神器，还能解释代码哈哈](https://www.v2ex.com/t/907211#reply0) | Sat Jan 07 2023 8:05 AM
+- 🎭 [Microsoft Edge 开发者注册进行不下去了，怎么处理？](https://www.v2ex.com/t/907189#reply2) | Sat Jan 07 2023 6:32 AM
+- 🥷 [程序员考试题 请大家鉴定下这个是不是程序员。](https://www.v2ex.com/t/907170#reply9) | Sat Jan 07 2023 5:34 AM
+- 🐵 [威联通 docker 怎么设置 rustdesk 自建服务器](https://www.v2ex.com/t/907167#reply2) | Sat Jan 07 2023 5:16 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
