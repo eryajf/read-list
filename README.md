@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [为什么 Generator expression must be parenthesized？](https://www.v2ex.com/t/907163#reply0) | Sat Jan 07 2023 4:39 AM
-- 🤗 [google ReCAPTCHA 打码有什么推荐的平台](https://www.v2ex.com/t/907147#reply2) | Sat Jan 07 2023 3:15 AM
-- 🎭 [破惑、问道、安顿。我的 2022 年终总结。](https://www.v2ex.com/t/907145#reply1) | Sat Jan 07 2023 3:09 AM
-- 🥷 [windows mstsc 远程 windows 无法运行 2D 游戏](https://www.v2ex.com/t/907136#reply2) | Sat Jan 07 2023 2:28 AM
-- 🐵 [Node.js 连接 mysql 遇到的问题](https://www.v2ex.com/t/907118#reply1) | Fri Jan 06 2023 11:52 PM<!-- v2ex:END -->
+- 🥸 [程序员考试题 请大家鉴定下这个是不是程序员。](https://www.v2ex.com/t/907170#reply3) | Sat Jan 07 2023 5:34 AM
+- 🤗 [威联通 docker 怎么设置 rustdesk 自建服务器](https://www.v2ex.com/t/907167#reply1) | Sat Jan 07 2023 5:16 AM
+- 🎭 [为什么 Generator expression must be parenthesized？](https://www.v2ex.com/t/907163#reply0) | Sat Jan 07 2023 4:39 AM
+- 🥷 [google ReCAPTCHA 打码有什么推荐的平台](https://www.v2ex.com/t/907147#reply3) | Sat Jan 07 2023 3:15 AM
+- 🐵 [破惑、问道、安顿。我的 2022 年终总结。](https://www.v2ex.com/t/907145#reply3) | Sat Jan 07 2023 3:09 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
