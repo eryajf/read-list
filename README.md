@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [rk3326 平台编译 android8.1 报错问题?](https://www.v2ex.com/t/907213#reply0) | Sat Jan 07 2023 8:12 AM
-- 🤗 [AICodeHelper - AI 编程助手，写代码提效神器，改 bug 神器，还能解释代码哈哈](https://www.v2ex.com/t/907211#reply0) | Sat Jan 07 2023 8:05 AM
-- 🎭 [Microsoft Edge 开发者注册进行不下去了，怎么处理？](https://www.v2ex.com/t/907189#reply2) | Sat Jan 07 2023 6:32 AM
-- 🥷 [程序员考试题 请大家鉴定下这个是不是程序员。](https://www.v2ex.com/t/907170#reply9) | Sat Jan 07 2023 5:34 AM
-- 🐵 [威联通 docker 怎么设置 rustdesk 自建服务器](https://www.v2ex.com/t/907167#reply2) | Sat Jan 07 2023 5:16 AM<!-- v2ex:END -->
+- 🥸 [魔趣开发者宣布魔趣项目结束。](https://www.v2ex.com/t/907231#reply4) | Sat Jan 07 2023 9:00 AM
+- 🤗 [被刀了](https://www.v2ex.com/t/907230#reply1) | Sat Jan 07 2023 8:59 AM
+- 🎭 [chatGPT 没有回答完就结束了，怎么让他继续回答？？](https://www.v2ex.com/t/907228#reply3) | Sat Jan 07 2023 8:50 AM
+- 🥷 [我的预感未来前端趋势应该是 webgl 之类的东西](https://www.v2ex.com/t/907217#reply5) | Sat Jan 07 2023 8:27 AM
+- 🐵 [rk3326 平台编译 android8.1 报错问题?](https://www.v2ex.com/t/907213#reply1) | Sat Jan 07 2023 8:12 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
