@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有接私活的吗 来一个](https://www.v2ex.com/t/907265#reply0) | Sat Jan 07 2023 1:52 PM
-- 🤗 [PerimeterX 的按压验证 咋这么牛](https://www.v2ex.com/t/907264#reply0) | Sat Jan 07 2023 1:47 PM
-- 🎭 [为什么 npm 包不要求把包作者也写到依赖中去？](https://www.v2ex.com/t/907258#reply2) | Sat Jan 07 2023 12:16 PM
-- 🥷 [你们工作或者业余时候，有使用到 InfluxDB 的地方吗？](https://www.v2ex.com/t/907255#reply2) | Sat Jan 07 2023 12:01 PM
-- 🐵 [魔趣开发者宣布魔趣项目结束。](https://www.v2ex.com/t/907231#reply39) | Sat Jan 07 2023 9:00 AM<!-- v2ex:END -->
+- 🥸 [Microsoft store 老是出现“假更新”](https://www.v2ex.com/t/907269#reply1) | Sat Jan 07 2023 2:56 PM
+- 🤗 [有接私活的吗 来一个](https://www.v2ex.com/t/907265#reply0) | Sat Jan 07 2023 1:52 PM
+- 🎭 [PerimeterX 的按压验证 咋这么牛](https://www.v2ex.com/t/907264#reply0) | Sat Jan 07 2023 1:47 PM
+- 🥷 [为什么 npm 包不要求把包作者也写到依赖中去？](https://www.v2ex.com/t/907258#reply2) | Sat Jan 07 2023 12:16 PM
+- 🐵 [你们工作或者业余时候，有使用到 InfluxDB 的地方吗？](https://www.v2ex.com/t/907255#reply2) | Sat Jan 07 2023 12:01 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
