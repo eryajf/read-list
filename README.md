@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [音视频开发系统入门大致路线](https://juejin.cn/post/7185751578301726757) | Sat Jan 07 2023 3:47 AM 
+- 🤗 [【年终总结】2022，这一年，大雨滂沱，我开始了新的生活](https://juejin.cn/post/7185769474706899003) | Sat Jan 07 2023 4:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    回顾2022，展望2023，希望在新的一年里，自己万事顺利，更上一层楼！但行好事，莫问前程，心之所向，无问西东； 
+    </details> 
+
+- 🎡 [【Redis技术探索】「数据迁移实战」手把手教你如何实现在线+离线模式进行迁移Redis数据实战指南（在线同步数据）](https://juejin.cn/post/7185766761902374968) | Sat Jan 07 2023 4:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    RedisShake基本介绍 RedisShake是基于redis-port基础上进行改进的是一款开源的Redis迁移工具，支持Cluster集群的在线迁移与离线迁移（备份文件导入）。数据可平滑迁移， 
+    </details> 
+
+- 🕯 [如何让你使用的web woker使用起来想java线程池一样简单，还有一些重构的思路。](https://juejin.cn/post/7185762134679093285) | Sat Jan 07 2023 4:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    大家好，我是梦兽。一个技术分享宅男。欢迎大家订阅我的b站频道。 傻梦兽的个人空间_哔哩哔哩_bilibili 最近梦兽，我在对接一个项目。这个项目的&quot;前任&quot;使用了webworker。但是它使用的这个w 
+    </details> 
+
+- 🚀 [2022年JavaScript明星项目公布，最受欢迎的竟是它？](https://juejin.cn/post/7185760633369919549) | Sat Jan 07 2023 4:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    大家好，我是 CUGGZ。 近日，Best of JS 正式公布 2022 年 JavaScript 明星项目榜单。该榜单提供了过去 12 个月 JavaScript 生态系统中的趋势项目的概述！ 此 
+    </details> 
+
+- 💪 [音视频开发系统入门大致路线](https://juejin.cn/post/7185751578301726757) | Sat Jan 07 2023 3:47 AM 
     <details><summary>展开描述 ...</summary> 
     分享一下对于音视频开发入门路线的看法，基本上还是以音视频基础为主，同时加上一些实践操作。 实践操作反过来也是加深对理论的认识和研究，两者缺一不可。 
-    </details> 
-
-- 🎡 [（3）go-micro微服务项目搭建](https://juejin.cn/post/7185750188932202554) | Sat Jan 07 2023 3:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    一 微服务项目介绍 账户功能是每一个系统都绕不开的一部分，所以本次搭建的微服务项目就是账户微服务项目，其中向外暴露的功能有： 登录 注册 查询用户信息 修改信息 发送注册邮件 发送重置密码邮件 重置密 
-    </details> 
-
-- 🕯 [字节三面：如何设计一个高并发系统](https://juejin.cn/post/7185736156573597756) | Sat Jan 07 2023 2:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    大家好，我是田螺。 记得很久之前，去面试过字节跳动。被三面的面试官问了一道场景设计题目：如何设计一个高并发系统。当时我回答得比较粗糙，最近回想起来，所以整理了设计高并发系统的15个锦囊 
-    </details> 
-
-- 🚀 [美国公司裁员潮时间线◉科技寒冬可视化；3份报告回顾中国开发者2022；自动驾驶下半场，谁会冲出重围 | ShowMeAI每周通讯 #005-01.07](https://juejin.cn/post/7185730427183693881) | Sat Jan 07 2023 2:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    这是ShowMeAI每周通讯的第5期，内容关键词：美国科技公司裁员人数与理由整理、中国开发者画像洞察报告 2022、GitHub 2022年趋势与见解、Kaggle 2022年参赛趋势、自动驾驶… 
-    </details> 
-
-- 💪 [你知道微服务架构中的“发件箱模式”吗](https://juejin.cn/post/7185726260478214204) | Sat Jan 07 2023 2:08 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 微服务架构如今非常的流行，这个架构下可能经常会遇到“双写”的场景。双写是指您的应用程序需要在两个不同的系统中更改数据的情况，比如它需要将数据存储在数据库中并向消息队列发送事件。您需要保证这两个操 
     </details> 
 <!-- juejin:END -->
 ### 少数派
