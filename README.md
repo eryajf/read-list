@@ -332,7 +332,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [React Native 可以精简大小吗？在 Android 下默认就 55MB 了](https://www.v2ex.com/t/907288#reply0) | Sat Jan 07 2023 5:57 PM
+- 🥸 [React Native 可以精简大小吗？在 Android 下默认就 55MB 了](https://www.v2ex.com/t/907288#reply1) | Sat Jan 07 2023 5:57 PM
 - 🤗 [新手请教各位前辈 关于换项目和新技术的学习](https://www.v2ex.com/t/907278#reply0) | Sat Jan 07 2023 3:59 PM
 - 🎭 [Microsoft store 老是出现“假更新”](https://www.v2ex.com/t/907269#reply1) | Sat Jan 07 2023 2:56 PM
 - 🥷 [有接私活的吗 来一个](https://www.v2ex.com/t/907265#reply0) | Sat Jan 07 2023 1:52 PM
