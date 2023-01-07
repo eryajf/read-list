@@ -398,11 +398,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯·如何正确地吐槽](https://daily.zhihu.com/story/9756898) | Fri Jan 06 2023 12:27 AM
-- 🐻 [在绘画中是否有办法用冷色调来表现炽热感的画面，例如沙漠等？](https://daily.zhihu.com/story/9756874) | Fri Jan 06 2023 12:27 AM
-- 🌏 [上官婉儿墓志首次面向公众展出，历史中的上官婉儿是个什么样的人物，她的墓志考古学意义有多大？](https://daily.zhihu.com/story/9756879) | Fri Jan 06 2023 12:27 AM
-- 🕴 [火星消失了对地球有什么影响？](https://daily.zhihu.com/story/9756880) | Fri Jan 06 2023 12:27 AM
-- 🌮 [古代真的存在削铁如泥的剑吗？](https://daily.zhihu.com/story/9756886) | Fri Jan 06 2023 12:27 AM<!-- zhihu:END -->
+- 🤩 [《沙丘》世界的生物原型都有哪些？](https://daily.zhihu.com/story/9756903) | Sat Jan 07 2023 12:27 AM
+- 🐻 [这世界上是树多还是人多？](https://daily.zhihu.com/story/9756905) | Sat Jan 07 2023 12:27 AM
+- 🌏 [摄影师是怎么近距离拍摄野生动物而不被伤害的](https://daily.zhihu.com/story/9756914) | Sat Jan 07 2023 12:27 AM
+- 🕴 [为什么中餐演变出了猛火灶的特点？](https://daily.zhihu.com/story/9756922) | Sat Jan 07 2023 12:27 AM
+- 🌮 [康熙的九个儿子为什么要争皇位，当个王爷无忧无虑不好吗？](https://daily.zhihu.com/story/9756931) | Sat Jan 07 2023 12:27 AM<!-- zhihu:END -->
 
 
 ## 应用资源
