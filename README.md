@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [vue3 源码学习，实现一个 mini-vue（九）：构建 renderer 渲染器之 ELEMENT 节点的各种属性挂载](https://juejin.cn/post/7185608954171359292) | Fri Jan 06 2023 7:22 PM 
+- 🤗 [你知道微服务架构中的“发件箱模式”吗](https://juejin.cn/post/7185726260478214204) | Sat Jan 07 2023 2:08 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 微服务架构如今非常的流行，这个架构下可能经常会遇到“双写”的场景。双写是指您的应用程序需要在两个不同的系统中更改数据的情况，比如它需要将数据存储在数据库中并向消息队列发送事件。您需要保证这两个操 
+    </details> 
+
+- 🎡 [vue3 源码学习，实现一个 mini-vue（九）：构建 renderer 渲染器之 ELEMENT 节点的各种属性挂载](https://juejin.cn/post/7185608954171359292) | Fri Jan 06 2023 7:22 PM 
     <details><summary>展开描述 ...</summary> 
     前言 原文来自 我的个人博客 在前几章中，我们实现了 ELEMENT 节点的挂载、更新以及删除等操作。 但是我们的代码现在还只能挂载 class 属性，而不能挂载其他属性。本章我们就来实现一些其他属性 
     </details> 
 
-- 🎡 [使用 Vagrant + Kubespray 快速初始化 K8S 集群](https://juejin.cn/post/7185568543147196477) | Fri Jan 06 2023 3:58 PM 
+- 🕯 [使用 Vagrant + Kubespray 快速初始化 K8S 集群](https://juejin.cn/post/7185568543147196477) | Fri Jan 06 2023 3:58 PM 
     <details><summary>展开描述 ...</summary> 
     Vagrant 是一款用于构建及配置虚拟开发环境的软件，采用 Ruby 编写，主要以命令行方式运行。 其主要使用 Oracle VirtualBox 提供虚拟化 
     </details> 
 
-- 🕯 [你小子！过年了，写了一个拼图小游戏来拼掘金兔年礼盒，来玩玩不？](https://juejin.cn/post/7185566660982964280) | Fri Jan 06 2023 3:50 PM 
+- 🚀 [你小子！过年了，写了一个拼图小游戏来拼掘金兔年礼盒，来玩玩不？](https://juejin.cn/post/7185566660982964280) | Fri Jan 06 2023 3:50 PM 
     <details><summary>展开描述 ...</summary> 
     大家好，我是pdudo，一个不想做运维的运维小学生，兔年即将来临，我都还没准备好，但是很意外 ，掘金居然给小弟送了一个新年礼盒，作为一名~~掘金白嫖党~~掘金死忠粉，在此跪谢掘金了。 
     </details> 
 
-- 🚀 [优秀开源项目解读&lpar;八&rpar; - 基于配置中心的轻量级动态可监控线程池Dynamic-tp](https://juejin.cn/post/7185558912605618213) | Fri Jan 06 2023 3:22 PM 
+- 💪 [优秀开源项目解读&lpar;八&rpar; - 基于配置中心的轻量级动态可监控线程池Dynamic-tp](https://juejin.cn/post/7185558912605618213) | Fri Jan 06 2023 3:22 PM 
     <details><summary>展开描述 ...</summary> 
     🌈简介 🔥🔥🔥 Dynamic-tp是基于配置中心的轻量级动态可监控线程池，基于dtp可以实现项目运行时动态调整线程池参数，包括黑心线程数、最大线程数、空闲线程超时时间、任务队列打的大小等，dtp目前 
-    </details> 
-
-- 💪 [【分布式技术专题】「LVS负载均衡」全面透析Web基础架构负载均衡LVS机制的原理分析指南](https://juejin.cn/post/7185551865273122877) | Fri Jan 06 2023 2:58 PM 
-    <details><summary>展开描述 ...</summary> 
-    前提概要 发和大流量的冲击压力场景下，通常会在服务端部署多个无状态的应用服务器和若干有状态的存储服务器（数据库、缓存等等）实现高可用特点和机制。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
