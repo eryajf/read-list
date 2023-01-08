@@ -332,7 +332,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [测试马上删](https://www.v2ex.com/t/907317#reply2) | Sun Jan 08 2023 2:35 AM
+- 🥸 [测试马上删](https://www.v2ex.com/t/907317#reply6) | Sun Jan 08 2023 2:35 AM
 - 🤗 [谁 vscode remote SSL 遇到过循环刷 waiting for log 登不上去服务器的情况](https://www.v2ex.com/t/907305#reply2) | Sun Jan 08 2023 1:30 AM
 - 🎭 [基于 OpenAI 的 API, 实现上下文关联的 ChatGPT 对话工具](https://www.v2ex.com/t/907298#reply1) | Sun Jan 08 2023 1:02 AM
 - 🥷 [React Native 可以精简大小吗？在 Android 下默认就 55MB 了](https://www.v2ex.com/t/907288#reply1) | Sat Jan 07 2023 5:57 PM
