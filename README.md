@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请问 16g 丐版 macpro 能否满足基本开发？](https://www.v2ex.com/t/907448#reply4) | Sun Jan 08 2023 3:03 PM
-- 🤗 [tomcat 的 maxThreads 和 maxConnections 有没有建议值啊](https://www.v2ex.com/t/907445#reply0) | Sun Jan 08 2023 2:54 PM
-- 🎭 [关于微软是如何逼着我更新 windows 10 的](https://www.v2ex.com/t/907443#reply4) | Sun Jan 08 2023 2:39 PM
-- 🥷 [闲聊：开发一套简易功能的 CRM 大概需要多少钱？](https://www.v2ex.com/t/907440#reply4) | Sun Jan 08 2023 2:27 PM
-- 🐵 [django 用 docker 部署，要不要每次部署到服务器的时候改改 image 的 settings 配置](https://www.v2ex.com/t/907438#reply7) | Sun Jan 08 2023 2:21 PM<!-- v2ex:END -->
+- 🥸 [《油盐不进》](https://www.v2ex.com/t/907460#reply2) | Sun Jan 08 2023 3:48 PM
+- 🤗 [请教各位一个 HTTP 代理问题：项目里调用第三方 API 拿数据，在 A 机器上直接 http 请求 API，和把 A 机器当作 HTTP 代理，在 B 机器请求 API，效果是一样的吗？第三方 API 会不会查出来是用来代理？](https://www.v2ex.com/t/907449#reply5) | Sun Jan 08 2023 3:14 PM
+- 🎭 [请问 16g 丐版 macpro 能否满足基本开发？](https://www.v2ex.com/t/907448#reply12) | Sun Jan 08 2023 3:03 PM
+- 🥷 [tomcat 的 maxThreads 和 maxConnections 有没有建议值啊](https://www.v2ex.com/t/907445#reply2) | Sun Jan 08 2023 2:54 PM
+- 🐵 [关于微软是如何逼着我更新 windows 10 的](https://www.v2ex.com/t/907443#reply7) | Sun Jan 08 2023 2:39 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
