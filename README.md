@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [FreeBuf 周报 | 2亿Twitter用户的数据被公开；2023，去哪儿又利用大数据杀熟？](https://www.freebuf.com/news/354537.html) | Fri Jan 06 2023 8:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    各位 Buffer 周末好，以下是本周「FreeBuf周报」 
+    </details> 
+
 - 🦄 [AI智能潜在威胁，黑客利用 ChatGPT轻松入侵网络](https://www.freebuf.com/news/354497.html) | Fri Jan 06 2023 5:33 AM 
     <details><summary>展开描述 ...</summary> 
     人工智能聊天机器人虽然很有趣，但也存在风险，因为它能够就任何漏洞提供详细建议。 
     </details> 
 
-- 🦄 [法国对苹果公司处以 800 万欧元罚款，后者表示会上诉！](https://www.freebuf.com/articles/354472.html) | Fri Jan 06 2023 3:11 AM 
+- 🦅 [法国对苹果公司处以 800 万欧元罚款，后者表示会上诉！](https://www.freebuf.com/articles/354472.html) | Fri Jan 06 2023 3:11 AM 
     <details><summary>展开描述 ...</summary> 
     苹果公司未经用户同意，在 App Store上收集用户数据，投放定向广告，被罚 800 万欧元。   
     </details> 
 
-- 🦅 [探究Groovy组件的利用方式](https://www.freebuf.com/vuls/343311.html) | Thu Jan 05 2023 3:24 PM 
+- 🪄 [探究Groovy组件的利用方式](https://www.freebuf.com/vuls/343311.html) | Thu Jan 05 2023 3:24 PM 
     <details><summary>展开描述 ...</summary> 
     对java中的Groovy组件漏洞进行了总结 
     </details> 
 
-- 🪄 [SnakeYaml从漏洞探测到利用姿势](https://www.freebuf.com/vuls/343387.html) | Thu Jan 05 2023 3:23 PM 
+- 💻 [SnakeYaml从漏洞探测到利用姿势](https://www.freebuf.com/vuls/343387.html) | Thu Jan 05 2023 3:23 PM 
     <details><summary>展开描述 ...</summary> 
     学习了SnakeYaml的结合第三方库的利用姿势和自身JDK的利用 
-    </details> 
-
-- 💻 [等保测评项——弱口令空口令](https://www.freebuf.com/articles/web/352224.html) | Thu Jan 05 2023 2:41 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文详细介绍了等保测评中弱口令、空口令的测评关键点以及注意事项，仅供读者参考。 
     </details> 
 <!-- freebuf:END -->
 
