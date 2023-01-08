@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [💯💯💯通过babel学习Generator的底层实现](https://juejin.cn/post/7186133102740111397) | Sun Jan 08 2023 4:31 AM 
+- 🤗 [单体的 TienChin 和微服务的 TienChin 有何异同？](https://juejin.cn/post/7186172440316706876) | Sun Jan 08 2023 7:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    有不少小伙伴希望松哥能整一个微服务的实战项目，微服务这块技术点其实松哥是讲过很多了，图文版的教程视频版的教程都有，不过确实缺乏一个项目，所以我在想等 TienChin 项目搞完之后，和小伙伴们也来一起 
+    </details> 
+
+- 🎡 [DynamicImport实现原理](https://juejin.cn/entry/7186172256827998266) | Sun Jan 08 2023 6:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    当动态导入的路径中包含变量时，经过 AST 分析可以生成对应的通配符。在构建的时候，这些通配符将被用于抓取匹配的文件。随后这些文件会被添加进构建体系中，在运行时，根据导入的实际路径返回对应的文件内容。 
+    </details> 
+
+- 🕯 [新时代的 SSR 框架破局者：qwik](https://juejin.cn/post/7186161640121827387) | Sun Jan 08 2023 6:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    抛弃完全多余的 hydration ，让你的SSR应用性能突破天际。今天我们来聊聊一种全新的服务端渲染思路，一起来看看号称世界上第一个SSR框架：qwik。 
+    </details> 
+
+- 🚀 [💯💯💯通过babel学习Generator的底层实现](https://juejin.cn/post/7186133102740111397) | Sun Jan 08 2023 4:31 AM 
     <details><summary>展开描述 ...</summary> 
     在前面的章节讲解中我们已经知道了调用一个生成器不会实际执行它。相反,它创建了一个新的迭代器,通过该迭代器我们才能从生成器中请求值。在生成器生成或过度了一个值后,生成器会挂起执行并等待下一个请求的到来。 
     </details> 
 
-- 🎡 [【我的2022和2023】上辈子放火烧山，这辈子干前端](https://juejin.cn/post/7186132566783557688) | Sun Jan 08 2023 4:28 AM 
+- 💪 [【我的2022和2023】上辈子放火烧山，这辈子干前端](https://juejin.cn/post/7186132566783557688) | Sun Jan 08 2023 4:28 AM 
     <details><summary>展开描述 ...</summary> 
     没想到时间过的如此之快，转眼毕业已经三年多了，如果不回顾一下真的忘了自己干了点什么。上海一年，北京两年，恍然如昨。 
-    </details> 
-
-- 🕯 [Ansible 介绍与实战操作演示](https://juejin.cn/post/7186130705431134267) | Sun Jan 08 2023 4:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    一、概述 Ansible 特点： 部署简单，只需要在主控端部署Ansible环境，被控端无需作任何操作 默认使用SSH协议对设备进行管理 主从集中化管理 配置简单、功能强大、扩展性强 支持API及自定 
-    </details> 
-
-- 🚀 [【从0到1学习go语言】Go语言基础之包](https://juejin.cn/post/7186122300884779045) | Sun Jan 08 2023 3:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    大家好,我是东东吖，本人是一名前端工程师，希望借助go语言能打通前后端的任通二脉，成为一名全栈工程师！另外，需要进技术交流群的同学，可以加我微信fangdongdong_25. 
-    </details> 
-
-- 💪 [Vue 3.2+ setup语法糖、Composition API 总结](https://juejin.cn/post/7186116770301182012) | Sun Jan 08 2023 3:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    通过对vue3.2的主要语法的补充和归纳，总结重点知识。包括语法结构、data、method、组件传值、自定义指令等。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
