@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0108](http://jandan.net/p/112132) | Sun Jan 08 2023 3:51 AM 
+- 🚀 [Quora：最惊人的科学事实](http://jandan.net/p/112129) | Sun Jan 08 2023 5:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    NASA计算星际旅行只用到π的15位数。 
+    </details> 
+
+- 🙉 [男性缺少性趣，可能意味着更高的早逝风险](http://jandan.net/p/112123) | Sun Jan 08 2023 5:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    逻辑上是清晰的：如果你身体没有问题，怎么会性趣缺缺呢 
+    </details> 
+
+- 🎉 [今日好价 0108](http://jandan.net/p/112132) | Sun Jan 08 2023 5:13 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：25 
     </details> 
 
-- 🙉 [Quora：你相信来世吗？](http://jandan.net/p/112119) | Sat Jan 07 2023 6:06 AM 
+- 🐲 [竖着放置PS5，可能会损坏主机](http://jandan.net/p/112128) | Sun Jan 08 2023 5:12 AM 
     <details><summary>展开描述 ...</summary> 
-    如果有来世，你认为它会是怎样的 
+    哪怕没开封，盒子竖着放也会造成问题 
     </details> 
 
-- 🎉 [如何提高记忆力](http://jandan.net/p/112107) | Sat Jan 07 2023 6:05 AM 
+-  [碳水并没有你想象的那么糟糕](http://jandan.net/p/112126) | Sun Jan 08 2023 5:11 AM 
     <details><summary>展开描述 ...</summary> 
-    你的记忆力可能没有你想象的那么差。 
-    </details> 
-
-- 🐲 [我们可能终于有了新型抗生素](http://jandan.net/p/112114) | Sat Jan 07 2023 6:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    它会攻击细菌的外壁和内膜。 
-    </details> 
-
--  [纽约市教育部门禁止学生和教师使用 ChatGPT](http://jandan.net/p/112116) | Sat Jan 07 2023 6:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    学生用ChatGPT写作文 
+    两项新研究将使生酮饮食爱好者非常不快。 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
