@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Ultimate Event Planner - 毫不费力地计划和执行成功的活动](https://xinquji.com/posts/792700?utm_campaign=xinquji-rss) | Sun Jan 08 2023 6:00 AM 
+- 👀 [记时光 - 记录你的时光](https://xinquji.com/posts/792510?utm_campaign=xinquji-rss) | Mon Jan 09 2023 7:46 AM 
+    <details><summary>展开描述 ...</summary> 
+     记录你的时光  
+    </details> 
+
+- 🥷 [Dash The Island - 在这个挑战灵动岛游戏中,你需要挑战自己,获得更高的排名!](https://xinquji.com/posts/792422?utm_campaign=xinquji-rss) | Mon Jan 09 2023 7:46 AM 
+    <details><summary>展开描述 ...</summary> 
+     在这个挑战灵动岛游戏中,你需要挑战自己,获得更高的排名!  
+    </details> 
+
+- 💼 [摸鱼小程序 - 上班摸鱼小程序](https://xinquji.com/posts/792046?utm_campaign=xinquji-rss) | Mon Jan 09 2023 7:44 AM 
+    <details><summary>展开描述 ...</summary> 
+     上班摸鱼小程序  
+    </details> 
+
+- 🦅 [Ultimate Event Planner - 毫不费力地计划和执行成功的活动](https://xinquji.com/posts/792700?utm_campaign=xinquji-rss) | Sun Jan 08 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
      毫不费力地计划和执行成功的活动  
     </details> 
 
-- 🥷 [Scene - 学生的终极人身安全应用程序](https://xinquji.com/posts/792699?utm_campaign=xinquji-rss) | Sun Jan 08 2023 6:00 AM 
+- 😺 [Scene - 学生的终极人身安全应用程序](https://xinquji.com/posts/792699?utm_campaign=xinquji-rss) | Sun Jan 08 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
      学生的终极人身安全应用程序  
-    </details> 
-
-- 💼 [Getmeonboard - 帮助公司寻找和招聘最优秀的候选人](https://xinquji.com/posts/792698?utm_campaign=xinquji-rss) | Sun Jan 08 2023 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     帮助公司寻找和招聘最优秀的候选人  
-    </details> 
-
-- 🦅 [LaunchPedia - 200 多种精心挑选的工具可助您快速推出产品](https://xinquji.com/posts/792697?utm_campaign=xinquji-rss) | Sun Jan 08 2023 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     200 多种精心挑选的工具可助您快速推出产品  
-    </details> 
-
-- 😺 [MyBoard - 让您的生活井井有条，无需忙碌](https://xinquji.com/posts/792696?utm_campaign=xinquji-rss) | Sun Jan 08 2023 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     让您的生活井井有条，无需忙碌  
     </details> 
 <!-- xinquji:END -->
