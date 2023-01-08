@@ -334,9 +334,9 @@
 <!-- v2ex:START -->
 - 🥸 [spring cloud 小白求教](https://www.v2ex.com/t/907335#reply0) | Sun Jan 08 2023 4:10 AM
 - 🤗 [Switch 有没有当做平板模式使用的配件](https://www.v2ex.com/t/907330#reply0) | Sun Jan 08 2023 3:45 AM
-- 🎭 [测试马上删](https://www.v2ex.com/t/907317#reply15) | Sun Jan 08 2023 2:35 AM
+- 🎭 [测试马上删](https://www.v2ex.com/t/907317#reply22) | Sun Jan 08 2023 2:35 AM
 - 🥷 [谁 vscode remote SSL 遇到过循环刷 waiting for log 登不上去服务器的情况](https://www.v2ex.com/t/907305#reply2) | Sun Jan 08 2023 1:30 AM
-- 🐵 [基于 OpenAI 的 API, 实现上下文关联的 ChatGPT 对话工具](https://www.v2ex.com/t/907298#reply2) | Sun Jan 08 2023 1:02 AM<!-- v2ex:END -->
+- 🐵 [基于 OpenAI 的 API, 实现上下文关联的 ChatGPT 对话工具](https://www.v2ex.com/t/907298#reply7) | Sun Jan 08 2023 1:02 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
