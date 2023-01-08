@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [前端性能优化——包体积压缩82%、打包速度提升65%](https://juejin.cn/post/7186315052465520698) | Sun Jan 08 2023 4:14 PM 
+- 🤗 [快速构建初级前端知识体系，面试题汇总](https://juejin.cn/post/7186325771026169917) | Sun Jan 08 2023 5:04 PM 
+    <details><summary>展开描述 ...</summary> 
+    最近一直在学习 vue3 源码，搞的头有点大，用这篇文章来换换脑子~ PS：面试题下附有解答，解答会结合我的思考以及扩展，仅供参考，有误麻烦指出，好了就酱~ 1. HTM 
+    </details> 
+
+- 🎡 [前端性能优化——包体积压缩82%、打包速度提升65%](https://juejin.cn/post/7186315052465520698) | Sun Jan 08 2023 4:14 PM 
     <details><summary>展开描述 ...</summary> 
     压缩项目打包后的体积大小、提升打包速度，是前端性能优化中非常重要的环节，笔者结合工作中的实践总结，梳理出一些常规且有效的性能优化建议 
     </details> 
 
-- 🎡 [【若川视野 x 源码共读】第41期 | vant 4 正式发布了，支持暗黑主题，那么是如何实现的呢](https://juejin.cn/post/7186312314872660029) | Sun Jan 08 2023 4:03 PM 
+- 🕯 [【若川视野 x 源码共读】第41期 | vant 4 正式发布了，支持暗黑主题，那么是如何实现的呢](https://juejin.cn/post/7186312314872660029) | Sun Jan 08 2023 4:03 PM 
     <details><summary>展开描述 ...</summary> 
     源码共读前言 为了能帮助到更多对源码感兴趣、想学会看源码、提升自己写作和前端技术能力的同学。 帮助读者夯实基础，查漏补缺，开阔眼界，拓宽视野，知其然知其所以然。 我倾力组织了每周一起学200行左右的源 
     </details> 
 
-- 🕯 [2023-01-09 技术周刊第 11 期](https://juejin.cn/post/7186305424054812730) | Sun Jan 08 2023 3:36 PM 
+- 🚀 [2023-01-09 技术周刊第 11 期](https://juejin.cn/post/7186305424054812730) | Sun Jan 08 2023 3:36 PM 
     <details><summary>展开描述 ...</summary> 
     记录一周所见所闻 阅读与一句话 资讯 bestofjs 统计最流行的 JavaScript 项目 TIOBE 2022 年度编程语言：C++ DB-Engines 公布 2022 年度数据库，Snow 
     </details> 
 
-- 🚀 [块格式化上下文（BFC）](https://juejin.cn/post/7186301553026793527) | Sun Jan 08 2023 3:21 PM 
+- 💪 [块格式化上下文（BFC）](https://juejin.cn/post/7186301553026793527) | Sun Jan 08 2023 3:21 PM 
     <details><summary>展开描述 ...</summary> 
     一、  前言 BFC的介绍到处都是，写这个纯属是看别人写的难受，不知所言。 二、  什么是BFC 是 Web 页面的可视 CSS 渲染的一部分，是块级盒子的布局过程发生的区域，也是浮动元素与其他元素交 
-    </details> 
-
-- 💪 [输入math = require&lpar;&#39;math&#39;&rpar;时究竟发生了什么？？？](https://juejin.cn/post/7186299715560931384) | Sun Jan 08 2023 3:17 PM 
-    <details><summary>展开描述 ...</summary> 
-    当我们在文件中输入const math = require&lpar;&#39;math&#39;&rpar;时候，相当于在当前文件模块中执行了模块函数中传入的参数require。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
