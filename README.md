@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [网页DNF - 可以自由的缩放改变大小，以及透明度。能够随时随地的快乐玩耍DNF](https://xinquji.com/posts/792399?utm_campaign=xinquji-rss) | Thu Jan 05 2023 6:16 AM 
+- 👀 [Ultimate Event Planner - 毫不费力地计划和执行成功的活动](https://xinquji.com/posts/792700?utm_campaign=xinquji-rss) | Sun Jan 08 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     可以自由的缩放改变大小，以及透明度。能够随时随地的快乐玩耍DNF  
+     毫不费力地计划和执行成功的活动  
     </details> 
 
-- 🥷 [豹猫文案大师 - 黑科技，帮您写高质量文案。](https://xinquji.com/posts/792538?utm_campaign=xinquji-rss) | Thu Jan 05 2023 6:16 AM 
+- 🥷 [Scene - 学生的终极人身安全应用程序](https://xinquji.com/posts/792699?utm_campaign=xinquji-rss) | Sun Jan 08 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     黑科技，帮您写高质量文案。  
+     学生的终极人身安全应用程序  
     </details> 
 
-- 💼 [reviewgenerator.app - 世界上最快的评论生成器](https://xinquji.com/posts/792631?utm_campaign=xinquji-rss) | Thu Jan 05 2023 6:00 AM 
+- 💼 [Getmeonboard - 帮助公司寻找和招聘最优秀的候选人](https://xinquji.com/posts/792698?utm_campaign=xinquji-rss) | Sun Jan 08 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     世界上最快的评论生成器  
+     帮助公司寻找和招聘最优秀的候选人  
     </details> 
 
-- 🦅 [Program Strategy HQ - Web3 PM 策略简化](https://xinquji.com/posts/792630?utm_campaign=xinquji-rss) | Thu Jan 05 2023 6:00 AM 
+- 🦅 [LaunchPedia - 200 多种精心挑选的工具可助您快速推出产品](https://xinquji.com/posts/792697?utm_campaign=xinquji-rss) | Sun Jan 08 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     Web3 PM 策略简化  
+     200 多种精心挑选的工具可助您快速推出产品  
     </details> 
 
-- 😺 [CarbonSutra - 用于估算组织碳排放量的 API](https://xinquji.com/posts/792629?utm_campaign=xinquji-rss) | Thu Jan 05 2023 6:00 AM 
+- 😺 [MyBoard - 让您的生活井井有条，无需忙碌](https://xinquji.com/posts/792696?utm_campaign=xinquji-rss) | Sun Jan 08 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     用于估算组织碳排放量的 API  
+     让您的生活井井有条，无需忙碌  
     </details> 
 <!-- xinquji:END -->
