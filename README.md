@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [兔年让这个🐇发射💣爆破你的坏运](https://juejin.cn/post/7186228983271292988) | Sun Jan 08 2023 10:46 AM 
+- 🤗 [Java面试题精选（一）](https://juejin.cn/post/7186250777646596154) | Sun Jan 08 2023 12:05 PM 
+    <details><summary>展开描述 ...</summary> 
+    最近面试，把遇到的题目整理一下。你是怎么定位线上问题的?你是怎么理解消息队列的作用的？Spring Aop 和AspectJ之间是什么关系? 
+    </details> 
+
+- 🎡 [Flow 转 LiveData，数据丢了，肿么回事？](https://juejin.cn/post/7186249265138794551) | Sun Jan 08 2023 11:57 AM 
+    <details><summary>展开描述 ...</summary> 
+    这种方式得到的 LiveData 需要牢记一点：在拥有一个及以上活跃的观察者的条件下，它才会发射数据。 
+    </details> 
+
+- 🕯 [MYSQL调优课题](https://juejin.cn/post/7186242738600280122) | Sun Jan 08 2023 11:39 AM 
+    <details><summary>展开描述 ...</summary> 
+    1 msyql的执行过程 mysql缓存 a. 查看缓存的配置项 SHOW VARIABLES LIKE &#39;%query_cache%&#39;; query_cache_type | OFF 关闭缓存 先说 
+    </details> 
+
+- 🚀 [兔年让这个🐇发射💣爆破你的坏运](https://juejin.cn/post/7186228983271292988) | Sun Jan 08 2023 10:46 AM 
     <details><summary>展开描述 ...</summary> 
     我正在参加「兔了个兔」创意投稿大赛，详情请看：「兔了个兔」创意投稿大赛 前言 Hello，掘友们好！又是一年新春之际，祝福大家兔年快乐！给大家介绍一个动效（兼容 IE），图中右下角有一只搞怪的兔子，鼠 
     </details> 
 
-- 🎡 [💯💯💯 你是会 async/await,但是你知道它的原理以及如何捕捉到错误吗](https://juejin.cn/post/7186224254990417979) | Sun Jan 08 2023 10:29 AM 
+- 💪 [💯💯💯 你是会 async/await,但是你知道它的原理以及如何捕捉到错误吗](https://juejin.cn/post/7186224254990417979) | Sun Jan 08 2023 10:29 AM 
     <details><summary>展开描述 ...</summary> 
     async/await 是基于 Generator 的,而async/await又是到目前为止解决异步编程最优雅的方式了,那么在Generator内部它是如何实现 暂停然后又恢复执行的? 
-    </details> 
-
-- 🕯 [【兔年创意投稿】兔兔的奇妙之旅（四）一场心理与智力的博弈](https://juejin.cn/post/7186205417632956471) | Sun Jan 08 2023 9:08 AM 
-    <details><summary>展开描述 ...</summary> 
-    书接上回。 此时，刚才说话的那只小兔子正在暗处兴致勃勃地看着一行三兔。它发现，虽然火烧眉毛了，但是达达和突突依然能沉着冷静地分析线索、讨论推理，它对此刮目相看。 寻根究底，顺藤摸瓜 达达的社会经验最为 
-    </details> 
-
-- 🚀 [卷一半躺平一半|2022年终总结](https://juejin.cn/post/7186203833096208445) | Sun Jan 08 2023 9:05 AM 
-    <details><summary>展开描述 ...</summary> 
-    「回顾2022，展望2023，我正在参与2022年终总结征文大赛活动」 前言 这是我的第一篇年终总结，心血来潮，想记录下2021年的自己和现在的自己的改变（一些方面），一方面想顺便参加掘金的2022年 
-    </details> 
-
-- 💪 [JavaScript专题-继承](https://juejin.cn/post/7186196711936065592) | Sun Jan 08 2023 8:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    此专题系列将对JavaScript重难点进行梳理，希望能融会贯通，加深印象，更进一步...123141 
     </details> 
 <!-- juejin:END -->
 ### 少数派
