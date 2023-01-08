@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【从0到1学习go语言】Go语言基础之包](https://juejin.cn/post/7186122300884779045) | Sun Jan 08 2023 3:47 AM 
+- 🤗 [💯💯💯通过babel学习Generator的底层实现](https://juejin.cn/post/7186133102740111397) | Sun Jan 08 2023 4:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    在前面的章节讲解中我们已经知道了调用一个生成器不会实际执行它。相反,它创建了一个新的迭代器,通过该迭代器我们才能从生成器中请求值。在生成器生成或过度了一个值后,生成器会挂起执行并等待下一个请求的到来。 
+    </details> 
+
+- 🎡 [【我的2022和2023】上辈子放火烧山，这辈子干前端](https://juejin.cn/post/7186132566783557688) | Sun Jan 08 2023 4:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    没想到时间过的如此之快，转眼毕业已经三年多了，如果不回顾一下真的忘了自己干了点什么。上海一年，北京两年，恍然如昨。 
+    </details> 
+
+- 🕯 [Ansible 介绍与实战操作演示](https://juejin.cn/post/7186130705431134267) | Sun Jan 08 2023 4:20 AM 
+    <details><summary>展开描述 ...</summary> 
+    一、概述 Ansible 特点： 部署简单，只需要在主控端部署Ansible环境，被控端无需作任何操作 默认使用SSH协议对设备进行管理 主从集中化管理 配置简单、功能强大、扩展性强 支持API及自定 
+    </details> 
+
+- 🚀 [【从0到1学习go语言】Go语言基础之包](https://juejin.cn/post/7186122300884779045) | Sun Jan 08 2023 3:47 AM 
     <details><summary>展开描述 ...</summary> 
     大家好,我是东东吖，本人是一名前端工程师，希望借助go语言能打通前后端的任通二脉，成为一名全栈工程师！另外，需要进技术交流群的同学，可以加我微信fangdongdong_25. 
     </details> 
 
-- 🎡 [Vue 3.2+ setup语法糖、Composition API 总结](https://juejin.cn/post/7186116770301182012) | Sun Jan 08 2023 3:24 AM 
+- 💪 [Vue 3.2+ setup语法糖、Composition API 总结](https://juejin.cn/post/7186116770301182012) | Sun Jan 08 2023 3:24 AM 
     <details><summary>展开描述 ...</summary> 
     通过对vue3.2的主要语法的补充和归纳，总结重点知识。包括语法结构、data、method、组件传值、自定义指令等。 
-    </details> 
-
-- 🕯 [MySQL中的锁](https://juejin.cn/post/7186080319945048123) | Sun Jan 08 2023 1:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    解决并发问题的两种方式 隔离级别 并发事务引发的问题 读未提交 脏读 不可重复读 幻读 读已提交 不可重复读 幻读 可重复读 幻读 串行化 -- 在事务隔离级别为可重复读时，实际上MySQL也能通过其 
-    </details> 
-
-- 🚀 [【年终总结】2022这一年，大学毕业、面试、读研](https://juejin.cn/post/7186079067689615415) | Sun Jan 08 2023 12:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    「回顾2022，展望2023，我正在参与2022年终总结征文大赛活动」 2022是大学生活的最后一年，四年前的九月份步入大学，今年的六月彻底的离开本科学校，虽然毕业是今年的一大事，但是从这一年来看，真 
-    </details> 
-
-- 💪 [（4）go-micro微服务proto开发](https://juejin.cn/post/7186069363672219703) | Sun Jan 08 2023 12:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    一 Protobuf介绍 Google Protocol Buffer&lpar; 简称 Protobuf&rpar; 是 Google 公司内部的混合语言数据标准，目前已经正在使用的有超过 48,162 种报文格式定义 
     </details> 
 <!-- juejin:END -->
 ### 少数派
