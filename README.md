@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [基于 OpenAI 的 API, 实现上下文关联的 ChatGPT 对话工具](https://www.v2ex.com/t/907298#reply0) | Sun Jan 08 2023 1:02 AM
-- 🤗 [React Native 可以精简大小吗？在 Android 下默认就 55MB 了](https://www.v2ex.com/t/907288#reply1) | Sat Jan 07 2023 5:57 PM
-- 🎭 [新手请教各位前辈 关于换项目和新技术的学习](https://www.v2ex.com/t/907278#reply0) | Sat Jan 07 2023 3:59 PM
-- 🥷 [Microsoft store 老是出现“假更新”](https://www.v2ex.com/t/907269#reply3) | Sat Jan 07 2023 2:56 PM
-- 🐵 [有接私活的吗 来一个](https://www.v2ex.com/t/907265#reply0) | Sat Jan 07 2023 1:52 PM<!-- v2ex:END -->
+- 🥸 [测试马上删](https://www.v2ex.com/t/907317#reply2) | Sun Jan 08 2023 2:35 AM
+- 🤗 [谁 vscode remote SSL 遇到过循环刷 waiting for log 登不上去服务器的情况](https://www.v2ex.com/t/907305#reply2) | Sun Jan 08 2023 1:30 AM
+- 🎭 [基于 OpenAI 的 API, 实现上下文关联的 ChatGPT 对话工具](https://www.v2ex.com/t/907298#reply1) | Sun Jan 08 2023 1:02 AM
+- 🥷 [React Native 可以精简大小吗？在 Android 下默认就 55MB 了](https://www.v2ex.com/t/907288#reply1) | Sat Jan 07 2023 5:57 PM
+- 🐵 [新手请教各位前辈 关于换项目和新技术的学习](https://www.v2ex.com/t/907278#reply1) | Sat Jan 07 2023 3:59 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
