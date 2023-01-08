@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [单体的 TienChin 和微服务的 TienChin 有何异同？](https://juejin.cn/post/7186172440316706876) | Sun Jan 08 2023 7:00 AM 
+- 🤗 [React Context 完美替代品 Jotai](https://juejin.cn/post/7186184903170949176) | Sun Jan 08 2023 7:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    1. 前言 React 的属性透传场景 虽然有很多方式可以实现，但能做到代码写的少、re-render 轻松处理的方式并不多。 而状态管理工具 Jotai 却可以很好的解决这些问题。 最近的业务和组件 
+    </details> 
+
+- 🎡 [2022总结](https://juejin.cn/post/7186172242772885541) | Sun Jan 08 2023 7:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    2022年是比较繁忙的一年，发生了很多事情，导致自己的习惯、节奏被打乱。 但也让自己对生活有了很多新的认知，希望2023年一切会慢慢变好。 
+    </details> 
+
+- 🕯 [单体的 TienChin 和微服务的 TienChin 有何异同？](https://juejin.cn/post/7186172440316706876) | Sun Jan 08 2023 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     有不少小伙伴希望松哥能整一个微服务的实战项目，微服务这块技术点其实松哥是讲过很多了，图文版的教程视频版的教程都有，不过确实缺乏一个项目，所以我在想等 TienChin 项目搞完之后，和小伙伴们也来一起 
     </details> 
 
-- 🎡 [DynamicImport实现原理](https://juejin.cn/entry/7186172256827998266) | Sun Jan 08 2023 6:59 AM 
+- 🚀 [DynamicImport实现原理](https://juejin.cn/entry/7186172256827998266) | Sun Jan 08 2023 6:59 AM 
     <details><summary>展开描述 ...</summary> 
     当动态导入的路径中包含变量时，经过 AST 分析可以生成对应的通配符。在构建的时候，这些通配符将被用于抓取匹配的文件。随后这些文件会被添加进构建体系中，在运行时，根据导入的实际路径返回对应的文件内容。 
     </details> 
 
-- 🕯 [新时代的 SSR 框架破局者：qwik](https://juejin.cn/post/7186161640121827387) | Sun Jan 08 2023 6:17 AM 
+- 💪 [新时代的 SSR 框架破局者：qwik](https://juejin.cn/post/7186161640121827387) | Sun Jan 08 2023 6:17 AM 
     <details><summary>展开描述 ...</summary> 
     抛弃完全多余的 hydration ，让你的SSR应用性能突破天际。今天我们来聊聊一种全新的服务端渲染思路，一起来看看号称世界上第一个SSR框架：qwik。 
-    </details> 
-
-- 🚀 [💯💯💯通过babel学习Generator的底层实现](https://juejin.cn/post/7186133102740111397) | Sun Jan 08 2023 4:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    在前面的章节讲解中我们已经知道了调用一个生成器不会实际执行它。相反,它创建了一个新的迭代器,通过该迭代器我们才能从生成器中请求值。在生成器生成或过度了一个值后,生成器会挂起执行并等待下一个请求的到来。 
-    </details> 
-
-- 💪 [【我的2022和2023】上辈子放火烧山，这辈子干前端](https://juejin.cn/post/7186132566783557688) | Sun Jan 08 2023 4:28 AM 
-    <details><summary>展开描述 ...</summary> 
-    没想到时间过的如此之快，转眼毕业已经三年多了，如果不回顾一下真的忘了自己干了点什么。上海一年，北京两年，恍然如昨。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
