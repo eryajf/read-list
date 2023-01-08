@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [移动端有支持直播协议好用的播放器吗？](https://www.v2ex.com/t/907418#reply3) | Sun Jan 08 2023 12:32 PM
-- 🤗 [统计帖，请问各位开发的老哥，公司会要求你们写文档吗？](https://www.v2ex.com/t/907413#reply5) | Sun Jan 08 2023 12:14 PM
-- 🎭 [BYD 安卓车机平板 Apple Music 横屏问题](https://www.v2ex.com/t/907399#reply6) | Sun Jan 08 2023 10:37 AM
-- 🥷 [rocketMQ 遇到消费者报错,求助](https://www.v2ex.com/t/907385#reply4) | Sun Jan 08 2023 9:25 AM
-- 🐵 [毕业一年半吐槽，长文预警](https://www.v2ex.com/t/907379#reply9) | Sun Jan 08 2023 8:49 AM<!-- v2ex:END -->
+- 🥸 [在人生的十字路口上请教各位前辈一个职业发展的问题](https://www.v2ex.com/t/907428#reply0) | Sun Jan 08 2023 1:39 PM
+- 🤗 [除了使用手机厂商或者型号来间接推测，有直接的办法获取手机上的应用商店包名么？](https://www.v2ex.com/t/907427#reply1) | Sun Jan 08 2023 1:38 PM
+- 🎭 [移动端有支持直播协议好用的播放器吗？](https://www.v2ex.com/t/907418#reply6) | Sun Jan 08 2023 12:32 PM
+- 🥷 [统计帖，请问各位开发的老哥，公司会要求你们写文档吗？](https://www.v2ex.com/t/907413#reply7) | Sun Jan 08 2023 12:14 PM
+- 🐵 [BYD 安卓车机平板 Apple Music 横屏问题](https://www.v2ex.com/t/907399#reply7) | Sun Jan 08 2023 10:37 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
