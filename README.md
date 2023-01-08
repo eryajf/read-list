@@ -351,19 +351,19 @@
     「回顾2022，展望2023，我正在参与2022年终总结征文大赛活动」 前言 这是我的第一篇年终总结，心血来潮，想记录下2021年的自己和现在的自己的改变（一些方面），一方面想顺便参加掘金的2022年 
     </details> 
 
-- 🕯 [我的日常开发收获](https://juejin.cn/entry/7186193171443875897) | Sun Jan 08 2023 8:22 AM 
+- 🕯 [JavaScript专题-继承](https://juejin.cn/post/7186196711936065592) | Sun Jan 08 2023 8:35 AM 
     <details><summary>展开描述 ...</summary> 
-    passive event listeners passive event listeners 是一种新兴的web标准，Chrome 51中提供的新功能为滚动性能提供了巨大的潜在提升。Chrome R 
+    此专题系列将对JavaScript重难点进行梳理，希望能融会贯通，加深印象，更进一步...123141 
     </details> 
 
-- 🚀 [Ikigai: 享受生命的意义](https://juejin.cn/post/7186192496228040764) | Sun Jan 08 2023 8:20 AM 
+- 🚀 [来玩，前端性能优化](https://juejin.cn/post/7186195234689122365) | Sun Jan 08 2023 8:31 AM 
     <details><summary>展开描述 ...</summary> 
-    你为什么而活？你的存在意义是什么？除了工作、挣钱，还有什么值得投入人生？Ikigai是来自日本的哲学思想，意味着带给你快乐、让你享受生活的东西。知道自己的Ikigai，也许人生可以减少很多焦虑、痛苦和 
+    前端性能优化相关的“技能点”笔者之前也写过几篇，但是大多都是小打小闹。我重新整理了曾经使用过的性能优化手段。本文介绍三种方案：**页面资源预加载**、**服务请求优化**和**非首屏视图延迟加载**。 
     </details> 
 
-- 💪 [React Context 完美替代品 Jotai](https://juejin.cn/post/7186184903170949176) | Sun Jan 08 2023 7:47 AM 
+- 💪 [前端面试知识体系（一）](https://juejin.cn/post/7186194619318108219) | Sun Jan 08 2023 8:26 AM 
     <details><summary>展开描述 ...</summary> 
-    1. 前言 React 的属性透传场景 虽然有很多方式可以实现，但能做到代码写的少、re-render 轻松处理的方式并不多。 而状态管理工具 Jotai 却可以很好的解决这些问题。 最近的业务和组件 
+    前端面试知识体系（一）1024bibi.com # 如何实现网页多标签tab通讯 使用 WebSocket 1. 无跨域限制 2. 需要服务端支持，成本高 通过 localStorage 通讯 
     </details> 
 <!-- juejin:END -->
 ### 少数派
