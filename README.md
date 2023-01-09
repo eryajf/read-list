@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [mongo 6.0 Mac版本安装配置](https://juejin.cn/post/7186587887985492028) | Mon Jan 09 2023 9:52 AM 
+- 🤗 [【兔年创意投稿】兔兔的奇妙之旅（六）神秘的汇编王国](https://juejin.cn/post/7186598253553532987) | Mon Jan 09 2023 10:37 AM 
+    <details><summary>展开描述 ...</summary> 
+    书接上回。 初识只觉理论枯燥 为了让突突和达达快速入门操作系统，湘湘（黑箱兔的真名）拿着一本《现代操作系统》，找了块小黑板和笔，摇头晃脑地念了起来。 “进程是操作系统中最核心的概念，是对正在运行中的程 
+    </details> 
+
+- 🎡 [20分钟带你入门Nuxt3](https://juejin.cn/post/7186596767591301177) | Mon Jan 09 2023 10:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    混合式Vue 框架. 使用Vue 3 构建您的下一个应用，体验混合渲染、强大的数据获取和新功能。 Nuxt 3 是一个开源框架，使Web 开发变得简单而强大。 
+    </details> 
+
+- 🕯 [Van♂Python | 🐐又写了一个Markdown转换工具](https://juejin.cn/post/7186595348310622245) | Mon Jan 09 2023 10:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    🤡年前活不多，划着水把之前想写的小工具给写了，支持Markdown本地化 &lpar;图片下载到本地并自动替换原链接&rpar;，妈妈再也不用担心图片失效的问题了，搭配Chrome插件MarkDownload食用更佳~ 
+    </details> 
+
+- 🚀 [mongo 6.0 Mac版本安装配置](https://juejin.cn/post/7186587887985492028) | Mon Jan 09 2023 9:52 AM 
     <details><summary>展开描述 ...</summary> 
     我是河畔一角，慕课网讲师，今天只是记录一个学生对于MongoDB6.0安装失败后的记录，并提供了最新的操作流程，如果此时你也在使用MongoDB6.0，希望能够对你有所参考。 
     </details> 
 
-- 🎡 [有什么好用的云渲染平台？如何选择？](https://juejin.cn/post/7186584325561778232) | Mon Jan 09 2023 9:37 AM 
+- 💪 [有什么好用的云渲染平台？如何选择？](https://juejin.cn/post/7186584325561778232) | Mon Jan 09 2023 9:37 AM 
     <details><summary>展开描述 ...</summary> 
     国内云渲染公司种类繁多，有什么好用的云渲染？该如何选择好用的云渲染服务平台呢？首先，我们选择云渲染平台，就是想要借助于他们的渲染节点，说实话，就是买算力，所以要选择渲染节点资源充足，有硬件实力.... 
-    </details> 
-
-- 🕯 [到底什么样的 REST 才是最佳 REST？](https://juejin.cn/post/7186577378439594043) | Mon Jan 09 2023 9:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    说起 REST API，小伙伴们多多少少都有听说过，但是如果让你详细介绍一下什么是 REST，估计会有很多人讲不出来，或者只讲出来其中一部分。 今天松哥就来和大家一起来聊一聊到底什么是 REST，顺便 
-    </details> 
-
-- 🚀 [⚡⚡⚡ 学习事件循环,这篇文章值得你看看](https://juejin.cn/post/7186575283082756154) | Mon Jan 09 2023 9:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    JavaScript的事件循环是这门语言中非常重要且基础的概念。清楚的了解事件循环的执行顺序和每一个阶段的特点,可以使我们对一段异步代码的执行顺序有一个清晰的认识,从而减少代码运行的不确定性。 
-    </details> 
-
-- 💪 [2022 年，从年初就开始写的年终总结](https://juejin.cn/post/7186575161272107064) | Mon Jan 09 2023 9:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    为了防止今年的年终总结因为拖延症而放弃，所以我选择从年初就开始写年终总结。 2023 年，祝大家所求皆如愿，所行皆坦途，多喜乐。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
