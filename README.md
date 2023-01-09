@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Tidy Up 6.0.1 重复文件清理工具](https://xclient.info/s/tidy-up.html) | Mon Jan 09 2023 2:34 AM 
+- 🦏 [Tagr 5.6.0 文件元数据管理](https://xclient.info/s/tagr.html) | Mon Jan 09 2023 2:59 AM 
     <details><summary>展开描述 ...</summary> 
-    Tidy Up 是Mac上最优秀的一款重复文件搜索和清理工具，这款软件可以让你指定搜索的目标目录，然后搜索指定类型的重复文件，如音乐、图片、应用等，还支持直接搜索iTunes、iPhoto、Aperture等 
+    Tagr是Mac上一款音频元数据编辑器，您可以轻松地编辑信息，例如歌曲的艺术家，标题或专辑封面 
     </details> 
 
--  [Swinsian 3.0 Preview 4 578 专业的好用的Mac音乐播放器](https://xclient.info/s/swinsian.html) | Mon Jan 09 2023 2:34 AM 
+-  [uDock 3.4&lpar;34002&rpar; 轻量级Dock栏快速启动工具](https://xclient.info/s/udock.html) | Mon Jan 09 2023 2:59 AM 
     <details><summary>展开描述 ...</summary> 
-    Swinsian 是Mac os平台上的一款专业的好用的Mac音乐播放器，Swinsian可以管理自己的音频文件，你可以自己根据自己的浏览方式浏览自己的音频文件，这款软件要比iTunes好用的多，不需要那么繁琐的操作，还可以通过这款软件下载文件到移动设备。 
+    轻量级系统扩展uDock可以在系统工具栏中工作，使用键盘快捷键或鼠标热点来激活 μDock，它几乎是隐形的，并且在您需要时随时准备就绪 
     </details> 
 
-- ⚗️ [Yate 6.13.0.1 音频文件标签小工具](https://xclient.info/s/yate.html) | Mon Jan 09 2023 2:33 AM 
+- ⚗️ [OS Cleaner 11.5.7 系统清理软件](https://xclient.info/s/os-cleaner.html) | Mon Jan 09 2023 2:58 AM 
     <details><summary>展开描述 ...</summary> 
-    Yate是一款Mac平台的音乐标签及管理工具，能够帮助我们轻松编辑音乐文件的元标签数据 
+    OS Cleaner是一款运行在Mac平台上系统清理软件，使用简单，通过点击扫描您电脑中的垃圾和清理发现的文件，然后清理您的系统垃圾，大大节省你的Mac磁盘空间，提高运行速度，非常好用。 
     </details> 
 
-- 🔥 [PowerPhotos 2.1.3 优秀的图片管理工具](https://xclient.info/s/powerphotos.html) | Mon Jan 09 2023 2:32 AM 
+- 🔥 [MarsEdit 5.0.2 博客写作软件](https://xclient.info/s/marsedit.html) | Mon Jan 09 2023 2:57 AM 
     <details><summary>展开描述 ...</summary> 
-    PowerPhotos 是一款Mac上优秀的图片管理工具，让你能够直接浏览图库，节省iCloud空间，并能够检测重复图片，让你快速删除多余的图片，简单易用。 
+    MarsEdit是一款博客写作软件，可同步博客到本地，预览、编辑、发布、分类、标签等一系列功能。可同步到常见博客上 
     </details> 
 
-- 🌋 [Multitouch 1.27.11 增强你的多点触控设备](https://xclient.info/s/multitouch.html) | Mon Jan 09 2023 2:31 AM 
+- 🌋 [MetaImage 2.2.1 图像元数据编辑器](https://xclient.info/s/metaimage.html) | Mon Jan 09 2023 2:56 AM 
     <details><summary>展开描述 ...</summary> 
-    Multitouch 是Mac平台上的一款可以增强你的多点触控设备的应用，可以让你将一个自定义的动作绑定到一个特定的魔力轨迹板或魔术鼠标手势。 
+    MetaImage 是一款专为mac用户设计的图像元数据编辑器，可以帮助您轻松的更改或删除照片中的元数据信息，而且MetaImage还为地理和缩略图数据提供了特殊支持。而且支持90多种图像格式（MOS，CR2，DNG，NEF，NRW，JPEG，PNG，TIFF，RAW等等） 
     </details> 
 <!-- xclient:END -->
 
