@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [FreeBuf X 极验 | 《2022年度虚假流量白皮书》重磅发布](https://www.freebuf.com/articles/neopoints/354604.html) | Fri Jan 06 2023 11:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    后疫情时代，随着各行业线下业务与线上业务的深度结合转型，流量思维的增量导向逐渐转向降本增效。 
+    </details> 
+
 - 🦄 [FreeBuf早报 | 开发工具 CircleCI 曝出严重漏洞；2023 年网络攻击新趋势预测](https://www.freebuf.com/news/354577.html) | Fri Jan 06 2023 10:46 AM 
     <details><summary>展开描述 ...</summary> 
     金融机构（36%）、政府（14%）、医疗（9%）和教育（8%）等行业更容易遭受攻击。 
     </details> 
 
-- 🦄 [FreeBuf 周报 | 2亿Twitter用户的数据被公开；2023，去哪儿又利用大数据杀熟？](https://www.freebuf.com/news/354537.html) | Fri Jan 06 2023 8:35 AM 
+- 🦅 [FreeBuf 周报 | 2亿Twitter用户的数据被公开；2023，去哪儿又利用大数据杀熟？](https://www.freebuf.com/news/354537.html) | Fri Jan 06 2023 8:35 AM 
     <details><summary>展开描述 ...</summary> 
     各位 Buffer 周末好，以下是本周「FreeBuf周报」 
     </details> 
 
-- 🦅 [AI智能潜在威胁，黑客利用 ChatGPT轻松入侵网络](https://www.freebuf.com/news/354497.html) | Fri Jan 06 2023 5:33 AM 
+- 🪄 [AI智能潜在威胁，黑客利用 ChatGPT轻松入侵网络](https://www.freebuf.com/news/354497.html) | Fri Jan 06 2023 5:33 AM 
     <details><summary>展开描述 ...</summary> 
     人工智能聊天机器人虽然很有趣，但也存在风险，因为它能够就任何漏洞提供详细建议。 
     </details> 
 
-- 🪄 [法国对苹果公司处以 800 万欧元罚款，后者表示会上诉！](https://www.freebuf.com/articles/354472.html) | Fri Jan 06 2023 3:11 AM 
+- 💻 [法国对苹果公司处以 800 万欧元罚款，后者表示会上诉！](https://www.freebuf.com/articles/354472.html) | Fri Jan 06 2023 3:11 AM 
     <details><summary>展开描述 ...</summary> 
     苹果公司未经用户同意，在 App Store上收集用户数据，投放定向广告，被罚 800 万欧元。   
-    </details> 
-
-- 💻 [探究Groovy组件的利用方式](https://www.freebuf.com/vuls/343311.html) | Thu Jan 05 2023 3:24 PM 
-    <details><summary>展开描述 ...</summary> 
-    对java中的Groovy组件漏洞进行了总结 
     </details> 
 <!-- freebuf:END -->
 
