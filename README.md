@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [记时光 - 记录你的时光](https://xinquji.com/posts/792510?utm_campaign=xinquji-rss) | Mon Jan 09 2023 7:46 AM 
+- 👀 [spotify音乐墙助手 - 生成漂亮的spotify封面](https://xinquji.com/posts/792701?utm_campaign=xinquji-rss) | Tue Jan 10 2023 10:19 AM 
+    <details><summary>展开描述 ...</summary> 
+     生成漂亮的spotify封面  
+    </details> 
+
+- 🥷 [搜索神器 - 一个简洁、美观、实用的浏览器](https://xinquji.com/posts/792676?utm_campaign=xinquji-rss) | Tue Jan 10 2023 10:19 AM 
+    <details><summary>展开描述 ...</summary> 
+     一个简洁、美观、实用的浏览器  
+    </details> 
+
+- 💼 [记时光 - 记录你的时光](https://xinquji.com/posts/792510?utm_campaign=xinquji-rss) | Mon Jan 09 2023 7:46 AM 
     <details><summary>展开描述 ...</summary> 
      记录你的时光  
     </details> 
 
-- 🥷 [Dash The Island - 在这个挑战灵动岛游戏中,你需要挑战自己,获得更高的排名!](https://xinquji.com/posts/792422?utm_campaign=xinquji-rss) | Mon Jan 09 2023 7:46 AM 
+- 🦅 [Dash The Island - 在这个挑战灵动岛游戏中,你需要挑战自己,获得更高的排名!](https://xinquji.com/posts/792422?utm_campaign=xinquji-rss) | Mon Jan 09 2023 7:46 AM 
     <details><summary>展开描述 ...</summary> 
      在这个挑战灵动岛游戏中,你需要挑战自己,获得更高的排名!  
     </details> 
 
-- 💼 [摸鱼小程序 - 上班摸鱼小程序](https://xinquji.com/posts/792046?utm_campaign=xinquji-rss) | Mon Jan 09 2023 7:44 AM 
+- 😺 [摸鱼小程序 - 上班摸鱼小程序](https://xinquji.com/posts/792046?utm_campaign=xinquji-rss) | Mon Jan 09 2023 7:44 AM 
     <details><summary>展开描述 ...</summary> 
      上班摸鱼小程序  
-    </details> 
-
-- 🦅 [JobtitlesAI - 准确分类任何职位](https://xinquji.com/posts/792740?utm_campaign=xinquji-rss) | Mon Jan 09 2023 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     准确分类任何职位  
-    </details> 
-
-- 😺 [Monetal - Expense tracker - 100% 免费，iOS、Android](https://xinquji.com/posts/792739?utm_campaign=xinquji-rss) | Mon Jan 09 2023 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     100% 免费，iOS、Android  
     </details> 
 <!-- xinquji:END -->
