@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [法航和荷航部分客户个人信息被盗](https://www.freebuf.com/news/354694.html) | Mon Jan 09 2023 3:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    法航和荷航已经通知“蓝天飞行”的旅客，他们的一些个人信息可能暴露了。 
+    </details> 
+
 - 🦄 [英国多所学校数据遭大规模泄露，教育行业成勒索软件的主目标](https://www.freebuf.com/news/354692.html) | Mon Jan 09 2023 3:28 AM 
     <details><summary>展开描述 ...</summary> 
     在 2022 年发生高校攻击事件后，来自 14 所英国学校的数据被黑客在线泄露。 
     </details> 
 
-- 🦄 [《网络安全标准实践指南—车外画面局部轮廓化处理效果验证（征求意见稿）》发布](https://www.freebuf.com/news/354687.html) | Mon Jan 09 2023 3:00 AM 
+- 🦅 [《网络安全标准实践指南—车外画面局部轮廓化处理效果验证（征求意见稿）》发布](https://www.freebuf.com/news/354687.html) | Mon Jan 09 2023 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     《指南》给出了验证车外画面进行人脸、车牌局部轮廓化处理效果的流程、方法及验证标准。 
     </details> 
 
-- 🦅 [FreeBuf X 极验 | 《2022年度虚假流量白皮书》重磅发布](https://www.freebuf.com/articles/neopoints/354604.html) | Fri Jan 06 2023 11:35 AM 
+- 🪄 [FreeBuf X 极验 | 《2022年度虚假流量白皮书》重磅发布](https://www.freebuf.com/articles/neopoints/354604.html) | Fri Jan 06 2023 11:35 AM 
     <details><summary>展开描述 ...</summary> 
     后疫情时代，随着各行业线下业务与线上业务的深度结合转型，流量思维的增量导向逐渐转向降本增效。 
     </details> 
 
-- 🪄 [FreeBuf早报 | 开发工具 CircleCI 曝出严重漏洞；2023 年网络攻击新趋势预测](https://www.freebuf.com/news/354577.html) | Fri Jan 06 2023 10:46 AM 
+- 💻 [FreeBuf早报 | 开发工具 CircleCI 曝出严重漏洞；2023 年网络攻击新趋势预测](https://www.freebuf.com/news/354577.html) | Fri Jan 06 2023 10:46 AM 
     <details><summary>展开描述 ...</summary> 
     金融机构（36%）、政府（14%）、医疗（9%）和教育（8%）等行业更容易遭受攻击。 
-    </details> 
-
-- 💻 [FreeBuf 周报 | 2亿Twitter用户的数据被公开；2023，去哪儿又利用大数据杀熟？](https://www.freebuf.com/news/354537.html) | Fri Jan 06 2023 8:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    各位 Buffer 周末好，以下是本周「FreeBuf周报」 
     </details> 
 <!-- freebuf:END -->
 
