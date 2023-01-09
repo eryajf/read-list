@@ -335,8 +335,8 @@
 - 🥸 [gin 中间件怎么传值](https://www.v2ex.com/t/907558#reply1) | Mon Jan 09 2023 3:55 AM
 - 🤗 [关于子类和父类同时实现某一接口的疑惑](https://www.v2ex.com/t/907555#reply1) | Mon Jan 09 2023 3:53 AM
 - 🎭 [pve 下虚拟机网速慢](https://www.v2ex.com/t/907530#reply2) | Mon Jan 09 2023 3:09 AM
-- 🥷 [select * from t1 limit 10 会扫描全表](https://www.v2ex.com/t/907528#reply5) | Mon Jan 09 2023 3:05 AM
-- 🐵 [斯凯社区](https://www.v2ex.com/t/907526#reply22) | Mon Jan 09 2023 3:05 AM<!-- v2ex:END -->
+- 🥷 [select * from t1 limit 10 会扫描全表](https://www.v2ex.com/t/907528#reply11) | Mon Jan 09 2023 3:05 AM
+- 🐵 [斯凯社区](https://www.v2ex.com/t/907526#reply23) | Mon Jan 09 2023 3:05 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
