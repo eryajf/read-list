@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [微服务产品12月产品动态](https://juejin.cn/post/7186496250848477221) | Mon Jan 09 2023 3:56 AM 
+- 🤗 [虽然是我遇到的一个棘手的生产问题，但是我写出来之后，就是你的了。](https://juejin.cn/post/7186512174779465765) | Mon Jan 09 2023 4:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    前几天，就在大家还沉浸在等待春节到来的喜悦氛围的时候，在一个核心链路上的核心系统中，我踩到一个坑的一比的坑，要不是我沉着冷静，解决思路忙中有序，处理手段雷厉风行，把它给扼杀在萌芽阶段 
+    </details> 
+
+- 🎡 [一站式云原生体验｜龙蜥云原生ACNS + Rainbond](https://juejin.cn/post/7186512174268252220) | Mon Jan 09 2023 4:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    关于 ACNS 龙蜥云原生套件 OpenAnolis Cloud Native Suite（ACNS）是由龙蜥社区云原生 SIG 推出的基于 Kubernetes 发行版本为基础而集成的套件能力 
+    </details> 
+
+- 🕯 [【Redis 技术探索】「数据迁移实战」手把手教你如何实现在线 + 离线模式进行迁移 Redis 数据实战指南（scan模式迁移）](https://juejin.cn/post/7186509154259828795) | Mon Jan 09 2023 4:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    在线数据迁移方式 对于大多数场景下的Redis的数据迁移，还是比较推荐大家参考我之前的前两篇文章。 【Redis 技术探索】「数据迁移实战」手把手教你如何实现在线 + 离线模式进行迁移 Redis 数 
+    </details> 
+
+- 🚀 [微服务产品12月产品动态](https://juejin.cn/post/7186496250848477221) | Mon Jan 09 2023 3:56 AM 
     <details><summary>展开描述 ...</summary> 
     12月动态 TSE 云原生 API 网关 【新功能】Kong 网关支持流量镜像，您可将线上流量镜像到测试环境进行请求分析。 
     </details> 
 
-- 🎡 [Next.js |  Jest + React testing library + Typescript 单元测试框架搭建及实现](https://juejin.cn/post/7186495635095289916) | Mon Jan 09 2023 3:53 AM 
+- 💪 [Next.js |  Jest + React testing library + Typescript 单元测试框架搭建及实现](https://juejin.cn/post/7186495635095289916) | Mon Jan 09 2023 3:53 AM 
     <details><summary>展开描述 ...</summary> 
     单元测试和 E2E 测试作为前端项目健壮性的保障，虽然在许多团队可能并没有足够的能力和资源去实现很好的自动化测试，但基本的了解还是必不可少的。 
-    </details> 
-
-- 🕯 [（5）go-micro微服务domain层开发](https://juejin.cn/post/7186490052279533626) | Mon Jan 09 2023 3:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    一 domain层介绍说明 domain层专注于数据库数据领域开发，我们把数据库相关操作全部写在domain层。 model层：数据表字段定义与开发 repository层：数据库数据CURD操作 s 
-    </details> 
-
-- 🚀 [ThreadLocal源码解析及实战应用](https://juejin.cn/post/7186489836042682425) | Mon Jan 09 2023 3:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    ThreadLocal是一个关于创建线程局部变量的类。 通常情况下，我们创建的变量是可以被任何一个线程访问并修改的。 
-    </details> 
-
-- 💪 [VideoEditor优化方案](https://juejin.cn/post/7186488937286729765) | Mon Jan 09 2023 3:28 AM 
-    <details><summary>展开描述 ...</summary> 
-    最全的VideoEditor优化方案，绝对值得你收藏。短视频现在几乎是内容公司的标配了，VideoEditor作为视频生产的重要工具，现在各家公司都在自研，VideoEditor有哪些优化指标？ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
