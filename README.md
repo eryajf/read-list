@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [前端做AB实验的三种分流方式](https://juejin.cn/post/7186474147952721981) | Mon Jan 09 2023 2:31 AM 
+- 🤗 [副系天赋点满的男孩一年，学做菜、减脂成功、摄影生活｜2022年终总结](https://juejin.cn/post/7186484704785203260) | Mon Jan 09 2023 3:12 AM 
+    <details><summary>展开描述 ...</summary> 
+    青春的散场，男孩总是会慢慢的长大。从青涩到成熟的转变过程中，时间无疑是最大的助攻手。时间很长，人生会有很多故事。时间很短，属于你自己的精彩一刻转瞬即逝。 
+    </details> 
+
+- 🎡 [Kitex 泛化调用案例：基于 API 网关的支付开放平台](https://juejin.cn/post/7186482424753160253) | Mon Jan 09 2023 3:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    使用了 CloudWeGo Kitex 和 Hertz 进行支付开放平台的业务演示，并着重实践了 Kitex 泛化调用的能力。 
+    </details> 
+
+- 🕯 [《隐私计算白皮书（2022年）》概览](https://juejin.cn/post/7186478493322969143) | Mon Jan 09 2023 2:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    2022年12月28日，由中国信息通信研究院、中国通信标准化协会指导，隐私计算联盟、中国通信标准化协会大数据技术标准推进委员会联合主办的“2022可信隐私计算峰会”在京召开。 
+    </details> 
+
+- 🚀 [前端做AB实验的三种分流方式](https://juejin.cn/post/7186474147952721981) | Mon Jan 09 2023 2:31 AM 
     <details><summary>展开描述 ...</summary> 
     背景 为了验证一些想法是否真的有业务价值，往往需要做AB实验。 做AB实验，绕不过去的问题就是分流，分流方案：1. 接口分流 2. 投放侧分流 3. nginx层分流 
     </details> 
 
-- 🎡 [为iframe正名，你可能并不需要微前端,【架构设计】你的应用该如何分层呢？| 酱酱的下午茶第149期](https://juejin.cn/post/7186471404559138853) | Mon Jan 09 2023 2:19 AM 
+- 💪 [为iframe正名，你可能并不需要微前端,【架构设计】你的应用该如何分层呢？| 酱酱的下午茶第149期](https://juejin.cn/post/7186471404559138853) | Mon Jan 09 2023 2:19 AM 
     <details><summary>展开描述 ...</summary> 
     记一次SpringBoot启动优化实践研发协同利器：XState调研与应用，Flutter 绘制探索 | 操作坐标系范围，从0开始实现一个2022掘友年度报告，iOS 包体积优化4 - 资源管理 
-    </details> 
-
-- 🕯 [由浅入深读透vue源码：diff算法](https://juejin.cn/post/7186470743658954812) | Mon Jan 09 2023 2:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    导语 | 开发者工作中，研究代码逻辑常需要思考这个问题：数组变更后，具体变更了哪一些元素？变更的位置如何？本文作者陈碧松解析并覆写了针对数组变化的diff算法逻辑。希望本文对你有帮助。 diff方法的 
-    </details> 
-
-- 🚀 [五分钟让你掌握MongoDB超常用命令](https://juejin.cn/post/7186468694158442554) | Mon Jan 09 2023 2:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    小伙伴们大家好，2023年伊始又和大家见面了，这次我们一起来学习一下MongoDB常用的命令，作为一名合格的前端，怎么能不了解MongoDB，所以此次我将与大家一起学学超常用的MongoDB可食用套餐 
-    </details> 
-
-- 💪 [精读《如何抽象可视化搭建》](https://juejin.cn/post/7186467951640805435) | Mon Jan 09 2023 2:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    在做任何可视化搭建项目时，第一步都要思考如何抽象。 如果不抽象，当搭建项目做到后期可能会出现 API 杂乱，难以维护的问题；做到一半甚至会怀疑为什么需要一个搭建框架，怀疑把框架去掉会不会效率更高 
     </details> 
 <!-- juejin:END -->
 ### 少数派
