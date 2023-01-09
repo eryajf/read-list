@@ -709,13 +709,13 @@
      上班摸鱼小程序  
     </details> 
 
-- 🦅 [Ultimate Event Planner - 毫不费力地计划和执行成功的活动](https://xinquji.com/posts/792700?utm_campaign=xinquji-rss) | Sun Jan 08 2023 6:00 AM 
+- 🦅 [JobtitlesAI - 准确分类任何职位](https://xinquji.com/posts/792740?utm_campaign=xinquji-rss) | Mon Jan 09 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     毫不费力地计划和执行成功的活动  
+     准确分类任何职位  
     </details> 
 
-- 😺 [Scene - 学生的终极人身安全应用程序](https://xinquji.com/posts/792699?utm_campaign=xinquji-rss) | Sun Jan 08 2023 6:00 AM 
+- 😺 [Monetal - Expense tracker - 100% 免费，iOS、Android](https://xinquji.com/posts/792739?utm_campaign=xinquji-rss) | Mon Jan 09 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     学生的终极人身安全应用程序  
+     100% 免费，iOS、Android  
     </details> 
 <!-- xinquji:END -->
