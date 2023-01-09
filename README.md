@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [World Clock Deluxe 4.19.0.2 世界时钟](https://xclient.info/s/world-clock-deluxe.html) | Thu Jan 05 2023 1:48 AM 
+- 🦏 [Tidy Up 6.0.1 重复文件清理工具](https://xclient.info/s/tidy-up.html) | Mon Jan 09 2023 2:34 AM 
     <details><summary>展开描述 ...</summary> 
-    World Clock Deluxe是一款Mac OS平台的世界时钟软件，经常与世界各地的人们联系？有家人或朋友住在其他国家或时区？经常出国旅游吗？World Clock Deluxe 将使你的生活变得更轻松。 
+    Tidy Up 是Mac上最优秀的一款重复文件搜索和清理工具，这款软件可以让你指定搜索的目标目录，然后搜索指定类型的重复文件，如音乐、图片、应用等，还支持直接搜索iTunes、iPhoto、Aperture等 
     </details> 
 
--  [Tap Forms Organizer 5.3.34 数字档案柜](https://xclient.info/s/tap-forms.html) | Thu Jan 05 2023 1:47 AM 
+-  [Swinsian 3.0 Preview 4 578 专业的好用的Mac音乐播放器](https://xclient.info/s/swinsian.html) | Mon Jan 09 2023 2:34 AM 
     <details><summary>展开描述 ...</summary> 
-    Tap Forms是一款 Mac 上的个人数字档案柜，我们可以使用这款软件记录收集管理任何信息，其优秀之处是可以自定义表单信息，方便我们存储各种信息，在安全性上支持AES-256加密，此外，还支持iCloud 同步、导入导出、打印、分享、高级搜索等功能。 
+    Swinsian 是Mac os平台上的一款专业的好用的Mac音乐播放器，Swinsian可以管理自己的音频文件，你可以自己根据自己的浏览方式浏览自己的音频文件，这款软件要比iTunes好用的多，不需要那么繁琐的操作，还可以通过这款软件下载文件到移动设备。 
     </details> 
 
-- ⚗️ [Marked 2.6.18 优秀的Markdown预览工具](https://xclient.info/s/marked.html) | Thu Jan 05 2023 1:46 AM 
+- ⚗️ [Yate 6.13.0.1 音频文件标签小工具](https://xclient.info/s/yate.html) | Mon Jan 09 2023 2:33 AM 
     <details><summary>展开描述 ...</summary> 
-    Marked是一款用于实时预览多种类型的文档（markdown,html等）的实用工具，它有全套的自定义选项和预览样式，无论您使用任何编辑器修改并保存文档，都可以在Marked上实时看到最新的效果。 
+    Yate是一款Mac平台的音乐标签及管理工具，能够帮助我们轻松编辑音乐文件的元标签数据 
     </details> 
 
-- 🔥 [Task Office 8.8 多功能办公软件](https://xclient.info/s/task-office.html) | Thu Jan 05 2023 1:46 AM 
+- 🔥 [PowerPhotos 2.1.3 优秀的图片管理工具](https://xclient.info/s/powerphotos.html) | Mon Jan 09 2023 2:32 AM 
     <details><summary>展开描述 ...</summary> 
-    Task Office 是Mac平台上的一款办公软件，包含了GTD，做列表，项目和联系人管理的应用程序。旨在使商业计划、日程安排和做事更有效率。 
+    PowerPhotos 是一款Mac上优秀的图片管理工具，让你能够直接浏览图库，节省iCloud空间，并能够检测重复图片，让你快速删除多余的图片，简单易用。 
     </details> 
 
-- 🌋 [Allavsoft Video Downloader Converter 3.25.3.8403 视频下载工具](https://xclient.info/s/allavsoft-video-downloader-converter.html) | Thu Jan 05 2023 1:43 AM 
+- 🌋 [Multitouch 1.27.11 增强你的多点触控设备](https://xclient.info/s/multitouch.html) | Mon Jan 09 2023 2:31 AM 
     <details><summary>展开描述 ...</summary> 
-    Allavsoft Video Downloader Converter 是一款运行在macOS平台上的视频下载软件，支持任何视频文件格式的转换，支持在任何移动设备上脱机播放下载的视频。 
+    Multitouch 是Mac平台上的一款可以增强你的多点触控设备的应用，可以让你将一个自定义的动作绑定到一个特定的魔力轨迹板或魔术鼠标手势。 
     </details> 
 <!-- xclient:END -->
 
