@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [在一秒发送消息的时代，如何寄出一封手写信件](https://sspai.com/post/77691) | Sun Jan 08 2023 8:14 AM 
+- 👹 [派早报：联想发布多款新品、CES・派在现场等](https://sspai.com/post/77709) | Mon Jan 09 2023 12:40 AM 
+    <details><summary>展开描述 ...</summary> 
+    HTC 发布 HTC VIVE XR 精英套装，三星确认 Galaxy S23 系列的发布日期等&lt;a href=&quot;https://sspai.com/post/77709&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [在一秒发送消息的时代，如何寄出一封手写信件](https://sspai.com/post/77691) | Sun Jan 08 2023 8:14 AM 
     <details><summary>展开描述 ...</summary> 
     把思念和祝福拿在手里，才是它本来的价值所在吧。&lt;a href=&quot;https://sspai.com/post/77691&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [年度征文 | 为什么我们要减少阅读新闻](https://sspai.com/post/77426) | Sun Jan 08 2023 3:17 AM 
+- 🤭 [年度征文 | 为什么我们要减少阅读新闻](https://sspai.com/post/77426) | Sun Jan 08 2023 3:17 AM 
     <details><summary>展开描述 ...</summary> 
     编注：本文是少数派2022年度征文活动的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。今年我们采用了更加依赖用户反馈数据的奖金结算机制，充电、收藏和阅读量都将不同程度地影响文章的最终排 ...&lt;a href=&quot;https://sspai.com/post/77426&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [如何用 VOSviewer 和 BiblioShiny 快速梳理陌生领域的文献？](https://sspai.com/post/75738) | Sat Jan 07 2023 8:59 AM 
+- 🥸 [如何用 VOSviewer 和 BiblioShiny 快速梳理陌生领域的文献？](https://sspai.com/post/75738) | Sat Jan 07 2023 8:59 AM 
     <details><summary>展开描述 ...</summary> 
     VOSviewer 和 BiblioShiny 使用技巧分享&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/post/75738&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为付费栏目文章，出自&lt;a href=&quot;https://sspai.com/series/278&quot; target=&quot;_blank&quot;&gt;《经验卷轴：入门学术论文写作》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🥸 [年度征文 | 2022 年，在记录中感受混乱与秩序之美](https://sspai.com/post/77642) | Sat Jan 07 2023 3:32 AM 
+- 🙉 [年度征文 | 2022 年，在记录中感受混乱与秩序之美](https://sspai.com/post/77642) | Sat Jan 07 2023 3:32 AM 
     <details><summary>展开描述 ...</summary> 
     持续去记录，持续去思考，让我有幸观察到混乱与秩序之间的美。我的笔记体系，也在混乱与秩序之间，有机生长。&lt;a href=&quot;https://sspai.com/post/77642&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/77667) | Fri Jan 06 2023 10:15 AM 
-    <details><summary>展开描述 ...</summary> 
-    ☕️TL;DR近期佳作推荐：[动画]中国奇谭、[韩剧]黑暗荣耀、[电影]上帝的笔误、[电影]玛蒂尔达：音乐剧、[丹麦剧]哥本哈根牛仔、[美剧]星球大战：异等小队第二季、[电影]萍水相腐檐廊下、[电影] ...&lt;a href=&quot;https://sspai.com/post/77667&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
