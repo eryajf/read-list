@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [副系天赋点满的男孩一年，学做菜、减脂成功、摄影生活｜2022年终总结](https://juejin.cn/post/7186484704785203260) | Mon Jan 09 2023 3:12 AM 
+- 🤗 [微服务产品12月产品动态](https://juejin.cn/post/7186496250848477221) | Mon Jan 09 2023 3:56 AM 
     <details><summary>展开描述 ...</summary> 
-    青春的散场，男孩总是会慢慢的长大。从青涩到成熟的转变过程中，时间无疑是最大的助攻手。时间很长，人生会有很多故事。时间很短，属于你自己的精彩一刻转瞬即逝。 
+    12月动态 TSE 云原生 API 网关 【新功能】Kong 网关支持流量镜像，您可将线上流量镜像到测试环境进行请求分析。 
     </details> 
 
-- 🎡 [Kitex 泛化调用案例：基于 API 网关的支付开放平台](https://juejin.cn/post/7186482424753160253) | Mon Jan 09 2023 3:02 AM 
+- 🎡 [Next.js |  Jest + React testing library + Typescript 单元测试框架搭建及实现](https://juejin.cn/post/7186495635095289916) | Mon Jan 09 2023 3:53 AM 
     <details><summary>展开描述 ...</summary> 
-    使用了 CloudWeGo Kitex 和 Hertz 进行支付开放平台的业务演示，并着重实践了 Kitex 泛化调用的能力。 
+    单元测试和 E2E 测试作为前端项目健壮性的保障，虽然在许多团队可能并没有足够的能力和资源去实现很好的自动化测试，但基本的了解还是必不可少的。 
     </details> 
 
-- 🕯 [《隐私计算白皮书（2022年）》概览](https://juejin.cn/post/7186478493322969143) | Mon Jan 09 2023 2:47 AM 
+- 🕯 [（5）go-micro微服务domain层开发](https://juejin.cn/post/7186490052279533626) | Mon Jan 09 2023 3:32 AM 
     <details><summary>展开描述 ...</summary> 
-    2022年12月28日，由中国信息通信研究院、中国通信标准化协会指导，隐私计算联盟、中国通信标准化协会大数据技术标准推进委员会联合主办的“2022可信隐私计算峰会”在京召开。 
+    一 domain层介绍说明 domain层专注于数据库数据领域开发，我们把数据库相关操作全部写在domain层。 model层：数据表字段定义与开发 repository层：数据库数据CURD操作 s 
     </details> 
 
-- 🚀 [前端做AB实验的三种分流方式](https://juejin.cn/post/7186474147952721981) | Mon Jan 09 2023 2:31 AM 
+- 🚀 [ThreadLocal源码解析及实战应用](https://juejin.cn/post/7186489836042682425) | Mon Jan 09 2023 3:31 AM 
     <details><summary>展开描述 ...</summary> 
-    背景 为了验证一些想法是否真的有业务价值，往往需要做AB实验。 做AB实验，绕不过去的问题就是分流，分流方案：1. 接口分流 2. 投放侧分流 3. nginx层分流 
+    ThreadLocal是一个关于创建线程局部变量的类。 通常情况下，我们创建的变量是可以被任何一个线程访问并修改的。 
     </details> 
 
-- 💪 [为iframe正名，你可能并不需要微前端,【架构设计】你的应用该如何分层呢？| 酱酱的下午茶第149期](https://juejin.cn/post/7186471404559138853) | Mon Jan 09 2023 2:19 AM 
+- 💪 [VideoEditor优化方案](https://juejin.cn/post/7186488937286729765) | Mon Jan 09 2023 3:28 AM 
     <details><summary>展开描述 ...</summary> 
-    记一次SpringBoot启动优化实践研发协同利器：XState调研与应用，Flutter 绘制探索 | 操作坐标系范围，从0开始实现一个2022掘友年度报告，iOS 包体积优化4 - 资源管理 
+    最全的VideoEditor优化方案，绝对值得你收藏。短视频现在几乎是内容公司的标配了，VideoEditor作为视频生产的重要工具，现在各家公司都在自研，VideoEditor有哪些优化指标？ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
