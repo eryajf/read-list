@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [年度征文 | 写科普一年后的思考：如何更有效地传递知识](https://sspai.com/post/77655) | Mon Jan 09 2023 7:57 AM 
+- 👹 [派评 | 近期值得关注的 App](https://sspai.com/post/77722) | Mon Jan 09 2023 9:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/77722&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [年度征文 | 写科普一年后的思考：如何更有效地传递知识](https://sspai.com/post/77655) | Mon Jan 09 2023 7:57 AM 
     <details><summary>展开描述 ...</summary> 
     所以说，「多读多写多思考」真的有用吗？我以前是不信的。然而回顾过去一年多写科普的历程，这句话好像并不是毫无根据。&lt;a href=&quot;https://sspai.com/post/77655&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [城市漫步指南：香港，感受不一样的文化](https://sspai.com/post/77716) | Mon Jan 09 2023 6:29 AM 
+- 🤭 [城市漫步指南：香港，感受不一样的文化](https://sspai.com/post/77716) | Mon Jan 09 2023 6:29 AM 
     <details><summary>展开描述 ...</summary> 
     在香港你除了可以品尝各类美食美食，还可以感受截然不同的文化魅力。&lt;a href=&quot;https://sspai.com/post/77716&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [找 Android 应用的好去处：开源应用商店 F-Droid 使用指南](https://sspai.com/post/77601) | Mon Jan 09 2023 3:30 AM 
+- 🥸 [找 Android 应用的好去处：开源应用商店 F-Droid 使用指南](https://sspai.com/post/77601) | Mon Jan 09 2023 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     虽然在中文互联网环境的知名度并不高，但如果你想找开源、可靠的 Android 应用，F-Droid 依然是个好去处。&lt;a href=&quot;https://sspai.com/post/77601&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：联想发布多款新品、CES・派在现场等](https://sspai.com/post/77709) | Mon Jan 09 2023 12:40 AM 
+- 🙉 [派早报：联想发布多款新品、CES・派在现场等](https://sspai.com/post/77709) | Mon Jan 09 2023 12:40 AM 
     <details><summary>展开描述 ...</summary> 
     HTC 发布 HTC VIVE XR 精英套装，三星确认 Galaxy S23 系列的发布日期等&lt;a href=&quot;https://sspai.com/post/77709&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [在一秒发送消息的时代，如何寄出一封手写信件](https://sspai.com/post/77691) | Sun Jan 08 2023 8:14 AM 
-    <details><summary>展开描述 ...</summary> 
-    把思念和祝福拿在手里，才是它本来的价值所在吧。&lt;a href=&quot;https://sspai.com/post/77691&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
