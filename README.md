@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [虽然是我遇到的一个棘手的生产问题，但是我写出来之后，就是你的了。](https://juejin.cn/post/7186512174779465765) | Mon Jan 09 2023 4:59 AM 
+- 🤗 [从实例出发探查 Vue 中 key 的作用](https://juejin.cn/post/7186531683074572346) | Mon Jan 09 2023 6:14 AM 
     <details><summary>展开描述 ...</summary> 
-    前几天，就在大家还沉浸在等待春节到来的喜悦氛围的时候，在一个核心链路上的核心系统中，我踩到一个坑的一比的坑，要不是我沉着冷静，解决思路忙中有序，处理手段雷厉风行，把它给扼杀在萌芽阶段 
+    一提到 vue 中的 key，你会想到什么？使用`v-for`时需要使用 key ？key 不能重复？建议不要使用 index 来做key的值？这究竟是为什么呢？就下来我们就一起来通过实例来一探究竟. 
     </details> 
 
-- 🎡 [一站式云原生体验｜龙蜥云原生ACNS + Rainbond](https://juejin.cn/post/7186512174268252220) | Mon Jan 09 2023 4:59 AM 
+- 🎡 [Web3割韭菜的王牌“发币”到底是什么？教你基于ERC20开发发币DApp（涵盖前端、智能合约）](https://juejin.cn/post/7186527890732679224) | Mon Jan 09 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-    关于 ACNS 龙蜥云原生套件 OpenAnolis Cloud Native Suite（ACNS）是由龙蜥社区云原生 SIG 推出的基于 Kubernetes 发行版本为基础而集成的套件能力 
+    本文会讲解代币、ERC20 的基本概念，并完成一个包含智能合约、前端、测试、部署的完整 DApp 设计与实现。 非常适合 Web3 初学者朋友进行学习。 文中用到的一些主要的工具、框架及技术... 
     </details> 
 
-- 🕯 [【Redis 技术探索】「数据迁移实战」手把手教你如何实现在线 + 离线模式进行迁移 Redis 数据实战指南（scan模式迁移）](https://juejin.cn/post/7186509154259828795) | Mon Jan 09 2023 4:47 AM 
+- 🕯 [CSS &amp; SVG 绘制写作网格线的3种方式](https://juejin.cn/post/7186524908464111676) | Mon Jan 09 2023 5:49 AM 
     <details><summary>展开描述 ...</summary> 
-    在线数据迁移方式 对于大多数场景下的Redis的数据迁移，还是比较推荐大家参考我之前的前两篇文章。 【Redis 技术探索】「数据迁移实战」手把手教你如何实现在线 + 离线模式进行迁移 Redis 数 
+    最近有同事问我这样一个问题：需要绘制一个自适应文本的写作网格线，设计稿是这样的 其实就是一行行虚线，要求如下 虚线的纵向间隔要跟随行高自适应，确保文本在每一栏虚线上 虚线后面的背景是动态的，可以是纯色 
     </details> 
 
-- 🚀 [微服务产品12月产品动态](https://juejin.cn/post/7186496250848477221) | Mon Jan 09 2023 3:56 AM 
+- 🚀 [加速几十倍 git clone 速度的 --depth 1，它的后遗症怎么解决？](https://juejin.cn/post/7186524005371740215) | Mon Jan 09 2023 5:44 AM 
     <details><summary>展开描述 ...</summary> 
-    12月动态 TSE 云原生 API 网关 【新功能】Kong 网关支持流量镜像，您可将线上流量镜像到测试环境进行请求分析。 
+    我们经常会用 git clone 来下载项目，但遇到大项目的时候，clone 就很慢，比如 react： 要等很久。 当然，还有更慢的项目。 这类项目可以通过 --depth 1 来加速： 这速度快了 
     </details> 
 
-- 💪 [Next.js |  Jest + React testing library + Typescript 单元测试框架搭建及实现](https://juejin.cn/post/7186495635095289916) | Mon Jan 09 2023 3:53 AM 
+- 💪 [源码分析：vite是如何解析.env文件的？](https://juejin.cn/post/7186523141659689015) | Mon Jan 09 2023 5:44 AM 
     <details><summary>展开描述 ...</summary> 
-    单元测试和 E2E 测试作为前端项目健壮性的保障，虽然在许多团队可能并没有足够的能力和资源去实现很好的自动化测试，但基本的了解还是必不可少的。 
+    第一，vite如何读取.env文件中定义的配置；第二，vite如何将.env文件中配置的环境变量挂载到import.meta.env环境变量上的。通过学习今天vite中的相关源代码我们就能够明白。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
