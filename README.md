@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [从实例出发探查 Vue 中 key 的作用](https://juejin.cn/post/7186531683074572346) | Mon Jan 09 2023 6:14 AM 
+- 🤗 [消息队列产品12月产品动态](https://juejin.cn/post/7186544217047924793) | Mon Jan 09 2023 7:03 AM 
     <details><summary>展开描述 ...</summary> 
-    一提到 vue 中的 key，你会想到什么？使用`v-for`时需要使用 key ？key 不能重复？建议不要使用 index 来做key的值？这究竟是为什么呢？就下来我们就一起来通过实例来一探究竟. 
+    12月动态 消息队列 CKafka 版 【商业化】国内站专业版支持按小时后付费。 消息队列 RocketMQ 版 【商业化】虚拟集群正式商业化。 
     </details> 
 
-- 🎡 [Web3割韭菜的王牌“发币”到底是什么？教你基于ERC20开发发币DApp（涵盖前端、智能合约）](https://juejin.cn/post/7186527890732679224) | Mon Jan 09 2023 6:00 AM 
+- 🎡 [物以类聚人以群分,通过GensimLda文本聚类构建人工智能个性化推荐系统&lpar;Python3.10&rpar;](https://juejin.cn/post/7186544151826006076) | Mon Jan 09 2023 7:02 AM 
     <details><summary>展开描述 ...</summary> 
-    本文会讲解代币、ERC20 的基本概念，并完成一个包含智能合约、前端、测试、部署的完整 DApp 设计与实现。 非常适合 Web3 初学者朋友进行学习。 文中用到的一些主要的工具、框架及技术... 
+    众所周知，个性化推荐系统能够根据用户的兴趣、偏好等信息向用户推荐相关内容，使得用户更感兴趣，从而提升用户体验，提高用户粘度，之前我们曾经使用协同过滤算法构建过个性化推荐系统，但基于显式反馈的算法就会有 
     </details> 
 
-- 🕯 [CSS &amp; SVG 绘制写作网格线的3种方式](https://juejin.cn/post/7186524908464111676) | Mon Jan 09 2023 5:49 AM 
+- 🕯 [「年终总结」技术博主第一次做视频直播，没想到竟然会这样...](https://juejin.cn/post/7186541082442727483) | Mon Jan 09 2023 6:50 AM 
     <details><summary>展开描述 ...</summary> 
-    最近有同事问我这样一个问题：需要绘制一个自适应文本的写作网格线，设计稿是这样的 其实就是一行行虚线，要求如下 虚线的纵向间隔要跟随行高自适应，确保文本在每一栏虚线上 虚线后面的背景是动态的，可以是纯色 
+    没想到第一次开直播有这么多人看，新的一年立个FLAG，成为10万+粉丝技术博主。掘金统计到我去年帮助了52.52位开发者成长。但是直播和写作真的是两回事。 
     </details> 
 
-- 🚀 [加速几十倍 git clone 速度的 --depth 1，它的后遗症怎么解决？](https://juejin.cn/post/7186524005371740215) | Mon Jan 09 2023 5:44 AM 
+- 🚀 [聊聊Spring中的@Autowired注解](https://juejin.cn/post/7186539152630874149) | Mon Jan 09 2023 6:42 AM 
     <details><summary>展开描述 ...</summary> 
-    我们经常会用 git clone 来下载项目，但遇到大项目的时候，clone 就很慢，比如 react： 要等很久。 当然，还有更慢的项目。 这类项目可以通过 --depth 1 来加速： 这速度快了 
+    大家好，我是Spring作者Juergen Hoeller中的Hoeller。 今天来跟大家聊聊简单聊聊@Autowired，Autowired翻译过来为自动装配，也就是自动给Bean对象的属性赋值。 
     </details> 
 
-- 💪 [源码分析：vite是如何解析.env文件的？](https://juejin.cn/post/7186523141659689015) | Mon Jan 09 2023 5:44 AM 
+- 💪 [社交场景下iOS消息流交互层实践](https://juejin.cn/post/7186535370136715301) | Mon Jan 09 2023 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-    第一，vite如何读取.env文件中定义的配置；第二，vite如何将.env文件中配置的环境变量挂载到import.meta.env环境变量上的。通过学习今天vite中的相关源代码我们就能够明白。 
+    一款社交产品的诞生，离不开即时通讯（IM）场景。本文主要介绍如何构建一套通用的消息流交互层方案，适应多个业务不同IM场景需要。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
