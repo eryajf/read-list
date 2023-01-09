@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【兔年创意投稿】兔兔的奇妙之旅（六）神秘的汇编王国](https://juejin.cn/post/7186598253553532987) | Mon Jan 09 2023 10:37 AM 
+- 🤗 [前端食堂技术周刊第 66 期：2022 JS Rising Stars、Lightning CSS、年度最受欢迎文章](https://juejin.cn/post/7186611343749808183) | Mon Jan 09 2023 11:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    - 2022 JavaScript Rising Stars - Lightning CSS 支持编写 JS 插件 - React Native 对 TypeScript 的一流支持 
+    </details> 
+
+- 🎡 [Qwik-前端性能的终极方案？](https://juejin.cn/entry/7186604652358533180) | Mon Jan 09 2023 10:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    Qwik 是一个前端框架，语法类似 React 使用 JSX 和 Hooks，不过是全栈SSR框架，而且采用了一系列策略优化页面的首屏性能，做的无论应用体积多大，首屏性能基本都能达到满分。 
+    </details> 
+
+- 🕯 [聊聊降本提效这件事儿](https://juejin.cn/post/7186602082471215160) | Mon Jan 09 2023 10:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    今天数字化的生产与生活方式成为后疫情时代的新常态，云计算也已经成为社会的数字化基础设施。如何利用云原生技术帮助企业实现降本增效是很多 IT 管理者和开发者关注的话题。 
+    </details> 
+
+- 🚀 [【兔年创意投稿】兔兔的奇妙之旅（六）神秘的汇编王国](https://juejin.cn/post/7186598253553532987) | Mon Jan 09 2023 10:37 AM 
     <details><summary>展开描述 ...</summary> 
     书接上回。 初识只觉理论枯燥 为了让突突和达达快速入门操作系统，湘湘（黑箱兔的真名）拿着一本《现代操作系统》，找了块小黑板和笔，摇头晃脑地念了起来。 “进程是操作系统中最核心的概念，是对正在运行中的程 
     </details> 
 
-- 🎡 [20分钟带你入门Nuxt3](https://juejin.cn/post/7186596767591301177) | Mon Jan 09 2023 10:31 AM 
+- 💪 [20分钟带你入门Nuxt3](https://juejin.cn/post/7186596767591301177) | Mon Jan 09 2023 10:31 AM 
     <details><summary>展开描述 ...</summary> 
     混合式Vue 框架. 使用Vue 3 构建您的下一个应用，体验混合渲染、强大的数据获取和新功能。 Nuxt 3 是一个开源框架，使Web 开发变得简单而强大。 
-    </details> 
-
-- 🕯 [Van♂Python | 🐐又写了一个Markdown转换工具](https://juejin.cn/post/7186595348310622245) | Mon Jan 09 2023 10:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    🤡年前活不多，划着水把之前想写的小工具给写了，支持Markdown本地化 &lpar;图片下载到本地并自动替换原链接&rpar;，妈妈再也不用担心图片失效的问题了，搭配Chrome插件MarkDownload食用更佳~ 
-    </details> 
-
-- 🚀 [mongo 6.0 Mac版本安装配置](https://juejin.cn/post/7186587887985492028) | Mon Jan 09 2023 9:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    我是河畔一角，慕课网讲师，今天只是记录一个学生对于MongoDB6.0安装失败后的记录，并提供了最新的操作流程，如果此时你也在使用MongoDB6.0，希望能够对你有所参考。 
-    </details> 
-
-- 💪 [有什么好用的云渲染平台？如何选择？](https://juejin.cn/post/7186584325561778232) | Mon Jan 09 2023 9:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    国内云渲染公司种类繁多，有什么好用的云渲染？该如何选择好用的云渲染服务平台呢？首先，我们选择云渲染平台，就是想要借助于他们的渲染节点，说实话，就是买算力，所以要选择渲染节点资源充足，有硬件实力.... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
