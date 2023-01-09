@@ -398,11 +398,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [地球在自转，为什么看不到星空转动？](https://daily.zhihu.com/story/9756947) | Sun Jan 08 2023 12:27 AM
-- 🐻 [中国首次发现月球新矿物，命名「嫦娥石」，对中国探月工程具有什么重大意义？](https://daily.zhihu.com/story/9756953) | Sun Jan 08 2023 12:27 AM
-- 🌏 [方便面为什么是波浪形的？](https://daily.zhihu.com/story/9756958) | Sun Jan 08 2023 12:27 AM
-- 🕴 [听什么歌可以止痛？音乐是如何影响我们的大脑和身体的？](https://daily.zhihu.com/story/9756960) | Sun Jan 08 2023 12:27 AM
-- 🌮 [煮饺子为什么要多次加水？](https://daily.zhihu.com/story/9756962) | Sun Jan 08 2023 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9757008) | Mon Jan 09 2023 12:27 AM
+- 🐻 [如果被一只蚊子咬到了大动脉会发生什么？](https://daily.zhihu.com/story/9756974) | Mon Jan 09 2023 12:27 AM
+- 🌏 [如何跟孩子解释「为什么给黑洞拍照这么难？为什么要给黑洞拍照？」?](https://daily.zhihu.com/story/9756977) | Mon Jan 09 2023 12:27 AM
+- 🕴 [为什么绝大多数小说、动画和电影在描写永生时都说是痛苦的？](https://daily.zhihu.com/story/9756986) | Mon Jan 09 2023 12:27 AM
+- 🌮 [古代屠城是每个人都要找出来处死吗？](https://daily.zhihu.com/story/9757000) | Mon Jan 09 2023 12:27 AM<!-- zhihu:END -->
 
 
 ## 应用资源
