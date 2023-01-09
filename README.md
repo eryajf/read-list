@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [前端食堂技术周刊第 66 期：2022 JS Rising Stars、Lightning CSS、年度最受欢迎文章](https://juejin.cn/post/7186611343749808183) | Mon Jan 09 2023 11:25 AM 
+- 🤗 [Element Plus 组件库相关技术揭秘：10. CSS 系统颜色和暗黑模式的关系及意义](https://juejin.cn/post/7186683381470462007) | Mon Jan 09 2023 4:02 PM 
     <details><summary>展开描述 ...</summary> 
-    - 2022 JavaScript Rising Stars - Lightning CSS 支持编写 JS 插件 - React Native 对 TypeScript 的一流支持 
+    什么是CSS系统颜色，什么是暗黑模式，以及怎么设置暗黑模式，如何通过 CSS 变量实现一键换肤，从而理解CSS系统颜色和暗黑模式的关系及意义。 
     </details> 
 
-- 🎡 [Qwik-前端性能的终极方案？](https://juejin.cn/entry/7186604652358533180) | Mon Jan 09 2023 10:56 AM 
+- 🎡 [由浅入深，详解 ViewModel 的那些事](https://juejin.cn/post/7186680109384859706) | Mon Jan 09 2023 3:54 PM 
     <details><summary>展开描述 ...</summary> 
-    Qwik 是一个前端框架，语法类似 React 使用 JSX 和 Hooks，不过是全栈SSR框架，而且采用了一系列策略优化页面的首屏性能，做的无论应用体积多大，首屏性能基本都能达到满分。 
+    ViewModel作为JetPack的组件之一，其本身承担着不可或缺的作用，而了解其设计思想也是每个开发必备技能。故本篇将从背景与使用方式开始，再到源码解析，由浅入深，详解ViewModel方方面面。 
     </details> 
 
-- 🕯 [聊聊降本提效这件事儿](https://juejin.cn/post/7186602082471215160) | Mon Jan 09 2023 10:47 AM 
+- 🕯 [[码上掘金]Go 实现有规律的数字版本号的排序工具](https://juejin.cn/post/7186676435912753210) | Mon Jan 09 2023 3:35 PM 
     <details><summary>展开描述 ...</summary> 
-    今天数字化的生产与生活方式成为后疫情时代的新常态，云计算也已经成为社会的数字化基础设施。如何利用云原生技术帮助企业实现降本增效是很多 IT 管理者和开发者关注的话题。 
+    我正在参加「码上掘金迎新年」编程比赛。哈喽大家好，我是陈明勇，本文介绍的内容是有规律的数字版本号的排序工具的创作解读。如果本文对你有帮助，不妨点个赞。 
     </details> 
 
-- 🚀 [【兔年创意投稿】兔兔的奇妙之旅（六）神秘的汇编王国](https://juejin.cn/post/7186598253553532987) | Mon Jan 09 2023 10:37 AM 
+- 🚀 [从一个迷你 todo 命令行入门 Rust](https://juejin.cn/post/7186665177704726588) | Mon Jan 09 2023 2:52 PM 
     <details><summary>展开描述 ...</summary> 
-    书接上回。 初识只觉理论枯燥 为了让突突和达达快速入门操作系统，湘湘（黑箱兔的真名）拿着一本《现代操作系统》，找了块小黑板和笔，摇头晃脑地念了起来。 “进程是操作系统中最核心的概念，是对正在运行中的程 
+    一个迷你 todo 应用 该文章将使用 Rust 从零去做一个入门级别的 TODO 命令行应用 你将学会什么？ 基本的命令行操作 文件读写和文件结构组织 
     </details> 
 
-- 💪 [20分钟带你入门Nuxt3](https://juejin.cn/post/7186596767591301177) | Mon Jan 09 2023 10:31 AM 
+- 💪 [其实是你的现状，决定别人怎么对你](https://juejin.cn/post/7186661862209388604) | Mon Jan 09 2023 2:39 PM 
     <details><summary>展开描述 ...</summary> 
-    混合式Vue 框架. 使用Vue 3 构建您的下一个应用，体验混合渲染、强大的数据获取和新功能。 Nuxt 3 是一个开源框架，使Web 开发变得简单而强大。 
+    其实，别人，爱你恨你，帮你害你，敬仰你或者鄙视你，同他们的品行关系不是很大。多数同你的现状有很大关系。你的现状，决定别人对你的态度，思考方式，乃至未来规划。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
