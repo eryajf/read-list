@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [如何抓包/代理node服务的request](https://juejin.cn/post/7186824867437051961) | Tue Jan 10 2023 1:11 AM 
+- 🤗 [ElasticSearch必知必会-基础篇](https://juejin.cn/post/7186847635284688956) | Tue Jan 10 2023 2:39 AM 
     <details><summary>展开描述 ...</summary> 
-    当我们开发node服务，或SSR项目时，我们经常需要调下游接口。在开发过程中，下游接口会先部署到测试环境，我们访问下游测试环境时需要给请求增加请求头。我们通过抓包的方式，很容易给请求增加请求头 
+    索引是相同文档结构（Mapping）文档的结合，由唯一索引名称标定，一个集群中有多个索引，不同的索引代表不同的业务类型数据。 
     </details> 
 
-- 🎡 [稳定性建设之监控告警](https://juejin.cn/post/7186824043067080761) | Tue Jan 10 2023 1:08 AM 
+- 🎡 [pnpm技术体系之：高性能包管理工具](https://juejin.cn/post/7186846208898367547) | Tue Jan 10 2023 2:34 AM 
     <details><summary>展开描述 ...</summary> 
-    背景（监控告警的重要性） 监控告警是稳定性建设的重要一环，原因有以下： 真实用户的浏览器环境多种多样，我们需要有监控线上真实用户异常的能力。 比如：js错误数过多，影响用户数过多 项目 
+    pnpm 是 performant npm（高性能的 npm），它是一款快速的，节省磁盘空间的包管理工具，同时，它也较好地支持了 workspace 和 monorepos。 
     </details> 
 
-- 🕯 [浅淡电子标书加解密那些事V1](https://juejin.cn/post/7186806557542187065) | Tue Jan 10 2023 12:04 AM 
+- 🕯 [QQ浏览器是如何提升搜索相关性的？](https://juejin.cn/post/7186845333442265146) | Tue Jan 10 2023 2:31 AM 
     <details><summary>展开描述 ...</summary> 
-    前引 事件 1： 很久以前，和一位做工程投标的朋友聊天，不经意间，朋友和我谈起，投标工作压力很大，曾经就碰到过因为 CA 驱动安装的问题，导致解密超时进而失去评标资格，至今难以忘怀，并告之我，现在电子 
+    导言 | 搜索相关性主要指衡量Query和Doc的匹配程度，是信息检索的核心基础任务之一，也是商业搜索引擎的体验优劣最朴素的评价维度之一。本文作者刘杰主要介绍QQ浏览器搜索相关性团队在相关性系统及算法 
     </details> 
 
-- 🚀 [LogicFlow自定义业务节点](https://juejin.cn/post/7186800549293981753) | Mon Jan 09 2023 11:42 PM 
+- 🚀 [甩掉容量规划炸弹：用 AHPA 实现 Kubernetes 智能弹性伸缩](https://juejin.cn/post/7186845505735884837) | Tue Jan 10 2023 2:31 AM 
     <details><summary>展开描述 ...</summary> 
-    LogicFlow 是一款流程图编辑框架，提供了一系列流程图交互、编辑所必需的功能和灵活的节点自定义、插件等拓展机制。LogicFlow支持前端研发自定义开发各种逻辑编排场景，如流程图、ER图、BPM 
+    我们提出了一种智能化弹性伸缩方案 AHPA，可以根据历史时序数据进行主动预测，提前扩容，避免弹性滞后。同时，会根据实时数据动态调整主动预测结果，兼容周期变动等场景。 
     </details> 
 
-- 💪 [[新晋开源项目] EasyTrans，一个注解搞定数据翻译,减少30%SQL代码量](https://juejin.cn/post/7186791902618845242) | Mon Jan 09 2023 11:19 PM 
+- 💪 [（6）go-micro微服务consul配置、注册中心](https://juejin.cn/post/7186844220643098661) | Tue Jan 10 2023 2:27 AM 
     <details><summary>展开描述 ...</summary> 
-    [新晋开源项目] EasyTrans，一个注解搞定数据翻译,减少30%SQL代码量。缓存支持，跨微服务翻译支持&lpar;User和Order 是2个不同微服务。 
+    一 Consul介绍 Consul是HashiCorp公司推出的开源工具，用于实现分布式系统的服务发现与配置。 Consul是分布式的、高可用的、可横向扩展的。 1. 注册中心Consul基本介绍 C 
     </details> 
 <!-- juejin:END -->
 ### 少数派
