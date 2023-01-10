@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [spotify音乐墙助手 - 生成漂亮的spotify封面](https://xinquji.com/posts/792701?utm_campaign=xinquji-rss) | Tue Jan 10 2023 10:19 AM 
+- 👀 [QiReader - 全平台 RSS 阅读器](https://xinquji.com/posts/792702?utm_campaign=xinquji-rss) | Wed Jan 11 2023 10:11 AM 
+    <details><summary>展开描述 ...</summary> 
+     全平台 RSS 阅读器  
+    </details> 
+
+- 🥷 [spotify音乐墙助手 - 生成漂亮的spotify封面](https://xinquji.com/posts/792701?utm_campaign=xinquji-rss) | Tue Jan 10 2023 10:19 AM 
     <details><summary>展开描述 ...</summary> 
      生成漂亮的spotify封面  
     </details> 
 
-- 🥷 [搜索神器 - 一个简洁、美观、实用的浏览器](https://xinquji.com/posts/792676?utm_campaign=xinquji-rss) | Tue Jan 10 2023 10:19 AM 
+- 💼 [搜索神器 - 一个简洁、美观、实用的浏览器](https://xinquji.com/posts/792676?utm_campaign=xinquji-rss) | Tue Jan 10 2023 10:19 AM 
     <details><summary>展开描述 ...</summary> 
      一个简洁、美观、实用的浏览器  
     </details> 
 
-- 💼 [re:tune - GPT-3 缺少的前端](https://xinquji.com/posts/792790?utm_campaign=xinquji-rss) | Tue Jan 10 2023 6:00 AM 
+- 🦅 [re:tune - GPT-3 缺少的前端](https://xinquji.com/posts/792790?utm_campaign=xinquji-rss) | Tue Jan 10 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
      GPT-3 缺少的前端  
     </details> 
 
-- 🦅 [NaurePic4Free - 免费的自然照片](https://xinquji.com/posts/792789?utm_campaign=xinquji-rss) | Tue Jan 10 2023 6:00 AM 
+- 😺 [NaurePic4Free - 免费的自然照片](https://xinquji.com/posts/792789?utm_campaign=xinquji-rss) | Tue Jan 10 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
      免费的自然照片  
-    </details> 
-
-- 😺 [Nova A.I. - 人工智能驱动的在线视频编辑平台](https://xinquji.com/posts/792788?utm_campaign=xinquji-rss) | Tue Jan 10 2023 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     人工智能驱动的在线视频编辑平台  
     </details> 
 <!-- xinquji:END -->
