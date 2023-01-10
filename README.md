@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [第152期：flutter中的网络请求](https://juejin.cn/post/7186976318595006524) | Tue Jan 10 2023 11:01 AM 
+- 🤗 [DDOS攻击](https://juejin.cn/post/7186995347003015224) | Tue Jan 10 2023 12:17 PM 
+    <details><summary>展开描述 ...</summary> 
+    最近网上爆火的一款游戏 Goose Goose Duck &lpar;鹅鸭杀&rpar; 游戏官方在近日发布了一则公告，宣布由于服务器屡次遭受黑客攻击，该游戏服务器将暂时关服三天进行维护 遭到了DDOS攻击，背后原因，我 
+    </details> 
+
+- 🎡 [flutter：如何优雅的实现扫码枪获取数据源](https://juejin.cn/post/7186991958638723132) | Tue Jan 10 2023 12:01 PM 
+    <details><summary>展开描述 ...</summary> 
+    通过 mixin 重载 flutterWidgetBinding , 实现 flutter 通用版扫码枪方案。处理扫码枪唤起键盘痛点。 
+    </details> 
+
+- 🕯 [TypeScript 新语法 satisfies：用声明还是用推导？这是个问题](https://juejin.cn/post/7186991340347981882) | Tue Jan 10 2023 11:57 AM 
+    <details><summary>展开描述 ...</summary> 
+    用了 TypeScript 之后，我们就可以声明类型，然后给 js 变量加上这个类型。 比如这样： 就有类型提示了： 也会做类型检查： 但也不是所有的变量都要手动声明类型，因为 ts 会做自动类型推导 
+    </details> 
+
+- 🚀 [第152期：flutter中的网络请求](https://juejin.cn/post/7186976318595006524) | Tue Jan 10 2023 11:01 AM 
     <details><summary>展开描述 ...</summary> 
     ### 封面图 ![image.png]&lpar;https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/8248b0a25727452ab2c85f8666785 
     </details> 
 
-- 🎡 [response body 加密了怎么办？ 来 破解它](https://juejin.cn/post/7186975801164693561) | Tue Jan 10 2023 10:58 AM 
+- 💪 [response body 加密了怎么办？ 来 破解它](https://juejin.cn/post/7186975801164693561) | Tue Jan 10 2023 10:58 AM 
     <details><summary>展开描述 ...</summary> 
     最近听了一个web安全的分享，其中提到了响应加密，我去看了下是怎么实现的，于是就有了这篇文章。 见过账号密码加密、参数加密，还没见过响应体加密吧？ 
-    </details> 
-
-- 🕯 [Docker安装部署Redis数据库](https://juejin.cn/post/7186975485212622908) | Tue Jan 10 2023 10:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    通过Docker部署Redis，比起我们自己编译安装的方式，会更加方便容易管理。今天就来简单分享一下使用Docker部署Redis数据库。 
-    </details> 
-
-- 🚀 [Java程序员用代码，计算最大公约数和最小公倍数](https://juejin.cn/post/7186970123826102329) | Tue Jan 10 2023 10:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    这么想你肯定是没有好好阅读前面章节中小傅哥讲到的RSA算法，对于与欧拉结果计算的互为质数的公钥e，其实就需要使用到辗转相除法来计算出最大公约数。 
-    </details> 
-
-- 💪 [2023兔年，给大家送个新春贺卡](https://juejin.cn/post/7186967855290646584) | Tue Jan 10 2023 10:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    我正在参加「兔了个兔」创意投稿大赛，详情请看：「兔了个兔」创意投稿大赛 前言 时间过得真快，2023年了，一下子又老了一岁，在这里祝大家2023新年快乐。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
