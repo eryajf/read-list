@@ -398,11 +398,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9757008) | Mon Jan 09 2023 12:27 AM
-- 🐻 [如果被一只蚊子咬到了大动脉会发生什么？](https://daily.zhihu.com/story/9756974) | Mon Jan 09 2023 12:27 AM
-- 🌏 [如何跟孩子解释「为什么给黑洞拍照这么难？为什么要给黑洞拍照？」?](https://daily.zhihu.com/story/9756977) | Mon Jan 09 2023 12:27 AM
-- 🕴 [为什么绝大多数小说、动画和电影在描写永生时都说是痛苦的？](https://daily.zhihu.com/story/9756986) | Mon Jan 09 2023 12:27 AM
-- 🌮 [古代屠城是每个人都要找出来处死吗？](https://daily.zhihu.com/story/9757000) | Mon Jan 09 2023 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯·如何正确地吐槽](https://daily.zhihu.com/story/9757027) | Tue Jan 10 2023 12:27 AM
+- 🐻 [人类进化这么长的时间，进化出了什么攻击性器官?](https://daily.zhihu.com/story/9757011) | Tue Jan 10 2023 12:27 AM
+- 🌏 [有哪些各国语言中无法被翻译出来妙不可言的单词？](https://daily.zhihu.com/story/9757012) | Tue Jan 10 2023 12:27 AM
+- 🕴 [地球表面温度降到多少才能把海洋里的水全冻成冰？](https://daily.zhihu.com/story/9757013) | Tue Jan 10 2023 12:27 AM
+- 🌮 [推理小说一般可以分为几个流派？各自有什么特点和区别？](https://daily.zhihu.com/story/9757020) | Tue Jan 10 2023 12:27 AM<!-- zhihu:END -->
 
 
 ## 应用资源
