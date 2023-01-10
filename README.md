@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [2022年我国网络安全法规一览 | FreeBuf年度盘点](https://www.freebuf.com/articles/neopoints/354719.html) | Mon Jan 09 2023 7:17 AM 
+- 🦄 [2022年我国网络安全法规一览 | FreeBuf年度盘点](https://www.freebuf.com/articles/neopoints/354719.html) | Tue Jan 10 2023 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     本文带大家看看2022年网络安全行业都出台了哪些法律、法规、条例、指导意见。 
     </details> 
 
-- 🦄 [法航和荷航部分客户个人信息被盗](https://www.freebuf.com/news/354694.html) | Mon Jan 09 2023 3:52 AM 
+- 🦄 [FreeBuf早报 | 高通骁龙漏洞影响联想等设备；俄黑客组织攻击美国核实验室](https://www.freebuf.com/news/354753.html) | Mon Jan 09 2023 1:47 PM 
+    <details><summary>展开描述 ...</summary> 
+    数字政府数据安全建设中，引入了很多新技术、新模式、新体系。 
+    </details> 
+
+- 🦅 [法航和荷航部分客户个人信息被盗](https://www.freebuf.com/news/354694.html) | Mon Jan 09 2023 3:52 AM 
     <details><summary>展开描述 ...</summary> 
     法航和荷航已经通知“蓝天飞行”的旅客，他们的一些个人信息可能暴露了。 
     </details> 
 
-- 🦅 [英国多所学校数据遭大规模泄露，教育行业成勒索软件的主目标](https://www.freebuf.com/news/354692.html) | Mon Jan 09 2023 3:28 AM 
+- 🪄 [英国多所学校数据遭大规模泄露，教育行业成勒索软件的主目标](https://www.freebuf.com/news/354692.html) | Mon Jan 09 2023 3:28 AM 
     <details><summary>展开描述 ...</summary> 
     在 2022 年发生高校攻击事件后，来自 14 所英国学校的数据被黑客在线泄露。 
     </details> 
 
-- 🪄 [《网络安全标准实践指南—车外画面局部轮廓化处理效果验证（征求意见稿）》发布](https://www.freebuf.com/news/354687.html) | Mon Jan 09 2023 3:00 AM 
+- 💻 [《网络安全标准实践指南—车外画面局部轮廓化处理效果验证（征求意见稿）》发布](https://www.freebuf.com/news/354687.html) | Mon Jan 09 2023 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     《指南》给出了验证车外画面进行人脸、车牌局部轮廓化处理效果的流程、方法及验证标准。 
-    </details> 
-
-- 💻 [FreeBuf X 极验 | 《2022年度虚假流量白皮书》重磅发布](https://www.freebuf.com/articles/neopoints/354604.html) | Fri Jan 06 2023 11:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    后疫情时代，随着各行业线下业务与线上业务的深度结合转型，流量思维的增量导向逐渐转向降本增效。 
     </details> 
 <!-- freebuf:END -->
 
