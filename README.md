@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [JavaScript with 为什么不推荐使用，其它语言如 Kotlin with 不是用得正酣吗](https://www.v2ex.com/t/907766#reply2) | Mon Jan 09 2023 8:06 PM
-- 🤗 [新手最近在学习 Go，学习的时候有个小问题这几天我一直觉得很困扰。。求助一下大佬们](https://www.v2ex.com/t/907760#reply2) | Mon Jan 09 2023 4:44 PM
-- 🎭 [Java 导出 word 解决方案](https://www.v2ex.com/t/907743#reply13) | Mon Jan 09 2023 3:16 PM
-- 🥷 [CI CD -&gt; Git 分支管理](https://www.v2ex.com/t/907742#reply2) | Mon Jan 09 2023 3:12 PM
-- 🐵 [Java 和 Python 抉择](https://www.v2ex.com/t/907740#reply12) | Mon Jan 09 2023 2:54 PM<!-- v2ex:END -->
+- 🥸 [数据开发中如何进行复用？](https://www.v2ex.com/t/907788#reply0) | Tue Jan 10 2023 1:18 AM
+- 🤗 [JavaScript with 为什么不推荐使用，其它语言如 Kotlin with 不是用得正酣吗](https://www.v2ex.com/t/907766#reply7) | Mon Jan 09 2023 8:06 PM
+- 🎭 [新手最近在学习 Go，学习的时候有个小问题这几天我一直觉得很困扰。。求助一下大佬们](https://www.v2ex.com/t/907760#reply4) | Mon Jan 09 2023 4:44 PM
+- 🥷 [Java 导出 word 解决方案](https://www.v2ex.com/t/907743#reply16) | Mon Jan 09 2023 3:16 PM
+- 🐵 [CI CD -&gt; Git 分支管理](https://www.v2ex.com/t/907742#reply4) | Mon Jan 09 2023 3:12 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
