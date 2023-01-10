@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [春节将至，归乡路上用它拨开「世界迷雾」](https://sspai.com/post/77676) | Tue Jan 10 2023 8:12 AM 
+- 👹 [一份价格，双份收货 | 年底小目标：彻底搞定 PPT，兔年解放你自己](https://sspai.com/post/77734) | Tue Jan 10 2023 10:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    📬省流公告板春节活动时间：即日起至2023年1月29日一份价格，双份收货：少数派联合电子工业出版社推出PPTer效率礼包：79元栏目《生产力超频：科学做好PPT的三个步骤》+79.9元纸质图书《揭秘P ...&lt;a href=&quot;https://sspai.com/post/77734&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [春节将至，归乡路上用它拨开「世界迷雾」](https://sspai.com/post/77676) | Tue Jan 10 2023 8:12 AM 
     <details><summary>展开描述 ...</summary> 
     时隔 5 年之久，老牌的记录足迹应用《世界迷雾》迎来了大版本更新。世界迷雾 3.0 版本主要带来的变化，是 UI 界面的更新：新增了导航栏，重新设计「地图相机」，应用内的地图、护照、徽章等板块以更加现代化的方式展示。&lt;a href=&quot;https://sspai.com/post/77676&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [听歌，我们是认真的：一首歌的创作笔记](https://sspai.com/post/77695) | Tue Jan 10 2023 7:04 AM 
+- 🤭 [听歌，我们是认真的：一首歌的创作笔记](https://sspai.com/post/77695) | Tue Jan 10 2023 7:04 AM 
     <details><summary>展开描述 ...</summary> 
     每个人都有自己听歌的方式，有自己喜欢的音乐类型……所有的音乐诉求，到最后无非就是「感动」二字。&lt;a href=&quot;https://sspai.com/post/77695&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [在充满套路的「极速版」赚钱 App 上，我们能赚多少钱？](https://sspai.com/post/77705) | Tue Jan 10 2023 3:09 AM 
+- 🥸 [在充满套路的「极速版」赚钱 App 上，我们能赚多少钱？](https://sspai.com/post/77705) | Tue Jan 10 2023 3:09 AM 
     <details><summary>展开描述 ...</summary> 
     钱是个好东西，谁不想赚呢？&lt;a href=&quot;https://sspai.com/post/77705&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：腾讯游戏发布限玩日历，Steam 同时在线人数破千万等](https://sspai.com/post/77735) | Tue Jan 10 2023 1:05 AM 
+- 🙉 [派早报：腾讯游戏发布限玩日历，Steam 同时在线人数破千万等](https://sspai.com/post/77735) | Tue Jan 10 2023 1:05 AM 
     <details><summary>展开描述 ...</summary> 
     BlackBerry 宣布在汽车软件开发中支持 Rust 语言，Intel 发布全新 U300 系列处理器等。&lt;a href=&quot;https://sspai.com/post/77735&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派评 | 近期值得关注的 App](https://sspai.com/post/77722) | Mon Jan 09 2023 9:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/77722&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
