@@ -336,7 +336,7 @@
 - 🤗 [一种新的 Magisk 安装方法，免 ROM 解包，不需要 TWRP，还有点 NTR](https://www.v2ex.com/t/908038#reply10) | Tue Jan 10 2023 3:23 PM
 - 🎭 [Google maps 无法定位](https://www.v2ex.com/t/908036#reply3) | Tue Jan 10 2023 3:14 PM
 - 🥷 [ygc 一秒一次，一次停顿 15m 左右正常么](https://www.v2ex.com/t/908035#reply5) | Tue Jan 10 2023 2:56 PM
-- 🐵 [windows 装 NAS 该用什么软件？](https://www.v2ex.com/t/908034#reply6) | Tue Jan 10 2023 2:52 PM<!-- v2ex:END -->
+- 🐵 [windows 装 NAS 该用什么软件？](https://www.v2ex.com/t/908034#reply7) | Tue Jan 10 2023 2:52 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
