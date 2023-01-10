@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [一种新的 Magisk 安装方法，免 ROM 解包，不需要 TWRP，还有点 NTR](https://www.v2ex.com/t/908038#reply9) | Tue Jan 10 2023 3:23 PM
-- 🤗 [Google maps 无法定位](https://www.v2ex.com/t/908036#reply3) | Tue Jan 10 2023 3:14 PM
-- 🎭 [ygc 一秒一次，一次停顿 15m 左右正常么](https://www.v2ex.com/t/908035#reply5) | Tue Jan 10 2023 2:56 PM
-- 🥷 [windows 装 NAS 该用什么软件？](https://www.v2ex.com/t/908034#reply6) | Tue Jan 10 2023 2:52 PM
-- 🐵 [寻求群晖 Synology 图书管理系统，可 Docker，已排除 Calibre-WebTaleBook，内详](https://www.v2ex.com/t/908028#reply4) | Tue Jan 10 2023 2:05 PM<!-- v2ex:END -->
+- 🥸 [如何从理论上避免这类并行任务交错执行时的冲突问题](https://www.v2ex.com/t/908047#reply1) | Tue Jan 10 2023 6:55 PM
+- 🤗 [一种新的 Magisk 安装方法，免 ROM 解包，不需要 TWRP，还有点 NTR](https://www.v2ex.com/t/908038#reply10) | Tue Jan 10 2023 3:23 PM
+- 🎭 [Google maps 无法定位](https://www.v2ex.com/t/908036#reply3) | Tue Jan 10 2023 3:14 PM
+- 🥷 [ygc 一秒一次，一次停顿 15m 左右正常么](https://www.v2ex.com/t/908035#reply5) | Tue Jan 10 2023 2:56 PM
+- 🐵 [windows 装 NAS 该用什么软件？](https://www.v2ex.com/t/908034#reply6) | Tue Jan 10 2023 2:52 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
