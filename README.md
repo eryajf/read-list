@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0110](http://jandan.net/p/112153) | Tue Jan 10 2023 3:56 AM 
+- 🚀 [这个女人在YouTube上记录自己的一夫多妻制生活](http://jandan.net/p/112146) | Tue Jan 10 2023 5:26 AM 
     <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：22 
+    现在她在YouTube上有90万粉丝。 
     </details> 
 
-- 🙉 [亚变种“克拉肯”：关于XBB.1.5已知的信息](http://jandan.net/p/112151) | Tue Jan 10 2023 3:43 AM 
+- 🙉 [Quora：因为太傻而被拒绝的专利申请](http://jandan.net/p/112148) | Tue Jan 10 2023 5:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    只有少数几份专利申请相当不可思议 
+    </details> 
+
+- 🎉 [亚变种“克拉肯”：关于XBB.1.5已知的信息](http://jandan.net/p/112151) | Tue Jan 10 2023 5:24 AM 
     <details><summary>展开描述 ...</summary> 
     疫苗仍是最有效的防重症手段 
     </details> 
 
-- 🎉 [Nature：令研究者大为震惊的“突破性”减肥药](http://jandan.net/p/112139) | Mon Jan 09 2023 4:36 AM 
+- 🐲 [今日好价 0110](http://jandan.net/p/112153) | Tue Jan 10 2023 5:23 AM 
     <details><summary>展开描述 ...</summary> 
-    一类能抑制饥饿感的药物在实验和实践中显示出惊人的成果。 
+    今日带货商品数量：22 
     </details> 
 
-- 🐲 [为什么有研究说超重的人更长寿？](http://jandan.net/p/112137) | Mon Jan 09 2023 4:35 AM 
+-  [脑力小体操：斗地主残局](http://jandan.net/p/112150) | Tue Jan 10 2023 5:22 AM 
     <details><summary>展开描述 ...</summary> 
-    是不是搞错了？ 
-    </details> 
-
--  [实现完美体形的5个方法](http://jandan.net/p/112135) | Mon Jan 09 2023 4:34 AM 
-    <details><summary>展开描述 ...</summary> 
-    如果真的那么容易，为什么没有人都成功了呢？ 
+    轻松一下 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
