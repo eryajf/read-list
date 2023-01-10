@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [“玩弄一下”Android Jetpack Compose 中的 Snackbar](https://juejin.cn/post/7186945452058050619) | Tue Jan 10 2023 8:59 AM 
+- 🤗 [项目实现|前端原生实现登录拼图验证✨✨✨](https://juejin.cn/post/7186959032912412728) | Tue Jan 10 2023 9:52 AM 
     <details><summary>展开描述 ...</summary> 
-    开始写Compose的时候，真的有点不习惯。思考方式和以前完全不同，有点类似ReactNative。 写习惯了之后，还真有点欲罢不能，行云流水~ Snackbar感觉就是Toast Plus版，可以自 
+    看到一个好文，所以模仿这实现一个登录时的拼图验证。效果展示如下。 底图实现 首先实现一个盒子，存放我的底图 底图中的验证区域通过伪类实现 被验证区域块 被验证区域有点类似于抠图的概念了，通过从底图中截 
     </details> 
 
-- 🎡 [轻量的纯Web容器——Lath](https://juejin.cn/post/7186943760691888186) | Tue Jan 10 2023 8:52 AM 
+- 🎡 [使用Echarts绘制街道、镇级地图（bigmap&rpar;](https://juejin.cn/post/7186944817639718973) | Tue Jan 10 2023 8:57 AM 
     <details><summary>展开描述 ...</summary> 
-    前端性能现状 提到前端你最先想到什么？前端工程？web？JavaScript、CSS、HTML？ 如果站在用户的视角那是他们距离信息最近的地方，无论前端在生产技术上如何演变，最终服务于信息表达的根本不 
+    需求要求画出上海普陀区，具体街道、镇级的地图。普通Echart只能画出省市区的的地图不能提供具体的街道、镇级数据。所以可以通过bigmap来获取具体数据。 
     </details> 
 
-- 🕯 [【Node】之那些社区常用框架：express、koa、egg 该怎么上手？](https://juejin.cn/post/7186938802147950647) | Tue Jan 10 2023 8:34 AM 
+- 🕯 [Google 支付订阅商品服务端设计方案](https://juejin.cn/post/7186943152261955643) | Tue Jan 10 2023 8:50 AM 
     <details><summary>展开描述 ...</summary> 
-    都说“前端的尽头是全栈”，那就从node入手开始搞吧，我会从express、koa、egg 三个比较流行的框架开始，体验不同阶段的思想变化。 
+    前言 最近在开发 Google 订阅商品支付，也就是常见的包月VIP、包年VIP商品。之前写过一个 Google 支付一次性购买商品的设计方案，也就是单月VIP这种的，海外支付（GooglePay）服 
     </details> 
 
-- 🚀 [IQ测试GPT完胜大学生；AIGC+表情包=？刷短视频找工作新趋势；作者不买账AI有声读物；GitHub今日热榜 | ShowMeAI资讯日报](https://juejin.cn/post/7186932528068952120) | Tue Jan 10 2023 8:10 AM 
+- 🚀 [面经整理系列四（Vue篇）](https://juejin.cn/post/7186940935723450423) | Tue Jan 10 2023 8:42 AM 
     <details><summary>展开描述 ...</summary> 
-    AI智商已完胜大学生；使用AI制作表情包；刷短视频找工作成为新趋势；深度合成新规今日实施；作者不买账苹果AI有声读物；Adobe AI算法训练使用了用户作品；爆料英伟达利用AI优化驱动更新… 
+    Vue 组件之间的通信方式 常用（推荐） 不常用 父子组件 $emit / props $parent / $attrs / ref 兄弟组件 vuex $parent / eventbus 跨层级  
     </details> 
 
-- 💪 [带你解析原子化css引擎unocss的工作原理](https://juejin.cn/post/7186867331132293177) | Tue Jan 10 2023 4:00 AM 
+- 💪 [《小团队web技术搭建》（九）Linux初阶入门（二）](https://juejin.cn/post/7186933130723328061) | Tue Jan 10 2023 8:12 AM 
     <details><summary>展开描述 ...</summary> 
-    通过本文，你会对unocss的原子化工作引擎有个大概的了解，我会将unocss的大致工作流程梳理一遍并完成一个mini-unocss 
+    我们接着上一篇介绍的Linux入门内容，介绍其它一些基础操作。 文件查看 cat：从首行显示文件内容 选项与参数： -A ：相当於 -vET 的整合选项，可列出一些特殊字符而不是空白而已； -b ：列 
     </details> 
 <!-- juejin:END -->
 ### 少数派
