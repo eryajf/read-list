@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [ElasticSearch必知必会-基础篇](https://juejin.cn/post/7186847635284688956) | Tue Jan 10 2023 2:39 AM 
+- 🤗 [Diffie-Hellman密钥协商算法探究](https://juejin.cn/post/7186851399995981881) | Tue Jan 10 2023 2:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    Diffie–Hellman密钥协商是一种安全协议。它可以让双方在完全没有对方任何预先信息的条件下通过不安全信道创建起一个密钥。这个密钥可以在后续的通讯中作为对称秘钥讯内容。 
+    </details> 
+
+- 🎡 [从Babel开始认识AST抽象语法树](https://juejin.cn/post/7186850242275311676) | Tue Jan 10 2023 2:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    AST对于编程来讲是一个非常重要的概念，当然也包括前端，在很多地方都能看见AST抽象语法树的影子，其中不乏有vue、react、babel等，简单来说但凡需要编译的地方基本都能发现AST的存在。 
+    </details> 
+
+- 🕯 [Umi 周边抽奖活动](https://juejin.cn/post/7186848681189408823) | Tue Jan 10 2023 2:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    开始在掘金写文章已经 271 天了，截止写这个文章时，关注者 994，文章展现 335w，文章阅读 17.9 w 为了感谢各位好友的支持，所以搞了这次抽奖活动。 
+    </details> 
+
+- 🚀 [ElasticSearch必知必会-基础篇](https://juejin.cn/post/7186847635284688956) | Tue Jan 10 2023 2:39 AM 
     <details><summary>展开描述 ...</summary> 
     索引是相同文档结构（Mapping）文档的结合，由唯一索引名称标定，一个集群中有多个索引，不同的索引代表不同的业务类型数据。 
     </details> 
 
-- 🎡 [pnpm技术体系之：高性能包管理工具](https://juejin.cn/post/7186846208898367547) | Tue Jan 10 2023 2:34 AM 
+- 💪 [pnpm技术体系之：高性能包管理工具](https://juejin.cn/post/7186846208898367547) | Tue Jan 10 2023 2:34 AM 
     <details><summary>展开描述 ...</summary> 
     pnpm 是 performant npm（高性能的 npm），它是一款快速的，节省磁盘空间的包管理工具，同时，它也较好地支持了 workspace 和 monorepos。 
-    </details> 
-
-- 🕯 [QQ浏览器是如何提升搜索相关性的？](https://juejin.cn/post/7186845333442265146) | Tue Jan 10 2023 2:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    导言 | 搜索相关性主要指衡量Query和Doc的匹配程度，是信息检索的核心基础任务之一，也是商业搜索引擎的体验优劣最朴素的评价维度之一。本文作者刘杰主要介绍QQ浏览器搜索相关性团队在相关性系统及算法 
-    </details> 
-
-- 🚀 [甩掉容量规划炸弹：用 AHPA 实现 Kubernetes 智能弹性伸缩](https://juejin.cn/post/7186845505735884837) | Tue Jan 10 2023 2:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    我们提出了一种智能化弹性伸缩方案 AHPA，可以根据历史时序数据进行主动预测，提前扩容，避免弹性滞后。同时，会根据实时数据动态调整主动预测结果，兼容周期变动等场景。 
-    </details> 
-
-- 💪 [（6）go-micro微服务consul配置、注册中心](https://juejin.cn/post/7186844220643098661) | Tue Jan 10 2023 2:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    一 Consul介绍 Consul是HashiCorp公司推出的开源工具，用于实现分布式系统的服务发现与配置。 Consul是分布式的、高可用的、可横向扩展的。 1. 注册中心Consul基本介绍 C 
     </details> 
 <!-- juejin:END -->
 ### 少数派
