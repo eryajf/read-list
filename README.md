@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [在充满套路的「极速版」赚钱 App 上，我们能赚多少钱？](https://sspai.com/post/77705) | Tue Jan 10 2023 3:09 AM 
+- 👹 [听歌，我们是认真的：一首歌的创作笔记](https://sspai.com/post/77695) | Tue Jan 10 2023 7:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    每个人都有自己听歌的方式，有自己喜欢的音乐类型……所有的音乐诉求，到最后无非就是「感动」二字。&lt;a href=&quot;https://sspai.com/post/77695&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [在充满套路的「极速版」赚钱 App 上，我们能赚多少钱？](https://sspai.com/post/77705) | Tue Jan 10 2023 3:09 AM 
     <details><summary>展开描述 ...</summary> 
     钱是个好东西，谁不想赚呢？&lt;a href=&quot;https://sspai.com/post/77705&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：腾讯游戏发布限玩日历，Steam 同时在线人数破千万等](https://sspai.com/post/77735) | Tue Jan 10 2023 1:05 AM 
+- 🤭 [派早报：腾讯游戏发布限玩日历，Steam 同时在线人数破千万等](https://sspai.com/post/77735) | Tue Jan 10 2023 1:05 AM 
     <details><summary>展开描述 ...</summary> 
     BlackBerry 宣布在汽车软件开发中支持 Rust 语言，Intel 发布全新 U300 系列处理器等。&lt;a href=&quot;https://sspai.com/post/77735&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派评 | 近期值得关注的 App](https://sspai.com/post/77722) | Mon Jan 09 2023 9:49 AM 
+- 🥸 [派评 | 近期值得关注的 App](https://sspai.com/post/77722) | Mon Jan 09 2023 9:49 AM 
     <details><summary>展开描述 ...</summary> 
     你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/77722&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [年度征文 | 写科普一年后的思考：如何更有效地传递知识](https://sspai.com/post/77655) | Mon Jan 09 2023 7:57 AM 
+- 🙉 [年度征文 | 写科普一年后的思考：如何更有效地传递知识](https://sspai.com/post/77655) | Mon Jan 09 2023 7:57 AM 
     <details><summary>展开描述 ...</summary> 
     所以说，「多读多写多思考」真的有用吗？我以前是不信的。然而回顾过去一年多写科普的历程，这句话好像并不是毫无根据。&lt;a href=&quot;https://sspai.com/post/77655&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [城市漫步指南：香港，感受不一样的文化](https://sspai.com/post/77716) | Mon Jan 09 2023 6:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    在香港你除了可以品尝各类美食美食，还可以感受截然不同的文化魅力。&lt;a href=&quot;https://sspai.com/post/77716&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
