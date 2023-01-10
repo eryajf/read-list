@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [一个开源认证微服务有搞头吗？](https://www.v2ex.com/t/908004#reply1) | Tue Jan 10 2023 11:59 AM
-- 🤗 [ECC 内存是否要配合存在防 bit rot 的 filesystem 的 swap 才有效？数据在 swap 中也有可能发生 bit rot。水 discord 看到的问题， 查了下没人讨论过 swap 文件发生 bit rot 的情况](https://www.v2ex.com/t/908003#reply0) | Tue Jan 10 2023 11:52 AM
-- 🎭 [oracle 1000 的阶乘 最后输出字符串](https://www.v2ex.com/t/907988#reply4) | Tue Jan 10 2023 10:47 AM
-- 🥷 [Mysql 8.0 JSON 数据类型的数组如何完全匹配](https://www.v2ex.com/t/907977#reply1) | Tue Jan 10 2023 9:39 AM
-- 🐵 [关于处理导入 excel 的数据一个问题](https://www.v2ex.com/t/907969#reply3) | Tue Jan 10 2023 9:11 AM<!-- v2ex:END -->
+- 🥸 [今天是本月第 6 个工作日，阿里云按 SLA 赔付的日子](https://www.v2ex.com/t/908019#reply0) | Tue Jan 10 2023 1:18 PM
+- 🤗 [x86 汇编 CPU 是如何使用 loop 指令的操作数的？](https://www.v2ex.com/t/908013#reply2) | Tue Jan 10 2023 12:50 PM
+- 🎭 [rk3368 平台功能求指点](https://www.v2ex.com/t/908011#reply0) | Tue Jan 10 2023 12:42 PM
+- 🥷 [一个开源认证微服务有搞头吗？](https://www.v2ex.com/t/908004#reply4) | Tue Jan 10 2023 11:59 AM
+- 🐵 [ECC 内存是否要配合存在防 bit rot 的 filesystem 的 swap 才有效？数据在 swap 中也有可能发生 bit rot。水 discord 看到的问题， 查了下没人讨论过 swap 文件发生 bit rot 的情况](https://www.v2ex.com/t/908003#reply1) | Tue Jan 10 2023 11:52 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
