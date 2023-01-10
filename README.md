@@ -704,18 +704,18 @@
      一个简洁、美观、实用的浏览器  
     </details> 
 
-- 💼 [记时光 - 记录你的时光](https://xinquji.com/posts/792510?utm_campaign=xinquji-rss) | Mon Jan 09 2023 7:46 AM 
+- 💼 [re:tune - GPT-3 缺少的前端](https://xinquji.com/posts/792790?utm_campaign=xinquji-rss) | Tue Jan 10 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     记录你的时光  
+     GPT-3 缺少的前端  
     </details> 
 
-- 🦅 [Dash The Island - 在这个挑战灵动岛游戏中,你需要挑战自己,获得更高的排名!](https://xinquji.com/posts/792422?utm_campaign=xinquji-rss) | Mon Jan 09 2023 7:46 AM 
+- 🦅 [NaurePic4Free - 免费的自然照片](https://xinquji.com/posts/792789?utm_campaign=xinquji-rss) | Tue Jan 10 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     在这个挑战灵动岛游戏中,你需要挑战自己,获得更高的排名!  
+     免费的自然照片  
     </details> 
 
-- 😺 [摸鱼小程序 - 上班摸鱼小程序](https://xinquji.com/posts/792046?utm_campaign=xinquji-rss) | Mon Jan 09 2023 7:44 AM 
+- 😺 [Nova A.I. - 人工智能驱动的在线视频编辑平台](https://xinquji.com/posts/792788?utm_campaign=xinquji-rss) | Tue Jan 10 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     上班摸鱼小程序  
+     人工智能驱动的在线视频编辑平台  
     </details> 
 <!-- xinquji:END -->
