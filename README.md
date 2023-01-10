@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [腾讯云中间件读者敬启：2022年热门技术文章集锦，建议收藏](https://juejin.cn/post/7186931314258346043) | Tue Jan 10 2023 8:04 AM 
+- 🤗 [“玩弄一下”Android Jetpack Compose 中的 Snackbar](https://juejin.cn/post/7186945452058050619) | Tue Jan 10 2023 8:59 AM 
     <details><summary>展开描述 ...</summary> 
-    各位读者：大家好！ 回望刚刚过去的2022年，发生了太多的事情，北京冬奥会、神舟十四号航天员首次出舱、重庆山火、泸定地震，一幕幕或激动人心或舍生忘死的场景彷佛还在眼前。 技术领域的力量同样振奋人心。 
+    开始写Compose的时候，真的有点不习惯。思考方式和以前完全不同，有点类似ReactNative。 写习惯了之后，还真有点欲罢不能，行云流水~ Snackbar感觉就是Toast Plus版，可以自 
     </details> 
 
-- 🎡 [温暖2023！稀土掘金兔年春节礼盒重磅来袭！](https://juejin.cn/post/7186927790237679675) | Tue Jan 10 2023 7:51 AM 
+- 🎡 [轻量的纯Web容器——Lath](https://juejin.cn/post/7186943760691888186) | Tue Jan 10 2023 8:52 AM 
     <details><summary>展开描述 ...</summary> 
-    2022 凛冬已过 稀土掘金技术社区与技术人携手共度温暖岁末 2023 温暖将至 癸卯兔年贺岁献礼 和技术人一起 HAPPY 兔 YEAR 
+    前端性能现状 提到前端你最先想到什么？前端工程？web？JavaScript、CSS、HTML？ 如果站在用户的视角那是他们距离信息最近的地方，无论前端在生产技术上如何演变，最终服务于信息表达的根本不 
     </details> 
 
-- 🕯 [vuex](https://juejin.cn/post/7186838843415330876) | Tue Jan 10 2023 2:06 AM 
+- 🕯 [【Node】之那些社区常用框架：express、koa、egg 该怎么上手？](https://juejin.cn/post/7186938802147950647) | Tue Jan 10 2023 8:34 AM 
     <details><summary>展开描述 ...</summary> 
-    vuex 简版 vuex 是为了解决整个网站状态数据共享问题的,虽然有父向子,子向父等数据传递,但在网站开发过程中一些无直接关联关系的组件也需要共享相同的数据时,就需要使用 vuex 了 vuex 中 
+    都说“前端的尽头是全栈”，那就从node入手开始搞吧，我会从express、koa、egg 三个比较流行的框架开始，体验不同阶段的思想变化。 
     </details> 
 
-- 🚀 [Next13 新功能整理](https://juejin.cn/post/7185830116352589882) | Sat Jan 07 2023 8:51 AM 
+- 🚀 [IQ测试GPT完胜大学生；AIGC+表情包=？刷短视频找工作新趋势；作者不买账AI有声读物；GitHub今日热榜 | ShowMeAI资讯日报](https://juejin.cn/post/7186932528068952120) | Tue Jan 10 2023 8:10 AM 
     <details><summary>展开描述 ...</summary> 
-    Next13 支持 React 服务器组件，服务器组件能够在服务器端执行和渲染 React 组件，以前会影响客户端上 JavaScript 包大小的大型依赖项现在可以完全保留在服务器上，从而提高性能。 
+    AI智商已完胜大学生；使用AI制作表情包；刷短视频找工作成为新趋势；深度合成新规今日实施；作者不买账苹果AI有声读物；Adobe AI算法训练使用了用户作品；爆料英伟达利用AI优化驱动更新… 
     </details> 
 
-- 💪 [Vue3: CSS Modules和 Scope深度剖析](https://juejin.cn/post/7185828978362417208) | Sat Jan 07 2023 8:48 AM 
+- 💪 [带你解析原子化css引擎unocss的工作原理](https://juejin.cn/post/7186867331132293177) | Tue Jan 10 2023 4:00 AM 
     <details><summary>展开描述 ...</summary> 
-    关于简介，我不想用那么官方的语言来描述，因为不易理解 简单概括如下： Css Modules 是通过对标签类名进行加装成一个独一无二的类名，比如.class 转换成.class_abc_123, 
+    通过本文，你会对unocss的原子化工作引擎有个大概的了解，我会将unocss的大致工作流程梳理一遍并完成一个mini-unocss 
     </details> 
 <!-- juejin:END -->
 ### 少数派
