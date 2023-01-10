@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [RocketMQ消息短暂而又精彩的一生](https://juejin.cn/post/7186880907582636069) | Tue Jan 10 2023 4:49 AM 
+- 🤗 [第151期：成事不说，遂事不谏，既往不咎](https://juejin.cn/post/7186901009631805496) | Tue Jan 10 2023 6:06 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是三友~~ 这篇文章我准备来聊一聊RocketMQ消息的一生。 不知你是否跟我一样，在使用RocketMQ的时候也有很多的疑惑： 消息是如何发送的，队列是如何选择的？ 消息是如何存储的，是如 
+    封面图 鲁哀公问宰我，土地神的神主应该用什么树木，宰我回答：“夏朝用松树，商朝用柏树，周朝用栗子树。用栗子树的意思是说：使老百姓战栗。”孔子听到后说：“已经做过的事不用提了，已经完成的事不用再去劝阻了 
     </details> 
 
-- 🎡 [【Redis 技术探索】「数据迁移实战」手把手教你如何实现在线 + 离线模式进行迁移 Redis 数据实战指南（数据检查对比）](https://juejin.cn/post/7186880267779309605) | Tue Jan 10 2023 4:48 AM 
+- 🎡 [react hook 源码完全解读](https://juejin.cn/post/7186900831315165243) | Tue Jan 10 2023 6:06 AM 
     <details><summary>展开描述 ...</summary> 
-    redis-full-check的使用背景 在经历了之前的文章内容章节内容，已完成Redis迁移后，可能会存在以下问题需要进行数据迁移之后的对比。例如，如果Redis迁移的过程出现异常，源端与目的端R 
+    前言 从React Hooks发布以来，整个社区都以积极的态度去拥抱它、学习它。期间也涌现了很多关于React Hooks 源码解析的文章。本文就以笔者自己的角度来写一篇属于自己的文章吧。希望可以深入 
     </details> 
 
-- 🕯 [console.log导致的内存泄漏分析、自研数据存储迁移MySQL实战 | 酱酱的下午茶第一百五十期](https://juejin.cn/post/7186878375867187259) | Tue Jan 10 2023 4:42 AM 
+- 🕯 [react源码中的fiber架构](https://juejin.cn/post/7186900365697089592) | Tue Jan 10 2023 6:05 AM 
     <details><summary>展开描述 ...</summary> 
-    前端性能优化——包体积压缩、一次学习彻底搞懂什么是虚拟列表、社交场景下iOS消息流交互层实践.... 
+    先看一下FiberNode在源码中的样子 FiberNode 我们看FiberNode这个构造函数里面只是赋值，我们再找一下链路上的Fiber，我们发现在函数createFiber的返回值类型里面出现 
     </details> 
 
-- 🚀 [快看！他电脑的Terminal上飘过一只兔子🐰！](https://juejin.cn/post/7186878656172523576) | Tue Jan 10 2023 4:42 AM 
+- 🚀 [13种Shell逻辑与算术，能写出5种算你赢！](https://juejin.cn/post/7186900059533869112) | Tue Jan 10 2023 6:03 AM 
     <details><summary>展开描述 ...</summary> 
-    我正在参加「兔了个兔」创意投稿大赛，详情请看：「兔了个兔」创意投稿大赛 前言 本文介绍如何用C语言在Linux和Mac系统的Terminal上输出一只奔跑的兔子。 
+     相较于最初的 Bourne shell，现代 bash 版本的最大改进之一体现在算术方面。早期的 shell 版本没有内建的算术功能，哪怕是给变量加1，也得调用单独的程序来完成。 ## 1、算术 
     </details> 
 
-- 💪 [加大力度！Go 将会增强 Go1 向后兼容性](https://juejin.cn/post/7186875124543389751) | Tue Jan 10 2023 4:33 AM 
+- 💪 [react源码中的hooks](https://juejin.cn/post/7186900083349618747) | Tue Jan 10 2023 6:03 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是煎鱼。 前段时间我们在写 Go1.20 新特性和变更时，发现了一个问题有悖论。 Go1 有兼容性承诺，但如果发现了 BUG，会破坏兼容性。那怎么办？是大胆修改，破坏掉，还是说设计如此，打死 
+    今天，让我们一起深入探究 React Hook 的实现方法，以便更好的理解它。但是，它的各种神奇特性的不足是，一旦出现问题，调试非常困难，这是由于它的背后是由复杂的堆栈追踪（stack trace）支 
     </details> 
 <!-- juejin:END -->
 ### 少数派
