@@ -332,10 +332,10 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有偿求解！ K8S 环境下外部无法访问服务的问题](https://www.v2ex.com/t/908109#reply5) | Wed Jan 11 2023 4:10 AM
+- 🥸 [有偿求解！ K8S 环境下外部无法访问服务的问题](https://www.v2ex.com/t/908109#reply7) | Wed Jan 11 2023 4:10 AM
 - 🤗 [请教下 AWS/Azure 和 阿里云/腾讯云 基于地理位置的数据存储以及数据分析方案](https://www.v2ex.com/t/908102#reply0) | Wed Jan 11 2023 3:50 AM
 - 🎭 [有玩 omv 的吗，请教个问题](https://www.v2ex.com/t/908095#reply2) | Wed Jan 11 2023 3:17 AM
-- 🥷 [关于异步任务的一点疑问，有没有老哥帮忙解答下](https://www.v2ex.com/t/908083#reply11) | Wed Jan 11 2023 2:11 AM
+- 🥷 [关于异步任务的一点疑问，有没有老哥帮忙解答下](https://www.v2ex.com/t/908083#reply13) | Wed Jan 11 2023 2:11 AM
 - 🐵 [google maps 定位不准](https://www.v2ex.com/t/908082#reply8) | Wed Jan 11 2023 2:09 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
