@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [年度征文｜把人生活成旷野，我的「焦虑盒子」笔记系统](https://sspai.com/post/77685) | Wed Jan 11 2023 3:29 AM 
+- 👹 [新一年的健康生活，从这些饮食与运动知识开始](https://sspai.com/post/77719) | Wed Jan 11 2023 6:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    「身体健康」是最质朴的祝福，也是最基本的期待，但往往又是最艰难吟唱的进行曲。当我们开始喊着「要自律」的时候，也通常是这件事即将被放弃的时候，毕竟当你向身边那些均衡饮食、坚持运动的自律之人讨教如何持之以 ...&lt;a href=&quot;https://sspai.com/post/77719&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [年度征文｜把人生活成旷野，我的「焦虑盒子」笔记系统](https://sspai.com/post/77685) | Wed Jan 11 2023 3:29 AM 
     <details><summary>展开描述 ...</summary> 
     编注：本文是少数派2022年度征文活动的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。今年我们采用了更加依赖用户反馈数据的奖金结算机制，充电、收藏和阅读量都将不同程度地影响文章的最终排 ...&lt;a href=&quot;https://sspai.com/post/77685&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：大疆发布轻量旅拍稳定器 RS 3 Mini、Apple 推出 iCloud+ 新订阅用户优惠等](https://sspai.com/post/77753) | Wed Jan 11 2023 12:44 AM 
+- 🤭 [派早报：大疆发布轻量旅拍稳定器 RS 3 Mini、Apple 推出 iCloud+ 新订阅用户优惠等](https://sspai.com/post/77753) | Wed Jan 11 2023 12:44 AM 
     <details><summary>展开描述 ...</summary> 
     理光推出 GR III 相机日记版特别限量套装，京东图书与当当网签订战略合作协议等。&lt;a href=&quot;https://sspai.com/post/77753&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [一份价格，双份收货 | 年底小目标：彻底搞定 PPT，兔年解放你自己](https://sspai.com/post/77734) | Tue Jan 10 2023 10:48 AM 
+- 🥸 [一份价格，双份收货 | 年底小目标：彻底搞定 PPT，兔年解放你自己](https://sspai.com/post/77734) | Tue Jan 10 2023 10:48 AM 
     <details><summary>展开描述 ...</summary> 
     📬省流公告板春节活动时间：即日起至2023年1月29日一份价格，双份收货：少数派联合电子工业出版社推出PPTer效率礼包：79元栏目《生产力超频：科学做好PPT的三个步骤》+79.9元纸质图书《揭秘P ...&lt;a href=&quot;https://sspai.com/post/77734&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [春节将至，归乡路上用它拨开「世界迷雾」](https://sspai.com/post/77676) | Tue Jan 10 2023 8:12 AM 
+- 🙉 [春节将至，归乡路上用它拨开「世界迷雾」](https://sspai.com/post/77676) | Tue Jan 10 2023 8:12 AM 
     <details><summary>展开描述 ...</summary> 
     时隔 5 年之久，老牌的记录足迹应用《世界迷雾》迎来了大版本更新。世界迷雾 3.0 版本主要带来的变化，是 UI 界面的更新：新增了导航栏，重新设计「地图相机」，应用内的地图、护照、徽章等板块以更加现代化的方式展示。&lt;a href=&quot;https://sspai.com/post/77676&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [听歌，我们是认真的：一首歌的创作笔记](https://sspai.com/post/77695) | Tue Jan 10 2023 7:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    每个人都有自己听歌的方式，有自己喜欢的音乐类型……所有的音乐诉求，到最后无非就是「感动」二字。&lt;a href=&quot;https://sspai.com/post/77695&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
