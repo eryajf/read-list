@@ -398,11 +398,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯·如何正确地吐槽](https://daily.zhihu.com/story/9757027) | Tue Jan 10 2023 12:27 AM
-- 🐻 [人类进化这么长的时间，进化出了什么攻击性器官?](https://daily.zhihu.com/story/9757011) | Tue Jan 10 2023 12:27 AM
-- 🌏 [有哪些各国语言中无法被翻译出来妙不可言的单词？](https://daily.zhihu.com/story/9757012) | Tue Jan 10 2023 12:27 AM
-- 🕴 [地球表面温度降到多少才能把海洋里的水全冻成冰？](https://daily.zhihu.com/story/9757013) | Tue Jan 10 2023 12:27 AM
-- 🌮 [推理小说一般可以分为几个流派？各自有什么特点和区别？](https://daily.zhihu.com/story/9757020) | Tue Jan 10 2023 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯·如何正确地吐槽](https://daily.zhihu.com/story/9757071) | Wed Jan 11 2023 12:27 AM
+- 🐻 [流动的河水为什么那么干净？](https://daily.zhihu.com/story/9757037) | Wed Jan 11 2023 12:27 AM
+- 🌏 [人类储存脂肪得以在没有食物的环境下生存，那么为什么脂肪很多的人还容易得各种疾病？](https://daily.zhihu.com/story/9757041) | Wed Jan 11 2023 12:27 AM
+- 🕴 [为何同是猫科，猫瞳孔是蛇样的？](https://daily.zhihu.com/story/9757051) | Wed Jan 11 2023 12:27 AM
+- 🌮 [为什么咸味太重会变成苦味？](https://daily.zhihu.com/story/9757052) | Wed Jan 11 2023 12:27 AM<!-- zhihu:END -->
 
 
 ## 应用资源
