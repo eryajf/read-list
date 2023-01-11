@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [算法训练营第一天](https://juejin.cn/post/7187413665480441916) | Wed Jan 11 2023 3:16 PM 
+- 🤗 [React Ref Callback：最佳实践](https://juejin.cn/post/7187429820928622629) | Wed Jan 11 2023 4:20 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文主要介绍 React ref callback 的使用场景，只有在访问底层的 DOM 元素时，才需要 ref callback 
+    </details> 
+
+- 🎡 [过个属于程序员的新年，快来猜灯谜吧。听说有奖品哦！！！快来拿走你的奖品吧](https://juejin.cn/post/7187425923149332539) | Wed Jan 11 2023 4:05 PM 
+    <details><summary>展开描述 ...</summary> 
+    过新年，猜灯谜。只属于程序员的题目！！！你是不是跟我一样，好几年没玩过这游戏了，那就在现在快来闯关吧。听说还有奖品，快来拿走你的奖品吧 
+    </details> 
+
+- 🕯 [万年日历（附连续打卡功能）](https://juejin.cn/post/7187416696372756539) | Wed Jan 11 2023 3:30 PM 
+    <details><summary>展开描述 ...</summary> 
+    又是一个老生常谈的功能，接下来会从零实现一个万年日历，从布局到逻辑，再到随处可见的打卡功能。日历的布局、日期数据的产生、年月的变化、连续最长打卡日期和补卡逻辑... 
+    </details> 
+
+- 🚀 [element-ui中的validateField局部校验，粘贴可用](https://juejin.cn/post/7187415746673606716) | Wed Jan 11 2023 3:25 PM 
+    <details><summary>展开描述 ...</summary> 
+    element-ui的表单提交基本每个项目都会使用到，其中针对特定区域的值进行校验的场景也不少，其文档相对简单，下面就贴上代码，复制粘贴到一个.vue文件即可运行。 
+    </details> 
+
+- 💪 [算法训练营第一天](https://juejin.cn/post/7187413665480441916) | Wed Jan 11 2023 3:16 PM 
     <details><summary>展开描述 ...</summary> 
     前言 距离上一次刷题好像已经很久很久了，大概有三个多月了吧。10 月拿的 Offer，不算好也不算差，就接下了。然后十月就躺了一个月，11 月就来公司提前实习了，每天的工作基本上都是做需求，和业务打交 
-    </details> 
-
-- 🎡 [数据结构与算法（队列）](https://juejin.cn/post/7187392349281419319) | Wed Jan 11 2023 1:54 PM 
-    <details><summary>展开描述 ...</summary> 
-    大家好，我是云牧，今天说的是数据结构与算法之队列，先进先出的数据结构，可以想象排队，先到窗口的先办理业务。 
-    </details> 
-
-- 🕯 [年度AI论文盘点、腾讯云原生降本增效案例实践 --人工智能周刊第一期](https://juejin.cn/post/7187390493062332453) | Wed Jan 11 2023 1:50 PM 
-    <details><summary>展开描述 ...</summary> 
-    人工智能周刊上线啦，旨在专注于发掘站内优质人工智能的创作者和优质内容，目前会对近期（7-14 天）社区人工智能技术好文进行挖掘和整理。 
-    </details> 
-
-- 🚀 [什么是云渲染？云渲染速度快吗？](https://juejin.cn/post/7187381619609567292) | Wed Jan 11 2023 1:12 PM 
-    <details><summary>展开描述 ...</summary> 
-    近年来随着计算机技术的逐步发展，万物上‘’云‘’的趋势越发明显，一种基于云计算的SAAS服务平台——云渲染农场开始走入CG行业。而且云渲染农场（如Renderbus瑞云渲染）也在众多CG小伙伴的眼里成 
-    </details> 
-
-- 💪 [11/12月金选作者公布、更好使用 Typescript 的11个技巧｜掘金一周 01.11](https://juejin.cn/post/7187378116673667132) | Wed Jan 11 2023 1:03 PM 
-    <details><summary>展开描述 ...</summary> 
-    【掘金一周 1.11】本期看点：11/12月金选作者公布、一次数据同步的模型分享、为iframe正名... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
