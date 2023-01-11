@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [想找一些国外技术大佬一起聊一聊，大家有没有推荐的，我试着去联系一下](https://www.v2ex.com/t/908137#reply0) | Wed Jan 11 2023 6:06 AM
-- 🤗 [请教一个文件格式 vbf](https://www.v2ex.com/t/908135#reply2) | Wed Jan 11 2023 6:03 AM
-- 🎭 [吐槽一下京东的白条还款用户体验](https://www.v2ex.com/t/908131#reply9) | Wed Jan 11 2023 5:42 AM
-- 🥷 [在 GUI Linux 下安装虚拟机, 虚拟机运行 GUI Linux . 求推荐虚拟机.](https://www.v2ex.com/t/908128#reply6) | Wed Jan 11 2023 5:38 AM
-- 🐵 [[求教]Win11 关机与网络唤醒](https://www.v2ex.com/t/908126#reply1) | Wed Jan 11 2023 5:35 AM<!-- v2ex:END -->
+- 🥸 [有没有比 nextcloud 轻量的服务? 只需要 web 管理界面以及支持 webdav 连接就行](https://www.v2ex.com/t/908161#reply0) | Wed Jan 11 2023 7:13 AM
+- 🤗 [请教兄弟们一个关于服务器视频存储的问题](https://www.v2ex.com/t/908160#reply2) | Wed Jan 11 2023 7:05 AM
+- 🎭 [感觉 macbook 16G 内存只是勉强够用, 同时打开 Android 机和 iPhone 的模拟器会卡](https://www.v2ex.com/t/908155#reply5) | Wed Jan 11 2023 6:46 AM
+- 🥷 [想找一些国外技术大佬一起聊一聊，大家有没有推荐的，我试着去联系一下](https://www.v2ex.com/t/908137#reply5) | Wed Jan 11 2023 6:06 AM
+- 🐵 [请教一个文件格式 vbf](https://www.v2ex.com/t/908135#reply2) | Wed Jan 11 2023 6:03 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
