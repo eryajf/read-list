@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [React Ref Callback：最佳实践](https://juejin.cn/post/7187429820928622629) | Wed Jan 11 2023 4:20 PM 
+- 🤗 [ClickHouse ORM 3.x 发布啦](https://juejin.cn/post/7187443082164437029) | Wed Jan 11 2023 5:24 PM 
+    <details><summary>展开描述 ...</summary> 
+    经过1年断断续续的迭代，ClickHouse ORM 3.x 发布啦～说说它的故事吧。 回顾下2022 说来惭愧上次写博客都是22年4月份了... 
+    </details> 
+
+- 🎡 [React Ref Callback：最佳实践](https://juejin.cn/post/7187429820928622629) | Wed Jan 11 2023 4:20 PM 
     <details><summary>展开描述 ...</summary> 
     本文主要介绍 React ref callback 的使用场景，只有在访问底层的 DOM 元素时，才需要 ref callback 
     </details> 
 
-- 🎡 [过个属于程序员的新年，快来猜灯谜吧。听说有奖品哦！！！快来拿走你的奖品吧](https://juejin.cn/post/7187425923149332539) | Wed Jan 11 2023 4:05 PM 
+- 🕯 [过个属于程序员的新年，快来猜灯谜吧。听说有奖品哦！！！快来拿走你的奖品吧](https://juejin.cn/post/7187425923149332539) | Wed Jan 11 2023 4:05 PM 
     <details><summary>展开描述 ...</summary> 
     过新年，猜灯谜。只属于程序员的题目！！！你是不是跟我一样，好几年没玩过这游戏了，那就在现在快来闯关吧。听说还有奖品，快来拿走你的奖品吧 
     </details> 
 
-- 🕯 [万年日历（附连续打卡功能）](https://juejin.cn/post/7187416696372756539) | Wed Jan 11 2023 3:30 PM 
+- 🚀 [万年日历（附连续打卡功能）](https://juejin.cn/post/7187416696372756539) | Wed Jan 11 2023 3:30 PM 
     <details><summary>展开描述 ...</summary> 
     又是一个老生常谈的功能，接下来会从零实现一个万年日历，从布局到逻辑，再到随处可见的打卡功能。日历的布局、日期数据的产生、年月的变化、连续最长打卡日期和补卡逻辑... 
     </details> 
 
-- 🚀 [element-ui中的validateField局部校验，粘贴可用](https://juejin.cn/post/7187415746673606716) | Wed Jan 11 2023 3:25 PM 
+- 💪 [element-ui中的validateField局部校验，粘贴可用](https://juejin.cn/post/7187415746673606716) | Wed Jan 11 2023 3:25 PM 
     <details><summary>展开描述 ...</summary> 
     element-ui的表单提交基本每个项目都会使用到，其中针对特定区域的值进行校验的场景也不少，其文档相对简单，下面就贴上代码，复制粘贴到一个.vue文件即可运行。 
-    </details> 
-
-- 💪 [算法训练营第一天](https://juejin.cn/post/7187413665480441916) | Wed Jan 11 2023 3:16 PM 
-    <details><summary>展开描述 ...</summary> 
-    前言 距离上一次刷题好像已经很久很久了，大概有三个多月了吧。10 月拿的 Offer，不算好也不算差，就接下了。然后十月就躺了一个月，11 月就来公司提前实习了，每天的工作基本上都是做需求，和业务打交 
     </details> 
 <!-- juejin:END -->
 ### 少数派
