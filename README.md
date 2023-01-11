@@ -699,23 +699,23 @@
      全平台 RSS 阅读器  
     </details> 
 
-- 🥷 [spotify音乐墙助手 - 生成漂亮的spotify封面](https://xinquji.com/posts/792701?utm_campaign=xinquji-rss) | Tue Jan 10 2023 10:19 AM 
+- 🥷 [Roundup - 为您的团队创建一个讨论论坛](https://xinquji.com/posts/792847?utm_campaign=xinquji-rss) | Wed Jan 11 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     生成漂亮的spotify封面  
+     为您的团队创建一个讨论论坛  
     </details> 
 
-- 💼 [搜索神器 - 一个简洁、美观、实用的浏览器](https://xinquji.com/posts/792676?utm_campaign=xinquji-rss) | Tue Jan 10 2023 10:19 AM 
+- 💼 [Pulsetic Status Pages - 您的企业的品牌状态页面，全部无代码](https://xinquji.com/posts/792846?utm_campaign=xinquji-rss) | Wed Jan 11 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     一个简洁、美观、实用的浏览器  
+     您的企业的品牌状态页面，全部无代码  
     </details> 
 
-- 🦅 [re:tune - GPT-3 缺少的前端](https://xinquji.com/posts/792790?utm_campaign=xinquji-rss) | Tue Jan 10 2023 6:00 AM 
+- 🦅 [Affiliates by Swapstack - 将您的联属网络营销计划扩展到 1000 份独立时事通讯](https://xinquji.com/posts/792845?utm_campaign=xinquji-rss) | Wed Jan 11 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     GPT-3 缺少的前端  
+     将您的联属网络营销计划扩展到 1000 份独立时事通讯  
     </details> 
 
-- 😺 [NaurePic4Free - 免费的自然照片](https://xinquji.com/posts/792789?utm_campaign=xinquji-rss) | Tue Jan 10 2023 6:00 AM 
+- 😺 [Pixelicious - 轻松将您的图像变成复古像素艺术](https://xinquji.com/posts/792844?utm_campaign=xinquji-rss) | Wed Jan 11 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     免费的自然照片  
+     轻松将您的图像变成复古像素艺术  
     </details> 
 <!-- xinquji:END -->
