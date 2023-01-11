@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [后端语言很难？前端入门go基础语法只需要3小时！（上）](https://juejin.cn/post/7187303888393863225) | Wed Jan 11 2023 8:10 AM 
+- 🤗 [如何独立使用 umi 的核心插件模块](https://juejin.cn/post/7187319820763791415) | Wed Jan 11 2023 9:12 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 废话不多说，go基础语法，如果你前端基础稍微扎实一些，比如理解闭包，词法作用域，函数一等公民等等概念，了解go的基础语法只需要看完这篇文章，花费大概1小时。总共分为3篇&lpar;上中下&rpar;（共计3小时）。 
+    今天我们做一个有趣的尝试，将 umi 的核心插件模块独立出来作为另一个框架的基础架构，这里我们将它称为 konos。 介于 umi 自身的源码的独立拆分，要实现这个功能其实非常的简单。 
     </details> 
 
-- 🎡 [Elasticsearch：运用 Go 语言实现 Elasticsearch 搜索 - 8.x](https://juejin.cn/post/7187290206712627237) | Wed Jan 11 2023 7:16 AM 
+- 🎡 [JAVA基础_Swing和抽象窗口工](https://juejin.cn/post/7187316788311359543) | Wed Jan 11 2023 9:00 AM 
     <details><summary>展开描述 ...</summary> 
-    在我之前的文章 “Elasticsearch：Go 客户端简介 - 8.x”，我对 Elasticsearch golang 客户端做了一个简单的介绍。在今天的这篇文章中，我将详细介绍如何使用这个客户 
+    Swing和抽象窗口工具包 Java是一种跨平台语言，使用它可以为很多不同的操作系统编写程序，因此其图形用户软件必须是灵活的，不仅能够支持Windows和Mac窗口风格，还必须能够满足其他平台的要求。 
     </details> 
 
-- 🕯 [【综合笔试题】难度 4.5/5，经典次短路问题](https://juejin.cn/post/7187289315896983609) | Wed Jan 11 2023 7:13 AM 
+- 🕯 [Python在近几年越来越受追捧](https://juejin.cn/post/7187315993008422949) | Wed Jan 11 2023 8:57 AM 
     <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 2045. 到达目的地的第二短时间 ，难度为 困难。 Tag : 「最短路」、「BFS」、「堆优化 Dijkstra」、「AStar 算法」、「启发式搜索」 城 
+    Python10大特点： 易于学习：Python有相对较少的关键字，结构简单，和一个明确定义的语法，学习起来更加简单。 易于阅读：Python代码定义的更清晰。 易于维护：Python的成功在于它的源 
     </details> 
 
-- 🚀 [React常用内置Hooks总结](https://juejin.cn/post/7187226046624694333) | Wed Jan 11 2023 3:08 AM 
+- 🚀 [web前端都学些什么知识?](https://juejin.cn/post/7187315907717234746) | Wed Jan 11 2023 8:56 AM 
     <details><summary>展开描述 ...</summary> 
-    React作为比较主流的前端框架，近几年也是推出了一套全新的Hooks机制。对于 React 开发者而言，掌握Hooks的写法也是很有必要的。此文章就是我对6个常用Hooks知识点的总结 
+    Web前端行业入门简单、薪资前景好，是许多IT小白跨行的首选。参加培训班是大家跨行web前端最行之有效的方法，那么，web前端培训怎么样？都学些什么内容？下面给大家介绍一下。 1、前端页面重构。主要内 
     </details> 
 
-- 💪 [从数据驱动到领域驱动——领域驱动设计中的数据库设计](https://juejin.cn/post/7187196960569294885) | Wed Jan 11 2023 1:16 AM 
+- 💪 [小册上新｜张鑫旭：技术写作的“收益”超乎想象](https://juejin.cn/post/7187315675105329208) | Wed Jan 11 2023 8:56 AM 
     <details><summary>展开描述 ...</summary> 
-    领域驱动设计改变了表结构设计优先的懒惰思维惯性，领域建模优先保障了数据库设计与领域模型一致，从数据驱动到领域驱动是软件生产方式的变革，为领域模型与软件实现的统一奠定基础。 
+    本小册不仅有“术”的介绍，还有“道”的论述，不仅关心大家写作技能的提高，也希望大家在技术这条路上走得更高更远！ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
