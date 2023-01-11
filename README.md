@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [数据结构与算法（队列）](https://juejin.cn/post/7187392349281419319) | Wed Jan 11 2023 1:54 PM 
+- 🤗 [算法训练营第一天](https://juejin.cn/post/7187413665480441916) | Wed Jan 11 2023 3:16 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 距离上一次刷题好像已经很久很久了，大概有三个多月了吧。10 月拿的 Offer，不算好也不算差，就接下了。然后十月就躺了一个月，11 月就来公司提前实习了，每天的工作基本上都是做需求，和业务打交 
+    </details> 
+
+- 🎡 [数据结构与算法（队列）](https://juejin.cn/post/7187392349281419319) | Wed Jan 11 2023 1:54 PM 
     <details><summary>展开描述 ...</summary> 
     大家好，我是云牧，今天说的是数据结构与算法之队列，先进先出的数据结构，可以想象排队，先到窗口的先办理业务。 
     </details> 
 
-- 🎡 [年度AI论文盘点、腾讯云原生降本增效案例实践 --人工智能周刊第一期](https://juejin.cn/post/7187390493062332453) | Wed Jan 11 2023 1:50 PM 
+- 🕯 [年度AI论文盘点、腾讯云原生降本增效案例实践 --人工智能周刊第一期](https://juejin.cn/post/7187390493062332453) | Wed Jan 11 2023 1:50 PM 
     <details><summary>展开描述 ...</summary> 
     人工智能周刊上线啦，旨在专注于发掘站内优质人工智能的创作者和优质内容，目前会对近期（7-14 天）社区人工智能技术好文进行挖掘和整理。 
     </details> 
 
-- 🕯 [什么是云渲染？云渲染速度快吗？](https://juejin.cn/post/7187381619609567292) | Wed Jan 11 2023 1:12 PM 
+- 🚀 [什么是云渲染？云渲染速度快吗？](https://juejin.cn/post/7187381619609567292) | Wed Jan 11 2023 1:12 PM 
     <details><summary>展开描述 ...</summary> 
     近年来随着计算机技术的逐步发展，万物上‘’云‘’的趋势越发明显，一种基于云计算的SAAS服务平台——云渲染农场开始走入CG行业。而且云渲染农场（如Renderbus瑞云渲染）也在众多CG小伙伴的眼里成 
     </details> 
 
-- 🚀 [11/12月金选作者公布、更好使用 Typescript 的11个技巧｜掘金一周 01.11](https://juejin.cn/post/7187378116673667132) | Wed Jan 11 2023 1:03 PM 
+- 💪 [11/12月金选作者公布、更好使用 Typescript 的11个技巧｜掘金一周 01.11](https://juejin.cn/post/7187378116673667132) | Wed Jan 11 2023 1:03 PM 
     <details><summary>展开描述 ...</summary> 
     【掘金一周 1.11】本期看点：11/12月金选作者公布、一次数据同步的模型分享、为iframe正名... 
-    </details> 
-
-- 💪 [在终端里输入 npm start 后都发生了啥😮😮😮](https://juejin.cn/post/7187368174952644665) | Wed Jan 11 2023 12:20 PM 
-    <details><summary>展开描述 ...</summary> 
-    npm start 命令你是会用,但是你知道输入这个命令之后这其中都经历了些什么吗?通过本篇文章我们将学习 webpack-dev-server 背后的运行原理。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
