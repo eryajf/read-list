@@ -311,19 +311,19 @@
     StrongPity组织通过一个冒充的视频聊天服务的虚假网站，以木马化版本的 Telegram 应用程序瞄准 Android 用户。 
     </details> 
 
-- 🦅 [FreeBuf早报 | 美国加强对私企的太空网络防御；微软将向 ChatGPT 投资100亿美元](https://www.freebuf.com/news/354855.html) | Tue Jan 10 2023 11:26 AM 
+- 🦅 [年度盘点 | 俄乌网络战中的秘密武器TOP 10](https://www.freebuf.com/sectool/354867.html) | Tue Jan 10 2023 2:33 PM 
+    <details><summary>展开描述 ...</summary> 
+    盘点俄乌网络战中最常用的10款秘密武器，了解冲突中使用了哪些数字技术和工具。 
+    </details> 
+
+- 🪄 [FreeBuf早报 | 美国加强对私企的太空网络防御；微软将向 ChatGPT 投资100亿美元](https://www.freebuf.com/news/354855.html) | Tue Jan 10 2023 11:26 AM 
     <details><summary>展开描述 ...</summary> 
     微软正在考虑向基于人工智能的聊天机器人 ChatGPT 的所有者 OpenAI 投资 100 亿美元。 
     </details> 
 
-- 🪄 [火上浇油！巴尔干地区紧张局势下，塞尔维亚政府机构遭DDoS攻击](https://www.freebuf.com/news/354790.html) | Tue Jan 10 2023 5:26 AM 
+- 💻 [火上浇油！巴尔干地区紧张局势下，塞尔维亚政府机构遭DDoS攻击](https://www.freebuf.com/news/354790.html) | Tue Jan 10 2023 5:26 AM 
     <details><summary>展开描述 ...</summary> 
     塞尔维亚政府宣布其内政部网站和 IT 基础设施遭遇了几次“大规模 ”分布式拒绝服务（DDoS）攻击。 
-    </details> 
-
-- 💻 [高通骁龙通告22个安全漏洞，联想、微软和三星设备受影响](https://www.freebuf.com/news/354778.html) | Tue Jan 10 2023 4:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    漏洞影响了使用联想，微软和三星制造的Snapdragon芯片组的笔记本电脑和其他设备。 
     </details> 
 <!-- freebuf:END -->
 
