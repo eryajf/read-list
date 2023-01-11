@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Tagr 5.6.0 文件元数据管理](https://xclient.info/s/tagr.html) | Mon Jan 09 2023 2:59 AM 
+- 🦏 [SimpleMind 2.0.0 小巧的思维导图工具](https://xclient.info/s/simplemind.html) | Wed Jan 11 2023 2:15 AM 
     <details><summary>展开描述 ...</summary> 
-    Tagr是Mac上一款音频元数据编辑器，您可以轻松地编辑信息，例如歌曲的艺术家，标题或专辑封面 
+    SimpleMind是Mac OS X上一款思维导图工具，这款工具非常小巧，完全可以取代笨重的MindManager，对Mac开发者来说称得上是一大福音了。 
     </details> 
 
--  [uDock 3.4&lpar;34002&rpar; 轻量级Dock栏快速启动工具](https://xclient.info/s/udock.html) | Mon Jan 09 2023 2:59 AM 
+-  [Unite 4.3 网站转桌面应用](https://xclient.info/s/unite.html) | Wed Jan 11 2023 2:14 AM 
     <details><summary>展开描述 ...</summary> 
-    轻量级系统扩展uDock可以在系统工具栏中工作，使用键盘快捷键或鼠标热点来激活 μDock，它几乎是隐形的，并且在您需要时随时准备就绪 
+    Unite 使您可以快速，轻松地将网站转换为macOS上全功能的原生应用程序。 
     </details> 
 
-- ⚗️ [OS Cleaner 11.5.7 系统清理软件](https://xclient.info/s/os-cleaner.html) | Mon Jan 09 2023 2:58 AM 
+- ⚗️ [VideoProc Converter 4K 5.4 视频格式转换](https://xclient.info/s/videoproc.html) | Wed Jan 11 2023 2:14 AM 
     <details><summary>展开描述 ...</summary> 
-    OS Cleaner是一款运行在Mac平台上系统清理软件，使用简单，通过点击扫描您电脑中的垃圾和清理发现的文件，然后清理您的系统垃圾，大大节省你的Mac磁盘空间，提高运行速度，非常好用。 
+    VideoProc是Mac平台上的一款视频处理软件，旨在通过全硬件加速来剪切，修剪，合并，调整，转码，编辑4k视频。 
     </details> 
 
-- 🔥 [MarsEdit 5.0.2 博客写作软件](https://xclient.info/s/marsedit.html) | Mon Jan 09 2023 2:57 AM 
+- 🔥 [FSNotes 6.1.0 轻量级的笔记工具](https://xclient.info/s/fsnotes.html) | Wed Jan 11 2023 2:13 AM 
     <details><summary>展开描述 ...</summary> 
-    MarsEdit是一款博客写作软件，可同步博客到本地，预览、编辑、发布、分类、标签等一系列功能。可同步到常见博客上 
+    FSNotes 是一款轻量级的笔记工具，帮助用户快速记录灵感。 
     </details> 
 
-- 🌋 [MetaImage 2.2.1 图像元数据编辑器](https://xclient.info/s/metaimage.html) | Mon Jan 09 2023 2:56 AM 
+- 🌋 [DirEqual 5.0_50010 文件比较工具](https://xclient.info/s/direqual.html) | Wed Jan 11 2023 2:12 AM 
     <details><summary>展开描述 ...</summary> 
-    MetaImage 是一款专为mac用户设计的图像元数据编辑器，可以帮助您轻松的更改或删除照片中的元数据信息，而且MetaImage还为地理和缩略图数据提供了特殊支持。而且支持90多种图像格式（MOS，CR2，DNG，NEF，NRW，JPEG，PNG，TIFF，RAW等等） 
+    DirEqual是Mac平台上的一款文件比较工具，使比较Mac上的本地文件夹变得非常容易。 
     </details> 
 <!-- xclient:END -->
 
