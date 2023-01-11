@@ -333,8 +333,8 @@
 
 <!-- v2ex:START -->
 - 🥸 [想请教大家 nginx 如何判断 server_name](https://www.v2ex.com/t/908296#reply7) | Wed Jan 11 2023 7:44 PM
-- 🤗 [iPhone XR 平换 Pixel 7, 感觉赚麻了?](https://www.v2ex.com/t/908291#reply6) | Wed Jan 11 2023 5:12 PM
-- 🎭 [请帮忙测试这个帖子中的 XSS 是否有效](https://www.v2ex.com/t/908287#reply6) | Wed Jan 11 2023 4:36 PM
+- 🤗 [iPhone XR 平换 Pixel 7, 感觉赚麻了?](https://www.v2ex.com/t/908291#reply8) | Wed Jan 11 2023 5:12 PM
+- 🎭 [请帮忙测试这个帖子中的 XSS 是否有效](https://www.v2ex.com/t/908287#reply7) | Wed Jan 11 2023 4:36 PM
 - 🥷 [bitwarden 让我大吃一惊...](https://www.v2ex.com/t/908286#reply8) | Wed Jan 11 2023 4:28 PM
 - 🐵 [libnss 模块相关问题](https://www.v2ex.com/t/908283#reply0) | Wed Jan 11 2023 4:16 PM<!-- v2ex:END -->
 
