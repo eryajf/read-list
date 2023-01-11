@@ -301,7 +301,7 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [FreeBuf早报 | 美国加强对私营企业的太空网络防御；微软将向 ChatGPT 投资100亿美元](https://www.freebuf.com/news/354855.html) | Tue Jan 10 2023 11:26 AM 
+- 🦄 [FreeBuf早报 | 美国加强对私企的太空网络防御；微软将向 ChatGPT 投资100亿美元](https://www.freebuf.com/news/354855.html) | Tue Jan 10 2023 11:26 AM 
     <details><summary>展开描述 ...</summary> 
     微软正在考虑向基于人工智能的聊天机器人 ChatGPT 的所有者 OpenAI 投资 100 亿美元。 
     </details> 
