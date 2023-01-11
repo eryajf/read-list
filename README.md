@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0111](http://jandan.net/p/112161) | Wed Jan 11 2023 3:48 AM 
+- 🚀 [Quora：关于“存在”的最可怕的理论](http://jandan.net/p/112159) | Wed Jan 11 2023 5:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    为什么外星人似乎忽略了我们？ 
+    </details> 
+
+- 🙉 [BMI过时了吗](http://jandan.net/p/112157) | Wed Jan 11 2023 5:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    我们是否该用更好的方法来衡量健康？ 
+    </details> 
+
+- 🎉 [今日好价 0111](http://jandan.net/p/112161) | Wed Jan 11 2023 5:13 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：25 
     </details> 
 
-- 🙉 [这个女人在YouTube上记录自己的一夫多妻制生活](http://jandan.net/p/112146) | Tue Jan 10 2023 5:26 AM 
+- 🐲 [宠物似乎减缓了老人的衰老过程](http://jandan.net/p/112142) | Wed Jan 11 2023 5:12 AM 
     <details><summary>展开描述 ...</summary> 
-    现在她在YouTube上有90万粉丝。 
+    对心灵有益的东西往往对大脑也有好处。 
     </details> 
 
-- 🎉 [Quora：因为太傻而被拒绝的专利申请](http://jandan.net/p/112148) | Tue Jan 10 2023 5:25 AM 
+-  [迄今最高效的常规制冷剂，安全无害不含氟](http://jandan.net/p/112143) | Wed Jan 11 2023 5:11 AM 
     <details><summary>展开描述 ...</summary> 
-    只有少数几份专利申请相当不可思议 
-    </details> 
-
-- 🐲 [亚变种“克拉肯”：关于XBB.1.5已知的信息](http://jandan.net/p/112151) | Tue Jan 10 2023 5:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    疫苗仍是最有效的防重症手段 
-    </details> 
-
--  [脑力小体操：斗地主残局](http://jandan.net/p/112150) | Tue Jan 10 2023 5:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    轻松一下 
+    利用材料相变时储存或释放能量的方法 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
