@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [产品经理不熟悉业务时，如何估算原型设计的工作量？](https://juejin.cn/post/7187236341959098429) | Wed Jan 11 2023 3:47 AM 
+- 🤗 [聊聊缓存数据库一致性、Spring Boot 3.0该不该升级 | 酱酱的下午茶第151期](https://juejin.cn/post/7187255275701665848) | Wed Jan 11 2023 5:02 AM 
     <details><summary>展开描述 ...</summary> 
-    上个月，我的一个同样做产品经理的大学同学从公司“毕业”了。想到当前大环境低迷，公司裁人可以理解。但他被裁的原因竟是多次不能按时完成常规的原型设计工作，这让我大为意外，毕竟我这位同学工作已有数年，也算是 
+    CSS &amp; SVG 绘制写作网格线的3种方式 Qwik-前端性能的终极方案？ 逐步解析 koa2 核心实现原理及代码实践 Spring Boot 3.0横空出世，快来看看是不是该升级了 货拉拉SSL证 
     </details> 
 
-- 🎡 [房企如何向制造业学习，提高运营效率，降本增效？](https://juejin.cn/post/7187230989695844410) | Wed Jan 11 2023 3:27 AM 
+- 🎡 [这可能是Feign调用可重试的最佳方案了](https://juejin.cn/post/7187252990821007397) | Wed Jan 11 2023 4:53 AM 
     <details><summary>展开描述 ...</summary> 
-    近年来，随着外部环境的变化，国内的房地产市场受到了很大的冲击，也发生了显著的变化。很多人都认为房地产行业已经迎来了「青铜时代」甚至是「黑铁时代」 
+    前言 在我们公司里，不同的服务之间通过Feign进行远程调用，但是，我们在尝试使调用可重试时遇到了一个小问题，Feign框架本身可以配置的自己的重试机制，但是它是一刀切的方式，所有的调用都是同样的机制 
     </details> 
 
-- 🕯 [“数实融合”新时代，解读数据治理的新风向！](https://juejin.cn/post/7187230132196048954) | Wed Jan 11 2023 3:23 AM 
+- 🕯 [【SpringBoot实战专题】「开发实战系列」从零开始教你舒服的使用RedisTemplate操作Redis数据](https://juejin.cn/post/7187252340591624250) | Wed Jan 11 2023 4:53 AM 
     <details><summary>展开描述 ...</summary> 
-    数据作为国际数字主权竞争的核心资源，是国家明确增列的新型生产要素。数据质量的高低、数据价值的挖掘，是影响企业发展的关键要素之一。 
+    SpringBoot快速操作Redis数据 在SpringBoot框架中提供了spring-boot-starter-data-redis的依赖组件进行操作Redis服务，当引入了该组件之后，只需要配 
     </details> 
 
-- 🚀 [Spring Security实现会话管理](https://juejin.cn/post/7187020239182725181) | Tue Jan 10 2023 1:53 PM 
+- 🚀 [工作流引擎架构设计](https://juejin.cn/post/7187252553933914172) | Wed Jan 11 2023 4:51 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 要学的还有很多, 不过前期比较重点的知识已经写完了, 接下来是一两章比较无聊的章节, 不过这种无聊的章节却能够体现Spring Security的优势, 当然本章的内容还是比较重要的 本章内容  
+    最近开发的安全管理平台新增了很多工单申请流程需求，比如加白申请，开通申请等等。最开始的两个需求，为了方便，也没多想，就直接开发了对应的业务代码。 但随着同类需求不断增多 
     </details> 
 
-- 💪 [Raft算法](https://juejin.cn/post/7187019893617721404) | Tue Jan 10 2023 1:48 PM 
+- 💪 [货拉拉首届技术开放日-六场精彩的技术分享](https://juejin.cn/post/7187237923039739964) | Wed Jan 11 2023 3:54 AM 
     <details><summary>展开描述 ...</summary> 
-    Raft算法 什么是Raft RAFT协议是一种共识算法&lpar;consensus algorithm&rpar;。什么是共识算法，说白了也就是大多数成员达成一致的算法。那对于大多数有定量吗？有，大于等于N/2+1就 
+    《Swift UI与灵动岛》叶孤城 分享提纲： 声明式和命令式UI框架的区别 响应式ReactorKit 灵动岛 分享PPT： https://therouter.cn/openday/1.pdf 分 
     </details> 
 <!-- juejin:END -->
 ### 少数派
