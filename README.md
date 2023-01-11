@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [中国银保监会发布《银行保险监管统计管理办法》](https://www.freebuf.com/news/354931.html) | Wed Jan 11 2023 8:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    《办法》包括总则、监管统计管理机构、监管统计调查管理、银行保险机构监管统计管理、监管统计监督管理和附则等。 
+    </details> 
+
 - 🦄 [StrongPity 黑客分发带有后门的应用程序以瞄准 Android 用户](https://www.freebuf.com/news/354887.html) | Wed Jan 11 2023 3:37 AM 
     <details><summary>展开描述 ...</summary> 
     StrongPity组织通过一个冒充的视频聊天服务的虚假网站，以木马化版本的 Telegram 应用程序瞄准 Android 用户。 
     </details> 
 
-- 🦄 [FreeBuf早报 | 美国加强对私企的太空网络防御；微软将向 ChatGPT 投资100亿美元](https://www.freebuf.com/news/354855.html) | Tue Jan 10 2023 11:26 AM 
+- 🦅 [FreeBuf早报 | 美国加强对私企的太空网络防御；微软将向 ChatGPT 投资100亿美元](https://www.freebuf.com/news/354855.html) | Tue Jan 10 2023 11:26 AM 
     <details><summary>展开描述 ...</summary> 
     微软正在考虑向基于人工智能的聊天机器人 ChatGPT 的所有者 OpenAI 投资 100 亿美元。 
     </details> 
 
-- 🦅 [火上浇油！巴尔干地区紧张局势下，塞尔维亚政府机构遭DDoS攻击](https://www.freebuf.com/news/354790.html) | Tue Jan 10 2023 5:26 AM 
+- 🪄 [火上浇油！巴尔干地区紧张局势下，塞尔维亚政府机构遭DDoS攻击](https://www.freebuf.com/news/354790.html) | Tue Jan 10 2023 5:26 AM 
     <details><summary>展开描述 ...</summary> 
     塞尔维亚政府宣布其内政部网站和 IT 基础设施遭遇了几次“大规模 ”分布式拒绝服务（DDoS）攻击。 
     </details> 
 
-- 🪄 [高通骁龙通告22个安全漏洞，联想、微软和三星设备受影响](https://www.freebuf.com/news/354778.html) | Tue Jan 10 2023 4:20 AM 
+- 💻 [高通骁龙通告22个安全漏洞，联想、微软和三星设备受影响](https://www.freebuf.com/news/354778.html) | Tue Jan 10 2023 4:20 AM 
     <details><summary>展开描述 ...</summary> 
     漏洞影响了使用联想，微软和三星制造的Snapdragon芯片组的笔记本电脑和其他设备。 
-    </details> 
-
-- 💻 [为逃避追捕，暗网毒品市场开始使用定制化安卓应用](https://www.freebuf.com/articles/354768.html) | Tue Jan 10 2023 2:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    在暗网上销售毒品和其他非法商品的在线市场已经开始使用定制的安卓应用程序来增加隐私，并逃避警方的追捕。 
     </details> 
 <!-- freebuf:END -->
 
