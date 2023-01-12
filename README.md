@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [Twitter 回应，2 亿用户数据不是通过系统漏洞流出](https://www.freebuf.com/articles/355054.html) | Thu Jan 12 2023 6:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    沸沸扬扬的 Twitter 2 亿用户数据泄露并在网上出售的事件可能出现了反转。 
+    </details> 
+
 - 🦄 [FreeBuf早报 | 轨交业已成黑客攻击重灾区；丹麦央行网站遭 DDoS 攻击](https://www.freebuf.com/articles/354935.html) | Wed Jan 11 2023 9:03 AM 
     <details><summary>展开描述 ...</summary> 
     亚太地区的政府和军事组织正成为一个先前未知的APT攻击者 Dark Pink 的攻击目标。 
     </details> 
 
-- 🦄 [中国银保监会发布《银行保险监管统计管理办法》](https://www.freebuf.com/news/354931.html) | Wed Jan 11 2023 8:36 AM 
+- 🦅 [中国银保监会发布《银行保险监管统计管理办法》](https://www.freebuf.com/news/354931.html) | Wed Jan 11 2023 8:36 AM 
     <details><summary>展开描述 ...</summary> 
     《办法》包括总则、监管统计管理机构、监管统计调查管理、银行保险机构监管统计管理、监管统计监督管理和附则等。 
     </details> 
 
-- 🦅 [刚被美国政府禁止，Tiktok 又遭遇欧盟隐私保护难题？](https://www.freebuf.com/news/354919.html) | Wed Jan 11 2023 7:54 AM 
+- 🪄 [刚被美国政府禁止，Tiktok 又遭遇欧盟隐私保护难题？](https://www.freebuf.com/news/354919.html) | Wed Jan 11 2023 7:54 AM 
     <details><summary>展开描述 ...</summary> 
     TikTok首席执行官周受资10日已赴欧盟进行沟通，被告知要在隐私合规等领域做出改进。 
     </details> 
 
-- 🪄 [StrongPity 黑客分发带有后门的应用程序以瞄准 Android 用户](https://www.freebuf.com/news/354887.html) | Wed Jan 11 2023 3:37 AM 
+- 💻 [StrongPity 黑客分发带有后门的应用程序以瞄准 Android 用户](https://www.freebuf.com/news/354887.html) | Wed Jan 11 2023 3:37 AM 
     <details><summary>展开描述 ...</summary> 
     StrongPity组织通过一个冒充的视频聊天服务的虚假网站，以木马化版本的 Telegram 应用程序瞄准 Android 用户。 
-    </details> 
-
-- 💻 [商用密码应用与安全性评估常见问题汇总整理](https://www.freebuf.com/articles/compliance/354883.html) | Wed Jan 11 2023 3:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    十三个问题解惑商用密码应用与安全性评估常见要点。 
     </details> 
 <!-- freebuf:END -->
 
