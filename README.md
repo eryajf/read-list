@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [EdgeView 3.9.4 图像查看器](https://xclient.info/s/edgeview.html) | Thu Jan 12 2023 2:40 AM 
+- 🦏 [Yate 6.13.1 音频文件标签小工具](https://xclient.info/s/yate.html) | Thu Jan 12 2023 3:01 AM 
     <details><summary>展开描述 ...</summary> 
-    EdgeView是MacOS X的一款图像查看器。你可以打开各种图像文件，也可以打开像ZIP这样的归档文件，而不用提取。您可以在内置的文件浏览器中检查和打开文件，并且可以连接到FTP并直接打开文件。 
+    Yate是一款Mac平台的音乐标签及管理工具，能够帮助我们轻松编辑音乐文件的元标签数据 
     </details> 
 
--  [BookMacster 3.0.11 多功能书签管理应用](https://xclient.info/s/bookmacster.html) | Thu Jan 12 2023 2:38 AM 
+-  [Synkmark 3.0.11 Safari书签同步](https://xclient.info/s/synkmark.html) | Thu Jan 12 2023 3:01 AM 
     <details><summary>展开描述 ...</summary> 
-    BookMacster这款多功能书签管理工具，它能够提取所有书签，使您能够对它们进行排序并从列表中删除重复项，然后帮助您将清理后的版本发送回浏览器。 
+    Synkmark是Mac os平台上的一款帮助用户在Safari上同步自己的标签的Mac软件 
     </details> 
 
-- ⚗️ [Allavsoft Video Downloader Converter 3.25.3.8409 视频下载工具](https://xclient.info/s/allavsoft-video-downloader-converter.html) | Thu Jan 12 2023 2:36 AM 
+- ⚗️ [SimpleMind 2.0.1 小巧的思维导图工具](https://xclient.info/s/simplemind.html) | Thu Jan 12 2023 3:00 AM 
     <details><summary>展开描述 ...</summary> 
-    Allavsoft Video Downloader Converter 是一款运行在macOS平台上的视频下载软件，支持任何视频文件格式的转换，支持在任何移动设备上脱机播放下载的视频。 
+    SimpleMind是Mac OS X上一款思维导图工具，这款工具非常小巧，完全可以取代笨重的MindManager，对Mac开发者来说称得上是一大福音了。 
     </details> 
 
-- 🔥 [PowerPhotos 2.1.4b1 优秀的图片管理工具](https://xclient.info/s/powerphotos.html) | Thu Jan 12 2023 2:34 AM 
+- 🔥 [Rectangle Pro 2.7.5 窗口管理](https://xclient.info/s/rectangle-pro.html) | Thu Jan 12 2023 2:59 AM 
     <details><summary>展开描述 ...</summary> 
-    PowerPhotos 是一款Mac上优秀的图片管理工具，让你能够直接浏览图库，节省iCloud空间，并能够检测重复图片，让你快速删除多余的图片，简单易用。 
+    Rectangle是Mac平台上的一款窗口管理应用，可以使用键盘快捷键移动和调整macOS中的窗口大小。 
     </details> 
 
-- 🌋 [GrandTotal 8.0.2.13 一款非常实用的发票设计工具](https://xclient.info/s/grandtotal.html) | Thu Jan 12 2023 2:27 AM 
+- 🌋 [Receipts 1.9.18b2 财务发票管理软件](https://xclient.info/s/receipts.html) | Thu Jan 12 2023 2:58 AM 
     <details><summary>展开描述 ...</summary> 
-    GrandTotal 是Mac OS X 上的一款非常实用的发票设计工具，可以根据一个内置的模板编辑器来重新调整布局，创建属于自己的发票模版，适合企业和个人来进行形象设计。 
+    Receipts是一款非常好用的理财软件，具有财务状况管理操作，并拥有数据统计、金额转换等功能。 
     </details> 
 <!-- xclient:END -->
 
