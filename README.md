@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：英特尔发布傲腾持久内存 300 系列、龙芯公布 2K2000 详情等](https://sspai.com/post/77773) | Thu Jan 12 2023 12:38 AM 
+- 👹 [年度征文｜差生文具多，纸和笔才是笔记王道吗？](https://sspai.com/post/77745) | Thu Jan 12 2023 3:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    编注：本文是少数派2022年度征文活动的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。今年我们采用了更加依赖用户反馈数据的奖金结算机制，充电、收藏和阅读量都将不同程度地影响文章的最终排 ...&lt;a href=&quot;https://sspai.com/post/77745&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派早报：英特尔发布傲腾持久内存 300 系列、龙芯公布 2K2000 详情等](https://sspai.com/post/77773) | Thu Jan 12 2023 12:38 AM 
     <details><summary>展开描述 ...</summary> 
     Apple 推出《英雄联盟手游》手机交通卡面、微软彻底结束对 Windows 7 系统的支持等。&lt;a href=&quot;https://sspai.com/post/77773&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [万字试读 02 | 图表、母版和快捷键，今年一整年都会用得上的 PPT 技巧](https://sspai.com/post/77606) | Wed Jan 11 2023 10:01 AM 
+- 🤭 [万字试读 02 | 图表、母版和快捷键，今年一整年都会用得上的 PPT 技巧](https://sspai.com/post/77606) | Wed Jan 11 2023 10:01 AM 
     <details><summary>展开描述 ...</summary> 
     付费栏目万字试读「万字试读」是体验少数派付费栏目内容的最佳方式。我们希望用一万字的篇幅，系统、深度地分享有价值的内容，让少数派读者可以享受获得新知的愉悦。本期「万字试读」内容选自电子工业出版社再版新书 ...&lt;a href=&quot;https://sspai.com/post/77606&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [Apple 推出 iCloud+ 订阅优惠，这些是你可能会关心的问题](https://sspai.com/post/77758) | Wed Jan 11 2023 8:05 AM 
+- 🥸 [Apple 推出 iCloud+ 订阅优惠，这些是你可能会关心的问题](https://sspai.com/post/77758) | Wed Jan 11 2023 8:05 AM 
     <details><summary>展开描述 ...</summary> 
     1月11日，Apple发布新闻稿《Apple庆祝在娱乐领域取得突破性成就的一年》，Apple服务业务高级副总裁EddyCue在新闻稿中回顾了2022年Apple旗下各项服务取得的进展与成绩。其中值得关 ...&lt;a href=&quot;https://sspai.com/post/77758&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [新一年的健康生活，从这些饮食与运动知识开始](https://sspai.com/post/77719) | Wed Jan 11 2023 6:30 AM 
+- 🙉 [新一年的健康生活，从这些饮食与运动知识开始](https://sspai.com/post/77719) | Wed Jan 11 2023 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     「身体健康」是最质朴的祝福，也是最基本的期待，但往往又是最艰难吟唱的进行曲。当我们开始喊着「要自律」的时候，也通常是这件事即将被放弃的时候，毕竟当你向身边那些均衡饮食、坚持运动的自律之人讨教如何持之以 ...&lt;a href=&quot;https://sspai.com/post/77719&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [年度征文｜把人生活成旷野，我的「焦虑盒子」笔记系统](https://sspai.com/post/77685) | Wed Jan 11 2023 3:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    编注：本文是少数派2022年度征文活动的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。今年我们采用了更加依赖用户反馈数据的奖金结算机制，充电、收藏和阅读量都将不同程度地影响文章的最终排 ...&lt;a href=&quot;https://sspai.com/post/77685&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
