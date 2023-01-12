@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [SimpleMind 2.0.0 小巧的思维导图工具](https://xclient.info/s/simplemind.html) | Wed Jan 11 2023 2:15 AM 
+- 🦏 [EdgeView 3.9.4 图像查看器](https://xclient.info/s/edgeview.html) | Thu Jan 12 2023 2:40 AM 
     <details><summary>展开描述 ...</summary> 
-    SimpleMind是Mac OS X上一款思维导图工具，这款工具非常小巧，完全可以取代笨重的MindManager，对Mac开发者来说称得上是一大福音了。 
+    EdgeView是MacOS X的一款图像查看器。你可以打开各种图像文件，也可以打开像ZIP这样的归档文件，而不用提取。您可以在内置的文件浏览器中检查和打开文件，并且可以连接到FTP并直接打开文件。 
     </details> 
 
--  [Unite 4.3 网站转桌面应用](https://xclient.info/s/unite.html) | Wed Jan 11 2023 2:14 AM 
+-  [BookMacster 3.0.11 多功能书签管理应用](https://xclient.info/s/bookmacster.html) | Thu Jan 12 2023 2:38 AM 
     <details><summary>展开描述 ...</summary> 
-    Unite 使您可以快速，轻松地将网站转换为macOS上全功能的原生应用程序。 
+    BookMacster这款多功能书签管理工具，它能够提取所有书签，使您能够对它们进行排序并从列表中删除重复项，然后帮助您将清理后的版本发送回浏览器。 
     </details> 
 
-- ⚗️ [VideoProc Converter 4K 5.4 视频格式转换](https://xclient.info/s/videoproc.html) | Wed Jan 11 2023 2:14 AM 
+- ⚗️ [Allavsoft Video Downloader Converter 3.25.3.8409 视频下载工具](https://xclient.info/s/allavsoft-video-downloader-converter.html) | Thu Jan 12 2023 2:36 AM 
     <details><summary>展开描述 ...</summary> 
-    VideoProc是Mac平台上的一款视频处理软件，旨在通过全硬件加速来剪切，修剪，合并，调整，转码，编辑4k视频。 
+    Allavsoft Video Downloader Converter 是一款运行在macOS平台上的视频下载软件，支持任何视频文件格式的转换，支持在任何移动设备上脱机播放下载的视频。 
     </details> 
 
-- 🔥 [FSNotes 6.1.0 轻量级的笔记工具](https://xclient.info/s/fsnotes.html) | Wed Jan 11 2023 2:13 AM 
+- 🔥 [PowerPhotos 2.1.4b1 优秀的图片管理工具](https://xclient.info/s/powerphotos.html) | Thu Jan 12 2023 2:34 AM 
     <details><summary>展开描述 ...</summary> 
-    FSNotes 是一款轻量级的笔记工具，帮助用户快速记录灵感。 
+    PowerPhotos 是一款Mac上优秀的图片管理工具，让你能够直接浏览图库，节省iCloud空间，并能够检测重复图片，让你快速删除多余的图片，简单易用。 
     </details> 
 
-- 🌋 [DirEqual 5.0_50010 文件比较工具](https://xclient.info/s/direqual.html) | Wed Jan 11 2023 2:12 AM 
+- 🌋 [GrandTotal 8.0.2.13 一款非常实用的发票设计工具](https://xclient.info/s/grandtotal.html) | Thu Jan 12 2023 2:27 AM 
     <details><summary>展开描述 ...</summary> 
-    DirEqual是Mac平台上的一款文件比较工具，使比较Mac上的本地文件夹变得非常容易。 
+    GrandTotal 是Mac OS X 上的一款非常实用的发票设计工具，可以根据一个内置的模板编辑器来重新调整布局，创建属于自己的发票模版，适合企业和个人来进行形象设计。 
     </details> 
 <!-- xclient:END -->
 
