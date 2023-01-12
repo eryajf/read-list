@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [容器在公有云上的落地姿势](https://juejin.cn/post/7187690051475537975) | Thu Jan 12 2023 9:09 AM 
+- 🤗 [2022 年，闭关悟道的一年](https://juejin.cn/post/7187704481042137146) | Thu Jan 12 2023 10:06 AM 
     <details><summary>展开描述 ...</summary> 
-    容器（container），并不是一种虚拟化（virtualization）技术，而是一种进程隔离（isolation）技术，从内核空间、资源和安全等方面对进程做隔离。 
+    「回顾2022，展望2023，我正在参与2022年终总结征文大赛活动」 我的 2022 年并没有什么波澜，没有别人写的 2022 年总结那么 轰轰烈烈，回想起来，说真的我自己都觉得没什么可写的，实在平 
     </details> 
 
-- 🎡 [Jenkins 过程记录（一）](https://juejin.cn/post/7187688996259463223) | Thu Jan 12 2023 9:04 AM 
+- 🎡 [闲话 dubbogo 社区](https://juejin.cn/post/7187704032218546236) | Thu Jan 12 2023 10:04 AM 
     <details><summary>展开描述 ...</summary> 
-    过程记录 这里包的安装模式注意两个问题以作记录 很多资料片说yum 那种方式可行，我折腾了几天貌似一直报各种奇怪的问题，可能我下的jenkins2.3版本要高一点儿，一种说法是没有再维护jenkins 
+    dubbogo 社区马上要进入第八个年头。dubbogo 项目初期的使命就是 &quot;Bridging the gap between Java and Go&quot;，目前 dubbogo 已经对齐所有 dub 
     </details> 
 
-- 🕯 [云间玉兔,自出机抒,从零开始制作Web插件网页特效小兔子组件&lpar;小挂件widget&rpar;,基于原生CSS/NPM](https://juejin.cn/post/7187686050423128121) | Thu Jan 12 2023 8:54 AM 
+- 🕯 [如何使用 rust 写内核模块](https://juejin.cn/post/7187694172579561528) | Thu Jan 12 2023 9:24 AM 
     <details><summary>展开描述 ...</summary> 
-    著意登楼瞻玉兔，何人张幕遮银阙？又到了一年一度的网页小挂件环节，以往我们都是集成别人开源的组件，但所谓熟读唐诗三百首，不会做诗也会吟，熟读了别人的东西，做几首打油诗也是可以的，但若不能自出机抒，却也成 
+    近年来，Rust 语言以内存安全、高可靠性、零抽象等能力获得大量开发者关注，而这些特性恰好是内核编程中所需要的，所以我们看下如何用rust来写Linux内核模块。 
     </details> 
 
-- 🚀 [如何手写 umi 的核心插件模块](https://juejin.cn/post/7187685850296090681) | Thu Jan 12 2023 8:52 AM 
+- 🚀 [「兔了个兔」像素大战，速来！绘制属于你的新春印记~](https://juejin.cn/post/7187670422434807869) | Thu Jan 12 2023 7:52 AM 
     <details><summary>展开描述 ...</summary> 
-    手写 umi-core，实现简单的插件机制和建议的插件 api。希望这个文章能够帮助你掌握 umi。 
+    我正在参加「兔了个兔」创意投稿大赛，详情请看：[「兔了个兔」创意投稿大赛]想必大家应该看过Reddit举办的r/Place，用户可以在一张1000x1000的画布每隔五分钟画一个像素点。 
     </details> 
 
-- 💪 [走好这三步，不再掉进云上安全的沟里！](https://juejin.cn/post/7187683412801486908) | Thu Jan 12 2023 8:44 AM 
+- 💪 [前端字体那些事儿](https://juejin.cn/post/7187669362386894906) | Thu Jan 12 2023 7:48 AM 
     <details><summary>展开描述 ...</summary> 
-    一直以来，公有云安全是横亘在广大用户面前的一道鸿沟。云安全（Cloud Security）是指用于控制云计算的安全性、合规性和其他使用风险的过程、机制和服务。 
+    字体对于前端开发来说应该是比较熟悉又陌生的概念，本篇文章带大家了解前端和字体相关的各种知识以及未来展望！ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
