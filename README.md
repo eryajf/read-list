@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2022 年，闭关悟道的一年](https://juejin.cn/post/7187704481042137146) | Thu Jan 12 2023 10:06 AM 
+- 🤗 [后端语言很难？前端入门go基础语法只需要3小时！（中）](https://juejin.cn/post/7187717463218323493) | Thu Jan 12 2023 10:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    继续接着第一部分，上面我们讲到了复合数据类型的数组，现在我们接着讲跟数组息息相关的切片，切片其实跟js的数组概念很像 第一部分：后端语言很难？前端入门go基础语法只需要3小时！（上&rpar; 顺便给大家看下， 
+    </details> 
+
+- 🎡 [接口突然超时10宗罪。。。](https://juejin.cn/post/7187713794561278013) | Thu Jan 12 2023 10:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 不知道你有没有遇到过这样的场景：我们提供的某个API接口，响应时间原本一直都很快，但在某个不经意的时间点，却出现了接口超时问题。 也许你会有点懵，到底是为什么呢？ 今天跟大家一起聊聊接口突然超时 
+    </details> 
+
+- 🕯 [Android架构演进 · 设计模式· 为什么建议你一定要学透设计模式？](https://juejin.cn/post/7187713181769269285) | Thu Jan 12 2023 10:40 AM 
+    <details><summary>展开描述 ...</summary> 
+    小木箱带你学习Android架构演进 · 设计模式· 为什么建议你一定要学透设计模式？有的时候架构能力是倒逼的，面对复杂的业务频繁的变化，不断的挑战！设计模式就显得尤为重要! 
+    </details> 
+
+- 🚀 [2022 年，闭关悟道的一年](https://juejin.cn/post/7187704481042137146) | Thu Jan 12 2023 10:06 AM 
     <details><summary>展开描述 ...</summary> 
     「回顾2022，展望2023，我正在参与2022年终总结征文大赛活动」 我的 2022 年并没有什么波澜，没有别人写的 2022 年总结那么 轰轰烈烈，回想起来，说真的我自己都觉得没什么可写的，实在平 
     </details> 
 
-- 🎡 [闲话 dubbogo 社区](https://juejin.cn/post/7187704032218546236) | Thu Jan 12 2023 10:04 AM 
+- 💪 [闲话 dubbogo 社区](https://juejin.cn/post/7187704032218546236) | Thu Jan 12 2023 10:04 AM 
     <details><summary>展开描述 ...</summary> 
     dubbogo 社区马上要进入第八个年头。dubbogo 项目初期的使命就是 &quot;Bridging the gap between Java and Go&quot;，目前 dubbogo 已经对齐所有 dub 
-    </details> 
-
-- 🕯 [如何使用 rust 写内核模块](https://juejin.cn/post/7187694172579561528) | Thu Jan 12 2023 9:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    近年来，Rust 语言以内存安全、高可靠性、零抽象等能力获得大量开发者关注，而这些特性恰好是内核编程中所需要的，所以我们看下如何用rust来写Linux内核模块。 
-    </details> 
-
-- 🚀 [「兔了个兔」像素大战，速来！绘制属于你的新春印记~](https://juejin.cn/post/7187670422434807869) | Thu Jan 12 2023 7:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    我正在参加「兔了个兔」创意投稿大赛，详情请看：[「兔了个兔」创意投稿大赛]想必大家应该看过Reddit举办的r/Place，用户可以在一张1000x1000的画布每隔五分钟画一个像素点。 
-    </details> 
-
-- 💪 [前端字体那些事儿](https://juejin.cn/post/7187669362386894906) | Thu Jan 12 2023 7:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    字体对于前端开发来说应该是比较熟悉又陌生的概念，本篇文章带大家了解前端和字体相关的各种知识以及未来展望！ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
