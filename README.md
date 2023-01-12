@@ -371,7 +371,7 @@
 <!-- sspai:START -->
 - 👹 [要是回去能有止痛药水：评 Rewind](https://sspai.com/post/77790) | Thu Jan 12 2023 10:01 AM 
     <details><summary>展开描述 ...</summary> 
-    Rewind 或许还存在很多问题，或许也不会是「后悔药」的终极形态，但确实是一个处处有巧思、处处用巧劲的有趣作品。无论你的选择如何，相信都能在尝试中有所启发和思考。&lt;a href=&quot;https://sspai.com/post/77790&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    Rewind 或许还存在很多问题，或许也不会是「后悔药」的终极形态，但确实是一个处处有巧思、处处用巧劲的有趣作品。无论选择如何，都能在尝试中有所启发和思考。&lt;a href=&quot;https://sspai.com/post/77790&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
 - 🐘 [新玩意 133｜少数派的作者们最近买了啥？](https://sspai.com/post/77777) | Thu Jan 12 2023 7:53 AM 
