@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [聊一聊c++模板元编程](https://juejin.cn/post/7187673078111928375) | Thu Jan 12 2023 8:02 AM 
+- 🤗 [容器在公有云上的落地姿势](https://juejin.cn/post/7187690051475537975) | Thu Jan 12 2023 9:09 AM 
     <details><summary>展开描述 ...</summary> 
-    从一个例子开发，详细介绍c++模板元编程。再介绍其所依赖的两个核心规则：模板函数重载匹配规则以及SFINAE。 
+    容器（container），并不是一种虚拟化（virtualization）技术，而是一种进程隔离（isolation）技术，从内核空间、资源和安全等方面对进程做隔离。 
     </details> 
 
-- 🎡 [基于 Oasis 的轻量化数字人（MetaAvatar）创作平台](https://juejin.cn/post/7187668424829927479) | Thu Jan 12 2023 7:45 AM 
+- 🎡 [Jenkins 过程记录（一）](https://juejin.cn/post/7187688996259463223) | Thu Jan 12 2023 9:04 AM 
     <details><summary>展开描述 ...</summary> 
-    Oasis 团队具备多年引擎与 Web 编辑器的开发经验，致力于打造移动为先，前端友好的互动创作平台。借助端 + 云服务一体化的模式，打造新一代的互动开发工作流，赋能前端业务新形态，迎接传统业务的数字 
+    过程记录 这里包的安装模式注意两个问题以作记录 很多资料片说yum 那种方式可行，我折腾了几天貌似一直报各种奇怪的问题，可能我下的jenkins2.3版本要高一点儿，一种说法是没有再维护jenkins 
     </details> 
 
-- 🕯 [10分钟在 Rainbond 上部署 mall 电商项目](https://juejin.cn/post/7187661654576857144) | Thu Jan 12 2023 7:21 AM 
+- 🕯 [云间玉兔,自出机抒,从零开始制作Web插件网页特效小兔子组件&lpar;小挂件widget&rpar;,基于原生CSS/NPM](https://juejin.cn/post/7187686050423128121) | Thu Jan 12 2023 8:54 AM 
     <details><summary>展开描述 ...</summary> 
-    很多小伙伴在学习 mall 电商项目时，都会在部署上折腾许久，虽然目前已经提供了很多种部署方式，比如 在 Linux 上部署 mall 、使用 Docker 或 DockerCompose 部署 ma 
+    著意登楼瞻玉兔，何人张幕遮银阙？又到了一年一度的网页小挂件环节，以往我们都是集成别人开源的组件，但所谓熟读唐诗三百首，不会做诗也会吟，熟读了别人的东西，做几首打油诗也是可以的，但若不能自出机抒，却也成 
     </details> 
 
-- 🚀 [语雀质量体系与自动化](https://juejin.cn/post/7187660679036272695) | Thu Jan 12 2023 7:14 AM 
+- 🚀 [如何手写 umi 的核心插件模块](https://juejin.cn/post/7187685850296090681) | Thu Jan 12 2023 8:52 AM 
     <details><summary>展开描述 ...</summary> 
-    我们的解法是“教练模式”。 什么是教练模式? 简单的说 QA同学就相当于教练，通过各种质量保障机制规范和提升开发同学的质量意识，提供完备的质量服务提升研发效能，从而提升语雀产品的质量。 
+    手写 umi-core，实现简单的插件机制和建议的插件 api。希望这个文章能够帮助你掌握 umi。 
     </details> 
 
-- 💪 [Android自定义ViewGroup交互进阶，右滑进入详情](https://juejin.cn/post/7187658901809004602) | Thu Jan 12 2023 7:07 AM 
+- 💪 [走好这三步，不再掉进云上安全的沟里！](https://juejin.cn/post/7187683412801486908) | Thu Jan 12 2023 8:44 AM 
     <details><summary>展开描述 ...</summary> 
-    自定义Viewgroup右滑进入详情 前言 在之前的 ViewGroup 的事件相关一文中，我们详细的讲解了一些常见的 ViewGroup 需要处理的事件与运动的方式。 我们了解了如何处理拦截事件，如 
+    一直以来，公有云安全是横亘在广大用户面前的一道鸿沟。云安全（Cloud Security）是指用于控制云计算的安全性、合规性和其他使用风险的过程、机制和服务。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
