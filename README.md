@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [企业里的前后端是怎么部署的呢？](https://www.v2ex.com/t/908342#reply3) | Thu Jan 12 2023 2:24 AM
-- 🤗 [招募开发合作小伙伴一起做项目](https://www.v2ex.com/t/908331#reply17) | Thu Jan 12 2023 2:06 AM
-- 🎭 [现在 macbook m1 m2 系列能用 Linux 作为主系统了吗？](https://www.v2ex.com/t/908306#reply14) | Thu Jan 12 2023 12:55 AM
-- 🥷 [想请教大家 nginx 如何判断 server_name](https://www.v2ex.com/t/908296#reply7) | Wed Jan 11 2023 7:44 PM
-- 🐵 [iPhone XR 平换 Pixel 7, 感觉赚麻了?](https://www.v2ex.com/t/908291#reply11) | Wed Jan 11 2023 5:12 PM<!-- v2ex:END -->
+- 🥸 [2023 年了，腾讯轻量云（东京）值得买吗？](https://www.v2ex.com/t/908362#reply2) | Thu Jan 12 2023 3:00 AM
+- 🤗 [企业里的前后端是怎么部署的呢？](https://www.v2ex.com/t/908342#reply8) | Thu Jan 12 2023 2:24 AM
+- 🎭 [招募开发合作小伙伴一起做项目](https://www.v2ex.com/t/908331#reply29) | Thu Jan 12 2023 2:06 AM
+- 🥷 [现在 macbook m1 m2 系列能用 Linux 作为主系统了吗？](https://www.v2ex.com/t/908306#reply16) | Thu Jan 12 2023 12:55 AM
+- 🐵 [想请教大家 nginx 如何判断 server_name](https://www.v2ex.com/t/908296#reply7) | Wed Jan 11 2023 7:44 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
