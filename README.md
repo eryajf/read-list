@@ -148,9 +148,9 @@
 ### 好工具周刊
 
 <!-- bestxtools:START -->
-- 🕯 [好工具周刊（第 44 期）: VIM Adventures, AST Explorer, HTMLShell, Color Palette from ...](https://discuss-cn.bestxtools.com/d/120/1) | Thu Jan 05 2023 7:16 AM
-- 🦩 [抽奖送话费，好工具周刊与 DTO 社区祝大家 2023 年好运连连](https://discuss-cn.bestxtools.com/d/118/1) | Fri Dec 30 2022 3:21 AM
-- 🙉 [好工具周刊（第 43 期）: 亲戚称谓计算器, 地铁数据库, Mozilla Observatory, Web Developer Checklist,...](https://discuss-cn.bestxtools.com/d/117/1) | Thu Dec 29 2022 5:55 AM<!-- bestxtools:END -->
+- 🕯 [好工具周刊（第 45 期）: CSS Specificity Calculator, Vim Online, Smooth Shadow, ...](https://discuss-cn.bestxtools.com/d/122/1) | Thu Jan 12 2023 2:11 PM
+- 🦩 [好工具周刊（第 44 期）: VIM Adventures, AST Explorer, HTMLShell, Color Palette from ...](https://discuss-cn.bestxtools.com/d/120/1) | Thu Jan 05 2023 7:16 AM
+- 🙉 [抽奖送话费，好工具周刊与 DTO 社区祝大家 2023 年好运连连](https://discuss-cn.bestxtools.com/d/118/1) | Fri Dec 30 2022 3:21 AM<!-- bestxtools:END -->
 
 ### 王登科-DK博客
 
