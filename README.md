@@ -665,29 +665,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0112](http://jandan.net/p/112171) | Thu Jan 12 2023 3:15 AM 
+- 🚀 [Quora：过去50年最大的科学骗局](http://jandan.net/p/112169) | Thu Jan 12 2023 5:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    他们的傻瓜是不朽的，无视任何对其信誉的损害 
+    </details> 
+
+- 🙉 [2022神经科学年度回顾](http://jandan.net/p/112165) | Thu Jan 12 2023 5:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    对平凡的赞美。 
+    </details> 
+
+- 🎉 [想活到100岁？多吃蛋白质。](http://jandan.net/p/112167) | Thu Jan 12 2023 5:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    保持肌肉健康，你就有很大的机会避免肥胖、糖尿病和癌症。 
+    </details> 
+
+- 🐲 [今日好价 0112](http://jandan.net/p/112171) | Thu Jan 12 2023 3:15 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：29 
     </details> 
 
-- 🙉 [Quora：关于“存在”的最可怕的理论](http://jandan.net/p/112159) | Wed Jan 11 2023 5:15 AM 
+-  [Quora：关于“存在”的最可怕的理论](http://jandan.net/p/112159) | Wed Jan 11 2023 5:15 AM 
     <details><summary>展开描述 ...</summary> 
     为什么外星人似乎忽略了我们？ 
-    </details> 
-
-- 🎉 [BMI过时了吗](http://jandan.net/p/112157) | Wed Jan 11 2023 5:14 AM 
-    <details><summary>展开描述 ...</summary> 
-    我们是否该用更好的方法来衡量健康？ 
-    </details> 
-
-- 🐲 [宠物似乎减缓了老人的衰老过程](http://jandan.net/p/112142) | Wed Jan 11 2023 5:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    对心灵有益的东西往往对大脑也有好处。 
-    </details> 
-
--  [迄今最高效的常规制冷剂，安全无害不含氟](http://jandan.net/p/112143) | Wed Jan 11 2023 5:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    利用材料相变时储存或释放能量的方法 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
