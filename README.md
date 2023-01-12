@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android自定义ViewGroup交互进阶，右滑进入详情](https://juejin.cn/post/7187658901809004602) | Thu Jan 12 2023 7:07 AM 
+- 🤗 [聊一聊c++模板元编程](https://juejin.cn/post/7187673078111928375) | Thu Jan 12 2023 8:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    从一个例子开发，详细介绍c++模板元编程。再介绍其所依赖的两个核心规则：模板函数重载匹配规则以及SFINAE。 
+    </details> 
+
+- 🎡 [基于 Oasis 的轻量化数字人（MetaAvatar）创作平台](https://juejin.cn/post/7187668424829927479) | Thu Jan 12 2023 7:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    Oasis 团队具备多年引擎与 Web 编辑器的开发经验，致力于打造移动为先，前端友好的互动创作平台。借助端 + 云服务一体化的模式，打造新一代的互动开发工作流，赋能前端业务新形态，迎接传统业务的数字 
+    </details> 
+
+- 🕯 [10分钟在 Rainbond 上部署 mall 电商项目](https://juejin.cn/post/7187661654576857144) | Thu Jan 12 2023 7:21 AM 
+    <details><summary>展开描述 ...</summary> 
+    很多小伙伴在学习 mall 电商项目时，都会在部署上折腾许久，虽然目前已经提供了很多种部署方式，比如 在 Linux 上部署 mall 、使用 Docker 或 DockerCompose 部署 ma 
+    </details> 
+
+- 🚀 [语雀质量体系与自动化](https://juejin.cn/post/7187660679036272695) | Thu Jan 12 2023 7:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    我们的解法是“教练模式”。 什么是教练模式? 简单的说 QA同学就相当于教练，通过各种质量保障机制规范和提升开发同学的质量意识，提供完备的质量服务提升研发效能，从而提升语雀产品的质量。 
+    </details> 
+
+- 💪 [Android自定义ViewGroup交互进阶，右滑进入详情](https://juejin.cn/post/7187658901809004602) | Thu Jan 12 2023 7:07 AM 
     <details><summary>展开描述 ...</summary> 
     自定义Viewgroup右滑进入详情 前言 在之前的 ViewGroup 的事件相关一文中，我们详细的讲解了一些常见的 ViewGroup 需要处理的事件与运动的方式。 我们了解了如何处理拦截事件，如 
-    </details> 
-
-- 🎡 [【验证码逆向专栏】某验二代滑块验证码逆向分析](https://juejin.cn/post/7187652063503843365) | Thu Jan 12 2023 6:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    ![]&lpar;https://s1.ax1x.com/2022/11/25/zY5cgs.png&rpar; ## 声明 **本文章中所有内容仅供学习交流，抓包内容、敏感网址、数据接口均已做脱敏处理，严禁用于商 
-    </details> 
-
-- 🕯 [主流时间库横向对比、2022年Js生态趋势报告出炉| 酱酱的下午茶第152期](https://juejin.cn/post/7187651307010785317) | Thu Jan 12 2023 6:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    第152期下午茶：主流时间库横向对比、2022年Js生态趋势报告出炉以及一次jvm gc长暂停排查过程 
-    </details> 
-
-- 🚀 [chmod命令详解](https://juejin.cn/post/7187646582869721149) | Thu Jan 12 2023 6:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    chmod用于改变文件或目录的访问权限。用户用它控制文件或目录的访问权限。该命令有两种用法。一种是包含字母和操作符表达式的文字设定法；另一种是包含数字的数字设定法。 文字设定法 语法：chmod [w 
-    </details> 
-
-- 💪 [大喜之日，我带她私奔了](https://juejin.cn/post/7187643092584333371) | Thu Jan 12 2023 6:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    人海未见之时，我亦独行在这城市，料峭，春醒,酷暑,骤雨,寒意四起,大雁南飞,而后，大雪，寒风，斗转星移，人间寒暑，如此之后，才得蓦然回首,四目相对。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
