@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [混沌演练实践（一）](https://juejin.cn/post/7187585882638483511) | Thu Jan 12 2023 2:24 AM 
+- 🤗 [“天猫双11”背后的流量治理技术与标准实践](https://juejin.cn/post/7187592932315594813) | Thu Jan 12 2023 2:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    这篇文章就为大家介绍如何结合 Sentinel 与 OpenSergo 玩转双十一背后的流量治理技术与标准。 
+    </details> 
+
+- 🎡 [混沌演练实践（一）](https://juejin.cn/post/7187585882638483511) | Thu Jan 12 2023 2:24 AM 
     <details><summary>展开描述 ...</summary> 
     混沌工程是通过主动制造故障场景并根据系统在各种压力下的行为表现确定优化策略的一种系统稳定性保障手段，简单说就是通过主动注入故障的方式、提前发现问题，然后解决问题规避风险。 
     </details> 
 
-- 🎡 [React语境下前端DDD的长年探索经验](https://juejin.cn/post/7187584683478089787) | Thu Jan 12 2023 2:19 AM 
+- 🕯 [React语境下前端DDD的长年探索经验](https://juejin.cn/post/7187584683478089787) | Thu Jan 12 2023 2:19 AM 
     <details><summary>展开描述 ...</summary> 
     ‍‍‍‍‍ 导语 | 腾讯前端工程师唐霜在React项目中，尝试使用DDD方法论为业务对象建模，其所在团队形成良好的业务沟通规范和业务逻辑沉淀流程，构建了更加稳固的业务系统。作者将多年的积累探索经验总 
     </details> 
 
-- 🕯 [Java Stream 实用特性：排序、分组和 teeing（上一篇500赞）](https://juejin.cn/post/7187584538669744165) | Thu Jan 12 2023 2:19 AM 
+- 🚀 [Java Stream 实用特性：排序、分组和 teeing（上一篇500赞）](https://juejin.cn/post/7187584538669744165) | Thu Jan 12 2023 2:19 AM 
     <details><summary>展开描述 ...</summary> 
     因为最近做了一个小需求，数据量不大，功能也比较简单，但是计算维度非常多，大部分的计算逻辑其实都可以直接写 SQL 实现，但是那样的话性能就太差了，所以最终采用了在内存中直接计算，这时候 Stream 
     </details> 
 
-- 🚀 [为什么我们的微服务中需要网关？](https://juejin.cn/post/7187583802099630136) | Thu Jan 12 2023 2:16 AM 
+- 💪 [为什么我们的微服务中需要网关？](https://juejin.cn/post/7187583802099630136) | Thu Jan 12 2023 2:16 AM 
     <details><summary>展开描述 ...</summary> 
     玩过微服务的小伙伴对 Spring Cloud 中的的 Spring Cloud Gateway 多多少少都有一些了解，松哥之前既写过相关的文章，也录过相关的视频跟小伙伴们介绍 Spring Clou 
-    </details> 
-
-- 💪 [你知道，前端工程部署有哪些方式嘛？](https://juejin.cn/post/7187582297124634680) | Thu Jan 12 2023 2:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文原文地址 此文章是回答知乎问题总结而来。 我将其分为四个阶段：手动部署、命令工具部署、docker镜像部署、平台化部署。 这几个阶段，越往后越复杂，越往后越友好，毕竟平台化部署有备份还可回退，那是 
     </details> 
 <!-- juejin:END -->
 ### 少数派
