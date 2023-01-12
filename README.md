@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [算法训练营第二天](https://juejin.cn/post/7187766210753200165) | Thu Jan 12 2023 2:04 PM 
+- 🤗 [CSS 实例系列 - 01 - Tab 滑动门](https://juejin.cn/post/7187783146820239417) | Thu Jan 12 2023 3:14 PM 
+    <details><summary>展开描述 ...</summary> 
+    通过 HTML + CSS，以及简单 JS，实现 Tab 滑动门，太过于简单了，以至于摘要都不好意思写~ 
+    </details> 
+
+- 🎡 [数据结构与算法之链表（三）](https://juejin.cn/post/7187782122743005242) | Thu Jan 12 2023 3:07 PM 
+    <details><summary>展开描述 ...</summary> 
+    大家好，我是云牧，今天说的是链表，链表结构是多个元素组成的列表，元素存储不连续，用 next 指针连在一起。 
+    </details> 
+
+- 🕯 [golang实现一个linux命令ls命令（命令行工具构建）](https://juejin.cn/post/7187771599079079997) | Thu Jan 12 2023 2:26 PM 
+    <details><summary>展开描述 ...</summary> 
+    命令行工具，你只要赋予可执行权限，再放到`bin`里面，他就会成为一个系统命令，方便你做更多的事情，比如备份数据库之类的动作，提高你的运维效率。 
+    </details> 
+
+- 🚀 [算法训练营第二天](https://juejin.cn/post/7187766210753200165) | Thu Jan 12 2023 2:04 PM 
     <details><summary>展开描述 ...</summary> 
     前言 今天的题目感觉还行，只有第一题没有做过，但是很快就有双指针的思路，虽然是调了好一会，不过终究还是过了。剩下的两天因为之前刷过，所以印象还是比较深刻的，很快就做出来了。 明天继续坚持，加油~ 题目 
     </details> 
 
-- 🎡 [重新认识文档的重要性](https://juejin.cn/post/7187763396832559163) | Thu Jan 12 2023 1:53 PM 
+- 💪 [重新认识文档的重要性](https://juejin.cn/post/7187763396832559163) | Thu Jan 12 2023 1:53 PM 
     <details><summary>展开描述 ...</summary> 
     重新认识文档的重要性 2022 年有幸完整地参与了一个物联网项目，整个项目涉及APP、服务端、硬件三 
-    </details> 
-
-- 🕯 [「青训营 X 码上掘金」主题创作活动入营版 开启！](https://juejin.cn/post/7187753682421678137) | Thu Jan 12 2023 1:15 PM 
-    <details><summary>展开描述 ...</summary> 
-    你是否错过了「青训营 X 码上掘金」主题创作活动第一期？ 别着急，我们对第五届字节跳动青训营成功入营的同学开通了 「青训营 X 码上掘金」主题创作活动入营版。 让我们一起快乐写码赢青训营青豆吧！ 
-    </details> 
-
-- 🚀 [【深入浅出Seata原理及实战】「入门基础专题」带你透析认识Seata分布式事务服务的原理和流程（1）](https://juejin.cn/post/7187742811545370680) | Thu Jan 12 2023 12:33 PM 
-    <details><summary>展开描述 ...</summary> 
-    分布式事务的背景 随着业务的不断发展，单体架构已经无法满足我们的需求，分布式微服务架构逐渐成为大型互联网平台的首选，但所有使用分布式微服务架构的应用都必须面临一个十分棘手的问题，那就是“分布式事务”问 
-    </details> 
-
-- 💪 [在GCP上创建Cloud SQL的三种方式&lpar;Console,gcloud,Terraform&rpar;](https://juejin.cn/post/7187742752224837669) | Thu Jan 12 2023 12:33 PM 
-    <details><summary>展开描述 ...</summary> 
-    # 1 简介 `Cloud SQL` 是GCP上的关系型数据库，常用的有三种方式来创建： &lpar;1&rpar; 界面操作 &lpar;2&rpar; 命令行 `gcloud` &lpar;3&rpar; Terraform 在开始之前，可以查 
     </details> 
 <!-- juejin:END -->
 ### 少数派
