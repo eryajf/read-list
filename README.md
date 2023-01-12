@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [FreeBuf早报 | 轨交业已成黑客攻击重灾区；丹麦央行网站遭 DDoS 攻击](https://www.freebuf.com/articles/354935.html) | Wed Jan 11 2023 9:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    亚太地区的政府和军事组织正成为一个先前未知的APT攻击者 Dark Pink 的攻击目标。 
+    </details> 
+
 - 🦄 [中国银保监会发布《银行保险监管统计管理办法》](https://www.freebuf.com/news/354931.html) | Wed Jan 11 2023 8:36 AM 
     <details><summary>展开描述 ...</summary> 
     《办法》包括总则、监管统计管理机构、监管统计调查管理、银行保险机构监管统计管理、监管统计监督管理和附则等。 
     </details> 
 
-- 🦄 [StrongPity 黑客分发带有后门的应用程序以瞄准 Android 用户](https://www.freebuf.com/news/354887.html) | Wed Jan 11 2023 3:37 AM 
+- 🦅 [StrongPity 黑客分发带有后门的应用程序以瞄准 Android 用户](https://www.freebuf.com/news/354887.html) | Wed Jan 11 2023 3:37 AM 
     <details><summary>展开描述 ...</summary> 
     StrongPity组织通过一个冒充的视频聊天服务的虚假网站，以木马化版本的 Telegram 应用程序瞄准 Android 用户。 
     </details> 
 
-- 🦅 [商用密码应用与安全性评估常见问题汇总整理](https://www.freebuf.com/articles/compliance/354883.html) | Wed Jan 11 2023 3:03 AM 
+- 🪄 [商用密码应用与安全性评估常见问题汇总整理](https://www.freebuf.com/articles/compliance/354883.html) | Wed Jan 11 2023 3:03 AM 
     <details><summary>展开描述 ...</summary> 
     十三个问题解惑商用密码应用与安全性评估常见要点。 
     </details> 
 
-- 🪄 [俄乌网络战中的秘密武器TOP 10 | FreeBuf年度盘点](https://www.freebuf.com/sectool/354867.html) | Tue Jan 10 2023 2:33 PM 
+- 💻 [俄乌网络战中的秘密武器TOP 10 | FreeBuf年度盘点](https://www.freebuf.com/sectool/354867.html) | Tue Jan 10 2023 2:33 PM 
     <details><summary>展开描述 ...</summary> 
     盘点俄乌网络战中最常用的10款秘密武器，了解冲突中使用了哪些数字技术和工具。 
-    </details> 
-
-- 💻 [FreeBuf早报 | 美国加强对私企的太空网络防御；微软将向 ChatGPT 投资100亿美元](https://www.freebuf.com/news/354855.html) | Tue Jan 10 2023 11:26 AM 
-    <details><summary>展开描述 ...</summary> 
-    微软正在考虑向基于人工智能的聊天机器人 ChatGPT 的所有者 OpenAI 投资 100 亿美元。 
     </details> 
 <!-- freebuf:END -->
 
