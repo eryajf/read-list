@@ -321,9 +321,9 @@
     TikTok首席执行官周受资10日已赴欧盟进行沟通，被告知要在隐私合规等领域做出改进。 
     </details> 
 
-- 💻 [StrongPity 黑客分发带有后门的应用程序以瞄准 Android 用户](https://www.freebuf.com/news/354887.html) | Wed Jan 11 2023 3:37 AM 
+- 💻 [【 2022中国白帽子调查报告】调研启动](https://www.freebuf.com/articles/354895.html) | Wed Jan 11 2023 5:10 AM 
     <details><summary>展开描述 ...</summary> 
-    StrongPity组织通过一个冒充的视频聊天服务的虚假网站，以木马化版本的 Telegram 应用程序瞄准 Android 用户。 
+    邀请您如实填写问卷信息，展现2022年中国白帽子的真实状况。 
     </details> 
 <!-- freebuf:END -->
 
