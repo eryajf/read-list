@@ -693,28 +693,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [QiReader - 全平台 RSS 阅读器](https://xinquji.com/posts/792702?utm_campaign=xinquji-rss) | Wed Jan 11 2023 10:11 AM 
+- 👀 [Scott AI - 打开 AI 为 Intercom 和 Crisp 生成的摘要和回复](https://xinquji.com/posts/792885?utm_campaign=xinquji-rss) | Thu Jan 12 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     全平台 RSS 阅读器  
+     打开 AI 为 Intercom 和 Crisp 生成的摘要和回复  
     </details> 
 
-- 🥷 [Roundup - 为您的团队创建一个讨论论坛](https://xinquji.com/posts/792847?utm_campaign=xinquji-rss) | Wed Jan 11 2023 6:00 AM 
+- 🥷 [MTHUB - 押注崩盘并获得高达 x20 的利润](https://xinquji.com/posts/792884?utm_campaign=xinquji-rss) | Thu Jan 12 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     为您的团队创建一个讨论论坛  
+     押注崩盘并获得高达 x20 的利润  
     </details> 
 
-- 💼 [Pulsetic Status Pages - 您的企业的品牌状态页面，全部无代码](https://xinquji.com/posts/792846?utm_campaign=xinquji-rss) | Wed Jan 11 2023 6:00 AM 
+- 💼 [Aptakube - 从桌面管理 Kubernetes 集群](https://xinquji.com/posts/792883?utm_campaign=xinquji-rss) | Thu Jan 12 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     您的企业的品牌状态页面，全部无代码  
+     从桌面管理 Kubernetes 集群  
     </details> 
 
-- 🦅 [Affiliates by Swapstack - 将您的联属网络营销计划扩展到 1000 份独立时事通讯](https://xinquji.com/posts/792845?utm_campaign=xinquji-rss) | Wed Jan 11 2023 6:00 AM 
+- 🦅 [dewey. - 完全控制您的 Twitter 书签的唯一方法](https://xinquji.com/posts/792882?utm_campaign=xinquji-rss) | Thu Jan 12 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     将您的联属网络营销计划扩展到 1000 份独立时事通讯  
+     完全控制您的 Twitter 书签的唯一方法  
     </details> 
 
-- 😺 [Pixelicious - 轻松将您的图像变成复古像素艺术](https://xinquji.com/posts/792844?utm_campaign=xinquji-rss) | Wed Jan 11 2023 6:00 AM 
+- 😺 [Biddupp - 为 eBay 拍卖安排短信、文本提醒](https://xinquji.com/posts/792881?utm_campaign=xinquji-rss) | Thu Jan 12 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     轻松将您的图像变成复古像素艺术  
+     为 eBay 拍卖安排短信、文本提醒  
     </details> 
 <!-- xinquji:END -->
