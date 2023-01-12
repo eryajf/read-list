@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [通过Terraform创建GCP Pubsub](https://juejin.cn/post/7187740394484924476) | Thu Jan 12 2023 12:24 PM 
+- 🤗 [「青训营 X 码上掘金」主题创作活动入营版 开启！](https://juejin.cn/post/7187753682421678137) | Thu Jan 12 2023 1:15 PM 
     <details><summary>展开描述 ...</summary> 
-    # 1 简介 Terraform是管理许多平台的基础设施的工具，如AWS、GCP和Azure。这篇文章将讲解如何通过Terraform来管理GCP Pub/Sub。 创建GCP项目请参考：[初始 
+    你是否错过了「青训营 X 码上掘金」主题创作活动第一期？ 别着急，我们对第五届字节跳动青训营成功入营的同学开通了 「青训营 X 码上掘金」主题创作活动入营版。 让我们一起快乐写码赢青训营青豆吧！ 
     </details> 
 
-- 🎡 [Spring Boot通过Actuator显示git和build的信息](https://juejin.cn/post/7187737976594497573) | Thu Jan 12 2023 12:15 PM 
+- 🎡 [【深入浅出Seata原理及实战】「入门基础专题」带你透析认识Seata分布式事务服务的原理和流程（1）](https://juejin.cn/post/7187742811545370680) | Thu Jan 12 2023 12:33 PM 
     <details><summary>展开描述 ...</summary> 
-    # 1 简介 为了更好的版本控制和问题定位，我们需要知道正在运行的应用是什么版本，什么时候打包的，Git的相关信息等。通过/actuator/info可以帮助我们获取这些信息。 # 2 配置 
+    分布式事务的背景 随着业务的不断发展，单体架构已经无法满足我们的需求，分布式微服务架构逐渐成为大型互联网平台的首选，但所有使用分布式微服务架构的应用都必须面临一个十分棘手的问题，那就是“分布式事务”问 
     </details> 
 
-- 🕯 [Elasticsearch：如何在 Docker 上运行 Elasticsearch 8.x 进行本地开发](https://juejin.cn/post/7187732693629534269) | Thu Jan 12 2023 11:56 AM 
+- 🕯 [在GCP上创建Cloud SQL的三种方式&lpar;Console,gcloud,Terraform&rpar;](https://juejin.cn/post/7187742752224837669) | Thu Jan 12 2023 12:33 PM 
     <details><summary>展开描述 ...</summary> 
-    对于 Elasticsearch 的新主要版本 &lpar;8.x.x&rpar;，有关于在 Docker 上运行 Elasticsearch 和 Kibana 的重大更新。 过去适用于以前版本的 Docker 和 Do 
+    # 1 简介 `Cloud SQL` 是GCP上的关系型数据库，常用的有三种方式来创建： &lpar;1&rpar; 界面操作 &lpar;2&rpar; 命令行 `gcloud` &lpar;3&rpar; Terraform 在开始之前，可以查 
     </details> 
 
-- 🚀 [使用 WebP 图像加速WEB加载](https://juejin.cn/post/7187729537919582267) | Thu Jan 12 2023 11:42 AM 
+- 🚀 [在GCP上创建GCE的三种方式&lpar;Console,gcloud,Terraform&rpar;](https://juejin.cn/post/7187742223528624184) | Thu Jan 12 2023 12:31 PM 
     <details><summary>展开描述 ...</summary> 
-    webp 是 Web 上可用的众多图像格式之一，在本文中，将具体了解它是什么、何时应该使用它以及为什么建议使用它。 
+    # 1 简介 如果要选择GCP为云平台，则经常需要创建GCE&lpar;Google Compute Engine&rpar;，有以下几种方式： &lpar;1&rpar; 在浏览器创建 &lpar;2&rpar; 命令 `gcloud` &lpar;3&rpar; T 
     </details> 
 
-- 💪 [后端语言很难？前端入门go基础语法只需要3小时！（中）](https://juejin.cn/post/7187717463218323493) | Thu Jan 12 2023 10:56 AM 
+- 💪 [通过Google Cloud Storage&lpar;GCS&rpar;管理Terraform的状态State](https://juejin.cn/post/7187741803696062523) | Thu Jan 12 2023 12:30 PM 
     <details><summary>展开描述 ...</summary> 
-    继续接着第一部分，上面我们讲到了复合数据类型的数组，现在我们接着讲跟数组息息相关的切片，切片其实跟js的数组概念很像 第一部分：后端语言很难？前端入门go基础语法只需要3小时！（上&rpar; 顺便给大家看下， 
+    管理Terraform状态文件的最佳方式是通过云端的统一的存储，如谷歌云就用GCS。 首先要创建一个Bucket： ```bash $ gsutil mb -p pkslow -l us-w 
     </details> 
 <!-- juejin:END -->
 ### 少数派
