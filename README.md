@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [How to build your own React: Didact 解析](https://juejin.cn/post/7187613323699945532) | Thu Jan 12 2023 4:11 AM 
+- 🤗 [SpringBoot定时任务动态扩展ScheduledTaskRegistrar](https://juejin.cn/post/7187628561430216765) | Thu Jan 12 2023 5:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文主要介绍基于SpringBoot定时任务ScheduledTaskRegistrar的动态扩展，实现定时任务的动态新增和删除 
+    </details> 
+
+- 🎡 [📚 伴学笔记创作活动来袭 ｜ 第五届字节跳动青训营](https://juejin.cn/post/7187618314502275129) | Thu Jan 12 2023 4:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    笔记与线索、记录与总结、学习与反思、加强记忆，储存备忘。第五届字节跳动青训营「伴学笔记创作活动」来袭！ 
+    </details> 
+
+- 🕯 [How to build your own React: Didact 解析](https://juejin.cn/post/7187613323699945532) | Thu Jan 12 2023 4:11 AM 
     <details><summary>展开描述 ...</summary> 
     你是否一直想成为“精通” React 源码的大神？又是否因为 React 源码的晦涩难懂而寸步难行？千里之行，始于足下。本文将从头开始讲解并实现一个简易版的 React -- Didact。 
     </details> 
 
-- 🎡 [ES突然就采集不到日志了？也许是因为这个原因](https://juejin.cn/post/7187603949849935929) | Thu Jan 12 2023 3:35 AM 
+- 🚀 [@所有青训营同学，快来领取你的专属徽章~](https://juejin.cn/post/7187612956132606009) | Thu Jan 12 2023 4:09 AM 
     <details><summary>展开描述 ...</summary> 
-    0-前言 组内同学反馈，kibana上最新的k8s日志看不到了。由于我们是采用elk（elastic search+logstash+kibana）的方式下部署日志采集系统，其中logstash以De 
+    青训营专属徽章已上线掘金社区，一份佩戴指南请注意查收哦~ 🔮 领取条件：报名第五届青训营活动且获得入营资格的同学 
     </details> 
 
-- 🕯 [站酷基于服务网格 ASM 的生产实践](https://juejin.cn/post/7187602558779654203) | Thu Jan 12 2023 3:29 AM 
+- 💪 [年中盘点 | 2022年，PaaS 再升级](https://juejin.cn/post/7187605228269600829) | Thu Jan 12 2023 3:39 AM 
     <details><summary>展开描述 ...</summary> 
-    随着站酷业务服务的持续改造，将持续基于阿里云服务网格 ASM 产品，获得更加丰富便捷的企业级特性，助力降本增效。 
-    </details> 
-
-- 🚀 [亚马逊云科技启示录：创新作帆，云计算的征途是汪洋大海](https://juejin.cn/post/7187595767786242108) | Thu Jan 12 2023 3:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    创新是亚马逊云科技发展的最持久驱动力 云计算，新世纪以来最伟大的技术进步之一，从2006年 Amazon Web Service 初创时的小试牛刀，到如今成长为一个巨大的行业和生态。 
-    </details> 
-
-- 💪 [“天猫双11”背后的流量治理技术与标准实践](https://juejin.cn/post/7187592932315594813) | Thu Jan 12 2023 2:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    这篇文章就为大家介绍如何结合 Sentinel 与 OpenSergo 玩转双十一背后的流量治理技术与标准。 
+    过去十五年，是云计算从无到有突飞猛进的十五年。PaaS 作为云计算的重要组成部分，在伴随着云计算高速发展的同时，在云计算产业链中的关键性作用日渐凸显。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
