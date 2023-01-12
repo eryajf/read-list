@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [后端语言很难？前端入门go基础语法只需要3小时！（中）](https://juejin.cn/post/7187717463218323493) | Thu Jan 12 2023 10:56 AM 
+- 🤗 [通过Terraform创建GCP Pubsub](https://juejin.cn/post/7187740394484924476) | Thu Jan 12 2023 12:24 PM 
+    <details><summary>展开描述 ...</summary> 
+    # 1 简介 Terraform是管理许多平台的基础设施的工具，如AWS、GCP和Azure。这篇文章将讲解如何通过Terraform来管理GCP Pub/Sub。 创建GCP项目请参考：[初始 
+    </details> 
+
+- 🎡 [Spring Boot通过Actuator显示git和build的信息](https://juejin.cn/post/7187737976594497573) | Thu Jan 12 2023 12:15 PM 
+    <details><summary>展开描述 ...</summary> 
+    # 1 简介 为了更好的版本控制和问题定位，我们需要知道正在运行的应用是什么版本，什么时候打包的，Git的相关信息等。通过/actuator/info可以帮助我们获取这些信息。 # 2 配置 
+    </details> 
+
+- 🕯 [Elasticsearch：如何在 Docker 上运行 Elasticsearch 8.x 进行本地开发](https://juejin.cn/post/7187732693629534269) | Thu Jan 12 2023 11:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    对于 Elasticsearch 的新主要版本 &lpar;8.x.x&rpar;，有关于在 Docker 上运行 Elasticsearch 和 Kibana 的重大更新。 过去适用于以前版本的 Docker 和 Do 
+    </details> 
+
+- 🚀 [使用 WebP 图像加速WEB加载](https://juejin.cn/post/7187729537919582267) | Thu Jan 12 2023 11:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    webp 是 Web 上可用的众多图像格式之一，在本文中，将具体了解它是什么、何时应该使用它以及为什么建议使用它。 
+    </details> 
+
+- 💪 [后端语言很难？前端入门go基础语法只需要3小时！（中）](https://juejin.cn/post/7187717463218323493) | Thu Jan 12 2023 10:56 AM 
     <details><summary>展开描述 ...</summary> 
     继续接着第一部分，上面我们讲到了复合数据类型的数组，现在我们接着讲跟数组息息相关的切片，切片其实跟js的数组概念很像 第一部分：后端语言很难？前端入门go基础语法只需要3小时！（上&rpar; 顺便给大家看下， 
-    </details> 
-
-- 🎡 [接口突然超时10宗罪。。。](https://juejin.cn/post/7187713794561278013) | Thu Jan 12 2023 10:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 不知道你有没有遇到过这样的场景：我们提供的某个API接口，响应时间原本一直都很快，但在某个不经意的时间点，却出现了接口超时问题。 也许你会有点懵，到底是为什么呢？ 今天跟大家一起聊聊接口突然超时 
-    </details> 
-
-- 🕯 [Android架构演进 · 设计模式· 为什么建议你一定要学透设计模式？](https://juejin.cn/post/7187713181769269285) | Thu Jan 12 2023 10:40 AM 
-    <details><summary>展开描述 ...</summary> 
-    小木箱带你学习Android架构演进 · 设计模式· 为什么建议你一定要学透设计模式？有的时候架构能力是倒逼的，面对复杂的业务频繁的变化，不断的挑战！设计模式就显得尤为重要! 
-    </details> 
-
-- 🚀 [2022 年，闭关悟道的一年](https://juejin.cn/post/7187704481042137146) | Thu Jan 12 2023 10:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    「回顾2022，展望2023，我正在参与2022年终总结征文大赛活动」 我的 2022 年并没有什么波澜，没有别人写的 2022 年总结那么 轰轰烈烈，回想起来，说真的我自己都觉得没什么可写的，实在平 
-    </details> 
-
-- 💪 [闲话 dubbogo 社区](https://juejin.cn/post/7187704032218546236) | Thu Jan 12 2023 10:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    dubbogo 社区马上要进入第八个年头。dubbogo 项目初期的使命就是 &quot;Bridging the gap between Java and Go&quot;，目前 dubbogo 已经对齐所有 dub 
     </details> 
 <!-- juejin:END -->
 ### 少数派
