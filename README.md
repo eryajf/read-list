@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [别催了，别催了，这篇文章我一次性把Shell的内容说完](https://juejin.cn/post/7187642289072635964) | Thu Jan 12 2023 6:03 AM 
+- 🤗 [Android自定义ViewGroup交互进阶，右滑进入详情](https://juejin.cn/post/7187658901809004602) | Thu Jan 12 2023 7:07 AM 
     <details><summary>展开描述 ...</summary> 
-    # Shell 搜索与匹配 ## 1、在文件中查找字符串 grep 命令可以搜索文件，查找指定的字符串。 ``` $ grep myvar *.c ``` 在这个例子中，我们搜索的文件全都位 
+    自定义Viewgroup右滑进入详情 前言 在之前的 ViewGroup 的事件相关一文中，我们详细的讲解了一些常见的 ViewGroup 需要处理的事件与运动的方式。 我们了解了如何处理拦截事件，如 
     </details> 
 
-- 🎡 [SpringBoot定时任务动态扩展ScheduledTaskRegistrar](https://juejin.cn/post/7187628561430216765) | Thu Jan 12 2023 5:11 AM 
+- 🎡 [【验证码逆向专栏】某验二代滑块验证码逆向分析](https://juejin.cn/post/7187652063503843365) | Thu Jan 12 2023 6:41 AM 
     <details><summary>展开描述 ...</summary> 
-    本文主要介绍基于SpringBoot定时任务ScheduledTaskRegistrar的动态扩展，实现定时任务的动态新增和删除 
+    ![]&lpar;https://s1.ax1x.com/2022/11/25/zY5cgs.png&rpar; ## 声明 **本文章中所有内容仅供学习交流，抓包内容、敏感网址、数据接口均已做脱敏处理，严禁用于商 
     </details> 
 
-- 🕯 [📚 伴学笔记创作活动来袭 ｜ 第五届字节跳动青训营](https://juejin.cn/post/7187618314502275129) | Thu Jan 12 2023 4:35 AM 
+- 🕯 [主流时间库横向对比、2022年Js生态趋势报告出炉| 酱酱的下午茶第152期](https://juejin.cn/post/7187651307010785317) | Thu Jan 12 2023 6:38 AM 
     <details><summary>展开描述 ...</summary> 
-    笔记与线索、记录与总结、学习与反思、加强记忆，储存备忘。第五届字节跳动青训营「伴学笔记创作活动」来袭！ 
+    第152期下午茶：主流时间库横向对比、2022年Js生态趋势报告出炉以及一次jvm gc长暂停排查过程 
     </details> 
 
-- 🚀 [How to build your own React: Didact 解析](https://juejin.cn/post/7187613323699945532) | Thu Jan 12 2023 4:11 AM 
+- 🚀 [chmod命令详解](https://juejin.cn/post/7187646582869721149) | Thu Jan 12 2023 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-    你是否一直想成为“精通” React 源码的大神？又是否因为 React 源码的晦涩难懂而寸步难行？千里之行，始于足下。本文将从头开始讲解并实现一个简易版的 React -- Didact。 
+    chmod用于改变文件或目录的访问权限。用户用它控制文件或目录的访问权限。该命令有两种用法。一种是包含字母和操作符表达式的文字设定法；另一种是包含数字的数字设定法。 文字设定法 语法：chmod [w 
     </details> 
 
-- 💪 [@所有青训营同学，快来领取你的专属徽章~](https://juejin.cn/post/7187612956132606009) | Thu Jan 12 2023 4:09 AM 
+- 💪 [大喜之日，我带她私奔了](https://juejin.cn/post/7187643092584333371) | Thu Jan 12 2023 6:07 AM 
     <details><summary>展开描述 ...</summary> 
-    青训营专属徽章已上线掘金社区，一份佩戴指南请注意查收哦~ 🔮 领取条件：报名第五届青训营活动且获得入营资格的同学 
+    人海未见之时，我亦独行在这城市，料峭，春醒,酷暑,骤雨,寒意四起,大雁南飞,而后，大雪，寒风，斗转星移，人间寒暑，如此之后，才得蓦然回首,四目相对。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
