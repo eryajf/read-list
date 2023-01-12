@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [新玩意 133｜少数派的作者们最近买了啥？](https://sspai.com/post/77777) | Thu Jan 12 2023 7:53 AM 
+- 👹 [要是回去能有止痛药水：评 Rewind](https://sspai.com/post/77790) | Thu Jan 12 2023 10:01 AM 
+    <details><summary>展开描述 ...</summary> 
+    Rewind 或许还存在很多问题，或许也不会是「后悔药」的终极形态，但确实是一个处处有巧思、处处用巧劲的有趣作品。无论你的选择如何，相信都能在尝试中有所启发和思考。&lt;a href=&quot;https://sspai.com/post/77790&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [新玩意 133｜少数派的作者们最近买了啥？](https://sspai.com/post/77777) | Thu Jan 12 2023 7:53 AM 
     <details><summary>展开描述 ...</summary> 
     关于栏目为了满足读者们对于《新玩意》栏目加更的需求，机器人特地邀请了Matrix作者们也来聊聊自己近期购买的新奇产品。喜欢本栏目的话，欢迎充电或评论文章来表达自己的喜爱，你的每一次真心夸赞或建议，都是 ...&lt;a href=&quot;https://sspai.com/post/77777&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [什么都可以以后再说，体检为什么不可以？](https://sspai.com/post/77776) | Thu Jan 12 2023 7:00 AM 
+- 🤭 [什么都可以以后再说，体检为什么不可以？](https://sspai.com/post/77776) | Thu Jan 12 2023 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     最近的Omicron大流行让很多人后知后觉地意识到了时刻关注与监测身体的重要性。少数派其实发布过不少健康相关的文章，一方面，我们认为生活中不应该只有工作与效率，身体健康也是非常重要的一环；另一方面，同 ...&lt;a href=&quot;https://sspai.com/post/77776&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [年度征文｜差生文具多，纸和笔才是笔记王道吗？](https://sspai.com/post/77745) | Thu Jan 12 2023 3:28 AM 
+- 🥸 [年度征文｜差生文具多，纸和笔才是笔记王道吗？](https://sspai.com/post/77745) | Thu Jan 12 2023 3:28 AM 
     <details><summary>展开描述 ...</summary> 
     编注：本文是少数派2022年度征文活动的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。今年我们采用了更加依赖用户反馈数据的奖金结算机制，充电、收藏和阅读量都将不同程度地影响文章的最终排 ...&lt;a href=&quot;https://sspai.com/post/77745&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：英特尔发布傲腾持久内存 300 系列、龙芯公布 2K2000 详情等](https://sspai.com/post/77773) | Thu Jan 12 2023 12:38 AM 
+- 🙉 [派早报：英特尔发布傲腾持久内存 300 系列、龙芯公布 2K2000 详情等](https://sspai.com/post/77773) | Thu Jan 12 2023 12:38 AM 
     <details><summary>展开描述 ...</summary> 
     Apple 推出《英雄联盟手游》手机交通卡面、微软彻底结束对 Windows 7 系统的支持等。&lt;a href=&quot;https://sspai.com/post/77773&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [万字试读 02 | 图表、母版和快捷键，今年一整年都会用得上的 PPT 技巧](https://sspai.com/post/77606) | Wed Jan 11 2023 10:01 AM 
-    <details><summary>展开描述 ...</summary> 
-    付费栏目万字试读「万字试读」是体验少数派付费栏目内容的最佳方式。我们希望用一万字的篇幅，系统、深度地分享有价值的内容，让少数派读者可以享受获得新知的愉悦。本期「万字试读」内容选自电子工业出版社再版新书 ...&lt;a href=&quot;https://sspai.com/post/77606&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
