@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Scott AI - 打开 AI 为 Intercom 和 Crisp 生成的摘要和回复](https://xinquji.com/posts/792885?utm_campaign=xinquji-rss) | Thu Jan 12 2023 6:00 AM 
+- 👀 [Invoice OCR - 用于从发票中实时提取数据的 OCR 软件和 API](https://xinquji.com/posts/792896?utm_campaign=xinquji-rss) | Fri Jan 13 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     打开 AI 为 Intercom 和 Crisp 生成的摘要和回复  
+     用于从发票中实时提取数据的 OCR 软件和 API  
     </details> 
 
-- 🥷 [MTHUB - 押注崩盘并获得高达 x20 的利润](https://xinquji.com/posts/792884?utm_campaign=xinquji-rss) | Thu Jan 12 2023 6:00 AM 
+- 🥷 [Notion x Finance - 使您的财务管理自动化以做出明智的决策](https://xinquji.com/posts/792895?utm_campaign=xinquji-rss) | Fri Jan 13 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     押注崩盘并获得高达 x20 的利润  
+     使您的财务管理自动化以做出明智的决策  
     </details> 
 
-- 💼 [Aptakube - 从桌面管理 Kubernetes 集群](https://xinquji.com/posts/792883?utm_campaign=xinquji-rss) | Thu Jan 12 2023 6:00 AM 
+- 💼 [Todoist Time Tracking by Everhour - Todoist 用于报告、预算和薪资的时间跟踪器](https://xinquji.com/posts/792894?utm_campaign=xinquji-rss) | Fri Jan 13 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     从桌面管理 Kubernetes 集群  
+     Todoist 用于报告、预算和薪资的时间跟踪器  
     </details> 
 
-- 🦅 [dewey. - 完全控制您的 Twitter 书签的唯一方法](https://xinquji.com/posts/792882?utm_campaign=xinquji-rss) | Thu Jan 12 2023 6:00 AM 
+- 🦅 [60seconds - 再也不要让定价拒绝买家](https://xinquji.com/posts/792893?utm_campaign=xinquji-rss) | Fri Jan 13 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     完全控制您的 Twitter 书签的唯一方法  
+     再也不要让定价拒绝买家  
     </details> 
 
-- 😺 [Biddupp - 为 eBay 拍卖安排短信、文本提醒](https://xinquji.com/posts/792881?utm_campaign=xinquji-rss) | Thu Jan 12 2023 6:00 AM 
+- 😺 [Tertulia - 值得一谈的书](https://xinquji.com/posts/792892?utm_campaign=xinquji-rss) | Fri Jan 13 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     为 eBay 拍卖安排短信、文本提醒  
+     值得一谈的书  
     </details> 
 <!-- xinquji:END -->
