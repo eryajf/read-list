@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Yate 6.13.1 音频文件标签小工具](https://xclient.info/s/yate.html) | Thu Jan 12 2023 3:01 AM 
+- 🦏 [ToothFairy 2.8.3 一键切换连接蓝牙设备](https://xclient.info/s/tooth-fairy.html) | Fri Jan 13 2023 7:26 AM 
+    <details><summary>展开描述 ...</summary> 
+    Tooth Fairy是一款一键切换连接蓝牙设备的小工具 
+    </details> 
+
+-  [SpamSieve 2.9.51 垃圾邮件过滤](https://xclient.info/s/spamsieve.html) | Fri Jan 13 2023 7:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    SpamSieve 是一个强大的垃圾邮件过滤的主要的电子邮件客户端，使用强大的贝叶斯垃圾邮件过滤。 
+    </details> 
+
+- ⚗️ [Yate 6.13.1_11354__13 音频文件标签小工具](https://xclient.info/s/yate.html) | Fri Jan 13 2023 7:24 AM 
     <details><summary>展开描述 ...</summary> 
     Yate是一款Mac平台的音乐标签及管理工具，能够帮助我们轻松编辑音乐文件的元标签数据 
     </details> 
 
--  [Synkmark 3.0.11 Safari书签同步](https://xclient.info/s/synkmark.html) | Thu Jan 12 2023 3:01 AM 
+- 🔥 [PowerPhotos 2.1.4 优秀的图片管理工具](https://xclient.info/s/powerphotos.html) | Fri Jan 13 2023 7:23 AM 
     <details><summary>展开描述 ...</summary> 
-    Synkmark是Mac os平台上的一款帮助用户在Safari上同步自己的标签的Mac软件 
+    PowerPhotos 是一款Mac上优秀的图片管理工具，让你能够直接浏览图库，节省iCloud空间，并能够检测重复图片，让你快速删除多余的图片，简单易用。 
     </details> 
 
-- ⚗️ [SimpleMind 2.0.1 小巧的思维导图工具](https://xclient.info/s/simplemind.html) | Thu Jan 12 2023 3:00 AM 
+- 🌋 [PhotoSweeper X 4.7.0 重复照片查找删除工具](https://xclient.info/s/photosweeper.html) | Fri Jan 13 2023 7:22 AM 
     <details><summary>展开描述 ...</summary> 
-    SimpleMind是Mac OS X上一款思维导图工具，这款工具非常小巧，完全可以取代笨重的MindManager，对Mac开发者来说称得上是一大福音了。 
-    </details> 
-
-- 🔥 [Rectangle Pro 2.7.5 窗口管理](https://xclient.info/s/rectangle-pro.html) | Thu Jan 12 2023 2:59 AM 
-    <details><summary>展开描述 ...</summary> 
-    Rectangle是Mac平台上的一款窗口管理应用，可以使用键盘快捷键移动和调整macOS中的窗口大小。 
-    </details> 
-
-- 🌋 [Receipts 1.9.18b2 财务发票管理软件](https://xclient.info/s/receipts.html) | Thu Jan 12 2023 2:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    Receipts是一款非常好用的理财软件，具有财务状况管理操作，并拥有数据统计、金额转换等功能。 
+    PhotoSweeper可以快速有效的从你的电脑中删除重复照片,可以对照片分组对比,可以选择格式,尺寸,文件大小. 
     </details> 
 <!-- xclient:END -->
 
