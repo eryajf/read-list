@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [公司裁了好几个. 但是我好像被裁怎么办?](https://www.v2ex.com/t/908681#reply1) | Fri Jan 13 2023 6:07 AM
-- 🤗 [[硅谷外企] [核心业务] [业内 top1] [支持远程] 后端工程师 +期权+双休+4 周年假](https://www.v2ex.com/t/908673#reply1) | Fri Jan 13 2023 5:43 AM
-- 🎭 [试了下群晖 VMM 跑 Win10，真的不堪用](https://www.v2ex.com/t/908671#reply11) | Fri Jan 13 2023 5:28 AM
-- 🥷 [大家可以尝试借助 chatGPT 完成年度汇报,救我狗命](https://www.v2ex.com/t/908648#reply12) | Fri Jan 13 2023 3:31 AM
-- 🐵 [多台电脑与手机数据同步，求推荐](https://www.v2ex.com/t/908640#reply21) | Fri Jan 13 2023 3:16 AM<!-- v2ex:END -->
+- 🥸 [大家&quot;讨厌&quot;过年吗?](https://www.v2ex.com/t/908695#reply13) | Fri Jan 13 2023 6:50 AM
+- 🤗 [公司裁了好几个. 但是我好像被裁怎么办?](https://www.v2ex.com/t/908681#reply15) | Fri Jan 13 2023 6:07 AM
+- 🎭 [[硅谷外企] [核心业务] [业内 top1] [支持远程] 后端工程师 +期权+双休+4 周年假](https://www.v2ex.com/t/908673#reply1) | Fri Jan 13 2023 5:43 AM
+- 🥷 [试了下群晖 VMM 跑 Win10，真的不堪用](https://www.v2ex.com/t/908671#reply20) | Fri Jan 13 2023 5:28 AM
+- 🐵 [大家可以尝试借助 chatGPT 完成年度汇报,救我狗命](https://www.v2ex.com/t/908648#reply16) | Fri Jan 13 2023 3:31 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
