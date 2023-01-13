@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [多台电脑与手机数据同步，求推荐](https://www.v2ex.com/t/908640#reply0) | Fri Jan 13 2023 3:16 AM
-- 🤗 [DTO Weekly Curations #1 - 2022 年 JavaScript 明星项目](https://www.v2ex.com/t/908639#reply0) | Fri Jan 13 2023 3:16 AM
-- 🎭 [说一点 phpmyadmin 安装的坑](https://www.v2ex.com/t/908636#reply0) | Fri Jan 13 2023 3:09 AM
-- 🥷 [mongodb lookup 使用请教](https://www.v2ex.com/t/908635#reply0) | Fri Jan 13 2023 3:02 AM
-- 🐵 [使用 SQL， GraphQL 和 PRQL 进行数据查询](https://www.v2ex.com/t/908615#reply1) | Fri Jan 13 2023 2:03 AM<!-- v2ex:END -->
+- 🥸 [大家可以尝试借助 chatGPT 完成年度汇报,救我狗命](https://www.v2ex.com/t/908648#reply5) | Fri Jan 13 2023 3:31 AM
+- 🤗 [多台电脑与手机数据同步，求推荐](https://www.v2ex.com/t/908640#reply8) | Fri Jan 13 2023 3:16 AM
+- 🎭 [DTO Weekly Curations #1 - 2022 年 JavaScript 明星项目](https://www.v2ex.com/t/908639#reply0) | Fri Jan 13 2023 3:16 AM
+- 🥷 [说一点 phpmyadmin 安装的坑](https://www.v2ex.com/t/908636#reply1) | Fri Jan 13 2023 3:09 AM
+- 🐵 [mongodb lookup 使用请教](https://www.v2ex.com/t/908635#reply1) | Fri Jan 13 2023 3:02 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
