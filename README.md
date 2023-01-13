@@ -398,11 +398,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [瞎扯·如何正确地吐槽](https://daily.zhihu.com/story/9757106) | Thu Jan 12 2023 12:27 AM
-- 🐻 [「赵C」这个名字究竟能否录入公安部户口管理系统？](https://daily.zhihu.com/story/9757075) | Thu Jan 12 2023 12:27 AM
-- 🌏 [《waka waka》的特殊歌词使用的是哪种语言？](https://daily.zhihu.com/story/9757077) | Thu Jan 12 2023 12:27 AM
-- 🕴 [俗话说“一人不入庙，二人不观井，三人不抱树，四人不回头”，是什么意思？](https://daily.zhihu.com/story/9757085) | Thu Jan 12 2023 12:27 AM
-- 🌮 [猫为什么喜欢被拍屁股？](https://daily.zhihu.com/story/9757092) | Thu Jan 12 2023 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯·如何正确地吐槽](https://daily.zhihu.com/story/9757187) | Fri Jan 13 2023 12:27 AM
+- 🐻 [中国古代人民的平均寿命是多少？怎么统计出来的？](https://daily.zhihu.com/story/9757120) | Fri Jan 13 2023 12:27 AM
+- 🌏 [动物的外呼吸器官（鼻）是大多长在脑袋上，有什么进化理论支撑？](https://daily.zhihu.com/story/9757128) | Fri Jan 13 2023 12:27 AM
+- 🕴 [最长寿生物动物是什么？](https://daily.zhihu.com/story/9757131) | Fri Jan 13 2023 12:27 AM
+- 🌮 [大脑的本质就是一个 CPU 吗？](https://daily.zhihu.com/story/9757140) | Fri Jan 13 2023 12:27 AM<!-- zhihu:END -->
 
 
 ## 应用资源
