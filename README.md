@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [千里之行始于足下，任务管理先看「今日」：Structured](https://sspai.com/post/77791) | Fri Jan 13 2023 7:10 AM 
+- 👹 [2023 年还在坚持本地听歌：Android 音乐播放器还有哪些好选择？](https://sspai.com/post/77789) | Fri Jan 13 2023 7:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    在听歌这件事情上还有哪些值得一试的 Android 本地音乐播放器？本文推荐我精挑细选之后觉得还不错的 10 款。&lt;a href=&quot;https://sspai.com/post/77789&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [千里之行始于足下，任务管理先看「今日」：Structured](https://sspai.com/post/77791) | Fri Jan 13 2023 7:10 AM 
     <details><summary>展开描述 ...</summary> 
     作为一款特色鲜明的任务管理工具，Structured 不管是在交互设计还是核心理念方面都做得可圈可点，挑不出明显的毛病。&lt;a href=&quot;https://sspai.com/post/77791&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [对话傅徐军：钉钉怎么操盘自己的云文档产品？](https://sspai.com/post/77781) | Fri Jan 13 2023 3:53 AM 
+- 🤭 [对话傅徐军：钉钉怎么操盘自己的云文档产品？](https://sspai.com/post/77781) | Fri Jan 13 2023 3:53 AM 
     <details><summary>展开描述 ...</summary> 
     从海量的企业和用户，到构建新的壁垒。&lt;a href=&quot;https://sspai.com/post/77781&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：Apple Music 等新版应用上架 Microsoft Store，索尼推出 ZX700 和 A300 系列 Android 播放器等](https://sspai.com/post/77795) | Fri Jan 13 2023 12:55 AM 
+- 🥸 [派早报：Apple Music 等新版应用上架 Microsoft Store，索尼推出 ZX700 和 A300 系列 Android 播放器等](https://sspai.com/post/77795) | Fri Jan 13 2023 12:55 AM 
     <details><summary>展开描述 ...</summary> 
     按：我们在本期的一些条目中尝试使用了拟议的新格式，即对于部分单纯发布产品的资讯，通过表格和要点列举等方式更有效传递信息，罗列参数或功能的范围则视重要程度有所取舍。欢迎对此提出意见和建议。你可能错过的新 ...&lt;a href=&quot;https://sspai.com/post/77795&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [要是回去能有止痛药水：评 Rewind](https://sspai.com/post/77790) | Thu Jan 12 2023 10:01 AM 
+- 🙉 [要是回去能有止痛药水：评 Rewind](https://sspai.com/post/77790) | Thu Jan 12 2023 10:01 AM 
     <details><summary>展开描述 ...</summary> 
     Rewind 或许还存在很多问题，或许也不会是「后悔药」的终极形态，但确实是一个处处有巧思、处处用巧劲的有趣作品。无论选择如何，都能在尝试中有所启发和思考。&lt;a href=&quot;https://sspai.com/post/77790&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [新玩意 133｜少数派的作者们最近买了啥？](https://sspai.com/post/77777) | Thu Jan 12 2023 7:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    关于栏目为了满足读者们对于《新玩意》栏目加更的需求，机器人特地邀请了Matrix作者们也来聊聊自己近期购买的新奇产品。喜欢本栏目的话，欢迎充电或评论文章来表达自己的喜爱，你的每一次真心夸赞或建议，都是 ...&lt;a href=&quot;https://sspai.com/post/77777&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
