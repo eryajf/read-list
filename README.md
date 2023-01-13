@@ -118,29 +118,29 @@
 ### 独立开发变现周刊
 
 <!-- easyindie:START -->
-- 💂 [独立开发变现周刊（第86期） : 月收入4000美元的日程规划器](https://www.ezindie.com/weekly/issue-86) | Fri Jan 06 2023 12:00 AM 
+- 💂 [独立开发变现周刊（第87期） : 靠写简历如何每年赚24万美元？](https://www.ezindie.com/weekly/issue-87) | Fri Jan 13 2023 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。靠写简历如何每年赚24万美元？ 
+    </details> 
+
+- 💡 [独立开发变现周刊（第86期） : 月收入4000美元的日程规划器](https://www.ezindie.com/weekly/issue-86) | Fri Jan 06 2023 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。月收入4000美元的日程规划器 
     </details> 
 
-- 💡 [独立开发变现周刊（第85期） : 一个会员服务的SaaS，月收入2万美金](https://www.ezindie.com/weekly/issue-85) | Fri Dec 23 2022 12:00 AM 
+- 🌋 [独立开发变现周刊（第85期） : 一个会员服务的SaaS，月收入2万美金](https://www.ezindie.com/weekly/issue-85) | Fri Dec 23 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。一个会员服务的SaaS，月收入2万美金 
     </details> 
 
-- 🌋 [独立开发变现周刊（第84期） : 一个地理位置API服务，月收入1.5万美元](https://www.ezindie.com/weekly/issue-84) | Fri Dec 16 2022 12:00 AM 
+- 🕴 [独立开发变现周刊（第84期） : 一个地理位置API服务，月收入1.5万美元](https://www.ezindie.com/weekly/issue-84) | Fri Dec 16 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。一个地理位置API服务，月收入1.5万美元 
     </details> 
 
-- 🕴 [独立开发变现周刊（第83期） : 建在Stripe上的应用，年收入70万美元](https://www.ezindie.com/weekly/issue-83) | Fri Dec 09 2022 12:00 AM 
+- 🎊 [独立开发变现周刊（第83期） : 建在Stripe上的应用，年收入70万美元](https://www.ezindie.com/weekly/issue-83) | Fri Dec 09 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。建在Stripe上的应用，年收入70万美元 
-    </details> 
-
-- 🎊 [独立开发变现周刊（第82期） : 开发一个在线PDF编辑器，年收入50万美元](https://www.ezindie.com/weekly/issue-82) | Fri Dec 02 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。开发一个在线PDF编辑器，年收入50万美元 
     </details> 
 <!-- easyindie:END -->
 
