@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：Apple Music 等新版应用上架 Microsoft Store，索尼推出 ZX700 和 A300 系列 Android 播放器等](https://sspai.com/post/77795) | Fri Jan 13 2023 12:55 AM 
+- 👹 [对话傅徐军：钉钉怎么操盘自己的云文档产品？](https://sspai.com/post/77781) | Fri Jan 13 2023 3:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    从海量的企业和用户，到构建新的壁垒。&lt;a href=&quot;https://sspai.com/post/77781&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派早报：Apple Music 等新版应用上架 Microsoft Store，索尼推出 ZX700 和 A300 系列 Android 播放器等](https://sspai.com/post/77795) | Fri Jan 13 2023 12:55 AM 
     <details><summary>展开描述 ...</summary> 
     按：我们在本期的一些条目中尝试使用了拟议的新格式，即对于部分单纯发布产品的资讯，通过表格和要点列举等方式更有效传递信息，罗列参数或功能的范围则视重要程度有所取舍。欢迎对此提出意见和建议。你可能错过的新 ...&lt;a href=&quot;https://sspai.com/post/77795&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [要是回去能有止痛药水：评 Rewind](https://sspai.com/post/77790) | Thu Jan 12 2023 10:01 AM 
+- 🤭 [要是回去能有止痛药水：评 Rewind](https://sspai.com/post/77790) | Thu Jan 12 2023 10:01 AM 
     <details><summary>展开描述 ...</summary> 
     Rewind 或许还存在很多问题，或许也不会是「后悔药」的终极形态，但确实是一个处处有巧思、处处用巧劲的有趣作品。无论选择如何，都能在尝试中有所启发和思考。&lt;a href=&quot;https://sspai.com/post/77790&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [新玩意 133｜少数派的作者们最近买了啥？](https://sspai.com/post/77777) | Thu Jan 12 2023 7:53 AM 
+- 🥸 [新玩意 133｜少数派的作者们最近买了啥？](https://sspai.com/post/77777) | Thu Jan 12 2023 7:53 AM 
     <details><summary>展开描述 ...</summary> 
     关于栏目为了满足读者们对于《新玩意》栏目加更的需求，机器人特地邀请了Matrix作者们也来聊聊自己近期购买的新奇产品。喜欢本栏目的话，欢迎充电或评论文章来表达自己的喜爱，你的每一次真心夸赞或建议，都是 ...&lt;a href=&quot;https://sspai.com/post/77777&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [什么都可以以后再说，体检为什么不可以？](https://sspai.com/post/77776) | Thu Jan 12 2023 7:00 AM 
+- 🙉 [什么都可以以后再说，体检为什么不可以？](https://sspai.com/post/77776) | Thu Jan 12 2023 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     最近的Omicron大流行让很多人后知后觉地意识到了时刻关注与监测身体的重要性。少数派其实发布过不少健康相关的文章，一方面，我们认为生活中不应该只有工作与效率，身体健康也是非常重要的一环；另一方面，同 ...&lt;a href=&quot;https://sspai.com/post/77776&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [年度征文｜差生文具多，纸和笔才是笔记王道吗？](https://sspai.com/post/77745) | Thu Jan 12 2023 3:28 AM 
-    <details><summary>展开描述 ...</summary> 
-    编注：本文是少数派2022年度征文活动的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。今年我们采用了更加依赖用户反馈数据的奖金结算机制，充电、收藏和阅读量都将不同程度地影响文章的最终排 ...&lt;a href=&quot;https://sspai.com/post/77745&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
