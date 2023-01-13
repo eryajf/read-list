@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Invoice OCR - 用于从发票中实时提取数据的 OCR 软件和 API](https://xinquji.com/posts/792896?utm_campaign=xinquji-rss) | Fri Jan 13 2023 6:00 AM 
+- 👀 [Superchart - 强大的无代码可嵌入图表](https://xinquji.com/posts/792917?utm_campaign=xinquji-rss) | Fri Jan 13 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     用于从发票中实时提取数据的 OCR 软件和 API  
+     强大的无代码可嵌入图表  
     </details> 
 
-- 🥷 [Notion x Finance - 使您的财务管理自动化以做出明智的决策](https://xinquji.com/posts/792895?utm_campaign=xinquji-rss) | Fri Jan 13 2023 6:00 AM 
+- 🥷 [Somi AI - 在 Slack 上获得所有问题的即时答案](https://xinquji.com/posts/792916?utm_campaign=xinquji-rss) | Fri Jan 13 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     使您的财务管理自动化以做出明智的决策  
+     在 Slack 上获得所有问题的即时答案  
     </details> 
 
-- 💼 [Todoist Time Tracking by Everhour - Todoist 用于报告、预算和薪资的时间跟踪器](https://xinquji.com/posts/792894?utm_campaign=xinquji-rss) | Fri Jan 13 2023 6:00 AM 
+- 💼 [Writeathon - 提供创作者需要的写作流程和灵感](https://xinquji.com/posts/792915?utm_campaign=xinquji-rss) | Fri Jan 13 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     Todoist 用于报告、预算和薪资的时间跟踪器  
+     提供创作者需要的写作流程和灵感  
     </details> 
 
-- 🦅 [60seconds - 再也不要让定价拒绝买家](https://xinquji.com/posts/792893?utm_campaign=xinquji-rss) | Fri Jan 13 2023 6:00 AM 
+- 🦅 [ensemble - 通过每天与朋友分享一首歌曲来发现音乐](https://xinquji.com/posts/792914?utm_campaign=xinquji-rss) | Fri Jan 13 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     再也不要让定价拒绝买家  
+     通过每天与朋友分享一首歌曲来发现音乐  
     </details> 
 
-- 😺 [Tertulia - 值得一谈的书](https://xinquji.com/posts/792892?utm_campaign=xinquji-rss) | Fri Jan 13 2023 6:00 AM 
+- 😺 [Short Kings - 2023 年是我们的一年](https://xinquji.com/posts/792913?utm_campaign=xinquji-rss) | Fri Jan 13 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     值得一谈的书  
+     2023 年是我们的一年  
     </details> 
 <!-- xinquji:END -->
