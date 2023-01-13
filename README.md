@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [必看！4个大厂产品经理的年终复盘加分项](https://juejin.cn/post/7187965740723470391) | Fri Jan 13 2023 2:59 AM 
+- 🤗 [35张图，直观理解Stable Diffusion](https://juejin.cn/post/7187974820628267064) | Fri Jan 13 2023 3:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    最近，AI图像生成引人注目，它能够根据文字描述生成精美图像，这极大地改变了人们的图像创作方式。Stable Diffusion作为一款高性能模型，是AI图像生成领域的里程碑。 
+    </details> 
+
+- 🎡 [Elasticsearch：解析和丰富日志数据以在 Elastic 平台上进行故障排除](https://juejin.cn/post/7187971357697638460) | Fri Jan 13 2023 3:20 AM 
+    <details><summary>展开描述 ...</summary> 
+    作者：Luca Wintergerst 在较早的博客文章 “日志监控和非结构化日志数据中，超越 tail -f”，我们讨论了收集和使用非结构化日志数据。 我们了解到，将数据添加到 Elastic St 
+    </details> 
+
+- 🕯 [必看！4个大厂产品经理的年终复盘加分项](https://juejin.cn/post/7187965740723470391) | Fri Jan 13 2023 2:59 AM 
     <details><summary>展开描述 ...</summary> 
     年关将近，各部门已紧锣密鼓地筹备年终复盘，旨在总结工作，肯定团队成果。 区别于千篇一律的成果复盘，产品经理的复盘应侧重于工作过程中的收获和成长，体现个人在团队内价值，便于直属上级清楚你的重要性，为年后 
     </details> 
 
-- 🎡 [使用 TypeScript 定义业务字典](https://juejin.cn/post/7187963986875252795) | Fri Jan 13 2023 2:53 AM 
+- 🚀 [使用 TypeScript 定义业务字典](https://juejin.cn/post/7187963986875252795) | Fri Jan 13 2023 2:53 AM 
     <details><summary>展开描述 ...</summary> 
     在业务开发中，简单的枚举值往往会衍生出许多关联的字段定义。面对需要定义复杂业务字典的场景，本文将使用 TypeScript 实现一个定义业务字典的工具函数，并且支持类型提示。 
     </details> 
 
-- 🕯 [基于Alertmanager设计告警降噪系统，成本低可落地](https://juejin.cn/post/7187961764674764858) | Fri Jan 13 2023 2:44 AM 
+- 💪 [线程的创建、中断及通信](https://juejin.cn/post/7187755864739037239) | Thu Jan 12 2023 1:25 PM 
     <details><summary>展开描述 ...</summary> 
-    在Alertmanager的基础上制定了标签规范、告警分级降噪、分级抑制、告警合并，并扩展了未恢复告警、静默告警、告警历史 
-    </details> 
-
-- 🚀 [读书笔记｜择一城以定财富，择一行以定发展](https://juejin.cn/post/7187956951211311141) | Fri Jan 13 2023 2:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    题记 “最近个人财政吃紧，想着病急乱投医”，看看理财区有什么好的书籍，然后就用两天时间读完了这本——《钱从哪里来》。 
-    </details> 
-
-- 💪 [多状态页面中的 mock 方案](https://juejin.cn/post/7187955318356181029) | Fri Jan 13 2023 2:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    我们有时候会遇到一个业务页面存在很多个状态，甚至子状态，比如订单详情就是其中的典型，涉及从订单创建到订单结束，以及售后等流程。维护起来每个状态对应一份数据，虽然我们 QA 提供了数据构造平台，但构造一 
+    线程的三种创建方式 继承Thread 我们在代码中想要简单的启动一个线程，最熟悉的方式就是继承 Thread ，这个类是JDK提供的一个线程类，这个类实现了 Runnable 接口，我们可以来看看 T 
     </details> 
 <!-- juejin:END -->
 ### 少数派
