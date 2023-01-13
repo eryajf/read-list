@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [DevServer与模块热替换之间的爱恨情仇💘以及HMR原理](https://juejin.cn/post/7188086151075332153) | Fri Jan 13 2023 10:46 AM 
+- 🤗 [vue刷新当前页面](https://juejin.cn/post/7188103333440127037) | Fri Jan 13 2023 11:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    项目当中如果做新增/修改/删除等等操作通常情况下都需要刷新数据或者刷新当前页面.如果页面简单,调用接口刷新数据即可.如果页面复杂,需要调用多个接口或者通知多个子组件做刷新,可以采用刷新当前页面的方式 
+    </details> 
+
+- 🎡 [DevServer与模块热替换之间的爱恨情仇💘以及HMR原理](https://juejin.cn/post/7188086151075332153) | Fri Jan 13 2023 10:46 AM 
     <details><summary>展开描述 ...</summary> 
     HMR对于大型应用尤其适用。试想一个辅助的系统每改动一个地方都要经历资源重新构建、网络请求、浏览器重新渲染等过程,怎么也要爱几秒甚至几十秒的时间才能完成。 
     </details> 
 
-- 🎡 [OC底层原理（十）：objc_msgSend的动态方法决议与消息转发](https://juejin.cn/post/7188049057099546681) | Fri Jan 13 2023 8:22 AM 
+- 🕯 [OC底层原理（十）：objc_msgSend的动态方法决议与消息转发](https://juejin.cn/post/7188049057099546681) | Fri Jan 13 2023 8:22 AM 
     <details><summary>展开描述 ...</summary> 
     在前一篇文章objc_msgSend慢速方法查找中，探究了消息慢速查找，即消息发送objc_msgSend从快速查找进入到慢速查找，并跟踪源码学习了方法慢速查找的流程。本篇关注如果快速查找和慢速查找都 
     </details> 
 
-- 🕯 [前端使用electron+vue3+ts搭建一个桌面端应用且可以热更新](https://juejin.cn/post/7188041961599664165) | Fri Jan 13 2023 7:55 AM 
+- 🚀 [前端使用electron+vue3+ts搭建一个桌面端应用且可以热更新](https://juejin.cn/post/7188041961599664165) | Fri Jan 13 2023 7:55 AM 
     <details><summary>展开描述 ...</summary> 
     技术 字体加黑的是必要的技术，其他的库是可以自由选择的 electron 13.0.0 vue3 + ts electron-updater node 16.13.1 element-plus les 
     </details> 
 
-- 🚀 [使用 React.memo 和 React.useMemo 对项目性能优化](https://juejin.cn/post/7188041140963115066) | Fri Jan 13 2023 7:51 AM 
+- 💪 [使用 React.memo 和 React.useMemo 对项目性能优化](https://juejin.cn/post/7188041140963115066) | Fri Jan 13 2023 7:51 AM 
     <details><summary>展开描述 ...</summary> 
     这篇文章会详细介如何正确使用 React.memo 和 useMemo 来对我们的项目进行一个性能优化。 React.memo 示例 我们先从一个简单的示例入手 以下是一个常规的父子组件关系，打开浏 
-    </details> 
-
-- 💪 [普通双非迟来的年度总结AND秋招总结](https://juejin.cn/post/7188040391180943417) | Fri Jan 13 2023 7:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    【回顾2022，展望2023，我正在参与2022年终总结征文大赛活动】 笔者早就有了写秋招总结的打算，奈何入职后一直因为各种各样的事情拖延了。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
