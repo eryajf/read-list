@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [umi 如何实现插件 api （附实践）](https://juejin.cn/post/7188077924275191866) | Fri Jan 13 2023 10:14 AM 
+- 🤗 [DevServer与模块热替换之间的爱恨情仇💘以及HMR原理](https://juejin.cn/post/7188086151075332153) | Fri Jan 13 2023 10:46 AM 
     <details><summary>展开描述 ...</summary> 
-    tapable 从官方渠道发布的信息或者 umi 的源码我们很容易知道 umi 的插件机制是使用了 tapable 库。我们也使用 tapable 实现一份 umi 插件机制 
+    HMR对于大型应用尤其适用。试想一个辅助的系统每改动一个地方都要经历资源重新构建、网络请求、浏览器重新渲染等过程,怎么也要爱几秒甚至几十秒的时间才能完成。 
     </details> 
 
-- 🎡 [[超详细]学习微信小程序-input组件也有坑？](https://juejin.cn/post/7188074187368431676) | Fri Jan 13 2023 9:59 AM 
+- 🎡 [OC底层原理（十）：objc_msgSend的动态方法决议与消息转发](https://juejin.cn/post/7188049057099546681) | Fri Jan 13 2023 8:22 AM 
     <details><summary>展开描述 ...</summary> 
-    今天要和大家分享一下开发微信小程序过程中，使用input组件时遇到的坑。阅读本文可了解input组件的bindinput和bindblur事件之间的区别；了解真机调试小程序的过程；了解编写bindin 
+    在前一篇文章objc_msgSend慢速方法查找中，探究了消息慢速查找，即消息发送objc_msgSend从快速查找进入到慢速查找，并跟踪源码学习了方法慢速查找的流程。本篇关注如果快速查找和慢速查找都 
     </details> 
 
-- 🕯 [由View的onAttachedToWindow引发的图片轮播问题探究](https://juejin.cn/post/7188072216460787773) | Fri Jan 13 2023 9:52 AM 
+- 🕯 [前端使用electron+vue3+ts搭建一个桌面端应用且可以热更新](https://juejin.cn/post/7188041961599664165) | Fri Jan 13 2023 7:55 AM 
     <details><summary>展开描述 ...</summary> 
-    某天同事某进在做一个列表页添加轮播`Banner`的需求的时候，发下偶尔会出现轮播间隔时间错乱的问题。 
+    技术 字体加黑的是必要的技术，其他的库是可以自由选择的 electron 13.0.0 vue3 + ts electron-updater node 16.13.1 element-plus les 
     </details> 
 
-- 🚀 [Android Studio Electric Eel | 2022.1.1 发布，快来看看有什么大更新吧](https://juejin.cn/post/7188044815072755772) | Fri Jan 13 2023 8:06 AM 
+- 🚀 [使用 React.memo 和 React.useMemo 对项目性能优化](https://juejin.cn/post/7188041140963115066) | Fri Jan 13 2023 7:51 AM 
     <details><summary>展开描述 ...</summary> 
-    本次 Android Studio 又发布了大量的内容更新，按照惯例推荐是等两个小版本后再更新会比较稳，当然也鼓励大家尝尝鲜，本次更新推出了大量实用的功能。 另外由于国内对更新内容关注度等原因，这里调 
+    这篇文章会详细介如何正确使用 React.memo 和 useMemo 来对我们的项目进行一个性能优化。 React.memo 示例 我们先从一个简单的示例入手 以下是一个常规的父子组件关系，打开浏 
     </details> 
 
-- 💪 [深入理解RocketMQ底层是如何玩](https://juejin.cn/post/7188030857523757093) | Fri Jan 13 2023 7:11 AM 
+- 💪 [普通双非迟来的年度总结AND秋招总结](https://juejin.cn/post/7188040391180943417) | Fri Jan 13 2023 7:47 AM 
     <details><summary>展开描述 ...</summary> 
-    想不到RocketMQ底层是这么来玩mmap的。今天抽空给大家整理了一份关于RocketMQ的高性能知识点文章总结。希望能对各位读者有所帮助。 
+    【回顾2022，展望2023，我正在参与2022年终总结征文大赛活动】 笔者早就有了写秋招总结的打算，奈何入职后一直因为各种各样的事情拖延了。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
