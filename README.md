@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [使用 SQL， GraphQL 和 PRQL 进行数据查询](https://www.v2ex.com/t/908615#reply1) | Fri Jan 13 2023 2:03 AM
-- 🤗 [如图，如何像这样让函数参数名也显示在代码里？](https://www.v2ex.com/t/908605#reply11) | Fri Jan 13 2023 1:44 AM
-- 🎭 [最近实践了微前端，写了个 blog 总结下](https://www.v2ex.com/t/908592#reply0) | Fri Jan 13 2023 1:05 AM
-- 🥷 [公司过年团建，同事吃着火锅一直叹气。](https://www.v2ex.com/t/908563#reply32) | Thu Jan 12 2023 3:40 PM
-- 🐵 [各位在 Linux 桌面都用 什么文件管理器？](https://www.v2ex.com/t/908560#reply27) | Thu Jan 12 2023 3:32 PM<!-- v2ex:END -->
+- 🥸 [多台电脑与手机数据同步，求推荐](https://www.v2ex.com/t/908640#reply0) | Fri Jan 13 2023 3:16 AM
+- 🤗 [DTO Weekly Curations #1 - 2022 年 JavaScript 明星项目](https://www.v2ex.com/t/908639#reply0) | Fri Jan 13 2023 3:16 AM
+- 🎭 [说一点 phpmyadmin 安装的坑](https://www.v2ex.com/t/908636#reply0) | Fri Jan 13 2023 3:09 AM
+- 🥷 [mongodb lookup 使用请教](https://www.v2ex.com/t/908635#reply0) | Fri Jan 13 2023 3:02 AM
+- 🐵 [使用 SQL， GraphQL 和 PRQL 进行数据查询](https://www.v2ex.com/t/908615#reply1) | Fri Jan 13 2023 2:03 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
