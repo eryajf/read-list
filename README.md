@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [开箱即用！Node.js+Mysql模块封装](https://juejin.cn/post/7188008161218363429) | Fri Jan 13 2023 5:42 AM 
+- 🤗 [2022年终总结](https://juejin.cn/post/7188027781836439589) | Fri Jan 13 2023 6:59 AM 
     <details><summary>展开描述 ...</summary> 
-    最近在写毕设，采用的是学弟+自己的技术栈，运用Vue3+ElementPlus搞前端，Node.js express做后端，毕竟，java那东西确实不在我技术栈里。 于是乎，我抱着能CV就不要自 
+    逝者如斯夫，不舍昼夜！当我们在用一只手在依依不舍的告别2022年，另外一只手也在翘首以盼的迎着2023年。 
     </details> 
 
-- 🎡 [React Didact 解析、高精度毫秒级计时器、分库分表| 酱酱的下午茶第153期](https://juejin.cn/post/7188007940329046073) | Fri Jan 13 2023 5:41 AM 
+- 🎡 [WDS与HMR之间的爱恨情仇💘](https://juejin.cn/post/7188025621724233765) | Fri Jan 13 2023 6:52 AM 
     <details><summary>展开描述 ...</summary> 
-    看点:How to build your own React: Didact 解析、基于 requestAnimationFrame 实现高精度毫秒级正向计时器、分库分表，真的有必要吗、微服务的版本号 
+    HMR对于大型应用尤其适用。试想一个辅助的系统每改动一个地方都要经历资源重新构建、网络请求、浏览器重新渲染等过程,怎么也要爱几秒甚至几十秒的时间才能完成。 
     </details> 
 
-- 🕯 [😭 00 年应届生的 22 年年终总结](https://juejin.cn/post/7187980962670575653) | Fri Jan 13 2023 3:58 AM 
+- 🕯 [我对不同阶段前端工程师的额外要求](https://juejin.cn/post/7188025237747793980) | Fri Jan 13 2023 6:49 AM 
     <details><summary>展开描述 ...</summary> 
-    本来已经错过了今年的年终总结活动，但没想到竟然延期了，恰好今年的经历还是比较多的，我也很想写一篇总结，以便明年的这个时间可以做个对比。文章内容还挺长，一写就有点点上头，可以供各位掘宝们工作之余当个消遣 
+    最近年底绩效季，听了团队同学的述职（P5~P7），并做了一些点评，并再次强调了自己对大家的要求。借此机会，写一篇文章，做一下传达。 
     </details> 
 
-- 🚀 [美团技术年货来了！1300+页的电子书，涵盖前端、后端、算法、数据、运维、安全](https://juejin.cn/post/7187978977611350075) | Fri Jan 13 2023 3:49 AM 
+- 🚀 [RTE 领域的发展，为视频编解码标准带来哪些新变化？丨Dev for Dev 专栏](https://juejin.cn/post/7188024809622601785) | Fri Jan 13 2023 6:47 AM 
     <details><summary>展开描述 ...</summary> 
-    新春将至，一年一度的美团技术年货来了！祝愿大家在新年里，诸事顺遂、健康平安。这本电子书内容覆盖算法、前端、后端、数据、运维/安全等多个技术领域，希望能对同学们的工作和学习有所帮助。 
+    RTE 领域的发展，为视频编解码标准带来哪些新变化？本文为「Dev for Dev 专栏」系列内容，作者为声网资深视频算法负责人 戴伟。 
     </details> 
 
-- 💪 [Seata AT模式+TDDL：排查构建Insert操作的afterImage时执行SELECT LAST_INSERT_ID&lpar;&rpar;报错](https://juejin.cn/post/7187977441472675900) | Fri Jan 13 2023 3:44 AM 
+- 💪 [今天就放年假了，对我的2022做一个总结吧](https://juejin.cn/post/7188019495217135675) | Fri Jan 13 2023 6:26 AM 
     <details><summary>展开描述 ...</summary> 
-    构建Insert操作的afterImage要获取自增ID，复用insert的PreparedStatement通过SELECT LAST_INSERT_ID&lpar;&rpar;获取时遇到一些问题，梳理清楚以制定方案 
+    今天就是放年假之前的最后一天班了，突然觉得应该回顾一下2022年了，因为2022年算是我这些年变化最多的一年了，事情很多，成长很快，人生大事也发生了很多，有不幸也有幸运（幸运的多一点）。下面就简单复盘 
     </details> 
 <!-- juejin:END -->
 ### 少数派
