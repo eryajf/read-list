@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有没有真正开源的基于 thinkphp6 的前后端分离的后台管理系统呀](https://www.v2ex.com/t/908721#reply0) | Fri Jan 13 2023 8:10 AM
-- 🤗 [今天刚发现 Python 简单的递归用 reduce 实现感觉蛮简洁的](https://www.v2ex.com/t/908714#reply3) | Fri Jan 13 2023 7:55 AM
-- 🎭 [关于 Java gc 的问题](https://www.v2ex.com/t/908712#reply1) | Fri Jan 13 2023 7:52 AM
-- 🥷 [搞技术的你们都写月报吗？](https://www.v2ex.com/t/908702#reply15) | Fri Jan 13 2023 7:23 AM
-- 🐵 [大家&quot;讨厌&quot;过年吗?](https://www.v2ex.com/t/908695#reply30) | Fri Jan 13 2023 6:50 AM<!-- v2ex:END -->
+- 🥸 [gstatic.cn 是已经停止服务了么？](https://www.v2ex.com/t/908726#reply0) | Fri Jan 13 2023 8:32 AM
+- 🤗 [有没有真正开源的基于 thinkphp6 的前后端分离的后台管理系统呀](https://www.v2ex.com/t/908721#reply1) | Fri Jan 13 2023 8:10 AM
+- 🎭 [今天刚发现 Python 简单的递归用 reduce 实现感觉蛮简洁的](https://www.v2ex.com/t/908714#reply4) | Fri Jan 13 2023 7:55 AM
+- 🥷 [关于 Java gc 的问题](https://www.v2ex.com/t/908712#reply2) | Fri Jan 13 2023 7:52 AM
+- 🐵 [搞技术的你们都写月报吗？](https://www.v2ex.com/t/908702#reply17) | Fri Jan 13 2023 7:23 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
