@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [35张图，直观理解Stable Diffusion](https://juejin.cn/post/7187974820628267064) | Fri Jan 13 2023 3:34 AM 
+- 🤗 [😭 00 年应届生的 22 年年终总结](https://juejin.cn/post/7187980962670575653) | Fri Jan 13 2023 3:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    本来已经错过了今年的年终总结活动，但没想到竟然延期了，恰好今年的经历还是比较多的，我也很想写一篇总结，以便明年的这个时间可以做个对比。文章内容还挺长，一写就有点点上头，可以供各位掘宝们工作之余当个消遣 
+    </details> 
+
+- 🎡 [美团技术年货来了！1300+页的电子书，涵盖前端、后端、算法、数据、运维、安全](https://juejin.cn/post/7187978977611350075) | Fri Jan 13 2023 3:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    新春将至，一年一度的美团技术年货来了！祝愿大家在新年里，诸事顺遂、健康平安。这本电子书内容覆盖算法、前端、后端、数据、运维/安全等多个技术领域，希望能对同学们的工作和学习有所帮助。 
+    </details> 
+
+- 🕯 [Seata AT模式+TDDL：排查构建Insert操作的afterImage时执行SELECT LAST_INSERT_ID&lpar;&rpar;报错](https://juejin.cn/post/7187977441472675900) | Fri Jan 13 2023 3:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    构建Insert操作的afterImage要获取自增ID，复用insert的PreparedStatement通过SELECT LAST_INSERT_ID&lpar;&rpar;获取时遇到一些问题，梳理清楚以制定方案 
+    </details> 
+
+- 🚀 [云服务器 那个便宜亿点点](https://juejin.cn/post/7187976513050902584) | Fri Jan 13 2023 3:41 AM 
+    <details><summary>展开描述 ...</summary> 
+    序 今天突发奇想 有一个想法，想监控几个页面的数据，然后有新数据更新，推送给我（比如 新闻，科技 关注的人等） 想起来也不难，搞起，技术细节就不说了，想想就简单，重点不是实现，是前两天 我的云服务器到 
+    </details> 
+
+- 💪 [35张图，直观理解Stable Diffusion](https://juejin.cn/post/7187974820628267064) | Fri Jan 13 2023 3:34 AM 
     <details><summary>展开描述 ...</summary> 
     最近，AI图像生成引人注目，它能够根据文字描述生成精美图像，这极大地改变了人们的图像创作方式。Stable Diffusion作为一款高性能模型，是AI图像生成领域的里程碑。 
-    </details> 
-
-- 🎡 [Elasticsearch：解析和丰富日志数据以在 Elastic 平台上进行故障排除](https://juejin.cn/post/7187971357697638460) | Fri Jan 13 2023 3:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    作者：Luca Wintergerst 在较早的博客文章 “日志监控和非结构化日志数据中，超越 tail -f”，我们讨论了收集和使用非结构化日志数据。 我们了解到，将数据添加到 Elastic St 
-    </details> 
-
-- 🕯 [必看！4个大厂产品经理的年终复盘加分项](https://juejin.cn/post/7187965740723470391) | Fri Jan 13 2023 2:59 AM 
-    <details><summary>展开描述 ...</summary> 
-    年关将近，各部门已紧锣密鼓地筹备年终复盘，旨在总结工作，肯定团队成果。 区别于千篇一律的成果复盘，产品经理的复盘应侧重于工作过程中的收获和成长，体现个人在团队内价值，便于直属上级清楚你的重要性，为年后 
-    </details> 
-
-- 🚀 [使用 TypeScript 定义业务字典](https://juejin.cn/post/7187963986875252795) | Fri Jan 13 2023 2:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    在业务开发中，简单的枚举值往往会衍生出许多关联的字段定义。面对需要定义复杂业务字典的场景，本文将使用 TypeScript 实现一个定义业务字典的工具函数，并且支持类型提示。 
-    </details> 
-
-- 💪 [线程的创建、中断及通信](https://juejin.cn/post/7187755864739037239) | Thu Jan 12 2023 1:25 PM 
-    <details><summary>展开描述 ...</summary> 
-    线程的三种创建方式 继承Thread 我们在代码中想要简单的启动一个线程，最熟悉的方式就是继承 Thread ，这个类是JDK提供的一个线程类，这个类实现了 Runnable 接口，我们可以来看看 T 
     </details> 
 <!-- juejin:END -->
 ### 少数派
