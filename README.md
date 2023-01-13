@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [当 Transfer-Encoding: chunked 遇上 HTTP2](https://juejin.cn/post/7188046760215445559) | Fri Jan 13 2023 8:14 AM 
+- 🤗 [cephadm 安装部署 ceph 集群](https://juejin.cn/post/7188054054684065850) | Fri Jan 13 2023 8:41 AM 
+    <details><summary>展开描述 ...</summary> 
+    cephadm 安装部署 ceph 集群 介绍 手册： https://access.redhat.com/documentation/zh-cn/red_hat_ceph_storage/5/htm 
+    </details> 
+
+- 🎡 [当 Transfer-Encoding: chunked 遇上 HTTP2](https://juejin.cn/post/7188046760215445559) | Fri Jan 13 2023 8:14 AM 
     <details><summary>展开描述 ...</summary> 
     本文从 SSR 流式渲染的需求出发，通过一个实验介绍了 HTTP2 对 chunked 的处理，并简单分析了一下 HTTP2 的帧格式。 
     </details> 
 
-- 🎡 [“八股文”？ ——什么是好的技术面试](https://juejin.cn/post/7188046122441506853) | Fri Jan 13 2023 8:10 AM 
+- 🕯 [“八股文”？ ——什么是好的技术面试](https://juejin.cn/post/7188046122441506853) | Fri Jan 13 2023 8:10 AM 
     <details><summary>展开描述 ...</summary> 
     我们没有很好的办法去界定一个人在技术上是否优秀，实践证明是否在大厂工作过、学历是否很好只是提高了优秀人才的概率，但并不能决定一个人是否优秀。现在大部分五年以下工作经验所做的都是纯业务开发，例如 API 
     </details> 
 
-- 🕯 [2022年个人总结 - 黑云压城城欲摧](https://juejin.cn/post/7188045996167790650) | Fri Jan 13 2023 8:09 AM 
+- 🚀 [2022年个人总结 - 黑云压城城欲摧](https://juejin.cn/post/7188045996167790650) | Fri Jan 13 2023 8:09 AM 
     <details><summary>展开描述 ...</summary> 
     ## 前言   写这次总结之前又回首读了一遍2021年的年度总结，发现立的Flag 和祝好的祝福语都没有实现，好好读书和输出文章的要求没有达到。2022年继续是梦幻的一年，身处上海，3月到6月的疫情封 
     </details> 
 
-- 🚀 [RocketMQ源码-搭建源码调试环境](https://juejin.cn/post/7188044776577433661) | Fri Jan 13 2023 8:05 AM 
+- 💪 [RocketMQ源码-搭建源码调试环境](https://juejin.cn/post/7188044776577433661) | Fri Jan 13 2023 8:05 AM 
     <details><summary>展开描述 ...</summary> 
     RocketMQ的源码下载和版本4.8， 基本架构分析，本地启动配置文件说明，Product和Consumer本地生产消息和消费消息 
-    </details> 
-
-- 💪 [【AI】兔年到了，用 GPT 写首诗词](https://juejin.cn/post/7188032977408884794) | Fri Jan 13 2023 7:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    这不兔年到了，薅薅兔毛，作首与 “兔” 相关的诗词； 前不久在网络爆火的 ChatGPT，被网友们玩出了各种花样，基于此训练了一个能作中文古诗词的 GPT 预训练模型，在这儿给大伙作首诗词； 
     </details> 
 <!-- juejin:END -->
 ### 少数派
