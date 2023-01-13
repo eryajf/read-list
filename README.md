@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [cephadm 安装部署 ceph 集群](https://juejin.cn/post/7188054054684065850) | Fri Jan 13 2023 8:41 AM 
+- 🤗 [umi 如何实现插件 api （附实践）](https://juejin.cn/post/7188077924275191866) | Fri Jan 13 2023 10:14 AM 
     <details><summary>展开描述 ...</summary> 
-    cephadm 安装部署 ceph 集群 介绍 手册： https://access.redhat.com/documentation/zh-cn/red_hat_ceph_storage/5/htm 
+    tapable 从官方渠道发布的信息或者 umi 的源码我们很容易知道 umi 的插件机制是使用了 tapable 库。我们也使用 tapable 实现一份 umi 插件机制 
     </details> 
 
-- 🎡 [当 Transfer-Encoding: chunked 遇上 HTTP2](https://juejin.cn/post/7188046760215445559) | Fri Jan 13 2023 8:14 AM 
+- 🎡 [[超详细]学习微信小程序-input组件也有坑？](https://juejin.cn/post/7188074187368431676) | Fri Jan 13 2023 9:59 AM 
     <details><summary>展开描述 ...</summary> 
-    本文从 SSR 流式渲染的需求出发，通过一个实验介绍了 HTTP2 对 chunked 的处理，并简单分析了一下 HTTP2 的帧格式。 
+    今天要和大家分享一下开发微信小程序过程中，使用input组件时遇到的坑。阅读本文可了解input组件的bindinput和bindblur事件之间的区别；了解真机调试小程序的过程；了解编写bindin 
     </details> 
 
-- 🕯 [“八股文”？ ——什么是好的技术面试](https://juejin.cn/post/7188046122441506853) | Fri Jan 13 2023 8:10 AM 
+- 🕯 [由View的onAttachedToWindow引发的图片轮播问题探究](https://juejin.cn/post/7188072216460787773) | Fri Jan 13 2023 9:52 AM 
     <details><summary>展开描述 ...</summary> 
-    我们没有很好的办法去界定一个人在技术上是否优秀，实践证明是否在大厂工作过、学历是否很好只是提高了优秀人才的概率，但并不能决定一个人是否优秀。现在大部分五年以下工作经验所做的都是纯业务开发，例如 API 
+    某天同事某进在做一个列表页添加轮播`Banner`的需求的时候，发下偶尔会出现轮播间隔时间错乱的问题。 
     </details> 
 
-- 🚀 [2022年个人总结 - 黑云压城城欲摧](https://juejin.cn/post/7188045996167790650) | Fri Jan 13 2023 8:09 AM 
+- 🚀 [Android Studio Electric Eel | 2022.1.1 发布，快来看看有什么大更新吧](https://juejin.cn/post/7188044815072755772) | Fri Jan 13 2023 8:06 AM 
     <details><summary>展开描述 ...</summary> 
-    ## 前言   写这次总结之前又回首读了一遍2021年的年度总结，发现立的Flag 和祝好的祝福语都没有实现，好好读书和输出文章的要求没有达到。2022年继续是梦幻的一年，身处上海，3月到6月的疫情封 
+    本次 Android Studio 又发布了大量的内容更新，按照惯例推荐是等两个小版本后再更新会比较稳，当然也鼓励大家尝尝鲜，本次更新推出了大量实用的功能。 另外由于国内对更新内容关注度等原因，这里调 
     </details> 
 
-- 💪 [RocketMQ源码-搭建源码调试环境](https://juejin.cn/post/7188044776577433661) | Fri Jan 13 2023 8:05 AM 
+- 💪 [深入理解RocketMQ底层是如何玩](https://juejin.cn/post/7188030857523757093) | Fri Jan 13 2023 7:11 AM 
     <details><summary>展开描述 ...</summary> 
-    RocketMQ的源码下载和版本4.8， 基本架构分析，本地启动配置文件说明，Product和Consumer本地生产消息和消费消息 
+    想不到RocketMQ底层是这么来玩mmap的。今天抽空给大家整理了一份关于RocketMQ的高性能知识点文章总结。希望能对各位读者有所帮助。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
