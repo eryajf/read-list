@@ -311,19 +311,19 @@
     英国跨国邮政服务和快递公司皇家邮政本周宣布，一起“网络事件”对其运营造成了严重影响。 
     </details> 
 
-- 🦅 [FreeBuf 周报 | 高通骁龙通告 22 个安全漏洞；塞尔维亚政府机构遭 DDoS 攻击](https://www.freebuf.com/articles/355079.html) | Thu Jan 12 2023 8:43 AM 
+- 🦅 [MacOS风险排查怎么做；春节安全值守怎么安排 | FB甲方群话题讨论](https://www.freebuf.com/articles/neopoints/355094.html) | Thu Jan 12 2023 9:05 AM 
+    <details><summary>展开描述 ...</summary> 
+    Mac就一定比Windows等系统更安全吗？春节企业安全值守及应急响应有何方案？更多话题欢迎点击~ 
+    </details> 
+
+- 🪄 [FreeBuf 周报 | 高通骁龙通告 22 个安全漏洞；塞尔维亚政府机构遭 DDoS 攻击](https://www.freebuf.com/articles/355079.html) | Thu Jan 12 2023 8:43 AM 
     <details><summary>展开描述 ...</summary> 
     文章推荐了本周热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
     </details> 
 
-- 🪄 [Twitter 回应，2 亿用户数据不是通过系统漏洞流出](https://www.freebuf.com/articles/355054.html) | Thu Jan 12 2023 6:48 AM 
+- 💻 [Twitter 回应，2 亿用户数据不是通过系统漏洞流出](https://www.freebuf.com/articles/355054.html) | Thu Jan 12 2023 6:48 AM 
     <details><summary>展开描述 ...</summary> 
     沸沸扬扬的 Twitter 2 亿用户数据泄露并在网上出售的事件可能出现了反转。 
-    </details> 
-
-- 💻 [Modbus Slave缓冲区溢出漏洞CVE-2022-1068分析与复现](https://www.freebuf.com/vuls/354979.html) | Wed Jan 11 2023 10:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    Modbus Slave是一个模拟工业领域通信协议Modbus从站的上位机软件，主要用于测试和调试Modbus从设备。 
     </details> 
 <!-- freebuf:END -->
 
