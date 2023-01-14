@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [去年裸辞全职做开源后，趁快过年说说这一年的经历。](https://www.v2ex.com/t/908861#reply19) | Sat Jan 14 2023 3:09 AM
-- 🤗 [现在国内第三方应用商店还有必要上架吗？感觉只上架厂商的就够了吧？](https://www.v2ex.com/t/908856#reply3) | Sat Jan 14 2023 2:51 AM
-- 🎭 [请问 GIMP 中一键导出为 PNG 格式并且自动命名后存储到指定目录地插件有嘛?](https://www.v2ex.com/t/908853#reply0) | Sat Jan 14 2023 2:47 AM
-- 🥷 [有什么软件可以把图片在窗口中置顶？](https://www.v2ex.com/t/908828#reply11) | Fri Jan 13 2023 6:07 PM
-- 🐵 [无线 adb 一安装应用就掉线咋办？](https://www.v2ex.com/t/908807#reply3) | Fri Jan 13 2023 2:49 PM<!-- v2ex:END -->
+- 🥸 [腾讯 CDN 爆计费漏洞，每月可能产生数千元 https 请求费用](https://www.v2ex.com/t/908877#reply3) | Sat Jan 14 2023 4:46 AM
+- 🤗 [人手一个直播平台，我的树洞也加了直播功能。](https://www.v2ex.com/t/908876#reply0) | Sat Jan 14 2023 4:44 AM
+- 🎭 [运行环境是 Node12，如何知道用 npm 安装依赖库时应该指定哪个版本号？](https://www.v2ex.com/t/908873#reply5) | Sat Jan 14 2023 4:26 AM
+- 🥷 [去年裸辞全职做开源后，趁快过年说说这一年的经历。](https://www.v2ex.com/t/908861#reply25) | Sat Jan 14 2023 3:09 AM
+- 🐵 [现在国内第三方应用商店还有必要上架吗？感觉只上架厂商的就够了吧？](https://www.v2ex.com/t/908856#reply3) | Sat Jan 14 2023 2:51 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
