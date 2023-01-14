@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [iOS 简单记录通过 UIDocumentInteractionController 应用间传文件](https://juejin.cn/post/7188400438343893050) | Sat Jan 14 2023 7:05 AM 
+- 🤗 [ReactNative0.71正式版发布，Ts作为首要开发语言](https://juejin.cn/post/7188415252772421691) | Sat Jan 14 2023 8:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    时隔近4个月的时间，ReactNative带来了0.71版本的更新，这速度对比隔壁Flutter不得不说是真的有的慢。 这个版本的更新的内容还是比较重磅和突破性的，主要体现在如下几点： 编程语法默认改 
+    </details> 
+
+- 🎡 [赏花、赏月、赏秋香。教你如何一步一步学会赏秋香！](https://juejin.cn/post/7188404282280902713) | Sat Jan 14 2023 7:20 AM 
+    <details><summary>展开描述 ...</summary> 
+    快来学习怎么赏花吧。以后就可以跟另一半装逼，她会觉得你什么都懂，很厉害哦。提高自己在她心里地位。相信我不会错的 
+    </details> 
+
+- 🕯 [iOS 简单记录通过 UIDocumentInteractionController 应用间传文件](https://juejin.cn/post/7188400438343893050) | Sat Jan 14 2023 7:05 AM 
     <details><summary>展开描述 ...</summary> 
     废话开篇：由于iOS沙盒机制，APP文件存储位置只能当前应用访问，这里简单记录一下用 UIDocumentInteractionController 实现APP间传文件。 一、实现效果 两个 APP  
     </details> 
 
-- 🎡 [制作容器镜像的最佳实践](https://juejin.cn/post/7188295462472908858) | Sat Jan 14 2023 12:23 AM 
+- 🚀 [与君初相识，犹如故人归。｜2022年终总结](https://juejin.cn/post/7188343887356756025) | Sat Jan 14 2023 3:28 AM 
     <details><summary>展开描述 ...</summary> 
-    ## 概述 这篇文章主要是我日常工作中的制作镜像的实践, 同时结合我学习到的关于镜像制作的相关文章总结出来的. 包括通用的容器最佳实践, java, nginx, python 容器最佳实践. 最 
+    从2021.11.3出差到现在，我已经在广州度过了1年2个月的996生活。虽然每天忙忙碌碌，但偶尔也会忙里偷个闲，比如现在，偷闲浅浅回顾一下2022年生活中的各种小美好。 
     </details> 
 
-- 🕯 [不要阻碍浏览器 preload scanner 的运行](https://juejin.cn/post/7188168798753521701) | Fri Jan 13 2023 4:07 PM 
+- 💪 [【Node.js】写一个数据自动整理成表格的脚本](https://juejin.cn/post/7188320646412107835) | Sat Jan 14 2023 1:56 AM 
     <details><summary>展开描述 ...</summary> 
-    我们都知道浏览器在渲染页面时候，其内部会帮开发者做各种优化，其中有一项就是`preload scanner`。通过这篇文章，我们可以了解什么是`preload scanner`，以及它是如何有助于性能 
-    </details> 
-
-- 🚀 [新的一年，从手写mini react开始](https://juejin.cn/post/7188155321112592445) | Fri Jan 13 2023 3:14 PM 
-    <details><summary>展开描述 ...</summary> 
-    作为前端来说，工作三年以上，如果你还是不会或者不了解如何手写一些最基础的框架，对于当前的形势来说是不太友好的，了解框架原理，手写框架已经成为前端开发者最基础的知识技能了，学习框架设计思维，结合业务体系 
-    </details> 
-
-- 💪 [秒杀场景下异步下单实现](https://juejin.cn/post/7188135820035883066) | Fri Jan 13 2023 1:58 PM 
-    <details><summary>展开描述 ...</summary> 
-    所谓异步削峰，其目的在于“削峰”二字，其手段则在于“异步”二字。当整体系统中的不同环节出现能力不对等时，我们就需要考虑使用异步削峰，以使得系统整体得以正常运转。 
+    前言 这是【Node.js实战】专栏内的第5篇文章，专栏是分享使用Node.js技术编写实用脚本技巧。 专栏现有文章： 仿jsDoc写一个最简单的文档生成 50+行代码搞定一行命令更新Npm包 玩转n 
     </details> 
 <!-- juejin:END -->
 ### 少数派
