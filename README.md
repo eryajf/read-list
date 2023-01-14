@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [从校园到职场，听听他们的成长之路](https://juejin.cn/post/7188352496190881848) | Sat Jan 14 2023 3:59 AM 
+- 🤗 [下载npm 包下载不下来的时候 清楚缓存](https://juejin.cn/post/7188361613026525241) | Sat Jan 14 2023 4:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    清除本地缓存的命令是：清除本地缓存的命令是：清除本地缓存的命令是：清除本地缓存的命令是：清除本地缓存的命令是：清除本地缓存的命令是：清除本地缓存的命令是：清除本地缓存的命令是：清除本地缓存的命令是：清 
+    </details> 
+
+- 🎡 [从校园到职场，听听他们的成长之路](https://juejin.cn/post/7188352496190881848) | Sat Jan 14 2023 3:59 AM 
     <details><summary>展开描述 ...</summary> 
     背景介绍 这次分享主题是「从校园到职场 -- 我的成长之路」，视频内容可以查看 B 站链接：从校园到实习再到秋招。 上次的面试分享之后，阿卡拉提到关于刚毕业的学生也会有很多找工作的困扰，而且这个阶段能 
     </details> 
 
-- 🎡 [2022 年终总结](https://juejin.cn/post/7188352072826224700) | Sat Jan 14 2023 3:58 AM 
+- 🕯 [2022 年终总结](https://juejin.cn/post/7188352072826224700) | Sat Jan 14 2023 3:58 AM 
     <details><summary>展开描述 ...</summary> 
     在 12 月 31 号晚上这天，打开朋友圈大家都在告别 2022、迎接 2023，我却想不到任何值得发的内容。没有外出体会元旦的节日氛围，也没有观看任何跨年活动，2022 年最后一秒跟全年的 3153 
     </details> 
 
-- 🕯 [WEB开发人员应该知道 10 个 Docker 命令](https://juejin.cn/post/7188341548692537402) | Sat Jan 14 2023 3:17 AM 
+- 🚀 [WEB开发人员应该知道 10 个 Docker 命令](https://juejin.cn/post/7188341548692537402) | Sat Jan 14 2023 3:17 AM 
     <details><summary>展开描述 ...</summary> 
     Docker 的优势很容易让Web开发人员所忽略。对于开发运维来说，它被认为太过技术性、没有必要。 作为WEB开发人员，学习使用 Docker 将有助于简化构建、测试和部署 Web 应用程序的过程。  
     </details> 
 
-- 🚀 [程序猿健康防猝指南3：健康保健](https://juejin.cn/post/7188341138883870775) | Sat Jan 14 2023 3:16 AM 
+- 💪 [程序猿健康防猝指南3：健康保健](https://juejin.cn/post/7188341138883870775) | Sat Jan 14 2023 3:16 AM 
     <details><summary>展开描述 ...</summary> 
     现在大多数人都是亚健康，很多年轻人对健康的关注程度很低，持续透支身体。了解健康知识，养成健康的生活习惯，提高睡眠质量、定期体检等等。 
-    </details> 
-
-- 💪 [Spring Cloud服务发现组件Eureka](https://juejin.cn/post/7188330236575285307) | Sat Jan 14 2023 2:34 AM 
-    <details><summary>展开描述 ...</summary> 
-    # 简介 Netflix Eureka是微服务系统中最常用的服务发现组件之一，非常简单易用。当客户端注册到Eureka后，客户端可以知道彼此的hostname和端口等，这样就可以建立连接，不需要配 
     </details> 
 <!-- juejin:END -->
 ### 少数派
