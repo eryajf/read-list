@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [典型挖矿家族系列分析三 |Sysrv-hello挖矿蠕虫](https://www.freebuf.com/articles/network/355182.html) | Fri Jan 13 2023 8:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    Sysrv-hello是一个利用多种漏洞传播的Windows和Linux双平台挖矿蠕虫，主要目的在于传播挖矿蠕虫，继而实现挖矿获利。 
+    </details> 
+
 - 🦄 [FreeBuf早报 |苹果面临新的隐私诉讼；瑞士军队安全通信曝出大量漏洞](https://www.freebuf.com/news/355126.html) | Thu Jan 12 2023 11:03 AM 
     <details><summary>展开描述 ...</summary> 
     英国跨国邮政服务和快递公司皇家邮政本周宣布，一起“网络事件”对其运营造成了严重影响。 
     </details> 
 
-- 🦄 [Twitter 回应，2 亿用户数据不是通过系统漏洞流出](https://www.freebuf.com/articles/355054.html) | Thu Jan 12 2023 6:48 AM 
+- 🦅 [FreeBuf 周报 | 高通骁龙通告 22 个安全漏洞；塞尔维亚政府机构遭 DDoS 攻击](https://www.freebuf.com/articles/355079.html) | Thu Jan 12 2023 8:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    文章推荐了本周热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
+    </details> 
+
+- 🪄 [Twitter 回应，2 亿用户数据不是通过系统漏洞流出](https://www.freebuf.com/articles/355054.html) | Thu Jan 12 2023 6:48 AM 
     <details><summary>展开描述 ...</summary> 
     沸沸扬扬的 Twitter 2 亿用户数据泄露并在网上出售的事件可能出现了反转。 
     </details> 
 
-- 🦅 [Modbus Slave缓冲区溢出漏洞CVE-2022-1068分析与复现](https://www.freebuf.com/vuls/354979.html) | Wed Jan 11 2023 10:37 AM 
+- 💻 [Modbus Slave缓冲区溢出漏洞CVE-2022-1068分析与复现](https://www.freebuf.com/vuls/354979.html) | Wed Jan 11 2023 10:37 AM 
     <details><summary>展开描述 ...</summary> 
     Modbus Slave是一个模拟工业领域通信协议Modbus从站的上位机软件，主要用于测试和调试Modbus从设备。 
-    </details> 
-
-- 🪄 [FreeBuf早报 | 轨交业已成黑客攻击重灾区；丹麦央行网站遭 DDoS 攻击](https://www.freebuf.com/articles/354935.html) | Wed Jan 11 2023 9:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    亚太地区的政府和军事组织正成为一个先前未知的APT攻击者 Dark Pink 的攻击目标。 
-    </details> 
-
-- 💻 [中国银保监会发布《银行保险监管统计管理办法》](https://www.freebuf.com/news/354931.html) | Wed Jan 11 2023 8:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    《办法》包括总则、监管统计管理机构、监管统计调查管理、银行保险机构监管统计管理、监管统计监督管理和附则等。 
     </details> 
 <!-- freebuf:END -->
 
