@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [新手工程师需要知道的 7 件事](https://juejin.cn/post/7188488134923911229) | Sat Jan 14 2023 12:46 PM 
+- 🤗 [Flask中如何嵌套启动子线程？](https://juejin.cn/post/7188512662920593468) | Sat Jan 14 2023 2:22 PM 
+    <details><summary>展开描述 ...</summary> 
+    Flask中启动子线程时，如果要在子线程中读取请求上下文参数，那么需要做一些特殊的设置。本文中涉及到的方法，目前应该是中文互联网首发。 
+    </details> 
+
+- 🎡 [算法训练营第三天](https://juejin.cn/post/7188511991600775229) | Sat Jan 14 2023 2:20 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 因为在火车上面，回家过年，所以晚了一天，赶紧补上。 感觉就第二题有点难度，其他的感觉还好 题目 203. 移除链表元素 707. 设计链表 206. 反转链表 
+    </details> 
+
+- 🕯 [在国家图书馆学习「流式计算」是种怎样的体验](https://juejin.cn/post/7188505412600070203) | Sat Jan 14 2023 1:53 PM 
+    <details><summary>展开描述 ...</summary> 
+    有点怀念起北京来。 史铁生小说里的地坛，满山枫叶的香山，如诗如画的颐和园，美仑美奂的天坛 ， 很多景点都让我流连忘返。 在我心里，有一处很神圣的地方，它是知识和希望的象征，那就是国家图书馆 。 一段在 
+    </details> 
+
+- 🚀 [新手工程师需要知道的 7 件事](https://juejin.cn/post/7188488134923911229) | Sat Jan 14 2023 12:46 PM 
     <details><summary>展开描述 ...</summary> 
     本篇文章以我多年工作经验出发，总结了我认为新手工程师应该尽早知道的 7 件事，希望能够软件开发行业的新人有所启发。 
     </details> 
 
-- 🎡 [so加载 - Linker跟NameSpace知识 （上篇）](https://juejin.cn/post/7188486895570321468) | Sat Jan 14 2023 12:42 PM 
+- 💪 [so加载 - Linker跟NameSpace知识 （上篇）](https://juejin.cn/post/7188486895570321468) | Sat Jan 14 2023 12:42 PM 
     <details><summary>展开描述 ...</summary> 
     so库的加载可是我们日常开发都会用到的，因此系统也提供了非常方便的api给我们进行调用 当然，随着版本的变化，loadLibrary也是出现了非常大的变化，最重要的是NameSpace加入 
-    </details> 
-
-- 🕯 [数据结构与算法之集合（四）](https://juejin.cn/post/7188484883184877627) | Sat Jan 14 2023 12:34 PM 
-    <details><summary>展开描述 ...</summary> 
-    大家好， 我是云牧，今天要讲的是集合Set这种数据结构，此结构为 ES6 新增，是一种无序唯一的数据结构。 
-    </details> 
-
-- 🚀 [二次元肥宅的2023年度总结](https://juejin.cn/post/7188481292424937531) | Sat Jan 14 2023 12:20 PM 
-    <details><summary>展开描述 ...</summary> 
-    转眼已经2023年1月14日，本来都不打算写的，可能是看多了太多佬的总结，就有点突然想写了，去年7月写了个年中总结，到现在已经过去半年了，就简单来说下吧。 工作 因为本人去年是在银联做外包驻场，后面因 
-    </details> 
-
-- 💪 [2023年新的一份Java面试中的葵花宝典敬请收下，解决你的面试困扰](https://juejin.cn/post/7188480767377293373) | Sat Jan 14 2023 12:17 PM 
-    <details><summary>展开描述 ...</summary> 
-    HashMap面试题 HashMap与HashTable的区别 1.HashMap线程不安全 HashTable 线程是安全的采用synchronized 2.HashMap允许存放key 
     </details> 
 <!-- juejin:END -->
 ### 少数派
