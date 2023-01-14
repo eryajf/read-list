@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Superchart - 强大的无代码可嵌入图表](https://xinquji.com/posts/792917?utm_campaign=xinquji-rss) | Fri Jan 13 2023 6:00 AM 
+- 👀 [idVPN - 保护您的在线身份和敏感数据](https://xinquji.com/posts/792929?utm_campaign=xinquji-rss) | Sat Jan 14 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     强大的无代码可嵌入图表  
+     保护您的在线身份和敏感数据  
     </details> 
 
-- 🥷 [Somi AI - 在 Slack 上获得所有问题的即时答案](https://xinquji.com/posts/792916?utm_campaign=xinquji-rss) | Fri Jan 13 2023 6:00 AM 
+- 🥷 [GenieAI - 使用 AI 生成的元数据简化您的内容创建](https://xinquji.com/posts/792928?utm_campaign=xinquji-rss) | Sat Jan 14 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     在 Slack 上获得所有问题的即时答案  
+     使用 AI 生成的元数据简化您的内容创建  
     </details> 
 
-- 💼 [Writeathon - 提供创作者需要的写作流程和灵感](https://xinquji.com/posts/792915?utm_campaign=xinquji-rss) | Fri Jan 13 2023 6:00 AM 
+- 💼 [Kitchenizer - 灵活地管理食谱和生成购物清单](https://xinquji.com/posts/792927?utm_campaign=xinquji-rss) | Sat Jan 14 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     提供创作者需要的写作流程和灵感  
+     灵活地管理食谱和生成购物清单  
     </details> 
 
-- 🦅 [ensemble - 通过每天与朋友分享一首歌曲来发现音乐](https://xinquji.com/posts/792914?utm_campaign=xinquji-rss) | Fri Jan 13 2023 6:00 AM 
+- 🦅 [ApplicantAI - 领英 -&amp;gt; 求职应用。永远不要写另一封求职信](https://xinquji.com/posts/792926?utm_campaign=xinquji-rss) | Sat Jan 14 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     通过每天与朋友分享一首歌曲来发现音乐  
+     领英 -&amp;gt; 求职应用。永远不要写另一封求职信  
     </details> 
 
-- 😺 [Short Kings - 2023 年是我们的一年](https://xinquji.com/posts/792913?utm_campaign=xinquji-rss) | Fri Jan 13 2023 6:00 AM 
+- 😺 [Crossfeed - 关注和过滤新闻、RSS、YouTube 等](https://xinquji.com/posts/792925?utm_campaign=xinquji-rss) | Sat Jan 14 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     2023 年是我们的一年  
+     关注和过滤新闻、RSS、YouTube 等  
     </details> 
 <!-- xinquji:END -->
