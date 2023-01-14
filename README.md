@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Ansible playbook 讲解与实战操作](https://juejin.cn/post/7188328665934430266) | Sat Jan 14 2023 2:28 AM 
+- 🤗 [Spring Cloud服务发现组件Eureka](https://juejin.cn/post/7188330236575285307) | Sat Jan 14 2023 2:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    # 简介 Netflix Eureka是微服务系统中最常用的服务发现组件之一，非常简单易用。当客户端注册到Eureka后，客户端可以知道彼此的hostname和端口等，这样就可以建立连接，不需要配 
+    </details> 
+
+- 🎡 [Ansible playbook 讲解与实战操作](https://juejin.cn/post/7188328665934430266) | Sat Jan 14 2023 2:28 AM 
     <details><summary>展开描述 ...</summary> 
     一、概述 playbook 与 ad-hoc 相比,是一种完全不同的运用ansible的方式，类似与saltstack的state状态文件。ad-hoc无法持久使用，playbook可以持久使用。 p 
     </details> 
 
-- 🎡 [如何通过Terraform Associate考试并获得证书](https://juejin.cn/post/7188328452192206904) | Sat Jan 14 2023 2:25 AM 
+- 🕯 [如何通过Terraform Associate考试并获得证书](https://juejin.cn/post/7188328452192206904) | Sat Jan 14 2023 2:25 AM 
     <details><summary>展开描述 ...</summary> 
     # 1 什么是Terraform? Terraform是一个IaC工具，IaC全称为`Infrastructure as Code`，基础设施即代码。它的理念是通过代码来管理基础设施，如服务器、数 
     </details> 
 
-- 🕯 [MySQL数据同步ES的4种方法，你能想到几种？](https://juejin.cn/post/7188324325831737402) | Sat Jan 14 2023 2:10 AM 
+- 🚀 [MySQL数据同步ES的4种方法，你能想到几种？](https://juejin.cn/post/7188324325831737402) | Sat Jan 14 2023 2:10 AM 
     <details><summary>展开描述 ...</summary> 
     这期给大家分享一个电商中常见的场景——MySQL数据同步Elasticsearch。那么问题来了，商品上架，数据一般写入到MySQL的数据库中，那么用于检索的数据又是怎么同步到Elasticsearc 
     </details> 
 
-- 🚀 [视野修炼-技术周刊第20期](https://juejin.cn/post/7188322897310515257) | Sat Jan 14 2023 2:06 AM 
+- 💪 [视野修炼-技术周刊第20期](https://juejin.cn/post/7188322897310515257) | Sat Jan 14 2023 2:06 AM 
     <details><summary>展开描述 ...</summary> 
     1. 2022年JavaScript明星项目 2. 优雅又迅速的ts文件执行方 式 3. 拉取Gt仓库代码更迅速的方式。。。 
-    </details> 
-
-- 💪 [【架构设计】你真的理解软件设计中的SOLID原则吗？](https://juejin.cn/post/7188302035543359547) | Sat Jan 14 2023 12:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 在软件架构设计领域，有一个大名鼎鼎的设计原则——SOLID原则，它是由由Robert C. Martin（也称为 Uncle Bob）提出的，指导我们写出可维护、可以测试、高扩展、高内聚、低耦合 
     </details> 
 <!-- juejin:END -->
 ### 少数派
