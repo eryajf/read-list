@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [组 zfs， 8*16T 适合 raidz2 还是 radiz3，同样 4T*4 适合 mirror 还是 raidz1？](https://www.v2ex.com/t/908937#reply0) | Sat Jan 14 2023 11:03 AM
-- 🤗 [谷歌搜索 related:v2ex.com，首条结果是一家关于手工编织衣物的网站（related 操作符的作用是搜索类似网站）](https://www.v2ex.com/t/908927#reply0) | Sat Jan 14 2023 9:39 AM
-- 🎭 [关于 MySQL 的 Java 驱动主从分离的连接方式 jdbc:mysql:replication](https://www.v2ex.com/t/908919#reply1) | Sat Jan 14 2023 9:02 AM
-- 🥷 [有没有 Kotlin 讲协程比较好的书籍或博客连载](https://www.v2ex.com/t/908917#reply3) | Sat Jan 14 2023 8:49 AM
-- 🐵 [关于 400 Bad Request](https://www.v2ex.com/t/908912#reply3) | Sat Jan 14 2023 8:10 AM<!-- v2ex:END -->
+- 🥸 [有 35 以上的程序员么，是管理岗还是一线岗？](https://www.v2ex.com/t/908947#reply3) | Sat Jan 14 2023 12:11 PM
+- 🤗 [求教，为啥 PT 没有速度](https://www.v2ex.com/t/908942#reply8) | Sat Jan 14 2023 11:23 AM
+- 🎭 [组 zfs， 8*16T 适合 raidz2 还是 radiz3，同样 4T*4 适合 mirror 还是 raidz1？](https://www.v2ex.com/t/908937#reply4) | Sat Jan 14 2023 11:03 AM
+- 🥷 [谷歌搜索 related:v2ex.com，首条结果是一家关于手工编织衣物的网站（related 操作符的作用是搜索类似网站）](https://www.v2ex.com/t/908927#reply0) | Sat Jan 14 2023 9:39 AM
+- 🐵 [关于 MySQL 的 Java 驱动主从分离的连接方式 jdbc:mysql:replication](https://www.v2ex.com/t/908919#reply1) | Sat Jan 14 2023 9:02 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
