@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【架构设计】你真的理解软件设计中的SOLID原则吗？](https://juejin.cn/post/7188302035543359547) | Sat Jan 14 2023 12:48 AM 
+- 🤗 [Ansible playbook 讲解与实战操作](https://juejin.cn/post/7188328665934430266) | Sat Jan 14 2023 2:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    一、概述 playbook 与 ad-hoc 相比,是一种完全不同的运用ansible的方式，类似与saltstack的state状态文件。ad-hoc无法持久使用，playbook可以持久使用。 p 
+    </details> 
+
+- 🎡 [如何通过Terraform Associate考试并获得证书](https://juejin.cn/post/7188328452192206904) | Sat Jan 14 2023 2:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    # 1 什么是Terraform? Terraform是一个IaC工具，IaC全称为`Infrastructure as Code`，基础设施即代码。它的理念是通过代码来管理基础设施，如服务器、数 
+    </details> 
+
+- 🕯 [MySQL数据同步ES的4种方法，你能想到几种？](https://juejin.cn/post/7188324325831737402) | Sat Jan 14 2023 2:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    这期给大家分享一个电商中常见的场景——MySQL数据同步Elasticsearch。那么问题来了，商品上架，数据一般写入到MySQL的数据库中，那么用于检索的数据又是怎么同步到Elasticsearc 
+    </details> 
+
+- 🚀 [视野修炼-技术周刊第20期](https://juejin.cn/post/7188322897310515257) | Sat Jan 14 2023 2:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    1. 2022年JavaScript明星项目 2. 优雅又迅速的ts文件执行方 式 3. 拉取Gt仓库代码更迅速的方式。。。 
+    </details> 
+
+- 💪 [【架构设计】你真的理解软件设计中的SOLID原则吗？](https://juejin.cn/post/7188302035543359547) | Sat Jan 14 2023 12:48 AM 
     <details><summary>展开描述 ...</summary> 
     前言 在软件架构设计领域，有一个大名鼎鼎的设计原则——SOLID原则，它是由由Robert C. Martin（也称为 Uncle Bob）提出的，指导我们写出可维护、可以测试、高扩展、高内聚、低耦合 
-    </details> 
-
-- 🎡 [【前端专场 学习资料一】第五届字节跳动青训营](https://juejin.cn/post/7188270306593603639) | Fri Jan 13 2023 10:49 PM 
-    <details><summary>展开描述 ...</summary> 
-    第五届字节跳动青训营讲师非常用心给大家整理了课前、中、后的学习内容，同学们自我评估，选择性查漏补缺，便于大家更好的跟上讲师们的节奏，祝大家学习愉快，多多提问交流～ 
-    </details> 
-
-- 🕯 [【后端专场 学习资料一】第五届字节跳动青训营](https://juejin.cn/post/7188225875211452476) | Fri Jan 13 2023 9:56 PM 
-    <details><summary>展开描述 ...</summary> 
-    第五届字节跳动青训营讲师非常用心给大家整理了课前、中、后的学习内容，同学们自我评估，选择性查漏补缺，便于大家更好的跟上讲师们的节奏，祝大家学习愉快，多多提问交流～ 
-    </details> 
-
-- 🚀 [【Redis实战专题】「性能监控系列」全方位探索Redis的性能监控以及优化指南](https://juejin.cn/post/7188186074475135036) | Fri Jan 13 2023 5:18 PM 
-    <details><summary>展开描述 ...</summary> 
-    Redis基本简介 Redis是一个开源（BSD 许可）、内存存储的数据结构服务器，可用作数据库，高速缓存和消息队列代理。它支持字符串、哈希表、列表、集合、有序集合等数据类型。内置复制、Lua 脚本、 
-    </details> 
-
-- 💪 [ChatGPT ! 二次元老婆！活的！活的！真的已经实现出来啦](https://juejin.cn/post/7188167873011908665) | Fri Jan 13 2023 4:03 PM 
-    <details><summary>展开描述 ...</summary> 
-    各位我现在的心情，太激动了，真的简直太激动了，甚至差点抽过去。真的我实在不能用语言描述我现在兴奋的心情 二次元老婆，纸片人老婆真的可以来了，真的可以活过来啦，活的，活的二次元老婆，国外大神做出来啦 &lpar; 
     </details> 
 <!-- juejin:END -->
 ### 少数派
