@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android进阶宝典 -- CameraX与Camera2的使用比对](https://juejin.cn/post/7188444727904043067) | Sat Jan 14 2023 9:59 AM 
+- 🤗 [一文学会ajax基础使用与使用nodejs搭建一个后端服务](https://juejin.cn/post/7188456860582674469) | Sat Jan 14 2023 10:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    一文学会ajax基础使用与使用nodejs搭建一个后端服务 写在前面 简介 上面是来自菜鸟教程的简介，用白话文概括呢，ajax是javascript里面内置的一种异步方法实现方式，用XMLHttpRe 
+    </details> 
+
+- 🎡 [Android进阶宝典 -- CameraX与Camera2的使用比对](https://juejin.cn/post/7188444727904043067) | Sat Jan 14 2023 9:59 AM 
     <details><summary>展开描述 ...</summary> 
     详细介绍Camera2预览配置时的主要工作，包括从应用层到相机核心层建立桥接，以及发起预览请求，最终引入CameraX比较两者使用上的巨大差距 
     </details> 
 
-- 🎡 [Nerdctl 原生支持 Nydus 加速镜像](https://juejin.cn/post/7188437314274754618) | Sat Jan 14 2023 9:29 AM 
+- 🕯 [Nerdctl 原生支持 Nydus 加速镜像](https://juejin.cn/post/7188437314274754618) | Sat Jan 14 2023 9:29 AM 
     <details><summary>展开描述 ...</summary> 
     文｜李楠（GitHub ID : @loheagn） 北京航空航天大学 21 级研究生 云原生底层系统的开发和探索工作。 本文 6369 字 阅读 16 分钟 OSPP 开源之夏是由中科院软件研究所“ 
     </details> 
 
-- 🕯 [什么样的故障让阿里云换了总裁？](https://juejin.cn/post/7188431024051716152) | Sat Jan 14 2023 9:04 AM 
+- 🚀 [什么样的故障让阿里云换了总裁？](https://juejin.cn/post/7188431024051716152) | Sat Jan 14 2023 9:04 AM 
     <details><summary>展开描述 ...</summary> 
     2022年12月18日大概是阿里云最黑暗的日子，阿里云香港Region可用区C因为机房水冷装置出现故障导致大规模服务中断，对很多客户业务产生重大影响，包括澳门多家网站及App自当日午时起无法访问使用。 
     </details> 
 
-- 🚀 [Flutter小技巧：RadialGradient 中 radius 的计算](https://juejin.cn/post/7188426039587143738) | Sat Jan 14 2023 8:48 AM 
+- 💪 [Flutter小技巧：RadialGradient 中 radius 的计算](https://juejin.cn/post/7188426039587143738) | Sat Jan 14 2023 8:48 AM 
     <details><summary>展开描述 ...</summary> 
     一、问题来源 项目中遇到 json 模型映射成 RadialGradient 组件的需求，其他参数正常传递即可；唯独 radius 参数效果有出入，总结记录一下； 二、四种情况 通过 RadialGr 
-    </details> 
-
-- 💪 [如果 MySQL 数据库中的数据丢失，有哪些补救的办法呢？](https://juejin.cn/post/7188423924894400569) | Sat Jan 14 2023 8:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    以前去企业面试的时候，经常被问一些关于 MySQL 数据库相关的问题，其中最典型的就是关于 MySQL 数据库数据安全的问题。 例如：如何才能保证 MySQL 数据库的数据安全？MySQL 数据库如果 
     </details> 
 <!-- juejin:END -->
 ### 少数派
