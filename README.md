@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [idVPN - 保护您的在线身份和敏感数据](https://xinquji.com/posts/792929?utm_campaign=xinquji-rss) | Sat Jan 14 2023 6:00 AM 
+- 👀 [Unwynd - 无需群聊即可制定群组计划。邀请、回复和播放](https://xinquji.com/posts/792947?utm_campaign=xinquji-rss) | Sun Jan 15 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     保护您的在线身份和敏感数据  
+     无需群聊即可制定群组计划。邀请、回复和播放  
     </details> 
 
-- 🥷 [GenieAI - 使用 AI 生成的元数据简化您的内容创建](https://xinquji.com/posts/792928?utm_campaign=xinquji-rss) | Sat Jan 14 2023 6:00 AM 
+- 🥷 [SaaS AI Tools - 400 多种生成式 AI 工具和每日 AI 新闻](https://xinquji.com/posts/792946?utm_campaign=xinquji-rss) | Sun Jan 15 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     使用 AI 生成的元数据简化您的内容创建  
+     400 多种生成式 AI 工具和每日 AI 新闻  
     </details> 
 
-- 💼 [Kitchenizer - 灵活地管理食谱和生成购物清单](https://xinquji.com/posts/792927?utm_campaign=xinquji-rss) | Sat Jan 14 2023 6:00 AM 
+- 💼 [Recommendix - 人工智能驱动的电子商务测验工具，可超级促进销售](https://xinquji.com/posts/792945?utm_campaign=xinquji-rss) | Sun Jan 15 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     灵活地管理食谱和生成购物清单  
+     人工智能驱动的电子商务测验工具，可超级促进销售  
     </details> 
 
-- 🦅 [ApplicantAI - 领英 -&amp;gt; 求职应用。永远不要写另一封求职信](https://xinquji.com/posts/792926?utm_campaign=xinquji-rss) | Sat Jan 14 2023 6:00 AM 
+- 🦅 [rhyme.cool - 用于说唱歌词的生成 AI](https://xinquji.com/posts/792944?utm_campaign=xinquji-rss) | Sun Jan 15 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     领英 -&amp;gt; 求职应用。永远不要写另一封求职信  
+     用于说唱歌词的生成 AI  
     </details> 
 
-- 😺 [Crossfeed - 关注和过滤新闻、RSS、YouTube 等](https://xinquji.com/posts/792925?utm_campaign=xinquji-rss) | Sat Jan 14 2023 6:00 AM 
+- 😺 [NARAY.ONE - 世界上任何地方的商品](https://xinquji.com/posts/792943?utm_campaign=xinquji-rss) | Sun Jan 15 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     关注和过滤新闻、RSS、YouTube 等  
+     世界上任何地方的商品  
     </details> 
 <!-- xinquji:END -->
