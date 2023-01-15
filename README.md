@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [数据结构与算法之字典（五）](https://juejin.cn/post/7188853574061785125) | Sun Jan 15 2023 12:24 PM 
+- 🤗 [Mybatis返回集合类型到底是空集合还是null？源码解读](https://juejin.cn/post/7188878848228851769) | Sun Jan 15 2023 2:01 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文针对笔者日常开发中对 Mybatis 返回类型的是否需要判断为 null 结合源码，思考总结而来 Mybatis 版本 3.5.11 Spring boot 版本 3.0.1 github地址：h 
+    </details> 
+
+- 🎡 [数据结构与算法之字典（五）](https://juejin.cn/post/7188853574061785125) | Sun Jan 15 2023 12:24 PM 
     <details><summary>展开描述 ...</summary> 
     大家好， 我是云牧，今天要说的是数据结构里面的字典，字典是ES6新增，一种以键值对的形式来存储唯一值的数据结构。 
     </details> 
 
-- 🎡 [线程局部变量的实现 ThreadLocal](https://juejin.cn/post/7188851834704887845) | Sun Jan 15 2023 12:17 PM 
+- 🕯 [线程局部变量的实现 ThreadLocal](https://juejin.cn/post/7188851834704887845) | Sun Jan 15 2023 12:17 PM 
     <details><summary>展开描述 ...</summary> 
     前言 离职回老家，实在太无聊，于是乎给自己整了一套台式机配置，总价 1W+，本以为机器到位后可以打打游戏，学学技术打发无聊的时光。但是我早已不是从前那个少年了，打 Dota 已经找不到大学时巅峰的自己 
     </details> 
 
-- 🕯 [兔年到，一起来看看兔子家族都在聊些什么吧](https://juejin.cn/post/7188832330440507453) | Sun Jan 15 2023 11:01 AM 
+- 🚀 [兔年到，一起来看看兔子家族都在聊些什么吧](https://juejin.cn/post/7188832330440507453) | Sun Jan 15 2023 11:01 AM 
     <details><summary>展开描述 ...</summary> 
     做了一个兔子家族的聊天室，欢迎大家来聊天，本打算用shareWorker 来实现跨页面多个聊天室的通信，可惜码上掘金不能创建文件，只能用 localStorage 来实现了 
     </details> 
 
-- 🚀 [Kindle 可旋转桌面时钟](https://juejin.cn/post/7188831785097101349) | Sun Jan 15 2023 10:59 AM 
+- 💪 [Kindle 可旋转桌面时钟](https://juejin.cn/post/7188831785097101349) | Sun Jan 15 2023 10:59 AM 
     <details><summary>展开描述 ...</summary> 
     前言 自己的 Kindle 吃灰很久了，想做个时钟用，但是网上可选的时钟网站比较少，这些时钟网站里面，要么太简单 界面也比较丑陋，要么内容太多 有些本末倒置了，要么网址特别长 输入网址的时候太麻烦。  
-    </details> 
-
-- 💪 [JAVA并发课题](https://juejin.cn/post/7188820402896896061) | Sun Jan 15 2023 10:14 AM 
-    <details><summary>展开描述 ...</summary> 
-    守护线程 1.使用arthas查看线上的程序线程情况 deamon为守护线程 redis分布式锁续命用守护线程实现 redission使用的就是这种形式，比如上锁10s，10s后就解锁了，守护线程会一 
     </details> 
 <!-- juejin:END -->
 ### 少数派
