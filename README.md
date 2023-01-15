@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [寻找小码的路 ｜ 「青训营 X 码上掘金」主题创作](https://juejin.cn/post/7188808080014966840) | Sun Jan 15 2023 9:28 AM 
+- 🤗 [兔年到，一起来看看兔子家族都在聊些什么吧](https://juejin.cn/post/7188832330440507453) | Sun Jan 15 2023 11:01 AM 
+    <details><summary>展开描述 ...</summary> 
+    做了一个兔子家族的聊天室，欢迎大家来聊天，本打算用shareWorker 来实现跨页面多个聊天室的通信，可惜码上掘金不能创建文件，只能用 localStorage 来实现了 
+    </details> 
+
+- 🎡 [Kindle 可旋转桌面时钟](https://juejin.cn/post/7188831785097101349) | Sun Jan 15 2023 10:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 自己的 Kindle 吃灰很久了，想做个时钟用，但是网上可选的时钟网站比较少，这些时钟网站里面，要么太简单 界面也比较丑陋，要么内容太多 有些本末倒置了，要么网址特别长 输入网址的时候太麻烦。  
+    </details> 
+
+- 🕯 [JAVA并发课题](https://juejin.cn/post/7188820402896896061) | Sun Jan 15 2023 10:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    守护线程 1.使用arthas查看线上的程序线程情况 deamon为守护线程 redis分布式锁续命用守护线程实现 redission使用的就是这种形式，比如上锁10s，10s后就解锁了，守护线程会一 
+    </details> 
+
+- 🚀 [寻找小码的路 ｜ 「青训营 X 码上掘金」主题创作](https://juejin.cn/post/7188808080014966840) | Sun Jan 15 2023 9:28 AM 
     <details><summary>展开描述 ...</summary> 
     能加入到这届的青训营我十分的开心，更希望自己不仅能通过这次的青训营之旅丰富自己的阅历之余，还能够认识到更多的学习伙伴。 
     </details> 
 
-- 🎡 [后端语言很难？前端入门go基础语法只需要3小时！（下）](https://juejin.cn/post/7188802319725625399) | Sun Jan 15 2023 9:05 AM 
+- 💪 [后端语言很难？前端入门go基础语法只需要3小时！（下）](https://juejin.cn/post/7188802319725625399) | Sun Jan 15 2023 9:05 AM 
     <details><summary>展开描述 ...</summary> 
     go的基础语法速学，不来看一下吗？本文是《后端语言很难？前端入门go基础语法只需要3小时》系列的最后一篇 
-    </details> 
-
-- 🕯 [兔年就是要画一只可爱的小兔子啦](https://juejin.cn/post/7188799546904805436) | Sun Jan 15 2023 8:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    2023年就是兔年啦~ 在这个兔年开始的时候当然是要画一只可爱的小兔子来保佑我们今年顺顺利利、和和美美，在文章的开头就先祝大家新年快乐！！！ 在新的一年中，祝大家事业“兔”飞猛进，大展宏“兔”，前“ 
-    </details> 
-
-- 🚀 [grid布局](https://juejin.cn/post/7188794974232641573) | Sun Jan 15 2023 8:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    grid布局 一、初识 1.1 概述 网格布局（Grid）是最强大的 CSS 布局方案。 它将网页划分成一个个网格，可以任意组合不同的网格，做出各种各样的布局。以前，只能通过复杂的 CSS 框架达到的 
-    </details> 
-
-- 💪 [NLP学习笔记&lpar;二&rpar; LSTM基本介绍](https://juejin.cn/post/7188791843662872635) | Sun Jan 15 2023 8:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    大家好，我是半虹，这篇文章来讲长短期记忆网络。文章行文思路如下：首先通过循环神经网络引出为啥需要长短期记忆网络，然后介绍长短期记忆网络的核心思想与运作方式，最后通过简短的代码深入理解长短期记忆... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
