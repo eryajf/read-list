@@ -398,11 +398,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [为什么 virtual 有「虚拟的」和「实质的」两个相反的含义？](https://daily.zhihu.com/story/9757155) | Sat Jan 14 2023 12:27 AM
-- 🐻 [为什么有些动物雄性大，有些雌性大，还有些一样大？](https://daily.zhihu.com/story/9757160) | Sat Jan 14 2023 12:27 AM
-- 🌏 [为什么海底火山不会被海水浇灭？](https://daily.zhihu.com/story/9757168) | Sat Jan 14 2023 12:27 AM
-- 🕴 [为什么欧洲修道院的修道士能自酿啤酒？](https://daily.zhihu.com/story/9757172) | Sat Jan 14 2023 12:27 AM
-- 🌮 [为什么马的腿断了必须死？](https://daily.zhihu.com/story/9757173) | Sat Jan 14 2023 12:27 AM<!-- zhihu:END -->
+- 🤩 [为什么中国大陆被印度板块撞得遍布褶皱，而印度板块本身却保持了基本平坦？](https://daily.zhihu.com/story/9757194) | Sun Jan 15 2023 12:27 AM
+- 🐻 [为什么人类需要睡觉？](https://daily.zhihu.com/story/9757198) | Sun Jan 15 2023 12:27 AM
+- 🌏 [既然可以用拼音打字，当初为什么推广五笔？](https://daily.zhihu.com/story/9757201) | Sun Jan 15 2023 12:27 AM
+- 🕴 [为什么整条黄河就叫黄河，长江上游确分金沙江、通天河及沱沱河？](https://daily.zhihu.com/story/9757206) | Sun Jan 15 2023 12:27 AM
+- 🌮 [美国为什么这么多苗族？他们会说汉语吗？和我国的苗族有什么区别？](https://daily.zhihu.com/story/9757215) | Sun Jan 15 2023 12:27 AM<!-- zhihu:END -->
 
 
 ## 应用资源
