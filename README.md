@@ -306,24 +306,24 @@
     Sysrv-hello是一个利用多种漏洞传播的Windows和Linux双平台挖矿蠕虫，主要目的在于传播挖矿蠕虫，继而实现挖矿获利。 
     </details> 
 
-- 🦄 [FreeBuf早报 |苹果面临新的隐私诉讼；瑞士军队安全通信曝出大量漏洞](https://www.freebuf.com/news/355126.html) | Thu Jan 12 2023 11:03 AM 
+- 🦄 [REST-Attacker：一款针对REST应用的安全研究框架](https://www.freebuf.com/articles/network/355151.html) | Fri Jan 13 2023 4:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    REST-Attacker是一款针对REST应用安全的研究框架,允许研究人员针对遵循REST架构风格的API执行自动化的渗透测试与安全研究。 
+    </details> 
+
+- 🦅 [FreeBuf早报 |苹果面临新的隐私诉讼；瑞士军队安全通信曝出大量漏洞](https://www.freebuf.com/news/355126.html) | Thu Jan 12 2023 11:03 AM 
     <details><summary>展开描述 ...</summary> 
     英国跨国邮政服务和快递公司皇家邮政本周宣布，一起“网络事件”对其运营造成了严重影响。 
     </details> 
 
-- 🦅 [MacOS风险排查怎么做；春节安全值守怎么安排 | FB甲方群话题讨论](https://www.freebuf.com/articles/neopoints/355094.html) | Thu Jan 12 2023 9:05 AM 
+- 🪄 [MacOS风险排查怎么做；春节安全值守怎么安排 | FB甲方群话题讨论](https://www.freebuf.com/articles/neopoints/355094.html) | Thu Jan 12 2023 9:05 AM 
     <details><summary>展开描述 ...</summary> 
     Mac就一定比Windows等系统更安全吗？春节企业安全值守及应急响应有何方案？更多话题欢迎点击~ 
     </details> 
 
-- 🪄 [FreeBuf 周报 | 高通骁龙通告 22 个安全漏洞；塞尔维亚政府机构遭 DDoS 攻击](https://www.freebuf.com/articles/355079.html) | Thu Jan 12 2023 8:43 AM 
+- 💻 [FreeBuf 周报 | 高通骁龙通告 22 个安全漏洞；塞尔维亚政府机构遭 DDoS 攻击](https://www.freebuf.com/articles/355079.html) | Thu Jan 12 2023 8:43 AM 
     <details><summary>展开描述 ...</summary> 
     文章推荐了本周热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
-    </details> 
-
-- 💻 [Twitter 回应，2 亿用户数据不是通过系统漏洞流出](https://www.freebuf.com/articles/355054.html) | Thu Jan 12 2023 6:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    沸沸扬扬的 Twitter 2 亿用户数据泄露并在网上出售的事件可能出现了反转。 
     </details> 
 <!-- freebuf:END -->
 
