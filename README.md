@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0115](http://jandan.net/p/112193) | Sun Jan 15 2023 3:20 AM 
+- 🚀 [坏消息：一日三餐，少吃一顿都会提高死亡的风险](http://jandan.net/p/112190) | Sun Jan 15 2023 4:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    对于那些三餐都吃但饭点靠得太近的人来说，甚至也有问题 
+    </details> 
+
+- 🙉 [Quora：不可思议的科技](http://jandan.net/p/112191) | Sun Jan 15 2023 4:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    不可能的最令人惊讶和无处不在的科学技术 
+    </details> 
+
+- 🎉 [今日好价 0115](http://jandan.net/p/112193) | Sun Jan 15 2023 4:52 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：16 
     </details> 
 
-- 🙉 [Quora：那些令人不安的事](http://jandan.net/p/112183) | Sat Jan 14 2023 5:22 AM 
+- 🐲 [浙大领导的研究发现，每年2亿吨氮排放到土壤和海洋中，已造成严重污染](http://jandan.net/p/112122) | Sun Jan 15 2023 4:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    化肥的大量使用推动了上个世纪人口的四倍增长 
+    </details> 
+
+-  [Quora：那些令人不安的事](http://jandan.net/p/112183) | Sat Jan 14 2023 5:22 AM 
     <details><summary>展开描述 ...</summary> 
     比如你的宠物可能会试图吃掉你。 
-    </details> 
-
-- 🎉 [日本人不爱吃米饭了，松下电器将在本地停产电饭煲](http://jandan.net/p/112112) | Sat Jan 14 2023 5:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    生产线将在 2023 年 6 月之前转移到杭州 
-    </details> 
-
-- 🐲 [普林斯顿一大四学生研发了一款APP，可以查出论文是否由ChatGPT编写](http://jandan.net/p/112188) | Sat Jan 14 2023 5:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    大多数大学生和部分高中生：田同学，我真的会谢 
-    </details> 
-
--  [今日带货：年货礼盒](http://jandan.net/p/112186) | Sat Jan 14 2023 2:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：33 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
