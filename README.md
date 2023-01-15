@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [你知道从Java8到Java19有哪些变化？](https://juejin.cn/post/7188706213356372026) | Sun Jan 15 2023 2:52 AM 
+- 🤗 [双非菜鸡前端应届生的 2022 年终总结](https://juejin.cn/post/7188725242461782053) | Sun Jan 15 2023 4:05 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 Java 是一种流行的编程语言，在其整个历史中经历了许多变化和更新。自 1995 年发布以来，Java 语言已经发展到包括范围广泛的新特性和改进。在本文中，我们将了解从 Java 8 开始的每个 
+    「回顾2022，展望2023，我正在参与2022年终总结征文大赛活动」 2022 对于我来说是一个特别的年份，因为 2022 年大概率是决定我程序员生涯的前期发展的一年，1 - 2 月 - 初识‘面向 
     </details> 
 
-- 🎡 [通过Docker启动DB2，并在Spring Boot整合DB2](https://juejin.cn/post/7188697498796425275) | Sun Jan 15 2023 2:19 AM 
+- 🎡 [如何运营个人技术博客](https://juejin.cn/post/7188712184522752055) | Sun Jan 15 2023 3:15 AM 
     <details><summary>展开描述 ...</summary> 
-    # 1 简介 DB2是IBM的一款优秀的关系型数据库，简单学习一下。 # 2 Docker安装DB2 为了快速启动，直接使用Docker来安装DB2。先下载镜像如下： ```bash d 
+    本篇和大家聊聊如何运营个人技术博客，定位下做技术写作的目的，有哪些交流平台和输出方式，如何把控内容质量，整理了一些写作技巧和自己常用的写作工具，最后分享下如何在有限的时间里合理安排保证写作与工作的平衡 
     </details> 
 
-- 🕯 [在Ubuntu上安装OpenShift并使用](https://juejin.cn/post/7188695613108650040) | Sun Jan 15 2023 2:12 AM 
+- 🕯 [图形编辑器：标尺功能的实现](https://juejin.cn/post/7188689278824611899) | Sun Jan 15 2023 1:47 AM 
     <details><summary>展开描述 ...</summary> 
-    # 服务器信息 在阿里云买了个抢占式的服务器，地区为华南广州，系统为Ubuntu 20.04，8核16GB。 ![]&lpar;https://pkslow.oss-cn-shenzhen.aliyunc 
+    大家好，我是前端西瓜哥。今天我们来实现图形编辑器的标尺功能。 标尺指的是画布上边和左边的两个有刻度的尺子，作用让用户知道他正在编辑的视口所在位置范围。 我们的需求是：间隔特定的长度，绘制一个刻度，并显 
     </details> 
 
-- 🚀 [2023-01-16 技术周刊第 12 期](https://juejin.cn/post/7188632877230194725) | Sat Jan 14 2023 10:18 PM 
+- 🚀 [Android代码实现新年贺卡动画](https://juejin.cn/post/7188660825945538619) | Sun Jan 15 2023 12:00 AM 
     <details><summary>展开描述 ...</summary> 
-    阅读与一句话 资讯 stateofjs 2022 commander.js 发布 v10.0.0 版本，需要更高的 nodejs 支持。 Google 宣布支持使用 Rust 开发 Chromium  
+    在正文的第一句加入“我正在参加「兔了个兔」创意投稿大赛，详情请看：「兔了个兔」创意投稿大赛” 什么？兔了个兔？吐了还要吐？首先祝大家新年快乐，兔年吉祥。今天，我们自己用android程序实现一个兔年的 
     </details> 
 
-- 💪 [【源码&amp;库】在调用 createApp 时，Vue 为我们做了那些工作？](https://juejin.cn/post/7188566053293654075) | Sat Jan 14 2023 6:31 PM 
+- 💪 [React+TS 实现购物车](https://juejin.cn/post/7188576912304767033) | Sat Jan 14 2023 6:36 PM 
     <details><summary>展开描述 ...</summary> 
-    在使用Vue3时，我们需要使用createApp来创建一个应用实例，然后使用mount方法将应用挂载到某个DOM节点上。 那么在调用createApp时，Vue再背后做了些什么事情呢？今天就来扒一扒V 
+    效果展示 静态页面展示 创建工程 静态页面移植 &amp; 组件拆分 App.jsx cart.jsx 加载数据 &amp; 列表渲染 定义购物车数据 cart.jsx 组件挂载时加载购物车数据 使用useEffec 
     </details> 
 <!-- juejin:END -->
 ### 少数派
