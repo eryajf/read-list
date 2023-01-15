@@ -442,11 +442,11 @@
 
 
 <!-- iplaysoft:START -->
-- 🧐 [网云穿 - 稳定好用的内网穿透！无需公网/实现低成本建站/外网访问内网群晖 NAS 等](https://www.iplaysoft.com/wangyunchuan.html) | Wed Jan 11 2023 4:14 PM
-- 🧑‍🏫 [Intel Unison - 英特尔免费手机电脑协同工具！无线控制手机/传文件/打电话/发短信/管理照片](https://www.iplaysoft.com/intel-unison.html) | Wed Jan 11 2023 1:55 PM
-- 🥰 [ReviOS - 专为游戏优化的 Win11 / Win10 精简版系统！性能与稳定兼备 &lpar;类似 Atlas / LTSC&rpar;](https://www.iplaysoft.com/revios.html) | Fri Jan 06 2023 10:01 AM
-- 💻 [HandBrake 官方绿色中文版 - 开源免费视频格式转换/压缩转码压制工具 &lpar;跨平台&rpar;](https://www.iplaysoft.com/handbrake.html) | Wed Jan 04 2023 7:10 AM
-- 🎃 [QQ Linux 3.0 全新重构版本 - 腾讯发布新一代 NT 架构 Linux 版 QQ &lpar;与 Mac 版相同&rpar;](https://www.iplaysoft.com/qq-linux.html) | Sat Dec 31 2022 12:04 PM<!-- iplaysoft:END -->
+- 🧐 [新年特惠！哔哩哔哩 B 站年度大会员 VIP 优惠 12 个月 98 元](https://www.iplaysoft.com/p/bilibili-vip) | Sat Jan 14 2023 4:20 PM
+- 🧑‍🏫 [网云穿 - 稳定好用的内网穿透！无需公网/实现低成本建站/外网访问内网群晖 NAS 等](https://www.iplaysoft.com/wangyunchuan.html) | Wed Jan 11 2023 4:14 PM
+- 🥰 [Intel Unison - 英特尔免费手机电脑协同工具！无线控制手机/传文件/打电话/发短信/管理照片](https://www.iplaysoft.com/intel-unison.html) | Wed Jan 11 2023 1:55 PM
+- 💻 [ReviOS - 专为游戏优化的 Win11 / Win10 精简版系统！性能与稳定兼备 &lpar;类似 Atlas / LTSC&rpar;](https://www.iplaysoft.com/revios.html) | Fri Jan 06 2023 10:01 AM
+- 🎃 [HandBrake 官方绿色中文版 - 开源免费视频格式转换/压缩转码压制工具 &lpar;跨平台&rpar;](https://www.iplaysoft.com/handbrake.html) | Wed Jan 04 2023 7:10 AM<!-- iplaysoft:END -->
 
 ### 精品Mac应用
 
