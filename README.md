@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有什么把 ASP.NET Core MVC 写的企业官网所有页面渲染成静态的吗？最近经常有 CC 攻击把 CPU 占满。或者 Nginx 配什么参数能把所有页面都缓存下来？（内容非常少变动，没有用户可以提交的内容）](https://www.v2ex.com/t/909129#reply6) | Sun Jan 15 2023 1:18 PM
-- 🤗 [关系数据库存储属性变量可变的 Java 对象，怎么优化 sql](https://www.v2ex.com/t/909128#reply0) | Sun Jan 15 2023 1:15 PM
-- 🎭 [工作十几年的一线老码农，老板让转管理，是否该转？](https://www.v2ex.com/t/909120#reply13) | Sun Jan 15 2023 12:37 PM
-- 🥷 [V 友们，小弟写了一个小工具 GAGU，欢迎大家指点一二](https://www.v2ex.com/t/909110#reply9) | Sun Jan 15 2023 11:36 AM
-- 🐵 [静默安装微软商店应用， scoop 等&lpar;最好判断是否链接网络&rpar;](https://www.v2ex.com/t/909100#reply0) | Sun Jan 15 2023 10:11 AM<!-- v2ex:END -->
+- 🥸 [MySQL5.7 连接数 在线调整异常？](https://www.v2ex.com/t/909147#reply3) | Sun Jan 15 2023 2:53 PM
+- 🤗 [无聊弄了个 AI 无人游戏直播](https://www.v2ex.com/t/909146#reply0) | Sun Jan 15 2023 2:47 PM
+- 🎭 [有什么把 ASP.NET Core MVC 写的企业官网所有页面渲染成静态的吗？最近经常有 CC 攻击把 CPU 占满。或者 Nginx 配什么参数能把所有页面都缓存下来？（内容非常少变动，没有用户可以提交的内容）](https://www.v2ex.com/t/909129#reply11) | Sun Jan 15 2023 1:18 PM
+- 🥷 [关系数据库存储属性变量可变的 Java 对象，怎么优化 sql](https://www.v2ex.com/t/909128#reply3) | Sun Jan 15 2023 1:15 PM
+- 🐵 [工作十几年的一线老码农，老板让转管理，是否该转？](https://www.v2ex.com/t/909120#reply18) | Sun Jan 15 2023 12:37 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
