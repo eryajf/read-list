@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请行业大佬们给点建议。](https://www.v2ex.com/t/909049#reply0) | Sun Jan 15 2023 6:23 AM
-- 🤗 [Gradle 还是 Maven?](https://www.v2ex.com/t/909047#reply10) | Sun Jan 15 2023 6:01 AM
-- 🎭 [为什么硬盘卡 IO 会导致 CPU usage &lpar;wa&rpar;升高？这两者有什么关系？](https://www.v2ex.com/t/909040#reply1) | Sun Jan 15 2023 4:59 AM
-- 🥷 [tiff 格式导入 pg，提供查询接口。有偿咨询。](https://www.v2ex.com/t/909036#reply0) | Sun Jan 15 2023 4:46 AM
-- 🐵 [LeetCode Rate Limited 🤕](https://www.v2ex.com/t/909031#reply0) | Sun Jan 15 2023 4:13 AM<!-- v2ex:END -->
+- 🥸 [MariaDB 语句只在刚插入测试数据之后比较快， MariaDB 重启之后速度就很慢了](https://www.v2ex.com/t/909074#reply0) | Sun Jan 15 2023 8:12 AM
+- 🤗 [本人网络小白，问个代理软件如何解决 https 证书的问题](https://www.v2ex.com/t/909066#reply1) | Sun Jan 15 2023 7:56 AM
+- 🎭 [请行业大佬们给点建议。](https://www.v2ex.com/t/909049#reply0) | Sun Jan 15 2023 6:23 AM
+- 🥷 [Gradle 还是 Maven?](https://www.v2ex.com/t/909047#reply14) | Sun Jan 15 2023 6:01 AM
+- 🐵 [为什么硬盘卡 IO 会导致 CPU usage &lpar;wa&rpar;升高？这两者有什么关系？](https://www.v2ex.com/t/909040#reply2) | Sun Jan 15 2023 4:59 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
