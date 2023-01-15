@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [后端语言很难？前端入门go基础语法只需要3小时！（下）](https://juejin.cn/post/7188802319725625399) | Sun Jan 15 2023 9:05 AM 
+- 🤗 [寻找小码的路 ｜ 「青训营 X 码上掘金」主题创作](https://juejin.cn/post/7188808080014966840) | Sun Jan 15 2023 9:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    能加入到这届的青训营我十分的开心，更希望自己不仅能通过这次的青训营之旅丰富自己的阅历之余，还能够认识到更多的学习伙伴。 
+    </details> 
+
+- 🎡 [后端语言很难？前端入门go基础语法只需要3小时！（下）](https://juejin.cn/post/7188802319725625399) | Sun Jan 15 2023 9:05 AM 
     <details><summary>展开描述 ...</summary> 
     go的基础语法速学，不来看一下吗？本文是《后端语言很难？前端入门go基础语法只需要3小时》系列的最后一篇 
     </details> 
 
-- 🎡 [兔年就是要画一只可爱的小兔子啦](https://juejin.cn/post/7188799546904805436) | Sun Jan 15 2023 8:53 AM 
+- 🕯 [兔年就是要画一只可爱的小兔子啦](https://juejin.cn/post/7188799546904805436) | Sun Jan 15 2023 8:53 AM 
     <details><summary>展开描述 ...</summary> 
     2023年就是兔年啦~ 在这个兔年开始的时候当然是要画一只可爱的小兔子来保佑我们今年顺顺利利、和和美美，在文章的开头就先祝大家新年快乐！！！ 在新的一年中，祝大家事业“兔”飞猛进，大展宏“兔”，前“ 
     </details> 
 
-- 🕯 [grid布局](https://juejin.cn/post/7188794974232641573) | Sun Jan 15 2023 8:36 AM 
+- 🚀 [grid布局](https://juejin.cn/post/7188794974232641573) | Sun Jan 15 2023 8:36 AM 
     <details><summary>展开描述 ...</summary> 
     grid布局 一、初识 1.1 概述 网格布局（Grid）是最强大的 CSS 布局方案。 它将网页划分成一个个网格，可以任意组合不同的网格，做出各种各样的布局。以前，只能通过复杂的 CSS 框架达到的 
     </details> 
 
-- 🚀 [NLP学习笔记&lpar;二&rpar; LSTM基本介绍](https://juejin.cn/post/7188791843662872635) | Sun Jan 15 2023 8:24 AM 
+- 💪 [NLP学习笔记&lpar;二&rpar; LSTM基本介绍](https://juejin.cn/post/7188791843662872635) | Sun Jan 15 2023 8:24 AM 
     <details><summary>展开描述 ...</summary> 
     大家好，我是半虹，这篇文章来讲长短期记忆网络。文章行文思路如下：首先通过循环神经网络引出为啥需要长短期记忆网络，然后介绍长短期记忆网络的核心思想与运作方式，最后通过简短的代码深入理解长短期记忆... 
-    </details> 
-
-- 💪 [OPENMP RUNTIME 库函数汇总（上）](https://juejin.cn/post/7188790146379022397) | Sun Jan 15 2023 8:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    在本篇文章当中主要给大家介绍了一些在 OpenMP 当中常用的动态库函数，这篇文章的动态库函数主要是关于并行域和线程状态的函数，在下篇文章当中我们主要是分析一些 OpenMP 当中的锁相关函数。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
