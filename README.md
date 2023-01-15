@@ -332,7 +332,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [MIUI 有办法更改单个应用的语言吗？](https://www.v2ex.com/t/909163#reply0) | Sun Jan 15 2023 6:48 PM
+- 🥸 [MIUI 有办法更改单个应用的语言吗？](https://www.v2ex.com/t/909163#reply2) | Sun Jan 15 2023 6:48 PM
 - 🤗 [请问/Library/ Python /3.9/lib/ Python 这个路径里的 Python 是系统自带的还是自己装的呀？](https://www.v2ex.com/t/909161#reply4) | Sun Jan 15 2023 5:33 PM
 - 🎭 [腾讯云太恶心了，非常不安全](https://www.v2ex.com/t/909154#reply20) | Sun Jan 15 2023 3:31 PM
 - 🥷 [提问一个关于自己不了解的编程领域问题？语言相关,输入法,分词,语法检查](https://www.v2ex.com/t/909153#reply14) | Sun Jan 15 2023 3:26 PM
