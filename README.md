@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [静默安装微软商店应用， scoop 等&lpar;最好判断是否链接网络&rpar;](https://www.v2ex.com/t/909100#reply0) | Sun Jan 15 2023 10:11 AM
-- 🤗 [Windows 上的应用商店推荐？&lpar;非 MicrosoftStore&rpar;](https://www.v2ex.com/t/909086#reply8) | Sun Jan 15 2023 9:11 AM
-- 🎭 [仅靠 DNS 查询可识别域名是否被注册吗？](https://www.v2ex.com/t/909079#reply6) | Sun Jan 15 2023 8:28 AM
-- 🥷 [MariaDB 语句只在刚插入测试数据之后比较快， MariaDB 重启之后速度就很慢了](https://www.v2ex.com/t/909074#reply0) | Sun Jan 15 2023 8:12 AM
-- 🐵 [本人网络小白，问个代理软件如何解决 https 证书的问题](https://www.v2ex.com/t/909066#reply8) | Sun Jan 15 2023 7:56 AM<!-- v2ex:END -->
+- 🥸 [V 友们，小弟写了一个小工具 GAGU，欢迎大家指点一二](https://www.v2ex.com/t/909110#reply0) | Sun Jan 15 2023 11:36 AM
+- 🤗 [静默安装微软商店应用， scoop 等&lpar;最好判断是否链接网络&rpar;](https://www.v2ex.com/t/909100#reply0) | Sun Jan 15 2023 10:11 AM
+- 🎭 [Windows 上的应用商店推荐？&lpar;非 MicrosoftStore&rpar;](https://www.v2ex.com/t/909086#reply9) | Sun Jan 15 2023 9:11 AM
+- 🥷 [仅靠 DNS 查询可识别域名是否被注册吗？](https://www.v2ex.com/t/909079#reply9) | Sun Jan 15 2023 8:28 AM
+- 🐵 [MariaDB 语句只在刚插入测试数据之后比较快， MariaDB 重启之后速度就很慢了](https://www.v2ex.com/t/909074#reply0) | Sun Jan 15 2023 8:12 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
