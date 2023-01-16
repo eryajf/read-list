@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [FreeBuf早报 | Tiktok在法国被罚540万美元；思科发出商业路由器漏洞警告](https://www.freebuf.com/news/355264.html) | Sun Jan 15 2023 11:05 AM 
+- 🦄 [Tiktok又受挫，因无法轻易拒绝Cookie在法国被罚500万欧元](https://www.freebuf.com/news/355331.html) | Mon Jan 16 2023 3:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    法国国家信息和自由委员会声称，Tiktok没有提供直接的拒绝Cookie选项，平台也未能充分告知用户不同 Cookie 的使用目的。 
+    </details> 
+
+- 🦄 [工业和信息化部等十六部门关于促进数据安全产业发展的指导意见](https://www.freebuf.com/news/355323.html) | Mon Jan 16 2023 3:12 AM 
+    <details><summary>展开描述 ...</summary> 
+    《指导意见》指出，到2025年，数据安全产业规模超过1500亿元，年复合增长率超过30%。 
+    </details> 
+
+- 🦅 [FreeBuf早报 | Tiktok在法国被罚540万美元；思科发出商业路由器漏洞警告](https://www.freebuf.com/news/355264.html) | Sun Jan 15 2023 11:05 AM 
     <details><summary>展开描述 ...</summary> 
     因违反 cookie 同意规则，法国数据保护监管机构对短视频平台 TikTok 处以500 万欧元（约540万美元）罚款。 
     </details> 
 
-- 🦄 [BitRAT 正以银行敏感数据为诱饵进行传播](https://www.freebuf.com/articles/network/355228.html) | Sat Jan 14 2023 10:41 AM 
+- 🪄 [利用ChatGPT快速编写POC](https://www.freebuf.com/articles/web/352155.html) | Sun Jan 15 2023 9:11 AM 
     <details><summary>展开描述 ...</summary> 
-    研究人员发现攻击者劫持了哥伦比亚银行的基础设施，并且利用来自银行的敏感数据作为诱饵。 
+    如何使用ChatGPT来编写poc 
     </details> 
 
-- 🦅 [典型挖矿家族系列分析三 |Sysrv-hello挖矿蠕虫](https://www.freebuf.com/articles/network/355182.html) | Fri Jan 13 2023 8:11 AM 
+- 💻 [bkcrack：一款基于已知明文攻击的传统zip加密破解工具](https://www.freebuf.com/articles/database/355244.html) | Sun Jan 15 2023 2:14 AM 
     <details><summary>展开描述 ...</summary> 
-    Sysrv-hello是一个利用多种漏洞传播的Windows和Linux双平台挖矿蠕虫，主要目的在于传播挖矿蠕虫，继而实现挖矿获利。 
-    </details> 
-
-- 🪄 [REST-Attacker：一款针对REST应用的安全研究框架](https://www.freebuf.com/articles/network/355151.html) | Fri Jan 13 2023 4:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    REST-Attacker是一款针对REST应用安全的研究框架,允许研究人员针对遵循REST架构风格的API执行自动化的渗透测试与安全研究。 
-    </details> 
-
-- 💻 [FreeBuf早报 |苹果面临新的隐私诉讼；瑞士军队安全通信曝出大量漏洞](https://www.freebuf.com/news/355126.html) | Thu Jan 12 2023 11:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    英国跨国邮政服务和快递公司皇家邮政本周宣布，一起“网络事件”对其运营造成了严重影响。 
+    bkcrack是一款基于已知明文攻击的传统zip加密破解工具，该工具基于Biham和Kocher的已知明文攻击实现其功能。 
     </details> 
 <!-- freebuf:END -->
 
