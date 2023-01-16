@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [国产工具好强大-一个可以允许小程序运行在任意APP的容器技术](https://juejin.cn/post/7189222825570336829) | Mon Jan 16 2023 12:17 PM 
+- 🤗 [方法论：在不是太懂源码的情况下，我是怎么定位源码问题的？](https://juejin.cn/post/7189231349759705143) | Mon Jan 16 2023 12:50 PM 
+    <details><summary>展开描述 ...</summary> 
+    本篇文章讲解介绍我最近遇到的一个真实例子，在不是太懂源码的情况下，通过自己的一些经验、调试技巧，去定位问题 
+    </details> 
+
+- 🎡 [vue阻止重复请求](https://juejin.cn/post/7189231050806001719) | Mon Jan 16 2023 12:48 PM 
+    <details><summary>展开描述 ...</summary> 
+    项目当中前端代码会遇到同一个请求向服务器发了多次的情况,我们要避免服务器资源浪费,同一个请求一定时间只允许发一次请求,如果业务简单可以用定时器做防抖,如果业务复杂我要通过ajax库统一取消ajax请求 
+    </details> 
+
+- 🕯 [国产工具好强大-一个可以允许小程序运行在任意APP的容器技术](https://juejin.cn/post/7189222825570336829) | Mon Jan 16 2023 12:17 PM 
     <details><summary>展开描述 ...</summary> 
     小程序的定义 提到小程序，大多数第一眼恐怕想到的就是微信小程序或者是支付宝小程序，这也是因为微信和支付宝两者的用户基量大，很多人都是从使用微信或者支付宝开始知道小程序的，也正因为如此，小程序才被特指微 
     </details> 
 
-- 🎡 [Java 元注解](https://juejin.cn/post/7189219351164092471) | Mon Jan 16 2023 12:04 PM 
+- 🚀 [Java 元注解](https://juejin.cn/post/7189219351164092471) | Mon Jan 16 2023 12:04 PM 
     <details><summary>展开描述 ...</summary> 
     ​ 元注解是负责对其它注解进行说明的注解，自定义注解时可以使用元注解。Java 5 定义了 4 个注解，分别是 @Documented、@Target、@Retention 和 @Inherited。 
     </details> 
 
-- 🕯 [前端食堂技术周刊第 67 期：2022 State of JS、ESLint 2022、pnpm 2022、大淘宝 Web 端技术概览](https://juejin.cn/post/7189217535839961148) | Mon Jan 16 2023 11:56 AM 
+- 💪 [前端食堂技术周刊第 67 期：2022 State of JS、ESLint 2022、pnpm 2022、大淘宝 Web 端技术概览](https://juejin.cn/post/7189217535839961148) | Mon Jan 16 2023 11:56 AM 
     <details><summary>展开描述 ...</summary> 
     - 2022 State of JS 结果出炉 - ESLint 2022 年终总结 - pnpm 2022 年终总结 - 大淘宝 Web 端技术概览 - 主流时间库横向对比 - 给 Nod 
-    </details> 
-
-- 🚀 [Elasticsearch：关于在 Python 中使用 Elasticsearch 你需要知道的一切 - 8.x](https://juejin.cn/post/7189217058566406201) | Mon Jan 16 2023 11:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    在本文中，我们将讨论如何在 Python 中使用 Elasticsearch。 如果你还不了解 Elasticsearch，可以阅读这篇文章 “Elasticsearch 简介” 进行快速介绍。在我之 
-    </details> 
-
-- 💪 [写个简易版秒杀系统练练手](https://juejin.cn/post/7189204282715930684) | Mon Jan 16 2023 11:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    「回顾2022，展望2023，我正在参与2022年终总结征文大赛活动」 不写文章还有点不自在，完了😂（有点懒了，同步文章~） 今天来分享下这段时间学习的一个秒杀项目，黑马点评。 好久没跟着学这些，感觉 
     </details> 
 <!-- juejin:END -->
 ### 少数派
