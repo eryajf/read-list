@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [DevClad - 与其他开发人员 1:1 会面 - 合作项目 + 编程马拉松](https://xinquji.com/posts/792993?utm_campaign=xinquji-rss) | Mon Jan 16 2023 6:00 AM 
+- 👀 [Dawn Launcher - Windows快捷启动工具](https://xinquji.com/posts/792888?utm_campaign=xinquji-rss) | Tue Jan 17 2023 6:48 AM 
+    <details><summary>展开描述 ...</summary> 
+     Windows快捷启动工具  
+    </details> 
+
+- 🥷 [视频下载器专业版 - DmSave - 一款免费的海外视频下载器。](https://xinquji.com/posts/792887?utm_campaign=xinquji-rss) | Tue Jan 17 2023 6:47 AM 
+    <details><summary>展开描述 ...</summary> 
+     一款免费的海外视频下载器。  
+    </details> 
+
+- 💼 [DevClad - 与其他开发人员 1:1 会面 - 合作项目 + 编程马拉松](https://xinquji.com/posts/792993?utm_campaign=xinquji-rss) | Mon Jan 16 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
      与其他开发人员 1:1 会面 - 合作项目 + 编程马拉松  
     </details> 
 
-- 🥷 [Caena - 简单、快速且易于获得的风险融资](https://xinquji.com/posts/792992?utm_campaign=xinquji-rss) | Mon Jan 16 2023 6:00 AM 
+- 🦅 [Caena - 简单、快速且易于获得的风险融资](https://xinquji.com/posts/792992?utm_campaign=xinquji-rss) | Mon Jan 16 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
      简单、快速且易于获得的风险融资  
     </details> 
 
-- 💼 [Nura Website Builder - 在几分钟内创建一个专业的网站](https://xinquji.com/posts/792991?utm_campaign=xinquji-rss) | Mon Jan 16 2023 6:00 AM 
+- 😺 [Nura Website Builder - 在几分钟内创建一个专业的网站](https://xinquji.com/posts/792991?utm_campaign=xinquji-rss) | Mon Jan 16 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
      在几分钟内创建一个专业的网站  
-    </details> 
-
-- 🦅 [Pumped Motivation - 创造你的心情](https://xinquji.com/posts/792990?utm_campaign=xinquji-rss) | Mon Jan 16 2023 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     创造你的心情  
-    </details> 
-
-- 😺 [TeamTT - 用于远程工作日程的共享团队日历](https://xinquji.com/posts/792989?utm_campaign=xinquji-rss) | Mon Jan 16 2023 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     用于远程工作日程的共享团队日历  
     </details> 
 <!-- xinquji:END -->
