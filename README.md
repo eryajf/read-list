@@ -398,11 +398,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [为什么中国大陆被印度板块撞得遍布褶皱，而印度板块本身却保持了基本平坦？](https://daily.zhihu.com/story/9757194) | Sun Jan 15 2023 12:27 AM
-- 🐻 [为什么人类需要睡觉？](https://daily.zhihu.com/story/9757198) | Sun Jan 15 2023 12:27 AM
-- 🌏 [既然可以用拼音打字，当初为什么推广五笔？](https://daily.zhihu.com/story/9757201) | Sun Jan 15 2023 12:27 AM
-- 🕴 [为什么整条黄河就叫黄河，长江上游确分金沙江、通天河及沱沱河？](https://daily.zhihu.com/story/9757206) | Sun Jan 15 2023 12:27 AM
-- 🌮 [美国为什么这么多苗族？他们会说汉语吗？和我国的苗族有什么区别？](https://daily.zhihu.com/story/9757215) | Sun Jan 15 2023 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯·如何正确地吐槽](https://daily.zhihu.com/story/9757245) | Mon Jan 16 2023 12:27 AM
+- 🐻 [为什么人体温度在下降？](https://daily.zhihu.com/story/9757220) | Mon Jan 16 2023 12:27 AM
+- 🌏 [为什么英语的冠词有 a 和 an 之分？](https://daily.zhihu.com/story/9757224) | Mon Jan 16 2023 12:27 AM
+- 🕴 [圆锥曲线为啥叫圆锥曲线？](https://daily.zhihu.com/story/9757231) | Mon Jan 16 2023 12:27 AM
+- 🌮 [「六部尚书」中哪个职位更高些？](https://daily.zhihu.com/story/9757239) | Mon Jan 16 2023 12:27 AM<!-- zhihu:END -->
 
 
 ## 应用资源
