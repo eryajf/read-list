@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [名单揭晓！2022年FreeBuf年度作者Top 10排行榜出炉](https://www.freebuf.com/fevents/355427.html) | Mon Jan 16 2023 9:57 AM 
+    <details><summary>展开描述 ...</summary> 
+    感谢大家2022年对FreeBuf的认可和支持，来年请继续多多支持，我们一起打造一流的网络安全门户网站。 
+    </details> 
+
 - 🦄 [历时500多天，滴滴出行被放出来了](https://www.freebuf.com/news/355418.html) | Mon Jan 16 2023 8:45 AM 
     <details><summary>展开描述 ...</summary> 
     2023年1月16日，滴滴出行恢复新用户注册，但旗下APP依旧未在各大应用商店上架。 
     </details> 
 
-- 🦄 [Tiktok又受挫，因无法轻易拒绝Cookie在法国被罚500万欧元](https://www.freebuf.com/news/355331.html) | Mon Jan 16 2023 3:36 AM 
+- 🦅 [TikTok又受挫，因无法轻易拒绝Cookie在法国被罚500万欧元](https://www.freebuf.com/news/355331.html) | Mon Jan 16 2023 3:36 AM 
     <details><summary>展开描述 ...</summary> 
     法国国家信息和自由委员会声称，Tiktok没有提供直接的拒绝Cookie选项，平台也未能充分告知用户不同 Cookie 的使用目的。 
     </details> 
 
-- 🦅 [工业和信息化部等十六部门关于促进数据安全产业发展的指导意见](https://www.freebuf.com/news/355323.html) | Mon Jan 16 2023 3:12 AM 
+- 🪄 [工业和信息化部等十六部门关于促进数据安全产业发展的指导意见](https://www.freebuf.com/news/355323.html) | Mon Jan 16 2023 3:12 AM 
     <details><summary>展开描述 ...</summary> 
     《指导意见》指出，到2025年，数据安全产业规模超过1500亿元，年复合增长率超过30%。 
     </details> 
 
-- 🪄 [FreeBuf早报 | Tiktok在法国被罚540万美元；思科发出商业路由器漏洞警告](https://www.freebuf.com/news/355264.html) | Sun Jan 15 2023 11:05 AM 
+- 💻 [FreeBuf早报 | Tiktok在法国被罚540万美元；思科发出商业路由器漏洞警告](https://www.freebuf.com/news/355264.html) | Sun Jan 15 2023 11:05 AM 
     <details><summary>展开描述 ...</summary> 
     因违反 cookie 同意规则，法国数据保护监管机构对短视频平台 TikTok 处以500 万欧元（约540万美元）罚款。 
-    </details> 
-
-- 💻 [利用ChatGPT快速编写POC](https://www.freebuf.com/articles/web/352155.html) | Sun Jan 15 2023 9:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    如何使用ChatGPT来编写poc 
     </details> 
 <!-- freebuf:END -->
 
