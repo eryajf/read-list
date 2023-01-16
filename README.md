@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Unwynd - 无需群聊即可制定群组计划。邀请、回复和播放](https://xinquji.com/posts/792947?utm_campaign=xinquji-rss) | Sun Jan 15 2023 6:00 AM 
+- 👀 [DevClad - 与其他开发人员 1:1 会面 - 合作项目 + 编程马拉松](https://xinquji.com/posts/792993?utm_campaign=xinquji-rss) | Mon Jan 16 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     无需群聊即可制定群组计划。邀请、回复和播放  
+     与其他开发人员 1:1 会面 - 合作项目 + 编程马拉松  
     </details> 
 
-- 🥷 [SaaS AI Tools - 400 多种生成式 AI 工具和每日 AI 新闻](https://xinquji.com/posts/792946?utm_campaign=xinquji-rss) | Sun Jan 15 2023 6:00 AM 
+- 🥷 [Caena - 简单、快速且易于获得的风险融资](https://xinquji.com/posts/792992?utm_campaign=xinquji-rss) | Mon Jan 16 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     400 多种生成式 AI 工具和每日 AI 新闻  
+     简单、快速且易于获得的风险融资  
     </details> 
 
-- 💼 [Recommendix - 人工智能驱动的电子商务测验工具，可超级促进销售](https://xinquji.com/posts/792945?utm_campaign=xinquji-rss) | Sun Jan 15 2023 6:00 AM 
+- 💼 [Nura Website Builder - 在几分钟内创建一个专业的网站](https://xinquji.com/posts/792991?utm_campaign=xinquji-rss) | Mon Jan 16 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     人工智能驱动的电子商务测验工具，可超级促进销售  
+     在几分钟内创建一个专业的网站  
     </details> 
 
-- 🦅 [rhyme.cool - 用于说唱歌词的生成 AI](https://xinquji.com/posts/792944?utm_campaign=xinquji-rss) | Sun Jan 15 2023 6:00 AM 
+- 🦅 [Pumped Motivation - 创造你的心情](https://xinquji.com/posts/792990?utm_campaign=xinquji-rss) | Mon Jan 16 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     用于说唱歌词的生成 AI  
+     创造你的心情  
     </details> 
 
-- 😺 [NARAY.ONE - 世界上任何地方的商品](https://xinquji.com/posts/792943?utm_campaign=xinquji-rss) | Sun Jan 15 2023 6:00 AM 
+- 😺 [TeamTT - 用于远程工作日程的共享团队日历](https://xinquji.com/posts/792989?utm_campaign=xinquji-rss) | Mon Jan 16 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     世界上任何地方的商品  
+     用于远程工作日程的共享团队日历  
     </details> 
 <!-- xinquji:END -->
