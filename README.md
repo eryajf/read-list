@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [坏消息：一日三餐，少吃一顿都会提高死亡的风险](http://jandan.net/p/112190) | Sun Jan 15 2023 4:54 AM 
+- 🚀 [母乳是什么味道的？](http://jandan.net/p/112203) | Mon Jan 16 2023 7:45 AM 
     <details><summary>展开描述 ...</summary> 
-    对于那些三餐都吃但饭点靠得太近的人来说，甚至也有问题 
+    喂奶不吃蒜，香味少一半 
     </details> 
 
-- 🙉 [Quora：不可思议的科技](http://jandan.net/p/112191) | Sun Jan 15 2023 4:53 AM 
+- 🙉 [Quora：历史上最神秘的人](http://jandan.net/p/112197) | Mon Jan 16 2023 5:54 AM 
     <details><summary>展开描述 ...</summary> 
-    不可能的最令人惊讶和无处不在的科学技术 
+    但我们永远无法确定。 
     </details> 
 
-- 🎉 [今日好价 0115](http://jandan.net/p/112193) | Sun Jan 15 2023 4:52 AM 
+- 🎉 [“我们对月球的了解已经超过了地球上的海洋”，真的如此吗](http://jandan.net/p/112201) | Mon Jan 16 2023 5:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    很多科学家也在重复这一流行观点 
+    </details> 
+
+- 🐲 [今日好价 0116](http://jandan.net/p/112199) | Mon Jan 16 2023 5:52 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：16 
     </details> 
 
-- 🐲 [浙大领导的研究发现，每年2亿吨氮排放到土壤和海洋中，已造成严重污染](http://jandan.net/p/112122) | Sun Jan 15 2023 4:51 AM 
+-  [在开放水域里游泳，即便没有呛到水，也有肺水肿的风险](http://jandan.net/p/112200) | Mon Jan 16 2023 5:51 AM 
     <details><summary>展开描述 ...</summary> 
-    化肥的大量使用推动了上个世纪人口的四倍增长 
-    </details> 
-
--  [Quora：那些令人不安的事](http://jandan.net/p/112183) | Sat Jan 14 2023 5:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    比如你的宠物可能会试图吃掉你。 
+    怀疑和水域温度有关 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
