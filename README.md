@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [iPod、DV、3DS……少数派们还在用这 8 件「旧玩意」](https://sspai.com/post/77800) | Mon Jan 16 2023 8:00 AM 
+- 👹 [派评 | 近期值得关注的 App](https://sspai.com/post/77849) | Mon Jan 16 2023 9:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/77849&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [iPod、DV、3DS……少数派们还在用这 8 件「旧玩意」](https://sspai.com/post/77800) | Mon Jan 16 2023 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     熟悉少数派的朋友们，或许对每个「疯狂星期四」下午的新玩意栏目非常了解。看似总在「买买买」的少数派编辑和作者们，其实也有着一些发布多年，却仍在使用的「旧玩意」。于是，我们找了7位作者和编辑来分享自己身边 ...&lt;a href=&quot;https://sspai.com/post/77800&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [年度征文｜换种方式刷朋友圈——微信朋友圈数据分析](https://sspai.com/post/77815) | Mon Jan 16 2023 6:26 AM 
+- 🤭 [年度征文｜换种方式刷朋友圈——微信朋友圈数据分析](https://sspai.com/post/77815) | Mon Jan 16 2023 6:26 AM 
     <details><summary>展开描述 ...</summary> 
     编注：本文是少数派2022年度征文活动的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。今年我们采用了更加依赖用户反馈数据的奖金结算机制，充电、收藏和阅读量都将不同程度地影响文章的最终排 ...&lt;a href=&quot;https://sspai.com/post/77815&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [iTunes 即将彻底告别历史舞台，Apple 推出新「Windows 三件套」](https://sspai.com/post/77839) | Mon Jan 16 2023 3:49 AM 
+- 🥸 [iTunes 即将彻底告别历史舞台，Apple 推出新「Windows 三件套」](https://sspai.com/post/77839) | Mon Jan 16 2023 3:49 AM 
     <details><summary>展开描述 ...</summary> 
     Apple 在 Windows 上推出了独立的 Apple Music、Apple TV、Apple Devices 应用，以逐渐替代老旧的 iTunes。这些应用目前体验如何，我们上手试了试。&lt;a href=&quot;https://sspai.com/post/77839&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：第三方推特客户端大规模失效，Figma 披露曾两次拒绝 Adobe 收购等](https://sspai.com/post/77832) | Mon Jan 16 2023 1:05 AM 
+- 🙉 [派早报：第三方推特客户端大规模失效，Figma 披露曾两次拒绝 Adobe 收购等](https://sspai.com/post/77832) | Mon Jan 16 2023 1:05 AM 
     <details><summary>展开描述 ...</summary> 
     你可能错过的新鲜事第三方推特客户端大规模失效太平洋时间1月12日晚上起，包括Tweetbot和Twitterific等在内的大量第三方推特客户端无法正常使用。开发人员表示，原因是推特提供给第三方的公共 ...&lt;a href=&quot;https://sspai.com/post/77832&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [PowerBook 100 系列，31 年前的故事](https://sspai.com/prime/story/vintage-tech-stories-powerbook) | Sun Jan 15 2023 6:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    「一天，我坐下来说，让我们做点能让人记住的事吧。」塞尔温回忆道，「我们起了好几个以 Power 打头的名字，还有一些以 Book 结尾。在一次会议上一个人说，叫 PowerBook 怎么样？于是名字就定了下来。」&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/vintage-tech-stories-powerbook&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 <!-- sspai:END -->
 
