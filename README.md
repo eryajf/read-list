@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [PowerBook 100 系列，31 年前的故事](https://sspai.com/prime/story/vintage-tech-stories-powerbook) | Sun Jan 15 2023 6:58 AM 
+- 👹 [派早报：第三方推特客户端大规模失效，Figma 披露曾两次拒绝 Adobe 收购等](https://sspai.com/post/77832) | Mon Jan 16 2023 1:05 AM 
+    <details><summary>展开描述 ...</summary> 
+    你可能错过的新鲜事第三方推特客户端大规模失效太平洋时间1月12日晚上起，包括Tweetbot和Twitterific等在内的大量第三方推特客户端无法正常使用。开发人员表示，原因是推特提供给第三方的公共 ...&lt;a href=&quot;https://sspai.com/post/77832&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [PowerBook 100 系列，31 年前的故事](https://sspai.com/prime/story/vintage-tech-stories-powerbook) | Sun Jan 15 2023 6:58 AM 
     <details><summary>展开描述 ...</summary> 
     「一天，我坐下来说，让我们做点能让人记住的事吧。」塞尔温回忆道，「我们起了好几个以 Power 打头的名字，还有一些以 Book 结尾。在一次会议上一个人说，叫 PowerBook 怎么样？于是名字就定了下来。」&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/vintage-tech-stories-powerbook&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🐘 [年度征文｜用一年时间打造一档法律实务专业播客](https://sspai.com/post/77752) | Sat Jan 14 2023 2:53 AM 
+- 🤭 [年度征文｜用一年时间打造一档法律实务专业播客](https://sspai.com/post/77752) | Sat Jan 14 2023 2:53 AM 
     <details><summary>展开描述 ...</summary> 
     编注：本文是少数派2022年度征文活动的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。今年我们采用了更加依赖用户反馈数据的奖金结算机制，充电、收藏和阅读量都将不同程度地影响文章的最终排 ...&lt;a href=&quot;https://sspai.com/post/77752&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/77812) | Fri Jan 13 2023 10:30 AM 
+- 🥸 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/77812) | Fri Jan 13 2023 10:30 AM 
     <details><summary>展开描述 ...</summary> 
     ☕️TL;DR近期佳作推荐：[日剧]重启人生、[电影]河畔须臾、[电影]误杀瞒天记2、[意大利]成年人的谎言生活、[日剧]舞伎家的料理人、[韩剧]法钱、[美剧]金妮与乔治娅第二季、[英剧]幸福谷第三季 ...&lt;a href=&quot;https://sspai.com/post/77812&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [2023 年还在坚持本地听歌：Android 音乐播放器还有哪些好选择？](https://sspai.com/post/77789) | Fri Jan 13 2023 7:59 AM 
+- 🙉 [2023 年还在坚持本地听歌：Android 音乐播放器还有哪些好选择？](https://sspai.com/post/77789) | Fri Jan 13 2023 7:59 AM 
     <details><summary>展开描述 ...</summary> 
     在听歌这件事情上还有哪些值得一试的 Android 本地音乐播放器？本文推荐我精挑细选之后觉得还不错的 10 款。&lt;a href=&quot;https://sspai.com/post/77789&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [千里之行始于足下，任务管理先看「今日」：Structured](https://sspai.com/post/77791) | Fri Jan 13 2023 7:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    作为一款特色鲜明的任务管理工具，Structured 不管是在交互设计还是核心理念方面都做得可圈可点，挑不出明显的毛病。&lt;a href=&quot;https://sspai.com/post/77791&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
