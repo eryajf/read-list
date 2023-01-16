@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [ToothFairy 2.8.3 一键切换连接蓝牙设备](https://xclient.info/s/tooth-fairy.html) | Fri Jan 13 2023 7:26 AM 
+- 🦏 [System Toolkit 5.10.0 系统工具包](https://xclient.info/s/system-toolkit.html) | Mon Jan 16 2023 7:11 AM 
     <details><summary>展开描述 ...</summary> 
-    Tooth Fairy是一款一键切换连接蓝牙设备的小工具 
+    System Toolkit 是为MacOS设计的一体化信息和维护应用程序。 
     </details> 
 
--  [SpamSieve 2.9.51 垃圾邮件过滤](https://xclient.info/s/spamsieve.html) | Fri Jan 13 2023 7:25 AM 
+-  [Principle 6.28 Mac平台交互动效设计神器](https://xclient.info/s/principle.html) | Mon Jan 16 2023 7:10 AM 
     <details><summary>展开描述 ...</summary> 
-    SpamSieve 是一个强大的垃圾邮件过滤的主要的电子邮件客户端，使用强大的贝叶斯垃圾邮件过滤。 
+    Principle 是前 Apple 工程师打造的一款交互设计工具，五分钟即可制作出一个具有完整交互动画的原型，并且可将交互动画生成视频或者 Gif 分享到 Dribbble、Twitter 等社交平台。此外 Principle 还支持多种尺寸的原型设计，包括 Apple Watch。 
     </details> 
 
-- ⚗️ [Yate 6.13.1_11354__13 音频文件标签小工具](https://xclient.info/s/yate.html) | Fri Jan 13 2023 7:24 AM 
+- ⚗️ [Mirror for TCL TV 3.8.3 TCL智能电视屏幕镜像应用](https://xclient.info/s/mirror-for-tcl-tv.html) | Mon Jan 16 2023 7:07 AM 
     <details><summary>展开描述 ...</summary> 
-    Yate是一款Mac平台的音乐标签及管理工具，能够帮助我们轻松编辑音乐文件的元标签数据 
+    您的 Mac 到任何TCL智能电视屏幕镜像应用程序。没有电线，不需要额外的硬件 ！你也可以把单个视频文件从Mac电脑中传到电视上。另外，我们还给您提供了多屏放映（电视和电脑屏幕显示不同内容）的设置选择。 
     </details> 
 
-- 🔥 [PowerPhotos 2.1.4 优秀的图片管理工具](https://xclient.info/s/powerphotos.html) | Fri Jan 13 2023 7:23 AM 
+- 🔥 [Downcast 2.11.21 Podcast订阅工具](https://xclient.info/s/downcast.html) | Mon Jan 16 2023 7:05 AM 
     <details><summary>展开描述 ...</summary> 
-    PowerPhotos 是一款Mac上优秀的图片管理工具，让你能够直接浏览图库，节省iCloud空间，并能够检测重复图片，让你快速删除多余的图片，简单易用。 
+    Downcast 可以下载、 播放和同步你最喜欢的播客。 
     </details> 
 
-- 🌋 [PhotoSweeper X 4.7.0 重复照片查找删除工具](https://xclient.info/s/photosweeper.html) | Fri Jan 13 2023 7:22 AM 
+- 🌋 [Soulver 3.7.3 多功能计算器](https://xclient.info/s/soulver.html) | Mon Jan 16 2023 7:02 AM 
     <details><summary>展开描述 ...</summary> 
-    PhotoSweeper可以快速有效的从你的电脑中删除重复照片,可以对照片分组对比,可以选择格式,尺寸,文件大小. 
+    Soulver 是一款 Mac 上的多功能计算器，相比系统自带的计算器，Soulver拥有更为强大的功能，它让你输入计算的数字和操作符，然后帮助你计算出结果，更加的符合人们的计算习惯。 
     </details> 
 <!-- xclient:END -->
 
