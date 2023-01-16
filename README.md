@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【云原生】k8s 一键部署（ansible）](https://juejin.cn/post/7189285843494764602) | Mon Jan 16 2023 4:22 PM 
+- 🤗 [Go语言进阶之并发编程 ｜ 青训营笔记](https://juejin.cn/post/7189314053955649573) | Mon Jan 16 2023 6:14 PM 
+    <details><summary>展开描述 ...</summary> 
+    这是我参与「第五届青训营 」伴学笔记创作活动的第 2 天 并发编程 并发与并行的区别 协程Goroutine 
+    </details> 
+
+- 🎡 [【云原生】k8s 一键部署（ansible）](https://juejin.cn/post/7189285843494764602) | Mon Jan 16 2023 4:22 PM 
     <details><summary>展开描述 ...</summary> 
     一、概述 前面我写了关于k8s环境部署的几篇文章，k8s部署还是比较麻烦的，所以是有必要考虑一键部署的方案，这里借助ansible playbook来实现k8s环境的一键部署，实现快速部署的目的。关于 
     </details> 
 
-- 🎡 [组件封装 | 青训营笔记](https://juejin.cn/post/7189280536873926715) | Mon Jan 16 2023 4:00 PM 
+- 🕯 [组件封装 | 青训营笔记](https://juejin.cn/post/7189280536873926715) | Mon Jan 16 2023 4:00 PM 
     <details><summary>展开描述 ...</summary> 
     在当前前端框架以及各种组件库盛行的时代，从我学习前端到现阶段，像一些轮播图、日历等组件都是直接去使用UI组件库，学习Vue的时候用的Vant、ElementUI，学习React的时候使用Antd等组件 
     </details> 
 
-- 🕯 [《数据结构与算法之美》学习笔记 Day 1](https://juejin.cn/post/7189280110594228284) | Mon Jan 16 2023 3:58 PM 
+- 🚀 [《数据结构与算法之美》学习笔记 Day 1](https://juejin.cn/post/7189280110594228284) | Mon Jan 16 2023 3:58 PM 
     <details><summary>展开描述 ...</summary> 
     数组的特点 数组是线性表，用一块连续的内存存一些相同类型的数据。 线性表意思是这个数据结构只有前后两个方向，所以树，图等这类不属于线性表。链表，队列，栈等也是线性表。和数组经常一块说的就是链表，链表的 
     </details> 
 
-- 🚀 [数据结构与算法之树（六）](https://juejin.cn/post/7189273374697701434) | Mon Jan 16 2023 3:33 PM 
+- 💪 [数据结构与算法之树（六）](https://juejin.cn/post/7189273374697701434) | Mon Jan 16 2023 3:33 PM 
     <details><summary>展开描述 ...</summary> 
     大家伙，我是云牧，继续来更新数据结构与算法，今天要说的是树，分为普通树和二叉树，前端工作中常见的树包括：DOM树、级联选择、树形控件。 
-    </details> 
-
-- 💪 [兔年了，利用AI风格化实现剪纸兔、年画兔、烟花兔](https://juejin.cn/post/7189271923166019621) | Mon Jan 16 2023 3:27 PM 
-    <details><summary>展开描述 ...</summary> 
-    本地手动搭建TensorFlow Hub实现图形风格化。让小兔子和年画、剪纸、烟花融合成新的图片。开源项目，操作简单，不管你是前端还是后端，都能上手实践。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
