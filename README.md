@@ -301,7 +301,7 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [名单揭晓！2022年FreeBuf年度作者Top 10排行榜出炉](https://www.freebuf.com/fevents/355427.html) | Mon Jan 16 2023 9:57 AM 
+- 🦄 [2022年FreeBuf年度作者Top 10排行榜出炉](https://www.freebuf.com/fevents/355427.html) | Mon Jan 16 2023 9:57 AM 
     <details><summary>展开描述 ...</summary> 
     感谢大家2022年对FreeBuf的认可和支持，来年请继续多多支持，我们一起打造一流的网络安全门户网站。 
     </details> 
