@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [使用“宝塔一键迁移”工具，将单机版typecho博客系统迁移到京东云cvm云主机](https://juejin.cn/post/7189143447381475383) | Mon Jan 16 2023 7:08 AM 
+- 🤗 [ChatGPT/InstructGPT详解](https://juejin.cn/post/7189159246255112251) | Mon Jan 16 2023 8:10 AM 
     <details><summary>展开描述 ...</summary> 
-    服务器更换、网站搬家，对于很多开发者新手来说不是一件容易的事情，需要迁移网站程序、数据库，修改数据库连接文件等。在云迁移方案中，宝塔是非常简单好用的服务器运维面板，能够极大提升运 
+    GPT系列是OpenAI的一系列预训练文章，GPT的全称是Generative Pre-Trained Transformer，顾名思义，GPT的目的就是通过Transfo 
     </details> 
 
-- 🎡 [js 你知道为什么[]==![]是成立的吗（强制类型转换）](https://juejin.cn/post/7189138061169524794) | Mon Jan 16 2023 6:47 AM 
+- 🎡 [如何开发一个人人爱的组件？](https://juejin.cn/post/7189158794838933565) | Mon Jan 16 2023 8:08 AM 
     <details><summary>展开描述 ...</summary> 
-    为什么大家都在吐槽js的类型转换？为什么[]==![]是成立的呢？我想你也想解除一下自己的迷惑吧？本文就来给介绍一下关于==的类型转换问题。 
+    组件，是前端最常打交道的东西，对于 React、Vue 等应用来说，万物皆组件毫不为过。 有些工作经验的同学都知道，组件其实也分等级的，有的组件可以被上万开发者复用，有些组件就只能在项目中运行，甚至挪 
     </details> 
 
-- 🕯 [Arouter适配AGP 7.3.0版本](https://juejin.cn/post/7189137629727457340) | Mon Jan 16 2023 6:45 AM 
+- 🕯 [【初探GSConv】轻量化卷积层直接带来的小目标检测增益！摘录于自动驾驶汽车检测器的架构](https://juejin.cn/post/7189157138374066235) | Mon Jan 16 2023 8:01 AM 
     <details><summary>展开描述 ...</summary> 
-    如何调试arouter 源码 arouter的代码 主要分为 3个部分，一个是基础的arouter-api包， 然后是注解处理器arouter-compile包 最后是arouter-register 
+    在目标检测任务中，有两大系列的模型是我们经常会碰见的；一类是 the one-stage，另一类是 the two-stage。 
     </details> 
 
-- 🚀 [聪小陈的2022：浏览器从 A 到 Z](https://juejin.cn/post/7189136162697510968) | Mon Jan 16 2023 6:40 AM 
+- 🚀 [如何在uniapp中设置隐私政策弹窗](https://juejin.cn/post/7189154906727514173) | Mon Jan 16 2023 7:53 AM 
     <details><summary>展开描述 ...</summary> 
-    将 A-Z 逐一输入到 Google Chrome 的地址栏里，Google Chrome 都会自动补全出哪些域名呢？ 
+    上架应用市场必须要有隐私政策，如何设置隐私政策才能成功上架？在uniapp中Android可以使用uniapp内置的隐私政策弹窗，可以在应用程序启动前弹出弹窗。但iOS并没有，因此需要通过页面的方式进 
     </details> 
 
-- 💪 [SLS：基于 OTel 的移动端全链路 Trace 建设思考和实践](https://juejin.cn/post/7189132550995411003) | Mon Jan 16 2023 6:26 AM 
+- 💪 [如何实现跨音区上下文“我也要”功能](https://juejin.cn/post/7189145467153252411) | Mon Jan 16 2023 7:16 AM 
     <details><summary>展开描述 ...</summary> 
-    线上业务问题为什么很难复现和排查定位？这些问题如何来解决？本文阐述了笔者在实践过程中的四个解决思路，希望可以读者一些启发 
+    背景 在一些车载语音测评中常使用“我也要”功能用来宣传其语音功能的强大，当车上用户A进行车控操作时，车上用户B可以把用户A的操作同步到自己方位的控制器上。我们也试方式该功能如何实现。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
