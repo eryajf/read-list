@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【深入浅出Spring原理及实战】「源码调试分析」结合DataSourceRegister深入分析ImportBeanDefinitionRegistrar](https://juejin.cn/post/7189107645583163447) | Mon Jan 16 2023 4:50 AM 
+- 🤗 [使用过 WebWorker 解决定时器不准确的问题](https://juejin.cn/post/7189123474295062587) | Mon Jan 16 2023 5:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    使用过 WebWorker 解决定时器不准确的问题 在使用定时器的时候，因为 JS 单线程的原因，经常会导致定时器不准确的问题发生，尤其是在 tab 页切换时尤为明显。 web worker 可以为我 
+    </details> 
+
+- 🎡 [如何让 vite 完美接入 qiankun](https://juejin.cn/post/7189117358697349178) | Mon Jan 16 2023 5:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 因为公司有使用微前端技术，技术栈为 qiankun，为了保证对 qiankun 的支持，使用了开发模式走 vite，构建走 webpack：如何在 webpack 项目中使用 vite 加速。  
+    </details> 
+
+- 🕯 [【深入浅出Spring原理及实战】「源码调试分析」结合DataSourceRegister深入分析ImportBeanDefinitionRegistrar](https://juejin.cn/post/7189107645583163447) | Mon Jan 16 2023 4:50 AM 
     <details><summary>展开描述 ...</summary> 
     每日一句 注入案例代码 如何通过实现SpringBoot框架带有的ImportBeanDefinitionRegistrar注册器，注入我们想要注册的bean对象实例。只需要采用@Import的注解进 
     </details> 
 
-- 🎡 [刺激，线程池的一个BUG直接把CPU干到100%了。](https://juejin.cn/post/7189104246728425531) | Mon Jan 16 2023 4:36 AM 
+- 🚀 [刺激，线程池的一个BUG直接把CPU干到100%了。](https://juejin.cn/post/7189104246728425531) | Mon Jan 16 2023 4:36 AM 
     <details><summary>展开描述 ...</summary> 
     你好呀，我是歪歪。分享一个线程池的 BUG ，这个 BUG 能直接把 CPU 给飚到 100%，希望大家永远踩不到。 但是，u1s1，确实也很难踩到... 
     </details> 
 
-- 🕯 [醒醒吧，未来不会有 Go2 了！](https://juejin.cn/post/7189102074825539640) | Mon Jan 16 2023 4:30 AM 
+- 💪 [醒醒吧，未来不会有 Go2 了！](https://juejin.cn/post/7189102074825539640) | Mon Jan 16 2023 4:30 AM 
     <details><summary>展开描述 ...</summary> 
     大家好，我是煎鱼。 马上春节了，节前最后一更。提前预祝大家春节快乐！ 本周末在学习的时候，看到 Go 团队大当家 Russ Cox（下称：rsc）在近期分享的《GopherCon 2022: Russ 
-    </details> 
-
-- 🚀 [9款日志管理工具大比拼，选型必备！](https://juejin.cn/post/7189101003214913596) | Mon Jan 16 2023 4:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    对于日志管理当前网络上提供了大量的日志工具，今天就给大家分析总结一下这些常用工具的特点，希望对你们在选型时有所帮助，如果有用记得一键三连。 1、Filebeat Filebeat是用于转发和集中日志数 
-    </details> 
-
-- 💪 [YonBuilder 应用构建教程之移动端扩展](https://juejin.cn/post/7189091146138648635) | Mon Jan 16 2023 3:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    YonBuilder 移动端扩展 在上一篇文章中，我们通过对员工信息实体的移动端页面构建来对 YonBuilder 移动端配置的基础流程进行了简单的介绍，本篇文章则通过之前搭建的出入库实体来进行扩展， 
     </details> 
 <!-- juejin:END -->
 ### 少数派
