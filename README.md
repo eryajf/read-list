@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [虚拟化技术浅析第二弹之初识Kubernetes](https://juejin.cn/post/7189451569593581623) | Tue Jan 17 2023 3:04 AM 
+- 🤗 [闻其声而知雅意,基于Pytorch&lpar;mps/cpu/cuda&rpar;的人工智能AI本地语音识别库Whisper&lpar;Python3.10&rpar;](https://juejin.cn/post/7189463811596746810) | Tue Jan 17 2023 3:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    前文回溯，之前一篇：含辞未吐,声若幽兰,史上最强免费人工智能AI语音合成TTS服务微软Azure&lpar;Python3.10接入&rpar;，利用AI技术将文本合成语音，现在反过来，利用开源库Whisper再将语音转 
+    </details> 
+
+- 🎡 [Seata AT模式：MySQL自增ID的场景下个人推荐使用 useGeneratedKeys](https://juejin.cn/post/7189457737015623717) | Tue Jan 17 2023 3:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    从Seata AT模式相关源码梳理可知，MySQL自增ID的场景下推荐使用 useGeneratedKeys 
+    </details> 
+
+- 🕯 [小兔子遇上ai、古彝文识别研究|人工智能周刊第二期](https://juejin.cn/post/7189457382617907257) | Tue Jan 17 2023 3:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    小兔子遇上ai发生了怎样的故事，ai让文化有机会得以传承，YOLO模型已经迭代到v8了，快来看看他的故事。 
+    </details> 
+
+- 🚀 [前端也要懂设计 - 交互设计](https://juejin.cn/post/7189451639361634362) | Tue Jan 17 2023 3:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    菲茨定律 Fitts&#39; Law 费茨法则 是一个人机交互以及人体工程学中人类活动的模型，它预测了快速移动到目标区域所需的时间是目标区域的距离和目标区域的大小的函数。费茨法则多用于表现 指、点 这个动作 
+    </details> 
+
+- 💪 [虚拟化技术浅析第二弹之初识Kubernetes](https://juejin.cn/post/7189451569593581623) | Tue Jan 17 2023 3:04 AM 
     <details><summary>展开描述 ...</summary> 
     微服务架构起源 单体架构：可以理解为主要业务逻辑模块（我们编写的代码模块，不包括独立的中间件）运行在一个进程中的应用，最典型的是运行在一个Tomcat容器中，位于一个进程里 
-    </details> 
-
-- 🎡 [掰掰 Lottie](https://juejin.cn/post/7189445206054273083) | Tue Jan 17 2023 2:42 AM 
-    <details><summary>展开描述 ...</summary> 
-    之前做运营活动的时候，写了一个比较有趣的打开盲盒的交互动画。怎么实现的呢？由此聊聊前端的动画方案，掰一掰Lottie！ 
-    </details> 
-
-- 🕯 [Java7到Java17, Switch语句进化史](https://juejin.cn/post/7189442852684824633) | Tue Jan 17 2023 2:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 自 Java 7 以来，java 中的 switch 语句经历了快速发展。因此，在本文中，我们将通过示例讨论 switch 语句从 java 7 到 java 17 的演变或变化。 Java 7 
-    </details> 
-
-- 🚀 [网易云音乐数据全链路基线治理实践](https://juejin.cn/post/7189442100344127549) | Tue Jan 17 2023 2:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    在大数据开发领域，大家都会被一个问题困扰：调度任务延迟，然后被老板、被业务“灵魂拷问”。本文将从问题挑战、目标衡量、行动方案、成果展示、后续规划五个方面展开，详述网易云音乐在全链路基线治理的实践。 
-    </details> 
-
-- 💪 [【AI】用 GPT 帮小兔子画肖像](https://juejin.cn/post/7189439353402163255) | Tue Jan 17 2023 2:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    继帮小兔子完成了作一首诗词，写一篇文章之后，小兔子又有新的想法了；小兔子说，新年到了，她想要一张自画像，但是她自己又画不来，拜托博主用 GPT 帮她画一个；人美心善的博主当然是欣然答应了； 
     </details> 
 <!-- juejin:END -->
 ### 少数派
