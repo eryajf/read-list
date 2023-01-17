@@ -481,29 +481,29 @@
 ### 不死鸟
 
 <!-- iui:START -->
-- 🌊 [Z-Library电子书下载](https://iui.su/380/) | Tue Jan 17 2023 11:03 AM 
+- 🌊 [Mac os 必备软件](https://iui.su/2319/) | Tue Jan 17 2023 11:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    常用利器IINA免费开源的影音播放器，ui简洁美观，支持画中画，Mac平台最好的免费播放器。.dmg下载Free Download ManagerMac os 平台FDM要比Windows平台的... 
+    </details> 
+
+- 🫣 [Z-Library电子书下载](https://iui.su/380/) | Tue Jan 17 2023 11:03 AM 
     <details><summary>展开描述 ...</summary> 
     Z-Library 是世界上最大的免费在线图书馆，它拥有近亿的电子书和文章。由于某些关系，域名国内无法访问，下方是一些可以正确打开Z-Library的方法。Z-Library最新可用方法http... 
     </details> 
 
-- 🫣 [2023 年 1月 每日分享](https://iui.su/164/) | Tue Jan 17 2023 10:50 AM 
+- 🌜 [2023 年 1月 每日分享](https://iui.su/164/) | Tue Jan 17 2023 10:50 AM 
     <details><summary>展开描述 ...</summary> 
     可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。1月17日腾讯ARC La... 
     </details> 
 
-- 🌜 [MusicFree：支持插件的安卓音乐播放器](https://iui.su/1620/) | Mon Jan 16 2023 11:18 AM 
+- 🏊 [MusicFree：支持插件的安卓音乐播放器](https://iui.su/1620/) | Mon Jan 16 2023 11:18 AM 
     <details><summary>展开描述 ...</summary> 
     日常听歌下歌可用 汽水音乐+酷狗概念版 目前这两款app每天送VIP。MusicFree是一款免费开源，支持插件化、定制化、无广告的免费音乐播放器。使用插件后就可以实现免费的搜索、下载各大平台的... 
     </details> 
 
-- 🏊 [趣闲赚App](https://iui.su/3430/) | Fri Jan 13 2023 10:35 AM 
+- 🚦 [趣闲赚App](https://iui.su/3430/) | Fri Jan 13 2023 10:35 AM 
     <details><summary>展开描述 ...</summary> 
     趣闲赚App是一个正规的悬赏互助平台，可以通过平台做任务，也可以自己发布任务。如果有空闲时间，就可以做任务赚钱或利用趣闲赚发布各种需要推广拉人头的任务，提现可通过支付宝快速到账。活动地址http... 
-    </details> 
-
-- 🚦 [AI改图神器 | 不会PS也能即刻上手的万能图片在线编辑器](https://iui.su/3848/) | Thu Jan 12 2023 9:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    我们在日常生活中，有时候经常会遇到很多需要对图片进行处理的情况，比如“图片文件太大需要压缩才能上传”、“图片如何抠图更换背景”、“下载的图片带有水印不美观”等等，不会PS这样专业的图像处理软件又... 
     </details> 
 <!-- iui:END -->
 
