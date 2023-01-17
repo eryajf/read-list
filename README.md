@@ -321,9 +321,9 @@
     CIS 2022网络安全创新大会上海主会场精彩议题回顾将在FreeBuf公开课上线啦。 
     </details> 
 
-- 💻 [TikTok又受挫，因无法轻易拒绝Cookie在法国被罚500万欧元](https://www.freebuf.com/news/355331.html) | Mon Jan 16 2023 3:36 AM 
+- 💻 [CIS 2022 网络安全创新大会公开课回顾 | 线上专场](https://www.freebuf.com/articles/355373.html) | Mon Jan 16 2023 7:23 AM 
     <details><summary>展开描述 ...</summary> 
-    法国国家信息和自由委员会声称，Tiktok没有提供直接的拒绝Cookie选项，平台也未能充分告知用户不同 Cookie 的使用目的。 
+    14位嘉宾就各自的议题共话网络安全行业新趋势、新技术和新对策。 
     </details> 
 <!-- freebuf:END -->
 
