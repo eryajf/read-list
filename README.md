@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [闻其声而知雅意,基于Pytorch&lpar;mps/cpu/cuda&rpar;的人工智能AI本地语音识别库Whisper&lpar;Python3.10&rpar;](https://juejin.cn/post/7189463811596746810) | Tue Jan 17 2023 3:51 AM 
+- 🤗 [【Dubbo3 终极特性】「云原生三中心架构」带你探索 Dubbo3 体系下的配置中心和元数据中心、注册中心的原理及开发实战（中）](https://juejin.cn/post/7189477330979389499) | Tue Jan 17 2023 4:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    承接上文 通过之前的【Dubbo3终极特性】「云原生三中心架构」带你探索 Dubbo3 体系下的配置中心和元数据中心、注册中心的原理及开发实战（上），让我们对Dubbo3的三中心架构体系有了一定的认识 
+    </details> 
+
+- 🎡 [Android自定义ViewGroup嵌套与交互实战，幕布全屏滚动效果](https://juejin.cn/post/7189473736729788473) | Tue Jan 17 2023 4:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    自定义 ViewGroup 全屏选中效果 前言 事情是这个样子的，前几天产品丢给我一个视频，你觉得这个效果怎么样，我们的 App 也做一个这个效果吧！ 我当时的反应： 开什么玩笑！就没见过这么玩的 
+    </details> 
+
+- 🕯 [qiankun 引入两种子应用 -- react &amp;&amp; vue + vite  新手教程](https://juejin.cn/post/7189465266932154425) | Tue Jan 17 2023 3:57 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文旨在教你如何使用 qiankun 搭建一个qiankun-demo，主应用为React 两个子应用分别是React &amp;&amp; vue + vite 
+    </details> 
+
+- 🚀 [闻其声而知雅意,基于Pytorch&lpar;mps/cpu/cuda&rpar;的人工智能AI本地语音识别库Whisper&lpar;Python3.10&rpar;](https://juejin.cn/post/7189463811596746810) | Tue Jan 17 2023 3:51 AM 
     <details><summary>展开描述 ...</summary> 
     前文回溯，之前一篇：含辞未吐,声若幽兰,史上最强免费人工智能AI语音合成TTS服务微软Azure&lpar;Python3.10接入&rpar;，利用AI技术将文本合成语音，现在反过来，利用开源库Whisper再将语音转 
     </details> 
 
-- 🎡 [Seata AT模式：MySQL自增ID的场景下个人推荐使用 useGeneratedKeys](https://juejin.cn/post/7189457737015623717) | Tue Jan 17 2023 3:29 AM 
+- 💪 [2022 年终总结: 躺平的一年](https://juejin.cn/post/7189460570641268795) | Tue Jan 17 2023 3:39 AM 
     <details><summary>展开描述 ...</summary> 
-    从Seata AT模式相关源码梳理可知，MySQL自增ID的场景下推荐使用 useGeneratedKeys 
-    </details> 
-
-- 🕯 [小兔子遇上ai、古彝文识别研究|人工智能周刊第二期](https://juejin.cn/post/7189457382617907257) | Tue Jan 17 2023 3:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    小兔子遇上ai发生了怎样的故事，ai让文化有机会得以传承，YOLO模型已经迭代到v8了，快来看看他的故事。 
-    </details> 
-
-- 🚀 [前端也要懂设计 - 交互设计](https://juejin.cn/post/7189451639361634362) | Tue Jan 17 2023 3:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    菲茨定律 Fitts&#39; Law 费茨法则 是一个人机交互以及人体工程学中人类活动的模型，它预测了快速移动到目标区域所需的时间是目标区域的距离和目标区域的大小的函数。费茨法则多用于表现 指、点 这个动作 
-    </details> 
-
-- 💪 [虚拟化技术浅析第二弹之初识Kubernetes](https://juejin.cn/post/7189451569593581623) | Tue Jan 17 2023 3:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    微服务架构起源 单体架构：可以理解为主要业务逻辑模块（我们编写的代码模块，不包括独立的中间件）运行在一个进程中的应用，最典型的是运行在一个Tomcat容器中，位于一个进程里 
+    时间是我们非常宝贵的财富，我们每一年都会选择将时间投资在不同的东西上以期望获得相应的回报，无论是投入学习获得更多的知识和经验，还是投入娱乐获得得到放松和良好的心态，这都是我们自己做出的选择和规划。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
