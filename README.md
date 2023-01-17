@@ -667,29 +667,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0117](http://jandan.net/p/112210) | Tue Jan 17 2023 3:49 AM 
+- 🚀 [Quora：π x π 是多少](http://jandan.net/p/112206) | Tue Jan 17 2023 4:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    它是g 
+    </details> 
+
+- 🙉 [历史轮回：美国00后开始纷纷选择老式翻盖手机](http://jandan.net/p/112205) | Tue Jan 17 2023 4:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    翻盖手机市场预计在2025年将达到290亿美元 
+    </details> 
+
+- 🎉 [家里的猫猫狗狗送我们一只死老鼠，我们应该做出何种反应？](http://jandan.net/p/112164) | Tue Jan 17 2023 4:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    或许可以……尖叫? 
+    </details> 
+
+- 🐲 [今日好价 0117](http://jandan.net/p/112210) | Tue Jan 17 2023 3:49 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：18 
     </details> 
 
-- 🙉 [母乳是什么味道的？](http://jandan.net/p/112203) | Mon Jan 16 2023 7:45 AM 
+-  [母乳是什么味道的？](http://jandan.net/p/112203) | Mon Jan 16 2023 7:45 AM 
     <details><summary>展开描述 ...</summary> 
     喂奶不吃蒜，香味少一半 
-    </details> 
-
-- 🎉 [Quora：历史上最神秘的人](http://jandan.net/p/112197) | Mon Jan 16 2023 5:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    但我们永远无法确定。 
-    </details> 
-
-- 🐲 [“我们对月球的了解已经超过了地球上的海洋”，真的如此吗](http://jandan.net/p/112201) | Mon Jan 16 2023 5:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    很多科学家也在重复这一流行观点 
-    </details> 
-
--  [在开放水域里游泳，即便没有呛到水，也有肺水肿的风险](http://jandan.net/p/112200) | Mon Jan 16 2023 5:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    怀疑和水域温度有关 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
