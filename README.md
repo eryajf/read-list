@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [最新报告：Java、.NET安全性最低？](https://www.freebuf.com/news/355507.html) | Tue Jan 17 2023 6:31 AM 
+- 🦄 [亚马逊销售的 Android 电视盒，正在悄悄窃取你的数据](https://www.freebuf.com/news/355537.html) | Tue Jan 17 2023 8:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    专家发现，在亚马逊和全球速卖通上出售的 T95 Android 电视盒预装了复杂的恶意软件。 
+    </details> 
+
+- 🦄 [70% 的应用程序发布 5 年后，至少包含一个漏洞](https://www.freebuf.com/news/355512.html) | Tue Jan 17 2023 6:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    应用程序发布五年后，至少 70% 会包含一个安全漏洞。 
+    </details> 
+
+- 🦅 [最新报告：Java、.NET安全性最低？](https://www.freebuf.com/news/355507.html) | Tue Jan 17 2023 6:31 AM 
     <details><summary>展开描述 ...</summary> 
     超过四分之三使用 Java 和 .NET 编写的应用程序至少存在一个以上的 OWASP Top 10 漏洞。 
     </details> 
 
-- 🦄 [2022年FreeBuf年度作者Top 10排行榜出炉](https://www.freebuf.com/fevents/355427.html) | Mon Jan 16 2023 9:57 AM 
+- 🪄 [2022年FreeBuf年度作者Top 10排行榜出炉](https://www.freebuf.com/fevents/355427.html) | Mon Jan 16 2023 9:57 AM 
     <details><summary>展开描述 ...</summary> 
     感谢大家2022年对FreeBuf的认可和支持，来年请继续多多支持，我们一起打造一流的网络安全门户网站。 
     </details> 
 
-- 🦅 [FreeBuf 早报 | 滴滴恢复新用户注册；多位台湾名人个人信息疑外泄](https://www.freebuf.com/articles/355419.html) | Mon Jan 16 2023 8:49 AM 
+- 💻 [FreeBuf 早报 | 滴滴恢复新用户注册；多位台湾名人个人信息疑外泄](https://www.freebuf.com/articles/355419.html) | Mon Jan 16 2023 8:49 AM 
     <details><summary>展开描述 ...</summary> 
     台湾华航疑似遭遇黑客攻击，大批旅客资料外泄到互联网上，其中包括赖清德、张忠谋、林志玲等数十位名人。 
-    </details> 
-
-- 🪄 [历时500多天，滴滴出行被放出来了](https://www.freebuf.com/news/355418.html) | Mon Jan 16 2023 8:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    2023年1月16日，滴滴出行恢复新用户注册，但旗下APP依旧未在各大应用商店上架。 
-    </details> 
-
-- 💻 [CIS 2022 网络安全创新大会公开课回顾 | 上海主会场](https://www.freebuf.com/articles/355391.html) | Mon Jan 16 2023 8:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    CIS 2022网络安全创新大会上海主会场精彩议题回顾将在FreeBuf公开课上线啦。 
     </details> 
 <!-- freebuf:END -->
 
