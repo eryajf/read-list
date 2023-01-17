@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【Dubbo3 终极特性】「云原生三中心架构」带你探索 Dubbo3 体系下的配置中心和元数据中心、注册中心的原理及开发实战（中）](https://juejin.cn/post/7189477330979389499) | Tue Jan 17 2023 4:46 AM 
+- 🤗 [还在考虑要不要加入Web3？Web3求职全攻略](https://juejin.cn/post/7189499500925288504) | Tue Jan 17 2023 6:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    因为在群里经常有人问我 Web3 工作相关的事情，我回答了一遍又一遍，可每次有新群友加入，又会把这个问题重新问我一遍。 所以我决定帮群友写一篇文章，这样可以帮助后面新入群的朋友指点迷津，同时又避免了重 
+    </details> 
+
+- 🎡 [【Dubbo3 终极特性】「云原生三中心架构」带你探索 Dubbo3 体系下的配置中心和元数据中心、注册中心的原理及开发实战（中）](https://juejin.cn/post/7189477330979389499) | Tue Jan 17 2023 4:46 AM 
     <details><summary>展开描述 ...</summary> 
     承接上文 通过之前的【Dubbo3终极特性】「云原生三中心架构」带你探索 Dubbo3 体系下的配置中心和元数据中心、注册中心的原理及开发实战（上），让我们对Dubbo3的三中心架构体系有了一定的认识 
     </details> 
 
-- 🎡 [Android自定义ViewGroup嵌套与交互实战，幕布全屏滚动效果](https://juejin.cn/post/7189473736729788473) | Tue Jan 17 2023 4:31 AM 
+- 🕯 [Android自定义ViewGroup嵌套与交互实战，幕布全屏滚动效果](https://juejin.cn/post/7189473736729788473) | Tue Jan 17 2023 4:31 AM 
     <details><summary>展开描述 ...</summary> 
     自定义 ViewGroup 全屏选中效果 前言 事情是这个样子的，前几天产品丢给我一个视频，你觉得这个效果怎么样，我们的 App 也做一个这个效果吧！ 我当时的反应： 开什么玩笑！就没见过这么玩的 
     </details> 
 
-- 🕯 [qiankun 引入两种子应用 -- react &amp;&amp; vue + vite  新手教程](https://juejin.cn/post/7189465266932154425) | Tue Jan 17 2023 3:57 AM 
+- 🚀 [【青听第1期】1月19日晚 Nice 兔 meet u 写码抽奖直播预约开始啦](https://juejin.cn/post/7189468004723146809) | Tue Jan 17 2023 4:07 AM 
+    <details><summary>展开描述 ...</summary> 
+    1月19日晚19:30，来「青听」直播间，一起来看从抽奖代码开始写起的抽奖活动，在线 code review，体验互联网公司“码味十足”的年会氛围吧🐶 
+    </details> 
+
+- 💪 [qiankun 引入两种子应用 -- react &amp;&amp; vue + vite](https://juejin.cn/post/7189465266932154425) | Tue Jan 17 2023 3:57 AM 
     <details><summary>展开描述 ...</summary> 
     本文旨在教你如何使用 qiankun 搭建一个qiankun-demo，主应用为React 两个子应用分别是React &amp;&amp; vue + vite 
-    </details> 
-
-- 🚀 [闻其声而知雅意,基于Pytorch&lpar;mps/cpu/cuda&rpar;的人工智能AI本地语音识别库Whisper&lpar;Python3.10&rpar;](https://juejin.cn/post/7189463811596746810) | Tue Jan 17 2023 3:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    前文回溯，之前一篇：含辞未吐,声若幽兰,史上最强免费人工智能AI语音合成TTS服务微软Azure&lpar;Python3.10接入&rpar;，利用AI技术将文本合成语音，现在反过来，利用开源库Whisper再将语音转 
-    </details> 
-
-- 💪 [2022 年终总结: 躺平的一年](https://juejin.cn/post/7189460570641268795) | Tue Jan 17 2023 3:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    时间是我们非常宝贵的财富，我们每一年都会选择将时间投资在不同的东西上以期望获得相应的回报，无论是投入学习获得更多的知识和经验，还是投入娱乐获得得到放松和良好的心态，这都是我们自己做出的选择和规划。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
