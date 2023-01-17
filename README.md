@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Go语言进阶之并发编程 ｜ 青训营笔记](https://juejin.cn/post/7189314053955649573) | Mon Jan 16 2023 6:14 PM 
+- 🤗 [CSS 实例系列 - 03 - Rate 爱心评分](https://juejin.cn/post/7189411314396037179) | Tue Jan 17 2023 12:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    简单三步完成 Rate 爱心评分，只需要一丢丢的 HTML + JS，再堆「亿丢丢」CSS，搞定收工，so easy~ 
+    </details> 
+
+- 🎡 [最强Markdown编辑器Typora，基于picgo和阿里云OSS图床教程](https://juejin.cn/post/7189394167737352250) | Mon Jan 16 2023 11:28 PM 
+    <details><summary>展开描述 ...</summary> 
+    背景 无论技术博客，还是导出PDF文件，Markdown格式越来越流行了。而目前本地Markdown编辑器最好使的莫过于Typora了。本人所有的文章编写几乎都在使用Typora，所有特意购买了付费版 
+    </details> 
+
+- 🕯 [Go语言进阶之并发编程 ｜ 青训营笔记](https://juejin.cn/post/7189314053955649573) | Mon Jan 16 2023 6:14 PM 
     <details><summary>展开描述 ...</summary> 
     这是我参与「第五届青训营 」伴学笔记创作活动的第 2 天 并发编程 并发与并行的区别 协程Goroutine 
     </details> 
 
-- 🎡 [【云原生】k8s 一键部署（ansible）](https://juejin.cn/post/7189285843494764602) | Mon Jan 16 2023 4:22 PM 
+- 🚀 [我的2022](https://juejin.cn/post/7189291398779109431) | Mon Jan 16 2023 4:44 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 时光飞逝，光阴荏苒，2022不知不觉已结束。回想这一年里发生的事情，有辛酸不易，有困难重重，也有雨过天晴。简单总结下我的2022，无论过往如何终将逝去，愿我们在2023越来越好！ 
+    </details> 
+
+- 💪 [【云原生】k8s 一键部署（ansible）](https://juejin.cn/post/7189285843494764602) | Mon Jan 16 2023 4:22 PM 
     <details><summary>展开描述 ...</summary> 
     一、概述 前面我写了关于k8s环境部署的几篇文章，k8s部署还是比较麻烦的，所以是有必要考虑一键部署的方案，这里借助ansible playbook来实现k8s环境的一键部署，实现快速部署的目的。关于 
-    </details> 
-
-- 🕯 [组件封装 | 青训营笔记](https://juejin.cn/post/7189280536873926715) | Mon Jan 16 2023 4:00 PM 
-    <details><summary>展开描述 ...</summary> 
-    在当前前端框架以及各种组件库盛行的时代，从我学习前端到现阶段，像一些轮播图、日历等组件都是直接去使用UI组件库，学习Vue的时候用的Vant、ElementUI，学习React的时候使用Antd等组件 
-    </details> 
-
-- 🚀 [《数据结构与算法之美》学习笔记 Day 1](https://juejin.cn/post/7189280110594228284) | Mon Jan 16 2023 3:58 PM 
-    <details><summary>展开描述 ...</summary> 
-    数组的特点 数组是线性表，用一块连续的内存存一些相同类型的数据。 线性表意思是这个数据结构只有前后两个方向，所以树，图等这类不属于线性表。链表，队列，栈等也是线性表。和数组经常一块说的就是链表，链表的 
-    </details> 
-
-- 💪 [数据结构与算法之树（六）](https://juejin.cn/post/7189273374697701434) | Mon Jan 16 2023 3:33 PM 
-    <details><summary>展开描述 ...</summary> 
-    大家伙，我是云牧，继续来更新数据结构与算法，今天要说的是树，分为普通树和二叉树，前端工作中常见的树包括：DOM树、级联选择、树形控件。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
