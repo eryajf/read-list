@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Elasticsearch：通过例子快速入门](https://juejin.cn/post/7189539275770167356) | Tue Jan 17 2023 8:45 AM 
+- 🤗 [阿里云张建锋：核心云产品全面 Serverless 化](https://juejin.cn/post/7189558904450187324) | Tue Jan 17 2023 10:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    11 月 3 日，2022 杭州·云栖大会上，阿里云智能总裁张建锋表示，以云为核心的新型计算体系正在形成，软件研发范式正在发生新的变革，Serverless 是其中最重要的趋势之一，阿里云将坚定推进核 
+    </details> 
+
+- 🎡 [KubeVela 再升级：交付管理一体化的云原生应用平台](https://juejin.cn/post/7189551916450316345) | Tue Jan 17 2023 9:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    11月3日，2022 杭州 · 云栖大会上，阿里云智能云原生应用平台总经理丁宇宣布：KubeVela 面向四大核心方向能力升级，打造交付管理一体化的云原生应用平台。 
+    </details> 
+
+- 🕯 [Elasticsearch：通过例子快速入门](https://juejin.cn/post/7189539275770167356) | Tue Jan 17 2023 8:45 AM 
     <details><summary>展开描述 ...</summary> 
     Elasticsearch 是业界最流行的开源企业搜索引擎，应用广泛。 在我们的手机里的 App 背后的搜索引擎好多都是 Elasticsearch，比如我们熟知的抖音，滴滴，美团，携程，点评，银行  
     </details> 
 
-- 🎡 [Nuxt3 常用插件集成方案](https://juejin.cn/post/7189535112340439101) | Tue Jan 17 2023 8:29 AM 
+- 🚀 [Nuxt3 常用插件集成方案](https://juejin.cn/post/7189535112340439101) | Tue Jan 17 2023 8:29 AM 
     <details><summary>展开描述 ...</summary> 
     使用 Nuxt 3 构建您的下一个应用，体验混合渲染、强大的数据获取和新功能。 Nuxt 3 是一个开源框架，使Web 开发变得简单而强大。ElementPlus、vant、pinia、nuxt跨域 
     </details> 
 
-- 🕯 [要命！我篡改了系统命令惊现事故，竟要扣我年终奖-Golang-cobra](https://juejin.cn/post/7189532164491313210) | Tue Jan 17 2023 8:17 AM 
+- 💪 [要命！我篡改了系统命令惊现事故，竟要扣我年终奖-Golang-cobra](https://juejin.cn/post/7189532164491313210) | Tue Jan 17 2023 8:17 AM 
     <details><summary>展开描述 ...</summary> 
     打工还是要打工的。。我最后也没发出去。 紧急处理以后，现在写复盘，大家随我看看我到底是在学习哪些内容 
-    </details> 
-
-- 🚀 [JavaScript中的原型链](https://juejin.cn/post/7189531956341080124) | Tue Jan 17 2023 8:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    概述 JavaScript 是 Web 的编程语言，简单易学，功能强大，但由于过于灵活设计理念，导致初学者经常一脸懵，本文要谈的是JavaScript中难点之一原型链。 原型链的前世 JavaScri 
-    </details> 
-
-- 💪 [深度 | 新兴软件研发范式崛起，云计算全面走向 Serverless 化](https://juejin.cn/post/7189528274384388157) | Tue Jan 17 2023 8:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    11 月 3 日，2022 杭州·云栖大会上，阿里云智能总裁张建锋表示，以云为核心的新型计算体系正在形成，软件研发范式正在发生新的变革，Serverless 是其中最重要的趋势之一，阿里云将坚定推进核 
     </details> 
 <!-- juejin:END -->
 ### 少数派
