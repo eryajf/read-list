@@ -233,29 +233,29 @@
 ### 运维咖啡吧
 
 <!-- ops-coffee:START -->
-- 👺 [使用Django Cache引发的Bug处理](https://blog.ops-coffee.cn/s/U0yPjGAhKnfqYqVWQd6ZSQ) | Fri Jan 13 2023 11:53 AM 
+- 👺 [运维自动化之作业系统分享](https://blog.ops-coffee.cn/s/fGshXWUaTRv0oHIMBKSn1Q) | Tue Jan 17 2023 2:04 PM 
+    <details><summary>展开描述 ...</summary> 
+    介绍下为什么会有作业系统以及作业系统究竟是做什么的有什么用 
+    </details> 
+
+- 💯 [使用Django Cache引发的Bug处理](https://blog.ops-coffee.cn/s/U0yPjGAhKnfqYqVWQd6ZSQ) | Fri Jan 13 2023 11:53 AM 
     <details><summary>展开描述 ...</summary> 
     这是一个潜藏了2年的BUG 
     </details> 
 
-- 💯 [游记 | 自驾华浪线，看浙西美景](https://blog.ops-coffee.cn/r/hualangxian-huihanggudao-zhexitianlu) | Tue Jan 10 2023 3:06 PM 
+- 🚦 [游记 | 自驾华浪线，看浙西美景](https://blog.ops-coffee.cn/r/hualangxian-huihanggudao-zhexitianlu) | Tue Jan 10 2023 3:06 PM 
     <details><summary>展开描述 ...</summary> 
     2023年的旅程开始了 
     </details> 
 
-- 🚦 [2022，使用房车这一年](https://blog.ops-coffee.cn/s/c4UPSpHCGqKsONeotn3LLw) | Tue Jan 03 2023 10:21 PM 
+- 👨‍🏫 [2022，使用房车这一年](https://blog.ops-coffee.cn/s/c4UPSpHCGqKsONeotn3LLw) | Tue Jan 03 2023 10:21 PM 
     <details><summary>展开描述 ...</summary> 
     RV80房车使用一整年，酸甜苦辣个中滋味 
     </details> 
 
-- 👨‍🏫 [长三角周边徒步线路简介](https://blog.ops-coffee.cn/o/chang-san-jiao-tu-bu-xian-lu) | Mon Dec 12 2022 12:29 PM 
+- 🌮 [长三角周边徒步线路简介](https://blog.ops-coffee.cn/o/chang-san-jiao-tu-bu-xian-lu) | Mon Dec 12 2022 12:29 PM 
     <details><summary>展开描述 ...</summary> 
     长三角周边徒步线路简介 
-    </details> 
-
-- 🌮 [多云监控告警系统的优势](https://blog.ops-coffee.cn/s/XTXR-1FBKf2olZQQsesNVg) | Sat Nov 12 2022 12:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    基于多云构建的监控告警系统究竟有什么意义和优势呢 
     </details> 
 <!-- ops-coffee:END -->
 ### 四火的唠叨
