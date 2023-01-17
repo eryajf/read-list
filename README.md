@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [深度 | 新兴软件研发范式崛起，云计算全面走向 Serverless 化](https://juejin.cn/post/7189528274384388157) | Tue Jan 17 2023 8:02 AM 
+- 🤗 [Elasticsearch：通过例子快速入门](https://juejin.cn/post/7189539275770167356) | Tue Jan 17 2023 8:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    Elasticsearch 是业界最流行的开源企业搜索引擎，应用广泛。 在我们的手机里的 App 背后的搜索引擎好多都是 Elasticsearch，比如我们熟知的抖音，滴滴，美团，携程，点评，银行  
+    </details> 
+
+- 🎡 [Nuxt3 常用插件集成方案](https://juejin.cn/post/7189535112340439101) | Tue Jan 17 2023 8:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    使用 Nuxt 3 构建您的下一个应用，体验混合渲染、强大的数据获取和新功能。 Nuxt 3 是一个开源框架，使Web 开发变得简单而强大。ElementPlus、vant、pinia、nuxt跨域 
+    </details> 
+
+- 🕯 [要命！我篡改了系统命令惊现事故，竟要扣我年终奖-Golang-cobra](https://juejin.cn/post/7189532164491313210) | Tue Jan 17 2023 8:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    打工还是要打工的。。我最后也没发出去。 紧急处理以后，现在写复盘，大家随我看看我到底是在学习哪些内容 
+    </details> 
+
+- 🚀 [JavaScript中的原型链](https://juejin.cn/post/7189531956341080124) | Tue Jan 17 2023 8:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    概述 JavaScript 是 Web 的编程语言，简单易学，功能强大，但由于过于灵活设计理念，导致初学者经常一脸懵，本文要谈的是JavaScript中难点之一原型链。 原型链的前世 JavaScri 
+    </details> 
+
+- 💪 [深度 | 新兴软件研发范式崛起，云计算全面走向 Serverless 化](https://juejin.cn/post/7189528274384388157) | Tue Jan 17 2023 8:02 AM 
     <details><summary>展开描述 ...</summary> 
     11 月 3 日，2022 杭州·云栖大会上，阿里云智能总裁张建锋表示，以云为核心的新型计算体系正在形成，软件研发范式正在发生新的变革，Serverless 是其中最重要的趋势之一，阿里云将坚定推进核 
-    </details> 
-
-- 🎡 [【后端专场 学习资料二】第五届字节跳动青训营](https://juejin.cn/post/7189525739836801085) | Tue Jan 17 2023 7:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    第五届字节跳动青训营讲师非常用心给大家整理了课前、中、后的学习内容，同学们自我评估，选择性查漏补缺，便于大家更好的跟上讲师们的节奏，祝大家学习愉快，多多提问交流～ 
-    </details> 
-
-- 🕯 [去年裸辞全职做开源后，趁快过年说说这一年的经历](https://juejin.cn/post/7189522702300872760) | Tue Jan 17 2023 7:40 AM 
-    <details><summary>展开描述 ...</summary> 
-    刚裸辞全职搞开源时分享过一次，当时收到了很多网络友人们的鼓励和建议，当然也有不看好，很难挣到钱，经过一年多的实践，证明了他们说的是对的哈哈。 
-    </details> 
-
-- 🚀 [【案例分享】如何利用京东云建设高可用业务架构](https://juejin.cn/post/7189516108313919549) | Tue Jan 17 2023 7:15 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文以2022年一个实际项目为基础，来演示在京东云上构建高可用业务的整个过程。公有云及私有云客户可通过使用京东云的弹性IAAS、PAAS服务，创建高可用、高弹性、高可扩展、高 
-    </details> 
-
-- 💪 [抖音 Android 基础技术揭秘火热报名中丨字节跳动技术沙龙第12期](https://juejin.cn/post/7189513657011667005) | Tue Jan 17 2023 7:05 AM 
-    <details><summary>展开描述 ...</summary> 
-    2 月 4 日，『抖音 Android 基础技术大揭秘』沙龙第二期重磅来袭，用一场实践驱动的技术分享开启你的新年技术之旅。除了沉浸式技术分享，我们还为参会者准备了精美的礼品福利抽奖，千万别错过！ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
