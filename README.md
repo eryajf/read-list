@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [我的 2022 年总结](https://www.v2ex.com/t/909602#reply1) | Tue Jan 17 2023 4:00 PM
-- 🤗 [freeswitch 和 MRCP 协议有偿求助](https://www.v2ex.com/t/909597#reply0) | Tue Jan 17 2023 3:26 PM
-- 🎭 [为什么很多 OpenID 框架都要把登录和权限管理分成两个服务？例如天天在 V 站置顶烦人的广告的那个，也是把登录和权限管理拆成两个项目。这两个总是同时存在的，做在一起不好吗？](https://www.v2ex.com/t/909576#reply6) | Tue Jan 17 2023 1:31 PM
-- 🥷 [公司人手不够，需要有人兼做产品经理，程序员还是 UI 合适？](https://www.v2ex.com/t/909553#reply17) | Tue Jan 17 2023 10:27 AM
-- 🐵 [pg 的 replication 多久提交一次数据？ slave 节点在不同国家，延迟高，会影响数据库性能吗？这个功能要开端口，我的 pg 在容器中， docker 会导致 ufw IP 白名单失效，如何安全暴露端口给 slave 节点？](https://www.v2ex.com/t/909550#reply0) | Tue Jan 17 2023 10:20 AM<!-- v2ex:END -->
+- 🥸 [请问现在开发桌面应用或者系统有哪些方案，都有哪些优缺点？](https://www.v2ex.com/t/909610#reply0) | Tue Jan 17 2023 6:05 PM
+- 🤗 [我的 2022 年总结](https://www.v2ex.com/t/909602#reply1) | Tue Jan 17 2023 4:00 PM
+- 🎭 [freeswitch 和 MRCP 协议有偿求助](https://www.v2ex.com/t/909597#reply0) | Tue Jan 17 2023 3:26 PM
+- 🥷 [为什么很多 OpenID 框架都要把登录和权限管理分成两个服务？例如天天在 V 站置顶烦人的广告的那个，也是把登录和权限管理拆成两个项目。这两个总是同时存在的，做在一起不好吗？](https://www.v2ex.com/t/909576#reply6) | Tue Jan 17 2023 1:31 PM
+- 🐵 [公司人手不够，需要有人兼做产品经理，程序员还是 UI 合适？](https://www.v2ex.com/t/909553#reply17) | Tue Jan 17 2023 10:27 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
