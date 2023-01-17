@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [还在考虑要不要加入Web3？Web3求职全攻略](https://juejin.cn/post/7189499500925288504) | Tue Jan 17 2023 6:10 AM 
+- 🤗 [GitHub Actions 自动部署前端 Vue 项目](https://juejin.cn/post/7189510686760779833) | Tue Jan 17 2023 6:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    一. 概述 作为前端技术人员，如果要部署一个项目大体要经过：代码开发、代码推送、打包dist文件、scp到服务器、服务器nginx配置、完成部署这几个流程，现实中我们希望项目部署尽可能自动且简单，因此 
+    </details> 
+
+- 🎡 [使用 YonBuilder 进行报表分析 - 扩展篇](https://juejin.cn/post/7189508843653562423) | Tue Jan 17 2023 6:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    在上一篇文章中，我们讲解了如何构建简单的报表以及交叉表的基础配置。本篇文章通过对主子表、树型表以及数据穿透的创建来对 YonBuilder 的报表配置进行扩展介绍。 创建报表 首先，要先创建一个员工信 
+    </details> 
+
+- 🕯 [还在考虑要不要加入Web3？Web3求职全攻略](https://juejin.cn/post/7189499500925288504) | Tue Jan 17 2023 6:10 AM 
     <details><summary>展开描述 ...</summary> 
     因为在群里经常有人问我 Web3 工作相关的事情，我回答了一遍又一遍，可每次有新群友加入，又会把这个问题重新问我一遍。 所以我决定帮群友写一篇文章，这样可以帮助后面新入群的朋友指点迷津，同时又避免了重 
     </details> 
 
-- 🎡 [【Dubbo3 终极特性】「云原生三中心架构」带你探索 Dubbo3 体系下的配置中心和元数据中心、注册中心的原理及开发实战（中）](https://juejin.cn/post/7189477330979389499) | Tue Jan 17 2023 4:46 AM 
+- 🚀 [声网许振明：RTC 场景 UHD 视频应用和探索](https://juejin.cn/post/7189498069228978232) | Tue Jan 17 2023 6:05 AM 
     <details><summary>展开描述 ...</summary> 
-    承接上文 通过之前的【Dubbo3终极特性】「云原生三中心架构」带你探索 Dubbo3 体系下的配置中心和元数据中心、注册中心的原理及开发实战（上），让我们对Dubbo3的三中心架构体系有了一定的认识 
+    随着 RTC 技术的发展和应用，越来越多的场景都需要接入 RTC 的能力。尤其是随着编码技术、设备能力的迭代，应用场景对视频分辨率、帧率、色彩还原提出了更高的要求。 
     </details> 
 
-- 🕯 [Android自定义ViewGroup嵌套与交互实战，幕布全屏滚动效果](https://juejin.cn/post/7189473736729788473) | Tue Jan 17 2023 4:31 AM 
+- 💪 [云原生周刊 | 使用 ChatGPT 协助解决 Prometheus 告警](https://juejin.cn/post/7189494368594559034) | Tue Jan 17 2023 5:51 AM 
     <details><summary>展开描述 ...</summary> 
-    自定义 ViewGroup 全屏选中效果 前言 事情是这个样子的，前几天产品丢给我一个视频，你觉得这个效果怎么样，我们的 App 也做一个这个效果吧！ 我当时的反应： 开什么玩笑！就没见过这么玩的 
-    </details> 
-
-- 🚀 [【青听第1期】1月19日晚 Nice 兔 meet u 写码抽奖直播预约开始啦](https://juejin.cn/post/7189468004723146809) | Tue Jan 17 2023 4:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    1月19日晚19:30，来「青听」直播间，一起来看从抽奖代码开始写起的抽奖活动，在线 code review，体验互联网公司“码味十足”的年会氛围吧🐶 
-    </details> 
-
-- 💪 [qiankun 引入两种子应用 -- react &amp;&amp; vue + vite](https://juejin.cn/post/7189465266932154425) | Tue Jan 17 2023 3:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文旨在教你如何使用 qiankun 搭建一个qiankun-demo，主应用为React 两个子应用分别是React &amp;&amp; vue + vite 
+    ## 开源项目推荐 ### [kubernetes-chatgpt-bot]&lpar;https://github.com/robusta-dev/kubernetes-chatgpt-bot&rpar; 这是一 
     </details> 
 <!-- juejin:END -->
 ### 少数派
