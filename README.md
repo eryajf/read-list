@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [CSS 实例系列 - 03 - Rate 爱心评分](https://juejin.cn/post/7189411314396037179) | Tue Jan 17 2023 12:30 AM 
+- 🤗 [Java7到Java17, Switch语句进化史](https://juejin.cn/post/7189442852684824633) | Tue Jan 17 2023 2:30 AM 
     <details><summary>展开描述 ...</summary> 
-    简单三步完成 Rate 爱心评分，只需要一丢丢的 HTML + JS，再堆「亿丢丢」CSS，搞定收工，so easy~ 
+    前言 自 Java 7 以来，java 中的 switch 语句经历了快速发展。因此，在本文中，我们将通过示例讨论 switch 语句从 java 7 到 java 17 的演变或变化。 Java 7 
     </details> 
 
-- 🎡 [最强Markdown编辑器Typora，基于picgo和阿里云OSS图床教程](https://juejin.cn/post/7189394167737352250) | Mon Jan 16 2023 11:28 PM 
+- 🎡 [网易云音乐数据全链路基线治理实践](https://juejin.cn/post/7189442100344127549) | Tue Jan 17 2023 2:27 AM 
     <details><summary>展开描述 ...</summary> 
-    背景 无论技术博客，还是导出PDF文件，Markdown格式越来越流行了。而目前本地Markdown编辑器最好使的莫过于Typora了。本人所有的文章编写几乎都在使用Typora，所有特意购买了付费版 
+    在大数据开发领域，大家都会被一个问题困扰：调度任务延迟，然后被老板、被业务“灵魂拷问”。本文将从问题挑战、目标衡量、行动方案、成果展示、后续规划五个方面展开，详述网易云音乐在全链路基线治理的实践。 
     </details> 
 
-- 🕯 [Go语言进阶之并发编程 ｜ 青训营笔记](https://juejin.cn/post/7189314053955649573) | Mon Jan 16 2023 6:14 PM 
+- 🕯 [【AI】用 GPT 帮小兔子画肖像](https://juejin.cn/post/7189439353402163255) | Tue Jan 17 2023 2:17 AM 
     <details><summary>展开描述 ...</summary> 
-    这是我参与「第五届青训营 」伴学笔记创作活动的第 2 天 并发编程 并发与并行的区别 协程Goroutine 
+    继帮小兔子完成了作一首诗词，写一篇文章之后，小兔子又有新的想法了；小兔子说，新年到了，她想要一张自画像，但是她自己又画不来，拜托博主用 GPT 帮她画一个；人美心善的博主当然是欣然答应了； 
     </details> 
 
-- 🚀 [我的2022](https://juejin.cn/post/7189291398779109431) | Mon Jan 16 2023 4:44 PM 
+- 🚀 [【综合笔试题】难度 2/5，简单且经典面试题](https://juejin.cn/post/7189437538849783869) | Tue Jan 17 2023 2:10 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 时光飞逝，光阴荏苒，2022不知不觉已结束。回想这一年里发生的事情，有辛酸不易，有困难重重，也有雨过天晴。简单总结下我的2022，无论过往如何终将逝去，愿我们在2023越来越好！ 
+    题目描述 这是 LeetCode 上的 870. 优势洗牌 ，难度为 中等。 Tag : 「红黑树」、「哈希表」、「排序」、「双指针」、「贪心」 给定两个大小相等的数组 nums1 和 nums2，n 
     </details> 
 
-- 💪 [【云原生】k8s 一键部署（ansible）](https://juejin.cn/post/7189285843494764602) | Mon Jan 16 2023 4:22 PM 
+- 💪 [【新晋开源项目】open-capacity-platform 微服务能力开放平台加入 Dromara 开源社区](https://juejin.cn/post/7189431793790451773) | Tue Jan 17 2023 1:48 AM 
     <details><summary>展开描述 ...</summary> 
-    一、概述 前面我写了关于k8s环境部署的几篇文章，k8s部署还是比较麻烦的，所以是有必要考虑一键部署的方案，这里借助ansible playbook来实现k8s环境的一键部署，实现快速部署的目的。关于 
+    ocp是基于layui+springcloud的企业级微服务框架&lpar;用户权限管理，配置中心管理，应用管理，....&rpar;,其核心的设计目标是分离前后端，快速开发部署，学习简单，功能强大，提供快速接入核心接口 
     </details> 
 <!-- juejin:END -->
 ### 少数派
