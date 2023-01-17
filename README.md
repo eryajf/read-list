@@ -332,9 +332,9 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [公司人手不够，需要有人兼做产品经理，程序员还是 UI 合适？](https://www.v2ex.com/t/909553#reply8) | Tue Jan 17 2023 10:27 AM
+- 🥸 [公司人手不够，需要有人兼做产品经理，程序员还是 UI 合适？](https://www.v2ex.com/t/909553#reply9) | Tue Jan 17 2023 10:27 AM
 - 🤗 [pg 的 replication 多久提交一次数据？ slave 节点在不同国家，延迟高，会影响数据库性能吗？这个功能要开端口，我的 pg 在容器中， docker 会导致 ufw IP 白名单失效，如何安全暴露端口给 slave 节点？](https://www.v2ex.com/t/909550#reply0) | Tue Jan 17 2023 10:20 AM
-- 🎭 [为啥美剧里这么多黄段子？感觉很低俗](https://www.v2ex.com/t/909547#reply12) | Tue Jan 17 2023 10:03 AM
+- 🎭 [为啥美剧里这么多黄段子？感觉很低俗](https://www.v2ex.com/t/909547#reply33) | Tue Jan 17 2023 10:03 AM
 - 🥷 [作为一个独立开发者，你常用到哪些 SaaS 产品呢？](https://www.v2ex.com/t/909535#reply1) | Tue Jan 17 2023 9:33 AM
 - 🐵 [今天被 Debian11 给正的没脾气了，求大佬指点下。](https://www.v2ex.com/t/909534#reply0) | Tue Jan 17 2023 9:33 AM<!-- v2ex:END -->
 
