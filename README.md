@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Java7到Java17, Switch语句进化史](https://juejin.cn/post/7189442852684824633) | Tue Jan 17 2023 2:30 AM 
+- 🤗 [虚拟化技术浅析第二弹之初识Kubernetes](https://juejin.cn/post/7189451569593581623) | Tue Jan 17 2023 3:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    微服务架构起源 单体架构：可以理解为主要业务逻辑模块（我们编写的代码模块，不包括独立的中间件）运行在一个进程中的应用，最典型的是运行在一个Tomcat容器中，位于一个进程里 
+    </details> 
+
+- 🎡 [掰掰 Lottie](https://juejin.cn/post/7189445206054273083) | Tue Jan 17 2023 2:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    之前做运营活动的时候，写了一个比较有趣的打开盲盒的交互动画。怎么实现的呢？由此聊聊前端的动画方案，掰一掰Lottie！ 
+    </details> 
+
+- 🕯 [Java7到Java17, Switch语句进化史](https://juejin.cn/post/7189442852684824633) | Tue Jan 17 2023 2:30 AM 
     <details><summary>展开描述 ...</summary> 
     前言 自 Java 7 以来，java 中的 switch 语句经历了快速发展。因此，在本文中，我们将通过示例讨论 switch 语句从 java 7 到 java 17 的演变或变化。 Java 7 
     </details> 
 
-- 🎡 [网易云音乐数据全链路基线治理实践](https://juejin.cn/post/7189442100344127549) | Tue Jan 17 2023 2:27 AM 
+- 🚀 [网易云音乐数据全链路基线治理实践](https://juejin.cn/post/7189442100344127549) | Tue Jan 17 2023 2:27 AM 
     <details><summary>展开描述 ...</summary> 
     在大数据开发领域，大家都会被一个问题困扰：调度任务延迟，然后被老板、被业务“灵魂拷问”。本文将从问题挑战、目标衡量、行动方案、成果展示、后续规划五个方面展开，详述网易云音乐在全链路基线治理的实践。 
     </details> 
 
-- 🕯 [【AI】用 GPT 帮小兔子画肖像](https://juejin.cn/post/7189439353402163255) | Tue Jan 17 2023 2:17 AM 
+- 💪 [【AI】用 GPT 帮小兔子画肖像](https://juejin.cn/post/7189439353402163255) | Tue Jan 17 2023 2:17 AM 
     <details><summary>展开描述 ...</summary> 
     继帮小兔子完成了作一首诗词，写一篇文章之后，小兔子又有新的想法了；小兔子说，新年到了，她想要一张自画像，但是她自己又画不来，拜托博主用 GPT 帮她画一个；人美心善的博主当然是欣然答应了； 
-    </details> 
-
-- 🚀 [【综合笔试题】难度 2/5，简单且经典面试题](https://juejin.cn/post/7189437538849783869) | Tue Jan 17 2023 2:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    题目描述 这是 LeetCode 上的 870. 优势洗牌 ，难度为 中等。 Tag : 「红黑树」、「哈希表」、「排序」、「双指针」、「贪心」 给定两个大小相等的数组 nums1 和 nums2，n 
-    </details> 
-
-- 💪 [【新晋开源项目】open-capacity-platform 微服务能力开放平台加入 Dromara 开源社区](https://juejin.cn/post/7189431793790451773) | Tue Jan 17 2023 1:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    ocp是基于layui+springcloud的企业级微服务框架&lpar;用户权限管理，配置中心管理，应用管理，....&rpar;,其核心的设计目标是分离前后端，快速开发部署，学习简单，功能强大，提供快速接入核心接口 
     </details> 
 <!-- juejin:END -->
 ### 少数派
