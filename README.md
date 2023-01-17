@@ -316,14 +316,14 @@
     2023年1月16日，滴滴出行恢复新用户注册，但旗下APP依旧未在各大应用商店上架。 
     </details> 
 
-- 🪄 [TikTok又受挫，因无法轻易拒绝Cookie在法国被罚500万欧元](https://www.freebuf.com/news/355331.html) | Mon Jan 16 2023 3:36 AM 
+- 🪄 [CIS 2022 网络安全创新大会公开课回顾 | 上海主会场](https://www.freebuf.com/articles/355391.html) | Mon Jan 16 2023 8:22 AM 
     <details><summary>展开描述 ...</summary> 
-    法国国家信息和自由委员会声称，Tiktok没有提供直接的拒绝Cookie选项，平台也未能充分告知用户不同 Cookie 的使用目的。 
+    CIS 2022网络安全创新大会上海主会场精彩议题回顾将在FreeBuf公开课上线啦。 
     </details> 
 
-- 💻 [工业和信息化部等十六部门关于促进数据安全产业发展的指导意见](https://www.freebuf.com/news/355323.html) | Mon Jan 16 2023 3:12 AM 
+- 💻 [TikTok又受挫，因无法轻易拒绝Cookie在法国被罚500万欧元](https://www.freebuf.com/news/355331.html) | Mon Jan 16 2023 3:36 AM 
     <details><summary>展开描述 ...</summary> 
-    《指导意见》指出，到2025年，数据安全产业规模超过1500亿元，年复合增长率超过30%。 
+    法国国家信息和自由委员会声称，Tiktok没有提供直接的拒绝Cookie选项，平台也未能充分告知用户不同 Cookie 的使用目的。 
     </details> 
 <!-- freebuf:END -->
 
