@@ -333,7 +333,7 @@
 
 <!-- v2ex:START -->
 - 🥸 [小程序差一点合作成功](https://www.v2ex.com/t/909803#reply5) | Wed Jan 18 2023 5:12 PM
-- 🤗 [Windows 有没有路径防护的软件？](https://www.v2ex.com/t/909795#reply6) | Wed Jan 18 2023 2:41 PM
+- 🤗 [Windows 有没有路径防护的软件？](https://www.v2ex.com/t/909795#reply7) | Wed Jan 18 2023 2:41 PM
 - 🎭 [为什么 EFF 制作的扩展 HTTPS Everywhere 一个这么简单的判断要用到 WebAssembly？](https://www.v2ex.com/t/909790#reply3) | Wed Jan 18 2023 2:35 PM
 - 🥷 [各位 Java 大佬，看看这个简历](https://www.v2ex.com/t/909782#reply4) | Wed Jan 18 2023 1:56 PM
 - 🐵 [关于应届生跨行工作的问题，想问问各位前辈](https://www.v2ex.com/t/909775#reply7) | Wed Jan 18 2023 1:02 PM<!-- v2ex:END -->
