@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [关于应届生跨行工作的问题，想问问各位前辈](https://www.v2ex.com/t/909775#reply1) | Wed Jan 18 2023 1:02 PM
-- 🤗 [为什么 Windows Server 下用非 Administrator 的管理员账号登录很多软件都必须要手动右键管理员权限运行才能正常工作？](https://www.v2ex.com/t/909774#reply0) | Wed Jan 18 2023 12:50 PM
-- 🎭 [问大家一个关于使用 K8s 的 Service 做长连接负载均衡的问题](https://www.v2ex.com/t/909772#reply3) | Wed Jan 18 2023 12:41 PM
-- 🥷 [关于在多台服务器对同一张表进行查询的过程中中遇到的错误](https://www.v2ex.com/t/909762#reply4) | Wed Jan 18 2023 10:14 AM
-- 🐵 [如何在自建 NAS 分享自己拍的全景视频或照片且有重力感应且不需要另装 APP？](https://www.v2ex.com/t/909758#reply2) | Wed Jan 18 2023 9:54 AM<!-- v2ex:END -->
+- 🥸 [各位 Java 大佬，看看这个简历](https://www.v2ex.com/t/909782#reply3) | Wed Jan 18 2023 1:56 PM
+- 🤗 [关于应届生跨行工作的问题，想问问各位前辈](https://www.v2ex.com/t/909775#reply2) | Wed Jan 18 2023 1:02 PM
+- 🎭 [为什么 Windows Server 下用非 Administrator 的管理员账号登录很多软件都必须要手动右键管理员权限运行才能正常工作？](https://www.v2ex.com/t/909774#reply3) | Wed Jan 18 2023 12:50 PM
+- 🥷 [问大家一个关于使用 K8s 的 Service 做长连接负载均衡的问题](https://www.v2ex.com/t/909772#reply9) | Wed Jan 18 2023 12:41 PM
+- 🐵 [关于在多台服务器对同一张表进行查询的过程中中遇到的错误](https://www.v2ex.com/t/909762#reply5) | Wed Jan 18 2023 10:14 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
