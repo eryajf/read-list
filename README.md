@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [2023年网络安全趋势预测TOP 20 | FreeBuf年度盘点](https://www.freebuf.com/news/355556.html) | Tue Jan 17 2023 10:25 AM 
+- 🦄 [日产汽车北美数据泄露，系第三方供应商暴露](https://www.freebuf.com/news/355583.html) | Wed Jan 18 2023 3:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    泄露的客户数据包括全名、出生日期和NMAC账号（日产金融账户）。 
+    </details> 
+
+- 🦄 [攻击者可滥用 GitHub 代码空间传递恶意软件](https://www.freebuf.com/news/355582.html) | Wed Jan 18 2023 3:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    好消息是，研究人员设计的攻击技术尚未在野外攻击中得到应用。 
+    </details> 
+
+- 🦅 [FreeBuf 早报 | Avast 发布免费勒索软件解密器；亚马逊T95电视盒隐藏恶意软件](https://www.freebuf.com/articles/355562.html) | Tue Jan 17 2023 11:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    安全公司 Avast 发布了BianLian勒索软件的免费解密器，允许恶意软件的受害者恢复锁定的文件。 
+    </details> 
+
+- 🪄 [2023年网络安全趋势预测TOP 20 | FreeBuf年度盘点](https://www.freebuf.com/news/355556.html) | Tue Jan 17 2023 10:25 AM 
     <details><summary>展开描述 ...</summary> 
     2023 年网络安全仍将是首要考虑的一年，本文整理了多家权威机构及网安行业预测，都是网安人关心的问题。 
     </details> 
 
-- 🦄 [亚马逊销售的 Android 电视盒，正在悄悄窃取你的数据](https://www.freebuf.com/news/355537.html) | Tue Jan 17 2023 8:00 AM 
+- 💻 [亚马逊销售的 Android 电视盒，正在悄悄窃取你的数据](https://www.freebuf.com/news/355537.html) | Tue Jan 17 2023 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     专家发现，在亚马逊和全球速卖通上出售的 T95 Android 电视盒预装了复杂的恶意软件。 
-    </details> 
-
-- 🦅 [70% 的应用程序发布 5 年后，至少包含一个漏洞](https://www.freebuf.com/news/355512.html) | Tue Jan 17 2023 6:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    应用程序发布五年后，至少 70% 会包含一个安全漏洞。 
-    </details> 
-
-- 🪄 [最新报告：Java、.NET安全性最低？](https://www.freebuf.com/news/355507.html) | Tue Jan 17 2023 6:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    超过四分之三使用 Java 和 .NET 编写的应用程序至少存在一个以上的 OWASP Top 10 漏洞。 
-    </details> 
-
-- 💻 [2022年FreeBuf年度作者Top 10排行榜出炉](https://www.freebuf.com/fevents/355427.html) | Mon Jan 16 2023 9:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    感谢大家2022年对FreeBuf的认可和支持，来年请继续多多支持，我们一起打造一流的网络安全门户网站。 
     </details> 
 <!-- freebuf:END -->
 
