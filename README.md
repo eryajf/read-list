@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [win32com操作word 第三集：Range精讲&lpar;一&rpar;](https://juejin.cn/post/7189866353514577979) | Wed Jan 18 2023 5:55 AM 
+- 🤗 [简述JavaScript异步函数 async/await](https://juejin.cn/post/7189919858195169340) | Wed Jan 18 2023 9:21 AM 
     <details><summary>展开描述 ...</summary> 
-    这是本节课要讲的接口，它是Document的方法，但其本身也是一个独立的接口，方法和属性共计183个。Range这个接口简直是word接口中的劳模。它表示资源选中或插入点 
+    ES7 引入的 async/await 是对 JavaScript 异步编程的一种改进，它提供了使用同步样式代码异步访问资源的选项，而不会阻塞主线程。但是，要很好地使用它有点棘手。 
     </details> 
 
-- 🎡 [GitHub Actions 自动部署前端 Vue 项目](https://juejin.cn/post/7189860636661121084) | Wed Jan 18 2023 5:33 AM 
+- 🎡 [简单聊聊因果推断](https://juejin.cn/post/7189919112615690297) | Wed Jan 18 2023 9:18 AM 
     <details><summary>展开描述 ...</summary> 
-    一. 概述 作为前端技术人员，如果要部署一个项目大体要经过：代码开发、代码推送、打包dist文件、scp到服务器、服务器nginx配置、完成部署这几个流程，现实中我们希望项目部署尽可能自动且简单，因此 
+    简单聊聊因果推断这个事。 Thoughtworks 曾与一家国际知名药企合作，解决患者用药依从性低&lpar;从药物治疗的角度，药物依从性是指患 者对药物治疗方案的执行程度&rpar;的问题。 如果仅着眼于患者本身，其不 
     </details> 
 
-- 🕯 [Nest实战 - 员工模块](https://juejin.cn/post/7189823020058279996) | Wed Jan 18 2023 3:05 AM 
+- 🕯 [微前端](https://juejin.cn/post/7189917251141632056) | Wed Jan 18 2023 9:12 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 本系列主要通过实现一个后台管理系统作为切入点，帮助掘友熟悉nest的开发套路 本系列作为前后端分离项目，主要讲解nest相关知识，前端项目知识一笔带过 完整的示例代码在最后 
+    什么是微前端 微前端，听这名字感觉很超前，其实已经有很多公司都已经用上了该技术，例如我的项目组也用上了，跟后端的微服务很类似，用作解耦。现在的网站开发日渐复杂，通常会有很多独立的模块组成，分成不同的业 
     </details> 
 
-- 🚀 [【年更】带你看看前端生态圈的技术趋势 state-of-css 2022 &amp; state-of-js 2022 详细解读](https://juejin.cn/post/7189817202927730746) | Wed Jan 18 2023 2:44 AM 
+- 🚀 [SpringMvc项目集成nacos、openfeign、Ribbon，仿 springcloud openfeign 实现微服务下接口调用](https://juejin.cn/post/7189881963925209146) | Wed Jan 18 2023 6:54 AM 
     <details><summary>展开描述 ...</summary> 
-    前端领域最大的周年调查 state-of-css 2022 &amp; state-of-js 2022 结果已经公布了，快来看看今年前端领域有哪些新变化吧。 
+    SpringMvc项目集成nacos、openfeign、Ribbon，仿 springcloud openfeign 实现微服务下接口调用 
     </details> 
 
-- 💪 [Flutter中key的正确使用方式](https://juejin.cn/post/7189816647891288123) | Wed Jan 18 2023 2:42 AM 
+- 💪 [请求库：fetch vs axios vs umi-request 对比分析](https://juejin.cn/post/7189879963968323621) | Wed Jan 18 2023 6:46 AM 
     <details><summary>展开描述 ...</summary> 
-    Widget中有个可选属性key，顾名思义，它是组件的标识符，当设置了key，组件更新时会根据新老组件的key是否相等来进行更新，可以提高更新效率。 
+    Fetch API、Axios、Umi-request 是前端开发日常较常用的请求方案，具体用法、优劣，接下来我们做下分析。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
