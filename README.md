@@ -667,29 +667,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [Quora：人能生出不是人的东西吗？](http://jandan.net/p/112214) | Wed Jan 18 2023 5:02 AM 
+- 🚀 [中国方面的数据显示：退休生活让老年人的脑认知水平迅速下降](http://jandan.net/p/112212) | Wed Jan 18 2023 5:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    emmmm 
+    </details> 
+
+- 🙉 [医生成功取出伤员胸中未爆榴弹](http://jandan.net/p/112220) | Wed Jan 18 2023 5:39 AM 
+    <details><summary>展开描述 ...</summary> 
+    手术顺利，伤员正在康复中 
+    </details> 
+
+- 🎉 [用户每次调用ChatGPT，OpenAI就要倒贴几美分](http://jandan.net/p/112221) | Wed Jan 18 2023 5:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    但他们昨天仍然开放了 ChatGPT API 
+    </details> 
+
+- 🐲 [Quora：人能生出不是人的东西吗？](http://jandan.net/p/112214) | Wed Jan 18 2023 5:02 AM 
     <details><summary>展开描述 ...</summary> 
     不能。 
     </details> 
 
-- 🙉 [新报告显示全球水循环出现惊人变化](http://jandan.net/p/112217) | Wed Jan 18 2023 5:01 AM 
+-  [新报告显示全球水循环出现惊人变化](http://jandan.net/p/112217) | Wed Jan 18 2023 5:01 AM 
     <details><summary>展开描述 ...</summary> 
     从全球来看，空气变得越来越热、越来越干燥 
-    </details> 
-
-- 🎉 [今日好价 0118](http://jandan.net/p/112216) | Wed Jan 18 2023 4:05 AM 
-    <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：18 
-    </details> 
-
-- 🐲 [脑雾是什么？](http://jandan.net/p/112213) | Tue Jan 17 2023 6:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    慢性脑雾十分影响患者的生活质量 
-    </details> 
-
--  [Quora：π x π 是多少](http://jandan.net/p/112206) | Tue Jan 17 2023 4:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    它是g 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
