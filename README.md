@@ -442,7 +442,7 @@
 
 
 <!-- iplaysoft:START -->
-- 🧐 [倒卖自用闲置时间到啦！出显示器 / SteamDeck / 路由器 / 游戏机等，先到先得……](https://www.iplaysoft.com/p/sell-stuff) | Tue Jan 17 2023 7:02 AM
+- 🧐 [倒卖自用闲置时间到啦！出戴尔显示器 / SteamDeck / 平板等，先到先得……](https://www.iplaysoft.com/p/sell-stuff) | Tue Jan 17 2023 7:02 AM
 - 🧑‍🏫 [Intel Unison - 英特尔免费手机电脑协同工具！无线控制手机/传文件/打电话/发短信/管理照片](https://www.iplaysoft.com/intel-unison.html) | Mon Jan 16 2023 1:55 PM
 - 🥰 [新年特惠！哔哩哔哩 B 站年度大会员 VIP 优惠 12 个月 98 元](https://www.iplaysoft.com/p/bilibili-vip) | Sat Jan 14 2023 4:20 PM
 - 💻 [网云穿 - 稳定好用的内网穿透！无需公网/实现低成本建站/外网访问内网群晖 NAS 等](https://www.iplaysoft.com/wangyunchuan.html) | Wed Jan 11 2023 4:14 PM
