@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [年末最后一个大招，新知探索家成员招募中](https://sspai.com/post/77867) | Tue Jan 17 2023 9:30 AM 
+- 👹 [派早报：Apple 推出新款 MacBook Pro 和 Mac mini 等](https://sspai.com/post/77876) | Wed Jan 18 2023 1:07 AM 
+    <details><summary>展开描述 ...</summary> 
+    暴雪中国称网易拒绝国服服务顺延、网易回应，漫威宣布两部电影国内定档等。&lt;a href=&quot;https://sspai.com/post/77876&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [年末最后一个大招，新知探索家成员招募中](https://sspai.com/post/77867) | Tue Jan 17 2023 9:30 AM 
     <details><summary>展开描述 ...</summary> 
     新知探索家 = 一份超值的权益组合 + 一种省心的购买选择 + 一套没有后顾之忧的服务&lt;a href=&quot;https://sspai.com/post/77867&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [CES 2023 小记：新科技串起的未来一天](https://sspai.com/post/77861) | Tue Jan 17 2023 7:47 AM 
+- 🤭 [CES 2023 小记：新科技串起的未来一天](https://sspai.com/post/77861) | Tue Jan 17 2023 7:47 AM 
     <details><summary>展开描述 ...</summary> 
     本届 CES 或许没有太多划时代意义的「黑科技」，但从一个个细节和场景里，我们也更能看到科技真正走进生活的价值和可能性。&lt;a href=&quot;https://sspai.com/post/77861&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [在 iPad 上编辑视频，它离「专业」更近一步：DaVinci Resolve for iPad](https://sspai.com/post/77860) | Tue Jan 17 2023 6:30 AM 
+- 🥸 [在 iPad 上编辑视频，它离「专业」更近一步：DaVinci Resolve for iPad](https://sspai.com/post/77860) | Tue Jan 17 2023 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     DaVinci Resolve for iPad 让 iPad 的专业性更近了一步，但 iPadOS 本身还有不少障碍需要克服。&lt;a href=&quot;https://sspai.com/post/77860&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [年度征文 | 来自一个准妈妈的孕期不完全记录](https://sspai.com/post/77621) | Tue Jan 17 2023 2:59 AM 
+- 🙉 [年度征文 | 来自一个准妈妈的孕期不完全记录](https://sspai.com/post/77621) | Tue Jan 17 2023 2:59 AM 
     <details><summary>展开描述 ...</summary> 
     致敬每一位母亲。也祝福新一年的自己。&lt;a href=&quot;https://sspai.com/post/77621&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派早报：PS VR2 定档，滴滴出行恢复新用户注册等](https://sspai.com/post/77855) | Tue Jan 17 2023 1:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    小宇宙发布 2022 年度播客榜单，新版本 Microsoft Defender 出现 bug，现已修复等。&lt;a href=&quot;https://sspai.com/post/77855&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
