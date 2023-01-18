@@ -682,14 +682,14 @@
     他们昨天又开放了 ChatGPT API 
     </details> 
 
-- 🐲 [Quora：人能生出不是人的东西吗？](http://jandan.net/p/112214) | Wed Jan 18 2023 5:02 AM 
+- 🐲 [今日好价 0118](http://jandan.net/p/112216) | Wed Jan 18 2023 5:10 AM 
     <details><summary>展开描述 ...</summary> 
-    不能。 
+    今日带货商品数量：18 
     </details> 
 
--  [新报告显示全球水循环出现惊人变化](http://jandan.net/p/112217) | Wed Jan 18 2023 5:01 AM 
+-  [Quora：人能生出不是人的东西吗？](http://jandan.net/p/112214) | Wed Jan 18 2023 5:02 AM 
     <details><summary>展开描述 ...</summary> 
-    从全球来看，空气变得越来越热、越来越干燥 
+    不能。 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
