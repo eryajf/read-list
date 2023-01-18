@@ -346,24 +346,24 @@
     文章最开始先给大家两条sql，请猜猜他们执行会有什么区别？ 这两条sql看似只是limit的数值不同，但是第一个执行耗时3ms，第二个执行耗时66s，相差2000多倍。 
     </details> 
 
-- 🎡 [登录校验的两种方式详解、在uniapp中设置隐私政策弹窗 | 酱酱的下午茶第156期](https://juejin.cn/post/7189829200348446777) | Wed Jan 18 2023 3:29 AM 
+- 🎡 [12月知识小报｜线上问题的抽丝剥茧与一锤定音](https://juejin.cn/post/7189830034742313015) | Wed Jan 18 2023 3:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    作者：莫癫，良贤，雨成 海恩法则是德国飞机涡轮机的发明者帕布斯·海恩提出的一个在航空界关于飞行安全的法则。 作为开发者，安全生产是我们底线，敬畏每一行代码，挖掘每一个故障背后的根因，避免再次落入同一个 
+    </details> 
+
+- 🕯 [compose快码一编--气泡升起和水滴下坠动画](https://juejin.cn/post/7189829932950749240) | Wed Jan 18 2023 3:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    原创文章，转载请联系作者 摘要 今天用compose来构建一个气泡上升粘连动画和水滴下坠动画,Github源码点击这里,欢迎大家star。原文链接🔗☞ 知识点 compose动画 贝塞尔曲线 缓动函数 
+    </details> 
+
+- 🚀 [登录校验的两种方式详解、在uniapp中设置隐私政策弹窗 | 酱酱的下午茶第156期](https://juejin.cn/post/7189829200348446777) | Wed Jan 18 2023 3:29 AM 
     <details><summary>展开描述 ...</summary> 
     【本期掘金酱的下午茶】亮点： 2023年 icon 图标的升级方案 分布式微服务系统的跨库查询/操作的解决思路（关系型数据库） 如何在uniapp中设置隐私政策弹窗 如何让 vite 完美接入 qia 
     </details> 
 
-- 🕯 [Elasticsearch：以更简单的方式编写具有逻辑条件的 Elasticsearch 查询 - query_string](https://juejin.cn/post/7189824161542307900) | Wed Jan 18 2023 3:12 AM 
+- 💪 [Elasticsearch：以更简单的方式编写具有逻辑条件的 Elasticsearch 查询 - query_string](https://juejin.cn/post/7189824161542307900) | Wed Jan 18 2023 3:12 AM 
     <details><summary>展开描述 ...</summary> 
     当涉及到诸如 NOT、AND 和 OR 之类的布尔运算时，我们通常使用带有 must、should、must_not 子句的布尔查询。 是的，bool 查询非常强大，可用于执行所有类型的高级搜索。 但 
-    </details> 
-
-- 🚀 [iOS schem 和 Universal Link 在调试时的踩坑记录](https://juejin.cn/post/7189818971443429433) | Wed Jan 18 2023 2:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    简介 scheme和Universal Link是在iOS中两种可以在网页中点击回跳到自己预定的APP的两种方式。至于这两种方式需要怎么配置，这里就不做详细的介绍了。网上的文章一搜一大堆。今天主要是说 
-    </details> 
-
-- 💪 [Android OpenCV &lpar;一&rpar; 基础API 清晰度亮度识别](https://juejin.cn/post/7189818918033162277) | Wed Jan 18 2023 2:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    背景   工作中遇到业务诉求是通过OpenCV对图片进行一些判断操作和优化，这里是看了部分不错的文章，希望总结一个自己的学习过程，温故而知新，有不对的地方可以评论区指出，小白学习海涵。 基础知识 Ma 
     </details> 
 <!-- juejin:END -->
 ### 少数派
