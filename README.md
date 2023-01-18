@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [App+1 | 把 CLIP 搬进 iPhone，让 AI 替你在相册中「大海捞针」](https://sspai.com/post/77862) | Wed Jan 18 2023 7:18 AM 
+- 👹 [2023 数字世界怀旧指南：在互联网的角落中找寻过去](https://sspai.com/post/77882) | Wed Jan 18 2023 8:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    大家常挖苦说互联网「没有记忆」，它悄悄保藏的这些回忆说不定会给你惊喜。&lt;a href=&quot;https://sspai.com/post/77882&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [App+1 | 把 CLIP 搬进 iPhone，让 AI 替你在相册中「大海捞针」](https://sspai.com/post/77862) | Wed Jan 18 2023 7:18 AM 
     <details><summary>展开描述 ...</summary> 
     iPhone 相册支持用文字搜索，但搜索能力实在太弱了，于是我把 CLIP 做进了 iPhone 里。&lt;a href=&quot;https://sspai.com/post/77862&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [港口思维：我是如何「自动」处理生活中的繁杂琐碎事务](https://sspai.com/post/77843) | Wed Jan 18 2023 3:11 AM 
+- 🤭 [港口思维：我是如何「自动」处理生活中的繁杂琐碎事务](https://sspai.com/post/77843) | Wed Jan 18 2023 3:11 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/77843&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：Apple 推出新款 MacBook Pro 和 Mac mini 等](https://sspai.com/post/77876) | Wed Jan 18 2023 1:07 AM 
+- 🥸 [派早报：Apple 推出新款 MacBook Pro 和 Mac mini 等](https://sspai.com/post/77876) | Wed Jan 18 2023 1:07 AM 
     <details><summary>展开描述 ...</summary> 
     暴雪中国称网易拒绝国服服务顺延、网易回应，漫威宣布两部电影国内定档等。&lt;a href=&quot;https://sspai.com/post/77876&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [年末最后一个大招，新知探索家成员招募中](https://sspai.com/post/77867) | Tue Jan 17 2023 9:30 AM 
+- 🙉 [年末最后一个大招，新知探索家成员招募中](https://sspai.com/post/77867) | Tue Jan 17 2023 9:30 AM 
     <details><summary>展开描述 ...</summary> 
     新知探索家 = 一份超值的权益组合 + 一种省心的购买选择 + 一套没有后顾之忧的服务&lt;a href=&quot;https://sspai.com/post/77867&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [CES 2023 小记：新科技串起的未来一天](https://sspai.com/post/77861) | Tue Jan 17 2023 7:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    本届 CES 或许没有太多划时代意义的「黑科技」，但从一个个细节和场景里，我们也更能看到科技真正走进生活的价值和可能性。&lt;a href=&quot;https://sspai.com/post/77861&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
