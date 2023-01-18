@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Elasticsearch：以更简单的方式编写具有逻辑条件的 Elasticsearch 查询 - query_string](https://juejin.cn/post/7189824161542307900) | Wed Jan 18 2023 3:12 AM 
+- 🤗 [一次偶然机会发现的MySQL“负优化”](https://juejin.cn/post/7189834932955381818) | Wed Jan 18 2023 3:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    文章最开始先给大家两条sql，请猜猜他们执行会有什么区别？ 这两条sql看似只是limit的数值不同，但是第一个执行耗时3ms，第二个执行耗时66s，相差2000多倍。 
+    </details> 
+
+- 🎡 [登录校验的两种方式详解、在uniapp中设置隐私政策弹窗 | 酱酱的下午茶第156期](https://juejin.cn/post/7189829200348446777) | Wed Jan 18 2023 3:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    【本期掘金酱的下午茶】亮点： 2023年 icon 图标的升级方案 分布式微服务系统的跨库查询/操作的解决思路（关系型数据库） 如何在uniapp中设置隐私政策弹窗 如何让 vite 完美接入 qia 
+    </details> 
+
+- 🕯 [Elasticsearch：以更简单的方式编写具有逻辑条件的 Elasticsearch 查询 - query_string](https://juejin.cn/post/7189824161542307900) | Wed Jan 18 2023 3:12 AM 
     <details><summary>展开描述 ...</summary> 
     当涉及到诸如 NOT、AND 和 OR 之类的布尔运算时，我们通常使用带有 must、should、must_not 子句的布尔查询。 是的，bool 查询非常强大，可用于执行所有类型的高级搜索。 但 
     </details> 
 
-- 🎡 [iOS schem 和 Universal Link 在调试时的踩坑记录](https://juejin.cn/post/7189818971443429433) | Wed Jan 18 2023 2:49 AM 
+- 🚀 [iOS schem 和 Universal Link 在调试时的踩坑记录](https://juejin.cn/post/7189818971443429433) | Wed Jan 18 2023 2:49 AM 
     <details><summary>展开描述 ...</summary> 
     简介 scheme和Universal Link是在iOS中两种可以在网页中点击回跳到自己预定的APP的两种方式。至于这两种方式需要怎么配置，这里就不做详细的介绍了。网上的文章一搜一大堆。今天主要是说 
     </details> 
 
-- 🕯 [Android OpenCV &lpar;一&rpar; 基础API 清晰度亮度识别](https://juejin.cn/post/7189818918033162277) | Wed Jan 18 2023 2:49 AM 
+- 💪 [Android OpenCV &lpar;一&rpar; 基础API 清晰度亮度识别](https://juejin.cn/post/7189818918033162277) | Wed Jan 18 2023 2:49 AM 
     <details><summary>展开描述 ...</summary> 
     背景   工作中遇到业务诉求是通过OpenCV对图片进行一些判断操作和优化，这里是看了部分不错的文章，希望总结一个自己的学习过程，温故而知新，有不对的地方可以评论区指出，小白学习海涵。 基础知识 Ma 
-    </details> 
-
-- 🚀 [7天DAU超亿级，《羊了个羊》技术架构升级实战](https://juejin.cn/post/7189812126008442938) | Wed Jan 18 2023 2:23 AM 
-    <details><summary>展开描述 ...</summary> 
-    导语 | 在短短的7天内，羊了个羊小游戏的DAU突破了1亿。然而，其最初技术架构仅支撑5000QPS并发，无论技术、人力、资源以及服务都难以应对。用户涌入、数据飙升，给原有的技术架构、运维体系、以及安 
-    </details> 
-
-- 💪 [MySQL性能优化浅析及线上案例](https://juejin.cn/post/7189808861388210235) | Wed Jan 18 2023 2:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    业务发展初期，数据库中量一般都不高，也不太容易出一些性能问题或者出的问题也不大，但是当数据库的量级达到一定规模之后，如果缺失有效的预警、监控、处理等手 
     </details> 
 <!-- juejin:END -->
 ### 少数派
