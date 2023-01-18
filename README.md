@@ -667,7 +667,7 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [中国方面的数据显示：退休生活让老年人的脑认知水平迅速下降](http://jandan.net/p/112212) | Wed Jan 18 2023 5:43 AM 
+- 🚀 [中国方面的数据显示：退休生活让老年人的认知水平迅速下降](http://jandan.net/p/112212) | Wed Jan 18 2023 5:43 AM 
     <details><summary>展开描述 ...</summary> 
     emmmm 
     </details> 
@@ -679,7 +679,7 @@
 
 - 🎉 [用户每次调用ChatGPT，OpenAI就要倒贴几美分](http://jandan.net/p/112221) | Wed Jan 18 2023 5:15 AM 
     <details><summary>展开描述 ...</summary> 
-    但他们昨天仍然开放了 ChatGPT API 
+    他们昨天又开放了 ChatGPT API 
     </details> 
 
 - 🐲 [Quora：人能生出不是人的东西吗？](http://jandan.net/p/112214) | Wed Jan 18 2023 5:02 AM 
