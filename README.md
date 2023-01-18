@@ -332,9 +332,9 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [关于在多台服务器对同一张表进行查询的过程中中遇到的错误](https://www.v2ex.com/t/909762#reply0) | Wed Jan 18 2023 10:14 AM
+- 🥸 [关于在多台服务器对同一张表进行查询的过程中中遇到的错误](https://www.v2ex.com/t/909762#reply2) | Wed Jan 18 2023 10:14 AM
 - 🤗 [如何在自建 NAS 分享自己拍的全景视频或照片且有重力感应且不需要另装 APP？](https://www.v2ex.com/t/909758#reply0) | Wed Jan 18 2023 9:54 AM
-- 🎭 [关于 Windows10 发生 cmd.exe 闪屏问题](https://www.v2ex.com/t/909757#reply2) | Wed Jan 18 2023 9:47 AM
+- 🎭 [关于 Windows10 发生 cmd.exe 闪屏问题](https://www.v2ex.com/t/909757#reply3) | Wed Jan 18 2023 9:47 AM
 - 🥷 [Cloudflare DNS 问题？](https://www.v2ex.com/t/909749#reply0) | Wed Jan 18 2023 9:15 AM
 - 🐵 [约束 GOMAXPROCS 带来的收益](https://www.v2ex.com/t/909739#reply9) | Wed Jan 18 2023 8:29 AM<!-- v2ex:END -->
 
