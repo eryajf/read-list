@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [简述 JavaScript 键盘事件](https://juejin.cn/post/7190016016078864441) | Wed Jan 18 2023 3:35 PM 
+- 🤗 [Go语言的依赖管理 ｜ 青训营笔记](https://juejin.cn/post/7190051371129765925) | Wed Jan 18 2023 6:00 PM 
+    <details><summary>展开描述 ...</summary> 
+    对于较简单的单体函数而言，只需要依赖原生的SDK即可完成开发 对于实际开发的工程较于复杂，应将精力投放在实现的业务逻辑之上，所以出现了依赖管理。 
+    </details> 
+
+- 🎡 [简述 JavaScript 键盘事件](https://juejin.cn/post/7190016016078864441) | Wed Jan 18 2023 3:35 PM 
     <details><summary>展开描述 ...</summary> 
     JavaScript 中的事件，当用户或浏览器尝试操作页面时，就会发生事件来处理 JavaScript 与HTML的交互。正如大家所知，JavaScript 与HTML一起工作，因此，页面加载、单击按 
     </details> 
 
-- 🎡 [Docker部署安装MongoDB数据库](https://juejin.cn/post/7190013540302848061) | Wed Jan 18 2023 3:24 PM 
+- 🕯 [Docker部署安装MongoDB数据库](https://juejin.cn/post/7190013540302848061) | Wed Jan 18 2023 3:24 PM 
     <details><summary>展开描述 ...</summary> 
     MongoDB是一个高性能的非关系型数据库，今天就来分享一下使用Docker部署MongoDB的方式。 
     </details> 
 
-- 🕯 [仿贝壳app全景看房（React+Mobx+Egg+Three.js入门级全栈实战项目）](https://juejin.cn/post/7189993796749721637) | Wed Jan 18 2023 2:08 PM 
+- 🚀 [仿贝壳app全景看房（React+Mobx+Egg+Three.js入门级全栈实战项目）](https://juejin.cn/post/7189993796749721637) | Wed Jan 18 2023 2:08 PM 
     <details><summary>展开描述 ...</summary> 
     背景 前段时间学习了一下React，感觉学起来还是比较愉快的，遂迫不及待的写了个项目牛刀小试了一下；学的时候感觉很多东西就是这么回事，但是真正实践起来确实也碰到了很多意想不到的问题，但是通过强大的搜索 
     </details> 
 
-- 🚀 [「兔了个兔」创意投稿大赛——todolist,写下你的兔年flag！](https://juejin.cn/post/7189975832356470844) | Wed Jan 18 2023 12:58 PM 
+- 💪 [「兔了个兔」创意投稿大赛——todolist,写下你的兔年flag！](https://juejin.cn/post/7189975832356470844) | Wed Jan 18 2023 12:58 PM 
     <details><summary>展开描述 ...</summary> 
     我正在参加「兔了个兔」创意投稿大赛，详情请看：「兔了个兔」创意投稿大赛 前言 新的一年新的目标，今天制作一个兔年任务列表，记录我们立下的flag，来年再看看实现了没有，先放上最终的效果图： 雪地背景和 
-    </details> 
-
-- 💪 [如何构建一个高可靠系统（上）](https://juejin.cn/post/7189975019005411389) | Wed Jan 18 2023 12:55 PM 
-    <details><summary>展开描述 ...</summary> 
-    什么是高可靠系统？站在使用者的角度，高可靠系统就是靠谱的系统，值得信赖的系统，不容易出现莫名其妙的问题，使用非常丝滑。本篇博客分为上下两部分，会从多个维度聊聊如何构建一个高可靠的系统。 过载保护：限流 
     </details> 
 <!-- juejin:END -->
 ### 少数派
