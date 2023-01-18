@@ -686,9 +686,9 @@
     他们昨天又开放了 ChatGPT API 
     </details> 
 
--  [今日好价 0118](http://jandan.net/p/112216) | Wed Jan 18 2023 5:10 AM 
+-  [Quora：人能生出不是人的东西吗？](http://jandan.net/p/112214) | Wed Jan 18 2023 5:02 AM 
     <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：18 
+    不能。 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
