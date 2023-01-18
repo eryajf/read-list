@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [System Toolkit 5.10.0 系统工具包](https://xclient.info/s/system-toolkit.html) | Mon Jan 16 2023 7:11 AM 
+- 🦏 [Smooze Pro 2.0.30 鼠标滚动增强软件](https://xclient.info/s/smooze-pro.html) | Wed Jan 18 2023 1:58 AM 
     <details><summary>展开描述 ...</summary> 
-    System Toolkit 是为MacOS设计的一体化信息和维护应用程序。 
+    Smooze 是一款更改鼠标滚动方式的软件，同时也支持非苹果的鼠标，也就是说也支持滚轮操作。如果你觉得在苹果系统中滚动网页或者鼠标动作有点难看就可以试一下它。 
     </details> 
 
--  [Principle 6.28 Mac平台交互动效设计神器](https://xclient.info/s/principle.html) | Mon Jan 16 2023 7:10 AM 
+-  [SiteSucker Pro 5.1.1 扒站神器](https://xclient.info/s/sitesucker.html) | Wed Jan 18 2023 1:57 AM 
     <details><summary>展开描述 ...</summary> 
-    Principle 是前 Apple 工程师打造的一款交互设计工具，五分钟即可制作出一个具有完整交互动画的原型，并且可将交互动画生成视频或者 Gif 分享到 Dribbble、Twitter 等社交平台。此外 Principle 还支持多种尺寸的原型设计，包括 Apple Watch。 
+    SiteSucker是一款Mac OS X上的整站下载的利器，可以将整个网站所有资源下载到本地硬盘。 
     </details> 
 
-- ⚗️ [Mirror for TCL TV 3.8.3 TCL智能电视屏幕镜像应用](https://xclient.info/s/mirror-for-tcl-tv.html) | Mon Jan 16 2023 7:07 AM 
+- ⚗️ [ProFind 1.20.0 高级文件搜索](https://xclient.info/s/profind.html) | Wed Jan 18 2023 1:56 AM 
     <details><summary>展开描述 ...</summary> 
-    您的 Mac 到任何TCL智能电视屏幕镜像应用程序。没有电线，不需要额外的硬件 ！你也可以把单个视频文件从Mac电脑中传到电视上。另外，我们还给您提供了多屏放映（电视和电脑屏幕显示不同内容）的设置选择。 
+    ProFind是一款实用的文件搜索软件，具有强大的功能和出色的性能，可为macOS提供高级文件搜索。并支持自然语言查询，应用程序启动，隐藏位置搜索，脚本编写等。此外，能在隐形文件夹和包中搜索，并搜索任何磁盘类型。 
     </details> 
 
-- 🔥 [Downcast 2.11.21 Podcast订阅工具](https://xclient.info/s/downcast.html) | Mon Jan 16 2023 7:05 AM 
+- 🔥 [PullTube 1.8.4.20 在线视频下载工具](https://xclient.info/s/pulltube.html) | Wed Jan 18 2023 1:53 AM 
     <details><summary>展开描述 ...</summary> 
-    Downcast 可以下载、 播放和同步你最喜欢的播客。 
+    PullTube 是一款amcOS平台的在线视频下载工具，可以帮助我们下载油管以及Vimeo的在线视频到本地 
     </details> 
 
-- 🌋 [Soulver 3.7.3 多功能计算器](https://xclient.info/s/soulver.html) | Mon Jan 16 2023 7:02 AM 
+- 🌋 [WonderPen 2.2.4 优秀的文本写作工具](https://xclient.info/s/wonderpen.html) | Wed Jan 18 2023 1:52 AM 
     <details><summary>展开描述 ...</summary> 
-    Soulver 是一款 Mac 上的多功能计算器，相比系统自带的计算器，Soulver拥有更为强大的功能，它让你输入计算的数字和操作符，然后帮助你计算出结果，更加的符合人们的计算习惯。 
+    WonderPen 是一款Mac上优秀的文本写作工具，简单易用的文本编辑器，支持 Markdown 语法。可切换为全屏专注模式，排除干扰，专心写作。 
     </details> 
 <!-- xclient:END -->
 
