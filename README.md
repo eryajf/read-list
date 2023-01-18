@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Dawn Launcher - Windows快捷启动工具](https://xinquji.com/posts/792888?utm_campaign=xinquji-rss) | Tue Jan 17 2023 6:48 AM 
+- 👀 [Atlist - 使用 1,000 多个标记创建自定义 Google 地图](https://xinquji.com/posts/793103?utm_campaign=xinquji-rss) | Wed Jan 18 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     Windows快捷启动工具  
+     使用 1,000 多个标记创建自定义 Google 地图  
     </details> 
 
-- 🥷 [视频下载器专业版 - DmSave - 一款免费的海外视频下载器。](https://xinquji.com/posts/792887?utm_campaign=xinquji-rss) | Tue Jan 17 2023 6:47 AM 
+- 🥷 [BrandBastion Lite - 使用 AI 更快地管理社交媒体评论](https://xinquji.com/posts/793102?utm_campaign=xinquji-rss) | Wed Jan 18 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     一款免费的海外视频下载器。  
+     使用 AI 更快地管理社交媒体评论  
     </details> 
 
-- 💼 [B Generous - 现在捐款，稍后付款](https://xinquji.com/posts/793054?utm_campaign=xinquji-rss) | Tue Jan 17 2023 6:00 AM 
+- 💼 [AiPetAvatar.com - 为您的宠物打造的 AI 头像生成器](https://xinquji.com/posts/793101?utm_campaign=xinquji-rss) | Wed Jan 18 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     现在捐款，稍后付款  
+     为您的宠物打造的 AI 头像生成器  
     </details> 
 
-- 🦅 [Stryde AI Workout Generator - Stryde 现在可以根据您的目标为您生成锻炼](https://xinquji.com/posts/793053?utm_campaign=xinquji-rss) | Tue Jan 17 2023 6:00 AM 
+- 🦅 [Anote - 标记一些，我们标记其余的](https://xinquji.com/posts/793100?utm_campaign=xinquji-rss) | Wed Jan 18 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     Stryde 现在可以根据您的目标为您生成锻炼  
+     标记一些，我们标记其余的  
     </details> 
 
-- 😺 [SProbot - 以智能方式设计和配置 SharePoint Online 网站](https://xinquji.com/posts/793052?utm_campaign=xinquji-rss) | Tue Jan 17 2023 6:00 AM 
+- 😺 [Firmbee - 具有人力资源和项目管理功能的招聘软件](https://xinquji.com/posts/793099?utm_campaign=xinquji-rss) | Wed Jan 18 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     以智能方式设计和配置 SharePoint Online 网站  
+     具有人力资源和项目管理功能的招聘软件  
     </details> 
 <!-- xinquji:END -->
