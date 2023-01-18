@@ -705,18 +705,18 @@
      一款免费的海外视频下载器。  
     </details> 
 
-- 💼 [DevClad - 与其他开发人员 1:1 会面 - 合作项目 + 编程马拉松](https://xinquji.com/posts/792993?utm_campaign=xinquji-rss) | Mon Jan 16 2023 6:00 AM 
+- 💼 [B Generous - 现在捐款，稍后付款](https://xinquji.com/posts/793054?utm_campaign=xinquji-rss) | Tue Jan 17 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     与其他开发人员 1:1 会面 - 合作项目 + 编程马拉松  
+     现在捐款，稍后付款  
     </details> 
 
-- 🦅 [Caena - 简单、快速且易于获得的风险融资](https://xinquji.com/posts/792992?utm_campaign=xinquji-rss) | Mon Jan 16 2023 6:00 AM 
+- 🦅 [Stryde AI Workout Generator - Stryde 现在可以根据您的目标为您生成锻炼](https://xinquji.com/posts/793053?utm_campaign=xinquji-rss) | Tue Jan 17 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     简单、快速且易于获得的风险融资  
+     Stryde 现在可以根据您的目标为您生成锻炼  
     </details> 
 
-- 😺 [Nura Website Builder - 在几分钟内创建一个专业的网站](https://xinquji.com/posts/792991?utm_campaign=xinquji-rss) | Mon Jan 16 2023 6:00 AM 
+- 😺 [SProbot - 以智能方式设计和配置 SharePoint Online 网站](https://xinquji.com/posts/793052?utm_campaign=xinquji-rss) | Tue Jan 17 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     在几分钟内创建一个专业的网站  
+     以智能方式设计和配置 SharePoint Online 网站  
     </details> 
 <!-- xinquji:END -->
