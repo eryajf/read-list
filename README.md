@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [chrome禁止混合内容（Mixed Content）三种解决办法](https://juejin.cn/post/7189794905219137595) | Wed Jan 18 2023 1:16 AM 
+- 🤗 [MySQL性能优化浅析及线上案例](https://juejin.cn/post/7189808861388210235) | Wed Jan 18 2023 2:11 AM 
     <details><summary>展开描述 ...</summary> 
-    chrome禁止混合内容（Mixed Content）三种解决办法。在Chrome浏览器内，https协议的网站内加载http协议的图片，会报以下错误，图片、CSS也会加载不出来。 
+    业务发展初期，数据库中量一般都不高，也不太容易出一些性能问题或者出的问题也不大，但是当数据库的量级达到一定规模之后，如果缺失有效的预警、监控、处理等手 
     </details> 
 
-- 🎡 [【Atcoder】AtCoder Grand Contest 059 B - Arrange Your Balls | 图论、构造](https://juejin.cn/post/7189722332091383866) | Tue Jan 17 2023 9:09 PM 
+- 🎡 [程序猿健康防猝指南5：运动入门基础](https://juejin.cn/post/7189808095197921337) | Wed Jan 18 2023 2:07 AM 
     <details><summary>展开描述 ...</summary> 
-    【Atcoder】AtCoder Grand Contest 059 B - Arrange Your Balls | 图论、构造 题目链接 B - Arrange Your Balls &lpar;atcod 
+    运动的基础必备知识，帮助进入运动的新世界。什么是心率？什么是无氧运动和有氧运动？有哪些运动类型？不同运动类型有什么作用等等。 
     </details> 
 
-- 🕯 [微博图床挂了！](https://juejin.cn/post/7189651446306963514) | Tue Jan 17 2023 3:59 PM 
+- 🕯 [RPC框架泛化调用原理及转转的实践](https://juejin.cn/post/7189806951650295868) | Wed Jan 18 2023 2:03 AM 
     <details><summary>展开描述 ...</summary> 
-    一直担心的事情还是发生了。 作为hexo多年的使用者，微博图床一直是我的默认选项，hexo+typora+iPic更是我这几年写文章的黄金组合。而图床中，新浪图床一直都是我的默认选项，速度快、稳定同时 
+    泛化调用实现方式及原理，各种实现方案的优缺点，并分享了泛化调用在转转的实践。有助于RPC框架使用方理解泛化调用，更好地使用泛化调用；对于有自研RPC框架需求的开发者在选择泛化调用实现方案上有一定参考 
     </details> 
 
-- 🚀 [你真的了解tree shaking吗](https://juejin.cn/post/7189650922111238200) | Tue Jan 17 2023 3:57 PM 
+- 🚀 [【提升团队运营效率】交易履约之订单中心实践](https://juejin.cn/post/7189806705234935869) | Wed Jan 18 2023 2:02 AM 
     <details><summary>展开描述 ...</summary> 
-    前端在做性能优化的时候，其中一种有效的方式就是减少包体积的大小。而减少包体积大小的其中一种有效的方式就是tree-shaking，本文会对tree-shaking这个功能做一个详细的解析。 
+    交易履约订单中心为履约行为提供必要的系统能力支撑，交易履约订单中心记录了交易流通的过程和状态，包括交易主体、产品信息、成交金额、计费、支付、业务信息等全流程信息，为上下游提供数据标准化、全集数据查询和 
     </details> 
 
-- 💪 [Debian配置系统中文语言及环境](https://juejin.cn/post/7189647325524918331) | Tue Jan 17 2023 3:43 PM 
+- 💪 [借助 Elastic 8.6 版加速根本原因分析和缩短响应时间](https://juejin.cn/post/7189802094713372730) | Wed Jan 18 2023 1:44 AM 
     <details><summary>展开描述 ...</summary> 
-    在网上购买的服务器有的没有安装中文环境，这样除了显示的系统提示是英文的之外，还会导致中文乱码。 今天以Debian系统为例，分享一下Linux上中文语言及其环境配置。 
+    今天，我们很高兴地宣布，全球领先的搜索驱动型解决方案平台的最新版 Elastic 8.6 正式全面上线。 Elastic 8.6 版为 Elastic Search Platform 及其三个内置解决 
     </details> 
 <!-- juejin:END -->
 ### 少数派
