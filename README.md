@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [问， Debian 11 能用上 gcc-4.8.5 吗？](https://www.v2ex.com/t/909888#reply0) | Thu Jan 19 2023 7:06 AM
-- 🤗 [有无支持在 CarPlay 播放视频的 ipa？目前发现了 cartube 免越狱可以播放 YouTube](https://www.v2ex.com/t/909886#reply2) | Thu Jan 19 2023 6:57 AM
-- 🎭 [Win8.1 和 usb 蓝牙是不是八字不合？](https://www.v2ex.com/t/909874#reply0) | Thu Jan 19 2023 6:33 AM
-- 🥷 [ZeroSSL ACME 全站 404 了， 10 分钟还没恢复，除了 Let&#39;s Encrypt 还有什么推荐的免费证书吗](https://www.v2ex.com/t/909857#reply7) | Thu Jan 19 2023 4:36 AM
-- 🐵 [[硅谷外企] [核心业务] [业内 Top] [支持远程] [全美新兴科技 50 强] 后端研发工程师 - 期权+双休+四周年假+各种福利补贴](https://www.v2ex.com/t/909854#reply0) | Thu Jan 19 2023 4:20 AM<!-- v2ex:END -->
+- 🥸 [Shelter 开启的工作模式怎么过检测](https://www.v2ex.com/t/909897#reply1) | Thu Jan 19 2023 7:58 AM
+- 🤗 [还有和 mem.ai 类似的产品吗](https://www.v2ex.com/t/909891#reply0) | Thu Jan 19 2023 7:29 AM
+- 🎭 [问， Debian 11 能用上 gcc-4.8.5 吗？](https://www.v2ex.com/t/909888#reply4) | Thu Jan 19 2023 7:06 AM
+- 🥷 [有无支持在 CarPlay 播放视频的 ipa？目前发现了 cartube 免越狱可以播放 YouTube](https://www.v2ex.com/t/909886#reply4) | Thu Jan 19 2023 6:57 AM
+- 🐵 [Win8.1 和 usb 蓝牙是不是八字不合？](https://www.v2ex.com/t/909874#reply0) | Thu Jan 19 2023 6:33 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
