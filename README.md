@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一种面向业务配置基于JSF广播定时生效的工具](https://juejin.cn/post/7190188574585651257) | Thu Jan 19 2023 2:43 AM 
+- 🤗 [如何规范微信小程序项目的提交信息和上传版本号？](https://juejin.cn/post/7190192893628252217) | Thu Jan 19 2023 3:01 AM 
+    <details><summary>展开描述 ...</summary> 
+    笔者在开发微信小程序的时候发现开发者工具在上传代码和版本管理这两个功能（环节）中有一点小瑕疵。 首先，对于代码上传，这个功能是要把当前的代码上传到开发者后台，需要在弹窗的表单中填写版本号和备注，这个版 
+    </details> 
+
+- 🎡 [代码影响范围工具探索](https://juejin.cn/post/7190188739597959224) | Thu Jan 19 2023 2:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    1.祖传代码不敢随意改动，影响范围无法评估。并且组内时常有因为修改了某块代码，导致其他业务受到影响，产生bug，影响生产。 2.研发提测完成后，测试进入测试后经 
+    </details> 
+
+- 🕯 [一种面向业务配置基于JSF广播定时生效的工具](https://juejin.cn/post/7190188574585651257) | Thu Jan 19 2023 2:43 AM 
     <details><summary>展开描述 ...</summary> 
     目前，ducc实现了实时近乎所有配置动态生效的场景，但是配置是否实时生效，不能直观展示每个机器上jvm内对象对应的参数是否已变更为准确的值，大部分时候需 
     </details> 
 
-- 🎡 [Flutter封装：组动画/混合动画 AnimatedGroup](https://juejin.cn/post/7190184512532414522) | Thu Jan 19 2023 2:28 AM 
+- 🚀 [Flutter封装：组动画/混合动画 AnimatedGroup](https://juejin.cn/post/7190184512532414522) | Thu Jan 19 2023 2:28 AM 
     <details><summary>展开描述 ...</summary> 
     一、来源 项目中遇到混合动画的情况，每次实现都需要生命一堆属性，让代码变得杂乱，难以维护。参考 iOS 组动画 CAAimationGroup， 随花半天时间封装一个混合动画组件 AnimatedGr 
     </details> 
 
-- 🕯 [程序猿健康防猝指南6：[科学]运动](https://juejin.cn/post/7190184041922953253) | Thu Jan 19 2023 2:26 AM 
+- 💪 [程序猿健康防猝指南6：[科学]运动](https://juejin.cn/post/7190184041922953253) | Thu Jan 19 2023 2:26 AM 
     <details><summary>展开描述 ...</summary> 
     “均衡饮食、适当（科学）运动、充足睡眠”是国际社会公认的三项健康基本保障。生命在于运动，运动需要科学！ 
-    </details> 
-
-- 🚀 [2022年度  FinClip  扩展 SDK 推荐！](https://juejin.cn/post/7190175767425187901) | Thu Jan 19 2023 1:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    2022年，FinClip 团队进行了24个产品迭代，为了丰富FinClip 的平台能力，除了核心SDK之外，我们还为开发者们提供了扩展SDK。 
-    </details> 
-
-- 💪 [DNS（域名系统）是如何工作的？](https://juejin.cn/post/7190170797493714981) | Thu Jan 19 2023 1:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 您是否想知道当您在浏览器中键入任何网站的URL时幕后会发生什么？每当我们键入网站地址（例如www.google.com）时，浏览器都会在几毫秒内为我们加载一个页面。浏览器执行多项操作，如网站 i 
     </details> 
 <!-- juejin:END -->
 ### 少数派
