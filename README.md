@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Go语言的依赖管理 ｜ 青训营笔记](https://juejin.cn/post/7190051371129765925) | Wed Jan 18 2023 6:00 PM 
+- 🤗 [忙活了一年的开源社区，终于赶上了春节前的末班车！](https://juejin.cn/post/7190159896837357629) | Thu Jan 19 2023 12:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    随着春节的临近，忙碌了一年的小伙伴们，是不是都已经踏上了回乡的列车？我呢也终于在春节前，完成了 HelloGitHub.com 的重构。 HelloGitHub.com 是我在 2017 年的时候用  
+    </details> 
+
+- 🎡 [年轻人的第一款单元测试框架———vitest](https://juejin.cn/post/7190159077908381756) | Thu Jan 19 2023 12:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    一款合格的开源项目是避免不了单元测试的，这也是这几年单元测试的热度居高不下的原因。而在今年的`state of js 2022`中，我们可以 
+    </details> 
+
+- 🕯 [【JSCPC】2021江苏省赛 D. Pattern Lock | 构造](https://juejin.cn/post/7190157709864828965) | Thu Jan 19 2023 12:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    【JSCPC】2021江苏省赛 D. Pattern Lock | 构造 题目链接 Problem - D - Codeforces 题目 题目大意 $n$ 行 $m$ 列的点阵图，要求构造 $n\t 
+    </details> 
+
+- 🚀 [Go语言的依赖管理 ｜ 青训营笔记](https://juejin.cn/post/7190051371129765925) | Wed Jan 18 2023 6:00 PM 
     <details><summary>展开描述 ...</summary> 
     对于较简单的单体函数而言，只需要依赖原生的SDK即可完成开发 对于实际开发的工程较于复杂，应将精力投放在实现的业务逻辑之上，所以出现了依赖管理。 
     </details> 
 
-- 🎡 [简述 JavaScript 键盘事件](https://juejin.cn/post/7190016016078864441) | Wed Jan 18 2023 3:35 PM 
+- 💪 [一个想活得简单的程序猿的2022年终总结！](https://juejin.cn/post/7190038167301390395) | Wed Jan 18 2023 5:04 PM 
     <details><summary>展开描述 ...</summary> 
-    JavaScript 中的事件，当用户或浏览器尝试操作页面时，就会发生事件来处理 JavaScript 与HTML的交互。正如大家所知，JavaScript 与HTML一起工作，因此，页面加载、单击按 
-    </details> 
-
-- 🕯 [Docker部署安装MongoDB数据库](https://juejin.cn/post/7190013540302848061) | Wed Jan 18 2023 3:24 PM 
-    <details><summary>展开描述 ...</summary> 
-    MongoDB是一个高性能的非关系型数据库，今天就来分享一下使用Docker部署MongoDB的方式。 
-    </details> 
-
-- 🚀 [仿贝壳app全景看房（React+Mobx+Egg+Three.js入门级全栈实战项目）](https://juejin.cn/post/7189993796749721637) | Wed Jan 18 2023 2:08 PM 
-    <details><summary>展开描述 ...</summary> 
-    背景 前段时间学习了一下React，感觉学起来还是比较愉快的，遂迫不及待的写了个项目牛刀小试了一下；学的时候感觉很多东西就是这么回事，但是真正实践起来确实也碰到了很多意想不到的问题，但是通过强大的搜索 
-    </details> 
-
-- 💪 [「兔了个兔」创意投稿大赛——todolist,写下你的兔年flag！](https://juejin.cn/post/7189975832356470844) | Wed Jan 18 2023 12:58 PM 
-    <details><summary>展开描述 ...</summary> 
-    我正在参加「兔了个兔」创意投稿大赛，详情请看：「兔了个兔」创意投稿大赛 前言 新的一年新的目标，今天制作一个兔年任务列表，记录我们立下的flag，来年再看看实现了没有，先放上最终的效果图： 雪地背景和 
+    前言 今年事件 疫情 健身减肥 给自己放假 在这两个月中，简简单单的做回了一次自己，做了自己想做的事情，认真玩游戏，一口气看完各种番剧，一次性好好体验一下无人打扰的休息时光。。。 在这两个月中，不知不 
     </details> 
 <!-- juejin:END -->
 ### 少数派
