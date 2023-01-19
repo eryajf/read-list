@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [XXL-Job源码阅读（一）JobTriggerPoolHelper](https://juejin.cn/post/7190395870926340152) | Thu Jan 19 2023 4:10 PM 
+- 🤗 [深入浅出学习透析Nginx服务器的架构分析及原理分析「底层技术原理+运作架构机制」](https://juejin.cn/post/7190418252655231033) | Thu Jan 19 2023 5:41 PM 
+    <details><summary>展开描述 ...</summary> 
+    Nginx再次回顾 也许你已经忘记了Nginx是做什么的？我来再次给你夯实一下概念。 多协议反向代理 Nginx是个高性能的Web和反向代理服务器及HTTP服务器，它能反向代理HTTP，HTTPS和邮 
+    </details> 
+
+- 🎡 [XXL-Job源码阅读（一）JobTriggerPoolHelper](https://juejin.cn/post/7190395870926340152) | Thu Jan 19 2023 4:10 PM 
     <details><summary>展开描述 ...</summary> 
     本文源码阅读的主角是`JobTriggerPoolHelper`，作业触发线程池助手，通过阅读此部分源码，我们可以学习到： 1. 线程池隔离技术 2. 多线程知识 
     </details> 
 
-- 🎡 [青听 | Nice 兔 meet u 抽奖直播中奖名单公示 🎉](https://juejin.cn/post/7190364067205709880) | Thu Jan 19 2023 2:05 PM 
+- 🕯 [青听 | Nice 兔 meet u 抽奖直播中奖名单公示 🎉](https://juejin.cn/post/7190364067205709880) | Thu Jan 19 2023 2:05 PM 
     <details><summary>展开描述 ...</summary> 
     让大家中奖的代码在这里：https://code.juejin.cn/pen/7190318980161077305 
     </details> 
 
-- 🕯 [前端都在聊什么 - 第 1 期](https://juejin.cn/post/7190358381461241912) | Thu Jan 19 2023 1:43 PM 
+- 🚀 [前端都在聊什么 - 第 1 期](https://juejin.cn/post/7190358381461241912) | Thu Jan 19 2023 1:43 PM 
     <details><summary>展开描述 ...</summary> 
     「前端都在聊什么」是 jsliang 日常写文章/做视频/搞直播过程中，小伙伴们的提问以及我的解疑整理。每期都会针对不同的话题进行讨论，快来看看有没有说到你想法去的~ 
     </details> 
 
-- 🚀 [聊聊前端无障碍实践](https://juejin.cn/post/7190341213126410298) | Thu Jan 19 2023 12:36 PM 
+- 💪 [聊聊前端无障碍实践](https://juejin.cn/post/7190341213126410298) | Thu Jan 19 2023 12:36 PM 
     <details><summary>展开描述 ...</summary> 
     许多人认为残障人群不使用互联网。事实上，情况完全相反，很多残障人群和健全人一样经常使用网站，在网上购物和进行社交活动，甚至对网络的依赖更大。本文介绍了相关概念与辅助技术，以及如何提高页面的无障碍性。 
-    </details> 
-
-- 💪 [在企业微信中如何获取unionId？](https://juejin.cn/post/7190306422943383613) | Thu Jan 19 2023 10:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    1.概念科普 微信开放和公众平台的定位 微信开放平台是为了让第三方应用投入微信的怀抱而设计的，比如第三方的移动应用&lpar;Android/IOS&rpar;、网站等；微信为了开疆拓土，扩大自己的影响力。 微信公众平台 
     </details> 
 <!-- juejin:END -->
 ### 少数派
