@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [某个 api 浏览器请求可以正常返回，但是复制请求内容到 Python 代码里就返回错误](https://www.v2ex.com/t/909842#reply3) | Thu Jan 19 2023 3:06 AM
-- 🤗 [微服务就是模块化？](https://www.v2ex.com/t/909835#reply6) | Thu Jan 19 2023 2:42 AM
-- 🎭 [开源 C 语言库 Melon：红黑树](https://www.v2ex.com/t/909833#reply1) | Thu Jan 19 2023 2:35 AM
-- 🥷 [国外找工作问题收集](https://www.v2ex.com/t/909828#reply3) | Thu Jan 19 2023 2:19 AM
-- 🐵 [有什么稍后阅读应用推荐的吗？](https://www.v2ex.com/t/909825#reply8) | Thu Jan 19 2023 1:57 AM<!-- v2ex:END -->
+- 🥸 [nginx 代理 wordpress, /wp-admin/ 不加斜杠就会出现 Error: socket hang up](https://www.v2ex.com/t/909853#reply1) | Thu Jan 19 2023 4:09 AM
+- 🤗 [Linux 通过 rsync 同步到群晖报错 code 255](https://www.v2ex.com/t/909852#reply0) | Thu Jan 19 2023 4:06 AM
+- 🎭 [Linux 下用 tar 和 zip 压缩文件夹有啥区别](https://www.v2ex.com/t/909851#reply9) | Thu Jan 19 2023 4:06 AM
+- 🥷 [做了个博客源码分享给大家](https://www.v2ex.com/t/909845#reply0) | Thu Jan 19 2023 3:29 AM
+- 🐵 [某个 api 浏览器请求可以正常返回，但是复制请求内容到 Python 代码里就返回错误](https://www.v2ex.com/t/909842#reply11) | Thu Jan 19 2023 3:06 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
