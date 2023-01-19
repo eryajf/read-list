@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Flutter封装：跑马灯 MarqueeWidget](https://juejin.cn/post/7190207767247290429) | Thu Jan 19 2023 3:58 AM 
+- 🤗 [“零”代码改动，静态编译让太乙Stable Diffusion推理速度翻倍](https://juejin.cn/post/7190208386742288443) | Thu Jan 19 2023 4:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    为了提升其推理效率，OneFlow 首度将 Stable Diffusion 模型加速至“一秒出图”时代，极大提升了文生图的速度。 
+    </details> 
+
+- 🎡 [Flutter封装：跑马灯 MarqueeWidget](https://juejin.cn/post/7190207767247290429) | Thu Jan 19 2023 3:58 AM 
     <details><summary>展开描述 ...</summary> 
     一、来源 项目中遇到跑马灯需求，看看了一些第三方的，觉得不够优雅，随想自己实现一个极简且支持多数据的组件。 二、使用demo 三、源码：MarqueeWidget 最后 核心源码很简单，不满足的二次开 
     </details> 
 
-- 🎡 [TiCDC 源码阅读（三）TiCDC 集群工作过程解析](https://juejin.cn/post/7190199448041947197) | Thu Jan 19 2023 3:27 AM 
+- 🕯 [TiCDC 源码阅读（三）TiCDC 集群工作过程解析](https://juejin.cn/post/7190199448041947197) | Thu Jan 19 2023 3:27 AM 
     <details><summary>展开描述 ...</summary> 
     内容概要 TiCDC 是一款 TiDB 增量数据同步工具，通过拉取上游 TiKV 的数据变更日志，TiCDC 可以将数据解析为有序的行级变更数据输出到下游。 本文是 TiCDC 源码解读的第三篇，主要 
     </details> 
 
-- 🕯 [你的插件想适配Transform Action? 可能还早了点](https://juejin.cn/post/7190196880469393463) | Thu Jan 19 2023 3:19 AM 
+- 🚀 [你的插件想适配Transform Action? 可能还早了点](https://juejin.cn/post/7190196880469393463) | Thu Jan 19 2023 3:19 AM 
     <details><summary>展开描述 ...</summary> 
     为什么要适配Transform Action？ 因为registerTransform 这个api 在8.0的agp版本中要被删除了啊，到时候你的工程中的插件如果还有这个api 就编译失败了 适配这个 
     </details> 
 
-- 🚀 [企业微信零耦合集成腾讯会议和腾讯文档插件化架构实践](https://juejin.cn/post/7190193768706867258) | Thu Jan 19 2023 3:04 AM 
+- 💪 [企业微信零耦合集成腾讯会议和腾讯文档插件化架构实践](https://juejin.cn/post/7190193768706867258) | Thu Jan 19 2023 3:04 AM 
     <details><summary>展开描述 ...</summary> 
     导语 | 企业微信 iOS 端作为代码超过800万行的大型项目，接入了腾讯会议、腾讯文档、企业邮箱等功能插件。要融合多个异构系统、支撑多个团队同时协作开发一个 APP 是极大的挑战。同时，迅速膨胀的代 
-    </details> 
-
-- 💪 [如何规范微信小程序项目的提交信息和上传版本号？](https://juejin.cn/post/7190192893628252217) | Thu Jan 19 2023 3:01 AM 
-    <details><summary>展开描述 ...</summary> 
-    笔者在开发微信小程序的时候发现开发者工具在上传代码和版本管理这两个功能（环节）中有一点小瑕疵。 首先，对于代码上传，这个功能是要把当前的代码上传到开发者后台，需要在弹窗的表单中填写版本号和备注，这个版 
     </details> 
 <!-- juejin:END -->
 ### 少数派
