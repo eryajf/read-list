@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [译文 | 惨遭《阿凡达 2》抛弃的字体：Papyrus 为何如此讨人嫌](https://sspai.com/post/77903) | Thu Jan 19 2023 8:00 AM 
+- 👹 [新玩意 SP：少数派办公室最近来了啥耳机？](https://sspai.com/post/77908) | Thu Jan 19 2023 9:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：本期《新玩意》不包 ...&lt;a href=&quot;https://sspai.com/post/77908&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [译文 | 惨遭《阿凡达 2》抛弃的字体：Papyrus 为何如此讨人嫌](https://sspai.com/post/77903) | Thu Jan 19 2023 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     Papyrus 不只是它被创造的那个时代的产物，更是过去 40 年印刷技术发展的产物。它成为了 20 世纪被使用最多，也是被滥用最多的字体之一。&lt;a href=&quot;https://sspai.com/post/77903&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [教练，我想上首页：Apple Podcasts 运营及自荐攻略](https://sspai.com/post/76883) | Thu Jan 19 2023 6:32 AM 
+- 🤭 [教练，我想上首页：Apple Podcasts 运营及自荐攻略](https://sspai.com/post/76883) | Thu Jan 19 2023 6:32 AM 
     <details><summary>展开描述 ...</summary> 
     Apple Podcasts 的首页推荐，距离你其实并不遥远。&lt;a href=&quot;https://sspai.com/post/76883&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [年度征文｜程序员专用系统？聊一聊一个非程序员使用 Linux 系统的历程](https://sspai.com/post/77854) | Thu Jan 19 2023 3:25 AM 
+- 🥸 [年度征文｜程序员专用系统？聊一聊一个非程序员使用 Linux 系统的历程](https://sspai.com/post/77854) | Thu Jan 19 2023 3:25 AM 
     <details><summary>展开描述 ...</summary> 
     编注：本文是少数派2022年度征文活动的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。今年我们采用了更加依赖用户反馈数据的奖金结算机制，充电、收藏和阅读量都将不同程度地影响文章的最终排 ...&lt;a href=&quot;https://sspai.com/post/77854&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：Apple 推出新版 HomePod、Twitter 承认屏蔽第三方客户端等](https://sspai.com/post/77899) | Thu Jan 19 2023 12:39 AM 
+- 🙉 [派早报：Apple 推出新版 HomePod、Twitter 承认屏蔽第三方客户端等](https://sspai.com/post/77899) | Thu Jan 19 2023 12:39 AM 
     <details><summary>展开描述 ...</summary> 
     索尼推出新版 FE 20-70mm F4 G 镜头、森海塞尔发布 IE200 有线耳机等。&lt;a href=&quot;https://sspai.com/post/77899&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [评论有奖 | 一天一篇，28 天后像高手一样玩转 macOS](https://sspai.com/post/77873) | Wed Jan 18 2023 10:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    如果你也觉得你的 Mac 不够高效，常常搞不懂 macOS 的功能和设置，这本《macOS 蓝皮书》正是为你而准备。&lt;a href=&quot;https://sspai.com/post/77873&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
