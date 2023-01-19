@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [ZeroSSL ACME 全站 404 了， 10 分钟还没恢复，除了 Let&#39;s Encrypt 还有什么推荐的免费证书吗](https://www.v2ex.com/t/909857#reply4) | Thu Jan 19 2023 4:36 AM
+- 🥸 [ZeroSSL ACME 全站 404 了， 10 分钟还没恢复，除了 Let&#39;s Encrypt 还有什么推荐的免费证书吗](https://www.v2ex.com/t/909857#reply6) | Thu Jan 19 2023 4:36 AM
 - 🤗 [[硅谷外企] [核心业务] [业内 Top] [支持远程] [全美新兴科技 50 强] 后端研发工程师 - 期权+双休+四周年假+各种福利补贴](https://www.v2ex.com/t/909854#reply0) | Thu Jan 19 2023 4:20 AM
 - 🎭 [nginx 代理 wordpress, /wp-admin/ 不加斜杠就会出现 Error: socket hang up](https://www.v2ex.com/t/909853#reply2) | Thu Jan 19 2023 4:09 AM
 - 🥷 [Linux 通过 rsync 同步到群晖报错 code 255](https://www.v2ex.com/t/909852#reply0) | Thu Jan 19 2023 4:06 AM
-- 🐵 [Linux 下用 tar 和 zip 压缩文件夹有啥区别](https://www.v2ex.com/t/909851#reply14) | Thu Jan 19 2023 4:06 AM<!-- v2ex:END -->
+- 🐵 [Linux 下用 tar 和 zip 压缩文件夹有啥区别](https://www.v2ex.com/t/909851#reply21) | Thu Jan 19 2023 4:06 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
