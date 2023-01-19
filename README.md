@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [通知栏的那些奇技淫巧](https://juejin.cn/post/7190280650283778106) | Thu Jan 19 2023 8:41 AM 
+- 🤗 [【Flutter】抄一个路由轮子到Flutter上能有多难？](https://juejin.cn/post/7190301601918091325) | Thu Jan 19 2023 10:04 AM 
     <details><summary>展开描述 ...</summary> 
-    如何实现针对某一个应用通知栏的某一个按钮的点击，比如监听喜马拉雅APP，当接收到通知的时候，需要点击关闭按钮。这个需求该如何接住呢？ 
+    新年的第一篇水文，搬运一个支持组件化和渐进式改进的路由框架能有多难？另外，靓仔，大过年的还在刷技术文章？ 
     </details> 
 
-- 🎡 [为什么要选择VersionCatalog来做依赖管理?](https://juejin.cn/post/7190277951614058555) | Thu Jan 19 2023 8:31 AM 
+- 🎡 [《程序员的自我修养》读后感](https://juejin.cn/post/7190294025214099517) | Thu Jan 19 2023 9:33 AM 
     <details><summary>展开描述 ...</summary> 
-    很多人都介绍过Gradle 7.+提供的VersionCatalog，我就不过多展开这个了。我们最近也算是成功接入了VersionCatalog,过程也还是有点曲折的，总体来说我觉得确实比 
+    年前最后两天班，写点东西大家解解闷。 书中涉猎了哪些方面？ 可以看出来作者写了很多，对程序员各个阶段都有思考和分享。看起来都是些老生常谈的建议，也有些都是职场的潜规则。但是还是得说出来，摆到明面上，这 
     </details> 
 
-- 🕯 [简述JavaScript异步函数 async/await](https://juejin.cn/post/7189919858195169340) | Wed Jan 18 2023 9:21 AM 
+- 🕯 [前端微组件实践、数据流之理解RxJS | 酱酱的下午茶第157期](https://juejin.cn/post/7190293912190189629) | Thu Jan 19 2023 9:33 AM 
     <details><summary>展开描述 ...</summary> 
-    ES7 引入的 async/await 是对 JavaScript 异步编程的一种改进，它提供了使用同步样式代码异步访问资源的选项，而不会阻塞主线程。但是，要很好地使用它有点棘手。 
+    【本期掘金酱的下午茶】亮点： - 你真的了解tree shaking吗 - 前端微组件实践 - Vue3源码分析&lpar;8&rpar;-调度器与watch原理 - 数据流之理解RxJS 
     </details> 
 
-- 🚀 [SpringMvc项目集成nacos、openfeign、Ribbon，仿 springcloud openfeign 实现微服务下接口调用](https://juejin.cn/post/7189881963925209146) | Wed Jan 18 2023 6:54 AM 
+- 🚀 [大年初四，Flutter Forward 中国社区直播活动与你不见不散](https://juejin.cn/post/7190293416238907449) | Thu Jan 19 2023 9:31 AM 
     <details><summary>展开描述 ...</summary> 
-    SpringMvc项目集成nacos、openfeign、Ribbon，仿 springcloud openfeign 实现微服务下接口调用 
+    之前我们预告过，2023 年 1 月 25 日 &lpar;年初四&rpar;，Flutter 团队将在肯尼亚首都内罗毕举办 Flutter Forward 大会，并同时开启线上直播。本次活动将为展示最新的 Flutte 
     </details> 
 
-- 💪 [请求库：fetch vs axios vs umi-request 对比分析](https://juejin.cn/post/7189879963968323621) | Wed Jan 18 2023 6:46 AM 
+- 💪 [Naive UI 使用 provide / inject 的一个小技巧](https://juejin.cn/post/7190277927991246906) | Thu Jan 19 2023 8:31 AM 
     <details><summary>展开描述 ...</summary> 
-    Fetch API、Axios、Umi-request 是前端开发日常较常用的请求方案，具体用法、优劣，接下来我们做下分析。 
+    最近在看 Naive UI 的源码，看到一个挺有意思的函数，作者通过该函数更方便的使用 provide 与 inject。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
