@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [忙活了一年的开源社区，终于赶上了春节前的末班车！](https://juejin.cn/post/7190159896837357629) | Thu Jan 19 2023 12:53 AM 
+- 🤗 [一种面向业务配置基于JSF广播定时生效的工具](https://juejin.cn/post/7190188574585651257) | Thu Jan 19 2023 2:43 AM 
     <details><summary>展开描述 ...</summary> 
-    随着春节的临近，忙碌了一年的小伙伴们，是不是都已经踏上了回乡的列车？我呢也终于在春节前，完成了 HelloGitHub.com 的重构。 HelloGitHub.com 是我在 2017 年的时候用  
+    目前，ducc实现了实时近乎所有配置动态生效的场景，但是配置是否实时生效，不能直观展示每个机器上jvm内对象对应的参数是否已变更为准确的值，大部分时候需 
     </details> 
 
-- 🎡 [年轻人的第一款单元测试框架———vitest](https://juejin.cn/post/7190159077908381756) | Thu Jan 19 2023 12:49 AM 
+- 🎡 [Flutter封装：组动画/混合动画 AnimatedGroup](https://juejin.cn/post/7190184512532414522) | Thu Jan 19 2023 2:28 AM 
     <details><summary>展开描述 ...</summary> 
-    一款合格的开源项目是避免不了单元测试的，这也是这几年单元测试的热度居高不下的原因。而在今年的`state of js 2022`中，我们可以 
+    一、来源 项目中遇到混合动画的情况，每次实现都需要生命一堆属性，让代码变得杂乱，难以维护。参考 iOS 组动画 CAAimationGroup， 随花半天时间封装一个混合动画组件 AnimatedGr 
     </details> 
 
-- 🕯 [【JSCPC】2021江苏省赛 D. Pattern Lock | 构造](https://juejin.cn/post/7190157709864828965) | Thu Jan 19 2023 12:44 AM 
+- 🕯 [程序猿健康防猝指南6：[科学]运动](https://juejin.cn/post/7190184041922953253) | Thu Jan 19 2023 2:26 AM 
     <details><summary>展开描述 ...</summary> 
-    【JSCPC】2021江苏省赛 D. Pattern Lock | 构造 题目链接 Problem - D - Codeforces 题目 题目大意 $n$ 行 $m$ 列的点阵图，要求构造 $n\t 
+    “均衡饮食、适当（科学）运动、充足睡眠”是国际社会公认的三项健康基本保障。生命在于运动，运动需要科学！ 
     </details> 
 
-- 🚀 [Go语言的依赖管理 ｜ 青训营笔记](https://juejin.cn/post/7190051371129765925) | Wed Jan 18 2023 6:00 PM 
+- 🚀 [2022年度  FinClip  扩展 SDK 推荐！](https://juejin.cn/post/7190175767425187901) | Thu Jan 19 2023 1:54 AM 
     <details><summary>展开描述 ...</summary> 
-    对于较简单的单体函数而言，只需要依赖原生的SDK即可完成开发 对于实际开发的工程较于复杂，应将精力投放在实现的业务逻辑之上，所以出现了依赖管理。 
+    2022年，FinClip 团队进行了24个产品迭代，为了丰富FinClip 的平台能力，除了核心SDK之外，我们还为开发者们提供了扩展SDK。 
     </details> 
 
-- 💪 [一个想活得简单的程序猿的2022年终总结！](https://juejin.cn/post/7190038167301390395) | Wed Jan 18 2023 5:04 PM 
+- 💪 [DNS（域名系统）是如何工作的？](https://juejin.cn/post/7190170797493714981) | Thu Jan 19 2023 1:35 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 今年事件 疫情 健身减肥 给自己放假 在这两个月中，简简单单的做回了一次自己，做了自己想做的事情，认真玩游戏，一口气看完各种番剧，一次性好好体验一下无人打扰的休息时光。。。 在这两个月中，不知不 
+    前言 您是否想知道当您在浏览器中键入任何网站的URL时幕后会发生什么？每当我们键入网站地址（例如www.google.com）时，浏览器都会在几毫秒内为我们加载一个页面。浏览器执行多项操作，如网站 i 
     </details> 
 <!-- juejin:END -->
 ### 少数派
