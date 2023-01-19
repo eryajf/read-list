@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [评论有奖 | 一天一篇，28 天后像高手一样玩转 macOS](https://sspai.com/post/77873) | Wed Jan 18 2023 10:09 AM 
+- 👹 [派早报：Apple 推出新版 HomePod、Twitter 承认屏蔽第三方客户端等](https://sspai.com/post/77899) | Thu Jan 19 2023 12:39 AM 
+    <details><summary>展开描述 ...</summary> 
+    索尼推出新版 FE 20-70mm F4 G 镜头、森海塞尔发布 IE200 有线耳机等。&lt;a href=&quot;https://sspai.com/post/77899&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [评论有奖 | 一天一篇，28 天后像高手一样玩转 macOS](https://sspai.com/post/77873) | Wed Jan 18 2023 10:09 AM 
     <details><summary>展开描述 ...</summary> 
     如果你也觉得你的 Mac 不够高效，常常搞不懂 macOS 的功能和设置，这本《macOS 蓝皮书》正是为你而准备。&lt;a href=&quot;https://sspai.com/post/77873&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [用 Obsidian 写作 1500 张卡片，我总结了 7 个高级技巧](https://sspai.com/post/77871) | Wed Jan 18 2023 9:53 AM 
+- 🤭 [用 Obsidian 写作 1500 张卡片，我总结了 7 个高级技巧](https://sspai.com/post/77871) | Wed Jan 18 2023 9:53 AM 
     <details><summary>展开描述 ...</summary> 
     在本篇文章里，我将给大家分享实践卡片写作，用Obsidian写作1500张卡片后的一些经验和技巧。卡片越小越好在卡片写作过程中，最初容易一下子写很多，可能一张卡片写个四五百字。有写作能力是好的，但是四 ...&lt;a href=&quot;https://sspai.com/post/77871&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [2023 数字世界怀旧指南：在互联网的角落中找寻过去](https://sspai.com/post/77882) | Wed Jan 18 2023 8:00 AM 
+- 🥸 [2023 数字世界怀旧指南：在互联网的角落中找寻过去](https://sspai.com/post/77882) | Wed Jan 18 2023 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     大家常挖苦说互联网「没有记忆」，它悄悄保藏的这些回忆说不定会给你惊喜。&lt;a href=&quot;https://sspai.com/post/77882&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [App+1 | 把 CLIP 搬进 iPhone，让 AI 替你在相册中「大海捞针」](https://sspai.com/post/77862) | Wed Jan 18 2023 7:18 AM 
+- 🙉 [App+1 | 把 CLIP 搬进 iPhone，让 AI 替你在相册中「大海捞针」](https://sspai.com/post/77862) | Wed Jan 18 2023 7:18 AM 
     <details><summary>展开描述 ...</summary> 
     iPhone 相册支持用文字搜索，但搜索能力实在太弱了，于是我把 CLIP 做进了 iPhone 里。&lt;a href=&quot;https://sspai.com/post/77862&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [港口思维：我是如何「自动」处理生活中的繁杂琐碎事务](https://sspai.com/post/77843) | Wed Jan 18 2023 3:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/77843&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
