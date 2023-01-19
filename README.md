@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [日产汽车北美数据泄露，系第三方供应商暴露](https://www.freebuf.com/news/355583.html) | Wed Jan 18 2023 3:38 AM 
+- 🦄 [FreeBuf 早报 | BlackCat等勒索软件正威胁医疗领域；去年GDPR开出超30亿美元罚单](https://www.freebuf.com/news/355637.html) | Wed Jan 18 2023 10:57 AM 
+    <details><summary>展开描述 ...</summary> 
+    欧洲数据保护委员会在2022年开出的罚款金额约为29亿欧元（约 31 亿美元），是 2021 年开出的罚款金额的两倍多。 
+    </details> 
+
+- 🦄 [2022年中国网络安全行业投融资一览 | FreeBuf年度盘点](https://www.freebuf.com/news/355613.html) | Wed Jan 18 2023 9:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    按照时间顺序，盘点2022年国内网络安全行业的具体投融资事件。 
+    </details> 
+
+- 🦅 [震碎三观，谷歌广告竟然传播恶意软件](https://www.freebuf.com/news/355611.html) | Wed Jan 18 2023 9:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    只是因为点击了Google 搜索结果中的一个广告，几个小时后Alex的账户遭到了洗劫。 
+    </details> 
+
+- 🪄 [日产汽车北美数据泄露，系第三方供应商暴露](https://www.freebuf.com/news/355583.html) | Wed Jan 18 2023 3:38 AM 
     <details><summary>展开描述 ...</summary> 
     泄露的客户数据包括全名、出生日期和NMAC账号（日产金融账户）。 
     </details> 
 
-- 🦄 [攻击者可滥用 GitHub 代码空间传递恶意软件](https://www.freebuf.com/news/355582.html) | Wed Jan 18 2023 3:14 AM 
+- 💻 [攻击者可滥用 GitHub 代码空间传递恶意软件](https://www.freebuf.com/news/355582.html) | Wed Jan 18 2023 3:14 AM 
     <details><summary>展开描述 ...</summary> 
     好消息是，研究人员设计的攻击技术尚未在野外攻击中得到应用。 
-    </details> 
-
-- 🦅 [FreeBuf 早报 | Avast 发布免费勒索软件解密器；亚马逊T95电视盒隐藏恶意软件](https://www.freebuf.com/articles/355562.html) | Tue Jan 17 2023 11:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    安全公司 Avast 发布了BianLian勒索软件的免费解密器，允许恶意软件的受害者恢复锁定的文件。 
-    </details> 
-
-- 🪄 [2023年网络安全趋势预测TOP 20 | FreeBuf年度盘点](https://www.freebuf.com/news/355556.html) | Tue Jan 17 2023 10:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    2023 年网络安全仍将是首要考虑的一年，本文整理了多家权威机构及网安行业预测，都是网安人关心的问题。 
-    </details> 
-
-- 💻 [亚马逊销售的 Android 电视盒，正在悄悄窃取你的数据](https://www.freebuf.com/news/355537.html) | Tue Jan 17 2023 8:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    专家发现，在亚马逊和全球速卖通上出售的 T95 Android 电视盒预装了复杂的恶意软件。 
     </details> 
 <!-- freebuf:END -->
 
