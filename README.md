@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Atlist - 使用 1,000 多个标记创建自定义 Google 地图](https://xinquji.com/posts/793103?utm_campaign=xinquji-rss) | Wed Jan 18 2023 6:00 AM 
+- 👀 [Seasons Journaling for iOS - 简单、创意、可定制](https://xinquji.com/posts/793128?utm_campaign=xinquji-rss) | Thu Jan 19 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     使用 1,000 多个标记创建自定义 Google 地图  
+     简单、创意、可定制  
     </details> 
 
-- 🥷 [BrandBastion Lite - 使用 AI 更快地管理社交媒体评论](https://xinquji.com/posts/793102?utm_campaign=xinquji-rss) | Wed Jan 18 2023 6:00 AM 
+- 🥷 [Figma Tokens Sync for Ant Design System - 将 Figma 代币与 Ant Design React 项目同步](https://xinquji.com/posts/793127?utm_campaign=xinquji-rss) | Thu Jan 19 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     使用 AI 更快地管理社交媒体评论  
+     将 Figma 代币与 Ant Design React 项目同步  
     </details> 
 
-- 💼 [AiPetAvatar.com - 为您的宠物打造的 AI 头像生成器](https://xinquji.com/posts/793101?utm_campaign=xinquji-rss) | Wed Jan 18 2023 6:00 AM 
+- 💼 [analogenie - 用模拟向读者解释复杂的概念](https://xinquji.com/posts/793126?utm_campaign=xinquji-rss) | Thu Jan 19 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     为您的宠物打造的 AI 头像生成器  
+     用模拟向读者解释复杂的概念  
     </details> 
 
-- 🦅 [Anote - 标记一些，我们标记其余的](https://xinquji.com/posts/793100?utm_campaign=xinquji-rss) | Wed Jan 18 2023 6:00 AM 
+- 🦅 [Unflow for Onboarding - 无代码移动入职流程](https://xinquji.com/posts/793125?utm_campaign=xinquji-rss) | Thu Jan 19 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     标记一些，我们标记其余的  
+     无代码移动入职流程  
     </details> 
 
-- 😺 [Firmbee - 具有人力资源和项目管理功能的招聘软件](https://xinquji.com/posts/793099?utm_campaign=xinquji-rss) | Wed Jan 18 2023 6:00 AM 
+- 😺 [NetworkAI by Wonsulting - 使用我们的自动化 AI 工具扩大您的 LinkedIn 网络](https://xinquji.com/posts/793124?utm_campaign=xinquji-rss) | Thu Jan 19 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     具有人力资源和项目管理功能的招聘软件  
+     使用我们的自动化 AI 工具扩大您的 LinkedIn 网络  
     </details> 
 <!-- xinquji:END -->
