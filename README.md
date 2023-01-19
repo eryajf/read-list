@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [如何规范微信小程序项目的提交信息和上传版本号？](https://juejin.cn/post/7190192893628252217) | Thu Jan 19 2023 3:01 AM 
+- 🤗 [Flutter封装：跑马灯 MarqueeWidget](https://juejin.cn/post/7190207767247290429) | Thu Jan 19 2023 3:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    一、来源 项目中遇到跑马灯需求，看看了一些第三方的，觉得不够优雅，随想自己实现一个极简且支持多数据的组件。 二、使用demo 三、源码：MarqueeWidget 最后 核心源码很简单，不满足的二次开 
+    </details> 
+
+- 🎡 [TiCDC 源码阅读（三）TiCDC 集群工作过程解析](https://juejin.cn/post/7190199448041947197) | Thu Jan 19 2023 3:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    内容概要 TiCDC 是一款 TiDB 增量数据同步工具，通过拉取上游 TiKV 的数据变更日志，TiCDC 可以将数据解析为有序的行级变更数据输出到下游。 本文是 TiCDC 源码解读的第三篇，主要 
+    </details> 
+
+- 🕯 [你的插件想适配Transform Action? 可能还早了点](https://juejin.cn/post/7190196880469393463) | Thu Jan 19 2023 3:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    为什么要适配Transform Action？ 因为registerTransform 这个api 在8.0的agp版本中要被删除了啊，到时候你的工程中的插件如果还有这个api 就编译失败了 适配这个 
+    </details> 
+
+- 🚀 [企业微信零耦合集成腾讯会议和腾讯文档插件化架构实践](https://juejin.cn/post/7190193768706867258) | Thu Jan 19 2023 3:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    导语 | 企业微信 iOS 端作为代码超过800万行的大型项目，接入了腾讯会议、腾讯文档、企业邮箱等功能插件。要融合多个异构系统、支撑多个团队同时协作开发一个 APP 是极大的挑战。同时，迅速膨胀的代 
+    </details> 
+
+- 💪 [如何规范微信小程序项目的提交信息和上传版本号？](https://juejin.cn/post/7190192893628252217) | Thu Jan 19 2023 3:01 AM 
     <details><summary>展开描述 ...</summary> 
     笔者在开发微信小程序的时候发现开发者工具在上传代码和版本管理这两个功能（环节）中有一点小瑕疵。 首先，对于代码上传，这个功能是要把当前的代码上传到开发者后台，需要在弹窗的表单中填写版本号和备注，这个版 
-    </details> 
-
-- 🎡 [代码影响范围工具探索](https://juejin.cn/post/7190188739597959224) | Thu Jan 19 2023 2:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    1.祖传代码不敢随意改动，影响范围无法评估。并且组内时常有因为修改了某块代码，导致其他业务受到影响，产生bug，影响生产。 2.研发提测完成后，测试进入测试后经 
-    </details> 
-
-- 🕯 [一种面向业务配置基于JSF广播定时生效的工具](https://juejin.cn/post/7190188574585651257) | Thu Jan 19 2023 2:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    目前，ducc实现了实时近乎所有配置动态生效的场景，但是配置是否实时生效，不能直观展示每个机器上jvm内对象对应的参数是否已变更为准确的值，大部分时候需 
-    </details> 
-
-- 🚀 [Flutter封装：组动画/混合动画 AnimatedGroup](https://juejin.cn/post/7190184512532414522) | Thu Jan 19 2023 2:28 AM 
-    <details><summary>展开描述 ...</summary> 
-    一、来源 项目中遇到混合动画的情况，每次实现都需要生命一堆属性，让代码变得杂乱，难以维护。参考 iOS 组动画 CAAimationGroup， 随花半天时间封装一个混合动画组件 AnimatedGr 
-    </details> 
-
-- 💪 [程序猿健康防猝指南6：[科学]运动](https://juejin.cn/post/7190184041922953253) | Thu Jan 19 2023 2:26 AM 
-    <details><summary>展开描述 ...</summary> 
-    “均衡饮食、适当（科学）运动、充足睡眠”是国际社会公认的三项健康基本保障。生命在于运动，运动需要科学！ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
