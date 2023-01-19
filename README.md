@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Postico 2.0&lpar;9510&rpar; Beta 优秀的PostgreSQL客户端](https://xclient.info/s/postico.html) | Thu Jan 19 2023 2:45 AM 
+- 🦏 [Smooze Pro 2.0.32 鼠标滚动增强软件](https://xclient.info/s/smooze-pro.html) | Thu Jan 19 2023 2:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    Smooze 是一款更改鼠标滚动方式的软件，同时也支持非苹果的鼠标，也就是说也支持滚轮操作。如果你觉得在苹果系统中滚动网页或者鼠标动作有点难看就可以试一下它。 
+    </details> 
+
+-  [Timemator 3.0.2 时间跟踪及自动化工具](https://xclient.info/s/timemator.html) | Thu Jan 19 2023 2:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    Timemator 是一款mac时间自动追踪应用，会自动捕获您在Mac上所做的一切。 
+    </details> 
+
+- ⚗️ [Postico 2.0&lpar;9510&rpar; Beta 优秀的PostgreSQL客户端](https://xclient.info/s/postico.html) | Thu Jan 19 2023 2:45 AM 
     <details><summary>展开描述 ...</summary> 
     Postico是一款Mac平台的优秀的PostgreSQL客户端，支持本地和远程云服务，Heroku Postgres, Amazon Redshift, Amazon RDS等 
     </details> 
 
--  [Magic Battery 7.8.1 蓝牙设备电量展示用具](https://xclient.info/s/magic-battery.html) | Thu Jan 19 2023 2:44 AM 
+- 🔥 [Magic Battery 7.8.1 蓝牙设备电量展示用具](https://xclient.info/s/magic-battery.html) | Thu Jan 19 2023 2:44 AM 
     <details><summary>展开描述 ...</summary> 
     Magic Battery 可以帮助用户显示当前通过蓝牙连接到Mac电脑上的设备的当前电量状况。 
     </details> 
 
-- ⚗️ [Lyn 2.2.3 轻量级看图软件](https://xclient.info/s/lyn.html) | Thu Jan 19 2023 2:43 AM 
+- 🌋 [Lyn 2.2.3 轻量级看图软件](https://xclient.info/s/lyn.html) | Thu Jan 19 2023 2:43 AM 
     <details><summary>展开描述 ...</summary> 
     Lyn是一款Mac平台轻量级的看图软件，另外还支持图片导出、编辑、导入等功能。 
-    </details> 
-
-- 🔥 [Sketch 95.1 轻量易用的矢量设计工具](https://xclient.info/s/sketch.html) | Thu Jan 19 2023 2:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    Sketch（App Store 精华） 是最强大的移动应用矢量绘图设计工具，对于网页设计和移动设计者来说，比PhotoShop好用N倍！尤其是在移动应用设计方面，Sketch 3 的优点在于使用简单，学习曲线低，并且功能更加强大易用。能够大大节省设计师的时间和工作量，非常适合进行网站设计、移动应用设计、图标设计等 
-    </details> 
-
-- 🌋 [Keka 1.2.60 好用的压缩工具](https://xclient.info/s/keka.html) | Thu Jan 19 2023 2:40 AM 
-    <details><summary>展开描述 ...</summary> 
-    keka是一款优秀又小巧的压缩、解压缩软件,速度很快 
     </details> 
 <!-- xclient:END -->
 
