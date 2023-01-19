@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2023 年前端工程化都在谈些什么](https://juejin.cn/post/7190273248615989285) | Thu Jan 19 2023 8:12 AM 
+- 🤗 [通知栏的那些奇技淫巧](https://juejin.cn/post/7190280650283778106) | Thu Jan 19 2023 8:41 AM 
     <details><summary>展开描述 ...</summary> 
-    什么是前端工程化，是我去年困扰我很久的一个问题，打开搜索引擎一搜，能找到四个关键字，模块化、组件化、规范化、自动化，但一看这几个字，更加迷茫了，没说解决了什么问题。大部分搜出来的都是 webpack、 
+    如何实现针对某一个应用通知栏的某一个按钮的点击，比如监听喜马拉雅APP，当接收到通知的时候，需要点击关闭按钮。这个需求该如何接住呢？ 
     </details> 
 
-- 🎡 [深入MySQL字符编码与对照规则](https://juejin.cn/post/7190266756873584695) | Thu Jan 19 2023 7:47 AM 
+- 🎡 [为什么要选择VersionCatalog来做依赖管理?](https://juejin.cn/post/7190277951614058555) | Thu Jan 19 2023 8:31 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇和大家一起深入`MySQL`的字符集与对照规则，剖析下我们存储在`MySQL`中的字段是如何进行存储和校验比对的。先通过案例引出问题，回顾基础知识拉齐共识，深入了解MySQL字符编码，最汇总经验。 
+    很多人都介绍过Gradle 7.+提供的VersionCatalog，我就不过多展开这个了。我们最近也算是成功接入了VersionCatalog,过程也还是有点曲折的，总体来说我觉得确实比 
     </details> 
 
-- 🕯 [NLP学习笔记&lpar;六&rpar; Transformer简明介绍](https://juejin.cn/post/7190263121120854074) | Thu Jan 19 2023 7:34 AM 
+- 🕯 [简述JavaScript异步函数 async/await](https://juejin.cn/post/7189919858195169340) | Wed Jan 18 2023 9:21 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是半虹，这篇文章来讲 Transformer，想要获取更多相关文章，欢迎关注自然语言处理专栏。在之前的两篇文章中，我们介绍过序列到序列模型以及注意力机制在序列到序列模型中的应用... 
+    ES7 引入的 async/await 是对 JavaScript 异步编程的一种改进，它提供了使用同步样式代码异步访问资源的选项，而不会阻塞主线程。但是，要很好地使用它有点棘手。 
     </details> 
 
-- 🚀 [再也不学AJAX了！（二）使用AJAX ② Fetch API](https://juejin.cn/post/7190261216650985533) | Thu Jan 19 2023 7:26 AM 
+- 🚀 [SpringMvc项目集成nacos、openfeign、Ribbon，仿 springcloud openfeign 实现微服务下接口调用](https://juejin.cn/post/7189881963925209146) | Wed Jan 18 2023 6:54 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇文章是「再也不学 AJAX」系列的第三篇，向读者介绍了客户端发送 AJAX 请求的另一种，也是更加现代的方法 Fetch API。 
+    SpringMvc项目集成nacos、openfeign、Ribbon，仿 springcloud openfeign 实现微服务下接口调用 
     </details> 
 
-- 💪 [《javaScript设计模式与开发实践》笔记](https://juejin.cn/post/7190261077148434489) | Thu Jan 19 2023 7:26 AM 
+- 💪 [请求库：fetch vs axios vs umi-request 对比分析](https://juejin.cn/post/7189879963968323621) | Wed Jan 18 2023 6:46 AM 
     <details><summary>展开描述 ...</summary> 
-    面试被问了很多次设计模式，通过《javaScript设计模式与开发实践》这本书记录下各个模式。重要的是对模式的理解，在阅读代码时也会带着设计模式的思想去学习 
+    Fetch API、Axios、Umi-request 是前端开发日常较常用的请求方案，具体用法、优劣，接下来我们做下分析。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
