@@ -604,27 +604,27 @@
 ### 摄影世界
 
 <!-- photoworld:START -->
-- 🤠 [新品丨十倍变焦，摄你所愿，60-600mm F4.5-6.3 DG DN OS 发布！](https://www.photoworld.com.cn/post/168312) | Thu Jan 12 2023 9:52 AM 
+- 🤠 [摄影世界·世界牦牛——2022 年首届 “高原之宝” 全国牦牛影像作品征集活动获奖名单](https://www.photoworld.com.cn/post/168368) | Thu Jan 19 2023 8:10 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 🎃 [2022 米拍摄影奖正式启动！举起相机，一起让世界看见！](https://www.photoworld.com.cn/post/168273) | Thu Jan 12 2023 7:38 AM 
+- 🎃 [新品丨十倍变焦，摄你所愿，60-600mm F4.5-6.3 DG DN OS 发布！](https://www.photoworld.com.cn/post/168312) | Thu Jan 12 2023 9:52 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 👀 [适配松下 S5M2 的镜头固件来了！](https://www.photoworld.com.cn/post/168246) | Tue Jan 10 2023 9:03 AM 
+- 👀 [2022 米拍摄影奖正式启动！举起相机，一起让世界看见！](https://www.photoworld.com.cn/post/168273) | Thu Jan 12 2023 7:38 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 🤔 [小寒 | 轻舞一曲送冬雪，万家灯里待春风](https://www.photoworld.com.cn/post/168184) | Thu Jan 05 2023 1:16 AM 
+- 🤔 [适配松下 S5M2 的镜头固件来了！](https://www.photoworld.com.cn/post/168246) | Tue Jan 10 2023 9:03 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 👀 [在 “诸神黄昏” 的足球赛场，记录下悲欢离合的历史瞬间！](https://www.photoworld.com.cn/post/168190) | Thu Jan 05 2023 1:15 AM 
+- 👀 [小寒 | 轻舞一曲送冬雪，万家灯里待春风](https://www.photoworld.com.cn/post/168184) | Thu Jan 05 2023 1:16 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
