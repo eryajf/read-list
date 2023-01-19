@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Seasons Journaling for iOS - 简单、创意、可定制](https://xinquji.com/posts/793128?utm_campaign=xinquji-rss) | Thu Jan 19 2023 6:00 AM 
+- 👀 [Liner - 分享您的书签并加入网络策展人行列](https://xinquji.com/posts/793153?utm_campaign=xinquji-rss) | Thu Jan 19 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     简单、创意、可定制  
+     分享您的书签并加入网络策展人行列  
     </details> 
 
-- 🥷 [Figma Tokens Sync for Ant Design System - 将 Figma 代币与 Ant Design React 项目同步](https://xinquji.com/posts/793127?utm_campaign=xinquji-rss) | Thu Jan 19 2023 6:00 AM 
+- 🥷 [Coin Identifier - 快速准确地识别任何硬币](https://xinquji.com/posts/793152?utm_campaign=xinquji-rss) | Thu Jan 19 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     将 Figma 代币与 Ant Design React 项目同步  
+     快速准确地识别任何硬币  
     </details> 
 
-- 💼 [analogenie - 用模拟向读者解释复杂的概念](https://xinquji.com/posts/793126?utm_campaign=xinquji-rss) | Thu Jan 19 2023 6:00 AM 
+- 💼 [UpBuzz - Reddit 帖子调度和推广工具](https://xinquji.com/posts/793151?utm_campaign=xinquji-rss) | Thu Jan 19 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     用模拟向读者解释复杂的概念  
+     Reddit 帖子调度和推广工具  
     </details> 
 
-- 🦅 [Unflow for Onboarding - 无代码移动入职流程](https://xinquji.com/posts/793125?utm_campaign=xinquji-rss) | Thu Jan 19 2023 6:00 AM 
+- 🦅 [Recall.ai - 会议机器人的通用 API](https://xinquji.com/posts/793150?utm_campaign=xinquji-rss) | Thu Jan 19 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     无代码移动入职流程  
+     会议机器人的通用 API  
     </details> 
 
-- 😺 [NetworkAI by Wonsulting - 使用我们的自动化 AI 工具扩大您的 LinkedIn 网络](https://xinquji.com/posts/793124?utm_campaign=xinquji-rss) | Thu Jan 19 2023 6:00 AM 
+- 😺 [Contentful to Figma Plugin - 毫不费力地将 Contentful 和 Figma 融入您的工作流程](https://xinquji.com/posts/793149?utm_campaign=xinquji-rss) | Thu Jan 19 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     使用我们的自动化 AI 工具扩大您的 LinkedIn 网络  
+     毫不费力地将 Contentful 和 Figma 融入您的工作流程  
     </details> 
 <!-- xinquji:END -->
