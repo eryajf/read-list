@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [是什么让小孩子成为了枪手？](http://jandan.net/p/112229) | Thu Jan 19 2023 3:08 AM 
+- 🚀 [25万年的历史中，每个世代父亲的平均年龄始终大于母亲](http://jandan.net/p/112185) | Thu Jan 19 2023 5:39 AM 
+    <details><summary>展开描述 ...</summary> 
+    最前沿的DNA技术可以窥视 25 万年前的过去。 
+    </details> 
+
+- 🙉 [包皮环切术对生殖健康有益吗](http://jandan.net/p/112204) | Thu Jan 19 2023 3:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    对于某些人来说，包皮环切术是宗教或文化行为 
+    </details> 
+
+- 🎉 [是什么让小孩子成为了枪手？](http://jandan.net/p/112229) | Thu Jan 19 2023 3:08 AM 
     <details><summary>展开描述 ...</summary> 
     ZSBD 
     </details> 
 
-- 🙉 [Quora | 关于瑞士](http://jandan.net/p/112224) | Thu Jan 19 2023 12:41 AM 
+- 🐲 [Quora | 关于瑞士](http://jandan.net/p/112224) | Thu Jan 19 2023 12:41 AM 
     <details><summary>展开描述 ...</summary> 
     如今瑞士银行与世界其他地区的银行没什么不同。 
     </details> 
 
-- 🎉 [今日好价 0119](http://jandan.net/p/112226) | Thu Jan 19 2023 12:40 AM 
+-  [今日好价 0119](http://jandan.net/p/112226) | Thu Jan 19 2023 12:40 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：17 
-    </details> 
-
-- 🐲 [现代美国家庭结构的演变](http://jandan.net/p/112223) | Wed Jan 18 2023 11:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    延迟生育和更少的孩子 
-    </details> 
-
--  [中国方面的数据显示：退休生活让老年人的认知水平迅速下降](http://jandan.net/p/112212) | Wed Jan 18 2023 5:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    emmmm 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
