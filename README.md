@@ -341,7 +341,7 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Nice 兔 meet u | 中奖名单公示 🎉](https://juejin.cn/post/7190364067205709880) | Thu Jan 19 2023 2:05 PM 
+- 🤗 [青听 | Nice 兔 meet u 抽奖直播中奖名单公示 🎉](https://juejin.cn/post/7190364067205709880) | Thu Jan 19 2023 2:05 PM 
     <details><summary>展开描述 ...</summary> 
     让大家中奖的代码在这里：https://code.juejin.cn/pen/7190318980161077305 
     </details> 
