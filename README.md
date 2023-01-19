@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Smooze Pro 2.0.30 鼠标滚动增强软件](https://xclient.info/s/smooze-pro.html) | Wed Jan 18 2023 1:58 AM 
+- 🦏 [Postico 2.0&lpar;9510&rpar; Beta 优秀的PostgreSQL客户端](https://xclient.info/s/postico.html) | Thu Jan 19 2023 2:45 AM 
     <details><summary>展开描述 ...</summary> 
-    Smooze 是一款更改鼠标滚动方式的软件，同时也支持非苹果的鼠标，也就是说也支持滚轮操作。如果你觉得在苹果系统中滚动网页或者鼠标动作有点难看就可以试一下它。 
+    Postico是一款Mac平台的优秀的PostgreSQL客户端，支持本地和远程云服务，Heroku Postgres, Amazon Redshift, Amazon RDS等 
     </details> 
 
--  [SiteSucker Pro 5.1.1 扒站神器](https://xclient.info/s/sitesucker.html) | Wed Jan 18 2023 1:57 AM 
+-  [Magic Battery 7.8.1 蓝牙设备电量展示用具](https://xclient.info/s/magic-battery.html) | Thu Jan 19 2023 2:44 AM 
     <details><summary>展开描述 ...</summary> 
-    SiteSucker是一款Mac OS X上的整站下载的利器，可以将整个网站所有资源下载到本地硬盘。 
+    Magic Battery 可以帮助用户显示当前通过蓝牙连接到Mac电脑上的设备的当前电量状况。 
     </details> 
 
-- ⚗️ [ProFind 1.20.0 高级文件搜索](https://xclient.info/s/profind.html) | Wed Jan 18 2023 1:56 AM 
+- ⚗️ [Lyn 2.2.3 轻量级看图软件](https://xclient.info/s/lyn.html) | Thu Jan 19 2023 2:43 AM 
     <details><summary>展开描述 ...</summary> 
-    ProFind是一款实用的文件搜索软件，具有强大的功能和出色的性能，可为macOS提供高级文件搜索。并支持自然语言查询，应用程序启动，隐藏位置搜索，脚本编写等。此外，能在隐形文件夹和包中搜索，并搜索任何磁盘类型。 
+    Lyn是一款Mac平台轻量级的看图软件，另外还支持图片导出、编辑、导入等功能。 
     </details> 
 
-- 🔥 [PullTube 1.8.4.20 在线视频下载工具](https://xclient.info/s/pulltube.html) | Wed Jan 18 2023 1:53 AM 
+- 🔥 [Sketch 95.1 轻量易用的矢量设计工具](https://xclient.info/s/sketch.html) | Thu Jan 19 2023 2:43 AM 
     <details><summary>展开描述 ...</summary> 
-    PullTube 是一款amcOS平台的在线视频下载工具，可以帮助我们下载油管以及Vimeo的在线视频到本地 
+    Sketch（App Store 精华） 是最强大的移动应用矢量绘图设计工具，对于网页设计和移动设计者来说，比PhotoShop好用N倍！尤其是在移动应用设计方面，Sketch 3 的优点在于使用简单，学习曲线低，并且功能更加强大易用。能够大大节省设计师的时间和工作量，非常适合进行网站设计、移动应用设计、图标设计等 
     </details> 
 
-- 🌋 [WonderPen 2.2.4 优秀的文本写作工具](https://xclient.info/s/wonderpen.html) | Wed Jan 18 2023 1:52 AM 
+- 🌋 [Keka 1.2.60 好用的压缩工具](https://xclient.info/s/keka.html) | Thu Jan 19 2023 2:40 AM 
     <details><summary>展开描述 ...</summary> 
-    WonderPen 是一款Mac上优秀的文本写作工具，简单易用的文本编辑器，支持 Markdown 语法。可切换为全屏专注模式，排除干扰，专心写作。 
+    keka是一款优秀又小巧的压缩、解压缩软件,速度很快 
     </details> 
 <!-- xclient:END -->
 
