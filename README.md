@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [“零”代码改动，静态编译让太乙Stable Diffusion推理速度翻倍](https://juejin.cn/post/7190208386742288443) | Thu Jan 19 2023 4:02 AM 
+- 🤗 [喜报|HarmonyOS开发者社区连获业内奖项，持续深耕开发者生态](https://juejin.cn/post/7190229559835361317) | Thu Jan 19 2023 5:23 AM 
+    <details><summary>展开描述 ...</summary> 
+    临近年末，各大平台陆续揭晓年度榜单，表彰了具备强大影响力与做出突出贡献的优秀项目与团队，而HarmonyOS开发者社区作为技术分享，学习和展示的平台，输出高质量技术文章百余篇，连续获得业内各大奖项 
+    </details> 
+
+- 🎡 [【重启通知】Elastic 中国开发者大会定于2023年4月8日在深圳举办，欢迎前来参会](https://juejin.cn/post/7190222362502479928) | Thu Jan 19 2023 4:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    转载：【重启通知】Elastic 中国开发者大会定于2023年4月8日在深圳举办，欢迎前来参会！ 其他说明： 1、目前大会报名购票通道已重新开启，欢迎大家报名参会（已经报名的参会者请勿重复报名），现在 
+    </details> 
+
+- 🕯 [“零”代码改动，静态编译让太乙Stable Diffusion推理速度翻倍](https://juejin.cn/post/7190208386742288443) | Thu Jan 19 2023 4:02 AM 
     <details><summary>展开描述 ...</summary> 
     为了提升其推理效率，OneFlow 首度将 Stable Diffusion 模型加速至“一秒出图”时代，极大提升了文生图的速度。 
     </details> 
 
-- 🎡 [Flutter封装：跑马灯 MarqueeWidget](https://juejin.cn/post/7190207767247290429) | Thu Jan 19 2023 3:58 AM 
+- 🚀 [Flutter封装：跑马灯 MarqueeWidget](https://juejin.cn/post/7190207767247290429) | Thu Jan 19 2023 3:58 AM 
     <details><summary>展开描述 ...</summary> 
     一、来源 项目中遇到跑马灯需求，看看了一些第三方的，觉得不够优雅，随想自己实现一个极简且支持多数据的组件。 二、使用demo 三、源码：MarqueeWidget 最后 核心源码很简单，不满足的二次开 
     </details> 
 
-- 🕯 [TiCDC 源码阅读（三）TiCDC 集群工作过程解析](https://juejin.cn/post/7190199448041947197) | Thu Jan 19 2023 3:27 AM 
+- 💪 [TiCDC 源码阅读（三）TiCDC 集群工作过程解析](https://juejin.cn/post/7190199448041947197) | Thu Jan 19 2023 3:27 AM 
     <details><summary>展开描述 ...</summary> 
     内容概要 TiCDC 是一款 TiDB 增量数据同步工具，通过拉取上游 TiKV 的数据变更日志，TiCDC 可以将数据解析为有序的行级变更数据输出到下游。 本文是 TiCDC 源码解读的第三篇，主要 
-    </details> 
-
-- 🚀 [你的插件想适配Transform Action? 可能还早了点](https://juejin.cn/post/7190196880469393463) | Thu Jan 19 2023 3:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    为什么要适配Transform Action？ 因为registerTransform 这个api 在8.0的agp版本中要被删除了啊，到时候你的工程中的插件如果还有这个api 就编译失败了 适配这个 
-    </details> 
-
-- 💪 [企业微信零耦合集成腾讯会议和腾讯文档插件化架构实践](https://juejin.cn/post/7190193768706867258) | Thu Jan 19 2023 3:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    导语 | 企业微信 iOS 端作为代码超过800万行的大型项目，接入了腾讯会议、腾讯文档、企业邮箱等功能插件。要融合多个异构系统、支撑多个团队同时协作开发一个 APP 是极大的挑战。同时，迅速膨胀的代 
     </details> 
 <!-- juejin:END -->
 ### 少数派
