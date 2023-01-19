@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [FreeBuf 早报 | BlackCat等勒索软件正威胁医疗领域；去年GDPR开出超30亿美元罚单](https://www.freebuf.com/news/355637.html) | Wed Jan 18 2023 10:57 AM 
+- 🦄 [丰收之年？去年 GDPR 处罚金额激增至 31 亿美元](https://www.freebuf.com/news/355672.html) | Thu Jan 19 2023 3:40 AM 
+    <details><summary>展开描述 ...</summary> 
+    这些金额包括自 2022 年 1 月 28 日以来 27 个欧盟成员国以及冰岛、列支敦士登、挪威和英国开出的所有已知 GDPR 罚款。 
+    </details> 
+
+- 🦄 [不满韩国与北约合作，亲俄黑客称入侵了三星内部服务器](https://www.freebuf.com/articles/355670.html) | Thu Jan 19 2023 3:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    亲俄罗斯的黑客组织Genesis Day称，因不满韩国与北约合作而攻破了三星集团的内部服务器。 
+    </details> 
+
+- 🦅 [FreeBuf 早报 | BlackCat等勒索软件正威胁医疗领域；去年GDPR开出超30亿美元罚单](https://www.freebuf.com/news/355637.html) | Wed Jan 18 2023 10:57 AM 
     <details><summary>展开描述 ...</summary> 
     欧洲数据保护委员会在2022年开出的罚款金额约为29亿欧元（约 31 亿美元），是 2021 年开出的罚款金额的两倍多。 
     </details> 
 
-- 🦄 [2022年中国网络安全行业投融资一览 | FreeBuf年度盘点](https://www.freebuf.com/news/355613.html) | Wed Jan 18 2023 9:29 AM 
+- 🪄 [2022年中国网络安全行业投融资一览 | FreeBuf年度盘点](https://www.freebuf.com/news/355613.html) | Wed Jan 18 2023 9:29 AM 
     <details><summary>展开描述 ...</summary> 
     按照时间顺序，盘点2022年国内网络安全行业的具体投融资事件。 
     </details> 
 
-- 🦅 [震碎三观，谷歌广告竟然传播恶意软件](https://www.freebuf.com/news/355611.html) | Wed Jan 18 2023 9:24 AM 
+- 💻 [震碎三观，谷歌广告竟然传播恶意软件](https://www.freebuf.com/news/355611.html) | Wed Jan 18 2023 9:24 AM 
     <details><summary>展开描述 ...</summary> 
     只是因为点击了Google 搜索结果中的一个广告，几个小时后Alex的账户遭到了洗劫。 
-    </details> 
-
-- 🪄 [日产汽车北美数据泄露，系第三方供应商暴露](https://www.freebuf.com/news/355583.html) | Wed Jan 18 2023 3:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    泄露的客户数据包括全名、出生日期和NMAC账号（日产金融账户）。 
-    </details> 
-
-- 💻 [攻击者可滥用 GitHub 代码空间传递恶意软件](https://www.freebuf.com/news/355582.html) | Wed Jan 18 2023 3:14 AM 
-    <details><summary>展开描述 ...</summary> 
-    好消息是，研究人员设计的攻击技术尚未在野外攻击中得到应用。 
     </details> 
 <!-- freebuf:END -->
 
