@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有什么方便做笔记注解的 pdf 阅读器？](https://www.v2ex.com/t/910019#reply2) | Fri Jan 20 2023 3:29 AM
-- 🤗 [github 访问不了 无法提交代码](https://www.v2ex.com/t/910013#reply1) | Fri Jan 20 2023 2:59 AM
-- 🎭 [寻找对 AIGC 感兴趣且有相关算法技术背景的朋友](https://www.v2ex.com/t/910011#reply0) | Fri Jan 20 2023 2:55 AM
-- 🥷 [服务最好是无状态的是什么意思](https://www.v2ex.com/t/910002#reply17) | Fri Jan 20 2023 2:20 AM
-- 🐵 [小米手机使用 UPnP 协议，这是要干嘛?](https://www.v2ex.com/t/910000#reply12) | Fri Jan 20 2023 2:18 AM<!-- v2ex:END -->
+- 🥸 [过年回家电脑上三个远程没有一个可以使用 有什么稳定好用的远程推荐吗？](https://www.v2ex.com/t/910028#reply0) | Fri Jan 20 2023 4:54 AM
+- 🤗 [学费生活费预算 20w，现在还有合适的水硕项目吗](https://www.v2ex.com/t/910025#reply4) | Fri Jan 20 2023 4:37 AM
+- 🎭 [有什么方便做笔记注解的 pdf 阅读器？](https://www.v2ex.com/t/910019#reply3) | Fri Jan 20 2023 3:29 AM
+- 🥷 [github 访问不了 无法提交代码](https://www.v2ex.com/t/910013#reply1) | Fri Jan 20 2023 2:59 AM
+- 🐵 [寻找对 AIGC 感兴趣且有相关算法技术背景的朋友](https://www.v2ex.com/t/910011#reply0) | Fri Jan 20 2023 2:55 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
