@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [深入浅出学习透析Nginx服务器的架构分析及原理分析「底层技术原理+运作架构机制」](https://juejin.cn/post/7190418252655231033) | Thu Jan 19 2023 5:41 PM 
+- 🤗 [React和Vue谁会淘汰谁？](https://juejin.cn/post/7190550643386351653) | Fri Jan 20 2023 2:09 AM 
+    <details><summary>展开描述 ...</summary> 
+    大家好，我卡颂。 在我的技术群里大家经常会聊一些宏观的技术问题，就比如： 这样的讨论，到最后往往会陷入技术的细枝末节的比较，比如： 对比两者响应式的实现原理 对比两者的运行时性能 很多程序员朋友，会觉 
+    </details> 
+
+- 🎡 [day01-复习JavaScript基础语法 ｜ 青训营笔记](https://juejin.cn/post/7190550231061102647) | Fri Jan 20 2023 2:09 AM 
+    <details><summary>展开描述 ...</summary> 
+    本篇文章主要为读者介绍了js基础，开本篇系列的初衷是为了记录codewhy的课程笔记，也方便大家进行复习 
+    </details> 
+
+- 🕯 [深入浅出学习透析Nginx服务器的架构分析及原理分析「底层技术原理+运作架构机制」](https://juejin.cn/post/7190418252655231033) | Thu Jan 19 2023 5:41 PM 
     <details><summary>展开描述 ...</summary> 
     Nginx再次回顾 也许你已经忘记了Nginx是做什么的？我来再次给你夯实一下概念。 多协议反向代理 Nginx是个高性能的Web和反向代理服务器及HTTP服务器，它能反向代理HTTP，HTTPS和邮 
     </details> 
 
-- 🎡 [XXL-Job源码阅读（一）JobTriggerPoolHelper](https://juejin.cn/post/7190395870926340152) | Thu Jan 19 2023 4:10 PM 
+- 🚀 [XXL-Job源码阅读（一）JobTriggerPoolHelper](https://juejin.cn/post/7190395870926340152) | Thu Jan 19 2023 4:10 PM 
     <details><summary>展开描述 ...</summary> 
     本文源码阅读的主角是`JobTriggerPoolHelper`，作业触发线程池助手，通过阅读此部分源码，我们可以学习到： 1. 线程池隔离技术 2. 多线程知识 
     </details> 
 
-- 🕯 [青听 | Nice 兔 meet u 抽奖直播中奖名单公示 🎉](https://juejin.cn/post/7190364067205709880) | Thu Jan 19 2023 2:05 PM 
+- 💪 [青听 | Nice 兔 meet u 抽奖直播中奖名单公示 🎉](https://juejin.cn/post/7190364067205709880) | Thu Jan 19 2023 2:05 PM 
     <details><summary>展开描述 ...</summary> 
     让大家中奖的代码在这里：https://code.juejin.cn/pen/7190318980161077305 
-    </details> 
-
-- 🚀 [前端都在聊什么 - 第 1 期](https://juejin.cn/post/7190358381461241912) | Thu Jan 19 2023 1:43 PM 
-    <details><summary>展开描述 ...</summary> 
-    「前端都在聊什么」是 jsliang 日常写文章/做视频/搞直播过程中，小伙伴们的提问以及我的解疑整理。每期都会针对不同的话题进行讨论，快来看看有没有说到你想法去的~ 
-    </details> 
-
-- 💪 [聊聊前端无障碍实践](https://juejin.cn/post/7190341213126410298) | Thu Jan 19 2023 12:36 PM 
-    <details><summary>展开描述 ...</summary> 
-    许多人认为残障人群不使用互联网。事实上，情况完全相反，很多残障人群和健全人一样经常使用网站，在网上购物和进行社交活动，甚至对网络的依赖更大。本文介绍了相关概念与辅助技术，以及如何提高页面的无障碍性。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
