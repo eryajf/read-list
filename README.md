@@ -346,24 +346,24 @@
     我觉得今年的关键字可以用：普通、忙碌两个词来总结。普通是源于年中跳槽成功但也遗憾错过了很多很好的机会，忙碌则是技术工作的常态 关于工作 今年年中跳槽到了新的公司，从原来的项目管理变成前端开发，工作时间 
     </details> 
 
-- 🎡 [day02-复习JavaScript编写注意事项 | 青训营笔记](https://juejin.cn/post/7190606202219266085) | Fri Jan 20 2023 5:47 AM 
+- 🎡 [我迟来的 2022 年终总结：前已无通路，后不见归途](https://juejin.cn/post/7190642806610722871) | Fri Jan 20 2023 8:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    今年写了几篇文章，算做了一些个人技术总结，但回过头我却发现对自己过去二十多年的人生找不到什么来概括。 我在二十岁生日的时候写下， 
+    </details> 
+
+- 🕯 [day02-复习JavaScript编写注意事项 | 青训营笔记](https://juejin.cn/post/7190606202219266085) | Fri Jan 20 2023 5:47 AM 
     <details><summary>展开描述 ...</summary> 
     本篇文章主要为读者介绍了JavaScript的基本编写注意事项，在一定程度上能够帮助到读者，提示我们在编写js代码的时候要格外小心 
     </details> 
 
-- 🕯 [多篇SQL性能优化文章、仿贝壳App全景看房 | 酱酱的下午茶第158期](https://juejin.cn/post/7190601914734608444) | Fri Jan 20 2023 5:28 AM 
+- 🚀 [多篇SQL性能优化文章、仿贝壳App全景看房 | 酱酱的下午茶第158期](https://juejin.cn/post/7190601914734608444) | Fri Jan 20 2023 5:28 AM 
     <details><summary>展开描述 ...</summary> 
     聊一聊我对跨域的理解和最佳实践 这样的优化对 MySQL 来说作用微乎其微 SQL为什么动不动就N百行以K计 一次偶然机会发现的MySQL“负优化” 
     </details> 
 
-- 🚀 [volatile 关键字与计算机底层的一些杂谈](https://juejin.cn/post/7190598407113670711) | Fri Jan 20 2023 5:15 AM 
+- 💪 [volatile 关键字与计算机底层的一些杂谈](https://juejin.cn/post/7190598407113670711) | Fri Jan 20 2023 5:15 AM 
     <details><summary>展开描述 ...</summary> 
     前言 volatile 是 Java 并发编程中一个非常重要，也是面试常问的一个技术点，用起来很简单直接修饰在变量前面即可，但是我们真的懂这个关键字吗？它在 JVM 底层，甚至在 CPU 层面到底是如 
-    </details> 
-
-- 💪 [「兔了个兔」龟兔赛跑——乌龟和兔子能否相遇？](https://juejin.cn/post/7190592456214183992) | Fri Jan 20 2023 4:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    我正在参加「兔了个兔」创意投稿大赛，详情请看：「兔了个兔」创意投稿大赛 森林里一年一度的赛跑大赛又开始了，乌龟和兔子又被分到了一组，这次乌龟还能跑过兔子吗？ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
