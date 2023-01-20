@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [「兔了个兔」龟兔赛跑——乌龟和兔子能否相遇？](https://juejin.cn/post/7190592456214183992) | Fri Jan 20 2023 4:56 AM 
+- 🤗 [day02-复习JavaScript编写注意事项 | 青训营笔记](https://juejin.cn/post/7190606202219266085) | Fri Jan 20 2023 5:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    本篇文章主要为读者介绍了JavaScript的基本编写注意事项，在一定程度上能够帮助到读者，提示我们在编写js代码的时候要格外小心 
+    </details> 
+
+- 🎡 [多篇SQL性能优化文章、仿贝壳App全景看房 | 酱酱的下午茶第158期](https://juejin.cn/post/7190601914734608444) | Fri Jan 20 2023 5:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    聊一聊我对跨域的理解和最佳实践 这样的优化对 MySQL 来说作用微乎其微 SQL为什么动不动就N百行以K计 一次偶然机会发现的MySQL“负优化” 
+    </details> 
+
+- 🕯 [volatile 关键字与计算机底层的一些杂谈](https://juejin.cn/post/7190598407113670711) | Fri Jan 20 2023 5:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 volatile 是 Java 并发编程中一个非常重要，也是面试常问的一个技术点，用起来很简单直接修饰在变量前面即可，但是我们真的懂这个关键字吗？它在 JVM 底层，甚至在 CPU 层面到底是如 
+    </details> 
+
+- 🚀 [「兔了个兔」龟兔赛跑——乌龟和兔子能否相遇？](https://juejin.cn/post/7190592456214183992) | Fri Jan 20 2023 4:56 AM 
     <details><summary>展开描述 ...</summary> 
     我正在参加「兔了个兔」创意投稿大赛，详情请看：「兔了个兔」创意投稿大赛 森林里一年一度的赛跑大赛又开始了，乌龟和兔子又被分到了一组，这次乌龟还能跑过兔子吗？ 
     </details> 
 
-- 🎡 [GraalVM到底是何方神圣？](https://juejin.cn/post/7190561275095547962) | Fri Jan 20 2023 2:50 AM 
+- 💪 [GraalVM到底是何方神圣？](https://juejin.cn/post/7190561275095547962) | Fri Jan 20 2023 2:50 AM 
     <details><summary>展开描述 ...</summary> 
     ## JVM的弊端 JVM实现了跨平台，使得一次编译即可到处运行，但是詹姆斯·高斯林没有跟你说的是，应用运行之前要先启动JVM虚拟机，然后还要加载一大批的类、并做链接和初始化等步骤，而使得光启动一个J 
-    </details> 
-
-- 🕯 [React和Vue谁会淘汰谁？](https://juejin.cn/post/7190550643386351653) | Fri Jan 20 2023 2:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    大家好，我卡颂。 在我的技术群里大家经常会聊一些宏观的技术问题，就比如： 这样的讨论，到最后往往会陷入技术的细枝末节的比较，比如： 对比两者响应式的实现原理 对比两者的运行时性能 很多程序员朋友，会觉 
-    </details> 
-
-- 🚀 [day01-复习JavaScript基础语法 ｜ 青训营笔记](https://juejin.cn/post/7190550231061102647) | Fri Jan 20 2023 2:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    本篇文章主要为读者介绍了js基础，开本篇系列的初衷是为了记录codewhy的课程笔记，也方便大家进行复习 
-    </details> 
-
-- 💪 [深入浅出学习透析Nginx服务器的架构分析及原理分析「底层技术原理+运作架构机制」](https://juejin.cn/post/7190418252655231033) | Thu Jan 19 2023 5:41 PM 
-    <details><summary>展开描述 ...</summary> 
-    Nginx再次回顾 也许你已经忘记了Nginx是做什么的？我来再次给你夯实一下概念。 多协议反向代理 Nginx是个高性能的Web和反向代理服务器及HTTP服务器，它能反向代理HTTP，HTTPS和邮 
     </details> 
 <!-- juejin:END -->
 ### 少数派
