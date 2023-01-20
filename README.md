@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [GraalVM到底是何方神圣？](https://juejin.cn/post/7190561275095547962) | Fri Jan 20 2023 2:50 AM 
+- 🤗 [「兔了个兔」龟兔赛跑——乌龟和兔子能否相遇？](https://juejin.cn/post/7190592456214183992) | Fri Jan 20 2023 4:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    我正在参加「兔了个兔」创意投稿大赛，详情请看：「兔了个兔」创意投稿大赛 森林里一年一度的赛跑大赛又开始了，乌龟和兔子又被分到了一组，这次乌龟还能跑过兔子吗？ 
+    </details> 
+
+- 🎡 [GraalVM到底是何方神圣？](https://juejin.cn/post/7190561275095547962) | Fri Jan 20 2023 2:50 AM 
     <details><summary>展开描述 ...</summary> 
     ## JVM的弊端 JVM实现了跨平台，使得一次编译即可到处运行，但是詹姆斯·高斯林没有跟你说的是，应用运行之前要先启动JVM虚拟机，然后还要加载一大批的类、并做链接和初始化等步骤，而使得光启动一个J 
     </details> 
 
-- 🎡 [React和Vue谁会淘汰谁？](https://juejin.cn/post/7190550643386351653) | Fri Jan 20 2023 2:09 AM 
+- 🕯 [React和Vue谁会淘汰谁？](https://juejin.cn/post/7190550643386351653) | Fri Jan 20 2023 2:09 AM 
     <details><summary>展开描述 ...</summary> 
     大家好，我卡颂。 在我的技术群里大家经常会聊一些宏观的技术问题，就比如： 这样的讨论，到最后往往会陷入技术的细枝末节的比较，比如： 对比两者响应式的实现原理 对比两者的运行时性能 很多程序员朋友，会觉 
     </details> 
 
-- 🕯 [day01-复习JavaScript基础语法 ｜ 青训营笔记](https://juejin.cn/post/7190550231061102647) | Fri Jan 20 2023 2:09 AM 
+- 🚀 [day01-复习JavaScript基础语法 ｜ 青训营笔记](https://juejin.cn/post/7190550231061102647) | Fri Jan 20 2023 2:09 AM 
     <details><summary>展开描述 ...</summary> 
     本篇文章主要为读者介绍了js基础，开本篇系列的初衷是为了记录codewhy的课程笔记，也方便大家进行复习 
     </details> 
 
-- 🚀 [深入浅出学习透析Nginx服务器的架构分析及原理分析「底层技术原理+运作架构机制」](https://juejin.cn/post/7190418252655231033) | Thu Jan 19 2023 5:41 PM 
+- 💪 [深入浅出学习透析Nginx服务器的架构分析及原理分析「底层技术原理+运作架构机制」](https://juejin.cn/post/7190418252655231033) | Thu Jan 19 2023 5:41 PM 
     <details><summary>展开描述 ...</summary> 
     Nginx再次回顾 也许你已经忘记了Nginx是做什么的？我来再次给你夯实一下概念。 多协议反向代理 Nginx是个高性能的Web和反向代理服务器及HTTP服务器，它能反向代理HTTP，HTTPS和邮 
-    </details> 
-
-- 💪 [XXL-Job源码阅读（一）JobTriggerPoolHelper](https://juejin.cn/post/7190395870926340152) | Thu Jan 19 2023 4:10 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文源码阅读的主角是`JobTriggerPoolHelper`，作业触发线程池助手，通过阅读此部分源码，我们可以学习到： 1. 线程池隔离技术 2. 多线程知识 
     </details> 
 <!-- juejin:END -->
 ### 少数派
