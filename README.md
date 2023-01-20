@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [@JvmDefaultWithCompatibility优化小技巧，了解一下~](https://juejin.cn/post/7190662820780834874) | Fri Jan 20 2023 9:25 AM 
+- 🤗 [Go框架三件套笔记 ｜ 青训营笔记](https://juejin.cn/post/7190704433754275895) | Fri Jan 20 2023 12:07 PM 
+    <details><summary>展开描述 ...</summary> 
+    这是我参与「第五届青训营 」伴学笔记创作活动的第 5 天 一、本堂课重点内容 本堂课的知识要点有哪些？ Go框架三件套（Web/RPC/ORM&rpar; 1.Gorm 2.Kitex 3.Hertz 二、详细 
+    </details> 
+
+- 🎡 [@JvmDefaultWithCompatibility优化小技巧，了解一下~](https://juejin.cn/post/7190662820780834874) | Fri Jan 20 2023 9:25 AM 
     <details><summary>展开描述 ...</summary> 
     官方提供了-Xjvm-default=all和@JvmDefaultCompatibility搭配使用，尽量消除中间类DefaultImpls 
     </details> 
 
-- 🎡 [克服pytorch求导函数的缺陷！如何基于pytorch计算模型参数的Hessian矩阵/二阶导数](https://juejin.cn/post/7190655879140605989) | Fri Jan 20 2023 8:59 AM 
+- 🕯 [克服pytorch求导函数的缺陷！如何基于pytorch计算模型参数的Hessian矩阵/二阶导数](https://juejin.cn/post/7190655879140605989) | Fri Jan 20 2023 8:59 AM 
     <details><summary>展开描述 ...</summary> 
     pytorch中现有的gard函数与hession函数无法直接求解出模型参数的二阶导数/Hessian矩阵，本文分析了原因并给出了两种利用pytorch计算模型参数高阶导数/Hessian矩阵的方法 
     </details> 
 
-- 🕯 [适合初学者的经典C++项目-基于多态的职工管理系统](https://juejin.cn/post/7190631003004600378) | Fri Jan 20 2023 7:21 AM 
+- 🚀 [适合初学者的经典C++项目-基于多态的职工管理系统](https://juejin.cn/post/7190631003004600378) | Fri Jan 20 2023 7:21 AM 
     <details><summary>展开描述 ...</summary> 
     对于C++初学者来说，学完基本的语法后，应该及时地找到适合自己的项目尝试着自己去练习；一方面，可以巩固刚刚学习的知识点，另一方面，可以让自己初步的了解实际开发中是怎样完成自己的工作的。 
     </details> 
 
-- 🚀 [通过文心大模型生成你的兔年专属美甲](https://juejin.cn/post/7190622557693804602) | Fri Jan 20 2023 6:48 AM 
+- 💪 [通过文心大模型生成你的兔年专属美甲](https://juejin.cn/post/7190622557693804602) | Fri Jan 20 2023 6:48 AM 
     <details><summary>展开描述 ...</summary> 
     通过文心大模型生成你的兔年专属美甲   本文章最初的灵感来源于旷视放出来的虚拟试妆，实际上在美妆行业，虚拟试妆也越来越普遍了，恰好手里有指甲分割的数据集，就尝试着玩了玩。 
-    </details> 
-
-- 💪 [React fiber--时间分片](https://juejin.cn/post/7190598995230588983) | Fri Jan 20 2023 5:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    fiber其实是一个多进程并发的过程。 🔴并行可以是并发，而并发不一定是并行，两种不能划等号, 并行一般需要物理层面的支持 类比js的执行环境 因此，js存在一个缺陷，就是前面的同步任务会影响后面的其 
     </details> 
 <!-- juejin:END -->
 ### 少数派
