@@ -155,12 +155,12 @@
 ### 王登科-DK博客
 
 <!-- greatdk:START -->
-- 💄 [记一次解封](https://greatdk.com/1865.html) | Sun Nov 27 2022 2:29 PM
-- 🏊 [啊，创业6年了](https://greatdk.com/1855.html) | Thu Nov 24 2022 2:40 PM
-- 🙉 [历时一年，我完成了人生第一场官司，并拿回了租房押金](https://greatdk.com/1844.html) | Wed Jul 13 2022 1:16 PM
-- 🚀 [准备好面对无常](https://greatdk.com/1833.html) | Sun May 08 2022 2:24 PM
-- 🤖 [我们基于 Disco-diffusion  为 50 句中国古诗词生成了画面 （开源代码）](https://greatdk.com/1835.html) | Wed May 04 2022 10:40 AM
-- ⚗️ [春节花了7天学习 SwiftUI 后，我上架了人生第一款 iOS APP，并获得了AppStore编辑推荐](https://greatdk.com/1820.html) | Mon Feb 21 2022 12:20 PM<!-- greatdk:END -->
+- 💄 [在AI替代画师或者写手之前，可能会先干掉做AI的工程师自己](https://greatdk.com/1884.html) | Fri Jan 20 2023 3:09 AM
+- 🏊 [记一次解封](https://greatdk.com/1865.html) | Sun Nov 27 2022 2:29 PM
+- 🙉 [啊，创业6年了](https://greatdk.com/1855.html) | Thu Nov 24 2022 2:40 PM
+- 🚀 [历时一年，我完成了人生第一场官司，并拿回了租房押金](https://greatdk.com/1844.html) | Wed Jul 13 2022 1:16 PM
+- 🤖 [准备好面对无常](https://greatdk.com/1833.html) | Sun May 08 2022 2:24 PM
+- ⚗️ [我们基于 Disco-diffusion  为 50 句中国古诗词生成了画面 （开源代码）](https://greatdk.com/1835.html) | Wed May 04 2022 10:40 AM<!-- greatdk:END -->
 
 ### 谢益辉博客
 
