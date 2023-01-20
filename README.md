@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [我的2023年总结：普通且忙碌](https://juejin.cn/post/7190643929015353399) | Fri Jan 20 2023 8:11 AM 
+- 🤗 [@JvmDefaultWithCompatibility优化小技巧，了解一下~](https://juejin.cn/post/7190662820780834874) | Fri Jan 20 2023 9:25 AM 
     <details><summary>展开描述 ...</summary> 
-    我觉得今年的关键字可以用：普通、忙碌两个词来总结。普通是源于年中跳槽成功但也遗憾错过了很多很好的机会，忙碌则是技术工作的常态 关于工作 今年年中跳槽到了新的公司，从原来的项目管理变成前端开发，工作时间 
+    官方提供了-Xjvm-default=all和@JvmDefaultCompatibility搭配使用，尽量消除中间类DefaultImpls 
     </details> 
 
-- 🎡 [我迟来的 2022 年终总结：前已无通路，后不见归途](https://juejin.cn/post/7190642806610722871) | Fri Jan 20 2023 8:10 AM 
+- 🎡 [克服pytorch求导函数的缺陷！如何基于pytorch计算模型参数的Hessian矩阵/二阶导数](https://juejin.cn/post/7190655879140605989) | Fri Jan 20 2023 8:59 AM 
     <details><summary>展开描述 ...</summary> 
-    今年写了几篇文章，算做了一些个人技术总结，但回过头我却发现对自己过去二十多年的人生找不到什么来概括。 我在二十岁生日的时候写下， 
+    pytorch中现有的gard函数与hession函数无法直接求解出模型参数的二阶导数/Hessian矩阵，本文分析了原因并给出了两种利用pytorch计算模型参数高阶导数/Hessian矩阵的方法 
     </details> 
 
-- 🕯 [day02-复习JavaScript编写注意事项 | 青训营笔记](https://juejin.cn/post/7190606202219266085) | Fri Jan 20 2023 5:47 AM 
+- 🕯 [适合初学者的经典C++项目-基于多态的职工管理系统](https://juejin.cn/post/7190631003004600378) | Fri Jan 20 2023 7:21 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇文章主要为读者介绍了JavaScript的基本编写注意事项，在一定程度上能够帮助到读者，提示我们在编写js代码的时候要格外小心 
+    对于C++初学者来说，学完基本的语法后，应该及时地找到适合自己的项目尝试着自己去练习；一方面，可以巩固刚刚学习的知识点，另一方面，可以让自己初步的了解实际开发中是怎样完成自己的工作的。 
     </details> 
 
-- 🚀 [多篇SQL性能优化文章、仿贝壳App全景看房 | 酱酱的下午茶第158期](https://juejin.cn/post/7190601914734608444) | Fri Jan 20 2023 5:28 AM 
+- 🚀 [通过文心大模型生成你的兔年专属美甲](https://juejin.cn/post/7190622557693804602) | Fri Jan 20 2023 6:48 AM 
     <details><summary>展开描述 ...</summary> 
-    聊一聊我对跨域的理解和最佳实践 这样的优化对 MySQL 来说作用微乎其微 SQL为什么动不动就N百行以K计 一次偶然机会发现的MySQL“负优化” 
+    通过文心大模型生成你的兔年专属美甲   本文章最初的灵感来源于旷视放出来的虚拟试妆，实际上在美妆行业，虚拟试妆也越来越普遍了，恰好手里有指甲分割的数据集，就尝试着玩了玩。 
     </details> 
 
-- 💪 [volatile 关键字与计算机底层的一些杂谈](https://juejin.cn/post/7190598407113670711) | Fri Jan 20 2023 5:15 AM 
+- 💪 [React fiber--时间分片](https://juejin.cn/post/7190598995230588983) | Fri Jan 20 2023 5:17 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 volatile 是 Java 并发编程中一个非常重要，也是面试常问的一个技术点，用起来很简单直接修饰在变量前面即可，但是我们真的懂这个关键字吗？它在 JVM 底层，甚至在 CPU 层面到底是如 
+    fiber其实是一个多进程并发的过程。 🔴并行可以是并发，而并发不一定是并行，两种不能划等号, 并行一般需要物理层面的支持 类比js的执行环境 因此，js存在一个缺陷，就是前面的同步任务会影响后面的其 
     </details> 
 <!-- juejin:END -->
 ### 少数派
