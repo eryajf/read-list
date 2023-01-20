@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [今年过年吃什么：不常下厨也能搞定的快手菜](https://sspai.com/post/77919) | Fri Jan 20 2023 6:30 AM 
+- 👹 [不买可以先收藏 13：混动车型值得买吗？](https://sspai.com/post/77921) | Fri Jan 20 2023 8:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    是义无反顾得一步到位选择纯电，还是谨慎得选择选择混动型汽车？这些信息你值得了解。&lt;a href=&quot;https://sspai.com/post/77921&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [今年过年吃什么：不常下厨也能搞定的快手菜](https://sspai.com/post/77919) | Fri Jan 20 2023 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     现在准备还来得及。&lt;a href=&quot;https://sspai.com/post/77919&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [耐心加上点技巧，帮爸爸导入随手记下的血压到健康 app](https://sspai.com/prime/story/process-and-import-health-data-shortcuts) | Fri Jan 20 2023 4:01 AM 
+- 🤭 [耐心加上点技巧，帮爸爸导入随手记下的血压到健康 app](https://sspai.com/prime/story/process-and-import-health-data-shortcuts) | Fri Jan 20 2023 4:01 AM 
     <details><summary>展开描述 ...</summary> 
     我爸爸将手机换成 iPhone 后，需要将之前通过备忘录手动记录的血压数据导入健康 app，但问题在于条目很多并且格式不统一。为此，我首先用 VS Code 和 JavaScript 整理了记录数据、统一了格式，然后使用快捷指令完成了批量导入。本文记录了我的具体思路和步骤。&lt;p&gt;[......]&lt;/p&gt;&lt;a href=&quot;https://sspai.com/prime/story/process-and-import-health-data-shortcuts&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🤭 [派早报：Twitter 禁止开发第三方 app、交通运输部确认与「强国交通」app 与](https://sspai.com/post/77920) | Fri Jan 20 2023 12:50 AM 
+- 🥸 [派早报：Twitter 禁止开发第三方 app、交通运输部确认与「强国交通」app 与](https://sspai.com/post/77920) | Fri Jan 20 2023 12:50 AM 
     <details><summary>展开描述 ...</summary> 
     AYANEO 发布 2023 年产品规划，联想发布新款 miniLED 显示器等&lt;a href=&quot;https://sspai.com/post/77920&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [新玩意 SP：少数派办公室最近来了啥耳机？](https://sspai.com/post/77908) | Thu Jan 19 2023 9:34 AM 
+- 🙉 [新玩意 SP：少数派办公室最近来了啥耳机？](https://sspai.com/post/77908) | Thu Jan 19 2023 9:34 AM 
     <details><summary>展开描述 ...</summary> 
     关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：本期《新玩意》不包 ...&lt;a href=&quot;https://sspai.com/post/77908&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [译文 | 惨遭《阿凡达 2》抛弃的字体：Papyrus 为何如此讨人嫌](https://sspai.com/post/77903) | Thu Jan 19 2023 8:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    Papyrus 不只是它被创造的那个时代的产物，更是过去 40 年印刷技术发展的产物。它成为了 20 世纪被使用最多，也是被滥用最多的字体之一。&lt;a href=&quot;https://sspai.com/post/77903&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
