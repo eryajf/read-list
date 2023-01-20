@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Liner - 分享您的书签并加入网络策展人行列](https://xinquji.com/posts/793153?utm_campaign=xinquji-rss) | Thu Jan 19 2023 6:00 AM 
+- 👀 [Instant Job Cover Letters with AI - 将您的工作申请速度提高 10 倍，只需投递一份简历](https://xinquji.com/posts/793183?utm_campaign=xinquji-rss) | Fri Jan 20 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     分享您的书签并加入网络策展人行列  
+     将您的工作申请速度提高 10 倍，只需投递一份简历  
     </details> 
 
-- 🥷 [Coin Identifier - 快速准确地识别任何硬币](https://xinquji.com/posts/793152?utm_campaign=xinquji-rss) | Thu Jan 19 2023 6:00 AM 
+- 🥷 [chocotea - 从您的 Java 代码生成邮递员集合](https://xinquji.com/posts/793182?utm_campaign=xinquji-rss) | Fri Jan 20 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     快速准确地识别任何硬币  
+     从您的 Java 代码生成邮递员集合  
     </details> 
 
-- 💼 [UpBuzz - Reddit 帖子调度和推广工具](https://xinquji.com/posts/793151?utm_campaign=xinquji-rss) | Thu Jan 19 2023 6:00 AM 
+- 💼 [WEZ NFT Gallery - 一个友好的画廊应用程序，用于查看和分享你所有的 NFT](https://xinquji.com/posts/793181?utm_campaign=xinquji-rss) | Fri Jan 20 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     Reddit 帖子调度和推广工具  
+     一个友好的画廊应用程序，用于查看和分享你所有的 NFT  
     </details> 
 
-- 🦅 [Recall.ai - 会议机器人的通用 API](https://xinquji.com/posts/793150?utm_campaign=xinquji-rss) | Thu Jan 19 2023 6:00 AM 
+- 🦅 [AI WOD - 使用 ChatGPT 生成的每日锻炼](https://xinquji.com/posts/793180?utm_campaign=xinquji-rss) | Fri Jan 20 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     会议机器人的通用 API  
+     使用 ChatGPT 生成的每日锻炼  
     </details> 
 
-- 😺 [Contentful to Figma Plugin - 毫不费力地将 Contentful 和 Figma 融入您的工作流程](https://xinquji.com/posts/793149?utm_campaign=xinquji-rss) | Thu Jan 19 2023 6:00 AM 
+- 😺 [QuikLink - 快速存储潜在客户或招聘的 LinkedIn 联系信息](https://xinquji.com/posts/793179?utm_campaign=xinquji-rss) | Fri Jan 20 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     毫不费力地将 Contentful 和 Figma 融入您的工作流程  
+     快速存储潜在客户或招聘的 LinkedIn 联系信息  
     </details> 
 <!-- xinquji:END -->
