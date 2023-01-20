@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [史海钩沉：特斯拉认为死亡不存在，我们来世会变成光](http://jandan.net/p/112232) | Fri Jan 20 2023 5:10 AM 
+- 🚀 [脑力小体操：外科手套难题](http://jandan.net/p/112238) | Fri Jan 20 2023 5:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    也叫安全套难题 
+    </details> 
+
+- 🙉 [史海钩沉：特斯拉认为死亡不存在，我们来世会变成光](http://jandan.net/p/112232) | Fri Jan 20 2023 5:10 AM 
     <details><summary>展开描述 ...</summary> 
     如果我们都变成能量会怎样？ 
     </details> 
 
-- 🙉 [意外，树懒的左侧肢体更加强壮](http://jandan.net/p/112196) | Fri Jan 20 2023 5:08 AM 
+- 🎉 [意外，树懒的左侧肢体更加强壮](http://jandan.net/p/112196) | Fri Jan 20 2023 5:08 AM 
     <details><summary>展开描述 ...</summary> 
     左手握力更强 
     </details> 
 
-- 🎉 [今日好价 0120](http://jandan.net/p/112234) | Fri Jan 20 2023 3:34 AM 
+- 🐲 [今日好价 0120](http://jandan.net/p/112234) | Fri Jan 20 2023 3:34 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：16 
     </details> 
 
-- 🐲 [宇宙大厨：黑洞把恒星做成“甜甜圈”](http://jandan.net/p/112231) | Thu Jan 19 2023 7:14 AM 
+-  [宇宙大厨：黑洞把恒星做成“甜甜圈”](http://jandan.net/p/112231) | Thu Jan 19 2023 7:14 AM 
     <details><summary>展开描述 ...</summary> 
     食材：恒星    用量：少许 
-    </details> 
-
--  [25万年的历史中，每个世代父亲的平均年龄始终大于母亲](http://jandan.net/p/112185) | Thu Jan 19 2023 5:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    最前沿的DNA技术可以窥视 25 万年前的过去。 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
