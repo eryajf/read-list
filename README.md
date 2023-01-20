@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android进阶宝典 -- 事件冲突怎么解决？先从Android事件分发机制开始说起](https://juejin.cn/post/7190737198600159292) | Fri Jan 20 2023 2:13 PM 
+- 🤗 [深入理解 OpenMP 线程同步机制](https://juejin.cn/post/7190775277532741687) | Fri Jan 20 2023 4:51 PM 
+    <details><summary>展开描述 ...</summary> 
+    在本篇文章当中主要给大家介绍了一些经常使用的 OpenMP 用于线程之间同步的指令，并且用实际例子分析它内部的工作机制，以及我们改如何使用 nowait 优化程序的性能。 
+    </details> 
+
+- 🎡 [Android进阶宝典 -- 事件冲突怎么解决？先从Android事件分发机制开始说起](https://juejin.cn/post/7190737198600159292) | Fri Jan 20 2023 2:13 PM 
     <details><summary>展开描述 ...</summary> 
     史上最全的Android事件分发机制，从事件源头讲起，详细介绍ACTION_DOWN、ACTION_MOVE事件分发流程，以及面对事件冲突如何解决 
     </details> 
 
-- 🎡 [Flutter 这一年：2022 亮点时刻](https://juejin.cn/post/7190733479020068921) | Fri Jan 20 2023 1:59 PM 
+- 🕯 [Flutter 这一年：2022 亮点时刻](https://juejin.cn/post/7190733479020068921) | Fri Jan 20 2023 1:59 PM 
     <details><summary>展开描述 ...</summary> 
     回看 2022，展望 Flutter Forward 2022 年，我们非常兴奋的看到 Flutter 社区持续发展壮大，也因此让更多人体验到了令人难以置信的体验。每天有超过 1000 款使用 Flu 
     </details> 
 
-- 🕯 [复习前端：浏览器缓存策略](https://juejin.cn/post/7190728794448068645) | Fri Jan 20 2023 1:40 PM 
+- 🚀 [复习前端：浏览器缓存策略](https://juejin.cn/post/7190728794448068645) | Fri Jan 20 2023 1:40 PM 
     <details><summary>展开描述 ...</summary> 
     巩固自己的技能，为新的一年做准备。本文准备巩固关于浏览器缓存策略的，浏览器位置和优先级，不同缓存的差异。 
     </details> 
 
-- 🚀 [Go语言工程实践之测试 ｜ 青训营笔记](https://juejin.cn/post/7190726245607276600) | Fri Jan 20 2023 1:31 PM 
+- 💪 [Go语言工程实践之测试 ｜ 青训营笔记](https://juejin.cn/post/7190726245607276600) | Fri Jan 20 2023 1:31 PM 
     <details><summary>展开描述 ...</summary> 
     单元测试的覆盖率在一定程度上而言，决定了代码的质量 单元测试 通过测试单元的输出与期望值进行校对从而验证代码的正确性，从而保 
-    </details> 
-
-- 💪 [Go框架三件套笔记 ｜ 青训营笔记](https://juejin.cn/post/7190704433754275895) | Fri Jan 20 2023 12:07 PM 
-    <details><summary>展开描述 ...</summary> 
-    这是我参与「第五届青训营 」伴学笔记创作活动的第 5 天 一、本堂课重点内容 本堂课的知识要点有哪些？ Go框架三件套（Web/RPC/ORM&rpar; 1.Gorm 2.Kitex 3.Hertz 二、详细 
     </details> 
 <!-- juejin:END -->
 ### 少数派
