@@ -148,7 +148,7 @@
 ### 好工具周刊
 
 <!-- bestxtools:START -->
-- 🕯 [好工具周刊（第 46 期）: 【特别篇】2022 年最佳免费在线工具 / The Best X Tools 2022 / 和抽奖活动](https://discuss-cn.bestxtools.com/d/123/1) | Thu Jan 19 2023 8:09 AM
+- 🕯 [好工具周刊（第 46 期）: 【特别篇】2022 年最佳免费在线工具（和抽奖活动）](https://discuss-cn.bestxtools.com/d/123/1) | Thu Jan 19 2023 8:09 AM
 - 🦩 [好工具周刊（第 45 期）: CSS Specificity Calculator, Vim Online, Smooth Shadow, ...](https://discuss-cn.bestxtools.com/d/122/1) | Thu Jan 12 2023 2:11 PM
 - 🙉 [好工具周刊（第 44 期）: VIM Adventures, AST Explorer, HTMLShell, Color Palette from ...](https://discuss-cn.bestxtools.com/d/120/1) | Thu Jan 05 2023 7:16 AM<!-- bestxtools:END -->
 
