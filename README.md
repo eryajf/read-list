@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0120](http://jandan.net/p/112234) | Fri Jan 20 2023 3:34 AM 
+- 🚀 [史海钩沉：特斯拉认为死亡不存在，我们来世会变成光](http://jandan.net/p/112232) | Fri Jan 20 2023 5:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    如果我们都变成能量会怎样？ 
+    </details> 
+
+- 🙉 [意外，树懒的左侧肢体更加强壮](http://jandan.net/p/112196) | Fri Jan 20 2023 5:08 AM 
+    <details><summary>展开描述 ...</summary> 
+    左手握力更强 
+    </details> 
+
+- 🎉 [今日好价 0120](http://jandan.net/p/112234) | Fri Jan 20 2023 3:34 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：16 
     </details> 
 
-- 🙉 [宇宙大厨：黑洞把恒星做成“甜甜圈”](http://jandan.net/p/112231) | Thu Jan 19 2023 7:14 AM 
+- 🐲 [宇宙大厨：黑洞把恒星做成“甜甜圈”](http://jandan.net/p/112231) | Thu Jan 19 2023 7:14 AM 
     <details><summary>展开描述 ...</summary> 
     食材：恒星    用量：少许 
     </details> 
 
-- 🎉 [25万年的历史中，每个世代父亲的平均年龄始终大于母亲](http://jandan.net/p/112185) | Thu Jan 19 2023 5:39 AM 
+-  [25万年的历史中，每个世代父亲的平均年龄始终大于母亲](http://jandan.net/p/112185) | Thu Jan 19 2023 5:39 AM 
     <details><summary>展开描述 ...</summary> 
     最前沿的DNA技术可以窥视 25 万年前的过去。 
-    </details> 
-
-- 🐲 [包皮环切术对生殖健康有益吗](http://jandan.net/p/112204) | Thu Jan 19 2023 3:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    对于某些人来说，包皮环切术是宗教或文化行为 
-    </details> 
-
--  [是什么让小孩子成为了枪手？](http://jandan.net/p/112229) | Thu Jan 19 2023 3:08 AM 
-    <details><summary>展开描述 ...</summary> 
-    ZSBD 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
