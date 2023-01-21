@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [OpenMP 原子指令设计与实现](https://juejin.cn/post/7191038760719482936) | Sat Jan 21 2023 9:45 AM 
+- 🤗 [复习前端：前端安全](https://juejin.cn/post/7191062612212187197) | Sat Jan 21 2023 11:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    现在，前端代码与后端代码承担几乎相同的责任，甚至更多。为了安全地完成所有事情，需要一个更好的客户端代码安全模型。本文将复习常见安全问题、攻击类型和针对它们的预防措施。 
+    </details> 
+
+- 🎡 [OpenMP 原子指令设计与实现](https://juejin.cn/post/7191038760719482936) | Sat Jan 21 2023 9:45 AM 
     <details><summary>展开描述 ...</summary> 
     在本篇文章当中主要是深入剖析了 OpenMP 当中各种原子指令的实现原理以及分析了他们对应的汇编程序。 
     </details> 
 
-- 🎡 [Redux源码中的那些奇技淫巧](https://juejin.cn/post/7191023152296624183) | Sat Jan 21 2023 8:44 AM 
+- 🕯 [Redux源码中的那些奇技淫巧](https://juejin.cn/post/7191023152296624183) | Sat Jan 21 2023 8:44 AM 
     <details><summary>展开描述 ...</summary> 
     前言 大家好这里是阳九,一个文科中途转行的野路子码农,热衷于研究和手写前端工具. 想必各位尊贵的React前端切图仔们或多或少都有用过大名鼎鼎的Redux状态管理器。 而这款状态管理器的源码也是出了名 
     </details> 
 
-- 🕯 [【兔年创意投稿】兔兔的奇妙旅程（九）探秘容器化世界&amp;&amp;关于docker的学习记录](https://juejin.cn/post/7191012386617655354) | Sat Jan 21 2023 8:03 AM 
+- 🚀 [【兔年创意投稿】兔兔的奇妙旅程（九）探秘容器化世界&amp;&amp;关于docker的学习记录](https://juejin.cn/post/7191012386617655354) | Sat Jan 21 2023 8:03 AM 
     <details><summary>展开描述 ...</summary> 
     书接上回。 几只兔子开始学习RPC框架kitex。在跑到bizdemo下的easy_note服务时，它们看到README里面写着要docker compose up，而且文件夹下还有个docker-c 
     </details> 
 
-- 🚀 [写给go开发者的gRPC教程-protobuf基础](https://juejin.cn/post/7191008929986379836) | Sat Jan 21 2023 7:47 AM 
+- 💪 [写给go开发者的gRPC教程-protobuf基础](https://juejin.cn/post/7191008929986379836) | Sat Jan 21 2023 7:47 AM 
     <details><summary>展开描述 ...</summary> 
     protobuf是一种语言无关、平台无关的可扩展的序列化协议。gRPC使用protobuf作为其序列化协议，理解pb是使用gRPC的第一步 
-    </details> 
-
-- 💪 [回头看来路 往前望归途「2022年终总结」](https://juejin.cn/post/7190972140974243897) | Sat Jan 21 2023 5:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 关于学习 掘金小册 今年因为购买了掘金的年度会员, 所以小册看的会比较多, 看完的小册有3本, 除了《前端面试之道》, 其余付费的都是今年买来看的, 虽说都是学过的, 但是现在的学习可能会更加深 
     </details> 
 <!-- juejin:END -->
 ### 少数派
