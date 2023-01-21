@@ -481,29 +481,29 @@
 ### 不死鸟
 
 <!-- iui:START -->
-- 🌊 [2023春节快乐](https://iui.su/1234/) | Sat Jan 21 2023 3:08 AM 
+- 🌊 [网页在线工具汇总](https://iui.su/1492/) | Sat Jan 21 2023 3:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    常用在线工具文件传输音乐下载crx扩展今日热榜短视频去水印打字练习看杂志在线听歌匿名分享无版权音乐电视直播源免费图床文本转音频图片增强高清壁纸今天吃啥图片转文字改图神器加密解密在线翻译视频创作在... 
+    </details> 
+
+- 🫣 [2023春节快乐](https://iui.su/1234/) | Sat Jan 21 2023 3:08 AM 
     <details><summary>展开描述 ...</summary> 
     2023春节快乐 
     </details> 
 
-- 🫣 [2023 年 1月 每日分享](https://iui.su/164/) | Sat Jan 21 2023 3:07 AM 
+- 🌜 [2023 年 1月 每日分享](https://iui.su/164/) | Sat Jan 21 2023 3:07 AM 
     <details><summary>展开描述 ...</summary> 
     可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。1月21日4k世界分享4k... 
     </details> 
 
-- 🌜 [Mac os 必备软件](https://iui.su/2319/) | Tue Jan 17 2023 11:38 AM 
+- 🏊 [Mac os 必备软件](https://iui.su/2319/) | Tue Jan 17 2023 11:38 AM 
     <details><summary>展开描述 ...</summary> 
     常用利器IINA免费开源的影音播放器，ui简洁美观，支持画中画，Mac平台最好的免费播放器。.dmg下载Free Download ManagerMac os 平台FDM要比Windows平台的... 
     </details> 
 
-- 🏊 [Z-Library电子书下载](https://iui.su/380/) | Tue Jan 17 2023 11:03 AM 
+- 🚦 [Z-Library电子书下载](https://iui.su/380/) | Tue Jan 17 2023 11:03 AM 
     <details><summary>展开描述 ...</summary> 
     Z-Library 是世界上最大的免费在线图书馆，它拥有近亿的电子书和文章。由于某些关系，域名国内无法访问，下方是一些可以正确打开Z-Library的方法。Z-Library最新可用方法http... 
-    </details> 
-
-- 🚦 [MusicFree：支持插件的安卓音乐播放器](https://iui.su/1620/) | Mon Jan 16 2023 11:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    日常听歌下歌可用 汽水音乐+酷狗概念版 目前这两款app每天送VIP。MusicFree是一款免费开源，支持插件化、定制化、无广告的免费音乐播放器。使用插件后就可以实现免费的搜索、下载各大平台的... 
     </details> 
 <!-- iui:END -->
 
