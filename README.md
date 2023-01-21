@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [外贸站 Google Analytics 可以拿到多详细的数据？需求是拿到点击每个按钮的全部用户 UA（手机型号对推测女性用户消费水平有一定参考意义）、IP 地址（方便区别同一用户）等信息是不是只能自己写统计服务？](https://www.v2ex.com/t/910146#reply0) | Sat Jan 21 2023 4:42 AM
-- 🤗 [我是否可以开发一款兼容 dedecms 模板代码的基于 PHP 的简易 CMS](https://www.v2ex.com/t/910141#reply1) | Sat Jan 21 2023 4:02 AM
-- 🎭 [Windows11 还是 win10LTSC？](https://www.v2ex.com/t/910129#reply10) | Sat Jan 21 2023 2:28 AM
+- 🥸 [外贸站 Google Analytics 可以拿到多详细的数据？需求是拿到点击每个按钮的全部用户 UA（手机型号对推测女性用户消费水平有一定参考意义）、IP 地址（方便区别同一用户）等信息是不是只能自己写统计服务？](https://www.v2ex.com/t/910146#reply1) | Sat Jan 21 2023 4:42 AM
+- 🤗 [我是否可以开发一款兼容 dedecms 模板代码的基于 PHP 的简易 CMS](https://www.v2ex.com/t/910141#reply2) | Sat Jan 21 2023 4:02 AM
+- 🎭 [Windows11 还是 win10LTSC？](https://www.v2ex.com/t/910129#reply12) | Sat Jan 21 2023 2:28 AM
 - 🥷 [关于 unraid 校验盘 延后校验讨论](https://www.v2ex.com/t/910122#reply8) | Sat Jan 21 2023 1:31 AM
-- 🐵 [Linux 上使用 MPTCP 如何指定出站网卡？可有偿求教！](https://www.v2ex.com/t/910112#reply5) | Fri Jan 20 2023 8:26 PM<!-- v2ex:END -->
+- 🐵 [Linux 上使用 MPTCP 如何指定出站网卡？可有偿求教！](https://www.v2ex.com/t/910112#reply6) | Fri Jan 20 2023 8:26 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
