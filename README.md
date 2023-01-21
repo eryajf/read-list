@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [十分钟学会开发自己的Python AI应用【OpenAI API篇】](https://juejin.cn/post/7190779175131676709) | Fri Jan 20 2023 5:05 PM 
+- 🤗 [【年终总结】2023年，动如脱兔般奋跃而上、飞速奔跑](https://juejin.cn/post/7190922529731510309) | Sat Jan 21 2023 2:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    2022已是昨日，如果用一个词来总结回顾的话，我会用“忙碌”这个词来概括，如果用一个分数来量化的话，我会给自己打 50 分（满分100分）。谨以此文给2022画个句号，迎接更好的2023！ 
+    </details> 
+
+- 🎡 [Cert Manager 申请SSL证书流程及相关概念-二](https://juejin.cn/post/7190900649142419517) | Sat Jan 21 2023 12:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    ## 中英文对照表 | 英文 | 英文 - K8S CRD | 中文 | 备注  
+    </details> 
+
+- 🕯 [十分钟学会开发自己的Python AI应用【OpenAI API篇】](https://juejin.cn/post/7190779175131676709) | Fri Jan 20 2023 5:05 PM 
     <details><summary>展开描述 ...</summary> 
     最近 OpenAI 宣布 ChatGPT 将很快推出他们的 API。虽然我们不知道这需要多长时间，但这之前我们可以熟悉下OpenAI API，快速开发自己的AI应用！ 通过今天学习 OpenAI AP 
     </details> 
 
-- 🎡 [深入理解 OpenMP 线程同步机制](https://juejin.cn/post/7190775277532741687) | Fri Jan 20 2023 4:51 PM 
+- 🚀 [深入理解 OpenMP 线程同步机制](https://juejin.cn/post/7190775277532741687) | Fri Jan 20 2023 4:51 PM 
     <details><summary>展开描述 ...</summary> 
     在本篇文章当中主要给大家介绍了一些经常使用的 OpenMP 用于线程之间同步的指令，并且用实际例子分析它内部的工作机制，以及我们改如何使用 nowait 优化程序的性能。 
     </details> 
 
-- 🕯 [【Java应用服务体系】「序章入门」全方位盘点和总结调优技术专题指南](https://juejin.cn/post/7190764134521110588) | Fri Jan 20 2023 3:57 PM 
+- 💪 [【Java应用服务体系】「序章入门」全方位盘点和总结调优技术专题指南](https://juejin.cn/post/7190764134521110588) | Fri Jan 20 2023 3:57 PM 
     <details><summary>展开描述 ...</summary> 
     专题⽬标 本系列专题的目标是希望可以帮助读者们系统和全访问掌握应⽤系统调优的思路与方案以及相关的调优工具的使用，虽然未必会覆盖目前的所有的问题场景，但是还是提供了较为丰富的案例和调优理论，会帮助大家打 
-    </details> 
-
-- 🚀 [Android13 预编译模块添加](https://juejin.cn/post/7190759301513691196) | Fri Jan 20 2023 3:38 PM 
-    <details><summary>展开描述 ...</summary> 
-    Android13 预编译模块添加 Android 系统开发入门 已经编译好的 C &amp; CPP 可执行程序 已经编译好的 C &amp; CPP 库 已经编译好的 Java 库即 jar 包 等等 
-    </details> 
-
-- 💪 [Android进阶宝典 -- 事件冲突怎么解决？先从Android事件分发机制开始说起](https://juejin.cn/post/7190737198600159292) | Fri Jan 20 2023 2:13 PM 
-    <details><summary>展开描述 ...</summary> 
-    史上最全的Android事件分发机制，从事件源头讲起，详细介绍ACTION_DOWN、ACTION_MOVE事件分发流程，以及面对事件冲突如何解决 
     </details> 
 <!-- juejin:END -->
 ### 少数派
