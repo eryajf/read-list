@@ -604,27 +604,27 @@
 ### 摄影世界
 
 <!-- photoworld:START -->
-- 🤠 [大寒 | 辞旧迎新，珍重待春风](https://www.photoworld.com.cn/post/168391) | Thu Jan 19 2023 11:40 PM 
+- 🤠 [“温暖 ‘医’ 瞬间——医务人员风采展” 开幕](https://www.photoworld.com.cn/post/168476) | Sat Jan 21 2023 2:13 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 🎃 [摄影世界·世界牦牛——2022 年首届 “高原之宝” 全国牦牛影像作品征集活动获奖名单](https://www.photoworld.com.cn/post/168368) | Thu Jan 19 2023 8:10 AM 
+- 🎃 [大寒 | 辞旧迎新，珍重待春风](https://www.photoworld.com.cn/post/168391) | Thu Jan 19 2023 11:40 PM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 👀 [新品丨十倍变焦，摄你所愿，60-600mm F4.5-6.3 DG DN OS 发布！](https://www.photoworld.com.cn/post/168312) | Thu Jan 12 2023 9:52 AM 
+- 👀 [摄影世界·世界牦牛——2022 年首届 “高原之宝” 全国牦牛影像作品征集活动获奖名单](https://www.photoworld.com.cn/post/168368) | Thu Jan 19 2023 8:10 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 🤔 [2022 米拍摄影奖正式启动！举起相机，一起让世界看见！](https://www.photoworld.com.cn/post/168273) | Thu Jan 12 2023 7:38 AM 
+- 🤔 [新品丨十倍变焦，摄你所愿，60-600mm F4.5-6.3 DG DN OS 发布！](https://www.photoworld.com.cn/post/168312) | Thu Jan 12 2023 9:52 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 👀 [适配松下 S5M2 的镜头固件来了！](https://www.photoworld.com.cn/post/168246) | Tue Jan 10 2023 9:03 AM 
+- 👀 [2022 米拍摄影奖正式启动！举起相机，一起让世界看见！](https://www.photoworld.com.cn/post/168273) | Thu Jan 12 2023 7:38 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
