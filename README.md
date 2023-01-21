@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0121](http://jandan.net/p/112244) | Sat Jan 21 2023 5:10 AM 
+- 🚀 [Quora | 为什么动物可以近亲繁殖而人类不行？](http://jandan.net/p/112240) | Sat Jan 21 2023 5:23 AM 
+    <details><summary>展开描述 ...</summary> 
+    在其他物种中已经观察到了近亲繁殖的危险 
+    </details> 
+
+- 🙉 [罕见病例之圣诞之眼，疼痛级别和分娩相同](http://jandan.net/p/112239) | Sat Jan 21 2023 5:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    大年三十过除夕 
+    </details> 
+
+- 🎉 [特斯拉工程师在法庭上承认，2016年特斯拉车自驾演示视频其实是做出来的](http://jandan.net/p/112230) | Sat Jan 21 2023 5:21 AM 
+    <details><summary>展开描述 ...</summary> 
+    就是那一年那条视频，自动驾驶成了最热门的赛道 
+    </details> 
+
+- 🐲 [今日好价 0121](http://jandan.net/p/112244) | Sat Jan 21 2023 5:10 AM 
     <details><summary>展开描述 ...</summary> 
     过年好 
     </details> 
 
-- 🙉 [脑力小体操：外科手套难题](http://jandan.net/p/112238) | Fri Jan 20 2023 5:53 AM 
+-  [脑力小体操：外科手套难题](http://jandan.net/p/112238) | Fri Jan 20 2023 5:53 AM 
     <details><summary>展开描述 ...</summary> 
     也叫安全套难题 
-    </details> 
-
-- 🎉 [史海钩沉：特斯拉认为死亡不存在，我们来世会变成光](http://jandan.net/p/112232) | Fri Jan 20 2023 5:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    如果我们都变成能量会怎样？ 
-    </details> 
-
-- 🐲 [意外，树懒的左侧肢体更加强壮](http://jandan.net/p/112196) | Fri Jan 20 2023 5:08 AM 
-    <details><summary>展开描述 ...</summary> 
-    左手握力更强 
-    </details> 
-
--  [今日好价 0120](http://jandan.net/p/112234) | Fri Jan 20 2023 3:34 AM 
-    <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：16 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
