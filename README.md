@@ -311,19 +311,19 @@
     网信北京消息，首都医科大学附属北京友谊医院与荷兰阿姆斯特丹大学医学中心合作研究项目成为全国首个数据合规出境案例。 
     </details> 
 
-- 🦅 [丰收之年？去年 GDPR 处罚金额激增至 31 亿美元](https://www.freebuf.com/news/355672.html) | Thu Jan 19 2023 3:40 AM 
+- 🦅 [2022 年全球网络安全漏洞 TOP 10 | FreeBuf 年度盘点](https://www.freebuf.com/articles/355702.html) | Thu Jan 19 2023 10:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文从漏洞披露时间、危害程度、影响范围等多个维度，盘点2022年高危漏洞TOP 10（排名不分先后）。 
+    </details> 
+
+- 🪄 [丰收之年？去年 GDPR 处罚金额激增至 31 亿美元](https://www.freebuf.com/news/355672.html) | Thu Jan 19 2023 3:40 AM 
     <details><summary>展开描述 ...</summary> 
     这些金额包括自 2022 年 1 月 28 日以来 27 个欧盟成员国以及冰岛、列支敦士登、挪威和英国开出的所有已知 GDPR 罚款。 
     </details> 
 
-- 🪄 [不满韩国与北约合作，亲俄黑客称入侵了三星内部服务器](https://www.freebuf.com/articles/355670.html) | Thu Jan 19 2023 3:35 AM 
+- 💻 [不满韩国与北约合作，亲俄黑客称入侵了三星内部服务器](https://www.freebuf.com/articles/355670.html) | Thu Jan 19 2023 3:35 AM 
     <details><summary>展开描述 ...</summary> 
     亲俄罗斯的黑客组织Genesis Day称，因不满韩国与北约合作而攻破了三星集团的内部服务器。 
-    </details> 
-
-- 💻 [FreeBuf 早报 | BlackCat等勒索软件正威胁医疗领域；去年GDPR开出超30亿美元罚单](https://www.freebuf.com/news/355637.html) | Wed Jan 18 2023 10:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    欧洲数据保护委员会在2022年开出的罚款金额约为29亿欧元（约 31 亿美元），是 2021 年开出的罚款金额的两倍多。 
     </details> 
 <!-- freebuf:END -->
 
