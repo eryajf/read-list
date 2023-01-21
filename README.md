@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Instant Job Cover Letters with AI - 将您的工作申请速度提高 10 倍，只需投递一份简历](https://xinquji.com/posts/793183?utm_campaign=xinquji-rss) | Fri Jan 20 2023 6:00 AM 
+- 👀 [Focusability - 事半功倍](https://xinquji.com/posts/793207?utm_campaign=xinquji-rss) | Sat Jan 21 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     将您的工作申请速度提高 10 倍，只需投递一份简历  
+     事半功倍  
     </details> 
 
-- 🥷 [chocotea - 从您的 Java 代码生成邮递员集合](https://xinquji.com/posts/793182?utm_campaign=xinquji-rss) | Fri Jan 20 2023 6:00 AM 
+- 🥷 [Change to Case - 更快地转换网络复制字母大小写方式](https://xinquji.com/posts/793206?utm_campaign=xinquji-rss) | Sat Jan 21 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     从您的 Java 代码生成邮递员集合  
+     更快地转换网络复制字母大小写方式  
     </details> 
 
-- 💼 [WEZ NFT Gallery - 一个友好的画廊应用程序，用于查看和分享你所有的 NFT](https://xinquji.com/posts/793181?utm_campaign=xinquji-rss) | Fri Jan 20 2023 6:00 AM 
+- 💼 [The Mouse Always Wins - 赌老鼠，赢大钱，买有趣的帽子](https://xinquji.com/posts/793205?utm_campaign=xinquji-rss) | Sat Jan 21 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     一个友好的画廊应用程序，用于查看和分享你所有的 NFT  
+     赌老鼠，赢大钱，买有趣的帽子  
     </details> 
 
-- 🦅 [AI WOD - 使用 ChatGPT 生成的每日锻炼](https://xinquji.com/posts/793180?utm_campaign=xinquji-rss) | Fri Jan 20 2023 6:00 AM 
+- 🦅 [Bridgerchat - 通过 Discord 频道进行客户服务实时聊天](https://xinquji.com/posts/793204?utm_campaign=xinquji-rss) | Sat Jan 21 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     使用 ChatGPT 生成的每日锻炼  
+     通过 Discord 频道进行客户服务实时聊天  
     </details> 
 
-- 😺 [QuikLink - 快速存储潜在客户或招聘的 LinkedIn 联系信息](https://xinquji.com/posts/793179?utm_campaign=xinquji-rss) | Fri Jan 20 2023 6:00 AM 
+- 😺 [Easy to Learn - Baby Flash Cards - ABC、数字、颜色和形状](https://xinquji.com/posts/793203?utm_campaign=xinquji-rss) | Sat Jan 21 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     快速存储潜在客户或招聘的 LinkedIn 联系信息  
+     ABC、数字、颜色和形状  
     </details> 
 <!-- xinquji:END -->
