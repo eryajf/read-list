@@ -336,7 +336,7 @@
 - 🤗 [有什么 iOS Safari 上不会弹窗申请运动传感器权限的接口可以实现监听摇一摇事件的功能？](https://www.v2ex.com/t/910167#reply1) | Sat Jan 21 2023 6:43 AM
 - 🎭 [存储空间已损毁，还有救？](https://www.v2ex.com/t/910164#reply2) | Sat Jan 21 2023 6:32 AM
 - 🥷 [家用软路由折腾记（技术流）](https://www.v2ex.com/t/910163#reply3) | Sat Jan 21 2023 6:29 AM
-- 🐵 [外贸站 Google Analytics 可以拿到多详细的数据？需求是拿到点击每个按钮的全部用户 UA（手机型号对推测女性用户消费水平有一定参考意义）、IP 地址（方便区别同一用户）等信息是不是只能自己写统计服务？](https://www.v2ex.com/t/910146#reply3) | Sat Jan 21 2023 4:42 AM<!-- v2ex:END -->
+- 🐵 [外贸站 Google Analytics 可以拿到多详细的数据？需求是拿到点击每个按钮的全部用户 UA（手机型号对推测女性用户消费水平有一定参考意义）、IP 地址（方便区别同一用户）等信息是不是只能自己写统计服务？](https://www.v2ex.com/t/910146#reply4) | Sat Jan 21 2023 4:42 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
