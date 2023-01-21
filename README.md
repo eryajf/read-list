@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Smooze Pro 2.0.32 鼠标滚动增强软件](https://xclient.info/s/smooze-pro.html) | Thu Jan 19 2023 2:47 AM 
+- 🦏 [App Tamer 2.7.6 延长电池使用时间](https://xclient.info/s/app-tamer.html) | Sat Jan 21 2023 2:56 AM 
     <details><summary>展开描述 ...</summary> 
-    Smooze 是一款更改鼠标滚动方式的软件，同时也支持非苹果的鼠标，也就是说也支持滚轮操作。如果你觉得在苹果系统中滚动网页或者鼠标动作有点难看就可以试一下它。 
+    App Tamer 是一款Mac上延长电池使用时间的工具，通过降低或停止已不使用的应用所占用的CPU，能够大幅节省系统的资源，进而提高电池的使用时间，你可以通过灵活的配置，设置特定应用的CPU使用，比如Photoshop，而且不会影响正常的使用 
     </details> 
 
--  [Timemator 3.0.2 时间跟踪及自动化工具](https://xclient.info/s/timemator.html) | Thu Jan 19 2023 2:46 AM 
+-  [Feeder 4.4.3 创建和发布RSS](https://xclient.info/s/feeder.html) | Sat Jan 21 2023 2:55 AM 
     <details><summary>展开描述 ...</summary> 
-    Timemator 是一款mac时间自动追踪应用，会自动捕获您在Mac上所做的一切。 
+    Feeder是Mac os平台上的一款帮助用户编辑rss文档的Mac工具 
     </details> 
 
-- ⚗️ [Postico 2.0&lpar;9510&rpar; Beta 优秀的PostgreSQL客户端](https://xclient.info/s/postico.html) | Thu Jan 19 2023 2:45 AM 
+- ⚗️ [GrandTotal 8.0.3.3 一款非常实用的发票设计工具](https://xclient.info/s/grandtotal.html) | Sat Jan 21 2023 2:54 AM 
     <details><summary>展开描述 ...</summary> 
-    Postico是一款Mac平台的优秀的PostgreSQL客户端，支持本地和远程云服务，Heroku Postgres, Amazon Redshift, Amazon RDS等 
+    GrandTotal 是Mac OS X 上的一款非常实用的发票设计工具，可以根据一个内置的模板编辑器来重新调整布局，创建属于自己的发票模版，适合企业和个人来进行形象设计。 
     </details> 
 
-- 🔥 [Magic Battery 7.8.1 蓝牙设备电量展示用具](https://xclient.info/s/magic-battery.html) | Thu Jan 19 2023 2:44 AM 
+- 🔥 [Middle 1.8 触控板辅助和增强](https://xclient.info/s/middle.html) | Sat Jan 21 2023 2:53 AM 
     <details><summary>展开描述 ...</summary> 
-    Magic Battery 可以帮助用户显示当前通过蓝牙连接到Mac电脑上的设备的当前电量状况。 
+    Middle 是Mac电脑上的一款触控板辅助和增强应用，可以简单地为你的触控板或苹果鼠标添加中键。 
     </details> 
 
-- 🌋 [Lyn 2.2.3 轻量级看图软件](https://xclient.info/s/lyn.html) | Thu Jan 19 2023 2:43 AM 
+- 🌋 [djay Pro AI 4.1.4 专业的DJ工具](https://xclient.info/s/djay-pro.html) | Sat Jan 21 2023 2:52 AM 
     <details><summary>展开描述 ...</summary> 
-    Lyn是一款Mac平台轻量级的看图软件，另外还支持图片导出、编辑、导入等功能。 
+    djay Pro是Mac os平台上的一款非常专业的DJ工具，帮助你即时访问数以百万计的音频轨道 
     </details> 
 <!-- xclient:END -->
 
