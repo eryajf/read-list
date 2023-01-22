@@ -341,14 +341,14 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [复习前端：JavaScript V8 引擎机制](https://juejin.cn/post/7191476139938807866) | Sun Jan 22 2023 2:03 PM 
+- 🤗 [精华推荐 | 【JVM深层系列】「GC底层调优专题」一文带你彻底加强夯实底层原理之GC垃圾回收技术的分析指南（GC原理透析）](https://juejin.cn/post/7191488359980597308) | Sun Jan 22 2023 2:49 PM 
     <details><summary>展开描述 ...</summary> 
-    V8 是谷歌推出的开源 JavaScript 引擎，它是用 C++ 编写的，支持 Google Chrome、Chromium 网络浏览器和 NodeJS，它负责与环境交互并生成字节码来运行程序。 如 
+    前提介绍 很多小伙伴，都跟我反馈，说自己总是对JVM这一块的学习和认识不够扎实也不够成熟，因为JVM的一些特性以及运作机制总是混淆以及不确定，导致面试和工作实战中出现了很多的纰漏和短板，解决广大小伙伴 
     </details> 
 
-- 🎡 [Go语言2023年开发者调研来了！文末附上2022年精彩文章合集](https://juejin.cn/post/7191471815955808314) | Sun Jan 22 2023 1:44 PM 
+- 🎡 [复习前端：JavaScript V8 引擎机制](https://juejin.cn/post/7191476139938807866) | Sun Jan 22 2023 2:03 PM 
     <details><summary>展开描述 ...</summary> 
-    2023年Go语言调研 Go团队的Alice Merrick在2023.01.18发布了2023年一月份开发者调研的线上链接地址。 过去7年，Go团队每年都会对Go开发者做调研。 从2022年开始，为 
+    V8 是谷歌推出的开源 JavaScript 引擎，它是用 C++ 编写的，支持 Google Chrome、Chromium 网络浏览器和 NodeJS，它负责与环境交互并生成字节码来运行程序。 如 
     </details> 
 
 - 🕯 [Go实现猜谜小游戏｜ 青训营笔记](https://juejin.cn/post/7191469064588361785) | Sun Jan 22 2023 1:35 PM 
