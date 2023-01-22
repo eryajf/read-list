@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Focusability - 事半功倍](https://xinquji.com/posts/793207?utm_campaign=xinquji-rss) | Sat Jan 21 2023 6:00 AM 
+- 👀 [WhereIs - 您的旅行计划的可嵌入列表](https://xinquji.com/posts/793236?utm_campaign=xinquji-rss) | Sun Jan 22 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     事半功倍  
+     您的旅行计划的可嵌入列表  
     </details> 
 
-- 🥷 [Change to Case - 更快地转换网络复制字母大小写方式](https://xinquji.com/posts/793206?utm_campaign=xinquji-rss) | Sat Jan 21 2023 6:00 AM 
+- 🥷 [Covonyx - 电子商务的预计交货日期](https://xinquji.com/posts/793235?utm_campaign=xinquji-rss) | Sun Jan 22 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     更快地转换网络复制字母大小写方式  
+     电子商务的预计交货日期  
     </details> 
 
-- 💼 [The Mouse Always Wins - 赌老鼠，赢大钱，买有趣的帽子](https://xinquji.com/posts/793205?utm_campaign=xinquji-rss) | Sat Jan 21 2023 6:00 AM 
+- 💼 [ParadiseDev - 科技与热带——天作之合](https://xinquji.com/posts/793234?utm_campaign=xinquji-rss) | Sun Jan 22 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     赌老鼠，赢大钱，买有趣的帽子  
+     科技与热带——天作之合  
     </details> 
 
-- 🦅 [Bridgerchat - 通过 Discord 频道进行客户服务实时聊天](https://xinquji.com/posts/793204?utm_campaign=xinquji-rss) | Sat Jan 21 2023 6:00 AM 
+- 🦅 [Pomodoro for Notion - 将番茄时间直接保存到概念数据库](https://xinquji.com/posts/793233?utm_campaign=xinquji-rss) | Sun Jan 22 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     通过 Discord 频道进行客户服务实时聊天  
+     将番茄时间直接保存到概念数据库  
     </details> 
 
-- 😺 [Easy to Learn - Baby Flash Cards - ABC、数字、颜色和形状](https://xinquji.com/posts/793203?utm_campaign=xinquji-rss) | Sat Jan 21 2023 6:00 AM 
+- 😺 [Aptranet DNS - 一种将访问者引导至应用程序的可靠且经济实惠的方式](https://xinquji.com/posts/793232?utm_campaign=xinquji-rss) | Sun Jan 22 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     ABC、数字、颜色和形状  
+     一种将访问者引导至应用程序的可靠且经济实惠的方式  
     </details> 
 <!-- xinquji:END -->
