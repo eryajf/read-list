@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [计算器与计算机的本质区别](https://juejin.cn/post/7191289345712586811) | Sun Jan 22 2023 2:01 AM 
+- 🤗 [异步编程：你需要知道的  指令、响应，同步原语 和 使用时注意事项](https://juejin.cn/post/7191291631545352250) | Sun Jan 22 2023 2:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    同步原语 Synchronization primitives 以下是一些关键同步原语。 锁： 信号量： 锁具 锁 Lock 示例 获得锁 释放锁 上下文管理器 测试锁定对象的 
+    </details> 
+
+- 🎡 [计算器与计算机的本质区别](https://juejin.cn/post/7191289345712586811) | Sun Jan 22 2023 2:01 AM 
     <details><summary>展开描述 ...</summary> 
     大家新年好，今天随便聊聊，不喜勿喷，新年快乐，喜欢关注。 假如现在要做这样一个运算：3×4+8×9 如果用计算器，我们得这么来： ● 输入3 ● 输入× ● 输入4 ● 输入= ● 记住结果12  
     </details> 
 
-- 🎡 [Fabric.js 元素选中状态的事件与样式](https://juejin.cn/post/7191281073517494332) | Sun Jan 22 2023 1:29 AM 
+- 🕯 [Fabric.js 元素选中状态的事件与样式](https://juejin.cn/post/7191281073517494332) | Sun Jan 22 2023 1:29 AM 
     <details><summary>展开描述 ...</summary> 
     🐵带尬猴！ 你是否在使用 Fabric.js 时希望能在选中元素后自定义元素样式或选框（控制角和辅助线）的样式？ 如果是的话，可以放心往下读。 
     </details> 
 
-- 🕯 [一期Go群问答-并发控制-数据竞争-错误与异常](https://juejin.cn/post/7191159093858402365) | Sat Jan 21 2023 5:41 PM 
+- 🚀 [一期Go群问答-并发控制-数据竞争-错误与异常](https://juejin.cn/post/7191159093858402365) | Sat Jan 21 2023 5:41 PM 
     <details><summary>展开描述 ...</summary> 
     每周更新Go技术交流群的群问答内容，有需要可发我Go加群讨论学习。 并发控制 waitGroup.d 
     </details> 
 
-- 🚀 [HTML 中的语义元素 | 青训营笔记](https://juejin.cn/post/7191134706325258300) | Sat Jan 21 2023 3:56 PM 
+- 💪 [HTML 中的语义元素 | 青训营笔记](https://juejin.cn/post/7191134706325258300) | Sat Jan 21 2023 3:56 PM 
     <details><summary>展开描述 ...</summary> 
     这是我参与「第五届青训营 」伴学笔记创作活动的第 1 天 介绍 我们知道，HTML 被用来结构化信息——例如标题、段落和列表等，也可用来在一定程度上描述文档的外观和语义。在编程中，语义指的是一段代码的 
-    </details> 
-
-- 💪 [边看春晚边学Go｜ 青训营笔记](https://juejin.cn/post/7191126906798866469) | Sat Jan 21 2023 3:25 PM 
-    <details><summary>展开描述 ...</summary> 
-    这是我参与「第五届青训营 」伴学笔记创作活动的第 1 天 Go语言简介 Go语言是Google主导开发的通用性计算机编程语言，Go是具有高性能、高并发特性的编程语言，具有和C++、Java可以媲美的性 
     </details> 
 <!-- juejin:END -->
 ### 少数派
