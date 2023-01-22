@@ -333,7 +333,7 @@
 
 <!-- v2ex:START -->
 - 🥸 [&lpar;应该是&rpar;目前为止最优雅的使用深信服 EasyConnect 的方式](https://www.v2ex.com/t/910299#reply5) | Sun Jan 22 2023 4:22 PM
-- 🤗 [同域服务适合用 OpenID 鉴权吗，大厂好像都是用的共享 Session，但怎么跨服务访问 Session 比较优雅？如果用 OpenID 单点退出好像实现起来比较麻烦。](https://www.v2ex.com/t/910298#reply0) | Sun Jan 22 2023 3:54 PM
+- 🤗 [同域服务适合用 OpenID 鉴权吗，大厂好像都是用的共享 Session，但怎么跨服务访问 Session 比较优雅？如果用 OpenID 单点退出好像实现起来比较麻烦。](https://www.v2ex.com/t/910298#reply1) | Sun Jan 22 2023 3:54 PM
 - 🎭 [[Electronic Wechat] Arch Linux 下更好用的微信客户端, 已登陆 AUR 仓库.](https://www.v2ex.com/t/910291#reply0) | Sun Jan 22 2023 2:58 PM
 - 🥷 [安卓的隐私空间能规避风险吗？](https://www.v2ex.com/t/910276#reply11) | Sun Jan 22 2023 1:02 PM
 - 🐵 [学费生活费 30 万，国内有什么水硕或者本科可以选吗？](https://www.v2ex.com/t/910271#reply5) | Sun Jan 22 2023 11:33 AM<!-- v2ex:END -->
