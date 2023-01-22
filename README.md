@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [准独立开发者的一年，每月副业4位数 | 2022年终总结](https://juejin.cn/post/7191316137571795001) | Sun Jan 22 2023 3:40 AM 
+- 🤗 [你知道哈希算法，但你知道一致性哈希吗？](https://juejin.cn/post/7191325689692291129) | Sun Jan 22 2023 4:18 AM 
     <details><summary>展开描述 ...</summary> 
-    2022 即将结束了，记得去年立的一个 flag ，那就是坚持每年写一篇年终总结。今年是第二年，用一个词来概括今年就是 —— 独立开发，再多几个词就是，健身、摄影吧。 独立应用篇 今年花了大量的业余时 
+    前言 假如让你为淘宝这种数据量非常大的公司的设计一个可扩展的数据存储系统，你该如何存储和管理数据呢？总不能放在单个服务器上吧，肯定放不下，必然需要 
     </details> 
 
-- 🎡 [异步编程：你需要知道的  指令、响应，同步原语 和 使用时注意事项](https://juejin.cn/post/7191291631545352250) | Sun Jan 22 2023 2:06 AM 
+- 🎡 [2023前端面试系列-- Vue 篇](https://juejin.cn/post/7191325434486161467) | Sun Jan 22 2023 4:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    新年第一天，开始准备春招，本文是我的前端面试复习系列的Vue篇，如有不当之处，欢迎指正，更同进步，谢谢🙏。 
+    </details> 
+
+- 🕯 [Longhorn+K8S+KubeSphere云端数据管理，实战 Sentry PostgreSQL 数据卷增量快照/备份与还原](https://juejin.cn/post/7191313587418169405) | Sun Jan 22 2023 3:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    云端实验环境配置 VKE K8S Cluster Vultr 托管集群 https://vultr.com/ 3 个 worker 节点，kubectl get nodes。 Kubesphere v 
+    </details> 
+
+- 🚀 [Cert Manager 申请SSL证书流程及相关概念-三](https://juejin.cn/post/7191292307612631096) | Sun Jan 22 2023 2:18 AM 
+    <details><summary>展开描述 ...</summary> 
+    ## 中英文对照表 | 英文 | 英文 - K8S CRD | 中文 | 备注  
+    </details> 
+
+- 💪 [异步编程：你需要知道的  指令、响应，同步原语 和 使用时注意事项](https://juejin.cn/post/7191291631545352250) | Sun Jan 22 2023 2:06 AM 
     <details><summary>展开描述 ...</summary> 
     同步原语 Synchronization primitives 以下是一些关键同步原语。 锁： 信号量： 锁具 锁 Lock 示例 获得锁 释放锁 上下文管理器 测试锁定对象的 
-    </details> 
-
-- 🕯 [计算器与计算机的本质区别](https://juejin.cn/post/7191289345712586811) | Sun Jan 22 2023 2:01 AM 
-    <details><summary>展开描述 ...</summary> 
-    大家新年好，今天随便聊聊，不喜勿喷，新年快乐，喜欢关注。 假如现在要做这样一个运算：3×4+8×9 如果用计算器，我们得这么来： ● 输入3 ● 输入× ● 输入4 ● 输入= ● 记住结果12  
-    </details> 
-
-- 🚀 [Fabric.js 元素选中状态的事件与样式](https://juejin.cn/post/7191281073517494332) | Sun Jan 22 2023 1:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    🐵带尬猴！ 你是否在使用 Fabric.js 时希望能在选中元素后自定义元素样式或选框（控制角和辅助线）的样式？ 如果是的话，可以放心往下读。 
-    </details> 
-
-- 💪 [一期Go群问答-并发控制-数据竞争-错误与异常](https://juejin.cn/post/7191159093858402365) | Sat Jan 21 2023 5:41 PM 
-    <details><summary>展开描述 ...</summary> 
-    每周更新Go技术交流群的群问答内容，有需要可发我Go加群讨论学习。 并发控制 waitGroup.d 
     </details> 
 <!-- juejin:END -->
 ### 少数派
