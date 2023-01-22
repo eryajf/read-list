@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Three.js 进阶之旅：新春特典-Rabbit craft go 🐇](https://juejin.cn/post/7191415427350659129) | Sun Jan 22 2023 10:08 AM 
+- 🤗 [2023年, 前端路上的开源总结&lpar;最新更新&rpar;](https://juejin.cn/post/7191429580790431803) | Sun Jan 22 2023 11:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    19年至今, 笔者利用空余时间陆陆续续做了一些开源项目, 大部分开源项目都是以实际价值为开源基础, 所以我觉得有必要做一个总结和复盘,在复盘的过程中希望也能对大家有所帮助.今后笔者的开源项目都会放在这 
+    </details> 
+
+- 🎡 [准独立开发者的一年，Side Project 每月4位数 | 2022年终总结](https://juejin.cn/post/7191416559816933435) | Sun Jan 22 2023 10:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    2022 即将结束了，记得去年立的一个 flag ，那就是坚持每年写一篇年终总结。今年是第二年，用一个词来概括今年就是 —— 独立开发，再多几个词就是，健身、摄影吧。 独立应用篇 今年花了大量的业余时 
+    </details> 
+
+- 🕯 [Three.js 进阶之旅：新春特典-Rabbit craft go 🐇](https://juejin.cn/post/7191415427350659129) | Sun Jan 22 2023 10:08 AM 
     <details><summary>展开描述 ...</summary> 
     兔年到了，祝大家身体健，康万事顺利。本文内容作为兔年新春纪念页面，将使用 Three.js 及其他前端开发知识，创建一个以兔子为主题的3D简单的趣味页面 Rabbit craft go。 
     </details> 
 
-- 🎡 [Swift之struct二进制大小分析](https://juejin.cn/post/7191406877819797561) | Sun Jan 22 2023 9:37 AM 
+- 🚀 [Swift之struct二进制大小分析](https://juejin.cn/post/7191406877819797561) | Sun Jan 22 2023 9:37 AM 
     <details><summary>展开描述 ...</summary> 
     随着Swift的日渐成熟和给开发过程带来的便利性及安全性，京喜App中的原生业务模块和基础模块使用Swift开发占比逐渐增高。本次讨论的是struct对比Class的一些优劣势，重点分析对包体积影响。 
     </details> 
 
-- 🕯 [Android进阶宝典 -- NestedScroll嵌套滑动机制实现吸顶效果](https://juejin.cn/post/7191404521916989495) | Sun Jan 22 2023 9:24 AM 
+- 💪 [Android进阶宝典 -- NestedScroll嵌套滑动机制实现吸顶效果](https://juejin.cn/post/7191404521916989495) | Sun Jan 22 2023 9:24 AM 
     <details><summary>展开描述 ...</summary> 
     通过自定义View的方式实现吸顶效果，同时发现传统事件分发存在的体验问题，最终通过NestedScrollingParent和NestedScrollingChild接口实现嵌套滑动，解决体验问题 
-    </details> 
-
-- 🚀 [矩阵求导](https://juejin.cn/post/7191389308429795387) | Sun Jan 22 2023 8:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    矩阵求导 main idea 函数的输出如果不是标量，那么求导就是对他的每一个输出分别求，于是问题退化成了输出是标量 
-    </details> 
-
-- 💪 [vue中多行&lpar;单行&rpar;文本溢出才会出现提示的自定义指令](https://juejin.cn/post/7191378274202124344) | Sun Jan 22 2023 7:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    平时开发中，如果标题超出多行，我们希望出现省略号，并且为其添加简单提示。但是，如果我们在全局写公共class类，行数不好控制。统一加title=xxx，又会出现文本是否超出都会出现title的现象。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
