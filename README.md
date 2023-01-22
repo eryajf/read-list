@@ -332,8 +332,8 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Wavelength 实例到底有什么用](https://www.v2ex.com/t/910260#reply2) | Sun Jan 22 2023 8:40 AM
-- 🤗 [你在 Linux 下用什么 office 套件](https://www.v2ex.com/t/910259#reply0) | Sun Jan 22 2023 8:31 AM
+- 🥸 [Wavelength 实例到底有什么用](https://www.v2ex.com/t/910260#reply3) | Sun Jan 22 2023 8:40 AM
+- 🤗 [你在 Linux 下用什么 office 套件](https://www.v2ex.com/t/910259#reply6) | Sun Jan 22 2023 8:31 AM
 - 🎭 [新年快乐， tostruct 小库来拜年](https://www.v2ex.com/t/910240#reply6) | Sun Jan 22 2023 4:43 AM
 - 🥷 [我发现高通骁龙 8Gen2 的核显都支持了光追](https://www.v2ex.com/t/910225#reply20) | Sun Jan 22 2023 1:43 AM
 - 🐵 [8.8.8.8 抽风了？](https://www.v2ex.com/t/910216#reply4) | Sat Jan 21 2023 6:52 PM<!-- v2ex:END -->
