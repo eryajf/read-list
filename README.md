@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [CSS 中的层叠、优先级和继承 ｜ 青训营笔记](https://juejin.cn/post/7191505723908423717) | Sun Jan 22 2023 3:56 PM 
+- 🤗 [视野修炼-技术周刊第21期](https://juejin.cn/post/7191642637797949495) | Mon Jan 23 2023 12:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    1. 2022 State of JS 结果出炉 2. CodePen 2022 Top100 3. 中国亲戚关系计算器。。。更多内容详见文章 
+    </details> 
+
+- 🎡 [CSS 中的层叠、优先级和继承 ｜ 青训营笔记](https://juejin.cn/post/7191505723908423717) | Sun Jan 22 2023 3:56 PM 
     <details><summary>展开描述 ...</summary> 
     这是我参与「第五届青训营 」伴学笔记创作活动的第 2 天 介绍 CSS 中的层叠、优先级和继承决定着如何将 CSS 应用到 HTML 中，以及如何解决冲突。在某些时候，我们在做一个项目过程中会发现一些 
     </details> 
 
-- 🎡 [精华推荐 | 【JVM深层系列】「GC底层调优专题」一文带你彻底加强夯实底层原理之GC垃圾回收技术的分析指南（GC原理透析）](https://juejin.cn/post/7191488359980597308) | Sun Jan 22 2023 2:49 PM 
+- 🕯 [精华推荐 | 【JVM深层系列】「GC底层调优专题」一文带你彻底加强夯实底层原理之GC垃圾回收技术的分析指南（GC原理透析）](https://juejin.cn/post/7191488359980597308) | Sun Jan 22 2023 2:49 PM 
     <details><summary>展开描述 ...</summary> 
     前提介绍 很多小伙伴，都跟我反馈，说自己总是对JVM这一块的学习和认识不够扎实也不够成熟，因为JVM的一些特性以及运作机制总是混淆以及不确定，导致面试和工作实战中出现了很多的纰漏和短板，解决广大小伙伴 
     </details> 
 
-- 🕯 [复习前端：JavaScript V8 引擎机制](https://juejin.cn/post/7191476139938807866) | Sun Jan 22 2023 2:03 PM 
+- 🚀 [复习前端：JavaScript V8 引擎机制](https://juejin.cn/post/7191476139938807866) | Sun Jan 22 2023 2:03 PM 
     <details><summary>展开描述 ...</summary> 
     V8 是谷歌推出的开源 JavaScript 引擎，它是用 C++ 编写的，支持 Google Chrome、Chromium 网络浏览器和 NodeJS，它负责与环境交互并生成字节码来运行程序。 如 
     </details> 
 
-- 🚀 [Go实现猜谜小游戏｜ 青训营笔记](https://juejin.cn/post/7191469064588361785) | Sun Jan 22 2023 1:35 PM 
+- 💪 [Go实现猜谜小游戏｜ 青训营笔记](https://juejin.cn/post/7191469064588361785) | Sun Jan 22 2023 1:35 PM 
     <details><summary>展开描述 ...</summary> 
     这是我参与「第五届青训营 」伴学笔记创作活动的第 2 天 前言 本文是介绍用Go实现一个猜谜小游戏，就是程序先生成一个随机数num，然后让用户来猜生成的数是多少，如果猜的数比num小就提示用户猜测的数 
-    </details> 
-
-- 💪 [前端性能优化进阶篇——动态加载模块基础补遗](https://juejin.cn/post/7191435575100964924) | Sun Jan 22 2023 11:23 AM 
-    <details><summary>展开描述 ...</summary> 
-    背景介绍 这是设计模式系列的第四节，学习的是patterns.dev里设计模式中模块模式内容，由于是资料是英文版，所以我的学习笔记就带有翻译的性质，但并不是翻译，记录的是自己的学习过程和理解。 第一节 
     </details> 
 <!-- juejin:END -->
 ### 少数派
