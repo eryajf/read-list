@@ -335,7 +335,7 @@
 - 🥸 [Gitee 的宝藏功能：推送到特定分支可以自动创建代码合并请求](https://www.v2ex.com/t/910390#reply0) | Mon Jan 23 2023 2:30 PM
 - 🤗 [fetch header 携带自定义请求头，类型不匹配](https://www.v2ex.com/t/910387#reply2) | Mon Jan 23 2023 2:09 PM
 - 🎭 [最近爬网弄我的积灰 tesla p10 卡搞 vgpu,pve7.3 的发现了个新的搞许可方式](https://www.v2ex.com/t/910385#reply2) | Mon Jan 23 2023 1:54 PM
-- 🥷 [吐槽腾讯云土规定：购买的域名禁止使用自建权威 DNS](https://www.v2ex.com/t/910383#reply5) | Mon Jan 23 2023 1:48 PM
+- 🥷 [吐槽腾讯云土规定：购买的域名禁止使用自建权威 DNS](https://www.v2ex.com/t/910383#reply6) | Mon Jan 23 2023 1:48 PM
 - 🐵 [求教有没有比较活跃的 R 语言论坛呢](https://www.v2ex.com/t/910376#reply11) | Mon Jan 23 2023 12:54 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
