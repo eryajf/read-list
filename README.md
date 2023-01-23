@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [WhereIs - 您的旅行计划的可嵌入列表](https://xinquji.com/posts/793236?utm_campaign=xinquji-rss) | Sun Jan 22 2023 6:00 AM 
+- 👀 [Refrens ABC - 自由职业者和小团队的极简潜在客户管理](https://xinquji.com/posts/793282?utm_campaign=xinquji-rss) | Mon Jan 23 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     您的旅行计划的可嵌入列表  
+     自由职业者和小团队的极简潜在客户管理  
     </details> 
 
-- 🥷 [Covonyx - 电子商务的预计交货日期](https://xinquji.com/posts/793235?utm_campaign=xinquji-rss) | Sun Jan 22 2023 6:00 AM 
+- 🥷 [Lingobo - 您的人工智能语言伙伴](https://xinquji.com/posts/793281?utm_campaign=xinquji-rss) | Mon Jan 23 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     电子商务的预计交货日期  
+     您的人工智能语言伙伴  
     </details> 
 
-- 💼 [ParadiseDev - 科技与热带——天作之合](https://xinquji.com/posts/793234?utm_campaign=xinquji-rss) | Sun Jan 22 2023 6:00 AM 
+- 💼 [Comntai - 想象一下您的网站有一个由 AI 提供支持的问答小部件](https://xinquji.com/posts/793280?utm_campaign=xinquji-rss) | Mon Jan 23 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     科技与热带——天作之合  
+     想象一下您的网站有一个由 AI 提供支持的问答小部件  
     </details> 
 
-- 🦅 [Pomodoro for Notion - 将番茄时间直接保存到概念数据库](https://xinquji.com/posts/793233?utm_campaign=xinquji-rss) | Sun Jan 22 2023 6:00 AM 
+- 🦅 [Beep! - 在任何页面、屏幕上的任何位置发表评论，标记任何人](https://xinquji.com/posts/793279?utm_campaign=xinquji-rss) | Mon Jan 23 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     将番茄时间直接保存到概念数据库  
+     在任何页面、屏幕上的任何位置发表评论，标记任何人  
     </details> 
 
-- 😺 [Aptranet DNS - 一种将访问者引导至应用程序的可靠且经济实惠的方式](https://xinquji.com/posts/793232?utm_campaign=xinquji-rss) | Sun Jan 22 2023 6:00 AM 
+- 😺 [Expert Cloud by Nextyn - 搜索、咨询并与行业专家合作](https://xinquji.com/posts/793278?utm_campaign=xinquji-rss) | Mon Jan 23 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     一种将访问者引导至应用程序的可靠且经济实惠的方式  
+     搜索、咨询并与行业专家合作  
     </details> 
 <!-- xinquji:END -->
