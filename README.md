@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [视野修炼-技术周刊第21期](https://juejin.cn/post/7191642637797949495) | Mon Jan 23 2023 12:52 AM 
+- 🤗 [2022年，经历了两段实习后，我学会了……](https://juejin.cn/post/7191649027803316281) | Mon Jan 23 2023 1:12 AM 
+    <details><summary>展开描述 ...</summary> 
+    借着掘金的这个活动，我也来对自己的2022做一个回顾，同时对2023做一个合理的规划，希望我的经历也能帮助到诸位大佬 
+    </details> 
+
+- 🎡 [视野修炼-技术周刊第21期](https://juejin.cn/post/7191642637797949495) | Mon Jan 23 2023 12:52 AM 
     <details><summary>展开描述 ...</summary> 
     1. 2022 State of JS 结果出炉 2. CodePen 2022 Top100 3. 中国亲戚关系计算器。。。更多内容详见文章 
     </details> 
 
-- 🎡 [CSS 中的层叠、优先级和继承 ｜ 青训营笔记](https://juejin.cn/post/7191505723908423717) | Sun Jan 22 2023 3:56 PM 
+- 🕯 [我给我的博客加了个在线运行代码功能](https://juejin.cn/post/7191520909709017144) | Sun Jan 22 2023 5:02 PM 
+    <details><summary>展开描述 ...</summary> 
+    新的一年还没过去，我又开始搞事情了，偶尔一次用到了在线编辑网页代码的网站，顿时想到，能不能自己实现一个呢？（PS：反正也没事干），然后又想着，能不能用在博客上呢，这样有些代码可以直接展现出来，多好 
+    </details> 
+
+- 🚀 [CSS 中的层叠、优先级和继承 ｜ 青训营笔记](https://juejin.cn/post/7191505723908423717) | Sun Jan 22 2023 3:56 PM 
     <details><summary>展开描述 ...</summary> 
     这是我参与「第五届青训营 」伴学笔记创作活动的第 2 天 介绍 CSS 中的层叠、优先级和继承决定着如何将 CSS 应用到 HTML 中，以及如何解决冲突。在某些时候，我们在做一个项目过程中会发现一些 
     </details> 
 
-- 🕯 [精华推荐 | 【JVM深层系列】「GC底层调优专题」一文带你彻底加强夯实底层原理之GC垃圾回收技术的分析指南（GC原理透析）](https://juejin.cn/post/7191488359980597308) | Sun Jan 22 2023 2:49 PM 
+- 💪 [精华推荐 | 【JVM深层系列】「GC底层调优专题」一文带你彻底加强夯实底层原理之GC垃圾回收技术的分析指南（GC原理透析）](https://juejin.cn/post/7191488359980597308) | Sun Jan 22 2023 2:49 PM 
     <details><summary>展开描述 ...</summary> 
     前提介绍 很多小伙伴，都跟我反馈，说自己总是对JVM这一块的学习和认识不够扎实也不够成熟，因为JVM的一些特性以及运作机制总是混淆以及不确定，导致面试和工作实战中出现了很多的纰漏和短板，解决广大小伙伴 
-    </details> 
-
-- 🚀 [复习前端：JavaScript V8 引擎机制](https://juejin.cn/post/7191476139938807866) | Sun Jan 22 2023 2:03 PM 
-    <details><summary>展开描述 ...</summary> 
-    V8 是谷歌推出的开源 JavaScript 引擎，它是用 C++ 编写的，支持 Google Chrome、Chromium 网络浏览器和 NodeJS，它负责与环境交互并生成字节码来运行程序。 如 
-    </details> 
-
-- 💪 [Go实现猜谜小游戏｜ 青训营笔记](https://juejin.cn/post/7191469064588361785) | Sun Jan 22 2023 1:35 PM 
-    <details><summary>展开描述 ...</summary> 
-    这是我参与「第五届青训营 」伴学笔记创作活动的第 2 天 前言 本文是介绍用Go实现一个猜谜小游戏，就是程序先生成一个随机数num，然后让用户来猜生成的数是多少，如果猜的数比num小就提示用户猜测的数 
     </details> 
 <!-- juejin:END -->
 ### 少数派
