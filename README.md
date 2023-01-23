@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [浅聊什么是语言自举](https://juejin.cn/post/7191694448228007996) | Mon Jan 23 2023 4:11 AM 
+- 🤗 [JSON.stringify&lpar;&rpar; 的 5 使用场景](https://juejin.cn/post/7191712569394987065) | Mon Jan 23 2023 5:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    JSON.stringify&lpar;&rpar; 方法将一个 JavaScript 对象或值转换为 JSON 字符串，如果指定了一个 replacer 函数，则可以选择性地替换值，或者指定的 replacer 是数组 
+    </details> 
+
+- 🎡 [浅聊什么是语言自举](https://juejin.cn/post/7191694448228007996) | Mon Jan 23 2023 4:11 AM 
     <details><summary>展开描述 ...</summary> 
     高级语言都是需要进行编译的，编译就是把高级语言翻译为机器指令。 就算是Java也需要编译，这里指的编译不是javac，而是jit编译器，javac负责把java代码编译为JVM字节码，jit编译器负 
     </details> 
 
-- 🎡 [【兔年创意投稿】兔兔的奇妙旅程（十）好奇兔兔&amp;&amp;对HBase的探索](https://juejin.cn/post/7191694813605920829) | Mon Jan 23 2023 4:09 AM 
+- 🕯 [【兔年创意投稿】兔兔的奇妙旅程（十）好奇兔兔&amp;&amp;对HBase的探索](https://juejin.cn/post/7191694813605920829) | Mon Jan 23 2023 4:09 AM 
     <details><summary>展开描述 ...</summary> 
     书接上回。 对突突和达达来说，它们一入门就从Go语言及相关项目学起。但实际上，要想做好项目，需要多方面的综合知识。 这天，它们在查看hertz和kitex的示例代码时发现了HBase这个数据库。它们找 
     </details> 
 
-- 🕯 [Go实现在线词典｜ 青训营笔记](https://juejin.cn/post/7191674419398803514) | Mon Jan 23 2023 2:54 AM 
+- 🚀 [Flutter中的布局（二）](https://juejin.cn/post/7191677711969386556) | Mon Jan 23 2023 3:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    一、常见的布局小部件 Flutter拥有丰富的布局小部件库。这里有一些最常用的。目的是为了让您尽快启动并运行，而不是用完整的列表让您不知所措。有关其他可用小部件的信息，请参阅小部件目录，或使用API  
+    </details> 
+
+- 💪 [Go实现在线词典｜ 青训营笔记](https://juejin.cn/post/7191674419398803514) | Mon Jan 23 2023 2:54 AM 
     <details><summary>展开描述 ...</summary> 
     这是我参与「第五届青训营 」伴学笔记创作活动的第 3 天 前言 本文是介绍用Go实现一个简易版的在线英语单词查询功能，该功能主要是调用第三方在线Api实现英语单词的翻译功能。 在本文中将使用到以下技术 
-    </details> 
-
-- 🚀 [工作这么多年，我总结的数据传输对象 &lpar;DTO&rpar; 的最佳实践](https://juejin.cn/post/7191674871036936247) | Mon Jan 23 2023 2:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 数据传输对象 &lpar;DTO&rpar; 是一种设计模式，常用于软件开发不同层或者不同系统之间传输数据。DTO 的主要目的是封装数据并防止它被其他层或系统直接访问或修改。通过遵循一组最佳实践，开发人员可以确保他 
-    </details> 
-
-- 💪 [2022年，经历了两段实习后，我学会了……](https://juejin.cn/post/7191649027803316281) | Mon Jan 23 2023 1:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    借着掘金的这个活动，我也来对自己的2022做一个回顾，同时对2023做一个合理的规划，希望我的经历也能帮助到诸位大佬 
     </details> 
 <!-- juejin:END -->
 ### 少数派
