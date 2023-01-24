@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请 css 大佬帮忙看下这个居中难题，折腾了 3 个小时还没解决](https://www.v2ex.com/t/910482#reply0) | Tue Jan 24 2023 12:22 PM
-- 🤗 [开源 C 语言库 Melon： Cron 格式解析](https://www.v2ex.com/t/910476#reply0) | Tue Jan 24 2023 11:22 AM
-- 🎭 [[急求] VSCode 调试 C++ 如何实现输入重定向](https://www.v2ex.com/t/910472#reply7) | Tue Jan 24 2023 10:14 AM
-- 🥷 [这都什么年代了，居然有人还在用 WIN 7 32Bit 版本的 OS，这些人的脑回路到底是怎么想的？](https://www.v2ex.com/t/910471#reply12) | Tue Jan 24 2023 10:05 AM
-- 🐵 [推荐一门我做的开源课程，《从零编写深度学习推理框架》，学会怎么上手一个现代风格 C++项目。现在我已经更新到如何实现 Resnet 中的 Add 层了.](https://www.v2ex.com/t/910470#reply0) | Tue Jan 24 2023 9:38 AM<!-- v2ex:END -->
+- 🥸 [google keep 的手机端搜索功能好像不够智能](https://www.v2ex.com/t/910490#reply0) | Tue Jan 24 2023 1:14 PM
+- 🤗 [请 css 大佬帮忙看下这个居中难题，折腾了 3 个小时还没解决](https://www.v2ex.com/t/910482#reply13) | Tue Jan 24 2023 12:22 PM
+- 🎭 [开源 C 语言库 Melon： Cron 格式解析](https://www.v2ex.com/t/910476#reply0) | Tue Jan 24 2023 11:22 AM
+- 🥷 [[急求] VSCode 调试 C++ 如何实现输入重定向](https://www.v2ex.com/t/910472#reply7) | Tue Jan 24 2023 10:14 AM
+- 🐵 [这都什么年代了，居然有人还在用 WIN 7 32Bit 版本的 OS，这些人的脑回路到底是怎么想的？](https://www.v2ex.com/t/910471#reply13) | Tue Jan 24 2023 10:05 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
