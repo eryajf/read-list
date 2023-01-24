@@ -695,28 +695,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Refrens ABC - 自由职业者和小团队的极简潜在客户管理](https://xinquji.com/posts/793282?utm_campaign=xinquji-rss) | Mon Jan 23 2023 6:00 AM 
+- 👀 [BookNotion - 在 Notion 中轻松免费保存 Kindle 亮点](https://xinquji.com/posts/793328?utm_campaign=xinquji-rss) | Tue Jan 24 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     自由职业者和小团队的极简潜在客户管理  
+     在 Notion 中轻松免费保存 Kindle 亮点  
     </details> 
 
-- 🥷 [Lingobo - 您的人工智能语言伙伴](https://xinquji.com/posts/793281?utm_campaign=xinquji-rss) | Mon Jan 23 2023 6:00 AM 
+- 🥷 [Groundwork1 - 简单的员工培训直接发送到电子邮件收件箱](https://xinquji.com/posts/793327?utm_campaign=xinquji-rss) | Tue Jan 24 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     您的人工智能语言伙伴  
+     简单的员工培训直接发送到电子邮件收件箱  
     </details> 
 
-- 💼 [Comntai - 想象一下您的网站有一个由 AI 提供支持的问答小部件](https://xinquji.com/posts/793280?utm_campaign=xinquji-rss) | Mon Jan 23 2023 6:00 AM 
+- 💼 [PipelinerOnline - 专为中小企业设计的金融建模模拟器](https://xinquji.com/posts/793326?utm_campaign=xinquji-rss) | Tue Jan 24 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     想象一下您的网站有一个由 AI 提供支持的问答小部件  
+     专为中小企业设计的金融建模模拟器  
     </details> 
 
-- 🦅 [Beep! - 在任何页面、屏幕上的任何位置发表评论，标记任何人](https://xinquji.com/posts/793279?utm_campaign=xinquji-rss) | Mon Jan 23 2023 6:00 AM 
+- 🦅 [Ada - 超越人类指导，人工智能辅助职业指导每个人](https://xinquji.com/posts/793325?utm_campaign=xinquji-rss) | Tue Jan 24 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     在任何页面、屏幕上的任何位置发表评论，标记任何人  
+     超越人类指导，人工智能辅助职业指导每个人  
     </details> 
 
-- 😺 [Expert Cloud by Nextyn - 搜索、咨询并与行业专家合作](https://xinquji.com/posts/793278?utm_campaign=xinquji-rss) | Mon Jan 23 2023 6:00 AM 
+- 😺 [DataQA - 将 Slack 变成你的内部 Stack Overflow](https://xinquji.com/posts/793324?utm_campaign=xinquji-rss) | Tue Jan 24 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     搜索、咨询并与行业专家合作  
+     将 Slack 变成你的内部 Stack Overflow  
     </details> 
 <!-- xinquji:END -->
