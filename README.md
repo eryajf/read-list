@@ -335,7 +335,7 @@
 - 🥸 [在 Android 中，“内部存储”和“外部存储”到底指哪个路径？](https://www.v2ex.com/t/910509#reply0) | Tue Jan 24 2023 3:48 PM
 - 🤗 [你们的博客会加上欧盟 GDPR 询问么？感觉这个市场很大呀](https://www.v2ex.com/t/910494#reply3) | Tue Jan 24 2023 1:49 PM
 - 🎭 [google keep 的手机端搜索功能好像不够智能](https://www.v2ex.com/t/910490#reply6) | Tue Jan 24 2023 1:14 PM
-- 🥷 [请 css 大佬帮忙看下这个居中难题，折腾了 3 个小时还没解决](https://www.v2ex.com/t/910482#reply19) | Tue Jan 24 2023 12:22 PM
+- 🥷 [请 css 大佬帮忙看下这个居中难题，折腾了 3 个小时还没解决](https://www.v2ex.com/t/910482#reply23) | Tue Jan 24 2023 12:22 PM
 - 🐵 [开源 C 语言库 Melon： Cron 格式解析](https://www.v2ex.com/t/910476#reply0) | Tue Jan 24 2023 11:22 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
