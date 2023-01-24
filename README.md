@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [『白板推导系列笔记』4.线性分类](https://juejin.cn/post/7192114678812639293) | Tue Jan 24 2023 7:18 AM 
+- 🤗 [FPGA：硬件描述语言简介](https://juejin.cn/post/7192132759266164773) | Tue Jan 24 2023 8:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    &gt;⭐本专栏针对FPGA进行入门学习，从逻辑代数等基础知识讲起，结合Verilog HDL语言学习与仿真，主要对组合逻辑电路与时序逻辑电路进行分析与设计，对状态机FSM进行剖析与建模。 &gt; &gt;🔥本文已收 
+    </details> 
+
+- 🎡 [如何接手别人的系统-遗留系统重建的道法术器势志（万字长文）](https://juejin.cn/post/7192128053596651581) | Tue Jan 24 2023 8:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 成熟的公司会有大量的存量系统，程序员难免接手他人开的的系统。万一不小心接手的系统过于腐烂，祖传代码难易破译，一边吃力不讨好艰难维护老系统，一边在上面做新业务，出了问题要背大锅，一头包，难有好成绩 
+    </details> 
+
+- 🕯 [秒杀场景下的业务梳理——Redis分布式锁的优化](https://juejin.cn/post/7192123858072109115) | Tue Jan 24 2023 7:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    秒杀场景下的业务梳理——Redis分布式锁的优化 随着互联网的快速发展，商品秒杀的场景我们并不少见；秒杀是一种供不应求的，高并发的场景，它里面包含了很多技术点，掌握了其中的技术点，虽不一定能让你面试立 
+    </details> 
+
+- 🚀 [『白板推导系列笔记』4.线性分类](https://juejin.cn/post/7192114678812639293) | Tue Jan 24 2023 7:18 AM 
     <details><summary>展开描述 ...</summary> 
     从线性回归过渡到线性分类，介绍了感知机，线性辨别分析，逻辑回归，高斯辨别分析，朴素贝叶斯等线性分类模型的数学推导。 
     </details> 
 
-- 🎡 [我竟然完美地用js实现默认的文本框粘贴事件](https://juejin.cn/post/7192102055551434809) | Tue Jan 24 2023 6:30 AM 
+- 💪 [我竟然完美地用js实现默认的文本框粘贴事件](https://juejin.cn/post/7192102055551434809) | Tue Jan 24 2023 6:30 AM 
     <details><summary>展开描述 ...</summary> 
     废话连篇 默认情况对一个文本框粘贴，应该会有这样的功能： 粘贴文本后，光标不会回到所有文本的最后位置，而是在粘贴的文本之后 将选中的文字替换成粘贴的文本 但是由于需求，我们需要拦截粘贴的事件，对剪贴板 
-    </details> 
-
-- 🕯 [Web3年入百万的“空投”到底是什么？教你开发批量转账的空投DApp（涵盖前端、智能合约）](https://juejin.cn/post/7192098867868303417) | Tue Jan 24 2023 6:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    什么是空投？ 每一个新的 DApp 上线，第一件要做的事就是收集用户。 而收集用户的方式有哪些呢？原则上很简单：提供利益、提供价值。 像上一篇文章中介绍的“水龙头”就是一种收集用户的方式。 但水龙头是 
-    </details> 
-
-- 🚀 [复习前端：前端应掌握的网络知识](https://juejin.cn/post/7192060696043978813) | Tue Jan 24 2023 3:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    2023年大年初三，继续学习。今天来复习与前端开发相关的一些网络知识，简单介绍网络七层模型 OSI、HTTPS状态码、GET和POST方法区别、HTTP/1.0和HTTP/1.1有什么区别等。 
-    </details> 
-
-- 💪 [线程阻塞唤醒工具 LockSupport](https://juejin.cn/post/7192019058399641658) | Tue Jan 24 2023 1:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    LockSupport 简介 LockSupport 是 Java 并发编程中一个非常重要的组件，我们熟知的并发组件 Lock、线程池、CountDownLatch 等都是基于 AQS 实现的，而 A 
     </details> 
 <!-- juejin:END -->
 ### 少数派
