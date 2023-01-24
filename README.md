@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [写好 JS 的原则 组件封装、过程抽象 ｜ 青训营笔记](https://juejin.cn/post/7191902215370932282) | Mon Jan 23 2023 5:38 PM 
+- 🤗 [线程阻塞唤醒工具 LockSupport](https://juejin.cn/post/7192019058399641658) | Tue Jan 24 2023 1:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    LockSupport 简介 LockSupport 是 Java 并发编程中一个非常重要的组件，我们熟知的并发组件 Lock、线程池、CountDownLatch 等都是基于 AQS 实现的，而 A 
+    </details> 
+
+- 🎡 [Go 语言进阶——并发编程｜ 青训营笔记](https://juejin.cn/post/7192011866715979813) | Tue Jan 24 2023 12:41 AM 
+    <details><summary>展开描述 ...</summary> 
+    这是我参与「第五届青训营」伴学笔记创作活动的第 4 天 前言 本文从并发编程的视角来了解Go高性能的本质、为何Go的运行可以如此之快，主要涉及到知识点：并发、并行、协程、CSP模型、Channel、M 
+    </details> 
+
+- 🕯 [写好 JS 的原则 组件封装、过程抽象 ｜ 青训营笔记](https://juejin.cn/post/7191902215370932282) | Mon Jan 23 2023 5:38 PM 
     <details><summary>展开描述 ...</summary> 
     UI 组件是指 Web 页面上抽出来一个个包含模版（HTML）、功能（JS）和样式（CSS）的单元。好的 UI 组件具备正确性、封装性、扩展性、复用性。 
     </details> 
 
-- 🎡 [【Redis技术专区】「优化案例」谈谈使用Redis慢查询日志以及Redis慢查询分析指南](https://juejin.cn/post/7191875255991238693) | Mon Jan 23 2023 3:49 PM 
+- 🚀 [【Redis技术专区】「优化案例」谈谈使用Redis慢查询日志以及Redis慢查询分析指南](https://juejin.cn/post/7191875255991238693) | Mon Jan 23 2023 3:49 PM 
     <details><summary>展开描述 ...</summary> 
     前提介绍 本篇文章主要介绍了Redis的执行的慢查询的功能的查询和配置功能，从而可以方便我们在实际工作中，进行分析Redis的性能运行状况以及对应的优化Redis性能的佐证和指标因素。 在我们5.0左 
     </details> 
 
-- 🕯 [HTML的讲解 ｜ 青训营笔记](https://juejin.cn/post/7191874504329527351) | Mon Jan 23 2023 3:46 PM 
+- 💪 [HTML的讲解 ｜ 青训营笔记](https://juejin.cn/post/7191874504329527351) | Mon Jan 23 2023 3:46 PM 
     <details><summary>展开描述 ...</summary> 
     “这是我参与「第五届青训营 」笔记创作活动的的第一天” 什么是HTML？ 用我自己的一句话来说就是：HTML是用来描述网页的标记语言 那我们为什么要学HTML呢？ 有利于设备解析，让不同的设备（如屏幕 
-    </details> 
-
-- 🚀 [HTML、CSS、JS 各司其职的原则 ｜ 青训营笔记](https://juejin.cn/post/7191842058267525157) | Mon Jan 23 2023 1:40 PM 
-    <details><summary>展开描述 ...</summary> 
-    我们知道，一个网页通常分为三层，JS 负责行为，CSS 负责表现，HTML 负责结构。在写页面时，遵循 HTML、CSS、JS 各司其职的原则，各自实现对应的功能，这样的好处不仅便于后续代码的维护扩展 
-    </details> 
-
-- 💪 [Flutter web bridge 通信总结](https://juejin.cn/post/7191835597546209341) | Mon Jan 23 2023 1:15 PM 
-    <details><summary>展开描述 ...</summary> 
-    bridge 部分解决各端的 1. 兼容性和平台差异 2. 不同操作系统之间的处理 3. 各端之间跨端通信 4. 第三方 SDK 调用整合 5. 各端业务复用 6. 解决各端之间 Auth 的授权 
     </details> 
 <!-- juejin:END -->
 ### 少数派
