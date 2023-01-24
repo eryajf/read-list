@@ -361,9 +361,9 @@
     UI 组件是指 Web 页面上抽出来一个个包含模版（HTML）、功能（JS）和样式（CSS）的单元。好的 UI 组件具备正确性、封装性、扩展性、复用性。 
     </details> 
 
-- 💪 [【实习三部曲最终章】一名前端实习生在阿里的成长小结](https://juejin.cn/post/7191877485150568509) | Mon Jan 23 2023 3:57 PM 
+- 💪 [「React 技巧」: Suspense](https://juejin.cn/post/7191879317482111037) | Mon Jan 23 2023 4:05 PM 
     <details><summary>展开描述 ...</summary> 
-    23届本科生的阿里暑期实习之旅 总结了期间做过比较有感触的事儿&amp;对应的收获、教训 希望能对大家有所启发~ 
+    React 是一个用户构建用户界面的 JavaScript 库。 随着项目工程复杂性的提高，页面响应速度和流畅性下降。Suspense 是 React 18 发布第一个功能，允许使用更少的浏览器资源构 
     </details> 
 <!-- juejin:END -->
 ### 少数派
