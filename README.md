@@ -677,19 +677,19 @@
  
     </details> 
 
-- 🎉 [今日好价 0124](http://jandan.net/p/112264) | Tue Jan 24 2023 4:38 AM 
+- 🎉 [把海底的光纤网络变成全球海洋科学观测站](http://jandan.net/p/112262) | Tue Jan 24 2023 4:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    现有技术可以检测到光纤电缆的弯曲位置 
+    </details> 
+
+- 🐲 [今日好价 0124](http://jandan.net/p/112264) | Tue Jan 24 2023 4:38 AM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：12 
     </details> 
 
-- 🐲 [阿波罗11号的传奇宇航员奥尔德林刚过完93岁生日，并在同天举行了婚礼](http://jandan.net/p/112258) | Mon Jan 23 2023 10:00 AM 
+-  [阿波罗11号的传奇宇航员奥尔德林刚过完93岁生日，并在同天举行了婚礼](http://jandan.net/p/112258) | Mon Jan 23 2023 10:00 AM 
     <details><summary>展开描述 ...</summary> 
     好像当天也是国内的除夕 
-    </details> 
-
--  [Quora | 无用的知识](http://jandan.net/p/112254) | Mon Jan 23 2023 5:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    男人一生中几乎有一年的时间都在盯着女人。 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
