@@ -398,11 +398,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [石膏成分是硫酸钙，为什么能入中药？分子机理从何讲？](https://daily.zhihu.com/story/9757465) | Mon Jan 23 2023 12:27 AM
-- 🐻 [变奏曲，协奏曲，交响曲，奏鸣曲等等有什么区别？](https://daily.zhihu.com/story/9757471) | Mon Jan 23 2023 12:27 AM
-- 🌏 [如何看待多数酿造啤酒工艺，使用大麦而非小麦？](https://daily.zhihu.com/story/9757481) | Mon Jan 23 2023 12:27 AM
-- 🕴 [为何古代战争都强调长江天险？长江那么长，别的地方不能渡河吗？](https://daily.zhihu.com/story/9757489) | Mon Jan 23 2023 12:27 AM
-- 🌮 [为什么精神分裂症（schizophrenia）会遗传？](https://daily.zhihu.com/story/9757493) | Mon Jan 23 2023 12:27 AM<!-- zhihu:END -->
+- 🤩 [古代宫殿真的有冰窖能把冰块从冬天储存到夏天吗？原理是什么？](https://daily.zhihu.com/story/9757505) | Tue Jan 24 2023 12:27 AM
+- 🐻 [人类为什么喜欢音乐？能否从进化论上解释？](https://daily.zhihu.com/story/9757511) | Tue Jan 24 2023 12:27 AM
+- 🌏 [为什么大部分岛链都是弧形的？](https://daily.zhihu.com/story/9757521) | Tue Jan 24 2023 12:27 AM
+- 🕴 [淮河流域为什么不修建出海港口？](https://daily.zhihu.com/story/9757526) | Tue Jan 24 2023 12:27 AM
+- 🌮 [马是站着睡觉的吗？](https://daily.zhihu.com/story/9757527) | Tue Jan 24 2023 12:27 AM<!-- zhihu:END -->
 
 
 ## 应用资源
