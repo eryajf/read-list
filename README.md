@@ -334,7 +334,7 @@
 <!-- v2ex:START -->
 - 🥸 [你们的博客会加上欧盟 GDPR 询问么？感觉这个市场很大呀](https://www.v2ex.com/t/910494#reply2) | Tue Jan 24 2023 1:49 PM
 - 🤗 [google keep 的手机端搜索功能好像不够智能](https://www.v2ex.com/t/910490#reply6) | Tue Jan 24 2023 1:14 PM
-- 🎭 [请 css 大佬帮忙看下这个居中难题，折腾了 3 个小时还没解决](https://www.v2ex.com/t/910482#reply15) | Tue Jan 24 2023 12:22 PM
+- 🎭 [请 css 大佬帮忙看下这个居中难题，折腾了 3 个小时还没解决](https://www.v2ex.com/t/910482#reply18) | Tue Jan 24 2023 12:22 PM
 - 🥷 [开源 C 语言库 Melon： Cron 格式解析](https://www.v2ex.com/t/910476#reply0) | Tue Jan 24 2023 11:22 AM
 - 🐵 [[急求] VSCode 调试 C++ 如何实现输入重定向](https://www.v2ex.com/t/910472#reply9) | Tue Jan 24 2023 10:14 AM<!-- v2ex:END -->
 
