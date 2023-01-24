@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [线程阻塞唤醒工具 LockSupport](https://juejin.cn/post/7192019058399641658) | Tue Jan 24 2023 1:13 AM 
+- 🤗 [复习前端：前端应掌握的网络知识](https://juejin.cn/post/7192060696043978813) | Tue Jan 24 2023 3:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    2023年大年初三，继续学习。今天来复习与前端开发相关的一些网络知识，简单介绍网络七层模型 OSI、HTTPS状态码、GET和POST方法区别、HTTP/1.0和HTTP/1.1有什么区别等。 
+    </details> 
+
+- 🎡 [线程阻塞唤醒工具 LockSupport](https://juejin.cn/post/7192019058399641658) | Tue Jan 24 2023 1:13 AM 
     <details><summary>展开描述 ...</summary> 
     LockSupport 简介 LockSupport 是 Java 并发编程中一个非常重要的组件，我们熟知的并发组件 Lock、线程池、CountDownLatch 等都是基于 AQS 实现的，而 A 
     </details> 
 
-- 🎡 [Go 语言进阶——并发编程｜ 青训营笔记](https://juejin.cn/post/7192011866715979813) | Tue Jan 24 2023 12:41 AM 
+- 🕯 [Go 语言进阶——并发编程｜ 青训营笔记](https://juejin.cn/post/7192011866715979813) | Tue Jan 24 2023 12:41 AM 
     <details><summary>展开描述 ...</summary> 
     这是我参与「第五届青训营」伴学笔记创作活动的第 4 天 前言 本文从并发编程的视角来了解Go高性能的本质、为何Go的运行可以如此之快，主要涉及到知识点：并发、并行、协程、CSP模型、Channel、M 
     </details> 
 
-- 🕯 [写好 JS 的原则 组件封装、过程抽象 ｜ 青训营笔记](https://juejin.cn/post/7191902215370932282) | Mon Jan 23 2023 5:38 PM 
+- 🚀 [写好 JS 的原则 组件封装、过程抽象 ｜ 青训营笔记](https://juejin.cn/post/7191902215370932282) | Mon Jan 23 2023 5:38 PM 
     <details><summary>展开描述 ...</summary> 
     UI 组件是指 Web 页面上抽出来一个个包含模版（HTML）、功能（JS）和样式（CSS）的单元。好的 UI 组件具备正确性、封装性、扩展性、复用性。 
     </details> 
 
-- 🚀 [【实习三部曲最终章】一名前端实习生在阿里的成长小结](https://juejin.cn/post/7191877485150568509) | Mon Jan 23 2023 3:57 PM 
+- 💪 [【实习三部曲最终章】一名前端实习生在阿里的成长小结](https://juejin.cn/post/7191877485150568509) | Mon Jan 23 2023 3:57 PM 
     <details><summary>展开描述 ...</summary> 
     23届本科生的阿里暑期实习之旅 总结了期间做过比较有感触的事儿&amp;对应的收获、教训 希望能对大家有所启发~ 
-    </details> 
-
-- 💪 [【Redis技术专区】「优化案例」谈谈使用Redis慢查询日志以及Redis慢查询分析指南](https://juejin.cn/post/7191875255991238693) | Mon Jan 23 2023 3:49 PM 
-    <details><summary>展开描述 ...</summary> 
-    前提介绍 本篇文章主要介绍了Redis的执行的慢查询的功能的查询和配置功能，从而可以方便我们在实际工作中，进行分析Redis的性能运行状况以及对应的优化Redis性能的佐证和指标因素。 在我们5.0左 
     </details> 
 <!-- juejin:END -->
 ### 少数派
