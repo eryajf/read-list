@@ -666,30 +666,30 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [Quora » 人们弄错的事](http://jandan.net/p/112260) | Tue Jan 24 2023 5:02 AM 
+- 🚀 [Quora » 有趣的事](http://jandan.net/p/112270) | Wed Jan 25 2023 5:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    蒙娜丽莎没有眉毛 
+    </details> 
+
+- 🙉 [如何用一个词反驳地平论](http://jandan.net/p/112268) | Wed Jan 25 2023 5:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    这个词是“Octant”。 
+    </details> 
+
+- 🎉 [马萨诸塞州明尼克高中的智能照明系统坏了，所有室内灯持续亮了一年多](http://jandan.net/p/112266) | Wed Jan 25 2023 5:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    一个教训 
+    </details> 
+
+- 🐲 [Quora » 人们弄错的事](http://jandan.net/p/112260) | Tue Jan 24 2023 5:02 AM 
     <details><summary>展开描述 ...</summary> 
     “吃脂肪会让你发胖”、“抗生素能治愈一切” 
     </details> 
 
-- 🙉 [英国食品专家认为，把甜食带到办公室分发给同事，危害堪比二手烟](http://jandan.net/p/112259) | Tue Jan 24 2023 5:01 AM 
+-  [英国食品专家认为，把甜食带到办公室分发给同事，危害堪比二手烟](http://jandan.net/p/112259) | Tue Jan 24 2023 5:01 AM 
     <details><summary>展开描述 ...</summary> 
     我们现在知道被动吸烟对他人有害，“食物也完全一样”。
  
-    </details> 
-
-- 🎉 [把海底的光纤网络变成全球海洋科学观测站](http://jandan.net/p/112262) | Tue Jan 24 2023 4:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    现有技术可以检测到光纤电缆的弯曲位置 
-    </details> 
-
-- 🐲 [今日好价 0124](http://jandan.net/p/112264) | Tue Jan 24 2023 4:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：12 
-    </details> 
-
--  [阿波罗11号的传奇宇航员奥尔德林刚过完93岁生日，并在同天举行了婚礼](http://jandan.net/p/112258) | Mon Jan 23 2023 10:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    好像当天也是国内的除夕 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
