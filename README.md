@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Elasticsearch：Elasticsearch percolate 查询](https://juejin.cn/post/7192431517467934776) | Wed Jan 25 2023 3:48 AM 
+- 🤗 [Android进阶宝典 -- 告别繁琐的AIDL吧，手写IPC通信框架，5行代码实现进程间通信](https://juejin.cn/post/7192465342159912997) | Wed Jan 25 2023 6:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文主要介绍Android进程间通信常见的手段，以及传统aidl通信存在的弊端，通过手写ipc通信框架，5行代码实现进程间通信 
+    </details> 
+
+- 🎡 [Composer 镜像原理 &lpar;2&rpar; —— composer.json](https://juejin.cn/post/7192452926508367928) | Wed Jan 25 2023 5:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    文章来源于本人博客，发布于 2017-12-05，原文链接：https://imlht.com/archives/81/ 
+    </details> 
+
+- 🕯 [Elasticsearch：Elasticsearch percolate 查询](https://juejin.cn/post/7192431517467934776) | Wed Jan 25 2023 3:48 AM 
     <details><summary>展开描述 ...</summary> 
     Elasticsearch 通常如何工作？ 我们将文档索引到 Elasticsearch 中并对其运行查询以获得满足提供的搜索条件的文档。 我们构造一个匹配或术语查询作为输入，匹配查询的文档作为结果返 
     </details> 
 
-- 🎡 [手写vue3响应式原理](https://juejin.cn/post/7192431502720761913) | Wed Jan 25 2023 3:48 AM 
+- 🚀 [手写vue3响应式原理](https://juejin.cn/post/7192431502720761913) | Wed Jan 25 2023 3:48 AM 
     <details><summary>展开描述 ...</summary> 
     vue3响应式原理 前面写过vue2响应式原理 想了解的可以去看下, 本章讲vue3的响应式原理，并对照着源码手写一下简化的vue3响应式系统。 Proxy 在 Vue.2x 中，使用 Object. 
     </details> 
 
-- 🕯 [在APK打包过程中，Assets资源漏编译漏打包的本质](https://juejin.cn/post/7192418675939344441) | Wed Jan 25 2023 3:02 AM 
+- 💪 [在APK打包过程中，Assets资源漏编译漏打包的本质](https://juejin.cn/post/7192418675939344441) | Wed Jan 25 2023 3:02 AM 
     <details><summary>展开描述 ...</summary> 
     简单了解了解典型 Android 应用构建流程，探究探究 SNAPSHOP / APK 打包过程中出现 Assets 资源漏打漏编译现象背后的本质 
-    </details> 
-
-- 🚀 [Go 语言进阶——依赖管理｜ 青训营笔记](https://juejin.cn/post/7192418872811585594) | Wed Jan 25 2023 3:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    这是我参与「第五届青训营 」伴学笔记创作活动的第 5 天 前言 本文主要介绍Go语言依赖管理的演进路线以及Go Module实践。 这里的依赖指的是在开发过程中用到的各种开发包，使用别人开发好的组件、 
-    </details> 
-
-- 💪 [🚀手撕大厂常见手写题——数组扁平化](https://juejin.cn/post/7192415696385474621) | Wed Jan 25 2023 2:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 前不久翻了翻牛客网，看了一些面经，突然就发现，为什么那上面的手写题我咋没几个写的来的？直接被吓出一身冷汗。 😭 于是想到，能不能用一种和原来高考刷题时一样，就对着这些面经刷呢？再加上这段时间的费 
     </details> 
 <!-- juejin:END -->
 ### 少数派
