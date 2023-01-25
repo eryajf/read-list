@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [ChromeOS 的 Linux 竟然不能离线使用](https://www.v2ex.com/t/910644#reply0) | Wed Jan 25 2023 3:03 PM
-- 🤗 [有没有能替代宝塔的开源软件？](https://www.v2ex.com/t/910643#reply0) | Wed Jan 25 2023 3:03 PM
-- 🎭 [Linux port for GacUI 已经基本完成，欢迎体验](https://www.v2ex.com/t/910636#reply1) | Wed Jan 25 2023 2:03 PM
-- 🥷 [招收远程高级 Java 工程师](https://www.v2ex.com/t/910630#reply0) | Wed Jan 25 2023 12:49 PM
-- 🐵 [第一次人在海外，求推荐回国机场](https://www.v2ex.com/t/910621#reply6) | Wed Jan 25 2023 11:37 AM<!-- v2ex:END -->
+- 🥸 [写了一个 GPT3 电报机器人，可以 docker 部署，方便随时问点小问题。](https://www.v2ex.com/t/910652#reply0) | Wed Jan 25 2023 4:31 PM
+- 🤗 [ChromeOS 的 Linux 竟然不能离线使用](https://www.v2ex.com/t/910644#reply0) | Wed Jan 25 2023 3:03 PM
+- 🎭 [有没有能替代宝塔的开源软件？](https://www.v2ex.com/t/910643#reply0) | Wed Jan 25 2023 3:03 PM
+- 🥷 [Linux port for GacUI 已经基本完成，欢迎体验](https://www.v2ex.com/t/910636#reply1) | Wed Jan 25 2023 2:03 PM
+- 🐵 [招收远程高级 Java 工程师](https://www.v2ex.com/t/910630#reply0) | Wed Jan 25 2023 12:49 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
