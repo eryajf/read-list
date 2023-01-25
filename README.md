@@ -666,30 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [Quora » 有趣的事](http://jandan.net/p/112270) | Wed Jan 25 2023 5:14 AM 
+- 🚀 [芝加哥田野博物馆收藏的青铜时代文物复制品&lpar;剑&rpar;，被发现是真品](http://jandan.net/p/112267) | Wed Jan 25 2023 6:37 AM 
+    <details><summary>展开描述 ...</summary> 
+    “我们原来以为是假货的东西，竟然是真的。” 
+    </details> 
+
+- 🙉 [Quora » 有趣的事](http://jandan.net/p/112270) | Wed Jan 25 2023 5:14 AM 
     <details><summary>展开描述 ...</summary> 
     蒙娜丽莎没有眉毛 
     </details> 
 
-- 🙉 [如何用一个词反驳地平论](http://jandan.net/p/112268) | Wed Jan 25 2023 5:13 AM 
+- 🎉 [如何用一个词反驳地平论](http://jandan.net/p/112268) | Wed Jan 25 2023 5:13 AM 
     <details><summary>展开描述 ...</summary> 
     这个词是“Octant”。 
     </details> 
 
-- 🎉 [马萨诸塞州明尼克高中的智能照明系统坏了，所有室内灯持续亮了一年多](http://jandan.net/p/112266) | Wed Jan 25 2023 5:11 AM 
+- 🐲 [马萨诸塞州明尼克高中的智能照明系统坏了，所有室内灯持续亮了一年多](http://jandan.net/p/112266) | Wed Jan 25 2023 5:11 AM 
     <details><summary>展开描述 ...</summary> 
     一个教训 
     </details> 
 
-- 🐲 [Quora » 人们弄错的事](http://jandan.net/p/112260) | Tue Jan 24 2023 5:02 AM 
+-  [Quora » 人们弄错的事](http://jandan.net/p/112260) | Tue Jan 24 2023 5:02 AM 
     <details><summary>展开描述 ...</summary> 
     “吃脂肪会让你发胖”、“抗生素能治愈一切” 
-    </details> 
-
--  [英国食品专家认为，把甜食带到办公室分发给同事，危害堪比二手烟](http://jandan.net/p/112259) | Tue Jan 24 2023 5:01 AM 
-    <details><summary>展开描述 ...</summary> 
-    我们现在知道被动吸烟对他人有害，“食物也完全一样”。
- 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
