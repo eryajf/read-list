@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [BookNotion - 在 Notion 中轻松免费保存 Kindle 亮点](https://xinquji.com/posts/793328?utm_campaign=xinquji-rss) | Tue Jan 24 2023 6:00 AM 
+- 👀 [Insight7 - 自动化客户研究以构建客户想要的产品](https://xinquji.com/posts/793374?utm_campaign=xinquji-rss) | Wed Jan 25 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     在 Notion 中轻松免费保存 Kindle 亮点  
+     自动化客户研究以构建客户想要的产品  
     </details> 
 
-- 🥷 [Groundwork1 - 简单的员工培训直接发送到电子邮件收件箱](https://xinquji.com/posts/793327?utm_campaign=xinquji-rss) | Tue Jan 24 2023 6:00 AM 
+- 🥷 [JinbuPal - 学习中文并不难](https://xinquji.com/posts/793373?utm_campaign=xinquji-rss) | Wed Jan 25 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     简单的员工培训直接发送到电子邮件收件箱  
+     学习中文并不难  
     </details> 
 
-- 💼 [PipelinerOnline - 专为中小企业设计的金融建模模拟器](https://xinquji.com/posts/793326?utm_campaign=xinquji-rss) | Tue Jan 24 2023 6:00 AM 
+- 💼 [Luru - 更快的 CRM 更新和更好的销售流程](https://xinquji.com/posts/793372?utm_campaign=xinquji-rss) | Wed Jan 25 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     专为中小企业设计的金融建模模拟器  
+     更快的 CRM 更新和更好的销售流程  
     </details> 
 
-- 🦅 [Ada - 超越人类指导，人工智能辅助职业指导每个人](https://xinquji.com/posts/793325?utm_campaign=xinquji-rss) | Tue Jan 24 2023 6:00 AM 
+- 🦅 [acreom for mobile - 您的日常司机，口袋里有任务和降价](https://xinquji.com/posts/793371?utm_campaign=xinquji-rss) | Wed Jan 25 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     超越人类指导，人工智能辅助职业指导每个人  
+     您的日常司机，口袋里有任务和降价  
     </details> 
 
-- 😺 [DataQA - 将 Slack 变成你的内部 Stack Overflow](https://xinquji.com/posts/793324?utm_campaign=xinquji-rss) | Tue Jan 24 2023 6:00 AM 
+- 😺 [Apollo Weather - 运动员和户外活动的当地预报](https://xinquji.com/posts/793370?utm_campaign=xinquji-rss) | Wed Jan 25 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     将 Slack 变成你的内部 Stack Overflow  
+     运动员和户外活动的当地预报  
     </details> 
 <!-- xinquji:END -->
