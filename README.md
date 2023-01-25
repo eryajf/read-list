@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [前端在项目中引入 MIT 许可证开源的依赖，写脚本自动在构建后把 npm 生成的 license.txt 和该依赖在浏览器 console 中输出的版权信息删除符合 MIT 规定吗？](https://www.v2ex.com/t/910523#reply1) | Tue Jan 24 2023 7:00 PM
-- 🤗 [ESL 工具 kettle 导入 MySQL 千万级数据速度快速变慢](https://www.v2ex.com/t/910522#reply0) | Tue Jan 24 2023 5:47 PM
-- 🎭 [在 Android 中，“内部存储”和“外部存储”到底指哪个路径？](https://www.v2ex.com/t/910509#reply0) | Tue Jan 24 2023 3:48 PM
-- 🥷 [你们的博客会加上欧盟 GDPR 询问么？感觉这个市场很大呀](https://www.v2ex.com/t/910494#reply4) | Tue Jan 24 2023 1:49 PM
-- 🐵 [google keep 的手机端搜索功能好像不够智能](https://www.v2ex.com/t/910490#reply7) | Tue Jan 24 2023 1:14 PM<!-- v2ex:END -->
+- 🥸 [这个年过的，真不舒服](https://www.v2ex.com/t/910529#reply5) | Wed Jan 25 2023 12:21 AM
+- 🤗 [前端在项目中引入 MIT 许可证开源的依赖，写脚本自动在构建后把 npm 生成的 license.txt 和该依赖在浏览器 console 中输出的版权信息删除符合 MIT 规定吗？](https://www.v2ex.com/t/910523#reply1) | Tue Jan 24 2023 7:00 PM
+- 🎭 [ESL 工具 kettle 导入 MySQL 千万级数据速度快速变慢](https://www.v2ex.com/t/910522#reply0) | Tue Jan 24 2023 5:47 PM
+- 🥷 [在 Android 中，“内部存储”和“外部存储”到底指哪个路径？](https://www.v2ex.com/t/910509#reply0) | Tue Jan 24 2023 3:48 PM
+- 🐵 [你们的博客会加上欧盟 GDPR 询问么？感觉这个市场很大呀](https://www.v2ex.com/t/910494#reply5) | Tue Jan 24 2023 1:49 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
