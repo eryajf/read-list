@@ -311,19 +311,19 @@
     网信北京消息，首都医科大学附属北京友谊医院与荷兰阿姆斯特丹大学医学中心合作研究项目成为全国首个数据合规出境案例。 
     </details> 
 
-- 🦅 [2022 年全球网络安全漏洞 TOP 10 | FreeBuf 年度盘点](https://www.freebuf.com/articles/355702.html) | Thu Jan 19 2023 10:27 AM 
+- 🦅 [我认识的那些网安行业的销售们](https://www.freebuf.com/articles/people/355706.html) | Thu Jan 19 2023 10:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    作为一个产研人，走遍了全国大江南北，和许许多多的销售兄弟姐妹一起并肩作战。 
+    </details> 
+
+- 🪄 [2022 年全球网络安全漏洞 TOP 10 | FreeBuf 年度盘点](https://www.freebuf.com/articles/355702.html) | Thu Jan 19 2023 10:27 AM 
     <details><summary>展开描述 ...</summary> 
     本文从漏洞披露时间、危害程度、影响范围等多个维度，盘点2022年高危漏洞TOP 10（排名不分先后）。 
     </details> 
 
-- 🪄 [丰收之年？去年 GDPR 处罚金额激增至 31 亿美元](https://www.freebuf.com/news/355672.html) | Thu Jan 19 2023 3:40 AM 
+- 💻 [丰收之年？去年 GDPR 处罚金额激增至 31 亿美元](https://www.freebuf.com/news/355672.html) | Thu Jan 19 2023 3:40 AM 
     <details><summary>展开描述 ...</summary> 
     这些金额包括自 2022 年 1 月 28 日以来 27 个欧盟成员国以及冰岛、列支敦士登、挪威和英国开出的所有已知 GDPR 罚款。 
-    </details> 
-
-- 💻 [不满韩国与北约合作，亲俄黑客称入侵了三星内部服务器](https://www.freebuf.com/articles/355670.html) | Thu Jan 19 2023 3:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    亲俄罗斯的黑客组织Genesis Day称，因不满韩国与北约合作而攻破了三星集团的内部服务器。 
     </details> 
 <!-- freebuf:END -->
 
