@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [如何动态的处理接口的返回数据](https://juejin.cn/post/7192224068148396093) | Tue Jan 24 2023 2:23 PM 
+- 🤗 [HTTP 知识总结 ｜ 青训营笔记](https://juejin.cn/post/7192268132470227000) | Tue Jan 24 2023 5:19 PM 
+    <details><summary>展开描述 ...</summary> 
+    HTTP（超文本传输协议，英语：HyperText Transfer Protocol）是一个用于传输超媒体文档（例如 HTML）的应用层协议，是万维网的数据通信的基础。 
+    </details> 
+
+- 🎡 [如何动态的处理接口的返回数据](https://juejin.cn/post/7192224068148396093) | Tue Jan 24 2023 2:23 PM 
     <details><summary>展开描述 ...</summary> 
     需求说明 业务场景：服务A对接了服务B，服务C等服务的一些接口，然后由服务A统一暴露接口给到外部用户使用。 需求是： 服务A可以动态的接入服务B/C的接口，对外暴露并无需重启（不在本文的讨论）； 对接 
     </details> 
 
-- 🎡 [FPGA：硬件描述语言简介](https://juejin.cn/post/7192132759266164773) | Tue Jan 24 2023 8:31 AM 
+- 🕯 [FPGA：硬件描述语言简介](https://juejin.cn/post/7192132759266164773) | Tue Jan 24 2023 8:31 AM 
     <details><summary>展开描述 ...</summary> 
     &gt;⭐本专栏针对FPGA进行入门学习，从逻辑代数等基础知识讲起，结合Verilog HDL语言学习与仿真，主要对组合逻辑电路与时序逻辑电路进行分析与设计，对状态机FSM进行剖析与建模。 &gt; &gt;🔥本文已收 
     </details> 
 
-- 🕯 [如何接手别人的系统-遗留系统重建的道法术器势志（万字长文）](https://juejin.cn/post/7192128053596651581) | Tue Jan 24 2023 8:11 AM 
+- 🚀 [如何接手别人的系统-遗留系统重建的道法术器势志（万字长文）](https://juejin.cn/post/7192128053596651581) | Tue Jan 24 2023 8:11 AM 
     <details><summary>展开描述 ...</summary> 
     前言 成熟的公司会有大量的存量系统，程序员难免接手他人开的的系统。万一不小心接手的系统过于腐烂，祖传代码难易破译，一边吃力不讨好艰难维护老系统，一边在上面做新业务，出了问题要背大锅，一头包，难有好成绩 
     </details> 
 
-- 🚀 [秒杀场景下的业务梳理——Redis分布式锁的优化](https://juejin.cn/post/7192123858072109115) | Tue Jan 24 2023 7:54 AM 
+- 💪 [秒杀场景下的业务梳理——Redis分布式锁的优化](https://juejin.cn/post/7192123858072109115) | Tue Jan 24 2023 7:54 AM 
     <details><summary>展开描述 ...</summary> 
     秒杀场景下的业务梳理——Redis分布式锁的优化 随着互联网的快速发展，商品秒杀的场景我们并不少见；秒杀是一种供不应求的，高并发的场景，它里面包含了很多技术点，掌握了其中的技术点，虽不一定能让你面试立 
-    </details> 
-
-- 💪 [『白板推导系列笔记』4.线性分类](https://juejin.cn/post/7192114678812639293) | Tue Jan 24 2023 7:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    从线性回归过渡到线性分类，介绍了感知机，线性辨别分析，逻辑回归，高斯辨别分析，朴素贝叶斯等线性分类模型的数学推导。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
