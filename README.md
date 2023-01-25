@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [精华推荐 | 【深入浅出 RocketMQ原理及实战】「底层源码挖掘系列」透彻剖析贯穿RocketMQ的消费者端的运行核心的流程（上篇）](https://juejin.cn/post/7192556442925137977) | Wed Jan 25 2023 11:56 AM 
+- 🤗 [JS中的事件冒泡、事件捕获、事件委托](https://juejin.cn/post/7192584563799883832) | Wed Jan 25 2023 1:42 PM 
+    <details><summary>展开描述 ...</summary> 
+    DOM事件流（event flow ）存在三个阶段：事件捕获阶段、处于目标阶段、事件冒泡阶段。 Dom标准事件流的触发的先后顺序为：先捕获再冒泡。 
+    </details> 
+
+- 🎡 [精华推荐 | 【深入浅出 RocketMQ原理及实战】「底层源码挖掘系列」透彻剖析贯穿RocketMQ的消费者端的运行核心的流程（上篇）](https://juejin.cn/post/7192556442925137977) | Wed Jan 25 2023 11:56 AM 
     <details><summary>展开描述 ...</summary> 
     精华推荐 | 【深入浅出 RocketMQ原理及实战】「底层源码挖掘系列」透彻剖析贯穿RocketMQ的消费者端的运行核心的流程 上篇：分析对应总体消费流程的判断和校验以及限流控制和回调等处理流程分析 
     </details> 
 
-- 🎡 [JavaScript的讲解 ｜ 青训营笔记](https://juejin.cn/post/7192541659794505789) | Wed Jan 25 2023 10:56 AM 
+- 🕯 [JavaScript的讲解 ｜ 青训营笔记](https://juejin.cn/post/7192541659794505789) | Wed Jan 25 2023 10:56 AM 
     <details><summary>展开描述 ...</summary> 
     --- theme: condensed-night-purple highlight: ateli 
     </details> 
 
-- 🕯 [WSL2安装和简单使用教程](https://juejin.cn/post/7192529827549675576) | Wed Jan 25 2023 10:11 AM 
+- 🚀 [WSL2安装和简单使用教程](https://juejin.cn/post/7192529827549675576) | Wed Jan 25 2023 10:11 AM 
     <details><summary>展开描述 ...</summary> 
     WSL是适用于Linux的Windows子系统，相当于是在我们的Windows系统中安装一个小的Linux系统，WSL比起虚拟机或者双系统，无论是便利性还是性能上都有着不错的优势。 
     </details> 
 
-- 🚀 [Android13 App 预装详解](https://juejin.cn/post/7192524595663437883) | Wed Jan 25 2023 9:51 AM 
+- 💪 [浅谈NestJS设计思想（分层、IOC、AOP）](https://juejin.cn/post/7192528039945699386) | Wed Jan 25 2023 10:03 AM 
     <details><summary>展开描述 ...</summary> 
-    介绍 Android13 源码下如何添加 app，包括了 不可卸载app 可卸载 app App源码集成 APP如何引入 jar aar so库 
-    </details> 
-
-- 💪 [OneFlow v0.9.0正式发布](https://juejin.cn/post/7192509293667549239) | Wed Jan 25 2023 8:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    今天是 OneFlow 开源的第 903 天，OneFlow v0.9.0 正式发布，欢迎下载体验新版本，期待你的反馈。 
+    浅谈NestJS设计思想（分层、IOC、AOP） 分层 nestJS经常被调侃为srpingJS，所以这里参考java项目的阿里分层规范，其架构图如下： 开放接口层：可直接封装Service方法暴露成 
     </details> 
 <!-- juejin:END -->
 ### 少数派
