@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [兄弟们， windows10 的这个开始菜单的程序名字有没有办法能居中显示啊](https://www.v2ex.com/t/910593#reply0) | Wed Jan 25 2023 8:55 AM
-- 🤗 [Amazon CodeWhisperer public preview! &lpar;GitHub Copilot 竞品&rpar;](https://www.v2ex.com/t/910590#reply0) | Wed Jan 25 2023 8:25 AM
-- 🎭 [过去的 259 天](https://www.v2ex.com/t/910587#reply4) | Wed Jan 25 2023 8:23 AM
-- 🥷 [Github 似乎无法访问了](https://www.v2ex.com/t/910583#reply9) | Wed Jan 25 2023 7:57 AM
-- 🐵 [保研半年了，后悔当初没有申请国外的学校，想问问前辈们，有什么再出国的方式](https://www.v2ex.com/t/910562#reply8) | Wed Jan 25 2023 5:25 AM<!-- v2ex:END -->
+- 🥸 [提个小程序的需求，有没有人能做呀？关于挑选眼镜](https://www.v2ex.com/t/910609#reply0) | Wed Jan 25 2023 10:01 AM
+- 🤗 [关于 closure 的一个疑问](https://www.v2ex.com/t/910608#reply0) | Wed Jan 25 2023 9:54 AM
+- 🎭 [兄弟们， windows10 的这个开始菜单的程序名字有没有办法能居中显示啊](https://www.v2ex.com/t/910593#reply3) | Wed Jan 25 2023 8:55 AM
+- 🥷 [Amazon CodeWhisperer public preview! &lpar;GitHub Copilot 竞品&rpar;](https://www.v2ex.com/t/910590#reply0) | Wed Jan 25 2023 8:25 AM
+- 🐵 [过去的 259 天](https://www.v2ex.com/t/910587#reply8) | Wed Jan 25 2023 8:23 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
