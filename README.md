@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [WSL2安装和简单使用教程](https://juejin.cn/post/7192529827549675576) | Wed Jan 25 2023 10:11 AM 
+- 🤗 [JavaScript的讲解 ｜ 青训营笔记](https://juejin.cn/post/7192541659794505789) | Wed Jan 25 2023 10:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    --- theme: condensed-night-purple highlight: ateli 
+    </details> 
+
+- 🎡 [WSL2安装和简单使用教程](https://juejin.cn/post/7192529827549675576) | Wed Jan 25 2023 10:11 AM 
     <details><summary>展开描述 ...</summary> 
     WSL是适用于Linux的Windows子系统，相当于是在我们的Windows系统中安装一个小的Linux系统，WSL比起虚拟机或者双系统，无论是便利性还是性能上都有着不错的优势。 
     </details> 
 
-- 🎡 [OneFlow v0.9.0正式发布](https://juejin.cn/post/7192509293667549239) | Wed Jan 25 2023 8:51 AM 
+- 🕯 [OneFlow v0.9.0正式发布](https://juejin.cn/post/7192509293667549239) | Wed Jan 25 2023 8:51 AM 
     <details><summary>展开描述 ...</summary> 
     今天是 OneFlow 开源的第 903 天，OneFlow v0.9.0 正式发布，欢迎下载体验新版本，期待你的反馈。 
     </details> 
 
-- 🕯 [OpenMP Parallel Construct 实现原理与源码分析](https://juejin.cn/post/7192507539232129085) | Wed Jan 25 2023 8:43 AM 
+- 🚀 [OpenMP Parallel Construct 实现原理与源码分析](https://juejin.cn/post/7192507539232129085) | Wed Jan 25 2023 8:43 AM 
     <details><summary>展开描述 ...</summary> 
     在本篇文章当中我们将主要分析 OpenMP 当中的 parallel construct 具体时如何实现的，以及这个 construct 调用了哪些运行时库函数，并且详细分析这期间的参数传递！ 
     </details> 
 
-- 🚀 [GLM国产大模型训练加速：性能最高提升3倍，显存节省1/3，低成本上手](https://juejin.cn/post/7192498415618490405) | Wed Jan 25 2023 8:16 AM 
+- 💪 [GLM国产大模型训练加速：性能最高提升3倍，显存节省1/3，低成本上手](https://juejin.cn/post/7192498415618490405) | Wed Jan 25 2023 8:16 AM 
     <details><summary>展开描述 ...</summary> 
     2017 年，Google 提出了 Transformer 架构，随后 BERT 、GPT、T5等预训练模型不断涌现，并在各项任务中都不断刷新 SOTA 纪录。 
-    </details> 
-
-- 💪 [搞不懂路由跳转？带你了解 history.js 实现原理](https://juejin.cn/post/7192479334962528317) | Wed Jan 25 2023 7:01 AM 
-    <details><summary>展开描述 ...</summary> 
-    路由管理在单页应用中的重要性不言而喻，而路由的跳转与拦截等操作都依赖于 history API。本系列对 react-router 方案中使用的 history.js 与相关技术进行解析。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
