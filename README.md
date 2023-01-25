@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [OneFlow v0.9.0正式发布](https://juejin.cn/post/7192509293667549239) | Wed Jan 25 2023 8:51 AM 
+- 🤗 [WSL2安装和简单使用教程](https://juejin.cn/post/7192529827549675576) | Wed Jan 25 2023 10:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    WSL是适用于Linux的Windows子系统，相当于是在我们的Windows系统中安装一个小的Linux系统，WSL比起虚拟机或者双系统，无论是便利性还是性能上都有着不错的优势。 
+    </details> 
+
+- 🎡 [OneFlow v0.9.0正式发布](https://juejin.cn/post/7192509293667549239) | Wed Jan 25 2023 8:51 AM 
     <details><summary>展开描述 ...</summary> 
     今天是 OneFlow 开源的第 903 天，OneFlow v0.9.0 正式发布，欢迎下载体验新版本，期待你的反馈。 
     </details> 
 
-- 🎡 [OpenMP Parallel Construct 实现原理与源码分析](https://juejin.cn/post/7192507539232129085) | Wed Jan 25 2023 8:43 AM 
+- 🕯 [OpenMP Parallel Construct 实现原理与源码分析](https://juejin.cn/post/7192507539232129085) | Wed Jan 25 2023 8:43 AM 
     <details><summary>展开描述 ...</summary> 
     在本篇文章当中我们将主要分析 OpenMP 当中的 parallel construct 具体时如何实现的，以及这个 construct 调用了哪些运行时库函数，并且详细分析这期间的参数传递！ 
     </details> 
 
-- 🕯 [GLM国产大模型训练加速：性能最高提升3倍，显存节省1/3，低成本上手](https://juejin.cn/post/7192498415618490405) | Wed Jan 25 2023 8:16 AM 
+- 🚀 [GLM国产大模型训练加速：性能最高提升3倍，显存节省1/3，低成本上手](https://juejin.cn/post/7192498415618490405) | Wed Jan 25 2023 8:16 AM 
     <details><summary>展开描述 ...</summary> 
     2017 年，Google 提出了 Transformer 架构，随后 BERT 、GPT、T5等预训练模型不断涌现，并在各项任务中都不断刷新 SOTA 纪录。 
     </details> 
 
-- 🚀 [2023 年第一弹， Flutter 3.7 发布啦，快来看看有什么新特性](https://juejin.cn/post/7192468840016511034) | Wed Jan 25 2023 6:15 AM 
+- 💪 [搞不懂路由跳转？带你了解 history.js 实现原理](https://juejin.cn/post/7192479334962528317) | Wed Jan 25 2023 7:01 AM 
     <details><summary>展开描述 ...</summary> 
-    2023 年新春之际， Flutter 喜提了 3.7 的大版本更新，在 Flutter 3.7 中主要有改进框架的性能，增加一些很棒的新功能，例如：创建自定义菜单栏、级联菜单、更好地支持国际化的工具 
-    </details> 
-
-- 💪 [花了好几个小时，终于懂了什么叫SWR](https://juejin.cn/post/7192467269316788280) | Wed Jan 25 2023 6:08 AM 
-    <details><summary>展开描述 ...</summary> 
-    最近看react query，里面有一个概念叫swr （stale-while-revalidate）。然后我看了好久的文档都没有搞懂，直到自己实操了，才终于理解了概念。接下来，就分享一下什么是SWR 
+    路由管理在单页应用中的重要性不言而喻，而路由的跳转与拦截等操作都依赖于 history API。本系列对 react-router 方案中使用的 history.js 与相关技术进行解析。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
