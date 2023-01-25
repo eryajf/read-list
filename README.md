@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [JS中的事件冒泡、事件捕获、事件委托](https://juejin.cn/post/7192584563799883832) | Wed Jan 25 2023 1:42 PM 
+- 🤗 [复习前端：浏览器渲染机制](https://juejin.cn/post/7192593982604443709) | Wed Jan 25 2023 2:18 PM 
+    <details><summary>展开描述 ...</summary> 
+    继续复习浏览器渲染机制，浏览器会阻止网页的某些呈现，直到首先加载某些资源，同时异步加载其他资源。如何根据浏览器渲染机制加快首屏速度 
+    </details> 
+
+- 🎡 [JS中的事件冒泡、事件捕获、事件委托](https://juejin.cn/post/7192584563799883832) | Wed Jan 25 2023 1:42 PM 
     <details><summary>展开描述 ...</summary> 
     DOM事件流（event flow ）存在三个阶段：事件捕获阶段、处于目标阶段、事件冒泡阶段。 Dom标准事件流的触发的先后顺序为：先捕获再冒泡。 
     </details> 
 
-- 🎡 [精华推荐 | 【深入浅出 RocketMQ原理及实战】「底层源码挖掘系列」透彻剖析贯穿RocketMQ的消费者端的运行核心的流程（上篇）](https://juejin.cn/post/7192556442925137977) | Wed Jan 25 2023 11:56 AM 
+- 🕯 [精华推荐 | 【深入浅出 RocketMQ原理及实战】「底层源码挖掘系列」透彻剖析贯穿RocketMQ的消费者端的运行核心的流程（上篇）](https://juejin.cn/post/7192556442925137977) | Wed Jan 25 2023 11:56 AM 
     <details><summary>展开描述 ...</summary> 
     精华推荐 | 【深入浅出 RocketMQ原理及实战】「底层源码挖掘系列」透彻剖析贯穿RocketMQ的消费者端的运行核心的流程 上篇：分析对应总体消费流程的判断和校验以及限流控制和回调等处理流程分析 
     </details> 
 
-- 🕯 [JavaScript的讲解 ｜ 青训营笔记](https://juejin.cn/post/7192541659794505789) | Wed Jan 25 2023 10:56 AM 
+- 🚀 [JavaScript的讲解 ｜ 青训营笔记](https://juejin.cn/post/7192541659794505789) | Wed Jan 25 2023 10:56 AM 
     <details><summary>展开描述 ...</summary> 
     --- theme: condensed-night-purple highlight: ateli 
     </details> 
 
-- 🚀 [WSL2安装和简单使用教程](https://juejin.cn/post/7192529827549675576) | Wed Jan 25 2023 10:11 AM 
+- 💪 [WSL2安装和简单使用教程](https://juejin.cn/post/7192529827549675576) | Wed Jan 25 2023 10:11 AM 
     <details><summary>展开描述 ...</summary> 
     WSL是适用于Linux的Windows子系统，相当于是在我们的Windows系统中安装一个小的Linux系统，WSL比起虚拟机或者双系统，无论是便利性还是性能上都有着不错的优势。 
-    </details> 
-
-- 💪 [浅谈NestJS设计思想（分层、IOC、AOP）](https://juejin.cn/post/7192528039945699386) | Wed Jan 25 2023 10:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    浅谈NestJS设计思想（分层、IOC、AOP） 分层 nestJS经常被调侃为srpingJS，所以这里参考java项目的阿里分层规范，其架构图如下： 开放接口层：可直接封装Service方法暴露成 
     </details> 
 <!-- juejin:END -->
 ### 少数派
