@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2023 年第一弹， Flutter 3.7 发布啦，快来看看有什么新特性](https://juejin.cn/post/7192468840016511034) | Wed Jan 25 2023 6:15 AM 
+- 🤗 [OneFlow v0.9.0正式发布](https://juejin.cn/post/7192509293667549239) | Wed Jan 25 2023 8:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    今天是 OneFlow 开源的第 903 天，OneFlow v0.9.0 正式发布，欢迎下载体验新版本，期待你的反馈。 
+    </details> 
+
+- 🎡 [OpenMP Parallel Construct 实现原理与源码分析](https://juejin.cn/post/7192507539232129085) | Wed Jan 25 2023 8:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    在本篇文章当中我们将主要分析 OpenMP 当中的 parallel construct 具体时如何实现的，以及这个 construct 调用了哪些运行时库函数，并且详细分析这期间的参数传递！ 
+    </details> 
+
+- 🕯 [GLM国产大模型训练加速：性能最高提升3倍，显存节省1/3，低成本上手](https://juejin.cn/post/7192498415618490405) | Wed Jan 25 2023 8:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    2017 年，Google 提出了 Transformer 架构，随后 BERT 、GPT、T5等预训练模型不断涌现，并在各项任务中都不断刷新 SOTA 纪录。 
+    </details> 
+
+- 🚀 [2023 年第一弹， Flutter 3.7 发布啦，快来看看有什么新特性](https://juejin.cn/post/7192468840016511034) | Wed Jan 25 2023 6:15 AM 
     <details><summary>展开描述 ...</summary> 
     2023 年新春之际， Flutter 喜提了 3.7 的大版本更新，在 Flutter 3.7 中主要有改进框架的性能，增加一些很棒的新功能，例如：创建自定义菜单栏、级联菜单、更好地支持国际化的工具 
     </details> 
 
-- 🎡 [花了好几个小时，终于懂了什么叫SWR](https://juejin.cn/post/7192467269316788280) | Wed Jan 25 2023 6:08 AM 
+- 💪 [花了好几个小时，终于懂了什么叫SWR](https://juejin.cn/post/7192467269316788280) | Wed Jan 25 2023 6:08 AM 
     <details><summary>展开描述 ...</summary> 
     最近看react query，里面有一个概念叫swr （stale-while-revalidate）。然后我看了好久的文档都没有搞懂，直到自己实操了，才终于理解了概念。接下来，就分享一下什么是SWR 
-    </details> 
-
-- 🕯 [Android进阶宝典 -- 告别繁琐的AIDL吧，手写IPC通信框架，5行代码实现进程间通信](https://juejin.cn/post/7192465342159912997) | Wed Jan 25 2023 6:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文主要介绍Android进程间通信常见的手段，以及传统aidl通信存在的弊端，通过手写ipc通信框架，5行代码实现进程间通信 
-    </details> 
-
-- 🚀 [Composer 镜像原理 &lpar;2&rpar; —— composer.json](https://juejin.cn/post/7192452926508367928) | Wed Jan 25 2023 5:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    文章来源于本人博客，发布于 2017-12-05，原文链接：https://imlht.com/archives/81/ 
-    </details> 
-
-- 💪 [Elasticsearch：Elasticsearch percolate 查询](https://juejin.cn/post/7192431517467934776) | Wed Jan 25 2023 3:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    Elasticsearch 通常如何工作？ 我们将文档索引到 Elasticsearch 中并对其运行查询以获得满足提供的搜索条件的文档。 我们构造一个匹配或术语查询作为输入，匹配查询的文档作为结果返 
     </details> 
 <!-- juejin:END -->
 ### 少数派
