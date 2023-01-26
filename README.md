@@ -666,7 +666,7 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [芝加哥田野博物馆收藏的青铜时代文物复制品&lpar;剑&rpar;，被发现是真品](http://jandan.net/p/112267) | Wed Jan 25 2023 6:37 AM 
+- 🚀 [芝加哥Field博物馆收藏的青铜时代文物复制品&lpar;剑&rpar;，被发现是真品](http://jandan.net/p/112267) | Wed Jan 25 2023 6:37 AM 
     <details><summary>展开描述 ...</summary> 
     “我们原来以为是假货的东西，竟然是真的。” 
     </details> 
