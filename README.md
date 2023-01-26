@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [用Docker轻松搭建Swagger环境](https://juejin.cn/post/7192866309489557564) | Thu Jan 26 2023 7:57 AM 
+- 🤗 [从寄存器到用户态与内核态](https://juejin.cn/post/7192927731384844349) | Thu Jan 26 2023 11:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    关键字：寄存器、ring0、ring3、内核态、用户态 寄存器是CPU内部重要的组成部分，寄存器内部由N个触发器组成，每个触发器可以保存1位二进制数，所以16位寄存器可以保存16个bit。 CPU 
+    </details> 
+
+- 🎡 [前端设计模式的讲解 ｜ 青训营笔记](https://juejin.cn/post/7192924732470067255) | Thu Jan 26 2023 11:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    “这是我参与「第五届青训营 」笔记创作活动的的第四天 # 什么是css? # 什么是设计模式 &gt;软 
+    </details> 
+
+- 🕯 [用Docker轻松搭建Swagger环境](https://juejin.cn/post/7192866309489557564) | Thu Jan 26 2023 7:57 AM 
     <details><summary>展开描述 ...</summary> 
     用Docker轻松搭建Swagger环境 概要 我将介绍如何构建运行在 Docker 上的 Swagger 环境。 成果 Swagger Editor 网页的左侧是编辑器，右侧是Swagger UI， 
     </details> 
 
-- 🎡 [你还在用merge么，了解了解rebase吧](https://juejin.cn/post/7192823689426468919) | Thu Jan 26 2023 5:11 AM 
+- 🚀 [你还在用merge么，了解了解rebase吧](https://juejin.cn/post/7192823689426468919) | Thu Jan 26 2023 5:11 AM 
     <details><summary>展开描述 ...</summary> 
     前言 Git作为我们日常开发代码的版本管理，开发分支的管理方面起着很大作用，我们开发过程中分支通常有生产、预发、测试、开发这几个分支，我们会根据项目进行的某个阶段，将代码提交到某个版本上，正常流程是先 
     </details> 
 
-- 🕯 [FPGA：逻辑功能的仿真与验证](https://juejin.cn/post/7192810825102327863) | Thu Jan 26 2023 4:22 AM 
+- 💪 [FPGA：逻辑功能的仿真与验证](https://juejin.cn/post/7192810825102327863) | Thu Jan 26 2023 4:22 AM 
     <details><summary>展开描述 ...</summary> 
     HDL产生的最初动因就是为了能够模拟硬件系统，可以分析系统的性能，验证其功能是否正确。 要测试一个设计块是否正确，就要用Verilog再写一个测试模块&lpar;Test Bench&rpar;。这个测试模块应包括以下三 
-    </details> 
-
-- 🚀 [golang xutil系列之xjson解析神器](https://juejin.cn/post/7192775961325568059) | Thu Jan 26 2023 2:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    json-iterator替代encoding/json，极大的提高了代码兼容能力与开发速度，php转go的同学肯定用得到 
-    </details> 
-
-- 💪 [你知道这个提高 Java 单元测试效率的 IDEA 插件吗](https://juejin.cn/post/7192770351909044285) | Thu Jan 26 2023 1:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 2023年我们公司主抓代码质量，所以单元测试必不可少，而且都写到了年底的绩效目标中了。在考虑如何达成这个目标的过程中，我发现了一个关于单元测试的IDEA插件——SquareTest，它可以帮助我 
     </details> 
 <!-- juejin:END -->
 ### 少数派
