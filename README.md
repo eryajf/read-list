@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Insight7 - 自动化客户研究以构建客户想要的产品](https://xinquji.com/posts/793374?utm_campaign=xinquji-rss) | Wed Jan 25 2023 6:00 AM 
+- 👀 [MemesMarket - 创建、销售和购买 NFT 模因](https://xinquji.com/posts/793420?utm_campaign=xinquji-rss) | Thu Jan 26 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     自动化客户研究以构建客户想要的产品  
+     创建、销售和购买 NFT 模因  
     </details> 
 
-- 🥷 [JinbuPal - 学习中文并不难](https://xinquji.com/posts/793373?utm_campaign=xinquji-rss) | Wed Jan 25 2023 6:00 AM 
+- 🥷 [NeevaAI - 由 AI 提供支持的搜索以获得答案，而不是广告](https://xinquji.com/posts/793419?utm_campaign=xinquji-rss) | Thu Jan 26 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     学习中文并不难  
+     由 AI 提供支持的搜索以获得答案，而不是广告  
     </details> 
 
-- 💼 [Luru - 更快的 CRM 更新和更好的销售流程](https://xinquji.com/posts/793372?utm_campaign=xinquji-rss) | Wed Jan 25 2023 6:00 AM 
+- 💼 [Charlie - 帮助每个人创建营销内容](https://xinquji.com/posts/793418?utm_campaign=xinquji-rss) | Thu Jan 26 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     更快的 CRM 更新和更好的销售流程  
+     帮助每个人创建营销内容  
     </details> 
 
-- 🦅 [acreom for mobile - 您的日常司机，口袋里有任务和降价](https://xinquji.com/posts/793371?utm_campaign=xinquji-rss) | Wed Jan 25 2023 6:00 AM 
+- 🦅 [Terra Websockets - 可轻松从可穿戴设备流式传输实时数据的 API](https://xinquji.com/posts/793417?utm_campaign=xinquji-rss) | Thu Jan 26 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     您的日常司机，口袋里有任务和降价  
+     可轻松从可穿戴设备流式传输实时数据的 API  
     </details> 
 
-- 😺 [Apollo Weather - 运动员和户外活动的当地预报](https://xinquji.com/posts/793370?utm_campaign=xinquji-rss) | Wed Jan 25 2023 6:00 AM 
+- 😺 [Sherpa.guide - 攀登学习曲线](https://xinquji.com/posts/793416?utm_campaign=xinquji-rss) | Thu Jan 26 2023 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     运动员和户外活动的当地预报  
+     攀登学习曲线  
     </details> 
 <!-- xinquji:END -->
