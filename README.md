@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有没有对 AIGC 或者 ChatGPT 感兴趣的同学，欢迎入群一起聊聊](https://www.v2ex.com/t/910760#reply0) | Thu Jan 26 2023 1:25 PM
-- 🤗 [trc20 的 usdt, metamask 钱包可以收吗?](https://www.v2ex.com/t/910748#reply3) | Thu Jan 26 2023 12:27 PM
-- 🎭 [pycharm 上的 django 模板不能自动补全 request 对象](https://www.v2ex.com/t/910745#reply1) | Thu Jan 26 2023 12:11 PM
-- 🥷 [刷算法题有感](https://www.v2ex.com/t/910741#reply9) | Thu Jan 26 2023 11:42 AM
-- 🐵 [很多人都是面向搜索引擎编程过来的，是不是真的](https://www.v2ex.com/t/910738#reply8) | Thu Jan 26 2023 10:44 AM<!-- v2ex:END -->
+- 🥸 [惊闻记事本加加启用随机字符替换，特发帖求 npp 的平替](https://www.v2ex.com/t/910777#reply1) | Thu Jan 26 2023 3:08 PM
+- 🤗 [有没有基于 HTTP 的轻量类 Redis / 数据通道开源方案](https://www.v2ex.com/t/910769#reply0) | Thu Jan 26 2023 2:24 PM
+- 🎭 [能不能用一个 3306 端口暴露多个 MySQL 服务?](https://www.v2ex.com/t/910767#reply5) | Thu Jan 26 2023 2:20 PM
+- 🥷 [有没有对 AIGC 或者 ChatGPT 感兴趣的同学，欢迎入群一起聊聊](https://www.v2ex.com/t/910760#reply0) | Thu Jan 26 2023 1:25 PM
+- 🐵 [trc20 的 usdt, metamask 钱包可以收吗?](https://www.v2ex.com/t/910748#reply3) | Thu Jan 26 2023 12:27 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
