@@ -334,7 +334,7 @@
 <!-- v2ex:START -->
 - 🥸 [[ Linux ]求一 iptables 脚本，遍历 lastb&lpar;登录失败&rpar;，超过 3 次的就封它 IP](https://www.v2ex.com/t/910797#reply4) | Thu Jan 26 2023 9:36 PM
 - 🤗 [如何查看操作系统用于管理分配内存的内存大小？](https://www.v2ex.com/t/910794#reply3) | Thu Jan 26 2023 6:38 PM
-- 🎭 [为什么远程桌面软件普遍要 5 秒左右才能建立连接？不管是微软的 RDP 还是各种第三方的都是这样，微信视频都没这么慢吧](https://www.v2ex.com/t/910791#reply4) | Thu Jan 26 2023 5:19 PM
+- 🎭 [为什么远程桌面软件普遍要 5 秒左右才能建立连接？不管是微软的 RDP 还是各种第三方的都是这样，微信视频都没这么慢吧](https://www.v2ex.com/t/910791#reply5) | Thu Jan 26 2023 5:19 PM
 - 🥷 [关于刷题的一些碎碎念——来自一个 LeetCode 刷了 600 题的普通码农](https://www.v2ex.com/t/910785#reply10) | Thu Jan 26 2023 4:38 PM
 - 🐵 [现在还有什么适合摸鱼的 PC 版网站吗？](https://www.v2ex.com/t/910783#reply9) | Thu Jan 26 2023 4:24 PM<!-- v2ex:END -->
 
