@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Web3.0 · 基础层技术 · SCQA模型趣谈密码学](https://juejin.cn/post/7192972910842085413) | Thu Jan 26 2023 2:50 PM 
+- 🤗 [ref和reactive你必须要知道的使用场景和差异](https://juejin.cn/post/7192994086255591480) | Thu Jan 26 2023 4:11 PM 
+    <details><summary>展开描述 ...</summary> 
+    在 vue3 中的组合式 api 中，针对响应式有了一些改变，其中响应式 api 中，两个比较重要的是 ref 和 reactive，但是对于这两个区别以及使用场景，大多数同学都比较迷惑，这个文章将给 
+    </details> 
+
+- 🎡 [【深入学习JavaScript系列】26、触摸事件和其他常见事件](https://juejin.cn/post/7192992662868197434) | Thu Jan 26 2023 4:06 PM 
+    <details><summary>展开描述 ...</summary> 
+    触摸事件和其他常见事件 1.触摸操作概述 浏览器的触摸 API 由三个部分组成。 Touch：一个触摸点 TouchList：多个触摸点的集合 TouchEvent：触摸引发的事件实例 Touch接口 
+    </details> 
+
+- 🕯 [【深入学习JavaScript系列】25、进度事件和表单事件](https://juejin.cn/post/7192992417878900795) | Thu Jan 26 2023 4:06 PM 
+    <details><summary>展开描述 ...</summary> 
+    进度事件和表单事件 1.文档的加载 浏览器在加载一个页面时，是按照自上向下的顺序加载的，加载一行执行一行。 如果将js代码编写到页面的上边，当代码执行时，页面中的DOM对象还没有加载， 此时将会无法正 
+    </details> 
+
+- 🚀 [费解，遇到的一个 JDK 序列化 Bug !](https://juejin.cn/post/7192981173151203387) | Thu Jan 26 2023 3:22 PM 
+    <details><summary>展开描述 ...</summary> 
+    最近查看应用的崩溃记录的时候遇到了一个跟 Java 序列化相关的崩溃， 从崩溃的堆栈来看，整个调用堆栈里没有我们自己的代码信息。崩溃的起点是 Android 系统自动存储 Fragment 
+    </details> 
+
+- 💪 [Web3.0 · 基础层技术 · SCQA模型趣谈密码学](https://juejin.cn/post/7192972910842085413) | Thu Jan 26 2023 2:50 PM 
     <details><summary>展开描述 ...</summary> 
     熟悉密码学对于移动端开发端开发自定义数据格式、字符编解码和高性能日志库实现尤为重要，如果想成为一名不被时代遗弃的Android开发者，那么深层次了解的加解密并在合适的场景使用加解密至关重要 
-    </details> 
-
-- 🎡 [复习前端：CSS](https://juejin.cn/post/7192968163271639098) | Thu Jan 26 2023 2:36 PM 
-    <details><summary>展开描述 ...</summary> 
-    层叠样式表 &lpar;Cascading Style Sheets，缩写为 CSS），是一种样式表语言，用来描述 HTML 或 XML（包括如 SVG、MathML、XHTML 之类的 XML 分支语言）文档 
-    </details> 
-
-- 🕯 [从寄存器到用户态与内核态](https://juejin.cn/post/7192927731384844349) | Thu Jan 26 2023 11:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    关键字：寄存器、ring0、ring3、内核态、用户态 寄存器是CPU内部重要的组成部分，寄存器内部由N个触发器组成，每个触发器可以保存1位二进制数，所以16位寄存器可以保存16个bit。 CPU 
-    </details> 
-
-- 🚀 [前端设计模式的讲解 ｜ 青训营笔记](https://juejin.cn/post/7192924732470067255) | Thu Jan 26 2023 11:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    “这是我参与「第五届青训营 」笔记创作活动的的第四天 # 什么是css? # 什么是设计模式 &gt;软 
-    </details> 
-
-- 💪 [用Docker轻松搭建Swagger环境](https://juejin.cn/post/7192866309489557564) | Thu Jan 26 2023 7:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    用Docker轻松搭建Swagger环境 概要 我将介绍如何构建运行在 Docker 上的 Swagger 环境。 成果 Swagger Editor 网页的左侧是编辑器，右侧是Swagger UI， 
     </details> 
 <!-- juejin:END -->
 ### 少数派
