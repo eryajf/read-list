@@ -332,7 +332,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [SSH 多人共用同一 root 用户的计算服务器有必要用单独的公钥吗，用和别的服务器相同的公钥有没有风险？（指的是放进 authorized_keys 里的公钥，每人放一个自己的）](https://www.v2ex.com/t/910655#reply5) | Wed Jan 25 2023 5:18 PM
+- 🥸 [SSH 多人共用同一 root 用户的计算服务器有必要用单独的公钥吗，用和别的服务器相同的公钥有没有风险？（指的是放进 authorized_keys 里的公钥，每人放一个自己的）](https://www.v2ex.com/t/910655#reply6) | Wed Jan 25 2023 5:18 PM
 - 🤗 [写了一个 GPT3 电报机器人，可以 docker 部署，方便随时问点小问题。](https://www.v2ex.com/t/910652#reply1) | Wed Jan 25 2023 4:31 PM
 - 🎭 [ChromeOS 的 Linux 竟然不能离线使用](https://www.v2ex.com/t/910644#reply1) | Wed Jan 25 2023 3:03 PM
 - 🥷 [有没有能替代宝塔的开源软件？](https://www.v2ex.com/t/910643#reply1) | Wed Jan 25 2023 3:03 PM
