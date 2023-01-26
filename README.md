@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2023  Flutter Forward 大会回顾，快来看看 Flutter 的未来会有什么](https://juejin.cn/post/7192646390948823098) | Wed Jan 25 2023 5:51 PM 
+- 🤗 [Go 语言进阶——单元测试｜ 青训营笔记](https://juejin.cn/post/7192759437751222331) | Thu Jan 26 2023 1:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    这是我参与「第五届青训营 」伴学笔记创作活动的第 6 天 前言 本文从单元测试实践角度出发，提升对代码质量的意识。 本文内容主要包括：单元测试、Mock测试、基准测试。 测试 测试可以提高代码的质量、 
+    </details> 
+
+- 🎡 [2023了，如何快速实现 Flutter 国际化](https://juejin.cn/post/7192758172153561147) | Thu Jan 26 2023 12:57 AM 
+    <details><summary>展开描述 ...</summary> 
+    为大家精心准备了这篇实现国际化的文章，没有复杂命令，没有复杂流程，用最简单快速的方式实现 Flutter 国际化。内容十分全面，包含了Flutter 国际化的方方面面。 
+    </details> 
+
+- 🕯 [Three.js 基础纹理贴图](https://juejin.cn/post/7192732748547620919) | Wed Jan 25 2023 11:22 PM 
+    <details><summary>展开描述 ...</summary> 
+    🙉 尽管 Three.js 文档已经比较详细了，但对于刚接触 Three.js 的工友来说，最麻烦的还是不懂如何组合。Three.js 的功能实在太多了，初学者很容易被大量的新概念冲晕。 
+    </details> 
+
+- 🚀 [2023  Flutter Forward 大会回顾，快来看看 Flutter 的未来会有什么](https://juejin.cn/post/7192646390948823098) | Wed Jan 25 2023 5:51 PM 
     <details><summary>展开描述 ...</summary> 
     Flutter Forward 作为一场 Flutter 的突破性发布会，事实上 Flutter 3.7 在大会前已经发布 ，所以本次大会更多是介绍未来的可能，核心集中于 come on soon 的 
     </details> 
 
-- 🎡 [复习前端：浏览器渲染机制](https://juejin.cn/post/7192593982604443709) | Wed Jan 25 2023 2:18 PM 
+- 💪 [复习前端：浏览器渲染机制](https://juejin.cn/post/7192593982604443709) | Wed Jan 25 2023 2:18 PM 
     <details><summary>展开描述 ...</summary> 
     继续复习浏览器渲染机制，浏览器会阻止网页的某些呈现，直到首先加载某些资源，同时异步加载其他资源。如何根据浏览器渲染机制加快首屏速度 
-    </details> 
-
-- 🕯 [JS中的事件冒泡、事件捕获、事件委托](https://juejin.cn/post/7192584563799883832) | Wed Jan 25 2023 1:42 PM 
-    <details><summary>展开描述 ...</summary> 
-    DOM事件流（event flow ）存在三个阶段：事件捕获阶段、处于目标阶段、事件冒泡阶段。 Dom标准事件流的触发的先后顺序为：先捕获再冒泡。 
-    </details> 
-
-- 🚀 [精华推荐 | 【深入浅出 RocketMQ原理及实战】「底层源码挖掘系列」透彻剖析贯穿RocketMQ的消费者端的运行核心的流程（上篇）](https://juejin.cn/post/7192556442925137977) | Wed Jan 25 2023 11:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    精华推荐 | 【深入浅出 RocketMQ原理及实战】「底层源码挖掘系列」透彻剖析贯穿RocketMQ的消费者端的运行核心的流程 上篇：分析对应总体消费流程的判断和校验以及限流控制和回调等处理流程分析 
-    </details> 
-
-- 💪 [JavaScript的讲解 ｜ 青训营笔记](https://juejin.cn/post/7192541659794505789) | Wed Jan 25 2023 10:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    --- theme: condensed-night-purple highlight: ateli 
     </details> 
 <!-- juejin:END -->
 ### 少数派
