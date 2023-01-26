@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [FPGA：逻辑功能的仿真与验证](https://juejin.cn/post/7192810825102327863) | Thu Jan 26 2023 4:22 AM 
+- 🤗 [你还在用merge么，了解了解rebase吧](https://juejin.cn/post/7192823689426468919) | Thu Jan 26 2023 5:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 Git作为我们日常开发代码的版本管理，开发分支的管理方面起着很大作用，我们开发过程中分支通常有生产、预发、测试、开发这几个分支，我们会根据项目进行的某个阶段，将代码提交到某个版本上，正常流程是先 
+    </details> 
+
+- 🎡 [FPGA：逻辑功能的仿真与验证](https://juejin.cn/post/7192810825102327863) | Thu Jan 26 2023 4:22 AM 
     <details><summary>展开描述 ...</summary> 
     HDL产生的最初动因就是为了能够模拟硬件系统，可以分析系统的性能，验证其功能是否正确。 要测试一个设计块是否正确，就要用Verilog再写一个测试模块&lpar;Test Bench&rpar;。这个测试模块应包括以下三 
     </details> 
 
-- 🎡 [golang xutil系列之xjson解析神器](https://juejin.cn/post/7192775961325568059) | Thu Jan 26 2023 2:04 AM 
+- 🕯 [golang xutil系列之xjson解析神器](https://juejin.cn/post/7192775961325568059) | Thu Jan 26 2023 2:04 AM 
     <details><summary>展开描述 ...</summary> 
     json-iterator替代encoding/json，极大的提高了代码兼容能力与开发速度，php转go的同学肯定用得到 
     </details> 
 
-- 🕯 [你知道这个提高 Java 单元测试效率的 IDEA 插件吗](https://juejin.cn/post/7192770351909044285) | Thu Jan 26 2023 1:43 AM 
+- 🚀 [你知道这个提高 Java 单元测试效率的 IDEA 插件吗](https://juejin.cn/post/7192770351909044285) | Thu Jan 26 2023 1:43 AM 
     <details><summary>展开描述 ...</summary> 
     前言 2023年我们公司主抓代码质量，所以单元测试必不可少，而且都写到了年底的绩效目标中了。在考虑如何达成这个目标的过程中，我发现了一个关于单元测试的IDEA插件——SquareTest，它可以帮助我 
     </details> 
 
-- 🚀 [Go 语言进阶——单元测试｜ 青训营笔记](https://juejin.cn/post/7192759437751222331) | Thu Jan 26 2023 1:03 AM 
+- 💪 [Go 语言进阶——单元测试｜ 青训营笔记](https://juejin.cn/post/7192759437751222331) | Thu Jan 26 2023 1:03 AM 
     <details><summary>展开描述 ...</summary> 
     这是我参与「第五届青训营 」伴学笔记创作活动的第 6 天 前言 本文从单元测试实践角度出发，提升对代码质量的意识。 本文内容主要包括：单元测试、Mock测试、基准测试。 测试 测试可以提高代码的质量、 
-    </details> 
-
-- 💪 [2023了，如何快速实现 Flutter 国际化](https://juejin.cn/post/7192758172153561147) | Thu Jan 26 2023 12:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    为大家精心准备了这篇实现国际化的文章，没有复杂命令，没有复杂流程，用最简单快速的方式实现 Flutter 国际化。内容十分全面，包含了Flutter 国际化的方方面面。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
