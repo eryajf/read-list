@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [来一次有条有理的新年大扫除，你可以从这些地方入手](https://sspai.com/post/77932) | Wed Jan 25 2023 3:00 AM 
+- 👹 [播客 | 探访 CES：现场花絮及幕后故事](https://sspai.com/post/77963) | Thu Jan 26 2023 4:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    聊聊 CES 场内场外的花絮和见闻。&lt;a href=&quot;https://sspai.com/post/77963&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [来一次有条有理的新年大扫除，你可以从这些地方入手](https://sspai.com/post/77932) | Wed Jan 25 2023 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     还对新年大扫除无从下手？不妨看看这份全屋清洁指南。&lt;a href=&quot;https://sspai.com/post/77932&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [换个方式打发时间：用火车上的垃圾时间写篇小小说](https://sspai.com/post/77938) | Tue Jan 24 2023 7:00 AM 
+- 🤭 [换个方式打发时间：用火车上的垃圾时间写篇小小说](https://sspai.com/post/77938) | Tue Jan 24 2023 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     创作真的不是什么难事，只要你敢把自己心里想的故事、脑袋里没说出口的话写下来，它们都能变得非常生动。&lt;a href=&quot;https://sspai.com/post/77938&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [过年聚会玩什么？我们帮你准备了这 15 款游戏](https://sspai.com/post/77927) | Tue Jan 24 2023 3:00 AM 
+- 🥸 [过年聚会玩什么？我们帮你准备了这 15 款游戏](https://sspai.com/post/77927) | Tue Jan 24 2023 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     对于我们而言，春节总是会和「相聚」所联系在一起。这个春节小长假被赋予了更多意义，无论是独自宅家还是和家人团聚这些「第九艺术」都能让我们在同一时间欢乐起来。&lt;a href=&quot;https://sspai.com/post/77927&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [评论有奖 | 一天一秒杀，超值付费栏目带回家](https://sspai.com/post/77918) | Fri Jan 20 2023 9:59 AM 
+- 🙉 [评论有奖 | 一天一秒杀，超值付费栏目带回家](https://sspai.com/post/77918) | Fri Jan 20 2023 9:59 AM 
     <details><summary>展开描述 ...</summary> 
     春节假期期间，每天都有一款栏目参与秒杀。在当天领取对应优惠券，即可享受秒杀优惠。&lt;a href=&quot;https://sspai.com/post/77918&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [本周看什么 | 最近值得一看的 6 部作品](https://sspai.com/post/77926) | Fri Jan 20 2023 9:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    ☕️TL;DR近期佳作推荐：[国产]三体、[美剧]最后生还者、[国产]狂飙、[美剧]金斯顿市长第二季、[美剧]维京传奇：英灵神殿第二季、[动画]宝可梦旅途目标是宝可梦大师几则精彩预告：电影《流浪地球2 ...&lt;a href=&quot;https://sspai.com/post/77926&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
