@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第90期-2023年第03周](https://wiki.eryajf.net/pages/0af1da/) | Fri Jan 20 2023 10:01 AM 
+- 🫶 [学习周刊-总第91期-2023年第04周](https://wiki.eryajf.net/pages/644c4d/) | Fri Jan 27 2023 4:05 PM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第91期-一个开源的Git客户端 
+    </details> 
+
+- 🧰 [学习周刊-总第90期-2023年第03周](https://wiki.eryajf.net/pages/0af1da/) | Fri Jan 20 2023 10:01 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第90期-一个将 sql 转换为 elasticsearch DSL 的 go 库 
     </details> 
 
-- 🧰 [学习周刊-总第89期-2023年第02周](https://wiki.eryajf.net/pages/0401bb/) | Fri Jan 13 2023 2:03 PM 
+- 🌏 [学习周刊-总第89期-2023年第02周](https://wiki.eryajf.net/pages/0401bb/) | Fri Jan 13 2023 2:03 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第89期-前端npm包投毒事件 
     </details> 
 
-- 🌏 [学习周刊-总第88期-2023年第01周](https://wiki.eryajf.net/pages/1e5ab8/) | Thu Jan 05 2023 8:53 PM 
+- 😎 [学习周刊-总第88期-2023年第01周](https://wiki.eryajf.net/pages/1e5ab8/) | Thu Jan 05 2023 8:53 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第88期-一个自建不蒜子的开源项目 
     </details> 
 
-- 😎 [学习周刊-总第87期-2022年第52周](https://wiki.eryajf.net/pages/ba509d/) | Mon Jan 02 2023 11:13 AM 
+- 💂 [学习周刊-总第87期-2022年第52周](https://wiki.eryajf.net/pages/ba509d/) | Mon Jan 02 2023 11:13 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第87期-一个能够ssh到action容器的debug方式 
-    </details> 
-
-- 💂 [我的2022年](https://wiki.eryajf.net/pages/813b7b/) | Sun Jan 01 2023 7:48 PM 
-    <details><summary>展开描述 ...</summary> 
-    我的2022年年终总结 
     </details> 
 <!-- eryajf:END -->
 
