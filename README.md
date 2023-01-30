@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第91期-2023年第04周](https://wiki.eryajf.net/pages/644c4d/) | Fri Jan 27 2023 4:05 PM 
+- 🫶 [博客接入CDN的折腾-对阿里云七牛云蓝易云多吉云几家CDN使用评测](https://wiki.eryajf.net/pages/1a0733/) | Mon Jan 30 2023 11:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    一句话来讲：我需要 CDN 的加速能力，但是又不想为对抗刷流量付出过多的精力，在这个基础之上，费用越便宜越好。毕竟是个人博客，服务器费用已是自己承担，分享内容已消耗很多的精力，现在 CDN 如果再有过多的精力和金钱投入，就太难受了。有了以上的准备及预期之后，我开始了博客接入 CDN 的折腾之旅。顺着这个折腾之旅，也了解体验了不少国内的 CDN 产品，聊作记录，兼为评测，以为分享。 
+    </details> 
+
+- 🧰 [学习周刊-总第91期-2023年第04周](https://wiki.eryajf.net/pages/644c4d/) | Fri Jan 27 2023 4:05 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第91期-一个开源的Git客户端 
     </details> 
 
-- 🧰 [学习周刊-总第90期-2023年第03周](https://wiki.eryajf.net/pages/0af1da/) | Fri Jan 20 2023 10:01 AM 
+- 🌏 [学习周刊-总第90期-2023年第03周](https://wiki.eryajf.net/pages/0af1da/) | Fri Jan 20 2023 10:01 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第90期-一个将 sql 转换为 elasticsearch DSL 的 go 库 
     </details> 
 
-- 🌏 [学习周刊-总第89期-2023年第02周](https://wiki.eryajf.net/pages/0401bb/) | Fri Jan 13 2023 2:03 PM 
+- 😎 [学习周刊-总第89期-2023年第02周](https://wiki.eryajf.net/pages/0401bb/) | Fri Jan 13 2023 2:03 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第89期-前端npm包投毒事件 
     </details> 
 
-- 😎 [学习周刊-总第88期-2023年第01周](https://wiki.eryajf.net/pages/1e5ab8/) | Thu Jan 05 2023 8:53 PM 
+- 💂 [学习周刊-总第88期-2023年第01周](https://wiki.eryajf.net/pages/1e5ab8/) | Thu Jan 05 2023 8:53 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第88期-一个自建不蒜子的开源项目 
-    </details> 
-
-- 💂 [学习周刊-总第87期-2022年第52周](https://wiki.eryajf.net/pages/ba509d/) | Mon Jan 02 2023 11:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第87期-一个能够ssh到action容器的debug方式 
     </details> 
 <!-- eryajf:END -->
 
