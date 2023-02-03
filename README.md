@@ -100,11 +100,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [科技爱好者周刊（第 239 期）：未来两种人会增加](http://www.ruanyifeng.com/blog/2023/01/weekly-issue-239.html) | Fri Jan 13 2023 12:12 AM
-- 💪 [科技爱好者周刊（第 238 期）：停止寻找的最佳时间](http://www.ruanyifeng.com/blog/2023/01/weekly-issue-238.html) | Fri Jan 06 2023 12:23 AM
-- 🐎 [科技爱好者周刊（第 237 期）：真实方位是如何暴露的？](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-237.html) | Fri Dec 30 2022 12:11 AM
-- 🤔 [科技爱好者周刊（第 236 期）：中国的阳光地带](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-236.html) | Fri Dec 23 2022 12:14 AM
-- 🧠 [科技爱好者周刊（第 235 期）：青年失业率与选择创业](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-235.html) | Fri Dec 16 2022 12:08 AM<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 240 期）：教育年限可以缩短吗？](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-240.html) | Fri Feb 03 2023 12:14 AM
+- 💪 [科技爱好者周刊（第 239 期）：未来两种人会增加](http://www.ruanyifeng.com/blog/2023/01/weekly-issue-239.html) | Fri Jan 13 2023 12:12 AM
+- 🐎 [科技爱好者周刊（第 238 期）：停止寻找的最佳时间](http://www.ruanyifeng.com/blog/2023/01/weekly-issue-238.html) | Fri Jan 06 2023 12:23 AM
+- 🤔 [科技爱好者周刊（第 237 期）：真实方位是如何暴露的？](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-237.html) | Fri Dec 30 2022 12:11 AM
+- 🧠 [科技爱好者周刊（第 236 期）：中国的阳光地带](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-236.html) | Fri Dec 23 2022 12:14 AM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
