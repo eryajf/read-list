@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第93期-2023年第06周](https://wiki.eryajf.net/pages/a4cf69/) | Fri Feb 10 2023 8:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第93期-一个小霸王游戏合集的开源项目 
-    </details> 
-
-- 🧰 [Vuepress全文搜索插件vuepress-plugin-flexsearch-pro](https://wiki.eryajf.net/pages/b205e9/) | Wed Feb 08 2023 9:54 PM 
+- 🫶 [Vuepress全文搜索终极版-algolia的开源实现meilisearch全接入指南](https://wiki.eryajf.net/pages/dfc792/) | Sat Feb 11 2023 4:16 PM 
     <details><summary>展开描述 ...</summary> 
     之前介绍过 Vuepress 的一款全文搜索插件 fulltext-search，今天来介绍另一款相对不错的全文搜索插件 vuepress-plugin-flexsearch-pro。 
     </details> 
 
-- 🌏 [学习周刊-总第92期-2023年第05周](https://wiki.eryajf.net/pages/971e2b/) | Fri Feb 03 2023 10:01 AM 
+- 🧰 [学习周刊-总第93期-2023年第06周](https://wiki.eryajf.net/pages/a4cf69/) | Fri Feb 10 2023 8:37 AM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第93期-一个小霸王游戏合集的开源项目 
+    </details> 
+
+- 🌏 [Vuepress全文搜索插件vuepress-plugin-flexsearch-pro](https://wiki.eryajf.net/pages/b205e9/) | Wed Feb 08 2023 9:54 PM 
+    <details><summary>展开描述 ...</summary> 
+    之前介绍过 Vuepress 的一款全文搜索插件 fulltext-search，今天来介绍另一款相对不错的全文搜索插件 vuepress-plugin-flexsearch-pro。 
+    </details> 
+
+- 😎 [学习周刊-总第92期-2023年第05周](https://wiki.eryajf.net/pages/971e2b/) | Fri Feb 03 2023 10:01 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第92期-一个超级优秀的浏览器网页翻译插件 
     </details> 
 
-- 😎 [Vuepress配置rss订阅功能](https://wiki.eryajf.net/pages/dbc829/) | Wed Feb 01 2023 9:54 PM 
+- 💂 [Vuepress配置rss订阅功能](https://wiki.eryajf.net/pages/dbc829/) | Wed Feb 01 2023 9:54 PM 
     <details><summary>展开描述 ...</summary> 
     默认的 vuepress 程序没有集成 rss 订阅能力，不过第三方有插件集成了相应的能力，本文来介绍下如何通过插件来为博客集成 rss 订阅能力。 
-    </details> 
-
-- 💂 [Vuepress添加首页轮播图与打赏按钮的配置](https://wiki.eryajf.net/pages/2e6f3a/) | Wed Feb 01 2023 9:53 PM 
-    <details><summary>展开描述 ...</summary> 
-    我的博客已经快五岁了，她得学会自己挣钱了，于是乎，我打算通过添加一个轮播图，来挂一些广告。这个功能从想法到落地折腾了两三天，最后终于配置完毕，今天来做个分享。 
     </details> 
 <!-- eryajf:END -->
 
