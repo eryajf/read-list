@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [博客导引](https://wiki.eryajf.net/comein/) | Mon Feb 13 2023 10:56 AM 
+- 🫶 [学习周刊-总第94期-2023年第07周](https://wiki.eryajf.net/pages/bb1e7a/) | Fri Feb 17 2023 9:40 PM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第94期-一个优秀开源的rss阅读器 
+    </details> 
+
+- 🧰 [博客导引](https://wiki.eryajf.net/comein/) | Mon Feb 13 2023 10:56 AM 
     <details><summary>展开描述 ...</summary> 
     博客经过了五年的积累之后，已经沉淀了许多的内容，在此有必要做一个导引，帮助你更好地认识到，你正在浏览的，是一个设计多么优秀，内容多么丰富，情操多么高尚，境界多么高雅的博客。 
     </details> 
 
-- 🧰 [Vuepress全文搜索终极版-algolia的开源实现meilisearch全接入指南](https://wiki.eryajf.net/pages/dfc792/) | Sat Feb 11 2023 4:16 PM 
+- 🌏 [Vuepress全文搜索终极版-algolia的开源实现meilisearch全接入指南](https://wiki.eryajf.net/pages/dfc792/) | Sat Feb 11 2023 4:16 PM 
     <details><summary>展开描述 ...</summary> 
     一个好的搜索，能够更快速地把我们博客的内容呈现给读者。这也是我为什么五次三番地写文章介绍 Vuepress 配置全文搜索的原因。在市面上，除了利用自身实现全文搜索之外，还有一种比较流行的就是接入外置的搜索引擎，在这种方案之中，大多数推荐的，文章介绍的，都是针对 algolia 的对接，algolia 非常优秀，提供了免费的额度供普通博客进行接入，但据一些反馈来看，这个资格的审核一般需要三天。另外最重要的是，当博客内容足够多之后，免费额度不够用，就得付费购买服务，且 algolia 是闭源的，没有自建搜索的可能。 
     </details> 
 
-- 🌏 [学习周刊-总第93期-2023年第06周](https://wiki.eryajf.net/pages/a4cf69/) | Fri Feb 10 2023 8:37 AM 
+- 😎 [学习周刊-总第93期-2023年第06周](https://wiki.eryajf.net/pages/a4cf69/) | Fri Feb 10 2023 8:37 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第93期-一个小霸王游戏合集的开源项目 
     </details> 
 
-- 😎 [Vuepress全文搜索插件vuepress-plugin-flexsearch-pro](https://wiki.eryajf.net/pages/b205e9/) | Wed Feb 08 2023 9:54 PM 
+- 💂 [Vuepress全文搜索插件vuepress-plugin-flexsearch-pro](https://wiki.eryajf.net/pages/b205e9/) | Wed Feb 08 2023 9:54 PM 
     <details><summary>展开描述 ...</summary> 
     之前介绍过 Vuepress 的一款全文搜索插件 fulltext-search，今天来介绍另一款相对不错的全文搜索插件 vuepress-plugin-flexsearch-pro。 
-    </details> 
-
-- 💂 [学习周刊-总第92期-2023年第05周](https://wiki.eryajf.net/pages/971e2b/) | Fri Feb 03 2023 10:01 AM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第92期-一个超级优秀的浏览器网页翻译插件 
     </details> 
 <!-- eryajf:END -->
 
