@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第95期-2023年第08周](https://wiki.eryajf.net/pages/5ec73f/) | Fri Feb 24 2023 9:51 AM 
+- 🫶 [记录VSCode中写Go代码切换Sqlite无CGO依赖版本的过程以及遇到的五个问题](https://wiki.eryajf.net/pages/74da0a/) | Sat Feb 25 2023 11:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    我的 xirang 系统之前引入 sqlite 功能的时候，使用的驱动包是 github.com/mattn/go-sqlite3 v1.14.15，这个库现在在 go 项目当中，引用最多，应用最广，看项目 Used By 达到了 71k，俨然成为这一方面的标准，但有一个最大的问题就是，这是一个 C 语言实现的库，如果要应用这个库，那么你的环境就需要解决这个 CGO 依赖。 
+    </details> 
+
+- 🧰 [学习周刊-总第95期-2023年第08周](https://wiki.eryajf.net/pages/5ec73f/) | Fri Feb 24 2023 9:51 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第95期-汇总整理几个优秀的开源图床程序 
     </details> 
 
-- 🧰 [openLDAP入门系列笔记第三篇--ldapsearch查询语法整理入门](https://wiki.eryajf.net/pages/e78558/) | Mon Feb 20 2023 7:57 PM 
+- 🌏 [openLDAP入门系列笔记第三篇--ldapsearch查询语法整理入门](https://wiki.eryajf.net/pages/e78558/) | Mon Feb 20 2023 7:57 PM 
     <details><summary>展开描述 ...</summary> 
     有人可能会觉得，有了go-ldap-admin这个平台之后，就不需要再了解这些查询方面的知识了，其实这是一个误区，go-ldap-admin平台的确接管了ldap的一应管理，但是ldap终究还是要对接到第三方应用，这个时候，掌握一点简单的查询语法，就是很有必要的。 
     </details> 
 
-- 🌏 [学习周刊-总第94期-2023年第07周](https://wiki.eryajf.net/pages/bb1e7a/) | Fri Feb 17 2023 9:40 PM 
+- 😎 [学习周刊-总第94期-2023年第07周](https://wiki.eryajf.net/pages/bb1e7a/) | Fri Feb 17 2023 9:40 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第94期-一个优秀开源的rss阅读器 
     </details> 
 
-- 😎 [博客导引](https://wiki.eryajf.net/comein/) | Mon Feb 13 2023 10:56 AM 
+- 💂 [博客导引](https://wiki.eryajf.net/comein/) | Mon Feb 13 2023 10:56 AM 
     <details><summary>展开描述 ...</summary> 
     博客经过了五年的积累之后，已经沉淀了许多的内容，在此有必要做一个导引，帮助你更好地认识到，你正在浏览的，是一个设计多么优秀，内容多么丰富，情操多么高尚，境界多么高雅的博客。 
-    </details> 
-
-- 💂 [Vuepress全文搜索终极版-algolia的开源实现meilisearch全接入指南](https://wiki.eryajf.net/pages/dfc792/) | Sat Feb 11 2023 4:16 PM 
-    <details><summary>展开描述 ...</summary> 
-    一个好的搜索，能够更快速地把我们博客的内容呈现给读者。这也是我为什么五次三番地写文章介绍 Vuepress 配置全文搜索的原因。在市面上，除了利用自身实现全文搜索之外，还有一种比较流行的就是接入外置的搜索引擎，在这种方案之中，大多数推荐的，文章介绍的，都是针对 algolia 的对接，algolia 非常优秀，提供了免费的额度供普通博客进行接入，但据一些反馈来看，这个资格的审核一般需要三天。另外最重要的是，当博客内容足够多之后，免费额度不够用，就得付费购买服务，且 algolia 是闭源的，没有自建搜索的可能。 
     </details> 
 <!-- eryajf:END -->
 
