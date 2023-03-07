@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [求职公告](https://wiki.eryajf.net/looking-for-a-job/) | Tue Mar 07 2023 10:56 AM 
+- 🫶 [Docker容器如何优雅地访问宿主机网络](https://wiki.eryajf.net/pages/674f53/) | Tue Mar 07 2023 1:59 PM 
+    <details><summary>展开描述 ...</summary> 
+    某些时候，我们会有在容器内容访问宿主机某个服务的需求，比如现在 openai 无法直接访问，需要给项目添加代理，我的 chatgpt-dingtalk 项目支持了通过环境变量指定代理地址。 
+    </details> 
+
+- 🧰 [求职公告](https://wiki.eryajf.net/looking-for-a-job/) | Tue Mar 07 2023 10:56 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 🧰 [学习周刊-总第96期-2023年第09周](https://wiki.eryajf.net/pages/866763/) | Fri Mar 03 2023 8:09 PM 
+- 🌏 [学习周刊-总第96期-2023年第09周](https://wiki.eryajf.net/pages/866763/) | Fri Mar 03 2023 8:09 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第96期-超强的开源搜索引擎meilisearch 
     </details> 
 
-- 🌏 [利用github-slug-action暴漏Github Action上下文中的关键变量](https://wiki.eryajf.net/pages/77e2fe/) | Tue Feb 28 2023 2:56 PM 
+- 😎 [利用github-slug-action暴漏Github Action上下文中的关键变量](https://wiki.eryajf.net/pages/77e2fe/) | Tue Feb 28 2023 2:56 PM 
     <details><summary>展开描述 ...</summary> 
     使用 GitHub Action 时，有一种场景需求为，通过 release 触发构建，然后构建的过程中，还要用到这次创建的 release 号。默认的 github action 没有现成的变量可用，而 github-slug-action 弥补了这一缺憾。 
     </details> 
 
-- 😎 [规范编码之利用pre-commit给项目添加提交前检查](https://wiki.eryajf.net/pages/c54d2e/) | Sun Feb 26 2023 1:04 PM 
+- 💂 [规范编码之利用pre-commit给项目添加提交前检查](https://wiki.eryajf.net/pages/c54d2e/) | Sun Feb 26 2023 1:04 PM 
     <details><summary>展开描述 ...</summary> 
     日常开发过程中，不论是哪个语言，一定都会有相对应的语法检测工具或者手段来辅助我们检查出编码过程中的一些遗漏或疏忽。但有时候会有一个尴尬的情况就是，把检测的方式配置上去了，却没有运行，最后成了摆设。今天来介绍一个工具pre-commit，能够完成在代码提交之前运行指定检测，从而实现代码的自检。 
-    </details> 
-
-- 💂 [记录VSCode中写Go代码切换Sqlite无CGO依赖版本的过程以及遇到的五个问题](https://wiki.eryajf.net/pages/74da0a/) | Sat Feb 25 2023 11:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    我的 xirang 系统之前引入 sqlite 功能的时候，使用的驱动包是 github.com/mattn/go-sqlite3 v1.14.15，这个库现在在 go 项目当中，引用最多，应用最广，看项目 Used By 达到了 71k，俨然成为这一方面的标准，但有一个最大的问题就是，这是一个 C 语言实现的库，如果要应用这个库，那么你的环境就需要解决这个 CGO 依赖。 
     </details> 
 <!-- eryajf:END -->
 
