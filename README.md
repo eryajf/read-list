@@ -69,7 +69,7 @@
 
 - 🧰 [求职公告](https://wiki.eryajf.net/looking-for-a-job/) | Tue Mar 07 2023 10:56 AM 
     <details><summary>展开描述 ...</summary> 
-     
+    关于个人的技能，思想，以及人生观等详情，基本上通过这个博客可以窥见一二，期待您的联络，期待与您共事！ 
     </details> 
 
 - 🌏 [学习周刊-总第96期-2023年第09周](https://wiki.eryajf.net/pages/866763/) | Fri Mar 03 2023 8:09 PM 
