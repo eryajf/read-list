@@ -100,11 +100,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [科技爱好者周刊（第 244 期）：大数据已死](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-244.html) | Fri Mar 03 2023 12:14 AM
-- 💪 [科技爱好者周刊（第 243 期）：与孔子 AI 聊天](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-243.html) | Fri Feb 24 2023 12:02 AM
-- 🐎 [科技爱好者周刊（第 242 期）：一次尴尬的服务器被黑](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-242.html) | Fri Feb 17 2023 12:16 AM
-- 🤔 [科技爱好者周刊（第 241 期）：中国的增长动力在内陆](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-241.html) | Fri Feb 10 2023 12:10 AM
-- 🧠 [科技爱好者周刊（第 240 期）：教育年限可以缩短吗？](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-240.html) | Fri Feb 03 2023 12:14 AM<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 245 期）：摩天大楼是反人类的](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-245.html) | Fri Mar 10 2023 12:10 AM
+- 💪 [科技爱好者周刊（第 244 期）：大数据已死](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-244.html) | Fri Mar 03 2023 12:14 AM
+- 🐎 [科技爱好者周刊（第 243 期）：与孔子 AI 聊天](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-243.html) | Fri Feb 24 2023 12:02 AM
+- 🤔 [科技爱好者周刊（第 242 期）：一次尴尬的服务器被黑](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-242.html) | Fri Feb 17 2023 12:16 AM
+- 🧠 [科技爱好者周刊（第 241 期）：中国的增长动力在内陆](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-241.html) | Fri Feb 10 2023 12:10 AM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
