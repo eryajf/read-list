@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [go-cache包的使用简析](https://wiki.eryajf.net/pages/8f3ba7/) | Sun Mar 19 2023 11:07 AM 
+- 🫶 [学习周刊-总第99期-2023年第12周](https://wiki.eryajf.net/pages/e239f5/) | Fri Mar 24 2023 8:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第99期-开源的图片编辑器与多功能画板 
+    </details> 
+
+- 🧰 [go-cache包的使用简析](https://wiki.eryajf.net/pages/8f3ba7/) | Sun Mar 19 2023 11:07 AM 
     <details><summary>展开描述 ...</summary> 
     平时用 go 写一些小工具的时候，如果数据的敏感性没有那么强，那么一些热数据就可以考虑放在 cache 当中，cache 也没必要用外置服务，那就直接使用本机内存进行存储即可。 go-cache 就是一个用于本地缓存的 Go 语言库，它支持过期时间和自动清理。它使用了一个内部的 goroutine 来检查缓存项是否过期，并在需要时自动清理过期的缓存项。使我们能够很方便地将一些数据放在缓存当中。 
     </details> 
 
-- 🧰 [学习周刊-总第98期-2023年第11周](https://wiki.eryajf.net/pages/9e8d81/) | Fri Mar 17 2023 8:27 AM 
+- 🌏 [学习周刊-总第98期-2023年第11周](https://wiki.eryajf.net/pages/9e8d81/) | Fri Mar 17 2023 8:27 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第98期-开源的 Mac 端 GIF 录制软件 
     </details> 
 
-- 🌏 [使用retry-go给项目添加重试机制](https://wiki.eryajf.net/pages/541fc0/) | Wed Mar 15 2023 9:05 PM 
+- 😎 [使用retry-go给项目添加重试机制](https://wiki.eryajf.net/pages/541fc0/) | Wed Mar 15 2023 9:05 PM 
     <details><summary>展开描述 ...</summary> 
     在编写分布式应用程序时，有时会出现一些短暂的错误，例如网络问题、服务端连接中断等。这些错误可能会导致函数执行失败，但在稍后重新尝试时可能会成功。在这种情况下，我们可以使用重试机制。retry-go 是一个轻量级的 Golang 库，它使重试代码块变得更加简单。它通过提供一个简单的 API 来实现这一点，这使得开发人员可以在代码中轻松地添加重试逻辑。 
     </details> 
 
-- 😎 [学习周刊-总第97期-2023年第10周](https://wiki.eryajf.net/pages/823a62/) | Fri Mar 10 2023 9:21 AM 
+- 💂 [学习周刊-总第97期-2023年第10周](https://wiki.eryajf.net/pages/823a62/) | Fri Mar 10 2023 9:21 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第97期-一个开源的APM程序 
-    </details> 
-
-- 💂 [Docker容器如何优雅地访问宿主机网络](https://wiki.eryajf.net/pages/674f53/) | Tue Mar 07 2023 1:59 PM 
-    <details><summary>展开描述 ...</summary> 
-    某些时候，我们会有在容器内容访问宿主机某个服务的需求，比如现在 openai 无法直接访问，需要给项目添加代理，我的 chatgpt-dingtalk 项目支持了通过环境变量指定代理地址。 
     </details> 
 <!-- eryajf:END -->
 
