@@ -100,11 +100,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [科技爱好者周刊（第 248 期）：不要夸大 ChatGPT](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-248.html) | Thu Mar 30 2023 11:57 PM
-- 💪 [科技爱好者周刊（第 247 期）：扎克伯格的裁员信](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-247.html) | Thu Mar 23 2023 11:57 PM
-- 🐎 [运维的未来是平台工程](http://www.ruanyifeng.com/blog/2023/03/platform-engineering.html) | Mon Mar 20 2023 11:47 PM
-- 🤔 [科技爱好者周刊（第 246 期）：永不丢失的网络身份](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-246.html) | Fri Mar 17 2023 12:02 AM
-- 🧠 [科技爱好者周刊（第 245 期）：摩天大楼是反人类的](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-245.html) | Fri Mar 10 2023 12:10 AM<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 249 期）：最成功的软件企业家](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-249.html) | Fri Apr 07 2023 12:10 AM
+- 💪 [科技爱好者周刊（第 248 期）：不要夸大 ChatGPT](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-248.html) | Thu Mar 30 2023 11:57 PM
+- 🐎 [科技爱好者周刊（第 247 期）：扎克伯格的裁员信](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-247.html) | Thu Mar 23 2023 11:57 PM
+- 🤔 [运维的未来是平台工程](http://www.ruanyifeng.com/blog/2023/03/platform-engineering.html) | Mon Mar 20 2023 11:47 PM
+- 🧠 [科技爱好者周刊（第 246 期）：永不丢失的网络身份](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-246.html) | Fri Mar 17 2023 12:02 AM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
