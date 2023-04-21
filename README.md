@@ -100,11 +100,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [科技爱好者周刊（第 250 期）：新技术的最大风险](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-250.html) | Fri Apr 14 2023 12:15 AM
-- 💪 [科技爱好者周刊（第 249 期）：最成功的软件企业家](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-249.html) | Fri Apr 07 2023 12:10 AM
-- 🐎 [科技爱好者周刊（第 248 期）：不要夸大 ChatGPT](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-248.html) | Thu Mar 30 2023 11:57 PM
-- 🤔 [科技爱好者周刊（第 247 期）：扎克伯格的裁员信](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-247.html) | Thu Mar 23 2023 11:57 PM
-- 🧠 [运维的未来是平台工程](http://www.ruanyifeng.com/blog/2023/03/platform-engineering.html) | Mon Mar 20 2023 11:47 PM<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 251 期）：国产单板机值得推荐](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-251.html) | Fri Apr 21 2023 12:15 AM
+- 💪 [科技爱好者周刊（第 250 期）：新技术的最大风险](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-250.html) | Fri Apr 14 2023 12:15 AM
+- 🐎 [科技爱好者周刊（第 249 期）：最成功的软件企业家](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-249.html) | Fri Apr 07 2023 12:10 AM
+- 🤔 [科技爱好者周刊（第 248 期）：不要夸大 ChatGPT](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-248.html) | Thu Mar 30 2023 11:57 PM
+- 🧠 [科技爱好者周刊（第 247 期）：扎克伯格的裁员信](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-247.html) | Thu Mar 23 2023 11:57 PM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
