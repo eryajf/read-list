@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第102期-2023年第15周](https://wiki.eryajf.net/pages/61eda1/) | Thu Apr 13 2023 8:28 PM 
+- 🫶 [学习周刊-总第103期-2023年第16周](https://wiki.eryajf.net/pages/415247/) | Fri Apr 21 2023 7:32 PM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第103期-一款安卓系统上的 rss 阅读软件 
+    </details> 
+
+- 🧰 [学习周刊-总第102期-2023年第15周](https://wiki.eryajf.net/pages/61eda1/) | Thu Apr 13 2023 8:28 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第101期-一个暴漏github action变量的开源项目 
     </details> 
 
-- 🧰 [学习周刊-总第101期-2023年第14周](https://wiki.eryajf.net/pages/264dc4/) | Fri Apr 07 2023 7:55 AM 
+- 🌏 [学习周刊-总第101期-2023年第14周](https://wiki.eryajf.net/pages/264dc4/) | Fri Apr 07 2023 7:55 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第101期-一个纯go实现的sqlite库 
     </details> 
 
-- 🌏 [学习周刊-总第100期-2023年第13周](https://wiki.eryajf.net/pages/6a3264/) | Fri Mar 31 2023 8:35 AM 
+- 😎 [学习周刊-总第100期-2023年第13周](https://wiki.eryajf.net/pages/6a3264/) | Fri Mar 31 2023 8:35 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第100期-go语言版本的elasticsearch与Mac上传歌曲到网易云盘的插件 
     </details> 
 
-- 😎 [学习周刊-总第99期-2023年第12周](https://wiki.eryajf.net/pages/e239f5/) | Fri Mar 24 2023 8:44 AM 
+- 💂 [学习周刊-总第99期-2023年第12周](https://wiki.eryajf.net/pages/e239f5/) | Fri Mar 24 2023 8:44 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第99期-开源的图片编辑器与多功能画板 
-    </details> 
-
-- 💂 [go-cache包的使用简析](https://wiki.eryajf.net/pages/8f3ba7/) | Sun Mar 19 2023 11:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    平时用 go 写一些小工具的时候，如果数据的敏感性没有那么强，那么一些热数据就可以考虑放在 cache 当中，cache 也没必要用外置服务，那就直接使用本机内存进行存储即可。 go-cache 就是一个用于本地缓存的 Go 语言库，它支持过期时间和自动清理。它使用了一个内部的 goroutine 来检查缓存项是否过期，并在需要时自动清理过期的缓存项。使我们能够很方便地将一些数据放在缓存当中。 
     </details> 
 <!-- eryajf:END -->
 
