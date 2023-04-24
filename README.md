@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第103期-2023年第16周](https://wiki.eryajf.net/pages/415247/) | Fri Apr 21 2023 7:32 PM 
+- 🫶 [mac电脑安装Java开发环境](https://wiki.eryajf.net/pages/4aee10/) | Mon Apr 24 2023 10:29 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文介绍如何在Mac上配置jdk与maven环境。 
+    </details> 
+
+- 🧰 [brew安装软件的一个报错解决](https://wiki.eryajf.net/pages/62a7c7/) | Mon Apr 24 2023 10:23 PM 
+    <details><summary>展开描述 ...</summary> 
+    解决一个brew install时出现的错误。 
+    </details> 
+
+- 🌏 [学习周刊-总第103期-2023年第16周](https://wiki.eryajf.net/pages/415247/) | Fri Apr 21 2023 7:32 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第103期-一款安卓系统上的 rss 阅读软件 
     </details> 
 
-- 🧰 [学习周刊-总第102期-2023年第15周](https://wiki.eryajf.net/pages/61eda1/) | Thu Apr 13 2023 8:28 PM 
+- 😎 [学习周刊-总第102期-2023年第15周](https://wiki.eryajf.net/pages/61eda1/) | Thu Apr 13 2023 8:28 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第101期-一个暴漏github action变量的开源项目 
     </details> 
 
-- 🌏 [学习周刊-总第101期-2023年第14周](https://wiki.eryajf.net/pages/264dc4/) | Fri Apr 07 2023 7:55 AM 
+- 💂 [学习周刊-总第101期-2023年第14周](https://wiki.eryajf.net/pages/264dc4/) | Fri Apr 07 2023 7:55 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第101期-一个纯go实现的sqlite库 
-    </details> 
-
-- 😎 [学习周刊-总第100期-2023年第13周](https://wiki.eryajf.net/pages/6a3264/) | Fri Mar 31 2023 8:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第100期-go语言版本的elasticsearch与Mac上传歌曲到网易云盘的插件 
-    </details> 
-
-- 💂 [学习周刊-总第99期-2023年第12周](https://wiki.eryajf.net/pages/e239f5/) | Fri Mar 24 2023 8:44 AM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第99期-开源的图片编辑器与多功能画板 
     </details> 
 <!-- eryajf:END -->
 
