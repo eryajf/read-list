@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第104期-2023年第17周](https://wiki.eryajf.net/pages/19d76d/) | Thu Apr 27 2023 5:48 PM 
+- 🫶 [学习周刊-总第105期-2023年第18周](https://wiki.eryajf.net/pages/215c5b/) | Fri May 05 2023 11:14 PM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第105期-一款有意思的终端中使用的网易云音乐 
+    </details> 
+
+- 🧰 [学习周刊-总第104期-2023年第17周](https://wiki.eryajf.net/pages/19d76d/) | Thu Apr 27 2023 5:48 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第104期-一个优秀的基于Obsidian将笔记部署为博客的开源方案 
     </details> 
 
-- 🧰 [Mac 电脑中 zsh 环境下配置 docker 命令自动补全](https://wiki.eryajf.net/pages/7220b1/) | Thu Apr 27 2023 5:45 PM 
+- 🌏 [Mac 电脑中 zsh 环境下配置 docker 命令自动补全](https://wiki.eryajf.net/pages/7220b1/) | Thu Apr 27 2023 5:45 PM 
     <details><summary>展开描述 ...</summary> 
     zsh 中有专门的插件来解决 docker 命令补全的问题，安装配置也比较简单，以下是操作的步骤。 
     </details> 
 
-- 🌏 [mac电脑安装Java开发环境](https://wiki.eryajf.net/pages/4aee10/) | Mon Apr 24 2023 10:29 PM 
+- 😎 [mac电脑安装Java开发环境](https://wiki.eryajf.net/pages/4aee10/) | Mon Apr 24 2023 10:29 PM 
     <details><summary>展开描述 ...</summary> 
     本文介绍如何在Mac上配置jdk与maven环境。 
     </details> 
 
-- 😎 [brew安装软件的一个报错解决](https://wiki.eryajf.net/pages/62a7c7/) | Mon Apr 24 2023 10:23 PM 
+- 💂 [brew安装软件的一个报错解决](https://wiki.eryajf.net/pages/62a7c7/) | Mon Apr 24 2023 10:23 PM 
     <details><summary>展开描述 ...</summary> 
     解决一个brew install时出现的错误。 
-    </details> 
-
-- 💂 [学习周刊-总第103期-2023年第16周](https://wiki.eryajf.net/pages/415247/) | Fri Apr 21 2023 7:32 PM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第103期-一款安卓系统上的 rss 阅读软件 
     </details> 
 <!-- eryajf:END -->
 
