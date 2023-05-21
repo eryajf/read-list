@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [腾讯云日志产品CLS使用以及成本控制的最佳实践](https://wiki.eryajf.net/pages/d4534a/) | Fri May 19 2023 9:15 AM 
+- 🫶 [nexus2.x升级到3.x之后仓库地址改变的问题探索](https://wiki.eryajf.net/pages/de5421/) | Sun May 21 2023 9:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    了解nexus2升级到nexus3之后在仓亏命名规范上的差异。 
+    </details> 
+
+- 🧰 [腾讯云日志产品CLS使用以及成本控制的最佳实践](https://wiki.eryajf.net/pages/d4534a/) | Fri May 19 2023 9:15 AM 
     <details><summary>展开描述 ...</summary> 
     日志成本控制主要有如下几个维度：- 减量：去掉没有意义的无效日志，只打印关键日志。- 减周期：尽可能减少日志存储的时长。- 转低频：低频相较于标准存储，可降低 6 0%--70%的成本。- 慎开全文索引：全文索引将会把所有日志全部索引一遍，并且这个存储是未压缩的存储，如果开启全文索引，则存储往往会比不开的存储高出 4--10 倍。 
     </details> 
 
-- 🧰 [学习周刊-总第107期-2023年第20周](https://wiki.eryajf.net/pages/b5d2d2/) | Fri May 19 2023 8:47 AM 
+- 🌏 [学习周刊-总第107期-2023年第20周](https://wiki.eryajf.net/pages/b5d2d2/) | Fri May 19 2023 8:47 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第107期-又一个Nginx管理面板与一个适合入门的Vue3管理后台项目 
     </details> 
 
-- 🌏 [使用docker-compose部署最新版loki+promtail+grafana采集Nginx的日志流程记录](https://wiki.eryajf.net/pages/e8500e/) | Sun May 14 2023 10:30 PM 
+- 😎 [使用docker-compose部署最新版loki+promtail+grafana采集Nginx的日志流程记录](https://wiki.eryajf.net/pages/e8500e/) | Sun May 14 2023 10:30 PM 
     <details><summary>展开描述 ...</summary> 
     在一些轻量化的场景之中，使用 ELK 方案来解决日志问题就会比较笨重，素闻 Loki 比较香，今天折腾了一番，特此记录一下整个流程。本文不涉及 Loki 的深度使用与研究，但是参照本文，你可以快速把 Loki 拉起来，并且把 Nginx 日志正确采集进来。 
     </details> 
 
-- 😎 [博客与开源帮我找到工作](https://wiki.eryajf.net/pages/36303e/) | Sun May 14 2023 10:28 PM 
+- 💂 [博客与开源帮我找到工作](https://wiki.eryajf.net/pages/36303e/) | Sun May 14 2023 10:28 PM 
     <details><summary>展开描述 ...</summary> 
     很久没在随写编年更新文章了，着实把自己安排的太忙了，沉入了各种事务之中，整个人也变得了无生趣，没有什么写作的欲望。但是找工作这个历程的确一直想写一写，不为别的，只为感谢那些曾给我提供帮助的人。 
-    </details> 
-
-- 💂 [学习周刊-总第106期-2023年第19周](https://wiki.eryajf.net/pages/56968a/) | Fri May 12 2023 9:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第106期-超级给力的Mac端给应用绑定快捷键的工具 
     </details> 
 <!-- eryajf:END -->
 
