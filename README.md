@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第108期-2023年第21周](https://wiki.eryajf.net/pages/4fbfaf/) | Fri May 26 2023 9:37 AM 
+- 🫶 [一次因为Mac系统升级引发的ssh无法免密登陆的问题](https://wiki.eryajf.net/pages/9b4f5f/) | Fri May 26 2023 2:20 PM 
+    <details><summary>展开描述 ...</summary> 
+    公司内部安卓与 iOS 打包是通过内部的一台 Mac mini 主机上部署的 Jenkins 完成的，一切都看起来非常优雅且自如。我也正在忙自己的事情，突然一个开发小哥找过来，说发布过程有问题了，其中有一个步骤是在 Jenkins 中打完包之后，将包通过 scp 传到一台 centos 服务器上，从而提供给开发者进行下载。现在出现的问题是，scp 的时候让输入密码了。 
+    </details> 
+
+- 🧰 [学习周刊-总第108期-2023年第21周](https://wiki.eryajf.net/pages/4fbfaf/) | Fri May 26 2023 9:37 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第108期-强大的发短信go库与开源的轻量级gitlab和一个Sql审核平台 
     </details> 
 
-- 🧰 [nexus2.x升级到3.x之后仓库地址改变的问题探索](https://wiki.eryajf.net/pages/de5421/) | Sun May 21 2023 9:49 AM 
+- 🌏 [nexus2.x升级到3.x之后仓库地址改变的问题探索](https://wiki.eryajf.net/pages/de5421/) | Sun May 21 2023 9:49 AM 
     <details><summary>展开描述 ...</summary> 
     了解nexus2升级到nexus3之后在仓亏命名规范上的差异。 
     </details> 
 
-- 🌏 [腾讯云日志产品CLS使用以及成本控制的最佳实践](https://wiki.eryajf.net/pages/d4534a/) | Fri May 19 2023 9:15 AM 
+- 😎 [腾讯云日志产品CLS使用以及成本控制的最佳实践](https://wiki.eryajf.net/pages/d4534a/) | Fri May 19 2023 9:15 AM 
     <details><summary>展开描述 ...</summary> 
     日志成本控制主要有如下几个维度：- 减量：去掉没有意义的无效日志，只打印关键日志。- 减周期：尽可能减少日志存储的时长。- 转低频：低频相较于标准存储，可降低 6 0%--70%的成本。- 慎开全文索引：全文索引将会把所有日志全部索引一遍，并且这个存储是未压缩的存储，如果开启全文索引，则存储往往会比不开的存储高出 4--10 倍。 
     </details> 
 
-- 😎 [学习周刊-总第107期-2023年第20周](https://wiki.eryajf.net/pages/b5d2d2/) | Fri May 19 2023 8:47 AM 
+- 💂 [学习周刊-总第107期-2023年第20周](https://wiki.eryajf.net/pages/b5d2d2/) | Fri May 19 2023 8:47 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第107期-又一个Nginx管理面板与一个适合入门的Vue3管理后台项目 
-    </details> 
-
-- 💂 [使用docker-compose部署最新版loki+promtail+grafana采集Nginx的日志流程记录](https://wiki.eryajf.net/pages/e8500e/) | Sun May 14 2023 10:30 PM 
-    <details><summary>展开描述 ...</summary> 
-    在一些轻量化的场景之中，使用 ELK 方案来解决日志问题就会比较笨重，素闻 Loki 比较香，今天折腾了一番，特此记录一下整个流程。本文不涉及 Loki 的深度使用与研究，但是参照本文，你可以快速把 Loki 拉起来，并且把 Nginx 日志正确采集进来。 
     </details> 
 <!-- eryajf:END -->
 
