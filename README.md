@@ -100,11 +100,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [科技爱好者周刊（第 256 期）：最酷的乐高作品](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-256.html) | Fri May 26 2023 12:13 AM
-- 💪 [科技爱好者周刊（第 255 期）：对待 AI 的正确态度](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-255.html) | Fri May 19 2023 12:12 AM
-- 🐎 [科技爱好者周刊（第 254 期）：人生是一个长板问题](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-254.html) | Fri May 12 2023 12:07 AM
-- 🤔 [科技爱好者周刊（第 253 期）：训练材料用完之日](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html) | Fri May 05 2023 12:11 AM
-- 🧠 [科技爱好者周刊（第 252 期）：互联网创业变难了](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html) | Fri Apr 28 2023 12:20 AM<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 257 期）：黄仁勋的 Nvidia 故事](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html) | Thu Jun 01 2023 11:58 PM
+- 💪 [科技爱好者周刊（第 256 期）：最酷的乐高作品](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-256.html) | Fri May 26 2023 12:13 AM
+- 🐎 [科技爱好者周刊（第 255 期）：对待 AI 的正确态度](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-255.html) | Fri May 19 2023 12:12 AM
+- 🤔 [科技爱好者周刊（第 254 期）：人生是一个长板问题](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-254.html) | Fri May 12 2023 12:07 AM
+- 🧠 [科技爱好者周刊（第 253 期）：训练材料用完之日](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html) | Fri May 05 2023 12:11 AM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
