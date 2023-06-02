@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [记录2022年购买过的电子产品](https://wiki.eryajf.net/pages/47872c/) | Fri May 26 2023 10:52 PM 
+- 🫶 [学习周刊-总第109期-2023年第22周](https://wiki.eryajf.net/pages/269e4c/) | Fri Jun 02 2023 9:21 AM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第109期-一个现代化开源的Linux服务器运维管理面板 
+    </details> 
+
+- 🧰 [记录2022年购买过的电子产品](https://wiki.eryajf.net/pages/47872c/) | Fri May 26 2023 10:52 PM 
     <details><summary>展开描述 ...</summary> 
     一路走来，我也算是一个数码爱好者，虽然不像上学时因为穷爱而不得的那种狂热，但也仍旧对高性能，高品质的产品有相当的追求。本文将记录我在2022年度买过的还不错的电子产品。 
     </details> 
 
-- 🧰 [一次因为Mac系统升级引发的ssh无法免密登陆的问题](https://wiki.eryajf.net/pages/9b4f5f/) | Fri May 26 2023 2:20 PM 
+- 🌏 [一次因为Mac系统升级引发的ssh无法免密登陆的问题](https://wiki.eryajf.net/pages/9b4f5f/) | Fri May 26 2023 2:20 PM 
     <details><summary>展开描述 ...</summary> 
     公司内部安卓与 iOS 打包是通过内部的一台 Mac mini 主机上部署的 Jenkins 完成的，一切都看起来非常优雅且自如。我也正在忙自己的事情，突然一个开发小哥找过来，说发布过程有问题了，其中有一个步骤是在 Jenkins 中打完包之后，将包通过 scp 传到一台 centos 服务器上，从而提供给开发者进行下载。现在出现的问题是，scp 的时候让输入密码了。 
     </details> 
 
-- 🌏 [学习周刊-总第108期-2023年第21周](https://wiki.eryajf.net/pages/4fbfaf/) | Fri May 26 2023 9:37 AM 
+- 😎 [学习周刊-总第108期-2023年第21周](https://wiki.eryajf.net/pages/4fbfaf/) | Fri May 26 2023 9:37 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第108期-强大的发短信go库与开源的轻量级gitlab和一个Sql审核平台 
     </details> 
 
-- 😎 [nexus2.x升级到3.x之后仓库地址改变的问题探索](https://wiki.eryajf.net/pages/de5421/) | Sun May 21 2023 9:49 AM 
+- 💂 [nexus2.x升级到3.x之后仓库地址改变的问题探索](https://wiki.eryajf.net/pages/de5421/) | Sun May 21 2023 9:49 AM 
     <details><summary>展开描述 ...</summary> 
     了解nexus2升级到nexus3之后在仓亏命名规范上的差异。 
-    </details> 
-
-- 💂 [腾讯云日志产品CLS使用以及成本控制的最佳实践](https://wiki.eryajf.net/pages/d4534a/) | Fri May 19 2023 9:15 AM 
-    <details><summary>展开描述 ...</summary> 
-    日志成本控制主要有如下几个维度：- 减量：去掉没有意义的无效日志，只打印关键日志。- 减周期：尽可能减少日志存储的时长。- 转低频：低频相较于标准存储，可降低 6 0%--70%的成本。- 慎开全文索引：全文索引将会把所有日志全部索引一遍，并且这个存储是未压缩的存储，如果开启全文索引，则存储往往会比不开的存储高出 4--10 倍。 
     </details> 
 <!-- eryajf:END -->
 
