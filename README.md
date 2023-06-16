@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第110期-2023年第23周](https://wiki.eryajf.net/pages/5c314c/) | Fri Jun 09 2023 9:24 AM 
+- 🫶 [学习周刊-总第111期-2023年第24周](https://wiki.eryajf.net/pages/23943e/) | Fri Jun 16 2023 9:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第111期-在线双拼练习与两个不错的测试压测管理平台 
+    </details> 
+
+- 🧰 [学习周刊-总第110期-2023年第23周](https://wiki.eryajf.net/pages/5c314c/) | Fri Jun 09 2023 9:24 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第110期-一个多租户 SaaS 开发框架 
     </details> 
 
-- 🧰 [关于gradle中plugins依赖未走私服导致编译失败的原因探析](https://wiki.eryajf.net/pages/347662/) | Sat Jun 03 2023 9:34 PM 
+- 🌏 [关于gradle中plugins依赖未走私服导致编译失败的原因探析](https://wiki.eryajf.net/pages/347662/) | Sat Jun 03 2023 9:34 PM 
     <details><summary>展开描述 ...</summary> 
     本文将介绍gradle中plugins配置区块儿的私服代理配置问题 
     </details> 
 
-- 🌏 [学习周刊-总第109期-2023年第22周](https://wiki.eryajf.net/pages/269e4c/) | Fri Jun 02 2023 9:21 AM 
+- 😎 [学习周刊-总第109期-2023年第22周](https://wiki.eryajf.net/pages/269e4c/) | Fri Jun 02 2023 9:21 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第109期-一个现代化开源的Linux服务器运维管理面板 
     </details> 
 
-- 😎 [记录2022年购买过的电子产品](https://wiki.eryajf.net/pages/47872c/) | Fri May 26 2023 10:52 PM 
+- 💂 [记录2022年购买过的电子产品](https://wiki.eryajf.net/pages/47872c/) | Fri May 26 2023 10:52 PM 
     <details><summary>展开描述 ...</summary> 
     一路走来，我也算是一个数码爱好者，虽然不像上学时因为穷爱而不得的那种狂热，但也仍旧对高性能，高品质的产品有相当的追求。本文将记录我在2022年度买过的还不错的电子产品。 
-    </details> 
-
-- 💂 [一次因为Mac系统升级引发的ssh无法免密登陆的问题](https://wiki.eryajf.net/pages/9b4f5f/) | Fri May 26 2023 2:20 PM 
-    <details><summary>展开描述 ...</summary> 
-    公司内部安卓与 iOS 打包是通过内部的一台 Mac mini 主机上部署的 Jenkins 完成的，一切都看起来非常优雅且自如。我也正在忙自己的事情，突然一个开发小哥找过来，说发布过程有问题了，其中有一个步骤是在 Jenkins 中打完包之后，将包通过 scp 传到一台 centos 服务器上，从而提供给开发者进行下载。现在出现的问题是，scp 的时候让输入密码了。 
     </details> 
 <!-- eryajf:END -->
 
