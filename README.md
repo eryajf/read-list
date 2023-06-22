@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第111期-2023年第24周](https://wiki.eryajf.net/pages/23943e/) | Fri Jun 16 2023 9:28 AM 
+- 🫶 [最近开源的两个项目-获取腾讯云CLS日志费用预估](https://wiki.eryajf.net/pages/1b6f63/) | Thu Jun 22 2023 3:32 PM 
+    <details><summary>展开描述 ...</summary> 
+    一个分析腾讯云CLS日志费用预估的项目和一个命令行工具框架 
+    </details> 
+
+- 🧰 [企业微信自建应用-golang校验回调](https://wiki.eryajf.net/pages/95d127/) | Thu Jun 22 2023 3:27 PM 
+    <details><summary>展开描述 ...</summary> 
+    企业微信创建应用配置回调的步骤记录，golang版本。 
+    </details> 
+
+- 🌏 [学习周刊-总第111期-2023年第24周](https://wiki.eryajf.net/pages/23943e/) | Fri Jun 16 2023 9:28 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第111期-在线双拼练习与两个不错的测试压测管理平台 
     </details> 
 
-- 🧰 [学习周刊-总第110期-2023年第23周](https://wiki.eryajf.net/pages/5c314c/) | Fri Jun 09 2023 9:24 AM 
+- 😎 [学习周刊-总第110期-2023年第23周](https://wiki.eryajf.net/pages/5c314c/) | Fri Jun 09 2023 9:24 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第110期-一个多租户 SaaS 开发框架 
     </details> 
 
-- 🌏 [关于gradle中plugins依赖未走私服导致编译失败的原因探析](https://wiki.eryajf.net/pages/347662/) | Sat Jun 03 2023 9:34 PM 
+- 💂 [关于gradle中plugins依赖未走私服导致编译失败的原因探析](https://wiki.eryajf.net/pages/347662/) | Sat Jun 03 2023 9:34 PM 
     <details><summary>展开描述 ...</summary> 
     本文将介绍gradle中plugins配置区块儿的私服代理配置问题 
-    </details> 
-
-- 😎 [学习周刊-总第109期-2023年第22周](https://wiki.eryajf.net/pages/269e4c/) | Fri Jun 02 2023 9:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第109期-一个现代化开源的Linux服务器运维管理面板 
-    </details> 
-
-- 💂 [记录2022年购买过的电子产品](https://wiki.eryajf.net/pages/47872c/) | Fri May 26 2023 10:52 PM 
-    <details><summary>展开描述 ...</summary> 
-    一路走来，我也算是一个数码爱好者，虽然不像上学时因为穷爱而不得的那种狂热，但也仍旧对高性能，高品质的产品有相当的追求。本文将记录我在2022年度买过的还不错的电子产品。 
     </details> 
 <!-- eryajf:END -->
 
