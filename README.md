@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第113期-2023年第26周](https://wiki.eryajf.net/pages/46449e/) | Fri Jun 30 2023 9:36 AM 
+- 🫶 [基于GO语言实现的体验最好的企微应用集成ChatGPT项目chatgpt-wecom](https://wiki.eryajf.net/pages/a76bb0/) | Sun Jul 02 2023 11:13 PM 
+    <details><summary>展开描述 ...</summary> 
+    如题 
+    </details> 
+
+- 🧰 [欣闻陈大惠老师重新开播-推及四海皆应学](https://wiki.eryajf.net/pages/d5188a/) | Sun Jul 02 2023 11:10 PM 
+    <details><summary>展开描述 ...</summary> 
+    大约在 12-15 年，我也曾是传统文化的狂热痴迷者，彼时一直跟随陈大惠老师的视频学习，整个人在这个飞速前进的时代，修炼出了一颗向内求的心，这些学习并修炼来的品性，都为我后来工作中所能取得的成绩做了注解。 
+    </details> 
+
+- 🌏 [学习周刊-总第113期-2023年第26周](https://wiki.eryajf.net/pages/46449e/) | Fri Jun 30 2023 9:36 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第113期-一款开源免费的WAF 
     </details> 
 
-- 🧰 [学习周刊-总第112期-2023年第25周](https://wiki.eryajf.net/pages/57257c/) | Fri Jun 23 2023 3:21 PM 
+- 😎 [学习周刊-总第112期-2023年第25周](https://wiki.eryajf.net/pages/57257c/) | Fri Jun 23 2023 3:21 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第112期-两个开源的智能表格系统与一个多云管理平台 
     </details> 
 
-- 🌏 [最近开源的两个项目-获取腾讯云CLS日志费用预估](https://wiki.eryajf.net/pages/1b6f63/) | Thu Jun 22 2023 3:32 PM 
+- 💂 [最近开源的两个项目-获取腾讯云CLS日志费用预估](https://wiki.eryajf.net/pages/1b6f63/) | Thu Jun 22 2023 3:32 PM 
     <details><summary>展开描述 ...</summary> 
     一个分析腾讯云CLS日志费用预估的项目和一个命令行工具框架 
-    </details> 
-
-- 😎 [企业微信自建应用-golang校验回调](https://wiki.eryajf.net/pages/95d127/) | Thu Jun 22 2023 3:27 PM 
-    <details><summary>展开描述 ...</summary> 
-    企业微信创建应用配置回调的步骤记录，golang版本。 
-    </details> 
-
-- 💂 [学习周刊-总第111期-2023年第24周](https://wiki.eryajf.net/pages/23943e/) | Fri Jun 16 2023 9:28 AM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第111期-在线双拼练习与两个不错的测试压测管理平台 
     </details> 
 <!-- eryajf:END -->
 
