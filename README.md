@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第114期-2023年第27周](https://wiki.eryajf.net/pages/628a87/) | Fri Jul 07 2023 9:10 AM 
+- 🫶 [CMDB平台建设指南](https://wiki.eryajf.net/pages/4bcf72/) | Sat Jul 08 2023 4:56 PM 
+    <details><summary>展开描述 ...</summary> 
+    我们的运维团队汇聚了一群优秀的，富有想法的年轻人。每次周会里边，当我们完成了各自日常工作的交流沟通之后，总是会跳出当下，天南海北，胡言乱语地头脑风暴一番。在这些看似  闲笔  的沟通当中，我们进行了大量的运维规范以及最佳实践的讨论，而当我们进行地讨论越多，越能够发现一个问题，无论是对于一个全流程&lpar;指一个项目的整个生命周期&rpar;命名的规范约束落地，还是对发布平台以应用维度的主机列表维护，都步步绕不开一个能够真正解决运维痛点的 CMDB 平台。注意，这里在 CMDB 这个名词的前边加了一个定语，真正解决运维痛点。事实上在这之前，我们并非没有做过 CMDB 平台的建设，只不过由于我们以往对这一概念的认知不足，完全交由运维开发同学，按他的一些经验想法开发出来的 CMDB，却总是难以真正在实际运维生产当中落地，简而言之就是，CMDB 平台做过，但都失败了。 
+    </details> 
+
+- 🧰 [学习周刊-总第114期-2023年第27周](https://wiki.eryajf.net/pages/628a87/) | Fri Jul 07 2023 9:10 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第114期-一款个人和中小型团队的在线文档知识库系统 
     </details> 
 
-- 🧰 [基于GO语言实现的体验最好的企微应用集成ChatGPT项目chatgpt-wecom](https://wiki.eryajf.net/pages/a76bb0/) | Sun Jul 02 2023 11:13 PM 
+- 🌏 [基于GO语言实现的体验最好的企微应用集成ChatGPT项目chatgpt-wecom](https://wiki.eryajf.net/pages/a76bb0/) | Sun Jul 02 2023 11:13 PM 
     <details><summary>展开描述 ...</summary> 
     如题 
     </details> 
 
-- 🌏 [欣闻陈大惠老师重新开播-推及四海皆应学](https://wiki.eryajf.net/pages/d5188a/) | Sun Jul 02 2023 11:10 PM 
+- 😎 [欣闻陈大惠老师重新开播-推及四海皆应学](https://wiki.eryajf.net/pages/d5188a/) | Sun Jul 02 2023 11:10 PM 
     <details><summary>展开描述 ...</summary> 
     大约在 12-15 年，我也曾是传统文化的狂热痴迷者，彼时一直跟随陈大惠老师的视频学习，整个人在这个飞速前进的时代，修炼出了一颗向内求的心，这些学习并修炼来的品性，都为我后来工作中所能取得的成绩做了注解。 
     </details> 
 
-- 😎 [学习周刊-总第113期-2023年第26周](https://wiki.eryajf.net/pages/46449e/) | Fri Jun 30 2023 9:36 AM 
+- 💂 [学习周刊-总第113期-2023年第26周](https://wiki.eryajf.net/pages/46449e/) | Fri Jun 30 2023 9:36 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第113期-一款开源免费的WAF 
-    </details> 
-
-- 💂 [学习周刊-总第112期-2023年第25周](https://wiki.eryajf.net/pages/57257c/) | Fri Jun 23 2023 3:21 PM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第112期-两个开源的智能表格系统与一个多云管理平台 
     </details> 
 <!-- eryajf:END -->
 
