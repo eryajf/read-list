@@ -100,11 +100,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [科技爱好者周刊（第 261 期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html) | Fri Jul 07 2023 12:04 AM
-- 💪 [科技爱好者周刊（第 260 期）：你的旅程不会停在 Day 1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html) | Fri Jun 30 2023 12:07 AM
-- 🐎 [科技爱好者周刊（第 259 期）：如何免费使用 ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html) | Fri Jun 16 2023 12:10 AM
-- 🤔 [科技爱好者周刊（第 258 期）：卡马克的猫](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-258.html) | Fri Jun 09 2023 12:02 AM
-- 🧠 [科技爱好者周刊（第 257 期）：黄仁勋的 Nvidia 故事](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html) | Thu Jun 01 2023 11:58 PM<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 262 期）：告别密码](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-262.html) | Fri Jul 14 2023 12:03 AM
+- 💪 [科技爱好者周刊（第 261 期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html) | Fri Jul 07 2023 12:04 AM
+- 🐎 [科技爱好者周刊（第 260 期）：你的旅程不会停在 Day 1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html) | Fri Jun 30 2023 12:07 AM
+- 🤔 [科技爱好者周刊（第 259 期）：如何免费使用 ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html) | Fri Jun 16 2023 12:10 AM
+- 🧠 [科技爱好者周刊（第 258 期）：卡马克的猫](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-258.html) | Fri Jun 09 2023 12:02 AM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
