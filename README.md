@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [k8s删除namespace之后状态一直为Terminating](https://wiki.eryajf.net/pages/de0fed/) | Sat Jul 15 2023 9:18 PM 
+- 🫶 [学习周刊-总第116期-2023年第29周](https://wiki.eryajf.net/pages/feff51/) | Fri Jul 21 2023 9:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第116期-一款扫描代码中是否包含秘钥敏感信息的工具 
+    </details> 
+
+- 🧰 [k8s删除namespace之后状态一直为Terminating](https://wiki.eryajf.net/pages/de0fed/) | Sat Jul 15 2023 9:18 PM 
     <details><summary>展开描述 ...</summary> 
     k8s删除namespace之后状态一直为Terminating 
     </details> 
 
-- 🧰 [k8s集群接入了kubegems之后删除namespace报错kubegems-local-controller-webhook-not-found](https://wiki.eryajf.net/pages/0c3bcb/) | Sat Jul 15 2023 9:17 PM 
+- 🌏 [k8s集群接入了kubegems之后删除namespace报错kubegems-local-controller-webhook-not-found](https://wiki.eryajf.net/pages/0c3bcb/) | Sat Jul 15 2023 9:17 PM 
     <details><summary>展开描述 ...</summary> 
     k8s集群接入了kubegems之后删除namespace报错kubegems-local-controller-webhook not found 
     </details> 
 
-- 🌏 [学习周刊-总第115期-2023年第28周](https://wiki.eryajf.net/pages/127d47/) | Fri Jul 14 2023 9:28 AM 
+- 😎 [学习周刊-总第115期-2023年第28周](https://wiki.eryajf.net/pages/127d47/) | Fri Jul 14 2023 9:28 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第115期-开源免费的Markdown语法简历工具 
     </details> 
 
-- 😎 [CMDB平台建设指南](https://wiki.eryajf.net/pages/4bcf72/) | Sat Jul 08 2023 4:56 PM 
+- 💂 [CMDB平台建设指南](https://wiki.eryajf.net/pages/4bcf72/) | Sat Jul 08 2023 4:56 PM 
     <details><summary>展开描述 ...</summary> 
     我们的运维团队汇聚了一群优秀的，富有想法的年轻人。每次周会里边，当我们完成了各自日常工作的交流沟通之后，总是会跳出当下，天南海北，胡言乱语地头脑风暴一番。在这些看似  闲笔  的沟通当中，我们进行了大量的运维规范以及最佳实践的讨论，而当我们进行地讨论越多，越能够发现一个问题，无论是对于一个全流程&lpar;指一个项目的整个生命周期&rpar;命名的规范约束落地，还是对发布平台以应用维度的主机列表维护，都步步绕不开一个能够真正解决运维痛点的 CMDB 平台。注意，这里在 CMDB 这个名词的前边加了一个定语，真正解决运维痛点。事实上在这之前，我们并非没有做过 CMDB 平台的建设，只不过由于我们以往对这一概念的认知不足，完全交由运维开发同学，按他的一些经验想法开发出来的 CMDB，却总是难以真正在实际运维生产当中落地，简而言之就是，CMDB 平台做过，但都失败了。 
-    </details> 
-
-- 💂 [学习周刊-总第114期-2023年第27周](https://wiki.eryajf.net/pages/628a87/) | Fri Jul 07 2023 9:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第114期-一款个人和中小型团队的在线文档知识库系统 
     </details> 
 <!-- eryajf:END -->
 
