@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第117期-2023年第30周](https://wiki.eryajf.net/pages/84c373/) | Fri Jul 28 2023 1:18 AM 
+- 🫶 [处男嗬](https://wiki.eryajf.net/pages/5f7f94/) | Sun Jul 30 2023 5:51 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言少叙：人有很多面，有勇敢的一面，有怯弱的一面，有阳光的一面，有阴暗的一面。困难的是，如何面对自己真实的那一面。此文写于 2012 年底，彼时我时年十七岁，在无尽的性苦闷之中，用文字记录下了一个阶段真实的自己。直至此刻，我仍是所谓的处男。尽管“心之所向”，尽管“浮想联翩”，尽管“梦里桃花”，我仍然封建地“守身如玉”着。再有不到半年我就十八了，何日“落水”，何时“下锅”，我不得而知。 
+    </details> 
+
+- 🧰 [学习周刊-总第117期-2023年第30周](https://wiki.eryajf.net/pages/84c373/) | Fri Jul 28 2023 1:18 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第117期-一款值得关注了解的开源CMDB平台 
     </details> 
 
-- 🧰 [学习周刊-总第116期-2023年第29周](https://wiki.eryajf.net/pages/feff51/) | Fri Jul 21 2023 9:17 AM 
+- 🌏 [学习周刊-总第116期-2023年第29周](https://wiki.eryajf.net/pages/feff51/) | Fri Jul 21 2023 9:17 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第116期-一款扫描代码中是否包含秘钥敏感信息的工具 
     </details> 
 
-- 🌏 [k8s删除namespace之后状态一直为Terminating](https://wiki.eryajf.net/pages/de0fed/) | Sat Jul 15 2023 9:18 PM 
+- 😎 [k8s删除namespace之后状态一直为Terminating](https://wiki.eryajf.net/pages/de0fed/) | Sat Jul 15 2023 9:18 PM 
     <details><summary>展开描述 ...</summary> 
     k8s删除namespace之后状态一直为Terminating 
     </details> 
 
-- 😎 [k8s集群接入了kubegems之后删除namespace报错kubegems-local-controller-webhook-not-found](https://wiki.eryajf.net/pages/0c3bcb/) | Sat Jul 15 2023 9:17 PM 
+- 💂 [k8s集群接入了kubegems之后删除namespace报错kubegems-local-controller-webhook-not-found](https://wiki.eryajf.net/pages/0c3bcb/) | Sat Jul 15 2023 9:17 PM 
     <details><summary>展开描述 ...</summary> 
     k8s集群接入了kubegems之后删除namespace报错kubegems-local-controller-webhook not found 
-    </details> 
-
-- 💂 [学习周刊-总第115期-2023年第28周](https://wiki.eryajf.net/pages/127d47/) | Fri Jul 14 2023 9:28 AM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第115期-开源免费的Markdown语法简历工具 
     </details> 
 <!-- eryajf:END -->
 
