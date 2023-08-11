@@ -100,11 +100,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [《TypeScript 教程》发布了](http://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html) | Tue Aug 08 2023 2:54 AM
-- 💪 [科技爱好者周刊（第 265 期）：WiFi 的后面是 LiFi](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-265.html) | Fri Aug 04 2023 12:07 AM
-- 🐎 [科技爱好者周刊（第 264 期）：Elasticsearch 的启示](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html) | Fri Jul 28 2023 12:04 AM
-- 🤔 [科技爱好者周刊（第 263 期）：开源软件如何赚钱？](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-263.html) | Fri Jul 21 2023 12:01 AM
-- 🧠 [科技爱好者周刊（第 262 期）：告别密码](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-262.html) | Fri Jul 14 2023 12:03 AM<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 266 期）：自己做双语 EPUB 电子书](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-266.html) | Fri Aug 11 2023 12:11 AM
+- 💪 [《TypeScript 教程》发布了](http://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html) | Tue Aug 08 2023 2:54 AM
+- 🐎 [科技爱好者周刊（第 265 期）：WiFi 的后面是 LiFi](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-265.html) | Fri Aug 04 2023 12:07 AM
+- 🤔 [科技爱好者周刊（第 264 期）：Elasticsearch 的启示](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html) | Fri Jul 28 2023 12:04 AM
+- 🧠 [科技爱好者周刊（第 263 期）：开源软件如何赚钱？](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-263.html) | Fri Jul 21 2023 12:01 AM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
