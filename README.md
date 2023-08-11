@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第118期-2023年第31周](https://wiki.eryajf.net/pages/30d344/) | Fri Aug 04 2023 9:28 AM 
+- 🫶 [学习周刊-总第119期-2023年第32周](https://wiki.eryajf.net/pages/fe5601/) | Fri Aug 11 2023 9:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第119期-一款开源的思维导图 
+    </details> 
+
+- 🧰 [我这只哑了的公鸡](https://wiki.eryajf.net/pages/fe3ce7/) | Sat Aug 05 2023 5:24 PM 
+    <details><summary>展开描述 ...</summary> 
+    进入大学以来，见闻，经历实多，这许多在我心胸激荡，幸而还清醒，故而转做涤荡，今日下午去图书馆读书，憋不住，在手机上写了此篇。行诗包含了许多主题，诸如哑鸡，黎明，黑暗，忠告，群众心理，微妙心理，沉默，棒杀，捧杀等等，有许多的完全是过程里顺随灵感而来，美妙在此矣。起初我想的只是坚定自己的信念，申明给自己何为重要的，何为不重要的，很意外的杠上开花，而表达了许多看似褒义的忠告，其实未必是好的。我们应当认清自己（是鸡就唱领黎明），认清忠告，从而做自己。 
+    </details> 
+
+- 🌏 [学习周刊-总第118期-2023年第31周](https://wiki.eryajf.net/pages/30d344/) | Fri Aug 04 2023 9:28 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第118期-一款配置简单，使用方便，捕获和监控进出以及跨容器、pod、命名空间、节点和集群的所有流量。 
     </details> 
 
-- 🧰 [处男嗬](https://wiki.eryajf.net/pages/5f7f94/) | Sun Jul 30 2023 5:51 PM 
+- 😎 [处男嗬](https://wiki.eryajf.net/pages/5f7f94/) | Sun Jul 30 2023 5:51 PM 
     <details><summary>展开描述 ...</summary> 
     前言少叙：人有很多面，有勇敢的一面，有怯弱的一面，有阳光的一面，有阴暗的一面。困难的是，如何面对自己真实的那一面。此文写于 2012 年底，彼时我时年十七岁，在无尽的性苦闷之中，用文字记录下了一个阶段真实的自己。直至此刻，我仍是所谓的处男。尽管“心之所向”，尽管“浮想联翩”，尽管“梦里桃花”，我仍然封建地“守身如玉”着。再有不到半年我就十八了，何日“落水”，何时“下锅”，我不得而知。 
     </details> 
 
-- 🌏 [学习周刊-总第117期-2023年第30周](https://wiki.eryajf.net/pages/84c373/) | Fri Jul 28 2023 1:18 AM 
+- 💂 [学习周刊-总第117期-2023年第30周](https://wiki.eryajf.net/pages/84c373/) | Fri Jul 28 2023 1:18 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第117期-一款值得关注了解的开源CMDB平台 
-    </details> 
-
-- 😎 [学习周刊-总第116期-2023年第29周](https://wiki.eryajf.net/pages/feff51/) | Fri Jul 21 2023 9:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第116期-一款扫描代码中是否包含秘钥敏感信息的工具 
-    </details> 
-
-- 💂 [k8s删除namespace之后状态一直为Terminating](https://wiki.eryajf.net/pages/de0fed/) | Sat Jul 15 2023 9:18 PM 
-    <details><summary>展开描述 ...</summary> 
-    k8s删除namespace之后状态一直为Terminating 
     </details> 
 <!-- eryajf:END -->
 
