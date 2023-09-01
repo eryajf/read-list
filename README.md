@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第121期-2023年第34周](https://wiki.eryajf.net/pages/0e1fea/) | Fri Aug 25 2023 9:14 AM 
+- 🫶 [学习周刊-总第122期-2023年第35周](https://wiki.eryajf.net/pages/d0decb/) | Fri Sep 01 2023 9:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第122期-一个指导我们构建自己喜欢的技术的开源知识仓库 
+    </details> 
+
+- 🧰 [学习周刊-总第121期-2023年第34周](https://wiki.eryajf.net/pages/0e1fea/) | Fri Aug 25 2023 9:14 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第121期-Obsidian一些同步方案的介绍 
     </details> 
 
-- 🧰 [学习周刊-总第120期-2023年第33周](https://wiki.eryajf.net/pages/99ded0/) | Fri Aug 18 2023 9:08 AM 
+- 🌏 [学习周刊-总第120期-2023年第33周](https://wiki.eryajf.net/pages/99ded0/) | Fri Aug 18 2023 9:08 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第120期-一款go语言编写的开源的自荐邮件服务器系统项目 
     </details> 
 
-- 🌏 [学习周刊-总第119期-2023年第32周](https://wiki.eryajf.net/pages/fe5601/) | Fri Aug 11 2023 9:11 AM 
+- 😎 [学习周刊-总第119期-2023年第32周](https://wiki.eryajf.net/pages/fe5601/) | Fri Aug 11 2023 9:11 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第119期-一款开源的思维导图 
     </details> 
 
-- 😎 [我这只哑了的公鸡](https://wiki.eryajf.net/pages/fe3ce7/) | Sat Aug 05 2023 5:24 PM 
+- 💂 [我这只哑了的公鸡](https://wiki.eryajf.net/pages/fe3ce7/) | Sat Aug 05 2023 5:24 PM 
     <details><summary>展开描述 ...</summary> 
     进入大学以来，见闻，经历实多，这许多在我心胸激荡，幸而还清醒，故而转做涤荡，今日下午去图书馆读书，憋不住，在手机上写了此篇。行诗包含了许多主题，诸如哑鸡，黎明，黑暗，忠告，群众心理，微妙心理，沉默，棒杀，捧杀等等，有许多的完全是过程里顺随灵感而来，美妙在此矣。起初我想的只是坚定自己的信念，申明给自己何为重要的，何为不重要的，很意外的杠上开花，而表达了许多看似褒义的忠告，其实未必是好的。我们应当认清自己（是鸡就唱领黎明），认清忠告，从而做自己。 
-    </details> 
-
-- 💂 [学习周刊-总第118期-2023年第31周](https://wiki.eryajf.net/pages/30d344/) | Fri Aug 04 2023 9:28 AM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第118期-一款配置简单，使用方便，捕获和监控进出以及跨容器、pod、命名空间、节点和集群的所有流量。 
     </details> 
 <!-- eryajf:END -->
 
