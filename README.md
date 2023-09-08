@@ -100,11 +100,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [科技爱好者周刊（第 269 期）：为什么英雄不使用炸药](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html) | Fri Sep 01 2023 12:16 AM
-- 💪 [科技爱好者周刊（第 268 期）：生产力是形容机器，不是形容人](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html) | Fri Aug 25 2023 12:06 AM
-- 🐎 [科技爱好者周刊（第 267 期）：5G 的春天要来了](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html) | Fri Aug 18 2023 12:14 AM
-- 🤔 [科技爱好者周刊（第 266 期）：自己做双语 EPUB 电子书](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-266.html) | Fri Aug 11 2023 12:11 AM
-- 🧠 [《TypeScript 教程》发布了](http://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html) | Tue Aug 08 2023 2:54 AM<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 270 期）：&quot;精益开发&quot;的精益是什么？](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html) | Thu Sep 07 2023 11:51 PM
+- 💪 [科技爱好者周刊（第 269 期）：为什么英雄不使用炸药](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html) | Fri Sep 01 2023 12:16 AM
+- 🐎 [科技爱好者周刊（第 268 期）：生产力是形容机器，不是形容人](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html) | Fri Aug 25 2023 12:06 AM
+- 🤔 [科技爱好者周刊（第 267 期）：5G 的春天要来了](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html) | Fri Aug 18 2023 12:14 AM
+- 🧠 [科技爱好者周刊（第 266 期）：自己做双语 EPUB 电子书](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-266.html) | Fri Aug 11 2023 12:11 AM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
