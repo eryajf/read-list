@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第123期-2023年第36周](https://wiki.eryajf.net/pages/e6aa1f/) | Fri Sep 08 2023 8:27 AM 
+- 🫶 [Jenkins-pipeline之利用activity choice插件对接查询MySQL数据实现动态参数化的功能](https://wiki.eryajf.net/pages/90c88d/) | Sat Sep 09 2023 11:18 PM 
+    <details><summary>展开描述 ...</summary> 
+    Jenkins-pipeline之利用activity choice插件对接查询MySQL数据实现动态参数化的功能 
+    </details> 
+
+- 🧰 [学习周刊-总第123期-2023年第36周](https://wiki.eryajf.net/pages/e6aa1f/) | Fri Sep 08 2023 8:27 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第123期-🔎 使用关键字搜索所有gitlab项目,并将结果输出为Excel 
     </details> 
 
-- 🧰 [Jenkins-Groovy中Switch的高阶用法](https://wiki.eryajf.net/pages/44a06c/) | Thu Sep 07 2023 11:28 PM 
+- 🌏 [Jenkins-Groovy中Switch的高阶用法](https://wiki.eryajf.net/pages/44a06c/) | Thu Sep 07 2023 11:28 PM 
     <details><summary>展开描述 ...</summary> 
     在流水线的构建过程中，免不了会有逻辑判断的地方，通常我们可以使用 when，if 来编写判断的语句，但是当需要判断的分支大于两个的时候，就不再推荐使用如上两种方式了。 
     </details> 
 
-- 🌏 [开源一个工具-使用关键字搜索所有gitlab项目](https://wiki.eryajf.net/pages/38fe49/) | Thu Sep 07 2023 11:18 PM 
+- 😎 [开源一个工具-使用关键字搜索所有gitlab项目](https://wiki.eryajf.net/pages/38fe49/) | Thu Sep 07 2023 11:18 PM 
     <details><summary>展开描述 ...</summary> 
     使用关键字搜索所有gitlab项目,并将结果输出为Excel 
     </details> 
 
-- 😎 [学习周刊-总第122期-2023年第35周](https://wiki.eryajf.net/pages/d0decb/) | Fri Sep 01 2023 9:36 AM 
+- 💂 [学习周刊-总第122期-2023年第35周](https://wiki.eryajf.net/pages/d0decb/) | Fri Sep 01 2023 9:36 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第122期-一个指导我们构建自己喜欢的技术的开源知识仓库 
-    </details> 
-
-- 💂 [学习周刊-总第121期-2023年第34周](https://wiki.eryajf.net/pages/0e1fea/) | Fri Aug 25 2023 9:14 AM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第121期-Obsidian一些同步方案的介绍 
     </details> 
 <!-- eryajf:END -->
 
