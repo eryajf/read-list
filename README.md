@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第124期-2023年第37周](https://wiki.eryajf.net/pages/161880/) | Thu Sep 14 2023 9:48 PM 
+- 🫶 [学习周刊-总第125期-2023年第38周](https://wiki.eryajf.net/pages/8e1841/) | Fri Sep 22 2023 9:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第125期-几款开源的各语言私服项目 
+    </details> 
+
+- 🧰 [学习周刊-总第124期-2023年第37周](https://wiki.eryajf.net/pages/161880/) | Thu Sep 14 2023 9:48 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第124期-Bob的开源版本，以及一个开源的抓包工具 
     </details> 
 
-- 🧰 [Jenkins-pipeline之利用activity choice插件对接查询MySQL数据实现动态参数化的功能](https://wiki.eryajf.net/pages/90c88d/) | Sat Sep 09 2023 11:18 PM 
+- 🌏 [Jenkins-pipeline之利用activity choice插件对接查询MySQL数据实现动态参数化的功能](https://wiki.eryajf.net/pages/90c88d/) | Sat Sep 09 2023 11:18 PM 
     <details><summary>展开描述 ...</summary> 
     Jenkins-pipeline之利用activity choice插件对接查询MySQL数据实现动态参数化的功能 
     </details> 
 
-- 🌏 [学习周刊-总第123期-2023年第36周](https://wiki.eryajf.net/pages/e6aa1f/) | Fri Sep 08 2023 8:27 AM 
+- 😎 [学习周刊-总第123期-2023年第36周](https://wiki.eryajf.net/pages/e6aa1f/) | Fri Sep 08 2023 8:27 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第123期-🔎 使用关键字搜索所有gitlab项目,并将结果输出为Excel 
     </details> 
 
-- 😎 [Jenkins-Groovy中Switch的高阶用法](https://wiki.eryajf.net/pages/44a06c/) | Thu Sep 07 2023 11:28 PM 
+- 💂 [Jenkins-Groovy中Switch的高阶用法](https://wiki.eryajf.net/pages/44a06c/) | Thu Sep 07 2023 11:28 PM 
     <details><summary>展开描述 ...</summary> 
     在流水线的构建过程中，免不了会有逻辑判断的地方，通常我们可以使用 when，if 来编写判断的语句，但是当需要判断的分支大于两个的时候，就不再推荐使用如上两种方式了。 
-    </details> 
-
-- 💂 [开源一个工具-使用关键字搜索所有gitlab项目](https://wiki.eryajf.net/pages/38fe49/) | Thu Sep 07 2023 11:18 PM 
-    <details><summary>展开描述 ...</summary> 
-    使用关键字搜索所有gitlab项目,并将结果输出为Excel 
     </details> 
 <!-- eryajf:END -->
 
