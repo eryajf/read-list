@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第127期-2023年第40周](https://wiki.eryajf.net/pages/8d2bf6/) | Thu Oct 05 2023 4:00 PM 
+- 🫶 [学习周刊-总第128期-2023年第41周](https://wiki.eryajf.net/pages/c1499d/) | Fri Oct 13 2023 9:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第127期-两个json处理相关的开源项目 
+    </details> 
+
+- 🧰 [学习周刊-总第127期-2023年第40周](https://wiki.eryajf.net/pages/8d2bf6/) | Thu Oct 05 2023 4:00 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第127期-优秀的运维实践ansible剧本 
     </details> 
 
-- 🧰 [学习周刊-总第126期-2023年第39周](https://wiki.eryajf.net/pages/8b091b/) | Thu Sep 28 2023 8:48 PM 
+- 🌏 [学习周刊-总第126期-2023年第39周](https://wiki.eryajf.net/pages/8b091b/) | Thu Sep 28 2023 8:48 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第126期-与grafana类似的国人开发的监控平台 
     </details> 
 
-- 🌏 [学习周刊-总第125期-2023年第38周](https://wiki.eryajf.net/pages/8e1841/) | Fri Sep 22 2023 9:48 AM 
+- 😎 [学习周刊-总第125期-2023年第38周](https://wiki.eryajf.net/pages/8e1841/) | Fri Sep 22 2023 9:48 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第125期-几款开源的各语言私服项目 
     </details> 
 
-- 😎 [学习周刊-总第124期-2023年第37周](https://wiki.eryajf.net/pages/161880/) | Thu Sep 14 2023 9:48 PM 
+- 💂 [学习周刊-总第124期-2023年第37周](https://wiki.eryajf.net/pages/161880/) | Thu Sep 14 2023 9:48 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第124期-Bob的开源版本，以及一个开源的抓包工具 
-    </details> 
-
-- 💂 [Jenkins-pipeline之利用activity choice插件对接查询MySQL数据实现动态参数化的功能](https://wiki.eryajf.net/pages/90c88d/) | Sat Sep 09 2023 11:18 PM 
-    <details><summary>展开描述 ...</summary> 
-    Jenkins-pipeline之利用activity choice插件对接查询MySQL数据实现动态参数化的功能 
     </details> 
 <!-- eryajf:END -->
 
