@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第128期-2023年第41周](https://wiki.eryajf.net/pages/c1499d/) | Fri Oct 13 2023 9:28 AM 
+- 🫶 [再叹校运动会](https://wiki.eryajf.net/pages/d9fc78/) | Sun Oct 15 2023 9:56 PM 
+    <details><summary>展开描述 ...</summary> 
+    在中国往往事大于人，乃至大于天，当事情已经进入状态，则连学校最大领导也变得听之任之，唯之诺之。任凭老天下雨，也阻拦不住其行进，这可算一奇观。在“独立之人格，自由之思想”，极度缺乏的大学校园，很多很多不正常，不应该，不可能变得正常，应该，可能，这是悲哀之所在。 
+    </details> 
+
+- 🧰 [由校运动会想到的](https://wiki.eryajf.net/pages/4de38d/) | Sun Oct 15 2023 9:53 PM 
+    <details><summary>展开描述 ...</summary> 
+    我在想，领导的意义是什么？因为很多人并不知道领导是干嘛的，他们以为领导就是指挥指导的。甚至连被领导的人也这么认为，但我想这根本不是领导，这是压榨剥削的主子。领导的意义在于提供平台出来，相信手下的能力，然后使之在可保护的范围内自由发挥，而不是对一切都插手，干预。 
+    </details> 
+
+- 🌏 [学习周刊-总第128期-2023年第41周](https://wiki.eryajf.net/pages/c1499d/) | Fri Oct 13 2023 9:28 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第127期-两个json处理相关的开源项目 
     </details> 
 
-- 🧰 [学习周刊-总第127期-2023年第40周](https://wiki.eryajf.net/pages/8d2bf6/) | Thu Oct 05 2023 4:00 PM 
+- 😎 [学习周刊-总第127期-2023年第40周](https://wiki.eryajf.net/pages/8d2bf6/) | Thu Oct 05 2023 4:00 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第127期-优秀的运维实践ansible剧本 
     </details> 
 
-- 🌏 [学习周刊-总第126期-2023年第39周](https://wiki.eryajf.net/pages/8b091b/) | Thu Sep 28 2023 8:48 PM 
+- 💂 [学习周刊-总第126期-2023年第39周](https://wiki.eryajf.net/pages/8b091b/) | Thu Sep 28 2023 8:48 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第126期-与grafana类似的国人开发的监控平台 
-    </details> 
-
-- 😎 [学习周刊-总第125期-2023年第38周](https://wiki.eryajf.net/pages/8e1841/) | Fri Sep 22 2023 9:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第125期-几款开源的各语言私服项目 
-    </details> 
-
-- 💂 [学习周刊-总第124期-2023年第37周](https://wiki.eryajf.net/pages/161880/) | Thu Sep 14 2023 9:48 PM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第124期-Bob的开源版本，以及一个开源的抓包工具 
     </details> 
 <!-- eryajf:END -->
 
