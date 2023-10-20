@@ -100,11 +100,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [科技爱好者周刊（第 273 期）：任正非的三篇最新谈话](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html) | Fri Oct 13 2023 12:09 AM
-- 💪 [科技爱好者周刊（第 272 期）：Unity 的安装费，游戏业的缩影](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html) | Fri Sep 22 2023 12:07 AM
-- 🐎 [科技爱好者周刊（第 271 期）：非线性的世界，线性的你](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html) | Fri Sep 15 2023 12:04 AM
-- 🤔 [科技爱好者周刊（第 270 期）：&quot;精益开发&quot;的精益是什么？](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html) | Thu Sep 07 2023 11:51 PM
-- 🧠 [科技爱好者周刊（第 269 期）：为什么英雄不使用炸药](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html) | Fri Sep 01 2023 12:16 AM<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 274 期）：加密通信的最后一块拼图](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-274.html) | Fri Oct 20 2023 12:15 AM
+- 💪 [科技爱好者周刊（第 273 期）：任正非的三篇最新谈话](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html) | Fri Oct 13 2023 12:09 AM
+- 🐎 [科技爱好者周刊（第 272 期）：Unity 的安装费，游戏业的缩影](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html) | Fri Sep 22 2023 12:07 AM
+- 🤔 [科技爱好者周刊（第 271 期）：非线性的世界，线性的你](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html) | Fri Sep 15 2023 12:04 AM
+- 🧠 [科技爱好者周刊（第 270 期）：&quot;精益开发&quot;的精益是什么？](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html) | Thu Sep 07 2023 11:51 PM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
