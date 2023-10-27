@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第129期-2023年第42周](https://wiki.eryajf.net/pages/1bb81c/) | Fri Oct 20 2023 9:20 AM 
+- 🫶 [学习周刊-总第130期-2023年第43周](https://wiki.eryajf.net/pages/b46f92/) | Fri Oct 27 2023 9:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第130期-批量将语雀文档导出为本地Markdown的项目 
+    </details> 
+
+- 🧰 [学习周刊-总第129期-2023年第42周](https://wiki.eryajf.net/pages/1bb81c/) | Fri Oct 20 2023 9:20 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第129期-域名证书过期检测项目以及又一个redis客户端 
     </details> 
 
-- 🧰 [再叹校运动会](https://wiki.eryajf.net/pages/d9fc78/) | Sun Oct 15 2023 9:56 PM 
+- 🌏 [再叹校运动会](https://wiki.eryajf.net/pages/d9fc78/) | Sun Oct 15 2023 9:56 PM 
     <details><summary>展开描述 ...</summary> 
     在中国往往事大于人，乃至大于天，当事情已经进入状态，则连学校最大领导也变得听之任之，唯之诺之。任凭老天下雨，也阻拦不住其行进，这可算一奇观。在“独立之人格，自由之思想”，极度缺乏的大学校园，很多很多不正常，不应该，不可能变得正常，应该，可能，这是悲哀之所在。 
     </details> 
 
-- 🌏 [由校运动会想到的](https://wiki.eryajf.net/pages/4de38d/) | Sun Oct 15 2023 9:53 PM 
+- 😎 [由校运动会想到的](https://wiki.eryajf.net/pages/4de38d/) | Sun Oct 15 2023 9:53 PM 
     <details><summary>展开描述 ...</summary> 
     我在想，领导的意义是什么？因为很多人并不知道领导是干嘛的，他们以为领导就是指挥指导的。甚至连被领导的人也这么认为，但我想这根本不是领导，这是压榨剥削的主子。领导的意义在于提供平台出来，相信手下的能力，然后使之在可保护的范围内自由发挥，而不是对一切都插手，干预。 
     </details> 
 
-- 😎 [学习周刊-总第128期-2023年第41周](https://wiki.eryajf.net/pages/c1499d/) | Fri Oct 13 2023 9:28 AM 
+- 💂 [学习周刊-总第128期-2023年第41周](https://wiki.eryajf.net/pages/c1499d/) | Fri Oct 13 2023 9:28 AM 
     <details><summary>展开描述 ...</summary> 
-    学习周刊-总第127期-两个json处理相关的开源项目 
-    </details> 
-
-- 💂 [学习周刊-总第127期-2023年第40周](https://wiki.eryajf.net/pages/8d2bf6/) | Thu Oct 05 2023 4:00 PM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第127期-优秀的运维实践ansible剧本 
+    学习周刊-总第128期-两个json处理相关的开源项目 
     </details> 
 <!-- eryajf:END -->
 
