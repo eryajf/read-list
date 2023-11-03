@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [为何无志气](https://wiki.eryajf.net/pages/37439f/) | Sat Oct 28 2023 10:51 PM 
+- 🫶 [学习周刊-总第131期-2023年第44周](https://wiki.eryajf.net/pages/94c797/) | Fri Nov 03 2023 9:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第131期-一个运维群的每日总结记录 
+    </details> 
+
+- 🧰 [为何无志气](https://wiki.eryajf.net/pages/37439f/) | Sat Oct 28 2023 10:51 PM 
     <details><summary>展开描述 ...</summary> 
     今天的年轻人，可说是毫无志气的，也没有人在生活中谈论志气，及时行乐的思想充斥在人们的脑中，眼前，耳里，口里，没有人愿意去十年寒窗苦，因为到处都是年少成名，九零后亿万富翁之类的宣传，人们都绞尽脑汁，挖空心思，削尖脑袋朝那里边儿扎，却毫不顾问一下自己，果真有那个心胸与德行吗？经济（钱）为主导的今天，人们都不屑于那所谓的士子德操，都以赶紧赚到钱为要事，却没有人考虑该怎样挣钱，以及怎样花钱。 
     </details> 
 
-- 🧰 [常怀一颗谦卑心](https://wiki.eryajf.net/pages/1ed778/) | Sat Oct 28 2023 10:39 PM 
+- 🌏 [常怀一颗谦卑心](https://wiki.eryajf.net/pages/1ed778/) | Sat Oct 28 2023 10:39 PM 
     <details><summary>展开描述 ...</summary> 
     某人并不信鬼神，更不屑于耍弄这一套的人。但总也乐于好奇一下，便慕着大名找到王大仙，说明来意之后，恭恭敬敬地端坐在大仙对面，听着他的指点。 
     </details> 
 
-- 🌏 [从Nginx过滤打印user-agent为clb-healthcheck的日志聊聊Nginx的日志自定义打印](https://wiki.eryajf.net/pages/5fce99/) | Sat Oct 28 2023 10:31 PM 
+- 😎 [从Nginx过滤打印user-agent为clb-healthcheck的日志聊聊Nginx的日志自定义打印](https://wiki.eryajf.net/pages/5fce99/) | Sat Oct 28 2023 10:31 PM 
     <details><summary>展开描述 ...</summary> 
     通常我们的南北流量的链路是从云的 LB 到服务器的 Nginx 集群，为了利用好 lb 自动检测 Nginx 的功能，通常你会打开健康检查，此时，Nginx 的日志当中就会打印大量的健康检查日志，令人不胜其烦。 
     </details> 
 
-- 😎 [学习周刊-总第130期-2023年第43周](https://wiki.eryajf.net/pages/b46f92/) | Fri Oct 27 2023 9:25 AM 
+- 💂 [学习周刊-总第130期-2023年第43周](https://wiki.eryajf.net/pages/b46f92/) | Fri Oct 27 2023 9:25 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第130期-批量将语雀文档导出为本地Markdown的项目 
-    </details> 
-
-- 💂 [关于坦率的思考](https://wiki.eryajf.net/pages/22cf00/) | Fri Oct 20 2023 9:26 AM 
-    <details><summary>展开描述 ...</summary> 
-    我是在高一上学期末接触的文学， 从这儿开始，一发不可收拾地买书，读书，直到今天彻底走进文学。文学给我带来了很多的转变与收获，今天就说说文学对我性格的影响。人生的很多第一次的体验会对人有很多奇妙且重大的影响，文学亦然，拉你走进的第一本书，第一个作者，都会影响你的文格与人格的塑造。我记得那时读完的第一本书是《李敖和他的女人们》，李敖变成了我的偶像启蒙人，在后来买的最多读的最多的就是他的书，幸甚，他是一个极有原则的人，于是，他身上的坦率快意，务实勤奋，扶正摧邪被我偷学不少，而坦率，是我那一个时期尤其用心的。 
     </details> 
 <!-- eryajf:END -->
 
