@@ -100,11 +100,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [科技爱好者周刊（第 275 期）：彼得·蒂尔的实验](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-275.html) | Fri Oct 27 2023 12:05 AM
-- 💪 [科技爱好者周刊（第 274 期）：加密通信的最后一块拼图](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-274.html) | Fri Oct 20 2023 12:15 AM
-- 🐎 [科技爱好者周刊（第 273 期）：任正非的三篇最新谈话](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html) | Fri Oct 13 2023 12:09 AM
-- 🤔 [科技爱好者周刊（第 272 期）：Unity 的安装费，游戏业的缩影](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html) | Fri Sep 22 2023 12:07 AM
-- 🧠 [科技爱好者周刊（第 271 期）：非线性的世界，线性的你](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html) | Fri Sep 15 2023 12:04 AM<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 276 期）：内容行业的衰落](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html) | Fri Nov 03 2023 12:02 AM
+- 💪 [科技爱好者周刊（第 275 期）：彼得·蒂尔的实验](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-275.html) | Fri Oct 27 2023 12:05 AM
+- 🐎 [科技爱好者周刊（第 274 期）：加密通信的最后一块拼图](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-274.html) | Fri Oct 20 2023 12:15 AM
+- 🤔 [科技爱好者周刊（第 273 期）：任正非的三篇最新谈话](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html) | Fri Oct 13 2023 12:09 AM
+- 🧠 [科技爱好者周刊（第 272 期）：Unity 的安装费，游戏业的缩影](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html) | Fri Sep 22 2023 12:07 AM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
