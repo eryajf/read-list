@@ -100,11 +100,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [科技爱好者周刊（第 278 期）：棘手的 AI 版权](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html) | Fri Nov 17 2023 12:10 AM
-- 💪 [科技爱好者周刊（第 277 期）：工作台副屏的最佳选择](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-277.html) | Fri Nov 10 2023 12:12 AM
-- 🐎 [科技爱好者周刊（第 276 期）：内容行业的衰落](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html) | Fri Nov 03 2023 12:02 AM
-- 🤔 [科技爱好者周刊（第 275 期）：彼得·蒂尔的实验](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-275.html) | Fri Oct 27 2023 12:05 AM
-- 🧠 [科技爱好者周刊（第 274 期）：加密通信的最后一块拼图](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-274.html) | Fri Oct 20 2023 12:15 AM<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 279 期）：网络社区的悲剧](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-279.html) | Fri Nov 24 2023 12:06 AM
+- 💪 [科技爱好者周刊（第 278 期）：棘手的 AI 版权](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html) | Fri Nov 17 2023 12:10 AM
+- 🐎 [科技爱好者周刊（第 277 期）：工作台副屏的最佳选择](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-277.html) | Fri Nov 10 2023 12:12 AM
+- 🤔 [科技爱好者周刊（第 276 期）：内容行业的衰落](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html) | Fri Nov 03 2023 12:02 AM
+- 🧠 [科技爱好者周刊（第 275 期）：彼得·蒂尔的实验](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-275.html) | Fri Oct 27 2023 12:05 AM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
