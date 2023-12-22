@@ -100,11 +100,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html) | Fri Dec 15 2023 12:15 AM
-- 💪 [科技爱好者周刊（第 281 期）：新基建的政策选择](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-281.html) | Fri Dec 08 2023 12:10 AM
-- 🐎 [科技爱好者周刊（第 280 期）：机器点餐与宅文化](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-280.html) | Fri Dec 01 2023 12:14 AM
-- 🤔 [科技爱好者周刊（第 279 期）：网络社区的悲剧](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-279.html) | Fri Nov 24 2023 12:06 AM
-- 🧠 [科技爱好者周刊（第 278 期）：棘手的 AI 版权](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html) | Fri Nov 17 2023 12:10 AM<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html) | Fri Dec 22 2023 12:28 AM
+- 💪 [科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html) | Fri Dec 15 2023 12:15 AM
+- 🐎 [科技爱好者周刊（第 281 期）：新基建的政策选择](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-281.html) | Fri Dec 08 2023 12:10 AM
+- 🤔 [科技爱好者周刊（第 280 期）：机器点餐与宅文化](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-280.html) | Fri Dec 01 2023 12:14 AM
+- 🧠 [科技爱好者周刊（第 279 期）：网络社区的悲剧](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-279.html) | Fri Nov 24 2023 12:06 AM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
