@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第138期-2023年第51周](https://wiki.eryajf.net/pages/0d5163/) | Thu Dec 21 2023 10:01 PM 
+- 🫶 [学习周刊-总第139期-2023年第52周](https://wiki.eryajf.net/pages/3c7c6a/) | Thu Dec 28 2023 11:26 PM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第139期-一个开源的ssl证书监控系统 
+    </details> 
+
+- 🧰 [学习周刊-总第138期-2023年第51周](https://wiki.eryajf.net/pages/0d5163/) | Thu Dec 21 2023 10:01 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第138期-又一款开源的elasticsearch管控端项目 
     </details> 
 
-- 🧰 [学习周刊-总第137期-2023年第50周](https://wiki.eryajf.net/pages/854f9d/) | Thu Dec 14 2023 11:52 PM 
+- 🌏 [学习周刊-总第137期-2023年第50周](https://wiki.eryajf.net/pages/854f9d/) | Thu Dec 14 2023 11:52 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第137期-一个docker-compose管理面板和一个ldap认证库 
     </details> 
 
-- 🌏 [学习周刊-总第136期-2023年第49周](https://wiki.eryajf.net/pages/eb495e/) | Thu Dec 07 2023 10:29 PM 
+- 😎 [学习周刊-总第136期-2023年第49周](https://wiki.eryajf.net/pages/eb495e/) | Thu Dec 07 2023 10:29 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第136期-一个面向生产环境的 MySQL 同步工具 
     </details> 
 
-- 😎 [CentOS通过yum快速安装Jenkins](https://wiki.eryajf.net/pages/0b780e/) | Mon Dec 04 2023 11:56 PM 
+- 💂 [CentOS通过yum快速安装Jenkins](https://wiki.eryajf.net/pages/0b780e/) | Mon Dec 04 2023 11:56 PM 
     <details><summary>展开描述 ...</summary> 
     之前我比较迷信于使用 Tomcat 部署 Jenkins，而现在随时拉起的环境越发的多，反而感觉到这种方式比较麻烦，使用 yum 安装基于 systemd 管理似乎也是一个不错的选择。 
-    </details> 
-
-- 💂 [学习周刊-总第135期-2023年第48周](https://wiki.eryajf.net/pages/883f27/) | Thu Nov 30 2023 11:50 PM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第135期-两个go语言开发的定时任务管理系统平台 
     </details> 
 <!-- eryajf:END -->
 
