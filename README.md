@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第140期-2024年第01周](https://wiki.eryajf.net/pages/face3c/) | Thu Jan 04 2024 11:08 PM 
+- 🫶 [我的2023年](https://wiki.eryajf.net/pages/ed9d0f/) | Sun Jan 07 2024 11:59 PM 
+    <details><summary>展开描述 ...</summary> 
+    我的2023年年终总结。又是一年轮替时，我们的生命被年切割，用于测量过往一个阶段的得失，而随着年轮地滚动，不管得失与否，能否合理解释自己的遭遇，能否合理认识自己的遭遇，能否合理超越自己的遭遇，都成为我们年龄递增的首要任务。许多人迷迷糊糊，光阴虚度，尽管眼见已二三十岁，却仍旧活在生活之下，即便多活几十年，也不过是一种窘困，愁苦，凡庸的延伸，着实冤枉。 
+    </details> 
+
+- 🧰 [学习周刊-总第140期-2024年第01周](https://wiki.eryajf.net/pages/face3c/) | Thu Jan 04 2024 11:08 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第140期-两个与docker相关的开源项目 
     </details> 
 
-- 🧰 [npm install时报错Failed at the node-sass@4.14.1 postinstall script的问题及解决](https://wiki.eryajf.net/pages/55b858/) | Mon Jan 01 2024 10:53 AM 
+- 🌏 [npm install时报错Failed at the node-sass@4.14.1 postinstall script的问题及解决](https://wiki.eryajf.net/pages/55b858/) | Mon Jan 01 2024 10:53 AM 
     <details><summary>展开描述 ...</summary> 
     npm install时报错Failed at the node-sass@4.14.1 postinstall script的问题及解决 
     </details> 
 
-- 🌏 [利用gorm自身提供的方法实现存在更新不存在则创建的能力](https://wiki.eryajf.net/pages/4948f1/) | Sun Dec 31 2023 12:49 PM 
+- 😎 [利用gorm自身提供的方法实现存在更新不存在则创建的能力](https://wiki.eryajf.net/pages/4948f1/) | Sun Dec 31 2023 12:49 PM 
     <details><summary>展开描述 ...</summary> 
     MySQL 有一个语句是 UPSERT 的操作，它结合了 update 和 insert 两种操作的功能。当执行 upsert 操作时，如果指定的记录已经存在，则执行更新操作；如果指定的记录不存在，则执行插入操作。这种操作可以用来确保数据的一致性，并且可以减少对数据库的访问次数。 
     </details> 
 
-- 😎 [学习周刊-总第139期-2023年第52周](https://wiki.eryajf.net/pages/3c7c6a/) | Thu Dec 28 2023 11:26 PM 
+- 💂 [学习周刊-总第139期-2023年第52周](https://wiki.eryajf.net/pages/3c7c6a/) | Thu Dec 28 2023 11:26 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第139期-一个开源的ssl证书监控系统 
-    </details> 
-
-- 💂 [学习周刊-总第138期-2023年第51周](https://wiki.eryajf.net/pages/0d5163/) | Thu Dec 21 2023 10:01 PM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第138期-又一款开源的elasticsearch管控端项目 
     </details> 
 <!-- eryajf:END -->
 
