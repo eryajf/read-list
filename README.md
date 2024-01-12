@@ -100,11 +100,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html) | Fri Jan 05 2024 12:14 AM
-- 💪 [科技爱好者周刊（第 284 期）：YouTube 有多少个视频？](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html) | Fri Dec 29 2023 12:11 AM
-- 🐎 [科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html) | Fri Dec 22 2023 12:28 AM
-- 🤔 [科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html) | Fri Dec 15 2023 12:15 AM
-- 🧠 [科技爱好者周刊（第 281 期）：新基建的政策选择](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-281.html) | Fri Dec 08 2023 12:10 AM<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 286 期）：蓝色指示灯的解决方案](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-286.html) | Fri Jan 12 2024 12:31 AM
+- 💪 [科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html) | Fri Jan 05 2024 12:14 AM
+- 🐎 [科技爱好者周刊（第 284 期）：YouTube 有多少个视频？](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html) | Fri Dec 29 2023 12:11 AM
+- 🤔 [科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html) | Fri Dec 22 2023 12:28 AM
+- 🧠 [科技爱好者周刊（第 282 期）：电动皮卡 Cybertruck 的 48V 供电](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html) | Fri Dec 15 2023 12:15 AM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
