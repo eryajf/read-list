@@ -77,7 +77,7 @@
     学习周刊-总第140期-两个与docker相关的开源项目 
     </details> 
 
-- 😎 [npm install时报错Failed at the node-sass@4.14.1 postinstall script的问题及解决](https://wiki.eryajf.net/pages/55b858/) | Mon Jan 01 2024 10:53 AM 
+- 😎 [npm install时报错Failed at the node-sass-4.14.1 postinstall script的问题及解决](https://wiki.eryajf.net/pages/55b858/) | Mon Jan 01 2024 10:53 AM 
     <details><summary>展开描述 ...</summary> 
     npm install时报错Failed at the node-sass@4.14.1 postinstall script的问题及解决 
     </details> 
