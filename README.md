@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [2024年重磅开源项目 awesome-ops 已收录项目375个](https://wiki.eryajf.net/pages/9dfb86/) | Sat Jan 20 2024 10:44 PM 
+- 🫶 [利用Github Action自动检测项目中 yaml 或 json 的语法](https://wiki.eryajf.net/pages/dde9ca/) | Sun Jan 21 2024 4:19 PM 
+    <details><summary>展开描述 ...</summary> 
+    我最近开源的 awesome-ops 项目，其中的项目分类及表格数据的生成，依赖 yaml-readme 这个项目所实现的 action 来完成。因此，其中的项目都是基于大量 yaml 来收集，在于 yaml 打交道的过程中，不可避免的会遇到错漏的情况，这个时候，增加一个 yaml 语法检测的 action 就势在必行了。当我有了这个念头之后，就针对这方面的 action 进行了一大波调研，发现市场上有许多对应的 action，真正好用的并不多，因此，在花了一两个小时之后，才发掘到了本文将要介绍的 action，如果你也有此类场景与需求，那么就往下读吧。 
+    </details> 
+
+- 🧰 [2024年重磅开源项目 awesome-ops 已收录项目375个](https://wiki.eryajf.net/pages/9dfb86/) | Sat Jan 20 2024 10:44 PM 
     <details><summary>展开描述 ...</summary> 
     我想，我应该是一个热爱运维这个领域的人，每天抱着 Mac 电脑网上冲浪，学习就是最幸福的事情，在这些冲浪的过程中，认识，了解，掌握了太多优秀的项目，有很多项目，对我而言，在对应场景的时候都可以调度出来。但对于运维领域之外的人，事实上在面对一些运维专项需求的时候，往往会一头雾水，这也是我萌发建立此项目的一个引子。现在，经过大约两周的下班后的折腾，终于发布了。在制作项目之前，我还花了不少的时间，阅读了 yaml-readme 的源码，并进行 fork 改造，专门为此项目定制了许多的功能，从而能够让这样一个模块儿化分布的，便于协作的内容，基于 GitHub Action 来自动生成。现在，项目已经吸引两位同仁协作，其中一位来自台湾的朋友，已经协同贡献了好几十个项目。这个项目还处于很早期的阶段，期待更多仁人志士参与进来，除了贡献内容，修复错漏之外，也可以对内容呈现形式等提交建议。运维领域，如此广大，在每一个细分类别中，都有许多先行者将心血转化为开源项目，而这个项目，就是希望能做一个这类项目的合辑。不论你是做运维的，还是其他的，只要在技术领域，那么这个经过精心挑选并分门别类的项目，都将会是你的一册宝典。 
     </details> 
 
-- 🧰 [学习周刊-总第142期-2024年第03周](https://wiki.eryajf.net/pages/b0f439/) | Thu Jan 18 2024 10:39 PM 
+- 🌏 [学习周刊-总第142期-2024年第03周](https://wiki.eryajf.net/pages/b0f439/) | Thu Jan 18 2024 10:39 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第142期-又有两款开源的类似postman的管理工具 
     </details> 
 
-- 🌏 [学习周刊-总第141期-2024年第02周](https://wiki.eryajf.net/pages/191cc4/) | Thu Jan 11 2024 11:56 PM 
+- 😎 [学习周刊-总第141期-2024年第02周](https://wiki.eryajf.net/pages/191cc4/) | Thu Jan 11 2024 11:56 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第141期-一年一度的23年博客届春晚 
     </details> 
 
-- 😎 [我的2023年](https://wiki.eryajf.net/pages/ed9d0f/) | Sun Jan 07 2024 11:59 PM 
+- 💂 [我的2023年](https://wiki.eryajf.net/pages/ed9d0f/) | Sun Jan 07 2024 11:59 PM 
     <details><summary>展开描述 ...</summary> 
     我的2023年年终总结。又是一年轮替时，我们的生命被年切割，用于测量过往一个阶段的得失，而随着年轮地滚动，不管得失与否，能否合理解释自己的遭遇，能否合理认识自己的遭遇，能否合理超越自己的遭遇，都成为我们年龄递增的首要任务。许多人迷迷糊糊，光阴虚度，尽管眼见已二三十岁，却仍旧活在生活之下，即便多活几十年，也不过是一种窘困，愁苦，凡庸的延伸，着实冤枉。 
-    </details> 
-
-- 💂 [学习周刊-总第140期-2024年第01周](https://wiki.eryajf.net/pages/face3c/) | Thu Jan 04 2024 11:08 PM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第140期-两个与docker相关的开源项目 
     </details> 
 <!-- eryajf:END -->
 
