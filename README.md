@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [MemesMarket - 创建、销售和购买 NFT 模因](https://xinquji.com/posts/793420?utm_campaign=xinquji-rss) | Thu Jan 26 2023 6:00 AM 
+- 👀 [Chatsimple - 立即引导访客满足他们的需求](https://xinquji.com/posts/809198?utm_campaign=xinquji-rss) | Wed Feb 21 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     创建、销售和购买 NFT 模因  
+     立即引导访客满足他们的需求  
     </details> 
 
-- 🥷 [NeevaAI - 由 AI 提供支持的搜索以获得答案，而不是广告](https://xinquji.com/posts/793419?utm_campaign=xinquji-rss) | Thu Jan 26 2023 6:00 AM 
+- 🥷 [ClousH Alpha - 由 AI 为招聘团队提供支持的协作 ATS](https://xinquji.com/posts/809197?utm_campaign=xinquji-rss) | Wed Feb 21 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     由 AI 提供支持的搜索以获得答案，而不是广告  
+     由 AI 为招聘团队提供支持的协作 ATS  
     </details> 
 
-- 💼 [Charlie - 帮助每个人创建营销内容](https://xinquji.com/posts/793418?utm_campaign=xinquji-rss) | Thu Jan 26 2023 6:00 AM 
+- 💼 [Destocker.AI - 利用人工智能驱动的创造力改变您的图像](https://xinquji.com/posts/809196?utm_campaign=xinquji-rss) | Wed Feb 21 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     帮助每个人创建营销内容  
+     利用人工智能驱动的创造力改变您的图像  
     </details> 
 
-- 🦅 [Terra Websockets - 可轻松从可穿戴设备流式传输实时数据的 API](https://xinquji.com/posts/793417?utm_campaign=xinquji-rss) | Thu Jan 26 2023 6:00 AM 
+- 🦅 [ButterDocs - 严肃作家和团队的 Google 文档替代品](https://xinquji.com/posts/809195?utm_campaign=xinquji-rss) | Wed Feb 21 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     可轻松从可穿戴设备流式传输实时数据的 API  
+     严肃作家和团队的 Google 文档替代品  
     </details> 
 
-- 😺 [Sherpa.guide - 攀登学习曲线](https://xinquji.com/posts/793416?utm_campaign=xinquji-rss) | Thu Jan 26 2023 6:00 AM 
+- 😺 [Varify.io - 固定价格 99 欧元，无任何限制的 A/B 测试](https://xinquji.com/posts/809194?utm_campaign=xinquji-rss) | Wed Feb 21 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     攀登学习曲线  
+     固定价格 99 欧元，无任何限制的 A/B 测试  
     </details> 
 <!-- xinquji:END -->
