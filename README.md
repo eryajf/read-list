@@ -91,11 +91,11 @@
 ### 酷壳
 
 <!-- coolshell:START -->
-- 💼 [感染新冠的经历](https://coolshell.cn/articles/22341.html) | Tue Dec 13 2022 7:39 AM
-- 🦣 [eBPF 介绍](https://coolshell.cn/articles/22320.html) | Sat Dec 10 2022 2:38 AM
-- 🪄 [聊聊团队协同和协同工具](https://coolshell.cn/articles/22298.html) | Fri Oct 14 2022 4:20 AM
-- 🧑‍🏫 [从一次经历谈 TIME_WAIT 的那些事](https://coolshell.cn/articles/22263.html) | Tue Jul 19 2022 6:43 AM
-- 🕯 [ETCD的内存问题](https://coolshell.cn/articles/22242.html) | Thu May 05 2022 8:13 AM<!-- coolshell:END -->
+- 💼 [是微服务架构不香还是云不香？](https://coolshell.cn/articles/22422.html) | Mon May 08 2023 9:52 AM
+- 🦣 [我看ChatGPT: 为啥谷歌掉了千亿美金](https://coolshell.cn/articles/22398.html) | Sat Feb 11 2023 4:31 PM
+- 🪄 [聊聊 nostr 和 审查](https://coolshell.cn/articles/22367.html) | Fri Feb 03 2023 7:46 AM
+- 🧑‍🏫 [感染新冠的经历](https://coolshell.cn/articles/22341.html) | Tue Dec 13 2022 7:39 AM
+- 🕯 [eBPF 介绍](https://coolshell.cn/articles/22320.html) | Sat Dec 10 2022 2:38 AM<!-- coolshell:END -->
 
 ### 阮一峰的网络日志
 
