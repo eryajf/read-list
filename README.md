@@ -333,7 +333,7 @@
 
 <!-- v2ex:START -->
 - 🥸 [开源项目如果想持有完整版权, 方便随时更换许可证, 可以把 CLA 直接附在 LICENSE 后面, 避免要求贡献者签署 CLA 吗](https://www.v2ex.com/t/1017393#reply4) | Wed Feb 21 2024 6:14 PM
-- 🤗 [Python aiohttp 异步 需要同时请求同域名下 8000 个 URL（对方网站无并发限制）把结果拼接返回，要求总耗时最短， 8000 个同时发还是先发 1000 个，不等待结果，间隔 0.1 秒再发下一批快？](https://www.v2ex.com/t/1017387#reply13) | Wed Feb 21 2024 4:33 PM
+- 🤗 [Python aiohttp 异步 需要同时请求同域名下 8000 个 URL（对方网站无并发限制）把结果拼接返回，要求总耗时最短， 8000 个同时发还是先发 1000 个，不等待结果，间隔 0.1 秒再发下一批快？](https://www.v2ex.com/t/1017387#reply16) | Wed Feb 21 2024 4:33 PM
 - 🎭 [请教一个关于任务队列的问题，关于 celery/rq/huey/dramatiq。](https://www.v2ex.com/t/1017369#reply3) | Wed Feb 21 2024 2:33 PM
 - 🥷 [为什么 vscode 对 Python 的语法解析这么慢](https://www.v2ex.com/t/1017367#reply7) | Wed Feb 21 2024 2:25 PM
 - 🐵 [网络语言污染/扭曲专业术语名词——《为什么 c 语言这么抽象?》](https://www.v2ex.com/t/1017363#reply5) | Wed Feb 21 2024 2:04 PM<!-- v2ex:END -->
