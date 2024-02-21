@@ -233,29 +233,29 @@
 ### 运维咖啡吧
 
 <!-- ops-coffee:START -->
-- 👺 [这一年我们上线的自动化系统](https://blog.ops-coffee.cn/s/xrlgoCee9CZwxt5lBdq1oA) | Fri Jan 20 2023 10:18 AM 
+- 👺 [游记｜远赴人间惊鸿宴，一睹人间盛世颜](https://blog.ops-coffee.cn/r/city-china-henan-luoyang-laojunshan) | Sun Feb 18 2024 6:38 PM 
     <details><summary>展开描述 ...</summary> 
-    盘点2022年我们上线的那些自动化运维系统 
+    游记｜远赴人间惊鸿宴，一睹人间盛世颜 
     </details> 
 
-- 💯 [运维自动化之作业系统分享](https://blog.ops-coffee.cn/s/fGshXWUaTRv0oHIMBKSn1Q) | Tue Jan 17 2023 2:04 PM 
+- 💯 [是驾驭而不是焦虑，送红包封面啦](https://blog.ops-coffee.cn/s/AIGC-Midjourney -and-WeChat-red-packet) | Sun Feb 04 2024 6:17 PM 
     <details><summary>展开描述 ...</summary> 
-    介绍下为什么会有作业系统以及作业系统究竟是做什么的有什么用 
+    是驾驭而不是焦虑，送红包封面啦 
     </details> 
 
-- 🚦 [使用Django Cache引发的Bug处理](https://blog.ops-coffee.cn/s/U0yPjGAhKnfqYqVWQd6ZSQ) | Fri Jan 13 2023 11:53 AM 
+- 🚦 [付费微信群的入群费用提高了](https://blog.ops-coffee.cn/s/Increase-the-price-of-paid-WeChat-group) | Thu Feb 01 2024 9:14 PM 
     <details><summary>展开描述 ...</summary> 
-    这是一个潜藏了2年的BUG 
+    付费微信群的入群费用提高了 
     </details> 
 
-- 👨‍🏫 [游记 | 自驾华浪线，看浙西美景](https://blog.ops-coffee.cn/r/hualangxian-huihanggudao-zhexitianlu) | Tue Jan 10 2023 3:06 PM 
+- 👨‍🏫 [多云系统之资源同步过程解析](https://blog.ops-coffee.cn/s/IAC-devops-cloud-cmdb-resource-sync) | Tue Jan 30 2024 4:33 PM 
     <details><summary>展开描述 ...</summary> 
-    2023年的旅程开始了 
+    多云系统之资源同步过程解析 
     </details> 
 
-- 🌮 [2022，使用房车这一年](https://blog.ops-coffee.cn/s/c4UPSpHCGqKsONeotn3LLw) | Tue Jan 03 2023 10:21 PM 
+- 🌮 [监控Celery不一定非要使用Flower](https://blog.ops-coffee.cn/s/python-django-celery-monitor-not-flower) | Fri Jan 26 2024 9:37 AM 
     <details><summary>展开描述 ...</summary> 
-    RV80房车使用一整年，酸甜苦辣个中滋味 
+    监控Celery不一定非要使用Flower 
     </details> 
 <!-- ops-coffee:END -->
 ### 四火的唠叨
