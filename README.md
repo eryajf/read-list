@@ -118,29 +118,29 @@
 ### 独立开发变现周刊
 
 <!-- easyindie:START -->
-- 💂 [独立开发变现周刊（第87期） : 靠写简历如何每年赚24万美元？](https://www.ezindie.com/weekly/issue-87) | Fri Jan 13 2023 12:00 AM 
+- 💂 [独立开发变现周刊（第122期） : 一个文字生成视频在线SaaS工具，年收入7.5万美元](https://www.ezindie.com/weekly/issue-122) | Fri Feb 02 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。靠写简历如何每年赚24万美元？ 
+    分享独立开发产品变现相关有价值的内容，每周五发布。一个文字生成视频在线SaaS工具，年收入7.5万美元 
     </details> 
 
-- 💡 [独立开发变现周刊（第86期） : 月收入4000美元的日程规划器](https://www.ezindie.com/weekly/issue-86) | Fri Jan 06 2023 12:00 AM 
+- 💡 [独立开发变现周刊（第121期） : 发布个人服务的SaaS产品，年收入160万美元](https://www.ezindie.com/weekly/issue-121) | Fri Jan 26 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。月收入4000美元的日程规划器 
+    分享独立开发产品变现相关有价值的内容，每周五发布。发布个人服务的SaaS产品，年收入160万美元 
     </details> 
 
-- 🌋 [独立开发变现周刊（第85期） : 一个会员服务的SaaS，月收入2万美金](https://www.ezindie.com/weekly/issue-85) | Fri Dec 23 2022 12:00 AM 
+- 🌋 [独立开发变现周刊（第120期） : 帮助App监测竞争对手，每月盈利8000美元](https://www.ezindie.com/weekly/issue-120) | Fri Jan 12 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。一个会员服务的SaaS，月收入2万美金 
+    分享独立开发产品变现相关有价值的内容，每周五发布。帮助App监测竞争对手，每月盈利8000美元 
     </details> 
 
-- 🕴 [独立开发变现周刊（第84期） : 一个地理位置API服务，月收入1.5万美元](https://www.ezindie.com/weekly/issue-84) | Fri Dec 16 2022 12:00 AM 
+- 🕴 [独立开发变现周刊（第119期） : 一个自学开发者创建一个月收入12.5万美元的软件公司](https://www.ezindie.com/weekly/issue-119) | Fri Jan 05 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。一个地理位置API服务，月收入1.5万美元 
+    分享独立开发产品变现相关有价值的内容，每周五发布。一个自学开发者创建一个月收入12.5万美元的软件公司 
     </details> 
 
-- 🎊 [独立开发变现周刊（第83期） : 建在Stripe上的应用，年收入70万美元](https://www.ezindie.com/weekly/issue-83) | Fri Dec 09 2022 12:00 AM 
+- 🎊 [独立开发变现周刊（第118期） : 如何建立一个网站组合，产生100万美元利润？](https://www.ezindie.com/weekly/issue-118) | Fri Dec 29 2023 12:00 AM 
     <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。建在Stripe上的应用，年收入70万美元 
+    分享独立开发产品变现相关有价值的内容，每周五发布。如何建立一个网站组合，产生100万美元利润？ 
     </details> 
 <!-- easyindie:END -->
 
