@@ -332,7 +332,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请教一个关于任务队列的问题，关于 celery/rq/huey/dramatiq。](https://www.v2ex.com/t/1017369#reply2) | Wed Feb 21 2024 2:33 PM
+- 🥸 [请教一个关于任务队列的问题，关于 celery/rq/huey/dramatiq。](https://www.v2ex.com/t/1017369#reply3) | Wed Feb 21 2024 2:33 PM
 - 🤗 [为什么 vscode 对 Python 的语法解析这么慢](https://www.v2ex.com/t/1017367#reply2) | Wed Feb 21 2024 2:25 PM
 - 🎭 [网络语言污染/扭曲专业术语名词——《为什么 c 语言这么抽象?》](https://www.v2ex.com/t/1017363#reply4) | Wed Feb 21 2024 2:04 PM
 - 🥷 [加速 Cloudflare 访问](https://www.v2ex.com/t/1017351#reply6) | Wed Feb 21 2024 1:01 PM
