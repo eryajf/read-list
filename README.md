@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [液化通过栅栏！中国团队制造出了致敬终结者2的液态金属机器人](http://jandan.net/p/112279) | Thu Jan 26 2023 3:30 PM 
+- 🚀 [今日好价 0221](http://jandan.net/p/115674) | Tue Feb 20 2024 11:07 PM 
     <details><summary>展开描述 ...</summary> 
-    不过目前是青春版…… 
+    今日带货商品数量：51 
     </details> 
 
-- 🙉 [Quora » 历史人物的另一面](http://jandan.net/p/112276) | Thu Jan 26 2023 5:32 AM 
+- 🙉 [为何过量摄取蛋白质会损害血管](http://jandan.net/p/115672) | Tue Feb 20 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
-    尤其是他们奇怪的XP 
+    新研究揭示分子机制 
     </details> 
 
-- 🎉 [抉择：这种高海拔猪笼草把自己进化成了便器](http://jandan.net/p/112273) | Thu Jan 26 2023 5:31 AM 
+- 🎉 [突破性进展：新药或能预防类风湿关节炎](http://jandan.net/p/115671) | Tue Feb 20 2024 11:04 PM 
     <details><summary>展开描述 ...</summary> 
-    喫大便比吃虫子更有效 
+    有望阻止其在高危人群中发病 
     </details> 
 
-- 🐲 [芝加哥Field博物馆收藏的青铜时代文物复制品&lpar;剑&rpar;，被发现是真品](http://jandan.net/p/112267) | Wed Jan 25 2023 6:37 AM 
+- 🐲 [寻找神秘的第九行星](http://jandan.net/p/115670) | Tue Feb 20 2024 11:03 PM 
     <details><summary>展开描述 ...</summary> 
-    “我们原来以为是假货的东西，竟然是真的。” 
+    它可能位于太阳系外围 
     </details> 
 
--  [Quora » 有趣的事](http://jandan.net/p/112270) | Wed Jan 25 2023 5:14 AM 
+-  [黑洞吞噬恒星，造就“夜空中最亮的星”](http://jandan.net/p/115669) | Tue Feb 20 2024 11:02 PM 
     <details><summary>展开描述 ...</summary> 
-    蒙娜丽莎没有眉毛 
+    天文学家发现迄今最亮天体 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
