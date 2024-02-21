@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [再度思考CSMA&lpar;Cyber Security Mesh Architecture&rpar;](https://www.freebuf.com/articles/network/355751.html) | Mon Jan 23 2023 4:10 PM 
+- 🦄 [Burpsuite 漏洞扫描介绍](https://www.freebuf.com/articles/network/306286.html) | Wed Feb 21 2024 4:59 AM 
     <details><summary>展开描述 ...</summary> 
-    1、厘清概念CSMA是Gartner去年提出的重要战略技术趋势之一，全称Cyber Security Mesh Architecture，网络安全矩阵架构。矩阵，在英文中有两个词：Grid，Mesh。其中，Grid代表矩阵内都是同类型元素，Mesh有异构的含义。因此，从这里可以看出，CSMA之所以用Mesh，是指“不同类型的、异构的安全原子能力，有机的联系、协同起来组成安全矩阵”的意思。看看Gar 
+    Burp Scanner的功能主要是用来自动检测web系统的各种漏洞，我们可以使用Burp Scanner代替我们手工去对系统进行普通漏洞类型的渗透测试。 
     </details> 
 
-- 🦄 [新年活动 | 邀好友赢免单，四重好礼等你领](https://www.freebuf.com/fevents/355713.html) | Fri Jan 20 2023 4:10 AM 
+- 🦄 [SQL注入网站实例：注入步骤](https://www.freebuf.com/articles/network/321323.html) | Wed Feb 21 2024 4:51 AM 
     <details><summary>展开描述 ...</summary> 
-    FreeBuf知识大陆App新年活动来啦~ 
+    我们将通过详细的注入实例，从中吸取经验；从安全角度来分析，我们要如何来预防mysql注入 
     </details> 
 
-- 🦅 [FreeBuf早报 | 乌克兰呼吁建立 “网络联合国”；全国首个数据合规出境案例落地北京](https://www.freebuf.com/news/355708.html) | Thu Jan 19 2023 11:32 AM 
+- 🦅 [某关键基础设施软件制造商确认遭遇勒索软件攻击](https://www.freebuf.com/news/392178.html) | Wed Feb 21 2024 3:30 AM 
     <details><summary>展开描述 ...</summary> 
-    网信北京消息，首都医科大学附属北京友谊医院与荷兰阿姆斯特丹大学医学中心合作研究项目成为全国首个数据合规出境案例。 
+    2 月 16 日以来，联邦信息安全办公室的网络安全专家一直在帮助 PSI 公司进行勒索软件事件响应和修复工 
     </details> 
 
-- 🪄 [我认识的那些网安行业的销售们](https://www.freebuf.com/articles/people/355706.html) | Thu Jan 19 2023 10:59 AM 
+- 🪄 [真人视频开始冒充Sora，威尔·史密斯吃意大利面名场面](https://www.freebuf.com/news/392170.html) | Wed Feb 21 2024 3:10 AM 
     <details><summary>展开描述 ...</summary> 
-    作为一个产研人，走遍了全国大江南北，和许许多多的销售兄弟姐妹一起并肩作战。 
+    虽然目前99.9%的人还用不上Sora，但它的影响已经开始挑战人们对现实的认知，如果一旦放开，可能会出现无法预料的后果。 
     </details> 
 
-- 💻 [2022 年全球网络安全漏洞 TOP 10 | FreeBuf 年度盘点](https://www.freebuf.com/articles/355702.html) | Thu Jan 19 2023 10:27 AM 
+- 💻 [Experian最新报告发布：70%的企业遭遇网络欺诈的频次有所增长](https://www.freebuf.com/news/392164.html) | Wed Feb 21 2024 2:39 AM 
     <details><summary>展开描述 ...</summary> 
-    本文从漏洞披露时间、危害程度、影响范围等多个维度，盘点2022年高危漏洞TOP 10（排名不分先后）。 
+    企业需部署更先进的欺诈保护解决方案，并利用数据和技术的力量来降低风险，从而更好的保护消费者。 
     </details> 
 <!-- freebuf:END -->
 
