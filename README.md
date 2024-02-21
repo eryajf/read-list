@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [今天来聊一聊前端的打包工具，以及未来期望](https://juejin.cn/post/7337958423780917275) | Wed Feb 21 2024 5:20 PM 
+- 🤗 [Nodejs 第四十一章（项目架构MVC,IoC,DI）](https://juejin.cn/post/7337964441613353010) | Wed Feb 21 2024 6:39 PM 
+    <details><summary>展开描述 ...</summary> 
+    到现在为止，我们学习了，express框架，编写接口，mysql数据库读写数据，knex,prisma ORM框架，现在是时候把这些组合到一起，并且实现一个类似于Nestjs或者java的Spring 
+    </details> 
+
+- 🎡 [今天来聊一聊前端的打包工具，以及未来期望](https://juejin.cn/post/7337958423780917275) | Wed Feb 21 2024 5:20 PM 
     <details><summary>展开描述 ...</summary> 
     前端总是喜欢重复造轮子，很多库都是处于可以有，但没必要的存在，比如各式各样的UI组件库等。这两年的打包工具也是打得十分火热，各种号称速度提升多少多少倍的新工具，层出不穷。它们对实际的开发中真的有提升吗 
     </details> 
 
-- 🎡 [物联网中websocket的使用](https://juejin.cn/post/7337941065020833833) | Wed Feb 21 2024 4:46 PM 
+- 🕯 [物联网中websocket的使用](https://juejin.cn/post/7337941065020833833) | Wed Feb 21 2024 4:46 PM 
     <details><summary>展开描述 ...</summary> 
     大家好，本人就职的是一家物联网公司，主要是出售温湿度、环境监测设备，用于冷链运输、医药、环境监测。本文中主要介绍了websocket的一些基础知识，以及在实际项目使用中我个人的一些见解，愿对大家有帮助 
     </details> 
 
-- 🕯 [源码学习——lodash（一）](https://juejin.cn/post/7337941065020817449) | Wed Feb 21 2024 4:34 PM 
+- 🚀 [源码学习——lodash（一）](https://juejin.cn/post/7337941065020817449) | Wed Feb 21 2024 4:34 PM 
     <details><summary>展开描述 ...</summary> 
     lodash库想必大家都不陌生，它封装了多个数据处理方法，极大方便了我们的开发，但是我们可能就只熟悉几种方法，其他方法也没有专门去了解。本节开始我们就来学习一下lodash各个方法的源码。 
     </details> 
 
-- 🚀 [【Flutter&amp;GLSL】用Fragment Shader来实现高性能的动画效果——翻页动画的阴影实现](https://juejin.cn/post/7337941065020801065) | Wed Feb 21 2024 4:26 PM 
+- 💪 [【Flutter&amp;GLSL】用Fragment Shader来实现高性能的动画效果——翻页动画的阴影实现](https://juejin.cn/post/7337941065020801065) | Wed Feb 21 2024 4:26 PM 
     <details><summary>展开描述 ...</summary> 
     在前面的文章中，实现了最基础的翻页动画，不过距离应用还需要处理阴影和范围限制两部分，这次就来探索一下glsl中如何实现翻页阴影。 
-    </details> 
-
-- 💪 [AI副业最赚钱的应该就是卖课了吧](https://juejin.cn/post/7337849561480839231) | Wed Feb 21 2024 4:21 PM 
-    <details><summary>展开描述 ...</summary> 
-    可别被骗了！那些教你如何使用AI工具的付费课程都是在割你韭菜，他们确实在做副业，赚的是你的钱💰💰 
     </details> 
 <!-- juejin:END -->
 ### 少数派
