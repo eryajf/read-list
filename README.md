@@ -398,11 +398,11 @@
 ### 知乎每日精选
 
 <!-- zhihu:START -->
-- 🤩 [身边有人说王勃的《滕王阁序》是词藻堆砌，该怎么怼他？](https://daily.zhihu.com/story/9757561) | Thu Jan 26 2023 12:27 AM
-- 🐻 [黄河为什么会改道？](https://daily.zhihu.com/story/9757563) | Thu Jan 26 2023 12:27 AM
-- 🌏 [香蕉会灭绝么？](https://daily.zhihu.com/story/9757565) | Thu Jan 26 2023 12:27 AM
-- 🕴 [纸张沾水后再晒干为什么摸起来跟以前不一样？](https://daily.zhihu.com/story/9757575) | Thu Jan 26 2023 12:27 AM
-- 🌮 [同是面粉，为何欧洲人做面包，中国人做馒头？这其中的历史发展过程是怎样的？](https://daily.zhihu.com/story/9757580) | Thu Jan 26 2023 12:27 AM<!-- zhihu:END -->
+- 🤩 [瞎扯 · 如何正确地吐槽](https://daily.zhihu.com/story/9770112) | Wed Feb 21 2024 12:27 AM
+- 🐻 [如果我朝地上锤一拳，地球掉 1 点血，那地球一共有多少血？](https://daily.zhihu.com/story/9770094) | Wed Feb 21 2024 12:27 AM
+- 🌏 [《水浒传》中你们所记得的最小的细节是什么？](https://daily.zhihu.com/story/9770098) | Wed Feb 21 2024 12:27 AM
+- 🕴 [极度自律的人内心世界是什么样的？](https://daily.zhihu.com/story/9770108) | Wed Feb 21 2024 12:27 AM
+- 🌮 [日本文明历史中是否存在灭绝过的独有物种？](https://daily.zhihu.com/story/9770099) | Wed Feb 21 2024 12:27 AM<!-- zhihu:END -->
 
 
 ## 应用资源
