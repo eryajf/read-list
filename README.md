@@ -148,9 +148,9 @@
 ### 好工具周刊
 
 <!-- bestxtools:START -->
-- 🕯 [好工具周刊（第 46 期）: 【特别篇】2022 年最佳免费在线工具 / The Best X Tools 2022 / 和抽奖活动](https://discuss-cn.bestxtools.com/d/123/1) | Thu Jan 19 2023 8:09 AM
-- 🦩 [好工具周刊（第 45 期）: CSS Specificity Calculator, Vim Online, Smooth Shadow, ...](https://discuss-cn.bestxtools.com/d/122/1) | Thu Jan 12 2023 2:11 PM
-- 🙉 [好工具周刊（第 44 期）: VIM Adventures, AST Explorer, HTMLShell, Color Palette from ...](https://discuss-cn.bestxtools.com/d/120/1) | Thu Jan 05 2023 7:16 AM<!-- bestxtools:END -->
+- 🕯 [好工具周刊（第 55 期）: PaletteMaker, 中国色彩, 在线语法检查器, Picyard, Pixian.AI, Photomosh](https://discuss-cn.bestxtools.com/d/139/1) | Thu Apr 20 2023 3:19 PM
+- 🦩 [好工具周刊（第 54 期）: 竹白工具箱 🧰, Node.js Toolbox, ReadMe.Dev, AI Colors, HQ ICON, ...](https://discuss-cn.bestxtools.com/d/138/1) | Fri Apr 14 2023 6:00 AM
+- 🙉 [好工具周刊（第 53 期）: Hacker News 网站切换器, 小鱼标签, Crunchzilla, Accordion Slider Generator,](https://discuss-cn.bestxtools.com/d/136/1) | Thu Apr 06 2023 2:04 PM<!-- bestxtools:END -->
 
 ### 王登科-DK博客
 
