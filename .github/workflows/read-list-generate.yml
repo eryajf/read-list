@@ -19,8 +19,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 5
-          committer_username: "eryajf"
-          committer_email: "eryajf@163.com"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
           retry_count: 2
           rand_seed: "seed1"
           comment_tag_name: "eryajf"
