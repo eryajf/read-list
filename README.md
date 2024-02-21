@@ -442,11 +442,11 @@
 
 
 <!-- iplaysoft:START -->
-- 🧐 [倒卖自用闲置时间到啦！出戴尔显示器 / SteamDeck / 平板等，先到先得……](https://www.iplaysoft.com/p/sell-stuff) | Tue Jan 17 2023 7:02 AM
-- 🧑‍🏫 [Intel Unison - 英特尔免费手机电脑协同工具！无线控制手机/传文件/打电话/发短信/管理照片](https://www.iplaysoft.com/intel-unison.html) | Mon Jan 16 2023 1:55 PM
-- 🥰 [新年特惠！哔哩哔哩 B 站年度大会员 VIP 优惠 12 个月 98 元](https://www.iplaysoft.com/p/bilibili-vip) | Sat Jan 14 2023 4:20 PM
-- 💻 [网云穿 - 稳定好用的内网穿透！无需公网/实现低成本建站/外网访问内网群晖 NAS 等](https://www.iplaysoft.com/wangyunchuan.html) | Wed Jan 11 2023 4:14 PM
-- 🎃 [ReviOS - 专为游戏优化的 Win11 / Win10 精简版系统！性能与稳定兼备 &lpar;类似 Atlas / LTSC&rpar;](https://www.iplaysoft.com/revios.html) | Fri Jan 06 2023 10:01 AM<!-- iplaysoft:END -->
+- 🧐 [CowPE - 基于 Win11 纯净好用无捆绑的 PE 系统 &lpar;U盘启动盘 / 装机必备&rpar;](https://www.iplaysoft.com/cowpe.html) | Sat Feb 17 2024 2:13 PM
+- 🧑‍🏫 [OpenAI 发布“王炸” Sora 模型可「文字生成视频」且影片质量惊人！](https://www.iplaysoft.com/news/6094) | Sat Feb 17 2024 8:47 AM
+- 🥰 [Debian 12.5 正式版 ISO 镜像 - 极度稳定 / 易维护 / 适合服务器的 Linux 操作系统](https://www.iplaysoft.com/debian.html) | Sat Feb 17 2024 7:05 AM
+- 💻 [微软 Win11 LTSC 企业精简版 ISO 官方原版镜像下载 - 纯净稳定/适合低配置/虚拟机](https://www.iplaysoft.com/windows11-ltsc.html) | Wed Feb 07 2024 2:59 PM
+- 🎃 [谷歌 Google Gemini 发布！号称超越 ChatGPT 3.5 的更强免费 AI &lpar;支持中文&rpar;](https://www.iplaysoft.com/google-gemini.html) | Sat Feb 03 2024 5:56 PM<!-- iplaysoft:END -->
 
 ### 精品Mac应用
 
