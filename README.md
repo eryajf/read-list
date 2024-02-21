@@ -511,29 +511,29 @@
 ### v2方圆
 
 <!-- v2fy:START -->
-- 😺 [自建服务器远程游玩PS5不踩坑指南](https://v2fy.com/p/2023-01-02-ps5-frp-1672642919000/) | Mon Jan 02 2023 7:10 AM 
+- 😺 [《树莓派不吃灰》第二十六期：为树莓派部署开源好用的Web版文件管理器FileBrowser,附Windows开机自启流程](https://v2fy.com/p/2024-02-19-14-40-36-file-browser/) | Mon Feb 19 2024 11:50 AM 
     <details><summary>展开描述 ...</summary> 
-    title: 自建服务器远程游玩PS5不踩坑指南 阅读本文前，需要先拥有一台服务器，并完成frp服务端的搭建， [&amp;#8230;] 
+    最近在玩Fooocus作图，作图是真的精美! 为了能在不同电脑间快速共享模型文件，我需要一个基于P2P的大文件传输工具。P2P可以用ZeroTier实现，ZeroTier私有化部署教程可参考 《树莓派不吃灰》第二十六期：局域网开黑神器，使用Zerotier组建虚拟局域网，使用P2P技术为树莓派异地SMB下载超级加速 https://v2fy.com/p/2024-01-25-12-03-49-zerotier/，FileBrowser可以通过ZeroTier的内网虚拟IP，直接通过浏览器管理各种电脑上的文件。 本文的内容为在树莓派部署FileBrowser服务，以及在Windows部署FileBrowser的多盘符挂载技巧。 在树莓派部署FileBrowser服务 cd /opt/ mkdir FileBrowser cd FileBrowser curl -fsSL https://raw.githubusercontent.com/filebrowser/get/master/get.sh &amp;#124; bash 从返回的信息可知, FileBrowser被放在 /usr/local/bin 目录下 接下来为FileBrowser创建一个配置文件filebrowser.json 并将运行端口设置为8083, 挂载根目录 touch /opt/FileBrowser/filebrowser.json cat &amp;#60;&amp;#60; &#39;EOF&#39; &amp;#62; /opt/FileBrowser/filebrowser.json { &amp;#34;port&amp;#34;: 8083, &amp;#34;address&amp;#34;: &amp;#34;0.0.0.0&amp;#34;, &amp;#34;root&amp;#34;: &amp;#34;/&amp;#34;, } EOF 运行filebrowser filebrowser -c /opt/FileBrowser/filebrowser.json 访问http://树莓派被ZeroTier分配的ip:8083即可! filebrowser默认的用户名为admin密码也是admin 登录后即可看到树莓派的根目录，支持在网页拖拽上传和下载文件。 选中文件夹，也支持各种类型的打包下载 也可拖拽文件夹到网页直接上传，删除文件夹也是极其顺滑！ 通过PM2守护filebrowser运行，设置filebrowser开机自启 # 创建启动脚本 touch /opt/FileBrowser/start-filebrowser.sh # [&amp;#8230;] 
     </details> 
 
-- 💃 [如何在星巴克连接家中Windows台式机？（安卓，iOS, Windows, macOS配合frp穿透公网IP实现）](https://v2fy.com/p/2023-01-01-windows-remote-1672560763000/) | Sun Jan 01 2023 8:14 AM 
+- 💃 [《树莓派不吃灰》第二十六期：局域网开黑神器，使用Zerotier组建虚拟局域网，使用P2P技术为树莓派异地SMB下载超级加速](https://v2fy.com/p/2024-01-25-12-03-49-zerotier/) | Thu Jan 25 2024 8:13 AM 
     <details><summary>展开描述 ...</summary> 
-    title: 如何在星巴克连接家中Windows台式机？（安卓，iOS, Windows, macOS配合fr [&amp;#8230;] 
+    我在《树莓派不吃灰》第二期：网盘界的未来科技，新增smb服务并完成内网穿透，实现所有设备共享文件 中使用frp实现了smb的公网映射，可以在任何有互联网的地方，访问家里树莓派上的文件。 但基于frp的smb数据传输速度，完全取决于云服务器的带宽，而带宽又很贵。 本文提供一种零成本加速的方法，也就是使用Zerotier组建一个虚拟局域网，不同设备间通过p2p的方式来实现数据传输，不消耗服务器带宽，速度能达到家里上传带宽的上限。 Zerotier分为服务端和客户端，客户端之间需要通过服务端建立连接，建立连接后，即可进行p2p通讯，如果客户端之间无法进行连接，则通过服务端进行数据中转，保证服务的可用性。 Zerotier是开源软件 https://github.com/zerotier/ZeroTierOne ，同时有商业化的版本 https://www.zerotier.com/pricing/ ，截止2024年1月，商业化的版本有25台设备的限制，普通用户是够用的。 但Zerotier的服务器在海外，而国内的网络环境又非常复杂，为了保证稳定的链接，我们需要在自己的国内云服务器，建立一个Moon中继节点用于处理国内设备间的链接请求，同时建立一个 Network Controller （网络控制器）用于管理各客户端的授权, 以及查看各客户端的虚拟IP， 从而实现突破25台设备限制，进行私有化部署。本文按照官方文档进行编写 https://docs.zerotier.com/selfhost 官方的英文文档，比较粗糙，本文的内容更详细。 创建Moon节点 在云服务器（本文服务器系统为Ubuntu）运行以下命令, 安装zerotier curl -s https://install.zerotier.com &amp;#124; sudo bash 安装完成后，运行zerotier-idtool 即可看到相关信息 进入/var/lib/zerotier-one , 基于/var/lib/zerotier-one/identity.public 生成 moon.json, 再基于moon.json 生成一个.moon 后缀的文件 cd /var/lib/zerotier-one zerotier-idtool initmoon identity.public &amp;#62;&amp;#62; moon.json zerotier-idtool genmoon moon.json 编辑新生成的moon.json文件, 将&quot;stableEndpoints&quot;: [] , 改成&quot;stableEndpoints&quot;: [服务器IP/9993] , 记得前往云服务器的防火墙页面，将9993端口打开 [&amp;#8230;] 
     </details> 
 
-- 💡 [杂谈:在国内用Windows给BT做种，真是一山绕过一山缠（附解决方案）](https://v2fy.com/p/2022-12-29-mount-bt-1672309849000/) | Thu Dec 29 2022 10:32 AM 
+- 💡 [Spotube开源免费无广告的听歌工具，可听周杰伦等中文歌手](https://v2fy.com/p/2024-01-21-12-24-59-spotube/) | Sun Jan 21 2024 5:23 AM 
     <details><summary>展开描述 ...</summary> 
-    title: 杂谈:在国内用Windows给BT做种，真是一山绕过一山缠（附解决方案） 国内的网盘，动不动就乱 [&amp;#8230;] 
+    Spotube 是一款开源免费的听歌工具，开源地址为 https://github.com/KRTirtho/spotube 原理是使用Spotify获取歌单，然后从Youtube，Piped，Jiosaavn等平台获取音频资源。 具体软件功能，可以参考下图： 安卓手机版界面，算是简单优雅，浅浅的的毛玻璃效果，让界面多了几分精致，最重要的是，没有加任何短视频直播带货按钮，真的App界的清流。 小结 Spotube是小而美的软件，软件体积小，代码开源，不做用户数据收集，甚至连服务器都没有，不玩骚的。 由于Spotube音频源都在海外服务器，所以需要一些网络增强Magic。 商业公司做听歌软件，用户付费买服务，一手交钱，一手交货。但在2024年，即使付费，也无法去除一些广告，还有一些恶心人的产品设计，让人误触无聊的短视频直播带货按钮。 目前让我满意的听歌软件是Plexamap, 但Plexamap需要自己手动整理歌源（其实整理也没什么大不了，以前用mp3也是自己手动整理，听歌体验并不差），Spotube算是懒人包，支持搜索，下载。如果你能搞定网络增强Magic , 可以试一下开源的Spotube Spotube官网： https://spotube.krtirtho.dev/ （开源软件的官网用.dev 真的是围绕了一层开发者气息） 本文永久更新地址: https://v2fy.com/p/2024-01-21-12-24-59-spotube/ 
     </details> 
 
-- 🐘 [提升BT下载速度，为笔记本电脑绑定公网IP随时随地BT做种完整方案（frp加v2ray配合比特彗星点亮绿灯）](https://v2fy.com/p/2022-12-27-btcomet-frp-v2ray-1672119312000/) | Tue Dec 27 2022 5:37 AM 
+- 🐘 [开源一个OpenAI ChatGPT批量将中文Markdown翻译为英文的工具](https://v2fy.com/p/2024-01-19-16-11-56-transmd/) | Fri Jan 19 2024 8:14 AM 
     <details><summary>展开描述 ...</summary> 
-    title: 提升BT下载速度，为笔记本电脑绑定公网IP随时随地BT做种完整方案（frp加v2ray配合比特彗 [&amp;#8230;] 
+    使用OpenAI ChatGPT批量将中文Markdown翻译为英文的工具 一个自用可以实现内容出海的，使用OpenAI ChatGPT批量将中文Markdown翻译为英文的工具。 开源地址: https://github.com/zhaoolee/transMd 翻译完成的效果展示: https://medium.com/@zhaoolee 使用方法 将markdown简体中文文件批量放入 input_markdown_file_dir 设置环境变量 export OPENAI_API_KEY=&#39;sk-y********************W&#39;, 如果感觉费事，可以像我一样，直接写到~/.zshrc中 进入transMd文件夹, 进入虚拟环境pipenv shell, 安装包pipenv install,运行 python main.py 等一会儿, 翻译完成的markdown文件将会输出在 output_markdown_file_dir 工具特色 可以批量翻译markdown文件, 翻译完成的内容配合开源工具 https://github.com/fanderzon/markdown-to-medium-tool 可以发到Medium, 实现内容出海。 自动记录进度，如果有100篇markdown文件待翻译，翻译到第50篇断了，再次运行python main.py, 可以根据.md_sha1中记录的信息，自动从第50篇进行翻译，节约token input_markdown_file_dir中记录的markdown文件修改后，运行python main.py, 会只翻译修改后的markdown文件, 节约token 在main.py顶部变量, 可以自定义输入和输出文件夹 关于Prompt Prompt来自 https://github.com/smikitky/chatgpt-md-translator/blob/main/prompt-example.md 大多数Markdown的格式的翻译都很完美，也会会出现省略超长代码段的问题，如果有更好的prompt，我会更新。 本文永久更新地址: https://v2fy.com/p/2024-01-19-16-11-56-transmd/ 
     </details> 
 
-- 🪜 [分享使用git的实用小技巧](https://v2fy.com/p/2022-10-31-git-tips-1667197196000/) | Sun Dec 25 2022 10:26 AM 
+- 🪜 [为了深入体验hades, 我写了个读取hades所有NPC中英对照对话的开源程序](https://v2fy.com/p/2024-01-16-18-57-23-hades/) | Tue Jan 16 2024 11:14 AM 
     <details><summary>展开描述 ...</summary> 
-    title: 分享使用git的实用小技巧 放弃本地更改，使用远端数据覆盖本地数据（以main分支为例） git [&amp;#8230;] 
+    Hades采用了碎片化叙事，每次挑战，NPC们都会和玩家有不同的对话，这些对话骚话极多，按照B站用户的说法，每次都能被这些对话笑死🤣 这些对话存储在游戏的目录的Subtitles文件夹，为了深入探索这款游戏，我写了个脚本，将各个NPC的对话去重，并按照中英对照的形式绘制成了表格，表格展示在开源项目的 README.md , 开源项目地址 https://github.com/zhaoolee/hades 通过阅读仓库的README，你可以通过对话深入地了解各个NPC，了解这款游戏的各种隐藏剧情，中英对照学学英语，欣赏一下Hade独特美术风格的海报 本文永久更新地址: https://v2fy.com/p/2024-01-16-18-57-23-hades/ 
     </details> 
 <!-- v2fy:END -->
 
