@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [App Tamer 2.7.6 延长电池使用时间](https://xclient.info/s/app-tamer.html) | Sat Jan 21 2023 2:56 AM 
+- 🦏 [Folder Factory 7.7.0 文件夹图标修改软件](https://xclient.info/s/folder-factory.html) | Wed Feb 21 2024 1:26 AM 
     <details><summary>展开描述 ...</summary> 
-    App Tamer 是一款Mac上延长电池使用时间的工具，通过降低或停止已不使用的应用所占用的CPU，能够大幅节省系统的资源，进而提高电池的使用时间，你可以通过灵活的配置，设置特定应用的CPU使用，比如Photoshop，而且不会影响正常的使用 
+    Folder Factory是一款可以改变你的文件夹图标的设计的软件，让你的文件夹变得与众不同，你可以改变文件夹颜色、图片以及文字，甚至可以让文件夹变得透明！ 
     </details> 
 
--  [Feeder 4.4.3 创建和发布RSS](https://xclient.info/s/feeder.html) | Sat Jan 21 2023 2:55 AM 
+-  [EdgeView 4.5.6 图像查看器](https://xclient.info/s/edgeview.html) | Wed Feb 21 2024 1:25 AM 
     <details><summary>展开描述 ...</summary> 
-    Feeder是Mac os平台上的一款帮助用户编辑rss文档的Mac工具 
+    EdgeView是MacOS X的一款图像查看器。你可以打开各种图像文件，也可以打开像ZIP这样的归档文件，而不用提取。您可以在内置的文件浏览器中检查和打开文件，并且可以连接到FTP并直接打开文件。 
     </details> 
 
-- ⚗️ [GrandTotal 8.0.3.3 一款非常实用的发票设计工具](https://xclient.info/s/grandtotal.html) | Sat Jan 21 2023 2:54 AM 
+- ⚗️ [DjVu Reader Pro 2.7.1 DjVu阅读工具](https://xclient.info/s/djvu-reader-pro.html) | Wed Feb 21 2024 1:25 AM 
     <details><summary>展开描述 ...</summary> 
-    GrandTotal 是Mac OS X 上的一款非常实用的发票设计工具，可以根据一个内置的模板编辑器来重新调整布局，创建属于自己的发票模版，适合企业和个人来进行形象设计。 
+    DjVu Reader是一款macOS平台的一款DjVu阅读软件，能够快速的打开DjVu文件甚至非常大的文件，读取顺畅。 
     </details> 
 
-- 🔥 [Middle 1.8 触控板辅助和增强](https://xclient.info/s/middle.html) | Sat Jan 21 2023 2:53 AM 
+- 🔥 [Perfectly Clear WorkBench 4.6.0.2640 智能图片瑕疵处理工具](https://xclient.info/s/perfectly-clear-workbench.html) | Wed Feb 21 2024 1:24 AM 
     <details><summary>展开描述 ...</summary> 
-    Middle 是Mac电脑上的一款触控板辅助和增强应用，可以简单地为你的触控板或苹果鼠标添加中键。 
+    Perfectly Clear Workbench可以帮您在几分钟内自动修复、微调和批处理图片。 
     </details> 
 
-- 🌋 [djay Pro AI 4.1.4 专业的DJ工具](https://xclient.info/s/djay-pro.html) | Sat Jan 21 2023 2:52 AM 
+- 🌋 [Rhino 8.4.24044.15002 强大的3D造型软件](https://xclient.info/s/rhino.html) | Wed Feb 21 2024 1:23 AM 
     <details><summary>展开描述 ...</summary> 
-    djay Pro是Mac os平台上的一款非常专业的DJ工具，帮助你即时访问数以百万计的音频轨道 
+    Rhino，中文名称犀牛，是一款超强的三维建模工具，它包含了所有的NURBS建模功能，用它建模感觉非常流畅，所以大家经常用它来建模，然后导出高精度模型给其他三维软件使用。 
     </details> 
 <!-- xclient:END -->
 
