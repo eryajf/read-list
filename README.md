@@ -204,29 +204,29 @@
 ### 美团技术团队
 
 <!-- meituan:START -->
-- 🕯 [美团技术年货来了！1300+页的电子书，涵盖前端、后端、算法、数据、运维、安全](https://tech.meituan.com/2023/01/13/2022-spring-festival-present.html) | Fri Jan 13 2023 12:00 AM 
+- 🕯 [美团技术年货 | 600+页电子书，前端、后端、算法、测试、运维系列大合集](https://tech.meituan.com/2024/02/01/2023-spring-festival-present.html) | Thu Feb 01 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
-    在2023年春节到来之际，我们从去年美团技术团队公众号上精选了60多篇技术文章，整理制作成一本1300多页的电子书，作为新年礼物赠送给大家。祝愿大家，诸事顺遂，健康平安。 
+    在龙年春节到来之际，我们精选过去一年公众号30多篇技术文章和科研论文，整理制作成一本600多页的电子书，作为新年礼物赠送给大家。祝愿大家在甲辰龙年，幸福平安，行稳致远。 
     </details> 
 
-- 🤠 [美团开放平台SDK自动生成技术与实践](https://tech.meituan.com/2023/01/05/openplatform-sdk-auto-generate.html) | Thu Jan 05 2023 12:00 AM 
+- 🤠 [分布式因果推断在美团履约平台的探索与实践](https://tech.meituan.com/2024/01/25/identify-causal-effect.html) | Thu Jan 25 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
-    美团开放平台为整个美团提供了20+业务场景的开放API，为了使开发者能够快速且安全的接入美团开放平台，美团开放平台提供了多种语言的SDK来提高开发者的接入效率。本文介绍了美团开放平台如何自动生成SDK代码的相关技术实现方案，希望对大家能够有所帮助或者启发。 
+    美团履约平台技术部在因果推断领域持续的探索和实践中，自研了一系列分布式的工具。本文重点介绍了分布式因果树算法的实现，并系统地阐述如何设计实现一种分布式因果树算法，以及因果效应评估方面qini_curve/qini_score的不足与应对技巧。希望能为从事因果推断相关工作的同学们提供一些启发或帮助。 
     </details> 
 
-- 🤠 [2022年 | 美团技术团队公众号最受欢迎的20篇文章](https://tech.meituan.com/2022/12/30/2022-summary.html) | Fri Dec 30 2022 12:00 AM 
+- 🤠 [美团RASP大规模研发部署实践总结](https://tech.meituan.com/2024/01/19/runtime-application-self-protection-practice-in-meituan.html) | Fri Jan 19 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
-    时光匆匆，就要跟2022年说再见了！2013年12月4日，美团技术团队博客诞生，发表了第1篇技术文章。9年多的时间，3311个日夜，目前我们已经发布了548篇技术文章，美团技术团队博客/公众号，感谢大家的一路相伴。 
+    RASP是Runtime Application Self-Protection（运行时应用自我保护）的缩写，是一种应用程序安全技术。RASP 技术能够在应用程序运行时检测并阻止应用级别的攻击。随着云计算和大数据的发展，应用程序安全越来越受到重视。RASP 技术作为一种新型的安全防护手段，正在逐渐被业界接受并广泛应用。 
     </details> 
 
-- 🚀 [美团外卖推荐情境化智能流量分发的实践与探索](https://tech.meituan.com/2022/12/08/scenario-aware-ranking-model-for-personalized-recommender-system.html) | Thu Dec 08 2022 12:00 AM 
+- 🚀 [2023 | 美团技术团队热门技术文章汇总](https://tech.meituan.com/2024/01/04/tech-meituan-summary-2023.html) | Thu Jan 04 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
-    美团外卖推荐团队在推荐算法的长期落地实践中，针对外卖业务情境化特点对排序模型进行深入探索与优化。本文介绍了面向情境化建模的“情境细分+统一模型”建模思路，通过用户行为序列建模以及专家网络两个模块的优化，实现不同场景间对信息独有性的刻画和信息共性的相互传递，进而提升全部流量效率。 
+    时光飞逝，告别了难忘的2023，迎来了充满希望的2024。再次感谢大家的一路相伴。我们整理了2023年美团技术团队微信公众号阅读量靠前的10篇技术文章，欢迎大家品阅。祝愿大家在新的一年里，幸福平安，行稳致远。 
     </details> 
 
-- ⚗️ [大规模异构图召回在美团到店推荐广告的应用](https://tech.meituan.com/2022/11/24/application-of-large-scale-heterogeneous-graph-in-meituan-recommended-ads.html) | Thu Nov 24 2022 12:00 AM 
+- ⚗️ [美团到店终端从标准化到数字化的演进之路](https://tech.meituan.com/2023/12/29/the-evolution-of-terminals-from-standardization-to-digitalization.html) | Fri Dec 29 2023 12:00 AM 
     <details><summary>展开描述 ...</summary> 
-    美团到店推荐广告团队在图神经网络的长期落地实践中，思考分析了场景的特点与挑战，针对性地进行了模型设计，并通过大规模训练工具及线上部署优化多次成功落地，带来了线上收入提升。本文主要介绍了大规模图召回技术在美团到店广告场景下的实践经验，包括模型设计思路、模型迭代历程、大规模训练工具以及线上部署性能优化等，希望为从事相关工作的读者带来一些启发。 
+    本文整理自美团技术沙龙第76期《大前端研发协同效能提升与实践》。前端团队在产研多角色协同形式上存在不同阶段，而大前端多技术栈在各阶段都有其独特的实践，同时又有类似的演进路线。本文从到店终端团队移动端和前端技术栈持续交付演进历程展开，分享了大前端团队研发流程在“标准化”、“线上化”、“自动化”以及“数字化”的演进经验，并探讨了大前端多端DevOps建设思路和未来规划。 
     </details> 
 <!-- meituan:END -->
 
