@@ -30,8 +30,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 5
-          committer_username: "eryajf"
-          committer_email: "eryajf@163.com"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
           retry_count: 2
           rand_seed: "seed2"
           comment_tag_name: "ruanyf"
@@ -41,8 +41,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 5
-          committer_username: "eryajf"
-          committer_email: "eryajf@163.com"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
           retry_count: 2
           rand_seed: "seed4"
           comment_tag_name: "easyindie"
@@ -52,8 +52,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 3
-          committer_username: "eryajf"
-          committer_email: "eryajf@163.com"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
           retry_count: 2
           rand_seed: "seed5"
           comment_tag_name: "bestxtools"
@@ -63,8 +63,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 5
-          committer_username: "eryajf"
-          committer_email: "eryajf@163.com"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
           retry_count: 2
           rand_seed: "v2ex"
           comment_tag_name: "v2ex"
@@ -74,8 +74,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 5
-          committer_username: "eryajf"
-          committer_email: "eryajf@163.com"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
           retry_count: 2
           rand_seed: "juejin"
           comment_tag_name: "juejin"
@@ -85,8 +85,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 5
-          committer_username: "eryajf"
-          committer_email: "eryajf@163.com"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
           retry_count: 2
           rand_seed: "coolshell"
           comment_tag_name: "coolshell"
@@ -96,30 +96,19 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 5
-          committer_username: "eryajf"
-          committer_email: "eryajf@163.com"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
           retry_count: 2
           rand_seed: "sspai"
           comment_tag_name: "sspai"
           feed_list: "https://sspai.com/feed"
           template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,) [$title]($url) | $date $newline    <details><summary>展开描述 ...</summary> $newline    $description $newline    </details> $newline"
-      - name: Pull in zhihu posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          max_post_count: 5
-          committer_username: "eryajf"
-          committer_email: "eryajf@163.com"
-          retry_count: 2
-          rand_seed: "zhihu"
-          comment_tag_name: "zhihu"
-          feed_list: "https://feedx.net/rss/zhihudaily.xml"
-          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,) [$title]($url) | $date"
       - name: Pull in 美团技术团队 posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 5
-          committer_username: "eryajf"
-          committer_email: "eryajf@163.com"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
           retry_count: 2
           rand_seed: "meituan"
           comment_tag_name: "meituan"
@@ -129,8 +118,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 5
-          committer_username: "eryajf"
-          committer_email: "eryajf@163.com"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
           retry_count: 2
           rand_seed: "ops-coffee"
           comment_tag_name: "ops-coffee"
@@ -140,30 +129,19 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 5
-          committer_username: "eryajf"
-          committer_email: "eryajf@163.com"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
           retry_count: 2
           rand_seed: "raychase"
           comment_tag_name: "raychase"
           feed_list: "https://www.raychase.net/feed"
           template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,) [$title]($url) | $date"
-      - name: Pull in 最佳应用 posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          max_post_count: 5
-          committer_username: "eryajf"
-          committer_email: "eryajf@163.com"
-          retry_count: 2
-          rand_seed: "zuijiastore"
-          comment_tag_name: "zuijiastore"
-          feed_list: "http://www.zuijiastore.com/feed"
-          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,) [$title]($url) | $date $newline    <details><summary>展开描述 ...</summary> $newline    $description $newline    </details> $newline"
       - name: Pull in 煎蛋 posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 5
-          committer_username: "eryajf"
-          committer_email: "eryajf@163.com"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
           retry_count: 2
           rand_seed: "jandan"
           comment_tag_name: "jandan"
@@ -173,8 +151,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 5
-          committer_username: "eryajf"
-          committer_email: "eryajf@163.com"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
           retry_count: 2
           rand_seed: "photoworld"
           comment_tag_name: "photoworld"
@@ -184,8 +162,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 5
-          committer_username: "eryajf"
-          committer_email: "eryajf@163.com"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
           retry_count: 2
           rand_seed: "freebuf"
           comment_tag_name: "freebuf"
@@ -195,8 +173,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 5
-          committer_username: "eryajf"
-          committer_email: "eryajf@163.com"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
           retry_count: 2
           rand_seed: "xinquji"
           comment_tag_name: "xinquji"
@@ -206,8 +184,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 5
-          committer_username: "eryajf"
-          committer_email: "eryajf@163.com"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
           retry_count: 2
           rand_seed: "xclient"
           comment_tag_name: "xclient"
@@ -217,8 +195,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 5
-          committer_username: "eryajf"
-          committer_email: "eryajf@163.com"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
           retry_count: 2
           rand_seed: "alloyteam"
           comment_tag_name: "alloyteam"
@@ -230,8 +208,8 @@ jobs:
           retry_count: 2
           max_post_count: 5
           comment_tag_name: "iplaysoft"
-          committer_username: "eryajf"
-          committer_email: "eryajf@163.com"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
           feed_list: "https://feed.iplaysoft.com/"
           template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,) [$title]($url) | $date"
       - name: Pull in 不死鸟 posts
@@ -239,8 +217,8 @@ jobs:
         with:
           retry_count: 2
           max_post_count: 5
-          committer_username: "eryajf"
-          committer_email: "eryajf@163.com"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
           rand_seed: "iui"
           comment_tag_name: "iui"
           feed_list: "https://iui.su/feed"
@@ -250,8 +228,8 @@ jobs:
         with:
           retry_count: 2
           max_post_count: 5
-          committer_username: "eryajf"
-          committer_email: "eryajf@163.com"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
           rand_seed: "v2fy"
           comment_tag_name: "v2fy"
           feed_list: "https://v2fy.com/feed/"
@@ -261,52 +239,41 @@ jobs:
         with:
           retry_count: 2
           max_post_count: 5
-          committer_username: "eryajf"
-          committer_email: "eryajf@163.com"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
           rand_seed: "runningcheese"
           comment_tag_name: "runningcheese"
           feed_list: "https://www.runningcheese.com/feed"
           template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,) [$title]($url) | $date $newline    <details><summary>展开描述 ...</summary> $newline    $description $newline    </details> $newline"
-      - name: Pull in 云盘分享 posts
+      - name: Pull in 二丫讲梵-学习周刊 posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           retry_count: 2
           max_post_count: 5
-          committer_username: "eryajf"
-          committer_email: "eryajf@163.com"
-          rand_seed: "yunpan"
-          comment_tag_name: "yunpan"
-          feed_list: "https://rsshub.v2fy.com/telegram/channel/YunPanPan"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
+          rand_seed: "learn-weekly"
+          comment_tag_name: "learn-weekly"
+          feed_list: "https://wiki.eryajf.net/learning-weekly.xml"
           template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,) [$title]($url) | $date $newline    <details><summary>展开描述 ...</summary> $newline    $description $newline    </details> $newline"
       - name: Pull in 卢冬冬博客 posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           retry_count: 2
           max_post_count: 5
-          committer_username: "eryajf"
-          committer_email: "eryajf@163.com"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
           rand_seed: "ldd"
           comment_tag_name: "ldd"
           feed_list: "https://www.ldd.cc/feed"
-          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,) [$title]($url) | $date $newline    <details><summary>展开描述 ...</summary> $newline    $description $newline    </details> $newline"
-      - name: Pull in 视觉联盟 posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          retry_count: 2
-          max_post_count: 5
-          committer_username: "eryajf"
-          committer_email: "eryajf@163.com"
-          rand_seed: "cnu"
-          comment_tag_name: "cnu"
-          feed_list: "https://rsshub.v2fy.com/cnu/selected"
           template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,) [$title]($url) | $date $newline    <details><summary>展开描述 ...</summary> $newline    $description $newline    </details> $newline"
       - name: Pull in 王登科-DK博客 posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           retry_count: 2
           max_post_count: 6
-          committer_username: "eryajf"
-          committer_email: "eryajf@163.com"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
           rand_seed: "greatdk"
           comment_tag_name: "greatdk"
           feed_list: "https://greatdk.com/feed"
@@ -316,8 +283,8 @@ jobs:
         with:
           retry_count: 2
           max_post_count: 6
-          committer_username: "eryajf"
-          committer_email: "eryajf@163.com"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
           rand_seed: "yihui"
           comment_tag_name: "yihui"
           feed_list: "https://yihui.org/cn/index.xml"
