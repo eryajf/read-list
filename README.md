@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [Burpsuite 漏洞扫描介绍](https://www.freebuf.com/articles/network/306286.html) | Wed Feb 21 2024 4:59 AM 
+- 🦄 [FreeBuf 早报 | IDC发布全球数字信贷十大预测；英国顶尖大学遭受针对性DDoS攻击](https://www.freebuf.com/news/392228.html) | Wed Feb 21 2024 6:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    IDC主要指出，到2026年，25%的金融机构 金融科技贷款机构将使用生成式AI来确保贷款监管合规，以避免罚款和处罚。 
+    </details> 
+
+- 🦄 [2024年ICS和OT威胁预测](https://www.freebuf.com/articles/neopoints/392200.html) | Wed Feb 21 2024 5:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    最近的黑客行为主义攻击活动已经证实了其攻击OT系统的能力。 
+    </details> 
+
+- 🦅 [Burpsuite 漏洞扫描介绍](https://www.freebuf.com/articles/network/306286.html) | Wed Feb 21 2024 4:59 AM 
     <details><summary>展开描述 ...</summary> 
     Burp Scanner的功能主要是用来自动检测web系统的各种漏洞，我们可以使用Burp Scanner代替我们手工去对系统进行普通漏洞类型的渗透测试。 
     </details> 
 
-- 🦄 [SQL注入网站实例：注入步骤](https://www.freebuf.com/articles/network/321323.html) | Wed Feb 21 2024 4:51 AM 
+- 🪄 [SQL注入网站实例：注入步骤](https://www.freebuf.com/articles/network/321323.html) | Wed Feb 21 2024 4:51 AM 
     <details><summary>展开描述 ...</summary> 
     我们将通过详细的注入实例，从中吸取经验；从安全角度来分析，我们要如何来预防mysql注入 
     </details> 
 
-- 🦅 [某关键基础设施软件制造商确认遭遇勒索软件攻击](https://www.freebuf.com/news/392178.html) | Wed Feb 21 2024 3:30 AM 
+- 💻 [某关键基础设施软件制造商确认遭遇勒索软件攻击](https://www.freebuf.com/news/392178.html) | Wed Feb 21 2024 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     2 月 16 日以来，联邦信息安全办公室的网络安全专家一直在帮助 PSI 公司进行勒索软件事件响应和修复工 
-    </details> 
-
-- 🪄 [真人视频开始冒充Sora，威尔·史密斯吃意大利面名场面](https://www.freebuf.com/news/392170.html) | Wed Feb 21 2024 3:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    虽然目前99.9%的人还用不上Sora，但它的影响已经开始挑战人们对现实的认知，如果一旦放开，可能会出现无法预料的后果。 
-    </details> 
-
-- 💻 [Experian最新报告发布：70%的企业遭遇网络欺诈的频次有所增长](https://www.freebuf.com/news/392164.html) | Wed Feb 21 2024 2:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    企业需部署更先进的欺诈保护解决方案，并利用数据和技术的力量来降低风险，从而更好的保护消费者。 
     </details> 
 <!-- freebuf:END -->
 
