@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Nodejs 第四十二章（jwt）](https://juejin.cn/post/7338280070303186994) | Thu Feb 22 2024 5:35 PM 
+- 🤗 [在生成人工智能时代，数据有什么价值](https://juejin.cn/post/7338280070303219762) | Thu Feb 22 2024 10:17 PM 
+    <details><summary>展开描述 ...</summary> 
+    每次推出新算法，我们总会回到一个核心问题：用来训练它的数据来自哪里？算法开发者们有个观点：就像人们可以在博物馆中受到某位画家作品的启发，进而创作出类似风格的画作一样，如果有能力，开发者们认为自己也应该 
+    </details> 
+
+- 🎡 [Nodejs 第四十二章（jwt）](https://juejin.cn/post/7338280070303186994) | Thu Feb 22 2024 5:35 PM 
     <details><summary>展开描述 ...</summary> 
     什么是jwt? JWT（JSON Web Token）是一种开放的标准（RFC 7519），用于在网络应用间传递信息的一种方式。它是一种基于JSON的安全令牌，用于在客户端和服务器之间传输信息。 ht 
     </details> 
 
-- 🎡 [『SD』零基础快速搭建Stable Diffusion（Mac版）](https://juejin.cn/post/7338229082923466767) | Thu Feb 22 2024 4:06 PM 
+- 🕯 [『SD』零基础快速搭建Stable Diffusion（Mac版）](https://juejin.cn/post/7338229082923466767) | Thu Feb 22 2024 4:06 PM 
     <details><summary>展开描述 ...</summary> 
     🎨 素人也能学的AI绘画，只需一台电脑和畅通的网络，零基础快速上手 Stable Diffusion 环境搭建 
     </details> 
 
-- 🕯 [玩转 Nest Cli（二）](https://juejin.cn/post/7338265878288515135) | Thu Feb 22 2024 4:00 PM 
+- 🚀 [玩转 Nest Cli（二）](https://juejin.cn/post/7338265878288515135) | Thu Feb 22 2024 4:00 PM 
     <details><summary>展开描述 ...</summary> 
     Nest.js CLI 提供了创建、运行和管理 Nest.js 项目的命令。使用 nest new 创建新项目，nest start 运行项目，并通过 nest generate 快速生成资源如模块等 
     </details> 
 
-- 🚀 [没活，导师整活系列——vue.config.js 中 publicPath 和 router 中 createWebHistory&lpar;&rpar;的区别](https://juejin.cn/post/7338335869709140020) | Thu Feb 22 2024 3:56 PM 
+- 💪 [没活，导师整活系列——vue.config.js 中 publicPath 和 router 中 createWebHistory&lpar;&rpar;的区别](https://juejin.cn/post/7338335869709140020) | Thu Feb 22 2024 3:56 PM 
     <details><summary>展开描述 ...</summary> 
     没活，导师整活，然后没想到涉及到了挺多，本地服务器静态资源路径？router 源码内置了重定向？访问路径影响访问资源？nginx结尾有无斜杠影响？ 
-    </details> 
-
-- 💪 [Nest.js 起航（一）](https://juejin.cn/post/7338312530475745289) | Thu Feb 22 2024 3:56 PM 
-    <details><summary>展开描述 ...</summary> 
-    Nest.js 是一个渐进式 Node.js 框架，用于构建企业级服务器端应用，支持 TypeScript 和 JavaScript，借鉴了 Angular 和 Spring 框架。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
