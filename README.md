@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [全新View Transitions API  更简易地实现平滑过渡效果](https://juejin.cn/post/7337955019877761036) | Thu Feb 22 2024 6:11 AM 
+- 🤗 [uniapp：点击按钮跳转至另一个小程序](https://juejin.cn/post/7338011132383330344) | Thu Feb 22 2024 7:06 AM 
     <details><summary>展开描述 ...</summary> 
-    介绍 View Transitions API 是一个较新的web API，其实截止目前也已经出现快一年时间了，根据MDN的介绍，该API属于实验性技术，Chrom和Edge的111版本以上已经能够使 
+    ```js computed: { develop&lpar;&rpar; { let _path = &#39;develop&#39;; // 默认 develop开发环境 // #ifdef MP-WEIXIN const acc 
     </details> 
 
-- 🎡 [一线城市打工人的大龄焦虑：都市容不下躯壳，老家容不下灵魂（含华为 OD 面试原题）](https://juejin.cn/post/7338053793702199333) | Thu Feb 22 2024 6:01 AM 
+- 🎡 [或许我们都被分库分表约束了思维](https://juejin.cn/post/7338239261193568306) | Thu Feb 22 2024 7:01 AM 
     <details><summary>展开描述 ...</summary> 
-    互联网的大龄焦虑 今天看到一个老生常谈的话题大龄焦虑：都市容不下躯壳，老家容不下灵魂。 现如今，内卷已不是互联网行业专属名称，早已渗透到一线城市中的各行各业。 但地域落差对职业的影响，互联网行业还是稳 
+    概述 这篇文章没什么太多的干货，纯纯是一篇讨论和思考帖。 从业数据库领域三年有余了，从分库分表中间件到数据库团队内核学到了很多东西。也接触了很多项目，包括TiDB、Vitess、Polardb、Sta 
     </details> 
 
-- 🕯 [NuxtJS v3 第一章 （项目搭建）](https://juejin.cn/post/7338053793702166565) | Thu Feb 22 2024 6:01 AM 
+- 🕯 [一个支持 Vite 在一个 html 文件里面引入多个 js 入口文件的插件](https://juejin.cn/post/7338239261193519154) | Thu Feb 22 2024 6:55 AM 
     <details><summary>展开描述 ...</summary> 
-    Nuxt.js项目创建指南 本指南提供了两种不同用户环境下创建 Nuxt.js 项目的步骤。第一部分适合能够正常访问外网资源的用户，第二部分则提供了在无法直接访问这些资源时的替代方案。 对于能够正常访 
+    github 地址: https://github.com/noahlam/vite-plugin-multiple-entries 介绍 支持 Vite 打包/开发时, 一个 HTML 文件里存在多 
     </details> 
 
-- 🚀 [华为云软件开发生产线CodeArts前端DevOps实践](https://juejin.cn/post/7338011132382773288) | Thu Feb 22 2024 6:00 AM 
+- 🚀 [大大提高通过率！专利技术交底书模板 - 全网最佳](https://juejin.cn/post/7337944041684926518) | Thu Feb 22 2024 6:54 AM 
     <details><summary>展开描述 ...</summary> 
-    原文链接：https://support.huaweicloud.com/reference-devcloud/devcloud_reference_040505.html 本文主要以CodeArts 
+    大大提高通过率！专利技术交底书模板 - 全网最佳。 讨论撰写专利交底书时的各类常见问题，了解了交底书的前半部分会涉及到的著作权分配以及内部流程审批的关键点。 
     </details> 
 
-- 💪 [漫谈数据分布可视化分析](https://juejin.cn/post/7338053793702101029) | Thu Feb 22 2024 5:50 AM 
+- 💪 [微信小程序：开启轻量级应用开发的新纪元](https://juejin.cn/post/7338011132383084584) | Thu Feb 22 2024 6:46 AM 
     <details><summary>展开描述 ...</summary> 
-    数据的分布，我们可以理解为是“数据的形状”。一个“完美”的数据分布，会将数据所有可能的数据点都囊括其中，因此数据的分布表征了不同数据之间的本质区别。 
+    随着智能手机的普及，移动应用程序已经成为我们日常生活的一部分。而在移动应用的世界中，微信小程序正在崭露头角，成为一种轻量级应用开发的新趋势。本文将深入探讨微信小程序，从其定义、特点、开发流程、生命周期 
     </details> 
 <!-- juejin:END -->
 ### 少数派
