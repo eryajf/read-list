@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Chatsimple - 立即引导访客满足他们的需求](https://xinquji.com/posts/809198?utm_campaign=xinquji-rss) | Wed Feb 21 2024 6:00 AM 
+- 👀 [Decktopus AI 2.0 - 团队 AI 演示助手](https://xinquji.com/posts/809238?utm_campaign=xinquji-rss) | Thu Feb 22 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     立即引导访客满足他们的需求  
+     团队 AI 演示助手  
     </details> 
 
-- 🥷 [ClousH Alpha - 由 AI 为招聘团队提供支持的协作 ATS](https://xinquji.com/posts/809197?utm_campaign=xinquji-rss) | Wed Feb 21 2024 6:00 AM 
+- 🥷 [ai LaMo - 免费、有趣且有效的方式来掌握 AI 技能](https://xinquji.com/posts/809237?utm_campaign=xinquji-rss) | Thu Feb 22 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     由 AI 为招聘团队提供支持的协作 ATS  
+     免费、有趣且有效的方式来掌握 AI 技能  
     </details> 
 
-- 💼 [Destocker.AI - 利用人工智能驱动的创造力改变您的图像](https://xinquji.com/posts/809196?utm_campaign=xinquji-rss) | Wed Feb 21 2024 6:00 AM 
+- 💼 [Kaamel Privacy Center - 20 分钟免费实现隐私合规](https://xinquji.com/posts/809236?utm_campaign=xinquji-rss) | Thu Feb 22 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     利用人工智能驱动的创造力改变您的图像  
+     20 分钟免费实现隐私合规  
     </details> 
 
-- 🦅 [ButterDocs - 严肃作家和团队的 Google 文档替代品](https://xinquji.com/posts/809195?utm_campaign=xinquji-rss) | Wed Feb 21 2024 6:00 AM 
+- 🦅 [Dreamwriter - 人工智能驱动的内容创作](https://xinquji.com/posts/809235?utm_campaign=xinquji-rss) | Thu Feb 22 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     严肃作家和团队的 Google 文档替代品  
+     人工智能驱动的内容创作  
     </details> 
 
-- 😺 [Varify.io - 固定价格 99 欧元，无任何限制的 A/B 测试](https://xinquji.com/posts/809194?utm_campaign=xinquji-rss) | Wed Feb 21 2024 6:00 AM 
+- 😺 [mintment.co - 您的互动心理健康伙伴](https://xinquji.com/posts/809234?utm_campaign=xinquji-rss) | Thu Feb 22 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     固定价格 99 欧元，无任何限制的 A/B 测试  
+     您的互动心理健康伙伴  
     </details> 
 <!-- xinquji:END -->
