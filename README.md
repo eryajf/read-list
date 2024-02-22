@@ -118,29 +118,29 @@
 ### 独立开发变现周刊
 
 <!-- easyindie:START -->
-- 💂 [独立开发变现周刊（第122期） : 一个文字生成视频在线SaaS工具，年收入7.5万美元](https://www.ezindie.com/weekly/issue-122) | Fri Feb 02 2024 12:00 AM 
+- 💂 [独立开发变现周刊（第123期） : 一个邮件模板编辑工具月收入40万美金](https://www.ezindie.com/weekly/issue-123) | Fri Feb 23 2024 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。一个邮件模板编辑工具月收入40万美金 
+    </details> 
+
+- 💡 [独立开发变现周刊（第122期） : 一个文字生成视频在线SaaS工具，年收入7.5万美元](https://www.ezindie.com/weekly/issue-122) | Fri Feb 02 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。一个文字生成视频在线SaaS工具，年收入7.5万美元 
     </details> 
 
-- 💡 [独立开发变现周刊（第121期） : 发布个人服务的SaaS产品，年收入160万美元](https://www.ezindie.com/weekly/issue-121) | Fri Jan 26 2024 12:00 AM 
+- 🌋 [独立开发变现周刊（第121期） : 发布个人服务的SaaS产品，年收入160万美元](https://www.ezindie.com/weekly/issue-121) | Fri Jan 26 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。发布个人服务的SaaS产品，年收入160万美元 
     </details> 
 
-- 🌋 [独立开发变现周刊（第120期） : 帮助App监测竞争对手，每月盈利8000美元](https://www.ezindie.com/weekly/issue-120) | Fri Jan 12 2024 12:00 AM 
+- 🕴 [独立开发变现周刊（第120期） : 帮助App监测竞争对手，每月盈利8000美元](https://www.ezindie.com/weekly/issue-120) | Fri Jan 12 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。帮助App监测竞争对手，每月盈利8000美元 
     </details> 
 
-- 🕴 [独立开发变现周刊（第119期） : 一个自学开发者创建一个月收入12.5万美元的软件公司](https://www.ezindie.com/weekly/issue-119) | Fri Jan 05 2024 12:00 AM 
+- 🎊 [独立开发变现周刊（第119期） : 一个自学开发者创建一个月收入12.5万美元的软件公司](https://www.ezindie.com/weekly/issue-119) | Fri Jan 05 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。一个自学开发者创建一个月收入12.5万美元的软件公司 
-    </details> 
-
-- 🎊 [独立开发变现周刊（第118期） : 如何建立一个网站组合，产生100万美元利润？](https://www.ezindie.com/weekly/issue-118) | Fri Dec 29 2023 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。如何建立一个网站组合，产生100万美元利润？ 
     </details> 
 <!-- easyindie:END -->
 
