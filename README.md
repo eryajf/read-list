@@ -604,27 +604,27 @@
 ### 摄影世界
 
 <!-- photoworld:START -->
-- 🤠 [尼康 Z 9 奔赴太空｜空间站宇航员收到尼康旗舰全画幅无反相机](https://www.photoworld.com.cn/post/176111) | Mon Feb 19 2024 10:30 AM 
+- 🤠 [索尼 F2.8 大光圈标准变焦 G 镜头 FE 24-50mm F2.8 G 发布](https://www.photoworld.com.cn/post/176117) | Thu Feb 22 2024 1:33 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 🎃 [助力创摄者，视觉表达新可能：尼康 Z 8 挑战今日开启！](https://www.photoworld.com.cn/post/176099) | Thu Feb 01 2024 7:05 AM 
+- 🎃 [尼康 Z 9 奔赴太空｜空间站宇航员收到尼康旗舰全画幅无反相机](https://www.photoworld.com.cn/post/176111) | Mon Feb 19 2024 10:30 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 👀 [索尼新品 CineAltaB 摄影机拍摄幕后：紧凑灵巧，功能强大](https://www.photoworld.com.cn/post/176085) | Tue Jan 30 2024 2:34 AM 
+- 👀 [助力创摄者，视觉表达新可能：尼康 Z 8 挑战今日开启！](https://www.photoworld.com.cn/post/176099) | Thu Feb 01 2024 7:05 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 🤔 [图赏｜WD My Passport™ Ultra 便携式存储硬盘龙年特别版](https://www.photoworld.com.cn/post/176082) | Fri Jan 26 2024 6:44 AM 
+- 🤔 [索尼新品 CineAltaB 摄影机拍摄幕后：紧凑灵巧，功能强大](https://www.photoworld.com.cn/post/176085) | Tue Jan 30 2024 2:34 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
 
-- 👀 [Galaxy AI 重塑智能手机体验！三星 Galaxy S24 系列正式登陆中国](https://www.photoworld.com.cn/post/176056) | Fri Jan 26 2024 1:41 AM 
+- 👀 [图赏｜WD My Passport™ Ultra 便携式存储硬盘龙年特别版](https://www.photoworld.com.cn/post/176082) | Fri Jan 26 2024 6:44 AM 
     <details><summary>展开描述 ...</summary> 
      
     </details> 
