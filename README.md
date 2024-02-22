@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [首发“通杀”某逻辑漏洞思路| 月神亲授SRC实战课](https://www.freebuf.com/consult/392268.html) | Thu Feb 22 2024 2:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    重大通知《月神-SRC漏洞挖掘实战班》开班倒计时3天2024-02-25——————————————————还在犹豫的师傅看过来↓↓↓早报早学习价格更优惠原价6888首期限时早鸟价5888！3月即将涨 
+    </details> 
+
 - 🦄 [FreeBuf 早报 | IDC发布全球数字信贷十大预测；英国顶尖大学遭受针对性DDoS攻击](https://www.freebuf.com/news/392228.html) | Wed Feb 21 2024 6:55 AM 
     <details><summary>展开描述 ...</summary> 
     IDC主要指出，到2026年，25%的金融机构 金融科技贷款机构将使用生成式AI来确保贷款监管合规，以避免罚款和处罚。 
     </details> 
 
-- 🦄 [2024年ICS和OT威胁预测](https://www.freebuf.com/articles/neopoints/392200.html) | Wed Feb 21 2024 5:13 AM 
+- 🦅 [2024年ICS和OT威胁预测](https://www.freebuf.com/articles/neopoints/392200.html) | Wed Feb 21 2024 5:13 AM 
     <details><summary>展开描述 ...</summary> 
     最近的黑客行为主义攻击活动已经证实了其攻击OT系统的能力。 
     </details> 
 
-- 🦅 [Burpsuite 漏洞扫描介绍](https://www.freebuf.com/articles/network/306286.html) | Wed Feb 21 2024 4:59 AM 
+- 🪄 [Burpsuite 漏洞扫描介绍](https://www.freebuf.com/articles/network/306286.html) | Wed Feb 21 2024 4:59 AM 
     <details><summary>展开描述 ...</summary> 
     Burp Scanner的功能主要是用来自动检测web系统的各种漏洞，我们可以使用Burp Scanner代替我们手工去对系统进行普通漏洞类型的渗透测试。 
     </details> 
 
-- 🪄 [SQL注入网站实例：注入步骤](https://www.freebuf.com/articles/network/321323.html) | Wed Feb 21 2024 4:51 AM 
+- 💻 [SQL注入网站实例：注入步骤](https://www.freebuf.com/articles/network/321323.html) | Wed Feb 21 2024 4:51 AM 
     <details><summary>展开描述 ...</summary> 
     我们将通过详细的注入实例，从中吸取经验；从安全角度来分析，我们要如何来预防mysql注入 
-    </details> 
-
-- 💻 [某关键基础设施软件制造商确认遭遇勒索软件攻击](https://www.freebuf.com/news/392178.html) | Wed Feb 21 2024 3:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    2 月 16 日以来，联邦信息安全办公室的网络安全专家一直在帮助 PSI 公司进行勒索软件事件响应和修复工 
     </details> 
 <!-- freebuf:END -->
 
