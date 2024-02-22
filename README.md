@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [uniapp：点击按钮跳转至另一个小程序](https://juejin.cn/post/7338011132383330344) | Thu Feb 22 2024 7:06 AM 
+- 🤗 [使用合成数据处理自动驾驶汽车感知](https://juejin.cn/post/7338048224709918761) | Thu Feb 22 2024 8:09 AM 
     <details><summary>展开描述 ...</summary> 
-    ```js computed: { develop&lpar;&rpar; { let _path = &#39;develop&#39;; // 默认 develop开发环境 // #ifdef MP-WEIXIN const acc 
+    自动驾驶汽车 &lpar;AV&rpar; 有各种形状和大小，从小型客车到多轴半挂卡车不等。但是，部署在这些车辆上的感知算法必须经过训练，以处理类似情况，例如避开障碍物或行人。 
     </details> 
 
-- 🎡 [或许我们都被分库分表约束了思维](https://juejin.cn/post/7338239261193568306) | Thu Feb 22 2024 7:01 AM 
+- 🎡 [借助 NVIDIA Grace Hopper 超级芯片简化 HPC 的 GPU 编程](https://juejin.cn/post/7338048224709902377) | Thu Feb 22 2024 8:09 AM 
     <details><summary>展开描述 ...</summary> 
-    概述 这篇文章没什么太多的干货，纯纯是一篇讨论和思考帖。 从业数据库领域三年有余了，从分库分表中间件到数据库团队内核学到了很多东西。也接触了很多项目，包括TiDB、Vitess、Polardb、Sta 
+    每个处理器都保留自己的物理内存，该内存的设计具有与最适合每个处理器的工作负载相匹配的带宽、延迟和容量特性。针对现有的独立显存 GPU 系统编写的代码将继续保持高性能运行，而无需针对新的 NVIDIA 
     </details> 
 
-- 🕯 [一个支持 Vite 在一个 html 文件里面引入多个 js 入口文件的插件](https://juejin.cn/post/7338239261193519154) | Thu Feb 22 2024 6:55 AM 
+- 🕯 [NVIDIA 深度学习研究院推出科学与工程教学套件](https://juejin.cn/post/7338006667509596196) | Thu Feb 22 2024 8:09 AM 
     <details><summary>展开描述 ...</summary> 
-    github 地址: https://github.com/noahlam/vite-plugin-multiple-entries 介绍 支持 Vite 打包/开发时, 一个 HTML 文件里存在多 
+    从运输和医疗健康到制造和金融，AI 正迅速成为各行各业不可或缺的一部分。AI 为聊天机器人、推荐系统、计算机视觉应用、欺诈预防和自动驾驶汽车提供支持。它还在工程和科学领域拥有广泛的应用。 
     </details> 
 
-- 🚀 [大大提高通过率！专利技术交底书模板 - 全网最佳](https://juejin.cn/post/7337944041684926518) | Thu Feb 22 2024 6:54 AM 
+- 🚀 [高性能计算的能效：平衡速度与可持续性](https://juejin.cn/post/7338042858702192694) | Thu Feb 22 2024 8:08 AM 
     <details><summary>展开描述 ...</summary> 
-    大大提高通过率！专利技术交底书模板 - 全网最佳。 讨论撰写专利交底书时的各类常见问题，了解了交底书的前半部分会涉及到的著作权分配以及内部流程审批的关键点。 
+    计算世界正处于巨变的边缘。在考虑这个问题时，必须考虑到任务完成率与能耗之间的相关性。这种关系通常会被忽略，但它可能是一个关键因素。 
     </details> 
 
-- 💪 [微信小程序：开启轻量级应用开发的新纪元](https://juejin.cn/post/7338011132383084584) | Thu Feb 22 2024 6:46 AM 
+- 💪 [“卷”出来的那些 10 倍开发者 | 编码人声](https://juejin.cn/post/7338074027281334312) | Thu Feb 22 2024 8:07 AM 
     <details><summary>展开描述 ...</summary> 
-    随着智能手机的普及，移动应用程序已经成为我们日常生活的一部分。而在移动应用的世界中，微信小程序正在崭露头角，成为一种轻量级应用开发的新趋势。本文将深入探讨微信小程序，从其定义、特点、开发流程、生命周期 
+    随着各类 AI Copilot 工具的出现，这个词又开始在社交网络中出现 —— 在各类 AI 技术的加持下，开发者的开发效率和能力边界，能达到十倍提升么？所谓的「10 倍开发者」，又体现在哪些方面？ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
