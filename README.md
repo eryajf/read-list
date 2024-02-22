@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Folder Factory 7.7.0 文件夹图标修改软件](https://xclient.info/s/folder-factory.html) | Wed Feb 21 2024 1:26 AM 
+- 🦏 [Remote Desktop Manager Enterprise 2023.3.13.4 远程控制](https://xclient.info/s/remote-desktop-manager.html) | Thu Feb 22 2024 2:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    远程桌面管理器-是一个小的应用程序来控制远程连接。与远程桌面管理器程序，您可以添加、 编辑、 删除、 组织或快速找到您的远程连接。该实用程序是兼容微软远程桌面或终端服务，是一个非常简单的使用，但同时也是有力、 有效。远程桌面管理器是适用于任何用户。 
+    </details> 
+
+-  [Folder Factory 7.7.0 文件夹图标修改软件](https://xclient.info/s/folder-factory.html) | Wed Feb 21 2024 1:26 AM 
     <details><summary>展开描述 ...</summary> 
     Folder Factory是一款可以改变你的文件夹图标的设计的软件，让你的文件夹变得与众不同，你可以改变文件夹颜色、图片以及文字，甚至可以让文件夹变得透明！ 
     </details> 
 
--  [EdgeView 4.5.6 图像查看器](https://xclient.info/s/edgeview.html) | Wed Feb 21 2024 1:25 AM 
+- ⚗️ [EdgeView 4.5.6 图像查看器](https://xclient.info/s/edgeview.html) | Wed Feb 21 2024 1:25 AM 
     <details><summary>展开描述 ...</summary> 
     EdgeView是MacOS X的一款图像查看器。你可以打开各种图像文件，也可以打开像ZIP这样的归档文件，而不用提取。您可以在内置的文件浏览器中检查和打开文件，并且可以连接到FTP并直接打开文件。 
     </details> 
 
-- ⚗️ [DjVu Reader Pro 2.7.1 DjVu阅读工具](https://xclient.info/s/djvu-reader-pro.html) | Wed Feb 21 2024 1:25 AM 
+- 🔥 [DjVu Reader Pro 2.7.1 DjVu阅读工具](https://xclient.info/s/djvu-reader-pro.html) | Wed Feb 21 2024 1:25 AM 
     <details><summary>展开描述 ...</summary> 
     DjVu Reader是一款macOS平台的一款DjVu阅读软件，能够快速的打开DjVu文件甚至非常大的文件，读取顺畅。 
     </details> 
 
-- 🔥 [Perfectly Clear WorkBench 4.6.0.2640 智能图片瑕疵处理工具](https://xclient.info/s/perfectly-clear-workbench.html) | Wed Feb 21 2024 1:24 AM 
+- 🌋 [Perfectly Clear WorkBench 4.6.0.2640 智能图片瑕疵处理工具](https://xclient.info/s/perfectly-clear-workbench.html) | Wed Feb 21 2024 1:24 AM 
     <details><summary>展开描述 ...</summary> 
     Perfectly Clear Workbench可以帮您在几分钟内自动修复、微调和批处理图片。 
-    </details> 
-
-- 🌋 [Rhino 8.4.24044.15002 强大的3D造型软件](https://xclient.info/s/rhino.html) | Wed Feb 21 2024 1:23 AM 
-    <details><summary>展开描述 ...</summary> 
-    Rhino，中文名称犀牛，是一款超强的三维建模工具，它包含了所有的NURBS建模功能，用它建模感觉非常流畅，所以大家经常用它来建模，然后导出高精度模型给其他三维软件使用。 
     </details> 
 <!-- xclient:END -->
 
