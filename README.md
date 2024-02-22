@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [随时收听、更省流量，用 HLS 搭建私有音乐电台](https://sspai.com/post/86398) | Thu Feb 22 2024 7:00 AM 
+- 👹 [时间都去哪儿了：我的 Obsidian 间歇日志实践方案](https://sspai.com/post/86518) | Thu Feb 22 2024 9:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    认真撰写自己的每一笔时间日志，享受当下，享受过程，享受成果。&lt;a href=&quot;https://sspai.com/post/86518&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [随时收听、更省流量，用 HLS 搭建私有音乐电台](https://sspai.com/post/86398) | Thu Feb 22 2024 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     借助 HLS 流媒体传输协议，你也可以搭建一个属于自己的私有音乐电台。&lt;a href=&quot;https://sspai.com/post/86398&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [#起源、用法和趣闻：关于井号的补充史#](https://sspai.com/post/86471) | Thu Feb 22 2024 3:15 AM 
+- 🤭 [#起源、用法和趣闻：关于井号的补充史#](https://sspai.com/post/86471) | Thu Feb 22 2024 3:15 AM 
     <details><summary>展开描述 ...</summary> 
     「一言以蔽之，这个词是某个人出于好玩发明的，只是因为他喜欢它。」&lt;a href=&quot;https://sspai.com/post/86471&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：Apple Music 新增每月统计功能、《艾尔登法环》推出 DLC 等](https://sspai.com/post/86581) | Thu Feb 22 2024 12:36 AM 
+- 🥸 [派早报：Apple Music 新增每月统计功能、《艾尔登法环》推出 DLC 等](https://sspai.com/post/86581) | Thu Feb 22 2024 12:36 AM 
     <details><summary>展开描述 ...</summary> 
     华硕公开 Zenfone 11 Ultra 手机、LG 推出 27 英寸便携式随行屏 StanbyME Go 等。&lt;a href=&quot;https://sspai.com/post/86581&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [善用命名法，让「搜索」成为最简单的本地文件管理方案](https://sspai.com/post/86393) | Wed Feb 21 2024 9:31 AM 
+- 🙉 [善用命名法，让「搜索」成为最简单的本地文件管理方案](https://sspai.com/post/86393) | Wed Feb 21 2024 9:31 AM 
     <details><summary>展开描述 ...</summary> 
     或许表面上的不分类，是为了真正用起来的时候，可以用得更快更好。我的这套管理方法，或许你也可以尝试看看。&lt;a href=&quot;https://sspai.com/post/86393&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [一日一技 | 用快捷指令一键切换 Mac 音频输出设备](https://sspai.com/post/86520) | Wed Feb 21 2024 7:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    大家好，我是NowScott。原因之前在使用Windows电脑时，由于经常需要把声音输出在音箱和耳机之间频繁切换，就找到了一个软件来实现一键切换（鼠标侧键映射到快捷键上）音频输出设备，但是换到Mac上 ...&lt;a href=&quot;https://sspai.com/post/86520&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
