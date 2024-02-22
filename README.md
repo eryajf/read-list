@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [『SD』零基础快速搭建Stable Diffusion（Mac版）](https://juejin.cn/post/7338229082923466767) | Thu Feb 22 2024 4:06 PM 
+- 🤗 [Nodejs 第四十二章（jwt）](https://juejin.cn/post/7338280070303186994) | Thu Feb 22 2024 5:35 PM 
+    <details><summary>展开描述 ...</summary> 
+    什么是jwt? JWT（JSON Web Token）是一种开放的标准（RFC 7519），用于在网络应用间传递信息的一种方式。它是一种基于JSON的安全令牌，用于在客户端和服务器之间传输信息。 ht 
+    </details> 
+
+- 🎡 [『SD』零基础快速搭建Stable Diffusion（Mac版）](https://juejin.cn/post/7338229082923466767) | Thu Feb 22 2024 4:06 PM 
     <details><summary>展开描述 ...</summary> 
     🎨 素人也能学的AI绘画，只需一台电脑和畅通的网络，零基础快速上手 Stable Diffusion 环境搭建 
     </details> 
 
-- 🎡 [玩转 Nest Cli（二）](https://juejin.cn/post/7338265878288515135) | Thu Feb 22 2024 4:00 PM 
+- 🕯 [玩转 Nest Cli（二）](https://juejin.cn/post/7338265878288515135) | Thu Feb 22 2024 4:00 PM 
     <details><summary>展开描述 ...</summary> 
     Nest.js CLI 提供了创建、运行和管理 Nest.js 项目的命令。使用 nest new 创建新项目，nest start 运行项目，并通过 nest generate 快速生成资源如模块等 
     </details> 
 
-- 🕯 [没活，导师整活系列——vue.config.js 中 publicPath 和 router 中 createWebHistory&lpar;&rpar;的区别](https://juejin.cn/post/7338335869709140020) | Thu Feb 22 2024 3:56 PM 
+- 🚀 [没活，导师整活系列——vue.config.js 中 publicPath 和 router 中 createWebHistory&lpar;&rpar;的区别](https://juejin.cn/post/7338335869709140020) | Thu Feb 22 2024 3:56 PM 
     <details><summary>展开描述 ...</summary> 
     没活，导师整活，然后没想到涉及到了挺多，本地服务器静态资源路径？router 源码内置了重定向？访问路径影响访问资源？nginx结尾有无斜杠影响？ 
     </details> 
 
-- 🚀 [Nest.js 起航（一）](https://juejin.cn/post/7338312530475745289) | Thu Feb 22 2024 3:56 PM 
+- 💪 [Nest.js 起航（一）](https://juejin.cn/post/7338312530475745289) | Thu Feb 22 2024 3:56 PM 
     <details><summary>展开描述 ...</summary> 
     Nest.js 是一个渐进式 Node.js 框架，用于构建企业级服务器端应用，支持 TypeScript 和 JavaScript，借鉴了 Angular 和 Spring 框架。 
-    </details> 
-
-- 💪 [基于包围盒算法的三维点云数据压缩和曲面重建matlab仿真](https://juejin.cn/post/7338330579152732210) | Thu Feb 22 2024 3:55 PM 
-    <details><summary>展开描述 ...</summary> 
-    1.算法运行效果图预览   2.算法运行软件版本 matlab2022a     3.算法理论概述        随着三维扫描技术的快速发展，三维点云数据在多个领域，如计算机视觉、机器人技术和逆向工程 
     </details> 
 <!-- juejin:END -->
 ### 少数派
