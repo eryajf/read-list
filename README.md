@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Sora 将如何改变我们的生活？](https://juejin.cn/post/7338250632938323977) | Thu Feb 22 2024 10:07 AM 
+- 🤗 [文本](https://juejin.cn/post/7338306790173507584) | Thu Feb 22 2024 11:04 AM 
     <details><summary>展开描述 ...</summary> 
-    很荣幸受王又又邀请，今天和她以及《宇宙探索编辑部》副导演吕启洋（Ash）一起聊聊了一下当前火爆的话题 Sora，看 Sora 如何改变我们的生活。 我把技术相关的一些问题整理成了文字，希望能够帮助大家 
+    MMKV、SharedPreference 和 DataStore 2.2 MMKV 为啥有用户层 和 内核层 主要是为了安全，如果没有内核层，一个程序把系统给弄挂了，其他的也都会不能用 2.2.1  
     </details> 
 
-- 🎡 [THREEJS——高科技感的魔法阵](https://juejin.cn/post/7338306790173261824) | Thu Feb 22 2024 10:01 AM 
+- 🎡 [Jetpack Compose -&gt; 重组作用域和remember&lpar;&rpar;](https://juejin.cn/post/7338250632938455049) | Thu Feb 22 2024 10:56 AM 
     <details><summary>展开描述 ...</summary> 
-    欢迎收藏点赞，本文内容包含Line2线条应用，补间动画tweenjs效果，最终实现出一个类似魔法阵的效果，效果炫酷，logo&lpar;那个小鸟&rpar;可替换，可以作为自己公司logo的展示图，亮瞎领导，卷si同行~ 
+    前言 上一章我们讲解了 MutableState 和 mutableStateOf&lpar;&rpar; 本章我们讲解下 remember 这个关键方法； 
     </details> 
 
-- 🕯 [shiro 整合 springboot 实战](https://juejin.cn/post/7338306790173097984) | Thu Feb 22 2024 9:41 AM 
+- 🕯 [龙年大吉，新的一年开启你的职业飞跃之旅](https://juejin.cn/post/7338053219994665010) | Thu Feb 22 2024 10:24 AM 
     <details><summary>展开描述 ...</summary> 
-    # 序言 前面我们学习了如下内容： [5 分钟入门 shiro 安全框架实战笔记]&lpar;https://www.toutiao.com/i6910927630845919756/&rpar; [shiro  
+    龙年伊始，万象更新，祝大家开工大吉! 新的一年，你是否有很多期待和计划等待实现呢？别在等待啦，速来报名~ 
     </details> 
 
-- 🚀 [AWS EC2 必知必会小技巧 | 机型特点解析和选型技巧分享](https://juejin.cn/post/7338250632937979913) | Thu Feb 22 2024 9:41 AM 
+- 🚀 [【一分钟快学】高效数据分析秘籍：选择RollingWindow还是RingBuffer?](https://juejin.cn/post/7338227749021401097) | Thu Feb 22 2024 10:17 AM 
     <details><summary>展开描述 ...</summary> 
-    琳琅满目的 EC2 类型必然会让开发者们陷入选择困难症。本文将简单介绍一些 EC2 机型选择的小技巧，目的是为了帮助读者能够更快地选择合适的 EC2 机型。 
+    Rolling window（滚动窗口）和 Ring buffer（环形缓冲区）是两种不同的数据结构，它们在处理时间序列数据或进行一段时间内的统计计算时有着不同的应用场景和效率表现。 
     </details> 
 
-- 💪 [论文分享：利用对象存储进行高性能数据分析](https://juejin.cn/post/7338227749021171721) | Thu Feb 22 2024 9:32 AM 
+- 💪 [深入理解JVM执行引擎](https://juejin.cn/post/7338259035043495962) | Thu Feb 22 2024 10:16 AM 
     <details><summary>展开描述 ...</summary> 
-    本次分享的是慕尼黑工业大学的一篇论文，我们的云原生时序分析型数据库研发团队在这篇文章上受益匪浅，论文主要聚焦于如何在对象存储上进行高性能数据分析，其中一些结论为我们的工程实践提供了明确的指导方向。 
+    前端编译与后端编译 前端编译 前端编译主要负责解析Java源代码（.java文件）并将其转换为一种中间表示形式，通常是字节码（.class文件）。这个过程主要包括词法分析、语法分析、语义分析和字节码生 
     </details> 
 <!-- juejin:END -->
 ### 少数派
