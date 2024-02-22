@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [首发“通杀”某逻辑漏洞思路| 月神亲授SRC实战课](https://www.freebuf.com/consult/392268.html) | Thu Feb 22 2024 2:14 AM 
+- 🦄 [新 Wi-Fi 漏洞导致 Android 和 Linux 设备近乎“裸奔”](https://www.freebuf.com/news/392285.html) | Thu Feb 22 2024 3:37 AM 
+    <details><summary>展开描述 ...</summary> 
+    网络安全研究人员发现，在安卓、Linux和ChromeOS设备中的开源Wi-Fi软件存在两个身份验证绕过漏洞，这些漏洞可能会诱使用户加入合法网络的恶意克隆，或允许威胁攻击者在没有密码的情况下加入可信网络。据悉，安全研究人员在对wpa_supplicant和英特尔的iNet Wireless Daemon（IWD）进行安全评估后发现了这两个漏洞，它们分别被追踪为CVE-2023-52160和CVE- 
+    </details> 
+
+- 🦄 [黑客利用谷歌云运行服务传播三大银行木马](https://www.freebuf.com/news/392271.html) | Thu Feb 22 2024 2:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    谷歌云运行服务无需管理基础设施或进行扩展，允许用户部署前端和后端服务、网站或应用程序，处理工作负载。 
+    </details> 
+
+- 🦅 [首发“通杀”某逻辑漏洞思路| 月神亲授SRC实战课](https://www.freebuf.com/consult/392268.html) | Thu Feb 22 2024 2:14 AM 
     <details><summary>展开描述 ...</summary> 
     《月神-SRC漏洞挖掘实战班》开班倒计时3天，还在犹豫的师傅看过来↓↓↓早报早学习价格更优惠原价6888首期限时早鸟价5888！ 
     </details> 
 
-- 🦄 [FreeBuf 早报 | IDC发布全球数字信贷十大预测；英国顶尖大学遭受针对性DDoS攻击](https://www.freebuf.com/news/392228.html) | Wed Feb 21 2024 6:55 AM 
+- 🪄 [FreeBuf 早报 | IDC发布全球数字信贷十大预测；英国顶尖大学遭受针对性DDoS攻击](https://www.freebuf.com/news/392228.html) | Wed Feb 21 2024 6:55 AM 
     <details><summary>展开描述 ...</summary> 
     IDC主要指出，到2026年，25%的金融机构 金融科技贷款机构将使用生成式AI来确保贷款监管合规，以避免罚款和处罚。 
     </details> 
 
-- 🦅 [2024年ICS和OT威胁预测](https://www.freebuf.com/articles/neopoints/392200.html) | Wed Feb 21 2024 5:13 AM 
+- 💻 [2024年ICS和OT威胁预测](https://www.freebuf.com/articles/neopoints/392200.html) | Wed Feb 21 2024 5:13 AM 
     <details><summary>展开描述 ...</summary> 
     最近的黑客行为主义攻击活动已经证实了其攻击OT系统的能力。 
-    </details> 
-
-- 🪄 [Burpsuite 漏洞扫描介绍](https://www.freebuf.com/articles/network/306286.html) | Wed Feb 21 2024 4:59 AM 
-    <details><summary>展开描述 ...</summary> 
-    Burp Scanner的功能主要是用来自动检测web系统的各种漏洞，我们可以使用Burp Scanner代替我们手工去对系统进行普通漏洞类型的渗透测试。 
-    </details> 
-
-- 💻 [SQL注入网站实例：注入步骤](https://www.freebuf.com/articles/network/321323.html) | Wed Feb 21 2024 4:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    我们将通过详细的注入实例，从中吸取经验；从安全角度来分析，我们要如何来预防mysql注入 
     </details> 
 <!-- freebuf:END -->
 
