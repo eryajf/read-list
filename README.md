@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [最详细HTTP缓存知识总结和落地实践](https://juejin.cn/post/7337957655191404578) | Wed Feb 21 2024 7:55 PM 
+- 🤗 [修复访问GitHub日常超时](https://juejin.cn/post/7337967530970923060) | Thu Feb 22 2024 12:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    写在文章开头 近期提交改动到GitHub时经常会出现超时问题&lpar;Couldn‘t connect to server&rpar;，查阅网上大部分解决方案，得到一套比较有效的解决方案，遂以此文进行简单的记录。 你好 
+    </details> 
+
+- 🎡 [👅妈妈在也不用担心我不会写接口了](https://juejin.cn/post/7337957655191535650) | Thu Feb 22 2024 12:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    以前php在巅峰的时候，出现了Wordpress，Typecho，Z-Blog,等等一批流行的CMS框架，当然他们也得益于,Thinkphp,Laravel等等一批流行的mvc框架，时至至今，像Thi 
+    </details> 
+
+- 🕯 [一行代码解 leetcode#162寻找峰值和#852山脉数组的峰顶索引](https://juejin.cn/post/7337963242415161356) | Thu Feb 22 2024 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    一行代码即可求解 leetcode#162寻找峰值和#852山脉数组的峰顶索引 两道中等难度的算法题目 
+    </details> 
+
+- 🚀 [最详细HTTP缓存知识总结和落地实践](https://juejin.cn/post/7337957655191404578) | Wed Feb 21 2024 7:55 PM 
     <details><summary>展开描述 ...</summary> 
     当下中国国内一般的家庭网络都可以达到百兆，千兆，下载速度很快，是否有必要使用http缓存？ 下载速度只是一方面，对于网站运营者来说，还有带宽成本，如果用户量非常大，节省的带宽成本也会非常可观。 
     </details> 
 
-- 🎡 [Nodejs 第四十一章（项目架构MVC,IoC,DI）](https://juejin.cn/post/7337964441613353010) | Wed Feb 21 2024 6:39 PM 
+- 💪 [Nodejs 第四十一章（项目架构MVC,IoC,DI）](https://juejin.cn/post/7337964441613353010) | Wed Feb 21 2024 6:39 PM 
     <details><summary>展开描述 ...</summary> 
     到现在为止，我们学习了，express框架，编写接口，mysql数据库读写数据，knex,prisma ORM框架，现在是时候把这些组合到一起，并且实现一个类似于Nestjs或者java的Spring 
-    </details> 
-
-- 🕯 [今天来聊一聊前端的打包工具，以及未来期望](https://juejin.cn/post/7337958423780917275) | Wed Feb 21 2024 5:20 PM 
-    <details><summary>展开描述 ...</summary> 
-    前端总是喜欢重复造轮子，很多库都是处于可以有，但没必要的存在，比如各式各样的UI组件库等。这两年的打包工具也是打得十分火热，各种号称速度提升多少多少倍的新工具，层出不穷。它们对实际的开发中真的有提升吗 
-    </details> 
-
-- 🚀 [物联网中websocket的使用](https://juejin.cn/post/7337941065020833833) | Wed Feb 21 2024 4:46 PM 
-    <details><summary>展开描述 ...</summary> 
-    大家好，本人就职的是一家物联网公司，主要是出售温湿度、环境监测设备，用于冷链运输、医药、环境监测。本文中主要介绍了websocket的一些基础知识，以及在实际项目使用中我个人的一些见解，愿对大家有帮助 
-    </details> 
-
-- 💪 [源码学习——lodash（一）](https://juejin.cn/post/7337941065020817449) | Wed Feb 21 2024 4:34 PM 
-    <details><summary>展开描述 ...</summary> 
-    lodash库想必大家都不陌生，它封装了多个数据处理方法，极大方便了我们的开发，但是我们可能就只熟悉几种方法，其他方法也没有专门去了解。本节开始我们就来学习一下lodash各个方法的源码。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
