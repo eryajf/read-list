@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [接私活利器！推荐一个基于SpringBoot3的后台管理框架](https://juejin.cn/post/7337955019876614156) | Thu Feb 22 2024 2:01 AM 
+- 🤗 [一起来学Mybatis Plus&lpar;八&rpar; &amp; 自定义插件开发](https://juejin.cn/post/7338022547713556534) | Thu Feb 22 2024 3:10 AM 
     <details><summary>展开描述 ...</summary> 
-    一个轻巧的后台管理框架，项目后端基于Java17、SpringBoot3.0，前端基于Vue3，提供登录会话、用户管用户管理、角色管理、权限资源管理、事件日志、对象存储等基础功能。 
+    前言 目前正在出一个Mybatis Plus系列教程, 篇幅会较多, 喜欢的话，给个关注❤️ ~ 之前给大家讲过Mybatis教程，而MyBatis-Plus 是一个 MyBatis 的增强工具，在M 
     </details> 
 
-- 🎡 [字典数据插入，Minio数据迁移，Pod无限重启解决方案](https://juejin.cn/post/7337970743844421658) | Thu Feb 22 2024 1:59 AM 
+- 🎡 [你不知道的JSON.stringify神操](https://juejin.cn/post/7337989768636973083) | Thu Feb 22 2024 3:07 AM 
     <details><summary>展开描述 ...</summary> 
-    总结了下这段时间遇到的问题。 不同字典数据快速插入到DB，Minio数据迁移，Pod无限重启解决方案...... 
+    在我们面试过程中，面试官经常会提及到深浅拷贝的问题。正好今天我就和大家好好唠一唠这个JSON.stringify。 
     </details> 
 
-- 🕯 [KaiwuDB 分布式系统 Range Split &amp; Merge 原理详解](https://juejin.cn/post/7337963242416111628) | Thu Feb 22 2024 1:56 AM 
+- 🕯 [springboot集成docker快速入门demo](https://juejin.cn/post/7338053793701036069) | Thu Feb 22 2024 2:59 AM 
     <details><summary>展开描述 ...</summary> 
-    对数据库分区感兴趣的伙伴千万不要错过本期直播！我们邀请到 KaiwuDB 高级研发工程师李永强详细剖析 KaiwuDB 分布式系统里 Range 的分裂（Split&rpar; 和合并 &lpar;Merge&rpar; 
+    一、docker介绍 Docker是一个开源的应用容器引擎，它允许开发者将应用及其依赖打包到一个可移植的容器中。这个容器可以在任何流行的 Linux或 Windows操作系统上运行，并且支持虚拟化。容 
     </details> 
 
-- 🚀 [Xpath](https://juejin.cn/post/7337946762359062528) | Thu Feb 22 2024 1:46 AM 
+- 🚀 [功能问题：如何开发一个自己的 VS Code 插件？](https://juejin.cn/post/7337941065021947945) | Thu Feb 22 2024 2:57 AM 
     <details><summary>展开描述 ...</summary> 
-    Python爬虫解析工具之xpath使用详解_python xpath用法-CSDN博客,Python爬虫解析工具之xpath使用详解_python xpath用法-CSDN博客 
+    本文简单介绍了，如何一步步的开发一个自己的 VS Code 插件，并最终选择本地自己使用，或者发布到插件商店。 
     </details> 
 
-- 💪 [02_ESlint+Prettier+Husky+Lint-staged+Stylelint+Commitlint](https://juejin.cn/post/7337946762358439936) | Wed Feb 21 2024 3:27 PM 
+- 💪 [鼠标拖动绘制矩形，使用到pointer-events: none属性](https://juejin.cn/post/7338022547713310774) | Thu Feb 22 2024 2:53 AM 
     <details><summary>展开描述 ...</summary> 
-    为项目添加ESlint+Prettier+Husky+Lint-staged+Stylelint+Commitlint 
+    实现图： 业务需求： 目前多张pdf由后端处理返回成图片，前端把图片展示在一个固定框里，滚动加载图片。 点击按钮进入到绘制蓝框的模式，在页面的预览图片（多页）上面绘制一个矩形，画完立即保存 
     </details> 
 <!-- juejin:END -->
 ### 少数派
