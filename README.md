@@ -332,9 +332,9 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [v 友们，电脑玩某些游戏挂机太久关闭的时候会出现电脑类似死机的状态是什么情况？有人遇到过吗](https://www.v2ex.com/t/1017648#reply0) | Thu Feb 22 2024 11:08 AM
+- 🥸 [v 友们，电脑玩某些游戏挂机太久关闭的时候会出现电脑类似死机的状态是什么情况？有人遇到过吗](https://www.v2ex.com/t/1017648#reply2) | Thu Feb 22 2024 11:08 AM
 - 🤗 [vercel 的构建和普通的 github actions 有啥区别](https://www.v2ex.com/t/1017646#reply0) | Thu Feb 22 2024 11:08 AM
-- 🎭 [黑群晖 7.0 升级到 7.2 提示空间不足](https://www.v2ex.com/t/1017641#reply0) | Thu Feb 22 2024 10:43 AM
+- 🎭 [黑群晖 7.0 升级到 7.2 提示空间不足](https://www.v2ex.com/t/1017641#reply2) | Thu Feb 22 2024 10:43 AM
 - 🥷 [Linux 内核有办法为每个模块指定不同的日志级别吗？](https://www.v2ex.com/t/1017639#reply1) | Thu Feb 22 2024 10:33 AM
 - 🐵 [想做一个垂直类电商网站， b2c 的 直接选个 cms](https://www.v2ex.com/t/1017623#reply4) | Thu Feb 22 2024 9:51 AM<!-- v2ex:END -->
 
