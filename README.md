@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [开福门，画真龙，画龙点睛庆龙年](https://juejin.cn/post/7338229082923253775) | Thu Feb 22 2024 3:05 PM 
+- 🤗 [『SD』零基础快速搭建Stable Diffusion（Mac版）](https://juejin.cn/post/7338229082923466767) | Thu Feb 22 2024 4:06 PM 
     <details><summary>展开描述 ...</summary> 
-    龙年到了，今天用上所学的技术，画出一条龙，庆祝龙年到来。 废话不多说，直接体验效果先： ; 体验完毕就来讲讲一些实现的细节。 1. 布局 整个效果是由三个部分组成的，分别是福字、门楼、龙。 这三个部分 
+    🎨 素人也能学的AI绘画，只需一台电脑和畅通的网络，零基础快速上手 Stable Diffusion 环境搭建 
     </details> 
 
-- 🎡 [译：使用现代的 Node.js 构建简单的CLI工具](https://juejin.cn/post/7338306790174326784) | Thu Feb 22 2024 2:37 PM 
+- 🎡 [玩转 Nest Cli（二）](https://juejin.cn/post/7338265878288515135) | Thu Feb 22 2024 4:00 PM 
     <details><summary>展开描述 ...</summary> 
-    只使用 Node.js 的标准库，不安装任何外部依赖，写一个命令行工具。希望这能鼓励将来的人从空目录来开始他们的下一个项目，而不是复制大型项目模板。 
+    Nest.js CLI 提供了创建、运行和管理 Nest.js 项目的命令。使用 nest new 创建新项目，nest start 运行项目，并通过 nest generate 快速生成资源如模块等 
     </details> 
 
-- 🕯 [欢迎 Gemma: Google 最新推出开源大语言模型](https://juejin.cn/entry/7338053219995009074) | Thu Feb 22 2024 2:23 PM 
+- 🕯 [没活，导师整活系列——vue.config.js 中 publicPath 和 router 中 createWebHistory&lpar;&rpar;的区别](https://juejin.cn/post/7338335869709140020) | Thu Feb 22 2024 3:56 PM 
     <details><summary>展开描述 ...</summary> 
-    今天，Google 发布了一系列最新的开放式大型语言模型 —— Gemma！Google 正在加强其对开源人工智能的支持，我们也非常有幸能够帮助全力支持这次发布，并与 Hugging Face 生态完 
+    没活，导师整活，然后没想到涉及到了挺多，本地服务器静态资源路径？router 源码内置了重定向？访问路径影响访问资源？nginx结尾有无斜杠影响？ 
     </details> 
 
-- 🚀 [大厂经验谈之OKR目标管理](https://juejin.cn/post/7338048224711065641) | Thu Feb 22 2024 2:15 PM 
+- 🚀 [Nest.js 起航（一）](https://juejin.cn/post/7338312530475745289) | Thu Feb 22 2024 3:56 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 这是大厂经验谈系列第一篇文章，来看看互联网公司是如何制定和管理目标的。OKR是目前互联网公司经常采用的目标管理工具，最开始也是由国外著名公司推崇，比如Google、微软、亚马逊等，后面才逐步引入 
+    Nest.js 是一个渐进式 Node.js 框架，用于构建企业级服务器端应用，支持 TypeScript 和 JavaScript，借鉴了 Angular 和 Spring 框架。 
     </details> 
 
-- 💪 [语言大模型的浮点运算分配](https://juejin.cn/post/7338240698704461865) | Thu Feb 22 2024 2:01 PM 
+- 💪 [基于包围盒算法的三维点云数据压缩和曲面重建matlab仿真](https://juejin.cn/post/7338330579152732210) | Thu Feb 22 2024 3:55 PM 
     <details><summary>展开描述 ...</summary> 
-    本文通过实证分析展示了实际LLM模型的FLOPS分配情况，并与理论分析进行对比。通过理论和实证相结合的方式，本文为理解和优化语言大模型的性能提供了有益见解。 
+    1.算法运行效果图预览   2.算法运行软件版本 matlab2022a     3.算法理论概述        随着三维扫描技术的快速发展，三维点云数据在多个领域，如计算机视觉、机器人技术和逆向工程 
     </details> 
 <!-- juejin:END -->
 ### 少数派
