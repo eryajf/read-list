@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [深入理解MySQL COUNT函数：避免常见陷阱与性能优化](https://juejin.cn/post/7337959220748730368) | Thu Feb 22 2024 3:58 AM 
+- 🤗 [这些 AI 自媒体的“空手套白狼”乱象，你中招了吗？](https://juejin.cn/post/7338228097025720370) | Thu Feb 22 2024 5:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    你是否曾被那些看似精彩实则空洞的 AI 文章所困扰？是否对那些利用 AI 制造焦虑、割韭菜的行为感到愤怒？这些 AI 自媒体的空手套白狼手段，你都见识过吗？ 
+    </details> 
+
+- 🎡 [iOS 17.4 Beta 4 发布了一些新功能](https://juejin.cn/post/7337944041684516918) | Thu Feb 22 2024 4:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    这里每天分享一个 iOS 的新知识，快来关注我吧 前言 今天苹果发布了 iOS 17.4 第 4 个 Beta 版本，带了一些比较有意思的改动，今天来快速了解一下。 1、新的欢迎页面 当你升级完成后， 
+    </details> 
+
+- 🕯 [Nest.js系列——内置 Pipe 和自定义 Pipe](https://juejin.cn/post/7338214297572540468) | Thu Feb 22 2024 4:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    在 NestJS 框架中，Pipe 是一个强大的功能，用于在请求处理程序执行之前验证和转换数据。就是在参数传递到处理函数之前做一些验证和转换处理的 class，NestJS 内置了一系列常用的 Pip 
+    </details> 
+
+- 🚀 [Go deadcode：查找没意义的死代码，对于维护项目挺有用！](https://juejin.cn/post/7337989768637300763) | Thu Feb 22 2024 4:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    大家好，我是煎鱼。 还记得我前两年在深圳参加了个技术大会，其中一个议题是携程的一个大佬分享他在日常工作中，发现一大堆过时的无意义代码和逻辑，导致大家工作较为繁琐且较为辛苦的情况。 携程应该是 Java 
+    </details> 
+
+- 💪 [深入理解MySQL COUNT函数：避免常见陷阱与性能优化](https://juejin.cn/post/7337959220748730368) | Thu Feb 22 2024 3:58 AM 
     <details><summary>展开描述 ...</summary> 
     MySQL中的COUNT&lpar;&rpar;函数是用于统计查询结果集中的行数的常用函数。在使用COUNT&lpar;&rpar;时，确实存在一些常见的问题和注意事项，本文将介绍一些主要的“坑” 
-    </details> 
-
-- 🎡 [lodash：不得了！](https://juejin.cn/post/7338022547714015286) | Thu Feb 22 2024 3:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    感受 使用 Lodash 库之前和之后的感受会让你完全爱上它！Lodash 是一个功能丰富、高效、可靠的 JavaScript 实用工具库，它为你的开发工作提供了极大的便利。 在使用 Lodash 之 
-    </details> 
-
-- 🕯 [Cesium之Webpack配置指南](https://juejin.cn/post/7338006667508203556) | Thu Feb 22 2024 3:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    1. 获取Token 注册 Cesium 账号，点击 Access Tokens Tab 并复制默认 token 2. 安装依赖包 3. 文件结构 其中模板如下： 4. Webpack 配置 webp 
-    </details> 
-
-- 🚀 [FlutterUnit 3.0 全面升级 - 国际化、导航2.0、项目结构](https://juejin.cn/post/7338022547713900598) | Thu Feb 22 2024 3:44 AM 
-    <details><summary>展开描述 ...</summary> 
-    FlutterUnit 是张风捷特烈的一个开源的 Flutter 全平台 项目，支持 Android、iOS、Windows、MacOS、Linux、Web 六大主流平台。项目通过交互应用的形式，整理 
-    </details> 
-
-- 💪 [Web 开发八股整理：比较全面的初级 HTTP、HTTPS 和 TLS 知识点](https://juejin.cn/post/7337953934773977097) | Thu Feb 22 2024 3:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    因为近期有了不得不重新找工作的需求，所以继续准备一些 Web 相关的八股文，希望对找工作有所裨益，也分享给有需要的同仁，希望能共同进步。此篇为“初级的 HTTP、HTTPS 和TLS知识点”。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
