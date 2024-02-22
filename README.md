@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [文本](https://juejin.cn/post/7338306790173507584) | Thu Feb 22 2024 11:04 AM 
+- 🤗 [💁‍♂️Coze国内版插件汇总-By油猴](https://juejin.cn/post/7338229082923122703) | Thu Feb 22 2024 12:19 PM 
     <details><summary>展开描述 ...</summary> 
-    MMKV、SharedPreference 和 DataStore 2.2 MMKV 为啥有用户层 和 内核层 主要是为了安全，如果没有内核层，一个程序把系统给弄挂了，其他的也都会不能用 2.2.1  
+    Coze国内版都有哪些内置插件？🙋‍♂️花了点时间，用油🐵爬了下，做下信息汇总，希望能方便Bot玩家快速检索找到心仪的插件工具，也导出了一份官方Bot的prompts汇总，希望对写提示词能力匮乏的 
     </details> 
 
-- 🎡 [Jetpack Compose -&gt; 重组作用域和remember&lpar;&rpar;](https://juejin.cn/post/7338250632938455049) | Thu Feb 22 2024 10:56 AM 
+- 🎡 [【日常总结】iframe内嵌网站初始路由404解决](https://juejin.cn/post/7338053219994796082) | Thu Feb 22 2024 12:07 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 上一章我们讲解了 MutableState 和 mutableStateOf&lpar;&rpar; 本章我们讲解下 remember 这个关键方法； 
+    背景 Vue 项目被嵌入到 &lt;iframe&gt; 中，通过src加载页面，结果打开后直接访问404，但是如果不是通过iframe打开的话是不会出现这个问题的。 问题现象 在首次进入时，Vue Router 
     </details> 
 
-- 🕯 [龙年大吉，新的一年开启你的职业飞跃之旅](https://juejin.cn/post/7338053219994665010) | Thu Feb 22 2024 10:24 AM 
+- 🕯 [Android 浅谈非矢量动画的实现](https://juejin.cn/post/7338053219994763314) | Thu Feb 22 2024 12:04 PM 
     <details><summary>展开描述 ...</summary> 
-    龙年伊始，万象更新，祝大家开工大吉! 新的一年，你是否有很多期待和计划等待实现呢？别在等待啦，速来报名~ 
+    对于非矢量动画，实现的方式就比较多了，甚至需要根据不同的场景去选择不同的实现方式，这里就浅谈一些常用的非矢量动画方式，只是做一些简单的介绍，不会去涉及其原理 
     </details> 
 
-- 🚀 [【一分钟快学】高效数据分析秘籍：选择RollingWindow还是RingBuffer?](https://juejin.cn/post/7338227749021401097) | Thu Feb 22 2024 10:17 AM 
+- 🚀 [字节跳动大规模多云CDN管理与产品化实践](https://juejin.cn/post/7338053219994746930) | Thu Feb 22 2024 12:01 PM 
     <details><summary>展开描述 ...</summary> 
-    Rolling window（滚动窗口）和 Ring buffer（环形缓冲区）是两种不同的数据结构，它们在处理时间序列数据或进行一段时间内的统计计算时有着不同的应用场景和效率表现。 
+    火山引擎边缘云融合CDN团队持续建设多云CDN平台，结合建设过程中面临的难点和挑战，团队负责人分享了火山引擎在多云应用架构下的CDN运维管理解决方案，介绍了融合CDN团队未来主要投入的方向。 
     </details> 
 
-- 💪 [深入理解JVM执行引擎](https://juejin.cn/post/7338259035043495962) | Thu Feb 22 2024 10:16 AM 
+- 💪 [《优化接口设计的思路》系列：第八篇—分页接口的设计和优化](https://juejin.cn/post/7338240698703986729) | Thu Feb 22 2024 11:41 AM 
     <details><summary>展开描述 ...</summary> 
-    前端编译与后端编译 前端编译 前端编译主要负责解析Java源代码（.java文件）并将其转换为一种中间表示形式，通常是字节码（.class文件）。这个过程主要包括词法分析、语法分析、语义分析和字节码生 
+    一、前言 大家好！我是sum墨，一个一线的底层码农，平时喜欢研究和思考一些技术相关的问题并整理成文，限于本人水平，如果文章和代码有表述不当之处，还请不吝赐教。 作为一名从业已达六年的老码农，我的工作主 
     </details> 
 <!-- juejin:END -->
 ### 少数派
