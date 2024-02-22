@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0222](http://jandan.net/p/115687) | Wed Feb 21 2024 11:07 PM 
+- 🚀 [今日好价 0223](http://jandan.net/p/115695) | Thu Feb 22 2024 11:07 PM 
     <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：62 
+    今日带货商品数量：57 
     </details> 
 
-- 🙉 [人类为啥没有鳃](http://jandan.net/p/115682) | Wed Feb 21 2024 11:04 PM 
+- 🙉 [人类大脑真的宇宙中最复杂的物体吗](http://jandan.net/p/115693) | Thu Feb 22 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
-    人类胚胎中仍保留鳃的痕迹 
+    与人类有关的一切都永远不应被特权对待 
     </details> 
 
-- 🎉 [太阳系边缘发现惊喜：新视野号揭示柯伊伯带延伸更远](http://jandan.net/p/115679) | Wed Feb 21 2024 11:03 PM 
+- 🎉 [大家电的寿命正在缩短](http://jandan.net/p/115691) | Thu Feb 22 2024 11:03 PM 
     <details><summary>展开描述 ...</summary> 
-    太阳系外侧的冰屑带可能比我们想象的要大得多 
+    复杂的设计和廉价材料缩短使用寿命 
     </details> 
 
-- 🐲 [“为测试疫苗，我被故意感染寨卡病毒”](http://jandan.net/p/115678) | Wed Feb 21 2024 11:02 PM 
+- 🐲 [光环褪去：大厂的工作不再有吸引力](http://jandan.net/p/115690) | Thu Feb 22 2024 11:02 PM 
     <details><summary>展开描述 ...</summary> 
-    这类试验能快速开发疫苗 
+    科技热潮降温，昔日明星岗位褪色 
     </details> 
 
--  [土星最大的卫星很可能并不宜居](http://jandan.net/p/115677) | Wed Feb 21 2024 11:01 PM 
+-  [当社交媒体对肠道健康过度追捧](http://jandan.net/p/115689) | Thu Feb 22 2024 11:01 PM 
     <details><summary>展开描述 ...</summary> 
-    寻找地外生命再遇挫折 
+    盲目夸大与事实的差距 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
