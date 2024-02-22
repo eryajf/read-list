@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [💁‍♂️Coze国内版插件汇总-By油猴](https://juejin.cn/post/7338229082923122703) | Thu Feb 22 2024 12:19 PM 
+- 🤗 [CSS 选择器性能的真相](https://juejin.cn/post/7338048224710787113) | Thu Feb 22 2024 12:53 PM 
+    <details><summary>展开描述 ...</summary> 
+    本期共享的是，如果您是一名 Web 开发者，您可能听说过某些 CSS 选择器比其他选择器性能更快。果真如此吗？ 
+    </details> 
+
+- 🎡 [1 分钟 学会酷炫技能，关于枚举类型，你绝对没用过如此酷炫的使用方式！](https://juejin.cn/post/7338074027282448424) | Thu Feb 22 2024 12:43 PM 
+    <details><summary>展开描述 ...</summary> 
+    大家好，我是五阳，最近在偷学兄弟团队的代码，收获较多，现在我给大家做一个期末汇报。 枚举类型适用于有限且固定值的场景，比如状态、返回值类型等类型字段，可以将所有情况枚举出来。最近我发现了一些新颖的使用 
+    </details> 
+
+- 🕯 [刨析Vue路由原理，解读路由Hash模式](https://juejin.cn/post/7338250632938618889) | Thu Feb 22 2024 12:24 PM 
+    <details><summary>展开描述 ...</summary> 
+    今天，我来带大家刨析Vue路由原理！ 我们知道Vue路由有两种模式：history模式和hash模式 在history模式下，我们的页面路径为： 在hash模式下，我们的页面路径为： 这个就是两个模式 
+    </details> 
+
+- 🚀 [💁‍♂️Coze国内版插件汇总-By油猴](https://juejin.cn/post/7338229082923122703) | Thu Feb 22 2024 12:19 PM 
     <details><summary>展开描述 ...</summary> 
     Coze国内版都有哪些内置插件？🙋‍♂️花了点时间，用油🐵爬了下，做下信息汇总，希望能方便Bot玩家快速检索找到心仪的插件工具，也导出了一份官方Bot的prompts汇总，希望对写提示词能力匮乏的 
     </details> 
 
-- 🎡 [【日常总结】iframe内嵌网站初始路由404解决](https://juejin.cn/post/7338053219994796082) | Thu Feb 22 2024 12:07 PM 
+- 💪 [【日常总结】iframe内嵌网站初始路由404解决](https://juejin.cn/post/7338053219994796082) | Thu Feb 22 2024 12:07 PM 
     <details><summary>展开描述 ...</summary> 
     背景 Vue 项目被嵌入到 &lt;iframe&gt; 中，通过src加载页面，结果打开后直接访问404，但是如果不是通过iframe打开的话是不会出现这个问题的。 问题现象 在首次进入时，Vue Router 
-    </details> 
-
-- 🕯 [Android 浅谈非矢量动画的实现](https://juejin.cn/post/7338053219994763314) | Thu Feb 22 2024 12:04 PM 
-    <details><summary>展开描述 ...</summary> 
-    对于非矢量动画，实现的方式就比较多了，甚至需要根据不同的场景去选择不同的实现方式，这里就浅谈一些常用的非矢量动画方式，只是做一些简单的介绍，不会去涉及其原理 
-    </details> 
-
-- 🚀 [字节跳动大规模多云CDN管理与产品化实践](https://juejin.cn/post/7338053219994746930) | Thu Feb 22 2024 12:01 PM 
-    <details><summary>展开描述 ...</summary> 
-    火山引擎边缘云融合CDN团队持续建设多云CDN平台，结合建设过程中面临的难点和挑战，团队负责人分享了火山引擎在多云应用架构下的CDN运维管理解决方案，介绍了融合CDN团队未来主要投入的方向。 
-    </details> 
-
-- 💪 [《优化接口设计的思路》系列：第八篇—分页接口的设计和优化](https://juejin.cn/post/7338240698703986729) | Thu Feb 22 2024 11:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    一、前言 大家好！我是sum墨，一个一线的底层码农，平时喜欢研究和思考一些技术相关的问题并整理成文，限于本人水平，如果文章和代码有表述不当之处，还请不吝赐教。 作为一名从业已达六年的老码农，我的工作主 
     </details> 
 <!-- juejin:END -->
 ### 少数派
