@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [修复访问GitHub日常超时](https://juejin.cn/post/7337967530970923060) | Thu Feb 22 2024 12:42 AM 
+- 🤗 [接私活利器！推荐一个基于SpringBoot3的后台管理框架](https://juejin.cn/post/7337955019876614156) | Thu Feb 22 2024 2:01 AM 
     <details><summary>展开描述 ...</summary> 
-    写在文章开头 近期提交改动到GitHub时经常会出现超时问题&lpar;Couldn‘t connect to server&rpar;，查阅网上大部分解决方案，得到一套比较有效的解决方案，遂以此文进行简单的记录。 你好 
+    一个轻巧的后台管理框架，项目后端基于Java17、SpringBoot3.0，前端基于Vue3，提供登录会话、用户管用户管理、角色管理、权限资源管理、事件日志、对象存储等基础功能。 
     </details> 
 
-- 🎡 [👅妈妈在也不用担心我不会写接口了](https://juejin.cn/post/7337957655191535650) | Thu Feb 22 2024 12:32 AM 
+- 🎡 [字典数据插入，Minio数据迁移，Pod无限重启解决方案](https://juejin.cn/post/7337970743844421658) | Thu Feb 22 2024 1:59 AM 
     <details><summary>展开描述 ...</summary> 
-    以前php在巅峰的时候，出现了Wordpress，Typecho，Z-Blog,等等一批流行的CMS框架，当然他们也得益于,Thinkphp,Laravel等等一批流行的mvc框架，时至至今，像Thi 
+    总结了下这段时间遇到的问题。 不同字典数据快速插入到DB，Minio数据迁移，Pod无限重启解决方案...... 
     </details> 
 
-- 🕯 [一行代码解 leetcode#162寻找峰值和#852山脉数组的峰顶索引](https://juejin.cn/post/7337963242415161356) | Thu Feb 22 2024 12:00 AM 
+- 🕯 [KaiwuDB 分布式系统 Range Split &amp; Merge 原理详解](https://juejin.cn/post/7337963242416111628) | Thu Feb 22 2024 1:56 AM 
     <details><summary>展开描述 ...</summary> 
-    一行代码即可求解 leetcode#162寻找峰值和#852山脉数组的峰顶索引 两道中等难度的算法题目 
+    对数据库分区感兴趣的伙伴千万不要错过本期直播！我们邀请到 KaiwuDB 高级研发工程师李永强详细剖析 KaiwuDB 分布式系统里 Range 的分裂（Split&rpar; 和合并 &lpar;Merge&rpar; 
     </details> 
 
-- 🚀 [最详细HTTP缓存知识总结和落地实践](https://juejin.cn/post/7337957655191404578) | Wed Feb 21 2024 7:55 PM 
+- 🚀 [Xpath](https://juejin.cn/post/7337946762359062528) | Thu Feb 22 2024 1:46 AM 
     <details><summary>展开描述 ...</summary> 
-    当下中国国内一般的家庭网络都可以达到百兆，千兆，下载速度很快，是否有必要使用http缓存？ 下载速度只是一方面，对于网站运营者来说，还有带宽成本，如果用户量非常大，节省的带宽成本也会非常可观。 
+    Python爬虫解析工具之xpath使用详解_python xpath用法-CSDN博客,Python爬虫解析工具之xpath使用详解_python xpath用法-CSDN博客 
     </details> 
 
-- 💪 [Nodejs 第四十一章（项目架构MVC,IoC,DI）](https://juejin.cn/post/7337964441613353010) | Wed Feb 21 2024 6:39 PM 
+- 💪 [02_ESlint+Prettier+Husky+Lint-staged+Stylelint+Commitlint](https://juejin.cn/post/7337946762358439936) | Wed Feb 21 2024 3:27 PM 
     <details><summary>展开描述 ...</summary> 
-    到现在为止，我们学习了，express框架，编写接口，mysql数据库读写数据，knex,prisma ORM框架，现在是时候把这些组合到一起，并且实现一个类似于Nestjs或者java的Spring 
+    为项目添加ESlint+Prettier+Husky+Lint-staged+Stylelint+Commitlint 
     </details> 
 <!-- juejin:END -->
 ### 少数派
