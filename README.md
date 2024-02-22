@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [程序员的狂欢——教你如何免费领取价值$200的Starknet空投](https://juejin.cn/post/7338048224710213673) | Thu Feb 22 2024 8:54 AM 
+- 🤗 [Sora 将如何改变我们的生活？](https://juejin.cn/post/7338250632938323977) | Thu Feb 22 2024 10:07 AM 
     <details><summary>展开描述 ...</summary> 
-    意外的收入 昨天，很意外收获了￥1500人民币，就因为曾经给几个awesome项目提过几次PR，难为情啊。不过这钱拿到手真的香，很多身边的程序员朋友都领到了这笔意外之财。 有Github账号的都看过来 
+    很荣幸受王又又邀请，今天和她以及《宇宙探索编辑部》副导演吕启洋（Ash）一起聊聊了一下当前火爆的话题 Sora，看 Sora 如何改变我们的生活。 我把技术相关的一些问题整理成了文字，希望能够帮助大家 
     </details> 
 
-- 🎡 [js用高德地图API实现地图轨迹绘制并添加标记](https://juejin.cn/post/7338227749020696585) | Thu Feb 22 2024 8:27 AM 
+- 🎡 [THREEJS——高科技感的魔法阵](https://juejin.cn/post/7338306790173261824) | Thu Feb 22 2024 10:01 AM 
     <details><summary>展开描述 ...</summary> 
-    js用高德地图API实现地图轨迹绘制并添加标记，将车辆的运行轨迹，打点成线，展示成地图，地图可拖动，可放大缩小，并展示起点、终点、外出里程。 
+    欢迎收藏点赞，本文内容包含Line2线条应用，补间动画tweenjs效果，最终实现出一个类似魔法阵的效果，效果炫酷，logo&lpar;那个小鸟&rpar;可替换，可以作为自己公司logo的展示图，亮瞎领导，卷si同行~ 
     </details> 
 
-- 🕯 [如何从无到有创造GIS数据](https://juejin.cn/post/7338239261194551346) | Thu Feb 22 2024 8:27 AM 
+- 🕯 [shiro 整合 springboot 实战](https://juejin.cn/post/7338306790173097984) | Thu Feb 22 2024 9:41 AM 
     <details><summary>展开描述 ...</summary> 
-    本文深入探讨了这个需求，提供了一个实用的指南，介绍如何快速有效地创造几种基本的GIS数据。不管遇到哪种障碍，当必要的数据不可获得时，我们必须自己动手创造这些数据。 
+    # 序言 前面我们学习了如下内容： [5 分钟入门 shiro 安全框架实战笔记]&lpar;https://www.toutiao.com/i6910927630845919756/&rpar; [shiro  
     </details> 
 
-- 🚀 [Fresco图片框架-&gt;Cronet网络引擎](https://juejin.cn/post/7338230967390797875) | Thu Feb 22 2024 8:26 AM 
+- 🚀 [AWS EC2 必知必会小技巧 | 机型特点解析和选型技巧分享](https://juejin.cn/post/7338250632937979913) | Thu Feb 22 2024 9:41 AM 
     <details><summary>展开描述 ...</summary> 
-    使用 Cornet 作为 Fresco 的网络请求库。 Http3/QUIC的优势，有很多介绍文章了，搜索就有很多，不再赘述，各大厂都已上线，其对移动端带来的优势非常诱人。 
+    琳琅满目的 EC2 类型必然会让开发者们陷入选择困难症。本文将简单介绍一些 EC2 机型选择的小技巧，目的是为了帮助读者能够更快地选择合适的 EC2 机型。 
     </details> 
 
-- 💪 [Python的pymysql：高效、灵活的MySQL数据库操作利器](https://juejin.cn/post/7338006667509727268) | Thu Feb 22 2024 8:24 AM 
+- 💪 [论文分享：利用对象存储进行高性能数据分析](https://juejin.cn/post/7338227749021171721) | Thu Feb 22 2024 9:32 AM 
     <details><summary>展开描述 ...</summary> 
-    在Python的世界里，当谈到与MySQL数据库进行交互时，pymysql无疑是一个备受推崇的库。它提供了强大的功能、灵活的接口以及良好的性能，使得Python开发者能够轻松、高效地与MySQL数据库 
+    本次分享的是慕尼黑工业大学的一篇论文，我们的云原生时序分析型数据库研发团队在这篇文章上受益匪浅，论文主要聚焦于如何在对象存储上进行高性能数据分析，其中一些结论为我们的工程实践提供了明确的指导方向。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
