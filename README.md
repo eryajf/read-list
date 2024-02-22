@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [这些 AI 自媒体的“空手套白狼”乱象，你中招了吗？](https://juejin.cn/post/7338228097025720370) | Thu Feb 22 2024 5:13 AM 
+- 🤗 [全新View Transitions API  更简易地实现平滑过渡效果](https://juejin.cn/post/7337955019877761036) | Thu Feb 22 2024 6:11 AM 
     <details><summary>展开描述 ...</summary> 
-    你是否曾被那些看似精彩实则空洞的 AI 文章所困扰？是否对那些利用 AI 制造焦虑、割韭菜的行为感到愤怒？这些 AI 自媒体的空手套白狼手段，你都见识过吗？ 
+    介绍 View Transitions API 是一个较新的web API，其实截止目前也已经出现快一年时间了，根据MDN的介绍，该API属于实验性技术，Chrom和Edge的111版本以上已经能够使 
     </details> 
 
-- 🎡 [iOS 17.4 Beta 4 发布了一些新功能](https://juejin.cn/post/7337944041684516918) | Thu Feb 22 2024 4:55 AM 
+- 🎡 [一线城市打工人的大龄焦虑：都市容不下躯壳，老家容不下灵魂（含华为 OD 面试原题）](https://juejin.cn/post/7338053793702199333) | Thu Feb 22 2024 6:01 AM 
     <details><summary>展开描述 ...</summary> 
-    这里每天分享一个 iOS 的新知识，快来关注我吧 前言 今天苹果发布了 iOS 17.4 第 4 个 Beta 版本，带了一些比较有意思的改动，今天来快速了解一下。 1、新的欢迎页面 当你升级完成后， 
+    互联网的大龄焦虑 今天看到一个老生常谈的话题大龄焦虑：都市容不下躯壳，老家容不下灵魂。 现如今，内卷已不是互联网行业专属名称，早已渗透到一线城市中的各行各业。 但地域落差对职业的影响，互联网行业还是稳 
     </details> 
 
-- 🕯 [Nest.js系列——内置 Pipe 和自定义 Pipe](https://juejin.cn/post/7338214297572540468) | Thu Feb 22 2024 4:53 AM 
+- 🕯 [NuxtJS v3 第一章 （项目搭建）](https://juejin.cn/post/7338053793702166565) | Thu Feb 22 2024 6:01 AM 
     <details><summary>展开描述 ...</summary> 
-    在 NestJS 框架中，Pipe 是一个强大的功能，用于在请求处理程序执行之前验证和转换数据。就是在参数传递到处理函数之前做一些验证和转换处理的 class，NestJS 内置了一系列常用的 Pip 
+    Nuxt.js项目创建指南 本指南提供了两种不同用户环境下创建 Nuxt.js 项目的步骤。第一部分适合能够正常访问外网资源的用户，第二部分则提供了在无法直接访问这些资源时的替代方案。 对于能够正常访 
     </details> 
 
-- 🚀 [Go deadcode：查找没意义的死代码，对于维护项目挺有用！](https://juejin.cn/post/7337989768637300763) | Thu Feb 22 2024 4:34 AM 
+- 🚀 [华为云软件开发生产线CodeArts前端DevOps实践](https://juejin.cn/post/7338011132382773288) | Thu Feb 22 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是煎鱼。 还记得我前两年在深圳参加了个技术大会，其中一个议题是携程的一个大佬分享他在日常工作中，发现一大堆过时的无意义代码和逻辑，导致大家工作较为繁琐且较为辛苦的情况。 携程应该是 Java 
+    原文链接：https://support.huaweicloud.com/reference-devcloud/devcloud_reference_040505.html 本文主要以CodeArts 
     </details> 
 
-- 💪 [深入理解MySQL COUNT函数：避免常见陷阱与性能优化](https://juejin.cn/post/7337959220748730368) | Thu Feb 22 2024 3:58 AM 
+- 💪 [漫谈数据分布可视化分析](https://juejin.cn/post/7338053793702101029) | Thu Feb 22 2024 5:50 AM 
     <details><summary>展开描述 ...</summary> 
-    MySQL中的COUNT&lpar;&rpar;函数是用于统计查询结果集中的行数的常用函数。在使用COUNT&lpar;&rpar;时，确实存在一些常见的问题和注意事项，本文将介绍一些主要的“坑” 
+    数据的分布，我们可以理解为是“数据的形状”。一个“完美”的数据分布，会将数据所有可能的数据点都囊括其中，因此数据的分布表征了不同数据之间的本质区别。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
