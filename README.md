@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [听说副业这样做，能增加不少外快，你们平时都做的什么？](https://www.v2ex.com/t/1017441#reply12) | Thu Feb 22 2024 2:29 AM
-- 🤗 [公司 WiFi 电脑能连，手机不能连，电脑还不能开热点，这种情况手机和电脑怎么在同一网络环境下](https://www.v2ex.com/t/1017426#reply16) | Thu Feb 22 2024 1:46 AM
-- 🎭 [如何保障服务的高可用？](https://www.v2ex.com/t/1017411#reply6) | Thu Feb 22 2024 1:05 AM
-- 🥷 [手动挡摩托车打不着火了怎么办](https://www.v2ex.com/t/1017409#reply12) | Thu Feb 22 2024 12:53 AM
-- 🐵 [开源项目如果想持有完整版权, 方便随时更换许可证, 可以把 CLA 直接附在 LICENSE 后面, 避免要求贡献者签署 CLA 吗](https://www.v2ex.com/t/1017393#reply6) | Wed Feb 21 2024 6:14 PM<!-- v2ex:END -->
+- 🥸 [如何让 VSCodeVim 在命令模式下自动切换到英文？](https://www.v2ex.com/t/1017482#reply0) | Thu Feb 22 2024 3:55 AM
+- 🤗 [[晋升复盘续] 每个热爱的东西，都是找到下一块珍宝的垫脚石](https://www.v2ex.com/t/1017476#reply2) | Thu Feb 22 2024 3:45 AM
+- 🎭 [工作中有接触过让你们觉得技术不错的人么](https://www.v2ex.com/t/1017472#reply9) | Thu Feb 22 2024 3:31 AM
+- 🥷 [最新的 chrome 浏览器不显示 vue 调试工具控制台](https://www.v2ex.com/t/1017466#reply7) | Thu Feb 22 2024 3:21 AM
+- 🐵 [现在阿里云、腾讯云、华为云的海外服务器一般能有多少折扣啊？](https://www.v2ex.com/t/1017465#reply7) | Thu Feb 22 2024 3:19 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
