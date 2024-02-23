@@ -100,11 +100,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [科技爱好者周刊（第 289 期）：宽容从何而来](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html) | Fri Feb 02 2024 12:23 AM
-- 💪 [科技爱好者周刊（第 288 期）：技术写作的首要诀窍](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-288.html) | Fri Jan 26 2024 12:13 AM
-- 🐎 [科技爱好者周刊（第 287 期）：禄丰恐龙谷记行](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html) | Fri Jan 19 2024 12:20 AM
-- 🤔 [科技爱好者周刊（第 286 期）：蓝色指示灯的解决方案](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-286.html) | Fri Jan 12 2024 12:31 AM
-- 🧠 [科技爱好者周刊（第 285 期）：为什么 PPT 不如备忘录](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html) | Fri Jan 05 2024 12:14 AM<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 290 期）：苹果头盔的最大问题](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-290.html) | Fri Feb 23 2024 12:11 AM
+- 💪 [科技爱好者周刊（第 289 期）：宽容从何而来](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html) | Fri Feb 02 2024 12:23 AM
+- 🐎 [科技爱好者周刊（第 288 期）：技术写作的首要诀窍](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-288.html) | Fri Jan 26 2024 12:13 AM
+- 🤔 [科技爱好者周刊（第 287 期）：禄丰恐龙谷记行](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html) | Fri Jan 19 2024 12:20 AM
+- 🧠 [科技爱好者周刊（第 286 期）：蓝色指示灯的解决方案](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-286.html) | Fri Jan 12 2024 12:31 AM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
