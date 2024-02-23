@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [分享一些我在面试时所遇到的CSS问题 （一）](https://juejin.cn/post/7338422591517212687) | Fri Feb 23 2024 6:14 AM 
+- 🤗 [Linux 内核 - 进化之源](https://juejin.cn/post/7338607782370000934) | Fri Feb 23 2024 7:07 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 在前端面试中，CSS是一个非常重要的考察点，因为它是构建网页界面和用户交互的关键技术之一。年也算过完了，又到了春招的时候，这是一个检验成果的阶段，接下来我会陆续分享一下我在面试时所遇到的与CSS 
+    热切地追求新知识并抓住出现的学习机会固然令人钦佩, 但立足于基础知识也同样重要. 了解了核心原则, 我们就能有效地推理每一种新出现的技术. 
     </details> 
 
-- 🎡 [前端面试场景题 - LazyMan &lpar;HardMan/懒汉&rpar; - 事件队列的应用](https://juejin.cn/post/7338325570087043112) | Fri Feb 23 2024 6:10 AM 
+- 🎡 [Blender+Three的龙年风格小场景](https://juejin.cn/post/7338325570087321640) | Fri Feb 23 2024 7:03 AM 
     <details><summary>展开描述 ...</summary> 
-    经典面试题：懒汉 - 事件队列的应用 实现一个类 LazyMan，要求 new LazyMan&lpar;&#39;煎饼狗子&#39;&rpar;.drink&lpar;&#39;水&#39;&rpar;.sleep&lpar;3000&rpar;.eat&lpar;&#39;憨包&#39;&rpar; 输出... 
+    本来计划年前要完成的个人项目，没想到 拖延症 拖到了元宵节。 一个中国风3D小场景，还有龙在天上飞。 
     </details> 
 
-- 🕯 [Redisson源码（一）RedissonLock加锁与解锁过程原理分析](https://juejin.cn/post/7338380194737946660) | Fri Feb 23 2024 6:06 AM 
+- 🕯 [B端产品经理面试一般问什么，7个QA，作为面试官我希望你这样回答](https://juejin.cn/post/7338325570087288872) | Fri Feb 23 2024 6:51 AM 
     <details><summary>展开描述 ...</summary> 
-    在当今分布式微服务架构流行的情况下，显然在传统单体项目中使用的JDK自带的锁已经不能解决资源竞争的问题了， 进而出现的解决方案有1&rpar;利用数据库 2&rpar;redis 3&rpar;zookeeper，经过验证的是利用 
+    面试失败的原因更是五花八门，有时候会因为面试官无休刚睡醒的状态和说话的语调，有时候会因为面试者在面试路上做太多心理建设而导致的心态紧张，也有时候是因为双方第一眼看见所浮现的上辈子的虐缘...... 
     </details> 
 
-- 🚀 [浅尝本机推流直播](https://juejin.cn/post/7338595193891569690) | Fri Feb 23 2024 6:06 AM 
+- 🚀 [前端工业级3d框架，babylon.js入门（1）](https://juejin.cn/post/7338595193891962906) | Fri Feb 23 2024 6:41 AM 
     <details><summary>展开描述 ...</summary> 
-    操作步骤 1. nginx搭建rtmp服务器 首先安装带有rtmp模块的nginx，有两种方案 从官网下载nginx源码，并下载rtmp模块&lpar;https://github.com/arut/nginx 
+    依赖安装 先装个核心的依赖，code，其他还有@babylonjs/gui、@babylonjs/havok、@babylonjs/loaders，暂时不知道是干啥的，用的时候再说吧。 DEMO1 事 
     </details> 
 
-- 💪 [ITSM专家会诊功能上线，群聊解难题，协同解决就这么简单！](https://juejin.cn/post/7338388292970545152) | Fri Feb 23 2024 6:05 AM 
+- 💪 [从零开始搭建低代码平台（二）- 实现组件拖拽功能](https://juejin.cn/post/7338605981594730559) | Fri Feb 23 2024 6:40 AM 
     <details><summary>展开描述 ...</summary> 
-    在最新推出的V1.28.0版本中，燕千云带来了一系列激动人心的新功能及优化，旨在全面提升您的工作效率和体验。 
+    低代码平台的编辑器的实现，非常简约的版本，利于二次改造和学习。主要是分享个人一些思路，希望能给到大家提供一点参考。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
