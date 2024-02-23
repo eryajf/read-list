@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [vite 原理源码 - 启动开发服务器](https://juejin.cn/post/7338614904393924659) | Fri Feb 23 2024 12:13 PM 
+- 🤗 [猜字谜｜构建生成式 AI 应用实践（一）](https://juejin.cn/post/7338634091398168610) | Fri Feb 23 2024 12:51 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文是这个系列的第一篇，将概要介绍如何创建 Amazon SageMaker 笔记本实例，获取完整的前后端程序代码，实验涉及的组件和实现代码文件等内容。 
+    </details> 
+
+- 🎡 [vite 原理源码 - 启动开发服务器](https://juejin.cn/post/7338614904393924659) | Fri Feb 23 2024 12:13 PM 
     <details><summary>展开描述 ...</summary> 
     vite 5.0.12 当在命令行输入 vite，就可以在当前目录下启动 Vite 开发服务器。 在vite的 package.json 文件中，有 vite 命令对应的可执行文件为 bin 子目录下 
     </details> 
 
-- 🎡 [小技巧：在 Flutter 中提供触觉反馈，让用户感受到您的应用程序](https://juejin.cn/post/7338645701658591269) | Fri Feb 23 2024 12:09 PM 
+- 🕯 [小技巧：在 Flutter 中提供触觉反馈，让用户感受到您的应用程序](https://juejin.cn/post/7338645701658591269) | Fri Feb 23 2024 12:09 PM 
     <details><summary>展开描述 ...</summary> 
     数字世界和现实世界之间总是存在着差距。无论技术多么先进，我们总是怀念现实的感觉。触觉反馈是弥合这两个领域之间差距的一种方式。 为用户提供物理反馈，如音频或振动，创造更直观和易访问的交互，并改善用户体验 
     </details> 
 
-- 🕯 [记录 re:Invent 大会，使用 PartyRock 编写我们第一个 AI 应用以及心得](https://juejin.cn/post/7338645700099768371) | Fri Feb 23 2024 12:08 PM 
+- 🚀 [记录 re:Invent 大会，使用 PartyRock 编写我们第一个 AI 应用以及心得](https://juejin.cn/post/7338645700099768371) | Fri Feb 23 2024 12:08 PM 
     <details><summary>展开描述 ...</summary> 
     如果说 2023 年什么应用技术最火，那么说是 OpenAI 为代表的 ChatGPT 在 AI 方面的突破和发展，是完全没有任何的争议的。 随后，各大云厂商以及应用集成商甚至垂直领域的服务提供商都有 
     </details> 
 
-- 🚀 [纯 JS 也能支持静态类型](https://juejin.cn/post/7338655886443806783) | Fri Feb 23 2024 12:06 PM 
+- 💪 [纯 JS 也能支持静态类型](https://juejin.cn/post/7338655886443806783) | Fri Feb 23 2024 12:06 PM 
     <details><summary>展开描述 ...</summary> 
     在 JS 的大型项目中，集成前端工具链的重要一环就是静态类型提示和检查。TS 毫无疑问是 JS 静态类型的最佳实践，虽然但是，有时候不需要 TS 也可以享受静态类型带来的福利。 
-    </details> 
-
-- 💪 [深入剖析@RequestBody无法被重复解析的原因](https://juejin.cn/post/7338645700099735603) | Fri Feb 23 2024 12:02 PM 
-    <details><summary>展开描述 ...</summary> 
-    深入理解@ReqeustBody解析原理，透彻剖析SpringMVC内部@RequestBody无法被重复解析原因。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
