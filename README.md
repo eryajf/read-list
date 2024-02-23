@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [68K star！24年替换Node.js的最佳选择](https://juejin.cn/post/7338376035829563446) | Fri Feb 23 2024 4:06 AM 
+- 🤗 [我们已经错过了这场革命吗？](https://juejin.cn/post/7338380194737537060) | Fri Feb 23 2024 5:08 AM 
+    <details><summary>展开描述 ...</summary> 
+    用不了多久，这个世界就要分为人工智能世界和人工智障世界了。 如果自绝于新质生产力革命，时代抛下我们的时候，也不会有一点 
+    </details> 
+
+- 🎡 [HandlerThread要记得quit哦](https://juejin.cn/post/7338374972816211978) | Fri Feb 23 2024 5:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    背景 最近在分析线程 pthread_create OOM 问题时，无意发现HandlerThread使用不当会造成一些性能损耗，可以说是加深了对 HandlerThread的理解吧 HandlerT 
+    </details> 
+
+- 🕯 [又是一年轰轰烈烈金三银四——让算法和数据结构不再是你的软肋（下）](https://juejin.cn/post/7338380194737258532) | Fri Feb 23 2024 4:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 接上文：又是一年轰轰烈烈金三银四——让算法和数据结构不再是你的软肋（中） - 掘金 &lpar;juejin.cn&rpar; 因为算法考察的知识点特别的广，一篇文章难以涵盖（所以将其分为上中下三篇文章进行阐述）， 
+    </details> 
+
+- 🚀 [68K star！24年替换Node.js的最佳选择](https://juejin.cn/post/7338376035829563446) | Fri Feb 23 2024 4:06 AM 
     <details><summary>展开描述 ...</summary> 
     我们今天要介绍的开源项目是一个快速的全能工具包，用于运行、构建、测试和调试 JavaScript 和 TypeScript，它就是：Bun 
     </details> 
 
-- 🎡 [babel： 轻松将箭头函数转换为普通函数-源码](https://juejin.cn/post/7338388292970184704) | Fri Feb 23 2024 4:02 AM 
+- 💪 [babel： 轻松将箭头函数转换为普通函数-源码](https://juejin.cn/post/7338388292970184704) | Fri Feb 23 2024 4:02 AM 
     <details><summary>展开描述 ...</summary> 
     我们写的箭头函数，如果要通过babel转换为普通的function 函数， 可以在babel配置中添加 babel.config.json 源码实现 我们看一下源码实现, 箭头函数babel-官方插件 
-    </details> 
-
-- 🕯 [西安有哪些值得去的互联网公司？最新版](https://juejin.cn/post/7338374972815376394) | Fri Feb 23 2024 4:01 AM 
-    <details><summary>展开描述 ...</summary> 
-    接下来的一段时间，我将出一些地方上比较值得去的公司，供 Java 程序员作为找工作和跳槽时进行挑选。 西安作为中国西部的科技和互联网产业发展的重要城市，拥有着少些知名且对 Java 程序员具有吸引力的 
-    </details> 
-
-- 🚀 [vue3 vuedraggable常用拖拽标签组件+复选功能（组件封装使用）](https://juejin.cn/post/7338255194609631259) | Fri Feb 23 2024 3:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    今天封装（CV即用）了vue3常用的vuedraggable拖拽标签组件+复选功能，介绍了特性、属性、函数配置、事件、插槽、使用六个方面，让开发变得更加高效。 
-    </details> 
-
-- 💪 [让 K8s 更简单！8款你不得不知的 AI 工具-Part 2](https://juejin.cn/post/7338296953846349876) | Fri Feb 23 2024 3:40 AM 
-    <details><summary>展开描述 ...</summary> 
-    在 part 1 中，我们探讨了目前比较流行的四种 OpenAI 开源工具。在今天的 part 2 中我们将探究另外三种不同的 OpenAI 开源工具并介绍一些与 Appilot 相关的内容。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
