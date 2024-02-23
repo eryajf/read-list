@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [过年时鼓捣xirang框架遇到的前后端问题两则](https://wiki.eryajf.net/pages/fe52bc/) | Mon Feb 19 2024 11:54 PM 
+- 🫶 [学习周刊-总第147期-2024年第08周](https://wiki.eryajf.net/pages/5997f0/) | Fri Feb 23 2024 8:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第147期-一个项目协作开源软件 
+    </details> 
+
+- 🧰 [过年时鼓捣xirang框架遇到的前后端问题两则](https://wiki.eryajf.net/pages/fe52bc/) | Mon Feb 19 2024 11:54 PM 
     <details><summary>展开描述 ...</summary> 
     go的validate库使用required时的零值问题。vue-element-admin多级路由component配置的一个坑。 
     </details> 
 
-- 🧰 [学习周刊-总第146期-2024年第07周](https://wiki.eryajf.net/pages/f351e3/) | Thu Feb 15 2024 9:31 PM 
+- 🌏 [学习周刊-总第146期-2024年第07周](https://wiki.eryajf.net/pages/f351e3/) | Thu Feb 15 2024 9:31 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第146期-一个小型轻量级的监听docker容器日志的应用程序 
     </details> 
 
-- 🌏 [学习周刊-总第145期-2024年第06周](https://wiki.eryajf.net/pages/bcdf69/) | Fri Feb 09 2024 4:29 PM 
+- 😎 [学习周刊-总第145期-2024年第06周](https://wiki.eryajf.net/pages/bcdf69/) | Fri Feb 09 2024 4:29 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第145期-几个中间件管理后台项目 
     </details> 
 
-- 😎 [学习周刊-总第144期-2024年第05周](https://wiki.eryajf.net/pages/4b8996/) | Thu Feb 01 2024 10:14 PM 
+- 💂 [学习周刊-总第144期-2024年第05周](https://wiki.eryajf.net/pages/4b8996/) | Thu Feb 01 2024 10:14 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第144期-两个内网穿透项目 
-    </details> 
-
-- 💂 [学习周刊-总第143期-2024年第04周](https://wiki.eryajf.net/pages/9661a3/) | Thu Jan 25 2024 9:21 PM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第143期-awesome-ops运维领域的宝典 
     </details> 
 <!-- eryajf:END -->
 
