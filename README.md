@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [隐私也要付费？Meta公司为收集用户数据再出“奇招”](https://www.freebuf.com/news/392359.html) | Fri Feb 23 2024 3:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    自去年底以来，欧盟的Facebook和Instagram用户要使用不收集其数据进行定向广告的无广告版本的话，就必须支付订阅费。 
+    </details> 
+
 - 🦄 [CVE-2024-23897 Jenkins 未授权任意文件读取漏洞分析](https://www.freebuf.com/articles/web/392319.html) | Thu Feb 22 2024 8:18 AM 
     <details><summary>展开描述 ...</summary> 
     CVE-2024-23897 Jenkins 未授权任意文件读取漏洞分析 
     </details> 
 
-- 🦄 [微软Outlook中#MonikerLink漏洞的风险和大局观](https://www.freebuf.com/articles/paper/392312.html) | Thu Feb 22 2024 7:27 AM 
+- 🦅 [微软Outlook中#MonikerLink漏洞的风险和大局观](https://www.freebuf.com/articles/paper/392312.html) | Thu Feb 22 2024 7:27 AM 
     <details><summary>展开描述 ...</summary> 
     近日，披露了Outlook中的一个重大安全问题，被称为#MonikerLink漏洞。该漏洞不仅允许泄漏本地NTLM信息，还可能允许远程代码执行以及更多攻击向量。 
     </details> 
 
-- 🦅 [FreeBuf 早报 | 2024年亚洲黑帽大会定档；加密货币交易所FixedFloat遭遇黑客入侵](https://www.freebuf.com/articles/392309.html) | Thu Feb 22 2024 6:33 AM 
+- 🪄 [FreeBuf 早报 | 2024年亚洲黑帽大会定档；加密货币交易所FixedFloat遭遇黑客入侵](https://www.freebuf.com/articles/392309.html) | Thu Feb 22 2024 6:33 AM 
     <details><summary>展开描述 ...</summary> 
     2024年亚洲黑帽大会将于4月16日至4月19日在新加坡滨海湾金沙会展中心举行。 
     </details> 
 
-- 🪄 [无线充电器沦为帮凶，不仅操纵语音助手，还能烧毁手机](https://www.freebuf.com/news/392295.html) | Thu Feb 22 2024 3:50 AM 
+- 💻 [无线充电器沦为帮凶，不仅操纵语音助手，还能烧毁手机](https://www.freebuf.com/news/392295.html) | Thu Feb 22 2024 3:50 AM 
     <details><summary>展开描述 ...</summary> 
     名为“VoltSchemer”的电磁干扰攻击，不仅可以让现成的无线充电器操纵智能手机的语音助手，还能够对设备以高热的形式进行物理破坏。 
-    </details> 
-
-- 💻 [新 Wi-Fi 漏洞导致 Android 和 Linux 设备近乎“裸奔”](https://www.freebuf.com/news/392285.html) | Thu Feb 22 2024 3:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    网络安全研究人员发现，在安卓、Linux和ChromeOS设备中的开源Wi-Fi软件存在两个身份验证绕过漏洞，这些漏洞可能会诱使用户加入合法网络的恶意克隆，或允许威胁攻击者在没有密码的情况下加入可信网络。据悉，安全研究人员在对wpa_supplicant和英特尔的iNet Wireless Daemon（IWD）进行安全评估后发现了这两个漏洞，它们分别被追踪为CVE-2023-52160和CVE- 
     </details> 
 <!-- freebuf:END -->
 
