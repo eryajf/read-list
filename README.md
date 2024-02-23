@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [解密JavaScript中的隐式类型转换](https://juejin.cn/post/7338360121624248356) | Fri Feb 23 2024 8:05 AM 
+- 🤗 [一点小小的类型安全震撼](https://juejin.cn/post/7338617055149359131) | Fri Feb 23 2024 9:05 AM 
     <details><summary>展开描述 ...</summary> 
-    JavaScript中的隐式类型转换是一个重要且常见的概念，它使得在处理数据时表现出一些令人意外的行为。本文深入探讨了隐式类型转换的工作原理、常见情况以及如何避免潜在的陷阱。通过了解隐式类型转换的概念 
+    经常写 TypeScript 的都知道，写类型容易，让类型安全难。 在学习 TypeScript 的过程中你可能就见到过 is 这个特殊的语法了，在这里就不对他进行过多的介绍了，我们主要来讲讲一些问题 
     </details> 
 
-- 🎡 [NumPy入个门吧](https://juejin.cn/post/7338422591518261263) | Fri Feb 23 2024 7:52 AM 
+- 🎡 [改进条件语句，探寻可以替代 if...else 的 7 种方式！](https://juejin.cn/post/7338645700098785331) | Fri Feb 23 2024 9:02 AM 
     <details><summary>展开描述 ...</summary> 
-    NumPy 的全称叫 Numerical Python ，它是 Python 科学计算最重要的基础包之一。很多提供科学计算的包都是基于 NumPy 之上建立的。 
+    条件语句是一个经常需要思考和改进的关键部分。if...else 结构虽然是我们常用的条件语句之一，但当代码逻辑变得复杂，if...else 结构可能会导致代码冗长、难以维护和理解。 
     </details> 
 
-- 🕯 [依赖反转和依赖注入](https://juejin.cn/post/7338617055148900379) | Fri Feb 23 2024 7:48 AM 
+- 🕯 [A/B测试助力企业优化私域运营：春节营销节点背后的科学决策](https://juejin.cn/post/7338443551745359912) | Fri Feb 23 2024 8:58 AM 
     <details><summary>展开描述 ...</summary> 
-    依赖反转和依赖注入是软件开发中两个密切相关的概念, 由于它们的重叠方面经常被混淆. 虽然它们可以协同工作, 但在实现结构良好的应用方面却有着不同的目的. 
+    2024春节是一个近4.8亿人次出游的假期，餐饮、旅游、零售等热门行业的收入都不同程度上涨，以消费行业为例，春节作为开年的重大营销节点，商家围绕春节的私域营销之战不断升级 
     </details> 
 
-- 🚀 [一文了解——to系全家桶并带讲解源码（Vue.js）](https://juejin.cn/post/7338591452914106368) | Fri Feb 23 2024 7:47 AM 
+- 🚀 [Stable Diffusion 3 强势来袭，从此将文字绘画出来不是难题！](https://juejin.cn/post/7338605981595877439) | Fri Feb 23 2024 8:40 AM 
     <details><summary>展开描述 ...</summary> 
-    To系全家桶并带源码 1.toRef 1.1toRef的例子 举一个例子 在这个例子中打印出来的是 jump 而在其中的视图 {{who}} 的打印值不会改变 因为其不是响应式的 展示如下 而在此时我 
+    Stability AI 刚发布 Stable Diffusion 3 模型进行公测。该模型采用 diffusion transformer 架构，显著提高了在多主题提示、图像质量和拼写能力方面的性能 
     </details> 
 
-- 💪 [前端接口多参数请求时如何优雅封装](https://juejin.cn/post/7338360121624182820) | Fri Feb 23 2024 7:43 AM 
+- 💪 [贡献过Github开源项目的可领$231，亲测有效！](https://juejin.cn/post/7338591452914696192) | Fri Feb 23 2024 8:39 AM 
     <details><summary>展开描述 ...</summary> 
-    接口多参数优雅封装 开发中经常会遇到有一个接口需要的query参数比较多， 参数的数据类型也不全是 string | number ，还存在数组或者其他类型的情况 
+    就在刚才我已经领到了价值231美元的Strk并且变现啦​！ 这次领取有一个条件就是，需要是Github排名前5k的开源项目的Contributor，并提交最少3次&amp;其中，至少有一次PR贡献是在 201 
     </details> 
 <!-- juejin:END -->
 ### 少数派
