@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Decktopus AI 2.0 - 团队 AI 演示助手](https://xinquji.com/posts/809238?utm_campaign=xinquji-rss) | Thu Feb 22 2024 6:00 AM 
+- 👀 [UsignDoc - 简化电子签名，保护您的文档](https://xinquji.com/posts/809275?utm_campaign=xinquji-rss) | Fri Feb 23 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     团队 AI 演示助手  
+     简化电子签名，保护您的文档  
     </details> 
 
-- 🥷 [ai LaMo - 免费、有趣且有效的方式来掌握 AI 技能](https://xinquji.com/posts/809237?utm_campaign=xinquji-rss) | Thu Feb 22 2024 6:00 AM 
+- 🥷 [Heeps.ai - 在几分钟内批量生成并发布文章](https://xinquji.com/posts/809274?utm_campaign=xinquji-rss) | Fri Feb 23 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     免费、有趣且有效的方式来掌握 AI 技能  
+     在几分钟内批量生成并发布文章  
     </details> 
 
-- 💼 [Kaamel Privacy Center - 20 分钟免费实现隐私合规](https://xinquji.com/posts/809236?utm_campaign=xinquji-rss) | Thu Feb 22 2024 6:00 AM 
+- 💼 [Dosty Petcare - 为狗猫父母养一只健康快乐的宠物](https://xinquji.com/posts/809273?utm_campaign=xinquji-rss) | Fri Feb 23 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     20 分钟免费实现隐私合规  
+     为狗猫父母养一只健康快乐的宠物  
     </details> 
 
-- 🦅 [Dreamwriter - 人工智能驱动的内容创作](https://xinquji.com/posts/809235?utm_campaign=xinquji-rss) | Thu Feb 22 2024 6:00 AM 
+- 🦅 [FinFloh - 适合 CFO 和 B2B 财务团队的应收账款软件](https://xinquji.com/posts/809272?utm_campaign=xinquji-rss) | Fri Feb 23 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     人工智能驱动的内容创作  
+     适合 CFO 和 B2B 财务团队的应收账款软件  
     </details> 
 
-- 😺 [mintment.co - 您的互动心理健康伙伴](https://xinquji.com/posts/809234?utm_campaign=xinquji-rss) | Thu Feb 22 2024 6:00 AM 
+- 😺 [Meetz Ai - 人工智能个性化电话推销和电子邮件潜在客户开发](https://xinquji.com/posts/809271?utm_campaign=xinquji-rss) | Fri Feb 23 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     您的互动心理健康伙伴  
+     人工智能个性化电话推销和电子邮件潜在客户开发  
     </details> 
 <!-- xinquji:END -->
