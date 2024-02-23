@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [FxFactory Pro 8.0.13-7767 视觉特效插件包](https://xclient.info/s/fxfactory.html) | Fri Feb 23 2024 12:59 AM 
-    <details><summary>展开描述 ...</summary> 
-    FXFactory为Final Cut Pro, Motion, Premiere Pro和After Effects开发数以百计的视觉效果插件 
-    </details> 
-
--  [PhotoSweeper X 4.8.5 重复照片查找删除工具](https://xclient.info/s/photosweeper.html) | Fri Feb 23 2024 12:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    PhotoSweeper可以快速有效的从你的电脑中删除重复照片,可以对照片分组对比,可以选择格式,尺寸,文件大小. 
-    </details> 
-
-- ⚗️ [Final Draft 13.0.2 剧本写作工具](https://xclient.info/s/final-draft.html) | Fri Feb 23 2024 12:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    Final Draft是全球最畅销的剧本编写程序。 
-    </details> 
-
-- 🔥 [Mp3tag 1.8.14 音频元数据编辑](https://xclient.info/s/mp3tag.html) | Thu Feb 22 2024 3:01 AM 
+- 🦏 [Mp3tag 1.8.15 音频元数据编辑](https://xclient.info/s/mp3tag.html) | Fri Feb 23 2024 1:04 AM 
     <details><summary>展开描述 ...</summary> 
     Mp3tag是一个功能强大且易于使用的编辑音频文件元数据的工具 
     </details> 
 
-- 🌋 [Sound Siphon 3.6.7 音频处理软件](https://xclient.info/s/sound-siphon.html) | Thu Feb 22 2024 3:01 AM 
+-  [Path Finder 2168 超赞Mac资源 文件管理工具](https://xclient.info/s/path-finder.html) | Fri Feb 23 2024 1:03 AM 
     <details><summary>展开描述 ...</summary> 
-    Sound Siphon 可以作为你的Mac的音频输入设备。 
+    Path Finder 是一款类似于Finder的系统文件管理器，它能轻而易举访问系统文件或者网络硬盘。可自定义标签集，支持新建不同的侧边栏，根据不同的应用调取。使用操作的确比系统自带的 Finder 操作方便多了。 
+    </details> 
+
+- ⚗️ [DirEqual 5.8-58005 文件比较工具](https://xclient.info/s/direqual.html) | Fri Feb 23 2024 1:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    DirEqual是Mac平台上的一款文件比较工具，使比较Mac上的本地文件夹变得非常容易。 
+    </details> 
+
+- 🔥 [Music Tag Editor Pro 7.5.3 音频文件标签编辑](https://xclient.info/s/music-tag-editor-pro.html) | Fri Feb 23 2024 1:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    Music Tag Editor Pro 能帮你快速高效的编辑不同音乐格式文件的标签信息 
+    </details> 
+
+- 🌋 [FxFactory Pro 8.0.13-7767 视觉特效插件包](https://xclient.info/s/fxfactory.html) | Fri Feb 23 2024 12:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    FXFactory为Final Cut Pro, Motion, Premiere Pro和After Effects开发数以百计的视觉效果插件 
     </details> 
 <!-- xclient:END -->
 
