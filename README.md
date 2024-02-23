@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [这一次 LockBit 勒索软件真覆灭了吗？](https://www.freebuf.com/articles/392383.html) | Fri Feb 23 2024 5:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    目前，LockBit 数据泄露网站上赫然出现“该网站处于执法部门控制之下”的画面。 
+    </details> 
+
 - 🦄 [美国指控著名安全厂商Avast 向广告商出售用户浏览数据](https://www.freebuf.com/news/392370.html) | Fri Feb 23 2024 3:49 AM 
     <details><summary>展开描述 ...</summary> 
     Avast被美国联邦贸易委员会 &lpar;FTC&rpar; 指控通过其浏览器扩展和防病毒软件收集消费者网络浏览数据，并在未经消费者同意的情况下出售这些数据。 
     </details> 
 
-- 🦄 [苹果推出后量子加密协议PQ3，iMessage即将迎来大升级！](https://www.freebuf.com/news/392362.html) | Fri Feb 23 2024 3:20 AM 
+- 🦅 [苹果推出后量子加密协议PQ3，iMessage即将迎来大升级！](https://www.freebuf.com/news/392362.html) | Fri Feb 23 2024 3:20 AM 
     <details><summary>展开描述 ...</summary> 
     PQ3 具有抗妥协加密和广泛的防御功能，甚至可以抵御高度复杂的量子攻击，是首个达到三级安全等级的信息协议。 
     </details> 
 
-- 🦅 [隐私也要付费？Meta公司为收集用户数据再出“奇招”](https://www.freebuf.com/news/392359.html) | Fri Feb 23 2024 3:16 AM 
+- 🪄 [隐私也要付费？Meta公司为收集用户数据再出“奇招”](https://www.freebuf.com/news/392359.html) | Fri Feb 23 2024 3:16 AM 
     <details><summary>展开描述 ...</summary> 
     自去年底以来，欧盟的Facebook和Instagram用户要使用不收集其数据进行定向广告的无广告版本的话，就必须支付订阅费。 
     </details> 
 
-- 🪄 [CVE-2023-22527 Confluence 未授权 SSTI RCE 漏洞分析](https://www.freebuf.com/articles/web/392320.html) | Thu Feb 22 2024 8:22 AM 
+- 💻 [CVE-2023-22527 Confluence 未授权 SSTI RCE 漏洞分析](https://www.freebuf.com/articles/web/392320.html) | Thu Feb 22 2024 8:22 AM 
     <details><summary>展开描述 ...</summary> 
     CVE-2023-22527 Confluence 未授权 SSTI RCE 漏洞分析 
-    </details> 
-
-- 💻 [CVE-2024-23897 Jenkins 未授权任意文件读取漏洞分析](https://www.freebuf.com/articles/web/392319.html) | Thu Feb 22 2024 8:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    CVE-2024-23897 Jenkins 未授权任意文件读取漏洞分析 
     </details> 
 <!-- freebuf:END -->
 
