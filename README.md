@@ -676,19 +676,19 @@
     与人类有关的一切都永远不应被特权对待 
     </details> 
 
-- 🎉 [大家电的寿命正在缩短](http://jandan.net/p/115691) | Thu Feb 22 2024 11:03 PM 
+- 🎉 [大家电的寿命正在缩短](http://jandan.net/p/115691) | Thu Feb 22 2024 11:04 PM 
     <details><summary>展开描述 ...</summary> 
     复杂的设计和廉价材料缩短使用寿命 
     </details> 
 
-- 🐲 [光环褪去：大厂的工作不再有吸引力](http://jandan.net/p/115690) | Thu Feb 22 2024 11:02 PM 
+- 🐲 [为什么我无法专注：了解 ADHD](http://jandan.net/p/115700) | Thu Feb 22 2024 11:03 PM 
     <details><summary>展开描述 ...</summary> 
-    科技热潮降温，昔日明星岗位褪色 
+    「注意力缺陷过动障碍」，简称ADHD，俗称「过动症」 
     </details> 
 
--  [当社交媒体对肠道健康过度追捧](http://jandan.net/p/115689) | Thu Feb 22 2024 11:01 PM 
+-  [光环褪去：大厂的工作不再有吸引力](http://jandan.net/p/115690) | Thu Feb 22 2024 11:02 PM 
     <details><summary>展开描述 ...</summary> 
-    盲目夸大与事实的差距 
+    科技热潮降温，昔日明星岗位褪色 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
