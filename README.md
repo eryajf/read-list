@@ -301,7 +301,7 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [这一次 LockBit 勒索软件真覆灭了吗？](https://www.freebuf.com/news/392383.html) | Fri Feb 23 2024 5:27 AM 
+- 🦄 [勒索之王LockBit 被11国联合执法覆灭？将发布4.0版本](https://www.freebuf.com/news/392383.html) | Fri Feb 23 2024 5:27 AM 
     <details><summary>展开描述 ...</summary> 
     目前，LockBit 数据泄露网站上赫然出现“该网站处于执法部门控制之下”的画面。 
     </details> 
@@ -316,7 +316,7 @@
     PQ3 具有抗妥协加密和广泛的防御功能，甚至可以抵御高度复杂的量子攻击，是首个达到三级安全等级的信息协议。 
     </details> 
 
-- 🪄 [隐私也要付费？Meta公司为收集用户数据再出“奇招”](https://www.freebuf.com/news/392359.html) | Fri Feb 23 2024 3:16 AM 
+- 🪄 [个人隐私还要付费？Meta公司为收集用户数据再出“奇招”](https://www.freebuf.com/news/392359.html) | Fri Feb 23 2024 3:16 AM 
     <details><summary>展开描述 ...</summary> 
     自去年底以来，欧盟的Facebook和Instagram用户要使用不收集其数据进行定向广告的无广告版本的话，就必须支付订阅费。 
     </details> 
