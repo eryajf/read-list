@@ -301,7 +301,7 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [这一次 LockBit 勒索软件真覆灭了吗？](https://www.freebuf.com/articles/392383.html) | Fri Feb 23 2024 5:27 AM 
+- 🦄 [这一次 LockBit 勒索软件真覆灭了吗？](https://www.freebuf.com/news/392383.html) | Fri Feb 23 2024 5:27 AM 
     <details><summary>展开描述 ...</summary> 
     目前，LockBit 数据泄露网站上赫然出现“该网站处于执法部门控制之下”的画面。 
     </details> 
