@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [vs code 中运行 Python 代码默认使用 wsl 中的 python3 来跑的,怎么把它改成 windows 的 Python ?](https://www.v2ex.com/t/1017753#reply0) | Fri Feb 23 2024 2:06 AM
-- 🤗 [前端有没有录屏插件呀](https://www.v2ex.com/t/1017742#reply6) | Fri Feb 23 2024 1:48 AM
-- 🎭 [各位在美国注册有 LLC 的请注意，诈骗信件猖獗，请小心](https://www.v2ex.com/t/1017720#reply2) | Thu Feb 22 2024 11:39 PM
-- 🥷 [2024 了找不到完美的键盘](https://www.v2ex.com/t/1017710#reply38) | Thu Feb 22 2024 4:20 PM
-- 🐵 [推广太难了，尝试下半开源的运营方式](https://www.v2ex.com/t/1017708#reply31) | Thu Feb 22 2024 4:14 PM<!-- v2ex:END -->
+- 🥸 [h5 网站断网重连之后仍然无法访问，需要重新打开浏览器](https://www.v2ex.com/t/1017791#reply0) | Fri Feb 23 2024 3:08 AM
+- 🤗 [关于谷歌商店不能支付的问题，有大佬吗](https://www.v2ex.com/t/1017786#reply0) | Fri Feb 23 2024 2:56 AM
+- 🎭 [刚刚发现三年前 198 买的腾讯云 2C4G8M 快到期了，请问下现在还有这么优惠的价格吗？](https://www.v2ex.com/t/1017785#reply4) | Fri Feb 23 2024 2:53 AM
+- 🥷 [Google Gemma 开源没人讨论下吗？](https://www.v2ex.com/t/1017782#reply3) | Fri Feb 23 2024 2:48 AM
+- 🐵 [绘制软件执行流程](https://www.v2ex.com/t/1017776#reply1) | Fri Feb 23 2024 2:36 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
