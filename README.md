@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [炽热之痛：解读vant表单校验失败](https://juejin.cn/post/7338296953845776436) | Fri Feb 23 2024 1:50 AM 
+- 🤗 [React18 之 Suspense](https://juejin.cn/post/7338265878289317951) | Fri Feb 23 2024 2:09 AM 
     <details><summary>展开描述 ...</summary> 
-    有一个vant-form表单组件，有： 字段`A`，类型单选框，必填 若单选框选为true，则显示字段`B`（必填） 若单选框为false，则不显示字段`B`（必填） 此时提交表单时，发现校验失败。 
+    Suspense 组件我们并不陌生，中文名可以理解为暂停or悬停  , 在 React16 中我们通常在路由懒加载中配合 Lazy 组件一起使用 ，当然这也是官方早起版本推荐的唯一用 
     </details> 
 
-- 🎡 [DFS问题补充](https://juejin.cn/post/7338325396214104118) | Fri Feb 23 2024 1:48 AM 
+- 🎡 [程序员的财富指南 第二章 （个人修炼与选择合作伙伴）](https://juejin.cn/post/7338314540303663143) | Fri Feb 23 2024 2:09 AM 
     <details><summary>展开描述 ...</summary> 
-    上一篇文章DFS岛屿问题部分汇总 - 掘金 &lpar;juejin.cn&rpar;里我们讲了一些可以用DFS解决的岛屿问题，但是做的过程中还有其他形式的问题也可以用DFS解决，这篇文章补充一下相关题目。 
+    在商业世界中，成功是一个多面体，既包括个人的成长与发展，也涉及与谁合作以及如何合作的决策。这两方面互为补充，缺一不可。以下内容将详细探讨如何在个人层面提升自己，以及在商业往来中选择合适的合作伙伴。 个 
     </details> 
 
-- 🕯 [分析型数据库（Apache Doris）分析性能的速度到底有多快？](https://juejin.cn/post/7338296953845678132) | Fri Feb 23 2024 1:36 AM 
+- 🕯 [Android 之 LeakCanary 相关知识总结](https://juejin.cn/post/7338280070303776818) | Fri Feb 23 2024 2:01 AM 
     <details><summary>展开描述 ...</summary> 
-    在当今数据驱动的时代，企业对数据分析和洞察的需求日益增长。传统的关系型数据库在处理大规模数据时，往往面临性能瓶颈，比如存储大、处理速度慢、数据分析模型固定灵活性较低、运维成本高等，而分析型数据库（Ap 
+    学习总结一下 LeakCanary 相关的知识。 * LeakCanary 原理 * Hprof 文件结构 * Hprof 裁剪实现 
     </details> 
 
-- 🚀 [DFS岛屿问题部分汇总](https://juejin.cn/post/7338325396213841974) | Fri Feb 23 2024 1:36 AM 
+- 🚀 [ITIL演进：过去、现在与未来IT服务管理探索](https://juejin.cn/post/7338296953845792820) | Fri Feb 23 2024 2:01 AM 
     <details><summary>展开描述 ...</summary> 
-    LeetCode 上的岛屿问题通常是关于矩阵中岛屿的数量、面积、周长等问题。这些问题可以归纳为图的遍历问题，常见的解决方法包括深度优先搜索（DFS）和广度优先搜索（BFS）。 今天汇总一下我做过的一些 
+    企业通常通过实施ITIL的最佳实践，改进IT相关流程，提升IT服务管理效率与质量。从ITIL诞生至今也有30多个年头，本文通过介绍ITIL历史演进过程及其核心构成，探讨当代ITSM持续进化的方向。 
     </details> 
 
-- 💪 [Spring Security入门教程：Spring Security的拓展功能](https://juejin.cn/post/7338332141611794442) | Fri Feb 23 2024 1:35 AM 
+- 💪 [轮询](https://juejin.cn/post/7338314540303564839) | Fri Feb 23 2024 2:01 AM 
     <details><summary>展开描述 ...</summary> 
-    除了spring security的基础的用法，我们还有一些他的拓展功能，这篇文章会给大家介绍一下。Spring security有哪些拓展功能 
+    轮询 什么是轮询 在前端开发中，轮询是一种常见的技术手段，用于定期向服务器发送请求以获取最新数据或状态更新。通过轮询，前端可以实时获取服务器端的数据变化或者定刷新页面内容，从而提高用户体验和页面的实时 
     </details> 
 <!-- juejin:END -->
 ### 少数派
