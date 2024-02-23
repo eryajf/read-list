@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [外包报价漏算了一个 2 万的功能，客户已经把预算报上去审批好了，应该认亏吗？](https://www.v2ex.com/t/1017935#reply9) | Fri Feb 23 2024 8:51 AM
-- 🤗 [mysql 主键查询,是我孤陋寡闻了？](https://www.v2ex.com/t/1017934#reply6) | Fri Feb 23 2024 8:49 AM
-- 🎭 [前端项目，如何保证图片的准确性](https://www.v2ex.com/t/1017929#reply1) | Fri Feb 23 2024 8:44 AM
-- 🥷 [基于 node.js+react 的类似 wordpress 的博客开源系统有没有推荐的？](https://www.v2ex.com/t/1017896#reply0) | Fri Feb 23 2024 7:32 AM
-- 🐵 [吓得我把 NAS 上服务的端口映射全删了，然后怎么办呢？](https://www.v2ex.com/t/1017887#reply17) | Fri Feb 23 2024 7:21 AM<!-- v2ex:END -->
+- 🥸 [大语言模型训练请教](https://www.v2ex.com/t/1017957#reply3) | Fri Feb 23 2024 9:47 AM
+- 🤗 [这公司是来恶心人的吧](https://www.v2ex.com/t/1017953#reply3) | Fri Feb 23 2024 9:36 AM
+- 🎭 [关于事务里面有无法回滚的操作的问题](https://www.v2ex.com/t/1017948#reply2) | Fri Feb 23 2024 9:13 AM
+- 🥷 [外包报价漏算了一个 2 万的功能，客户已经把预算报上去审批好了，应该认亏吗？](https://www.v2ex.com/t/1017935#reply21) | Fri Feb 23 2024 8:51 AM
+- 🐵 [mysql 主键查询,是我孤陋寡闻了？](https://www.v2ex.com/t/1017934#reply6) | Fri Feb 23 2024 8:49 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
