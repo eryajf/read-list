@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [门户网站第二弹：实现滚动加载 - 滚动驱动的动画](https://juejin.cn/post/7338325570086338600) | Fri Feb 23 2024 3:04 AM 
+- 🤗 [68K star！24年替换Node.js的最佳选择](https://juejin.cn/post/7338376035829563446) | Fri Feb 23 2024 4:06 AM 
     <details><summary>展开描述 ...</summary> 
-    官网中平滑滚动的效果平时大家都司空见惯，但是具体实现起来还是有一些门道的。本文带大家从0实现一下网页滚动加载的过渡动画效果。 
+    我们今天要介绍的开源项目是一个快速的全能工具包，用于运行、构建、测试和调试 JavaScript 和 TypeScript，它就是：Bun 
     </details> 
 
-- 🎡 [springboot集成kafka快速入门demo](https://juejin.cn/post/7338374972814917642) | Fri Feb 23 2024 3:00 AM 
+- 🎡 [babel： 轻松将箭头函数转换为普通函数-源码](https://juejin.cn/post/7338388292970184704) | Fri Feb 23 2024 4:02 AM 
     <details><summary>展开描述 ...</summary> 
-    一、kafka介绍 Kafka是一种基于分布式发布-订阅消息系统的开源软件。 其目标是提供高吞吐量、低延迟、可扩展性和容错能力。 Kafka中将消息存储在可配置数量的分区中，以便实现横向扩展，并且支持 
+    我们写的箭头函数，如果要通过babel转换为普通的function 函数， 可以在babel配置中添加 babel.config.json 源码实现 我们看一下源码实现, 箭头函数babel-官方插件 
     </details> 
 
-- 🕯 [定义、组织、跟踪、管理：开源的项目管理工具 | 开源日报 No.179](https://juejin.cn/post/7338284106796974121) | Fri Feb 23 2024 2:47 AM 
+- 🕯 [西安有哪些值得去的互联网公司？最新版](https://juejin.cn/post/7338374972815376394) | Fri Feb 23 2024 4:01 AM 
     <details><summary>展开描述 ...</summary> 
-    Focalboard 是一个开源的、多语言支持的自托管项目管理工具，可作为 Trello、Notion 和 Asana 的替代品。它帮助定义、组织、跟踪和管理个人和团队之间的工作。 
+    接下来的一段时间，我将出一些地方上比较值得去的公司，供 Java 程序员作为找工作和跳槽时进行挑选。 西安作为中国西部的科技和互联网产业发展的重要城市，拥有着少些知名且对 Java 程序员具有吸引力的 
     </details> 
 
-- 🚀 [Excalidraw, 一款超赞的开源白板工具](https://juejin.cn/post/7338330579154075698) | Fri Feb 23 2024 2:44 AM 
+- 🚀 [vue3 vuedraggable常用拖拽标签组件+复选功能（组件封装使用）](https://juejin.cn/post/7338255194609631259) | Fri Feb 23 2024 3:58 AM 
     <details><summary>展开描述 ...</summary> 
-    今天和大家安利一款超赞的开源项目, 基于这个项目我们可以轻松定制自己的白板, 思维导图, 原型草图设计, 流程图工具等, 它就是——Excalidraw. 接下来我会和大家介绍一下这款开源项目的功能特 
+    今天封装（CV即用）了vue3常用的vuedraggable拖拽标签组件+复选功能，介绍了特性、属性、函数配置、事件、插槽、使用六个方面，让开发变得更加高效。 
     </details> 
 
-- 💪 [详解各个功能及界面设置-一个开源视频翻译配音工具](https://juejin.cn/post/7338335869709123636) | Thu Feb 22 2024 3:56 PM 
+- 💪 [让 K8s 更简单！8款你不得不知的 AI 工具-Part 2](https://juejin.cn/post/7338296953846349876) | Fri Feb 23 2024 3:40 AM 
     <details><summary>展开描述 ...</summary> 
-    本文主要介绍下“视频翻译配音软件”有哪些功能，以及界面中各个选项和按钮的涵义及设置。 软件介绍见：视频翻译与配音 该软件能实现将一种语言的视频，翻译为另一种语言的视频，处理后的新视频中的字幕和人类说话 
+    在 part 1 中，我们探讨了目前比较流行的四种 OpenAI 开源工具。在今天的 part 2 中我们将探究另外三种不同的 OpenAI 开源工具并介绍一些与 Appilot 相关的内容。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
