@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [苹果推出后量子加密协议PQ3，iMessage即将迎来大升级！](https://www.freebuf.com/news/392362.html) | Fri Feb 23 2024 3:20 AM 
+    <details><summary>展开描述 ...</summary> 
+    PQ3 具有抗妥协加密和广泛的防御功能，甚至可以抵御高度复杂的量子攻击，是首个达到三级安全等级的信息协议。 
+    </details> 
+
 - 🦄 [隐私也要付费？Meta公司为收集用户数据再出“奇招”](https://www.freebuf.com/news/392359.html) | Fri Feb 23 2024 3:16 AM 
     <details><summary>展开描述 ...</summary> 
     自去年底以来，欧盟的Facebook和Instagram用户要使用不收集其数据进行定向广告的无广告版本的话，就必须支付订阅费。 
     </details> 
 
-- 🦄 [CVE-2024-23897 Jenkins 未授权任意文件读取漏洞分析](https://www.freebuf.com/articles/web/392319.html) | Thu Feb 22 2024 8:18 AM 
+- 🦅 [CVE-2023-22527 Confluence 未授权 SSTI RCE 漏洞分析](https://www.freebuf.com/articles/web/392320.html) | Thu Feb 22 2024 8:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    CVE-2023-22527 Confluence 未授权 SSTI RCE 漏洞分析 
+    </details> 
+
+- 🪄 [CVE-2024-23897 Jenkins 未授权任意文件读取漏洞分析](https://www.freebuf.com/articles/web/392319.html) | Thu Feb 22 2024 8:18 AM 
     <details><summary>展开描述 ...</summary> 
     CVE-2024-23897 Jenkins 未授权任意文件读取漏洞分析 
     </details> 
 
-- 🦅 [微软Outlook中#MonikerLink漏洞的风险和大局观](https://www.freebuf.com/articles/paper/392312.html) | Thu Feb 22 2024 7:27 AM 
+- 💻 [微软Outlook中#MonikerLink漏洞的风险和大局观](https://www.freebuf.com/articles/paper/392312.html) | Thu Feb 22 2024 7:27 AM 
     <details><summary>展开描述 ...</summary> 
     近日，披露了Outlook中的一个重大安全问题，被称为#MonikerLink漏洞。该漏洞不仅允许泄漏本地NTLM信息，还可能允许远程代码执行以及更多攻击向量。 
-    </details> 
-
-- 🪄 [FreeBuf 早报 | 2024年亚洲黑帽大会定档；加密货币交易所FixedFloat遭遇黑客入侵](https://www.freebuf.com/articles/392309.html) | Thu Feb 22 2024 6:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    2024年亚洲黑帽大会将于4月16日至4月19日在新加坡滨海湾金沙会展中心举行。 
-    </details> 
-
-- 💻 [无线充电器沦为帮凶，不仅操纵语音助手，还能烧毁手机](https://www.freebuf.com/news/392295.html) | Thu Feb 22 2024 3:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    名为“VoltSchemer”的电磁干扰攻击，不仅可以让现成的无线充电器操纵智能手机的语音助手，还能够对设备以高热的形式进行物理破坏。 
     </details> 
 <!-- freebuf:END -->
 
