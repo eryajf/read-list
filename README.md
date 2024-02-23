@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0223](http://jandan.net/p/115695) | Thu Feb 22 2024 11:07 PM 
+- 🚀 [今日好价 0224](http://jandan.net/p/115709) | Fri Feb 23 2024 11:07 PM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：57 
     </details> 
 
-- 🙉 [人类大脑真的宇宙中最复杂的物体吗](http://jandan.net/p/115693) | Thu Feb 22 2024 11:05 PM 
+- 🙉 [进化大爆发之谜：蛇为何如此种类繁多？](http://jandan.net/p/115706) | Fri Feb 23 2024 11:06 PM 
     <details><summary>展开描述 ...</summary> 
-    与人类有关的一切都永远不应被特权对待 
+    蛇类惊人的多样性是生物进化史上的一个谜题 
     </details> 
 
-- 🎉 [大家电的寿命正在缩短](http://jandan.net/p/115691) | Thu Feb 22 2024 11:04 PM 
+- 🎉 [美国梅毒病例激增，孕产妇和新生儿成重灾区](http://jandan.net/p/115705) | Fri Feb 23 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
-    复杂的设计和廉价材料缩短使用寿命 
+    美国原本有望消除梅毒，但目前情况逆转 
     </details> 
 
-- 🐲 [为什么我无法专注：了解 ADHD](http://jandan.net/p/115700) | Thu Feb 22 2024 11:03 PM 
+- 🐲 [用金粉治帕金森：纳米金药丸有望改善脑部代谢](http://jandan.net/p/115704) | Fri Feb 23 2024 11:04 PM 
     <details><summary>展开描述 ...</summary> 
-    「注意力缺陷过动障碍」，简称ADHD，俗称「过动症」 
+    实验药物在 II 期临床试验中取得了令人鼓舞的成果 
     </details> 
 
--  [光环褪去：大厂的工作不再有吸引力](http://jandan.net/p/115690) | Thu Feb 22 2024 11:02 PM 
+-  [揭开长新冠“脑雾”之谜：血管泄漏或为罪魁祸首](http://jandan.net/p/115703) | Fri Feb 23 2024 11:03 PM 
     <details><summary>展开描述 ...</summary> 
-    科技热潮降温，昔日明星岗位褪色 
+    为理解长新冠患者的“脑雾”和认知衰退提供了新线索 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
