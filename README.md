@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一点小小的类型安全震撼](https://juejin.cn/post/7338617055149359131) | Fri Feb 23 2024 9:05 AM 
+- 🤗 [GreptimeAI + Xinference 联合方案：高效部署并监控你的 LLM 应用](https://juejin.cn/post/7338617055149768731) | Fri Feb 23 2024 10:01 AM 
     <details><summary>展开描述 ...</summary> 
-    经常写 TypeScript 的都知道，写类型容易，让类型安全难。 在学习 TypeScript 的过程中你可能就见到过 is 这个特殊的语法了，在这里就不对他进行过多的介绍了，我们主要来讲讲一些问题 
+    随着人工智能技术的迅速进步，OpenAI 已经崭露头角，成为该领域的领军者之一。它在多种语言处理任务上表现卓越，包括机器翻译、文本分类和文本生成等方面。 
     </details> 
 
-- 🎡 [改进条件语句，探寻可以替代 if...else 的 7 种方式！](https://juejin.cn/post/7338645700098785331) | Fri Feb 23 2024 9:02 AM 
+- 🎡 [成为自己（二）：鸿蒙 Harmony 系统篇](https://juejin.cn/post/7338617055149735963) | Fri Feb 23 2024 9:58 AM 
     <details><summary>展开描述 ...</summary> 
-    条件语句是一个经常需要思考和改进的关键部分。if...else 结构虽然是我们常用的条件语句之一，但当代码逻辑变得复杂，if...else 结构可能会导致代码冗长、难以维护和理解。 
+    俗话说，编程语言只是一个工具，工具多种多样，而工具作用的对象才是最需要先了解的，这样可以做到有的放矢（先找钉子，再用趁手锤子），在编码学习的时候也可以相互映照，起得事半功倍的效果。 
     </details> 
 
-- 🕯 [A/B测试助力企业优化私域运营：春节营销节点背后的科学决策](https://juejin.cn/post/7338443551745359912) | Fri Feb 23 2024 8:58 AM 
+- 🕯 [js中关于数组的一些细节知识](https://juejin.cn/post/7338651990476079143) | Fri Feb 23 2024 9:58 AM 
     <details><summary>展开描述 ...</summary> 
-    2024春节是一个近4.8亿人次出游的假期，餐饮、旅游、零售等热门行业的收入都不同程度上涨，以消费行业为例，春节作为开年的重大营销节点，商家围绕春节的私域营销之战不断升级 
+    push 作用：向数组“末尾”追加新的内容 参数：追加的内容（可以是一个，也可是多个） 返回值：新增后数组的长度 原有数组改变 JavaScript pop 作用：删除数组最后一项 参数：无 返回：被 
     </details> 
 
-- 🚀 [Stable Diffusion 3 强势来袭，从此将文字绘画出来不是难题！](https://juejin.cn/post/7338605981595877439) | Fri Feb 23 2024 8:40 AM 
+- 🚀 [在0代码&amp;低代码系统中，如何去实现物料的开发&amp;管理](https://juejin.cn/entry/7338655886443495487) | Fri Feb 23 2024 9:54 AM 
     <details><summary>展开描述 ...</summary> 
-    Stability AI 刚发布 Stable Diffusion 3 模型进行公测。该模型采用 diffusion transformer 架构，显著提高了在多主题提示、图像质量和拼写能力方面的性能 
+    物料的存储 物料的数量直接决定了一个0代码或者低代码系统的丰富性，所以物料的存储也显的犹为重要。 方式一：直接存储在代码当中 我之前接手过的一个低代码平台，最初的时候是吧物料全部存储在代码当中。--- 
     </details> 
 
-- 💪 [贡献过Github开源项目的可领$231，亲测有效！](https://juejin.cn/post/7338591452914696192) | Fri Feb 23 2024 8:39 AM 
+- 💪 [TiDB 社区智慧合集丨TiDB 相关 SQL 脚本大全](https://juejin.cn/post/7338645701658116133) | Fri Feb 23 2024 9:54 AM 
     <details><summary>展开描述 ...</summary> 
-    就在刚才我已经领到了价值231美元的Strk并且变现啦​！ 这次领取有一个条件就是，需要是Github排名前5k的开源项目的Contributor，并提交最少3次&amp;其中，至少有一次PR贡献是在 201 
+    非常感谢各位 TiDBer 在之前 【TiDBer 唠嗑茶话会 48】非正式 TiDB 相关 SQL 脚本征集大赛！&lpar; https://asktug.com/t/topic/996635 &rpar;里提供的各 
     </details> 
 <!-- juejin:END -->
 ### 少数派
