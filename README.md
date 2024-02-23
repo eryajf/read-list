@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [我们已经错过了这场革命吗？](https://juejin.cn/post/7338380194737537060) | Fri Feb 23 2024 5:08 AM 
+- 🤗 [分享一些我在面试时所遇到的CSS问题 （一）](https://juejin.cn/post/7338422591517212687) | Fri Feb 23 2024 6:14 AM 
     <details><summary>展开描述 ...</summary> 
-    用不了多久，这个世界就要分为人工智能世界和人工智障世界了。 如果自绝于新质生产力革命，时代抛下我们的时候，也不会有一点 
+    前言 在前端面试中，CSS是一个非常重要的考察点，因为它是构建网页界面和用户交互的关键技术之一。年也算过完了，又到了春招的时候，这是一个检验成果的阶段，接下来我会陆续分享一下我在面试时所遇到的与CSS 
     </details> 
 
-- 🎡 [HandlerThread要记得quit哦](https://juejin.cn/post/7338374972816211978) | Fri Feb 23 2024 5:02 AM 
+- 🎡 [前端面试场景题 - LazyMan &lpar;HardMan/懒汉&rpar; - 事件队列的应用](https://juejin.cn/post/7338325570087043112) | Fri Feb 23 2024 6:10 AM 
     <details><summary>展开描述 ...</summary> 
-    背景 最近在分析线程 pthread_create OOM 问题时，无意发现HandlerThread使用不当会造成一些性能损耗，可以说是加深了对 HandlerThread的理解吧 HandlerT 
+    经典面试题：懒汉 - 事件队列的应用 实现一个类 LazyMan，要求 new LazyMan&lpar;&#39;煎饼狗子&#39;&rpar;.drink&lpar;&#39;水&#39;&rpar;.sleep&lpar;3000&rpar;.eat&lpar;&#39;憨包&#39;&rpar; 输出... 
     </details> 
 
-- 🕯 [又是一年轰轰烈烈金三银四——让算法和数据结构不再是你的软肋（下）](https://juejin.cn/post/7338380194737258532) | Fri Feb 23 2024 4:35 AM 
+- 🕯 [Redisson源码（一）RedissonLock加锁与解锁过程原理分析](https://juejin.cn/post/7338380194737946660) | Fri Feb 23 2024 6:06 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 接上文：又是一年轰轰烈烈金三银四——让算法和数据结构不再是你的软肋（中） - 掘金 &lpar;juejin.cn&rpar; 因为算法考察的知识点特别的广，一篇文章难以涵盖（所以将其分为上中下三篇文章进行阐述）， 
+    在当今分布式微服务架构流行的情况下，显然在传统单体项目中使用的JDK自带的锁已经不能解决资源竞争的问题了， 进而出现的解决方案有1&rpar;利用数据库 2&rpar;redis 3&rpar;zookeeper，经过验证的是利用 
     </details> 
 
-- 🚀 [68K star！24年替换Node.js的最佳选择](https://juejin.cn/post/7338376035829563446) | Fri Feb 23 2024 4:06 AM 
+- 🚀 [浅尝本机推流直播](https://juejin.cn/post/7338595193891569690) | Fri Feb 23 2024 6:06 AM 
     <details><summary>展开描述 ...</summary> 
-    我们今天要介绍的开源项目是一个快速的全能工具包，用于运行、构建、测试和调试 JavaScript 和 TypeScript，它就是：Bun 
+    操作步骤 1. nginx搭建rtmp服务器 首先安装带有rtmp模块的nginx，有两种方案 从官网下载nginx源码，并下载rtmp模块&lpar;https://github.com/arut/nginx 
     </details> 
 
-- 💪 [babel： 轻松将箭头函数转换为普通函数-源码](https://juejin.cn/post/7338388292970184704) | Fri Feb 23 2024 4:02 AM 
+- 💪 [ITSM专家会诊功能上线，群聊解难题，协同解决就这么简单！](https://juejin.cn/post/7338388292970545152) | Fri Feb 23 2024 6:05 AM 
     <details><summary>展开描述 ...</summary> 
-    我们写的箭头函数，如果要通过babel转换为普通的function 函数， 可以在babel配置中添加 babel.config.json 源码实现 我们看一下源码实现, 箭头函数babel-官方插件 
+    在最新推出的V1.28.0版本中，燕千云带来了一系列激动人心的新功能及优化，旨在全面提升您的工作效率和体验。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
