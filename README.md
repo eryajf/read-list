@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [磁带，可不止三十年前的老歌](https://sspai.com/post/86559) | Fri Feb 23 2024 3:30 AM 
+- 👹 [年度征文 | 古典、现代与未来：史学写作与科技的跨界](https://sspai.com/post/86552) | Fri Feb 23 2024 7:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    时代在发展，技术在进步，历史学的研究者也在跟随这步伐。&lt;a href=&quot;https://sspai.com/post/86552&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [磁带，可不止三十年前的老歌](https://sspai.com/post/86559) | Fri Feb 23 2024 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     梦醒之后发现不管世界变成什么样，自己还能坐在音乐前，拿出最老的磁带聊着最新款的磁带播放器，转头一看桌上放着的正是自己刚做好的新磁带，又何尝不是一种「年少时射出的子弹正中眉心」。&lt;a href=&quot;https://sspai.com/post/86559&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：小米发布小米 14 Ultra 手机、三星发布 Galaxy Fit 3 健身手环等](https://sspai.com/post/86608) | Fri Feb 23 2024 12:49 AM 
+- 🤭 [派早报：小米发布小米 14 Ultra 手机、三星发布 Galaxy Fit 3 健身手环等](https://sspai.com/post/86608) | Fri Feb 23 2024 12:49 AM 
     <details><summary>展开描述 ...</summary> 
     华为发布 Pocket 2 竖向折叠屏手机，Apple 宣布为 iMessage 推出后量子加密协议 PQ3 等。&lt;a href=&quot;https://sspai.com/post/86608&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [时间都去哪儿了：我的 Obsidian 间歇日志实践方案](https://sspai.com/post/86518) | Thu Feb 22 2024 9:42 AM 
+- 🥸 [时间都去哪儿了：我的 Obsidian 间歇日志实践方案](https://sspai.com/post/86518) | Thu Feb 22 2024 9:42 AM 
     <details><summary>展开描述 ...</summary> 
     认真撰写自己的每一笔时间日志，享受当下，享受过程，享受成果。&lt;a href=&quot;https://sspai.com/post/86518&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [随时收听、更省流量，用 HLS 搭建私有音乐电台](https://sspai.com/post/86398) | Thu Feb 22 2024 7:00 AM 
+- 🙉 [随时收听、更省流量，用 HLS 搭建私有音乐电台](https://sspai.com/post/86398) | Thu Feb 22 2024 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     借助 HLS 流媒体传输协议，你也可以搭建一个属于自己的私有音乐电台。&lt;a href=&quot;https://sspai.com/post/86398&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [#起源、用法和趣闻：关于井号的补充史#](https://sspai.com/post/86471) | Thu Feb 22 2024 3:15 AM 
-    <details><summary>展开描述 ...</summary> 
-    「一言以蔽之，这个词是某个人出于好玩发明的，只是因为他喜欢它。」&lt;a href=&quot;https://sspai.com/post/86471&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
