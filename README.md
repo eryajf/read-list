@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Mp3tag 1.8.14 音频元数据编辑](https://xclient.info/s/mp3tag.html) | Thu Feb 22 2024 3:01 AM 
+- 🦏 [FxFactory Pro 8.0.13-7767 视觉特效插件包](https://xclient.info/s/fxfactory.html) | Fri Feb 23 2024 12:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    FXFactory为Final Cut Pro, Motion, Premiere Pro和After Effects开发数以百计的视觉效果插件 
+    </details> 
+
+-  [PhotoSweeper X 4.8.5 重复照片查找删除工具](https://xclient.info/s/photosweeper.html) | Fri Feb 23 2024 12:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    PhotoSweeper可以快速有效的从你的电脑中删除重复照片,可以对照片分组对比,可以选择格式,尺寸,文件大小. 
+    </details> 
+
+- ⚗️ [Final Draft 13.0.2 剧本写作工具](https://xclient.info/s/final-draft.html) | Fri Feb 23 2024 12:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    Final Draft是全球最畅销的剧本编写程序。 
+    </details> 
+
+- 🔥 [Mp3tag 1.8.14 音频元数据编辑](https://xclient.info/s/mp3tag.html) | Thu Feb 22 2024 3:01 AM 
     <details><summary>展开描述 ...</summary> 
     Mp3tag是一个功能强大且易于使用的编辑音频文件元数据的工具 
     </details> 
 
--  [Sound Siphon 3.6.7 音频处理软件](https://xclient.info/s/sound-siphon.html) | Thu Feb 22 2024 3:01 AM 
+- 🌋 [Sound Siphon 3.6.7 音频处理软件](https://xclient.info/s/sound-siphon.html) | Thu Feb 22 2024 3:01 AM 
     <details><summary>展开描述 ...</summary> 
     Sound Siphon 可以作为你的Mac的音频输入设备。 
-    </details> 
-
-- ⚗️ [PhotoMill X 2.5.0 批量处理图片工具](https://xclient.info/s/photomill-x.html) | Thu Feb 22 2024 3:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    PhotoMill是一款批量处理图片的工具，可以帮助用户在照片上添加水印、日期、转换图像格式、调整图片亮度等多种便捷功能 
-    </details> 
-
-- 🔥 [Dropshare 5.47 免费的个人云存储解决方案](https://xclient.info/s/dropshare.html) | Thu Feb 22 2024 2:59 AM 
-    <details><summary>展开描述 ...</summary> 
-    Dropshare 这款软件非常适合民用，只要你有一台性能稳定的服务器就能自制一套免费的个人存储空间 
-    </details> 
-
-- 🌋 [JixiPix Artista Impresso Pro 1.8.26 油画滤镜软件](https://xclient.info/s/jixipix-artista-impresso-pro.html) | Thu Feb 22 2024 2:59 AM 
-    <details><summary>展开描述 ...</summary> 
-    JixiPix Artista Impresso Pro 是一款mac上优秀的图片处理软件，可以将图片与油漆效果叠加在一起，可以制作出非常惊艳的作品。其中包括了Alla、Prima、En Plein Air等等不同的效果 
     </details> 
 <!-- xclient:END -->
 
