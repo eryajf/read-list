@@ -306,24 +306,24 @@
     CVE-2024-23897 Jenkins 未授权任意文件读取漏洞分析 
     </details> 
 
-- 🦄 [无线充电器沦为帮凶，不仅操纵语音助手，还能烧毁手机](https://www.freebuf.com/news/392295.html) | Thu Feb 22 2024 3:50 AM 
+- 🦄 [微软Outlook中#MonikerLink漏洞的风险和大局观](https://www.freebuf.com/articles/paper/392312.html) | Thu Feb 22 2024 7:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    近日，披露了Outlook中的一个重大安全问题，被称为#MonikerLink漏洞。该漏洞不仅允许泄漏本地NTLM信息，还可能允许远程代码执行以及更多攻击向量。 
+    </details> 
+
+- 🦅 [FreeBuf 早报 | 2024年亚洲黑帽大会定档；加密货币交易所FixedFloat遭遇黑客入侵](https://www.freebuf.com/articles/392309.html) | Thu Feb 22 2024 6:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    2024年亚洲黑帽大会将于4月16日至4月19日在新加坡滨海湾金沙会展中心举行。 
+    </details> 
+
+- 🪄 [无线充电器沦为帮凶，不仅操纵语音助手，还能烧毁手机](https://www.freebuf.com/news/392295.html) | Thu Feb 22 2024 3:50 AM 
     <details><summary>展开描述 ...</summary> 
     名为“VoltSchemer”的电磁干扰攻击，不仅可以让现成的无线充电器操纵智能手机的语音助手，还能够对设备以高热的形式进行物理破坏。 
     </details> 
 
-- 🦅 [新 Wi-Fi 漏洞导致 Android 和 Linux 设备近乎“裸奔”](https://www.freebuf.com/news/392285.html) | Thu Feb 22 2024 3:37 AM 
+- 💻 [新 Wi-Fi 漏洞导致 Android 和 Linux 设备近乎“裸奔”](https://www.freebuf.com/news/392285.html) | Thu Feb 22 2024 3:37 AM 
     <details><summary>展开描述 ...</summary> 
     网络安全研究人员发现，在安卓、Linux和ChromeOS设备中的开源Wi-Fi软件存在两个身份验证绕过漏洞，这些漏洞可能会诱使用户加入合法网络的恶意克隆，或允许威胁攻击者在没有密码的情况下加入可信网络。据悉，安全研究人员在对wpa_supplicant和英特尔的iNet Wireless Daemon（IWD）进行安全评估后发现了这两个漏洞，它们分别被追踪为CVE-2023-52160和CVE- 
-    </details> 
-
-- 🪄 [黑客利用谷歌云运行服务传播三大银行木马](https://www.freebuf.com/news/392271.html) | Thu Feb 22 2024 2:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    谷歌云运行服务无需管理基础设施或进行扩展，允许用户部署前端和后端服务、网站或应用程序，处理工作负载。 
-    </details> 
-
-- 💻 [首发“通杀”某逻辑漏洞思路| 月神亲授SRC实战课](https://www.freebuf.com/consult/392268.html) | Thu Feb 22 2024 2:14 AM 
-    <details><summary>展开描述 ...</summary> 
-    《月神-SRC漏洞挖掘实战班》开班倒计时3天，还在犹豫的师傅看过来↓↓↓早报早学习价格更优惠原价6888首期限时早鸟价5888！ 
     </details> 
 <!-- freebuf:END -->
 
