@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [在生成人工智能时代，数据有什么价值](https://juejin.cn/post/7338280070303219762) | Thu Feb 22 2024 10:17 PM 
+- 🤗 [MySQL批量更新最佳实践](https://juejin.cn/post/7338262742817161268) | Fri Feb 23 2024 12:46 AM 
     <details><summary>展开描述 ...</summary> 
-    每次推出新算法，我们总会回到一个核心问题：用来训练它的数据来自哪里？算法开发者们有个观点：就像人们可以在博物馆中受到某位画家作品的启发，进而创作出类似风格的画作一样，如果有能力，开发者们认为自己也应该 
+    写在文章开头 近期进行项目优化梳理工作时，发现某些功能模块进行MySQL数据库批量更新操作比较耗时，对此笔者查阅相关资料比进行压测后，得出最优解，遂以此文章记录一下笔者的解决方案。 你好，我叫shar 
     </details> 
 
-- 🎡 [Nodejs 第四十二章（jwt）](https://juejin.cn/post/7338280070303186994) | Thu Feb 22 2024 5:35 PM 
+- 🎡 [人工神经网络是什么，其应用有哪些？](https://juejin.cn/post/7338332141611253770) | Fri Feb 23 2024 12:37 AM 
     <details><summary>展开描述 ...</summary> 
-    什么是jwt? JWT（JSON Web Token）是一种开放的标准（RFC 7519），用于在网络应用间传递信息的一种方式。它是一种基于JSON的安全令牌，用于在客户端和服务器之间传输信息。 ht 
+    人工神经网络及其应用 当你阅读这篇文章时，你身体的哪个器官正在考虑它？当然是大脑！但是你知道大脑是如何工作的吗？嗯，它有神经元或神经细胞，它们是大脑和神经系统的主要单位。这些神经元接收来自外部世界的感 
     </details> 
 
-- 🕯 [『SD』零基础快速搭建Stable Diffusion（Mac版）](https://juejin.cn/post/7338229082923466767) | Thu Feb 22 2024 4:06 PM 
+- 🕯 [玩转SpringBoot：动态排除Starter配置，轻松部署](https://juejin.cn/post/7338312530475941897) | Thu Feb 22 2024 11:56 PM 
     <details><summary>展开描述 ...</summary> 
-    🎨 素人也能学的AI绘画，只需一台电脑和畅通的网络，零基础快速上手 Stable Diffusion 环境搭建 
+    学习如何在Spring Boot项目中排除Starter自动配置类，根据不同环境动态排除配置，灵活控制Bean的创建和配置的应用。 
     </details> 
 
-- 🚀 [玩转 Nest Cli（二）](https://juejin.cn/post/7338265878288515135) | Thu Feb 22 2024 4:00 PM 
+- 🚀 [年终总结 - 2023 故事集](https://juejin.cn/post/7338255194608255003) | Thu Feb 22 2024 11:54 PM 
     <details><summary>展开描述 ...</summary> 
-    Nest.js CLI 提供了创建、运行和管理 Nest.js 项目的命令。使用 nest new 创建新项目，nest start 运行项目，并通过 nest generate 快速生成资源如模块等 
+    农历年，在老家呆了差不多半个月。距离上一次回来，还是国庆节。今年海边多了很多的海鸥。大家劳累了一天，站在沙滩上，看着老爸和老妈在船上疲惫的身影，又看看潮后的美景，突然想到：累并快乐着！ 
     </details> 
 
-- 💪 [没活，导师整活系列——vue.config.js 中 publicPath 和 router 中 createWebHistory&lpar;&rpar;的区别](https://juejin.cn/post/7338335869709140020) | Thu Feb 22 2024 3:56 PM 
+- 💪 [国家出手了，AI是打工人的下一个就业风口吗？](https://juejin.cn/post/7338330579152912434) | Thu Feb 22 2024 11:11 PM 
     <details><summary>展开描述 ...</summary> 
-    没活，导师整活，然后没想到涉及到了挺多，本地服务器静态资源路径？router 源码内置了重定向？访问路径影响访问资源？nginx结尾有无斜杠影响？ 
+    国务院国资委召开“AI赋能产业焕新”会议，有国家的强大背书，AI会是下一个就业风口吗？当前局势，我们该如何看待 AI？ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
