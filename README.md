@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [[OpenAI Sora] 如何使用：最新详细教程-新手小白必看](https://www.v2ex.com/t/1017995#reply0) | Fri Feb 23 2024 1:12 PM
-- 🤗 [[OpenAI Sora] 如何使用：最新详细教程-新手小白必看](https://www.v2ex.com/t/1017993#reply1) | Fri Feb 23 2024 12:41 PM
-- 🎭 [Python customtkinter 应用打包 Mac APP 爬坑求教](https://www.v2ex.com/t/1017972#reply3) | Fri Feb 23 2024 11:25 AM
-- 🥷 [原来 Google 也不做 XFF 是否伪造的识别](https://www.v2ex.com/t/1017966#reply3) | Fri Feb 23 2024 10:43 AM
-- 🐵 [Gemini Advanced 使用体验（对比 GPT-4 API）](https://www.v2ex.com/t/1017965#reply9) | Fri Feb 23 2024 10:37 AM<!-- v2ex:END -->
+- 🥸 [突然想到一个问题，国内 HR 大部分人都是非专业人员，所以在选人的时候只能按照某种固定模版选择。](https://www.v2ex.com/t/1018002#reply1) | Fri Feb 23 2024 1:46 PM
+- 🤗 [[OpenAI Sora] 如何使用：最新详细教程-新手小白必看](https://www.v2ex.com/t/1017995#reply4) | Fri Feb 23 2024 1:12 PM
+- 🎭 [[OpenAI Sora] 如何使用：最新详细教程-新手小白必看](https://www.v2ex.com/t/1017993#reply5) | Fri Feb 23 2024 12:41 PM
+- 🥷 [Python customtkinter 应用打包 Mac APP 爬坑求教](https://www.v2ex.com/t/1017972#reply3) | Fri Feb 23 2024 11:25 AM
+- 🐵 [原来 Google 也不做 XFF 是否伪造的识别](https://www.v2ex.com/t/1017966#reply5) | Fri Feb 23 2024 10:43 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
