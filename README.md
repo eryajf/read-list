@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Linux 内核 - 进化之源](https://juejin.cn/post/7338607782370000934) | Fri Feb 23 2024 7:07 AM 
+- 🤗 [解密JavaScript中的隐式类型转换](https://juejin.cn/post/7338360121624248356) | Fri Feb 23 2024 8:05 AM 
     <details><summary>展开描述 ...</summary> 
-    热切地追求新知识并抓住出现的学习机会固然令人钦佩, 但立足于基础知识也同样重要. 了解了核心原则, 我们就能有效地推理每一种新出现的技术. 
+    JavaScript中的隐式类型转换是一个重要且常见的概念，它使得在处理数据时表现出一些令人意外的行为。本文深入探讨了隐式类型转换的工作原理、常见情况以及如何避免潜在的陷阱。通过了解隐式类型转换的概念 
     </details> 
 
-- 🎡 [Blender+Three的龙年风格小场景](https://juejin.cn/post/7338325570087321640) | Fri Feb 23 2024 7:03 AM 
+- 🎡 [NumPy入个门吧](https://juejin.cn/post/7338422591518261263) | Fri Feb 23 2024 7:52 AM 
     <details><summary>展开描述 ...</summary> 
-    本来计划年前要完成的个人项目，没想到 拖延症 拖到了元宵节。 一个中国风3D小场景，还有龙在天上飞。 
+    NumPy 的全称叫 Numerical Python ，它是 Python 科学计算最重要的基础包之一。很多提供科学计算的包都是基于 NumPy 之上建立的。 
     </details> 
 
-- 🕯 [B端产品经理面试一般问什么，7个QA，作为面试官我希望你这样回答](https://juejin.cn/post/7338325570087288872) | Fri Feb 23 2024 6:51 AM 
+- 🕯 [依赖反转和依赖注入](https://juejin.cn/post/7338617055148900379) | Fri Feb 23 2024 7:48 AM 
     <details><summary>展开描述 ...</summary> 
-    面试失败的原因更是五花八门，有时候会因为面试官无休刚睡醒的状态和说话的语调，有时候会因为面试者在面试路上做太多心理建设而导致的心态紧张，也有时候是因为双方第一眼看见所浮现的上辈子的虐缘...... 
+    依赖反转和依赖注入是软件开发中两个密切相关的概念, 由于它们的重叠方面经常被混淆. 虽然它们可以协同工作, 但在实现结构良好的应用方面却有着不同的目的. 
     </details> 
 
-- 🚀 [前端工业级3d框架，babylon.js入门（1）](https://juejin.cn/post/7338595193891962906) | Fri Feb 23 2024 6:41 AM 
+- 🚀 [一文了解——to系全家桶并带讲解源码（Vue.js）](https://juejin.cn/post/7338591452914106368) | Fri Feb 23 2024 7:47 AM 
     <details><summary>展开描述 ...</summary> 
-    依赖安装 先装个核心的依赖，code，其他还有@babylonjs/gui、@babylonjs/havok、@babylonjs/loaders，暂时不知道是干啥的，用的时候再说吧。 DEMO1 事 
+    To系全家桶并带源码 1.toRef 1.1toRef的例子 举一个例子 在这个例子中打印出来的是 jump 而在其中的视图 {{who}} 的打印值不会改变 因为其不是响应式的 展示如下 而在此时我 
     </details> 
 
-- 💪 [从零开始搭建低代码平台（二）- 实现组件拖拽功能](https://juejin.cn/post/7338605981594730559) | Fri Feb 23 2024 6:40 AM 
+- 💪 [前端接口多参数请求时如何优雅封装](https://juejin.cn/post/7338360121624182820) | Fri Feb 23 2024 7:43 AM 
     <details><summary>展开描述 ...</summary> 
-    低代码平台的编辑器的实现，非常简约的版本，利于二次改造和学习。主要是分享个人一些思路，希望能给到大家提供一点参考。 
+    接口多参数优雅封装 开发中经常会遇到有一个接口需要的query参数比较多， 参数的数据类型也不全是 string | number ，还存在数组或者其他类型的情况 
     </details> 
 <!-- juejin:END -->
 ### 少数派
