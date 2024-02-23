@@ -332,10 +332,10 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [IT 桌面运维失业人员职业方向该怎么转向？](https://www.v2ex.com/t/1018035#reply5) | Fri Feb 23 2024 4:54 PM
+- 🥸 [IT 桌面运维失业人员职业方向该怎么转向？](https://www.v2ex.com/t/1018035#reply7) | Fri Feb 23 2024 4:54 PM
 - 🤗 [racknerd 1 核 2G 的服务器买了半个月，感觉没啥好玩的，闲置了](https://www.v2ex.com/t/1018021#reply2) | Fri Feb 23 2024 3:39 PM
-- 🎭 [一起来造一个能听 youtube music 也能看 b 站视频的音乐播放器](https://www.v2ex.com/t/1018018#reply8) | Fri Feb 23 2024 3:13 PM
-- 🥷 [突然想到一个问题，国内 HR 大部分人都是非专业人员，所以在选人的时候只能按照某种固定模版选择。](https://www.v2ex.com/t/1018002#reply1) | Fri Feb 23 2024 1:46 PM
+- 🎭 [一起来造一个能听 youtube music 也能看 b 站视频的音乐播放器](https://www.v2ex.com/t/1018018#reply9) | Fri Feb 23 2024 3:13 PM
+- 🥷 [突然想到一个问题，国内 HR 大部分人都是非专业人员，所以在选人的时候只能按照某种固定模版选择。](https://www.v2ex.com/t/1018002#reply2) | Fri Feb 23 2024 1:46 PM
 - 🐵 [[OpenAI Sora] 如何使用：最新详细教程-新手小白必看](https://www.v2ex.com/t/1017995#reply7) | Fri Feb 23 2024 1:12 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
