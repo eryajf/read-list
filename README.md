@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Python 潮流周刊第 39 期（摘要）](https://juejin.cn/post/7338636759541481483) | Sat Feb 24 2024 12:08 PM 
+- 🤗 [团队协作如何确保项目Node版本的一致性？](https://juejin.cn/post/7338721296866066472) | Sat Feb 24 2024 1:09 PM 
+    <details><summary>展开描述 ...</summary> 
+    想必大家在工作过程中都遇到过node版本带来的各种各样的问题，对于团队协作项目，你不能保证所有人的本地node版本都相同，那么应该如何管理项目的node版本 
+    </details> 
+
+- 🎡 [如何打破Chrome的最小字号限制](https://juejin.cn/post/7338742634168139788) | Sat Feb 24 2024 1:06 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 正常开发中，比如设置最小字体为12以下，会出现不生效的情况。原因是因为谷歌浏览器有最小字体的限制，那么如何解决这个问题呢？ 本文主要说明两个方式： 调整谷歌浏览器的默认限制字体大小 使用css的 
+    </details> 
+
+- 🕯 [一个 vue 指令,帮你优化滚动条场景](https://juejin.cn/post/7338665672468217907) | Sat Feb 24 2024 12:49 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 彦祖们,首先祝各位元宵节快乐!团团圆圆,阖家幸福!成为彦祖,超越彦祖 言归正传,滚动条场景应该是每一位前端开发者必定接触过的 今天让我们一步步用纯css来优化一下这个滚动条场景 优化前 没错,场 
+    </details> 
+
+- 🚀 [Python 潮流周刊第 39 期（摘要）](https://juejin.cn/post/7338636759541481483) | Sat Feb 24 2024 12:08 PM 
     <details><summary>展开描述 ...</summary> 
     本周刊由 Python猫 出品，精心筛选国内外的 250+ 信息源，为你挑选最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。愿景：帮助所有读者精进 Python 技术，并增长 
     </details> 
 
-- 🎡 [Nodejs 第四十三章（redis）](https://juejin.cn/post/7338717224436449330) | Sat Feb 24 2024 11:42 AM 
+- 💪 [Nodejs 第四十三章（redis）](https://juejin.cn/post/7338717224436449330) | Sat Feb 24 2024 11:42 AM 
     <details><summary>展开描述 ...</summary> 
     Redis（Remote Dictionary Server）是一个开源的内存数据结构存储系统，它提供了一个高效的键值存储解决方案，并支持多种数据结构，如字符串（Strings）、哈希（Hashes） 
-    </details> 
-
-- 🕯 [简单入门Kubernetes容器编排平台及其在Java应用程序中的应用](https://juejin.cn/post/7338742634167844876) | Sat Feb 24 2024 10:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    Kubernetes（K8s）是一个开源的、用于自动部署、扩展和管理容器化应用程序的平台。它提供了一个灵活的、可扩展的架构，使我们能够有效地部署和管理应用程序容器，同时还提供了简化的部署、管理和监控。 
-    </details> 
-
-- 🚀 [请你手写前端路由hash&amp;history，你会不会写？](https://juejin.cn/post/7338665672468103219) | Sat Feb 24 2024 10:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    手写前端路由要解决的问题 在学习之前，我们要先知道我们要解决什么问题。 什么是路由？ 前端本无路由！就像鲁迅先生说的：世界上本没有路，走的人多了也就成了路！ 
-    </details> 
-
-- 💪 [Flutter事件和手势原理](https://juejin.cn/post/7338783017122447372) | Sat Feb 24 2024 10:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文介绍Flutter事件和手势的原理,包括原始指针事件、事件处理流程、手势识别原理以及如何解决多手势冲突的问题 
     </details> 
 <!-- juejin:END -->
 ### 少数派
