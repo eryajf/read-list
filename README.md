@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Spring 源码阅读：深入探索内部工作机制 | 开源日报 No.180](https://juejin.cn/post/7338611185192190015) | Sat Feb 24 2024 4:37 AM 
+- 🤗 [Apache Calcite 动态数据管理框架入门介绍](https://juejin.cn/post/7338702103882760192) | Sat Feb 24 2024 6:08 AM 
     <details><summary>展开描述 ...</summary> 
-    Spring 源码阅读系列带你深入探索 Spring 框架的内部工作机制。作者是一位有8年经验的 Java 后端开发人员，他希望与大家一起探索 Spring 的内部机制。 
+    原文地址： [Apache Calcite 动态数据管理框架介绍]&lpar;https://houbb.github.io/2024/01/10/database-apache-calcite-doc-ov 
     </details> 
 
-- 🎡 [IDEA 重装我都会默默的下载这些好用的插件](https://juejin.cn/post/7338674902282059803) | Sat Feb 24 2024 4:31 AM 
+- 🎡 [基于sigma-delta和MASHIII调制器的频率合成器simulink建模与仿真](https://juejin.cn/post/7338665672467677235) | Sat Feb 24 2024 6:07 AM 
     <details><summary>展开描述 ...</summary> 
-    这几年用得最多的插件，分享给大家。工欲善其事，必先利其器！每一次电脑重装，更换工作，我都会默默地打开我的插件收藏单，挨个下载 
+    1.算法运行效果图预览           其误差当系统进入稳定状态的时候，频率误差就小于1E-9，并且随着频率的增加，其稳定性将更好。   2.算法运行软件版本 matlab2022a   3.算法 
     </details> 
 
-- 🕯 [为什么前端开发变得越来越复杂了？这可能是我们的错](https://juejin.cn/post/7338702103882121216) | Sat Feb 24 2024 4:08 AM 
+- 🕯 [基于Java和Spring：实现图片压缩、WebP格式转换与水印添加](https://juejin.cn/post/7338635448305156111) | Sat Feb 24 2024 6:01 AM 
     <details><summary>展开描述 ...</summary> 
-    如今大量框架和工具给人的印象是 Web 开发可能已经变得过于复杂。如果是一个新人，有这么多要考虑的东西确实会令人感到“恐惧”。好像每一个框架都需要学习，如果不学习给人的感觉就是 “就是没有办法工作~~ 
+    应用业务场景 大多数公司通常会拥有面向企业端（B端）和消费者端（C端）的应用，如淘宝IOS/Android端和PC端。对于C端产品而言，往往具备访问量大、数据量庞大的特点，例如类似淘宝的商品详情页，其 
     </details> 
 
-- 🚀 [@Preview驱动 Jetpack Compose 开发](https://juejin.cn/post/7338689046569664549) | Sat Feb 24 2024 3:22 AM 
+- 🚀 [基于Harris角点的多视角图像全景拼接算法matlab仿真](https://juejin.cn/post/7338698541285998619) | Sat Feb 24 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-    每个想法都源于需求, 这次也不例外. 在 Whatnot 的日常功能开发过程中, 我一直在努力跟上业务发展的步伐. 我必须在一周内实现一个相当庞大的功能, 确保一切按预期运行. 
+    1.算法运行效果图预览   2.算法运行软件版本 matlab2022a   3.算法理论概述         基于Harris角点的多视角图像全景拼接算法是一种在计算机视觉和图像处理领域中广泛应用的 
     </details> 
 
-- 💪 [【一分钟快学】Go 语言函数返回值：结构体&lpar;Struct&rpar;实例 vs 指针 - 优劣分析与选择分析](https://juejin.cn/post/7338635448304304143) | Sat Feb 24 2024 3:16 AM 
+- 💪 [Sora 技术讨论以及普通人和开发者如何使用 Sora](https://juejin.cn/post/7338636759540875275) | Sat Feb 24 2024 5:57 AM 
     <details><summary>展开描述 ...</summary> 
-    本文探讨了 Go 语言中函数返回结构体实例与指针的选择标准，对比了两者在性能、内存使用和线程安全性方面的差异。通过分析一系列因素的影响，为开发者提供了根据具体场景做出最佳选择的指导。 
+    这篇文章，将会从 Sora 的架构，然后到 Sora 的生态，以及最后普通人或者开发者如何利用或者使用 Sora ，为这个 AI 浪潮做准备 ~ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
