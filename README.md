@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Coze到底应该怎么玩？一文解答你的全部疑惑](https://juejin.cn/post/7338645701659131941) | Fri Feb 23 2024 4:17 PM 
+- 🤗 [我开源了一个 Sora AI 视频生成器模板，却被人拿去割韭菜](https://juejin.cn/post/7338634091398873122) | Sat Feb 24 2024 12:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    做产品的人，要有基本的原则和底线，至少要能实事求是，不虚假宣传，不欺诈用户。希望“天下无贼”，AI 繁荣发展，行业毒瘤消失殆尽，劣币不再驱逐良币。 
+    </details> 
+
+- 🎡 [求求你别再用OkHttp调用API接口了，快来试试这款HTTP客户端库吧](https://juejin.cn/post/7338674902281486363) | Sat Feb 24 2024 12:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    Retrofit是一个基于OkHttp的高效网络库，通过将HTTP请求转化为接口调用，利用注解定义API、处理同步异步请求，极大地简化了Java应用与RESTful API的交互。 
+    </details> 
+
+- 🕯 [Coze到底应该怎么玩？一文解答你的全部疑惑](https://juejin.cn/post/7338645701659131941) | Fri Feb 23 2024 4:17 PM 
     <details><summary>展开描述 ...</summary> 
     虽然从 23 年开始 AI 就已经火遍全球，但是我发现仍有许多技术领域的小伙伴不知道 Coze 这个工具要如何来玩，正好最近掘金发起了Coze征文，我就来带大家详细了解一下Coze怎么玩～ 
     </details> 
 
-- 🎡 [需求小能手——表格跨页勾选](https://juejin.cn/post/7338704641842413631) | Fri Feb 23 2024 3:55 PM 
+- 🚀 [金三银四充电宝：《前端开发核心知识进阶》](https://juejin.cn/post/7338601378485960756) | Fri Feb 23 2024 4:09 PM 
+    <details><summary>展开描述 ...</summary> 
+    📚 读书破万卷，推荐一本前端进阶书籍——《前端开发核心知识进阶》。本书适合备考或者出考题的人，不适合0基础人群。 
+    </details> 
+
+- 💪 [需求小能手——表格跨页勾选](https://juejin.cn/post/7338704641842413631) | Fri Feb 23 2024 3:55 PM 
     <details><summary>展开描述 ...</summary> 
     前段时间热门文章有一篇跨页勾选，点进去大致看了下，看到评论说跨页勾选需求就不应该做，内心十分赞同。没想到自己就碰到了这个需求，人总是向现实低头，产品要求只能实现，本节就来介绍一下我的实现思路。 
-    </details> 
-
-- 🕯 [Java Stream API的二度深入](https://juejin.cn/post/7338704641842364479) | Fri Feb 23 2024 3:38 PM 
-    <details><summary>展开描述 ...</summary> 
-    在Java中，Stream 是Java 8引入的一个新概念，用于处理集合（Collections）数据的一种抽象。Java的Stream API 提供了一种声明式的方式来操作数据集合，可以用更简洁.. 
-    </details> 
-
-- 🚀 [使用Python构建栈数据结构及其使用场景](https://juejin.cn/post/7338601378485927988) | Fri Feb 23 2024 3:34 PM 
-    <details><summary>展开描述 ...</summary> 
-    栈的使用非常广泛，从算法实现到系统功能的支持等都有栈的身影。本文将详细介绍如何使用Python构建栈数据结构，并探讨其在实际编程中的使用场景。 
-    </details> 
-
-- 💪 [使用Python构建哈希表及其使用场景](https://juejin.cn/post/7338634091398627362) | Fri Feb 23 2024 3:34 PM 
-    <details><summary>展开描述 ...</summary> 
-    尽管Python的dict已经非常强大，理解哈希表的底层原理对于深入掌握数据结构和算法是非常有益的。本文将介绍如何在Python中手动实现一个简单的哈希表，并探讨其使用场景和高级用法。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
