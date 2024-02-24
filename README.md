@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [A星寻路算法详解](https://juejin.cn/post/7338679828818575397) | Sat Feb 24 2024 10:02 AM 
+- 🤗 [探索在Java中使用Kubernetes（K8s）](https://juejin.cn/post/7338742634167844876) | Sat Feb 24 2024 10:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    Kubernetes（K8s）是一个开源的、用于自动部署、扩展和管理容器化应用程序的平台。它提供了一个灵活的、可扩展的架构，使我们能够有效地部署和管理应用程序容器，同时还提供了简化的部署、管理和监控。 
+    </details> 
+
+- 🎡 [请你手写前端路由hash&amp;history，你会不会写？](https://juejin.cn/post/7338665672468103219) | Sat Feb 24 2024 10:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    手写前端路由要解决的问题 在学习之前，我们要先知道我们要解决什么问题。 什么是路由？ 前端本无路由！就像鲁迅先生说的：世界上本没有路，走的人多了也就成了路！ 
+    </details> 
+
+- 🕯 [Flutter事件和手势原理](https://juejin.cn/post/7338783017122447372) | Sat Feb 24 2024 10:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文介绍Flutter事件和手势的原理,包括原始指针事件、事件处理流程、手势识别原理以及如何解决多手势冲突的问题 
+    </details> 
+
+- 🚀 [A星寻路算法详解](https://juejin.cn/post/7338679828818575397) | Sat Feb 24 2024 10:02 AM 
     <details><summary>展开描述 ...</summary> 
     A星寻路算法是静态路网中求解最短路径最有效的直接搜索方法，它可以应对包括复杂地形，各种尺度的障碍物以及不同地形的路径规划问题。掌握A星寻路算法能够提高路径规划效率，并在实际应用中发挥重要作用。 
     </details> 
 
-- 🎡 [分享一些我在面试时所遇到的CSS问题 （三）](https://juejin.cn/post/7338635448305598479) | Sat Feb 24 2024 9:51 AM 
+- 💪 [分享一些我在面试时所遇到的CSS问题 （三）](https://juejin.cn/post/7338635448305598479) | Sat Feb 24 2024 9:51 AM 
     <details><summary>展开描述 ...</summary> 
     前言 在前端面试中，CSS是一个非常重要的考察点，因为它是构建网页界面和用户交互的关键技术之一。年也算过完了，又到了春招的时候，这是一个检验成果的阶段，接下来我会陆续分享一下我在面试时所遇到的与CSS 
-    </details> 
-
-- 🕯 [一文入门Gitlab CI/CD](https://juejin.cn/post/7338698541286834203) | Sat Feb 24 2024 9:44 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文详细介绍了GitLab CI/CD的基础和进阶配置，包括runner和.gitlab-ci.yml文件的核心组成部分 
-    </details> 
-
-- 🚀 [【想进大厂还不会阅读源码】ShenYu源码-接入注册中心发现服务](https://juejin.cn/post/7338717224436219954) | Sat Feb 24 2024 9:42 AM 
-    <details><summary>展开描述 ...</summary> 
-    ShenYu源码阅读。相信大家碰到源码时经常无从下手🙃，不知道从哪开始阅读😭。我们先思考下我们的阅读线索，贡献者是怎么添加发现服务的。这些发现服务是怎么和项目集成的，让ShenYu网关能从注册中心 
-    </details> 
-
-- 💪 [推荐10个实用的 React 自定义hooks](https://juejin.cn/post/7338742634167549964) | Sat Feb 24 2024 9:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    在这篇文章中，我们将学习一些实用的自定义 hook，并了解如何利用它们来简化和增强 React 开发。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
