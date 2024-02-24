@@ -351,19 +351,19 @@
     3.数学奇才【算法赛】 - 蓝桥云课 &lpar;lanqiao.cn&rpar; 这是我的代码，过了样例： 这是人家的代码： 
     </details> 
 
-- 🕯 [蓝桥杯小白入门赛第六场 2.猜灯谜【算法赛】](https://juejin.cn/post/7338791751849164826) | Sat Feb 24 2024 4:46 PM 
+- 🕯 [使用PM2实现高效的应用监控与管理](https://juejin.cn/post/7338691767435100195) | Sat Feb 24 2024 5:15 PM 
+    <details><summary>展开描述 ...</summary> 
+    1. pm2 PM2 是一个流行的进程管理器，用于 Node.js 应用程序。它支持应用程序的负载均衡、自动重启、日志管理、监控以及多环境管理等功能。PM2让开发者能够以守护进程的方式运行和管理 No 
+    </details> 
+
+- 🚀 [蓝桥杯小白入门赛第六场 2.猜灯谜【算法赛】](https://juejin.cn/post/7338791751849164826) | Sat Feb 24 2024 4:46 PM 
     <details><summary>展开描述 ...</summary> 
     2.猜灯谜【算法赛】 - 蓝桥云课 &lpar;lanqiao.cn&rpar;。。。。。。。。。。。。。。。。。。。。。 
     </details> 
 
-- 🚀 [软件架构随笔](https://juejin.cn/post/7338835708504064038) | Sat Feb 24 2024 4:30 PM 
+- 💪 [软件架构随笔](https://juejin.cn/post/7338835708504064038) | Sat Feb 24 2024 4:30 PM 
     <details><summary>展开描述 ...</summary> 
     前端有架构吗？ 架构师对很多人和公司来讲，是一个神秘的职位。他像一个都市传说，很多人听过，但没见过，他存在于每个程序员的脑海中，但形象各不相同。 
-    </details> 
-
-- 💪 [从零开始的数据结构Ep1-算法与复杂度](https://juejin.cn/post/7338791751849115674) | Sat Feb 24 2024 4:28 PM 
-    <details><summary>展开描述 ...</summary> 
-    🖋️本文，乃至本系列是我用于辅助自己学习的产物，主要目的是让大家能更加一目了然地理解知识点之间存在的关系，以及对于知识结构的梳理以及自己的理解。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
