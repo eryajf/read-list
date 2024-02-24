@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [这么多向量数据库，它们之间到底有哪些差异？](https://juejin.cn/post/7338636759541121035) | Sat Feb 24 2024 8:03 AM 
+- 🤗 [业务中关于本地 devServer 代理和 nginx 代理的弯弯绕绕以及规范（附赠cookie特典）](https://juejin.cn/post/7338635448305434639) | Sat Feb 24 2024 8:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    一些关于devServer 和 nginx 代理配置命名的小小建议，因为项目前期负责人的不规范配置把我搞迷糊了，所以说各位review很重要 
+    </details> 
+
+- 🎡 [跟 Antfu 一起学习 CSS 渐入动画](https://juejin.cn/post/7338742634167205900) | Sat Feb 24 2024 8:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    周末无事，翻阅 Antfu 的博客，发现一篇很有意思的文章，用简单的 CSS animation 动画实现博客文章按照段落渐入，效果如下： 是不是很有意思呢？ 
+    </details> 
+
+- 🕯 [深度学习在艺术品瑕疵检测与修复中的新光芒：文化遗产保护的创新前景](https://juejin.cn/post/7338702103883202560) | Sat Feb 24 2024 8:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    标题：基于卷积神经网络的艺术品瑕疵检测与修复：人工智能在文化遗产保护中的应用 随着人工智能技术的不断发展，其在各个领域的应用也日益广泛。本文将重点关注人工智能在文化遗产保护领域中的应用，具体探讨基于卷 
+    </details> 
+
+- 🚀 [这么多向量数据库，它们之间到底有哪些差异？](https://juejin.cn/post/7338636759541121035) | Sat Feb 24 2024 8:03 AM 
     <details><summary>展开描述 ...</summary> 
     上篇说到chroma的近邻搜索算法实现得有问题，不如qdrant的。其实向量数据库之间看似都一样，但细细比较还是有很多不同的。 国外有一系列文章已经讲得很详细了，而且也就是半年前写的，还是具有 
     </details> 
 
-- 🎡 [JVM：JVM内存区域](https://juejin.cn/post/7338693163488509987) | Sat Feb 24 2024 7:55 AM 
+- 💪 [JVM：JVM内存区域](https://juejin.cn/post/7338693163488509987) | Sat Feb 24 2024 7:55 AM 
     <details><summary>展开描述 ...</summary> 
     （图源：超过1W字深度剖析JVM常量池（全网最详细最有深度）） 运行时数据区 未完待续。。。 概述 图。。。 线程私有的 虚拟机栈 本地方法栈 程序计数器 线程共享的 堆 方法区 直接内存（非运行时数 
-    </details> 
-
-- 🕯 [Chrome扩展通信总结](https://juejin.cn/post/7338731016737112101) | Sat Feb 24 2024 7:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    我们知道chrome 插件主要是由内容脚本，后台脚本，工具栏popup脚本处理逻辑，但是内容脚本只能调用一些指定的chrome api。后台脚本不能操作dom，所以就需要一个通信系统来让他们交互起来。 
-    </details> 
-
-- 🚀 [PAT 1080 MOOC期终成绩  25分](https://juejin.cn/post/7338698541286555675) | Sat Feb 24 2024 7:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    题目：1080 MOOC期终成绩 - PAT &lpar;Basic Level&rpar; Practice （中文） &lpar;pintia.cn&rpar; 解析：80_哔哩哔哩_bilibili 思想 1.我们先用一个结构体存储状 
-    </details> 
-
-- 💪 [手写自动导入插件体会前端发展](https://juejin.cn/post/7338717224435875890) | Sat Feb 24 2024 7:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    基本介绍 目的在于体会 unplugin-auto-import 这款插件的实际原理，真实的感受到前端架构这几年的飞速发展 这里实现 vue elementui 常用模块的自动导入，窥探插件内部核心原 
     </details> 
 <!-- juejin:END -->
 ### 少数派
