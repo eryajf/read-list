@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [我开源了一个 Sora AI 视频生成器模板，却被人拿去割韭菜](https://juejin.cn/post/7338634091398873122) | Sat Feb 24 2024 12:53 AM 
+- 🤗 [如何让家中的工作站提提网速](https://juejin.cn/post/7338689046569402405) | Sat Feb 24 2024 1:27 AM 
     <details><summary>展开描述 ...</summary> 
-    做产品的人，要有基本的原则和底线，至少要能实事求是，不虚假宣传，不欺诈用户。希望“天下无贼”，AI 繁荣发展，行业毒瘤消失殆尽，劣币不再驱逐良币。 
+    最近一直很好奇，我的Arch工作站在下载huggingface model时总是在5MB/s， 而我的Win10笔记本却可以上10MB/s。经过我的发现时由于使用的wifi 频段 2.4G 和 5G  
     </details> 
 
-- 🎡 [求求你别再用OkHttp调用API接口了，快来试试这款HTTP客户端库吧](https://juejin.cn/post/7338674902281486363) | Sat Feb 24 2024 12:10 AM 
+- 🎡 [RunLoop与其他操作系统的对比](https://juejin.cn/post/7338617055150211099) | Fri Feb 23 2024 3:37 PM 
     <details><summary>展开描述 ...</summary> 
-    Retrofit是一个基于OkHttp的高效网络库，通过将HTTP请求转化为接口调用，利用注解定义API、处理同步异步请求，极大地简化了Java应用与RESTful API的交互。 
+    RunLoop是iOS和macOS开发中的一个核心概念，用于管理线程内的事件循环，确保线程在有工作时忙碌，在无工作时休眠，从而有效地管理资源和电池寿命。RunLoop的工作原理和应用与其他操作系统中的 
     </details> 
 
-- 🕯 [Coze到底应该怎么玩？一文解答你的全部疑惑](https://juejin.cn/post/7338645701659131941) | Fri Feb 23 2024 4:17 PM 
+- 🕯 [继续深入vue3源码中的watch的异步问题](https://juejin.cn/post/7338645701659017253) | Fri Feb 23 2024 3:30 PM 
     <details><summary>展开描述 ...</summary> 
-    虽然从 23 年开始 AI 就已经火遍全球，但是我发现仍有许多技术领域的小伙伴不知道 Coze 这个工具要如何来玩，正好最近掘金发起了Coze征文，我就来带大家详细了解一下Coze怎么玩～ 
+    即上一篇文章中研究了watchEffect中传入异步函数的问题，我又在群里看了到另一个类似的问题，故写一篇文章记录一下。 
     </details> 
 
-- 🚀 [金三银四充电宝：《前端开发核心知识进阶》](https://juejin.cn/post/7338601378485960756) | Fri Feb 23 2024 4:09 PM 
+- 🚀 [【libGDX】使用Mesh绘制矩形](https://juejin.cn/entry/7338655886444281919) | Fri Feb 23 2024 2:54 PM 
     <details><summary>展开描述 ...</summary> 
-    📚 读书破万卷，推荐一本前端进阶书籍——《前端开发核心知识进阶》。本书适合备考或者出考题的人，不适合0基础人群。 
+    1 前言 ​ 使用Mesh绘制三角形 中介绍了绘制三角形的方法，本文将介绍绘制正方形的方法。 ​ libGDX 以点、线段、三角形为图元，没有提供绘制矩形内部的接口。要绘制矩形内部，必须通过三角形拼接 
     </details> 
 
-- 💪 [需求小能手——表格跨页勾选](https://juejin.cn/post/7338704641842413631) | Fri Feb 23 2024 3:55 PM 
+- 💪 [【libGDX】使用Mesh绘制三角形](https://juejin.cn/entry/7338655886444331071) | Fri Feb 23 2024 2:54 PM 
     <details><summary>展开描述 ...</summary> 
-    前段时间热门文章有一篇跨页勾选，点进去大致看了下，看到评论说跨页勾选需求就不应该做，内心十分赞同。没想到自己就碰到了这个需求，人总是向现实低头，产品要求只能实现，本节就来介绍一下我的实现思路。 
+    1 Mesh 和 ShaderProgram 简介 1.1 创建 Mesh ​ 1）Mesh 的构造方法 isStatic：网格是否是静态的，如果网格数据不经常改动，设置为静态的可以优化性能； max 
     </details> 
 <!-- juejin:END -->
 ### 少数派
