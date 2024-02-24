@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [脑力小体操：正月十五猜灯谜](http://jandan.net/p/115716) | Sat Feb 24 2024 9:51 AM 
+- 🚀 [今日好价 0225](http://jandan.net/p/115719) | Sat Feb 24 2024 11:07 PM 
     <details><summary>展开描述 ...</summary> 
-    2024年度 
+    今日带货商品数量：47 
     </details> 
 
-- 🙉 [今日好价 0224](http://jandan.net/p/115709) | Fri Feb 23 2024 11:07 PM 
+- 🙉 [新证据揭秘：男女大脑真的有差异](http://jandan.net/p/115715) | Sat Feb 24 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：57 
+    男女大脑差异一直是争议性话题 
     </details> 
 
-- 🎉 [进化大爆发之谜：蛇为何如此种类繁多？](http://jandan.net/p/115706) | Fri Feb 23 2024 11:06 PM 
+- 🎉 [经典实验揭开细菌抗药谜团](http://jandan.net/p/115714) | Sat Feb 24 2024 11:04 PM 
     <details><summary>展开描述 ...</summary> 
-    蛇类惊人的多样性是生物进化史上的一个谜题 
+    为对抗耐药性提供了理论基础 
     </details> 
 
-- 🐲 [美国梅毒病例激增，孕产妇和新生儿成重灾区](http://jandan.net/p/115705) | Fri Feb 23 2024 11:05 PM 
+- 🐲 [科学家成功测量微观粒子引力](http://jandan.net/p/115713) | Sat Feb 24 2024 11:03 PM 
     <details><summary>展开描述 ...</summary> 
-    美国原本有望消除梅毒，但目前情况逆转 
+    为破解量子引力理论迈出重要一步 
     </details> 
 
--  [用金粉治帕金森：纳米金药丸有望改善脑部代谢](http://jandan.net/p/115704) | Fri Feb 23 2024 11:04 PM 
+-  [研究揭秘慢性压力如何助癌扩散](http://jandan.net/p/115712) | Sat Feb 24 2024 11:02 PM 
     <details><summary>展开描述 ...</summary> 
-    实验药物在 II 期临床试验中取得了令人鼓舞的成果 
+    过度的压力对我们的健康有害无益 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
