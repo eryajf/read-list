@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [重生之我是谁？用Coze打造《人生重来模拟器》丨Alpha版本发布](https://juejin.cn/post/7338645701659557925) | Sat Feb 24 2024 1:56 AM 
+- 🤗 [Flutter中好用的快捷键（Android Studio）](https://juejin.cn/post/7338614904394678323) | Sat Feb 24 2024 3:11 AM 
     <details><summary>展开描述 ...</summary> 
-    🕹️尊敬的玩家您好，欢迎来到《人生重来模拟器AI加强版》，系统将根据您的选择和决策，为你创造不同的人生故事和结局。接下来，您的人生之路由您自己主导，这一路上会充满未知与惊喜，让我们一起探索吧！ 
+    在 Android Studio 中使用 Flutter 开发时，一些常用的快捷键： Ctrl + /（Command + /）：注释/取消注释选定的代码行或块。 Ctrl + B（Command + 
     </details> 
 
-- 🎡 [Coze 扣子 |  AI 养育计划 - &quot;Flutter 大师&quot;](https://juejin.cn/post/7338635448304091151) | Sat Feb 24 2024 1:50 AM 
+- 🎡 [六种本地化运行大语言模型的方法（2024.1月）](https://juejin.cn/post/7338614904394596403) | Sat Feb 24 2024 2:51 AM 
     <details><summary>展开描述 ...</summary> 
-    扣子（coze.cn）是一款用来开发新一代 AI Chat Bot 的应用编辑平台。其中可以构建自己的知识库以及作为资源，这样的话，让 AI Bot 拥有将我文章的 &quot;智慧&quot;，岂不是以为 Flutte 
+    翻译于《Six Ways of Running Large Language Models &lpar;LLMs&rpar; Locally &lpar;January 2024&rpar;》 &lpar;开源的&rpar;大语言模型（LLMs），特别在Met 
     </details> 
 
-- 🕯 [PAG 动效组件受邀参加行业峰会，公开技术架构演进细节](https://juejin.cn/post/7338601378486157364) | Sat Feb 24 2024 1:47 AM 
+- 🕯 [改造你的Web应用，让其支持@RequestBody内容的重复读取](https://juejin.cn/post/7338706453059993636) | Sat Feb 24 2024 2:42 AM 
     <details><summary>展开描述 ...</summary> 
-    【干货】PAG 动效组件受邀参加行业峰会，公开技术架构演进细节 腾讯 PAG 动效组件自 2022 年 1 月 14 日在 Github 上开源以来，受到了行业的广泛关注，业务接入数量也从最初的 40 
+    本文我们则主要介绍如何通过手动Coding的方式，使SpringMVC内部支持对RequestBody内容的多次读取。 
     </details> 
 
-- 🚀 [如何让家中的工作站提提网速](https://juejin.cn/post/7338689046569402405) | Sat Feb 24 2024 1:27 AM 
+- 🚀 [做副业要建立正反馈，先赚到一块钱](https://juejin.cn/post/7338706453059911716) | Sat Feb 24 2024 2:06 AM 
     <details><summary>展开描述 ...</summary> 
-    最近一直很好奇，我的Arch工作站在下载huggingface model时总是在5MB/s， 而我的Win10笔记本却可以上10MB/s。经过我的发现时由于使用的wifi 频段 2.4G 和 5G  
+    **赚到第一快钱是赚钱路上的质变**，有了第一块钱的正反馈，你才会真的相信，原来除了打工上班赚工资，真的有其他赚钱的方式。 
     </details> 
 
-- 💪 [UE5 FPS 游戏开发：Game Assets 的使用](https://juejin.cn/post/7338674902281240603) | Fri Feb 23 2024 4:30 PM 
+- 💪 [基于嵌入式的车载导航定位系统设计](https://juejin.cn/post/7338614904394514483) | Sat Feb 24 2024 1:54 AM 
     <details><summary>展开描述 ...</summary> 
-    本文将介绍如何替换虚幻5第一人称射击模板的游戏资源为我们自己所需要的。 准备工作 首先，在游戏目录中创建一个名为 GameData 的文件夹。在其中创建子文件夹，Blueprint,mesh 和 an 
+    本项目通过集成高性能的主控开发板、精准的GPS定位模块以及强大的Qt开发框架，实现一个功能丰富、性能稳定、用户体验优越的车载导航系统。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
