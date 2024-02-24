@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [如何让家中的工作站提提网速](https://juejin.cn/post/7338689046569402405) | Sat Feb 24 2024 1:27 AM 
+- 🤗 [重生之我是谁？用Coze打造《人生重来模拟器》丨Alpha版本发布](https://juejin.cn/post/7338645701659557925) | Sat Feb 24 2024 1:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    🕹️尊敬的玩家您好，欢迎来到《人生重来模拟器AI加强版》，系统将根据您的选择和决策，为你创造不同的人生故事和结局。接下来，您的人生之路由您自己主导，这一路上会充满未知与惊喜，让我们一起探索吧！ 
+    </details> 
+
+- 🎡 [Coze 扣子 |  AI 养育计划 - &quot;Flutter 大师&quot;](https://juejin.cn/post/7338635448304091151) | Sat Feb 24 2024 1:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    扣子（coze.cn）是一款用来开发新一代 AI Chat Bot 的应用编辑平台。其中可以构建自己的知识库以及作为资源，这样的话，让 AI Bot 拥有将我文章的 &quot;智慧&quot;，岂不是以为 Flutte 
+    </details> 
+
+- 🕯 [PAG 动效组件受邀参加行业峰会，公开技术架构演进细节](https://juejin.cn/post/7338601378486157364) | Sat Feb 24 2024 1:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    【干货】PAG 动效组件受邀参加行业峰会，公开技术架构演进细节 腾讯 PAG 动效组件自 2022 年 1 月 14 日在 Github 上开源以来，受到了行业的广泛关注，业务接入数量也从最初的 40 
+    </details> 
+
+- 🚀 [如何让家中的工作站提提网速](https://juejin.cn/post/7338689046569402405) | Sat Feb 24 2024 1:27 AM 
     <details><summary>展开描述 ...</summary> 
     最近一直很好奇，我的Arch工作站在下载huggingface model时总是在5MB/s， 而我的Win10笔记本却可以上10MB/s。经过我的发现时由于使用的wifi 频段 2.4G 和 5G  
     </details> 
 
-- 🎡 [RunLoop与其他操作系统的对比](https://juejin.cn/post/7338617055150211099) | Fri Feb 23 2024 3:37 PM 
+- 💪 [UE5 FPS 游戏开发：Game Assets 的使用](https://juejin.cn/post/7338674902281240603) | Fri Feb 23 2024 4:30 PM 
     <details><summary>展开描述 ...</summary> 
-    RunLoop是iOS和macOS开发中的一个核心概念，用于管理线程内的事件循环，确保线程在有工作时忙碌，在无工作时休眠，从而有效地管理资源和电池寿命。RunLoop的工作原理和应用与其他操作系统中的 
-    </details> 
-
-- 🕯 [继续深入vue3源码中的watch的异步问题](https://juejin.cn/post/7338645701659017253) | Fri Feb 23 2024 3:30 PM 
-    <details><summary>展开描述 ...</summary> 
-    即上一篇文章中研究了watchEffect中传入异步函数的问题，我又在群里看了到另一个类似的问题，故写一篇文章记录一下。 
-    </details> 
-
-- 🚀 [【libGDX】使用Mesh绘制矩形](https://juejin.cn/entry/7338655886444281919) | Fri Feb 23 2024 2:54 PM 
-    <details><summary>展开描述 ...</summary> 
-    1 前言 ​ 使用Mesh绘制三角形 中介绍了绘制三角形的方法，本文将介绍绘制正方形的方法。 ​ libGDX 以点、线段、三角形为图元，没有提供绘制矩形内部的接口。要绘制矩形内部，必须通过三角形拼接 
-    </details> 
-
-- 💪 [【libGDX】使用Mesh绘制三角形](https://juejin.cn/entry/7338655886444331071) | Fri Feb 23 2024 2:54 PM 
-    <details><summary>展开描述 ...</summary> 
-    1 Mesh 和 ShaderProgram 简介 1.1 创建 Mesh ​ 1）Mesh 的构造方法 isStatic：网格是否是静态的，如果网格数据不经常改动，设置为静态的可以优化性能； max 
+    本文将介绍如何替换虚幻5第一人称射击模板的游戏资源为我们自己所需要的。 准备工作 首先，在游戏目录中创建一个名为 GameData 的文件夹。在其中创建子文件夹，Blueprint,mesh 和 an 
     </details> 
 <!-- juejin:END -->
 ### 少数派
