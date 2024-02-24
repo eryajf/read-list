@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [探索在Java中使用Kubernetes（K8s）](https://juejin.cn/post/7338742634167844876) | Sat Feb 24 2024 10:55 AM 
+- 🤗 [Python 潮流周刊第 39 期（摘要）](https://juejin.cn/post/7338636759541481483) | Sat Feb 24 2024 12:08 PM 
+    <details><summary>展开描述 ...</summary> 
+    本周刊由 Python猫 出品，精心筛选国内外的 250+ 信息源，为你挑选最值得分享的文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。愿景：帮助所有读者精进 Python 技术，并增长 
+    </details> 
+
+- 🎡 [Nodejs 第四十三章（redis）](https://juejin.cn/post/7338717224436449330) | Sat Feb 24 2024 11:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    Redis（Remote Dictionary Server）是一个开源的内存数据结构存储系统，它提供了一个高效的键值存储解决方案，并支持多种数据结构，如字符串（Strings）、哈希（Hashes） 
+    </details> 
+
+- 🕯 [简单入门Kubernetes容器编排平台及其在Java应用程序中的应用](https://juejin.cn/post/7338742634167844876) | Sat Feb 24 2024 10:55 AM 
     <details><summary>展开描述 ...</summary> 
     Kubernetes（K8s）是一个开源的、用于自动部署、扩展和管理容器化应用程序的平台。它提供了一个灵活的、可扩展的架构，使我们能够有效地部署和管理应用程序容器，同时还提供了简化的部署、管理和监控。 
     </details> 
 
-- 🎡 [请你手写前端路由hash&amp;history，你会不会写？](https://juejin.cn/post/7338665672468103219) | Sat Feb 24 2024 10:48 AM 
+- 🚀 [请你手写前端路由hash&amp;history，你会不会写？](https://juejin.cn/post/7338665672468103219) | Sat Feb 24 2024 10:48 AM 
     <details><summary>展开描述 ...</summary> 
     手写前端路由要解决的问题 在学习之前，我们要先知道我们要解决什么问题。 什么是路由？ 前端本无路由！就像鲁迅先生说的：世界上本没有路，走的人多了也就成了路！ 
     </details> 
 
-- 🕯 [Flutter事件和手势原理](https://juejin.cn/post/7338783017122447372) | Sat Feb 24 2024 10:47 AM 
+- 💪 [Flutter事件和手势原理](https://juejin.cn/post/7338783017122447372) | Sat Feb 24 2024 10:47 AM 
     <details><summary>展开描述 ...</summary> 
     本文介绍Flutter事件和手势的原理,包括原始指针事件、事件处理流程、手势识别原理以及如何解决多手势冲突的问题 
-    </details> 
-
-- 🚀 [A星寻路算法详解](https://juejin.cn/post/7338679828818575397) | Sat Feb 24 2024 10:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    A星寻路算法是静态路网中求解最短路径最有效的直接搜索方法，它可以应对包括复杂地形，各种尺度的障碍物以及不同地形的路径规划问题。掌握A星寻路算法能够提高路径规划效率，并在实际应用中发挥重要作用。 
-    </details> 
-
-- 💪 [分享一些我在面试时所遇到的CSS问题 （三）](https://juejin.cn/post/7338635448305598479) | Sat Feb 24 2024 9:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 在前端面试中，CSS是一个非常重要的考察点，因为它是构建网页界面和用户交互的关键技术之一。年也算过完了，又到了春招的时候，这是一个检验成果的阶段，接下来我会陆续分享一下我在面试时所遇到的与CSS 
     </details> 
 <!-- juejin:END -->
 ### 少数派
