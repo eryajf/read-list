@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [UsignDoc - 简化电子签名，保护您的文档](https://xinquji.com/posts/809275?utm_campaign=xinquji-rss) | Fri Feb 23 2024 6:00 AM 
+- 👀 [MoAIJobs - 寻找人工智能领域的工作](https://xinquji.com/posts/809291?utm_campaign=xinquji-rss) | Sat Feb 24 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     简化电子签名，保护您的文档  
+     寻找人工智能领域的工作  
     </details> 
 
-- 🥷 [Heeps.ai - 在几分钟内批量生成并发布文章](https://xinquji.com/posts/809274?utm_campaign=xinquji-rss) | Fri Feb 23 2024 6:00 AM 
+- 🥷 [klemmbrett – early access - 就在浏览器窗口中更快地记笔记](https://xinquji.com/posts/809290?utm_campaign=xinquji-rss) | Sat Feb 24 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     在几分钟内批量生成并发布文章  
+     就在浏览器窗口中更快地记笔记  
     </details> 
 
-- 💼 [Dosty Petcare - 为狗猫父母养一只健康快乐的宠物](https://xinquji.com/posts/809273?utm_campaign=xinquji-rss) | Fri Feb 23 2024 6:00 AM 
+- 💼 [Zetups - 从互联网上发现最好的办公桌设置](https://xinquji.com/posts/809289?utm_campaign=xinquji-rss) | Sat Feb 24 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     为狗猫父母养一只健康快乐的宠物  
+     从互联网上发现最好的办公桌设置  
     </details> 
 
-- 🦅 [FinFloh - 适合 CFO 和 B2B 财务团队的应收账款软件](https://xinquji.com/posts/809272?utm_campaign=xinquji-rss) | Fri Feb 23 2024 6:00 AM 
+- 🦅 [Persuva ai - 用于制作可转化广告的专用工具](https://xinquji.com/posts/809288?utm_campaign=xinquji-rss) | Sat Feb 24 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     适合 CFO 和 B2B 财务团队的应收账款软件  
+     用于制作可转化广告的专用工具  
     </details> 
 
-- 😺 [Meetz Ai - 人工智能个性化电话推销和电子邮件潜在客户开发](https://xinquji.com/posts/809271?utm_campaign=xinquji-rss) | Fri Feb 23 2024 6:00 AM 
+- 😺 [PDF2Anki 3.0 - 节省制作抽认卡和复习材料的时间](https://xinquji.com/posts/809287?utm_campaign=xinquji-rss) | Sat Feb 24 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     人工智能个性化电话推销和电子邮件潜在客户开发  
+     节省制作抽认卡和复习材料的时间  
     </details> 
 <!-- xinquji:END -->
