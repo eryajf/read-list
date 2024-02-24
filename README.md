@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0224](http://jandan.net/p/115709) | Fri Feb 23 2024 11:07 PM 
+- 🚀 [脑力小体操：正月十五猜灯谜](http://jandan.net/p/115716) | Sat Feb 24 2024 9:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    2024年度 
+    </details> 
+
+- 🙉 [今日好价 0224](http://jandan.net/p/115709) | Fri Feb 23 2024 11:07 PM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：57 
     </details> 
 
-- 🙉 [进化大爆发之谜：蛇为何如此种类繁多？](http://jandan.net/p/115706) | Fri Feb 23 2024 11:06 PM 
+- 🎉 [进化大爆发之谜：蛇为何如此种类繁多？](http://jandan.net/p/115706) | Fri Feb 23 2024 11:06 PM 
     <details><summary>展开描述 ...</summary> 
     蛇类惊人的多样性是生物进化史上的一个谜题 
     </details> 
 
-- 🎉 [美国梅毒病例激增，孕产妇和新生儿成重灾区](http://jandan.net/p/115705) | Fri Feb 23 2024 11:05 PM 
+- 🐲 [美国梅毒病例激增，孕产妇和新生儿成重灾区](http://jandan.net/p/115705) | Fri Feb 23 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
     美国原本有望消除梅毒，但目前情况逆转 
     </details> 
 
-- 🐲 [用金粉治帕金森：纳米金药丸有望改善脑部代谢](http://jandan.net/p/115704) | Fri Feb 23 2024 11:04 PM 
+-  [用金粉治帕金森：纳米金药丸有望改善脑部代谢](http://jandan.net/p/115704) | Fri Feb 23 2024 11:04 PM 
     <details><summary>展开描述 ...</summary> 
     实验药物在 II 期临床试验中取得了令人鼓舞的成果 
-    </details> 
-
--  [揭开长新冠“脑雾”之谜：血管泄漏或为罪魁祸首](http://jandan.net/p/115703) | Fri Feb 23 2024 11:03 PM 
-    <details><summary>展开描述 ...</summary> 
-    为理解长新冠患者的“脑雾”和认知衰退提供了新线索 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
