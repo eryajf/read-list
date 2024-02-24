@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Flutter中好用的快捷键（Android Studio）](https://juejin.cn/post/7338614904394678323) | Sat Feb 24 2024 3:11 AM 
+- 🤗 [为什么前端开发变得越来越复杂了？这可能是我们的错](https://juejin.cn/post/7338702103882121216) | Sat Feb 24 2024 4:08 AM 
+    <details><summary>展开描述 ...</summary> 
+    如今大量框架和工具给人的印象是 Web 开发可能已经变得过于复杂。如果是一个新人，有这么多要考虑的东西确实会令人感到“恐惧”。好像每一个框架都需要学习，如果不学习给人的感觉就是 “就是没有办法工作~~ 
+    </details> 
+
+- 🎡 [@Preview驱动 Jetpack Compose 开发](https://juejin.cn/post/7338689046569664549) | Sat Feb 24 2024 3:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    每个想法都源于需求, 这次也不例外. 在 Whatnot 的日常功能开发过程中, 我一直在努力跟上业务发展的步伐. 我必须在一周内实现一个相当庞大的功能, 确保一切按预期运行. 
+    </details> 
+
+- 🕯 [【一分钟快学】Go 语言函数返回值：结构体&lpar;Struct&rpar;实例 vs 指针 - 优劣分析与选择分析](https://juejin.cn/post/7338635448304304143) | Sat Feb 24 2024 3:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文探讨了 Go 语言中函数返回结构体实例与指针的选择标准，对比了两者在性能、内存使用和线程安全性方面的差异。通过分析一系列因素的影响，为开发者提供了根据具体场景做出最佳选择的指导。 
+    </details> 
+
+- 🚀 [Flutter中好用的快捷键（Android Studio）](https://juejin.cn/post/7338614904394678323) | Sat Feb 24 2024 3:11 AM 
     <details><summary>展开描述 ...</summary> 
     在 Android Studio 中使用 Flutter 开发时，一些常用的快捷键： Ctrl + /（Command + /）：注释/取消注释选定的代码行或块。 Ctrl + B（Command + 
     </details> 
 
-- 🎡 [六种本地化运行大语言模型的方法（2024.1月）](https://juejin.cn/post/7338614904394596403) | Sat Feb 24 2024 2:51 AM 
+- 💪 [【一分钟快学】Go 语言中的 Context：管理取消信号、超时和值传递](https://juejin.cn/post/7338601378486370356) | Sat Feb 24 2024 3:09 AM 
     <details><summary>展开描述 ...</summary> 
-    翻译于《Six Ways of Running Large Language Models &lpar;LLMs&rpar; Locally &lpar;January 2024&rpar;》 &lpar;开源的&rpar;大语言模型（LLMs），特别在Met 
-    </details> 
-
-- 🕯 [改造你的Web应用，让其支持@RequestBody内容的重复读取](https://juejin.cn/post/7338706453059993636) | Sat Feb 24 2024 2:42 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文我们则主要介绍如何通过手动Coding的方式，使SpringMVC内部支持对RequestBody内容的多次读取。 
-    </details> 
-
-- 🚀 [做副业要建立正反馈，先赚到一块钱](https://juejin.cn/post/7338706453059911716) | Sat Feb 24 2024 2:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    **赚到第一快钱是赚钱路上的质变**，有了第一块钱的正反馈，你才会真的相信，原来除了打工上班赚工资，真的有其他赚钱的方式。 
-    </details> 
-
-- 💪 [基于嵌入式的车载导航定位系统设计](https://juejin.cn/post/7338614904394514483) | Sat Feb 24 2024 1:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    本项目通过集成高性能的主控开发板、精准的GPS定位模块以及强大的Qt开发框架，实现一个功能丰富、性能稳定、用户体验优越的车载导航系统。 
+    本文深入浅出地介绍了 Go 语言中 context 包的重要性和实用性。通过通俗易懂的语言解释了 context 的三大主要用途：取消操作、超时控制和值传递。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
