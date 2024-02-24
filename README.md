@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [使用Python实现代理模式](https://juejin.cn/post/7338721296866328616) | Sat Feb 24 2024 4:11 PM 
+- 🤗 [蓝桥杯小白入门赛第六场 2.猜灯谜【算法赛】](https://juejin.cn/post/7338791751849164826) | Sat Feb 24 2024 4:46 PM 
+    <details><summary>展开描述 ...</summary> 
+    2.猜灯谜【算法赛】 - 蓝桥云课 &lpar;lanqiao.cn&rpar;。。。。。。。。。。。。。。。。。。。。。 
+    </details> 
+
+- 🎡 [软件架构随笔](https://juejin.cn/post/7338835708504064038) | Sat Feb 24 2024 4:30 PM 
+    <details><summary>展开描述 ...</summary> 
+    前端有架构吗？ 架构师对很多人和公司来讲，是一个神秘的职位。他像一个都市传说，很多人听过，但没见过，他存在于每个程序员的脑海中，但形象各不相同。 
+    </details> 
+
+- 🕯 [从零开始的数据结构Ep1-算法与复杂度](https://juejin.cn/post/7338791751849115674) | Sat Feb 24 2024 4:28 PM 
+    <details><summary>展开描述 ...</summary> 
+    🖋️本文，乃至本系列是我用于辅助自己学习的产物，主要目的是让大家能更加一目了然地理解知识点之间存在的关系，以及对于知识结构的梳理以及自己的理解。 
+    </details> 
+
+- 🚀 [使用Python实现代理模式](https://juejin.cn/post/7338721296866328616) | Sat Feb 24 2024 4:11 PM 
     <details><summary>展开描述 ...</summary> 
     代理模式是一种结构型设计模式，它通过提供一个代理对象来控制对其他对象的访问。这种模式创建具有现有对象的对象，以便向外界提供功能接口。代理模式主要用于延迟处理操作或访问、控制访问、记录日志等。 
     </details> 
 
-- 🎡 [使用Python实现桥接模式](https://juejin.cn/post/7338721296866312232) | Sat Feb 24 2024 4:11 PM 
+- 💪 [使用Python实现桥接模式](https://juejin.cn/post/7338721296866312232) | Sat Feb 24 2024 4:11 PM 
     <details><summary>展开描述 ...</summary> 
     桥接模式是一种结构型设计模式，它将抽象部分与其实现部分分离，使它们都可以独立地变化。通过这种方式，桥接模式增加了软件系统的灵活性。在实际应用中，桥接模式允许不仅改变实现的细节而且改变抽象的高层结构。 
-    </details> 
-
-- 🕯 [你不得不知道的Python AI库](https://juejin.cn/post/7338691767435034659) | Sat Feb 24 2024 4:11 PM 
-    <details><summary>展开描述 ...</summary> 
-    Python是人工智能（AI）和机器学习（ML）领域中使用最广泛的编程语言之一，拥有丰富的库支持各种AI和ML任务。本文介绍一些经典的Python AI库。 
-    </details> 
-
-- 🚀 [『SD』Stable Diffusion WebUI 安装插件（以汉化为例）](https://juejin.cn/post/7338721296866263080) | Sat Feb 24 2024 4:08 PM 
-    <details><summary>展开描述 ...</summary> 
-    Stable Diffusion WebUI 是允许用户自行安装插件的，插件的种类有很多，有将页面翻译成中文的插件，也有提示词补全插件，也有精细控制出图的插件。 
-    </details> 
-
-- 💪 [[ 实战篇RBAC系统 - Nestjs 最完善的Service实践 ，最佳实践-3]](https://juejin.cn/post/7338731016738209829) | Sat Feb 24 2024 3:35 PM 
-    <details><summary>展开描述 ...</summary> 
-    Hi 我是Joney 各位朋友 好久不见哈，祝愿大家2024新年大吉！ 那么在2024年 本系列我们将迎来一大波更新，欢迎各位道友关注和订阅。为了成体系的收集这些知识，Nest指南 
     </details> 
 <!-- juejin:END -->
 ### 少数派
