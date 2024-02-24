@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [JavaWeb之异常处理](https://juejin.cn/post/7338689046570205221) | Sat Feb 24 2024 6:56 AM 
+- 🤗 [这么多向量数据库，它们之间到底有哪些差异？](https://juejin.cn/post/7338636759541121035) | Sat Feb 24 2024 8:03 AM 
     <details><summary>展开描述 ...</summary> 
-    异常处理 当servlet出现异常时，servlet容器使用exception-type元素来找到与 
+    上篇说到chroma的近邻搜索算法实现得有问题，不如qdrant的。其实向量数据库之间看似都一样，但细细比较还是有很多不同的。 国外有一系列文章已经讲得很详细了，而且也就是半年前写的，还是具有 
     </details> 
 
-- 🎡 [Java Stream API的二度深入](https://juejin.cn/post/7338704641842364479) | Fri Feb 23 2024 3:38 PM 
+- 🎡 [JVM：JVM内存区域](https://juejin.cn/post/7338693163488509987) | Sat Feb 24 2024 7:55 AM 
     <details><summary>展开描述 ...</summary> 
-    在Java中，Stream 是Java 8引入的一个新概念，用于处理集合（Collections）数据的一种抽象。Java的Stream API 提供了一种声明式的方式来操作数据集合，可以用更简洁.. 
+    （图源：超过1W字深度剖析JVM常量池（全网最详细最有深度）） 运行时数据区 未完待续。。。 概述 图。。。 线程私有的 虚拟机栈 本地方法栈 程序计数器 线程共享的 堆 方法区 直接内存（非运行时数 
     </details> 
 
-- 🕯 [Android 粒子中心扩散动画](https://juejin.cn/post/7338628873134800948) | Fri Feb 23 2024 2:52 PM 
+- 🕯 [Chrome扩展通信总结](https://juejin.cn/post/7338731016737112101) | Sat Feb 24 2024 7:49 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 粒子动画效果相比其他动画来说是非常复杂了的，主要涉及三个方面，粒子初始化、粒子位移、粒子回收等问题，其中特别是粒子位移是最复杂的，涉及到的数学逻辑非常多，主要是各种三角函数、物理学公式等。 本篇 
+    我们知道chrome 插件主要是由内容脚本，后台脚本，工具栏popup脚本处理逻辑，但是内容脚本只能调用一些指定的chrome api。后台脚本不能操作dom，所以就需要一个通信系统来让他们交互起来。 
     </details> 
 
-- 🚀 [当节流和去抖遇到异步，它们会擦出怎样的火花？【重制版】](https://juejin.cn/post/7338443551745851432) | Fri Feb 23 2024 10:24 AM 
+- 🚀 [PAT 1080 MOOC期终成绩  25分](https://juejin.cn/post/7338698541286555675) | Sat Feb 24 2024 7:47 AM 
     <details><summary>展开描述 ...</summary> 
-    背景 在HTML的表单里，有这样一种场景： 点击“提交”就往服务端发送一个请求： 为防止用户重复提交，我们通常会维护一个loading状态...但是写得多了，难免有一种机械劳动的感觉。而且，当一个表单 
+    题目：1080 MOOC期终成绩 - PAT &lpar;Basic Level&rpar; Practice （中文） &lpar;pintia.cn&rpar; 解析：80_哔哩哔哩_bilibili 思想 1.我们先用一个结构体存储状 
     </details> 
 
-- 💪 [成为自己（二）：鸿蒙 Harmony 系统篇](https://juejin.cn/post/7338617055149735963) | Fri Feb 23 2024 9:58 AM 
+- 💪 [手写自动导入插件体会前端发展](https://juejin.cn/post/7338717224435875890) | Sat Feb 24 2024 7:46 AM 
     <details><summary>展开描述 ...</summary> 
-    俗话说，编程语言只是一个工具，工具多种多样，而工具作用的对象才是最需要先了解的，这样可以做到有的放矢（先找钉子，再用趁手锤子），在编码学习的时候也可以相互映照，起得事半功倍的效果。 
+    基本介绍 目的在于体会 unplugin-auto-import 这款插件的实际原理，真实的感受到前端架构这几年的飞速发展 这里实现 vue elementui 常用模块的自动导入，窥探插件内部核心原 
     </details> 
 <!-- juejin:END -->
 ### 少数派
