@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2013年蓝桥杯A组省赛  1.颠倒的价牌  知识点：模拟，枚举](https://juejin.cn/post/7339042929884135459) | Sun Feb 25 2024 3:01 PM 
+- 🤗 [源码学习——lodash&lpar;二&rpar;](https://juejin.cn/post/7339364757386756132) | Sun Feb 25 2024 3:57 PM 
     <details><summary>展开描述 ...</summary> 
-    题目：1.颠倒的价牌 - 蓝桥云课 &lpar;lanqiao.cn&rpar; 解析：2013年c++A组题4_哔哩哔哩_bilibili 这是我的想法，首先枚举四位数i，对于每一个数进行反转得到j，然后j-i进行相减 
+    上节我们介绍了lodash三个方法的源码，本节我们继续来看数组相关方法——difference系列。 
     </details> 
 
-- 🎡 [【simple-cache】一款只用一个注解就实现缓存的框架-我们终于迎来了SpringBoot版本](https://juejin.cn/post/7339364757386510372) | Sun Feb 25 2024 2:16 PM 
+- 🎡 [🔥基于GitHub的Electron自动发布与更新🔥](https://juejin.cn/post/7339024907718721599) | Sun Feb 25 2024 3:31 PM 
     <details><summary>展开描述 ...</summary> 
-    这次给大家带来了【simple-cache】的springboot版本： simple-cache-spring-boot-starter 
+    前言 在前面已经实现了我们自己的Markdown编辑软件，首次安装肯定是要手动下载安装的，但是在后续的迭代更新中，如果还需要一次次的去手动下载安装替换的话，那么体验肯定是不太好的。 本文介绍了如何在  
     </details> 
 
-- 🕯 [STM32CubeMX+MDK通过I2S接口进行音频输入输出（全双工读写一个DMA回调）](https://juejin.cn/post/7339016190612881408) | Sun Feb 25 2024 2:13 PM 
+- 🕯 [7. 链路日志打印实现设计](https://juejin.cn/post/7339322664304607242) | Sun Feb 25 2024 3:25 PM 
     <details><summary>展开描述 ...</summary> 
-    一、前言 目前有一个关于通过STM32F411CEUx的I2S总线接口控制SSS1700芯片进行音频输入输出的研究。 SSS1700 是具有片上振荡器的 3S 高度集成的USB音频控制器芯片 。 SS 
+    在前面的文章中，我们已经实现了一个Starter包，能够在使用RestTemplate作为客户端请求工具时，记录调用链路信息。在本文，将实现Jaeger框架下的链路日志打印 
     </details> 
 
-- 🚀 [分享一些我在面试时所遇到的CSS问题 （四）](https://juejin.cn/post/7339210740454817827) | Sun Feb 25 2024 1:58 PM 
+- 🚀 [6. 分布式链路追踪RestTemplate拦截器实现设计](https://juejin.cn/post/7339322664304590858) | Sun Feb 25 2024 3:24 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 在前端面试中，CSS是一个非常重要的考察点，因为它是构建网页界面和用户交互的关键技术之一。年也算过完了，又到了春招的时候，这是一个检验成果的阶段，接下来我会陆续分享一下我在面试时所遇到的与CSS 
+    本文将对《分布式链路追踪客户端工具包Starter设计》一文中的RestTemplate的拦截器进行一个增强设计，以使得使用RestTemplate调用下游时 
     </details> 
 
-- 💪 [2013年蓝桥杯A组省赛   1.振兴中华   知识点：dp思想](https://juejin.cn/post/7339210740454752291) | Sun Feb 25 2024 1:37 PM 
+- 💪 [实时交通违法行为检测系统：结合MobileNetV2与深度学习的智能安全监控](https://juejin.cn/post/7339042939602681908) | Sun Feb 25 2024 3:24 PM 
     <details><summary>展开描述 ...</summary> 
-    1.振兴中华 - 蓝桥云课 &lpar;lanqiao.cn&rpar; 我们发现从（0,0）这个点向下走，向右走都可以走出&quot;从我做起，振兴中华&quot; 
+    实时交通违法行为检测系统：结合MobileNetV2与深度学习的智能安全监控 随着城市交通的不断发展和车辆数量的增加，交通违法行为的监测与记录变得尤为重要。传统的交通监控方法往往依赖于人工巡逻或固定摄 
     </details> 
 <!-- juejin:END -->
 ### 少数派
