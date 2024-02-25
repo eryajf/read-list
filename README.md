@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [自动化工程师想找个工作；简历如下，请问可以找到吗](https://www.v2ex.com/t/1018278#reply0) | Sun Feb 25 2024 8:00 AM
-- 🤗 [求深圳公司注册代理记账和挂靠靠谱商家推荐](https://www.v2ex.com/t/1018273#reply0) | Sun Feb 25 2024 7:37 AM
-- 🎭 [写了一个可以自动压缩剪贴板图片的工具 解决 Windows 高分屏截图发不出去的问题 v4.2 重构](https://www.v2ex.com/t/1018259#reply3) | Sun Feb 25 2024 6:25 AM
-- 🥷 [[教程] 随时随地通过域名远程访问 nas、openwrt、alist 等家庭内网设备](https://www.v2ex.com/t/1018238#reply3) | Sun Feb 25 2024 3:44 AM
-- 🐵 [一道 Java 八股，检测 AI 智商](https://www.v2ex.com/t/1018215#reply52) | Sun Feb 25 2024 1:19 AM<!-- v2ex:END -->
+- 🥸 [前端开发现在遇到一些 android 开发的需求，有哪些比较好的教程可以快速学习下？](https://www.v2ex.com/t/1018287#reply2) | Sun Feb 25 2024 8:33 AM
+- 🤗 [自动化工程师想找个工作；简历如下，请问可以找到吗](https://www.v2ex.com/t/1018278#reply2) | Sun Feb 25 2024 8:00 AM
+- 🎭 [求深圳公司注册代理记账和挂靠靠谱商家推荐](https://www.v2ex.com/t/1018273#reply1) | Sun Feb 25 2024 7:37 AM
+- 🥷 [写了一个可以自动压缩剪贴板图片的工具 解决 Windows 高分屏截图发不出去的问题 v4.2 重构](https://www.v2ex.com/t/1018259#reply3) | Sun Feb 25 2024 6:25 AM
+- 🐵 [[教程] 随时随地通过域名远程访问 nas、openwrt、alist 等家庭内网设备](https://www.v2ex.com/t/1018238#reply5) | Sun Feb 25 2024 3:44 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
