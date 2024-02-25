@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Nest：调试项目及其源码（四）](https://juejin.cn/post/7339210740455276579) | Sun Feb 25 2024 4:51 PM 
+- 🤗 [2013年蓝桥杯A组真题 1.错误票据   知识点：输入问题](https://juejin.cn/post/7339042929884315683) | Sun Feb 25 2024 5:26 PM 
+    <details><summary>展开描述 ...</summary> 
+    题目：1.错误票据 - 蓝桥云课 &lpar;lanqiao.cn&rpar; 解析：2013年c++A组题7_哔哩哔哩_bilibili 这道题问题倒不是很难，但是输入输出比较麻烦： 最后要排序，不排序就错了。这是没排 
+    </details> 
+
+- 🎡 [Nest：调试项目及其源码（四）](https://juejin.cn/post/7339210740455276579) | Sun Feb 25 2024 4:51 PM 
     <details><summary>展开描述 ...</summary> 
     本指南详细介绍了如何使用 Visual Studio Code、Chrome DevTools 和命令行工具来调试 Nest.js 应用。从设置断点到监视代码执行，每种方法都提供了步骤指导和配置技巧。 
     </details> 
 
-- 🎡 [Nest：路由、控制器、服务（三）](https://juejin.cn/post/7339016190613110784) | Sun Feb 25 2024 4:49 PM 
+- 🕯 [Nest：路由、控制器、服务（三）](https://juejin.cn/post/7339016190613110784) | Sun Feb 25 2024 4:49 PM 
     <details><summary>展开描述 ...</summary> 
     摘要：本文详细介绍了 Nest.js 框架中如何通过路由将客户端请求映射到服务器响应，如何利用控制器管理这些请求，并如何创建和注入服务来封装业务逻辑。 
     </details> 
 
-- 🕯 [Langchain-Chatchat：离线运行的大模型知识库 | 开源日报 No.182](https://juejin.cn/post/7339364757386805284) | Sun Feb 25 2024 4:21 PM 
+- 🚀 [Langchain-Chatchat：离线运行的大模型知识库 | 开源日报 No.182](https://juejin.cn/post/7339364757386805284) | Sun Feb 25 2024 4:21 PM 
     <details><summary>展开描述 ...</summary> 
     基于 ChatGLM 等大语言模型与 Langchain 等应用框架实现的开源、可离线部署的检索增强生成 &lpar;RAG&rpar; 大模型知识库项目。该项目是一个可以实现完全本地化推理的知识库增强方案，重点解决数据 
     </details> 
 
-- 🚀 [源码学习——lodash&lpar;二&rpar;](https://juejin.cn/post/7339364757386756132) | Sun Feb 25 2024 3:57 PM 
+- 💪 [源码学习——lodash&lpar;二&rpar;](https://juejin.cn/post/7339364757386756132) | Sun Feb 25 2024 3:57 PM 
     <details><summary>展开描述 ...</summary> 
     上节我们介绍了lodash三个方法的源码，本节我们继续来看数组相关方法——difference系列。 
-    </details> 
-
-- 💪 [🔥基于GitHub的Electron自动发布与更新🔥](https://juejin.cn/post/7339024907718721599) | Sun Feb 25 2024 3:31 PM 
-    <details><summary>展开描述 ...</summary> 
-    前言 在前面已经实现了我们自己的Markdown编辑软件，首次安装肯定是要手动下载安装的，但是在后续的迭代更新中，如果还需要一次次的去手动下载安装替换的话，那么体验肯定是不太好的。 本文介绍了如何在  
     </details> 
 <!-- juejin:END -->
 ### 少数派
