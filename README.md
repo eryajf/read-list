@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [源码学习——lodash&lpar;二&rpar;](https://juejin.cn/post/7339364757386756132) | Sun Feb 25 2024 3:57 PM 
+- 🤗 [Nest：调试项目及其源码（四）](https://juejin.cn/post/7339210740455276579) | Sun Feb 25 2024 4:51 PM 
+    <details><summary>展开描述 ...</summary> 
+    本指南详细介绍了如何使用 Visual Studio Code、Chrome DevTools 和命令行工具来调试 Nest.js 应用。从设置断点到监视代码执行，每种方法都提供了步骤指导和配置技巧。 
+    </details> 
+
+- 🎡 [Nest：路由、控制器、服务（三）](https://juejin.cn/post/7339016190613110784) | Sun Feb 25 2024 4:49 PM 
+    <details><summary>展开描述 ...</summary> 
+    摘要：本文详细介绍了 Nest.js 框架中如何通过路由将客户端请求映射到服务器响应，如何利用控制器管理这些请求，并如何创建和注入服务来封装业务逻辑。 
+    </details> 
+
+- 🕯 [Langchain-Chatchat：离线运行的大模型知识库 | 开源日报 No.182](https://juejin.cn/post/7339364757386805284) | Sun Feb 25 2024 4:21 PM 
+    <details><summary>展开描述 ...</summary> 
+    基于 ChatGLM 等大语言模型与 Langchain 等应用框架实现的开源、可离线部署的检索增强生成 &lpar;RAG&rpar; 大模型知识库项目。该项目是一个可以实现完全本地化推理的知识库增强方案，重点解决数据 
+    </details> 
+
+- 🚀 [源码学习——lodash&lpar;二&rpar;](https://juejin.cn/post/7339364757386756132) | Sun Feb 25 2024 3:57 PM 
     <details><summary>展开描述 ...</summary> 
     上节我们介绍了lodash三个方法的源码，本节我们继续来看数组相关方法——difference系列。 
     </details> 
 
-- 🎡 [🔥基于GitHub的Electron自动发布与更新🔥](https://juejin.cn/post/7339024907718721599) | Sun Feb 25 2024 3:31 PM 
+- 💪 [🔥基于GitHub的Electron自动发布与更新🔥](https://juejin.cn/post/7339024907718721599) | Sun Feb 25 2024 3:31 PM 
     <details><summary>展开描述 ...</summary> 
     前言 在前面已经实现了我们自己的Markdown编辑软件，首次安装肯定是要手动下载安装的，但是在后续的迭代更新中，如果还需要一次次的去手动下载安装替换的话，那么体验肯定是不太好的。 本文介绍了如何在  
-    </details> 
-
-- 🕯 [7. 链路日志打印实现设计](https://juejin.cn/post/7339322664304607242) | Sun Feb 25 2024 3:25 PM 
-    <details><summary>展开描述 ...</summary> 
-    在前面的文章中，我们已经实现了一个Starter包，能够在使用RestTemplate作为客户端请求工具时，记录调用链路信息。在本文，将实现Jaeger框架下的链路日志打印 
-    </details> 
-
-- 🚀 [6. 分布式链路追踪RestTemplate拦截器实现设计](https://juejin.cn/post/7339322664304590858) | Sun Feb 25 2024 3:24 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文将对《分布式链路追踪客户端工具包Starter设计》一文中的RestTemplate的拦截器进行一个增强设计，以使得使用RestTemplate调用下游时 
-    </details> 
-
-- 💪 [实时交通违法行为检测系统：结合MobileNetV2与深度学习的智能安全监控](https://juejin.cn/post/7339042939602681908) | Sun Feb 25 2024 3:24 PM 
-    <details><summary>展开描述 ...</summary> 
-    实时交通违法行为检测系统：结合MobileNetV2与深度学习的智能安全监控 随着城市交通的不断发展和车辆数量的增加，交通违法行为的监测与记录变得尤为重要。传统的交通监控方法往往依赖于人工巡逻或固定摄 
     </details> 
 <!-- juejin:END -->
 ### 少数派
