@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [蓝桥杯小白赛第六期  4.你不干？有的是帕鲁干！](https://juejin.cn/post/7338679828819230757) | Sat Feb 24 2024 6:12 PM 
+- 🤗 [MQ 崩溃，服务雪崩，刚毕业的菜鸟居然充当了救火队长](https://juejin.cn/post/7338783017123151884) | Sat Feb 24 2024 11:58 PM 
+    <details><summary>展开描述 ...</summary> 
+    有一天，由于 RabbitMQ 集群的故障，系统几乎完全不可用。我们不得不重启整个 MQ 集群，才让服务恢复正常。 
+    </details> 
+
+- 🎡 [蓝桥杯小白赛第六期  4.你不干？有的是帕鲁干！](https://juejin.cn/post/7338679828819230757) | Sat Feb 24 2024 6:12 PM 
     <details><summary>展开描述 ...</summary> 
     4.你不干？有的是帕鲁干！【算法赛】 - 蓝桥云课 &lpar;lanqiao.cn&rpar; 这是我的代码，求出样例了，但是过不了： 思想 一。$ b-a=2$，因为两个连续奇数差为2 二。$b=a+2$ 我们现在来 
     </details> 
 
-- 🎡 [蓝桥杯小白赛第六期 3.数学奇才](https://juejin.cn/post/7338731016738439205) | Sat Feb 24 2024 5:31 PM 
+- 🕯 [蓝桥杯小白赛第六期 3.数学奇才](https://juejin.cn/post/7338731016738439205) | Sat Feb 24 2024 5:31 PM 
     <details><summary>展开描述 ...</summary> 
     3.数学奇才【算法赛】 - 蓝桥云课 &lpar;lanqiao.cn&rpar; 这是我的代码，过了样例： 这是人家的代码： 
     </details> 
 
-- 🕯 [使用PM2实现高效的应用监控与管理](https://juejin.cn/post/7338691767435100195) | Sat Feb 24 2024 5:15 PM 
+- 🚀 [使用PM2实现高效的应用监控与管理](https://juejin.cn/post/7338691767435100195) | Sat Feb 24 2024 5:15 PM 
     <details><summary>展开描述 ...</summary> 
     1. pm2 PM2 是一个流行的进程管理器，用于 Node.js 应用程序。它支持应用程序的负载均衡、自动重启、日志管理、监控以及多环境管理等功能。PM2让开发者能够以守护进程的方式运行和管理 No 
     </details> 
 
-- 🚀 [蓝桥杯小白入门赛第六场 2.猜灯谜【算法赛】](https://juejin.cn/post/7338791751849164826) | Sat Feb 24 2024 4:46 PM 
+- 💪 [蓝桥杯小白入门赛第六场 2.猜灯谜【算法赛】](https://juejin.cn/post/7338791751849164826) | Sat Feb 24 2024 4:46 PM 
     <details><summary>展开描述 ...</summary> 
     2.猜灯谜【算法赛】 - 蓝桥云课 &lpar;lanqiao.cn&rpar;。。。。。。。。。。。。。。。。。。。。。 
-    </details> 
-
-- 💪 [软件架构随笔](https://juejin.cn/post/7338835708504064038) | Sat Feb 24 2024 4:30 PM 
-    <details><summary>展开描述 ...</summary> 
-    前端有架构吗？ 架构师对很多人和公司来讲，是一个神秘的职位。他像一个都市传说，很多人听过，但没见过，他存在于每个程序员的脑海中，但形象各不相同。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
