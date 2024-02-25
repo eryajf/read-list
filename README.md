@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [分享一些我在面试时所遇到的CSS问题 （四）](https://juejin.cn/post/7339210740454817827) | Sun Feb 25 2024 1:58 PM 
+- 🤗 [2013年蓝桥杯A组省赛  1.颠倒的价牌  知识点：模拟，枚举](https://juejin.cn/post/7339042929884135459) | Sun Feb 25 2024 3:01 PM 
+    <details><summary>展开描述 ...</summary> 
+    题目：1.颠倒的价牌 - 蓝桥云课 &lpar;lanqiao.cn&rpar; 解析：2013年c++A组题4_哔哩哔哩_bilibili 这是我的想法，首先枚举四位数i，对于每一个数进行反转得到j，然后j-i进行相减 
+    </details> 
+
+- 🎡 [【simple-cache】一款只用一个注解就实现缓存的框架-我们终于迎来了SpringBoot版本](https://juejin.cn/post/7339364757386510372) | Sun Feb 25 2024 2:16 PM 
+    <details><summary>展开描述 ...</summary> 
+    这次给大家带来了【simple-cache】的springboot版本： simple-cache-spring-boot-starter 
+    </details> 
+
+- 🕯 [STM32CubeMX+MDK通过I2S接口进行音频输入输出（全双工读写一个DMA回调）](https://juejin.cn/post/7339016190612881408) | Sun Feb 25 2024 2:13 PM 
+    <details><summary>展开描述 ...</summary> 
+    一、前言 目前有一个关于通过STM32F411CEUx的I2S总线接口控制SSS1700芯片进行音频输入输出的研究。 SSS1700 是具有片上振荡器的 3S 高度集成的USB音频控制器芯片 。 SS 
+    </details> 
+
+- 🚀 [分享一些我在面试时所遇到的CSS问题 （四）](https://juejin.cn/post/7339210740454817827) | Sun Feb 25 2024 1:58 PM 
     <details><summary>展开描述 ...</summary> 
     前言 在前端面试中，CSS是一个非常重要的考察点，因为它是构建网页界面和用户交互的关键技术之一。年也算过完了，又到了春招的时候，这是一个检验成果的阶段，接下来我会陆续分享一下我在面试时所遇到的与CSS 
     </details> 
 
-- 🎡 [2013年蓝桥杯A组省赛   1.振兴中华   知识点：dp思想](https://juejin.cn/post/7339210740454752291) | Sun Feb 25 2024 1:37 PM 
+- 💪 [2013年蓝桥杯A组省赛   1.振兴中华   知识点：dp思想](https://juejin.cn/post/7339210740454752291) | Sun Feb 25 2024 1:37 PM 
     <details><summary>展开描述 ...</summary> 
     1.振兴中华 - 蓝桥云课 &lpar;lanqiao.cn&rpar; 我们发现从（0,0）这个点向下走，向右走都可以走出&quot;从我做起，振兴中华&quot; 
-    </details> 
-
-- 🕯 [看完zustand源码后，我的TypeScript水平突飞猛进。](https://juejin.cn/post/7339364757386264612) | Sun Feb 25 2024 1:18 PM 
-    <details><summary>展开描述 ...</summary> 
-    过年期间在家里没事，把zustand的源码看了一遍，看完后我最大的收获就是TypeScript水平突飞猛进，再去刷那些类型体操题目就变得简单了，下面和大家分享一下zustand库是怎么定义ts类型的。 
-    </details> 
-
-- 🚀 [css面试考点：flexbox、回流重绘、响应式设计及视差滚动的实现](https://juejin.cn/post/7339155841181024282) | Sun Feb 25 2024 1:13 PM 
-    <details><summary>展开描述 ...</summary> 
-    通过本文介绍的内容，我们对于 CSS 的一些重要概念和技术有了更深入的理解。Flexbox 布局为我们提供了灵活而高效的布局方式，使得网页布局更加容易实现，等等..... 
-    </details> 
-
-- 💪 [三十分钟简易部署 Hadoop 和上手使用](https://juejin.cn/post/7339155841181007898) | Sun Feb 25 2024 1:12 PM 
-    <details><summary>展开描述 ...</summary> 
-    👈👈👈 欢迎点赞收藏关注哟 一. 前言 一直想学大数据的一些框架 ，对于初学者者来说， 可以从 Hadoop 入手。 Hadoop 虽然网络上认为其在应用上已经被 HBase , Hive 所超越 ， 
     </details> 
 <!-- juejin:END -->
 ### 少数派
