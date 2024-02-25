@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [英伟达狂飙，上演大象坐火箭（含外企算法原题）](https://juejin.cn/post/7339085624836423690) | Sun Feb 25 2024 10:04 AM 
+- 🤗 [鸿蒙应用开发-组件组件状态共享（Prop、Link...）](https://juejin.cn/post/7339085624836620298) | Sun Feb 25 2024 11:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    状态共享-父子单向 **@Prop** 装饰的变量可以和父组件建立单向的同步关系。**@Prop** 装饰的变量是可变的，但是变化不会同步回其父组件。 支持类型 string、number、boole 
+    </details> 
+
+- 🎡 [带使能控制的锂电池充放电解决方案](https://juejin.cn/post/7339016190612127744) | Sun Feb 25 2024 10:41 AM 
+    <details><summary>展开描述 ...</summary> 
+    一、产品概述 TP4594R 是一款集成线性充电管理、同步升压转换、电池电量指示和多种保护功能的单芯片电源管理 SOC，为锂电池的充放电提供完整的单芯片电源解决方案。 TP4594R 内部集成了线性充 
+    </details> 
+
+- 🕯 [深入浅出TypeScript装饰器](https://juejin.cn/post/7339364757385822244) | Sun Feb 25 2024 10:37 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 最近在学习Nest.js的内容，发现装饰器本质和Java的面向切面编程。装饰器用于给类,方法,属性以及方法参数等增加一些附属功能而不影响其原有特性。其在Typescript应用中的主要作用类似于 
+    </details> 
+
+- 🚀 [英伟达狂飙，上演大象坐火箭（含外企算法原题）](https://juejin.cn/post/7339085624836423690) | Sun Feb 25 2024 10:04 AM 
     <details><summary>展开描述 ...</summary> 
     英伟达市值破 2W 亿 这两天全球资本市场最大的事情就是英伟达（NVDA）公布了财报。 本来市场（分析师）的预期就高，结果财报公布比预期还要高出不少。 NVDA 直接上演「大象坐火箭」，在财报公布后的 
     </details> 
 
-- 🎡 [NSIS安装过程中实现网络通信的几种方法](https://juejin.cn/post/7339063562654760997) | Sun Feb 25 2024 9:37 AM 
+- 💪 [NSIS安装过程中实现网络通信的几种方法](https://juejin.cn/post/7339063562654760997) | Sun Feb 25 2024 9:37 AM 
     <details><summary>展开描述 ...</summary> 
     NSIS自定义Windows安装包时，会遇到安装过程中需要网络功能（通信或下载）的需求。NSIS本身没有网络功能，要想在安装过程中实现网络功能只能通过插件和第三方软件来实现。本篇文章提供了几种解决方案 
-    </details> 
-
-- 🕯 [go语言ent关联查询使用示例](https://juejin.cn/post/7339063562654711845) | Sun Feb 25 2024 9:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    go语言的ent框架是facebook开源的ORM框架，是go语言开发中的常用框架，而关联查询又是日常开发中的常见数据库操作，故文本给出一个使用ent做关联查询的使用示例。 
-    </details> 
-
-- 🚀 [Spring MVC和Spring Boot入门以及Spring Session的详解](https://juejin.cn/post/7338797433898352691) | Sun Feb 25 2024 9:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    Spring MVC 1.spring controller 在我讲述spring的controller前我需要大家先看一个图片， 
-    </details> 
-
-- 💪 [“简单”理解spring bean生命周期](https://juejin.cn/post/7338808893529128971) | Sun Feb 25 2024 9:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    有时候在想一个问题：如果一个Java开发仅仅会用某个框架（当然最典型的是Spring），那么随着工作经验、年龄的增加，很难继续留在这个行业。每年都有应届生涌入这个行业，如果一个人的工龄、年龄不断增加， 
     </details> 
 <!-- juejin:END -->
 ### 少数派
