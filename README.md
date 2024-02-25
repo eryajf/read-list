@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2013年蓝桥杯A组真题 1.错误票据   知识点：输入问题](https://juejin.cn/post/7339042929884315683) | Sun Feb 25 2024 5:26 PM 
+- 🤗 [写给想要玩Sora同学的科普文章](https://juejin.cn/post/7339341982835966003) | Sun Feb 25 2024 11:04 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文将深入探索Sora AI背后的技术原理，它在不同领域的应用场景，以及如何精准高效地为Sora编写指令以释放其最大潜能。 
+    </details> 
+
+- 🎡 [打工人开发者怎么用行动管理自己的失业焦虑&lpar;一&rpar; 时刻着手维护自己的简历](https://juejin.cn/post/7339042929884381219) | Sun Feb 25 2024 10:29 PM 
+    <details><summary>展开描述 ...</summary> 
+    最近两年很多互联网人纷纷加入或者即将加入失业大潮，因此很多人都在面临所谓的“失业焦虑”，或者进一步说是“职业规划焦虑”。这篇文章并不打算传播这种焦虑，而是想说，焦虑没什么用，为焦虑去买课大部分时候也没 
+    </details> 
+
+- 🕯 [2013年蓝桥杯A组真题 1.错误票据   知识点：输入问题](https://juejin.cn/post/7339042929884315683) | Sun Feb 25 2024 5:26 PM 
     <details><summary>展开描述 ...</summary> 
     题目：1.错误票据 - 蓝桥云课 &lpar;lanqiao.cn&rpar; 解析：2013年c++A组题7_哔哩哔哩_bilibili 这道题问题倒不是很难，但是输入输出比较麻烦： 最后要排序，不排序就错了。这是没排 
     </details> 
 
-- 🎡 [Nest：调试项目及其源码（四）](https://juejin.cn/post/7339210740455276579) | Sun Feb 25 2024 4:51 PM 
+- 🚀 [低代码与大语言模型的探索实践](https://juejin.cn/post/7339341982835851315) | Sun Feb 25 2024 4:56 PM 
+    <details><summary>展开描述 ...</summary> 
+    低代码系列文章： 可视化拖拽组件库一些技术要点原理分析 可视化拖拽组件库一些技术要点原理分析（二） 可视化拖拽组件库一些技术要点原理分析（三） 可视化拖拽组件库一些技术要点原理分析（四） 低代码与大语 
+    </details> 
+
+- 💪 [Nest：调试项目及其源码（四）](https://juejin.cn/post/7339210740455276579) | Sun Feb 25 2024 4:51 PM 
     <details><summary>展开描述 ...</summary> 
     本指南详细介绍了如何使用 Visual Studio Code、Chrome DevTools 和命令行工具来调试 Nest.js 应用。从设置断点到监视代码执行，每种方法都提供了步骤指导和配置技巧。 
-    </details> 
-
-- 🕯 [Nest：路由、控制器、服务（三）](https://juejin.cn/post/7339016190613110784) | Sun Feb 25 2024 4:49 PM 
-    <details><summary>展开描述 ...</summary> 
-    摘要：本文详细介绍了 Nest.js 框架中如何通过路由将客户端请求映射到服务器响应，如何利用控制器管理这些请求，并如何创建和注入服务来封装业务逻辑。 
-    </details> 
-
-- 🚀 [Langchain-Chatchat：离线运行的大模型知识库 | 开源日报 No.182](https://juejin.cn/post/7339364757386805284) | Sun Feb 25 2024 4:21 PM 
-    <details><summary>展开描述 ...</summary> 
-    基于 ChatGLM 等大语言模型与 Langchain 等应用框架实现的开源、可离线部署的检索增强生成 &lpar;RAG&rpar; 大模型知识库项目。该项目是一个可以实现完全本地化推理的知识库增强方案，重点解决数据 
-    </details> 
-
-- 💪 [源码学习——lodash&lpar;二&rpar;](https://juejin.cn/post/7339364757386756132) | Sun Feb 25 2024 3:57 PM 
-    <details><summary>展开描述 ...</summary> 
-    上节我们介绍了lodash三个方法的源码，本节我们继续来看数组相关方法——difference系列。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
