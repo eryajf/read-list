@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0225](http://jandan.net/p/115719) | Sat Feb 24 2024 11:07 PM 
+- 🚀 [今日好价 0226](http://jandan.net/p/115727) | Sun Feb 25 2024 11:07 PM 
     <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：47 
+    今日带货商品数量：43 
     </details> 
 
-- 🙉 [新证据揭秘：男女大脑真的有差异](http://jandan.net/p/115715) | Sat Feb 24 2024 11:05 PM 
+- 🙉 [禁止青少年使用手机和社交媒体弊大于利](http://jandan.net/p/115725) | Sun Feb 25 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
-    男女大脑差异一直是争议性话题 
+    应加强教育和建立信任，而非简单粗暴地设禁令 
     </details> 
 
-- 🎉 [经典实验揭开细菌抗药谜团](http://jandan.net/p/115714) | Sat Feb 24 2024 11:04 PM 
+- 🎉 [传说中的“布拉格玻璃”相态在现实中被发现](http://jandan.net/p/115724) | Sun Feb 25 2024 11:04 PM 
     <details><summary>展开描述 ...</summary> 
-    为对抗耐药性提供了理论基础 
+    布拉格玻璃终于在一种真实材料中被发现 
     </details> 
 
-- 🐲 [科学家成功测量微观粒子引力](http://jandan.net/p/115713) | Sat Feb 24 2024 11:03 PM 
+- 🐲 [十年前，汽车行业就被警告无钥匙汽车容易被盗](http://jandan.net/p/115723) | Sun Feb 25 2024 11:03 PM 
     <details><summary>展开描述 ...</summary> 
-    为破解量子引力理论迈出重要一步 
+    如今盗窃率飙升 
     </details> 
 
--  [研究揭秘慢性压力如何助癌扩散](http://jandan.net/p/115712) | Sat Feb 24 2024 11:02 PM 
+-  [如何与鲸鱼对话](http://jandan.net/p/115722) | Sun Feb 25 2024 11:02 PM 
     <details><summary>展开描述 ...</summary> 
-    过度的压力对我们的健康有害无益 
+    鲸鱼可能拥有复杂语言 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
