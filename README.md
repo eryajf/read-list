@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [JS 异步之旅](https://juejin.cn/post/7339104098897510463) | Sun Feb 25 2024 5:12 AM 
+- 🤗 [制作一个搜索弹窗组件（Tailwind CSS + shadcn/ui）](https://juejin.cn/post/7338778403553148962) | Sun Feb 25 2024 5:54 AM 
     <details><summary>展开描述 ...</summary> 
-    我会简述这些异步 API 的工作原理，以及您何时需要使用它们。我还会介绍 Lodash 的 `debounce&lpar;&rpar;` 和 `throttle&lpar;&rpar;`，因为我发现它们也大有用处。 
+    这篇文章简单介绍了如何制作一个搜索组件的 UI，使用了Tailwind CSS + shadcn/ui 
     </details> 
 
-- 🎡 [SaaS初创公司选择微服务前必看：4个潜在风险](https://juejin.cn/post/7338691767435558947) | Sun Feb 25 2024 4:49 AM 
+- 🎡 [探索Controller、Service、DAO三层架构：软件开发的艺术](https://juejin.cn/post/7339104098897625151) | Sun Feb 25 2024 5:35 AM 
     <details><summary>展开描述 ...</summary> 
-    微服务架构对某些初创公司来说可能是合适的选择，但对大多数情况而言，采用更简单的单体架构可能更有利于快速开发和产品验证。随着客户基础的增长，逐渐过渡到微服务仍然是一种可行的策略。 
+    在软件开发领域，将复杂系统分解成更小、管理得当的部分是一种常见且有效的实践。这种分解不仅有助于提高代码的可维护性和可扩展性，还能提升开发效率。其中，Controller、Service、DAO三层架构 
     </details> 
 
-- 🕯 [蓝桥杯小白赛第六期   5.等腰三角形 知识点：三角形特性，贪心](https://juejin.cn/post/7338771486400462848) | Sun Feb 25 2024 4:38 AM 
+- 🕯 [蓝桥杯小白赛第六期  6.计算方程    知识点：数学，二分](https://juejin.cn/post/7338771486400577536) | Sun Feb 25 2024 5:31 AM 
     <details><summary>展开描述 ...</summary> 
-    思想 5.等腰三角形【算法赛】 - 蓝桥云课 &lpar;lanqiao.cn&rpar; 三角形两边之和大于第三边 ps 一定要排序，不然过不了 至于原因我们可以从样例看出来： 上面的样例是按照一一对应的样子给出的A和 
+    6.计算方程【算法赛】 - 蓝桥云课 &lpar;lanqiao.cn&rpar; 求x的最大范围 在不考虑$\log_{k}{x} $ 给 $ \sqrt{x} $增值的情况下: 因此，x最大不会超过m的平方+1，即$ 
     </details> 
 
-- 🚀 [Flutter &amp; GLSL - 柒 | 减法与线](https://juejin.cn/post/7338691767435526179) | Sun Feb 25 2024 4:31 AM 
+- 🚀 [参考谷歌示例项目（NIA）复用 build.gradle.kts](https://juejin.cn/post/7339024907717804095) | Sun Feb 25 2024 5:22 AM 
     <details><summary>展开描述 ...</summary> 
-    Flutter &amp; GLSL 系列文章第七集 ，如何通过减法展示线条。前面我们通过圆形的区域和平滑过渡，认识了两个非常重要的内置函数 `step` 和 `smoothstep`。其中这两个方法... 
+    谷歌官方项目 Now In Android 是官方团队对于最佳实践的实际阐释，其中的构建脚本复用也很有意思。本，文参考NIA实现，在Gradle8.4上通过自定义Plugin完成复用，并记录过程如下 
     </details> 
 
-- 💪 [闲](https://juejin.cn/post/7339035831401742372) | Sun Feb 25 2024 4:15 AM 
+- 💪 [连接多元世界的纽带——适配器模式的魅力](https://juejin.cn/post/7338721296866738216) | Sun Feb 25 2024 5:16 AM 
     <details><summary>展开描述 ...</summary> 
-    天空很蓝，一片云也没有，头顶路过的飞机，亮闪闪无拖尾。雪化完第二天，太阳在蓝天帮助下将世界铺的温暖金黄。父亲早起烧的一盆火，空燃一整天；冬天的太阳与冬天的火，在白天，我们是偏爱太阳的。 光秃秃树梢，停 
+    适配器模式是一种强大的工具，可以帮助我们解决接口不兼容的问题，提高系统的灵活性和可维护性，是每个软件开发人员都应该掌握的设计模式之一。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
