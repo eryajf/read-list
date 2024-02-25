@@ -311,19 +311,19 @@
     文章总结了本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
     </details> 
 
-- 🦅 [勒索之王LockBit 被11国联合执法覆灭？将发布4.0版本](https://www.freebuf.com/news/392383.html) | Fri Feb 23 2024 5:27 AM 
+- 🦅 [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/392406.html) | Fri Feb 23 2024 6:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    文章精选了本周知识大陆公开发布的10条优质资源，让我们一起看看吧。 
+    </details> 
+
+- 🪄 [勒索之王LockBit 被11国联合执法覆灭？将发布4.0版本](https://www.freebuf.com/news/392383.html) | Fri Feb 23 2024 5:27 AM 
     <details><summary>展开描述 ...</summary> 
     目前，LockBit 数据泄露网站上赫然出现“该网站处于执法部门控制之下”的画面。 
     </details> 
 
-- 🪄 [美国指控著名安全厂商Avast 向广告商出售用户浏览数据](https://www.freebuf.com/news/392370.html) | Fri Feb 23 2024 3:49 AM 
+- 💻 [美国指控著名安全厂商Avast 向广告商出售用户浏览数据](https://www.freebuf.com/news/392370.html) | Fri Feb 23 2024 3:49 AM 
     <details><summary>展开描述 ...</summary> 
     Avast被美国联邦贸易委员会 &lpar;FTC&rpar; 指控通过其浏览器扩展和防病毒软件收集消费者网络浏览数据，并在未经消费者同意的情况下出售这些数据。 
-    </details> 
-
-- 💻 [苹果推出后量子加密协议PQ3，iMessage即将迎来大升级！](https://www.freebuf.com/news/392362.html) | Fri Feb 23 2024 3:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    PQ3 具有抗妥协加密和广泛的防御功能，甚至可以抵御高度复杂的量子攻击，是首个达到三级安全等级的信息协议。 
     </details> 
 <!-- freebuf:END -->
 
