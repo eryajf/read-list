@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [MoAIJobs - 寻找人工智能领域的工作](https://xinquji.com/posts/809291?utm_campaign=xinquji-rss) | Sat Feb 24 2024 6:00 AM 
+- 👀 [CopyFrame - 专业文案撰写者起草并展示其文案的地方](https://xinquji.com/posts/809310?utm_campaign=xinquji-rss) | Sun Feb 25 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     寻找人工智能领域的工作  
+     专业文案撰写者起草并展示其文案的地方  
     </details> 
 
-- 🥷 [klemmbrett – early access - 就在浏览器窗口中更快地记笔记](https://xinquji.com/posts/809290?utm_campaign=xinquji-rss) | Sat Feb 24 2024 6:00 AM 
+- 🥷 [Saner.AI - 无需手动组织即可捕捉、查找和发展想法](https://xinquji.com/posts/809309?utm_campaign=xinquji-rss) | Sun Feb 25 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     就在浏览器窗口中更快地记笔记  
+     无需手动组织即可捕捉、查找和发展想法  
     </details> 
 
-- 💼 [Zetups - 从互联网上发现最好的办公桌设置](https://xinquji.com/posts/809289?utm_campaign=xinquji-rss) | Sat Feb 24 2024 6:00 AM 
+- 💼 [KeepRecord - 构建表格、填写和链接数据 - 计划您的一周](https://xinquji.com/posts/809308?utm_campaign=xinquji-rss) | Sun Feb 25 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     从互联网上发现最好的办公桌设置  
+     构建表格、填写和链接数据 - 计划您的一周  
     </details> 
 
-- 🦅 [Persuva ai - 用于制作可转化广告的专用工具](https://xinquji.com/posts/809288?utm_campaign=xinquji-rss) | Sat Feb 24 2024 6:00 AM 
+- 🦅 [Legal Guardian - 旅行者、游牧民和外籍人士法律援助服务](https://xinquji.com/posts/809307?utm_campaign=xinquji-rss) | Sun Feb 25 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     用于制作可转化广告的专用工具  
+     旅行者、游牧民和外籍人士法律援助服务  
     </details> 
 
-- 😺 [PDF2Anki 3.0 - 节省制作抽认卡和复习材料的时间](https://xinquji.com/posts/809287?utm_campaign=xinquji-rss) | Sat Feb 24 2024 6:00 AM 
+- 😺 [once.tools - 您只需付费一次的软件指南](https://xinquji.com/posts/809306?utm_campaign=xinquji-rss) | Sun Feb 25 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     节省制作抽认卡和复习材料的时间  
+     您只需付费一次的软件指南  
     </details> 
 <!-- xinquji:END -->
