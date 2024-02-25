@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [制作一个搜索弹窗组件（Tailwind CSS + shadcn/ui）](https://juejin.cn/post/7338778403553148962) | Sun Feb 25 2024 5:54 AM 
+- 🤗 [Nodejs 第四十四章（redis基本使用）](https://juejin.cn/post/7338778403553312802) | Sun Feb 25 2024 7:11 AM 
     <details><summary>展开描述 ...</summary> 
-    这篇文章简单介绍了如何制作一个搜索组件的 UI，使用了Tailwind CSS + shadcn/ui 
+    字符串的操作 key：要设置的键名。 value：要设置的值。 NX：可选参数，表示只在键不存在时才设置值。 XX：可选参数，表示只在键已经存在时才设置值。 EX seconds：可选参数，将键的过期 
     </details> 
 
-- 🎡 [探索Controller、Service、DAO三层架构：软件开发的艺术](https://juejin.cn/post/7339104098897625151) | Sun Feb 25 2024 5:35 AM 
+- 🎡 [微服务是什么](https://juejin.cn/post/7338732567032037413) | Sun Feb 25 2024 7:10 AM 
     <details><summary>展开描述 ...</summary> 
-    在软件开发领域，将复杂系统分解成更小、管理得当的部分是一种常见且有效的实践。这种分解不仅有助于提高代码的可维护性和可扩展性，还能提升开发效率。其中，Controller、Service、DAO三层架构 
+    本文，我们将探讨微服务是什么，并且了解怎么使用 Java 去构建微服务。 微服务是什么/微服务架构？ 嗯～一个微服务架构就是允许一个大团队去构建可扩展的应用程序，这个程序由多个松散的服务组成。 
     </details> 
 
-- 🕯 [蓝桥杯小白赛第六期  6.计算方程    知识点：数学，二分](https://juejin.cn/post/7338771486400577536) | Sun Feb 25 2024 5:31 AM 
+- 🕯 [深入理解和实现 useFirstState 自定义 React 钩子](https://juejin.cn/post/7339085624835588106) | Sun Feb 25 2024 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-    6.计算方程【算法赛】 - 蓝桥云课 &lpar;lanqiao.cn&rpar; 求x的最大范围 在不考虑$\log_{k}{x} $ 给 $ \sqrt{x} $增值的情况下: 因此，x最大不会超过m的平方+1，即$ 
+    在 React 开发过程中，状态管理是构建动态交云应用的核心。React 提供了 useState 钩子，使得在函数组件中使用状态变得简单直接。然而在某些场景下，开发者可能需要保留组件的初始状态... 
     </details> 
 
-- 🚀 [参考谷歌示例项目（NIA）复用 build.gradle.kts](https://juejin.cn/post/7339024907717804095) | Sun Feb 25 2024 5:22 AM 
+- 🚀 [深入理解并手写 Node.js 的 promisify 方法](https://juejin.cn/post/7338732567031955493) | Sun Feb 25 2024 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-    谷歌官方项目 Now In Android 是官方团队对于最佳实践的实际阐释，其中的构建脚本复用也很有意思。本，文参考NIA实现，在Gradle8.4上通过自定义Plugin完成复用，并记录过程如下 
+    在这篇文章中，我们将深入探讨 promisify 方法及其作用，然后逐步教你如何手写这个方法，并使用它将 fs 模块中的函数进行 promisify 化。最后，我们会讨论手写这个方法的意义。 
     </details> 
 
-- 💪 [连接多元世界的纽带——适配器模式的魅力](https://juejin.cn/post/7338721296866738216) | Sun Feb 25 2024 5:16 AM 
+- 💪 [国内免费 AI 绘画工具：字节跳动的 Dreamina](https://juejin.cn/post/7339104098897723455) | Sun Feb 25 2024 6:20 AM 
     <details><summary>展开描述 ...</summary> 
-    适配器模式是一种强大的工具，可以帮助我们解决接口不兼容的问题，提高系统的灵活性和可维护性，是每个软件开发人员都应该掌握的设计模式之一。 
+    有没有想过，如果有一天，你可以轻轻松松地创作出好看的绘画作品，即使你连画笔都没怎么拿过？嘿，说不定这一天就在今天。字节跳动，这家大家都不陌生的科技企业，最近打造出了一款 AI 绘画工具——Dreami 
     </details> 
 <!-- juejin:END -->
 ### 少数派
