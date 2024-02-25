@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [写了一个可以自动压缩剪贴板图片的工具 解决 Windows 高分屏截图发不出去的问题 v4.2 重构](https://www.v2ex.com/t/1018259#reply2) | Sun Feb 25 2024 6:25 AM
-- 🤗 [[教程] 随时随地通过域名远程访问 nas、openwrt、alist 等家庭内网设备](https://www.v2ex.com/t/1018238#reply3) | Sun Feb 25 2024 3:44 AM
-- 🎭 [一道 Java 八股，检测 AI 智商](https://www.v2ex.com/t/1018215#reply40) | Sun Feb 25 2024 1:19 AM
-- 🥷 [很痛苦，火狐对扩展程序的限制让我开始自我怀疑了](https://www.v2ex.com/t/1018209#reply18) | Sat Feb 24 2024 8:33 PM
-- 🐵 [win11 笔记本华硕枪神 7plus ,大量下载后,经常断流 重启后就好 ,我该咋办呢?求大佬们搭救,感谢感谢.](https://www.v2ex.com/t/1018201#reply0) | Sat Feb 24 2024 5:10 PM<!-- v2ex:END -->
+- 🥸 [自动化工程师想找个工作；简历如下，请问可以找到吗](https://www.v2ex.com/t/1018278#reply0) | Sun Feb 25 2024 8:00 AM
+- 🤗 [求深圳公司注册代理记账和挂靠靠谱商家推荐](https://www.v2ex.com/t/1018273#reply0) | Sun Feb 25 2024 7:37 AM
+- 🎭 [写了一个可以自动压缩剪贴板图片的工具 解决 Windows 高分屏截图发不出去的问题 v4.2 重构](https://www.v2ex.com/t/1018259#reply3) | Sun Feb 25 2024 6:25 AM
+- 🥷 [[教程] 随时随地通过域名远程访问 nas、openwrt、alist 等家庭内网设备](https://www.v2ex.com/t/1018238#reply3) | Sun Feb 25 2024 3:44 AM
+- 🐵 [一道 Java 八股，检测 AI 智商](https://www.v2ex.com/t/1018215#reply52) | Sun Feb 25 2024 1:19 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
