@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [MQ 崩溃，服务雪崩，刚毕业的菜鸟居然充当了救火队长](https://juejin.cn/post/7338783017123151884) | Sat Feb 24 2024 11:58 PM 
+- 🤗 [Spring事务模板及afterCommit存在的坑](https://juejin.cn/post/7338973258896097343) | Sun Feb 25 2024 2:05 AM 
     <details><summary>展开描述 ...</summary> 
-    有一天，由于 RabbitMQ 集群的故障，系统几乎完全不可用。我们不得不重启整个 MQ 集群，才让服务恢复正常。 
+    内容来源于两个线上问题，主要和大家聊聊为什么支付系统中基本只使用事务模板方法，而不使用声明式事务@Transaction注解，以及使用afterCommit&lpar;&rpar;出现连接未按预期释放导致的性能问题。 
     </details> 
 
-- 🎡 [蓝桥杯小白赛第六期  4.你不干？有的是帕鲁干！](https://juejin.cn/post/7338679828819230757) | Sat Feb 24 2024 6:12 PM 
+- 🎡 [【一分钟快学】Go 语言中的 Slice 魔法：如何高效重用切片](https://juejin.cn/post/7338771486400135168) | Sun Feb 25 2024 1:52 AM 
     <details><summary>展开描述 ...</summary> 
-    4.你不干？有的是帕鲁干！【算法赛】 - 蓝桥云课 &lpar;lanqiao.cn&rpar; 这是我的代码，求出样例了，但是过不了： 思想 一。$ b-a=2$，因为两个连续奇数差为2 二。$b=a+2$ 我们现在来 
+    探索 Go 切片&lpar;slice&rpar;：本文讲述如何通过 slice[:0] 高效重用切片，节省资源并优化程序性能。 
     </details> 
 
-- 🕯 [蓝桥杯小白赛第六期 3.数学奇才](https://juejin.cn/post/7338731016738439205) | Sat Feb 24 2024 5:31 PM 
+- 🕯 [经典css题面试（一）—— 请说说你对css盒模型的理解](https://juejin.cn/post/7338791751849050138) | Sat Feb 24 2024 3:47 PM 
     <details><summary>展开描述 ...</summary> 
-    3.数学奇才【算法赛】 - 蓝桥云课 &lpar;lanqiao.cn&rpar; 这是我的代码，过了样例： 这是人家的代码： 
+    在网页开发中，CSS 盒模型是一个重要的概念，它描述了网页中的元素是如何被呈现和布局的。每个元素被看作一个矩形盒子，这个盒子由内容区域、内边距、边框和外边距组成...... 
     </details> 
 
-- 🚀 [使用PM2实现高效的应用监控与管理](https://juejin.cn/post/7338691767435100195) | Sat Feb 24 2024 5:15 PM 
+- 🚀 [面向小白编程：Vue Router 的进阶用法](https://juejin.cn/post/7338835708503949350) | Sat Feb 24 2024 3:40 PM 
     <details><summary>展开描述 ...</summary> 
-    1. pm2 PM2 是一个流行的进程管理器，用于 Node.js 应用程序。它支持应用程序的负载均衡、自动重启、日志管理、监控以及多环境管理等功能。PM2让开发者能够以守护进程的方式运行和管理 No 
+    书接上回，我们介绍了如何创建Vue项目、什么是Vue Router，以及实现简单的路由跳转。 在本篇文章中将继续结合官方文档，面向小白，介绍从路由懒加载、路由模式、嵌套路由、路由传参、导航守卫等等。 
     </details> 
 
-- 💪 [蓝桥杯小白入门赛第六场 2.猜灯谜【算法赛】](https://juejin.cn/post/7338791751849164826) | Sat Feb 24 2024 4:46 PM 
+- 💪 [【阿里低代码引擎实战】— 安装WSL与初始化项目](https://juejin.cn/post/7338723726837039123) | Sat Feb 24 2024 3:15 PM 
     <details><summary>展开描述 ...</summary> 
-    2.猜灯谜【算法赛】 - 蓝桥云课 &lpar;lanqiao.cn&rpar;。。。。。。。。。。。。。。。。。。。。。 
+    【阿里低代码引擎实战】— 安装WSL与初始化项目，在Windows 10 环境下安装 WSL2.0，本地跑 lowcode-demo 项目； 
     </details> 
 <!-- juejin:END -->
 ### 少数派
