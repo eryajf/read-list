@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [理解 Swift 中的方法派发机制 - 静态派发](https://juejin.cn/post/7338994082860335130) | Sun Feb 25 2024 8:55 AM 
+- 🤗 [英伟达狂飙，上演大象坐火箭（含外企算法原题）](https://juejin.cn/post/7339085624836423690) | Sun Feb 25 2024 10:04 AM 
     <details><summary>展开描述 ...</summary> 
-    方法派发 在计算机领域中，有两种类型的方法派发方式，并且它们有着明显的区别： 静态派发（Static dispatch）：速度快不灵活。 动态派发（Dynamic dispatch）：速度慢但更加灵活 
+    英伟达市值破 2W 亿 这两天全球资本市场最大的事情就是英伟达（NVDA）公布了财报。 本来市场（分析师）的预期就高，结果财报公布比预期还要高出不少。 NVDA 直接上演「大象坐火箭」，在财报公布后的 
     </details> 
 
-- 🎡 [通过 Vue3 来学习框架的设计思路](https://juejin.cn/post/7339104098898018367) | Sun Feb 25 2024 7:59 AM 
+- 🎡 [NSIS安装过程中实现网络通信的几种方法](https://juejin.cn/post/7339063562654760997) | Sun Feb 25 2024 9:37 AM 
     <details><summary>展开描述 ...</summary> 
-    作为框架设计者的话，一定要对`框架的定位和方向拥有全局的把控`，这样才能做好后续的模块设计和拆分。通过 Vue3 我们一起来学习框架的设计思路..... 
+    NSIS自定义Windows安装包时，会遇到安装过程中需要网络功能（通信或下载）的需求。NSIS本身没有网络功能，要想在安装过程中实现网络功能只能通过插件和第三方软件来实现。本篇文章提供了几种解决方案 
     </details> 
 
-- 🕯 [2013年蓝桥杯A组省赛填空题 1.高斯日记   知识点：日期模拟，枚举](https://juejin.cn/post/7338778403553411106) | Sun Feb 25 2024 7:40 AM 
+- 🕯 [go语言ent关联查询使用示例](https://juejin.cn/post/7339063562654711845) | Sun Feb 25 2024 9:30 AM 
     <details><summary>展开描述 ...</summary> 
-    1.高斯日记 - 蓝桥云课 &lpar;lanqiao.cn&rpar; 就是枚举外加对闰年和特殊月份的特判，，，，，，， 
+    go语言的ent框架是facebook开源的ORM框架，是go语言开发中的常用框架，而关联查询又是日常开发中的常见数据库操作，故文本给出一个使用ent做关联查询的使用示例。 
     </details> 
 
-- 🚀 [JavaWeb之上传文件](https://juejin.cn/post/7339063562654335013) | Sun Feb 25 2024 7:31 AM 
+- 🚀 [Spring MVC和Spring Boot入门以及Spring Session的详解](https://juejin.cn/post/7338797433898352691) | Sun Feb 25 2024 9:04 AM 
     <details><summary>展开描述 ...</summary> 
-    上传文件 对于很多网站都会遇到一些文件上传的功能，比如上传头像，上传excel等，而基于表单的提交对 
+    Spring MVC 1.spring controller 在我讲述spring的controller前我需要大家先看一个图片， 
     </details> 
 
-- 💪 [架构师养成记（三）架构设计过程](https://juejin.cn/post/7338778403553345570) | Sun Feb 25 2024 7:23 AM 
+- 💪 [“简单”理解spring bean生命周期](https://juejin.cn/post/7338808893529128971) | Sun Feb 25 2024 9:02 AM 
     <details><summary>展开描述 ...</summary> 
-    在之前的文章中，我们明确了什么是架构，以及架构的分类和架构设计的目标。本文在前两篇文章的基础上来说在业务中，如何做各种类型的架构设计。 
+    有时候在想一个问题：如果一个Java开发仅仅会用某个框架（当然最典型的是Spring），那么随着工作经验、年龄的增加，很难继续留在这个行业。每年都有应届生涌入这个行业，如果一个人的工龄、年龄不断增加， 
     </details> 
 <!-- juejin:END -->
 ### 少数派
