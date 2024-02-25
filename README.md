@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [我的注意力去哪儿了？聊聊 ADHD 和背后的故事](https://sspai.com/post/86560) | Sat Feb 24 2024 3:30 AM 
+- 👹 [年度征文｜数字无业游民的自我「和解」](https://sspai.com/post/86421) | Sun Feb 25 2024 7:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    2023 年，我给自己放了一年的假。&lt;a href=&quot;https://sspai.com/post/86421&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [我的注意力去哪儿了？聊聊 ADHD 和背后的故事](https://sspai.com/post/86560) | Sat Feb 24 2024 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     分心不是你的错，正确理解 ADHD 摆正心态，才能找到最适合自己的位置。&lt;a href=&quot;https://sspai.com/post/86560&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [用广告拦截器隐藏干扰元素：常用思路和语法介绍](https://sspai.com/prime/story/adblock-annoyances-intro) | Fri Feb 23 2024 11:27 AM 
+- 🤭 [用广告拦截器隐藏干扰元素：常用思路和语法介绍](https://sspai.com/prime/story/adblock-annoyances-intro) | Fri Feb 23 2024 11:27 AM 
     <details><summary>展开描述 ...</summary> 
     针对屏蔽网页上干扰元素的需求，本文介绍了广告拦截器中「修饰规则」的基本原理，以及其中元素选择器部分的常用制作思路。&lt;a href=&quot;https://sspai.com/prime/story/adblock-annoyances-intro&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🤭 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/86623) | Fri Feb 23 2024 9:52 AM 
+- 🥸 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/86623) | Fri Feb 23 2024 9:52 AM 
     <details><summary>展开描述 ...</summary> 
     ☕️TL;DR近期佳作推荐：[美剧]东京罪恶第二季、[电影]机器人之梦、[电影]琳达想吃鸡肉、[美剧]小谢尔顿第七季（最终季）、[英剧]贝茨先生诉邮局、[美剧]新风貌、[美剧]史密斯夫妇、[电影]美国 ...&lt;a href=&quot;https://sspai.com/post/86623&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [年度征文 | 古典、现代与未来：史学写作与科技的跨界](https://sspai.com/post/86552) | Fri Feb 23 2024 7:02 AM 
+- 🙉 [年度征文 | 古典、现代与未来：史学写作与科技的跨界](https://sspai.com/post/86552) | Fri Feb 23 2024 7:02 AM 
     <details><summary>展开描述 ...</summary> 
     时代在发展，技术在进步，历史学的研究者也在跟随这步伐。&lt;a href=&quot;https://sspai.com/post/86552&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [磁带，可不止三十年前的老歌](https://sspai.com/post/86559) | Fri Feb 23 2024 3:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    梦醒之后发现不管世界变成什么样，自己还能坐在音乐前，拿出最老的磁带聊着最新款的磁带播放器，转头一看桌上放着的正是自己刚做好的新磁带，又何尝不是一种「年少时射出的子弹正中眉心」。&lt;a href=&quot;https://sspai.com/post/86559&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
