@@ -301,7 +301,7 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [FreeBuf 早报 | 以色列间谍软件侦查全球智能手机信息;美国医疗支付关键供应商被黑瘫痪](https://www.freebuf.com/news/392461.html) | Fri Feb 23 2024 7:49 AM 
+- 🦄 [FreeBuf 早报 | 以色列间谍软件侦查全球智能手机信息;美国医疗支付关键供应商被黑](https://www.freebuf.com/news/392461.html) | Fri Feb 23 2024 7:49 AM 
     <details><summary>展开描述 ...</summary> 
     Change Healthcare 首次披露遭受网络攻击事件，宣布部分应用程序不可用。 
     </details> 
