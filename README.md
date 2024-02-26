@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Mp3tag 1.8.15 音频元数据编辑](https://xclient.info/s/mp3tag.html) | Fri Feb 23 2024 1:04 AM 
+- 🦏 [CloudMounter 4.4 把网络云盘放进你的Finder里](https://xclient.info/s/cloudmounter.html) | Mon Feb 26 2024 12:52 AM 
     <details><summary>展开描述 ...</summary> 
-    Mp3tag是一个功能强大且易于使用的编辑音频文件元数据的工具 
+    CloudMounter 可以把微软 OneDrive, Google Drive, Amazon S3, Dropbox 和远程 FTP/WebDAV 空间加载成 Mac 本地磁盘，方便用户随时存储使用文件的工具。 
     </details> 
 
--  [Path Finder 2168 超赞Mac资源 文件管理工具](https://xclient.info/s/path-finder.html) | Fri Feb 23 2024 1:03 AM 
+-  [Master Of Typing 3.14.3 打字学习软件](https://xclient.info/s/master-of-typing.html) | Mon Feb 26 2024 12:50 AM 
     <details><summary>展开描述 ...</summary> 
-    Path Finder 是一款类似于Finder的系统文件管理器，它能轻而易举访问系统文件或者网络硬盘。可自定义标签集，支持新建不同的侧边栏，根据不同的应用调取。使用操作的确比系统自带的 Finder 操作方便多了。 
+    Master Of Typing是一款Mac OS平台上的学习打字的软件，Master Of Typing可以帮助需要经常使用电脑而打字速度不够的人学习快速打字、盲打等技巧。 
     </details> 
 
-- ⚗️ [DirEqual 5.8-58005 文件比较工具](https://xclient.info/s/direqual.html) | Fri Feb 23 2024 1:02 AM 
+- ⚗️ [AnyTrans for iOS 8.9.8.20240131 比itunes更好用的手机助手](https://xclient.info/s/anytrans-for-ios.html) | Mon Feb 26 2024 12:49 AM 
     <details><summary>展开描述 ...</summary> 
-    DirEqual是Mac平台上的一款文件比较工具，使比较Mac上的本地文件夹变得非常容易。 
+    AnyTrans 操作界面简单易用，导入、导出音乐或应用程序就如同在使用资源管理器一样简单，内置视频格式转换工具，可以自动把导入的影片转成最合适的格式，传输速度更快！ 
     </details> 
 
-- 🔥 [Music Tag Editor Pro 7.5.3 音频文件标签编辑](https://xclient.info/s/music-tag-editor-pro.html) | Fri Feb 23 2024 1:02 AM 
+- 🔥 [CrossOver 24.0.0 在你的mac上运行window应用](https://xclient.info/s/cross-over.html) | Mon Feb 26 2024 12:47 AM 
     <details><summary>展开描述 ...</summary> 
-    Music Tag Editor Pro 能帮你快速高效的编辑不同音乐格式文件的标签信息 
+    Crossover由codewaver公司开发的类虚拟机软件，目的是使linux和Mac OS X操作系统和window系统兼容。 
     </details> 
 
-- 🌋 [FxFactory Pro 8.0.13-7767 视觉特效插件包](https://xclient.info/s/fxfactory.html) | Fri Feb 23 2024 12:59 AM 
+- 🌋 [Pixelmator Pro 3.5.7 图像处理软件](https://xclient.info/s/pixelmator-pro.html) | Mon Feb 26 2024 12:42 AM 
     <details><summary>展开描述 ...</summary> 
-    FXFactory为Final Cut Pro, Motion, Premiere Pro和After Effects开发数以百计的视觉效果插件 
+    Pixelmator Pro号称拥有众多新功能，并且令人工智能在图像处理中发挥了更大的作用。 
     </details> 
 <!-- xclient:END -->
 
