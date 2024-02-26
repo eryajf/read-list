@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Go中的GPM调度模型](https://juejin.cn/post/7339731268148412454) | Mon Feb 26 2024 12:22 PM 
+- 🤗 [解决一个MYSQL的主从延迟问题](https://juejin.cn/post/7339552755156615222) | Mon Feb 26 2024 12:48 PM 
+    <details><summary>展开描述 ...</summary> 
+    从一个主从延迟问题开始回顾主从复制原理，并思考主从延迟造成的原因和解决方案。当然，作为底层开发，最后还是只能快准狠的通过一个简单粗暴的等待方案进行应对。 
+    </details> 
+
+- 🎡 [通过 vue3 学习响应系统的设计思想](https://juejin.cn/post/7339743984099835945) | Mon Feb 26 2024 12:37 PM 
+    <details><summary>展开描述 ...</summary> 
+    响应系统是 Vue.js 的重要组成部分。如何根据语言规范实现对数据对象的代理，以及其中的一些重要细节。接下来，我们就从认识响应式数据和副作用函数开始，一步一步地了解响应系统的设计与实现。 
+    </details> 
+
+- 🕯 [JVM跨代垃圾如何回收？](https://juejin.cn/post/7339560770459287552) | Mon Feb 26 2024 12:33 PM 
+    <details><summary>展开描述 ...</summary> 
+    在Java堆内存中，年轻代和老年代之间存在的对象相互引用，假设现在要进行一次新生代的YGC，但新生代中的对象可能被老年代所引用的，为了找到新生代中的存活对象，不得不遍历整个老年代。 
+    </details> 
+
+- 🚀 [Go中的GPM调度模型](https://juejin.cn/post/7339731268148412454) | Mon Feb 26 2024 12:22 PM 
     <details><summary>展开描述 ...</summary> 
     Go中用了两种方式实现并发： 多线程共享内存（加锁） CSP并发模型 Go通过GPM调度模型实现了CSP（Communicating Sequential Process，通信顺序进程）并发模型，使用 
     </details> 
 
-- 🎡 [国内公司有望做出Sora吗？这支清华系大模型团队给出了希望](https://juejin.cn/entry/7339780797392175143) | Mon Feb 26 2024 12:02 PM 
+- 💪 [国内公司有望做出Sora吗？这支清华系大模型团队给出了希望](https://juejin.cn/entry/7339780797392175143) | Mon Feb 26 2024 12:02 PM 
     <details><summary>展开描述 ...</summary> 
     2023年年底，很多人都预测，未来一年将是视频生成快速发展的一年。但出人意料的是，农历春节刚过，OpenAI 就扔出了一个重磅炸弹 —— 能生成1分钟流畅、逼真视频的 Sora。 
-    </details> 
-
-- 🕯 [刚刚，谷歌发布基础世界模型：11B参数，能生成可交互虚拟世界](https://juejin.cn/entry/7339560770459140096) | Mon Feb 26 2024 11:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    一键生成可玩游戏世界。问世才两个星期，谷歌的世界模型也来了，能力看起来更强大：它生成的虚拟世界「自主可控」。 
-    </details> 
-
-- 🚀 [第三届AAAI/ACM SIGAI博士论文奖出炉，MIT博士260多页论文探索模型泛化](https://juejin.cn/entry/7339543870207131700) | Mon Feb 26 2024 11:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    这几天，第 38 届国际 AI 顶会 AAAI 2024 在加拿大温哥华会议中心举行。本届 AAAI 会议共有 10504 篇投稿，录取 2527 篇，录取率为 24.1%。 
-    </details> 
-
-- 💪 [马斯克震怒：微软拿Windows给AI收集数据，不注册不给用](https://juejin.cn/entry/7339731406194720803) | Mon Feb 26 2024 11:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    没有微软账户就用不了 Windows？马斯克怒斥大厂收集用户数据训练 AI。马斯克发的一条 X 动态，让微软 Windows 站上了风口浪尖。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
