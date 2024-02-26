@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0226](http://jandan.net/p/115727) | Sun Feb 25 2024 11:07 PM 
+- 🚀 [今日好价 0227](http://jandan.net/p/115735) | Mon Feb 26 2024 11:07 PM 
     <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：43 
+    今日带货商品数量：57 
     </details> 
 
-- 🙉 [禁止青少年使用手机和社交媒体弊大于利](http://jandan.net/p/115725) | Sun Feb 25 2024 11:05 PM 
+- 🙉 [你有没有留意过，商场里没有时钟](http://jandan.net/p/115729) | Mon Feb 26 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
-    应加强教育和建立信任，而非简单粗暴地设禁令 
+    你停留的时间越长，花费越多 
     </details> 
 
-- 🎉 [传说中的“布拉格玻璃”相态在现实中被发现](http://jandan.net/p/115724) | Sun Feb 25 2024 11:04 PM 
+- 🎉 [Y染色体正在消失，新的性基因可能是男性的未来](http://jandan.net/p/115733) | Mon Feb 26 2024 11:04 PM 
     <details><summary>展开描述 ...</summary> 
-    布拉格玻璃终于在一种真实材料中被发现 
+    两种啮齿类分支已经失去了 Y 染色体，但仍然存活下来 
     </details> 
 
-- 🐲 [十年前，汽车行业就被警告无钥匙汽车容易被盗](http://jandan.net/p/115723) | Sun Feb 25 2024 11:03 PM 
+- 🐲 [加州男子接受骨髓移植成功治疗癌症，同时也“治愈”了艾滋](http://jandan.net/p/115732) | Mon Feb 26 2024 11:02 PM 
     <details><summary>展开描述 ...</summary> 
-    如今盗窃率飙升 
+    供体基因自带抗艾突变 
     </details> 
 
--  [如何与鲸鱼对话](http://jandan.net/p/115722) | Sun Feb 25 2024 11:02 PM 
+-  [南极冰下的缤纷世界](http://jandan.net/p/115730) | Mon Feb 26 2024 11:01 PM 
     <details><summary>展开描述 ...</summary> 
-    鲸鱼可能拥有复杂语言 
+    跟随摄影师踏入南极冰下世界 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
