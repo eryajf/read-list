@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [C端与B端系统效率和质量的监测浅谈](https://juejin.cn/post/7339512677689294888) | Mon Feb 26 2024 8:13 AM 
+- 🤗 [深入解析：Rem 单位的自适应原理与应用技巧](https://juejin.cn/post/7339636980266303497) | Mon Feb 26 2024 9:10 AM 
     <details><summary>展开描述 ...</summary> 
-    C端方案 C端系统或者软件有比较成熟的质量和性能监控方案和体系，比如错误上报与报警系统、加载速度与上报系统。曾经工作的电商研发团队，日活千万级别，大促期间数亿，对系统的稳定性要求极高，比如5个9指标  
+    移动端适配有很多方案，这篇文章将根据 rem 自适应的原理进行讲解，接下来跟着作者的思路一起来看看吧！ 
     </details> 
 
-- 🎡 [第4章 | 移动](https://juejin.cn/post/7339177857103675429) | Mon Feb 26 2024 7:49 AM 
+- 🎡 [我使用 vue3 + WebAssembly 做了个文件校验网站，性能提升600%](https://juejin.cn/post/7339478055291600923) | Mon Feb 26 2024 9:07 AM 
     <details><summary>展开描述 ...</summary> 
-    这里遵循了社区的习惯译法“移动”，学过 C++ 的读者可能比较熟悉了；对使用其他语言的读者来说，要特别注意这里的“移动”在语义上并非像真实生活中那样简单地挪动物品的位置... 
+    探索下使用Vue3+Rust+WebAssembly+WebWorker实现一个高性能文件校验网站。 
     </details> 
 
-- 🕯 [提高Flutter应用性能的最佳实践](https://juejin.cn/post/7339526709420687379) | Mon Feb 26 2024 7:34 AM 
+- 🕯 [Spring Security自定义认证器](https://juejin.cn/post/7339526709421244435) | Mon Feb 26 2024 9:02 AM 
     <details><summary>展开描述 ...</summary> 
-    随着 Flutter 3.7 的发布，开发者们对应用性能的要求也日益增长。本指南旨在帮助开发者全面优化Flutter应用的性能，涵盖渲染、线程、写法、资源、代码、性能以及应用大小等 
+    如何用Spring Security实现自定义登录，登录的流程是怎么样的，实现起来要注意那些地方，随我缓缓道来 
     </details> 
 
-- 🚀 [ABP领域层构件分析](https://juejin.cn/post/7339729762162032676) | Mon Feb 26 2024 7:31 AM 
+- 🚀 [日志最佳实践](https://juejin.cn/post/7339560770458304512) | Mon Feb 26 2024 8:49 AM 
     <details><summary>展开描述 ...</summary> 
-    领域层构成 实体&lpar;Entity&rpar; : 实体是种领域对象,它有自己的属性&lpar;状态,数据&rpar;和执行业务逻辑的方法.实体由唯一标识符&lpar;Id&rpar;表示,不同ID的两个实体被视为不同的实体. 值对象&lpar;Value Obj 
+    有点标题党了，以下是个人对于日志的一些理解 日志基础 日志大致分为两类 日志门面（接口） 日志实现 日志门面提供了标准的日志输出API，其底层如何实现，或者说采用什么日志组件，由开发者进行选择。当然， 
     </details> 
 
-- 💪 [用简短的60行代码实现mini-vuex](https://juejin.cn/post/7339394683456110592) | Mon Feb 26 2024 3:34 AM 
+- 💪 [ant design vue中table滚动加载](https://juejin.cn/post/7339686366313070628) | Mon Feb 26 2024 8:48 AM 
     <details><summary>展开描述 ...</summary> 
-    最近心血来潮，阅读了一下关于早期vuex的源码，于是，在看了他的实现之后，我抽离了一些代码出来并实现了一个mini-vuex 
+    在处理一写数据量特别大的情况下，我们不能把后端的数据一次性全部拿到前端在table表格中展示，为了考虑性能优化，使用了滚动加载表格数据。做这个功能之前，我们首先需要获取到table滚动到底部或者顶部时 
     </details> 
 <!-- juejin:END -->
 ### 少数派
