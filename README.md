@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [替代 Intercom 和 Zendesk： 开源的客户互动套件 | 开源日报 No.183](https://juejin.cn/post/7339819708813951015) | Mon Feb 26 2024 4:12 PM 
+- 🤗 [面了这么多天，该做总结了-CSS篇&lpar;三&rpar;](https://juejin.cn/post/7339810287749365797) | Mon Feb 26 2024 4:46 PM 
+    <details><summary>展开描述 ...</summary> 
+    浅聊一下 书接上文，我们聊过了css盒模型、css选择器和隐藏页面元素的方式，本篇将继续总结面试遇到的其他css问题... 面试了这么多天，觉得一个人的力量还是太过薄弱，如果你和我一样有向前冲的勇气， 
+    </details> 
+
+- 🎡 [替代 Intercom 和 Zendesk： 开源的客户互动套件 | 开源日报 No.183](https://juejin.cn/post/7339819708813951015) | Mon Feb 26 2024 4:12 PM 
     <details><summary>展开描述 ...</summary> 
     chatwoot 是一个开源的客户互动套件，是 Intercom、Zendesk、Salesforce Service Cloud 等的替代品。 
     </details> 
 
-- 🎡 [互联网从业者如何能够快速晋升（软文写作练习）](https://juejin.cn/post/7339815719829749798) | Mon Feb 26 2024 4:02 PM 
+- 🕯 [互联网从业者如何能够快速晋升（软文写作练习）](https://juejin.cn/post/7339815719829749798) | Mon Feb 26 2024 4:02 PM 
     <details><summary>展开描述 ...</summary> 
     在这个飞速发展的互联网时代，职场竞争日益激烈。作为一名前端开发从业者，经历过多年的职场磨练，深感快速晋升不仅仅是技术能力的提升，更多的是一种对职业生涯的深刻理解和规划。 
     </details> 
 
-- 🕯 [互联网从业者如何与不同背景的人沟通（软文写作练习）](https://juejin.cn/post/7339801868472827942) | Mon Feb 26 2024 4:01 PM 
+- 🚀 [互联网从业者如何与不同背景的人沟通（软文写作练习）](https://juejin.cn/post/7339801868472827942) | Mon Feb 26 2024 4:01 PM 
     <details><summary>展开描述 ...</summary> 
     在这个多元化的互联网时代，从业者经常会遇到与不同背景、不同文化和不同专业领域的人进行沟通的情况。作为一名老前端开发从业者，我深知有效沟通的重要性，它不仅关系到项目的成功与否，更是职场发展的关键。 
     </details> 
 
-- 🚀 [🦋基于 redis 的简易滑动窗口实现](https://juejin.cn/post/7339544833999110170) | Mon Feb 26 2024 3:46 PM 
+- 💪 [🦋基于 redis 的简易滑动窗口实现](https://juejin.cn/post/7339544833999110170) | Mon Feb 26 2024 3:46 PM 
     <details><summary>展开描述 ...</summary> 
     本文封装 redis 的API，实现简易滑动窗口，分别从业务背景、窗口理解、redis 的 zset 结构，lua 脚本，注意事项、不足等进行讲解 
-    </details> 
-
-- 💪 [技术资讯：Node.js 新吉祥物，来了！](https://juejin.cn/post/7339731406195441699) | Mon Feb 26 2024 3:37 PM 
-    <details><summary>展开描述 ...</summary> 
-    历时半年，Node 终于是推出了自己的新吉祥物，火箭龟。此举的意义，对于 Node而言，算是具有里程碑的意义了，毕竟期待已久，终也算是圆满了。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
