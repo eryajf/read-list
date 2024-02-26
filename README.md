@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [LockBit官宣复活，表示将更多针对政府部门](https://www.freebuf.com/news/392553.html) | Mon Feb 26 2024 3:00 AM 
+- 🦄 [ICO发布通知，禁止Serco Leisure公司使用面部识别技术记录员工出勤情况](https://www.freebuf.com/news/392579.html) | Mon Feb 26 2024 6:12 AM 
+    <details><summary>展开描述 ...</summary> 
+    ICO表示，根据英国数据保护法条例，Serco Leisure在38个体育和休闲设施中非法处理了2000多名员工的生物识别数据。 
+    </details> 
+
+- 🦄 [黑客用 PyPI 软件包传播 Nova Sentinel 恶意软件！](https://www.freebuf.com/news/392568.html) | Mon Feb 26 2024 5:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    研究人员发现，威胁攻击者利用其传播名为 Nova Sentinel 的信息窃取恶意软件。 
+    </details> 
+
+- 🦅 [LockBit官宣复活，表示将更多针对政府部门](https://www.freebuf.com/news/392553.html) | Mon Feb 26 2024 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     2月24日，LockBit 宣布将恢复勒索软件业务，并威胁会将更多的攻击集中在政府部门。 
     </details> 
 
-- 🦄 [FreeBuf 早报 | 以色列间谍软件侦查全球智能手机信息;美国医疗支付关键供应商被黑](https://www.freebuf.com/news/392461.html) | Fri Feb 23 2024 7:49 AM 
+- 🪄 [FreeBuf 早报 | 以色列间谍软件侦查全球智能手机信息;美国医疗支付关键供应商被黑](https://www.freebuf.com/news/392461.html) | Fri Feb 23 2024 7:49 AM 
     <details><summary>展开描述 ...</summary> 
     Change Healthcare 首次披露遭受网络攻击事件，宣布部分应用程序不可用。 
     </details> 
 
-- 🦅 [APP攻防&amp;Android逆向&amp;HOOK抓包&amp;组件安全](https://www.freebuf.com/articles/endpoint/392458.html) | Fri Feb 23 2024 7:40 AM 
+- 💻 [APP攻防&amp;Android逆向&amp;HOOK抓包&amp;组件安全](https://www.freebuf.com/articles/endpoint/392458.html) | Fri Feb 23 2024 7:40 AM 
     <details><summary>展开描述 ...</summary> 
     Android逆向基础apk反编译APP渗透测试中重要的一环就是Android逆向。 
-    </details> 
-
-- 🪄 [FreeBuf 周报 | Meta 为收集用户数据再出“奇招”；70%的企业遭遇网络欺诈的频次增长](https://www.freebuf.com/news/392438.html) | Fri Feb 23 2024 7:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    文章总结了本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
-    </details> 
-
-- 💻 [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/392406.html) | Fri Feb 23 2024 6:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    文章精选了本周知识大陆公开发布的10条优质资源，让我们一起看看吧。 
     </details> 
 <!-- freebuf:END -->
 
