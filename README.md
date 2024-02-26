@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [技术大佬问我，中间件是如何做到高可用的&lpar;上&rpar;](https://juejin.cn/post/7339671825644945417) | Mon Feb 26 2024 6:02 AM 
+- 🤗 [面试官：限流的实现方式有哪些？](https://juejin.cn/post/7339686366312136740) | Mon Feb 26 2024 7:09 AM 
     <details><summary>展开描述 ...</summary> 
-    一线互联网大厂的阿里语雀 都宕机8个小时以上了，所谓的高可用，其实是不可用。高可用的3个9都达不到，但还看到他们 到处宣讲自己系统有多么的高可用，高可用是否是无用论？ 
+    限流是指在各种应用场景中，通过技术和策略手段对数据流量、请求频率或资源消耗进行有计划的限制，以避免系统负载过高、性能下降甚至崩溃的情况发生。限流的目标在于维护系统的稳定性和可用性，并确保服务质量。 使 
     </details> 
 
-- 🎡 [【译】Golang 实现堆数据结构与堆排序](https://juejin.cn/post/7339416321909358601) | Mon Feb 26 2024 5:59 AM 
+- 🎡 [【Nestjs学习日记】连接MongoDB表](https://juejin.cn/post/7339478055290634267) | Mon Feb 26 2024 7:02 AM 
     <details><summary>展开描述 ...</summary> 
-    堆是一种基于树的数据结构，每个父节点与其子节点之间具有固定的关系。堆通常用于对集合进行部分排序。集合中的每个插入/删除操作后都会进行“修复”，以恢复最小堆或最大堆的完整性。 
+    在 NestJS 中使用 MongoDB 数据库时，连接到数据库只是第一步。接下来，我们需要连接到具体的 MongoDB 表（集合），以便执行数据操作。NestJS 提供了一种简单且优雅的方式来定义和 
     </details> 
 
-- 🕯 [微软曾想将 Bing 搜索卖给苹果；英伟达首次公开将华为列为对手丨 RTE 开发者日报 Vol.151](https://juejin.cn/post/7339512677688475688) | Mon Feb 26 2024 5:57 AM 
+- 🕯 [Rust：虚类型参数](https://juejin.cn/post/7339686366311956516) | Mon Feb 26 2024 6:54 AM 
     <details><summary>展开描述 ...</summary> 
-    DeepMind CEO 专访：AI 还没到拼算力的时候，谷歌优势在研发、百度副总裁：靠 AI 赚钱是今年重点 
+    虚类型参数（Phantom Type Parameters）是 Rust 中一个非常有趣的特性，它们利用了 Rust 的类型系统来实现在编译时的额外类型安全检查，而不引入运行时的性能开销。这是通过 s 
     </details> 
 
-- 🚀 [k8s本地测试联调工具KtConnect介绍](https://juejin.cn/post/7339555213571768359) | Mon Feb 26 2024 5:47 AM 
+- 🚀 [RabbitMQ在订单服务中的使用【沙盘演示】](https://juejin.cn/post/7339512677688819752) | Mon Feb 26 2024 6:53 AM 
     <details><summary>展开描述 ...</summary> 
-    - 本地服务如何访问k8s里面的服务进行功能测试？ - 本地如何快速访问集群中资源，比如访问某个微服务的 swagger？ - 如何把集群里面流量转发到本地服务，进行功能测试？ 
+    “世界上有一种人，和你在一起的时候，总是千万次嘱咐要多穿件衣服，要注意安全，你觉得很烦，却也觉得很温暖。” —— 钱钟书《围城》 
     </details> 
 
-- 💪 [[译] 用于调试和分析 Node.js 的 5 大工具](https://juejin.cn/post/7339512677688344616) | Mon Feb 26 2024 5:20 AM 
+- 💪 [别只会ThreadLocal，FastThreadLocal也学起来](https://juejin.cn/post/7339357105144692790) | Mon Feb 26 2024 6:42 AM 
     <details><summary>展开描述 ...</summary> 
-    调试和分析是查找和修复错误、测量和优化性能，同时确保Node.js应用程序的质量和效率的重要过程。 但是，Node.js有许多工具可用于调试和分析应用程序... 
+    本篇讲述的是比 JDK 自带的 ThreadLocal 类效率还快的 FastThreadLocal ，他是 Netty 中提供的一个类，用于线程之间安全的传递数据... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
