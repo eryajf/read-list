@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：Reddit 申请上市，Vision Pro 零部件成本约为 1542 美元](https://sspai.com/post/86668) | Mon Feb 26 2024 12:49 AM 
+- 👹 [用不明白 Office 的第 365 天，微软请的「小帮手」能帮上忙吗？](https://sspai.com/post/86677) | Mon Feb 26 2024 3:41 AM 
+    <details><summary>展开描述 ...</summary> 
+    能，但 Office 里的 Copilot 还有很大的提升空间。&lt;a href=&quot;https://sspai.com/post/86677&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派早报：Reddit 申请上市，Vision Pro 零部件成本约为 1542 美元](https://sspai.com/post/86668) | Mon Feb 26 2024 12:49 AM 
     <details><summary>展开描述 ...</summary> 
     你可能错过的新鲜事Reddit申请上市2月22日，美国访问量最大的网站之一、在线论坛服务Reddit向美国证券交易委员会（SEC）递交上市申请，计划三月在纽交所上市，代码为RDDT。这将是今年美国大型 ...&lt;a href=&quot;https://sspai.com/post/86668&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [年度征文｜数字无业游民的自我「和解」](https://sspai.com/post/86421) | Sun Feb 25 2024 7:00 AM 
+- 🤭 [年度征文｜数字无业游民的自我「和解」](https://sspai.com/post/86421) | Sun Feb 25 2024 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     2023 年，我给自己放了一年的假。&lt;a href=&quot;https://sspai.com/post/86421&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [我的注意力去哪儿了？聊聊 ADHD 和背后的故事](https://sspai.com/post/86560) | Sat Feb 24 2024 3:30 AM 
+- 🥸 [我的注意力去哪儿了？聊聊 ADHD 和背后的故事](https://sspai.com/post/86560) | Sat Feb 24 2024 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     分心不是你的错，正确理解 ADHD 摆正心态，才能找到最适合自己的位置。&lt;a href=&quot;https://sspai.com/post/86560&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [用广告拦截器隐藏干扰元素：常用思路和语法介绍](https://sspai.com/prime/story/adblock-annoyances-intro) | Fri Feb 23 2024 11:27 AM 
+- 🙉 [用广告拦截器隐藏干扰元素：常用思路和语法介绍](https://sspai.com/prime/story/adblock-annoyances-intro) | Fri Feb 23 2024 11:27 AM 
     <details><summary>展开描述 ...</summary> 
     针对屏蔽网页上干扰元素的需求，本文介绍了广告拦截器中「修饰规则」的基本原理，以及其中元素选择器部分的常用制作思路。&lt;a href=&quot;https://sspai.com/prime/story/adblock-annoyances-intro&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
-    </details> 
-
-- 🙉 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/86623) | Fri Feb 23 2024 9:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    ☕️TL;DR近期佳作推荐：[美剧]东京罪恶第二季、[电影]机器人之梦、[电影]琳达想吃鸡肉、[美剧]小谢尔顿第七季（最终季）、[英剧]贝茨先生诉邮局、[美剧]新风貌、[美剧]史密斯夫妇、[电影]美国 ...&lt;a href=&quot;https://sspai.com/post/86623&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
