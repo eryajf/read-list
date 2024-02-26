@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Immersive Translate - 为 YouTube、Vimeo 等带来双语字幕](https://xinquji.com/posts/809336?utm_campaign=xinquji-rss) | Mon Feb 26 2024 6:00 AM 
+- 👀 [主机数字集市 - 一个闲置主机和域名交流平台](https://xinquji.com/posts/809312?utm_campaign=xinquji-rss) | Tue Feb 27 2024 9:07 AM 
+    <details><summary>展开描述 ...</summary> 
+     一个闲置主机和域名交流平台  
+    </details> 
+
+- 🥷 [即时热点 - 正在发生的事 - 一个热门信息聚合站，帮助您轻松了解正在发生的事。](https://xinquji.com/posts/809311?utm_campaign=xinquji-rss) | Tue Feb 27 2024 9:07 AM 
+    <details><summary>展开描述 ...</summary> 
+     一个热门信息聚合站，帮助您轻松了解正在发生的事。  
+    </details> 
+
+- 💼 [不写笔记 - 点点鼠标，按几个快捷键 笔记完成，记笔记从未如此简单](https://xinquji.com/posts/809171?utm_campaign=xinquji-rss) | Tue Feb 27 2024 9:06 AM 
+    <details><summary>展开描述 ...</summary> 
+     点点鼠标，按几个快捷键 笔记完成，记笔记从未如此简单  
+    </details> 
+
+- 🦅 [Immersive Translate - 为 YouTube、Vimeo 等带来双语字幕](https://xinquji.com/posts/809336?utm_campaign=xinquji-rss) | Mon Feb 26 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
      为 YouTube、Vimeo 等带来双语字幕  
     </details> 
 
-- 🥷 [Octomind - 在用户使用人工智能之前发现错误](https://xinquji.com/posts/809335?utm_campaign=xinquji-rss) | Mon Feb 26 2024 6:00 AM 
+- 😺 [Octomind - 在用户使用人工智能之前发现错误](https://xinquji.com/posts/809335?utm_campaign=xinquji-rss) | Mon Feb 26 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
      在用户使用人工智能之前发现错误  
-    </details> 
-
-- 💼 [Layers - 设计师之家](https://xinquji.com/posts/809334?utm_campaign=xinquji-rss) | Mon Feb 26 2024 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     设计师之家  
-    </details> 
-
-- 🦅 [Scanlt - PDF 和文档扫描仪、无广告、智能 PDF 转换器](https://xinquji.com/posts/809333?utm_campaign=xinquji-rss) | Mon Feb 26 2024 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     PDF 和文档扫描仪、无广告、智能 PDF 转换器  
-    </details> 
-
-- 😺 [Videotok - 利用 AI 从文本到视频创建病毒式的 TikTok 和 Shorts](https://xinquji.com/posts/809332?utm_campaign=xinquji-rss) | Mon Feb 26 2024 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     利用 AI 从文本到视频创建病毒式的 TikTok 和 Shorts  
     </details> 
 <!-- xinquji:END -->
