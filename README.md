@@ -233,29 +233,29 @@
 ### 运维咖啡吧
 
 <!-- ops-coffee:START -->
-- 👺 [游记｜远赴人间惊鸿宴，一睹人间盛世颜](https://blog.ops-coffee.cn/r/city-china-henan-luoyang-laojunshan) | Sun Feb 18 2024 6:38 PM 
+- 👺 [任务系统之API子任务](https://blog.ops-coffee.cn/s/devops-task-subtask-api-postman-apipost) | Mon Feb 26 2024 6:55 PM 
+    <details><summary>展开描述 ...</summary> 
+    任务系统之API子任务 
+    </details> 
+
+- 💯 [游记｜远赴人间惊鸿宴，一睹人间盛世颜](https://blog.ops-coffee.cn/r/city-china-henan-luoyang-laojunshan) | Sun Feb 18 2024 6:38 PM 
     <details><summary>展开描述 ...</summary> 
     游记｜远赴人间惊鸿宴，一睹人间盛世颜 
     </details> 
 
-- 💯 [是驾驭而不是焦虑，送红包封面啦](https://blog.ops-coffee.cn/s/AIGC-Midjourney -and-WeChat-red-packet) | Sun Feb 04 2024 6:17 PM 
+- 🚦 [是驾驭而不是焦虑，送红包封面啦](https://blog.ops-coffee.cn/s/AIGC-Midjourney -and-WeChat-red-packet) | Sun Feb 04 2024 6:17 PM 
     <details><summary>展开描述 ...</summary> 
     是驾驭而不是焦虑，送红包封面啦 
     </details> 
 
-- 🚦 [付费微信群的入群费用提高了](https://blog.ops-coffee.cn/s/Increase-the-price-of-paid-WeChat-group) | Thu Feb 01 2024 9:14 PM 
+- 👨‍🏫 [付费微信群的入群费用提高了](https://blog.ops-coffee.cn/s/Increase-the-price-of-paid-WeChat-group) | Thu Feb 01 2024 9:14 PM 
     <details><summary>展开描述 ...</summary> 
     付费微信群的入群费用提高了 
     </details> 
 
-- 👨‍🏫 [多云系统之资源同步过程解析](https://blog.ops-coffee.cn/s/IAC-devops-cloud-cmdb-resource-sync) | Tue Jan 30 2024 4:33 PM 
+- 🌮 [多云系统之资源同步过程解析](https://blog.ops-coffee.cn/s/IAC-devops-cloud-cmdb-resource-sync) | Tue Jan 30 2024 4:33 PM 
     <details><summary>展开描述 ...</summary> 
     多云系统之资源同步过程解析 
-    </details> 
-
-- 🌮 [监控Celery不一定非要使用Flower](https://blog.ops-coffee.cn/s/python-django-celery-monitor-not-flower) | Fri Jan 26 2024 9:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    监控Celery不一定非要使用Flower 
     </details> 
 <!-- ops-coffee:END -->
 ### 四火的唠叨
