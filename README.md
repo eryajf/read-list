@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [面试官：限流的实现方式有哪些？](https://juejin.cn/post/7339686366312136740) | Mon Feb 26 2024 7:09 AM 
+- 🤗 [C端与B端系统效率和质量的监测浅谈](https://juejin.cn/post/7339512677689294888) | Mon Feb 26 2024 8:13 AM 
     <details><summary>展开描述 ...</summary> 
-    限流是指在各种应用场景中，通过技术和策略手段对数据流量、请求频率或资源消耗进行有计划的限制，以避免系统负载过高、性能下降甚至崩溃的情况发生。限流的目标在于维护系统的稳定性和可用性，并确保服务质量。 使 
+    C端方案 C端系统或者软件有比较成熟的质量和性能监控方案和体系，比如错误上报与报警系统、加载速度与上报系统。曾经工作的电商研发团队，日活千万级别，大促期间数亿，对系统的稳定性要求极高，比如5个9指标  
     </details> 
 
-- 🎡 [【Nestjs学习日记】连接MongoDB表](https://juejin.cn/post/7339478055290634267) | Mon Feb 26 2024 7:02 AM 
+- 🎡 [第4章 | 移动](https://juejin.cn/post/7339177857103675429) | Mon Feb 26 2024 7:49 AM 
     <details><summary>展开描述 ...</summary> 
-    在 NestJS 中使用 MongoDB 数据库时，连接到数据库只是第一步。接下来，我们需要连接到具体的 MongoDB 表（集合），以便执行数据操作。NestJS 提供了一种简单且优雅的方式来定义和 
+    这里遵循了社区的习惯译法“移动”，学过 C++ 的读者可能比较熟悉了；对使用其他语言的读者来说，要特别注意这里的“移动”在语义上并非像真实生活中那样简单地挪动物品的位置... 
     </details> 
 
-- 🕯 [Rust：虚类型参数](https://juejin.cn/post/7339686366311956516) | Mon Feb 26 2024 6:54 AM 
+- 🕯 [提高Flutter应用性能的最佳实践](https://juejin.cn/post/7339526709420687379) | Mon Feb 26 2024 7:34 AM 
     <details><summary>展开描述 ...</summary> 
-    虚类型参数（Phantom Type Parameters）是 Rust 中一个非常有趣的特性，它们利用了 Rust 的类型系统来实现在编译时的额外类型安全检查，而不引入运行时的性能开销。这是通过 s 
+    随着 Flutter 3.7 的发布，开发者们对应用性能的要求也日益增长。本指南旨在帮助开发者全面优化Flutter应用的性能，涵盖渲染、线程、写法、资源、代码、性能以及应用大小等 
     </details> 
 
-- 🚀 [RabbitMQ在订单服务中的使用【沙盘演示】](https://juejin.cn/post/7339512677688819752) | Mon Feb 26 2024 6:53 AM 
+- 🚀 [ABP领域层构件分析](https://juejin.cn/post/7339729762162032676) | Mon Feb 26 2024 7:31 AM 
     <details><summary>展开描述 ...</summary> 
-    “世界上有一种人，和你在一起的时候，总是千万次嘱咐要多穿件衣服，要注意安全，你觉得很烦，却也觉得很温暖。” —— 钱钟书《围城》 
+    领域层构成 实体&lpar;Entity&rpar; : 实体是种领域对象,它有自己的属性&lpar;状态,数据&rpar;和执行业务逻辑的方法.实体由唯一标识符&lpar;Id&rpar;表示,不同ID的两个实体被视为不同的实体. 值对象&lpar;Value Obj 
     </details> 
 
-- 💪 [别只会ThreadLocal，FastThreadLocal也学起来](https://juejin.cn/post/7339357105144692790) | Mon Feb 26 2024 6:42 AM 
+- 💪 [用简短的60行代码实现mini-vuex](https://juejin.cn/post/7339394683456110592) | Mon Feb 26 2024 3:34 AM 
     <details><summary>展开描述 ...</summary> 
-    本篇讲述的是比 JDK 自带的 ThreadLocal 类效率还快的 FastThreadLocal ，他是 Netty 中提供的一个类，用于线程之间安全的传递数据... 
+    最近心血来潮，阅读了一下关于早期vuex的源码，于是，在看了他的实现之后，我抽离了一些代码出来并实现了一个mini-vuex 
     </details> 
 <!-- juejin:END -->
 ### 少数派
