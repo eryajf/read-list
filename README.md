@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [iexcel-excel 读取和写入，解决 excel OOM 问题](https://juejin.cn/post/7339322664307179530) | Mon Feb 26 2024 2:19 AM 
+- 🤗 [8K star！这款可视化 Git 客户端帮你提升工作效率](https://juejin.cn/post/7339357105143873590) | Mon Feb 26 2024 3:06 AM 
     <details><summary>展开描述 ...</summary> 
-    # 项目简介 [IExcel]&lpar;https://github.com/houbb/iexcel&rpar; 用于优雅地读取和写入 excel。 避免大 excel 出现 oom，简约而不简单。 # 特性 
+    今天我们介绍一款近期火热蹿升的可视化git客户端，虚拟分支和拖拽操作帮你大大提升效率，它在最近的10天里增长近6000 star，它就是：GitButler。 
     </details> 
 
-- 🎡 [Aapche POI java excel 操作工具包入门](https://juejin.cn/post/7339475385761562634) | Mon Feb 26 2024 2:17 AM 
+- 🎡 [2024全网最全的20个海内外Web3求职平台，再也不愁找不到工作了！](https://juejin.cn/post/7339197453361676328) | Mon Feb 26 2024 2:52 AM 
     <details><summary>展开描述 ...</summary> 
-    # POI Apache POI - the Java API for Microsoft Documents &gt; [poi]&lpar;http://poi.apache.org/&rpar; &gt; [quick 
+    哈喽，你好，我是 Noah。 最近群里很多朋友都在讨论关于 Web3 行业求职的问题。虽然大家都知道 Web3 是最赚钱的行业。但很多人也都面临相同的困境，那就是现在工作难找，导致很多人非常焦虑。 那 
     </details> 
 
-- 🕯 [WebGL 使用缓冲区绘制点线面](https://juejin.cn/post/7339394683455422464) | Mon Feb 26 2024 2:15 AM 
+- 🕯 [Rust Web 框架入门和对比](https://juejin.cn/post/7339416321908457481) | Mon Feb 26 2024 2:50 AM 
     <details><summary>展开描述 ...</summary> 
-    之前我们学习了如何动态地绘制一个点，本文就以之为基础，继续介绍如何使用 webgl 绘制多个点，进而绘制最简单，同时也是最稳定的面 —— 三角面。 
+    最适合使用的 Rust Web 框架 在 Web 开发的变化的浪潮中，Rust 已成为构建安全和高性能应用程序的首选语言。随着 Rust 的流行，一系列旨在利用其优势的 Web 框架也在不断出现。本文 
     </details> 
 
-- 🚀 [查漏补缺，盘点和toggle相关的几个API](https://juejin.cn/post/7339221543992131647) | Mon Feb 26 2024 2:14 AM 
+- 🚀 [这10款设计工具，助你轻松搞定主视觉设计！](https://juejin.cn/post/7339416321908441097) | Mon Feb 26 2024 2:50 AM 
     <details><summary>展开描述 ...</summary> 
-    toggle的意思很简单，表示“切换”，适用于两个状态之间的变化，不会出现第三者，就像这样 web 中也有很多类似的api，一起看看有哪些吧 一、toggle 首先是最常用的DOMTokenList. 
+    我们浏览网站、App或其他数字产品时，页面或屏幕上最显著最重要的部分，比如设计风格、颜色、排版、图片和元素等信息，就是数字产品的主视觉，也是用户首次接触产品时最能直观感受的部分。 由此可见，主视觉设计 
     </details> 
 
-- 💪 [JavaWeb之国际化](https://juejin.cn/post/7339042939603451956) | Mon Feb 26 2024 2:07 AM 
+- 💪 [【unibest】uniapp 最佳多语言实践，更高的视野，降维打击！](https://juejin.cn/post/7339401794148188171) | Mon Feb 26 2024 2:45 AM 
     <details><summary>展开描述 ...</summary> 
-    国际化 国际化&lpar;i18n&rpar;: i18n internationalization，网站能够提供翻译成 
+    【unibest】uniapp 最佳多语言实践，更高的视野，降维打击！ 最近了解到有几个粉丝写 unibest 时有 多语言 的需求，并且是很多个语言，不只是 uniapp 官方默认支持的 5 个语言 
     </details> 
 <!-- juejin:END -->
 ### 少数派
