@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [ICO发布通知，禁止Serco Leisure公司使用面部识别技术记录员工出勤情况](https://www.freebuf.com/news/392579.html) | Mon Feb 26 2024 6:12 AM 
+- 🦄 [工信部：加大多方安全计算、数据溯源、商用密码等在工业领域试点应用](https://www.freebuf.com/news/392628.html) | Mon Feb 26 2024 8:40 AM 
+    <details><summary>展开描述 ...</summary> 
+    《实施方案》是指导未来三年工业领域数据安全工作的纲领性规划文件。 
+    </details> 
+
+- 🦄 [OWASP发布《AI大模型应用网络安全治理检查清单》](https://www.freebuf.com/articles/392622.html) | Mon Feb 26 2024 8:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    企业应该将红队测试纳入人工智能模型和应用程序的标准实践。 
+    </details> 
+
+- 🦅 [ICO发布通知，禁止Serco Leisure公司使用面部识别技术记录员工出勤情况](https://www.freebuf.com/news/392579.html) | Mon Feb 26 2024 6:12 AM 
     <details><summary>展开描述 ...</summary> 
     ICO表示，根据英国数据保护法条例，Serco Leisure在38个体育和休闲设施中非法处理了2000多名员工的生物识别数据。 
     </details> 
 
-- 🦄 [某 PyPI 软件包出现异常更新，黑客利用其传播 Nova Sentinel 恶意软件](https://www.freebuf.com/news/392568.html) | Mon Feb 26 2024 5:46 AM 
+- 🪄 [某 PyPI 软件包出现异常更新，黑客利用其传播 Nova Sentinel 恶意软件](https://www.freebuf.com/news/392568.html) | Mon Feb 26 2024 5:46 AM 
     <details><summary>展开描述 ...</summary> 
     研究人员发现，威胁攻击者利用其传播名为 Nova Sentinel 的信息窃取恶意软件。 
     </details> 
 
-- 🦅 [LockBit官宣复活，表示将更多针对政府部门](https://www.freebuf.com/news/392553.html) | Mon Feb 26 2024 3:00 AM 
+- 💻 [LockBit官宣复活，表示将更多针对政府部门](https://www.freebuf.com/news/392553.html) | Mon Feb 26 2024 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     2月24日，LockBit 宣布将恢复勒索软件业务，并威胁会将更多的攻击集中在政府部门。 
-    </details> 
-
-- 🪄 [SendGrid 最新网络钓鱼活动正在“瞄准”中小型企业](https://www.freebuf.com/news/392548.html) | Mon Feb 26 2024 2:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    卡巴斯基建议对员工进行基本的网络安全培训，利用具有反钓鱼功能的邮件服务器保护解决方案，并部署端点安全解决方案。 
-    </details> 
-
-- 💻 [FreeBuf 早报 | 以色列间谍软件侦查全球智能手机信息;美国医疗支付关键供应商被黑](https://www.freebuf.com/news/392461.html) | Fri Feb 23 2024 7:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    Change Healthcare 首次披露遭受网络攻击事件，宣布部分应用程序不可用。 
     </details> 
 <!-- freebuf:END -->
 
