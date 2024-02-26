@@ -442,11 +442,11 @@
 
 
 <!-- iplaysoft:START -->
-- 🧐 [Raptor - 开源第三方阿里云网盘客户端 &lpar;IDM 加速下载 / 调用本地播放器看视频等&rpar;](https://www.iplaysoft.com/raptor.html) | Wed Feb 21 2024 4:01 PM
-- 🧑‍🏫 [CowPE - 基于 Win11 纯净好用无捆绑的 PE 系统 &lpar;U盘启动盘 / 装机必备&rpar;](https://www.iplaysoft.com/cowpe.html) | Sat Feb 17 2024 2:13 PM
-- 🥰 [OpenAI 发布“王炸” Sora 模型可「文字生成视频」且影片质量惊人！](https://www.iplaysoft.com/news/6094) | Sat Feb 17 2024 8:47 AM
-- 💻 [Debian 12.5 正式版 ISO 镜像 - 极度稳定 / 易维护 / 适合服务器的 Linux 操作系统](https://www.iplaysoft.com/debian.html) | Sat Feb 17 2024 7:05 AM
-- 🎃 [微软 Win11 LTSC 企业精简版 ISO 官方原版镜像下载 - 纯净稳定/适合低配置/虚拟机](https://www.iplaysoft.com/windows11-ltsc.html) | Wed Feb 07 2024 2:59 PM<!-- iplaysoft:END -->
+- 🧐 [Directory Opus 13 - 比微软自带强大百倍！全面碾压的增强文件管理器](https://www.iplaysoft.com/directory-opus.html) | Mon Feb 26 2024 2:00 PM
+- 🧑‍🏫 [Raptor - 第三方开源阿里云网盘客户端 &lpar;直链 IDM 加速下载 / 调用本地播放器等&rpar;](https://www.iplaysoft.com/raptor.html) | Wed Feb 21 2024 4:01 PM
+- 🥰 [CowPE - 基于 Win11 纯净好用无捆绑的 PE 系统 &lpar;U盘启动盘 / 装机必备&rpar;](https://www.iplaysoft.com/cowpe.html) | Sat Feb 17 2024 2:13 PM
+- 💻 [OpenAI 发布“王炸” Sora 模型可「文字生成视频」且影片质量惊人！](https://www.iplaysoft.com/news/6094) | Sat Feb 17 2024 8:47 AM
+- 🎃 [Debian 12.5 正式版 ISO 镜像 - 极度稳定 / 易维护 / 适合服务器的 Linux 操作系统](https://www.iplaysoft.com/debian.html) | Sat Feb 17 2024 7:05 AM<!-- iplaysoft:END -->
 
 ### 精品Mac应用
 
