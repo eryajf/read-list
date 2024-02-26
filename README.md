@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [腾讯TNTWeb团队一些开源项目分享](https://juejin.cn/post/7339560770458877952) | Mon Feb 26 2024 10:06 AM 
+- 🤗 [前端http缓存详解](https://juejin.cn/post/7339731406194606115) | Mon Feb 26 2024 11:06 AM 
     <details><summary>展开描述 ...</summary> 
-    腾讯TNTWeb团队是一支拥有较丰富经验和技术实力的前端团队，在Web前端、NodeJS开发、UI设计以及移动APP等大前端领域都有较多的实践经验和技术沉淀。团队始保持着谦逊和低调的态度，并终积极投身 
+    使用缓存可以减少HTTP请求的数量，减少HTTP响应的大小，使web页面加载得更快。 http缓存分为两种缓存，分别是强制缓存和协商缓存 
     </details> 
 
-- 🎡 [“一代传奇”宗庆后谢幕，500亿元饮料帝国迎交棒时刻](https://juejin.cn/post/7339754944008847386) | Mon Feb 26 2024 10:04 AM 
+- 🎡 [一种无懈可击而又简单的爬虫方案](https://juejin.cn/post/7339526709421719571) | Mon Feb 26 2024 11:03 AM 
     <details><summary>展开描述 ...</summary> 
-    宗庆后同志逝世 2月25日，娃哈哈集团发布讣告，娃哈哈创始人、董事长宗庆后同志，因病医治无效，于 2024-02-25 10:30 逝世，享年 79 岁。 这是一位伟大的企业家。 伟大的地方不仅仅在于 
+    有时候，我们因为业务发展需要，需要重第三方数据平台获取一些数据，然后可能平台并没有提供比较友好的数据下载方式（可能你没有充值，哈哈），因此我们需要想一些办法来获取这些结构化的数据。 那么，想要达到我们 
     </details> 
 
-- 🕯 [CSS图像边框：Interop 2023的一个重点领域](https://juejin.cn/post/7339543870206853172) | Mon Feb 26 2024 9:54 AM 
+- 🕯 [半暹罗训练用于浅层人脸学习](https://juejin.cn/post/7339543870207082548) | Mon Feb 26 2024 10:59 AM 
     <details><summary>展开描述 ...</summary> 
-    作为Interop 2023对CSS边框图像的关注的一部分，正在做出重大努力来增强跨浏览器兼容性并标准化行为。浏览器开发人员承诺实现一致的边框图像行为，我们希望这篇文章能激发您在未来Web项目中的使用 
+    通过引入名为半孪生训练&lpar; SST&rpar;的新型训练方法来解决这个问题。一对半孪生网络构成了前向传播结构，训练损失通过更新图库队列计算，对浅层训练数据进行有效优化 
     </details> 
 
-- 🚀 [分享简化产品说明书制作流程的技巧和窍门！（有模板参考）](https://juejin.cn/post/7339743984099311657) | Mon Feb 26 2024 9:44 AM 
+- 🚀 [低代码实践：原生 JS 实现简易低代码 demo + undo、redo 操作，这撤消、重做快给我整懵了！😤😤😤](https://juejin.cn/post/7339780797391929383) | Mon Feb 26 2024 10:35 AM 
     <details><summary>展开描述 ...</summary> 
-    今天LookLook同学分享一些简化产品说明书制作流程的技巧和窍门，帮助设计师更好地传达产品价值，提升用户体验。 
+    原生 JS 实现 undo、redo 并结合一个简单低代码业务 demo 进行展示，探究撤销、重做实现的基本原理 
     </details> 
 
-- 💪 [EMQX Enterprise 5.5 发布：新增 Elasticsearch 数据集成](https://juejin.cn/post/7339741848078090278) | Mon Feb 26 2024 9:43 AM 
+- 💪 [SQL 也能搞复杂时序查询？-使用 SQL 在 GreptimeDB 上做 Range 查询](https://juejin.cn/post/7339731268148150310) | Mon Feb 26 2024 10:23 AM 
     <details><summary>展开描述 ...</summary> 
-    在这个版本中，我们引入了一系列新的功能和改进，包括对 Elasticsearch 的集成、Apache IoTDB 和 OpenTSDB 数据集成优化、授权缓存支持排除主题等功能。 
+    时序查询很难通过原生的 SQL 完成，我们在 GreptimeDB 中引入了扩展的 SQL Range 查询语法，实现了 SQL 对时序数据查询的原生支持。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
