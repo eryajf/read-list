@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [CopyFrame - 专业文案撰写者起草并展示其文案的地方](https://xinquji.com/posts/809310?utm_campaign=xinquji-rss) | Sun Feb 25 2024 6:00 AM 
+- 👀 [Immersive Translate - 为 YouTube、Vimeo 等带来双语字幕](https://xinquji.com/posts/809336?utm_campaign=xinquji-rss) | Mon Feb 26 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     专业文案撰写者起草并展示其文案的地方  
+     为 YouTube、Vimeo 等带来双语字幕  
     </details> 
 
-- 🥷 [Saner.AI - 无需手动组织即可捕捉、查找和发展想法](https://xinquji.com/posts/809309?utm_campaign=xinquji-rss) | Sun Feb 25 2024 6:00 AM 
+- 🥷 [Octomind - 在用户使用人工智能之前发现错误](https://xinquji.com/posts/809335?utm_campaign=xinquji-rss) | Mon Feb 26 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     无需手动组织即可捕捉、查找和发展想法  
+     在用户使用人工智能之前发现错误  
     </details> 
 
-- 💼 [KeepRecord - 构建表格、填写和链接数据 - 计划您的一周](https://xinquji.com/posts/809308?utm_campaign=xinquji-rss) | Sun Feb 25 2024 6:00 AM 
+- 💼 [Layers - 设计师之家](https://xinquji.com/posts/809334?utm_campaign=xinquji-rss) | Mon Feb 26 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     构建表格、填写和链接数据 - 计划您的一周  
+     设计师之家  
     </details> 
 
-- 🦅 [Legal Guardian - 旅行者、游牧民和外籍人士法律援助服务](https://xinquji.com/posts/809307?utm_campaign=xinquji-rss) | Sun Feb 25 2024 6:00 AM 
+- 🦅 [Scanlt - PDF 和文档扫描仪、无广告、智能 PDF 转换器](https://xinquji.com/posts/809333?utm_campaign=xinquji-rss) | Mon Feb 26 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     旅行者、游牧民和外籍人士法律援助服务  
+     PDF 和文档扫描仪、无广告、智能 PDF 转换器  
     </details> 
 
-- 😺 [once.tools - 您只需付费一次的软件指南](https://xinquji.com/posts/809306?utm_campaign=xinquji-rss) | Sun Feb 25 2024 6:00 AM 
+- 😺 [Videotok - 利用 AI 从文本到视频创建病毒式的 TikTok 和 Shorts](https://xinquji.com/posts/809332?utm_campaign=xinquji-rss) | Mon Feb 26 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     您只需付费一次的软件指南  
+     利用 AI 从文本到视频创建病毒式的 TikTok 和 Shorts  
     </details> 
 <!-- xinquji:END -->
