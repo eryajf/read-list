@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Nest：全栈实现 HTTP 传输数据的 5 种形式（五）](https://juejin.cn/post/7339746416930406415) | Mon Feb 26 2024 3:09 PM 
+- 🤗 [替代 Intercom 和 Zendesk： 开源的客户互动套件 | 开源日报 No.183](https://juejin.cn/post/7339819708813951015) | Mon Feb 26 2024 4:12 PM 
     <details><summary>展开描述 ...</summary> 
-    本文详细介绍了在 Web 开发中常用的五种 HTTP 数据传输方式：URL 参数、查询字符串、Form-urlencoded、Form-data 和 JSON，每种方式具体实现和使用场景都有详细的说明 
+    chatwoot 是一个开源的客户互动套件，是 Intercom、Zendesk、Salesforce Service Cloud 等的替代品。 
     </details> 
 
-- 🎡 [Python中的容器类型详解](https://juejin.cn/post/7339740974020149282) | Mon Feb 26 2024 3:02 PM 
+- 🎡 [互联网从业者如何能够快速晋升（软文写作练习）](https://juejin.cn/post/7339815719829749798) | Mon Feb 26 2024 4:02 PM 
     <details><summary>展开描述 ...</summary> 
-    Python是一种功能丰富的编程语言，提供了多种内置的容器类型，帮助开发者有效地组织和管理数据。容器类型是存储一组数据的数据结构，每种类型都有其独特的特性和用途。🔍本文将深入探讨Python中的主要容 
+    在这个飞速发展的互联网时代，职场竞争日益激烈。作为一名前端开发从业者，经历过多年的职场磨练，深感快速晋升不仅仅是技术能力的提升，更多的是一种对职业生涯的深刻理解和规划。 
     </details> 
 
-- 🕯 [Python中的数据类型详解](https://juejin.cn/post/7339740974020132898) | Mon Feb 26 2024 3:02 PM 
+- 🕯 [互联网从业者如何与不同背景的人沟通（软文写作练习）](https://juejin.cn/post/7339801868472827942) | Mon Feb 26 2024 4:01 PM 
     <details><summary>展开描述 ...</summary> 
-    了解Python中的基本数据类型对于编写高效、可读性好的代码至关重要。本文将详细介绍Python中的主要数据类型，包括数值类型、序列类型、映射类型以及集合类型等。 
+    在这个多元化的互联网时代，从业者经常会遇到与不同背景、不同文化和不同专业领域的人进行沟通的情况。作为一名老前端开发从业者，我深知有效沟通的重要性，它不仅关系到项目的成功与否，更是职场发展的关键。 
     </details> 
 
-- 🚀 [Python中with使用详解](https://juejin.cn/post/7339740974020100130) | Mon Feb 26 2024 3:01 PM 
+- 🚀 [🦋基于 redis 的简易滑动窗口实现](https://juejin.cn/post/7339544833999110170) | Mon Feb 26 2024 3:46 PM 
     <details><summary>展开描述 ...</summary> 
-    本文将深入探讨with语句的使用，从基础知识到高级应用，帮助开发者更好地理解和利用这一强大的语言特性。 
+    本文封装 redis 的API，实现简易滑动窗口，分别从业务背景、窗口理解、redis 的 zset 结构，lua 脚本，注意事项、不足等进行讲解 
     </details> 
 
-- 💪 [Python中的多线程高级使用](https://juejin.cn/post/7339757126725304360) | Mon Feb 26 2024 3:01 PM 
+- 💪 [技术资讯：Node.js 新吉祥物，来了！](https://juejin.cn/post/7339731406195441699) | Mon Feb 26 2024 3:37 PM 
     <details><summary>展开描述 ...</summary> 
-    本文将深入探讨Python中多线程的高级用法，从基本知识点到高级技巧，助力开发者充分利用多线程的强大功能。 
+    历时半年，Node 终于是推出了自己的新吉祥物，火箭龟。此举的意义，对于 Node而言，算是具有里程碑的意义了，毕竟期待已久，终也算是圆满了。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
