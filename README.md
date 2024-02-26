@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Coze初体验，普通人也能很好的调教自己的BOT](https://juejin.cn/post/7339743984100376617) | Mon Feb 26 2024 1:59 PM 
+- 🤗 [Nest：全栈实现 HTTP 传输数据的 5 种形式（五）](https://juejin.cn/post/7339746416930406415) | Mon Feb 26 2024 3:09 PM 
     <details><summary>展开描述 ...</summary> 
-    2023年是AI火遍全球的一年，因此也被大家戏称为AI元年。企业 + AI = 风口 的背景下，Coze是一个普通人也能享受到AI红利的一个平台。 
+    本文详细介绍了在 Web 开发中常用的五种 HTTP 数据传输方式：URL 参数、查询字符串、Form-urlencoded、Form-data 和 JSON，每种方式具体实现和使用场景都有详细的说明 
     </details> 
 
-- 🎡 [一款降压型开关模式转换器解决方案](https://juejin.cn/post/7339815719829258278) | Mon Feb 26 2024 1:40 PM 
+- 🎡 [Python中的容器类型详解](https://juejin.cn/post/7339740974020149282) | Mon Feb 26 2024 3:02 PM 
     <details><summary>展开描述 ...</summary> 
-    一、基本概述 TX4145 是一款降压型开关模式转换器。TX4145 在 6-60V 宽输入电源范围内实现不同峰值输出电流，并且具有出色的线电压和负载调整率。 TX4145 采用 PWM 电流模工作模 
+    Python是一种功能丰富的编程语言，提供了多种内置的容器类型，帮助开发者有效地组织和管理数据。容器类型是存储一组数据的数据结构，每种类型都有其独特的特性和用途。🔍本文将深入探讨Python中的主要容 
     </details> 
 
-- 🕯 [阿里 P7二面：Redis 执行 Lua，能保证原子性吗？](https://juejin.cn/post/7339741848079466534) | Mon Feb 26 2024 1:30 PM 
+- 🕯 [Python中的数据类型详解](https://juejin.cn/post/7339740974020132898) | Mon Feb 26 2024 3:02 PM 
     <details><summary>展开描述 ...</summary> 
-    Redis 和 Lua，两个看似风流马不相及的技术框架，为什么能产生“爱”的火花？面试中的高频问题：Redis 执行 Lua，到底能不能保证原子性？ 
+    了解Python中的基本数据类型对于编写高效、可读性好的代码至关重要。本文将详细介绍Python中的主要数据类型，包括数值类型、序列类型、映射类型以及集合类型等。 
     </details> 
 
-- 🚀 [解析Spring中的循环依赖问题：初探三级缓存](https://juejin.cn/post/7339740974019641378) | Mon Feb 26 2024 1:27 PM 
+- 🚀 [Python中with使用详解](https://juejin.cn/post/7339740974020100130) | Mon Feb 26 2024 3:01 PM 
     <details><summary>展开描述 ...</summary> 
-    在文章中详细探讨了循环依赖问题及其解决思路分析，揭示了Spring所提供的Bean创建过程并非如我们所想象的那样简单。这一过程涉及众多复杂步骤，因此Spring引入了缓存机制，通过在后续阶段逐步维护堆 
+    本文将深入探讨with语句的使用，从基础知识到高级应用，帮助开发者更好地理解和利用这一强大的语言特性。 
     </details> 
 
-- 💪 [2023 需求最高的八大编程语言](https://juejin.cn/post/7339743984100212777) | Mon Feb 26 2024 1:26 PM 
+- 💪 [Python中的多线程高级使用](https://juejin.cn/post/7339757126725304360) | Mon Feb 26 2024 3:01 PM 
     <details><summary>展开描述 ...</summary> 
-    尽管目前地球上已存在超过 `200` 多种编程语言，但只有少数语言在现实世界的各行各业中普遍使用。了解这些关键资讯对于在开发者工作行业夺取先机至关重要。 
+    本文将深入探讨Python中多线程的高级用法，从基本知识点到高级技巧，助力开发者充分利用多线程的强大功能。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
