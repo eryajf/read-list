@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [前端转全栈: Next.js + ChatGPT 开发 AIGC 知识库&lpar;AI 写作&rpar; 欢迎围观~](https://juejin.cn/post/7338797433899221043) | Mon Feb 26 2024 12:51 AM 
+- 🤗 [iexcel-excel 读取和写入，解决 excel OOM 问题](https://juejin.cn/post/7339322664307179530) | Mon Feb 26 2024 2:19 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是前端双越老师~ 我打算花几个月的时间搞一个 AIGC 方向的 node 全栈项目，一个 AI 写作项目，一个真实上线的项目，使用 React + Next.js + ChatGPT … 
+    # 项目简介 [IExcel]&lpar;https://github.com/houbb/iexcel&rpar; 用于优雅地读取和写入 excel。 避免大 excel 出现 oom，简约而不简单。 # 特性 
     </details> 
 
-- 🎡 [栗子前端技术周刊第18期 - React 19 即将到来、Apache ECharts 5.5、React Strict DOM...](https://juejin.cn/post/7339210740455522339) | Mon Feb 26 2024 12:37 AM 
+- 🎡 [Aapche POI java excel 操作工具包入门](https://juejin.cn/post/7339475385761562634) | Mon Feb 26 2024 2:17 AM 
     <details><summary>展开描述 ...</summary> 
-    🌰栗子前端技术周刊第 18 期 &lpar;2024.2.19 - 2024.2.25&rpar;：浏览前端一周最新消息，学习国内外优秀文章视频，让我们保持对前端的好奇心。 📰 技术资讯 React 19 即将到来：Re 
+    # POI Apache POI - the Java API for Microsoft Documents &gt; [poi]&lpar;http://poi.apache.org/&rpar; &gt; [quick 
     </details> 
 
-- 🕯 [Cocos游戏开发中倍率滚动抽奖效果](https://juejin.cn/post/7339024907719016511) | Mon Feb 26 2024 12:36 AM 
+- 🕯 [WebGL 使用缓冲区绘制点线面](https://juejin.cn/post/7339394683455422464) | Mon Feb 26 2024 2:15 AM 
     <details><summary>展开描述 ...</summary> 
-    引言 Cocos游戏开发中倍率滚动抽奖效果 大家好，在小游戏开发中，我们通常会设计在游戏获得奖励的地方通过观看激励视频去获得额外的奖励。 在设计的过程中，会加入一些紧张刺激的抽取效果，例如滚动抽奖、转 
+    之前我们学习了如何动态地绘制一个点，本文就以之为基础，继续介绍如何使用 webgl 绘制多个点，进而绘制最简单，同时也是最稳定的面 —— 三角面。 
     </details> 
 
-- 🚀 [再遇协同编辑：Yjs + Quill，文档协同编辑竟如此简单 🎸](https://juejin.cn/post/7339341982836097075) | Mon Feb 26 2024 12:22 AM 
+- 🚀 [查漏补缺，盘点和toggle相关的几个API](https://juejin.cn/post/7339221543992131647) | Mon Feb 26 2024 2:14 AM 
     <details><summary>展开描述 ...</summary> 
-    简简单单 70 行代码，实现基于 Quill 富文本编辑器的协同编辑操作，骚年，一起来揭秘 Yjs 的使用吧。 
+    toggle的意思很简单，表示“切换”，适用于两个状态之间的变化，不会出现第三者，就像这样 web 中也有很多类似的api，一起看看有哪些吧 一、toggle 首先是最常用的DOMTokenList. 
     </details> 
 
-- 💪 [50从零开始用Rust编写nginx，原来TLS证书还可以这么申请](https://juejin.cn/post/7339210740455473187) | Mon Feb 26 2024 12:21 AM 
+- 💪 [JavaWeb之国际化](https://juejin.cn/post/7339042939603451956) | Mon Feb 26 2024 2:07 AM 
     <details><summary>展开描述 ...</summary> 
-    TLS证书在当今互联网中处于最重要的一环，他保护着我们的隐私数据的安全，也是最流行的加密方式之一。所以TLS证书的快速部署对于小而美的应用能让其快速的落地使用。 
+    国际化 国际化&lpar;i18n&rpar;: i18n internationalization，网站能够提供翻译成 
     </details> 
 <!-- juejin:END -->
 ### 少数派
