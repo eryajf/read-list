@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Docsify 全攻略](https://juejin.cn/post/7339475385762611210) | Mon Feb 26 2024 4:11 AM 
+- 🤗 [非暴力沟通！](https://juejin.cn/post/7339221543993131071) | Mon Feb 26 2024 5:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    大家好，我是老三，假期里，把之前看到一半的《非暴力沟通》给看完了，继续输出一篇读书笔记和理解。 不管是工作、生活、恋爱，我们会面临各种各样的生活场景，好的沟通能让人际关系更加友好，学习和实践非暴力沟通 
+    </details> 
+
+- 🎡 [转前端了！！](https://juejin.cn/post/7339376488029437952) | Mon Feb 26 2024 5:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    没错，为了更好的设计和开发分布式IM即时通讯系统，也为了让大家能够直观的体验到分布式IM即时通讯系统的功能，冰河开始转战前端了。也就是说，整个项目从需求立项到产品设计，从架构设计到整体研发，从后端开发 
+    </details> 
+
+- 🕯 [总结一些面试遇到的一些手撕题](https://juejin.cn/post/7339470312663171098) | Mon Feb 26 2024 4:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    手写 instanceof ，call，apply，bind，promise，new，防抖节流，函数柯里化 
+    </details> 
+
+- 🚀 [2024   高频前端面试题汇总之CSS篇（一）](https://juejin.cn/post/7339470312663105562) | Mon Feb 26 2024 4:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 📢最近准备春招啦了，所以整理了一些前端高频大厂面试题，分享给大家，如有问题欢迎留言指正，面试专栏我会长期更新，欢迎大家点赞🤞、收藏📌，关注➕，感谢！ 
+    </details> 
+
+- 💪 [Docsify 全攻略](https://juejin.cn/post/7339475385762611210) | Mon Feb 26 2024 4:11 AM 
     <details><summary>展开描述 ...</summary> 
     本文主要介绍了一款比较流行的静态站点生成器（SSG）Docsify 全攻略用法，包括基本配置及一些插件，如果你也有此类需求，Docsify 是一个比较好的选择。 
-    </details> 
-
-- 🎡 [笔记：useMemo vs computed &amp; useEffect vs watch](https://juejin.cn/post/7339470312662941722) | Mon Feb 26 2024 4:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文对比两组相似功能或概念：useMemo vs computed 以及 useEffect vs watch. 
-    </details> 
-
-- 🕯 [你如何教一个React开发使用Vue3 第二弹](https://juejin.cn/post/7339085241176129586) | Mon Feb 26 2024 3:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    除了name、components、props、data这四个基础键之外，Vue还提供了一系列的高级特性，本文将深入探讨这些高级使用技巧，并使用代码进行演示。 
-    </details> 
-
-- 🚀 [屠龙技｜大前端解决方案 · 事件通信 🐲](https://juejin.cn/post/7339475385762496522) | Mon Feb 26 2024 3:44 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文是一个新的系列，讲讲我眼中的大前端解决方案是什么？ 有同学肯定会疑惑，毕竟大前端的理解不同的前端岗位有不同理解。本文描述一个统一的方式可以解决跨端、跨容器、跨标签页场景的事件通信方案 
-    </details> 
-
-- 💪 [Rust修仙笔记下境界-筑基期](https://juejin.cn/post/7339470312662745114) | Mon Feb 26 2024 3:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    在上一节中我们了解了rust最基础的使用，如何使用宏打印，用了一个最简单的猜数游戏了解了rust中的基本用法，今天我们还是从rust中的基础知识中去学习rust 变量不可变性 当我用let声明一个na 
     </details> 
 <!-- juejin:END -->
 ### 少数派
