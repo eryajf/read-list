@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [CloudMounter 4.4 把网络云盘放进你的Finder里](https://xclient.info/s/cloudmounter.html) | Mon Feb 26 2024 12:52 AM 
+- 🦏 [Integrity Pro 12.8.7 网站死链清理优化检测器](https://xclient.info/s/integrity-pro.html) | Mon Feb 26 2024 1:22 AM 
     <details><summary>展开描述 ...</summary> 
-    CloudMounter 可以把微软 OneDrive, Google Drive, Amazon S3, Dropbox 和远程 FTP/WebDAV 空间加载成 Mac 本地磁盘，方便用户随时存储使用文件的工具。 
+    Integrity Pro是一款Mac上的网站链接检测软件，能通过您所输入的网址找到已经损坏的链接，并且在完成之后还能以xml、dot和csv格式来生成站点地图。 
     </details> 
 
--  [Master Of Typing 3.14.3 打字学习软件](https://xclient.info/s/master-of-typing.html) | Mon Feb 26 2024 12:50 AM 
+-  [Acorn 7.4.4 优秀的轻量级图形处理工具](https://xclient.info/s/acorn.html) | Mon Feb 26 2024 1:21 AM 
     <details><summary>展开描述 ...</summary> 
-    Master Of Typing是一款Mac OS平台上的学习打字的软件，Master Of Typing可以帮助需要经常使用电脑而打字速度不够的人学习快速打字、盲打等技巧。 
+    Acorn是Mac OS平台上一款比较不错的图像处理软件。如果你不想使用和安装 Mac 上巨大的 Photoshop，Acorn 是不错的替代品。 
     </details> 
 
-- ⚗️ [AnyTrans for iOS 8.9.8.20240131 比itunes更好用的手机助手](https://xclient.info/s/anytrans-for-ios.html) | Mon Feb 26 2024 12:49 AM 
+- ⚗️ [Keep It 2.4.2 内容收藏夹](https://xclient.info/s/keep-it.html) | Mon Feb 26 2024 1:19 AM 
     <details><summary>展开描述 ...</summary> 
-    AnyTrans 操作界面简单易用，导入、导出音乐或应用程序就如同在使用资源管理器一样简单，内置视频格式转换工具，可以自动把导入的影片转成最合适的格式，传输速度更快！ 
+    Keep It 是Mac平台上的一款保存笔记，保存网页链接，存储文件的效率工具。Keep It 支持icloud同步，用户可以在所有支持icloud的设备上同步自己的数据资料。 
     </details> 
 
-- 🔥 [CrossOver 24.0.0 在你的mac上运行window应用](https://xclient.info/s/cross-over.html) | Mon Feb 26 2024 12:47 AM 
+- 🔥 [Folder Factory 7.7.1 文件夹图标修改软件](https://xclient.info/s/folder-factory.html) | Mon Feb 26 2024 1:19 AM 
     <details><summary>展开描述 ...</summary> 
-    Crossover由codewaver公司开发的类虚拟机软件，目的是使linux和Mac OS X操作系统和window系统兼容。 
+    Folder Factory是一款可以改变你的文件夹图标的设计的软件，让你的文件夹变得与众不同，你可以改变文件夹颜色、图片以及文字，甚至可以让文件夹变得透明！ 
     </details> 
 
-- 🌋 [Pixelmator Pro 3.5.7 图像处理软件](https://xclient.info/s/pixelmator-pro.html) | Mon Feb 26 2024 12:42 AM 
+- 🌋 [BetterMouse 1.5.4568 改善外部鼠标的性能和功能](https://xclient.info/s/bettermouse.html) | Mon Feb 26 2024 1:17 AM 
     <details><summary>展开描述 ...</summary> 
-    Pixelmator Pro号称拥有众多新功能，并且令人工智能在图像处理中发挥了更大的作用。 
+    BetterMouse 是一款 macOS 实用工具，旨在改善外部鼠标的性能和功能，取代像罗技 Options 一样笨重、侵入和占用资源的鼠标驱动程序。它功能丰富、轻量级、效率优化，并且完全注重隐私安全，旨在满足您在 macOS 上使用第三方鼠标的所有需求。 
     </details> 
 <!-- xclient:END -->
 
