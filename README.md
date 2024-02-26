@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [前端http缓存详解](https://juejin.cn/post/7339731406194606115) | Mon Feb 26 2024 11:06 AM 
+- 🤗 [Go中的GPM调度模型](https://juejin.cn/post/7339731268148412454) | Mon Feb 26 2024 12:22 PM 
     <details><summary>展开描述 ...</summary> 
-    使用缓存可以减少HTTP请求的数量，减少HTTP响应的大小，使web页面加载得更快。 http缓存分为两种缓存，分别是强制缓存和协商缓存 
+    Go中用了两种方式实现并发： 多线程共享内存（加锁） CSP并发模型 Go通过GPM调度模型实现了CSP（Communicating Sequential Process，通信顺序进程）并发模型，使用 
     </details> 
 
-- 🎡 [一种无懈可击而又简单的爬虫方案](https://juejin.cn/post/7339526709421719571) | Mon Feb 26 2024 11:03 AM 
+- 🎡 [国内公司有望做出Sora吗？这支清华系大模型团队给出了希望](https://juejin.cn/entry/7339780797392175143) | Mon Feb 26 2024 12:02 PM 
     <details><summary>展开描述 ...</summary> 
-    有时候，我们因为业务发展需要，需要重第三方数据平台获取一些数据，然后可能平台并没有提供比较友好的数据下载方式（可能你没有充值，哈哈），因此我们需要想一些办法来获取这些结构化的数据。 那么，想要达到我们 
+    2023年年底，很多人都预测，未来一年将是视频生成快速发展的一年。但出人意料的是，农历春节刚过，OpenAI 就扔出了一个重磅炸弹 —— 能生成1分钟流畅、逼真视频的 Sora。 
     </details> 
 
-- 🕯 [半暹罗训练用于浅层人脸学习](https://juejin.cn/post/7339543870207082548) | Mon Feb 26 2024 10:59 AM 
+- 🕯 [刚刚，谷歌发布基础世界模型：11B参数，能生成可交互虚拟世界](https://juejin.cn/entry/7339560770459140096) | Mon Feb 26 2024 11:56 AM 
     <details><summary>展开描述 ...</summary> 
-    通过引入名为半孪生训练&lpar; SST&rpar;的新型训练方法来解决这个问题。一对半孪生网络构成了前向传播结构，训练损失通过更新图库队列计算，对浅层训练数据进行有效优化 
+    一键生成可玩游戏世界。问世才两个星期，谷歌的世界模型也来了，能力看起来更强大：它生成的虚拟世界「自主可控」。 
     </details> 
 
-- 🚀 [低代码实践：原生 JS 实现简易低代码 demo + undo、redo 操作，这撤消、重做快给我整懵了！😤😤😤](https://juejin.cn/post/7339780797391929383) | Mon Feb 26 2024 10:35 AM 
+- 🚀 [第三届AAAI/ACM SIGAI博士论文奖出炉，MIT博士260多页论文探索模型泛化](https://juejin.cn/entry/7339543870207131700) | Mon Feb 26 2024 11:54 AM 
     <details><summary>展开描述 ...</summary> 
-    原生 JS 实现 undo、redo 并结合一个简单低代码业务 demo 进行展示，探究撤销、重做实现的基本原理 
+    这几天，第 38 届国际 AI 顶会 AAAI 2024 在加拿大温哥华会议中心举行。本届 AAAI 会议共有 10504 篇投稿，录取 2527 篇，录取率为 24.1%。 
     </details> 
 
-- 💪 [SQL 也能搞复杂时序查询？-使用 SQL 在 GreptimeDB 上做 Range 查询](https://juejin.cn/post/7339731268148150310) | Mon Feb 26 2024 10:23 AM 
+- 💪 [马斯克震怒：微软拿Windows给AI收集数据，不注册不给用](https://juejin.cn/entry/7339731406194720803) | Mon Feb 26 2024 11:53 AM 
     <details><summary>展开描述 ...</summary> 
-    时序查询很难通过原生的 SQL 完成，我们在 GreptimeDB 中引入了扩展的 SQL Range 查询语法，实现了 SQL 对时序数据查询的原生支持。 
+    没有微软账户就用不了 Windows？马斯克怒斥大厂收集用户数据训练 AI。马斯克发的一条 X 动态，让微软 Windows 站上了风口浪尖。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
