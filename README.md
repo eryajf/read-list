@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [React useRef](https://juejin.cn/post/7340167256267423780) | Tue Feb 27 2024 12:14 PM 
+- 🤗 [深入浅出-高性能低延迟消息传递框架-Disruptor](https://juejin.cn/post/7340156047338799142) | Tue Feb 27 2024 12:56 PM 
+    <details><summary>展开描述 ...</summary> 
+    说到Disruptor，咱们首先要了解它的核心组件：Ring Buffer。这不是一般的队列，而是一种环形的数据结构，能高效地在生产者和消费者之间传递数据。它的特点是预先分配固定数量的元素空间，这就减 
+    </details> 
+
+- 🎡 [React useRef](https://juejin.cn/post/7340167256267423780) | Tue Feb 27 2024 12:14 PM 
     <details><summary>展开描述 ...</summary> 
     useRef 是 React 提供的一个 Hook，它用于在函数组件中访问和操作 DOM 节点或存储可变的值，而这些值在组件的整个生命周期中保持不变。 作用： 访问 DOM 节点：useRef 可以获 
     </details> 
 
-- 🎡 [mybatis selectKey 赋值未生效，为什么？](https://juejin.cn/post/7340167256267374628) | Tue Feb 27 2024 12:07 PM 
+- 🕯 [mybatis selectKey 赋值未生效，为什么？](https://juejin.cn/post/7340167256267374628) | Tue Feb 27 2024 12:07 PM 
     <details><summary>展开描述 ...</summary> 
     # Statement配置如下： ```xml &lt;insert id=&quot;insertStatemnet&quot; parameterType=&quot;User&quot;&gt; insert into use 
     </details> 
 
-- 🕯 [为女儿奴程序员打造的“小可爱”](https://juejin.cn/post/7339905802071572506) | Tue Feb 27 2024 12:07 PM 
+- 🚀 [为女儿奴程序员打造的“小可爱”](https://juejin.cn/post/7339905802071572506) | Tue Feb 27 2024 12:07 PM 
     <details><summary>展开描述 ...</summary> 
     hello，大家好，我是张张，「架构精进之路」公号作者。 本文分享一个 无代码Coze工具搭建陪伴式养成交互工具的使用全流程。 1 扣子简介 不禁要问，扣子是个啥？ 扣子主要功能： 集成了丰富的插件工 
     </details> 
 
-- 🚀 [PAT  1065  单身狗    分数：25分   知识点：哈希](https://juejin.cn/post/7340109700766597172) | Tue Feb 27 2024 12:05 PM 
+- 💪 [PAT  1065  单身狗    分数：25分   知识点：哈希](https://juejin.cn/post/7340109700766597172) | Tue Feb 27 2024 12:05 PM 
     <details><summary>展开描述 ...</summary> 
     题目：1065 单身狗 - PAT &lpar;Basic Level&rpar; Practice （中文） &lpar;pintia.cn&rpar; 解析：65_哔哩哔哩_bilibili 思想 把夫妻装入到 夫妻表&lpar;map&rpar;里面，然 
-    </details> 
-
-- 💪 [React useReducer](https://juejin.cn/post/7340152660224032780) | Tue Feb 27 2024 12:04 PM 
-    <details><summary>展开描述 ...</summary> 
-    useReducer 是 React 提供的一个 Hook，它可以在函数组件中管理复杂的状态逻辑。当你的组件需要处理多个子状态值或当下一个状态依赖于之前的状态时，使用 useReducer 通常比 u 
     </details> 
 <!-- juejin:END -->
 ### 少数派
