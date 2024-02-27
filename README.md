@@ -301,7 +301,7 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [微软发布用于AIGC的红队测试工具](https://www.freebuf.com/news/392694.html) | Tue Feb 27 2024 6:45 AM 
+- 🦄 [微软发布针对AIGC的红队测试开源工具](https://www.freebuf.com/news/392694.html) | Tue Feb 27 2024 6:45 AM 
     <details><summary>展开描述 ...</summary> 
     近日，微软发布了PyRIT红队测试工具，通过自动化帮助识别生成式人工智能中的风险。 
     </details> 
