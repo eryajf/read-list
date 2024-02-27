@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [年度征文 | 伪斜杠青年的自救：「兴趣使然」是最好的治愈良药](https://sspai.com/post/86625) | Tue Feb 27 2024 6:43 AM 
+- 👹 [社区速递 033 | 最爱的第三方相机应用、小米电纸书以及快捷指令懒人记账](https://sspai.com/post/86718) | Tue Feb 27 2024 9:09 AM 
+    <details><summary>展开描述 ...</summary> 
+    除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...&lt;a href=&quot;https://sspai.com/post/86718&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [年度征文 | 伪斜杠青年的自救：「兴趣使然」是最好的治愈良药](https://sspai.com/post/86625) | Tue Feb 27 2024 6:43 AM 
     <details><summary>展开描述 ...</summary> 
     编注：本文是「2023年度征文：分享你的关键词」的第6篇入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。本文参加2023年度征文活动。我的2023年度关键词是：「兴趣使然」。前言相信大家 ...&lt;a href=&quot;https://sspai.com/post/86625&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [5 大话题、24 本书：我的 2023 年年度书单](https://sspai.com/post/85733) | Tue Feb 27 2024 3:37 AM 
+- 🤭 [5 大话题、24 本书：我的 2023 年年度书单](https://sspai.com/post/85733) | Tue Feb 27 2024 3:37 AM 
     <details><summary>展开描述 ...</summary> 
     读过的每一本书都是我脚下坚实的路，那就明年见吧，看看我会走到哪里。&lt;a href=&quot;https://sspai.com/post/85733&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：AI-RAN 联盟成立，高通发布骁龙 X80 基带等](https://sspai.com/post/86693) | Tue Feb 27 2024 12:20 AM 
+- 🥸 [派早报：AI-RAN 联盟成立，高通发布骁龙 X80 基带等](https://sspai.com/post/86693) | Tue Feb 27 2024 12:20 AM 
     <details><summary>展开描述 ...</summary> 
     汉王 Clear 6 电纸书上架，SSE 4.2 指令集扩展加入 Windows 11 兼容检测步骤等&lt;a href=&quot;https://sspai.com/post/86693&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派评 | 近期值得关注的 App](https://sspai.com/post/86685) | Mon Feb 26 2024 9:52 AM 
+- 🙉 [派评 | 近期值得关注的 App](https://sspai.com/post/86685) | Mon Feb 26 2024 9:52 AM 
     <details><summary>展开描述 ...</summary> 
     你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/86685&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [年度征文｜新手家庭财务初探](https://sspai.com/post/86627) | Mon Feb 26 2024 7:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    搭伙过日子，就要通过协商和更多方面的考虑来构建合伙模式。本文仅以一个小例子作为阐述，也是对 2023 年身份转变后，个人对家庭财务思考的总结。&lt;a href=&quot;https://sspai.com/post/86627&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
