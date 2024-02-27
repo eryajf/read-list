@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [深入了解 Postman Tests](https://juejin.cn/post/7339879352107925519) | Tue Feb 27 2024 6:52 AM 
+- 🤗 [理想汽车学华为利益分配的底气，找到了（含理想汽车算法原题）](https://juejin.cn/post/7340109872383524927) | Tue Feb 27 2024 8:13 AM 
     <details><summary>展开描述 ...</summary> 
-    Postman 不仅是一个强大的 API 开发工具，它还提供了创建自动化测试脚本的能力，这些脚本可以用于检验API请求得到的响应是否符合预期。这些测试脚本被称为 “Tests”，支持使用 JavaSc 
+    理想汽车营收破千亿 关于「理想汽车」，写过两篇推文。 一篇 是写面试的，某位候选人面试理想汽车时，面试官搞错了二叉树后序遍历的基本定义，给人一种草台班子的感觉。 另外一篇 则是关于年终奖，在车企（既有 
     </details> 
 
-- 🎡 [MySQL 8.0.35 企业版比社区版性能高出 25%？](https://juejin.cn/post/7339892484334059557) | Tue Feb 27 2024 6:50 AM 
+- 🎡 [如何让 GPT-4 帮你写 Prompt？](https://juejin.cn/post/7340093152861601792) | Tue Feb 27 2024 8:09 AM 
     <details><summary>展开描述 ...</summary> 
-    # 前言 说实话，比较一下这两个 MySQL 发行版，并不会让我很兴奋。这是因为在我关于 MySQL 的记忆中，**如果是谈代码库时，两个发行版之间没有真正的区别。** 据我所知，企业版的差异在于 
+    很多人苦于不知道如何写高质量的 Prompt，尤其是如果要用英文表达更是吃力，不容易表达准确。 可以试试让 ChatGPT 帮你写，尤其是 GPT-4，生成的质量还是不错的。 如果你只是简单要求它写一 
     </details> 
 
-- 🕯 [五阳：对业务系统的理解只能逐步深入](https://juejin.cn/post/7339924521782886415) | Tue Feb 27 2024 6:39 AM 
+- 🕯 [现阶段 AI 的价值和盈利方向？](https://juejin.cn/post/7339842096340189199) | Tue Feb 27 2024 8:07 AM 
     <details><summary>展开描述 ...</summary> 
-    一个优秀的架构师必须明白，要设计出良好的业务系统架构，就必须先全面了解业务逻辑。例如想要理解 Spring 的源码和设计原理，就必须首先掌握 Spring 的 
+    这个来源于之前我在聊 Sora 的时候，总结了 Sora 的价值和可能的盈利方向，我把这部分内容单独摘出来再整理一下。 现在的生成式 AI 大家应该不陌生，用它总结文章、翻译、写作、画图，当然真正能用 
     </details> 
 
-- 🚀 [🚀 一文搞懂 JavaScript](https://juejin.cn/post/7339879352107761679) | Tue Feb 27 2024 6:38 AM 
+- 🚀 [谷歌 Deepmind 发布首个生成式交互环境模型 Genie [译]](https://juejin.cn/post/7339924521783541775) | Tue Feb 27 2024 8:04 AM 
     <details><summary>展开描述 ...</summary> 
-    一、JavaScript运行环境 1、简介 单线程，但是采用了事件驱动、异步 I/O 模型，可以处理高并发请求。 轻量级，使用 C++ 编写的 V8 引擎让 Node.js 的运行速度很快。 模块化， 
+    我们的模型能够将任意图像转化为一个可以互动的 2D 世界。例如，Genie 能够赋予人类设计的草图新的生命，就像来自两位史上最年轻的世界创造者 Seneca 和 Caspian 的精美艺术作品一样。 
     </details> 
 
-- 💪 [JVM第一课：如何阅读Class文件](https://juejin.cn/post/7339879352107745295) | Tue Feb 27 2024 6:36 AM 
+- 💪 [面试官：js中的事件触发过程是什么样子的？](https://juejin.cn/post/7339929216005881890) | Tue Feb 27 2024 8:03 AM 
     <details><summary>展开描述 ...</summary> 
-    本文以 JDK8为例，讲解 Class 文件结构。 JDK 文档官网：docs.oracle.com/javase/8/ 前言 Oracle 有两个产品实现了 Java SE &lpar;Java Platfo 
+    今天我们来聊一下一个简单的面试题！描述一下js中的事件触发过程！ js中的事件捕获和事件冒泡 在JavaScript中，事件传播机制包括两种主要方式：事件捕获（Capturing）和事件冒泡（Bubb 
     </details> 
 <!-- juejin:END -->
 ### 少数派
