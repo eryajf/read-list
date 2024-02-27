@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Nodejs 第四十五章（redis发布订阅+事务）](https://juejin.cn/post/7339757126725582888) | Mon Feb 26 2024 9:00 PM 
+- 🤗 [理解 Swift 中的方法派发机制 - 消息派发](https://juejin.cn/post/7339801868473122854) | Tue Feb 27 2024 12:50 AM 
     <details><summary>展开描述 ...</summary> 
-    发布订阅 发布-订阅是一种消息传递模式，其中消息发布者（发布者）将消息发送到频道（channel），而订阅者（订阅者）可以订阅一个或多个频道以接收消息。这种模式允许消息的解耦，发布者和订阅者之间可以独 
+    消息派发是 Swift 动态派发方法中灵活性最高的派发方式。它非常灵活，方法的实现可以在运行时通过调整来更改。实际上它甚至不使用 Swift ，它是存在于 Objective-C 运行时库中。 
     </details> 
 
-- 🎡 [PAT   字符串压缩与解压   20分   知识点：模拟](https://juejin.cn/post/7339814359885479976) | Mon Feb 26 2024 6:24 PM 
+- 🎡 [肘子的 Swift 周报 #020 ｜  准备迎接 Swift 6 的到来](https://juejin.cn/post/7339815719830044710) | Tue Feb 27 2024 12:27 AM 
     <details><summary>展开描述 ...</summary> 
-    题目：1078 字符串压缩与解压 - PAT &lpar;Basic Level&rpar; Practice （中文） &lpar;pintia.cn&rpar; 解析：78_哔哩哔哩_bilibili 刚开始先读一个字符，根据这个字符是 
+    欢迎访问 fatbobman.substack.com 订阅本周报的电子邮件版本。周报将向您介绍近期有关 Swift、SwiftUI、Core Data、SwiftData 等优秀的文章和内容 
     </details> 
 
-- 🕯 [面了这么多天，该做总结了-CSS篇&lpar;三&rpar;](https://juejin.cn/post/7339810287749365797) | Mon Feb 26 2024 4:46 PM 
+- 🕯 [Java Validate 参数验证](https://juejin.cn/post/7339810287749562405) | Tue Feb 27 2024 12:11 AM 
     <details><summary>展开描述 ...</summary> 
-    浅聊一下 书接上文，我们聊过了css盒模型、css选择器和隐藏页面元素的方式，本篇将继续总结面试遇到的其他css问题... 面试了这么多天，觉得一个人的力量还是太过薄弱，如果你和我一样有向前冲的勇气， 
+    前言 讲到 Validate API 你应该不陌生，尤其是在 web 应用中，作为前后端接口的参数校验，通过注解可以非常方便的校验参数的类型、长度、参数值等。 你是否还在对 Java Bean Val 
     </details> 
 
-- 🚀 [替代 Intercom 和 Zendesk： 开源的客户互动套件 | 开源日报 No.183](https://juejin.cn/post/7339819708813951015) | Mon Feb 26 2024 4:12 PM 
+- 🚀 [开发者利器： 从 Amazon CodeWhisperer 到 Amazon Q](https://juejin.cn/post/7339815719829995558) | Tue Feb 27 2024 12:05 AM 
     <details><summary>展开描述 ...</summary> 
-    chatwoot 是一个开源的客户互动套件，是 Intercom、Zendesk、Salesforce Service Cloud 等的替代品。 
+    自 ChatGPT 火爆以来，生成式 AI 助手也是层出不穷，目前自然是以 Microsoft Copilot（基于 GPT）普及度最高了吧。看着微软风光了这么久，其他云厂商怎么可能会甘愿落后？ 
     </details> 
 
-- 💪 [互联网从业者如何能够快速晋升（软文写作练习）](https://juejin.cn/post/7339815719829749798) | Mon Feb 26 2024 4:02 PM 
+- 💪 [如何在Rust中操作JSON](https://juejin.cn/post/7339819708814295079) | Mon Feb 26 2024 11:52 PM 
     <details><summary>展开描述 ...</summary> 
-    在这个飞速发展的互联网时代，职场竞争日益激烈。作为一名前端开发从业者，经历过多年的职场磨练，深感快速晋升不仅仅是技术能力的提升，更多的是一种对职业生涯的深刻理解和规划。 
+    大家好，我是柒八九。一个专注于前端开发技术/Rust及AI应用知识分享的Coder。 前言 我们之前在Rust 赋能前端-开发一款属于你的前端脚手架中有过在Rust项目中如何操作JSON。 由于文章篇 
     </details> 
 <!-- juejin:END -->
 ### 少数派
