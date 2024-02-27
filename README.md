@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Ghost Buster Pro 2.5.1 清理工具](https://xclient.info/s/ghost-buster-pro.html) | Tue Feb 27 2024 3:12 AM 
+- 🦏 [Tidy Up 6.0.4 重复文件清理工具](https://xclient.info/s/tidy-up.html) | Tue Feb 27 2024 3:26 AM 
     <details><summary>展开描述 ...</summary> 
-    Ghost Buster Pro 是一款功能强大的 Mac 清理工具，可以帮助您释放磁盘空间、提高电脑性能和保护您的隐私。 
+    Tidy Up 是Mac上最优秀的一款重复文件搜索和清理工具，这款软件可以让你指定搜索的目标目录，然后搜索指定类型的重复文件，如音乐、图片、应用等，还支持直接搜索iTunes、iPhoto、Aperture等 
     </details> 
 
--  [PDF Expert 3.9.1 极致的 PDF 阅读标注工作体验](https://xclient.info/s/pdf-expert-for-mac.html) | Tue Feb 27 2024 3:07 AM 
+-  [Rectangle Pro 3.0.19 窗口管理](https://xclient.info/s/rectangle-pro.html) | Tue Feb 27 2024 3:22 AM 
     <details><summary>展开描述 ...</summary> 
-    DF Expert 是一个 PDF 阅读器，无论是打开一个邮件附件，还是 6000 页的报告 ，PDF Expert for Mac的打开速度都比同类快上不少，平滑流畅的滚动效果，标签页设计，也大大提高了工作效率。 
+    Rectangle是Mac平台上的一款窗口管理应用，可以使用键盘快捷键移动和调整macOS中的窗口大小。 
     </details> 
 
-- ⚗️ [DirEqual 5.8.1 文件比较工具](https://xclient.info/s/direqual.html) | Tue Feb 27 2024 3:06 AM 
+- ⚗️ [Things 3.20.0 一款优秀的GTD任务管理工具](https://xclient.info/s/things.html) | Tue Feb 27 2024 3:20 AM 
     <details><summary>展开描述 ...</summary> 
-    DirEqual是Mac平台上的一款文件比较工具，使比较Mac上的本地文件夹变得非常容易。 
+    Things 是 Mac OS X 上的一款优秀的GTD任务管理工具，是一款非常值得尝试的任务管理及日程管理程序，并且支持同步到iPhone中。 
     </details> 
 
-- 🔥 [Dato 5.2.4 系统日历时间](https://xclient.info/s/dato.html) | Tue Feb 27 2024 3:06 AM 
+- 🔥 [iClip 5.5.8 剪切板管理工具](https://xclient.info/s/iclip.html) | Tue Feb 27 2024 3:19 AM 
     <details><summary>展开描述 ...</summary> 
-    Dato 是Mac平台上的一款可以替代系统菜单栏时钟的时间应用。 
+    iClip 是一款Mac上的剪切板管理工具，使用起来异常的简单，你打开了应用程序之后鼠标移到右边就可以看到额外的出现了一块半透明的粘贴板，鼠标移开后又会消失不见，非常的方便也不会妨碍到您的工作。 
     </details> 
 
-- 🌋 [App Tamer 2.8.3 延长电池使用时间](https://xclient.info/s/app-tamer.html) | Tue Feb 27 2024 3:05 AM 
+- 🌋 [Image Resizer 2.5 图片大小调整](https://xclient.info/s/image-resizer.html) | Tue Feb 27 2024 3:17 AM 
     <details><summary>展开描述 ...</summary> 
-    App Tamer 是一款Mac上延长电池使用时间的工具，通过降低或停止已不使用的应用所占用的CPU，能够大幅节省系统的资源，进而提高电池的使用时间，你可以通过灵活的配置，设置特定应用的CPU使用，比如Photoshop，而且不会影响正常的使用 
+    Image Resizer 是一款功能强大的图片批量调整大小工具，可以帮助您快速轻松地调整图片大小，并添加各种效果。 
     </details> 
 <!-- xclient:END -->
 
