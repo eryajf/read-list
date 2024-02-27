@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [JavaWeb之异步处理](https://juejin.cn/post/7339791953783963675) | Tue Feb 27 2024 2:16 AM 
+- 🤗 [从木屋烧烤到移动开发者对 App 内道具的定价权问题](https://juejin.cn/post/7339827208086700068) | Tue Feb 27 2024 3:10 AM 
     <details><summary>展开描述 ...</summary> 
-    异步处理 在Servlet3.0版本中引入了异步处理的功能，使线程可以返回到容器，从而执行更多的任务 
+    最近看到网上流传的关于木屋烧烤这个品牌是怎么成为烧烤届扛把子的话题，其中一个话题聊的就是关于木屋烧烤的定价策略。 木屋烧烤内的烧烤食物种类很多，而且价格不算太贵，这些烧烤食材都不是主要利润来源，真正的 
     </details> 
 
-- 🎡 [朴素的DevOps价值观](https://juejin.cn/post/7339881936594845735) | Tue Feb 27 2024 2:14 AM 
+- 🎡 [基于Animate.css让你的网站眼前一亮吧！](https://juejin.cn/post/7339879352106549263) | Tue Feb 27 2024 3:09 AM 
     <details><summary>展开描述 ...</summary> 
-    业务方向不明确的情况下，如何拆分微服务？ 我们通常的观点是“架构是服务于业务的，太过超前的架构是浪费”，由此可以想到架构与业务其实也有相似的关系。 
+    前言 当你想要吸引用户的注意力，动画是一个强大的工具。Animate.css是一个功能丰富的库，用于在网页上快速轻松地添加动画。无需深入JavaScript或复杂的CSS，你可以给元素添加预设的动画效 
     </details> 
 
-- 🕯 [2024美国大学生数学建模C题网球运动中的势头详解思路+具体代码](https://juejin.cn/post/7339809994152624166) | Tue Feb 27 2024 2:10 AM 
+- 🕯 [springboot集成nacos快速入门demo](https://juejin.cn/post/7339809994152968230) | Tue Feb 27 2024 3:05 AM 
     <details><summary>展开描述 ...</summary> 
-    E题数据已更新，做E题的小伙伴推荐看看博主的E题解析文章。那么废话不多说我们继续来做C题。 赛题分析 我们先阅题： 在2023年温布尔登男单决赛中，20岁的西班牙新星卡洛斯·阿尔卡拉兹击败了36岁的  
+    一、nacos介绍 Nacos /nɑ:kəʊs/ 是 Dynamic Naming and Configuration Service的首字母简称，一个更易于构建云原生应用的动态服务发现、配置管理和 
     </details> 
 
-- 🚀 [【一分钟快学】Go语言高效编程：掌握接口继承与结构体嵌入的艺术及其陷阱](https://juejin.cn/post/7339809470321491979) | Tue Feb 27 2024 2:09 AM 
+- 🚀 [2024了都！你不懂流就别说会Node.js！](https://juejin.cn/post/7339807020370165795) | Tue Feb 27 2024 3:00 AM 
     <details><summary>展开描述 ...</summary> 
-    探索Go语言的核心：接口继承与结构体嵌入。本文通过实用示例详解如何高效利用这两大特性进行代码复用与多态实现，同时指引避开常见陷阱，精炼Go编程技巧。 
+    node.js 中的流算是最核心的 api 都不为过，但是其原理并不容易掌握，本文就带你用实际案例 + 源码调试，轻松搞定它！ 
     </details> 
 
-- 💪 [小小导出，我大前端足矣！](https://juejin.cn/post/7339814359886348328) | Tue Feb 27 2024 2:06 AM 
+- 💪 [苹果 macOS 使用 Shadowsocks 设置教程](https://juejin.cn/post/7339757126726402088) | Tue Feb 27 2024 2:57 AM 
     <details><summary>展开描述 ...</summary> 
-    后端小白喊道：这个导出你前端应该就能做的吧！ 那是自然，有什么功能是我大前端做不了的，必须得让你们大开眼界。xlsx-style但是使用起来极其复杂，还需要改 node_module源码，库6年前无用 
+    收藏一下，后面有记录使用！！我自己配置了可以使用 苹果 macOS 使用 Shadowsocks 设置教程 
     </details> 
 <!-- juejin:END -->
 ### 少数派
