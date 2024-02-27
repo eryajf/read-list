@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2024年令人眼前一亮的Web框架](https://juejin.cn/post/7339830464000213027) | Tue Feb 27 2024 3:49 AM 
+- 🤗 [Xcode 15 查看方法调用者方式有所改变](https://juejin.cn/post/7340077302431154195) | Tue Feb 27 2024 4:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    这里每天分享一个 iOS 的新知识，快来关注我吧 前言 之前写过一篇 Xcode 快速查看函数调用者的文章，其中的查看技巧在 Xcode 15 中有了一些变化，今天来同步一下。 Xcode 15 之前 
+    </details> 
+
+- 🎡 [蔡崇信：阿里已重返中国顶级电商轨道；小米汽车最快二季度交付；微软Copilot推出多个定制GPT模型 | 极客头条](https://juejin.cn/post/7340077302431088659) | Tue Feb 27 2024 4:39 AM 
+    <details><summary>展开描述 ...</summary> 
+    稀土掘金 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。 一分钟速览新闻点！ 小米汽车：最快二季度交付，未来也有可能在海外上市 华为重磅发布三大全光创新产品 
+    </details> 
+
+- 🕯 [2024年令人眼前一亮的Web框架](https://juejin.cn/post/7339830464000213027) | Tue Feb 27 2024 3:49 AM 
     <details><summary>展开描述 ...</summary> 
     介绍 2024年正向我们走来，我们怀着满腔热情为新的一年制定计划，探索未来一年可以学习或实现的目标。此时此刻，正是探寻来年值得学习的框架、理解其功能和特色的最佳时刻。我们以2023年JS 新星名单为指 
     </details> 
 
-- 🎡 [Apifox 最新功能：更新增加参数列表可视化定制、Header 编辑与自动化测试的持续优化](https://juejin.cn/post/7339830464000180259) | Tue Feb 27 2024 3:46 AM 
+- 🚀 [Apifox 最新功能：更新增加参数列表可视化定制、Header 编辑与自动化测试的持续优化](https://juejin.cn/post/7339830464000180259) | Tue Feb 27 2024 3:46 AM 
     <details><summary>展开描述 ...</summary> 
     Apifox 新版本上线啦！ 看看本次版本更新主要涵盖的重点内容，有没有你所关注的功能特性： 支持切换参数列表外观 预设常用参数的中文名和说明 支持修改自动生成的 Header 自动化测试 持续优化  
     </details> 
 
-- 🕯 [Service Worker：离线应用与后台同步的解决方案](https://juejin.cn/post/7339807020370378787) | Tue Feb 27 2024 3:45 AM 
+- 💪 [Service Worker：离线应用与后台同步的解决方案](https://juejin.cn/post/7339807020370378787) | Tue Feb 27 2024 3:45 AM 
     <details><summary>展开描述 ...</summary> 
     Service Worker是一个非常强大的功能，除了以上介绍的离线缓存和后台同步功能，还可以通过SW实现消息推送、多页面通信等等功能。 
-    </details> 
-
-- 🚀 [Databend 开源周报第 133 期](https://juejin.cn/post/7339842096339238927) | Tue Feb 27 2024 3:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    What&#39;s On In Databend 探索 Databend 本周新进展，遇到更贴近你心意的 Databend 。 了解对开放表格式的引擎支持 Databend 通过表引擎支持不同类型的开放表格 
-    </details> 
-
-- 💪 [unsubscribe：Angular 项目中常见场景以及是否需要 unsubscribe](https://juejin.cn/post/7339827208086880292) | Tue Feb 27 2024 3:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    请阅读本文章，您会对Angular项目中常见的subscribe场景是否需要unsubscribe有一定的了解 
     </details> 
 <!-- juejin:END -->
 ### 少数派
