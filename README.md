@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [理想汽车学华为利益分配的底气，找到了（含理想汽车算法原题）](https://juejin.cn/post/7340109872383524927) | Tue Feb 27 2024 8:13 AM 
+- 🤗 [盘点几个 input 标签鲜为人知的 HTML 属性](https://juejin.cn/post/7339924521783951375) | Tue Feb 27 2024 9:09 AM 
     <details><summary>展开描述 ...</summary> 
-    理想汽车营收破千亿 关于「理想汽车」，写过两篇推文。 一篇 是写面试的，某位候选人面试理想汽车时，面试官搞错了二叉树后序遍历的基本定义，给人一种草台班子的感觉。 另外一篇 则是关于年终奖，在车企（既有 
+    聚焦几个 input 标签鲜为人知的 HTML 属性，包括 inputmode、multiple、enterkeyhint 和 list。这些属性可能并不为大多数人使用，但它们却能为表单交互增添便利 
     </details> 
 
-- 🎡 [如何让 GPT-4 帮你写 Prompt？](https://juejin.cn/post/7340093152861601792) | Tue Feb 27 2024 8:09 AM 
+- 🎡 [Apache HttpClient使用和源码分析](https://juejin.cn/post/7340085399953670156) | Tue Feb 27 2024 9:07 AM 
     <details><summary>展开描述 ...</summary> 
-    很多人苦于不知道如何写高质量的 Prompt，尤其是如果要用英文表达更是吃力，不容易表达准确。 可以试试让 ChatGPT 帮你写，尤其是 GPT-4，生成的质量还是不错的。 如果你只是简单要求它写一 
+    从源码学习Apache HttpClient是如何封装httpClient的，以及用法，学习其中的设计模式 
     </details> 
 
-- 🕯 [现阶段 AI 的价值和盈利方向？](https://juejin.cn/post/7339842096340189199) | Tue Feb 27 2024 8:07 AM 
+- 🕯 [Kepler 参数化查询优化方法](https://juejin.cn/post/7340084472332959755) | Tue Feb 27 2024 9:00 AM 
     <details><summary>展开描述 ...</summary> 
-    这个来源于之前我在聊 Sora 的时候，总结了 Sora 的价值和可能的盈利方向，我把这部分内容单独摘出来再整理一下。 现在的生成式 AI 大家应该不陌生，用它总结文章、翻译、写作、画图，当然真正能用 
+    一种端到端的、基于深度学习的参数化查询优化方法，名为 Kepler 。它通过一种新颖的候选计划生成算法以及鲁棒的深度学习模型来实现查询性能上的明显提升。 
     </details> 
 
-- 🚀 [谷歌 Deepmind 发布首个生成式交互环境模型 Genie [译]](https://juejin.cn/post/7339924521783541775) | Tue Feb 27 2024 8:04 AM 
+- 🚀 [最全面又最浅显易懂的Langchain快速上手教程（上）](https://juejin.cn/post/7340093152862076928) | Tue Feb 27 2024 8:54 AM 
     <details><summary>展开描述 ...</summary> 
-    我们的模型能够将任意图像转化为一个可以互动的 2D 世界。例如，Genie 能够赋予人类设计的草图新的生命，就像来自两位史上最年轻的世界创造者 Seneca 和 Caspian 的精美艺术作品一样。 
+    随着GPT模型的问世，大语言模型（LLM）时代已经来临。LLM的出现，使得人工智能在语言处理方面的能力得到了极大的提升。Langchain作为一个面向后端开发者的框架，旨在帮助开发者快速上手 
     </details> 
 
-- 💪 [面试官：js中的事件触发过程是什么样子的？](https://juejin.cn/post/7339929216005881890) | Tue Feb 27 2024 8:03 AM 
+- 💪 [大厂面试常考css总结](https://juejin.cn/post/7340109872383787071) | Tue Feb 27 2024 8:50 AM 
     <details><summary>展开描述 ...</summary> 
-    今天我们来聊一下一个简单的面试题！描述一下js中的事件触发过程！ js中的事件捕获和事件冒泡 在JavaScript中，事件传播机制包括两种主要方式：事件捕获（Capturing）和事件冒泡（Bubb 
+    css在大厂的面试时不是重点考点，面试官心情好了问一个简直就是给你送分，这里总结了大厂近几年面试常问的css考点，一篇就可以搞定你对面试有关css的担忧。 1.说说你对css盒模型的理解 是什么？ 浏 
     </details> 
 <!-- juejin:END -->
 ### 少数派
