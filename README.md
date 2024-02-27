@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [日常工作知识盘点（一）：正则表达式](https://juejin.cn/post/7340120569029869620) | Tue Feb 27 2024 10:00 AM 
+- 🤗 [GitHub 斩获 8300 星，小红书爆火开源 InstantID 要开直播了！](https://juejin.cn/post/7340156587721375796) | Tue Feb 27 2024 11:03 AM 
     <details><summary>展开描述 ...</summary> 
-    工作中常用的知识是我们应付日常工作的利器，本系列文章将盘点一下工作中常用的知识（那种拿来就能用的）。本文为该系列第一篇：正则表达式。正则表达式的学习需要一定的练习和实践，但一旦掌握，它 
+    2 月 29 日（周四） 20:00-21:00，InstantID 幕后团队主创工程师揭晓技术细节！ 
     </details> 
 
-- 🎡 [快速分享项目报价和进度给客户-3分钟搞定研发](https://juejin.cn/post/7339892484334911525) | Tue Feb 27 2024 9:55 AM 
+- 🎡 [通过创建一个无所不知的阿狸P7候选人，来看看 coze 的使用及场景分析](https://juejin.cn/post/7340109872384655423) | Tue Feb 27 2024 10:42 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 如果你是一位项目经理、创业老板或是产品经理，在日常项目研发过程中，如果需要分享项目进度、项目报价、需求进度、需求报价、工单处理结果给外部的客户，推荐使用YesDev的【分享给客户】这一功能。 
+    对于普通人而言，可将 AI 视为工具，而 coze 是其中利器，擅长使用工具，对于生活还是工作，都能给带来极大的便利。对于稍有开发能力的人而言，都可以看看过去的项目中有哪些地方可以通过 AI 进行优化 
     </details> 
 
-- 🕯 [谷歌发布世界模型，能生成可交互虚拟世界；华为发布全球首个 5.5G 智能核心网丨 RTE 开发者日报 Vol.152](https://juejin.cn/post/7340120569029787700) | Tue Feb 27 2024 9:47 AM 
+- 🕯 [使用原生 cookieStore 方法，让 Cookie 操作更简单](https://juejin.cn/post/7340127788052660261) | Tue Feb 27 2024 10:40 AM 
     <details><summary>展开描述 ...</summary> 
-    因禁用 PWA 应用，欧盟正考虑对苹果发起反垄断调查、SpaceX 首次通过星链 从太空向社交平台 X 上发帖 
+    对于前端来讲，我们在操作cookie时往往都是基于document.cookie，但它有一个缺点就是操作复杂，它并没有像localStorage那样提供一些get或set等方法供我们使用。 
     </details> 
 
-- 🚀 [Rxjs入门指南](https://juejin.cn/post/7340084472333107211) | Tue Feb 27 2024 9:29 AM 
+- 🚀 [后端开发测试支持利器-ngrok](https://juejin.cn/post/7340085399954096140) | Tue Feb 27 2024 10:28 AM 
     <details><summary>展开描述 ...</summary> 
-    Rxjs,JavaScript的响应式扩展库，是一个基于可观察序列的库，用于处理异步事件和编写基于事件驱动的程序。，提供了丰富的操作符和工具，用于处理和组合异步数据流。现在我带大家一起快速入门！ 
+    本文讨论一个除了NAT端口映射、VPS网络桥接之外的内网Web应用的互联网发布的技术方案：ngrok网络服务。简单探讨了这几种方案的差异，描述了ngrok方案的大致原理和操作过程 
     </details> 
 
-- 💪 [Rust异步编程 Async Await 入门](https://juejin.cn/post/7340071895008526374) | Tue Feb 27 2024 9:27 AM 
+- 💪 [面了这么多天，该做总结了-CSS篇&lpar;四&rpar;](https://juejin.cn/post/7340109872384557119) | Tue Feb 27 2024 10:23 AM 
     <details><summary>展开描述 ...</summary> 
-    Rust Async Await 入门 在本文中，我们将仔细研究 Rust 中的异步编程。到目前为止，我对 Rust 异步的体验主要是从 Stack Overflow 复制代码。本文旨在帮助您了解什么 
+    浅聊一下 书接上文，我们聊过了如何做水平垂直居中、视差滚动效果实现和显示一个小于10px的文字的方式，本篇将继续总结面试遇到的其他css问题... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
