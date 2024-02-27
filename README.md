@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Integrity Pro 12.8.7 网站死链清理优化检测器](https://xclient.info/s/integrity-pro.html) | Mon Feb 26 2024 1:22 AM 
+- 🦏 [Ghost Buster Pro 2.5.1 清理工具](https://xclient.info/s/ghost-buster-pro.html) | Tue Feb 27 2024 3:12 AM 
     <details><summary>展开描述 ...</summary> 
-    Integrity Pro是一款Mac上的网站链接检测软件，能通过您所输入的网址找到已经损坏的链接，并且在完成之后还能以xml、dot和csv格式来生成站点地图。 
+    Ghost Buster Pro 是一款功能强大的 Mac 清理工具，可以帮助您释放磁盘空间、提高电脑性能和保护您的隐私。 
     </details> 
 
--  [Acorn 7.4.4 优秀的轻量级图形处理工具](https://xclient.info/s/acorn.html) | Mon Feb 26 2024 1:21 AM 
+-  [PDF Expert 3.9.1 极致的 PDF 阅读标注工作体验](https://xclient.info/s/pdf-expert-for-mac.html) | Tue Feb 27 2024 3:07 AM 
     <details><summary>展开描述 ...</summary> 
-    Acorn是Mac OS平台上一款比较不错的图像处理软件。如果你不想使用和安装 Mac 上巨大的 Photoshop，Acorn 是不错的替代品。 
+    DF Expert 是一个 PDF 阅读器，无论是打开一个邮件附件，还是 6000 页的报告 ，PDF Expert for Mac的打开速度都比同类快上不少，平滑流畅的滚动效果，标签页设计，也大大提高了工作效率。 
     </details> 
 
-- ⚗️ [Keep It 2.4.2 内容收藏夹](https://xclient.info/s/keep-it.html) | Mon Feb 26 2024 1:19 AM 
+- ⚗️ [DirEqual 5.8.1 文件比较工具](https://xclient.info/s/direqual.html) | Tue Feb 27 2024 3:06 AM 
     <details><summary>展开描述 ...</summary> 
-    Keep It 是Mac平台上的一款保存笔记，保存网页链接，存储文件的效率工具。Keep It 支持icloud同步，用户可以在所有支持icloud的设备上同步自己的数据资料。 
+    DirEqual是Mac平台上的一款文件比较工具，使比较Mac上的本地文件夹变得非常容易。 
     </details> 
 
-- 🔥 [Folder Factory 7.7.1 文件夹图标修改软件](https://xclient.info/s/folder-factory.html) | Mon Feb 26 2024 1:19 AM 
+- 🔥 [Dato 5.2.4 系统日历时间](https://xclient.info/s/dato.html) | Tue Feb 27 2024 3:06 AM 
     <details><summary>展开描述 ...</summary> 
-    Folder Factory是一款可以改变你的文件夹图标的设计的软件，让你的文件夹变得与众不同，你可以改变文件夹颜色、图片以及文字，甚至可以让文件夹变得透明！ 
+    Dato 是Mac平台上的一款可以替代系统菜单栏时钟的时间应用。 
     </details> 
 
-- 🌋 [BetterMouse 1.5.4568 改善外部鼠标的性能和功能](https://xclient.info/s/bettermouse.html) | Mon Feb 26 2024 1:17 AM 
+- 🌋 [App Tamer 2.8.3 延长电池使用时间](https://xclient.info/s/app-tamer.html) | Tue Feb 27 2024 3:05 AM 
     <details><summary>展开描述 ...</summary> 
-    BetterMouse 是一款 macOS 实用工具，旨在改善外部鼠标的性能和功能，取代像罗技 Options 一样笨重、侵入和占用资源的鼠标驱动程序。它功能丰富、轻量级、效率优化，并且完全注重隐私安全，旨在满足您在 macOS 上使用第三方鼠标的所有需求。 
+    App Tamer 是一款Mac上延长电池使用时间的工具，通过降低或停止已不使用的应用所占用的CPU，能够大幅节省系统的资源，进而提高电池的使用时间，你可以通过灵活的配置，设置特定应用的CPU使用，比如Photoshop，而且不会影响正常的使用 
     </details> 
 <!-- xclient:END -->
 
