@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [GitHub 斩获 8300 星，小红书爆火开源 InstantID 要开直播了！](https://juejin.cn/post/7340156587721375796) | Tue Feb 27 2024 11:03 AM 
+- 🤗 [React useRef](https://juejin.cn/post/7340167256267423780) | Tue Feb 27 2024 12:14 PM 
     <details><summary>展开描述 ...</summary> 
-    2 月 29 日（周四） 20:00-21:00，InstantID 幕后团队主创工程师揭晓技术细节！ 
+    useRef 是 React 提供的一个 Hook，它用于在函数组件中访问和操作 DOM 节点或存储可变的值，而这些值在组件的整个生命周期中保持不变。 作用： 访问 DOM 节点：useRef 可以获 
     </details> 
 
-- 🎡 [通过创建一个无所不知的阿狸P7候选人，来看看 coze 的使用及场景分析](https://juejin.cn/post/7340109872384655423) | Tue Feb 27 2024 10:42 AM 
+- 🎡 [mybatis selectKey 赋值未生效，为什么？](https://juejin.cn/post/7340167256267374628) | Tue Feb 27 2024 12:07 PM 
     <details><summary>展开描述 ...</summary> 
-    对于普通人而言，可将 AI 视为工具，而 coze 是其中利器，擅长使用工具，对于生活还是工作，都能给带来极大的便利。对于稍有开发能力的人而言，都可以看看过去的项目中有哪些地方可以通过 AI 进行优化 
+    # Statement配置如下： ```xml &lt;insert id=&quot;insertStatemnet&quot; parameterType=&quot;User&quot;&gt; insert into use 
     </details> 
 
-- 🕯 [使用原生 cookieStore 方法，让 Cookie 操作更简单](https://juejin.cn/post/7340127788052660261) | Tue Feb 27 2024 10:40 AM 
+- 🕯 [为女儿奴程序员打造的“小可爱”](https://juejin.cn/post/7339905802071572506) | Tue Feb 27 2024 12:07 PM 
     <details><summary>展开描述 ...</summary> 
-    对于前端来讲，我们在操作cookie时往往都是基于document.cookie，但它有一个缺点就是操作复杂，它并没有像localStorage那样提供一些get或set等方法供我们使用。 
+    hello，大家好，我是张张，「架构精进之路」公号作者。 本文分享一个 无代码Coze工具搭建陪伴式养成交互工具的使用全流程。 1 扣子简介 不禁要问，扣子是个啥？ 扣子主要功能： 集成了丰富的插件工 
     </details> 
 
-- 🚀 [后端开发测试支持利器-ngrok](https://juejin.cn/post/7340085399954096140) | Tue Feb 27 2024 10:28 AM 
+- 🚀 [PAT  1065  单身狗    分数：25分   知识点：哈希](https://juejin.cn/post/7340109700766597172) | Tue Feb 27 2024 12:05 PM 
     <details><summary>展开描述 ...</summary> 
-    本文讨论一个除了NAT端口映射、VPS网络桥接之外的内网Web应用的互联网发布的技术方案：ngrok网络服务。简单探讨了这几种方案的差异，描述了ngrok方案的大致原理和操作过程 
+    题目：1065 单身狗 - PAT &lpar;Basic Level&rpar; Practice （中文） &lpar;pintia.cn&rpar; 解析：65_哔哩哔哩_bilibili 思想 把夫妻装入到 夫妻表&lpar;map&rpar;里面，然 
     </details> 
 
-- 💪 [面了这么多天，该做总结了-CSS篇&lpar;四&rpar;](https://juejin.cn/post/7340109872384557119) | Tue Feb 27 2024 10:23 AM 
+- 💪 [React useReducer](https://juejin.cn/post/7340152660224032780) | Tue Feb 27 2024 12:04 PM 
     <details><summary>展开描述 ...</summary> 
-    浅聊一下 书接上文，我们聊过了如何做水平垂直居中、视差滚动效果实现和显示一个小于10px的文字的方式，本篇将继续总结面试遇到的其他css问题... 
+    useReducer 是 React 提供的一个 Hook，它可以在函数组件中管理复杂的状态逻辑。当你的组件需要处理多个子状态值或当下一个状态依赖于之前的状态时，使用 useReducer 通常比 u 
     </details> 
 <!-- juejin:END -->
 ### 少数派
