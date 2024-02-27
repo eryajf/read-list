@@ -333,10 +333,10 @@
 
 <!-- v2ex:START -->
 - 🥸 [计算机经典书籍分享（全网质量最高，完全免费）](https://www.v2ex.com/t/1018772#reply1) | Tue Feb 27 2024 4:05 AM
-- 🤗 [大龄程序员的出路是什么？](https://www.v2ex.com/t/1018767#reply4) | Tue Feb 27 2024 3:49 AM
+- 🤗 [大龄程序员的出路是什么？](https://www.v2ex.com/t/1018767#reply9) | Tue Feb 27 2024 3:49 AM
 - 🎭 [在 iOS App 中让用户提供 OpenAI API key，苹果不让上架了吗？](https://www.v2ex.com/t/1018757#reply0) | Tue Feb 27 2024 3:34 AM
-- 🥷 [请教下大佬们，遇到公司裁员补偿金耍诈有什么办法吗](https://www.v2ex.com/t/1018746#reply10) | Tue Feb 27 2024 3:16 AM
-- 🐵 [公司裁员，申请被裁失败，留下的年终砍半](https://www.v2ex.com/t/1018744#reply3) | Tue Feb 27 2024 3:12 AM<!-- v2ex:END -->
+- 🥷 [公司裁员，申请被裁失败，留下的年终砍半](https://www.v2ex.com/t/1018744#reply3) | Tue Feb 27 2024 3:12 AM
+- 🐵 [iOS 无根越狱通过 3D Touch 快速 Debug 调试某个 App](https://www.v2ex.com/t/1018738#reply1) | Tue Feb 27 2024 3:03 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
