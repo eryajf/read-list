@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [深入浅出-高性能低延迟消息传递框架-Disruptor](https://juejin.cn/post/7340156047338799142) | Tue Feb 27 2024 12:56 PM 
+- 🤗 [2.27美团前端大群讨论片段——如何增大一个换行元素的点击区域](https://juejin.cn/post/7340167256267767844) | Tue Feb 27 2024 2:11 PM 
+    <details><summary>展开描述 ...</summary> 
+    需求背景 团子有个大前端群，里面大家会提发现的美团的bug、交流技术方案等等，今天有个大佬在群里发了一个非常常见的需求场景以及遇到的问题： 集思广益很快就有了多种思路： 直至最后一个方案出现完成统一～ 
+    </details> 
+
+- 🎡 [一款高温型霍尔效应传感器](https://juejin.cn/post/7340076087248551970) | Tue Feb 27 2024 2:09 PM 
+    <details><summary>展开描述 ...</summary> 
+    一、产品概述 HAL443A单极性霍尔位置传感器是由内部电压稳压器、霍尔电压发生器、差分 放大器、温度补偿单 元、施密特触发器和集 电极开路输出级组成的磁敏传感电路，其输入为磁感应强度，输出是一个数字 
+    </details> 
+
+- 🕯 [老师又来活了，用coze快速搭建一个读书机器人](https://juejin.cn/post/7340156047338930214) | Tue Feb 27 2024 1:18 PM 
+    <details><summary>展开描述 ...</summary> 
+    一个家长，一个老师，一个学生 天天斗智斗勇，老师总说家长是第一导师 家长天天加班，咋办呢，找个免费导师帮忙把 
+    </details> 
+
+- 🚀 [Android ViewPager切换动画](https://juejin.cn/post/7340127788053184549) | Tue Feb 27 2024 1:12 PM 
+    <details><summary>展开描述 ...</summary> 
+    有时候我们做fragment切换或者一些控件切换做衔接动画，想要比较方便的实现，其实ViewPager就提供了切换动画的方法，而且使用起来也十分的方便，扩展性还很不错. 
+    </details> 
+
+- 💪 [深入浅出-高性能低延迟消息传递框架-Disruptor](https://juejin.cn/post/7340156047338799142) | Tue Feb 27 2024 12:56 PM 
     <details><summary>展开描述 ...</summary> 
     说到Disruptor，咱们首先要了解它的核心组件：Ring Buffer。这不是一般的队列，而是一种环形的数据结构，能高效地在生产者和消费者之间传递数据。它的特点是预先分配固定数量的元素空间，这就减 
-    </details> 
-
-- 🎡 [React useRef](https://juejin.cn/post/7340167256267423780) | Tue Feb 27 2024 12:14 PM 
-    <details><summary>展开描述 ...</summary> 
-    useRef 是 React 提供的一个 Hook，它用于在函数组件中访问和操作 DOM 节点或存储可变的值，而这些值在组件的整个生命周期中保持不变。 作用： 访问 DOM 节点：useRef 可以获 
-    </details> 
-
-- 🕯 [mybatis selectKey 赋值未生效，为什么？](https://juejin.cn/post/7340167256267374628) | Tue Feb 27 2024 12:07 PM 
-    <details><summary>展开描述 ...</summary> 
-    # Statement配置如下： ```xml &lt;insert id=&quot;insertStatemnet&quot; parameterType=&quot;User&quot;&gt; insert into use 
-    </details> 
-
-- 🚀 [为女儿奴程序员打造的“小可爱”](https://juejin.cn/post/7339905802071572506) | Tue Feb 27 2024 12:07 PM 
-    <details><summary>展开描述 ...</summary> 
-    hello，大家好，我是张张，「架构精进之路」公号作者。 本文分享一个 无代码Coze工具搭建陪伴式养成交互工具的使用全流程。 1 扣子简介 不禁要问，扣子是个啥？ 扣子主要功能： 集成了丰富的插件工 
-    </details> 
-
-- 💪 [PAT  1065  单身狗    分数：25分   知识点：哈希](https://juejin.cn/post/7340109700766597172) | Tue Feb 27 2024 12:05 PM 
-    <details><summary>展开描述 ...</summary> 
-    题目：1065 单身狗 - PAT &lpar;Basic Level&rpar; Practice （中文） &lpar;pintia.cn&rpar; 解析：65_哔哩哔哩_bilibili 思想 把夫妻装入到 夫妻表&lpar;map&rpar;里面，然 
     </details> 
 <!-- juejin:END -->
 ### 少数派
