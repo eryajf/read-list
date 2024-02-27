@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [理解 Swift 中的方法派发机制 - 消息派发](https://juejin.cn/post/7339801868473122854) | Tue Feb 27 2024 12:50 AM 
+- 🤗 [JavaWeb之异步处理](https://juejin.cn/post/7339791953783963675) | Tue Feb 27 2024 2:16 AM 
     <details><summary>展开描述 ...</summary> 
-    消息派发是 Swift 动态派发方法中灵活性最高的派发方式。它非常灵活，方法的实现可以在运行时通过调整来更改。实际上它甚至不使用 Swift ，它是存在于 Objective-C 运行时库中。 
+    异步处理 在Servlet3.0版本中引入了异步处理的功能，使线程可以返回到容器，从而执行更多的任务 
     </details> 
 
-- 🎡 [肘子的 Swift 周报 #020 ｜  准备迎接 Swift 6 的到来](https://juejin.cn/post/7339815719830044710) | Tue Feb 27 2024 12:27 AM 
+- 🎡 [朴素的DevOps价值观](https://juejin.cn/post/7339881936594845735) | Tue Feb 27 2024 2:14 AM 
     <details><summary>展开描述 ...</summary> 
-    欢迎访问 fatbobman.substack.com 订阅本周报的电子邮件版本。周报将向您介绍近期有关 Swift、SwiftUI、Core Data、SwiftData 等优秀的文章和内容 
+    业务方向不明确的情况下，如何拆分微服务？ 我们通常的观点是“架构是服务于业务的，太过超前的架构是浪费”，由此可以想到架构与业务其实也有相似的关系。 
     </details> 
 
-- 🕯 [Java Validate 参数验证](https://juejin.cn/post/7339810287749562405) | Tue Feb 27 2024 12:11 AM 
+- 🕯 [2024美国大学生数学建模C题网球运动中的势头详解思路+具体代码](https://juejin.cn/post/7339809994152624166) | Tue Feb 27 2024 2:10 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 讲到 Validate API 你应该不陌生，尤其是在 web 应用中，作为前后端接口的参数校验，通过注解可以非常方便的校验参数的类型、长度、参数值等。 你是否还在对 Java Bean Val 
+    E题数据已更新，做E题的小伙伴推荐看看博主的E题解析文章。那么废话不多说我们继续来做C题。 赛题分析 我们先阅题： 在2023年温布尔登男单决赛中，20岁的西班牙新星卡洛斯·阿尔卡拉兹击败了36岁的  
     </details> 
 
-- 🚀 [开发者利器： 从 Amazon CodeWhisperer 到 Amazon Q](https://juejin.cn/post/7339815719829995558) | Tue Feb 27 2024 12:05 AM 
+- 🚀 [【一分钟快学】Go语言高效编程：掌握接口继承与结构体嵌入的艺术及其陷阱](https://juejin.cn/post/7339809470321491979) | Tue Feb 27 2024 2:09 AM 
     <details><summary>展开描述 ...</summary> 
-    自 ChatGPT 火爆以来，生成式 AI 助手也是层出不穷，目前自然是以 Microsoft Copilot（基于 GPT）普及度最高了吧。看着微软风光了这么久，其他云厂商怎么可能会甘愿落后？ 
+    探索Go语言的核心：接口继承与结构体嵌入。本文通过实用示例详解如何高效利用这两大特性进行代码复用与多态实现，同时指引避开常见陷阱，精炼Go编程技巧。 
     </details> 
 
-- 💪 [如何在Rust中操作JSON](https://juejin.cn/post/7339819708814295079) | Mon Feb 26 2024 11:52 PM 
+- 💪 [小小导出，我大前端足矣！](https://juejin.cn/post/7339814359886348328) | Tue Feb 27 2024 2:06 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是柒八九。一个专注于前端开发技术/Rust及AI应用知识分享的Coder。 前言 我们之前在Rust 赋能前端-开发一款属于你的前端脚手架中有过在Rust项目中如何操作JSON。 由于文章篇 
+    后端小白喊道：这个导出你前端应该就能做的吧！ 那是自然，有什么功能是我大前端做不了的，必须得让你们大开眼界。xlsx-style但是使用起来极其复杂，还需要改 node_module源码，库6年前无用 
     </details> 
 <!-- juejin:END -->
 ### 少数派
