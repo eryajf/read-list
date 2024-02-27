@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0227](http://jandan.net/p/115735) | Mon Feb 26 2024 11:07 PM 
+- 🚀 [今日好价 0228](http://jandan.net/p/115745) | Tue Feb 27 2024 11:07 PM 
     <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：57 
+    今日带货商品数量：51 
     </details> 
 
-- 🙉 [你有没有留意过，商场里没有时钟](http://jandan.net/p/115729) | Mon Feb 26 2024 11:05 PM 
+- 🙉 [因太信任谷歌地图，两位德国游客迷失在澳洲荒野](http://jandan.net/p/115740) | Tue Feb 27 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
-    你停留的时间越长，花费越多 
+    越来越多的驾驶者依赖应用程序导航 
     </details> 
 
-- 🎉 [Y染色体正在消失，新的性基因可能是男性的未来](http://jandan.net/p/115733) | Mon Feb 26 2024 11:04 PM 
+- 🎉 [加拿大律师因引用ChatGPT编造的虚假案例受罚](http://jandan.net/p/115738) | Tue Feb 27 2024 11:03 PM 
     <details><summary>展开描述 ...</summary> 
-    两种啮齿类分支已经失去了 Y 染色体，但仍然存活下来 
+    AI又无中生有了 
     </details> 
 
-- 🐲 [加州男子接受骨髓移植成功治疗癌症，同时也“治愈”了艾滋](http://jandan.net/p/115732) | Mon Feb 26 2024 11:02 PM 
+- 🐲 [超级太阳风暴可能对地球造成怎样的影响](http://jandan.net/p/115739) | Tue Feb 27 2024 11:02 PM 
     <details><summary>展开描述 ...</summary> 
-    供体基因自带抗艾突变 
+    可能对地球上的许多关键基础设施造成严重破坏 
     </details> 
 
--  [南极冰下的缤纷世界](http://jandan.net/p/115730) | Mon Feb 26 2024 11:01 PM 
+-  [新冠后的心脏病死亡激增，令科学家困惑](http://jandan.net/p/115741) | Tue Feb 27 2024 11:01 PM 
     <details><summary>展开描述 ...</summary> 
-    跟随摄影师踏入南极冰下世界 
+    新冠病毒可以直接感染某些心脏组织，包括冠状动脉 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
