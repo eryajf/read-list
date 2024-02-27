@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [从木屋烧烤到移动开发者对 App 内道具的定价权问题](https://juejin.cn/post/7339827208086700068) | Tue Feb 27 2024 3:10 AM 
+- 🤗 [2024年令人眼前一亮的Web框架](https://juejin.cn/post/7339830464000213027) | Tue Feb 27 2024 3:49 AM 
     <details><summary>展开描述 ...</summary> 
-    最近看到网上流传的关于木屋烧烤这个品牌是怎么成为烧烤届扛把子的话题，其中一个话题聊的就是关于木屋烧烤的定价策略。 木屋烧烤内的烧烤食物种类很多，而且价格不算太贵，这些烧烤食材都不是主要利润来源，真正的 
+    介绍 2024年正向我们走来，我们怀着满腔热情为新的一年制定计划，探索未来一年可以学习或实现的目标。此时此刻，正是探寻来年值得学习的框架、理解其功能和特色的最佳时刻。我们以2023年JS 新星名单为指 
     </details> 
 
-- 🎡 [基于Animate.css让你的网站眼前一亮吧！](https://juejin.cn/post/7339879352106549263) | Tue Feb 27 2024 3:09 AM 
+- 🎡 [Apifox 最新功能：更新增加参数列表可视化定制、Header 编辑与自动化测试的持续优化](https://juejin.cn/post/7339830464000180259) | Tue Feb 27 2024 3:46 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 当你想要吸引用户的注意力，动画是一个强大的工具。Animate.css是一个功能丰富的库，用于在网页上快速轻松地添加动画。无需深入JavaScript或复杂的CSS，你可以给元素添加预设的动画效 
+    Apifox 新版本上线啦！ 看看本次版本更新主要涵盖的重点内容，有没有你所关注的功能特性： 支持切换参数列表外观 预设常用参数的中文名和说明 支持修改自动生成的 Header 自动化测试 持续优化  
     </details> 
 
-- 🕯 [springboot集成nacos快速入门demo](https://juejin.cn/post/7339809994152968230) | Tue Feb 27 2024 3:05 AM 
+- 🕯 [Service Worker：离线应用与后台同步的解决方案](https://juejin.cn/post/7339807020370378787) | Tue Feb 27 2024 3:45 AM 
     <details><summary>展开描述 ...</summary> 
-    一、nacos介绍 Nacos /nɑ:kəʊs/ 是 Dynamic Naming and Configuration Service的首字母简称，一个更易于构建云原生应用的动态服务发现、配置管理和 
+    Service Worker是一个非常强大的功能，除了以上介绍的离线缓存和后台同步功能，还可以通过SW实现消息推送、多页面通信等等功能。 
     </details> 
 
-- 🚀 [2024了都！你不懂流就别说会Node.js！](https://juejin.cn/post/7339807020370165795) | Tue Feb 27 2024 3:00 AM 
+- 🚀 [Databend 开源周报第 133 期](https://juejin.cn/post/7339842096339238927) | Tue Feb 27 2024 3:43 AM 
     <details><summary>展开描述 ...</summary> 
-    node.js 中的流算是最核心的 api 都不为过，但是其原理并不容易掌握，本文就带你用实际案例 + 源码调试，轻松搞定它！ 
+    What&#39;s On In Databend 探索 Databend 本周新进展，遇到更贴近你心意的 Databend 。 了解对开放表格式的引擎支持 Databend 通过表引擎支持不同类型的开放表格 
     </details> 
 
-- 💪 [苹果 macOS 使用 Shadowsocks 设置教程](https://juejin.cn/post/7339757126726402088) | Tue Feb 27 2024 2:57 AM 
+- 💪 [unsubscribe：Angular 项目中常见场景以及是否需要 unsubscribe](https://juejin.cn/post/7339827208086880292) | Tue Feb 27 2024 3:38 AM 
     <details><summary>展开描述 ...</summary> 
-    收藏一下，后面有记录使用！！我自己配置了可以使用 苹果 macOS 使用 Shadowsocks 设置教程 
+    请阅读本文章，您会对Angular项目中常见的subscribe场景是否需要unsubscribe有一定的了解 
     </details> 
 <!-- juejin:END -->
 ### 少数派
