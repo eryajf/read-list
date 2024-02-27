@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [单词本数据批量导入功能来了🫶](https://www.v2ex.com/t/1018884#reply0) | Tue Feb 27 2024 9:08 AM
-- 🤗 [两种 sql 查询方式选择](https://www.v2ex.com/t/1018874#reply2) | Tue Feb 27 2024 8:54 AM
-- 🎭 [这是我的手机，你凭什么要卡！](https://www.v2ex.com/t/1018871#reply1) | Tue Feb 27 2024 8:47 AM
-- 🥷 [安装报失败 INSTALL FAILED INVALID APK 求解正常安装软件的姿势 in 车机](https://www.v2ex.com/t/1018870#reply4) | Tue Feb 27 2024 8:42 AM
-- 🐵 [日经求推荐备用机，纯备用，除了丢家里接短信、挂微信小号外，无任何多余用途](https://www.v2ex.com/t/1018862#reply5) | Tue Feb 27 2024 8:26 AM<!-- v2ex:END -->
+- 🥸 [2024 年了 win 虚拟机跑 Linux 的桌面，能应付日用吗？](https://www.v2ex.com/t/1018898#reply0) | Tue Feb 27 2024 10:10 AM
+- 🤗 [单词本数据批量导入功能来了🫶](https://www.v2ex.com/t/1018884#reply1) | Tue Feb 27 2024 9:08 AM
+- 🎭 [两种 sql 查询方式选择](https://www.v2ex.com/t/1018874#reply3) | Tue Feb 27 2024 8:54 AM
+- 🥷 [这是我的手机，你凭什么要卡！](https://www.v2ex.com/t/1018871#reply8) | Tue Feb 27 2024 8:47 AM
+- 🐵 [安装报失败 INSTALL FAILED INVALID APK 求解正常安装软件的姿势 in 车机](https://www.v2ex.com/t/1018870#reply10) | Tue Feb 27 2024 8:42 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
