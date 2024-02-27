@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [从背锅到炒鱿鱼，但仍然值](https://juejin.cn/post/7339835849961586729) | Tue Feb 27 2024 6:02 AM 
+- 🤗 [深入了解 Postman Tests](https://juejin.cn/post/7339879352107925519) | Tue Feb 27 2024 6:52 AM 
     <details><summary>展开描述 ...</summary> 
-    在日常开发中，背锅常常有。如果避无可避，那是否可以选择一些值得背的锅？本文是本人从背锅到炒鱿鱼的背锅经验分享。 
+    Postman 不仅是一个强大的 API 开发工具，它还提供了创建自动化测试脚本的能力，这些脚本可以用于检验API请求得到的响应是否符合预期。这些测试脚本被称为 “Tests”，支持使用 JavaSc 
     </details> 
 
-- 🎡 [我如何使用Coze来分析掘金热榜数据 | Coze插件开发](https://juejin.cn/post/7340077302431399955) | Tue Feb 27 2024 5:57 AM 
+- 🎡 [MySQL 8.0.35 企业版比社区版性能高出 25%？](https://juejin.cn/post/7339892484334059557) | Tue Feb 27 2024 6:50 AM 
     <details><summary>展开描述 ...</summary> 
-    掘金热榜想必大家会偶尔扫一扫，看看感兴趣的进行进一步阅读。如何让Coze也能读取热榜数据并进一步分析呢？本文会告诉你答案。 
+    # 前言 说实话，比较一下这两个 MySQL 发行版，并不会让我很兴奋。这是因为在我关于 MySQL 的记忆中，**如果是谈代码库时，两个发行版之间没有真正的区别。** 据我所知，企业版的差异在于 
     </details> 
 
-- 🕯 [实现前端中隔线滑动对比预览效果](https://juejin.cn/post/7339830464000639011) | Tue Feb 27 2024 5:47 AM 
+- 🕯 [五阳：对业务系统的理解只能逐步深入](https://juejin.cn/post/7339924521782886415) | Tue Feb 27 2024 6:39 AM 
     <details><summary>展开描述 ...</summary> 
-    通过拖动中隔线，可以动态地改变两边的对比区域的比例。常用于在网站中对比产品性能、产品设计，给用户直观的感受。 
+    一个优秀的架构师必须明白，要设计出良好的业务系统架构，就必须先全面了解业务逻辑。例如想要理解 Spring 的源码和设计原理，就必须首先掌握 Spring 的 
     </details> 
 
-- 🚀 [开发excel必备，xlsx的使用方法和案例](https://juejin.cn/post/7339827208087289892) | Tue Feb 27 2024 5:47 AM 
+- 🚀 [🚀 一文搞懂 JavaScript](https://juejin.cn/post/7339879352107761679) | Tue Feb 27 2024 6:38 AM 
     <details><summary>展开描述 ...</summary> 
-    开发excel必备，xlsx的使用方法和案例。创建excel，合并excel，拆分excel，excel转csv，excel转txt，excel转json，csv转excel，txt转excel 
+    一、JavaScript运行环境 1、简介 单线程，但是采用了事件驱动、异步 I/O 模型，可以处理高并发请求。 轻量级，使用 C++ 编写的 V8 引擎让 Node.js 的运行速度很快。 模块化， 
     </details> 
 
-- 💪 [BFG Repo-Cleaner，一行命令替换、删除、修改git提交记录？](https://juejin.cn/post/7339879352107204623) | Tue Feb 27 2024 5:46 AM 
+- 💪 [JVM第一课：如何阅读Class文件](https://juejin.cn/post/7339879352107745295) | Tue Feb 27 2024 6:36 AM 
     <details><summary>展开描述 ...</summary> 
-    BFG Repo-Cleaner是一个使用scal语言编写的开源工具，它提供更快更简单的方式操作git提交记录，它是`git filter-repo`一个有效替代工具，能够更轻松的完成任务。 
+    本文以 JDK8为例，讲解 Class 文件结构。 JDK 文档官网：docs.oracle.com/javase/8/ 前言 Oracle 有两个产品实现了 Java SE &lpar;Java Platfo 
     </details> 
 <!-- juejin:END -->
 ### 少数派
