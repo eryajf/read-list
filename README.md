@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [关于 jmb 芯片驱动的问题](https://www.v2ex.com/t/1018829#reply2) | Tue Feb 27 2024 7:06 AM
-- 🤗 [部门领导被踢，新团队解散，还在试用期。。](https://www.v2ex.com/t/1018800#reply7) | Tue Feb 27 2024 5:51 AM
-- 🎭 [淘宝、天猫、1688 为什么都在退化？](https://www.v2ex.com/t/1018792#reply10) | Tue Feb 27 2024 5:35 AM
-- 🥷 [大三求推荐合适的 Java 项目](https://www.v2ex.com/t/1018790#reply9) | Tue Feb 27 2024 5:34 AM
-- 🐵 [计算机经典书籍分享（全网质量最高，完全免费）](https://www.v2ex.com/t/1018772#reply20) | Tue Feb 27 2024 4:05 AM<!-- v2ex:END -->
+- 🥸 [转行程序员如何学习编译原理基础&lpar;就是语法语义分析不涉及很深&rpar;感觉太抽象了完全无法入手但是又有实际需求](https://www.v2ex.com/t/1018858#reply0) | Tue Feb 27 2024 8:13 AM
+- 🤗 [请问大家有没有自己特别喜欢的 RSS？一起来分享一下怎么样？每人推荐一个自己看的最频繁的](https://www.v2ex.com/t/1018849#reply2) | Tue Feb 27 2024 7:53 AM
+- 🎭 [notion 这样的多维数据表格底层应该怎么去设计模型](https://www.v2ex.com/t/1018841#reply0) | Tue Feb 27 2024 7:42 AM
+- 🥷 [关于 jmb 芯片驱动的问题](https://www.v2ex.com/t/1018829#reply3) | Tue Feb 27 2024 7:06 AM
+- 🐵 [部门领导被踢，新团队解散，还在试用期。。](https://www.v2ex.com/t/1018800#reply13) | Tue Feb 27 2024 5:51 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
