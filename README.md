@@ -709,13 +709,13 @@
      点点鼠标，按几个快捷键 笔记完成，记笔记从未如此简单  
     </details> 
 
-- 🦅 [Immersive Translate - 为 YouTube、Vimeo 等带来双语字幕](https://xinquji.com/posts/809336?utm_campaign=xinquji-rss) | Mon Feb 26 2024 6:00 AM 
+- 🦅 [Inline Help - 在客户提问之前回答他们的问题](https://xinquji.com/posts/809361?utm_campaign=xinquji-rss) | Tue Feb 27 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     为 YouTube、Vimeo 等带来双语字幕  
+     在客户提问之前回答他们的问题  
     </details> 
 
-- 😺 [Octomind - 在用户使用人工智能之前发现错误](https://xinquji.com/posts/809335?utm_campaign=xinquji-rss) | Mon Feb 26 2024 6:00 AM 
+- 😺 [Checkout Blocks - Shopify 结账，无限制](https://xinquji.com/posts/809360?utm_campaign=xinquji-rss) | Tue Feb 27 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     在用户使用人工智能之前发现错误  
+     Shopify 结账，无限制  
     </details> 
 <!-- xinquji:END -->
