@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Nest：配置静态资源和模块引擎](https://juejin.cn/post/7340156587722342452) | Tue Feb 27 2024 4:12 PM 
+- 🤗 [browserslist是什么？](https://juejin.cn/post/7340152660224720908) | Tue Feb 27 2024 4:31 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 在平常开发中，对于低版本浏览器的兼容问题，我们通常使用babel或者postcss进行处理，然而怎么确定浏览器兼容的版本，那么就需要背后的browserslist进行支持。 1. browser 
+    </details> 
+
+- 🎡 [Nest：配置静态资源和模块引擎](https://juejin.cn/post/7340156587722342452) | Tue Feb 27 2024 4:12 PM 
     <details><summary>展开描述 ...</summary> 
     本文详细介绍了如何在 Nest.js 中配置静态资源和模板引擎。实现静态资源的访问；设置虚拟目录以便通过自定义 URL，安装和配置 ejs 模板引擎，模板引擎如何与 POST 表单结合使用。 
     </details> 
 
-- 🎡 [Nest：REPL 控制台调试大法](https://juejin.cn/post/7340109700767481908) | Tue Feb 27 2024 4:08 PM 
+- 🕯 [Nest：REPL 控制台调试大法](https://juejin.cn/post/7340109700767481908) | Tue Feb 27 2024 4:08 PM 
     <details><summary>展开描述 ...</summary> 
     本文介绍了 Nest.js REPL 模式的概念、配置和使用方法。REPL 模式使得开发者可以在控制台中直接测试代码，避免了在浏览器中手动测试的繁琐过程。 
     </details> 
 
-- 🕯 [智能管理日常花销 — AI Coze打造个人财务小助手的全新体验（初版）](https://juejin.cn/post/7340152660224704524) | Tue Feb 27 2024 4:02 PM 
+- 🚀 [智能管理日常花销 — AI Coze打造个人财务小助手的全新体验（初版）](https://juejin.cn/post/7340152660224704524) | Tue Feb 27 2024 4:02 PM 
     <details><summary>展开描述 ...</summary> 
     背景介绍 今天，我利用AI Coze成功地打造了一款名为【花销小助手—贴心生活小管家】的智能工具。这款工具是我在探索与尝试的过程中诞生的，旨在搭建一个初始框架，为未来的持续改进和优化奠定基础。我期望通 
     </details> 
 
-- 🚀 [Nest：使用 ArgumentHost 和 ExecutionContext 统一处理多种服务类型](https://juejin.cn/post/7339905802072113178) | Tue Feb 27 2024 4:01 PM 
+- 💪 [Nest：使用 ArgumentHost 和 ExecutionContext 统一处理多种服务类型](https://juejin.cn/post/7339905802072113178) | Tue Feb 27 2024 4:01 PM 
     <details><summary>展开描述 ...</summary> 
     Nest 通过 ArgumentHost 和 ExecutionContext 类，允许开发者在不同类型的上下文中重用 Guards、Interceptors 和 Exception Filters。 
-    </details> 
-
-- 💪 [Nest：应用生命周期事件详解](https://juejin.cn/post/7339905802072096794) | Tue Feb 27 2024 3:57 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文介绍了 Nest.js 框架中的生命周期事件及其实现方式。包括模块初始化、模块销毁、应用程序启动、应用程序关闭前、应用程序关闭、以及请求处理（onRequest）。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
