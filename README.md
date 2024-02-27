@@ -311,19 +311,19 @@
     企业应该将红队测试纳入人工智能模型和应用程序的标准实践。 
     </details> 
 
-- 🦅 [ICO发布通知，禁止Serco Leisure公司使用面部识别技术记录员工出勤情况](https://www.freebuf.com/news/392579.html) | Mon Feb 26 2024 6:12 AM 
+- 🦅 [《2024年度邮件安全报告》：绕过安全电子邮件网关的恶意邮件增加了105%](https://www.freebuf.com/articles/paper/392602.html) | Mon Feb 26 2024 7:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    近日，电子邮件安全公司Cofense发布的《2024年度邮件安全报告》指出，在2023年，绕过安全电子邮件网关（SEG）的恶意电子邮件威胁增加了100%以上。 
+    </details> 
+
+- 🪄 [FreeBuf 早报 | 美国总统签署加强海事网络安全的行政命令；LockBit官宣复活](https://www.freebuf.com/news/392588.html) | Mon Feb 26 2024 6:39 AM 
+    <details><summary>展开描述 ...</summary> 
+    Microsoft将自动启用客户帐户中的日志，并将默认日志保留期从90天增加到180天。 
+    </details> 
+
+- 💻 [ICO发布通知，禁止Serco Leisure公司使用面部识别技术记录员工出勤情况](https://www.freebuf.com/news/392579.html) | Mon Feb 26 2024 6:12 AM 
     <details><summary>展开描述 ...</summary> 
     ICO表示，根据英国数据保护法条例，Serco Leisure在38个体育和休闲设施中非法处理了2000多名员工的生物识别数据。 
-    </details> 
-
-- 🪄 [某 PyPI 软件包出现异常更新，黑客利用其传播 Nova Sentinel 恶意软件](https://www.freebuf.com/news/392568.html) | Mon Feb 26 2024 5:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    研究人员发现，威胁攻击者利用其传播名为 Nova Sentinel 的信息窃取恶意软件。 
-    </details> 
-
-- 💻 [LockBit官宣复活，表示将更多针对政府部门](https://www.freebuf.com/news/392553.html) | Mon Feb 26 2024 3:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    2月24日，LockBit 宣布将恢复勒索软件业务，并威胁会将更多的攻击集中在政府部门。 
     </details> 
 <!-- freebuf:END -->
 
