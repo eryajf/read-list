@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [全新WiFi安全漏洞曝光，可能影响全球23亿安卓用户](https://www.freebuf.com/news/392660.html) | Tue Feb 27 2024 3:33 AM 
+- 🦄 [图片也带”毒“了？ 黑客使用新技术推送 Remcos RAT](https://www.freebuf.com/news/392677.html) | Tue Feb 27 2024 5:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    UAC-0184 威胁组织被趋势科技的研究人员首次观察到 ，主要针对乌克兰武装部队发起网络攻击。 
+    </details> 
+
+- 🦄 [针对数十年的内存相关漏洞，白宫发布新报告](https://www.freebuf.com/news/392666.html) | Tue Feb 27 2024 3:41 AM 
+    <details><summary>展开描述 ...</summary> 
+    自80年代以来，这种内存错误就一直存在。 
+    </details> 
+
+- 🦅 [全新WiFi安全漏洞曝光，可能影响全球23亿安卓用户](https://www.freebuf.com/news/392660.html) | Tue Feb 27 2024 3:33 AM 
     <details><summary>展开描述 ...</summary> 
     安全人员提醒用户应立即更新其软件，安卓用户需下载包含 wpa_supplicant 补丁的新安卓安全更新包。 
     </details> 
 
-- 🦄 [工信部：加大多方安全计算、数据溯源、商用密码等在工业领域试点应用](https://www.freebuf.com/news/392628.html) | Mon Feb 26 2024 8:40 AM 
+- 🪄 [工信部：加大多方安全计算、数据溯源、商用密码等在工业领域试点应用](https://www.freebuf.com/news/392628.html) | Mon Feb 26 2024 8:40 AM 
     <details><summary>展开描述 ...</summary> 
     《实施方案》是指导未来三年工业领域数据安全工作的纲领性规划文件。 
     </details> 
 
-- 🦅 [OWASP发布《AI大模型应用网络安全治理检查清单》](https://www.freebuf.com/articles/392622.html) | Mon Feb 26 2024 8:31 AM 
+- 💻 [OWASP发布《AI大模型应用网络安全治理检查清单》](https://www.freebuf.com/articles/392622.html) | Mon Feb 26 2024 8:31 AM 
     <details><summary>展开描述 ...</summary> 
     企业应该将红队测试纳入人工智能模型和应用程序的标准实践。 
-    </details> 
-
-- 🪄 [《2024年度邮件安全报告》：绕过安全电子邮件网关的恶意邮件增加了105%](https://www.freebuf.com/articles/paper/392602.html) | Mon Feb 26 2024 7:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    近日，电子邮件安全公司Cofense发布的《2024年度邮件安全报告》指出，在2023年，绕过安全电子邮件网关（SEG）的恶意电子邮件威胁增加了100%以上。 
-    </details> 
-
-- 💻 [FreeBuf 早报 | 美国总统签署加强海事网络安全的行政命令；LockBit官宣复活](https://www.freebuf.com/news/392588.html) | Mon Feb 26 2024 6:39 AM 
-    <details><summary>展开描述 ...</summary> 
-    Microsoft将自动启用客户帐户中的日志，并将默认日志保留期从90天增加到180天。 
     </details> 
 <!-- freebuf:END -->
 
