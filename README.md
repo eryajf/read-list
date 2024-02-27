@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2.27美团前端大群讨论片段——如何增大一个换行元素的点击区域](https://juejin.cn/post/7340167256267767844) | Tue Feb 27 2024 2:11 PM 
+- 🤗 [Next.js 14 中通过优化图像增强用户体验](https://juejin.cn/post/7339905802071965722) | Tue Feb 27 2024 3:00 PM 
+    <details><summary>展开描述 ...</summary> 
+    探讨 &lt;Image /&gt; 组件的主要功能，然后，将探讨 &lt;Image /&gt; 组件如何在后台执行优化，以及进一步优化图像的其他方法。 
+    </details> 
+
+- 🎡 [提升 Node.js 服务端性能：Fastify 框架](https://juejin.cn/post/7340109700767154228) | Tue Feb 27 2024 2:59 PM 
+    <details><summary>展开描述 ...</summary> 
+    1. fastify Fastify 是一个高效且快速的 Node.js web 框架，专为提供最佳的性能而设计。它是相对较新的，但已经因其高性能和低开销而受到许多开发者的欢迎。Fastify 提供了 
+    </details> 
+
+- 🕯 [深入理解 Java 修饰符与封装：访问权限、行为控制与数据隐藏](https://juejin.cn/post/7340156587722047540) | Tue Feb 27 2024 2:58 PM 
+    <details><summary>展开描述 ...</summary> 
+    Java 修饰符 Java 修饰符 用于控制类、属性、方法和构造函数的访问权限和行为。它们可以分为两组： 访问修饰符: public: 意味着代码对所有类可访问。 private: 意味着代码只能在声 
+    </details> 
+
+- 🚀 [V8 引擎新特性——静态根：具有编译时常量地址的对象](https://juejin.cn/post/7340109700767023156) | Tue Feb 27 2024 2:17 PM 
+    <details><summary>展开描述 ...</summary> 
+    V8的“静态根”功能允许通过在编译时预测它们的内存地址来快速访问这些对象。例如，以0x61结尾的地址表示一个undefined对象。这种优化在Chrome 111中引入，提高了V8引擎的性能... 
+    </details> 
+
+- 💪 [2.27美团前端大群讨论片段——如何增大一个换行元素的点击区域](https://juejin.cn/post/7340167256267767844) | Tue Feb 27 2024 2:11 PM 
     <details><summary>展开描述 ...</summary> 
     需求背景 团子有个大前端群，里面大家会提发现的美团的bug、交流技术方案等等，今天有个大佬在群里发了一个非常常见的需求场景以及遇到的问题： 集思广益很快就有了多种思路： 直至最后一个方案出现完成统一～ 
-    </details> 
-
-- 🎡 [一款高温型霍尔效应传感器](https://juejin.cn/post/7340076087248551970) | Tue Feb 27 2024 2:09 PM 
-    <details><summary>展开描述 ...</summary> 
-    一、产品概述 HAL443A单极性霍尔位置传感器是由内部电压稳压器、霍尔电压发生器、差分 放大器、温度补偿单 元、施密特触发器和集 电极开路输出级组成的磁敏传感电路，其输入为磁感应强度，输出是一个数字 
-    </details> 
-
-- 🕯 [老师又来活了，用coze快速搭建一个读书机器人](https://juejin.cn/post/7340156047338930214) | Tue Feb 27 2024 1:18 PM 
-    <details><summary>展开描述 ...</summary> 
-    一个家长，一个老师，一个学生 天天斗智斗勇，老师总说家长是第一导师 家长天天加班，咋办呢，找个免费导师帮忙把 
-    </details> 
-
-- 🚀 [Android ViewPager切换动画](https://juejin.cn/post/7340127788053184549) | Tue Feb 27 2024 1:12 PM 
-    <details><summary>展开描述 ...</summary> 
-    有时候我们做fragment切换或者一些控件切换做衔接动画，想要比较方便的实现，其实ViewPager就提供了切换动画的方法，而且使用起来也十分的方便，扩展性还很不错. 
-    </details> 
-
-- 💪 [深入浅出-高性能低延迟消息传递框架-Disruptor](https://juejin.cn/post/7340156047338799142) | Tue Feb 27 2024 12:56 PM 
-    <details><summary>展开描述 ...</summary> 
-    说到Disruptor，咱们首先要了解它的核心组件：Ring Buffer。这不是一般的队列，而是一种环形的数据结构，能高效地在生产者和消费者之间传递数据。它的特点是预先分配固定数量的元素空间，这就减 
     </details> 
 <!-- juejin:END -->
 ### 少数派
