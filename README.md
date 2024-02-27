@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Next.js 14 中通过优化图像增强用户体验](https://juejin.cn/post/7339905802071965722) | Tue Feb 27 2024 3:00 PM 
+- 🤗 [Nest：配置静态资源和模块引擎](https://juejin.cn/post/7340156587722342452) | Tue Feb 27 2024 4:12 PM 
     <details><summary>展开描述 ...</summary> 
-    探讨 &lt;Image /&gt; 组件的主要功能，然后，将探讨 &lt;Image /&gt; 组件如何在后台执行优化，以及进一步优化图像的其他方法。 
+    本文详细介绍了如何在 Nest.js 中配置静态资源和模板引擎。实现静态资源的访问；设置虚拟目录以便通过自定义 URL，安装和配置 ejs 模板引擎，模板引擎如何与 POST 表单结合使用。 
     </details> 
 
-- 🎡 [提升 Node.js 服务端性能：Fastify 框架](https://juejin.cn/post/7340109700767154228) | Tue Feb 27 2024 2:59 PM 
+- 🎡 [Nest：REPL 控制台调试大法](https://juejin.cn/post/7340109700767481908) | Tue Feb 27 2024 4:08 PM 
     <details><summary>展开描述 ...</summary> 
-    1. fastify Fastify 是一个高效且快速的 Node.js web 框架，专为提供最佳的性能而设计。它是相对较新的，但已经因其高性能和低开销而受到许多开发者的欢迎。Fastify 提供了 
+    本文介绍了 Nest.js REPL 模式的概念、配置和使用方法。REPL 模式使得开发者可以在控制台中直接测试代码，避免了在浏览器中手动测试的繁琐过程。 
     </details> 
 
-- 🕯 [深入理解 Java 修饰符与封装：访问权限、行为控制与数据隐藏](https://juejin.cn/post/7340156587722047540) | Tue Feb 27 2024 2:58 PM 
+- 🕯 [智能管理日常花销 — AI Coze打造个人财务小助手的全新体验（初版）](https://juejin.cn/post/7340152660224704524) | Tue Feb 27 2024 4:02 PM 
     <details><summary>展开描述 ...</summary> 
-    Java 修饰符 Java 修饰符 用于控制类、属性、方法和构造函数的访问权限和行为。它们可以分为两组： 访问修饰符: public: 意味着代码对所有类可访问。 private: 意味着代码只能在声 
+    背景介绍 今天，我利用AI Coze成功地打造了一款名为【花销小助手—贴心生活小管家】的智能工具。这款工具是我在探索与尝试的过程中诞生的，旨在搭建一个初始框架，为未来的持续改进和优化奠定基础。我期望通 
     </details> 
 
-- 🚀 [V8 引擎新特性——静态根：具有编译时常量地址的对象](https://juejin.cn/post/7340109700767023156) | Tue Feb 27 2024 2:17 PM 
+- 🚀 [Nest：使用 ArgumentHost 和 ExecutionContext 统一处理多种服务类型](https://juejin.cn/post/7339905802072113178) | Tue Feb 27 2024 4:01 PM 
     <details><summary>展开描述 ...</summary> 
-    V8的“静态根”功能允许通过在编译时预测它们的内存地址来快速访问这些对象。例如，以0x61结尾的地址表示一个undefined对象。这种优化在Chrome 111中引入，提高了V8引擎的性能... 
+    Nest 通过 ArgumentHost 和 ExecutionContext 类，允许开发者在不同类型的上下文中重用 Guards、Interceptors 和 Exception Filters。 
     </details> 
 
-- 💪 [2.27美团前端大群讨论片段——如何增大一个换行元素的点击区域](https://juejin.cn/post/7340167256267767844) | Tue Feb 27 2024 2:11 PM 
+- 💪 [Nest：应用生命周期事件详解](https://juejin.cn/post/7339905802072096794) | Tue Feb 27 2024 3:57 PM 
     <details><summary>展开描述 ...</summary> 
-    需求背景 团子有个大前端群，里面大家会提发现的美团的bug、交流技术方案等等，今天有个大佬在群里发了一个非常常见的需求场景以及遇到的问题： 集思广益很快就有了多种思路： 直至最后一个方案出现完成统一～ 
+    本文介绍了 Nest.js 框架中的生命周期事件及其实现方式。包括模块初始化、模块销毁、应用程序启动、应用程序关闭前、应用程序关闭、以及请求处理（onRequest）。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
