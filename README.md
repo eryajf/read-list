@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [全新WiFi安全漏洞曝光，可能影响全球23亿安卓用户](https://www.freebuf.com/news/392660.html) | Tue Feb 27 2024 3:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    安全人员提醒用户应立即更新其软件，安卓用户需下载包含 wpa_supplicant 补丁的新安卓安全更新包。 
+    </details> 
+
 - 🦄 [工信部：加大多方安全计算、数据溯源、商用密码等在工业领域试点应用](https://www.freebuf.com/news/392628.html) | Mon Feb 26 2024 8:40 AM 
     <details><summary>展开描述 ...</summary> 
     《实施方案》是指导未来三年工业领域数据安全工作的纲领性规划文件。 
     </details> 
 
-- 🦄 [OWASP发布《AI大模型应用网络安全治理检查清单》](https://www.freebuf.com/articles/392622.html) | Mon Feb 26 2024 8:31 AM 
+- 🦅 [OWASP发布《AI大模型应用网络安全治理检查清单》](https://www.freebuf.com/articles/392622.html) | Mon Feb 26 2024 8:31 AM 
     <details><summary>展开描述 ...</summary> 
     企业应该将红队测试纳入人工智能模型和应用程序的标准实践。 
     </details> 
 
-- 🦅 [《2024年度邮件安全报告》：绕过安全电子邮件网关的恶意邮件增加了105%](https://www.freebuf.com/articles/paper/392602.html) | Mon Feb 26 2024 7:25 AM 
+- 🪄 [《2024年度邮件安全报告》：绕过安全电子邮件网关的恶意邮件增加了105%](https://www.freebuf.com/articles/paper/392602.html) | Mon Feb 26 2024 7:25 AM 
     <details><summary>展开描述 ...</summary> 
     近日，电子邮件安全公司Cofense发布的《2024年度邮件安全报告》指出，在2023年，绕过安全电子邮件网关（SEG）的恶意电子邮件威胁增加了100%以上。 
     </details> 
 
-- 🪄 [FreeBuf 早报 | 美国总统签署加强海事网络安全的行政命令；LockBit官宣复活](https://www.freebuf.com/news/392588.html) | Mon Feb 26 2024 6:39 AM 
+- 💻 [FreeBuf 早报 | 美国总统签署加强海事网络安全的行政命令；LockBit官宣复活](https://www.freebuf.com/news/392588.html) | Mon Feb 26 2024 6:39 AM 
     <details><summary>展开描述 ...</summary> 
     Microsoft将自动启用客户帐户中的日志，并将默认日志保留期从90天增加到180天。 
-    </details> 
-
-- 💻 [ICO发布通知，禁止Serco Leisure公司使用面部识别技术记录员工出勤情况](https://www.freebuf.com/news/392579.html) | Mon Feb 26 2024 6:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    ICO表示，根据英国数据保护法条例，Serco Leisure在38个体育和休闲设施中非法处理了2000多名员工的生物识别数据。 
     </details> 
 <!-- freebuf:END -->
 
