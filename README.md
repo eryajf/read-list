@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [寻求支持 Android Auto 的国产地图软件](https://www.v2ex.com/t/1018938#reply1) | Tue Feb 27 2024 1:30 PM
-- 🤗 [请教大佬们一个关于 flask 的缓存问题？](https://www.v2ex.com/t/1018932#reply7) | Tue Feb 27 2024 12:45 PM
-- 🎭 [大学生 3000 预算应该选择 iPad 还是 macbook](https://www.v2ex.com/t/1018931#reply16) | Tue Feb 27 2024 12:42 PM
-- 🥷 [大家有什么好的备用安卓手机推荐吗？预算 1000 以内，可以二手](https://www.v2ex.com/t/1018925#reply0) | Tue Feb 27 2024 12:07 PM
-- 🐵 [如何实现检查一个大 txt 文件里数据是否重复的功能](https://www.v2ex.com/t/1018916#reply10) | Tue Feb 27 2024 11:28 AM<!-- v2ex:END -->
+- 🥸 [telegra 安全问题](https://www.v2ex.com/t/1018956#reply0) | Tue Feb 27 2024 3:01 PM
+- 🤗 [Google One AI Premium 不能家人共享](https://www.v2ex.com/t/1018951#reply0) | Tue Feb 27 2024 2:28 PM
+- 🎭 [Xcode 编写 swiftui 的时候如何回车的时候，自动完成尾随闭包？](https://www.v2ex.com/t/1018949#reply0) | Tue Feb 27 2024 2:20 PM
+- 🥷 [寻求支持 Android Auto 的国产地图软件](https://www.v2ex.com/t/1018938#reply2) | Tue Feb 27 2024 1:30 PM
+- 🐵 [请教大佬们一个关于 flask 的缓存问题？](https://www.v2ex.com/t/1018932#reply7) | Tue Feb 27 2024 12:45 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
