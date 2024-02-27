@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Xcode 15 查看方法调用者方式有所改变](https://juejin.cn/post/7340077302431154195) | Tue Feb 27 2024 4:58 AM 
+- 🤗 [从背锅到炒鱿鱼，但仍然值](https://juejin.cn/post/7339835849961586729) | Tue Feb 27 2024 6:02 AM 
     <details><summary>展开描述 ...</summary> 
-    这里每天分享一个 iOS 的新知识，快来关注我吧 前言 之前写过一篇 Xcode 快速查看函数调用者的文章，其中的查看技巧在 Xcode 15 中有了一些变化，今天来同步一下。 Xcode 15 之前 
+    在日常开发中，背锅常常有。如果避无可避，那是否可以选择一些值得背的锅？本文是本人从背锅到炒鱿鱼的背锅经验分享。 
     </details> 
 
-- 🎡 [蔡崇信：阿里已重返中国顶级电商轨道；小米汽车最快二季度交付；微软Copilot推出多个定制GPT模型 | 极客头条](https://juejin.cn/post/7340077302431088659) | Tue Feb 27 2024 4:39 AM 
+- 🎡 [我如何使用Coze来分析掘金热榜数据 | Coze插件开发](https://juejin.cn/post/7340077302431399955) | Tue Feb 27 2024 5:57 AM 
     <details><summary>展开描述 ...</summary> 
-    稀土掘金 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。 一分钟速览新闻点！ 小米汽车：最快二季度交付，未来也有可能在海外上市 华为重磅发布三大全光创新产品 
+    掘金热榜想必大家会偶尔扫一扫，看看感兴趣的进行进一步阅读。如何让Coze也能读取热榜数据并进一步分析呢？本文会告诉你答案。 
     </details> 
 
-- 🕯 [2024年令人眼前一亮的Web框架](https://juejin.cn/post/7339830464000213027) | Tue Feb 27 2024 3:49 AM 
+- 🕯 [实现前端中隔线滑动对比预览效果](https://juejin.cn/post/7339830464000639011) | Tue Feb 27 2024 5:47 AM 
     <details><summary>展开描述 ...</summary> 
-    介绍 2024年正向我们走来，我们怀着满腔热情为新的一年制定计划，探索未来一年可以学习或实现的目标。此时此刻，正是探寻来年值得学习的框架、理解其功能和特色的最佳时刻。我们以2023年JS 新星名单为指 
+    通过拖动中隔线，可以动态地改变两边的对比区域的比例。常用于在网站中对比产品性能、产品设计，给用户直观的感受。 
     </details> 
 
-- 🚀 [Apifox 最新功能：更新增加参数列表可视化定制、Header 编辑与自动化测试的持续优化](https://juejin.cn/post/7339830464000180259) | Tue Feb 27 2024 3:46 AM 
+- 🚀 [开发excel必备，xlsx的使用方法和案例](https://juejin.cn/post/7339827208087289892) | Tue Feb 27 2024 5:47 AM 
     <details><summary>展开描述 ...</summary> 
-    Apifox 新版本上线啦！ 看看本次版本更新主要涵盖的重点内容，有没有你所关注的功能特性： 支持切换参数列表外观 预设常用参数的中文名和说明 支持修改自动生成的 Header 自动化测试 持续优化  
+    开发excel必备，xlsx的使用方法和案例。创建excel，合并excel，拆分excel，excel转csv，excel转txt，excel转json，csv转excel，txt转excel 
     </details> 
 
-- 💪 [Service Worker：离线应用与后台同步的解决方案](https://juejin.cn/post/7339807020370378787) | Tue Feb 27 2024 3:45 AM 
+- 💪 [BFG Repo-Cleaner，一行命令替换、删除、修改git提交记录？](https://juejin.cn/post/7339879352107204623) | Tue Feb 27 2024 5:46 AM 
     <details><summary>展开描述 ...</summary> 
-    Service Worker是一个非常强大的功能，除了以上介绍的离线缓存和后台同步功能，还可以通过SW实现消息推送、多页面通信等等功能。 
+    BFG Repo-Cleaner是一个使用scal语言编写的开源工具，它提供更快更简单的方式操作git提交记录，它是`git filter-repo`一个有效替代工具，能够更轻松的完成任务。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
