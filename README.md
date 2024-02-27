@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [转行程序员如何学习编译原理基础&lpar;就是语法语义分析不涉及很深&rpar;感觉太抽象了完全无法入手但是又有实际需求](https://www.v2ex.com/t/1018858#reply0) | Tue Feb 27 2024 8:13 AM
-- 🤗 [请问大家有没有自己特别喜欢的 RSS？一起来分享一下怎么样？每人推荐一个自己看的最频繁的](https://www.v2ex.com/t/1018849#reply2) | Tue Feb 27 2024 7:53 AM
-- 🎭 [notion 这样的多维数据表格底层应该怎么去设计模型](https://www.v2ex.com/t/1018841#reply0) | Tue Feb 27 2024 7:42 AM
-- 🥷 [关于 jmb 芯片驱动的问题](https://www.v2ex.com/t/1018829#reply3) | Tue Feb 27 2024 7:06 AM
-- 🐵 [部门领导被踢，新团队解散，还在试用期。。](https://www.v2ex.com/t/1018800#reply13) | Tue Feb 27 2024 5:51 AM<!-- v2ex:END -->
+- 🥸 [单词本数据批量导入功能来了🫶](https://www.v2ex.com/t/1018884#reply0) | Tue Feb 27 2024 9:08 AM
+- 🤗 [两种 sql 查询方式选择](https://www.v2ex.com/t/1018874#reply2) | Tue Feb 27 2024 8:54 AM
+- 🎭 [这是我的手机，你凭什么要卡！](https://www.v2ex.com/t/1018871#reply1) | Tue Feb 27 2024 8:47 AM
+- 🥷 [安装报失败 INSTALL FAILED INVALID APK 求解正常安装软件的姿势 in 车机](https://www.v2ex.com/t/1018870#reply4) | Tue Feb 27 2024 8:42 AM
+- 🐵 [日经求推荐备用机，纯备用，除了丢家里接短信、挂微信小号外，无任何多余用途](https://www.v2ex.com/t/1018862#reply5) | Tue Feb 27 2024 8:26 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
