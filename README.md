@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [盘点几个 input 标签鲜为人知的 HTML 属性](https://juejin.cn/post/7339924521783951375) | Tue Feb 27 2024 9:09 AM 
+- 🤗 [日常工作知识盘点（一）：正则表达式](https://juejin.cn/post/7340120569029869620) | Tue Feb 27 2024 10:00 AM 
     <details><summary>展开描述 ...</summary> 
-    聚焦几个 input 标签鲜为人知的 HTML 属性，包括 inputmode、multiple、enterkeyhint 和 list。这些属性可能并不为大多数人使用，但它们却能为表单交互增添便利 
+    工作中常用的知识是我们应付日常工作的利器，本系列文章将盘点一下工作中常用的知识（那种拿来就能用的）。本文为该系列第一篇：正则表达式。正则表达式的学习需要一定的练习和实践，但一旦掌握，它 
     </details> 
 
-- 🎡 [Apache HttpClient使用和源码分析](https://juejin.cn/post/7340085399953670156) | Tue Feb 27 2024 9:07 AM 
+- 🎡 [快速分享项目报价和进度给客户-3分钟搞定研发](https://juejin.cn/post/7339892484334911525) | Tue Feb 27 2024 9:55 AM 
     <details><summary>展开描述 ...</summary> 
-    从源码学习Apache HttpClient是如何封装httpClient的，以及用法，学习其中的设计模式 
+    前言 如果你是一位项目经理、创业老板或是产品经理，在日常项目研发过程中，如果需要分享项目进度、项目报价、需求进度、需求报价、工单处理结果给外部的客户，推荐使用YesDev的【分享给客户】这一功能。 
     </details> 
 
-- 🕯 [Kepler 参数化查询优化方法](https://juejin.cn/post/7340084472332959755) | Tue Feb 27 2024 9:00 AM 
+- 🕯 [谷歌发布世界模型，能生成可交互虚拟世界；华为发布全球首个 5.5G 智能核心网丨 RTE 开发者日报 Vol.152](https://juejin.cn/post/7340120569029787700) | Tue Feb 27 2024 9:47 AM 
     <details><summary>展开描述 ...</summary> 
-    一种端到端的、基于深度学习的参数化查询优化方法，名为 Kepler 。它通过一种新颖的候选计划生成算法以及鲁棒的深度学习模型来实现查询性能上的明显提升。 
+    因禁用 PWA 应用，欧盟正考虑对苹果发起反垄断调查、SpaceX 首次通过星链 从太空向社交平台 X 上发帖 
     </details> 
 
-- 🚀 [最全面又最浅显易懂的Langchain快速上手教程（上）](https://juejin.cn/post/7340093152862076928) | Tue Feb 27 2024 8:54 AM 
+- 🚀 [Rxjs入门指南](https://juejin.cn/post/7340084472333107211) | Tue Feb 27 2024 9:29 AM 
     <details><summary>展开描述 ...</summary> 
-    随着GPT模型的问世，大语言模型（LLM）时代已经来临。LLM的出现，使得人工智能在语言处理方面的能力得到了极大的提升。Langchain作为一个面向后端开发者的框架，旨在帮助开发者快速上手 
+    Rxjs,JavaScript的响应式扩展库，是一个基于可观察序列的库，用于处理异步事件和编写基于事件驱动的程序。，提供了丰富的操作符和工具，用于处理和组合异步数据流。现在我带大家一起快速入门！ 
     </details> 
 
-- 💪 [大厂面试常考css总结](https://juejin.cn/post/7340109872383787071) | Tue Feb 27 2024 8:50 AM 
+- 💪 [Rust异步编程 Async Await 入门](https://juejin.cn/post/7340071895008526374) | Tue Feb 27 2024 9:27 AM 
     <details><summary>展开描述 ...</summary> 
-    css在大厂的面试时不是重点考点，面试官心情好了问一个简直就是给你送分，这里总结了大厂近几年面试常问的css考点，一篇就可以搞定你对面试有关css的担忧。 1.说说你对css盒模型的理解 是什么？ 浏 
+    Rust Async Await 入门 在本文中，我们将仔细研究 Rust 中的异步编程。到目前为止，我对 Rust 异步的体验主要是从 Stack Overflow 复制代码。本文旨在帮助您了解什么 
     </details> 
 <!-- juejin:END -->
 ### 少数派
