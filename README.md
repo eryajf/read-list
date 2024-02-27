@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [maven 总是无法正确导入依赖问题求解答](https://www.v2ex.com/t/1018669#reply5) | Mon Feb 26 2024 9:30 PM
-- 🤗 [有关邮箱地址伪造，有没有大佬来个科普](https://www.v2ex.com/t/1018667#reply14) | Mon Feb 26 2024 6:00 PM
-- 🎭 [解决了小米手机谷歌地图没方向的问题](https://www.v2ex.com/t/1018664#reply3) | Mon Feb 26 2024 5:46 PM
-- 🥷 [想考 CCNA + RHCE 求指点](https://www.v2ex.com/t/1018656#reply13) | Mon Feb 26 2024 3:32 PM
-- 🐵 [公司要求发一篇专利，没啥好思路呀](https://www.v2ex.com/t/1018651#reply6) | Mon Feb 26 2024 2:57 PM<!-- v2ex:END -->
+- 🥸 [人生第二个网站又被判断为低价值网站[捂脸]](https://www.v2ex.com/t/1018710#reply0) | Tue Feb 27 2024 2:12 AM
+- 🤗 [关于工作抉择上的事，向各位老哥求个意见](https://www.v2ex.com/t/1018709#reply2) | Tue Feb 27 2024 2:12 AM
+- 🎭 [没有备份， sql server 2008 使用 drop database 删除了数据库还有救吗？需不需要提桶跑路](https://www.v2ex.com/t/1018707#reply0) | Tue Feb 27 2024 2:11 AM
+- 🥷 [如果手贱删除 Windows 的恢复分区，可能导致某些安全更新安装失败](https://www.v2ex.com/t/1018702#reply4) | Tue Feb 27 2024 2:07 AM
+- 🐵 [技术贴！ Windows 怎么隐藏进程 不让杀毒软件和任务管理器识别到呢？](https://www.v2ex.com/t/1018697#reply1) | Tue Feb 27 2024 1:58 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
