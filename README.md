@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派评 | 近期值得关注的 App](https://sspai.com/post/86685) | Mon Feb 26 2024 9:52 AM 
+- 👹 [派早报：AI-RAN 联盟成立，高通发布骁龙 X80 基带等](https://sspai.com/post/86693) | Tue Feb 27 2024 12:20 AM 
+    <details><summary>展开描述 ...</summary> 
+    汉王 Clear 6 电纸书上架，SSE 4.2 指令集扩展加入 Windows 11 兼容检测步骤等&lt;a href=&quot;https://sspai.com/post/86693&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派评 | 近期值得关注的 App](https://sspai.com/post/86685) | Mon Feb 26 2024 9:52 AM 
     <details><summary>展开描述 ...</summary> 
     你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。&lt;a href=&quot;https://sspai.com/post/86685&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [年度征文｜新手家庭财务初探](https://sspai.com/post/86627) | Mon Feb 26 2024 7:00 AM 
+- 🤭 [年度征文｜新手家庭财务初探](https://sspai.com/post/86627) | Mon Feb 26 2024 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     搭伙过日子，就要通过协商和更多方面的考虑来构建合伙模式。本文仅以一个小例子作为阐述，也是对 2023 年身份转变后，个人对家庭财务思考的总结。&lt;a href=&quot;https://sspai.com/post/86627&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [用不明白 Office 的第 365 天，微软请的「小帮手」能帮上忙吗？](https://sspai.com/post/86677) | Mon Feb 26 2024 3:41 AM 
+- 🥸 [用不明白 Office 的第 365 天，微软请的「小帮手」能帮上忙吗？](https://sspai.com/post/86677) | Mon Feb 26 2024 3:41 AM 
     <details><summary>展开描述 ...</summary> 
     能，但 Office 里的 Copilot 还有很大的提升空间。&lt;a href=&quot;https://sspai.com/post/86677&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;br /&gt;&lt;div&gt;&lt;a href=&quot;https://sspai.com/a//a/Kx79&quot;&gt;&lt;img src=&quot;https://cdn.sspai.com/2/26/2024/article/1d3e3a4f-7932-dd03-9c87-b42ad4c105d4.png&quot; /&gt;&lt;/a&gt;&lt;/div&gt; 
     </details> 
 
-- 🥸 [派早报：Reddit 申请上市，Vision Pro 零部件成本约为 1542 美元](https://sspai.com/post/86668) | Mon Feb 26 2024 12:49 AM 
+- 🙉 [派早报：Reddit 申请上市，Vision Pro 零部件成本约为 1542 美元](https://sspai.com/post/86668) | Mon Feb 26 2024 12:49 AM 
     <details><summary>展开描述 ...</summary> 
     你可能错过的新鲜事Reddit申请上市2月22日，美国访问量最大的网站之一、在线论坛服务Reddit向美国证券交易委员会（SEC）递交上市申请，计划三月在纽交所上市，代码为RDDT。这将是今年美国大型 ...&lt;a href=&quot;https://sspai.com/post/86668&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [年度征文｜数字无业游民的自我「和解」](https://sspai.com/post/86421) | Sun Feb 25 2024 7:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    2023 年，我给自己放了一年的假。&lt;a href=&quot;https://sspai.com/post/86421&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
