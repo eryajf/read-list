@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0228](http://jandan.net/p/115745) | Tue Feb 27 2024 11:07 PM 
+- 🚀 [小米豪赌电车，瞄准2000万高端用户](http://jandan.net/p/115748) | Wed Feb 28 2024 7:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    小米在中国拥有2000万高端智能手机用户 
+    </details> 
+
+- 🙉 [苹果十年电动车项目搁浅，转向人工智能领域](http://jandan.net/p/115747) | Wed Feb 28 2024 7:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    押注未来发展 
+    </details> 
+
+- 🎉 [今日好价 0228](http://jandan.net/p/115745) | Tue Feb 27 2024 11:07 PM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：51 
     </details> 
 
-- 🙉 [因太信任谷歌地图，两位德国游客迷失在澳洲荒野](http://jandan.net/p/115740) | Tue Feb 27 2024 11:05 PM 
+- 🐲 [因太信任谷歌地图，两位德国游客迷失在澳洲荒野](http://jandan.net/p/115740) | Tue Feb 27 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
     越来越多的驾驶者依赖应用程序导航 
     </details> 
 
-- 🎉 [加拿大律师因引用ChatGPT编造的虚假案例受罚](http://jandan.net/p/115738) | Tue Feb 27 2024 11:03 PM 
+-  [加拿大律师因引用ChatGPT编造的虚假案例受罚](http://jandan.net/p/115738) | Tue Feb 27 2024 11:03 PM 
     <details><summary>展开描述 ...</summary> 
     AI又无中生有了 
-    </details> 
-
-- 🐲 [超级太阳风暴可能对地球造成怎样的影响](http://jandan.net/p/115739) | Tue Feb 27 2024 11:02 PM 
-    <details><summary>展开描述 ...</summary> 
-    可能对地球上的许多关键基础设施造成严重破坏 
-    </details> 
-
--  [新冠后的心脏病死亡激增，令科学家困惑](http://jandan.net/p/115741) | Tue Feb 27 2024 11:01 PM 
-    <details><summary>展开描述 ...</summary> 
-    新冠病毒可以直接感染某些心脏组织，包括冠状动脉 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
