@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [微软的免费内网穿透，感觉还不错](https://www.v2ex.com/t/1019171#reply0) | Wed Feb 28 2024 8:05 AM
-- 🤗 [推荐各位利用 ollama 在自有电脑上跑大模型，使用非常方便](https://www.v2ex.com/t/1019170#reply2) | Wed Feb 28 2024 8:02 AM
-- 🎭 [谷歌搜索时政信息如何过滤掉国内信息源？](https://www.v2ex.com/t/1019149#reply9) | Wed Feb 28 2024 7:22 AM
-- 🥷 [PowerShell 实现 RDP 远程桌面防火墙](https://www.v2ex.com/t/1019147#reply6) | Wed Feb 28 2024 7:16 AM
-- 🐵 [oneplus7pro（GM1910）刷最新 lineage OS21 打开代理软件 clash 和 surfboard 国内外网站都不能访问](https://www.v2ex.com/t/1019142#reply0) | Wed Feb 28 2024 7:06 AM<!-- v2ex:END -->
+- 🥸 [兄弟们， JS/TS 里字符串用 单引号 or 双引号呢？ 你们公司对这个有规范吗？](https://www.v2ex.com/t/1019197#reply0) | Wed Feb 28 2024 9:11 AM
+- 🤗 [今天备案 APP 发现限制又增加了](https://www.v2ex.com/t/1019192#reply2) | Wed Feb 28 2024 9:01 AM
+- 🎭 [兄弟们，我已经转行做家具贴膜了](https://www.v2ex.com/t/1019182#reply12) | Wed Feb 28 2024 8:30 AM
+- 🥷 [SRE.News Daily Tech News Summary in 2 minutes](https://www.v2ex.com/t/1019176#reply0) | Wed Feb 28 2024 8:19 AM
+- 🐵 [微软的免费内网穿透，感觉还不错](https://www.v2ex.com/t/1019171#reply5) | Wed Feb 28 2024 8:05 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
