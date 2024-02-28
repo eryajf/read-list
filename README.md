@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [WebGL实战篇（十七）—— PBR材质之直接光照](https://juejin.cn/post/7340301649766006825) | Wed Feb 28 2024 3:31 AM 
+- 🤗 [人生第一次面试  海康](https://juejin.cn/post/7340295805998497826) | Wed Feb 28 2024 5:11 AM 
     <details><summary>展开描述 ...</summary> 
-    今天的话题是PBR材质，PBR材质的全称是 Physical Based Rendering 基于物理的渲染。之前正是看到了PBR材质在电脑上令人惊叹的表现才引起了我对于渲染的浓厚兴趣 
+    大家好！ 我叫扯蛋蛋 ，前几天我带着玩玩的心态着投了些简历，结果还有一个比较大点的公司，通过我的简历约到啦面试，听着我的前端领路人讲述面试官的过程，面试前我内心十分害怕，紧张万分。说实话，面试是很遥远 
     </details> 
 
-- 🎡 [一次Mybaits查询的源码分析](https://juejin.cn/post/7340196657881972799) | Wed Feb 28 2024 3:25 AM 
+- 🎡 [Linux上如何抓取HTTPS流量](https://juejin.cn/post/7340295805998465058) | Wed Feb 28 2024 5:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    实际上生产环境中我们存在大量的业务请求都走的HTTPS，那么如何抓取调用下游的请求成了问题！如果是HTTP还行，你这HTTPS呢，能用tcpdump抓但是我们没有证书的私钥哇解不了。 
+    </details> 
+
+- 🕯 [深入理解Spring Security](https://juejin.cn/post/7340204792811274249) | Wed Feb 28 2024 4:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    大家好，我是小黑，在谈到网站安全的时候，Spring Security是个避不开的话题。它就像是个守门员，决定谁能进入我们的网站，又能在网站的哪些角落里走动。简单来说，Spring Security负 
+    </details> 
+
+- 🚀 [面试题：使用css完成视差滚动效果](https://juejin.cn/post/7340204792811175945) | Wed Feb 28 2024 4:21 AM 
+    <details><summary>展开描述 ...</summary> 
+    网页设计中，视差滚动效果可以为用户带来沉浸式的浏览体验。本文将详细介绍如何使用 CSS 来实现视差滚动效果。 视差滚动效果的原理 视差滚动效果的原理是利用不同速度的滚动来创建深度感。在网页设计 
+    </details> 
+
+- 💪 [一次Mybaits查询的源码分析](https://juejin.cn/post/7340196657881972799) | Wed Feb 28 2024 3:25 AM 
     <details><summary>展开描述 ...</summary> 
     很好奇Mybaits是怎么将xml和mapper对应起来的，用一段比较简单的demo去debug追踪一下源码看看 
-    </details> 
-
-- 🕯 [Spring AOP = 责任链模式 + 代理模式](https://juejin.cn/post/7340301649765793833) | Wed Feb 28 2024 3:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    AOP是Spring的一个核心卖点。今天这篇文章让我们从设计模式的角度拆解AOP底层原理，自己动手造一个AOP。 
-    </details> 
-
-- 🚀 [轻松入门MySQL：深入探究MySQL的ER模型，数据库设计的利器与挑战（22）](https://juejin.cn/post/7340236465844011062) | Wed Feb 28 2024 3:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    MySQL的ER模型（实体-关系模型）是一种用于描述数据库结构的图形化工具，它基于实体（Entity）和实体之间的关系（Relationship）来描述现实世界中的数据结构。下面将详细解释MySQL的 
-    </details> 
-
-- 💪 [Kotlin 设计模式：简化观察者模式](https://juejin.cn/post/7340208335982919706) | Wed Feb 28 2024 3:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    观察者模式是一种行为设计模式，其中对象（主体）维护其依赖者（观察者）的列表，并自动通知它们任何状态更改。 此模式可确保在发生某些状态更改时通知多个对象。它广泛用于实现分布式事件处理系统。 观察者模式将 
     </details> 
 <!-- juejin:END -->
 ### 少数派
