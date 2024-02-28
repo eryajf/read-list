@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [将任何网页变成桌面应用，全平台支持 | 开源日报 No.184](https://juejin.cn/post/7340167256268390436) | Tue Feb 27 2024 4:39 PM 
+- 🤗 [《HelloGitHub》第 95 期](https://juejin.cn/post/7340156047339929638) | Wed Feb 28 2024 12:43 AM 
     <details><summary>展开描述 ...</summary> 
-    Pake，用 Rust 将任何网页变成桌面应用程序。优点是比 Electron 打包小 20 倍（约为 5M），使用 Rust Tauri 比 JS-based frameworks 更轻量级和更快速 
+    简介 HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。 这里有实战项目、入门教程、黑科技、开源书籍、大厂开源项目等，涵盖多种编程语言 Python、Java、Go、C/C++、S 
     </details> 
 
-- 🎡 [browserslist是什么？](https://juejin.cn/post/7340152660224720908) | Tue Feb 27 2024 4:31 PM 
+- 🎡 [自省,让Agents慢思考](https://juejin.cn/post/7340167256268537892) | Wed Feb 28 2024 12:37 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 在平常开发中，对于低版本浏览器的兼容问题，我们通常使用babel或者postcss进行处理，然而怎么确定浏览器兼容的版本，那么就需要背后的browserslist进行支持。 1. browser 
+    自省,让Agents慢思考 关键链接 简易自省：&lpar; Python &rpar; Reflexion：&lpar; Python &rpar; 语言代理树搜索：&lpar; Python &rpar; Youtube 自省增强是一种策略，旨在通过引导语 
     </details> 
 
-- 🕯 [Nest：配置静态资源和模块引擎](https://juejin.cn/post/7340156587722342452) | Tue Feb 27 2024 4:12 PM 
+- 🕯 [Cocos游戏开发中的序列帧动画](https://juejin.cn/post/7340163679847088164) | Wed Feb 28 2024 12:32 AM 
     <details><summary>展开描述 ...</summary> 
-    本文详细介绍了如何在 Nest.js 中配置静态资源和模板引擎。实现静态资源的访问；设置虚拟目录以便通过自定义 URL，安装和配置 ejs 模板引擎，模板引擎如何与 POST 表单结合使用。 
+    引言 Cocos游戏开发中的序列帧动画 大家好，相信大家都玩过宝可梦这款游戏，在那个时候，能够玩上一整天。 游戏之所以好玩，少不了动画效果。我们在2d游戏开发中，序列帧动画也是比较常见的动画方式。 本 
     </details> 
 
-- 🚀 [Nest：REPL 控制台调试大法](https://juejin.cn/post/7340109700767481908) | Tue Feb 27 2024 4:08 PM 
+- 🚀 [2023 re:Invent AI 生成产品体验，从 Bedrock 到 Amazon Q](https://juejin.cn/post/7340109700767629364) | Wed Feb 28 2024 12:12 AM 
     <details><summary>展开描述 ...</summary> 
-    本文介绍了 Nest.js REPL 模式的概念、配置和使用方法。REPL 模式使得开发者可以在控制台中直接测试代码，避免了在浏览器中手动测试的繁琐过程。 
+    如果你也有如下问题，那么接下来的文字会一一为你解答 一套数据集，如何微调不同类型的开源大模型？—— Bedrock 如何只有产品说明书，如何构建一个智能问答机器人？ 
     </details> 
 
-- 💪 [智能管理日常花销 — AI Coze打造个人财务小助手的全新体验（初版）](https://juejin.cn/post/7340152660224704524) | Tue Feb 27 2024 4:02 PM 
+- 💪 [Stable Diffusion基础：ControlNet之身份标识](https://juejin.cn/post/7340127788053839909) | Wed Feb 28 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
-    背景介绍 今天，我利用AI Coze成功地打造了一款名为【花销小助手—贴心生活小管家】的智能工具。这款工具是我在探索与尝试的过程中诞生的，旨在搭建一个初始框架，为未来的持续改进和优化奠定基础。我期望通 
+    本文给大家分享一个新的ControlNet类型：Instant ID，翻译为身份标识，这个ControlNet的核心能力是由国内的小红书团队开发的。这个ControlNet可以提取人的面部信息。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
