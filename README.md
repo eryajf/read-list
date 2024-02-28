@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [阿里低代码引擎开源两年啦～](https://juejin.cn/post/7340539136896385050) | Wed Feb 28 2024 12:10 PM 
+- 🤗 [Go中的字符串](https://juejin.cn/post/7340240633999523849) | Wed Feb 28 2024 1:10 PM 
     <details><summary>展开描述 ...</summary> 
-    本文正在参加阿里低代码引擎征文活动～ 在编程领域，低代码也算是一个经久不衰的话题了，每个公司、甚至每个开发者都有着独属于自己的一套开发范式，用来提高编程效率。 相较于后端的封装开发框架、封装常用工具包 
+    字符串（string）是由0个或多个字符组成的有限序列。字符串可以看作一个由字符组成的数组，和数组一样，字符串也是一种不可变的数据类型。 字符串是Go语言的基础数据类型中的一种，其他基础数据类型还有布 
     </details> 
 
-- 🎡 [粉丝福利：重新思考 CSS reset（样式重置）](https://juejin.cn/post/7340478055914078258) | Wed Feb 28 2024 11:58 AM 
+- 🎡 [无所不谈,百无禁忌,Win11本地部署无内容审查中文大语言模型CausalLM-14B](https://juejin.cn/post/7340512262167101451) | Wed Feb 28 2024 1:06 PM 
     <details><summary>展开描述 ...</summary> 
-    CSS reset 意思是 CSS 样式重置，又名 CSS 样式初始化或样式标准化。在前端工程化中，CSS reset 往往是样式架构的第一步，也是团队协作的一大步。 
+    目前流行的开源大语言模型大抵都会有内容审查机制，这并非是新鲜事，因为之前chat-gpt就曾经被“玩”坏过，如果没有内容审查，恶意用户可能通过精心设计的输入（prompt）来操纵LLM执行不当行为。内 
     </details> 
 
-- 🕯 [Text Inversion: 比 Lora 更简单地训练人脸【Stable Diffusion 炼丹教程】](https://juejin.cn/post/7340486547274825766) | Wed Feb 28 2024 11:29 AM 
+- 🕯 [Go中的数组](https://juejin.cn/post/7340462380337365002) | Wed Feb 28 2024 1:04 PM 
     <details><summary>展开描述 ...</summary> 
-    本文介绍如何在 Stable Diffusion 中使用 Text Inversion 训练人脸，入门炼丹。 
+    数组是一段存储固定类型、固定长度的连续内存空间，在声明时就需要确定其大小和存储类型。 数组的使用： 使用...，编译器会根据{}内成员的数量来推算数组的大小，将声明语句转换成[size]Type的类型 
     </details> 
 
-- 🚀 [Springboot jta-atomikos 多数据源事务（老技术回顾）](https://juejin.cn/post/7340481613144670227) | Wed Feb 28 2024 11:25 AM 
+- 🚀 [Stable Video文本生成视频——Scaling Latent Video Diffusion Models to Large Datasets 附公测地](https://juejin.cn/post/7340481613145554963) | Wed Feb 28 2024 1:00 PM 
     <details><summary>展开描述 ...</summary> 
-    这个技术本来应该是过时的技术，但是最近的项目比较棘手，时间又比较赶，临时使用jta-atomikos多数据源事务，下面给大家分享如何快速接入jta-atomikos多数据源的分布式事务。 
+    近期，Stability AI发布了首个开放视频模型——&quot;Stable Video&quot;，该创新工具能够将文本和图像输入转化为生动的场景，将概念转换成动态影像，生成出电影级别的作品。 
     </details> 
 
-- 💪 [【前端调试】如何优雅调试线上代码（Vue、React）](https://juejin.cn/post/7340478055913963570) | Wed Feb 28 2024 11:07 AM 
+- 💪 [Android14 Activity 启动过程详解 1 —— App 进程发起请求](https://juejin.cn/post/7340307629892419624) | Wed Feb 28 2024 12:57 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 不管是我们Vue还是React项目，线上都是通过Webpack或Vite编译压缩之后的代码，比如： React项目： Vue项目： 这就导致了一个问题：一旦线上出现bug时，首先我们不知道问题是 
+    本文基于 android-14.0.0_r15 版本讲解 英文缩写说明： AMS：ActivityManagerService ATMS：ActivityTaskManagerService Andr 
     </details> 
 <!-- juejin:END -->
 ### 少数派
