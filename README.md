@@ -452,19 +452,19 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Things 3.20.1 一款优秀的GTD任务管理工具](https://xclient.info/s/things.html) | Wed Feb 28 2024 6:06 AM 
+- 🦏 [Ulysses 33.1 强大的文本编辑器](https://xclient.info/s/ulysses.html) | Wed Feb 28 2024 6:39 AM 
+    <details><summary>展开描述 ...</summary> 
+    2015 App Store 最佳应用程序、2013 App Store 最佳应用程序。它是世界上最好的文本编辑器。它提供您所需的一切 – 从标记到图像和脚注，从链接到评论和代码 – 它仍完全保持置身事外的样子。使用此应用程序是一种非常美好、专注的体验，它将每天写作的苦差事变得很有趣。 
+    </details> 
+
+-  [Things 3.20.1 一款优秀的GTD任务管理工具](https://xclient.info/s/things.html) | Wed Feb 28 2024 6:06 AM 
     <details><summary>展开描述 ...</summary> 
     Things 是 Mac OS X 上的一款优秀的GTD任务管理工具，是一款非常值得尝试的任务管理及日程管理程序，并且支持同步到iPhone中。 
     </details> 
 
--  [Permute 3.11.6 小巧便捷的多媒体文件格式转换器](https://xclient.info/s/permute.html) | Wed Feb 28 2024 6:05 AM 
+- ⚗️ [Permute 3.11.6 小巧便捷的多媒体文件格式转换器](https://xclient.info/s/permute.html) | Wed Feb 28 2024 6:05 AM 
     <details><summary>展开描述 ...</summary> 
     Permute 提供简单的视频格式转换功能，可以简单的将视频文件转换为你想要的格式。将你想要转换的视频拖到软件窗口内，然后选择你想要转换的格式即可。 
-    </details> 
-
-- ⚗️ [Ulysses 33.1 强大的文本编辑器](https://xclient.info/s/ulysses.html) | Wed Feb 28 2024 6:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    2015 App Store 最佳应用程序、2013 App Store 最佳应用程序。它是世界上最好的文本编辑器。它提供您所需的一切 – 从标记到图像和脚注，从链接到评论和代码 – 它仍完全保持置身事外的样子。使用此应用程序是一种非常美好、专注的体验，它将每天写作的苦差事变得很有趣。 
     </details> 
 
 - 🔥 [PDF Expert 3.9.2 极致的 PDF 阅读标注工作体验](https://xclient.info/s/pdf-expert-for-mac.html) | Wed Feb 28 2024 6:01 AM 
