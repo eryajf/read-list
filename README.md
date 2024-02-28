@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [后台列表经常会丢失 app，即使是已锁定的](https://www.v2ex.com/t/1018967#reply0) | Tue Feb 27 2024 4:35 PM
-- 🤗 [telegra 安全问题](https://www.v2ex.com/t/1018956#reply0) | Tue Feb 27 2024 3:01 PM
-- 🎭 [Google One AI Premium 不能家人共享](https://www.v2ex.com/t/1018951#reply0) | Tue Feb 27 2024 2:28 PM
-- 🥷 [Xcode 编写 swiftui 的时候如何回车的时候，自动完成尾随闭包？](https://www.v2ex.com/t/1018949#reply2) | Tue Feb 27 2024 2:20 PM
-- 🐵 [寻求支持 Android Auto 的国产地图软件](https://www.v2ex.com/t/1018938#reply2) | Tue Feb 27 2024 1:30 PM<!-- v2ex:END -->
+- 🥸 [后台列表经常会丢失 app，即使是已锁定的](https://www.v2ex.com/t/1018967#reply1) | Tue Feb 27 2024 4:35 PM
+- 🤗 [Google One AI Premium 不能家人共享](https://www.v2ex.com/t/1018951#reply0) | Tue Feb 27 2024 2:28 PM
+- 🎭 [Xcode 编写 swiftui 的时候如何回车的时候，自动完成尾随闭包？](https://www.v2ex.com/t/1018949#reply4) | Tue Feb 27 2024 2:20 PM
+- 🥷 [寻求支持 Android Auto 的国产地图软件](https://www.v2ex.com/t/1018938#reply4) | Tue Feb 27 2024 1:30 PM
+- 🐵 [请教大佬们一个关于 flask 的缓存问题？](https://www.v2ex.com/t/1018932#reply7) | Tue Feb 27 2024 12:45 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
