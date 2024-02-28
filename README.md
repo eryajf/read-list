@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [FATE联邦学习框架java实践（一）](https://juejin.cn/post/7340535444985823295) | Wed Feb 28 2024 2:09 PM 
+- 🤗 [前端需要加载一个大体积的文件时，可以这么优化](https://juejin.cn/post/7340559083839291411) | Wed Feb 28 2024 3:04 PM 
     <details><summary>展开描述 ...</summary> 
-    目前为止，通过网络搜索对于Fate应用相关的文章都非常少，对于其详细系统性实践的文章更是一篇没有。因此，这次实践可以说是目前为止，第一篇对于Fate在java实践的企业级探索。 
+    前言 我们平时开发的过程中，常常会遇到性能优化的要求。而对于前端的性能优化，我理解为有两大类，一类是网络层面的优化，即加速你的资源加载；另一类也是代码层面上的优化，即根据不同的业务场景写出更高性能的代 
     </details> 
 
-- 🎡 [没看过AQS源码，别说精通Java并发编程](https://juejin.cn/post/7340478055914455090) | Wed Feb 28 2024 2:04 PM 
+- 🎡 [Java开发者的Python进修指南：2048小游戏编程解析](https://juejin.cn/post/7340535444985937983) | Wed Feb 28 2024 2:58 PM 
     <details><summary>展开描述 ...</summary> 
-    AQS 全称 AbstractQueuedSynchronizer（抽象队列同步器），旨在作为创建锁和其他同步机制的基础，常见的同步锁 ReentrantLock、CountDownLatch、Sem 
+    今天决定练习一下Python，尝试实现一款当时风靡一时的2048小游戏。 游戏规则：《2048》是一款数字合并游戏，玩家通过上下左右滑动来控制所有方块的移动 
     </details> 
 
-- 🕯 [写给想学 Rust 的前端同学](https://juejin.cn/post/7340573362214699049) | Wed Feb 28 2024 2:01 PM 
+- 🕯 [Kotlin 技术月报 | 2024 年 2 月](https://juejin.cn/post/7340462380337610762) | Wed Feb 28 2024 2:57 PM 
     <details><summary>展开描述 ...</summary> 
-    Rust 可能正在逐渐渗透前端的方方面面，所以作为一个前端究竟有没有必要学习 Rust 呢？我认为，还是看个人的精力吧，有那个精力多学一点没有坏处，没那个精力不学也没有影响。本篇不是讨论该不该学 
+    为了帮助社区的小伙伴们更好地了解 Kotlin 相关的最新动态，我们决定使用月报的形式，整理展示最近一个月的 Kotlin 技术动态。 
     </details> 
 
-- 🚀 [人工智能水印技术入门：工具与技巧](https://juejin.cn/entry/7340539136896745498) | Wed Feb 28 2024 1:53 PM 
+- 🚀 [Leetcode 刷题 704. 二分查找](https://juejin.cn/post/7340307629892714536) | Wed Feb 28 2024 2:54 PM 
     <details><summary>展开描述 ...</summary> 
-    近几个月来，我们看到了多起关于“深度伪造 &lpar;deepfakes&rpar;”或人工智能生成内容的新闻报道：从 泰勒·斯威夫特的图片、汤姆·汉克斯的视频 到 美国总统乔·拜登的录音。这些深度伪造内容被用于各种目的 
+    很多前端的同学对数据结构和算法这块没有太多的概念，很多leetcode的题目看不懂，有时候可能看了题解也不知道是什么意思。下面根据题目来练习一下二分查找 
     </details> 
 
-- 💪 [技术资讯：CSS滚动条样式修改，最新方式！](https://juejin.cn/post/7340307629892517928) | Wed Feb 28 2024 1:51 PM 
+- 💪 [SpringBoot 环境变量](https://juejin.cn/post/7340478055914618930) | Wed Feb 28 2024 2:37 PM 
     <details><summary>展开描述 ...</summary> 
-    从 Chrome 121 开始，系统全面支持标准化的 `scrollbar-width` 和 `scrollbar-color` 属性，用来简化滚动条样式的修改。 
+    前言 控制程序行为的方式很多，通过变量控制是最常见的方式之一，而变量的使用方式也很多，以 SpringBoot 为例，我们可以通过 yml、JVM 参数、命令行参数、系统参数等多种手段，指定某些特殊变 
     </details> 
 <!-- juejin:END -->
 ### 少数派
