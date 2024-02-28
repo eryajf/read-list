@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [CCF-CSP   有趣的数   题型：推导](https://juejin.cn/post/7340295805998891042) | Wed Feb 28 2024 6:12 AM 
+- 🤗 [一文熟悉Ajax](https://juejin.cn/post/7340295754245111817) | Wed Feb 28 2024 6:59 AM 
     <details><summary>展开描述 ...</summary> 
-    计算机软件能力认证考试系统 首先题目要求 输出符号要求的N位数。 要求是： 1.这个N位数只能由 0,1,2,3组成。 0必须出现在1前面 2必须出现在3前面 3.第一位不能为0 思想 一. 因为 0 
+    一文带你了解 Ajax 技术概念，以及其实现方式，包括 XMLHttpRequest、Fetch API，已经封装库 Axios。此外也涵盖了HTTP相关概念。 
     </details> 
 
-- 🎡 [SpringCloud+Consul服务注册+服务发现实战](https://juejin.cn/post/7340301649766776873) | Wed Feb 28 2024 5:53 AM 
+- 🎡 [一念生花，Coze 结合VisActor 文生图实战总结](https://juejin.cn/post/7340307383505436712) | Wed Feb 28 2024 6:45 AM 
     <details><summary>展开描述 ...</summary> 
-    Consul是一个服务网格解决方案，提供了一个功能齐全的控制平面，具有服务发现、配置和分段功能。 本文主要是将Consul服务注册+服务发现集成进SpringCloud项目中 
+    通过 Coze、VisActor 两大套件的加持，我们使用2天时间，快速实现了基于对话生成词云的智能体——“词云魔方”。 
     </details> 
 
-- 🕯 [Rust 交叉编译 macOS 为 Linux 和 Windows](https://juejin.cn/post/7340301649766744105) | Wed Feb 28 2024 5:49 AM 
+- 🕯 [TypeScript 中的协变与逆变到底是什么](https://juejin.cn/post/7340295805999415330) | Wed Feb 28 2024 6:45 AM 
     <details><summary>展开描述 ...</summary> 
-    [toc] 前言 鉴于 rust 中文资料较少，遇到问题的解决方案更少。这里记录遇到的一些问题。 想要实现跨平台编译且可运行的程序，那么我们就需要静态链接，这样生成程序才不会因为动态链接库的原因运行失 
+    在 TypeScript 中，类型的层级关系是静态类型语言的核心概念。本篇文章探讨类型的层级关系以及幕后的协变与逆变理论。 
     </details> 
 
-- 🚀 [面试官：render在什么时候会被触发？](https://juejin.cn/post/7340204792810389513) | Wed Feb 28 2024 2:49 AM 
+- 🚀 [为什么kafka需要去实现高可用和为什么不支持读写分离](https://juejin.cn/post/7340295754244882441) | Wed Feb 28 2024 6:38 AM 
     <details><summary>展开描述 ...</summary> 
-    在 React 中，组件的 `render` 方法是在以下情况下被触发的：组件挂载、组件状态或属性更新、父组件重新渲染、调用 `forceUpdate`、组件初始化和卸载，hook的调用。 本文将总 
+    工作中日日在扮演CRUD boy的角色，少有机会去实践高性能，高并发，高可用之地。所以突发奇想，能否通过解读业内如雷贯耳，但又经常接触到的开源中间件redis，kafka 等，去反推 
     </details> 
 
-- 💪 [（07）Header 组件开发——⑦ AJAX 获取推荐数据 | React.js 项目实战：PC 端“简书”开发](https://juejin.cn/post/7340215899747156007) | Wed Feb 28 2024 2:47 AM 
+- 💪 [初识 svelte（一） - 带上 vue/react 经验，聊一聊新兴框架 svelte](https://juejin.cn/post/7340301649767055401) | Wed Feb 28 2024 6:35 AM 
     <details><summary>展开描述 ...</summary> 
-    1 需求分析 之前的 6 篇文章，我们算是搭建好了整个项目的架子，接下来我们就可以放开手脚开始实现交互需求了...... 
+    都说 **天下大势、分久必合、合久必分** 。 其实在看的框架越来越多之后，会慢慢发现框架之间的趋同化。虽然每年都有新兴框架都在试图找一个不同的方向改变人们的心智，但随着框架的发展就会发现，新兴的框架 
     </details> 
 <!-- juejin:END -->
 ### 少数派
