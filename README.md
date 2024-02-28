@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [springboot集成xxl-job快速入门demo](https://juejin.cn/post/7340204792810553353) | Wed Feb 28 2024 3:07 AM 
+- 🤗 [WebGL实战篇（十七）—— PBR材质之直接光照](https://juejin.cn/post/7340301649766006825) | Wed Feb 28 2024 3:31 AM 
     <details><summary>展开描述 ...</summary> 
-    一、xxl-job介绍 XXL-JOB是一个分布式任务调度平台，其核心设计目标是开发迅速、学习简单、轻量级、易扩展。现已开放源代码并接入多家公司线上产品线，开箱即用。 二、测试环境搭建 采用docke 
+    今天的话题是PBR材质，PBR材质的全称是 Physical Based Rendering 基于物理的渲染。之前正是看到了PBR材质在电脑上令人惊叹的表现才引起了我对于渲染的浓厚兴趣 
     </details> 
 
-- 🎡 [请你谈谈深拷贝和浅拷贝？面试官这么问，你就这么答。](https://juejin.cn/post/7340107906406072370) | Wed Feb 28 2024 3:02 AM 
+- 🎡 [一次Mybaits查询的源码分析](https://juejin.cn/post/7340196657881972799) | Wed Feb 28 2024 3:25 AM 
     <details><summary>展开描述 ...</summary> 
-    快面试了还不知道深拷贝，浅拷贝？面试官这么问，你就这么答 哈喽哈喽，我是你们的金樽清酒。马上就到金三银四的面试潮了。大家都准备好了面试的内容嘛。最近我的小伙伴就面试了一个大型公司，被面试官狠狠的折磨了 
+    很好奇Mybaits是怎么将xml和mapper对应起来的，用一段比较简单的demo去debug追踪一下源码看看 
     </details> 
 
-- 🕯 [连麦直播，复盘了下2023年至今AI赛道变现分享](https://juejin.cn/post/7340107906406039602) | Wed Feb 28 2024 3:02 AM 
+- 🕯 [Spring AOP = 责任链模式 + 代理模式](https://juejin.cn/post/7340301649765793833) | Wed Feb 28 2024 3:22 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好我是嘟嘟MD，热衷于副业变现，今天来分享下我2023年至今在AI赛道变现的所有项目。希望对对你们有所参考帮助~ 
+    AOP是Spring的一个核心卖点。今天这篇文章让我们从设计模式的角度拆解AOP底层原理，自己动手造一个AOP。 
     </details> 
 
-- 🚀 [在本地运行 LLMs 的 6 种方法](https://juejin.cn/post/7340076087249453090) | Wed Feb 28 2024 2:58 AM 
+- 🚀 [轻松入门MySQL：深入探究MySQL的ER模型，数据库设计的利器与挑战（22）](https://juejin.cn/post/7340236465844011062) | Wed Feb 28 2024 3:20 AM 
     <details><summary>展开描述 ...</summary> 
-    了解如何在本地运行私人 LLM的项目。开源模型提供了一些解决方案，但仍需了解他们的挑战和优势，提供了对数据和隐私的更多控制。 
+    MySQL的ER模型（实体-关系模型）是一种用于描述数据库结构的图形化工具，它基于实体（Entity）和实体之间的关系（Relationship）来描述现实世界中的数据结构。下面将详细解释MySQL的 
     </details> 
 
-- 💪 [基于Nest实现扫码登录](https://juejin.cn/post/7340191765700001807) | Wed Feb 28 2024 2:58 AM 
+- 💪 [Kotlin 设计模式：简化观察者模式](https://juejin.cn/post/7340208335982919706) | Wed Feb 28 2024 3:16 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 扫码登录是应用中很常见的需求，比如微信，平时你都会使用手机端，当你需要在电脑上登录了，就会展示一个二维码给你，你打开手机微信扫码，进到一个页面，点确认登录即可。 电脑端登录就像是这样的： 手机端 
+    观察者模式是一种行为设计模式，其中对象（主体）维护其依赖者（观察者）的列表，并自动通知它们任何状态更改。 此模式可确保在发生某些状态更改时通知多个对象。它广泛用于实现分布式事件处理系统。 观察者模式将 
     </details> 
 <!-- juejin:END -->
 ### 少数派
