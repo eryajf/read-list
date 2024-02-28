@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [type-challenges 解析系列 （一、 简单部分）](https://juejin.cn/post/7340471458950266943) | Wed Feb 28 2024 10:11 AM 
+- 🤗 [【前端调试】如何优雅调试线上代码（Vue、React）](https://juejin.cn/post/7340478055913963570) | Wed Feb 28 2024 11:07 AM 
     <details><summary>展开描述 ...</summary> 
-    在读完 TypeScript 全面进阶指南 小册后，准备尝试写一个解读 type-challenges 的系列文章，对所学的内容进行巩固，也希望能对 typescript 有更宽阔的了解。 该系列文章 
+    前言 不管是我们Vue还是React项目，线上都是通过Webpack或Vite编译压缩之后的代码，比如： React项目： Vue项目： 这就导致了一个问题：一旦线上出现bug时，首先我们不知道问题是 
     </details> 
 
-- 🎡 [闭包 - 理解不了闭包不是你的问题，而是闭包的问题。我们无法以干练的语言去解释一个抽象的概念](https://juejin.cn/post/7340471458950250559) | Wed Feb 28 2024 10:11 AM 
+- 🎡 [关于前端配置Nginx的知识，你可能需要略知一二](https://juejin.cn/post/7340482172002500642) | Wed Feb 28 2024 11:06 AM 
     <details><summary>展开描述 ...</summary> 
-    我相信大家都看过 MDN 的解释，但是很多人依旧没有理解闭包到底是什么。闭包并不是一个定义学的概念，而是归纳学的产物。请先别说大言不惭，这篇文章带大家从头开始理解闭包。 
+    Nginx简介 Nginx是一款轻量级的Web服务器/反向代理服务器及电子邮件（IMAP/POP3）代理服务器，并在BSD-like协议下发行。由于其高性能、稳定性、丰富的功能集、简单的配置以及低资源 
     </details> 
 
-- 🕯 [从原理对比分析，Kotlin中单例模式的5种实现方式](https://juejin.cn/post/7340307629892091944) | Wed Feb 28 2024 10:04 AM 
+- 🕯 [知名AI研究者深挖谷歌Gemma：参数不止70亿，设计原则很独特](https://juejin.cn/entry/7340307629892206632) | Wed Feb 28 2024 11:01 AM 
     <details><summary>展开描述 ...</summary> 
-    在Kotlin中，单例模式是一种常见且实用的设计模式，用于确保一个类只有一个实例，并提供全局访问点。本文将介绍几种常见的Kotlin单例实现方式，以及它们的原理和具体使用方法。 懒汉式单例 懒汉式单例 
+    就在几天前，开源大模型领域迎来了重磅新玩家：谷歌推出了全新的开源模型系列「Gemma」。相比 Gemini，Gemma 更加轻量，同时保持免费可用，模型权重也一并开源了，且允许商用。 
     </details> 
 
-- 🚀 [使用 React、TypeScript、Tailwind CSS 创建 VS Code 扩展](https://juejin.cn/post/7340472228927586344) | Wed Feb 28 2024 9:54 AM 
+- 🚀 [反转？OpenAI：纽约时报「黑客攻击」了ChatGPT，要求驳回版权诉讼](https://juejin.cn/entry/7340472228927750184) | Wed Feb 28 2024 11:00 AM 
     <details><summary>展开描述 ...</summary> 
-    介绍 本文专门针对那些喜欢VS Code代码编辑器的人而创作，您是否只是使用VSCode来开发代码呢?他其实并未被充分使用。 代码编辑器内部有一个扩展部分，可以在编码时提供额外的帮助，例如片段（自动完 
+    去年年底，《纽约时报》向微软和 OpenAI 提起侵犯版权诉讼，指控其违规使用了《纽约时报》的内容来进行人工智能开发。 
     </details> 
 
-- 💪 [uniapp+node.js前后端做帖子模块：获取帖子列表（社区管理平台的小程序）](https://juejin.cn/post/7340479361219477541) | Wed Feb 28 2024 9:51 AM 
+- 💪 [苹果10年造车梦「夭折」，数十亿美元打水漂，特斯拉或成最大赢家](https://juejin.cn/entry/7340475659318722594) | Wed Feb 28 2024 10:58 AM 
     <details><summary>展开描述 ...</summary> 
-    uniapp+node.js的express前后端做帖子模块：获取帖子列表信息（社区管理平台的小程序） 
+    这下子，苹果再也不用频繁变更汽车的预计发布时间了。终于，近 3 万亿美元市值的苹果在电动汽车这个赛道「折戟沉沙」，成了正在消亡的车企大军中的一员。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
