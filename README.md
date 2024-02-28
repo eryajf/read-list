@@ -306,24 +306,24 @@
     保护国家秘密是维护国家权益、维护国家尊严和维护国家长治久安的必然要求。 
     </details> 
 
-- 🦄 [微软发布针对AIGC的红队测试开源工具](https://www.freebuf.com/news/392694.html) | Tue Feb 27 2024 6:45 AM 
+- 🦄 [FreeBuf 早报 | 关键SQL注入漏洞威胁超过20万个网站；网络攻击迫使上市公司电池工厂停产两周](https://www.freebuf.com/news/392699.html) | Tue Feb 27 2024 7:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    由于安全原因，瓦尔塔已主动暂时关闭IT系统、暂停生产活动，并与互联网断开连接。 
+    </details> 
+
+- 🦅 [微软发布针对AIGC的红队测试开源工具](https://www.freebuf.com/news/392694.html) | Tue Feb 27 2024 6:45 AM 
     <details><summary>展开描述 ...</summary> 
     近日，微软发布了PyRIT红队测试工具，通过自动化帮助识别生成式人工智能中的风险。 
     </details> 
 
-- 🦅 [图片也带”毒“了？ 黑客使用新技术推送 Remcos RAT](https://www.freebuf.com/news/392677.html) | Tue Feb 27 2024 5:33 AM 
+- 🪄 [图片也带”毒“了？ 黑客使用新技术推送 Remcos RAT](https://www.freebuf.com/news/392677.html) | Tue Feb 27 2024 5:33 AM 
     <details><summary>展开描述 ...</summary> 
     UAC-0184 威胁组织被趋势科技的研究人员首次观察到 ，主要针对乌克兰武装部队发起网络攻击。 
     </details> 
 
-- 🪄 [针对数十年的内存相关漏洞，ONCD发布新报告](https://www.freebuf.com/news/392666.html) | Tue Feb 27 2024 3:41 AM 
+- 💻 [针对数十年的内存相关漏洞，ONCD发布新报告](https://www.freebuf.com/news/392666.html) | Tue Feb 27 2024 3:41 AM 
     <details><summary>展开描述 ...</summary> 
     自80年代以来，这种内存错误就一直存在。 
-    </details> 
-
-- 💻 [全新WiFi安全漏洞曝光，可能影响全球23亿安卓用户](https://www.freebuf.com/news/392660.html) | Tue Feb 27 2024 3:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    安全人员提醒用户应立即更新其软件，安卓用户需下载包含 wpa_supplicant 补丁的新安卓安全更新包。 
     </details> 
 <!-- freebuf:END -->
 
