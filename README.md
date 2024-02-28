@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一文熟悉Ajax](https://juejin.cn/post/7340295754245111817) | Wed Feb 28 2024 6:59 AM 
+- 🤗 [【React】一些实际项目中的 TypeScript 技巧（三）~](https://juejin.cn/post/7340475659317624866) | Wed Feb 28 2024 8:15 AM 
     <details><summary>展开描述 ...</summary> 
-    一文带你了解 Ajax 技术概念，以及其实现方式，包括 XMLHttpRequest、Fetch API，已经封装库 Axios。此外也涵盖了HTTP相关概念。 
+    TypeScript有神好处呢？它可以在编译时捕获许多常见的错误，如类型不匹配、属性不存在等。这可以大大减少在运行时出现的错误，并提高代码的可靠性和稳定性。 
     </details> 
 
-- 🎡 [一念生花，Coze 结合VisActor 文生图实战总结](https://juejin.cn/post/7340307383505436712) | Wed Feb 28 2024 6:45 AM 
+- 🎡 [Rust：实现一个实时聊天系统（server）](https://juejin.cn/post/7340286503506444298) | Wed Feb 28 2024 8:01 AM 
     <details><summary>展开描述 ...</summary> 
-    通过 Coze、VisActor 两大套件的加持，我们使用2天时间，快速实现了基于对话生成词云的智能体——“词云魔方”。 
+    在本文中，我们将演示如何使用 Rust 构建一个实时聊天应用程序，该应用程序提供聊天功能、检查用户状态以及指示用户何时输入。 我们将使用 WebSocket 来启用双向客户端-服务器通信 
     </details> 
 
-- 🕯 [TypeScript 中的协变与逆变到底是什么](https://juejin.cn/post/7340295805999415330) | Wed Feb 28 2024 6:45 AM 
+- 🕯 [一次不够，就再试一次：用Retry，让Golang函数重试轻而易举的轻量级神器](https://juejin.cn/post/7340229050236174390) | Wed Feb 28 2024 7:54 AM 
     <details><summary>展开描述 ...</summary> 
-    在 TypeScript 中，类型的层级关系是静态类型语言的核心概念。本篇文章探讨类型的层级关系以及幕后的协变与逆变理论。 
+    本文探讨如何用Golang的Retry库实现高效的函数重试机制。开篇，文章不仅审视了日常开发中函数执行需重试的常见场景，还指出了传统循环重试方法的局限性。内涵盖架构、算法、示例。欢迎GitHub交流。 
     </details> 
 
-- 🚀 [为什么kafka需要去实现高可用和为什么不支持读写分离](https://juejin.cn/post/7340295754244882441) | Wed Feb 28 2024 6:38 AM 
+- 🚀 [【大厂手写系列】 · 手写一个防抖和节流](https://juejin.cn/post/7340475659317411874) | Wed Feb 28 2024 7:54 AM 
     <details><summary>展开描述 ...</summary> 
-    工作中日日在扮演CRUD boy的角色，少有机会去实践高性能，高并发，高可用之地。所以突发奇想，能否通过解读业内如雷贯耳，但又经常接触到的开源中间件redis，kafka 等，去反推 
+    这是手写系列的第一篇文章，如有错误/好的写法欢迎大家在评论区交流~这篇文章包括防抖（Debouncing）和节流（Throttling）的原理和应用场景。 
     </details> 
 
-- 💪 [初识 svelte（一） - 带上 vue/react 经验，聊一聊新兴框架 svelte](https://juejin.cn/post/7340301649767055401) | Wed Feb 28 2024 6:35 AM 
+- 💪 [深挖sora：不得不了解的7篇顶级论文](https://juejin.cn/post/7340475659317379106) | Wed Feb 28 2024 7:51 AM 
     <details><summary>展开描述 ...</summary> 
-    都说 **天下大势、分久必合、合久必分** 。 其实在看的框架越来越多之后，会慢慢发现框架之间的趋同化。虽然每年都有新兴框架都在试图找一个不同的方向改变人们的心智，但随着框架的发展就会发现，新兴的框架 
+    对于人工智能领域的研究者和支持者来说，他们真正感到兴奋的不单是SORA带来的新奇体验。更加吸引人的是，SORA不仅能生成视频，它还能模拟真实世界中的物理互动。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
