@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [写了个小工具，支持在远程桌面的时候切换宿主机 Windows 虚拟桌面](https://www.v2ex.com/t/1019107#reply0) | Wed Feb 28 2024 5:47 AM
-- 🤗 [Java Swing 你还在用吗](https://www.v2ex.com/t/1019098#reply1) | Wed Feb 28 2024 5:34 AM
-- 🎭 [想最低成本搞一块 2TB 的 SSD 插群辉 NAS 里当备份盘用，有什么推荐](https://www.v2ex.com/t/1019077#reply9) | Wed Feb 28 2024 4:02 AM
-- 🥷 [分享一个自己写的联动 hexo 和 typora 的小脚本，能直接使用 typora 打开 hexo](https://www.v2ex.com/t/1019067#reply1) | Wed Feb 28 2024 3:40 AM
-- 🐵 [2 部相同型号安卓的手机&lpar;内存一样&rpar;，能完全实现手机迁移吗？](https://www.v2ex.com/t/1019065#reply15) | Wed Feb 28 2024 3:38 AM<!-- v2ex:END -->
+- 🥸 [oneplus7pro（GM1910）刷最新 lineage OS21 打开代理软件 clash 和 surfboard 国内外网站都不能访问](https://www.v2ex.com/t/1019142#reply0) | Wed Feb 28 2024 7:06 AM
+- 🤗 [mbp 14&lpar;2021 M1 Pro&rpar; 不能给小米 14 pro 充电?](https://www.v2ex.com/t/1019140#reply0) | Wed Feb 28 2024 7:00 AM
+- 🎭 [做了一个 VS Code 插件，可以自动向最后一个 commit message 中添加指定标签文本，然后再 push，方便触发流水线](https://www.v2ex.com/t/1019128#reply0) | Wed Feb 28 2024 6:36 AM
+- 🥷 [写了个小工具，支持在远程桌面的时候切换宿主机 Windows 虚拟桌面](https://www.v2ex.com/t/1019107#reply2) | Wed Feb 28 2024 5:47 AM
+- 🐵 [Java Swing 你还在用吗](https://www.v2ex.com/t/1019098#reply1) | Wed Feb 28 2024 5:34 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
