@@ -333,8 +333,8 @@
 
 <!-- v2ex:START -->
 - 🥸 [我想在 Linux 下给 paddleocr 添加个自定义函数编译成 so 供其他程序调用该怎么处理](https://www.v2ex.com/t/1019302#reply0) | Wed Feb 28 2024 4:14 PM
-- 🤗 [恭喜 @luin 大神的作品 ioredis 被 redis 官方收购！](https://www.v2ex.com/t/1019298#reply5) | Wed Feb 28 2024 3:50 PM
-- 🎭 [[natsio] 使用入门问题](https://www.v2ex.com/t/1019269#reply5) | Wed Feb 28 2024 1:20 PM
+- 🤗 [恭喜 @luin 大神的作品 ioredis 被 redis 官方收购！](https://www.v2ex.com/t/1019298#reply9) | Wed Feb 28 2024 3:50 PM
+- 🎭 [[natsio] 使用入门问题](https://www.v2ex.com/t/1019269#reply6) | Wed Feb 28 2024 1:20 PM
 - 🥷 [求 Windows10 资源管理器解决方案](https://www.v2ex.com/t/1019250#reply2) | Wed Feb 28 2024 12:03 PM
 - 🐵 [分布式事务，怎么感觉不需要那么复杂](https://www.v2ex.com/t/1019248#reply11) | Wed Feb 28 2024 11:55 AM<!-- v2ex:END -->
 
