@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [人生第一次面试  海康](https://juejin.cn/post/7340295805998497826) | Wed Feb 28 2024 5:11 AM 
+- 🤗 [CCF-CSP   有趣的数   题型：推导](https://juejin.cn/post/7340295805998891042) | Wed Feb 28 2024 6:12 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好！ 我叫扯蛋蛋 ，前几天我带着玩玩的心态着投了些简历，结果还有一个比较大点的公司，通过我的简历约到啦面试，听着我的前端领路人讲述面试官的过程，面试前我内心十分害怕，紧张万分。说实话，面试是很遥远 
+    计算机软件能力认证考试系统 首先题目要求 输出符号要求的N位数。 要求是： 1.这个N位数只能由 0,1,2,3组成。 0必须出现在1前面 2必须出现在3前面 3.第一位不能为0 思想 一. 因为 0 
     </details> 
 
-- 🎡 [Linux上如何抓取HTTPS流量](https://juejin.cn/post/7340295805998465058) | Wed Feb 28 2024 5:02 AM 
+- 🎡 [SpringCloud+Consul服务注册+服务发现实战](https://juejin.cn/post/7340301649766776873) | Wed Feb 28 2024 5:53 AM 
     <details><summary>展开描述 ...</summary> 
-    实际上生产环境中我们存在大量的业务请求都走的HTTPS，那么如何抓取调用下游的请求成了问题！如果是HTTP还行，你这HTTPS呢，能用tcpdump抓但是我们没有证书的私钥哇解不了。 
+    Consul是一个服务网格解决方案，提供了一个功能齐全的控制平面，具有服务发现、配置和分段功能。 本文主要是将Consul服务注册+服务发现集成进SpringCloud项目中 
     </details> 
 
-- 🕯 [深入理解Spring Security](https://juejin.cn/post/7340204792811274249) | Wed Feb 28 2024 4:53 AM 
+- 🕯 [Rust 交叉编译 macOS 为 Linux 和 Windows](https://juejin.cn/post/7340301649766744105) | Wed Feb 28 2024 5:49 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是小黑，在谈到网站安全的时候，Spring Security是个避不开的话题。它就像是个守门员，决定谁能进入我们的网站，又能在网站的哪些角落里走动。简单来说，Spring Security负 
+    [toc] 前言 鉴于 rust 中文资料较少，遇到问题的解决方案更少。这里记录遇到的一些问题。 想要实现跨平台编译且可运行的程序，那么我们就需要静态链接，这样生成程序才不会因为动态链接库的原因运行失 
     </details> 
 
-- 🚀 [面试题：使用css完成视差滚动效果](https://juejin.cn/post/7340204792811175945) | Wed Feb 28 2024 4:21 AM 
+- 🚀 [面试官：render在什么时候会被触发？](https://juejin.cn/post/7340204792810389513) | Wed Feb 28 2024 2:49 AM 
     <details><summary>展开描述 ...</summary> 
-    网页设计中，视差滚动效果可以为用户带来沉浸式的浏览体验。本文将详细介绍如何使用 CSS 来实现视差滚动效果。 视差滚动效果的原理 视差滚动效果的原理是利用不同速度的滚动来创建深度感。在网页设计 
+    在 React 中，组件的 `render` 方法是在以下情况下被触发的：组件挂载、组件状态或属性更新、父组件重新渲染、调用 `forceUpdate`、组件初始化和卸载，hook的调用。 本文将总 
     </details> 
 
-- 💪 [一次Mybaits查询的源码分析](https://juejin.cn/post/7340196657881972799) | Wed Feb 28 2024 3:25 AM 
+- 💪 [（07）Header 组件开发——⑦ AJAX 获取推荐数据 | React.js 项目实战：PC 端“简书”开发](https://juejin.cn/post/7340215899747156007) | Wed Feb 28 2024 2:47 AM 
     <details><summary>展开描述 ...</summary> 
-    很好奇Mybaits是怎么将xml和mapper对应起来的，用一段比较简单的demo去debug追踪一下源码看看 
+    1 需求分析 之前的 6 篇文章，我们算是搭建好了整个项目的架子，接下来我们就可以放开手脚开始实现交互需求了...... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
