@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [oneplus7pro（GM1910）刷最新 lineage OS21 打开代理软件 clash 和 surfboard 国内外网站都不能访问](https://www.v2ex.com/t/1019142#reply0) | Wed Feb 28 2024 7:06 AM
-- 🤗 [mbp 14&lpar;2021 M1 Pro&rpar; 不能给小米 14 pro 充电?](https://www.v2ex.com/t/1019140#reply0) | Wed Feb 28 2024 7:00 AM
-- 🎭 [做了一个 VS Code 插件，可以自动向最后一个 commit message 中添加指定标签文本，然后再 push，方便触发流水线](https://www.v2ex.com/t/1019128#reply0) | Wed Feb 28 2024 6:36 AM
-- 🥷 [写了个小工具，支持在远程桌面的时候切换宿主机 Windows 虚拟桌面](https://www.v2ex.com/t/1019107#reply2) | Wed Feb 28 2024 5:47 AM
-- 🐵 [Java Swing 你还在用吗](https://www.v2ex.com/t/1019098#reply1) | Wed Feb 28 2024 5:34 AM<!-- v2ex:END -->
+- 🥸 [微软的免费内网穿透，感觉还不错](https://www.v2ex.com/t/1019171#reply0) | Wed Feb 28 2024 8:05 AM
+- 🤗 [推荐各位利用 ollama 在自有电脑上跑大模型，使用非常方便](https://www.v2ex.com/t/1019170#reply2) | Wed Feb 28 2024 8:02 AM
+- 🎭 [谷歌搜索时政信息如何过滤掉国内信息源？](https://www.v2ex.com/t/1019149#reply9) | Wed Feb 28 2024 7:22 AM
+- 🥷 [PowerShell 实现 RDP 远程桌面防火墙](https://www.v2ex.com/t/1019147#reply6) | Wed Feb 28 2024 7:16 AM
+- 🐵 [oneplus7pro（GM1910）刷最新 lineage OS21 打开代理软件 clash 和 surfboard 国内外网站都不能访问](https://www.v2ex.com/t/1019142#reply0) | Wed Feb 28 2024 7:06 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
