@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Nest：守卫 guard：请求授权的利器](https://juejin.cn/post/7340539136897335322) | Wed Feb 28 2024 4:29 PM 
+- 🤗 [绕过付费，畅享网络：自由浏览付费内容 | 开源日报 No.185](https://juejin.cn/post/7340573362215075881) | Wed Feb 28 2024 5:22 PM 
+    <details><summary>展开描述 ...</summary> 
+    bypass-paywalls-chrome 是一个用于 Chrome 和 Firefox 的网页浏览器扩展，可帮助绕过特定网站的付费墙。 
+    </details> 
+
+- 🎡 [Nest：守卫 guard：请求授权的利器](https://juejin.cn/post/7340539136897335322) | Wed Feb 28 2024 4:29 PM 
     <details><summary>展开描述 ...</summary> 
     Nest.js的守卫是处理请求授权的强大工具，通过实现 CanActivate接口，守卫能决定请求是否继续执行。 
     </details> 
 
-- 🎡 [Nodejs 第四十七章（redis主从复制）](https://juejin.cn/post/7340532030810898432) | Wed Feb 28 2024 4:17 PM 
+- 🕯 [Nodejs 第四十七章（redis主从复制）](https://juejin.cn/post/7340532030810898432) | Wed Feb 28 2024 4:17 PM 
     <details><summary>展开描述 ...</summary> 
     Redis主从复制是一种数据复制和同步机制，其中一个Redis服务器（称为主服务器）将其数据复制到一个或多个其他Redis服务器（称为从服务器）。主从复制提供了数据冗余备份、读写分离和故障恢复等功能。 
     </details> 
 
-- 🕯 [Nest：深入理解中间件 middleware](https://juejin.cn/post/7340532030810882048) | Wed Feb 28 2024 4:16 PM 
+- 🚀 [Nest：深入理解中间件 middleware](https://juejin.cn/post/7340532030810882048) | Wed Feb 28 2024 4:16 PM 
     <details><summary>展开描述 ...</summary> 
     Nest 中间件是请求响应周期中的关键函数，可执行代码、修改请求响应对象、结束请求响应周期或调用下一中间件。它们用于日志记录、身份验证、性能监控等。 
     </details> 
 
-- 🚀 [Nest：自定义装饰器](https://juejin.cn/post/7340559083839553555) | Wed Feb 28 2024 4:11 PM 
+- 💪 [Nest：自定义装饰器](https://juejin.cn/post/7340559083839553555) | Wed Feb 28 2024 4:11 PM 
     <details><summary>展开描述 ...</summary> 
     本文介绍了 TypeScript 中自定义装饰器的概念及其在类、方法、属性和参数上的应用。我们探讨了四种装饰器类型：类装饰器、方法装饰器、属性装饰器和参数装饰器。 
-    </details> 
-
-- 💪 [Nest：常用 15 个装饰器知多少？](https://juejin.cn/post/7340554546253611023) | Wed Feb 28 2024 4:09 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文深入探讨了 Nest.js 框架中广泛使用的装饰器，这些装饰器是构建和组织后端服务的核心。从创建项目开始，介绍 15 个常用的 Nest 装饰器。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
