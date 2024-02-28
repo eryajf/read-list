@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [DDoS攻击引发云服务提供商索要10.4万美元账单](https://www.freebuf.com/news/392768.html) | Wed Feb 28 2024 3:42 AM 
+- 🦄 [NIST发布里程碑式网络安全框架2.0版本](https://www.freebuf.com/news/392795.html) | Wed Feb 28 2024 8:08 AM 
+    <details><summary>展开描述 ...</summary> 
+    自2014年发布网络安全框架（CSF）1.0版本，时隔多年NIST发布了2.0版本，首次对网络安全框架进行重大更新。 
+    </details> 
+
+- 🦄 [俄罗斯APT28隐秘攻击Ubiquiti路由器，以逃避安全检测](https://www.freebuf.com/news/392782.html) | Wed Feb 28 2024 6:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    在针对全球各地的军事、政府及其他机构的秘密网络行动中，APT28还利用EdgeRouters部署定制工具和设置钓鱼网站的登陆页面。 
+    </details> 
+
+- 🦅 [DDoS攻击引发云服务提供商索要10.4万美元账单](https://www.freebuf.com/news/392768.html) | Wed Feb 28 2024 3:42 AM 
     <details><summary>展开描述 ...</summary> 
     随着这个故事在网上的热度不断攀升，Netlify公司CEO决定不向该用户收取任何费用。 
     </details> 
 
-- 🦄 [许多主要新闻媒体正屏蔽 OpenAI 爬虫](https://www.freebuf.com/news/392764.html) | Wed Feb 28 2024 3:36 AM 
+- 🪄 [许多主要新闻媒体正屏蔽 OpenAI 爬虫](https://www.freebuf.com/news/392764.html) | Wed Feb 28 2024 3:36 AM 
     <details><summary>展开描述 ...</summary> 
     据路透社研究所的一项调查，越来越多的新闻媒体已对OpenAI的数据爬取说“不”，在传统媒体领域，这一比例甚至超过了50%。 
     </details> 
 
-- 🦅 [WordPress 又爆出漏洞，500 万个网站面临严重的安全风险](https://www.freebuf.com/news/392761.html) | Wed Feb 28 2024 3:31 AM 
+- 💻 [WordPress 插件存在漏洞，500 万网站面临严重安全风险](https://www.freebuf.com/news/392761.html) | Wed Feb 28 2024 3:31 AM 
     <details><summary>展开描述 ...</summary> 
     该漏洞被追踪为 CVE-2023-40000，未经身份验证的威胁攻击者可利用该漏洞获取超额权限。 
-    </details> 
-
-- 🪄 [黑客借助 LabHost 平台对加拿大银行用户发起大规模钓鱼攻击](https://www.freebuf.com/news/392751.html) | Wed Feb 28 2024 2:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    网络钓鱼即服务平台能够协助初级黑客更便捷地接触网络犯罪，这大大增加了威胁行为者的数量，导致网络安全事件加剧。 
-    </details> 
-
-- 💻 [Vulhub靶场练习 DC-9靶机解析](https://www.freebuf.com/articles/web/391632.html) | Wed Feb 28 2024 1:15 AM 
-    <details><summary>展开描述 ...</summary> 
-    一、搭建环境kali的IP地址是：192.168.200.14DC-9的IP地址暂时未知二、信息收集1、探索同网段下存活的主机arp-scan -l #2、探索开放的端口开启端口有：80和22端口3、 
     </details> 
 <!-- freebuf:END -->
 
