@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [WASM 这种技术为啥很少看见使用呢？？另外如何防止接口被刷](https://www.v2ex.com/t/1019016#reply0) | Wed Feb 28 2024 2:16 AM
-- 🤗 [使用 PageSpy 打开测试流程新模式：简化问题复现与跟踪](https://www.v2ex.com/t/1019008#reply0) | Wed Feb 28 2024 1:45 AM
-- 🎭 [vs2022 win10 关机后再开机如何恢复](https://www.v2ex.com/t/1019001#reply0) | Wed Feb 28 2024 1:37 AM
-- 🥷 [有没有老哥在 npmjs 传过项目的](https://www.v2ex.com/t/1018986#reply0) | Wed Feb 28 2024 1:12 AM
-- 🐵 [后台列表经常会丢失 app，即使是已锁定的](https://www.v2ex.com/t/1018967#reply3) | Tue Feb 27 2024 4:35 PM<!-- v2ex:END -->
+- 🥸 [软考高级-架构师（备考）](https://www.v2ex.com/t/1019043#reply3) | Wed Feb 28 2024 3:00 AM
+- 🤗 [刚学完韩顺平的 Java 基础教程，接下来的学习路线是什么？有没有配套的视频](https://www.v2ex.com/t/1019028#reply13) | Wed Feb 28 2024 2:38 AM
+- 🎭 [开机的时候自动用 vscode 打开了一段代码。ChatGPT 说是病毒？？](https://www.v2ex.com/t/1019026#reply8) | Wed Feb 28 2024 2:37 AM
+- 🥷 [WASM 这种技术为啥很少看见使用呢？？另外如何防止接口被刷](https://www.v2ex.com/t/1019016#reply12) | Wed Feb 28 2024 2:16 AM
+- 🐵 [使用 PageSpy 打开测试流程新模式：简化问题复现与跟踪](https://www.v2ex.com/t/1019008#reply0) | Wed Feb 28 2024 1:45 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
