@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [小米豪赌电车，瞄准2000万高端用户](http://jandan.net/p/115748) | Wed Feb 28 2024 7:38 AM 
+- 🚀 [今日好价 0229](http://jandan.net/p/115758) | Wed Feb 28 2024 11:07 PM 
     <details><summary>展开描述 ...</summary> 
-    小米在中国拥有2000万高端智能手机用户 
+    今日带货商品数量：47 
     </details> 
 
-- 🙉 [苹果十年电动车项目搁浅，转向人工智能领域](http://jandan.net/p/115747) | Wed Feb 28 2024 7:31 AM 
+- 🙉 [跟朋友一起买房的人](http://jandan.net/p/115749) | Wed Feb 28 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
-    押注未来发展 
+    飙升的房价促使年轻人与朋友一起买房 
     </details> 
 
-- 🎉 [今日好价 0228](http://jandan.net/p/115745) | Tue Feb 27 2024 11:07 PM 
+- 🎉 [艺术中的树木比例与分形缩放](http://jandan.net/p/115752) | Wed Feb 28 2024 11:04 PM 
     <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：51 
+    一种衡量艺术中树木比例的新方法 
     </details> 
 
-- 🐲 [因太信任谷歌地图，两位德国游客迷失在澳洲荒野](http://jandan.net/p/115740) | Tue Feb 27 2024 11:05 PM 
+- 🐲 [加拿大少年重现阿基米德的“死光”](http://jandan.net/p/115754) | Wed Feb 28 2024 11:03 PM 
     <details><summary>展开描述 ...</summary> 
-    越来越多的驾驶者依赖应用程序导航 
+    印证了该传说的部分可信度 
     </details> 
 
--  [加拿大律师因引用ChatGPT编造的虚假案例受罚](http://jandan.net/p/115738) | Tue Feb 27 2024 11:03 PM 
+-  [毕达哥拉斯说的不对：研究发现和谐音调并非普遍存在](http://jandan.net/p/115750) | Wed Feb 28 2024 11:02 PM 
     <details><summary>展开描述 ...</summary> 
-    AI又无中生有了 
+    音乐家和制作人的激动人心的机会 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
