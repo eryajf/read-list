@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [主机数字集市 - 一个闲置主机和域名交流平台](https://xinquji.com/posts/809312?utm_campaign=xinquji-rss) | Tue Feb 27 2024 9:07 AM 
+- 👀 [LetsLicious - 根据人们的饮食习惯将人们联系起来的应用程序](https://xinquji.com/posts/809388?utm_campaign=xinquji-rss) | Wed Feb 28 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     一个闲置主机和域名交流平台  
+     根据人们的饮食习惯将人们联系起来的应用程序  
     </details> 
 
-- 🥷 [即时热点 - 正在发生的事 - 一个热门信息聚合站，帮助您轻松了解正在发生的事。](https://xinquji.com/posts/809311?utm_campaign=xinquji-rss) | Tue Feb 27 2024 9:07 AM 
+- 🥷 [Survser - 简单且经济实惠的 SaaS 用户调查解决方案](https://xinquji.com/posts/809387?utm_campaign=xinquji-rss) | Wed Feb 28 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     一个热门信息聚合站，帮助您轻松了解正在发生的事。  
+     简单且经济实惠的 SaaS 用户调查解决方案  
     </details> 
 
-- 💼 [不写笔记 - 点点鼠标，按几个快捷键 笔记完成，记笔记从未如此简单](https://xinquji.com/posts/809171?utm_campaign=xinquji-rss) | Tue Feb 27 2024 9:06 AM 
+- 💼 [Yolk.fm - 使用实时贴纸发送消息，无需任何文字](https://xinquji.com/posts/809386?utm_campaign=xinquji-rss) | Wed Feb 28 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     点点鼠标，按几个快捷键 笔记完成，记笔记从未如此简单  
+     使用实时贴纸发送消息，无需任何文字  
     </details> 
 
-- 🦅 [Inline Help - 在客户提问之前回答他们的问题](https://xinquji.com/posts/809361?utm_campaign=xinquji-rss) | Tue Feb 27 2024 6:00 AM 
+- 🦅 [Vendr Bids - 24 小时内获取任何 SaaS 的出价](https://xinquji.com/posts/809385?utm_campaign=xinquji-rss) | Wed Feb 28 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     在客户提问之前回答他们的问题  
+     24 小时内获取任何 SaaS 的出价  
     </details> 
 
-- 😺 [Checkout Blocks - Shopify 结账，无限制](https://xinquji.com/posts/809360?utm_campaign=xinquji-rss) | Tue Feb 27 2024 6:00 AM 
+- 😺 [Mailercloud - 自动化、优化、转换、更高水平的电子邮件自动化](https://xinquji.com/posts/809384?utm_campaign=xinquji-rss) | Wed Feb 28 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     Shopify 结账，无限制  
+     自动化、优化、转换、更高水平的电子邮件自动化  
     </details> 
 <!-- xinquji:END -->
