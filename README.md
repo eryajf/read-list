@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Tidy Up 6.0.4 重复文件清理工具](https://xclient.info/s/tidy-up.html) | Tue Feb 27 2024 3:26 AM 
-    <details><summary>展开描述 ...</summary> 
-    Tidy Up 是Mac上最优秀的一款重复文件搜索和清理工具，这款软件可以让你指定搜索的目标目录，然后搜索指定类型的重复文件，如音乐、图片、应用等，还支持直接搜索iTunes、iPhoto、Aperture等 
-    </details> 
-
--  [Rectangle Pro 3.0.19 窗口管理](https://xclient.info/s/rectangle-pro.html) | Tue Feb 27 2024 3:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    Rectangle是Mac平台上的一款窗口管理应用，可以使用键盘快捷键移动和调整macOS中的窗口大小。 
-    </details> 
-
-- ⚗️ [Things 3.20.0 一款优秀的GTD任务管理工具](https://xclient.info/s/things.html) | Tue Feb 27 2024 3:20 AM 
+- 🦏 [Things 3.20.1 一款优秀的GTD任务管理工具](https://xclient.info/s/things.html) | Wed Feb 28 2024 6:06 AM 
     <details><summary>展开描述 ...</summary> 
     Things 是 Mac OS X 上的一款优秀的GTD任务管理工具，是一款非常值得尝试的任务管理及日程管理程序，并且支持同步到iPhone中。 
     </details> 
 
-- 🔥 [iClip 5.5.8 剪切板管理工具](https://xclient.info/s/iclip.html) | Tue Feb 27 2024 3:19 AM 
+-  [Permute 3.11.6 小巧便捷的多媒体文件格式转换器](https://xclient.info/s/permute.html) | Wed Feb 28 2024 6:05 AM 
     <details><summary>展开描述 ...</summary> 
-    iClip 是一款Mac上的剪切板管理工具，使用起来异常的简单，你打开了应用程序之后鼠标移到右边就可以看到额外的出现了一块半透明的粘贴板，鼠标移开后又会消失不见，非常的方便也不会妨碍到您的工作。 
+    Permute 提供简单的视频格式转换功能，可以简单的将视频文件转换为你想要的格式。将你想要转换的视频拖到软件窗口内，然后选择你想要转换的格式即可。 
     </details> 
 
-- 🌋 [Image Resizer 2.5 图片大小调整](https://xclient.info/s/image-resizer.html) | Tue Feb 27 2024 3:17 AM 
+- ⚗️ [Ulysses 33.1 强大的文本编辑器](https://xclient.info/s/ulysses.html) | Wed Feb 28 2024 6:04 AM 
     <details><summary>展开描述 ...</summary> 
-    Image Resizer 是一款功能强大的图片批量调整大小工具，可以帮助您快速轻松地调整图片大小，并添加各种效果。 
+    2015 App Store 最佳应用程序、2013 App Store 最佳应用程序。它是世界上最好的文本编辑器。它提供您所需的一切 – 从标记到图像和脚注，从链接到评论和代码 – 它仍完全保持置身事外的样子。使用此应用程序是一种非常美好、专注的体验，它将每天写作的苦差事变得很有趣。 
+    </details> 
+
+- 🔥 [PDF Expert 3.9.2 极致的 PDF 阅读标注工作体验](https://xclient.info/s/pdf-expert-for-mac.html) | Wed Feb 28 2024 6:01 AM 
+    <details><summary>展开描述 ...</summary> 
+    DF Expert 是一个 PDF 阅读器，无论是打开一个邮件附件，还是 6000 页的报告 ，PDF Expert for Mac的打开速度都比同类快上不少，平滑流畅的滚动效果，标签页设计，也大大提高了工作效率。 
+    </details> 
+
+- 🌋 [Kaleidoscope 4.4 功能强大的对比工具](https://xclient.info/s/kaleidoscope.html) | Wed Feb 28 2024 6:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    Kaleidoscope 是一款很强大的文件和图像比较工具，支持任何文本文件和 jpeg、tiff、png、psd 等格式的图像文件，同时和 git、svn 等版本控制工具能够完美的结合。 
     </details> 
 <!-- xclient:END -->
 
