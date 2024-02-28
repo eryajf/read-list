@@ -306,7 +306,7 @@
     保护国家秘密是维护国家权益、维护国家尊严和维护国家长治久安的必然要求。 
     </details> 
 
-- 🦄 [FreeBuf 早报 | 关键SQL注入漏洞威胁超过20万个网站；网络攻击迫使上市公司电池工厂停产两周](https://www.freebuf.com/news/392699.html) | Tue Feb 27 2024 7:17 AM 
+- 🦄 [FreeBuf 早报 | 美“ReSCIND”探索项目启动；网络攻击迫使某电池工厂停产两周](https://www.freebuf.com/news/392699.html) | Tue Feb 27 2024 7:17 AM 
     <details><summary>展开描述 ...</summary> 
     由于安全原因，瓦尔塔已主动暂时关闭IT系统、暂停生产活动，并与互联网断开连接。 
     </details> 
