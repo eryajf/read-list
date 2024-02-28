@@ -306,7 +306,7 @@
     自2014年发布网络安全框架（CSF）1.0版本，时隔多年NIST发布了2.0版本，首次对网络安全框架进行重大更新。 
     </details> 
 
-- 🦄 [俄罗斯APT28隐秘攻击Ubiquiti路由器，以逃避安全检测](https://www.freebuf.com/news/392782.html) | Wed Feb 28 2024 6:36 AM 
+- 🦄 [俄罗斯APT28组织隐秘攻击Ubiquiti路由器，以逃避安全检测](https://www.freebuf.com/news/392782.html) | Wed Feb 28 2024 6:36 AM 
     <details><summary>展开描述 ...</summary> 
     在针对全球各地的军事、政府及其他机构的秘密网络行动中，APT28还利用EdgeRouters部署定制工具和设置钓鱼网站的登陆页面。 
     </details> 
