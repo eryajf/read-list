@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [Vulhub靶场练习 DC-9靶机解析](https://www.freebuf.com/articles/web/391632.html) | Wed Feb 28 2024 1:15 AM 
+- 🦄 [许多主要新闻媒体正屏蔽 OpenAI 爬虫](https://www.freebuf.com/news/392764.html) | Wed Feb 28 2024 3:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    据路透社研究所的一项调查，越来越多的新闻媒体已对OpenAI的数据爬取说“不”，在传统媒体领域，这一比例甚至超过了50%。 
+    </details> 
+
+- 🦄 [黑客借助 LabHost 平台对加拿大银行用户发起大规模钓鱼攻击](https://www.freebuf.com/news/392751.html) | Wed Feb 28 2024 2:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    网络钓鱼即服务平台能够协助初级黑客更便捷地接触网络犯罪，这大大增加了威胁行为者的数量，导致网络安全事件加剧。 
+    </details> 
+
+- 🦅 [Vulhub靶场练习 DC-9靶机解析](https://www.freebuf.com/articles/web/391632.html) | Wed Feb 28 2024 1:15 AM 
     <details><summary>展开描述 ...</summary> 
     一、搭建环境kali的IP地址是：192.168.200.14DC-9的IP地址暂时未知二、信息收集1、探索同网段下存活的主机arp-scan -l #2、探索开放的端口开启端口有：80和22端口3、 
     </details> 
 
-- 🦄 [《中华人民共和国保守国家秘密法》修订发布，5月1日正式实行](https://www.freebuf.com/news/392731.html) | Tue Feb 27 2024 11:21 AM 
+- 🪄 [《中华人民共和国保守国家秘密法》修订发布，5月1日正式实行](https://www.freebuf.com/news/392731.html) | Tue Feb 27 2024 11:21 AM 
     <details><summary>展开描述 ...</summary> 
     保护国家秘密是维护国家权益、维护国家尊严和维护国家长治久安的必然要求。 
     </details> 
 
-- 🦅 [FreeBuf 早报 | 美“ReSCIND”探索项目启动；网络攻击迫使某电池工厂停产两周](https://www.freebuf.com/news/392699.html) | Tue Feb 27 2024 7:17 AM 
+- 💻 [FreeBuf 早报 | 美“ReSCIND”探索项目启动；网络攻击迫使某电池工厂停产两周](https://www.freebuf.com/news/392699.html) | Tue Feb 27 2024 7:17 AM 
     <details><summary>展开描述 ...</summary> 
     由于安全原因，瓦尔塔已主动暂时关闭IT系统、暂停生产活动，并与互联网断开连接。 
-    </details> 
-
-- 🪄 [微软发布针对AIGC的红队测试开源工具](https://www.freebuf.com/news/392694.html) | Tue Feb 27 2024 6:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    近日，微软发布了PyRIT红队测试工具，通过自动化帮助识别生成式人工智能中的风险。 
-    </details> 
-
-- 💻 [图片也带”毒“了？ 黑客使用新技术推送 Remcos RAT](https://www.freebuf.com/news/392677.html) | Tue Feb 27 2024 5:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    UAC-0184 威胁组织被趋势科技的研究人员首次观察到 ，主要针对乌克兰武装部队发起网络攻击。 
     </details> 
 <!-- freebuf:END -->
 
