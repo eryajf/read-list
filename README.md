@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Nest：自定义装饰器](https://juejin.cn/post/7340559083839553555) | Wed Feb 28 2024 4:11 PM 
+- 🤗 [Nest：守卫 guard：请求授权的利器](https://juejin.cn/post/7340539136897335322) | Wed Feb 28 2024 4:29 PM 
+    <details><summary>展开描述 ...</summary> 
+    Nest.js的守卫是处理请求授权的强大工具，通过实现 CanActivate接口，守卫能决定请求是否继续执行。 
+    </details> 
+
+- 🎡 [Nodejs 第四十七章（redis主从复制）](https://juejin.cn/post/7340532030810898432) | Wed Feb 28 2024 4:17 PM 
+    <details><summary>展开描述 ...</summary> 
+    Redis主从复制是一种数据复制和同步机制，其中一个Redis服务器（称为主服务器）将其数据复制到一个或多个其他Redis服务器（称为从服务器）。主从复制提供了数据冗余备份、读写分离和故障恢复等功能。 
+    </details> 
+
+- 🕯 [Nest：深入理解中间件 middleware](https://juejin.cn/post/7340532030810882048) | Wed Feb 28 2024 4:16 PM 
+    <details><summary>展开描述 ...</summary> 
+    Nest 中间件是请求响应周期中的关键函数，可执行代码、修改请求响应对象、结束请求响应周期或调用下一中间件。它们用于日志记录、身份验证、性能监控等。 
+    </details> 
+
+- 🚀 [Nest：自定义装饰器](https://juejin.cn/post/7340559083839553555) | Wed Feb 28 2024 4:11 PM 
     <details><summary>展开描述 ...</summary> 
     本文介绍了 TypeScript 中自定义装饰器的概念及其在类、方法、属性和参数上的应用。我们探讨了四种装饰器类型：类装饰器、方法装饰器、属性装饰器和参数装饰器。 
     </details> 
 
-- 🎡 [Nest：常用 15 个装饰器知多少？](https://juejin.cn/post/7340554546253611023) | Wed Feb 28 2024 4:09 PM 
+- 💪 [Nest：常用 15 个装饰器知多少？](https://juejin.cn/post/7340554546253611023) | Wed Feb 28 2024 4:09 PM 
     <details><summary>展开描述 ...</summary> 
     本文深入探讨了 Nest.js 框架中广泛使用的装饰器，这些装饰器是构建和组织后端服务的核心。从创建项目开始，介绍 15 个常用的 Nest 装饰器。 
-    </details> 
-
-- 🕯 [Mistral AI发布Mistral Large模型[译]](https://juejin.cn/post/7340554546253594639) | Wed Feb 28 2024 3:55 PM 
-    <details><summary>展开描述 ...</summary> 
-    我们正式推出 Mistral Large，这是我们迄今为止最新、最先进的语言模型。Mistral Large 是我们最新研发的前沿文本生成模型，具备顶尖的推理能力。 
-    </details> 
-
-- 🚀 [智能监控系统下的行人安全预警：技术创新与法律合规](https://juejin.cn/post/7340532030810750976) | Wed Feb 28 2024 3:34 PM 
-    <details><summary>展开描述 ...</summary> 
-    智能监控系统下的行人安全预警：技术创新与法律合规 随着人工智能技术的不断发展，智能监控系统在社会生活中得到了广泛的应用。其中，行人安全预警是一个备受关注的领域，涉及到了公共安全和法律合规等多个方面。本 
-    </details> 
-
-- 💪 [Vue3 实现一个简单的方位动画](https://juejin.cn/post/7340544981520318502) | Wed Feb 28 2024 3:33 PM 
-    <details><summary>展开描述 ...</summary> 
-    这是最近遇到的一个有点意思的需求，利用 Vue3 + CSS 动画实现一个简单的地图标记动画。本文为思路的记录，并附有 Demo。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
