@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Go中的字符串](https://juejin.cn/post/7340240633999523849) | Wed Feb 28 2024 1:10 PM 
+- 🤗 [FATE联邦学习框架java实践（一）](https://juejin.cn/post/7340535444985823295) | Wed Feb 28 2024 2:09 PM 
     <details><summary>展开描述 ...</summary> 
-    字符串（string）是由0个或多个字符组成的有限序列。字符串可以看作一个由字符组成的数组，和数组一样，字符串也是一种不可变的数据类型。 字符串是Go语言的基础数据类型中的一种，其他基础数据类型还有布 
+    目前为止，通过网络搜索对于Fate应用相关的文章都非常少，对于其详细系统性实践的文章更是一篇没有。因此，这次实践可以说是目前为止，第一篇对于Fate在java实践的企业级探索。 
     </details> 
 
-- 🎡 [无所不谈,百无禁忌,Win11本地部署无内容审查中文大语言模型CausalLM-14B](https://juejin.cn/post/7340512262167101451) | Wed Feb 28 2024 1:06 PM 
+- 🎡 [没看过AQS源码，别说精通Java并发编程](https://juejin.cn/post/7340478055914455090) | Wed Feb 28 2024 2:04 PM 
     <details><summary>展开描述 ...</summary> 
-    目前流行的开源大语言模型大抵都会有内容审查机制，这并非是新鲜事，因为之前chat-gpt就曾经被“玩”坏过，如果没有内容审查，恶意用户可能通过精心设计的输入（prompt）来操纵LLM执行不当行为。内 
+    AQS 全称 AbstractQueuedSynchronizer（抽象队列同步器），旨在作为创建锁和其他同步机制的基础，常见的同步锁 ReentrantLock、CountDownLatch、Sem 
     </details> 
 
-- 🕯 [Go中的数组](https://juejin.cn/post/7340462380337365002) | Wed Feb 28 2024 1:04 PM 
+- 🕯 [写给想学 Rust 的前端同学](https://juejin.cn/post/7340573362214699049) | Wed Feb 28 2024 2:01 PM 
     <details><summary>展开描述 ...</summary> 
-    数组是一段存储固定类型、固定长度的连续内存空间，在声明时就需要确定其大小和存储类型。 数组的使用： 使用...，编译器会根据{}内成员的数量来推算数组的大小，将声明语句转换成[size]Type的类型 
+    Rust 可能正在逐渐渗透前端的方方面面，所以作为一个前端究竟有没有必要学习 Rust 呢？我认为，还是看个人的精力吧，有那个精力多学一点没有坏处，没那个精力不学也没有影响。本篇不是讨论该不该学 
     </details> 
 
-- 🚀 [Stable Video文本生成视频——Scaling Latent Video Diffusion Models to Large Datasets 附公测地](https://juejin.cn/post/7340481613145554963) | Wed Feb 28 2024 1:00 PM 
+- 🚀 [人工智能水印技术入门：工具与技巧](https://juejin.cn/entry/7340539136896745498) | Wed Feb 28 2024 1:53 PM 
     <details><summary>展开描述 ...</summary> 
-    近期，Stability AI发布了首个开放视频模型——&quot;Stable Video&quot;，该创新工具能够将文本和图像输入转化为生动的场景，将概念转换成动态影像，生成出电影级别的作品。 
+    近几个月来，我们看到了多起关于“深度伪造 &lpar;deepfakes&rpar;”或人工智能生成内容的新闻报道：从 泰勒·斯威夫特的图片、汤姆·汉克斯的视频 到 美国总统乔·拜登的录音。这些深度伪造内容被用于各种目的 
     </details> 
 
-- 💪 [Android14 Activity 启动过程详解 1 —— App 进程发起请求](https://juejin.cn/post/7340307629892419624) | Wed Feb 28 2024 12:57 PM 
+- 💪 [技术资讯：CSS滚动条样式修改，最新方式！](https://juejin.cn/post/7340307629892517928) | Wed Feb 28 2024 1:51 PM 
     <details><summary>展开描述 ...</summary> 
-    本文基于 android-14.0.0_r15 版本讲解 英文缩写说明： AMS：ActivityManagerService ATMS：ActivityTaskManagerService Andr 
+    从 Chrome 121 开始，系统全面支持标准化的 `scrollbar-width` 和 `scrollbar-color` 属性，用来简化滚动条样式的修改。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
