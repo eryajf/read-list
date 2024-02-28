@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [《HelloGitHub》第 95 期](https://juejin.cn/post/7340156047339929638) | Wed Feb 28 2024 12:43 AM 
+- 🤗 [python3.6 的三种字符串处理，formatting、str.format（）、f-string](https://juejin.cn/post/7340197367515758602) | Wed Feb 28 2024 2:13 AM 
     <details><summary>展开描述 ...</summary> 
-    简介 HelloGitHub 分享 GitHub 上有趣、入门级的开源项目。 这里有实战项目、入门教程、黑科技、开源书籍、大厂开源项目等，涵盖多种编程语言 Python、Java、Go、C/C++、S 
+    Python 3.6引入了一种新的格式化字符串方法——f-string，在此之前常用的有`％-formatting`和`str.format（）`。本文主要探讨了这三种不同的字符串格式化方法。 
     </details> 
 
-- 🎡 [自省,让Agents慢思考](https://juejin.cn/post/7340167256268537892) | Wed Feb 28 2024 12:37 AM 
+- 🎡 [Python常用标准库-os库一文详解&lpar;一&rpar;:目录操作](https://juejin.cn/post/7340195874868477987) | Wed Feb 28 2024 2:13 AM 
     <details><summary>展开描述 ...</summary> 
-    自省,让Agents慢思考 关键链接 简易自省：&lpar; Python &rpar; Reflexion：&lpar; Python &rpar; 语言代理树搜索：&lpar; Python &rpar; Youtube 自省增强是一种策略，旨在通过引导语 
+    前言 Python 标准库非常庞大，所提供的组件涉及范围十分广泛，正如以下内容目录所显示的。这个库包含了多个内置模块 &lpar;以 C 编写&rpar;，Python 程序员必须依靠它们来实现系统级功能，例如文件 I/ 
     </details> 
 
-- 🕯 [Cocos游戏开发中的序列帧动画](https://juejin.cn/post/7340163679847088164) | Wed Feb 28 2024 12:32 AM 
+- 🕯 [element组件库系列（四）-- 实际项目中弹出层组件的样式改造](https://juejin.cn/post/7340191765699411983) | Wed Feb 28 2024 2:09 AM 
     <details><summary>展开描述 ...</summary> 
-    引言 Cocos游戏开发中的序列帧动画 大家好，相信大家都玩过宝可梦这款游戏，在那个时候，能够玩上一整天。 游戏之所以好玩，少不了动画效果。我们在2d游戏开发中，序列帧动画也是比较常见的动画方式。 本 
+    导读 这是element组件库系列文章，主要是平时使用element组件库的一些过程和心得，文章篇幅不定，有长有短，但主打一个实用（可能实用不一定是对你实用，不实用请轻喷）。废话少说，本篇将谈谈笔者在 
     </details> 
 
-- 🚀 [2023 re:Invent AI 生成产品体验，从 Bedrock 到 Amazon Q](https://juejin.cn/post/7340109700767629364) | Wed Feb 28 2024 12:12 AM 
+- 🚀 [【一分钟快学】Python多线程 vs. 多进程：揭秘性能之谜与多线程正确打开方式的理解](https://juejin.cn/post/7340208335982231578) | Wed Feb 28 2024 2:00 AM 
     <details><summary>展开描述 ...</summary> 
-    如果你也有如下问题，那么接下来的文字会一一为你解答 一套数据集，如何微调不同类型的开源大模型？—— Bedrock 如何只有产品说明书，如何构建一个智能问答机器人？ 
+    探索Python多线程与多进程之战：解锁GIL的秘密，提供实用指南和最佳实践，帮助开发者在适当场景高效使用多线程 
     </details> 
 
-- 💪 [Stable Diffusion基础：ControlNet之身份标识](https://juejin.cn/post/7340127788053839909) | Wed Feb 28 2024 12:00 AM 
+- 💪 [突发！苹果被曝放弃造车计划；英伟达CEO黄仁勋寄语：学习编程价值大幅降低；Win11 安装2月更新到96%卡死 | 极客头条](https://juejin.cn/post/7340172161628635199) | Wed Feb 28 2024 1:58 AM 
     <details><summary>展开描述 ...</summary> 
-    本文给大家分享一个新的ControlNet类型：Instant ID，翻译为身份标识，这个ControlNet的核心能力是由国内的小红书团队开发的。这个ControlNet可以提取人的面部信息。 
+    稀土掘金 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。 一分钟速览新闻点！ 南京大学将开通全国高校首家 AI 课程 华为发布全球首个5.5G智能核心网 天 
     </details> 
 <!-- juejin:END -->
 ### 少数派
