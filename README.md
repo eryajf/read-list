@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【前端调试】如何优雅调试线上代码（Vue、React）](https://juejin.cn/post/7340478055913963570) | Wed Feb 28 2024 11:07 AM 
+- 🤗 [阿里低代码引擎开源两年啦～](https://juejin.cn/post/7340539136896385050) | Wed Feb 28 2024 12:10 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文正在参加阿里低代码引擎征文活动～ 在编程领域，低代码也算是一个经久不衰的话题了，每个公司、甚至每个开发者都有着独属于自己的一套开发范式，用来提高编程效率。 相较于后端的封装开发框架、封装常用工具包 
+    </details> 
+
+- 🎡 [粉丝福利：重新思考 CSS reset（样式重置）](https://juejin.cn/post/7340478055914078258) | Wed Feb 28 2024 11:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    CSS reset 意思是 CSS 样式重置，又名 CSS 样式初始化或样式标准化。在前端工程化中，CSS reset 往往是样式架构的第一步，也是团队协作的一大步。 
+    </details> 
+
+- 🕯 [Text Inversion: 比 Lora 更简单地训练人脸【Stable Diffusion 炼丹教程】](https://juejin.cn/post/7340486547274825766) | Wed Feb 28 2024 11:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文介绍如何在 Stable Diffusion 中使用 Text Inversion 训练人脸，入门炼丹。 
+    </details> 
+
+- 🚀 [Springboot jta-atomikos 多数据源事务（老技术回顾）](https://juejin.cn/post/7340481613144670227) | Wed Feb 28 2024 11:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    这个技术本来应该是过时的技术，但是最近的项目比较棘手，时间又比较赶，临时使用jta-atomikos多数据源事务，下面给大家分享如何快速接入jta-atomikos多数据源的分布式事务。 
+    </details> 
+
+- 💪 [【前端调试】如何优雅调试线上代码（Vue、React）](https://juejin.cn/post/7340478055913963570) | Wed Feb 28 2024 11:07 AM 
     <details><summary>展开描述 ...</summary> 
     前言 不管是我们Vue还是React项目，线上都是通过Webpack或Vite编译压缩之后的代码，比如： React项目： Vue项目： 这就导致了一个问题：一旦线上出现bug时，首先我们不知道问题是 
-    </details> 
-
-- 🎡 [关于前端配置Nginx的知识，你可能需要略知一二](https://juejin.cn/post/7340482172002500642) | Wed Feb 28 2024 11:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    Nginx简介 Nginx是一款轻量级的Web服务器/反向代理服务器及电子邮件（IMAP/POP3）代理服务器，并在BSD-like协议下发行。由于其高性能、稳定性、丰富的功能集、简单的配置以及低资源 
-    </details> 
-
-- 🕯 [知名AI研究者深挖谷歌Gemma：参数不止70亿，设计原则很独特](https://juejin.cn/entry/7340307629892206632) | Wed Feb 28 2024 11:01 AM 
-    <details><summary>展开描述 ...</summary> 
-    就在几天前，开源大模型领域迎来了重磅新玩家：谷歌推出了全新的开源模型系列「Gemma」。相比 Gemini，Gemma 更加轻量，同时保持免费可用，模型权重也一并开源了，且允许商用。 
-    </details> 
-
-- 🚀 [反转？OpenAI：纽约时报「黑客攻击」了ChatGPT，要求驳回版权诉讼](https://juejin.cn/entry/7340472228927750184) | Wed Feb 28 2024 11:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    去年年底，《纽约时报》向微软和 OpenAI 提起侵犯版权诉讼，指控其违规使用了《纽约时报》的内容来进行人工智能开发。 
-    </details> 
-
-- 💪 [苹果10年造车梦「夭折」，数十亿美元打水漂，特斯拉或成最大赢家](https://juejin.cn/entry/7340475659318722594) | Wed Feb 28 2024 10:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    这下子，苹果再也不用频繁变更汽车的预计发布时间了。终于，近 3 万亿美元市值的苹果在电动汽车这个赛道「折戟沉沙」，成了正在消亡的车企大军中的一员。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
