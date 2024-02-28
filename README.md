@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [LetsLicious - 根据人们的饮食习惯将人们联系起来的应用程序](https://xinquji.com/posts/809388?utm_campaign=xinquji-rss) | Wed Feb 28 2024 6:00 AM 
+- 👀 [Cartoonifier - 几秒钟内从自拍到AI生成的卡通角色。](https://xinquji.com/posts/809363?utm_campaign=xinquji-rss) | Thu Feb 29 2024 8:03 AM 
+    <details><summary>展开描述 ...</summary> 
+     几秒钟内从自拍到AI生成的卡通角色。  
+    </details> 
+
+- 🥷 [FineTBot - 一款强大的写作AI，论文写作，采用先进的大模型语言](https://xinquji.com/posts/809362?utm_campaign=xinquji-rss) | Thu Feb 29 2024 8:02 AM 
+    <details><summary>展开描述 ...</summary> 
+     一款强大的写作AI，论文写作，采用先进的大模型语言  
+    </details> 
+
+- 💼 [Quick Open - 一键搜索，直接抵达目标网页](https://xinquji.com/posts/809339?utm_campaign=xinquji-rss) | Thu Feb 29 2024 8:01 AM 
+    <details><summary>展开描述 ...</summary> 
+     一键搜索，直接抵达目标网页  
+    </details> 
+
+- 🦅 [LetsLicious - 根据人们的饮食习惯将人们联系起来的应用程序](https://xinquji.com/posts/809388?utm_campaign=xinquji-rss) | Wed Feb 28 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
      根据人们的饮食习惯将人们联系起来的应用程序  
     </details> 
 
-- 🥷 [Survser - 简单且经济实惠的 SaaS 用户调查解决方案](https://xinquji.com/posts/809387?utm_campaign=xinquji-rss) | Wed Feb 28 2024 6:00 AM 
+- 😺 [Survser - 简单且经济实惠的 SaaS 用户调查解决方案](https://xinquji.com/posts/809387?utm_campaign=xinquji-rss) | Wed Feb 28 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
      简单且经济实惠的 SaaS 用户调查解决方案  
-    </details> 
-
-- 💼 [Yolk.fm - 使用实时贴纸发送消息，无需任何文字](https://xinquji.com/posts/809386?utm_campaign=xinquji-rss) | Wed Feb 28 2024 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     使用实时贴纸发送消息，无需任何文字  
-    </details> 
-
-- 🦅 [Vendr Bids - 24 小时内获取任何 SaaS 的出价](https://xinquji.com/posts/809385?utm_campaign=xinquji-rss) | Wed Feb 28 2024 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     24 小时内获取任何 SaaS 的出价  
-    </details> 
-
-- 😺 [Mailercloud - 自动化、优化、转换、更高水平的电子邮件自动化](https://xinquji.com/posts/809384?utm_campaign=xinquji-rss) | Wed Feb 28 2024 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     自动化、优化、转换、更高水平的电子邮件自动化  
     </details> 
 <!-- xinquji:END -->
