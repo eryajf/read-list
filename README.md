@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请教大佬们基于 Invision Community 的论坛如何实现用户可自主添加产品 wiki 条目](https://www.v2ex.com/t/1019588#reply0) | Thu Feb 29 2024 11:41 AM
-- 🤗 [fedora39 键盘失效 求排查原因](https://www.v2ex.com/t/1019578#reply4) | Thu Feb 29 2024 11:11 AM
-- 🎭 [Apple Music 4 月 29 日过期，今天就显示过期](https://www.v2ex.com/t/1019576#reply2) | Thu Feb 29 2024 11:02 AM
-- 🥷 [有没有现成的 chrome 插件，能使用 gpt 一键翻译网页内容。](https://www.v2ex.com/t/1019575#reply7) | Thu Feb 29 2024 10:56 AM
-- 🐵 [轻量服务器部署今日热榜 API 及 WEB 界面](https://www.v2ex.com/t/1019572#reply0) | Thu Feb 29 2024 10:44 AM<!-- v2ex:END -->
+- 🥸 [技术求租！镜像网站](https://www.v2ex.com/t/1019603#reply3) | Thu Feb 29 2024 12:54 PM
+- 🤗 [请教各位：关于道路/车辆 3D 展示方面的问题](https://www.v2ex.com/t/1019595#reply0) | Thu Feb 29 2024 12:32 PM
+- 🎭 [请教大佬们基于 Invision Community 的论坛如何实现用户可自主添加产品 wiki 条目](https://www.v2ex.com/t/1019588#reply0) | Thu Feb 29 2024 11:41 AM
+- 🥷 [fedora39 键盘失效 求排查原因](https://www.v2ex.com/t/1019578#reply7) | Thu Feb 29 2024 11:11 AM
+- 🐵 [Apple Music 4 月 29 日过期，今天就显示过期](https://www.v2ex.com/t/1019576#reply3) | Thu Feb 29 2024 11:02 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
