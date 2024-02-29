@@ -709,13 +709,13 @@
      一键搜索，直接抵达目标网页  
     </details> 
 
-- 🦅 [LetsLicious - 根据人们的饮食习惯将人们联系起来的应用程序](https://xinquji.com/posts/809388?utm_campaign=xinquji-rss) | Wed Feb 28 2024 6:00 AM 
+- 🦅 [Talisman - 实时跟踪公司软件订阅的费用](https://xinquji.com/posts/809426?utm_campaign=xinquji-rss) | Thu Feb 29 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     根据人们的饮食习惯将人们联系起来的应用程序  
+     实时跟踪公司软件订阅的费用  
     </details> 
 
-- 😺 [Survser - 简单且经济实惠的 SaaS 用户调查解决方案](https://xinquji.com/posts/809387?utm_campaign=xinquji-rss) | Wed Feb 28 2024 6:00 AM 
+- 😺 [BetterCollected - 开源 Jotform 替代方案](https://xinquji.com/posts/809425?utm_campaign=xinquji-rss) | Thu Feb 29 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     简单且经济实惠的 SaaS 用户调查解决方案  
+     开源 Jotform 替代方案  
     </details> 
 <!-- xinquji:END -->
