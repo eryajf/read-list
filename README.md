@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [本月玩什么 | 超自然车旅、最终幻想 VII 重生、班德尔城物语](https://sspai.com/post/86752) | Wed Feb 28 2024 9:54 AM 
+- 👹 [派早报：一加推出 Ace 3 原神刻晴定制版、Apple 放弃造车等](https://sspai.com/post/86766) | Thu Feb 29 2024 12:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    任天堂向模拟器 Yuzu 发起诉讼、《最终幻想 VII Rebirth》实体版出现印刷错误等。&lt;a href=&quot;https://sspai.com/post/86766&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [本月玩什么 | 超自然车旅、最终幻想 VII 重生、班德尔城物语](https://sspai.com/post/86752) | Wed Feb 28 2024 9:54 AM 
     <details><summary>展开描述 ...</summary> 
     除了新、热大作，还有一款需要眨眼才能通关的游戏？&lt;a href=&quot;https://sspai.com/post/86752&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [年度征文 | 绝知此事要躬行：谈谈笔记与自我管理的元方法论](https://sspai.com/post/86605) | Wed Feb 28 2024 7:00 AM 
+- 🤭 [年度征文 | 绝知此事要躬行：谈谈笔记与自我管理的元方法论](https://sspai.com/post/86605) | Wed Feb 28 2024 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     编注：本文是「2023年度征文：分享你的关键词」的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。「本文参加2023年度征文活动。我的2023年度关键词是：独立」回顾2023年，「独立」 ...&lt;a href=&quot;https://sspai.com/post/86605&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [我的 2023 年度效率工具](https://sspai.com/post/85490) | Wed Feb 28 2024 3:30 AM 
+- 🥸 [我的 2023 年度效率工具](https://sspai.com/post/85490) | Wed Feb 28 2024 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/85490&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：努比亚公布多款新机、微软与 Mistral 达成合作等](https://sspai.com/post/86732) | Wed Feb 28 2024 12:00 AM 
+- 🙉 [派早报：努比亚公布多款新机、微软与 Mistral 达成合作等](https://sspai.com/post/86732) | Wed Feb 28 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     一加推出 OnePlus Watch 2，《黑神话：悟空》等 111 款游戏过审等。&lt;a href=&quot;https://sspai.com/post/86732&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [社区速递 033 | 最爱的第三方相机应用、小米电纸书以及快捷指令懒人记账](https://sspai.com/post/86718) | Tue Feb 27 2024 9:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...&lt;a href=&quot;https://sspai.com/post/86718&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
