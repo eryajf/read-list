@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【HarmonyOS】定义一个三段式插槽设计的TitleBar组件](https://juejin.cn/post/7340531314885066790) | Thu Feb 29 2024 3:10 AM 
+- 🤗 [流程图怎么画？只需这几步就可以搞定！](https://juejin.cn/post/7340531314885296166) | Thu Feb 29 2024 3:45 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 本文章适合看完Harmony官方教程，或者具有一定的前端知识的读者。 基于三段式插槽设计的TitleBar组件 使用插槽设计会让组件变得更加灵活，开发者可以自行配置的预制子元素，也可以按照自己的 
+    你在工作中有没有遇到过下面这些问题： 思维混乱，想快速厘清一个项目的逻辑； 想让客户轻松接受自己的设计构思/产品理念等； 产品流程总是百密一疏，经常遗漏了某种用户需求； 想让小伙伴们快速理解一件事，可 
     </details> 
 
-- 🎡 [React基础 第一章（使用Vite创建项目）](https://juejin.cn/post/7340621141696020516) | Thu Feb 29 2024 3:06 AM 
+- 🎡 [微信公众号授权登录Vue H5项目并指定跳转到某一个页面进行操作（即通过微信授权登录获取url上的code，调用后台接口获取access_token）](https://juejin.cn/post/7340621141696249892) | Thu Feb 29 2024 3:43 AM 
     <details><summary>展开描述 ...</summary> 
-    步骤 1: 使用 Vite 创建项目 vite提供了 4 种 react 模板，即 react，react-ts，react-swc，react-swc-ts React &lpar;JavaScript&rpar;:  
+    微信公众号授权登录Vue H5项目并指定跳转到某一个页面进行操作（即通过微信授权登录获取url上的code，调用后台接口获取access_token） 
     </details> 
 
-- 🕯 [springboot集成mail快速入门demo](https://juejin.cn/post/7340531314885034022) | Thu Feb 29 2024 3:02 AM 
+- 🕯 [Pingora快速入门：负载均衡器](https://juejin.cn/post/7340603873603862563) | Thu Feb 29 2024 3:41 AM 
     <details><summary>展开描述 ...</summary> 
-    一、简介 在日常工作开发中，发送邮件功能有时需要我们去开发使用，这里首先介绍以下与发送接受邮件相关的一些协议： 发送邮件：SMPT、MIME，是一种基于&quot;推&quot;的协议，通过SMPT协议将邮件发送至邮件服 
+    快速入门：负载均衡器 介绍 本快速入门展示了如何使用 pingora 和 pingora-proxy 构建一个简单的负载均衡器。 
     </details> 
 
-- 🚀 [Xcode Cloud: Target must be enabled before it can be used 解决](https://juejin.cn/post/7340574992257171465) | Thu Feb 29 2024 2:51 AM 
+- 🚀 [JVM调优实战（二）- 生产OOM案例](https://juejin.cn/post/7340699978964123658) | Thu Feb 29 2024 3:40 AM 
     <details><summary>展开描述 ...</summary> 
-    把我的小项目配置好 Xcode Cloud 后遇到了编译失败。我的项目引用了一个库使用了 swift macro，因此需要进行一些项目配置。 解决方式是在项目根目录下创建一个文件夹 ci_script 
+    背景   接上篇《JVM调优实战（一）》，本节主要介绍生产环境常见的异常类型及处理办法。从实战的角度细说：如何发现问题、分析问题、解决问题。 文章导读 生产问题   在生产环境中，JVM可能出现，如内 
     </details> 
 
-- 💪 [【SQL性能提升篇🔥】MySQL常用优化工具Explain、Trace工具、优化案例](https://juejin.cn/post/7340574992257073161) | Thu Feb 29 2024 2:45 AM 
+- 💪 [Mybatis延迟加载使用及原理](https://juejin.cn/post/7340603873603813411) | Thu Feb 29 2024 3:36 AM 
     <details><summary>展开描述 ...</summary> 
-    【SQL性能提升篇🔥】MySQL优化工具Explain、Trace使用方式说明、赋 实际优化案例方法。 
+    MyBatis的延迟加载是指当需要访问一个对象的关联对象时，并不是在查询主对象的同时就加载这些关联对象，而是在实际使用到关联对象时才去查询加载。这样做的好处是可以提升查询的性能，特别是对于关联关系较为 
     </details> 
 <!-- juejin:END -->
 ### 少数派
