@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [流程图怎么画？只需这几步就可以搞定！](https://juejin.cn/post/7340531314885296166) | Thu Feb 29 2024 3:45 AM 
+- 🤗 [Linux Crontab](https://juejin.cn/post/7340668778579329039) | Thu Feb 29 2024 4:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 在 Linux 中 crontab 默认都是安装好的，如果遇到了 crontab 没安装的情况先安装 crontab 安装完成后检查 service 的路径 启动 crontab 并查看是否正常 
+    </details> 
+
+- 🎡 [24K star！告别199韭菜课，来GitHub免费学大模型](https://juejin.cn/post/7340586221189972022) | Thu Feb 29 2024 4:37 AM 
+    <details><summary>展开描述 ...</summary> 
+    现在的网上充斥着各种割韭菜的AI课程，比如李一舟的199课程。为了让大家别被割韭菜了，今天推荐一个开源项目，它帮你整理好了大模型学习的roadmap，有资料有代码还免费，它就是：llm-course。 
+    </details> 
+
+- 🕯 [ECMAScript 2024 &lpar;ES15&rpar; 来啦！看看都有什么新功能吧！](https://juejin.cn/post/7340603873603977251) | Thu Feb 29 2024 4:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    ECMAScript语言规范每年更新一次，备受期待的ECMAScript 2024计划于2024年6月正式亮相。目前，ECMAScript 2024的候选版本已经发布，带来了一系列实用的新功能~~ 
+    </details> 
+
+- 🚀 [流程图怎么画？只需这几步就可以搞定！](https://juejin.cn/post/7340531314885296166) | Thu Feb 29 2024 3:45 AM 
     <details><summary>展开描述 ...</summary> 
     你在工作中有没有遇到过下面这些问题： 思维混乱，想快速厘清一个项目的逻辑； 想让客户轻松接受自己的设计构思/产品理念等； 产品流程总是百密一疏，经常遗漏了某种用户需求； 想让小伙伴们快速理解一件事，可 
     </details> 
 
-- 🎡 [微信公众号授权登录Vue H5项目并指定跳转到某一个页面进行操作（即通过微信授权登录获取url上的code，调用后台接口获取access_token）](https://juejin.cn/post/7340621141696249892) | Thu Feb 29 2024 3:43 AM 
+- 💪 [微信公众号授权登录Vue H5项目并指定跳转到某一个页面进行操作（即通过微信授权登录获取url上的code，调用后台接口获取access_token）](https://juejin.cn/post/7340621141696249892) | Thu Feb 29 2024 3:43 AM 
     <details><summary>展开描述 ...</summary> 
     微信公众号授权登录Vue H5项目并指定跳转到某一个页面进行操作（即通过微信授权登录获取url上的code，调用后台接口获取access_token） 
-    </details> 
-
-- 🕯 [Pingora快速入门：负载均衡器](https://juejin.cn/post/7340603873603862563) | Thu Feb 29 2024 3:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    快速入门：负载均衡器 介绍 本快速入门展示了如何使用 pingora 和 pingora-proxy 构建一个简单的负载均衡器。 
-    </details> 
-
-- 🚀 [JVM调优实战（二）- 生产OOM案例](https://juejin.cn/post/7340699978964123658) | Thu Feb 29 2024 3:40 AM 
-    <details><summary>展开描述 ...</summary> 
-    背景   接上篇《JVM调优实战（一）》，本节主要介绍生产环境常见的异常类型及处理办法。从实战的角度细说：如何发现问题、分析问题、解决问题。 文章导读 生产问题   在生产环境中，JVM可能出现，如内 
-    </details> 
-
-- 💪 [Mybatis延迟加载使用及原理](https://juejin.cn/post/7340603873603813411) | Thu Feb 29 2024 3:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    MyBatis的延迟加载是指当需要访问一个对象的关联对象时，并不是在查询主对象的同时就加载这些关联对象，而是在实际使用到关联对象时才去查询加载。这样做的好处是可以提升查询的性能，特别是对于关联关系较为 
     </details> 
 <!-- juejin:END -->
 ### 少数派
