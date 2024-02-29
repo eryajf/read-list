@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [VueScan 9.8.25 扫描仪万能驱动](https://xclient.info/s/vuescan.html) | Thu Feb 29 2024 1:51 AM 
+- 🦏 [Text Workflow 1.9.1 文本编辑](https://xclient.info/s/text-workflow.html) | Thu Feb 29 2024 2:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    Text Workflow 是一款 macOS 文本编辑工具，可帮助您自动化重复性的文本处理任务。 
+    </details> 
+
+-  [VueScan 9.8.25 扫描仪万能驱动](https://xclient.info/s/vuescan.html) | Thu Feb 29 2024 1:51 AM 
     <details><summary>展开描述 ...</summary> 
     VueScan 是一款万能扫描驱动程序，支持多达2000多种新旧的扫描仪，目前已经成为最知名和最好用的万能驱动了，并且扫描效果要比使用很多原厂驱动好，总之，如果你正在找一款Mac上的扫描仪驱动，首选VueScan。 
     </details> 
 
--  [QLab Pro 5.3.4 专业现场媒体编辑工具](https://xclient.info/s/qlab-pro.html) | Thu Feb 29 2024 1:50 AM 
+- ⚗️ [QLab Pro 5.3.4 专业现场媒体编辑工具](https://xclient.info/s/qlab-pro.html) | Thu Feb 29 2024 1:50 AM 
     <details><summary>展开描述 ...</summary> 
     QLab 是一款专为现场表演而设计的多媒体制作工具，能够让你的Mac掌控整个表演现场。包含戏剧，舞蹈，组合，安装，和更多的风格功能。只需从一个单一的工作区就能播放MIDI和音视频。 
     </details> 
 
-- ⚗️ [FastScripts 3.3.1 脚本调用工具](https://xclient.info/s/fastscripts.html) | Thu Feb 29 2024 1:49 AM 
+- 🔥 [FastScripts 3.3.1 脚本调用工具](https://xclient.info/s/fastscripts.html) | Thu Feb 29 2024 1:49 AM 
     <details><summary>展开描述 ...</summary> 
     FastScripts 是一款Mac OS平台上的脚本调用工具，让用户快速在任何应用程序中通过菜单执行AppleScript或shell脚本，用户可将菜单中的任何脚本自定义快捷键还通过方便的快捷键编辑脚本。 
     </details> 
 
-- 🔥 [PullTube 1.8.5.26 在线视频下载工具](https://xclient.info/s/pulltube.html) | Thu Feb 29 2024 1:47 AM 
+- 🌋 [PullTube 1.8.5.26 在线视频下载工具](https://xclient.info/s/pulltube.html) | Thu Feb 29 2024 1:47 AM 
     <details><summary>展开描述 ...</summary> 
     PullTube 是一款amcOS平台的在线视频下载工具，可以帮助我们下载油管以及Vimeo的在线视频到本地 
-    </details> 
-
-- 🌋 [ProPresenter 7.16 现场演出和媒体演示工具](https://xclient.info/s/propresenter.html) | Thu Feb 29 2024 1:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    ProPresenter是一个演示系统，利用两个屏幕，使用户能够快速，轻松地在一个屏幕上演示幻灯片同时控制另一个屏幕演示文稿。 
     </details> 
 <!-- xclient:END -->
 
