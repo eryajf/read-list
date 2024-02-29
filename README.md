@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [前端常用到的“参数导致列表重绘”的几种情况](https://juejin.cn/post/7340865231380299785) | Thu Feb 29 2024 3:56 PM 
+- 🤗 [一张照片一键换脸：无需数据集和训练 | 开源日报 No.186](https://juejin.cn/post/7340896627018792996) | Thu Feb 29 2024 6:07 PM 
+    <details><summary>展开描述 ...</summary> 
+    roop 是一个一键换脸的项目。 该项目可以通过一张目标人物的照片，实现对视频中人脸进行替换，无需数据集和训练。 
+    </details> 
+
+- 🎡 [前端常用到的“参数导致列表重绘”的几种情况](https://juejin.cn/post/7340865231380299785) | Thu Feb 29 2024 3:56 PM 
     <details><summary>展开描述 ...</summary> 
     本文将详细介绍在Vue或React中参数变化导致重新发起数据请求的几种情况，以及如何通过合理的策略来优化性能。 
     </details> 
 
-- 🎡 [我用 Navicat 这些技能少加了好多班，也为公司挣了不少w](https://juejin.cn/post/7340945113860046867) | Thu Feb 29 2024 3:55 PM 
+- 🕯 [我用 Navicat 这些技能少加了好多班，也为公司挣了不少w](https://juejin.cn/post/7340945113860046867) | Thu Feb 29 2024 3:55 PM 
     <details><summary>展开描述 ...</summary> 
     我用 Navicat 的这些技能少加了好多班，也为公司挣了不少w 本文我将结合我过去的实践，给大家推荐一款数据库的运维工具。给大家呈现一下竟然可以用 Navicat 解决这些实际问题 。 熬了几个夜， 
     </details> 
 
-- 🕯 [如何实现class文件的反编译：java-decompiler 反编译工具](https://juejin.cn/post/7340896627018694692) | Thu Feb 29 2024 3:54 PM 
+- 🚀 [如何实现class文件的反编译：java-decompiler 反编译工具](https://juejin.cn/post/7340896627018694692) | Thu Feb 29 2024 3:54 PM 
     <details><summary>展开描述 ...</summary> 
     java-decompiler 反编译工具 📝 主旨内容 Java Decompiler是一项开源工具，Java Decompiler工具不仅可以实现反编译.class文件，将.class文件变为可以 
     </details> 
 
-- 🚀 [Vue Router学习（十）——路由传参解析](https://juejin.cn/post/7340896627018645540) | Thu Feb 29 2024 3:46 PM 
+- 💪 [Vue Router学习（十）——路由传参解析](https://juejin.cn/post/7340896627018645540) | Thu Feb 29 2024 3:46 PM 
     <details><summary>展开描述 ...</summary> 
     我们知道传参的方法，通过router添加参数，利用route接收参数，但其中过程我们就不得而知了，本节我们就来解析一下路由传参过程。 
-    </details> 
-
-- 💪 [【Flutter&amp;GLSL】用Fragment Shader来实现高性能的动画效果——如何修正翻页范围](https://juejin.cn/post/7340902427615412251) | Thu Feb 29 2024 3:46 PM 
-    <details><summary>展开描述 ...</summary> 
-    书接上文，距离达到翻页动画本身的可用，还需要增加对翻页范围的限制，这次就来完成翻页动画的这最后一个拼图，接下来就可以暂时告别shader，回归dart的实现了。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
