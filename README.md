@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Nest：使用 ValidationPipe 验证 post 请求参数](https://juejin.cn/post/7340945113859948563) | Thu Feb 29 2024 3:07 PM 
+- 🤗 [前端常用到的“参数导致列表重绘”的几种情况](https://juejin.cn/post/7340865231380299785) | Thu Feb 29 2024 3:56 PM 
     <details><summary>展开描述 ...</summary> 
-    本文详细介绍了 NestJS 中如何使用 DTO（数据传输对象）进行 Post 请求的数据接收，并通过 ValidationPipe 实现参数验证。 
+    本文将详细介绍在Vue或React中参数变化导致重新发起数据请求的几种情况，以及如何通过合理的策略来优化性能。 
     </details> 
 
-- 🎡 [面试官：能不能手写一个发布订阅。从自定义事件-&gt;影子dom-&gt;ES6语法class-&gt;手写发布订阅](https://juejin.cn/post/7340883460981489716) | Thu Feb 29 2024 3:04 PM 
+- 🎡 [我用 Navicat 这些技能少加了好多班，也为公司挣了不少w](https://juejin.cn/post/7340945113860046867) | Thu Feb 29 2024 3:55 PM 
     <details><summary>展开描述 ...</summary> 
-    这几天看小伙伴的面经的时候，看到一位小伙伴面试被问到设计模式发布订阅，所以今天我们就来学习一下设计模式之发布订阅！ 想直接看手写发布订阅的小伙伴：手写发布订阅 发布订阅是vue源码 
+    我用 Navicat 的这些技能少加了好多班，也为公司挣了不少w 本文我将结合我过去的实践，给大家推荐一款数据库的运维工具。给大家呈现一下竟然可以用 Navicat 解决这些实际问题 。 熬了几个夜， 
     </details> 
 
-- 🕯 [深入浅出 RxJS 与 Nest 拦截器：异步逻辑的优雅处理](https://juejin.cn/post/7340902427615117339) | Thu Feb 29 2024 2:59 PM 
+- 🕯 [如何实现class文件的反编译：java-decompiler 反编译工具](https://juejin.cn/post/7340896627018694692) | Thu Feb 29 2024 3:54 PM 
     <details><summary>展开描述 ...</summary> 
-    本文介绍了 RxJS 库在异步逻辑处理中的强大功能，并结合 NestJS 的拦截器（interceptor）展示了如何在请求响应过程中应用 RxJS 的 operator。 
+    java-decompiler 反编译工具 📝 主旨内容 Java Decompiler是一项开源工具，Java Decompiler工具不仅可以实现反编译.class文件，将.class文件变为可以 
     </details> 
 
-- 🚀 [Java 继承与多态：代码重用与灵活性的巧妙结合](https://juejin.cn/post/7340896627018481700) | Thu Feb 29 2024 2:40 PM 
+- 🚀 [Vue Router学习（十）——路由传参解析](https://juejin.cn/post/7340896627018645540) | Thu Feb 29 2024 3:46 PM 
     <details><summary>展开描述 ...</summary> 
-    Java 继承（子类和超类） 在 Java 中，可以从一个类继承属性和方法到另一个类。我们将“继承概念”分为两类： 子类（child）: 从另一个类继承的类 超类（parent）: 被继承的类 要从一 
+    我们知道传参的方法，通过router添加参数，利用route接收参数，但其中过程我们就不得而知了，本节我们就来解析一下路由传参过程。 
     </details> 
 
-- 💪 [Java中的时间API：Date、Calendar到Java.time的演变](https://juejin.cn/post/7340856664755699739) | Thu Feb 29 2024 2:32 PM 
+- 💪 [【Flutter&amp;GLSL】用Fragment Shader来实现高性能的动画效果——如何修正翻页范围](https://juejin.cn/post/7340902427615412251) | Thu Feb 29 2024 3:46 PM 
     <details><summary>展开描述 ...</summary> 
-    在软件开发中，处理时间和日期是一项基本且不可或缺的任务。无论是日志记录、用户信息管理还是复杂的定时任务，准确地处理时间都显得至关重要。然而，时间的处理并不像它看起来那么简单，尤其是当我们考虑到时 
+    书接上文，距离达到翻页动画本身的可用，还需要增加对翻页范围的限制，这次就来完成翻页动画的这最后一个拼图，接下来就可以暂时告别shader，回归dart的实现了。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
