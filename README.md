@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [找到适合自己的可循之法：聊聊我对语言学习的思考](https://sspai.com/post/85611) | Thu Feb 29 2024 3:38 AM 
+- 👹 [属于游戏玩家的春节档最强「贺岁片」：绝地潜兵 2](https://sspai.com/post/86680) | Thu Feb 29 2024 6:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文首发于「游研社」，作者@Chara，少数派经授权转载，仅对排版略作调整。阅读原文加密传输，正在解密，级别：机密乌姆劳特分区舰队绝地潜兵前线指挥部备忘录收件人：绝地潜兵超级地球指挥总部主题：任务失败 ...&lt;a href=&quot;https://sspai.com/post/86680&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [找到适合自己的可循之法：聊聊我对语言学习的思考](https://sspai.com/post/85611) | Thu Feb 29 2024 3:38 AM 
     <details><summary>展开描述 ...</summary> 
     语料跟读有何技巧、英文原版书如何迈出第一步、如何找到适合自己的语言学习方法、进行有效性输入前为什么要先学习语法……学习语言是以年为单位的事情，开始之前不妨聊聊我对语言学习的思考。&lt;a href=&quot;https://sspai.com/post/85611&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：一加推出 Ace 3 原神刻晴定制版、Apple 放弃造车等](https://sspai.com/post/86766) | Thu Feb 29 2024 12:29 AM 
+- 🤭 [派早报：一加推出 Ace 3 原神刻晴定制版、Apple 放弃造车等](https://sspai.com/post/86766) | Thu Feb 29 2024 12:29 AM 
     <details><summary>展开描述 ...</summary> 
     任天堂向模拟器 Yuzu 发起诉讼、《最终幻想 VII Rebirth》实体版出现印刷错误等。&lt;a href=&quot;https://sspai.com/post/86766&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [本月玩什么 | 超自然车旅、最终幻想 VII 重生、班德尔城物语](https://sspai.com/post/86752) | Wed Feb 28 2024 9:54 AM 
+- 🥸 [本月玩什么 | 超自然车旅、最终幻想 VII 重生、班德尔城物语](https://sspai.com/post/86752) | Wed Feb 28 2024 9:54 AM 
     <details><summary>展开描述 ...</summary> 
     除了新、热大作，还有一款需要眨眼才能通关的游戏？&lt;a href=&quot;https://sspai.com/post/86752&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [年度征文 | 绝知此事要躬行：谈谈笔记与自我管理的元方法论](https://sspai.com/post/86605) | Wed Feb 28 2024 7:00 AM 
+- 🙉 [年度征文 | 绝知此事要躬行：谈谈笔记与自我管理的元方法论](https://sspai.com/post/86605) | Wed Feb 28 2024 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     编注：本文是「2023年度征文：分享你的关键词」的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。「本文参加2023年度征文活动。我的2023年度关键词是：独立」回顾2023年，「独立」 ...&lt;a href=&quot;https://sspai.com/post/86605&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [我的 2023 年度效率工具](https://sspai.com/post/85490) | Wed Feb 28 2024 3:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/85490&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
