@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [React基础 第四章（JSX标签）](https://juejin.cn/post/7340834858275487796) | Thu Feb 29 2024 12:18 PM 
+- 🤗 [pytorch 要点之雅可比向量积](https://juejin.cn/post/7340826749095903271) | Thu Feb 29 2024 1:07 PM 
     <details><summary>展开描述 ...</summary> 
-    JSX是React开发中不可或缺的一部分，它将JavaScript与类HTML的标记语言结合在一起，使得编写UI组件变得直观而高效。本文将基于React官方文档中的知识点，提供一些在开发中常用的技巧、 
+    书接前文，我们了解了 —— # 刹车与油门：PyTorch Autograd 的赛车之旅，如文所说，自动微分是 PyTorch 深度学习框架的核心。既然是核心，就需要敲黑板、划重点学习。 
     </details> 
 
-- 🎡 [深入理解Vue3中的watch与watchEffect的使用与区别](https://juejin.cn/post/7340830470463029286) | Thu Feb 29 2024 12:17 PM 
+- 🎡 [Android14 Activity 启动过程详解 2 ——  SystemServer 处理请求之构建](https://juejin.cn/post/7340907184639688704) | Thu Feb 29 2024 1:04 PM 
     <details><summary>展开描述 ...</summary> 
-    本文将深入探讨Vue3中watch与watchEffect的使用与区别。通过详细解释它们的概念和功能，读者将了解如何利用watch来监视数据变化并执行相应操作 
+    上一节我们分析到客户端发起 Binder RPC 调用，接下来就会远程调用到 SystemServer 进程中 ActivityTaskManagerService 服务的 startActivity 
     </details> 
 
-- 🕯 [Vue3项目中使用TypeScript：全面指南和最佳实践](https://juejin.cn/post/7340836136207925286) | Thu Feb 29 2024 12:11 PM 
+- 🕯 [揭秘百度一面：细节不容忽视，直戳难点（含面试题）](https://juejin.cn/post/7340834858275602484) | Thu Feb 29 2024 12:57 PM 
     <details><summary>展开描述 ...</summary> 
-    在Vue3项目中使用TypeScript是一种流行的实践，它结合了Vue3框架的优势和TypeScript的类型检查功能，有助于提高代码质量、可维护性和开发效率。本文将探讨在Vue3项目中集成Type 
+    前言 首先介绍一下情况，江西双非一本，非科班，一段前端实习经验。 面百度之前有三个offer，不过都是小厂和中厂，百度这次约面试算是接到的第一个大厂面试，属于百度网盘部门。 2月18号投简历 2月26 
     </details> 
 
-- 🚀 [React基础 第三章（组件的导入与导出）](https://juejin.cn/post/7340907184639475712) | Thu Feb 29 2024 12:11 PM 
+- 🚀 [React基础 第六章（组件中Props的传递）](https://juejin.cn/post/7340830470463209510) | Thu Feb 29 2024 12:50 PM 
     <details><summary>展开描述 ...</summary> 
-    在React应用开发中，组件的导入与导出是组织代码和模块化的关键。本文将基于React官方文档中的知识点，提供一些开发中的技巧、示例代码以及注意事项，帮助你更好地理解和使用导入导出机制。 默认导出&lpar;D 
+    在React的世界里，组件间的沟通是通过Props（属性）来实现的。Props是组件间传递数据的一种方式，它们类似于HTML属性，但更加强大，因为你可以通过它们传递任何JavaScript值，包括对象 
     </details> 
 
-- 💪 [鸿蒙应用开发-组件构建函数](https://juejin.cn/post/7340907184639410176) | Thu Feb 29 2024 11:59 AM 
+- 💪 [如何评价 React 服务器组件？](https://juejin.cn/post/7340856664755240987) | Thu Feb 29 2024 12:37 PM 
     <details><summary>展开描述 ...</summary> 
-    自定义构建函数 1. 构建函数-@Builder 组件内定义 全局定义 1）组件内定义 2）全局定义 📕📕📕 练习案例→商品详情-更多按钮 使用 @Builder 提取UI结构 小结： 遇到非遍历情况 
+    RSC（React 服务器组件）为 React 带来了服务器独有的功能。本人一直在 Next 13 和 14 中使用这种新型范式。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
