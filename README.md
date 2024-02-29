@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [pytorch 要点之雅可比向量积](https://juejin.cn/post/7340826749095903271) | Thu Feb 29 2024 1:07 PM 
+- 🤗 [程序员的财富指南 第四章 （时间管理与效率提升）](https://juejin.cn/post/7340864123074510888) | Thu Feb 29 2024 2:10 PM 
     <details><summary>展开描述 ...</summary> 
-    书接前文，我们了解了 —— # 刹车与油门：PyTorch Autograd 的赛车之旅，如文所说，自动微分是 PyTorch 深度学习框架的核心。既然是核心，就需要敲黑板、划重点学习。 
+    在职业生涯的道路上，我们追求的不仅仅是生存，更是卓越。你的时间宝贵，你的精力有限，而你追求成功的决心无比坚定。在这个充满机遇和挑战的世界里，如何把每一份努力转化为最大的回报，就成了我们需要深入探讨的问 
     </details> 
 
-- 🎡 [Android14 Activity 启动过程详解 2 ——  SystemServer 处理请求之构建](https://juejin.cn/post/7340907184639688704) | Thu Feb 29 2024 1:04 PM 
+- 🎡 [利用 MTCNN 快速进行人脸检测](https://juejin.cn/post/7340902427615035419) | Thu Feb 29 2024 2:10 PM 
     <details><summary>展开描述 ...</summary> 
-    上一节我们分析到客户端发起 Binder RPC 调用，接下来就会远程调用到 SystemServer 进程中 ActivityTaskManagerService 服务的 startActivity 
+    大家好啊，我是董董灿。 今天介绍一个非常简单，利用 MTCNN 模型快速进行人脸检测的方法。 先介绍一下什么是 MTCNN 。 1、什么是 MTCNN MTCNN&lpar;Multi-task Cascade 
     </details> 
 
-- 🕯 [揭秘百度一面：细节不容忽视，直戳难点（含面试题）](https://juejin.cn/post/7340834858275602484) | Thu Feb 29 2024 12:57 PM 
+- 🕯 [一款高温型霍尔效应传感器](https://juejin.cn/post/7340883460981358644) | Thu Feb 29 2024 2:05 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 首先介绍一下情况，江西双非一本，非科班，一段前端实习经验。 面百度之前有三个offer，不过都是小厂和中厂，百度这次约面试算是接到的第一个大厂面试，属于百度网盘部门。 2月18号投简历 2月26 
+    一、产品概述 HAL443A单极性霍尔位置传感器是由内部电压稳压器、霍尔电压发生器、差分 放大器、温度补偿单 元、施密特触发器和集 电极开路输出级组成的磁敏传感电路，其输入为磁感应强度，输出是一个数字 
     </details> 
 
-- 🚀 [React基础 第六章（组件中Props的传递）](https://juejin.cn/post/7340830470463209510) | Thu Feb 29 2024 12:50 PM 
+- 🚀 [深入理解Java泛型及其在实际编程中的应用](https://juejin.cn/post/7340902427614986267) | Thu Feb 29 2024 1:57 PM 
     <details><summary>展开描述 ...</summary> 
-    在React的世界里，组件间的沟通是通过Props（属性）来实现的。Props是组件间传递数据的一种方式，它们类似于HTML属性，但更加强大，因为你可以通过它们传递任何JavaScript值，包括对象 
+    泛型不仅仅局限于集合框架，咱们还可以在自己的类和方法中使用泛型。// 使用示例System.out.println&lpar;&quot;较大的数字是：&quot; + intPair.getBigger&lpar;&rpar;&rpar;;System.ou 
     </details> 
 
-- 💪 [如何评价 React 服务器组件？](https://juejin.cn/post/7340856664755240987) | Thu Feb 29 2024 12:37 PM 
+- 💪 [FATE联邦学习框架java实践（二）](https://juejin.cn/post/7340896627018186788) | Thu Feb 29 2024 1:55 PM 
     <details><summary>展开描述 ...</summary> 
-    RSC（React 服务器组件）为 React 带来了服务器独有的功能。本人一直在 Next 13 和 14 中使用这种新型范式。 
+    在FATE联邦学习框架java实践（一&rpar;经过重重困难实现了Fate的数据上传和下载。 现在对于一个完整Fate实践的功能流程，还差数据更新和上传执行任务。因此本篇主要实现数据更新功能和上传任务的功能。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
