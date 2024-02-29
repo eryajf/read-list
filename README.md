@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Linux Crontab](https://juejin.cn/post/7340668778579329039) | Thu Feb 29 2024 4:55 AM 
+- 🤗 [jsdoc进阶篇，用这些常用的类型标注来完善你的js代码吧](https://juejin.cn/post/7340614393834815523) | Thu Feb 29 2024 6:10 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 在 Linux 中 crontab 默认都是安装好的，如果遇到了 crontab 没安装的情况先安装 crontab 安装完成后检查 service 的路径 启动 crontab 并查看是否正常 
+    jsdoc的好处，可以看我上一篇文章：请抛弃行内注释，教你如何在typescript中更好的写注释 如何学习jsdoc可以看官网 JSDoc 中文文档 这里就不写一些简单的例子，直接上强度。 因为我们 
     </details> 
 
-- 🎡 [24K star！告别199韭菜课，来GitHub免费学大模型](https://juejin.cn/post/7340586221189972022) | Thu Feb 29 2024 4:37 AM 
+- 🎡 [C# .NET面试系列九：常见的算法](https://juejin.cn/post/7340603873604468771) | Thu Feb 29 2024 6:09 AM 
     <details><summary>展开描述 ...</summary> 
-    现在的网上充斥着各种割韭菜的AI课程，比如李一舟的199课程。为了让大家别被割韭菜了，今天推荐一个开源项目，它帮你整理好了大模型学习的roadmap，有资料有代码还免费，它就是：llm-course。 
+    常见的算法 1. 求质数 以上是一个简单的 C# 程序，用于找到一定范围内的质数（素数）。 2. 有一列数1，1，2，3，5，........求第30个数. 在斐波那契数列中，通常是第一个和第二个数是 
     </details> 
 
-- 🕯 [ECMAScript 2024 &lpar;ES15&rpar; 来啦！看看都有什么新功能吧！](https://juejin.cn/post/7340603873603977251) | Thu Feb 29 2024 4:13 AM 
+- 🕯 [Flannel 技术调研，固定主机和容器IP的方法](https://juejin.cn/post/7340614393834717219) | Thu Feb 29 2024 6:05 AM 
     <details><summary>展开描述 ...</summary> 
-    ECMAScript语言规范每年更新一次，备受期待的ECMAScript 2024计划于2024年6月正式亮相。目前，ECMAScript 2024的候选版本已经发布，带来了一系列实用的新功能~~ 
+    Flannel是CoreOS团队针对Kubernetes设计的一个网络规划服务，简单来说，它的功能是让集群中的不同节点主机创建的Docker容器都具有全集群唯一的虚拟IP地址。 
     </details> 
 
-- 🚀 [流程图怎么画？只需这几步就可以搞定！](https://juejin.cn/post/7340531314885296166) | Thu Feb 29 2024 3:45 AM 
+- 🚀 [小小导出，我大前端足矣、如何增大一个换行元素的点击区域、理解数据库如何使用索引、想徒手写个文件系统 | 酱酱的下午茶第311期](https://juejin.cn/post/7340668778579771407) | Thu Feb 29 2024 6:04 AM 
     <details><summary>展开描述 ...</summary> 
-    你在工作中有没有遇到过下面这些问题： 思维混乱，想快速厘清一个项目的逻辑； 想让客户轻松接受自己的设计构思/产品理念等； 产品流程总是百密一疏，经常遗漏了某种用户需求； 想让小伙伴们快速理解一件事，可 
+    【本期掘金酱的下午茶】亮点： 小小导出，我大前端足矣 Vue 3 的 setup语法糖到底是什么东西 如何增大一个换行元素的点击区域 记录一次CI/CD pipline流程慢问题优化 理解数据库如何使 
     </details> 
 
-- 💪 [微信公众号授权登录Vue H5项目并指定跳转到某一个页面进行操作（即通过微信授权登录获取url上的code，调用后台接口获取access_token）](https://juejin.cn/post/7340621141696249892) | Thu Feb 29 2024 3:43 AM 
+- 💪 [1.1 计算机系统简介](https://juejin.cn/post/7340678592970866739) | Thu Feb 29 2024 5:57 AM 
     <details><summary>展开描述 ...</summary> 
-    微信公众号授权登录Vue H5项目并指定跳转到某一个页面进行操作（即通过微信授权登录获取url上的code，调用后台接口获取access_token） 
+    计算机组成原理位于计算机课程硬件部分的最上层，如何实现计算机体系结构所体现的属性（如何实现指令） 计算机系统结构是连接软硬件的桥梁部分，核心内容是指令集，机器语言程序员编写在硬件系统上运行的程序所用到 
     </details> 
 <!-- juejin:END -->
 ### 少数派
