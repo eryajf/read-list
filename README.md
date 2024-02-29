@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Ulysses 33.1 强大的文本编辑器](https://xclient.info/s/ulysses.html) | Wed Feb 28 2024 6:39 AM 
+- 🦏 [VueScan 9.8.25 扫描仪万能驱动](https://xclient.info/s/vuescan.html) | Thu Feb 29 2024 1:51 AM 
     <details><summary>展开描述 ...</summary> 
-    2015 App Store 最佳应用程序、2013 App Store 最佳应用程序。它是世界上最好的文本编辑器。它提供您所需的一切 – 从标记到图像和脚注，从链接到评论和代码 – 它仍完全保持置身事外的样子。使用此应用程序是一种非常美好、专注的体验，它将每天写作的苦差事变得很有趣。 
+    VueScan 是一款万能扫描驱动程序，支持多达2000多种新旧的扫描仪，目前已经成为最知名和最好用的万能驱动了，并且扫描效果要比使用很多原厂驱动好，总之，如果你正在找一款Mac上的扫描仪驱动，首选VueScan。 
     </details> 
 
--  [Things 3.20.1 一款优秀的GTD任务管理工具](https://xclient.info/s/things.html) | Wed Feb 28 2024 6:06 AM 
+-  [QLab Pro 5.3.4 专业现场媒体编辑工具](https://xclient.info/s/qlab-pro.html) | Thu Feb 29 2024 1:50 AM 
     <details><summary>展开描述 ...</summary> 
-    Things 是 Mac OS X 上的一款优秀的GTD任务管理工具，是一款非常值得尝试的任务管理及日程管理程序，并且支持同步到iPhone中。 
+    QLab 是一款专为现场表演而设计的多媒体制作工具，能够让你的Mac掌控整个表演现场。包含戏剧，舞蹈，组合，安装，和更多的风格功能。只需从一个单一的工作区就能播放MIDI和音视频。 
     </details> 
 
-- ⚗️ [Permute 3.11.6 小巧便捷的多媒体文件格式转换器](https://xclient.info/s/permute.html) | Wed Feb 28 2024 6:05 AM 
+- ⚗️ [FastScripts 3.3.1 脚本调用工具](https://xclient.info/s/fastscripts.html) | Thu Feb 29 2024 1:49 AM 
     <details><summary>展开描述 ...</summary> 
-    Permute 提供简单的视频格式转换功能，可以简单的将视频文件转换为你想要的格式。将你想要转换的视频拖到软件窗口内，然后选择你想要转换的格式即可。 
+    FastScripts 是一款Mac OS平台上的脚本调用工具，让用户快速在任何应用程序中通过菜单执行AppleScript或shell脚本，用户可将菜单中的任何脚本自定义快捷键还通过方便的快捷键编辑脚本。 
     </details> 
 
-- 🔥 [PDF Expert 3.9.2 极致的 PDF 阅读标注工作体验](https://xclient.info/s/pdf-expert-for-mac.html) | Wed Feb 28 2024 6:01 AM 
+- 🔥 [PullTube 1.8.5.26 在线视频下载工具](https://xclient.info/s/pulltube.html) | Thu Feb 29 2024 1:47 AM 
     <details><summary>展开描述 ...</summary> 
-    DF Expert 是一个 PDF 阅读器，无论是打开一个邮件附件，还是 6000 页的报告 ，PDF Expert for Mac的打开速度都比同类快上不少，平滑流畅的滚动效果，标签页设计，也大大提高了工作效率。 
+    PullTube 是一款amcOS平台的在线视频下载工具，可以帮助我们下载油管以及Vimeo的在线视频到本地 
     </details> 
 
-- 🌋 [Kaleidoscope 4.4 功能强大的对比工具](https://xclient.info/s/kaleidoscope.html) | Wed Feb 28 2024 6:00 AM 
+- 🌋 [ProPresenter 7.16 现场演出和媒体演示工具](https://xclient.info/s/propresenter.html) | Thu Feb 29 2024 1:46 AM 
     <details><summary>展开描述 ...</summary> 
-    Kaleidoscope 是一款很强大的文件和图像比较工具，支持任何文本文件和 jpeg、tiff、png、psd 等格式的图像文件，同时和 git、svn 等版本控制工具能够完美的结合。 
+    ProPresenter是一个演示系统，利用两个屏幕，使用户能够快速，轻松地在一个屏幕上演示幻灯片同时控制另一个屏幕演示文稿。 
     </details> 
 <!-- xclient:END -->
 
