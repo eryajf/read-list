@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Monorepo](https://juejin.cn/post/7340541467213955087) | Thu Feb 29 2024 2:14 AM 
+- 🤗 [【HarmonyOS】定义一个三段式插槽设计的TitleBar组件](https://juejin.cn/post/7340531314885066790) | Thu Feb 29 2024 3:10 AM 
     <details><summary>展开描述 ...</summary> 
-    待更新 参考文献：https://article.juejin.cn/post/7243819009867006012 
+    前言 本文章适合看完Harmony官方教程，或者具有一定的前端知识的读者。 基于三段式插槽设计的TitleBar组件 使用插槽设计会让组件变得更加灵活，开发者可以自行配置的预制子元素，也可以按照自己的 
     </details> 
 
-- 🎡 [网购衣服经常不合身？试试这款虚拟服装试穿工具](https://juejin.cn/post/7340559083840274451) | Thu Feb 29 2024 2:12 AM 
+- 🎡 [React基础 第一章（使用Vite创建项目）](https://juejin.cn/post/7340621141696020516) | Thu Feb 29 2024 3:06 AM 
     <details><summary>展开描述 ...</summary> 
-    OOTDiffusion —— 一个虚拟服装试穿工具的开源项目，可以根据不同性别和体型自动调整，和模特非常贴合。 
+    步骤 1: 使用 Vite 创建项目 vite提供了 4 种 react 模板，即 react，react-ts，react-swc，react-swc-ts React &lpar;JavaScript&rpar;:  
     </details> 
 
-- 🕯 [单元测试数据库回滚问题](https://juejin.cn/post/7340554546254741519) | Thu Feb 29 2024 2:11 AM 
+- 🕯 [springboot集成mail快速入门demo](https://juejin.cn/post/7340531314885034022) | Thu Feb 29 2024 3:02 AM 
     <details><summary>展开描述 ...</summary> 
-    问题现象： 在进行单元测试时，测试执行成功，可是数据库中的数据没变 问题解决：单元测试自动回滚，需要 
+    一、简介 在日常工作开发中，发送邮件功能有时需要我们去开发使用，这里首先介绍以下与发送接受邮件相关的一些协议： 发送邮件：SMPT、MIME，是一种基于&quot;推&quot;的协议，通过SMPT协议将邮件发送至邮件服 
     </details> 
 
-- 🚀 [雷军、李想、何小鹏谈苹果放弃造车；字节跳动正秘密研发多个AI产品；微软GitHub Copilot企业版正式上线 | 极客头条](https://juejin.cn/post/7340535444986691647) | Thu Feb 29 2024 1:57 AM 
+- 🚀 [Xcode Cloud: Target must be enabled before it can be used 解决](https://juejin.cn/post/7340574992257171465) | Thu Feb 29 2024 2:51 AM 
     <details><summary>展开描述 ...</summary> 
-    稀土掘金 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。 一分钟速览新闻点！ 字节跳动正秘密研发多模态数字人等多个 AI 产品 百度2023年净利润大涨39 
+    把我的小项目配置好 Xcode Cloud 后遇到了编译失败。我的项目引用了一个库使用了 swift macro，因此需要进行一些项目配置。 解决方式是在项目根目录下创建一个文件夹 ci_script 
     </details> 
 
-- 💪 [Reflect.get第三个参数recevier的作用](https://juejin.cn/post/7340532030810800128) | Wed Feb 28 2024 3:45 PM 
+- 💪 [【SQL性能提升篇🔥】MySQL常用优化工具Explain、Trace工具、优化案例](https://juejin.cn/post/7340574992257073161) | Thu Feb 29 2024 2:45 AM 
     <details><summary>展开描述 ...</summary> 
-    Reflect.get三个参数target, key, receiver，前两个好理解，第三个是什么意思呢？哪些场景下会用到呢？本文尝试解释下这个问题。 
+    【SQL性能提升篇🔥】MySQL优化工具Explain、Trace使用方式说明、赋 实际优化案例方法。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
