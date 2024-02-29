@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [如何基于 langchain与 LLM 构建自己的知识库系统](https://juejin.cn/post/7340531314883985446) | Thu Feb 29 2024 12:52 AM 
+- 🤗 [Monorepo](https://juejin.cn/post/7340541467213955087) | Thu Feb 29 2024 2:14 AM 
     <details><summary>展开描述 ...</summary> 
-    如何基于 langchain与 LLM 构建自己的知识库系统 前些时候字节上了自己的扣子，用来构建我们自己的 agent AI 实战：手把手教你使用「扣子/coze」来搭建个人blog知识库 - 掘金 
+    待更新 参考文献：https://article.juejin.cn/post/7243819009867006012 
     </details> 
 
-- 🎡 [51从零开始用Rust编写nginx，江湖救急，TLS证书快过期了](https://juejin.cn/post/7340307629893238824) | Thu Feb 29 2024 12:34 AM 
+- 🎡 [网购衣服经常不合身？试试这款虚拟服装试穿工具](https://juejin.cn/post/7340559083840274451) | Thu Feb 29 2024 2:12 AM 
     <details><summary>展开描述 ...</summary> 
-    现在免费证书只能申请三个月（之前还能申请十二个月），拥有acme能力对于小的站点来说就比较需要，可以比较好的部署也不用关心TLS带来的烦恼。 
+    OOTDiffusion —— 一个虚拟服装试穿工具的开源项目，可以根据不同性别和体型自动调整，和模特非常贴合。 
     </details> 
 
-- 🕯 [请使用useTransition钩子函数](https://juejin.cn/post/7340699978937139227) | Thu Feb 29 2024 12:16 AM 
+- 🕯 [单元测试数据库回滚问题](https://juejin.cn/post/7340554546254741519) | Thu Feb 29 2024 2:11 AM 
     <details><summary>展开描述 ...</summary> 
-    useTransition钩子函数是一个重要的新增功能，它允许开发者控制应用中的状态更新优先级，从而提高用户体验，特别是在执行重计算或数据获取等可能导致界面卡顿的操作时。 
+    问题现象： 在进行单元测试时，测试执行成功，可是数据库中的数据没变 问题解决：单元测试自动回滚，需要 
     </details> 
 
-- 🚀 [基于Amazon S3 Express One Zone和SageMaker的图像分类模型实战—深析新旧产品突显Express One Zone在性能上的优势](https://juejin.cn/post/7340532030811324416) | Wed Feb 28 2024 11:52 PM 
+- 🚀 [雷军、李想、何小鹏谈苹果放弃造车；字节跳动正秘密研发多个AI产品；微软GitHub Copilot企业版正式上线 | 极客头条](https://juejin.cn/post/7340535444986691647) | Thu Feb 29 2024 1:57 AM 
     <details><summary>展开描述 ...</summary> 
-    、亚马逊云科技 2023 re:Invent 全球大会 随着数据的快速增长，高效、可靠的云存储解决方案变得越来越重要。 
+    稀土掘金 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。 一分钟速览新闻点！ 字节跳动正秘密研发多模态数字人等多个 AI 产品 百度2023年净利润大涨39 
     </details> 
 
-- 💪 [2024年UI设计方向探索](https://juejin.cn/post/7340544981520777254) | Wed Feb 28 2024 11:35 PM 
+- 💪 [Reflect.get第三个参数recevier的作用](https://juejin.cn/post/7340532030810800128) | Wed Feb 28 2024 3:45 PM 
     <details><summary>展开描述 ...</summary> 
-    汇总了网上各大知名设计师对2024年设计趋势的判断，作为我们接下来产品和项目UI设计的指引，以期能够在设计团队的内部达成共识，往共通的大方向相互协助促进，最终进一步提高智城产品的美感和竞争力 
+    Reflect.get三个参数target, key, receiver，前两个好理解，第三个是什么意思呢？哪些场景下会用到呢？本文尝试解释下这个问题。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
