@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [程序员的财富指南 第四章 （时间管理与效率提升）](https://juejin.cn/post/7340864123074510888) | Thu Feb 29 2024 2:10 PM 
+- 🤗 [Nest：使用 ValidationPipe 验证 post 请求参数](https://juejin.cn/post/7340945113859948563) | Thu Feb 29 2024 3:07 PM 
     <details><summary>展开描述 ...</summary> 
-    在职业生涯的道路上，我们追求的不仅仅是生存，更是卓越。你的时间宝贵，你的精力有限，而你追求成功的决心无比坚定。在这个充满机遇和挑战的世界里，如何把每一份努力转化为最大的回报，就成了我们需要深入探讨的问 
+    本文详细介绍了 NestJS 中如何使用 DTO（数据传输对象）进行 Post 请求的数据接收，并通过 ValidationPipe 实现参数验证。 
     </details> 
 
-- 🎡 [利用 MTCNN 快速进行人脸检测](https://juejin.cn/post/7340902427615035419) | Thu Feb 29 2024 2:10 PM 
+- 🎡 [面试官：能不能手写一个发布订阅。从自定义事件-&gt;影子dom-&gt;ES6语法class-&gt;手写发布订阅](https://juejin.cn/post/7340883460981489716) | Thu Feb 29 2024 3:04 PM 
     <details><summary>展开描述 ...</summary> 
-    大家好啊，我是董董灿。 今天介绍一个非常简单，利用 MTCNN 模型快速进行人脸检测的方法。 先介绍一下什么是 MTCNN 。 1、什么是 MTCNN MTCNN&lpar;Multi-task Cascade 
+    这几天看小伙伴的面经的时候，看到一位小伙伴面试被问到设计模式发布订阅，所以今天我们就来学习一下设计模式之发布订阅！ 想直接看手写发布订阅的小伙伴：手写发布订阅 发布订阅是vue源码 
     </details> 
 
-- 🕯 [一款高温型霍尔效应传感器](https://juejin.cn/post/7340883460981358644) | Thu Feb 29 2024 2:05 PM 
+- 🕯 [深入浅出 RxJS 与 Nest 拦截器：异步逻辑的优雅处理](https://juejin.cn/post/7340902427615117339) | Thu Feb 29 2024 2:59 PM 
     <details><summary>展开描述 ...</summary> 
-    一、产品概述 HAL443A单极性霍尔位置传感器是由内部电压稳压器、霍尔电压发生器、差分 放大器、温度补偿单 元、施密特触发器和集 电极开路输出级组成的磁敏传感电路，其输入为磁感应强度，输出是一个数字 
+    本文介绍了 RxJS 库在异步逻辑处理中的强大功能，并结合 NestJS 的拦截器（interceptor）展示了如何在请求响应过程中应用 RxJS 的 operator。 
     </details> 
 
-- 🚀 [深入理解Java泛型及其在实际编程中的应用](https://juejin.cn/post/7340902427614986267) | Thu Feb 29 2024 1:57 PM 
+- 🚀 [Java 继承与多态：代码重用与灵活性的巧妙结合](https://juejin.cn/post/7340896627018481700) | Thu Feb 29 2024 2:40 PM 
     <details><summary>展开描述 ...</summary> 
-    泛型不仅仅局限于集合框架，咱们还可以在自己的类和方法中使用泛型。// 使用示例System.out.println&lpar;&quot;较大的数字是：&quot; + intPair.getBigger&lpar;&rpar;&rpar;;System.ou 
+    Java 继承（子类和超类） 在 Java 中，可以从一个类继承属性和方法到另一个类。我们将“继承概念”分为两类： 子类（child）: 从另一个类继承的类 超类（parent）: 被继承的类 要从一 
     </details> 
 
-- 💪 [FATE联邦学习框架java实践（二）](https://juejin.cn/post/7340896627018186788) | Thu Feb 29 2024 1:55 PM 
+- 💪 [Java中的时间API：Date、Calendar到Java.time的演变](https://juejin.cn/post/7340856664755699739) | Thu Feb 29 2024 2:32 PM 
     <details><summary>展开描述 ...</summary> 
-    在FATE联邦学习框架java实践（一&rpar;经过重重困难实现了Fate的数据上传和下载。 现在对于一个完整Fate实践的功能流程，还差数据更新和上传执行任务。因此本篇主要实现数据更新功能和上传任务的功能。 
+    在软件开发中，处理时间和日期是一项基本且不可或缺的任务。无论是日志记录、用户信息管理还是复杂的定时任务，准确地处理时间都显得至关重要。然而，时间的处理并不像它看起来那么简单，尤其是当我们考虑到时 
     </details> 
 <!-- juejin:END -->
 ### 少数派
