@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [绕过付费，畅享网络：自由浏览付费内容 | 开源日报 No.185](https://juejin.cn/post/7340573362215075881) | Wed Feb 28 2024 5:22 PM 
+- 🤗 [如何基于 langchain与 LLM 构建自己的知识库系统](https://juejin.cn/post/7340531314883985446) | Thu Feb 29 2024 12:52 AM 
     <details><summary>展开描述 ...</summary> 
-    bypass-paywalls-chrome 是一个用于 Chrome 和 Firefox 的网页浏览器扩展，可帮助绕过特定网站的付费墙。 
+    如何基于 langchain与 LLM 构建自己的知识库系统 前些时候字节上了自己的扣子，用来构建我们自己的 agent AI 实战：手把手教你使用「扣子/coze」来搭建个人blog知识库 - 掘金 
     </details> 
 
-- 🎡 [Nest：守卫 guard：请求授权的利器](https://juejin.cn/post/7340539136897335322) | Wed Feb 28 2024 4:29 PM 
+- 🎡 [51从零开始用Rust编写nginx，江湖救急，TLS证书快过期了](https://juejin.cn/post/7340307629893238824) | Thu Feb 29 2024 12:34 AM 
     <details><summary>展开描述 ...</summary> 
-    Nest.js的守卫是处理请求授权的强大工具，通过实现 CanActivate接口，守卫能决定请求是否继续执行。 
+    现在免费证书只能申请三个月（之前还能申请十二个月），拥有acme能力对于小的站点来说就比较需要，可以比较好的部署也不用关心TLS带来的烦恼。 
     </details> 
 
-- 🕯 [Nodejs 第四十七章（redis主从复制）](https://juejin.cn/post/7340532030810898432) | Wed Feb 28 2024 4:17 PM 
+- 🕯 [请使用useTransition钩子函数](https://juejin.cn/post/7340699978937139227) | Thu Feb 29 2024 12:16 AM 
     <details><summary>展开描述 ...</summary> 
-    Redis主从复制是一种数据复制和同步机制，其中一个Redis服务器（称为主服务器）将其数据复制到一个或多个其他Redis服务器（称为从服务器）。主从复制提供了数据冗余备份、读写分离和故障恢复等功能。 
+    useTransition钩子函数是一个重要的新增功能，它允许开发者控制应用中的状态更新优先级，从而提高用户体验，特别是在执行重计算或数据获取等可能导致界面卡顿的操作时。 
     </details> 
 
-- 🚀 [Nest：深入理解中间件 middleware](https://juejin.cn/post/7340532030810882048) | Wed Feb 28 2024 4:16 PM 
+- 🚀 [基于Amazon S3 Express One Zone和SageMaker的图像分类模型实战—深析新旧产品突显Express One Zone在性能上的优势](https://juejin.cn/post/7340532030811324416) | Wed Feb 28 2024 11:52 PM 
     <details><summary>展开描述 ...</summary> 
-    Nest 中间件是请求响应周期中的关键函数，可执行代码、修改请求响应对象、结束请求响应周期或调用下一中间件。它们用于日志记录、身份验证、性能监控等。 
+    、亚马逊云科技 2023 re:Invent 全球大会 随着数据的快速增长，高效、可靠的云存储解决方案变得越来越重要。 
     </details> 
 
-- 💪 [Nest：自定义装饰器](https://juejin.cn/post/7340559083839553555) | Wed Feb 28 2024 4:11 PM 
+- 💪 [2024年UI设计方向探索](https://juejin.cn/post/7340544981520777254) | Wed Feb 28 2024 11:35 PM 
     <details><summary>展开描述 ...</summary> 
-    本文介绍了 TypeScript 中自定义装饰器的概念及其在类、方法、属性和参数上的应用。我们探讨了四种装饰器类型：类装饰器、方法装饰器、属性装饰器和参数装饰器。 
+    汇总了网上各大知名设计师对2024年设计趋势的判断，作为我们接下来产品和项目UI设计的指引，以期能够在设计团队的内部达成共识，往共通的大方向相互协助促进，最终进一步提高智城产品的美感和竞争力 
     </details> 
 <!-- juejin:END -->
 ### 少数派
