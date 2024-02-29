@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [因闰年软件故障，新西兰多个加油站瘫痪](http://jandan.net/p/115763) | Thu Feb 29 2024 3:34 AM 
+- 🚀 [今日好价 0301](http://jandan.net/p/115768) | Thu Feb 29 2024 11:07 PM 
     <details><summary>展开描述 ...</summary> 
-    因为系统没有被编程处理 2 月 29 日的日期 
+    今日带货商品数量：27 
     </details> 
 
-- 🙉 [发霉啦：今天，我起床后非常兴奋](http://jandan.net/p/115759) | Thu Feb 29 2024 2:13 AM 
+- 🙉 [进化代价：人类失去尾巴，也带来了脊柱疾病风险](http://jandan.net/p/115766) | Thu Feb 29 2024 11:06 PM 
     <details><summary>展开描述 ...</summary> 
-    蛋友投稿 
+    这表明进化并非总是完美的 
     </details> 
 
-- 🎉 [今日好价 0229](http://jandan.net/p/115758) | Wed Feb 28 2024 11:07 PM 
+- 🎉 [科技公司不懂得什么是“同意”](http://jandan.net/p/115765) | Thu Feb 29 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：47 
+    “选择退出” ≠ 同意 
     </details> 
 
-- 🐲 [跟朋友一起买房的人](http://jandan.net/p/115749) | Wed Feb 28 2024 11:05 PM 
+- 🐲 [地球到底啥形状？牛顿与笛卡尔之争](http://jandan.net/p/115762) | Thu Feb 29 2024 11:03 PM 
     <details><summary>展开描述 ...</summary> 
-    飙升的房价促使年轻人与朋友一起买房 
+    最终牛顿的扁平地球模型胜出 
     </details> 
 
--  [艺术中的树木比例与分形缩放](http://jandan.net/p/115752) | Wed Feb 28 2024 11:04 PM 
+-  [美国军方用AI锁定空袭目标](http://jandan.net/p/115764) | Thu Feb 29 2024 11:02 PM 
     <details><summary>展开描述 ...</summary> 
-    一种衡量艺术中树木比例的新方法 
+    但最终决定权仍由人类士兵掌握 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
