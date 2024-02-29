@@ -353,7 +353,7 @@
 
 - 🕯 [我用 Navicat 这些技能少加了好多班，也为公司挣了不少w](https://juejin.cn/post/7340945113860046867) | Thu Feb 29 2024 3:55 PM 
     <details><summary>展开描述 ...</summary> 
-    我用 Navicat 的这些技能少加了好多班，也为公司挣了不少w 本文我将结合我过去的实践，给大家推荐一款数据库的运维工具。给大家呈现一下竟然可以用 Navicat 解决这些实际问题 。 熬了几个夜， 
+    我用 Navicat 的这些技能少加了好多班，也为公司挣了不少w 本文我将结合我过去的实践，给大家推荐一款数据库的运维工具。给大家呈现一下竟然可以用 Navicat 解决这些实际问题 。 
     </details> 
 
 - 🚀 [如何实现class文件的反编译：java-decompiler 反编译工具](https://juejin.cn/post/7340896627018694692) | Thu Feb 29 2024 3:54 PM 
