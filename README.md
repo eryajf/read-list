@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [面试官：说说volatile底层实现原理？](https://juejin.cn/post/7340825900421136396) | Thu Feb 29 2024 9:10 AM 
+- 🤗 [Rust：异步编程Sink trait](https://juejin.cn/post/7340843990759997467) | Thu Feb 29 2024 10:00 AM 
     <details><summary>展开描述 ...</summary> 
-    在 Java 并发编程中，有 3 个最常用的关键字：synchronized、ReentrantLock 和 volatile。 虽然 volatile 并不像其他两个关键字一样，能保证线程安全，但  
+    在 Rust 的异步编程中，Sink trait 是 futures 库提供的一个抽象，它代表了可以异步地接收值的接收端。Sink trait 与 Stream trait 相对应，如果 Stream 
     </details> 
 
-- 🎡 [Docker系列01-Docker的离线安装和卸载](https://juejin.cn/post/7340828555533123619) | Thu Feb 29 2024 9:01 AM 
+- 🎡 [不是苹果放弃电动车，是电动车不需要苹果](https://juejin.cn/post/7340830470462652454) | Thu Feb 29 2024 9:58 AM 
     <details><summary>展开描述 ...</summary> 
-    概述 本文内容为：如何使用Docker容器来替代传统线上部署方案。 并且为了支持内网环境部署，本文所有的安装都是使用离线包，所以需要提前备好文件。 准备工作 环境准备 Linux系统，建议使用Ubun 
+    苹果弃车 2月28号凌晨，著名外媒爆料：苹果公司放弃投入十多年的造车项目，将其中的大量资源转投至 AI 部门。 如此炸裂的事情，自然少不了世界级网红，特斯拉 CEO 埃隆·马斯克的点评： 敬礼+香烟？ 
     </details> 
 
-- 🕯 [转转高效改表平台的演进之路](https://juejin.cn/post/7340481613144555539) | Wed Feb 28 2024 10:55 AM 
+- 🕯 [CSS3: 像小红书按行加载数据的瀑布流终于有方案了！](https://juejin.cn/post/7340909611098079273) | Thu Feb 29 2024 9:54 AM 
     <details><summary>展开描述 ...</summary> 
-    转转的改表平台系统拥有，用户交互、添加唯一索引、支持分库分表、丰富的监控、拥有止血能力及部分自愈能力，支持定时改表、快速改表等 
+    什么是瀑布流 瀑布流布局就像在游乐园里排队玩水滑梯一样有趣！想象一下，你站在一个高高的平台上，眼前是一排排的水滑道，每个滑道的终点都是个小水池。你站在起点，一溜烟地往下滑，速度飞快！你的朋友们也在旁边 
     </details> 
 
-- 🚀 [闭包 - 理解不了闭包不是你的问题，而是闭包的问题。我们无法以干练的语言去解释一个抽象的概念](https://juejin.cn/post/7340471458950250559) | Wed Feb 28 2024 10:11 AM 
+- 🚀 [PAT  1118 如需挪车请致电](https://juejin.cn/post/7340636105766027316) | Thu Feb 29 2024 9:54 AM 
     <details><summary>展开描述 ...</summary> 
-    我相信大家都看过 MDN 的解释，但是很多人依旧没有理解闭包到底是什么。闭包并不是一个定义学的概念，而是归纳学的产物。请先别说大言不惭，这篇文章带大家从头开始理解闭包。 
+    1118 如需挪车请致电 - PAT &lpar;Basic Level&rpar; Practice （中文） &lpar;pintia.cn&rpar; 我刚开始是这样写的： 但是这样会出现，因为题目说了运算数是1-9999的数字，不一 
     </details> 
 
-- 💪 [从 0 到 1 搭建亿级商品 ES 搜索引擎](https://juejin.cn/post/7340229050235928630) | Wed Feb 28 2024 7:10 AM 
+- 💪 [分布式消息队列RocketMQ基础原理+Docker部署RocketMQ+SpringBoot整合RocketMQ（全网zui全的RocketMQ教程）](https://juejin.cn/post/7340851499719049252) | Thu Feb 29 2024 9:33 AM 
     <details><summary>展开描述 ...</summary> 
-    本文介绍如何搭建一个可支持从千万级到亿级商品量级的搜索系统，并实现查询总 QPS 从百级增长到千级，写入总 QPS 从百级增加到万级的过程。 
+    本文讲解了 RockerMQ 相关分布式详细队列理念，还有 将 RocketMQ 进行Docker容器化部署相关内容，最后还实现了SpringBoot 整合 RockerMQ。感兴趣的小伙伴可以看看。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
