@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [Web应用防火墙的使用效率问题与替代性技术的深入讨论](https://www.freebuf.com/articles/network/392809.html) | Wed Feb 28 2024 11:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文将给大家提供一个新的视角去看待WAF，并会对Web应用防火墙的使用效率问题与替代性技术进行深入探讨。 
+    </details> 
+
 - 🦄 [NIST发布里程碑式网络安全框架2.0版本](https://www.freebuf.com/news/392795.html) | Wed Feb 28 2024 8:08 AM 
     <details><summary>展开描述 ...</summary> 
     自2014年发布网络安全框架（CSF）1.0版本，时隔多年NIST发布了2.0版本，首次对网络安全框架进行重大更新。 
     </details> 
 
-- 🦄 [俄罗斯APT28组织隐秘攻击Ubiquiti路由器，以逃避安全检测](https://www.freebuf.com/news/392782.html) | Wed Feb 28 2024 6:36 AM 
+- 🦅 [FreeBuf 早报 | 派拓网络安全产品正加速落地中国；Atomic Stealer 恶意变种曝光](https://www.freebuf.com/news/392793.html) | Wed Feb 28 2024 8:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    Atomic Stealer 的目标是与已安装的加密钱包扩展和应用程序、浏览器数据、系统信息和密码相关的文件。 
+    </details> 
+
+- 🪄 [俄罗斯APT28组织隐秘攻击Ubiquiti路由器，以逃避安全检测](https://www.freebuf.com/news/392782.html) | Wed Feb 28 2024 6:36 AM 
     <details><summary>展开描述 ...</summary> 
     在针对全球各地的军事、政府及其他机构的秘密网络行动中，APT28还利用EdgeRouters部署定制工具和设置钓鱼网站的登陆页面。 
     </details> 
 
-- 🦅 [DDoS攻击引发云服务提供商索要10.4万美元账单](https://www.freebuf.com/news/392768.html) | Wed Feb 28 2024 3:42 AM 
+- 💻 [DDoS攻击引发云服务提供商索要10.4万美元账单](https://www.freebuf.com/news/392768.html) | Wed Feb 28 2024 3:42 AM 
     <details><summary>展开描述 ...</summary> 
     随着这个故事在网上的热度不断攀升，Netlify公司CEO决定不向该用户收取任何费用。 
-    </details> 
-
-- 🪄 [许多主要新闻媒体正屏蔽 OpenAI 爬虫](https://www.freebuf.com/news/392764.html) | Wed Feb 28 2024 3:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    据路透社研究所的一项调查，越来越多的新闻媒体已对OpenAI的数据爬取说“不”，在传统媒体领域，这一比例甚至超过了50%。 
-    </details> 
-
-- 💻 [WordPress 插件存在漏洞，500 万网站面临严重安全风险](https://www.freebuf.com/news/392761.html) | Wed Feb 28 2024 3:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    该漏洞被追踪为 CVE-2023-40000，未经身份验证的威胁攻击者可利用该漏洞获取超额权限。 
     </details> 
 <!-- freebuf:END -->
 
