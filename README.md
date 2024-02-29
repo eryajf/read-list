@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Rust：异步编程Sink trait](https://juejin.cn/post/7340843990759997467) | Thu Feb 29 2024 10:00 AM 
+- 🤗 [手把手带你入门 Three.js Shader 系列（八）](https://juejin.cn/post/7340909611098554409) | Thu Feb 29 2024 11:05 AM 
     <details><summary>展开描述 ...</summary> 
-    在 Rust 的异步编程中，Sink trait 是 futures 库提供的一个抽象，它代表了可以异步地接收值的接收端。Sink trait 与 Stream trait 相对应，如果 Stream 
+    本篇文章古柳将教大家如何在顶点着色器里对长方体的顶点进行不同角度的进行旋转，从而实现出“扭麻花”般的效果。 
     </details> 
 
-- 🎡 [不是苹果放弃电动车，是电动车不需要苹果](https://juejin.cn/post/7340830470462652454) | Thu Feb 29 2024 9:58 AM 
+- 🎡 [字节被曝秘密研发多个 AI 产品；库克：苹果将「开辟 AI 新天地」丨 RTE 开发者日报 Vol.154](https://juejin.cn/post/7340843990760275995) | Thu Feb 29 2024 11:01 AM 
     <details><summary>展开描述 ...</summary> 
-    苹果弃车 2月28号凌晨，著名外媒爆料：苹果公司放弃投入十多年的造车项目，将其中的大量资源转投至 AI 部门。 如此炸裂的事情，自然少不了世界级网红，特斯拉 CEO 埃隆·马斯克的点评： 敬礼+香烟？ 
+    特斯拉回应 FSD 两周内进入中国：没有准确时间表；OPPO 加速重返欧洲市场，与运营商 Telefonica 达成战略合作 
     </details> 
 
-- 🕯 [CSS3: 像小红书按行加载数据的瀑布流终于有方案了！](https://juejin.cn/post/7340909611098079273) | Thu Feb 29 2024 9:54 AM 
+- 🕯 [🏆 Vue 基础学习](https://juejin.cn/post/7340826749095706663) | Thu Feb 29 2024 10:58 AM 
     <details><summary>展开描述 ...</summary> 
-    什么是瀑布流 瀑布流布局就像在游乐园里排队玩水滑梯一样有趣！想象一下，你站在一个高高的平台上，眼前是一排排的水滑道，每个滑道的终点都是个小水池。你站在起点，一溜烟地往下滑，速度飞快！你的朋友们也在旁边 
+    一、简介 1、Vue简介 核心：基于JavaScript语言的页面渲染框架 官网：https://cn.vuejs.org 尤雨溪（Evan You），毕业于科尔盖特大学，前端框架Vue.js的作者、 
     </details> 
 
-- 🚀 [PAT  1118 如需挪车请致电](https://juejin.cn/post/7340636105766027316) | Thu Feb 29 2024 9:54 AM 
+- 🚀 [基于神经网络的偏微分方程求解器新突破：北大&amp;字节研究成果入选Nature子刊](https://juejin.cn/entry/7340907184639082496) | Thu Feb 29 2024 10:57 AM 
     <details><summary>展开描述 ...</summary> 
-    1118 如需挪车请致电 - PAT &lpar;Basic Level&rpar; Practice （中文） &lpar;pintia.cn&rpar; 我刚开始是这样写的： 但是这样会出现，因为题目说了运算数是1-9999的数字，不一 
+    近年来，基于神经网络的偏微分方程求解器在各领域均得到了广泛关注。其中，量子变分蒙特卡洛方法（NNVMC）在量子化学领域异军突起，对于一系列问题的解决展现出超越传统方法的精确度 [1, 2, 3, 4] 
     </details> 
 
-- 💪 [分布式消息队列RocketMQ基础原理+Docker部署RocketMQ+SpringBoot整合RocketMQ（全网zui全的RocketMQ教程）](https://juejin.cn/post/7340851499719049252) | Thu Feb 29 2024 9:33 AM 
+- 💪 [让Sora东京女郎唱歌、高启强变声罗翔，阿里人物口型视频生成绝了](https://juejin.cn/entry/7340883460980457524) | Thu Feb 29 2024 10:57 AM 
     <details><summary>展开描述 ...</summary> 
-    本文讲解了 RockerMQ 相关分布式详细队列理念，还有 将 RocketMQ 进行Docker容器化部署相关内容，最后还实现了SpringBoot 整合 RockerMQ。感兴趣的小伙伴可以看看。 
+    最近，以 OpenAI Sora 为代表的文生视频模型又火了起来。而除了文本生成视频之外，以人为中心的视频合成也一直是研究的焦点，比如专注于说话人头部的视频生成... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
