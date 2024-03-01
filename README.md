@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [RTE 开源｜小红书 REDPlayer 正式发布！快来 get 同款播放器～](https://juejin.cn/post/7341232502824190002) | Fri Mar 01 2024 10:42 AM 
+- 🤗 [BitSet在阿里面试和RocketMQ中的应用](https://juejin.cn/post/7341288345781911593) | Fri Mar 01 2024 12:18 PM 
     <details><summary>展开描述 ...</summary> 
-    本项目由 RTE 开发者社区 x 小红书 联合运营   播放器最初出现在 19 世纪，当时主要用于播放音频，例如通过留声机播放唱片。   随着技术的进步，音频播放器不断改进，品质越来越好，体积也越来越 
+    什么是BitSet 简单理解就是位图，类似BitMap。用来存储二进制位的类 BitSet特性 位存储：BitSet 以位为单位存储数据，每个位只能是 0 或 1。 空间效率：BitSet 比使用 b 
     </details> 
 
-- 🎡 [tinyMCE 第七章 （特定内容插件工具栏）](https://juejin.cn/post/7341210148805165108) | Fri Mar 01 2024 10:11 AM 
+- 🎡 [React基础 第十三章（State更新队列）](https://juejin.cn/post/7341210148805574708) | Fri Mar 01 2024 12:17 PM 
     <details><summary>展开描述 ...</summary> 
-    TinyMCE的强大之处在于其不仅提供了一般的文本编辑功能，还通过一系列插件支持了高度专业化的内容编辑。对于那些需要高度专业化编辑操作的用户来说，TinyMCE允许开发者自定义一个上下文工具栏&lpar;Con 
+    React中的批处理机制 当我们在事件处理函数中连续调用setState方法时，React会将这些更新合并成一个更新来进行处理，这就是所谓的批处理机制。这意味着无论我们调用了多少次setState，实 
     </details> 
 
-- 🕯 [使用 Web Worker + SharedArrayBuffer 并行实现视频实时滤镜效果](https://juejin.cn/post/7341227381046853673) | Fri Mar 01 2024 10:10 AM 
+- 🕯 [比特币暴涨逼近历史最高点；阿里云全线降价20%丨 RTE 开发者日报 Vol.155](https://juejin.cn/post/7341275378751012901) | Fri Mar 01 2024 12:08 PM 
     <details><summary>展开描述 ...</summary> 
-    本文使用 Web Worker 和 SharedArrayBuffer 来并行实现视频实时滤镜效果。 
+    开发者朋友们大家好： 这里是 「RTE 开发者日报」 ，每天和大家一起看新闻、聊八卦。我们的社区编辑团队会整理分享 RTE （Real Time Engagement） 领域内「有话题的 新闻 」、「 
     </details> 
 
-- 🚀 [maven 包管理平台 windows 安装配置 + mac 安装配置](https://juejin.cn/post/7341191622032392233) | Fri Mar 01 2024 10:08 AM 
+- 🚀 [Golang语法一览（上）](https://juejin.cn/post/7341288345781796905) | Fri Mar 01 2024 11:59 AM 
     <details><summary>展开描述 ...</summary> 
-    # 拓展阅读 [maven 包管理平台-01-maven 入门介绍 + Maven、Gradle、Ant、Ivy、Bazel 和 SBT 的详细对比表格]&lpar;https://houbb.github 
+    本文介绍了Go语言的基础语法，包括变量和常量的声明和赋值、函数的定义和调用、if和switch条件语句、以及for循环语句的用法。同时还介绍了Go语言中的依赖管理工具gomod的使用方法。 
     </details> 
 
-- 💪 [maven 包管理平台-01-maven 入门介绍 + Maven、Gradle、Ant、Ivy、Bazel 和 SBT 的详细对比表格](https://juejin.cn/post/7341010324458487827) | Fri Mar 01 2024 10:06 AM 
+- 💪 [React基础 第十二章（State快照）](https://juejin.cn/post/7341010324458766355) | Fri Mar 01 2024 11:54 AM 
     <details><summary>展开描述 ...</summary> 
-    # 拓展阅读 [maven 包管理平台-01-maven 入门介绍 + Maven、Gradle、Ant、Ivy、Bazel 和 SBT 的详细对比表格]&lpar;https://houbb.github 
+    理解state的行为对于编写可预测和高效的组件至关重要。本文将深入探讨state作为快照的概念，以及它在事件处理函数中的表现。我们将提供实用的开发技巧、示例代码以及注意事项，以帮助你更好地管理stat 
     </details> 
 <!-- juejin:END -->
 ### 少数派
