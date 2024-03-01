@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [FreeBuf 早报 | 国内首个个信保护AI大模型发布；制药巨头CENCORA遭数据泄露](https://www.freebuf.com/news/392931.html) | Thu Feb 29 2024 9:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    “智御”助手为国内首个个人信息保护AI大模型，为APP开发运营、检测防护、政策解读等提供智能化服务。 
+    </details> 
+
 - 🦄 [为什么黑客这么喜欢攻击加密货币？](https://www.freebuf.com/news/topnews/392889.html) | Thu Feb 29 2024 7:16 AM 
     <details><summary>展开描述 ...</summary> 
     根据Chainalysis最新发布的《2024年加密货币犯罪报告》，仅勒索软件从受害者处勒索的加密货币价值就超过了 10 亿美元。 
     </details> 
 
-- 🦄 [议题征集&amp;报名开启 | FreeBuf企业安全俱乐部·广州站起航](https://www.freebuf.com/fevents/392862.html) | Thu Feb 29 2024 5:35 AM 
+- 🦅 [议题征集&amp;报名开启 | FreeBuf企业安全俱乐部·广州站起航](https://www.freebuf.com/fevents/392862.html) | Thu Feb 29 2024 5:35 AM 
     <details><summary>展开描述 ...</summary> 
     2024年4月10日，FreeBuf企业安全俱乐部落地广州，邀请多位企业安全专家和技术大咖，给大家带来一场高质量的线下研讨会。 
     </details> 
 
-- 🦅 [Windows 这个零日漏洞正在被黑客利用，以获取内核权限](https://www.freebuf.com/news/392838.html) | Thu Feb 29 2024 3:13 AM 
+- 🪄 [Windows 这个零日漏洞正在被黑客利用，以获取内核权限](https://www.freebuf.com/news/392838.html) | Thu Feb 29 2024 3:13 AM 
     <details><summary>展开描述 ...</summary> 
     针对 CVE-2024-21338 安全漏洞唯一有效的安全措施就是尽快应用 2024 年 2 月的 发布的安全更新。 
     </details> 
 
-- 🪄 [全球知名AI 平台Hugging Face “惊现”上百个恶意ML模型](https://www.freebuf.com/news/392830.html) | Thu Feb 29 2024 2:17 AM 
+- 💻 [全球知名AI 平台Hugging Face “惊现”上百个恶意ML模型](https://www.freebuf.com/news/392830.html) | Thu Feb 29 2024 2:17 AM 
     <details><summary>展开描述 ...</summary> 
     人工智能 ML 模型可能会带来巨大的安全风险，而利益相关者和技术开发人员还没有意识到这些风险，也没有认真讨论过这些风险。 
-    </details> 
-
-- 💻 [Web应用防火墙的使用效率问题与替代性技术的深入讨论](https://www.freebuf.com/articles/network/392809.html) | Wed Feb 28 2024 11:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文将给大家提供一个新的视角去看待WAF，并会对Web应用防火墙的使用效率问题与替代性技术进行深入探讨。 
     </details> 
 <!-- freebuf:END -->
 
