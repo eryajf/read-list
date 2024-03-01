@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [搜广推论坛](https://www.v2ex.com/t/1019789#reply0) | Fri Mar 01 2024 6:16 AM
-- 🤗 [阿里云 arms ebpf 版可以实现 golang 的无侵入监控](https://www.v2ex.com/t/1019788#reply1) | Fri Mar 01 2024 6:12 AM
-- 🎭 [追求极致的 Whois 工具: who.cx [重大更新]](https://www.v2ex.com/t/1019783#reply0) | Fri Mar 01 2024 6:00 AM
-- 🥷 [SHA256 末 8 位、SHA512 末 8 位、CRC32 全 8 位 在对原文进行小幅修改后哪个更不容易无意重复？只有 8 位的情况下有意碰撞都很容易，因此不考虑有意碰撞的情况](https://www.v2ex.com/t/1019776#reply1) | Fri Mar 01 2024 5:44 AM
-- 🐵 [求推荐开源的物联网报文转发服务？](https://www.v2ex.com/t/1019751#reply1) | Fri Mar 01 2024 4:30 AM<!-- v2ex:END -->
+- 🥸 [pytest 自定义 def pytest_configure&lpar;config&rpar;函数报错 INTERNALERROR&gt; AttributeError: &#39;Config&#39; object has no attribute &#39;_metadata&#39;](https://www.v2ex.com/t/1019816#reply0) | Fri Mar 01 2024 7:10 AM
+- 🤗 [有什么不通过写脚本的方式，将 postgreSQL 的建表语句转换为 doris 的建表语句吗？](https://www.v2ex.com/t/1019809#reply0) | Fri Mar 01 2024 7:02 AM
+- 🎭 [请教大佬们，有什么比较适合独立开发者的 Web 端的 A/B Test 平台不？请分享](https://www.v2ex.com/t/1019799#reply0) | Fri Mar 01 2024 6:33 AM
+- 🥷 [完全用 GPT4 分析业务、做架构设计与编码实现复杂系统的一些经验](https://www.v2ex.com/t/1019795#reply7) | Fri Mar 01 2024 6:26 AM
+- 🐵 [GPT API 想充值，谁能推荐一个虚拟信用卡办理？](https://www.v2ex.com/t/1019794#reply8) | Fri Mar 01 2024 6:25 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
