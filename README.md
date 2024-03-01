@@ -454,29 +454,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [GlueMotion 2.2.2 缩时摄影](https://xclient.info/s/gluemotion.html) | Fri Mar 01 2024 6:19 AM 
+- 🦏 [Disk Graph 3.0.2 磁盘分析工具](https://xclient.info/s/disk-graph.html) | Fri Mar 01 2024 6:21 AM 
+    <details><summary>展开描述 ...</summary> 
+    Disk Graph 是Mac os平台上的一款帮助用户检测自己的磁盘空间的Mac工具，可以帮助你检查你的磁盘和发现带走你大部分的磁盘空间的文件。 
+    </details> 
+
+-  [GlueMotion 2.2.2 缩时摄影](https://xclient.info/s/gluemotion.html) | Fri Mar 01 2024 6:19 AM 
     <details><summary>展开描述 ...</summary> 
     GlueMotion是Mac平台上的一款缩时摄影师的理想工具。GlueMotion Mac版允许用户批量对图像进行编辑、去闪烁，并将图像序列汇编成缩时影片。 
     </details> 
 
--  [PDF Squeezer 4.5 PDF压缩工具](https://xclient.info/s/pdf-squeezer.html) | Fri Mar 01 2024 6:18 AM 
+- ⚗️ [PDF Squeezer 4.5 PDF压缩工具](https://xclient.info/s/pdf-squeezer.html) | Fri Mar 01 2024 6:18 AM 
     <details><summary>展开描述 ...</summary> 
     PDF Squeezer 是Mac OS平台上的一款 PDF 简易压缩工具 
     </details> 
 
-- ⚗️ [QLab Pro 5.3.5 专业现场媒体编辑工具](https://xclient.info/s/qlab-pro.html) | Fri Mar 01 2024 6:18 AM 
+- 🔥 [QLab Pro 5.3.5 专业现场媒体编辑工具](https://xclient.info/s/qlab-pro.html) | Fri Mar 01 2024 6:18 AM 
     <details><summary>展开描述 ...</summary> 
     QLab 是一款专为现场表演而设计的多媒体制作工具，能够让你的Mac掌控整个表演现场。包含戏剧，舞蹈，组合，安装，和更多的风格功能。只需从一个单一的工作区就能播放MIDI和音视频。 
     </details> 
 
-- 🔥 [AnyToISO 3.9.7 ISO镜像制作工具](https://xclient.info/s/anytoiso.html) | Fri Mar 01 2024 6:17 AM 
+- 🌋 [AnyToISO 3.9.7 ISO镜像制作工具](https://xclient.info/s/anytoiso.html) | Fri Mar 01 2024 6:17 AM 
     <details><summary>展开描述 ...</summary> 
     AnyToISO 是一款Mac上强大的ISO镜像制作工具，可以将其他类型的镜像转换制作为ISO格式，支持几乎所有常见的压缩格式转换为ISO文件、从CD、DVD光盘中提取ISO文件、从任意目录创建ISO文件，还支持提取ISO文件内的内容。 
-    </details> 
-
-- 🌋 [VMware Fusion Pro 13.5.1 Build 23298085 强大的虚拟机应用](https://xclient.info/s/vmware-fusion.html) | Fri Mar 01 2024 6:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    VMware Fusion是Mac 平台的著名虚拟机软件VMware推出的最新版本，VMware Fusion 可以完整支持 Windows 10、OS X El Capitan 和最新的 Retina Mac 产品，当然还支持微软的 Cortana。 
     </details> 
 <!-- xclient:END -->
 
