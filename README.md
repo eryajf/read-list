@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [年度征文 | 如何维护职场权益：我的「尝试」与实战经验分享](https://sspai.com/post/86776) | Fri Mar 01 2024 7:00 AM 
+- 👹 [本周看什么 | 最近值得一看的一大井作品](https://sspai.com/post/86816) | Fri Mar 01 2024 10:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    ☕️TL;DR近期佳作推荐：[电影]周处除三害、[电影]首尔之春、[电影]利益区域、[电影]那夜我们行向彼方、[电影]658公里、阳子的旅途、[美剧]良医第七季/最终季、[日剧]想做饭的女人和想吃饭的 ...&lt;a href=&quot;https://sspai.com/post/86816&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [年度征文 | 如何维护职场权益：我的「尝试」与实战经验分享](https://sspai.com/post/86776) | Fri Mar 01 2024 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     在劳资关系中，公司具有优势地位，而劳动者处于弱势的一方。尤其是面对老板、人事、法务组成的流氓团伙时，会更加被动、愤怒、迷茫、无助。希望大家在面对公司的恶意时可以更加从容，是我写下这些文字的初衷。&lt;a href=&quot;https://sspai.com/post/86776&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [以「工作」为分类标准，探讨「知识管理」的新思路](https://sspai.com/post/85567) | Fri Mar 01 2024 3:34 AM 
+- 🤭 [以「工作」为分类标准，探讨「知识管理」的新思路](https://sspai.com/post/85567) | Fri Mar 01 2024 3:34 AM 
     <details><summary>展开描述 ...</summary> 
     知识管理不是一个静态的过程，并不是学会一套笔记法就能学会知识管理，根据类型「对症下药」，才是知识管理的上上之策。&lt;a href=&quot;https://sspai.com/post/85567&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：魅族推出魅族 21 Pro 手机、Apple Music 新增「爱不释耳」个性播放列表](https://sspai.com/post/86797) | Fri Mar 01 2024 12:41 AM 
+- 🥸 [派早报：魅族推出魅族 21 Pro 手机、Apple Music 新增「爱不释耳」个性播放列表](https://sspai.com/post/86797) | Fri Mar 01 2024 12:41 AM 
     <details><summary>展开描述 ...</summary> 
     阿里云宣布旗下产品降价，Adobe 推出 AI 音乐生成工具等。&lt;a href=&quot;https://sspai.com/post/86797&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [如何快速重置 macOS 应用窗口的位置](https://sspai.com/prime/story/reset-macos-window-position) | Thu Feb 29 2024 12:03 PM 
+- 🙉 [如何快速重置 macOS 应用窗口的位置](https://sspai.com/prime/story/reset-macos-window-position) | Thu Feb 29 2024 12:03 PM 
     <details><summary>展开描述 ...</summary> 
     macOS 的应用能记住并自动恢复上次打开的尺寸和位置，但「好记性」有时也会变成麻烦。如何快速让窗口回到原始的默认位置呢？&lt;a href=&quot;https://sspai.com/prime/story/reset-macos-window-position&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
-    </details> 
-
-- 🙉 [新玩意 173｜少数派的编辑们最近买了啥？](https://sspai.com/post/86780) | Thu Feb 29 2024 9:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...&lt;a href=&quot;https://sspai.com/post/86780&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
