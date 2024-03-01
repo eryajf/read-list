@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一张照片一键换脸：无需数据集和训练 | 开源日报 No.186](https://juejin.cn/post/7340896627018792996) | Thu Feb 29 2024 6:07 PM 
+- 🤗 [勇敢的人先拿到结果](https://juejin.cn/post/7340898858556178432) | Fri Mar 01 2024 1:02 AM 
     <details><summary>展开描述 ...</summary> 
-    roop 是一个一键换脸的项目。 该项目可以通过一张目标人物的照片，实现对视频中人脸进行替换，无需数据集和训练。 
+    上周许久未见的大学学长叫我出去喝酒，他这次来贵阳是为开分店的事情而来的，他比我高一个年级，在我毕业的时候，他就自己开始做生意了，短短两三年，到现在他已经开了七八个分店了，还在不断发展，并且加盟的人也不 
     </details> 
 
-- 🎡 [前端常用到的“参数导致列表重绘”的几种情况](https://juejin.cn/post/7340865231380299785) | Thu Feb 29 2024 3:56 PM 
+- 🎡 [图文揭开GitHub Copilot智能生成代码的神秘面纱](https://juejin.cn/post/7340944247455891471) | Fri Mar 01 2024 12:51 AM 
     <details><summary>展开描述 ...</summary> 
-    本文将详细介绍在Vue或React中参数变化导致重新发起数据请求的几种情况，以及如何通过合理的策略来优化性能。 
+    在这个部分，我们将详细解析GitHub Copilot如何将你的提示转化为智能、可用的代码。我们将揭开这个工具的神秘面纱，看看它是如何运作的。 让我们一起走过Copilot将用户的提示处理成代码建议的 
     </details> 
 
-- 🕯 [我用 Navicat 这些技能少加了好多班，也为公司挣了不少w](https://juejin.cn/post/7340945113860046867) | Thu Feb 29 2024 3:55 PM 
+- 🕯 [Cocos游戏开发中的金币落袋效果](https://juejin.cn/post/7340864123074838568) | Fri Mar 01 2024 12:30 AM 
     <details><summary>展开描述 ...</summary> 
-    我用 Navicat 的这些技能少加了好多班，也为公司挣了不少w 本文我将结合我过去的实践，给大家推荐一款数据库的运维工具。给大家呈现一下竟然可以用 Navicat 解决这些实际问题 。 
+    引言 Cocos游戏开发中的金币落袋效果 大家好，不知道大家有没有被游戏中的一些小细节打动或吸引。 往往游戏就是通过一些与众不同的细节，去留住玩家。 金币落袋效果正是如此，它比普通的数值变化来得更加形 
     </details> 
 
-- 🚀 [如何实现class文件的反编译：java-decompiler 反编译工具](https://juejin.cn/post/7340896627018694692) | Thu Feb 29 2024 3:54 PM 
+- 🚀 [程序员自由创业周记#28：小憩](https://juejin.cn/post/7340945113860358163) | Fri Mar 01 2024 12:22 AM 
     <details><summary>展开描述 ...</summary> 
-    java-decompiler 反编译工具 📝 主旨内容 Java Decompiler是一项开源工具，Java Decompiler工具不仅可以实现反编译.class文件，将.class文件变为可以 
+    不知道你会不会有类似的经历： 周末在家学习，有点累，玩会手机吧，2个小时过去了。。 工作或学习效率太低，计划好的任务一改再改。。 长时间工作不能自拔，由于一直盯着 
     </details> 
 
-- 💪 [Vue Router学习（十）——路由传参解析](https://juejin.cn/post/7340896627018645540) | Thu Feb 29 2024 3:46 PM 
+- 💪 [如何使用Copilot更好的提升代码效率与质量，以及Prompt提示工程基础和最佳实践](https://juejin.cn/post/7340864123074822184) | Fri Mar 01 2024 12:18 AM 
     <details><summary>展开描述 ...</summary> 
-    我们知道传参的方法，通过router添加参数，利用route接收参数，但其中过程我们就不得而知了，本节我们就来解析一下路由传参过程。 
+    Prompt基础和最佳实践,介绍： 什么是Prompt？ Prompt基础 Prompt的最佳实践 Copilot 如何从Prompt中学习 什么是Prompt？ Prompt是为AI系统（如G 
     </details> 
 <!-- juejin:END -->
 ### 少数派
