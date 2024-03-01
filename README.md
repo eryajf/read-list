@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Python环境搭建：一站式指南](https://juejin.cn/post/7341232502824747058) | Fri Mar 01 2024 1:53 PM 
+- 🤗 [从零学 - docker](https://juejin.cn/post/7341232502824943666) | Fri Mar 01 2024 2:42 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 最近使用 nest 做了一个 后端项目，遇到了很多关于没有遇见过的后端的知识，决定开一个新的栏目记录我的第一次 🦝关于docker 为什么会有 docker 什么是 docker 怎么使用 do 
+    </details> 
+
+- 🎡 [Android 基于绘制缓冲的烟花效果实现](https://juejin.cn/post/7341288345782206505) | Fri Mar 01 2024 2:31 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 目前为止，我数了下我的文章总数，已经70多篇了，写的基本都是实用性文章，而且基本都在最近3个月以内完成，为什么写这么多呢？主要原因是大环境比较差，希望多总结一下经验，其实我本来打算写open g 
+    </details> 
+
+- 🕯 [适配器模式在微服务的巧妙应用](https://juejin.cn/post/7341267497427124224) | Fri Mar 01 2024 2:16 PM 
+    <details><summary>展开描述 ...</summary> 
+    适配器模式（Adapter Pattern）是一种结构型设计模式，它允许不兼容的接口之间可以一起工作。适配器模式通常用于将一个类的接口转换成客户端期望的另一种接口，从而使原本因接口不兼容而不能一起工作 
+    </details> 
+
+- 🚀 [Python环境搭建：一站式指南](https://juejin.cn/post/7341232502824747058) | Fri Mar 01 2024 1:53 PM 
     <details><summary>展开描述 ...</summary> 
     在当前AIGC技术蓬勃发展的背景下，Python作为人工智能领域最受青睐的编程语言之一，成为我们必须掌握的技能。因此，搭建一个适合自己的Python环境成为了每个Python开发者的首要任务。 
     </details> 
 
-- 🎡 [Git 分支管理：优化版本控制与应急处理的关键策略](https://juejin.cn/post/7341232502824599602) | Fri Mar 01 2024 1:04 PM 
+- 💪 [Git 分支管理：优化版本控制与应急处理的关键策略](https://juejin.cn/post/7341232502824599602) | Fri Mar 01 2024 1:04 PM 
     <details><summary>展开描述 ...</summary> 
     使用 Git 分支：轻松管理不同版本和应对紧急情况的最佳实践 使用 Git 分支 在 Git 中，分支是主仓库的新/独立版本。 假设你有一个大型项目，需要对其进行设计更新。 没有使用 Git 时： 复 
-    </details> 
-
-- 🕯 [汽车虚拟仿真技术的实现过程、应用领域和发展趋势](https://juejin.cn/post/7341232502824583218) | Fri Mar 01 2024 1:03 PM 
-    <details><summary>展开描述 ...</summary> 
-    汽车虚拟仿真技术是一种利用计算机模拟汽车运行的技术，以实现对汽车行为的分析、评估和改进。汽车虚拟仿真技术是汽车工业中重要的开发设计和测试工具，可以大大缩短产品研发周期、降低研发成本和提高产品质量。 
-    </details> 
-
-- 🚀 [2024 Vue 生态工具推荐](https://juejin.cn/post/7341272885061124122) | Fri Mar 01 2024 12:52 PM 
-    <details><summary>展开描述 ...</summary> 
-    这些都是我在 2024 年使用 Vue 构建可扩展 App 的个人建议。机智如你可能已经察觉，大部分情况下我都喜欢坚持行业标准。 
-    </details> 
-
-- 💪 [React基础 第十五章（正确更新State中的数组）](https://juejin.cn/post/7341235774903730185) | Fri Mar 01 2024 12:44 PM 
-    <details><summary>展开描述 ...</summary> 
-    在React应用中，数组是常见的state类型，它们通常用于表示列表数据。正确地更新数组状态对于避免性能问题和bug至关重要。本文将深入探讨如何在React中更新state中的数组，包括添加、删除、修 
     </details> 
 <!-- juejin:END -->
 ### 少数派
