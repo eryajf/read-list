@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [如何用 swiftUI 开发安卓应用？](https://juejin.cn/post/7340896627019497508) | Fri Mar 01 2024 2:16 AM 
+- 🤗 [技巧分享：Websocket 长连接状态如何保持](https://juejin.cn/post/7340998385304666148) | Fri Mar 01 2024 3:13 AM 
     <details><summary>展开描述 ...</summary> 
-    这里每天分享一个 iOS 的新知识，快来关注我吧 前言 现在跨平台的语言/框架非常多，比如比较流行的 Flutter、RN 等等，但是你有没有想过用 swift 写安卓呢？其实已经有开发者研究这件事情 
+    WebSocket 是一种支持通过单个 TCP 连接进行全双工通信的协议，相较于传统的 HTTP 协议，它更适合需要实时交互的应用场景。此协议在现代 Web 应用中扮演着至关重要的角色，尤其是在需要实 
     </details> 
 
-- 🎡 [【一分钟快学】超级新手指南：使用Go的PGO优化提升性能，从零开始！](https://juejin.cn/post/7340998385303879716) | Fri Mar 01 2024 2:16 AM 
+- 🎡 [有道QAnything背后的故事---关于RAG的一点经验分享](https://juejin.cn/post/7340920192996360202) | Fri Mar 01 2024 3:12 AM 
     <details><summary>展开描述 ...</summary> 
-    一站式入门：掌握Go PGO，轻松提升程序性能。深入了解收集性能数据、编译优化及评估改进效果的简明指南。 
+    近日，我们开源了有道自研的RAG（Retrieval Augmented Generation&rpar; 引擎QAnything。 
     </details> 
 
-- 🕯 [在探索创意中进一步了解生成式人工智能：PartyRock —— re:Invent 2023 产品测评](https://juejin.cn/post/7340919878881017891) | Fri Mar 01 2024 2:15 AM 
+- 🕯 [详解vue.config.js的特殊配置说明](https://juejin.cn/post/7340998385304436772) | Fri Mar 01 2024 2:54 AM 
     <details><summary>展开描述 ...</summary> 
-    2023年，生成式人工智能（AI）多次成为热点话题。如果想在轻松有趣的环境中探索这一领域，并且想要亲手构建一些游戏，那么 PartyRock 是一个很好的选择！ 
+    在 vue.config.js 文件中，externals 配置选项是用来指定不应该被 webpack 打包的模块，而是在运行时从环境中获取。这意味着这些模块应该作为外部依赖存在，而不是被包含在最终的 
     </details> 
 
-- 🚀 [React基础 第九章（事件处理）](https://juejin.cn/post/7340944247456595983) | Fri Mar 01 2024 2:10 AM 
+- 🚀 [11岁的React正迎来自己口碑的拐点](https://juejin.cn/post/7340926094614511626) | Fri Mar 01 2024 2:53 AM 
     <details><summary>展开描述 ...</summary> 
-    React中的事件处理是交互式应用的核心。本文将详细介绍如何编写事件处理函数、如何从父组件传递事件处理逻辑、事件如何传播及其阻止方法，并提供实用技巧和示例代码。 编写事件处理函数 在React中，事件 
+    凌晨2点，Dan仍坐在电脑桌前，表情严肃。 作为React社区最知名的布道者，此时正遭遇一场不小的变故 —— 他拥有38w粉丝的推特账号被影子封禁了。 在RSC（React Server Compon 
     </details> 
 
-- 💪 [【一分钟快学】Go 1.22革新揭秘：解决并发编程中的循环变量挑战](https://juejin.cn/post/7340900764363440140) | Fri Mar 01 2024 2:08 AM 
+- 💪 [JavaWeb解决中文乱码问题](https://juejin.cn/post/7340899332509483045) | Fri Mar 01 2024 2:49 AM 
     <details><summary>展开描述 ...</summary> 
-    深入Go 1.22：一次性解决并发编程的循环变量问题。本文深入讨论了如何克服Go语言并发编程中的一个主要难题：循环变量捕获问题。通过引入loopvar作用域改进和整数range迭代新特性。 
+    中文乱码问题 在使用Get请求进行访问是由于地址中参数的编码问题可能会造成中文乱码问题，可以使用如下 
     </details> 
 <!-- juejin:END -->
 ### 少数派
