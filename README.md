@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [maven 包管理平台 windows 安装配置 + mac 安装配置](https://juejin.cn/post/7341191622032392233) | Fri Mar 01 2024 10:08 AM 
+- 🤗 [RTE 开源｜小红书 REDPlayer 正式发布！快来 get 同款播放器～](https://juejin.cn/post/7341232502824190002) | Fri Mar 01 2024 10:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    本项目由 RTE 开发者社区 x 小红书 联合运营   播放器最初出现在 19 世纪，当时主要用于播放音频，例如通过留声机播放唱片。   随着技术的进步，音频播放器不断改进，品质越来越好，体积也越来越 
+    </details> 
+
+- 🎡 [tinyMCE 第七章 （特定内容插件工具栏）](https://juejin.cn/post/7341210148805165108) | Fri Mar 01 2024 10:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    TinyMCE的强大之处在于其不仅提供了一般的文本编辑功能，还通过一系列插件支持了高度专业化的内容编辑。对于那些需要高度专业化编辑操作的用户来说，TinyMCE允许开发者自定义一个上下文工具栏&lpar;Con 
+    </details> 
+
+- 🕯 [使用 Web Worker + SharedArrayBuffer 并行实现视频实时滤镜效果](https://juejin.cn/post/7341227381046853673) | Fri Mar 01 2024 10:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文使用 Web Worker 和 SharedArrayBuffer 来并行实现视频实时滤镜效果。 
+    </details> 
+
+- 🚀 [maven 包管理平台 windows 安装配置 + mac 安装配置](https://juejin.cn/post/7341191622032392233) | Fri Mar 01 2024 10:08 AM 
     <details><summary>展开描述 ...</summary> 
     # 拓展阅读 [maven 包管理平台-01-maven 入门介绍 + Maven、Gradle、Ant、Ivy、Bazel 和 SBT 的详细对比表格]&lpar;https://houbb.github 
     </details> 
 
-- 🎡 [maven 包管理平台-01-maven 入门介绍 + Maven、Gradle、Ant、Ivy、Bazel 和 SBT 的详细对比表格](https://juejin.cn/post/7341010324458487827) | Fri Mar 01 2024 10:06 AM 
+- 💪 [maven 包管理平台-01-maven 入门介绍 + Maven、Gradle、Ant、Ivy、Bazel 和 SBT 的详细对比表格](https://juejin.cn/post/7341010324458487827) | Fri Mar 01 2024 10:06 AM 
     <details><summary>展开描述 ...</summary> 
     # 拓展阅读 [maven 包管理平台-01-maven 入门介绍 + Maven、Gradle、Ant、Ivy、Bazel 和 SBT 的详细对比表格]&lpar;https://houbb.github 
-    </details> 
-
-- 🕯 [tinyMCE 第六章 （特定内容工具栏）](https://juejin.cn/post/7341210148805115956) | Fri Mar 01 2024 10:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    在编辑富文本内容时，格式化工具的便捷访问是至关重要的。TinyMCE强大的快速工具栏&lpar;Quickbars&rpar;插件提供了灵活的配置，允许用户基于内容上下文快速访问特定的工具按钮。本文将介绍TinyMCE中 
-    </details> 
-
-- 🚀 [tinyMCE 第五章 （内联编辑器）](https://juejin.cn/post/7341210148805099572) | Fri Mar 01 2024 9:59 AM 
-    <details><summary>展开描述 ...</summary> 
-    TinyMCE编辑器不仅在全局模式下功能全面，在内联模式下也提供了强大的定制功能，使得它能够无缝地适应现代网页设计。本文将详细说明如何在TinyMCE内联模式下实现持久化的工具栏，并将其固定在页面的特 
-    </details> 
-
-- 💪 [写原创好文，瓜分万元现金大奖 💰 ｜3月金石计划](https://juejin.cn/post/7341210148805034036) | Fri Mar 01 2024 9:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    金石计划是针对掘金社区创作者等级 lv4-lv8 的原创作者发起的奖金瓜分活动，根据要求完成挑战，即可瓜分现金奖池~掘金社区会在活动中挖掘有潜力、闪闪发光的技术创作者，进行重点扶持，携手大步往前走！  
     </details> 
 <!-- juejin:END -->
 ### 少数派
