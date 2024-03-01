@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Text Workflow 1.9.1 文本编辑](https://xclient.info/s/text-workflow.html) | Thu Feb 29 2024 2:38 AM 
+- 🦏 [GlueMotion 2.2.2 缩时摄影](https://xclient.info/s/gluemotion.html) | Fri Mar 01 2024 6:19 AM 
     <details><summary>展开描述 ...</summary> 
-    Text Workflow 是一款 macOS 文本编辑工具，可帮助您自动化重复性的文本处理任务。 
+    GlueMotion是Mac平台上的一款缩时摄影师的理想工具。GlueMotion Mac版允许用户批量对图像进行编辑、去闪烁，并将图像序列汇编成缩时影片。 
     </details> 
 
--  [VueScan 9.8.25 扫描仪万能驱动](https://xclient.info/s/vuescan.html) | Thu Feb 29 2024 1:51 AM 
+-  [PDF Squeezer 4.5 PDF压缩工具](https://xclient.info/s/pdf-squeezer.html) | Fri Mar 01 2024 6:18 AM 
     <details><summary>展开描述 ...</summary> 
-    VueScan 是一款万能扫描驱动程序，支持多达2000多种新旧的扫描仪，目前已经成为最知名和最好用的万能驱动了，并且扫描效果要比使用很多原厂驱动好，总之，如果你正在找一款Mac上的扫描仪驱动，首选VueScan。 
+    PDF Squeezer 是Mac OS平台上的一款 PDF 简易压缩工具 
     </details> 
 
-- ⚗️ [QLab Pro 5.3.4 专业现场媒体编辑工具](https://xclient.info/s/qlab-pro.html) | Thu Feb 29 2024 1:50 AM 
+- ⚗️ [QLab Pro 5.3.5 专业现场媒体编辑工具](https://xclient.info/s/qlab-pro.html) | Fri Mar 01 2024 6:18 AM 
     <details><summary>展开描述 ...</summary> 
     QLab 是一款专为现场表演而设计的多媒体制作工具，能够让你的Mac掌控整个表演现场。包含戏剧，舞蹈，组合，安装，和更多的风格功能。只需从一个单一的工作区就能播放MIDI和音视频。 
     </details> 
 
-- 🔥 [FastScripts 3.3.1 脚本调用工具](https://xclient.info/s/fastscripts.html) | Thu Feb 29 2024 1:49 AM 
+- 🔥 [AnyToISO 3.9.7 ISO镜像制作工具](https://xclient.info/s/anytoiso.html) | Fri Mar 01 2024 6:17 AM 
     <details><summary>展开描述 ...</summary> 
-    FastScripts 是一款Mac OS平台上的脚本调用工具，让用户快速在任何应用程序中通过菜单执行AppleScript或shell脚本，用户可将菜单中的任何脚本自定义快捷键还通过方便的快捷键编辑脚本。 
+    AnyToISO 是一款Mac上强大的ISO镜像制作工具，可以将其他类型的镜像转换制作为ISO格式，支持几乎所有常见的压缩格式转换为ISO文件、从CD、DVD光盘中提取ISO文件、从任意目录创建ISO文件，还支持提取ISO文件内的内容。 
     </details> 
 
-- 🌋 [PullTube 1.8.5.26 在线视频下载工具](https://xclient.info/s/pulltube.html) | Thu Feb 29 2024 1:47 AM 
+- 🌋 [VMware Fusion Pro 13.5.1 Build 23298085 强大的虚拟机应用](https://xclient.info/s/vmware-fusion.html) | Fri Mar 01 2024 6:12 AM 
     <details><summary>展开描述 ...</summary> 
-    PullTube 是一款amcOS平台的在线视频下载工具，可以帮助我们下载油管以及Vimeo的在线视频到本地 
+    VMware Fusion是Mac 平台的著名虚拟机软件VMware推出的最新版本，VMware Fusion 可以完整支持 Windows 10、OS X El Capitan 和最新的 Retina Mac 产品，当然还支持微软的 Cortana。 
     </details> 
 <!-- xclient:END -->
 
