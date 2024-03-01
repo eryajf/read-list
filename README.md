@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [成为 Astro 的 maintainer 啦~](https://www.v2ex.com/t/1019836#reply1) | Fri Mar 01 2024 8:13 AM
-- 🤗 [两百预算，有什么比较好的电子电路开发板入门推荐？](https://www.v2ex.com/t/1019831#reply4) | Fri Mar 01 2024 7:57 AM
-- 🎭 [pytest 自定义 def pytest_configure&lpar;config&rpar;函数报错 INTERNALERROR&gt; AttributeError: &#39;Config&#39; object has no attribute &#39;_metadata&#39;](https://www.v2ex.com/t/1019816#reply1) | Fri Mar 01 2024 7:10 AM
-- 🥷 [有什么不通过写脚本的方式，将 postgreSQL 的建表语句转换为 doris 的建表语句吗？](https://www.v2ex.com/t/1019809#reply2) | Fri Mar 01 2024 7:02 AM
-- 🐵 [请教大佬们，有什么比较适合独立开发者的 Web 端的 A/B Test 平台不？请分享](https://www.v2ex.com/t/1019799#reply0) | Fri Mar 01 2024 6:33 AM<!-- v2ex:END -->
+- 🥸 [第三方工具部署到服务器后,外网如何管理,配置,查看?](https://www.v2ex.com/t/1019860#reply0) | Fri Mar 01 2024 9:08 AM
+- 🤗 [成为 Astro 的 maintainer 啦~](https://www.v2ex.com/t/1019836#reply8) | Fri Mar 01 2024 8:13 AM
+- 🎭 [两百预算，有什么比较好的电子电路开发板入门推荐？](https://www.v2ex.com/t/1019831#reply8) | Fri Mar 01 2024 7:57 AM
+- 🥷 [pytest 自定义 def pytest_configure&lpar;config&rpar;函数报错 INTERNALERROR&gt; AttributeError: &#39;Config&#39; object has no attribute &#39;_metadata&#39;](https://www.v2ex.com/t/1019816#reply1) | Fri Mar 01 2024 7:10 AM
+- 🐵 [有什么不通过写脚本的方式，将 postgreSQL 的建表语句转换为 doris 的建表语句吗？](https://www.v2ex.com/t/1019809#reply3) | Fri Mar 01 2024 7:02 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
