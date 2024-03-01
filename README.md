@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [在 Vue3.x 中实现类似 React.lazy 的效果](https://juejin.cn/post/7341272885061550106) | Fri Mar 01 2024 4:09 PM 
+- 🤗 [PaddleOCR 高精度文字识别：丰富多样的前沿算法 | 开源日报 No.187](https://juejin.cn/post/7341288345782566953) | Fri Mar 01 2024 5:53 PM 
+    <details><summary>展开描述 ...</summary> 
+    PaddleOCR 是一个功能强大、领先技术、实用的 OCR 工具库，具备多种前沿算法，可帮助开发者训练更好的模型并应用于实际场景。它提供了产业级特色模型 PP-OCR、PP-Structure 和 
+    </details> 
+
+- 🎡 [在 Vue3.x 中实现类似 React.lazy 的效果](https://juejin.cn/post/7341272885061550106) | Fri Mar 01 2024 4:09 PM 
     <details><summary>展开描述 ...</summary> 
     React 的 `React.lazy` 功能为组件懒加载提供了原生支持，允许开发者将组件渲染推迟到实际需要时再进行。虽然 Vue3.没有一个直接对应的 `lazy` 函数，但我们仍可以实现类似效果。 
     </details> 
 
-- 🎡 [（代码比较）Vue3.x 改进中与 React 相似之处](https://juejin.cn/post/7341288089492979739) | Fri Mar 01 2024 4:09 PM 
+- 🕯 [（代码比较）Vue3.x 改进中与 React 相似之处](https://juejin.cn/post/7341288089492979739) | Fri Mar 01 2024 4:09 PM 
     <details><summary>展开描述 ...</summary> 
     Vue3.x 在其最新的更新中引入了一些特性和改进，使其在某些方面与 React 变得更加相似。这些相似之处不仅体现了现代前端框架的共同进化方向，也为前端开发者在这两个框架之间的转换提供了便利。 
     </details> 
 
-- 🕯 [构建 Vue3.x 组件及其在 Vue 和 HTML 中的应用](https://juejin.cn/post/7341267497427337216) | Fri Mar 01 2024 4:09 PM 
+- 🚀 [构建 Vue3.x 组件及其在 Vue 和 HTML 中的应用](https://juejin.cn/post/7341267497427337216) | Fri Mar 01 2024 4:09 PM 
     <details><summary>展开描述 ...</summary> 
     本文将详细介绍如何通过两种完全不同的方式构建一个 Vue3.x 组件，以及如何在其他 Vue3.x 组件和 HTML 文件中使用这个构建出来的组件。 
     </details> 
 
-- 🚀 [Java中的动态代理与Spring AOP编程](https://juejin.cn/post/7341288089492930587) | Fri Mar 01 2024 3:35 PM 
+- 💪 [Java中的动态代理与Spring AOP编程](https://juejin.cn/post/7341288089492930587) | Fri Mar 01 2024 3:35 PM 
     <details><summary>展开描述 ...</summary> 
     一起深入了解Java中的动态代理和Spring AOP编程。从基本概念到高级应用，再到实战案例，希望这些内容能够帮助咱们更好地掌握这两项强大的技术。现在，让咱们在本章做一个总结回顾，巩固咱们所学的知识 
-    </details> 
-
-- 💪 [Vue2.x 与 Vue3.x 的全面对比](https://juejin.cn/post/7341275822152908840) | Fri Mar 01 2024 3:29 PM 
-    <details><summary>展开描述 ...</summary> 
-    相较于其前身 Vue2.x，引入了一系列的新特性和改进。本文将着眼于其使用的技术广度和深度，深入探讨 Vue2.x 与 Vue3.x 之间的不同。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
