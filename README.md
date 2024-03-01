@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0301](http://jandan.net/p/115768) | Thu Feb 29 2024 11:07 PM 
+- 🚀 [今日好价 0302](http://jandan.net/p/115777) | Fri Mar 01 2024 11:07 PM 
     <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：27 
+    今日带货商品数量：47 
     </details> 
 
-- 🙉 [进化代价：人类失去尾巴，也带来了脊柱疾病风险](http://jandan.net/p/115766) | Thu Feb 29 2024 11:06 PM 
+- 🙉 [新理论：阿尔茨海默病是自身免疫性疾病](http://jandan.net/p/115775) | Fri Mar 01 2024 11:06 PM 
     <details><summary>展开描述 ...</summary> 
-    这表明进化并非总是完美的 
+    传统观点认为阿尔茨海默病是脑部疾病 
     </details> 
 
-- 🎉 [科技公司不懂得什么是“同意”](http://jandan.net/p/115765) | Thu Feb 29 2024 11:05 PM 
+- 🎉 [治疗脱发的药物或能降低心脏病风险](http://jandan.net/p/115774) | Fri Mar 01 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
-    “选择退出” ≠ 同意 
+    非那雄胺有助于降低胆固醇 
     </details> 
 
-- 🐲 [地球到底啥形状？牛顿与笛卡尔之争](http://jandan.net/p/115762) | Thu Feb 29 2024 11:03 PM 
+- 🐲 [为什么随着年龄增长，时间过得更快](http://jandan.net/p/115771) | Fri Mar 01 2024 11:03 PM 
     <details><summary>展开描述 ...</summary> 
-    最终牛顿的扁平地球模型胜出 
+    大脑高效储存新奇记忆 
     </details> 
 
--  [美国军方用AI锁定空袭目标](http://jandan.net/p/115764) | Thu Feb 29 2024 11:02 PM 
+-  [新西兰将废除之前颁布的世界首个烟草禁令](http://jandan.net/p/115773) | Fri Mar 01 2024 11:02 PM 
     <details><summary>展开描述 ...</summary> 
-    但最终决定权仍由人类士兵掌握 
+    引发专家学者强烈反对。 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
