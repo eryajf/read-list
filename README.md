@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [BitSet在阿里面试和RocketMQ中的应用](https://juejin.cn/post/7341288345781911593) | Fri Mar 01 2024 12:18 PM 
+- 🤗 [2024 Vue 生态工具推荐](https://juejin.cn/post/7341272885061124122) | Fri Mar 01 2024 12:52 PM 
+    <details><summary>展开描述 ...</summary> 
+    这些都是我在 2024 年使用 Vue 构建可扩展 App 的个人建议。机智如你可能已经察觉，大部分情况下我都喜欢坚持行业标准。 
+    </details> 
+
+- 🎡 [React基础 第十五章（正确更新State中的数组）](https://juejin.cn/post/7341235774903730185) | Fri Mar 01 2024 12:44 PM 
+    <details><summary>展开描述 ...</summary> 
+    在React应用中，数组是常见的state类型，它们通常用于表示列表数据。正确地更新数组状态对于避免性能问题和bug至关重要。本文将深入探讨如何在React中更新state中的数组，包括添加、删除、修 
+    </details> 
+
+- 🕯 [程序员的财富指南 第六章 （区分财富与金钱，打造持续增值的技能资产）](https://juejin.cn/post/7341275378751045669) | Fri Mar 01 2024 12:41 PM 
+    <details><summary>展开描述 ...</summary> 
+    在职业发展的路上，理解财富和金钱的本质不仅重要，而且对于我们作为程序员的长远规划至关重要。金钱和财富，虽常被通用，但意味着两个截然不同的概念。 金钱是交易和信用的媒介，是你为社会提供价值后获得的一种确 
+    </details> 
+
+- 🚀 [React基础 第十四章（正确更新State中的对象）](https://juejin.cn/post/7341235774903681033) | Fri Mar 01 2024 12:34 PM 
+    <details><summary>展开描述 ...</summary> 
+    在React中，正确地管理和更新state是保持应用性能和可维护性的关键。本文将详细介绍如何在React中更新state中的对象，包括不可变性的概念、如何处理嵌套对象更新，以及使用Immer库简化更新 
+    </details> 
+
+- 💪 [BitSet在阿里面试和RocketMQ中的应用](https://juejin.cn/post/7341288345781911593) | Fri Mar 01 2024 12:18 PM 
     <details><summary>展开描述 ...</summary> 
     什么是BitSet 简单理解就是位图，类似BitMap。用来存储二进制位的类 BitSet特性 位存储：BitSet 以位为单位存储数据，每个位只能是 0 或 1。 空间效率：BitSet 比使用 b 
-    </details> 
-
-- 🎡 [React基础 第十三章（State更新队列）](https://juejin.cn/post/7341210148805574708) | Fri Mar 01 2024 12:17 PM 
-    <details><summary>展开描述 ...</summary> 
-    React中的批处理机制 当我们在事件处理函数中连续调用setState方法时，React会将这些更新合并成一个更新来进行处理，这就是所谓的批处理机制。这意味着无论我们调用了多少次setState，实 
-    </details> 
-
-- 🕯 [比特币暴涨逼近历史最高点；阿里云全线降价20%丨 RTE 开发者日报 Vol.155](https://juejin.cn/post/7341275378751012901) | Fri Mar 01 2024 12:08 PM 
-    <details><summary>展开描述 ...</summary> 
-    开发者朋友们大家好： 这里是 「RTE 开发者日报」 ，每天和大家一起看新闻、聊八卦。我们的社区编辑团队会整理分享 RTE （Real Time Engagement） 领域内「有话题的 新闻 」、「 
-    </details> 
-
-- 🚀 [Golang语法一览（上）](https://juejin.cn/post/7341288345781796905) | Fri Mar 01 2024 11:59 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文介绍了Go语言的基础语法，包括变量和常量的声明和赋值、函数的定义和调用、if和switch条件语句、以及for循环语句的用法。同时还介绍了Go语言中的依赖管理工具gomod的使用方法。 
-    </details> 
-
-- 💪 [React基础 第十二章（State快照）](https://juejin.cn/post/7341010324458766355) | Fri Mar 01 2024 11:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    理解state的行为对于编写可预测和高效的组件至关重要。本文将深入探讨state作为快照的概念，以及它在事件处理函数中的表现。我们将提供实用的开发技巧、示例代码以及注意事项，以帮助你更好地管理stat 
     </details> 
 <!-- juejin:END -->
 ### 少数派
