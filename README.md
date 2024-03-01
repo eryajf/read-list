@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [人工智能图像编辑工具遭网络攻击，2000 万用户数据信息泄露](https://www.freebuf.com/news/393017.html) | Fri Mar 01 2024 3:07 AM 
+- 🦄 [自动驾驶功能宕机，竟是因为2月有29天？](https://www.freebuf.com/news/393097.html) | Fri Mar 01 2024 8:05 AM 
+    <details><summary>展开描述 ...</summary> 
+    禾赛科技激光雷达因没处理闰年时间戳，导致固件bug，致使凡是用了禾赛激光雷达的车，自动驾驶功能全部“歇菜”。 
+    </details> 
+
+- 🦄 [综述：模糊测试的艺术、科学和工程（下）](https://www.freebuf.com/articles/network/393047.html) | Fri Mar 01 2024 5:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    本篇文章将重点介绍测试用例的生成策略、测试与评估方法、测试过程中的分流策略，以及反馈迭代机制，带领大家深入了解更多关于模糊测试的内容。 
+    </details> 
+
+- 🦅 [Brave 浏览器 AI 助手“Leo”安卓版本即将上线，主打隐私安全！](https://www.freebuf.com/news/393021.html) | Fri Mar 01 2024 3:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    该人工助手使用了多个先进的大型语言模型（LLM），如 Mixtral 8x7B、Claude Instant 和 Llama 2 13B。 
+    </details> 
+
+- 🪄 [人工智能图像编辑工具遭网络攻击，2000 万用户数据信息泄露](https://www.freebuf.com/news/393017.html) | Fri Mar 01 2024 3:07 AM 
     <details><summary>展开描述 ...</summary> 
     所有 Cutout.Pro 用户都应警惕有针对性的网络钓鱼诈骗。   
     </details> 
 
-- 🦄 [Sora引发安全新挑战，视频还能相信吗？](https://www.freebuf.com/articles/392954.html) | Thu Feb 29 2024 11:14 AM 
+- 💻 [Sora引发安全新挑战，视频还能相信吗？](https://www.freebuf.com/articles/392954.html) | Thu Feb 29 2024 11:14 AM 
     <details><summary>展开描述 ...</summary> 
     如同ChatGPT一样，人们在担心被AI取代的同时，Sora的“双刃剑”效应也正迅速放大并引起了各方重视。 
-    </details> 
-
-- 🦅 [FreeBuf 早报 | 国内首个个信保护AI大模型发布；制药巨头CENCORA遭数据泄露](https://www.freebuf.com/news/392931.html) | Thu Feb 29 2024 9:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    “智御”助手为国内首个个人信息保护AI大模型，为APP开发运营、检测防护、政策解读等提供智能化服务。 
-    </details> 
-
-- 🪄 [为什么黑客这么喜欢攻击加密货币？](https://www.freebuf.com/news/topnews/392889.html) | Thu Feb 29 2024 7:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    根据Chainalysis最新发布的《2024年加密货币犯罪报告》，仅勒索软件从受害者处勒索的加密货币价值就超过了 10 亿美元。 
-    </details> 
-
-- 💻 [议题征集&amp;报名开启 | FreeBuf企业安全俱乐部·广州站起航](https://www.freebuf.com/fevents/392862.html) | Thu Feb 29 2024 5:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    2024年4月10日，FreeBuf企业安全俱乐部落地广州，邀请多位企业安全专家和技术大咖，给大家带来一场高质量的线下研讨会。 
     </details> 
 <!-- freebuf:END -->
 
