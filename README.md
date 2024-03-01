@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Cartoonifier - 几秒钟内从自拍到AI生成的卡通角色。](https://xinquji.com/posts/809363?utm_campaign=xinquji-rss) | Thu Feb 29 2024 8:03 AM 
+- 👀 [Mailbob - 个人品牌 / 小型企业的新闻通讯平台](https://xinquji.com/posts/809454?utm_campaign=xinquji-rss) | Fri Mar 01 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     几秒钟内从自拍到AI生成的卡通角色。  
+     个人品牌 / 小型企业的新闻通讯平台  
     </details> 
 
-- 🥷 [FineTBot - 一款强大的写作AI，论文写作，采用先进的大模型语言](https://xinquji.com/posts/809362?utm_campaign=xinquji-rss) | Thu Feb 29 2024 8:02 AM 
+- 🥷 [Romo AI - 所有超级人工智能工具都集中在一处](https://xinquji.com/posts/809453?utm_campaign=xinquji-rss) | Fri Mar 01 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     一款强大的写作AI，论文写作，采用先进的大模型语言  
+     所有超级人工智能工具都集中在一处  
     </details> 
 
-- 💼 [Quick Open - 一键搜索，直接抵达目标网页](https://xinquji.com/posts/809339?utm_campaign=xinquji-rss) | Thu Feb 29 2024 8:01 AM 
+- 💼 [Founder Reports - 创始人及企业家深度访谈](https://xinquji.com/posts/809452?utm_campaign=xinquji-rss) | Fri Mar 01 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     一键搜索，直接抵达目标网页  
+     创始人及企业家深度访谈  
     </details> 
 
-- 🦅 [Talisman - 实时跟踪公司软件订阅的费用](https://xinquji.com/posts/809426?utm_campaign=xinquji-rss) | Thu Feb 29 2024 6:00 AM 
+- 🦅 [Perfect Pick - 终极视频游戏发现引擎](https://xinquji.com/posts/809451?utm_campaign=xinquji-rss) | Fri Mar 01 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     实时跟踪公司软件订阅的费用  
+     终极视频游戏发现引擎  
     </details> 
 
-- 😺 [BetterCollected - 开源 Jotform 替代方案](https://xinquji.com/posts/809425?utm_campaign=xinquji-rss) | Thu Feb 29 2024 6:00 AM 
+- 😺 [Reaction Free - 创建反应内容而不必担心侵犯版权。](https://xinquji.com/posts/809450?utm_campaign=xinquji-rss) | Fri Mar 01 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     开源 Jotform 替代方案  
+     创建反应内容而不必担心侵犯版权。  
     </details> 
 <!-- xinquji:END -->
