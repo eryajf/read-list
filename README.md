@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [技巧分享：Websocket 长连接状态如何保持](https://juejin.cn/post/7340998385304666148) | Fri Mar 01 2024 3:13 AM 
+- 🤗 [前端｜基于 Layui 实现动态搜索选择框](https://juejin.cn/post/7340970751321194546) | Fri Mar 01 2024 4:02 AM 
     <details><summary>展开描述 ...</summary> 
-    WebSocket 是一种支持通过单个 TCP 连接进行全双工通信的协议，相较于传统的 HTTP 协议，它更适合需要实时交互的应用场景。此协议在现代 Web 应用中扮演着至关重要的角色，尤其是在需要实 
+    网页端实现动态搜索选择框，要求下拉选项列表能根据用户输入内容动态刷新，最终提交的值必须是由选项列表中点选的。 
     </details> 
 
-- 🎡 [有道QAnything背后的故事---关于RAG的一点经验分享](https://juejin.cn/post/7340920192996360202) | Fri Mar 01 2024 3:12 AM 
+- 🎡 [万字带你走过数据库的这激荡的三年](https://juejin.cn/post/7340900764364144652) | Fri Mar 01 2024 4:00 AM 
     <details><summary>展开描述 ...</summary> 
-    近日，我们开源了有道自研的RAG（Retrieval Augmented Generation&rpar; 引擎QAnything。 
+    从上亿美元融资到如今的融资困难，数据库行业这三年到底经历了哪些事…2023 年数据库回顾：向量数据库虽然大火，但没有技术壁垒；2022 年数据库回顾：江山代有新人出，区块链数据库还是那个傻主意；… 
     </details> 
 
-- 🕯 [详解vue.config.js的特殊配置说明](https://juejin.cn/post/7340998385304436772) | Fri Mar 01 2024 2:54 AM 
+- 🕯 [还在为看不懂正则而头秃吗，来看看这篇文章吧](https://juejin.cn/post/7341019035185561635) | Fri Mar 01 2024 3:57 AM 
     <details><summary>展开描述 ...</summary> 
-    在 vue.config.js 文件中，externals 配置选项是用来指定不应该被 webpack 打包的模块，而是在运行时从环境中获取。这意味着这些模块应该作为外部依赖存在，而不是被包含在最终的 
+    正则表达式是一种用来匹配字符串的强有力的武器。它的设计思想是用一种描述性的语言定义一个规则，凡是符合规则的字符串，我们就认为它“匹配”了，否则，该字符串就是不合法的。 
     </details> 
 
-- 🚀 [11岁的React正迎来自己口碑的拐点](https://juejin.cn/post/7340926094614511626) | Fri Mar 01 2024 2:53 AM 
+- 🚀 [Python常用标准库-os库一文详解&lpar;二&rpar;:文件操作和路径操作](https://juejin.cn/post/7340998385305108516) | Fri Mar 01 2024 3:52 AM 
     <details><summary>展开描述 ...</summary> 
-    凌晨2点，Dan仍坐在电脑桌前，表情严肃。 作为React社区最知名的布道者，此时正遭遇一场不小的变故 —— 他拥有38w粉丝的推特账号被影子封禁了。 在RSC（React Server Compon 
+    前言 Python 标准库非常庞大，所提供的组件涉及范围十分广泛，正如以下内容目录所显示的。这个库包含了多个内置模块 &lpar;以 C 编写&rpar;，Python 程序员必须依靠它们来实现系统级功能，例如文件 I/ 
     </details> 
 
-- 💪 [JavaWeb解决中文乱码问题](https://juejin.cn/post/7340899332509483045) | Fri Mar 01 2024 2:49 AM 
+- 💪 [程序员副业 | 2024年2月复盘](https://juejin.cn/post/7340899332509876261) | Fri Mar 01 2024 3:48 AM 
     <details><summary>展开描述 ...</summary> 
-    中文乱码问题 在使用Get请求进行访问是由于地址中参数的编码问题可能会造成中文乱码问题，可以使用如下 
+    大家好我是嘟嘟MD，热衷于副业变现，今天来分享下我2024年2月的复盘，送月度大事、收获、问题、以及下月计划这四个维度展开，希望对大家有所参考。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
