@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [从零学 - docker](https://juejin.cn/post/7341232502824943666) | Fri Mar 01 2024 2:42 PM 
+- 🤗 [在 Vue3.x 中实现类似 React.lazy 的效果](https://juejin.cn/post/7341272885061550106) | Fri Mar 01 2024 4:09 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 最近使用 nest 做了一个 后端项目，遇到了很多关于没有遇见过的后端的知识，决定开一个新的栏目记录我的第一次 🦝关于docker 为什么会有 docker 什么是 docker 怎么使用 do 
+    React 的 `React.lazy` 功能为组件懒加载提供了原生支持，允许开发者将组件渲染推迟到实际需要时再进行。虽然 Vue3.没有一个直接对应的 `lazy` 函数，但我们仍可以实现类似效果。 
     </details> 
 
-- 🎡 [Android 基于绘制缓冲的烟花效果实现](https://juejin.cn/post/7341288345782206505) | Fri Mar 01 2024 2:31 PM 
+- 🎡 [（代码比较）Vue3.x 改进中与 React 相似之处](https://juejin.cn/post/7341288089492979739) | Fri Mar 01 2024 4:09 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 目前为止，我数了下我的文章总数，已经70多篇了，写的基本都是实用性文章，而且基本都在最近3个月以内完成，为什么写这么多呢？主要原因是大环境比较差，希望多总结一下经验，其实我本来打算写open g 
+    Vue3.x 在其最新的更新中引入了一些特性和改进，使其在某些方面与 React 变得更加相似。这些相似之处不仅体现了现代前端框架的共同进化方向，也为前端开发者在这两个框架之间的转换提供了便利。 
     </details> 
 
-- 🕯 [适配器模式在微服务的巧妙应用](https://juejin.cn/post/7341267497427124224) | Fri Mar 01 2024 2:16 PM 
+- 🕯 [构建 Vue3.x 组件及其在 Vue 和 HTML 中的应用](https://juejin.cn/post/7341267497427337216) | Fri Mar 01 2024 4:09 PM 
     <details><summary>展开描述 ...</summary> 
-    适配器模式（Adapter Pattern）是一种结构型设计模式，它允许不兼容的接口之间可以一起工作。适配器模式通常用于将一个类的接口转换成客户端期望的另一种接口，从而使原本因接口不兼容而不能一起工作 
+    本文将详细介绍如何通过两种完全不同的方式构建一个 Vue3.x 组件，以及如何在其他 Vue3.x 组件和 HTML 文件中使用这个构建出来的组件。 
     </details> 
 
-- 🚀 [Python环境搭建：一站式指南](https://juejin.cn/post/7341232502824747058) | Fri Mar 01 2024 1:53 PM 
+- 🚀 [Java中的动态代理与Spring AOP编程](https://juejin.cn/post/7341288089492930587) | Fri Mar 01 2024 3:35 PM 
     <details><summary>展开描述 ...</summary> 
-    在当前AIGC技术蓬勃发展的背景下，Python作为人工智能领域最受青睐的编程语言之一，成为我们必须掌握的技能。因此，搭建一个适合自己的Python环境成为了每个Python开发者的首要任务。 
+    一起深入了解Java中的动态代理和Spring AOP编程。从基本概念到高级应用，再到实战案例，希望这些内容能够帮助咱们更好地掌握这两项强大的技术。现在，让咱们在本章做一个总结回顾，巩固咱们所学的知识 
     </details> 
 
-- 💪 [Git 分支管理：优化版本控制与应急处理的关键策略](https://juejin.cn/post/7341232502824599602) | Fri Mar 01 2024 1:04 PM 
+- 💪 [Vue2.x 与 Vue3.x 的全面对比](https://juejin.cn/post/7341275822152908840) | Fri Mar 01 2024 3:29 PM 
     <details><summary>展开描述 ...</summary> 
-    使用 Git 分支：轻松管理不同版本和应对紧急情况的最佳实践 使用 Git 分支 在 Git 中，分支是主仓库的新/独立版本。 假设你有一个大型项目，需要对其进行设计更新。 没有使用 Git 时： 复 
+    相较于其前身 Vue2.x，引入了一系列的新特性和改进。本文将着眼于其使用的技术广度和深度，深入探讨 Vue2.x 与 Vue3.x 之间的不同。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
