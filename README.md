@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [分布式协议之巅 — 揭秘基础Paxos与Raft协议如何实现分布式系统达成一致性（非变种Paxos协议）](https://juejin.cn/post/7341227381045936169) | Fri Mar 01 2024 9:02 AM 
+- 🤗 [maven 包管理平台 windows 安装配置 + mac 安装配置](https://juejin.cn/post/7341191622032392233) | Fri Mar 01 2024 10:08 AM 
     <details><summary>展开描述 ...</summary> 
-    本文为稀土掘金技术社区首发签约文章，30天内禁止转载，30天后未获授权禁止转载，侵权必究！ 前提介绍 在我们深入探讨分布式一致性及其实现方式——Raft协议之前，让我们首先揭开Paxos协议的神秘面纱 
+    # 拓展阅读 [maven 包管理平台-01-maven 入门介绍 + Maven、Gradle、Ant、Ivy、Bazel 和 SBT 的详细对比表格]&lpar;https://houbb.github 
     </details> 
 
-- 🎡 [tinyMCE 第四章 （工具栏模式）](https://juejin.cn/post/7341207809356677135) | Fri Mar 01 2024 8:49 AM 
+- 🎡 [maven 包管理平台-01-maven 入门介绍 + Maven、Gradle、Ant、Ivy、Bazel 和 SBT 的详细对比表格](https://juejin.cn/post/7341010324458487827) | Fri Mar 01 2024 10:06 AM 
     <details><summary>展开描述 ...</summary> 
-    现代网页设计中对响应式布局的需求不断增加，尤其是在文本编辑器这样的交互密集型组件上，适应不同屏幕尺寸和用户操作习惯成为了开发者必须解决的问题。TinyMCE是一个广泛使用的Web富文本编辑器，它提供了 
+    # 拓展阅读 [maven 包管理平台-01-maven 入门介绍 + Maven、Gradle、Ant、Ivy、Bazel 和 SBT 的详细对比表格]&lpar;https://houbb.github 
     </details> 
 
-- 🕯 [js面试系列：请问js字符串上有哪些方法？](https://juejin.cn/post/7341212581049778203) | Fri Mar 01 2024 8:40 AM 
+- 🕯 [tinyMCE 第六章 （特定内容工具栏）](https://juejin.cn/post/7341210148805115956) | Fri Mar 01 2024 10:03 AM 
     <details><summary>展开描述 ...</summary> 
-    在之前的文章中，我们已经对于js的一个面试题——“js数组上有哪些方法？”，下面我将继续为大家介绍JavaScript中经常遇到的面试考点。这篇文章中，我将为大家讲解一下——“js字符串上有哪些 
+    在编辑富文本内容时，格式化工具的便捷访问是至关重要的。TinyMCE强大的快速工具栏&lpar;Quickbars&rpar;插件提供了灵活的配置，允许用户基于内容上下文快速访问特定的工具按钮。本文将介绍TinyMCE中 
     </details> 
 
-- 🚀 [“国家队”入局，多模态大模型企业联汇科技宣布完成新一轮数亿元战略融资](https://juejin.cn/entry/7341227381045674025) | Fri Mar 01 2024 8:32 AM 
+- 🚀 [tinyMCE 第五章 （内联编辑器）](https://juejin.cn/post/7341210148805099572) | Fri Mar 01 2024 9:59 AM 
     <details><summary>展开描述 ...</summary> 
-    近日，杭州联汇科技股份有限公司（以下简称 “联汇科技”）宣布完成新一轮数亿元战略融资，投资方由中国移动产业链发展基金中移和创投资、前海方舟（前海母基金管理机构）旗下中原前海基金...... 
+    TinyMCE编辑器不仅在全局模式下功能全面，在内联模式下也提供了强大的定制功能，使得它能够无缝地适应现代网页设计。本文将详细说明如何在TinyMCE内联模式下实现持久化的工具栏，并将其固定在页面的特 
     </details> 
 
-- 💪 [白宫发文，呼吁开发者放弃C、C++：Rust被「钦点」内存安全](https://juejin.cn/entry/7341191622031573033) | Fri Mar 01 2024 8:30 AM 
+- 💪 [写原创好文，瓜分万元现金大奖 💰 ｜3月金石计划](https://juejin.cn/post/7341210148805034036) | Fri Mar 01 2024 9:56 AM 
     <details><summary>展开描述 ...</summary> 
-    近日，在一份 19 页的报告《回归基础构件：通往安全软件之路》中，白宫国家网络主任办公室（ONCD）呼吁开发者使用「内存安全的编程语言」，比如 Rust 语言。 
+    金石计划是针对掘金社区创作者等级 lv4-lv8 的原创作者发起的奖金瓜分活动，根据要求完成挑战，即可瓜分现金奖池~掘金社区会在活动中挖掘有潜力、闪闪发光的技术创作者，进行重点扶持，携手大步往前走！  
     </details> 
 <!-- juejin:END -->
 ### 少数派
