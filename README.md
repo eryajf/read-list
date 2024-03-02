@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [实用干货：分享一款全能且免费的画图神器！](https://juejin.cn/post/7341282461202890786) | Sat Mar 02 2024 4:36 AM 
+- 🤗 [网站集群批量管理-Ansible流程控制与Roles](https://juejin.cn/post/7341314453575139343) | Sat Mar 02 2024 5:20 AM 
+    <details><summary>展开描述 ...</summary> 
+    一、流程控制 1、handlers触发器 应用场景:一般用于分发配置文件的时候. 如果配置文件发生变化则重启服务,如果没有变化则重启. 案例01: 没有使用触发器handlers handlers触发 
+    </details> 
+
+- 🎡 [掌握Go语言：Go语言基础构建模块解析，优缺点及进销存项目实战（2）](https://juejin.cn/post/7341235774904778761) | Sat Mar 02 2024 5:07 AM 
+    <details><summary>展开描述 ...</summary> 
+    Go语言的基础构建模块包括包声明、引入包、函数、变量、语句与表达式以及注释。让我们来逐一详细介绍这些内容，并结合进销存项目的例子代码。 包声明 包声明在Go语言中非常重要，它定义了当前文件所属的包。一 
+    </details> 
+
+- 🕯 [一套Java开发中的程序链路执行流程](https://juejin.cn/post/7341314453575057423) | Sat Mar 02 2024 4:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    作为一个前端+Nodejs开发者，目前在业务需求中需要学习掌握基本的Java开发链路，理解程序的执行流程。这里所分享的文章主要是参考工程现有的CURD程序链路进行学习之后，自己总结和思考的内容，也作为 
+    </details> 
+
+- 🚀 [实用干货：分享一款全能且免费的画图神器！](https://juejin.cn/post/7341282461202890786) | Sat Mar 02 2024 4:36 AM 
     <details><summary>展开描述 ...</summary> 
     Draw.io 是一款非常适合程序员的绘图神器，全能、开源、免费、上手容易。这些优点，都值得推荐给大家，快去尝试使用一下吧。 
     </details> 
 
-- 🎡 [2024最新版：前端性能优化方案汇总](https://juejin.cn/post/7341267497428025344) | Sat Mar 02 2024 4:30 AM 
+- 💪 [2024最新版：前端性能优化方案汇总](https://juejin.cn/post/7341267497428025344) | Sat Mar 02 2024 4:30 AM 
     <details><summary>展开描述 ...</summary> 
     前端性能优化一直是很多同学非常关注的问题，在日常的面试中也是经常会被问到的点。所以今天咱们就花一点时间来了解一下【2024最新的前端性能优化方案】，以此来助大家高效工作，面试顺利！ 
-    </details> 
-
-- 🕯 [『SD』零代码AI绘画：光影字](https://juejin.cn/post/7341303494210732082) | Sat Mar 02 2024 4:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    🎨 本文介绍如何使用 Stable Diffusion 创建下面这种图片。零代码，素人也可以做到～ 
-    </details> 
-
-- 🚀 [js 中的类（class）](https://juejin.cn/post/7341288089493995547) | Sat Mar 02 2024 3:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    本来打算介绍下 ts 中的类，但是转念一想还是先来说说 js 中的类吧。在 ES6 中，我们可以使用 class 关键字直接定义类。 
-    </details> 
-
-- 💪 [删库？我和同事居然把 线上 ES index 删了，记录一次线上故障应急](https://juejin.cn/post/7341275822153170984) | Sat Mar 02 2024 12:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    删库？我和同事居然把 ES index 删了，记录一次真实事故以及应急过程。本次事故并非删库跑路，一次不小心误操作。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
