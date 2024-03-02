@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [你的下个项目能不能用上Lightning CSS](https://juejin.cn/post/7341302235015839780) | Sat Mar 02 2024 12:21 PM 
+- 🤗 [解读数据架构——数据编织](https://juejin.cn/post/7341416970938433573) | Sat Mar 02 2024 1:06 PM 
     <details><summary>展开描述 ...</summary> 
-    Vite 自从 4.4 版本开始实验性支持 Lightning CSS，可以让项目的 CSS 打包速度更快，构建体积更小，我们来一起看看在 Vite 中怎么配置使用 Lightning CSS 吧。  
+    数据编织架构是现代数据仓库（MDW）架构的演进：一种高级层次，建立在MDW之上，旨在增强数据的可访问性、安全性、可发现性和可用性。想象一下数据编织在整个公司中蔓延，汇集所有数据并将其提供给需要的每个人 
     </details> 
 
-- 🎡 [Java设计模式之单例模式](https://juejin.cn/post/7341304374756360219) | Sat Mar 02 2024 12:18 PM 
+- 🎡 [Latte：一个类似Sora的开源视频生成项目](https://juejin.cn/post/7341340317659037705) | Sat Mar 02 2024 1:03 PM 
     <details><summary>展开描述 ...</summary> 
-    在软件工程中，单例模式是一种常用的设计模式，其核心目标是确保一个类只有一个实例，并提供一个全局访问点来获取这个实例。Java作为一门广泛使用的编程语言，实现单例模式是面试和实际开发中的常见需求。 
+    本文给大家介绍一个类似Sora的视频生成项目：Latte。为什么说它类似Sora呢？这个项目的全称是：Latent Diffusion Transformer for Video Generation 
     </details> 
 
-- 🕯 [搞定 Gossip 协议](https://juejin.cn/post/7341315113158705167) | Sat Mar 02 2024 12:13 PM 
+- 🕯 [解读数据架构——现代数据仓库](https://juejin.cn/post/7341394494900518949) | Sat Mar 02 2024 12:57 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 上一篇分享了共识算法，从 Paxos 共识算法家族，到近代最常用的共识算法 Raft，为了达成强一致性（Strong Consistency），我们在写入的性能上做了很大的牺牲。 不过不是每种数 
+    在本书的第二部分中，你学习了关系型数据仓库（RDW）和数据湖，这两个是数据管理领域的关键组成部分。现在，让我们来考虑现代商业的繁荣世界。每天，组织都必须筛选大量数据以获得见解、做出决策并推动增长。想象 
     </details> 
 
-- 🚀 [开源了个安心用TypeScript写前端的工具库之装饰器篇](https://juejin.cn/post/7341302235015757860) | Sat Mar 02 2024 12:03 PM 
+- 🚀 [2024 年你应该使用 Node、Bun 还是 Deno？](https://juejin.cn/post/7341340317658988553) | Sat Mar 02 2024 12:53 PM 
     <details><summary>展开描述 ...</summary> 
-    开源项目地址： Gitee / Github 🎉 这是个什么项目 AirPower, 一个基于TypeScript的开发工具包, 内置了数据转换、装饰器、时间日期处理、加解密与散列、文件处理、常用枚举 
+    如何为我们的下一个大型项目选择正确的 JS 运行时！2024 构建 JS 筑基的现代 API 相对简单。我们可以使用 Express 等库，并在几分钟内启动可用的 API。 
     </details> 
 
-- 💪 [身为前端的我做了一次“集群部署”😄？](https://juejin.cn/post/7341300805281251354) | Sat Mar 02 2024 11:43 AM 
+- 💪 [使用 FFmpeg 无损导出剪映轨道视频片段](https://juejin.cn/entry/7341288829684318260) | Sat Mar 02 2024 12:51 PM 
     <details><summary>展开描述 ...</summary> 
-    事情是这样的，公司自研了一个大模型服务，想要在内部试用，但问题是模型一次只能响应一个请求。为了能多人同时使用，就需要同时部署多个服务。于是乎，我拿到了5台8卡机器（3090），要把这个服务集群部起来。 
+    在通过视频剪辑软件编辑完视频之后，我们通常会思考如何归档素材。最简单的方式就是将编辑器轨道上的视频片段批量导出。但剪映专业版目前并不支持这个功能，于是... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
