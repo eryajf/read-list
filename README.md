@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [解读数据架构——数据编织](https://juejin.cn/post/7341416970938433573) | Sat Mar 02 2024 1:06 PM 
+- 🤗 [WEB集群- HTTP概述与Nginx部署](https://juejin.cn/post/7341315113159229455) | Sat Mar 02 2024 1:54 PM 
+    <details><summary>展开描述 ...</summary> 
+    一、HTTP协议 1.1、HTTP概述 默认端口是80 HTTP超文本传输协议: 数据请求与响应. 传输:网站的数据如何传递给用户. 超文本:文本,图片,视频.... 用户打开网站后:网站如何传递数据 
+    </details> 
+
+- 🎡 [解读数据架构——数据湖仓](https://juejin.cn/post/7341416970938531877) | Sat Mar 02 2024 1:48 PM 
+    <details><summary>展开描述 ...</summary> 
+    我已经简要介绍了数据湖仓库作为数据湖和数据仓库概念的融合。数据湖仓库的理念是通过仅使用数据湖来存储所有数据，而不是还有单独的关系型数据仓库来简化事务。为了实现这一点，数据湖需要更多功能来替代关系型数据 
+    </details> 
+
+- 🕯 [解读数据架构——数据存储解决方案和流程](https://juejin.cn/post/7341300805281480730) | Sat Mar 02 2024 1:27 PM 
+    <details><summary>展开描述 ...</summary> 
+    在数字化时代，数据已经成为组织的生命线。但是，正如任何经验丰富的数据专业人士所知，仅仅拥有数据是不够的。真正的价值在于如何有效地管理、存储和处理这些数据。这就是为什么本章是一本全面指南，旨在帮助您在复 
+    </details> 
+
+- 🚀 [解读数据架构——数据编织](https://juejin.cn/post/7341416970938433573) | Sat Mar 02 2024 1:06 PM 
     <details><summary>展开描述 ...</summary> 
     数据编织架构是现代数据仓库（MDW）架构的演进：一种高级层次，建立在MDW之上，旨在增强数据的可访问性、安全性、可发现性和可用性。想象一下数据编织在整个公司中蔓延，汇集所有数据并将其提供给需要的每个人 
     </details> 
 
-- 🎡 [Latte：一个类似Sora的开源视频生成项目](https://juejin.cn/post/7341340317659037705) | Sat Mar 02 2024 1:03 PM 
+- 💪 [Latte：一个类似Sora的开源视频生成项目](https://juejin.cn/post/7341340317659037705) | Sat Mar 02 2024 1:03 PM 
     <details><summary>展开描述 ...</summary> 
     本文给大家介绍一个类似Sora的视频生成项目：Latte。为什么说它类似Sora呢？这个项目的全称是：Latent Diffusion Transformer for Video Generation 
-    </details> 
-
-- 🕯 [解读数据架构——现代数据仓库](https://juejin.cn/post/7341394494900518949) | Sat Mar 02 2024 12:57 PM 
-    <details><summary>展开描述 ...</summary> 
-    在本书的第二部分中，你学习了关系型数据仓库（RDW）和数据湖，这两个是数据管理领域的关键组成部分。现在，让我们来考虑现代商业的繁荣世界。每天，组织都必须筛选大量数据以获得见解、做出决策并推动增长。想象 
-    </details> 
-
-- 🚀 [2024 年你应该使用 Node、Bun 还是 Deno？](https://juejin.cn/post/7341340317658988553) | Sat Mar 02 2024 12:53 PM 
-    <details><summary>展开描述 ...</summary> 
-    如何为我们的下一个大型项目选择正确的 JS 运行时！2024 构建 JS 筑基的现代 API 相对简单。我们可以使用 Express 等库，并在几分钟内启动可用的 API。 
-    </details> 
-
-- 💪 [使用 FFmpeg 无损导出剪映轨道视频片段](https://juejin.cn/entry/7341288829684318260) | Sat Mar 02 2024 12:51 PM 
-    <details><summary>展开描述 ...</summary> 
-    在通过视频剪辑软件编辑完视频之后，我们通常会思考如何归档素材。最简单的方式就是将编辑器轨道上的视频片段批量导出。但剪映专业版目前并不支持这个功能，于是... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
