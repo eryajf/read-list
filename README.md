@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [gitee 码云为何这样子，5M 和 3M 都分不清楚吗？](https://juejin.cn/post/7341340317658513417) | Sat Mar 02 2024 10:03 AM 
+- 🤗 [复盘我从0开发文件上传中间件，上线一年多遇到的疑难杂症](https://juejin.cn/post/7341239784735146025) | Sat Mar 02 2024 10:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    上传虽不是业务非常重视的能力，但却也是业务不可缺少的能力。 我们内部研发的罗马上传中间件，主要解决通用的文件上传场景，为业务提供简单的接入能力。 该中间件通过统一的上传API，屏蔽S3、OSS、OBS 
+    </details> 
+
+- 🎡 [如何让iframe加载第三方页面速度变快](https://juejin.cn/post/7341329626357235749) | Sat Mar 02 2024 10:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    在系统中如何访问第三方系统的页面，目前市面上面有两种实现方案：微前端和iframe。目前比较可靠的微前端方法有乾坤微前端框架和无界微前端框架两种。但是这两种都要求被访问的系统做一定的兼容性改造。 
+    </details> 
+
+- 🕯 [gitee 码云为何这样子，3M 的图片超过了 5M 的限制](https://juejin.cn/post/7341340317658513417) | Sat Mar 02 2024 10:03 AM 
     <details><summary>展开描述 ...</summary> 
     作为国内对标github的gitee，作为国内源码托管第一大厂，却在上传图片的过程中出现了一个令人难以忍受的错误。他们竟然告诉我一个3M大小的 
     </details> 
 
-- 🎡 [从发送短信验证码来研究几种常用的防刷策略](https://juejin.cn/post/7341300805281087514) | Sat Mar 02 2024 10:01 AM 
+- 🚀 [从发送短信验证码来研究几种常用的防刷策略](https://juejin.cn/post/7341300805281087514) | Sat Mar 02 2024 10:01 AM 
     <details><summary>展开描述 ...</summary> 
     大家好，我是小趴菜，最近在做项目的时候有个发送短信验证码的需求，这个需求在大部分的项目中相信都会使用到，而发送短信验证码是需要收费的，所以我们要保证我们的接口不能被恶意刷， 1：前端控制 前端控制是指 
     </details> 
 
-- 🕯 [2024年全网最全，用docker-compose部署gitlab、Jenkins、SonarQube步骤](https://juejin.cn/post/7341315113158541327) | Sat Mar 02 2024 9:59 AM 
+- 💪 [2024年全网最全，用docker-compose部署gitlab、Jenkins、SonarQube步骤](https://juejin.cn/post/7341315113158541327) | Sat Mar 02 2024 9:59 AM 
     <details><summary>展开描述 ...</summary> 
     看了很多相关的文章，发现都讲得不是很全面。于是我花了几天时间，终于完成了整个部署流程。 为什么已经2024年了，还选择Jenkins？gitlab不是集成了gitlab-runner可以进行CI/CD 
-    </details> 
-
-- 🚀 [24届专科毕业生 : 普通前端学子心路历程](https://juejin.cn/post/7341533476664197183) | Sat Mar 02 2024 9:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 如果只想看面试和工作经历，可以目录直接到达 家庭压力 在校学习 入学之后学校开始上课,教授我们java基础,还有前端的html以及css,为了能更多了解这一行，我做了课代表，向老师请教一些东西。 
-    </details> 
-
-- 💪 [中间件服务上线，那跟电影里的拆炸弹一样刺激](https://juejin.cn/post/7341533476664164415) | Sat Mar 02 2024 9:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    墨菲定律：如果有可能出错的事情，那么它就一定会出错。 中国还有句俗语，叫“怕啥来啥”。 故事涉及RPC网关，这是一个中间件服务。 这是一个非常大改动的迭代，而RPC网关承接了业务非常大的跨业务rpc调 
     </details> 
 <!-- juejin:END -->
 ### 少数派
