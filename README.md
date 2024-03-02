@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [bob 的 OCR 有什么好用的插件吗？系统内置的离线 OCR 感觉识别不准确](https://www.v2ex.com/t/1020142#reply0) | Sat Mar 02 2024 5:46 PM
-- 🤗 [大家谷歌搜索英文时怎么出中文结果？](https://www.v2ex.com/t/1020133#reply6) | Sat Mar 02 2024 3:56 PM
-- 🎭 [如何从 c++菜鸟转型 c++高手](https://www.v2ex.com/t/1020131#reply6) | Sat Mar 02 2024 3:41 PM
-- 🥷 [Linux 平台 Chrome 也可以通过 Chromecast 投屏](https://www.v2ex.com/t/1020128#reply0) | Sat Mar 02 2024 3:32 PM
-- 🐵 [有没有大佬推荐一个能下载精简或者订制版 apk 的位置啊](https://www.v2ex.com/t/1020127#reply5) | Sat Mar 02 2024 3:18 PM<!-- v2ex:END -->
+- 🥸 [Unraid 救急](https://www.v2ex.com/t/1020146#reply0) | Sat Mar 02 2024 11:11 PM
+- 🤗 [bob 的 OCR 有什么好用的插件吗？系统内置的离线 OCR 感觉识别不准确](https://www.v2ex.com/t/1020142#reply0) | Sat Mar 02 2024 5:46 PM
+- 🎭 [大家谷歌搜索英文时怎么出中文结果？](https://www.v2ex.com/t/1020133#reply6) | Sat Mar 02 2024 3:56 PM
+- 🥷 [如何从 c++菜鸟转型 c++高手](https://www.v2ex.com/t/1020131#reply6) | Sat Mar 02 2024 3:41 PM
+- 🐵 [Linux 平台 Chrome 也可以通过 Chromecast 投屏](https://www.v2ex.com/t/1020128#reply0) | Sat Mar 02 2024 3:32 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
