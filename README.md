@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [js 中的类（class）](https://juejin.cn/post/7341288089493995547) | Sat Mar 02 2024 3:55 AM 
+- 🤗 [实用干货：分享一款全能且免费的画图神器！](https://juejin.cn/post/7341282461202890786) | Sat Mar 02 2024 4:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    Draw.io 是一款非常适合程序员的绘图神器，全能、开源、免费、上手容易。这些优点，都值得推荐给大家，快去尝试使用一下吧。 
+    </details> 
+
+- 🎡 [2024最新版：前端性能优化方案汇总](https://juejin.cn/post/7341267497428025344) | Sat Mar 02 2024 4:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    前端性能优化一直是很多同学非常关注的问题，在日常的面试中也是经常会被问到的点。所以今天咱们就花一点时间来了解一下【2024最新的前端性能优化方案】，以此来助大家高效工作，面试顺利！ 
+    </details> 
+
+- 🕯 [『SD』零代码AI绘画：光影字](https://juejin.cn/post/7341303494210732082) | Sat Mar 02 2024 4:20 AM 
+    <details><summary>展开描述 ...</summary> 
+    🎨 本文介绍如何使用 Stable Diffusion 创建下面这种图片。零代码，素人也可以做到～ 
+    </details> 
+
+- 🚀 [js 中的类（class）](https://juejin.cn/post/7341288089493995547) | Sat Mar 02 2024 3:55 AM 
     <details><summary>展开描述 ...</summary> 
     本来打算介绍下 ts 中的类，但是转念一想还是先来说说 js 中的类吧。在 ES6 中，我们可以使用 class 关键字直接定义类。 
     </details> 
 
-- 🎡 [删库？我和同事居然把 线上 ES index 删了，记录一次线上故障应急](https://juejin.cn/post/7341275822153170984) | Sat Mar 02 2024 12:22 AM 
+- 💪 [删库？我和同事居然把 线上 ES index 删了，记录一次线上故障应急](https://juejin.cn/post/7341275822153170984) | Sat Mar 02 2024 12:22 AM 
     <details><summary>展开描述 ...</summary> 
     删库？我和同事居然把 ES index 删了，记录一次真实事故以及应急过程。本次事故并非删库跑路，一次不小心误操作。 
-    </details> 
-
-- 🕯 [SaaS 电商设计 &lpar;九&rpar; 动态化且易扩展的实现购物车底部弹层&lpar;附:一套普适的线上功能切量的发布方案&rpar;](https://juejin.cn/post/7341288345782452265) | Fri Mar 01 2024 4:57 PM 
-    <details><summary>展开描述 ...</summary> 
-    @TOC 一.背景     如上图是某电商购物车的底部一个弹层功能,提供的是当前勾选商品后具体结算金额的明细.如:优惠券优惠明细,plus95折明细.plus会员购物返利等.是一个用户结算的工具. 1 
-    </details> 
-
-- 🚀 [面试官：说说 React 高阶组件，并指出应用场景](https://juejin.cn/post/7341267497427320832) | Fri Mar 01 2024 3:56 PM 
-    <details><summary>展开描述 ...</summary> 
-    高阶组件（HOC）是 React 中用于复用组件逻辑的一种高级技巧。HOC 自身不是 React API 的一部分，它是一种基于 React 的组合特性而形成的设计模式。 
-    </details> 
-
-- 💪 [RayMarching 入门](https://juejin.cn/post/7341235774903943177) | Fri Mar 01 2024 3:43 PM 
-    <details><summary>展开描述 ...</summary> 
-    RayMarching和传统的RayTracing很相似，在RayTracer，根据方程确定物体表面交点，从而直接获得表面位置等信息进行光照渲染，但是如果我想渲染体积云，液体，地表，分形等等多边形难以 
     </details> 
 <!-- juejin:END -->
 ### 少数派
