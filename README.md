@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0302](http://jandan.net/p/115777) | Fri Mar 01 2024 11:07 PM 
+- 🚀 [今日好价 0303](http://jandan.net/p/115785) | Sat Mar 02 2024 11:07 PM 
     <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：47 
+    今日带货商品数量：35 
     </details> 
 
-- 🙉 [新理论：阿尔茨海默病是自身免疫性疾病](http://jandan.net/p/115775) | Fri Mar 01 2024 11:06 PM 
+- 🙉 [拼图难题的终极公式](http://jandan.net/p/115783) | Sat Mar 02 2024 11:06 PM 
     <details><summary>展开描述 ...</summary> 
-    传统观点认为阿尔茨海默病是脑部疾病 
+    拼图桌面的终极公式诞生了 
     </details> 
 
-- 🎉 [治疗脱发的药物或能降低心脏病风险](http://jandan.net/p/115774) | Fri Mar 01 2024 11:05 PM 
+- 🎉 [目前的锂离子电池可能不是电动汽车的最佳选择](http://jandan.net/p/115778) | Sat Mar 02 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
-    非那雄胺有助于降低胆固醇 
+    最环保的电动汽车电池是锂硫电池 
     </details> 
 
-- 🐲 [为什么随着年龄增长，时间过得更快](http://jandan.net/p/115771) | Fri Mar 01 2024 11:03 PM 
+- 🐲 [地球最强磁场？质子碰撞释放宇宙级磁暴](http://jandan.net/p/115780) | Sat Mar 02 2024 11:03 PM 
     <details><summary>展开描述 ...</summary> 
-    大脑高效储存新奇记忆 
+    重离子碰撞产生极强磁场，强度超越已知宇宙天体 
     </details> 
 
--  [新西兰将废除之前颁布的世界首个烟草禁令](http://jandan.net/p/115773) | Fri Mar 01 2024 11:02 PM 
+-  [断食七天后人体器官的变化](http://jandan.net/p/115781) | Sat Mar 02 2024 11:02 PM 
     <details><summary>展开描述 ...</summary> 
-    引发专家学者强烈反对。 
+    断食七日人体多器官应答，揭示健康益处新机制 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
