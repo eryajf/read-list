@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [开发UI组件库第一步，Vite如何把Markdown转换Vue组件](https://juejin.cn/post/7341288089493618715) | Sat Mar 02 2024 2:24 AM 
+- 🤗 [js 中的类（class）](https://juejin.cn/post/7341288089493995547) | Sat Mar 02 2024 3:55 AM 
     <details><summary>展开描述 ...</summary> 
-    我们先看一下 Vue2 我们先看一下，我如何在vue.config.js如何配置把Markdown 转换成 Vue 组件 目录md-loader/index.js 这是一个loader，注意它的加载顺 
+    本来打算介绍下 ts 中的类，但是转念一想还是先来说说 js 中的类吧。在 ES6 中，我们可以使用 class 关键字直接定义类。 
     </details> 
 
-- 🎡 [深入剖析Spring注解的实现机制](https://juejin.cn/post/7341272885061533722) | Fri Mar 01 2024 3:49 PM 
+- 🎡 [删库？我和同事居然把 线上 ES index 删了，记录一次线上故障应急](https://juejin.cn/post/7341275822153170984) | Sat Mar 02 2024 12:22 AM 
     <details><summary>展开描述 ...</summary> 
-    Spring的注解驱动开发几乎成为了Java企业应用的标准，从基本的依赖注入@Autowired，到复杂的事务管理@Transactional，注解在Spring中的应用既深入又广泛。 
+    删库？我和同事居然把 ES index 删了，记录一次真实事故以及应急过程。本次事故并非删库跑路，一次不小心误操作。 
     </details> 
 
-- 🕯 [农产品大数据分析平台----大数据处理部分流程](https://juejin.cn/post/7341207677753622537) | Fri Mar 01 2024 3:47 PM 
+- 🕯 [SaaS 电商设计 &lpar;九&rpar; 动态化且易扩展的实现购物车底部弹层&lpar;附:一套普适的线上功能切量的发布方案&rpar;](https://juejin.cn/post/7341288345782452265) | Fri Mar 01 2024 4:57 PM 
     <details><summary>展开描述 ...</summary> 
-    这篇文章是我在参与开发校企实训项目“农产品大数据分析平台”时为了记录开发过程所写的原创文章，主要涉及整个大数据分析平台的大数据处理部分的流程。 
+    @TOC 一.背景     如上图是某电商购物车的底部一个弹层功能,提供的是当前勾选商品后具体结算金额的明细.如:优惠券优惠明细,plus95折明细.plus会员购物返利等.是一个用户结算的工具. 1 
     </details> 
 
-- 🚀 [2024 Jan&amp;Feb Review 安妮的假期](https://juejin.cn/post/7341010324458946579) | Fri Mar 01 2024 3:32 PM 
+- 🚀 [面试官：说说 React 高阶组件，并指出应用场景](https://juejin.cn/post/7341267497427320832) | Fri Mar 01 2024 3:56 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 从之前读的书中学到了定时复盘的好处，所以打算之后每两个月复盘一次，记录一下自己这两个月干了什么，有什么成长，犯了什么错。 我去年十一月下旬离职，今年六月毕业，到现在差不多休息了三个多月，打算下个 
+    高阶组件（HOC）是 React 中用于复用组件逻辑的一种高级技巧。HOC 自身不是 React API 的一部分，它是一种基于 React 的组合特性而形成的设计模式。 
     </details> 
 
-- 💪 [CGLIB动态代理底层实现原理](https://juejin.cn/post/7341010324458930195) | Fri Mar 01 2024 3:28 PM 
+- 💪 [RayMarching 入门](https://juejin.cn/post/7341235774903943177) | Fri Mar 01 2024 3:43 PM 
     <details><summary>展开描述 ...</summary> 
-    一、前言   最近在探究Spring AOP的性能，发现最后是绕不开JDK动态代理和CGLIB动态代理这两个点。笔者心里大致有这么个概念：对于动态代理来说，CGLIB性能要好于JDK。也知道CGLIB 
+    RayMarching和传统的RayTracing很相似，在RayTracer，根据方程确定物体表面交点，从而直接获得表面位置等信息进行光照渲染，但是如果我想渲染体积云，液体，地表，分形等等多边形难以 
     </details> 
 <!-- juejin:END -->
 ### 少数派
