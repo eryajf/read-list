@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [二月冬风即过，春风将起｜2024年2月小结](https://juejin.cn/post/7341286767004401673) | Sat Mar 02 2024 7:05 AM 
+- 🤗 [解读数据架构——数据架构的类型](https://juejin.cn/post/7341286767004532745) | Sat Mar 02 2024 7:53 AM 
     <details><summary>展开描述 ...</summary> 
-    2月，微创业、webstack项目开源，自律阅读，保持运动，找新工作......遵循着PDCA的方式，我尝试开始新的生活，你也可以试试～ 
+    在设计和构建正确的数据架构方面投入时间绝对至关重要。我在职业生涯早期就是这样吃了亏。当时我兴奋地开始构建我的解决方案，却忽略了关于架构设计和使用哪些产品的重要决策。项目进行到三个月时，我意识到架构无法 
     </details> 
 
-- 🎡 [【Flutter】如何避免重复的网络请求，网络防抖之 Dio 请求去重](https://juejin.cn/post/7341288089494437915) | Sat Mar 02 2024 6:55 AM 
+- 🎡 [启动Tomcat时出现其他无关的项目](https://juejin.cn/post/7341314453575680015) | Sat Mar 02 2024 7:41 AM 
     <details><summary>展开描述 ...</summary> 
-    网络防抖之Dio请求去重 前言 我注意到很多开源的 Flutter 项目并没有处理网络请求的去重，或者一股脑的不管三七二十一先取消请求再重新发起请求。但是我感觉更多的开发者根本就不关心网络的重复请求 
+    解决方案： 应该是tomcat以前部署的项目有残留，删除掉webapps里面的其他项目，删除掉wor 
     </details> 
 
-- 🕯 [他山之石，Kotlin/Dart对比学，高阶函数的定义与使用](https://juejin.cn/post/7341304374755311643) | Sat Mar 02 2024 6:51 AM 
+- 🕯 [解读数据架构——大数据](https://juejin.cn/post/7341304374755491867) | Sat Mar 02 2024 7:34 AM 
     <details><summary>展开描述 ...</summary> 
-    Kotlin/Dart的高阶函数有哪些区分 前言 函数式编程大家都不陌生了，但是为什么 Dart 的函数与 Kotlin 的函数表现与写法有这么大的差异？ 
+    在2020年代，构建数据架构的公司数量激增。这种增长不太可能很快放缓，主要是因为现在比以往任何时候都有更多的数据来源：从社交媒体、物联网（IoT）设备、自制应用程序到第三方软件等等。根据2023年BC 
     </details> 
 
-- 🚀 [春天的痛与爱，教会了我善良](https://juejin.cn/post/7341282461203365922) | Sat Mar 02 2024 6:36 AM 
+- 🚀 [Made In Heaven，LLM要加速了](https://juejin.cn/post/7341314453575630863) | Sat Mar 02 2024 7:28 AM 
     <details><summary>展开描述 ...</summary> 
-    看了看天气预报，从明天开始天气就变暖了，路两旁的花也开了，有些树也冒出了新芽，再过一段时间，就可以真正意义上感受春天的气息了。昨晚做了一个梦，梦到了好多小伙伴，大家一起去爬山，因为还有几个妹子一起，所 
+    借鉴了荒木老师笔下的普奇神父的台词。玩LLM的多数用的是Huggingface框架，而它本身提供的是accelerate库来提升模型的训练推理速度。这些都离不开Nvidia 的 Cuda 计算，而目前 
     </details> 
 
-- 💪 [【怒怼大厂面试官】听说你精通Redis？Redis数据同步懂吗](https://juejin.cn/post/7341303494211026994) | Sat Mar 02 2024 6:28 AM 
+- 💪 [PAT 1120  买地攻略](https://juejin.cn/post/7341286767004450825) | Sat Mar 02 2024 7:25 AM 
     <details><summary>展开描述 ...</summary> 
-    面试官：不用慌尽管说，错了也没关系。。。来说说Redis数据同步。是这样的，Redis有一个叫命令传播的概念，如果像面试官说的这种场景，再使用上面我提到的AOF缓冲区就有点浪费内存空间了。所以Redi 
+    题目：1120 买地攻略 - PAT &lpar;Basic Level&rpar; Practice （中文） &lpar;pintia.cn&rpar; 因为只能两两相加，所以我们就按for循环i,j走，a[i]]+a[j]不超过m就满 
     </details> 
 <!-- juejin:END -->
 ### 少数派
