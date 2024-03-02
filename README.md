@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [PaddleOCR 高精度文字识别：丰富多样的前沿算法 | 开源日报 No.187](https://juejin.cn/post/7341288345782566953) | Fri Mar 01 2024 5:53 PM 
+- 🤗 [解锁Rust编程：内存管理与性能优化介绍指南](https://juejin.cn/post/7341210148806066228) | Sat Mar 02 2024 1:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文概述了Rust语言的核心特性，包括其独特的所有权系统、内存管理策略、引用与借用规则，以及如何通过生命周期注解保证引用有效性，最后简览了内存布局优化的方法。 
+    </details> 
+
+- 🎡 [PAT 1115 裁判机](https://juejin.cn/post/7341275378751848485) | Sat Mar 02 2024 1:26 AM 
+    <details><summary>展开描述 ...</summary> 
+    1115 裁判机 - PAT &lpar;Basic Level&rpar; Practice （中文） &lpar;pintia.cn&rpar; 首先看看题目什么意思 ，刚开始给出两个数字a，b，然后后面的数字z是a,b之差，然后后面的 
+    </details> 
+
+- 🕯 [Go到Rust的旅程：掌握转换所需的关键技能与最佳实践](https://juejin.cn/post/7341210148806033460) | Sat Mar 02 2024 1:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    探索从Go到Rust的转换，深入了解两种语言的关键差异与转换技巧，为系统级编程打下坚实基础。比较Go和Rust在内存管理、错误处理、并发模型等方面的根本差异，揭示了Rust语言的独特优势及其学习曲。 
+    </details> 
+
+- 🚀 [PaddleOCR 高精度文字识别：丰富多样的前沿算法 | 开源日报 No.187](https://juejin.cn/post/7341288345782566953) | Fri Mar 01 2024 5:53 PM 
     <details><summary>展开描述 ...</summary> 
     PaddleOCR 是一个功能强大、领先技术、实用的 OCR 工具库，具备多种前沿算法，可帮助开发者训练更好的模型并应用于实际场景。它提供了产业级特色模型 PP-OCR、PP-Structure 和 
     </details> 
 
-- 🎡 [在 Vue3.x 中实现类似 React.lazy 的效果](https://juejin.cn/post/7341272885061550106) | Fri Mar 01 2024 4:09 PM 
+- 💪 [在 Vue3.x 中实现类似 React.lazy 的效果](https://juejin.cn/post/7341272885061550106) | Fri Mar 01 2024 4:09 PM 
     <details><summary>展开描述 ...</summary> 
     React 的 `React.lazy` 功能为组件懒加载提供了原生支持，允许开发者将组件渲染推迟到实际需要时再进行。虽然 Vue3.没有一个直接对应的 `lazy` 函数，但我们仍可以实现类似效果。 
-    </details> 
-
-- 🕯 [（代码比较）Vue3.x 改进中与 React 相似之处](https://juejin.cn/post/7341288089492979739) | Fri Mar 01 2024 4:09 PM 
-    <details><summary>展开描述 ...</summary> 
-    Vue3.x 在其最新的更新中引入了一些特性和改进，使其在某些方面与 React 变得更加相似。这些相似之处不仅体现了现代前端框架的共同进化方向，也为前端开发者在这两个框架之间的转换提供了便利。 
-    </details> 
-
-- 🚀 [构建 Vue3.x 组件及其在 Vue 和 HTML 中的应用](https://juejin.cn/post/7341267497427337216) | Fri Mar 01 2024 4:09 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文将详细介绍如何通过两种完全不同的方式构建一个 Vue3.x 组件，以及如何在其他 Vue3.x 组件和 HTML 文件中使用这个构建出来的组件。 
-    </details> 
-
-- 💪 [Java中的动态代理与Spring AOP编程](https://juejin.cn/post/7341288089492930587) | Fri Mar 01 2024 3:35 PM 
-    <details><summary>展开描述 ...</summary> 
-    一起深入了解Java中的动态代理和Spring AOP编程。从基本概念到高级应用，再到实战案例，希望这些内容能够帮助咱们更好地掌握这两项强大的技术。现在，让咱们在本章做一个总结回顾，巩固咱们所学的知识 
     </details> 
 <!-- juejin:END -->
 ### 少数派
