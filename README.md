@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一款高温型霍尔效应传感器](https://juejin.cn/post/7341315113159426063) | Sat Mar 02 2024 4:07 PM 
+- 🤗 [告别繁琐的数据校验：用JSON Schema简化你的代码](https://juejin.cn/post/7341300805281808410) | Sat Mar 02 2024 4:52 PM 
+    <details><summary>展开描述 ...</summary> 
+    1. JSON Schema JSON Schema 是一种基于 JSON 的格式，用于描述 JSON 数据的结构和验证 JSON 数据。它为 JSON 数据提供了一个清晰的描述，可以用来验证、文档化 
+    </details> 
+
+- 🎡 [Vue 3.x版的单选CheckBox组件](https://juejin.cn/post/7341394494900961317) | Sat Mar 02 2024 4:21 PM 
+    <details><summary>展开描述 ...</summary> 
+    Vue 3引入了Composition API，提供了一种新的方式来组织和重用逻辑。我们将使用Composition API来实现这个功能。 
+    </details> 
+
+- 🕯 [一款高温型霍尔效应传感器](https://juejin.cn/post/7341315113159426063) | Sat Mar 02 2024 4:07 PM 
     <details><summary>展开描述 ...</summary> 
     一、产品概述 HAL443A单极性霍尔位置传感器是由内部电压稳压器、霍尔电压发生器、差分 放大器、温度补偿单 元、施密特触发器和集 电极开路输出级组成的磁敏传感电路，其输入为磁感应强度，输出是一个数字 
     </details> 
 
-- 🎡 [Nodejs 第四十八章（ioredis）](https://juejin.cn/post/7341288829684547636) | Sat Mar 02 2024 3:54 PM 
+- 🚀 [Nodejs 第四十八章（ioredis）](https://juejin.cn/post/7341288829684547636) | Sat Mar 02 2024 3:54 PM 
     <details><summary>展开描述 ...</summary> 
     ioredis 是一个强大且流行的 Node.js 库，用于与 Redis 进行交互。Redis 是一个开源的内存数据结构存储系统。ioredis 提供了一个简单高效的 API，供 Node.js 应 
     </details> 
 
-- 🕯 [解读数据架构——现代化技术栈](https://juejin.cn/post/7341340317659447305) | Sat Mar 02 2024 3:32 PM 
+- 💪 [解读数据架构——现代化技术栈](https://juejin.cn/post/7341340317659447305) | Sat Mar 02 2024 3:32 PM 
     <details><summary>展开描述 ...</summary> 
     当您深入研究本章内容时，您首要的决定是在开源解决方案和云服务提供商提供的产品之间做出选择。然而，还有更多需要考虑的因素。我将指导您思考您的数据需求规模以及组织的灵活性要求。 除此之外，我们将探讨云服务 
-    </details> 
-
-- 🚀 [Vue3实现tab切换](https://juejin.cn/post/7341340317659430921) | Sat Mar 02 2024 3:30 PM 
-    <details><summary>展开描述 ...</summary> 
-    Vue3实现tab切换 使用 ref 创建了 tabs、contents 和 currentTab 这三个响应式变量，分别存储选项卡的文字、内容以及当前选中的选项卡索引。当点击某个选项卡时，调用 ch 
-    </details> 
-
-- 💪 [什么是状态机？](https://juejin.cn/post/7341288829684531252) | Sat Mar 02 2024 3:15 PM 
-    <details><summary>展开描述 ...</summary> 
-    在Spring Boot的场景下，状态机通常指的是Spring State Machine（Spring SM），这是一个专门为应用程序中的状态管理和状态转换提供支持的框架。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
