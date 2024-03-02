@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Mailbob - 个人品牌 / 小型企业的新闻通讯平台](https://xinquji.com/posts/809454?utm_campaign=xinquji-rss) | Fri Mar 01 2024 6:00 AM 
+- 👀 [Cerbos Cloud - Cerbos 的云托管控制平面](https://xinquji.com/posts/809474?utm_campaign=xinquji-rss) | Sat Mar 02 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     个人品牌 / 小型企业的新闻通讯平台  
+     Cerbos 的云托管控制平面  
     </details> 
 
-- 🥷 [Romo AI - 所有超级人工智能工具都集中在一处](https://xinquji.com/posts/809453?utm_campaign=xinquji-rss) | Fri Mar 01 2024 6:00 AM 
+- 🥷 [PTube - 精简版视频，屏蔽广告](https://xinquji.com/posts/809473?utm_campaign=xinquji-rss) | Sat Mar 02 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     所有超级人工智能工具都集中在一处  
+     精简版视频，屏蔽广告  
     </details> 
 
-- 💼 [Founder Reports - 创始人及企业家深度访谈](https://xinquji.com/posts/809452?utm_campaign=xinquji-rss) | Fri Mar 01 2024 6:00 AM 
+- 💼 [Wordvice AI Detector - 最佳 ChatGPT 检测器](https://xinquji.com/posts/809472?utm_campaign=xinquji-rss) | Sat Mar 02 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     创始人及企业家深度访谈  
+     最佳 ChatGPT 检测器  
     </details> 
 
-- 🦅 [Perfect Pick - 终极视频游戏发现引擎](https://xinquji.com/posts/809451?utm_campaign=xinquji-rss) | Fri Mar 01 2024 6:00 AM 
+- 🦅 [Ten - Testnet - 以太坊上完全加密的 L2 - 100% EVM，100% 可靠性](https://xinquji.com/posts/809471?utm_campaign=xinquji-rss) | Sat Mar 02 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     终极视频游戏发现引擎  
+     以太坊上完全加密的 L2 - 100% EVM，100% 可靠性  
     </details> 
 
-- 😺 [Reaction Free - 创建反应内容而不必担心侵犯版权。](https://xinquji.com/posts/809450?utm_campaign=xinquji-rss) | Fri Mar 01 2024 6:00 AM 
+- 😺 [Visionboard for Vision Pro - Vision Pro 信息中心让您轻松掌握流程](https://xinquji.com/posts/809470?utm_campaign=xinquji-rss) | Sat Mar 02 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     创建反应内容而不必担心侵犯版权。  
+     Vision Pro 信息中心让您轻松掌握流程  
     </details> 
 <!-- xinquji:END -->
