@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [解读数据架构——数据架构的类型](https://juejin.cn/post/7341286767004532745) | Sat Mar 02 2024 7:53 AM 
+- 🤗 [每月进步一点点--202402](https://juejin.cn/post/7341342585192677411) | Sat Mar 02 2024 8:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    持续记录每个月在工作中遇到的一些疑难杂症，包括产品设计问题，移动端兼容性问题，电脑软件使用问题，跨端问题等等 
+    </details> 
+
+- 🎡 [解读数据架构——关系型数据仓库](https://juejin.cn/post/7341303494211567666) | Sat Mar 02 2024 8:20 AM 
+    <details><summary>展开描述 ...</summary> 
+    到了21世纪中期，我已经使用关系型数据库多年了，但我从未接触过关系型数据仓库。我当时在一家公司担任数据库管理员（DBA），该公司使用会计软件包管理其财务交易。该软件包的报告功能有限且运行缓慢，因此公司 
+    </details> 
+
+- 🕯 [解读数据架构——数据架构的类型](https://juejin.cn/post/7341286767004532745) | Sat Mar 02 2024 7:53 AM 
     <details><summary>展开描述 ...</summary> 
     在设计和构建正确的数据架构方面投入时间绝对至关重要。我在职业生涯早期就是这样吃了亏。当时我兴奋地开始构建我的解决方案，却忽略了关于架构设计和使用哪些产品的重要决策。项目进行到三个月时，我意识到架构无法 
     </details> 
 
-- 🎡 [启动Tomcat时出现其他无关的项目](https://juejin.cn/post/7341314453575680015) | Sat Mar 02 2024 7:41 AM 
+- 🚀 [启动Tomcat时出现其他无关的项目](https://juejin.cn/post/7341314453575680015) | Sat Mar 02 2024 7:41 AM 
     <details><summary>展开描述 ...</summary> 
     解决方案： 应该是tomcat以前部署的项目有残留，删除掉webapps里面的其他项目，删除掉wor 
     </details> 
 
-- 🕯 [解读数据架构——大数据](https://juejin.cn/post/7341304374755491867) | Sat Mar 02 2024 7:34 AM 
+- 💪 [解读数据架构——大数据](https://juejin.cn/post/7341304374755491867) | Sat Mar 02 2024 7:34 AM 
     <details><summary>展开描述 ...</summary> 
     在2020年代，构建数据架构的公司数量激增。这种增长不太可能很快放缓，主要是因为现在比以往任何时候都有更多的数据来源：从社交媒体、物联网（IoT）设备、自制应用程序到第三方软件等等。根据2023年BC 
-    </details> 
-
-- 🚀 [Made In Heaven，LLM要加速了](https://juejin.cn/post/7341314453575630863) | Sat Mar 02 2024 7:28 AM 
-    <details><summary>展开描述 ...</summary> 
-    借鉴了荒木老师笔下的普奇神父的台词。玩LLM的多数用的是Huggingface框架，而它本身提供的是accelerate库来提升模型的训练推理速度。这些都离不开Nvidia 的 Cuda 计算，而目前 
-    </details> 
-
-- 💪 [PAT 1120  买地攻略](https://juejin.cn/post/7341286767004450825) | Sat Mar 02 2024 7:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    题目：1120 买地攻略 - PAT &lpar;Basic Level&rpar; Practice （中文） &lpar;pintia.cn&rpar; 因为只能两两相加，所以我们就按for循环i,j走，a[i]]+a[j]不超过m就满 
     </details> 
 <!-- juejin:END -->
 ### 少数派
