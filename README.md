@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [解锁Rust编程：内存管理与性能优化介绍指南](https://juejin.cn/post/7341210148806066228) | Sat Mar 02 2024 1:34 AM 
+- 🤗 [开发UI组件库第一步，Vite如何把Markdown转换Vue组件](https://juejin.cn/post/7341288089493618715) | Sat Mar 02 2024 2:24 AM 
     <details><summary>展开描述 ...</summary> 
-    本文概述了Rust语言的核心特性，包括其独特的所有权系统、内存管理策略、引用与借用规则，以及如何通过生命周期注解保证引用有效性，最后简览了内存布局优化的方法。 
+    我们先看一下 Vue2 我们先看一下，我如何在vue.config.js如何配置把Markdown 转换成 Vue 组件 目录md-loader/index.js 这是一个loader，注意它的加载顺 
     </details> 
 
-- 🎡 [PAT 1115 裁判机](https://juejin.cn/post/7341275378751848485) | Sat Mar 02 2024 1:26 AM 
+- 🎡 [深入剖析Spring注解的实现机制](https://juejin.cn/post/7341272885061533722) | Fri Mar 01 2024 3:49 PM 
     <details><summary>展开描述 ...</summary> 
-    1115 裁判机 - PAT &lpar;Basic Level&rpar; Practice （中文） &lpar;pintia.cn&rpar; 首先看看题目什么意思 ，刚开始给出两个数字a，b，然后后面的数字z是a,b之差，然后后面的 
+    Spring的注解驱动开发几乎成为了Java企业应用的标准，从基本的依赖注入@Autowired，到复杂的事务管理@Transactional，注解在Spring中的应用既深入又广泛。 
     </details> 
 
-- 🕯 [Go到Rust的旅程：掌握转换所需的关键技能与最佳实践](https://juejin.cn/post/7341210148806033460) | Sat Mar 02 2024 1:22 AM 
+- 🕯 [农产品大数据分析平台----大数据处理部分流程](https://juejin.cn/post/7341207677753622537) | Fri Mar 01 2024 3:47 PM 
     <details><summary>展开描述 ...</summary> 
-    探索从Go到Rust的转换，深入了解两种语言的关键差异与转换技巧，为系统级编程打下坚实基础。比较Go和Rust在内存管理、错误处理、并发模型等方面的根本差异，揭示了Rust语言的独特优势及其学习曲。 
+    这篇文章是我在参与开发校企实训项目“农产品大数据分析平台”时为了记录开发过程所写的原创文章，主要涉及整个大数据分析平台的大数据处理部分的流程。 
     </details> 
 
-- 🚀 [PaddleOCR 高精度文字识别：丰富多样的前沿算法 | 开源日报 No.187](https://juejin.cn/post/7341288345782566953) | Fri Mar 01 2024 5:53 PM 
+- 🚀 [2024 Jan&amp;Feb Review 安妮的假期](https://juejin.cn/post/7341010324458946579) | Fri Mar 01 2024 3:32 PM 
     <details><summary>展开描述 ...</summary> 
-    PaddleOCR 是一个功能强大、领先技术、实用的 OCR 工具库，具备多种前沿算法，可帮助开发者训练更好的模型并应用于实际场景。它提供了产业级特色模型 PP-OCR、PP-Structure 和 
+    前言 从之前读的书中学到了定时复盘的好处，所以打算之后每两个月复盘一次，记录一下自己这两个月干了什么，有什么成长，犯了什么错。 我去年十一月下旬离职，今年六月毕业，到现在差不多休息了三个多月，打算下个 
     </details> 
 
-- 💪 [在 Vue3.x 中实现类似 React.lazy 的效果](https://juejin.cn/post/7341272885061550106) | Fri Mar 01 2024 4:09 PM 
+- 💪 [CGLIB动态代理底层实现原理](https://juejin.cn/post/7341010324458930195) | Fri Mar 01 2024 3:28 PM 
     <details><summary>展开描述 ...</summary> 
-    React 的 `React.lazy` 功能为组件懒加载提供了原生支持，允许开发者将组件渲染推迟到实际需要时再进行。虽然 Vue3.没有一个直接对应的 `lazy` 函数，但我们仍可以实现类似效果。 
+    一、前言   最近在探究Spring AOP的性能，发现最后是绕不开JDK动态代理和CGLIB动态代理这两个点。笔者心里大致有这么个概念：对于动态代理来说，CGLIB性能要好于JDK。也知道CGLIB 
     </details> 
 <!-- juejin:END -->
 ### 少数派
