@@ -321,9 +321,9 @@
     所有 Cutout.Pro 用户都应警惕有针对性的网络钓鱼诈骗。   
     </details> 
 
-- 💻 [Sora引发安全新挑战，视频还能相信吗？](https://www.freebuf.com/articles/392954.html) | Thu Feb 29 2024 11:14 AM 
+- 💻 [FreeBuf 周报 | 新WiFi漏洞可能影响23亿安卓用户；NIST发布网络安全框架2.0版本](https://www.freebuf.com/news/392990.html) | Fri Mar 01 2024 2:10 AM 
     <details><summary>展开描述 ...</summary> 
-    如同ChatGPT一样，人们在担心被AI取代的同时，Sora的“双刃剑”效应也正迅速放大并引起了各方重视。 
+    文章总结了本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
     </details> 
 <!-- freebuf:END -->
 
