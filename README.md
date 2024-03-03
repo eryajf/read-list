@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [探索设计模式：从经典23种到Python中的应用 🐍🎨](https://juejin.cn/post/7341720847881535515) | Sun Mar 03 2024 3:06 PM 
+- 🤗 [使用 Vue3.x 非 SFC 方式构建天气查询按钮组件 ☁️🌞](https://juejin.cn/post/7341617121958592522) | Sun Mar 03 2024 4:07 PM 
     <details><summary>展开描述 ...</summary> 
-    设计模式不仅能帮助开发者提高代码的可读性、可维护性和可扩展性，还能促进团队之间的有效沟通。本文将深入探讨经典的23种设计模式，并着重介绍在Python开发中常用的设计模式。 
+    本文将详细的叙述如何使用 Vue3.x 的非 SFC 方式封装一个组件，这个组件是一个按钮，点击后可以请求并显示最新的天气信息。 
     </details> 
 
-- 🎡 [Python中自动化测试的利器：探索常用库 🐍🔍](https://juejin.cn/post/7341720847881519131) | Sun Mar 03 2024 3:06 PM 
+- 🎡 [Vue3.x 中的七大高级用法探索 🔍🚀](https://juejin.cn/post/7341617121958576138) | Sun Mar 03 2024 4:07 PM 
     <details><summary>展开描述 ...</summary> 
-    无论是单元测试、集成测试还是UI测试，Python都有合适的工具可以帮助我们完成任务。本文将详细介绍Python中常用的几个自动化测试库，并探索它们的特点和使用场景。 
+    Vue3.x 自发布以来凭借其性能的显著提升和更加灵活的组合式 API，已经成为了现代前端开发的重要工具之一。除了基本用法外，Vue3.x 还提供了许多高级功能，使得开发复杂应用变得更加简单和高效。 
     </details> 
 
-- 🕯 [Selenium WebDriver基本知识点 🚗💡](https://juejin.cn/post/7341668771911270427) | Sun Mar 03 2024 3:06 PM 
+- 🕯 [使用 provide/inject 实现跨组件通信 🌐](https://juejin.cn/post/7341720847881748507) | Sun Mar 03 2024 4:07 PM 
     <details><summary>展开描述 ...</summary> 
-    无论你是自动化测试新手还是老手，了解Selenium WebDriver的基本知识点都是非常必要的。本文将介绍Selenium WebDriver中的一些常用知识点，帮助你快速入门或巩固已有知识。 
+    Vue3.x 提供了 provide和inject API，让跨组件通信变得更加简洁和高效。本文将深入探讨如何使用`provide 和 inject 在 Vue3.x 中实现跨组件通信。 
     </details> 
 
-- 🚀 [Selenium WebDriver测试举例 -- Antd DragSortTable](https://juejin.cn/post/7341669201009475621) | Sun Mar 03 2024 3:06 PM 
+- 🚀 [Nest 循环依赖解决方案：forwardRef 的艺术](https://juejin.cn/post/7341840038963986451) | Sun Mar 03 2024 4:06 PM 
     <details><summary>展开描述 ...</summary> 
-    本文将演示如何使用Selenium WebDriver对Antd Pro的DragSortTable组件进行自动化测试，确保其拖拽功能按预期工作。 
+    本文深入探讨了 Nest.js 框架中模块间循环依赖的问题，不仅涵盖了模块间的循环依赖处理，还涉及了服务提供者之间的循环依赖情况，并强调了合理设计代码以避免循环依赖的重要性。 
     </details> 
 
-- 💪 [Vue3.x 中组件间参数传递详解 🌟](https://juejin.cn/post/7341568997861556251) | Sun Mar 03 2024 3:02 PM 
+- 💪 [Nest：动态和全局模块](https://juejin.cn/post/7341655116315508799) | Sun Mar 03 2024 4:03 PM 
     <details><summary>展开描述 ...</summary> 
-    在 Vue3.x 中，无论是父子组件还是兄弟组件之间，合理的数据流动都是保持应用状态一致性和可维护性的关键。本文将通过示例代码，详细介绍 Vue3.x 中组件间如何传递参数。 
+    Nest.js框架强调模块化设计，推崇单一职责、封装和配置隔离原则。通过模块重导出和全局模块减少耦合，简化导入流程。动态模块支持环境特定配置，提升灵活性和可维护性。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
