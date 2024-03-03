@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [使用 FlexSearch 实现本地全文搜索](https://juejin.cn/post/7341592148306739209) | Sun Mar 03 2024 9:03 AM 
+- 🤗 [时隔半年，重新面试（复习曾经会但忘记的）](https://juejin.cn/post/7341568997861015579) | Sun Mar 03 2024 9:52 AM 
     <details><summary>展开描述 ...</summary> 
-    搜索功能是网站中提供用户快速查找内容的重要功能，尤其在文档类型网站中几乎是必不可少的。本文介绍使用 FlexSearch 这个用于浏览器和服务器端（Node.js）高性能全文搜索引擎实现本地全文搜索。 
+    时隔半年，重新面试 # localStorage 和 sessionStorage 的区别 # Promise相关原理 
     </details> 
 
-- 🎡 [设计表时，如何选择正确的数据类型](https://juejin.cn/post/7341592148306690057) | Sun Mar 03 2024 8:58 AM 
+- 🎡 [鸿蒙应用开发-知识：rollup打包](https://juejin.cn/post/7341709684442660876) | Sun Mar 03 2024 9:45 AM 
     <details><summary>展开描述 ...</summary> 
-    MySQL 支持的数据类型非常多，在合适的场景下，选择正确的数据类型对于获得高性能至关重要。本文讲述了几个简单的原则，从而作出更好的设计 
+    Hvigor hvigor是一款基于TS实现的 构建任务编排工具，主要提供任务管理机制，包括任务注册编排、工程模型管理、配置管理等关键能力，更符合node生态开发者开发习惯 它不负责实际的打包，实际打 
     </details> 
 
-- 🕯 [Redisson分布式锁原理的探究，不是你想的那样](https://juejin.cn/post/7341394494901944357) | Sun Mar 03 2024 8:34 AM 
+- 🕯 [用 ChatGPT 4.0 实现获取并保存 RealSense 相机的深度图像](https://juejin.cn/post/7341617163353227298) | Sun Mar 03 2024 9:43 AM 
     <details><summary>展开描述 ...</summary> 
-    Redisson分布式锁原理的探究，不是你想的那样 背景 作为Java开发，聊到分布式锁，大家第一反应该都会想到 Redis吧，基本思路用SetNX + Lua脚本实现，但都有些问题例如锁过期了业务还 
+    本文将完整记录利用 ChatGPT 从 Debug 到实现完整需求代码的全过程。第一次使用 ChatGPT 解决实际工作上的问题，也算是个调试样例，简单记录一下分享给大家。 
     </details> 
 
-- 🚀 [【Neo4j系列】Neoj4j概念简介及整合SpringBoot](https://juejin.cn/post/7341652882113134655) | Sun Mar 03 2024 8:31 AM 
+- 🚀 [记录一次使用openlayers加载由postGIS动态生成的MVT地图矢量切片踩坑实践](https://juejin.cn/post/7341391477015609380) | Sun Mar 03 2024 9:35 AM 
     <details><summary>展开描述 ...</summary> 
-    随着信息时代的不断发展，我们日益面临着大规模数据的管理和分析挑战。图数据库的兴起为解决这一难题提供了新的可能性，而Neo4j正是在这一领域中脱颖而出的先锋之一。 
+    一次加载大量地理数据的踩坑记录，使用MVT没有带来期望的结果，而本被我们放弃的WMS才是可行的方案。 
     </details> 
 
-- 💪 [WEB集群-Ngx核心功能与必会模块](https://juejin.cn/post/7341642966790471715) | Sun Mar 03 2024 8:31 AM 
+- 💪 [Kotlin 类型声明相关的一些注意事项](https://juejin.cn/post/7341655116314165311) | Sun Mar 03 2024 9:07 AM 
     <details><summary>展开描述 ...</summary> 
-    一、Ngx处理用户请求 1、案例与思考 案例01: 思考之前搭建的cxk.cn网站,使用域名访问或ip访问都是没有问题的.如果把配置文件名game.cxk.cn.conf使用域名或ip访问或怎么样?  
+    由于kotlin支持类型推导，所以很多时候变量的类型可以省略，但有时候省略变量类型又可能带来一些不便，甚至隐患。本文记录下一些“建议声明类型”、“可以省略类型”的场景。（暂时想到的不多，后续持续更新） 
     </details> 
 <!-- juejin:END -->
 ### 少数派
