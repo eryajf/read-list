@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [前端代码规范](https://juejin.cn/post/7341720847881043995) | Sun Mar 03 2024 1:03 PM 
+- 🤗 [面试经典题：Object.is 和 == 以及 === 的区别](https://juejin.cn/post/7341652882113773631) | Sun Mar 03 2024 1:55 PM 
+    <details><summary>展开描述 ...</summary> 
+    在 JavaScript 中，比较操作符是编写代码时经常使用的基本功能之一。本文将详细介绍 Object.is，== 和 === 之间的区别。 
+    </details> 
+
+- 🎡 [分布式ID生成系统之雪花算法详解](https://juejin.cn/post/7341642966791110691) | Sun Mar 03 2024 1:27 PM 
+    <details><summary>展开描述 ...</summary> 
+    雪花算法作为一种高效、简单的分布式系统ID生成方案，已经被广泛应用于各种互联网产品和系统中。它解决了分布式环境下ID生成的唯一性、时序性和高性能的问题。 
+    </details> 
+
+- 🕯 [从头理解与编码LLM的自注意力机制](https://juejin.cn/post/7341669201009262629) | Sun Mar 03 2024 1:25 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文将介绍Transformer架构和GPT-4、LLaMA等语言大模型中使用的自注意力机制。自注意力和相关机制是LLM的核心组件，使用LLM时，了解这些机制十分有必要。 
+    </details> 
+
+- 🚀 [next14中流式（异步）渲染实现原理和优雅的使用骨架屏](https://juejin.cn/post/7341652882113642559) | Sun Mar 03 2024 1:18 PM 
+    <details><summary>展开描述 ...</summary> 
+    最近在学习nextjs，在做实战demo的时候，关于next中的流式（异步）渲染原理以及如何优雅的使用骨架屏有一些心得，所以给大家分享一下。 
+    </details> 
+
+- 💪 [前端代码规范](https://juejin.cn/post/7341720847881043995) | Sun Mar 03 2024 1:03 PM 
     <details><summary>展开描述 ...</summary> 
     在前端项目中有一些通用的代码规范，这些规范可以帮助我们编写更清晰、更易于理解以及更高性能的前端代码。 
-    </details> 
-
-- 🎡 [python高级用法](https://juejin.cn/post/7341720847881027611) | Sun Mar 03 2024 12:47 PM 
-    <details><summary>展开描述 ...</summary> 
-    推导式 字典推导式 集合推导式 列表推导式 元组推导式 lambda map&lpar;function, iterable&rpar;：将指定的函数应用在列表的每个元素上，并返回一个新的序列 filter&lpar;functi 
-    </details> 
-
-- 🕯 [2023 收入最高的十大编程语言](https://juejin.cn/post/7341617121955758090) | Sun Mar 03 2024 12:43 PM 
-    <details><summary>展开描述 ...</summary> 
-    过去一年里，DevJobsScanner 分析了来自地球各地超过 `1000` 万个开发职位空缺，辅助我们了解市场，以及人气最高和收入最高的语言。 
-    </details> 
-
-- 🚀 [let us say say Redux和它的中间件机制](https://juejin.cn/post/7341655116314738751) | Sun Mar 03 2024 12:32 PM 
-    <details><summary>展开描述 ...</summary> 
-    Redux 首先一张图看看Redux基本内容： react-redux 还是一张图看看如何在React中使用Redux: 中间件 这就不是一张图可以解释的了。 什么是中间件 允许开发者在派发一个act 
-    </details> 
-
-- 💪 [基于 NestJs 使用 SSE 实现GPT打字 🐔 效果](https://juejin.cn/post/7341617163353604130) | Sun Mar 03 2024 12:23 PM 
-    <details><summary>展开描述 ...</summary> 
-    SSE 本质 HTTP 协议本身是基于请求-响应模型的，这意味着客户端发起请求后，服务器响应该请求，然后通信就结束了。按照传统的 HTTP 模型，服务器无法主动向客户端发送信息。然而，通过将 HTTP 
     </details> 
 <!-- juejin:END -->
 ### 少数派
