@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Cerbos Cloud - Cerbos 的云托管控制平面](https://xinquji.com/posts/809474?utm_campaign=xinquji-rss) | Sat Mar 02 2024 6:00 AM 
+- 👀 [WisdomPlan - 以您的方式掌握任何技能](https://xinquji.com/posts/809491?utm_campaign=xinquji-rss) | Sun Mar 03 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     Cerbos 的云托管控制平面  
+     以您的方式掌握任何技能  
     </details> 
 
-- 🥷 [PTube - 精简版视频，屏蔽广告](https://xinquji.com/posts/809473?utm_campaign=xinquji-rss) | Sat Mar 02 2024 6:00 AM 
+- 🥷 [Student AI - 通过人工智能解锁学术卓越：聪明学习，快速超越](https://xinquji.com/posts/809490?utm_campaign=xinquji-rss) | Sun Mar 03 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     精简版视频，屏蔽广告  
+     通过人工智能解锁学术卓越：聪明学习，快速超越  
     </details> 
 
-- 💼 [Wordvice AI Detector - 最佳 ChatGPT 检测器](https://xinquji.com/posts/809472?utm_campaign=xinquji-rss) | Sat Mar 02 2024 6:00 AM 
+- 💼 [Country Out - 瞬间助力您的国际行动](https://xinquji.com/posts/809489?utm_campaign=xinquji-rss) | Sun Mar 03 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     最佳 ChatGPT 检测器  
+     瞬间助力您的国际行动  
     </details> 
 
-- 🦅 [Ten - Testnet - 以太坊上完全加密的 L2 - 100% EVM，100% 可靠性](https://xinquji.com/posts/809471?utm_campaign=xinquji-rss) | Sat Mar 02 2024 6:00 AM 
+- 🦅 [ReplyMore - 通过回复更多内容，在 Twitter 上获得前 1000 名关注者](https://xinquji.com/posts/809488?utm_campaign=xinquji-rss) | Sun Mar 03 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     以太坊上完全加密的 L2 - 100% EVM，100% 可靠性  
+     通过回复更多内容，在 Twitter 上获得前 1000 名关注者  
     </details> 
 
-- 😺 [Visionboard for Vision Pro - Vision Pro 信息中心让您轻松掌握流程](https://xinquji.com/posts/809470?utm_campaign=xinquji-rss) | Sat Mar 02 2024 6:00 AM 
+- 😺 [Anytalk - 实时视频和音频翻译应用程序](https://xinquji.com/posts/809487?utm_campaign=xinquji-rss) | Sun Mar 03 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     Vision Pro 信息中心让您轻松掌握流程  
+     实时视频和音频翻译应用程序  
     </details> 
 <!-- xinquji:END -->
