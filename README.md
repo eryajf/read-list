@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Electron+React+七牛云 实战跨平台桌面应用](https://juejin.cn/post/7341302235016216612) | Sat Mar 02 2024 3:14 PM 
+- 🤗 [maven 技巧实时更新快照/乱码问题/下载很慢/包依赖解决包冲突/如何导入本地 jar](https://juejin.cn/post/7341533476674322443) | Sun Mar 03 2024 3:07 AM 
+    <details><summary>展开描述 ...</summary> 
+    # 拓展阅读 [maven 包管理平台-01-maven 入门介绍 + Maven、Gradle、Ant、Ivy、Bazel 和 SBT 的详细对比表格]&lpar;https://houbb.github 
+    </details> 
+
+- 🎡 [解决Java并发问题的常见思路](https://juejin.cn/post/7341329626358169637) | Sun Mar 03 2024 3:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    写在文章开头 近期对一些比较老的项目进行代码走查，碰到一些极端的并发编程恶习，所以笔者就基于此文演示这类问题以及面对并发编程时我们应该需要了解一些常见套路。 Hi，我是sharkChili，是个不断在 
+    </details> 
+
+- 🕯 [JVM成神之路&lpar;2&rpar;: 类的加载](https://juejin.cn/post/7341408996598448147) | Sun Mar 03 2024 2:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 理解完 class 文件之后，那它是存放在磁盘上的，如果要在 JVM 中使用 class 文件，需要将它加载到内存中，本文就来详细的介绍下 class 文件加载到内存的过程。 
+    </details> 
+
+- 🚀 [Electron+React+七牛云 实战跨平台桌面应用](https://juejin.cn/post/7341302235016216612) | Sat Mar 02 2024 3:14 PM 
     <details><summary>展开描述 ...</summary> 
     Electron+React+七牛云 实战跨平台桌面应用 download-》Electron+React+七牛云 实战跨平台桌面应用 创造跨平台桌面应用：使用Electron、React和七牛云 在 
     </details> 
 
-- 🎡 [Get.lazyPut 的时机是什么时候，是在页面中使用了controller属性，并且加载了对应页面，才会注入控制器吗？](https://juejin.cn/post/7341302235016151076) | Sat Mar 02 2024 2:52 PM 
+- 💪 [Get.lazyPut 的时机是什么时候，是在页面中使用了controller属性，并且加载了对应页面，才会注入控制器吗？](https://juejin.cn/post/7341302235016151076) | Sat Mar 02 2024 2:52 PM 
     <details><summary>展开描述 ...</summary> 
     是的，Get.lazyPut&lt;T&gt; 是一种延迟注入的机制，它确保控制器实例只在第一次被实际需要时创建。具体来说，Get.lazyPut&lt;T&gt; 注册一个提供者函数，当你第一次通过 Get.find&lt;T&gt; 
-    </details> 
-
-- 🕯 [netty的简单使用](https://juejin.cn/post/7341329626357710885) | Sat Mar 02 2024 2:43 PM 
-    <details><summary>展开描述 ...</summary> 
-    介绍： netty是一个网络框架，截个简图。对比了官网和github上的介绍，还是github上的介绍比较简洁。 其实就一句话，翻译过来就是：Netty是一个事件驱动的异步网络应用程序框架。在直白点就 
-    </details> 
-
-- 🚀 [原来 React 组件之间是这样通讯的](https://juejin.cn/post/7341288829684514868) | Sat Mar 02 2024 2:42 PM 
-    <details><summary>展开描述 ...</summary> 
-    在 React 中，组件之间的通讯是必不可少的一环，我们在处理业务的过程中，可能要使用很多组件，并在它们之间进行传值通讯，那么我们都有什么方式来进行组件之间的通讯呢？ 
-    </details> 
-
-- 💪 [理解flex布局](https://juejin.cn/post/7341401110631563316) | Sat Mar 02 2024 2:36 PM 
-    <details><summary>展开描述 ...</summary> 
-    flex布局算是前端的必修课了，但这篇文章不会具体讲各个属性有什么效果。相反，这篇文章主要讲的是我是怎么理解flex布局 
     </details> 
 <!-- juejin:END -->
 ### 少数派
