@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [热爱是第一驱动力，价值只是附随结果](https://juejin.cn/post/7341617163352932386) | Sun Mar 03 2024 7:46 AM 
+- 🤗 [使用 FlexSearch 实现本地全文搜索](https://juejin.cn/post/7341592148306739209) | Sun Mar 03 2024 9:03 AM 
     <details><summary>展开描述 ...</summary> 
-    刚开始工作的前一年，除了出差，周末我基本上都是在公司度过，因为当时公司没有加班的风气，所以周末过去根本一个人都看不到，而我去也不是做工作上的事情，更多的是学技术和做其他的事情，所以这谈不上卷。 为什么 
+    搜索功能是网站中提供用户快速查找内容的重要功能，尤其在文档类型网站中几乎是必不可少的。本文介绍使用 FlexSearch 这个用于浏览器和服务器端（Node.js）高性能全文搜索引擎实现本地全文搜索。 
     </details> 
 
-- 🎡 [使用PEG实现一个高性能的过滤器引擎](https://juejin.cn/post/7341593721099567144) | Sun Mar 03 2024 7:41 AM 
+- 🎡 [设计表时，如何选择正确的数据类型](https://juejin.cn/post/7341592148306690057) | Sun Mar 03 2024 8:58 AM 
     <details><summary>展开描述 ...</summary> 
-    使用Go实现一个功能相对全面的Filter引擎（过滤器）！这里采用了PEG实现一个词法解析器，对于学习PEG的同学也有一定的帮助！ 
+    MySQL 支持的数据类型非常多，在合适的场景下，选择正确的数据类型对于获得高性能至关重要。本文讲述了几个简单的原则，从而作出更好的设计 
     </details> 
 
-- 🕯 [python之pymysql](https://juejin.cn/post/7341617121955151882) | Sun Mar 03 2024 7:18 AM 
+- 🕯 [Redisson分布式锁原理的探究，不是你想的那样](https://juejin.cn/post/7341394494901944357) | Sun Mar 03 2024 8:34 AM 
     <details><summary>展开描述 ...</summary> 
-    ```python import pymysql class DB: localhost = { &#39;host&#39;: &#39;localhost&#39;, &#39;user&#39;: &#39;root&#39;, &#39;password&#39;: &#39;c 
+    Redisson分布式锁原理的探究，不是你想的那样 背景 作为Java开发，聊到分布式锁，大家第一反应该都会想到 Redis吧，基本思路用SetNX + Lua脚本实现，但都有些问题例如锁过期了业务还 
     </details> 
 
-- 🚀 [python之logging](https://juejin.cn/post/7341394494901714981) | Sun Mar 03 2024 7:17 AM 
+- 🚀 [【Neo4j系列】Neoj4j概念简介及整合SpringBoot](https://juejin.cn/post/7341652882113134655) | Sun Mar 03 2024 8:31 AM 
     <details><summary>展开描述 ...</summary> 
-    ```python import logging from logging.handlers import TimedRotatingFileHandler # 创建logger对象 logger = 
+    随着信息时代的不断发展，我们日益面临着大规模数据的管理和分析挑战。图数据库的兴起为解决这一难题提供了新的可能性，而Neo4j正是在这一领域中脱颖而出的先锋之一。 
     </details> 
 
-- 💪 [ART虚拟机GC 全貌](https://juejin.cn/post/7341652882112872511) | Sun Mar 03 2024 6:57 AM 
+- 💪 [WEB集群-Ngx核心功能与必会模块](https://juejin.cn/post/7341642966790471715) | Sun Mar 03 2024 8:31 AM 
     <details><summary>展开描述 ...</summary> 
-    目前大部分Android开发者能接触到的GC资料局限在八股文/关于Hotspot虚拟机的实现，大部分不适用ART虚拟机关于GC的实现，或者大部分资料只局限在GC的某个点。本文通过全貌解析住你了解ART 
+    一、Ngx处理用户请求 1、案例与思考 案例01: 思考之前搭建的cxk.cn网站,使用域名访问或ip访问都是没有问题的.如果把配置文件名game.cxk.cn.conf使用域名或ip访问或怎么样?  
     </details> 
 <!-- juejin:END -->
 ### 少数派
