@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [告别繁琐的数据校验：用JSON Schema简化你的代码](https://juejin.cn/post/7341300805281808410) | Sat Mar 02 2024 4:52 PM 
+- 🤗 [Electron+React+七牛云 实战跨平台桌面应用](https://juejin.cn/post/7341302235016216612) | Sat Mar 02 2024 3:14 PM 
     <details><summary>展开描述 ...</summary> 
-    1. JSON Schema JSON Schema 是一种基于 JSON 的格式，用于描述 JSON 数据的结构和验证 JSON 数据。它为 JSON 数据提供了一个清晰的描述，可以用来验证、文档化 
+    Electron+React+七牛云 实战跨平台桌面应用 download-》Electron+React+七牛云 实战跨平台桌面应用 创造跨平台桌面应用：使用Electron、React和七牛云 在 
     </details> 
 
-- 🎡 [Vue 3.x版的单选CheckBox组件](https://juejin.cn/post/7341394494900961317) | Sat Mar 02 2024 4:21 PM 
+- 🎡 [Get.lazyPut 的时机是什么时候，是在页面中使用了controller属性，并且加载了对应页面，才会注入控制器吗？](https://juejin.cn/post/7341302235016151076) | Sat Mar 02 2024 2:52 PM 
     <details><summary>展开描述 ...</summary> 
-    Vue 3引入了Composition API，提供了一种新的方式来组织和重用逻辑。我们将使用Composition API来实现这个功能。 
+    是的，Get.lazyPut&lt;T&gt; 是一种延迟注入的机制，它确保控制器实例只在第一次被实际需要时创建。具体来说，Get.lazyPut&lt;T&gt; 注册一个提供者函数，当你第一次通过 Get.find&lt;T&gt; 
     </details> 
 
-- 🕯 [一款高温型霍尔效应传感器](https://juejin.cn/post/7341315113159426063) | Sat Mar 02 2024 4:07 PM 
+- 🕯 [netty的简单使用](https://juejin.cn/post/7341329626357710885) | Sat Mar 02 2024 2:43 PM 
     <details><summary>展开描述 ...</summary> 
-    一、产品概述 HAL443A单极性霍尔位置传感器是由内部电压稳压器、霍尔电压发生器、差分 放大器、温度补偿单 元、施密特触发器和集 电极开路输出级组成的磁敏传感电路，其输入为磁感应强度，输出是一个数字 
+    介绍： netty是一个网络框架，截个简图。对比了官网和github上的介绍，还是github上的介绍比较简洁。 其实就一句话，翻译过来就是：Netty是一个事件驱动的异步网络应用程序框架。在直白点就 
     </details> 
 
-- 🚀 [Nodejs 第四十八章（ioredis）](https://juejin.cn/post/7341288829684547636) | Sat Mar 02 2024 3:54 PM 
+- 🚀 [原来 React 组件之间是这样通讯的](https://juejin.cn/post/7341288829684514868) | Sat Mar 02 2024 2:42 PM 
     <details><summary>展开描述 ...</summary> 
-    ioredis 是一个强大且流行的 Node.js 库，用于与 Redis 进行交互。Redis 是一个开源的内存数据结构存储系统。ioredis 提供了一个简单高效的 API，供 Node.js 应 
+    在 React 中，组件之间的通讯是必不可少的一环，我们在处理业务的过程中，可能要使用很多组件，并在它们之间进行传值通讯，那么我们都有什么方式来进行组件之间的通讯呢？ 
     </details> 
 
-- 💪 [解读数据架构——现代化技术栈](https://juejin.cn/post/7341340317659447305) | Sat Mar 02 2024 3:32 PM 
+- 💪 [理解flex布局](https://juejin.cn/post/7341401110631563316) | Sat Mar 02 2024 2:36 PM 
     <details><summary>展开描述 ...</summary> 
-    当您深入研究本章内容时，您首要的决定是在开源解决方案和云服务提供商提供的产品之间做出选择。然而，还有更多需要考虑的因素。我将指导您思考您的数据需求规模以及组织的灵活性要求。 除此之外，我们将探讨云服务 
+    flex布局算是前端的必修课了，但这篇文章不会具体讲各个属性有什么效果。相反，这篇文章主要讲的是我是怎么理解flex布局 
     </details> 
 <!-- juejin:END -->
 ### 少数派
