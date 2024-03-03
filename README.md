@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [WisdomPlan - 以您的方式掌握任何技能](https://xinquji.com/posts/809491?utm_campaign=xinquji-rss) | Sun Mar 03 2024 6:00 AM 
+- 👀 [未来简历 - 全新一代AI大模型专业简历生成工具](https://xinquji.com/posts/809455?utm_campaign=xinquji-rss) | Mon Mar 04 2024 7:18 AM 
+    <details><summary>展开描述 ...</summary> 
+     全新一代AI大模型专业简历生成工具  
+    </details> 
+
+- 🥷 [病历记 - 本地模型 AI 识别记录病历](https://xinquji.com/posts/809427?utm_campaign=xinquji-rss) | Mon Mar 04 2024 7:18 AM 
+    <details><summary>展开描述 ...</summary> 
+     本地模型 AI 识别记录病历  
+    </details> 
+
+- 💼 [WisdomPlan - 以您的方式掌握任何技能](https://xinquji.com/posts/809491?utm_campaign=xinquji-rss) | Sun Mar 03 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
      以您的方式掌握任何技能  
     </details> 
 
-- 🥷 [Student AI - 通过人工智能解锁学术卓越：聪明学习，快速超越](https://xinquji.com/posts/809490?utm_campaign=xinquji-rss) | Sun Mar 03 2024 6:00 AM 
+- 🦅 [Student AI - 通过人工智能解锁学术卓越：聪明学习，快速超越](https://xinquji.com/posts/809490?utm_campaign=xinquji-rss) | Sun Mar 03 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
      通过人工智能解锁学术卓越：聪明学习，快速超越  
     </details> 
 
-- 💼 [Country Out - 瞬间助力您的国际行动](https://xinquji.com/posts/809489?utm_campaign=xinquji-rss) | Sun Mar 03 2024 6:00 AM 
+- 😺 [Country Out - 瞬间助力您的国际行动](https://xinquji.com/posts/809489?utm_campaign=xinquji-rss) | Sun Mar 03 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
      瞬间助力您的国际行动  
-    </details> 
-
-- 🦅 [ReplyMore - 通过回复更多内容，在 Twitter 上获得前 1000 名关注者](https://xinquji.com/posts/809488?utm_campaign=xinquji-rss) | Sun Mar 03 2024 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     通过回复更多内容，在 Twitter 上获得前 1000 名关注者  
-    </details> 
-
-- 😺 [Anytalk - 实时视频和音频翻译应用程序](https://xinquji.com/posts/809487?utm_campaign=xinquji-rss) | Sun Mar 03 2024 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     实时视频和音频翻译应用程序  
     </details> 
 <!-- xinquji:END -->
