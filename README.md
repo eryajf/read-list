@@ -351,19 +351,19 @@
     在工作中我们或多或少都遇到过需要用到瀑布流的列表或者需求，那么我们怎么实现瀑布流呢？今天我就给大家带来一个简单的实现方法。给大家做打个样。 技术 vue3 vite 源码地址 瀑布流地址 后面有 
     </details> 
 
-- 🕯 [使用 Vue3.x 非 SFC 方式构建天气查询按钮组件 ☁️🌞](https://juejin.cn/post/7341617121958592522) | Sun Mar 03 2024 4:07 PM 
+- 🕯 [为何Kafka在2.8版本开始会“抛弃”Zookeeper？](https://juejin.cn/post/7341840038964002835) | Sun Mar 03 2024 4:18 PM 
+    <details><summary>展开描述 ...</summary> 
+    一、Kafka简介 Apache Kafka最早是由Linkedin公司开发，后来捐献给了Apack基金会。 Kafka被官方定义为分布式流式处理平台，因为具备高吞吐、可持久化、可水平扩展等特性而被广 
+    </details> 
+
+- 🚀 [使用 Vue3.x 非 SFC 方式构建天气查询按钮组件 ☁️🌞](https://juejin.cn/post/7341617121958592522) | Sun Mar 03 2024 4:07 PM 
     <details><summary>展开描述 ...</summary> 
     本文将详细的叙述如何使用 Vue3.x 的非 SFC 方式封装一个组件，这个组件是一个按钮，点击后可以请求并显示最新的天气信息。 
     </details> 
 
-- 🚀 [Vue3.x 中的七大高级用法探索 🔍🚀](https://juejin.cn/post/7341617121958576138) | Sun Mar 03 2024 4:07 PM 
+- 💪 [Vue3.x 中的七大高级用法探索 🔍🚀](https://juejin.cn/post/7341617121958576138) | Sun Mar 03 2024 4:07 PM 
     <details><summary>展开描述 ...</summary> 
     Vue3.x 自发布以来凭借其性能的显著提升和更加灵活的组合式 API，已经成为了现代前端开发的重要工具之一。除了基本用法外，Vue3.x 还提供了许多高级功能，使得开发复杂应用变得更加简单和高效。 
-    </details> 
-
-- 💪 [使用 provide/inject 实现跨组件通信 🌐](https://juejin.cn/post/7341720847881748507) | Sun Mar 03 2024 4:07 PM 
-    <details><summary>展开描述 ...</summary> 
-    Vue3.x 提供了 provide和inject API，让跨组件通信变得更加简洁和高效。本文将深入探讨如何使用`provide 和 inject 在 Vue3.x 中实现跨组件通信。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
