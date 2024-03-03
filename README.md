@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [GitHub 一周热点汇总第12期&lpar;2024/02/25-03/02&rpar;](https://juejin.cn/post/7341391477014872100) | Sun Mar 03 2024 4:47 AM 
+- 🤗 [精准唇语同步：Wav2Lip 引领视频技术前沿 | 开源日报 No.188](https://juejin.cn/post/7341323705023512617) | Sun Mar 03 2024 6:04 AM 
     <details><summary>展开描述 ...</summary> 
-    GitHub 一周热点汇总第11期&lpar;2024/02/18-02/24&rpar; ，和我一起来看看这周的热门项目吧。 
+    Wav2Lip 是一个准确地在野外进行视频唇语同步的项目。 该项目的主要功能、关键特性和核心优势包括： - 可以高精度地将视频与任何目标语音进行唇语同步 - 适用于任何身份、声音和语言，也适用于 C 
     </details> 
 
-- 🎡 [es6新增的二十个方法代码示例](https://juejin.cn/post/7341592148306001929) | Sun Mar 03 2024 4:21 AM 
+- 🎡 [虚拟线程目前不推荐上生产的个人思考](https://juejin.cn/post/7341391477015052324) | Sun Mar 03 2024 6:02 AM 
     <details><summary>展开描述 ...</summary> 
-    Includes方法：判断数组是否包含某个值 Find方法：返回数组中符合条件的第一个元素 FindIndex方法：返回数组中符合条件的第一个元素的索引 Filter方法：返回数组中符合条件的所有元素 
+    1.pin 线程引发的问题比预期严重，需要修改的库繁多 截止目前 Java 21 虚拟线程一些比较严重的 Bug： Thread.HoldsLock&lpar;Object&rpar; 这个方法，如果是虚拟线程调用，会在 
     </details> 
 
-- 🕯 [读工具书之《Vim实用技巧》](https://juejin.cn/post/7341408996598726675) | Sun Mar 03 2024 4:14 AM 
+- 🕯 [js代码混淆&lpar;JavaScript Obfuscator&rpar;](https://juejin.cn/post/7341617163352621090) | Sun Mar 03 2024 5:58 AM 
     <details><summary>展开描述 ...</summary> 
-    敲代码时，有一个困扰我很久的问题，终于在最近的一次搜索中找到答案。这问题发生在Vim普通模式下： 问题出在第4步，n.在此处没有反应，单词bbbbb并不变成A。我网上冲浪好多次，都没找到答案，直到某天 
+    介绍 JavaScript Obfuscator（JavaScript混淆器）是一种专用于混淆和保护JavaScript代码的工具。主要目标是增加代码的保护性，使其更难以理解,避免反向工程和破解 
     </details> 
 
-- 🚀 [从 0 到 1 实现 Echarts 动态排序折线图和多层级旋转标签图](https://juejin.cn/post/7341408996598611987) | Sun Mar 03 2024 3:46 AM 
+- 🚀 [最高 50 倍月薪，京东发放超额年终奖（含算法原题）](https://juejin.cn/post/7341416970939498533) | Sun Mar 03 2024 5:44 AM 
     <details><summary>展开描述 ...</summary> 
-    本文将使用 D3 实现 Echarts 中两个交互强的通用图表： 为什么要用 D3 使用 D3.js 开发可视化图表有以下几个优点。 功能丰富：D3.js 提供了许多丰富的数据可视化功能，比如缩 
+    京东大动作 据报道，京东物流将计划在 2024 年上半年招聘约 2 万人。 本次京东物流开启的&quot;万人招聘计划&quot;将聚焦供应链、运营、管理、销售等方向。 过万的 HC 不仅仅包含一线操作员等岗位，更是包括 
     </details> 
 
-- 💪 [一个 url 就把人家网站克隆了？](https://juejin.cn/post/7341391477014593572) | Sun Mar 03 2024 3:29 AM 
+- 💪 [位图/矢量图/GIF/PNG/JPEG/WEBP一网打尽](https://juejin.cn/post/7341690415743582249) | Sun Mar 03 2024 5:19 AM 
     <details><summary>展开描述 ...</summary> 
-    今天瞧见了一个开源库，https://github.com/abi/screenshot-to-code ，根据它的描述，这个简单的应用程序可以将屏幕截图转换为代码（HTML/Tailwind CSS 
+    大家好，我是柒八九。一个专注于前端开发技术/Rust及AI应用知识分享的Coder。 前言 最近，在做项目资源打包优化。如果大家做过类似的工作，在操作过程中，想必有一个资源肯定是绕不开的。那就是图片资 
     </details> 
 <!-- juejin:END -->
 ### 少数派
