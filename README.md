@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [求推荐 Go 程序的 web 库](https://www.v2ex.com/t/1020206#reply3) | Sun Mar 03 2024 6:14 AM
-- 🤗 [国内 node 开发工作内容是什么?](https://www.v2ex.com/t/1020204#reply2) | Sun Mar 03 2024 5:58 AM
-- 🎭 [求推荐一台 5G 安卓手机](https://www.v2ex.com/t/1020194#reply10) | Sun Mar 03 2024 4:44 AM
-- 🥷 [连接本地 erp， oa， mes， hr 等系统的 chatgpt](https://www.v2ex.com/t/1020190#reply8) | Sun Mar 03 2024 4:07 AM
-- 🐵 [EU 版澎湃 os 小米钱包问题](https://www.v2ex.com/t/1020183#reply4) | Sun Mar 03 2024 3:22 AM<!-- v2ex:END -->
+- 🥸 [@Livid 请你删除我的账户](https://www.v2ex.com/t/1020224#reply0) | Sun Mar 03 2024 8:16 AM
+- 🤗 [mpb 卡了半年，才发现罪魁祸首是 Vivaldi，以及虽然 Edge 又烂又恶心，但确实强到无敌（对我来说）……](https://www.v2ex.com/t/1020218#reply11) | Sun Mar 03 2024 7:49 AM
+- 🎭 [各位都几年换一次手机](https://www.v2ex.com/t/1020214#reply10) | Sun Mar 03 2024 7:16 AM
+- 🥷 [求推荐 Go 程序的 web 库](https://www.v2ex.com/t/1020206#reply3) | Sun Mar 03 2024 6:14 AM
+- 🐵 [国内 node 开发工作内容是什么?](https://www.v2ex.com/t/1020204#reply3) | Sun Mar 03 2024 5:58 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
