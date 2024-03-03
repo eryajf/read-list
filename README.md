@@ -332,10 +332,10 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Unraid 救急](https://www.v2ex.com/t/1020146#reply0) | Sat Mar 02 2024 11:11 PM
+- 🥸 [面试官：看你简历有写精通 MySQL 读写分离，那咱们聊聊吧 | 百战百胜 - https://www.besthub.tech/](https://www.v2ex.com/t/1020150#reply0) | Sun Mar 03 2024 12:23 AM
 - 🤗 [bob 的 OCR 有什么好用的插件吗？系统内置的离线 OCR 感觉识别不准确](https://www.v2ex.com/t/1020142#reply0) | Sat Mar 02 2024 5:46 PM
 - 🎭 [大家谷歌搜索英文时怎么出中文结果？](https://www.v2ex.com/t/1020133#reply6) | Sat Mar 02 2024 3:56 PM
-- 🥷 [如何从 c++菜鸟转型 c++高手](https://www.v2ex.com/t/1020131#reply6) | Sat Mar 02 2024 3:41 PM
+- 🥷 [如何从 c++菜鸟转型 c++高手](https://www.v2ex.com/t/1020131#reply8) | Sat Mar 02 2024 3:41 PM
 - 🐵 [Linux 平台 Chrome 也可以通过 Chromecast 投屏](https://www.v2ex.com/t/1020128#reply0) | Sat Mar 02 2024 3:32 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
