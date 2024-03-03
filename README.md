@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [从 0 到 1 实现 Echarts 动态排序折线图和多层级旋转标签图](https://juejin.cn/post/7341408996598611987) | Sun Mar 03 2024 3:46 AM 
+- 🤗 [GitHub 一周热点汇总第12期&lpar;2024/02/25-03/02&rpar;](https://juejin.cn/post/7341391477014872100) | Sun Mar 03 2024 4:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    GitHub 一周热点汇总第11期&lpar;2024/02/18-02/24&rpar; ，和我一起来看看这周的热门项目吧。 
+    </details> 
+
+- 🎡 [es6新增的二十个方法代码示例](https://juejin.cn/post/7341592148306001929) | Sun Mar 03 2024 4:21 AM 
+    <details><summary>展开描述 ...</summary> 
+    Includes方法：判断数组是否包含某个值 Find方法：返回数组中符合条件的第一个元素 FindIndex方法：返回数组中符合条件的第一个元素的索引 Filter方法：返回数组中符合条件的所有元素 
+    </details> 
+
+- 🕯 [读工具书之《Vim实用技巧》](https://juejin.cn/post/7341408996598726675) | Sun Mar 03 2024 4:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    敲代码时，有一个困扰我很久的问题，终于在最近的一次搜索中找到答案。这问题发生在Vim普通模式下： 问题出在第4步，n.在此处没有反应，单词bbbbb并不变成A。我网上冲浪好多次，都没找到答案，直到某天 
+    </details> 
+
+- 🚀 [从 0 到 1 实现 Echarts 动态排序折线图和多层级旋转标签图](https://juejin.cn/post/7341408996598611987) | Sun Mar 03 2024 3:46 AM 
     <details><summary>展开描述 ...</summary> 
     本文将使用 D3 实现 Echarts 中两个交互强的通用图表： 为什么要用 D3 使用 D3.js 开发可视化图表有以下几个优点。 功能丰富：D3.js 提供了许多丰富的数据可视化功能，比如缩 
     </details> 
 
-- 🎡 [一个 url 就把人家网站克隆了？](https://juejin.cn/post/7341391477014593572) | Sun Mar 03 2024 3:29 AM 
+- 💪 [一个 url 就把人家网站克隆了？](https://juejin.cn/post/7341391477014593572) | Sun Mar 03 2024 3:29 AM 
     <details><summary>展开描述 ...</summary> 
     今天瞧见了一个开源库，https://github.com/abi/screenshot-to-code ，根据它的描述，这个简单的应用程序可以将屏幕截图转换为代码（HTML/Tailwind CSS 
-    </details> 
-
-- 🕯 [maven 技巧实时更新快照/乱码问题/下载很慢/包依赖解决包冲突/如何导入本地 jar](https://juejin.cn/post/7341533476674322443) | Sun Mar 03 2024 3:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    # 拓展阅读 [maven 包管理平台-01-maven 入门介绍 + Maven、Gradle、Ant、Ivy、Bazel 和 SBT 的详细对比表格]&lpar;https://houbb.github 
-    </details> 
-
-- 🚀 [解决Java并发问题的常见思路](https://juejin.cn/post/7341329626358169637) | Sun Mar 03 2024 3:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    写在文章开头 近期对一些比较老的项目进行代码走查，碰到一些极端的并发编程恶习，所以笔者就基于此文演示这类问题以及面对并发编程时我们应该需要了解一些常见套路。 Hi，我是sharkChili，是个不断在 
-    </details> 
-
-- 💪 [JVM成神之路&lpar;2&rpar;: 类的加载](https://juejin.cn/post/7341408996598448147) | Sun Mar 03 2024 2:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 理解完 class 文件之后，那它是存放在磁盘上的，如果要在 JVM 中使用 class 文件，需要将它加载到内存中，本文就来详细的介绍下 class 文件加载到内存的过程。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
