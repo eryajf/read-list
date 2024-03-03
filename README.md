@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [未来简历 - 全新一代AI大模型专业简历生成工具](https://xinquji.com/posts/809455?utm_campaign=xinquji-rss) | Mon Mar 04 2024 7:18 AM 
+- 👀 [Ai绘画壁纸 - 互相讨论绘画图片作品，动态壁纸绘画创作平台](https://xinquji.com/posts/809475?utm_campaign=xinquji-rss) | Mon Mar 04 2024 8:26 AM 
+    <details><summary>展开描述 ...</summary> 
+     互相讨论绘画图片作品，动态壁纸绘画创作平台  
+    </details> 
+
+- 🥷 [未来简历 - 全新一代AI大模型专业简历生成工具](https://xinquji.com/posts/809455?utm_campaign=xinquji-rss) | Mon Mar 04 2024 7:18 AM 
     <details><summary>展开描述 ...</summary> 
      全新一代AI大模型专业简历生成工具  
     </details> 
 
-- 🥷 [病历记 - 本地模型 AI 识别记录病历](https://xinquji.com/posts/809427?utm_campaign=xinquji-rss) | Mon Mar 04 2024 7:18 AM 
+- 💼 [病历记 - 本地模型 AI 识别记录病历](https://xinquji.com/posts/809427?utm_campaign=xinquji-rss) | Mon Mar 04 2024 7:18 AM 
     <details><summary>展开描述 ...</summary> 
      本地模型 AI 识别记录病历  
     </details> 
 
-- 💼 [WisdomPlan - 以您的方式掌握任何技能](https://xinquji.com/posts/809491?utm_campaign=xinquji-rss) | Sun Mar 03 2024 6:00 AM 
+- 🦅 [WisdomPlan - 以您的方式掌握任何技能](https://xinquji.com/posts/809491?utm_campaign=xinquji-rss) | Sun Mar 03 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
      以您的方式掌握任何技能  
     </details> 
 
-- 🦅 [Student AI - 通过人工智能解锁学术卓越：聪明学习，快速超越](https://xinquji.com/posts/809490?utm_campaign=xinquji-rss) | Sun Mar 03 2024 6:00 AM 
+- 😺 [Student AI - 通过人工智能解锁学术卓越：聪明学习，快速超越](https://xinquji.com/posts/809490?utm_campaign=xinquji-rss) | Sun Mar 03 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
      通过人工智能解锁学术卓越：聪明学习，快速超越  
-    </details> 
-
-- 😺 [Country Out - 瞬间助力您的国际行动](https://xinquji.com/posts/809489?utm_campaign=xinquji-rss) | Sun Mar 03 2024 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     瞬间助力您的国际行动  
     </details> 
 <!-- xinquji:END -->
