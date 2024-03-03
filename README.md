@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [连接本地 erp， oa， mes， hr 等系统的 chatgpt](https://www.v2ex.com/t/1020190#reply0) | Sun Mar 03 2024 4:07 AM
-- 🤗 [EU 版澎湃 os 小米钱包问题](https://www.v2ex.com/t/1020183#reply1) | Sun Mar 03 2024 3:22 AM
-- 🎭 [纪念一下第一次上榜 GitHub Trending.](https://www.v2ex.com/t/1020173#reply0) | Sun Mar 03 2024 2:36 AM
-- 🥷 [全网质量最高的计算机电子书库](https://www.v2ex.com/t/1020170#reply9) | Sun Mar 03 2024 2:28 AM
-- 🐵 [作为程序员，日常使用 window 工作本，你们都会安利哪些好用的工具，推荐一波](https://www.v2ex.com/t/1020166#reply27) | Sun Mar 03 2024 1:57 AM<!-- v2ex:END -->
+- 🥸 [求推荐一台 5G 安卓手机](https://www.v2ex.com/t/1020194#reply2) | Sun Mar 03 2024 4:44 AM
+- 🤗 [连接本地 erp， oa， mes， hr 等系统的 chatgpt](https://www.v2ex.com/t/1020190#reply4) | Sun Mar 03 2024 4:07 AM
+- 🎭 [EU 版澎湃 os 小米钱包问题](https://www.v2ex.com/t/1020183#reply1) | Sun Mar 03 2024 3:22 AM
+- 🥷 [纪念一下第一次上榜 GitHub Trending.](https://www.v2ex.com/t/1020173#reply2) | Sun Mar 03 2024 2:36 AM
+- 🐵 [全网质量最高的计算机电子书库](https://www.v2ex.com/t/1020170#reply16) | Sun Mar 03 2024 2:28 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
