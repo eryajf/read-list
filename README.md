@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [为什么说 TiDB 在线扩容对业务几乎没有影响](https://juejin.cn/post/7341652882113560639) | Sun Mar 03 2024 12:13 PM 
+- 🤗 [前端代码规范](https://juejin.cn/post/7341720847881043995) | Sun Mar 03 2024 1:03 PM 
     <details><summary>展开描述 ...</summary> 
-    本文讨论了分布式数据库在在线扩容方面的挑战， 详细解释了一般分布式数据库和 TiDB 在扩容机制上的不同。 一般分布式数据库在进行在线扩容时，需要重新平衡数据分布，可能会影响系统的可用性和 IO 消耗 
+    在前端项目中有一些通用的代码规范，这些规范可以帮助我们编写更清晰、更易于理解以及更高性能的前端代码。 
     </details> 
 
-- 🎡 [内含资料下载丨黄东旭：2024 现代应用开发关键趋势——降低成本、简化架构](https://juejin.cn/post/7341840038962970643) | Sun Mar 03 2024 12:13 PM 
+- 🎡 [python高级用法](https://juejin.cn/post/7341720847881027611) | Sun Mar 03 2024 12:47 PM 
     <details><summary>展开描述 ...</summary> 
-    作为一名工程师和创业者，创办 PingCAP 是我进入创新世界的一次深潜。这段旅程既有令人振奋的发现，也充满令人生畏的不确定性。作为这次探险之旅见证的 TiDB ，现在已在全球服务超过 3000 家企 
+    推导式 字典推导式 集合推导式 列表推导式 元组推导式 lambda map&lpar;function, iterable&rpar;：将指定的函数应用在列表的每个元素上，并返回一个新的序列 filter&lpar;functi 
     </details> 
 
-- 🕯 [视野修炼-技术周刊第75期](https://juejin.cn/post/7341655116314607679) | Sun Mar 03 2024 12:04 PM 
+- 🕯 [2023 收入最高的十大编程语言](https://juejin.cn/post/7341617121955758090) | Sun Mar 03 2024 12:43 PM 
     <details><summary>展开描述 ...</summary> 
-    ① JSR - Deno 开发的新的 js 注册表 ② Node.js 新官网 - beta ③ 获取 Web 性能指标的精选代码片段 ④ Mojo CSS - 新的CSS原子化框架 
+    过去一年里，DevJobsScanner 分析了来自地球各地超过 `1000` 万个开发职位空缺，辅助我们了解市场，以及人气最高和收入最高的语言。 
     </details> 
 
-- 🚀 [详聊vue的diff算法](https://juejin.cn/post/7341690415745056809) | Sun Mar 03 2024 12:03 PM 
+- 🚀 [let us say say Redux和它的中间件机制](https://juejin.cn/post/7341655116314738751) | Sun Mar 03 2024 12:32 PM 
     <details><summary>展开描述 ...</summary> 
-    我们都清楚vue的diff算法很强大，面试官也喜欢问你diff算法的原理，本期文章就带大家认识下这个算法的意义所在，以及其过程 想要聊清楚这个，我们需要先清楚虚拟dom 虚拟dom 我们先看一个情景， 
+    Redux 首先一张图看看Redux基本内容： react-redux 还是一张图看看如何在React中使用Redux: 中间件 这就不是一张图可以解释的了。 什么是中间件 允许开发者在派发一个act 
     </details> 
 
-- 💪 [python之pandas](https://juejin.cn/post/7341720847880896539) | Sun Mar 03 2024 11:54 AM 
+- 💪 [基于 NestJs 使用 SSE 实现GPT打字 🐔 效果](https://juejin.cn/post/7341617163353604130) | Sun Mar 03 2024 12:23 PM 
     <details><summary>展开描述 ...</summary> 
-    ```python # 使用字典创建 data = { &quot;total&quot;: [420, 380, 390], &quot;age&quot;: [50, 40, 45] } df = pd.DataFrame&lpar;data&rpar;  
+    SSE 本质 HTTP 协议本身是基于请求-响应模型的，这意味着客户端发起请求后，服务器响应该请求，然后通信就结束了。按照传统的 HTTP 模型，服务器无法主动向客户端发送信息。然而，通过将 HTTP 
     </details> 
 <!-- juejin:END -->
 ### 少数派
