@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [时隔半年，重新面试（复习曾经会但忘记的）](https://juejin.cn/post/7341568997861015579) | Sun Mar 03 2024 9:52 AM 
+- 🤗 [4 年深度 Mac OS 用户装机必备软件推荐](https://juejin.cn/post/7341642966790766627) | Sun Mar 03 2024 10:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    每年 Apple官方 都会推出年度App表彰优秀的开发者，作为一枚多年Mac的使用用户，让我种草不少有趣的 App，也让我想要总结Mac OS爱用软件造福大家，无论是工作还是生活都能高频用上，盘点开始 
+    </details> 
+
+- 🎡 [记录一次自己的服务器迁移过程](https://juejin.cn/post/7341593721099911208) | Sun Mar 03 2024 10:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    记录一次自己的服务器迁移过程 记录一次服务器迁移过程 前言 目前项目的部署方式 开始迁移 提前准备 设置安全组 开始初始化 安装 docker 尝试部署 数据库迁移 结尾 一些问题 为什么中间没有配置 
+    </details> 
+
+- 🕯 [这是一篇DeepLink入门指南](https://juejin.cn/post/7341720847880798235) | Sun Mar 03 2024 10:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    一、DeepLink是什么？ 首先给各位同学看一个定义： 可以看到，DeepLink能做的不仅是唤起了当前应用，还跳转到应用中的特定部分。 二、为什需要DeepLink? 在网页时代，网站之间的引流比 
+    </details> 
+
+- 🚀 [10分钟！Webpack to Vite！](https://juejin.cn/post/7341568997861031963) | Sun Mar 03 2024 10:12 AM 
+    <details><summary>展开描述 ...</summary> 
+    虽然本人也很喜欢`Webpack`项目开发环境运行打包时带来的闲暇时光，但是当有紧急情况需要快速响应时，还是不禁会想：如果是`Vite`呢？ 
+    </details> 
+
+- 💪 [时隔半年，重新面试（复习曾经会但忘记的）](https://juejin.cn/post/7341568997861015579) | Sun Mar 03 2024 9:52 AM 
     <details><summary>展开描述 ...</summary> 
     时隔半年，重新面试 # localStorage 和 sessionStorage 的区别 # Promise相关原理 
-    </details> 
-
-- 🎡 [鸿蒙应用开发-知识：rollup打包](https://juejin.cn/post/7341709684442660876) | Sun Mar 03 2024 9:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    Hvigor hvigor是一款基于TS实现的 构建任务编排工具，主要提供任务管理机制，包括任务注册编排、工程模型管理、配置管理等关键能力，更符合node生态开发者开发习惯 它不负责实际的打包，实际打 
-    </details> 
-
-- 🕯 [用 ChatGPT 4.0 实现获取并保存 RealSense 相机的深度图像](https://juejin.cn/post/7341617163353227298) | Sun Mar 03 2024 9:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文将完整记录利用 ChatGPT 从 Debug 到实现完整需求代码的全过程。第一次使用 ChatGPT 解决实际工作上的问题，也算是个调试样例，简单记录一下分享给大家。 
-    </details> 
-
-- 🚀 [记录一次使用openlayers加载由postGIS动态生成的MVT地图矢量切片踩坑实践](https://juejin.cn/post/7341391477015609380) | Sun Mar 03 2024 9:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    一次加载大量地理数据的踩坑记录，使用MVT没有带来期望的结果，而本被我们放弃的WMS才是可行的方案。 
-    </details> 
-
-- 💪 [Kotlin 类型声明相关的一些注意事项](https://juejin.cn/post/7341655116314165311) | Sun Mar 03 2024 9:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    由于kotlin支持类型推导，所以很多时候变量的类型可以省略，但有时候省略变量类型又可能带来一些不便，甚至隐患。本文记录下一些“建议声明类型”、“可以省略类型”的场景。（暂时想到的不多，后续持续更新） 
     </details> 
 <!-- juejin:END -->
 ### 少数派
