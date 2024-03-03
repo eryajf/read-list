@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0303](http://jandan.net/p/115785) | Sat Mar 02 2024 11:07 PM 
+- 🚀 [今日好价 0304](http://jandan.net/p/115794) | Sun Mar 03 2024 11:07 PM 
     <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：35 
+    今日带货商品数量：43 
     </details> 
 
-- 🙉 [拼图难题的终极公式](http://jandan.net/p/115783) | Sat Mar 02 2024 11:06 PM 
+- 🙉 [座头鲸是如何交配的？这次被人类拍到现行](http://jandan.net/p/115787) | Sun Mar 03 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
-    拼图桌面的终极公式诞生了 
+    令人惊讶的是，两只鲸鱼均为雄性 
     </details> 
 
-- 🎉 [目前的锂离子电池可能不是电动汽车的最佳选择](http://jandan.net/p/115778) | Sat Mar 02 2024 11:05 PM 
+- 🎉 [掌握完美俯卧撑：新手入门指南](http://jandan.net/p/115791) | Sun Mar 03 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
-    最环保的电动汽车电池是锂硫电池 
+    俯卧撑的标准动作、常见错误及纠正方法 
     </details> 
 
-- 🐲 [地球最强磁场？质子碰撞释放宇宙级磁暴](http://jandan.net/p/115780) | Sat Mar 02 2024 11:03 PM 
+- 🐲 [“吾好梦中杀人”：梦游作为一种谋杀辩护](http://jandan.net/p/115789) | Sun Mar 03 2024 11:03 PM 
     <details><summary>展开描述 ...</summary> 
-    重离子碰撞产生极强磁场，强度超越已知宇宙天体 
+    梦游能成为免罪辩词吗？ 
     </details> 
 
--  [断食七天后人体器官的变化](http://jandan.net/p/115781) | Sat Mar 02 2024 11:02 PM 
+-  [圆形鼓猜想：困扰数学界70年的难题终于得到解答](http://jandan.net/p/115786) | Sun Mar 03 2024 11:01 PM 
     <details><summary>展开描述 ...</summary> 
-    断食七日人体多器官应答，揭示健康益处新机制 
+    数学家证明了圆盘的特征值满足Pólya猜想 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
