@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [精准唇语同步：Wav2Lip 引领视频技术前沿 | 开源日报 No.188](https://juejin.cn/post/7341323705023512617) | Sun Mar 03 2024 6:04 AM 
+- 🤗 [ART虚拟机GC 全貌](https://juejin.cn/post/7341652882112872511) | Sun Mar 03 2024 6:57 AM 
     <details><summary>展开描述 ...</summary> 
-    Wav2Lip 是一个准确地在野外进行视频唇语同步的项目。 该项目的主要功能、关键特性和核心优势包括： - 可以高精度地将视频与任何目标语音进行唇语同步 - 适用于任何身份、声音和语言，也适用于 C 
+    目前大部分Android开发者能接触到的GC资料局限在八股文/关于Hotspot虚拟机的实现，大部分不适用ART虚拟机关于GC的实现，或者大部分资料只局限在GC的某个点。本文通过全貌解析住你了解ART 
     </details> 
 
-- 🎡 [虚拟线程目前不推荐上生产的个人思考](https://juejin.cn/post/7341391477015052324) | Sun Mar 03 2024 6:02 AM 
+- 🎡 [python之requests](https://juejin.cn/post/7341592148306329609) | Sun Mar 03 2024 6:53 AM 
     <details><summary>展开描述 ...</summary> 
-    1.pin 线程引发的问题比预期严重，需要修改的库繁多 截止目前 Java 21 虚拟线程一些比较严重的 Bug： Thread.HoldsLock&lpar;Object&rpar; 这个方法，如果是虚拟线程调用，会在 
+    Get POST, response = requests.get&lpar;url, params=params, headers=headers&rpar; print&lpar;response.status_co 
     </details> 
 
-- 🕯 [js代码混淆&lpar;JavaScript Obfuscator&rpar;](https://juejin.cn/post/7341617163352621090) | Sun Mar 03 2024 5:58 AM 
+- 🕯 [你写的代码真的符合RESTful风格的设计吗？](https://juejin.cn/post/7341391477014560804) | Sun Mar 03 2024 3:24 AM 
     <details><summary>展开描述 ...</summary> 
-    介绍 JavaScript Obfuscator（JavaScript混淆器）是一种专用于混淆和保护JavaScript代码的工具。主要目标是增加代码的保护性，使其更难以理解,避免反向工程和破解 
+    前言 之前一直认为接口按照增删改查的功能，使用GET POST PUT DELETE这几个HTTP方法，并且URL符合对应对象，比如书籍的增删改查用book，用户的增删改查用user就算是RESTUf 
     </details> 
 
-- 🚀 [最高 50 倍月薪，京东发放超额年终奖（含算法原题）](https://juejin.cn/post/7341416970939498533) | Sun Mar 03 2024 5:44 AM 
+- 🚀 [Redis 的缓存过期策略](https://juejin.cn/post/7341408996598579219) | Sun Mar 03 2024 3:17 AM 
     <details><summary>展开描述 ...</summary> 
-    京东大动作 据报道，京东物流将计划在 2024 年上半年招聘约 2 万人。 本次京东物流开启的&quot;万人招聘计划&quot;将聚焦供应链、运营、管理、销售等方向。 过万的 HC 不仅仅包含一线操作员等岗位，更是包括 
+    Redis 的缓存过期策略是指当数据存储在 Redis 中时，如何处理到达特定生命周期末端的数据。Redis 主要使用两种策略来管理键的过期：惰性过期（Lazy Expiration）和定期删除（Pe 
     </details> 
 
-- 💪 [位图/矢量图/GIF/PNG/JPEG/WEBP一网打尽](https://juejin.cn/post/7341690415743582249) | Sun Mar 03 2024 5:19 AM 
+- 💪 [Go语言中常见100问题-#13 你在项目中创建utils包了吗？](https://juejin.cn/post/7341401110632267828) | Sun Mar 03 2024 3:17 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是柒八九。一个专注于前端开发技术/Rust及AI应用知识分享的Coder。 前言 最近，在做项目资源打包优化。如果大家做过类似的工作，在操作过程中，想必有一个资源肯定是绕不开的。那就是图片资 
+    使用utils包有啥问题？ 本文将讨论Go语言中一种常见的不好的实践：创建utils、common和base等共享包。首先分析这种做法存在的问题，然后讨论如何改进。 下面是一个受Go官方博客启发构造的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
