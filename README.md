@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [ART虚拟机GC 全貌](https://juejin.cn/post/7341652882112872511) | Sun Mar 03 2024 6:57 AM 
+- 🤗 [热爱是第一驱动力，价值只是附随结果](https://juejin.cn/post/7341617163352932386) | Sun Mar 03 2024 7:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    刚开始工作的前一年，除了出差，周末我基本上都是在公司度过，因为当时公司没有加班的风气，所以周末过去根本一个人都看不到，而我去也不是做工作上的事情，更多的是学技术和做其他的事情，所以这谈不上卷。 为什么 
+    </details> 
+
+- 🎡 [使用PEG实现一个高性能的过滤器引擎](https://juejin.cn/post/7341593721099567144) | Sun Mar 03 2024 7:41 AM 
+    <details><summary>展开描述 ...</summary> 
+    使用Go实现一个功能相对全面的Filter引擎（过滤器）！这里采用了PEG实现一个词法解析器，对于学习PEG的同学也有一定的帮助！ 
+    </details> 
+
+- 🕯 [python之pymysql](https://juejin.cn/post/7341617121955151882) | Sun Mar 03 2024 7:18 AM 
+    <details><summary>展开描述 ...</summary> 
+    ```python import pymysql class DB: localhost = { &#39;host&#39;: &#39;localhost&#39;, &#39;user&#39;: &#39;root&#39;, &#39;password&#39;: &#39;c 
+    </details> 
+
+- 🚀 [python之logging](https://juejin.cn/post/7341394494901714981) | Sun Mar 03 2024 7:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    ```python import logging from logging.handlers import TimedRotatingFileHandler # 创建logger对象 logger = 
+    </details> 
+
+- 💪 [ART虚拟机GC 全貌](https://juejin.cn/post/7341652882112872511) | Sun Mar 03 2024 6:57 AM 
     <details><summary>展开描述 ...</summary> 
     目前大部分Android开发者能接触到的GC资料局限在八股文/关于Hotspot虚拟机的实现，大部分不适用ART虚拟机关于GC的实现，或者大部分资料只局限在GC的某个点。本文通过全貌解析住你了解ART 
-    </details> 
-
-- 🎡 [python之requests](https://juejin.cn/post/7341592148306329609) | Sun Mar 03 2024 6:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    Get POST, response = requests.get&lpar;url, params=params, headers=headers&rpar; print&lpar;response.status_co 
-    </details> 
-
-- 🕯 [你写的代码真的符合RESTful风格的设计吗？](https://juejin.cn/post/7341391477014560804) | Sun Mar 03 2024 3:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 之前一直认为接口按照增删改查的功能，使用GET POST PUT DELETE这几个HTTP方法，并且URL符合对应对象，比如书籍的增删改查用book，用户的增删改查用user就算是RESTUf 
-    </details> 
-
-- 🚀 [Redis 的缓存过期策略](https://juejin.cn/post/7341408996598579219) | Sun Mar 03 2024 3:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    Redis 的缓存过期策略是指当数据存储在 Redis 中时，如何处理到达特定生命周期末端的数据。Redis 主要使用两种策略来管理键的过期：惰性过期（Lazy Expiration）和定期删除（Pe 
-    </details> 
-
-- 💪 [Go语言中常见100问题-#13 你在项目中创建utils包了吗？](https://juejin.cn/post/7341401110632267828) | Sun Mar 03 2024 3:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    使用utils包有啥问题？ 本文将讨论Go语言中一种常见的不好的实践：创建utils、common和base等共享包。首先分析这种做法存在的问题，然后讨论如何改进。 下面是一个受Go官方博客启发构造的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
