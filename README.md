@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [面试经典题：Object.is 和 == 以及 === 的区别](https://juejin.cn/post/7341652882113773631) | Sun Mar 03 2024 1:55 PM 
+- 🤗 [探索设计模式：从经典23种到Python中的应用 🐍🎨](https://juejin.cn/post/7341720847881535515) | Sun Mar 03 2024 3:06 PM 
     <details><summary>展开描述 ...</summary> 
-    在 JavaScript 中，比较操作符是编写代码时经常使用的基本功能之一。本文将详细介绍 Object.is，== 和 === 之间的区别。 
+    设计模式不仅能帮助开发者提高代码的可读性、可维护性和可扩展性，还能促进团队之间的有效沟通。本文将深入探讨经典的23种设计模式，并着重介绍在Python开发中常用的设计模式。 
     </details> 
 
-- 🎡 [分布式ID生成系统之雪花算法详解](https://juejin.cn/post/7341642966791110691) | Sun Mar 03 2024 1:27 PM 
+- 🎡 [Python中自动化测试的利器：探索常用库 🐍🔍](https://juejin.cn/post/7341720847881519131) | Sun Mar 03 2024 3:06 PM 
     <details><summary>展开描述 ...</summary> 
-    雪花算法作为一种高效、简单的分布式系统ID生成方案，已经被广泛应用于各种互联网产品和系统中。它解决了分布式环境下ID生成的唯一性、时序性和高性能的问题。 
+    无论是单元测试、集成测试还是UI测试，Python都有合适的工具可以帮助我们完成任务。本文将详细介绍Python中常用的几个自动化测试库，并探索它们的特点和使用场景。 
     </details> 
 
-- 🕯 [从头理解与编码LLM的自注意力机制](https://juejin.cn/post/7341669201009262629) | Sun Mar 03 2024 1:25 PM 
+- 🕯 [Selenium WebDriver基本知识点 🚗💡](https://juejin.cn/post/7341668771911270427) | Sun Mar 03 2024 3:06 PM 
     <details><summary>展开描述 ...</summary> 
-    本文将介绍Transformer架构和GPT-4、LLaMA等语言大模型中使用的自注意力机制。自注意力和相关机制是LLM的核心组件，使用LLM时，了解这些机制十分有必要。 
+    无论你是自动化测试新手还是老手，了解Selenium WebDriver的基本知识点都是非常必要的。本文将介绍Selenium WebDriver中的一些常用知识点，帮助你快速入门或巩固已有知识。 
     </details> 
 
-- 🚀 [next14中流式（异步）渲染实现原理和优雅的使用骨架屏](https://juejin.cn/post/7341652882113642559) | Sun Mar 03 2024 1:18 PM 
+- 🚀 [Selenium WebDriver测试举例 -- Antd DragSortTable](https://juejin.cn/post/7341669201009475621) | Sun Mar 03 2024 3:06 PM 
     <details><summary>展开描述 ...</summary> 
-    最近在学习nextjs，在做实战demo的时候，关于next中的流式（异步）渲染原理以及如何优雅的使用骨架屏有一些心得，所以给大家分享一下。 
+    本文将演示如何使用Selenium WebDriver对Antd Pro的DragSortTable组件进行自动化测试，确保其拖拽功能按预期工作。 
     </details> 
 
-- 💪 [前端代码规范](https://juejin.cn/post/7341720847881043995) | Sun Mar 03 2024 1:03 PM 
+- 💪 [Vue3.x 中组件间参数传递详解 🌟](https://juejin.cn/post/7341568997861556251) | Sun Mar 03 2024 3:02 PM 
     <details><summary>展开描述 ...</summary> 
-    在前端项目中有一些通用的代码规范，这些规范可以帮助我们编写更清晰、更易于理解以及更高性能的前端代码。 
+    在 Vue3.x 中，无论是父子组件还是兄弟组件之间，合理的数据流动都是保持应用状态一致性和可维护性的关键。本文将通过示例代码，详细介绍 Vue3.x 中组件间如何传递参数。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
