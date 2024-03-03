@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [使用 Vue3.x 非 SFC 方式构建天气查询按钮组件 ☁️🌞](https://juejin.cn/post/7341617121958592522) | Sun Mar 03 2024 4:07 PM 
+- 🤗 [这么简单的瀑布流，你确定不看](https://juejin.cn/post/7341668771911450651) | Sun Mar 03 2024 4:28 PM 
+    <details><summary>展开描述 ...</summary> 
+    在工作中我们或多或少都遇到过需要用到瀑布流的列表或者需求，那么我们怎么实现瀑布流呢？今天我就给大家带来一个简单的实现方法。给大家做打个样。 技术 vue3 vite 源码地址 瀑布流地址 后面有 
+    </details> 
+
+- 🎡 [使用 Vue3.x 非 SFC 方式构建天气查询按钮组件 ☁️🌞](https://juejin.cn/post/7341617121958592522) | Sun Mar 03 2024 4:07 PM 
     <details><summary>展开描述 ...</summary> 
     本文将详细的叙述如何使用 Vue3.x 的非 SFC 方式封装一个组件，这个组件是一个按钮，点击后可以请求并显示最新的天气信息。 
     </details> 
 
-- 🎡 [Vue3.x 中的七大高级用法探索 🔍🚀](https://juejin.cn/post/7341617121958576138) | Sun Mar 03 2024 4:07 PM 
+- 🕯 [Vue3.x 中的七大高级用法探索 🔍🚀](https://juejin.cn/post/7341617121958576138) | Sun Mar 03 2024 4:07 PM 
     <details><summary>展开描述 ...</summary> 
     Vue3.x 自发布以来凭借其性能的显著提升和更加灵活的组合式 API，已经成为了现代前端开发的重要工具之一。除了基本用法外，Vue3.x 还提供了许多高级功能，使得开发复杂应用变得更加简单和高效。 
     </details> 
 
-- 🕯 [使用 provide/inject 实现跨组件通信 🌐](https://juejin.cn/post/7341720847881748507) | Sun Mar 03 2024 4:07 PM 
+- 🚀 [使用 provide/inject 实现跨组件通信 🌐](https://juejin.cn/post/7341720847881748507) | Sun Mar 03 2024 4:07 PM 
     <details><summary>展开描述 ...</summary> 
     Vue3.x 提供了 provide和inject API，让跨组件通信变得更加简洁和高效。本文将深入探讨如何使用`provide 和 inject 在 Vue3.x 中实现跨组件通信。 
     </details> 
 
-- 🚀 [Nest 循环依赖解决方案：forwardRef 的艺术](https://juejin.cn/post/7341840038963986451) | Sun Mar 03 2024 4:06 PM 
+- 💪 [Nest 循环依赖解决方案：forwardRef 的艺术](https://juejin.cn/post/7341840038963986451) | Sun Mar 03 2024 4:06 PM 
     <details><summary>展开描述 ...</summary> 
     本文深入探讨了 Nest.js 框架中模块间循环依赖的问题，不仅涵盖了模块间的循环依赖处理，还涉及了服务提供者之间的循环依赖情况，并强调了合理设计代码以避免循环依赖的重要性。 
-    </details> 
-
-- 💪 [Nest：动态和全局模块](https://juejin.cn/post/7341655116315508799) | Sun Mar 03 2024 4:03 PM 
-    <details><summary>展开描述 ...</summary> 
-    Nest.js框架强调模块化设计，推崇单一职责、封装和配置隔离原则。通过模块重导出和全局模块减少耦合，简化导入流程。动态模块支持环境特定配置，提升灵活性和可维护性。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
