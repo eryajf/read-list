@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [4 年深度 Mac OS 用户装机必备软件推荐](https://juejin.cn/post/7341642966790766627) | Sun Mar 03 2024 10:47 AM 
+- 🤗 [为什么说 TiDB 在线扩容对业务几乎没有影响](https://juejin.cn/post/7341652882113560639) | Sun Mar 03 2024 12:13 PM 
     <details><summary>展开描述 ...</summary> 
-    每年 Apple官方 都会推出年度App表彰优秀的开发者，作为一枚多年Mac的使用用户，让我种草不少有趣的 App，也让我想要总结Mac OS爱用软件造福大家，无论是工作还是生活都能高频用上，盘点开始 
+    本文讨论了分布式数据库在在线扩容方面的挑战， 详细解释了一般分布式数据库和 TiDB 在扩容机制上的不同。 一般分布式数据库在进行在线扩容时，需要重新平衡数据分布，可能会影响系统的可用性和 IO 消耗 
     </details> 
 
-- 🎡 [记录一次自己的服务器迁移过程](https://juejin.cn/post/7341593721099911208) | Sun Mar 03 2024 10:42 AM 
+- 🎡 [内含资料下载丨黄东旭：2024 现代应用开发关键趋势——降低成本、简化架构](https://juejin.cn/post/7341840038962970643) | Sun Mar 03 2024 12:13 PM 
     <details><summary>展开描述 ...</summary> 
-    记录一次自己的服务器迁移过程 记录一次服务器迁移过程 前言 目前项目的部署方式 开始迁移 提前准备 设置安全组 开始初始化 安装 docker 尝试部署 数据库迁移 结尾 一些问题 为什么中间没有配置 
+    作为一名工程师和创业者，创办 PingCAP 是我进入创新世界的一次深潜。这段旅程既有令人振奋的发现，也充满令人生畏的不确定性。作为这次探险之旅见证的 TiDB ，现在已在全球服务超过 3000 家企 
     </details> 
 
-- 🕯 [这是一篇DeepLink入门指南](https://juejin.cn/post/7341720847880798235) | Sun Mar 03 2024 10:13 AM 
+- 🕯 [视野修炼-技术周刊第75期](https://juejin.cn/post/7341655116314607679) | Sun Mar 03 2024 12:04 PM 
     <details><summary>展开描述 ...</summary> 
-    一、DeepLink是什么？ 首先给各位同学看一个定义： 可以看到，DeepLink能做的不仅是唤起了当前应用，还跳转到应用中的特定部分。 二、为什需要DeepLink? 在网页时代，网站之间的引流比 
+    ① JSR - Deno 开发的新的 js 注册表 ② Node.js 新官网 - beta ③ 获取 Web 性能指标的精选代码片段 ④ Mojo CSS - 新的CSS原子化框架 
     </details> 
 
-- 🚀 [10分钟！Webpack to Vite！](https://juejin.cn/post/7341568997861031963) | Sun Mar 03 2024 10:12 AM 
+- 🚀 [详聊vue的diff算法](https://juejin.cn/post/7341690415745056809) | Sun Mar 03 2024 12:03 PM 
     <details><summary>展开描述 ...</summary> 
-    虽然本人也很喜欢`Webpack`项目开发环境运行打包时带来的闲暇时光，但是当有紧急情况需要快速响应时，还是不禁会想：如果是`Vite`呢？ 
+    我们都清楚vue的diff算法很强大，面试官也喜欢问你diff算法的原理，本期文章就带大家认识下这个算法的意义所在，以及其过程 想要聊清楚这个，我们需要先清楚虚拟dom 虚拟dom 我们先看一个情景， 
     </details> 
 
-- 💪 [时隔半年，重新面试（复习曾经会但忘记的）](https://juejin.cn/post/7341568997861015579) | Sun Mar 03 2024 9:52 AM 
+- 💪 [python之pandas](https://juejin.cn/post/7341720847880896539) | Sun Mar 03 2024 11:54 AM 
     <details><summary>展开描述 ...</summary> 
-    时隔半年，重新面试 # localStorage 和 sessionStorage 的区别 # Promise相关原理 
+    ```python # 使用字典创建 data = { &quot;total&quot;: [420, 380, 390], &quot;age&quot;: [50, 40, 45] } df = pd.DataFrame&lpar;data&rpar;  
     </details> 
 <!-- juejin:END -->
 ### 少数派
