@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [MySQL 问题求助](https://www.v2ex.com/t/1020612#reply4) | Mon Mar 04 2024 4:28 PM
-- 🤗 [chrome 在远程连接后出现卡顿情况](https://www.v2ex.com/t/1020601#reply0) | Mon Mar 04 2024 2:53 PM
-- 🎭 [能否通过 WebDav 实现 Windows - IOS 漫画同步](https://www.v2ex.com/t/1020592#reply1) | Mon Mar 04 2024 2:22 PM
-- 🥷 [google 三件套安装](https://www.v2ex.com/t/1020591#reply3) | Mon Mar 04 2024 2:22 PM
-- 🐵 [最近更新的 win10 好像在睡眠方面有问题](https://www.v2ex.com/t/1020578#reply2) | Mon Mar 04 2024 1:32 PM<!-- v2ex:END -->
+- 🥸 [有没有同时支持 atx 主板和 atx 电源的机箱推荐呀？](https://www.v2ex.com/t/1020617#reply5) | Mon Mar 04 2024 6:18 PM
+- 🤗 [MySQL 问题求助](https://www.v2ex.com/t/1020612#reply5) | Mon Mar 04 2024 4:28 PM
+- 🎭 [chrome 在远程连接后出现卡顿情况](https://www.v2ex.com/t/1020601#reply0) | Mon Mar 04 2024 2:53 PM
+- 🥷 [能否通过 WebDav 实现 Windows - IOS 漫画同步](https://www.v2ex.com/t/1020592#reply1) | Mon Mar 04 2024 2:22 PM
+- 🐵 [google 三件套安装](https://www.v2ex.com/t/1020591#reply3) | Mon Mar 04 2024 2:22 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
