@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [利用Spring Boot实现MySQL 8.0和MyBatis-Plus的JSON查询](https://juejin.cn/post/7342327642853343232) | Mon Mar 04 2024 12:31 PM 
+- 🤗 [深入剖析JVM的OOM | 内存溢出如何影响JVM运行及应对策略](https://juejin.cn/post/7342384485696274486) | Mon Mar 04 2024 12:57 PM 
+    <details><summary>展开描述 ...</summary> 
+    OOM与JVM的关系 在Java开发的世界中，开发者们经常与各种异常打交道，其中OOM（OutOfMemoryError）异常尤为引人关注。 OOM异常是导致JVM报错以及出现异常的常见原因之一，了解 
+    </details> 
+
+- 🎡 [项目中如何优雅的使用枚举](https://juejin.cn/post/7342339440553541695) | Mon Mar 04 2024 12:42 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文主要介绍了项目中使用枚举的优缺点，并针对缺点给出了解决方案，解决了枚举在项目中全自动转换，避免了频繁转换的问题 
+    </details> 
+
+- 🕯 [使用Android Native Hook技术解决VLC播放器闪退的问题](https://juejin.cn/post/7342330487077634087) | Mon Mar 04 2024 12:33 PM 
+    <details><summary>展开描述 ...</summary> 
+    在做一个的需求时，发现调起Unity提供的3D播放器播放网络在线视频时闪退了，最后定位到是VLC里面用到的系统日志打印函数在部分的系统上会出问题，本文介绍使用native hook技术解决这个问题 
+    </details> 
+
+- 🚀 [利用Spring Boot实现MySQL 8.0和MyBatis-Plus的JSON查询](https://juejin.cn/post/7342327642853343232) | Mon Mar 04 2024 12:31 PM 
     <details><summary>展开描述 ...</summary> 
     介绍 在现代的Web开发中，处理JSON数据已经变得无处不在，而在关系型数据库中高效地查询JSON结构变得愈发重要。MySQL 8.0结合MyBatis-Plus和Spring Boot，为管理和查询 
     </details> 
 
-- 🎡 [记一次安卓APP启动耗时原因排查与优化过程](https://juejin.cn/post/7342323580787605538) | Mon Mar 04 2024 12:20 PM 
+- 💪 [记一次安卓APP启动耗时原因排查与优化过程](https://juejin.cn/post/7342323580787605538) | Mon Mar 04 2024 12:20 PM 
     <details><summary>展开描述 ...</summary> 
     本文主要记录在排查一次冷启动耗时异常时的过程和解决方案，并且成功将原本的冷启动耗时 20s 左右优化到 2s 左右。 
-    </details> 
-
-- 🕯 [学习应用一下不常用的element-plus抛出的指令](https://juejin.cn/post/7342140095788056613) | Mon Mar 04 2024 11:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    学习应用一下element-plus抛出的指令 click-outside 效果图 作用 这个指令的主要目的是监听页面上的点击事件，并判断点击是否发生在指定元素之外。如果是，那么执行一些操作，如关闭弹 
-    </details> 
-
-- 🚀 [前端框架对比系列之react和vue搭建](https://juejin.cn/post/7342360674150481946) | Mon Mar 04 2024 11:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文是前端框架对比系列之框架搭建，将通过介绍并对比react、vue2、vue3框架的搭建流程，了解并掌握完整的项目初始化流程, 
-    </details> 
-
-- 💪 [React Fiber](https://juejin.cn/post/7342339440553427007) | Mon Mar 04 2024 11:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    React Fiber 是 React 16 中引入的新的协调引擎或重写的核心算法。目的是增强 React 应用程序的性能和响应性，特别是在动画、布局和手势等交互密集型任务中。Fiber 的核心设计理 
     </details> 
 <!-- juejin:END -->
 ### 少数派
