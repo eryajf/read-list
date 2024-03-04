@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [FreeBuf 早报 | Epic否认其遭黑客入侵“损失189GB数据”；美国禁止向中国跨境传输数据](https://www.freebuf.com/news/393102.html) | Fri Mar 01 2024 8:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    美国政府决意切断某些敏感数据向中国和其他几个同样被美国视为“外国敌手”的国家的跨境传输。 
+    </details> 
+
 - 🦄 [自动驾驶功能宕机，竟是因为2月有29天？](https://www.freebuf.com/news/393097.html) | Fri Mar 01 2024 8:05 AM 
     <details><summary>展开描述 ...</summary> 
     禾赛科技激光雷达因没处理闰年时间戳，导致固件bug，致使凡是用了禾赛激光雷达的车，自动驾驶功能全部“歇菜”。 
     </details> 
 
-- 🦄 [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/393094.html) | Fri Mar 01 2024 7:43 AM 
+- 🦅 [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/393094.html) | Fri Mar 01 2024 7:43 AM 
     <details><summary>展开描述 ...</summary> 
     文章精选了本周知识大陆公开发布的10条优质资源，让我们一起看看吧。 
     </details> 
 
-- 🦅 [综述：模糊测试的艺术、科学和工程（下）](https://www.freebuf.com/articles/network/393047.html) | Fri Mar 01 2024 5:45 AM 
+- 🪄 [综述：模糊测试的艺术、科学和工程（下）](https://www.freebuf.com/articles/network/393047.html) | Fri Mar 01 2024 5:45 AM 
     <details><summary>展开描述 ...</summary> 
     本篇文章将重点介绍测试用例的生成策略、测试与评估方法、测试过程中的分流策略，以及反馈迭代机制，带领大家深入了解更多关于模糊测试的内容。 
     </details> 
 
-- 🪄 [Brave 浏览器 AI 助手“Leo”安卓版本即将上线，主打隐私安全！](https://www.freebuf.com/news/393021.html) | Fri Mar 01 2024 3:16 AM 
+- 💻 [Brave 浏览器 AI 助手“Leo”安卓版本即将上线，主打隐私安全！](https://www.freebuf.com/news/393021.html) | Fri Mar 01 2024 3:16 AM 
     <details><summary>展开描述 ...</summary> 
     该人工助手使用了多个先进的大型语言模型（LLM），如 Mixtral 8x7B、Claude Instant 和 Llama 2 13B。 
-    </details> 
-
-- 💻 [人工智能图像编辑工具遭网络攻击，2000 万用户数据信息泄露](https://www.freebuf.com/news/393017.html) | Fri Mar 01 2024 3:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    所有 Cutout.Pro 用户都应警惕有针对性的网络钓鱼诈骗。   
     </details> 
 <!-- freebuf:END -->
 
