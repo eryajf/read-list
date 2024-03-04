@@ -301,7 +301,7 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [FreeBuf 早报 | Epic否认其遭黑客入侵“损失189GB数据”；美国禁止向中国跨境传输数据](https://www.freebuf.com/news/393102.html) | Fri Mar 01 2024 8:45 AM 
+- 🦄 [FreeBuf 早报 | Epic否认“损失189GB数据”；美国禁止向中国跨境传输数据](https://www.freebuf.com/news/393102.html) | Fri Mar 01 2024 8:45 AM 
     <details><summary>展开描述 ...</summary> 
     美国政府决意切断某些敏感数据向中国和其他几个同样被美国视为“外国敌手”的国家的跨境传输。 
     </details> 
