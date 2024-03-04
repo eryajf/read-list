@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [使用AspectJ进行面向切面编程（AOP）](https://juejin.cn/post/7342335589742444595) | Mon Mar 04 2024 2:57 PM 
+- 🤗 [Nest： 掌握异常过滤器的艺术](https://juejin.cn/post/7342349357385564186) | Mon Mar 04 2024 4:16 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文全面介绍了在 Nest.js 中如何创建和使用异常过滤器。首先，展示了如何创建一个 Nest.js 项目并启动它，然后通过示例说明了如何在控制器中抛出 HttpException 错误。 
+    </details> 
+
+- 🎡 [Nodejs 第五十章（lua的基本使用）](https://juejin.cn/post/7342315772302655503) | Mon Mar 04 2024 3:50 PM 
+    <details><summary>展开描述 ...</summary> 
+    lua基本使用 全局变量局部变量 全局变量是在全局作用域中定义的变量，可以在脚本的任何地方访问。 全局变量在定义时不需要使用关键字，直接赋值即可。 局部变量是在特定作用域内定义的变量，只能在其所属的作 
+    </details> 
+
+- 🕯 [vue3+ts实现一个简单的音乐组件，包括播放、暂停、切换歌曲](https://juejin.cn/post/7342335589742542899) | Mon Mar 04 2024 3:16 PM 
+    <details><summary>展开描述 ...</summary> 
+    这个组件包含了一个音频标签和三个按钮，分别用于播放、暂停和切换歌曲。在setup函数中定义了当前播放的歌曲、播放、暂停和切换歌曲的方法。 最后，在App.vue中使用这个音乐播放器组件： 
+    </details> 
+
+- 🚀 [使用AspectJ进行面向切面编程（AOP）](https://juejin.cn/post/7342335589742444595) | Mon Mar 04 2024 2:57 PM 
     <details><summary>展开描述 ...</summary> 
     业务开发中，咱们经常会遇到这样的情况：有些代码几乎在每个方法里都要用到，比如日志记录、权限校验、或者性能监测。如果每次都手动加入这些代码，不仅效率低下，而且一旦需要修改 
     </details> 
 
-- 🎡 [uniapp实现进度条组件](https://juejin.cn/post/7342335589742428211) | Mon Mar 04 2024 2:47 PM 
+- 💪 [uniapp实现进度条组件](https://juejin.cn/post/7342335589742428211) | Mon Mar 04 2024 2:47 PM 
     <details><summary>展开描述 ...</summary> 
     首先，在uniapp项目中创建一个自定义组件，可以命名为Progress.vue。 在Progress.vue中，编写如下代码： 在需要使用进度条的页面中，引入Progress组件，并传入后端返回的进 
-    </details> 
-
-- 🕯 [apisix实现http流量灰度方案的演进](https://juejin.cn/post/7342330487077978151) | Mon Mar 04 2024 2:46 PM 
-    <details><summary>展开描述 ...</summary> 
-    背景 想要实现http流量灰度的核心还是看你用什么网关，才能决定你用什么技术方案。 如果我们想用spring cloud gateway那一套，那么我们就需要自己去开发一些路由规则。 本次我们讨论的是 
-    </details> 
-
-- 🚀 [带使能控制的锂电池充放电解决方案](https://juejin.cn/post/7342323580788015138) | Mon Mar 04 2024 2:41 PM 
-    <details><summary>展开描述 ...</summary> 
-    一、产品概述 TP4594R 是一款集成线性充电管理、同步升压转换、电池电量指示和多种保护功能的单芯片电源管理 SOC，为锂电池的充放电提供完整的单芯片电源解决方案。 TP4594R 内部集成了线性充 
-    </details> 
-
-- 💪 [前端食堂技术周刊第 114 期：Interop 2024、TS 5.4 RC、2 月登陆浏览器的新功能、JSR、AI SDK 3.0](https://juejin.cn/post/7342329071576498186) | Mon Mar 04 2024 2:32 PM 
-    <details><summary>展开描述 ...</summary> 
-    Interop 2024、TS 5.4 RC、2 月登陆浏览器的新功能、JSR、AI SDK 3.0 
     </details> 
 <!-- juejin:END -->
 ### 少数派
