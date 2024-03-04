@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [如何使用HTML和CSS实现一个毛玻璃效果](https://juejin.cn/post/7342319793155555343) | Mon Mar 04 2024 9:56 AM 
+- 🤗 [学习应用一下不常用的element-plus抛出的指令](https://juejin.cn/post/7342140095788056613) | Mon Mar 04 2024 11:56 AM 
     <details><summary>展开描述 ...</summary> 
-    认识毛玻璃效果 毛玻璃效果（Glassmorphism）是一个非常流行的视觉设计，你应该在一些移动APP或PC网站上看到过毛玻璃效果。它的主要特征就是半透明的背景，以及阴影和边框，同时还要为背景加上模 
+    学习应用一下element-plus抛出的指令 click-outside 效果图 作用 这个指令的主要目的是监听页面上的点击事件，并判断点击是否发生在指定元素之外。如果是，那么执行一些操作，如关闭弹 
     </details> 
 
-- 🎡 [微信小程序app.js的onLaunch执行完之后再执行Page的onLoad &amp; 小程序onLaunch和onLoad执行顺序](https://juejin.cn/post/7342332602575110195) | Mon Mar 04 2024 9:52 AM 
+- 🎡 [前端框架对比系列之react和vue搭建](https://juejin.cn/post/7342360674150481946) | Mon Mar 04 2024 11:50 AM 
     <details><summary>展开描述 ...</summary> 
-    微信小程序app.js的onLaunch执行完之后再执行Page的onLoad &amp; 小程序onLaunch和onLoad执行顺序 
+    本文是前端框架对比系列之框架搭建，将通过介绍并对比react、vue2、vue3框架的搭建流程，了解并掌握完整的项目初始化流程, 
     </details> 
 
-- 🕯 [爆火的OpenAI-Sora运作原理](https://juejin.cn/post/7342327642852884480) | Mon Mar 04 2024 9:49 AM 
+- 🕯 [React Fiber](https://juejin.cn/post/7342339440553427007) | Mon Mar 04 2024 11:45 AM 
     <details><summary>展开描述 ...</summary> 
-    让我们总结一下 OpenAI 分享的内容，看看这个模型实际上是如何运作的。 OpenAI 团队推出了 Sora，这是一种大规模视频生成模型，它展示了模拟物理世界基本方面的新功能。从GTP-4更加智能后 
+    React Fiber 是 React 16 中引入的新的协调引擎或重写的核心算法。目的是增强 React 应用程序的性能和响应性，特别是在动画、布局和手势等交互密集型任务中。Fiber 的核心设计理 
     </details> 
 
-- 🚀 [友盟+Hologres：千亿级多维分析平台建设实践](https://juejin.cn/post/7342152364015140901) | Mon Mar 04 2024 9:45 AM 
+- 🚀 [React 18](https://juejin.cn/post/7342100145256710183) | Mon Mar 04 2024 11:30 AM 
     <details><summary>展开描述 ...</summary> 
-    Hologres 在友盟+统计分析、营销等多个产品线使用，很好地满足了用户行为分析、人群圈选与洞察场景的多维度分析、灵活下钻、快速人群预估和圈选等分析需求，提供客户更流畅的数据查询和分析体验。 
+    背景 React 自从 2013 年首次发布以来，已经经历了 11 年历史，也经历了几个关键版本，2017 年，16.0 引入新的核心架构 Fiber，支持了异步渲染；2019 年，16.8 引入了  
     </details> 
 
-- 💪 [记一次面试](https://juejin.cn/post/7342100145256431655) | Mon Mar 04 2024 9:44 AM 
+- 💪 [Android应用架构的未来：深入理解MVI模式及其优势](https://juejin.cn/post/7342140095788007461) | Mon Mar 04 2024 11:18 AM 
     <details><summary>展开描述 ...</summary> 
-    vue 和 react 的区别是什么？ 先说相同点 都是使用虚拟DOM，组件化开发，通过props传参进行父子组件数据通信 都是数据驱动视图 都有状态管理工具（redux, vuex） 不同点 rea 
+    MVI（Model-View-Intent）是一种基于响应式编程理念的架构模式。它能够帮助开发者更好地管理应用的状态和逻辑，并提升代码的可维护性和可测试性。在本文中，我们将深入了解MVI的原理、具体的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
