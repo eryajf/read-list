@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Rust! 无VDom! 尤雨溪解析 Vue.js 2024 新特性](https://juejin.cn/post/7342384485696520246) | Mon Mar 04 2024 1:49 PM 
+- 🤗 [使用AspectJ进行面向切面编程（AOP）](https://juejin.cn/post/7342335589742444595) | Mon Mar 04 2024 2:57 PM 
     <details><summary>展开描述 ...</summary> 
-    在 VueJS Amsterdam 2004 大会首日，Vue 创始人 Evan You 进行了开场主旨演讲，Rust！无虚拟 DOM！看看他都说了什么？ 
+    业务开发中，咱们经常会遇到这样的情况：有些代码几乎在每个方法里都要用到，比如日志记录、权限校验、或者性能监测。如果每次都手动加入这些代码，不仅效率低下，而且一旦需要修改 
     </details> 
 
-- 🎡 [通过调用栈快速探究 Compose 中 touch 事件的处理原理](https://juejin.cn/post/7342335589742313523) | Mon Mar 04 2024 1:37 PM 
+- 🎡 [uniapp实现进度条组件](https://juejin.cn/post/7342335589742428211) | Mon Mar 04 2024 2:47 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 Compose 视图的处理方式和 Android 传统 View 有很大差别，针对 touch 事件的处理自然也截然不同。 如何在 Compose 中处理 touch 事件，官方已有非常详尽的说 
+    首先，在uniapp项目中创建一个自定义组件，可以命名为Progress.vue。 在Progress.vue中，编写如下代码： 在需要使用进度条的页面中，引入Progress组件，并传入后端返回的进 
     </details> 
 
-- 🕯 [深入剖析JVM的OOM | 内存溢出如何影响JVM运行及应对策略](https://juejin.cn/post/7342384485696274486) | Mon Mar 04 2024 12:57 PM 
+- 🕯 [apisix实现http流量灰度方案的演进](https://juejin.cn/post/7342330487077978151) | Mon Mar 04 2024 2:46 PM 
     <details><summary>展开描述 ...</summary> 
-    OOM与JVM的关系 在Java开发的世界中，开发者们经常与各种异常打交道，其中OOM（OutOfMemoryError）异常尤为引人关注。 OOM异常是导致JVM报错以及出现异常的常见原因之一，了解 
+    背景 想要实现http流量灰度的核心还是看你用什么网关，才能决定你用什么技术方案。 如果我们想用spring cloud gateway那一套，那么我们就需要自己去开发一些路由规则。 本次我们讨论的是 
     </details> 
 
-- 🚀 [项目中如何优雅的使用枚举](https://juejin.cn/post/7342339440553541695) | Mon Mar 04 2024 12:42 PM 
+- 🚀 [带使能控制的锂电池充放电解决方案](https://juejin.cn/post/7342323580788015138) | Mon Mar 04 2024 2:41 PM 
     <details><summary>展开描述 ...</summary> 
-    本文主要介绍了项目中使用枚举的优缺点，并针对缺点给出了解决方案，解决了枚举在项目中全自动转换，避免了频繁转换的问题 
+    一、产品概述 TP4594R 是一款集成线性充电管理、同步升压转换、电池电量指示和多种保护功能的单芯片电源管理 SOC，为锂电池的充放电提供完整的单芯片电源解决方案。 TP4594R 内部集成了线性充 
     </details> 
 
-- 💪 [使用Android Native Hook技术解决VLC播放器闪退的问题](https://juejin.cn/post/7342330487077634087) | Mon Mar 04 2024 12:33 PM 
+- 💪 [前端食堂技术周刊第 114 期：Interop 2024、TS 5.4 RC、2 月登陆浏览器的新功能、JSR、AI SDK 3.0](https://juejin.cn/post/7342329071576498186) | Mon Mar 04 2024 2:32 PM 
     <details><summary>展开描述 ...</summary> 
-    在做一个的需求时，发现调起Unity提供的3D播放器播放网络在线视频时闪退了，最后定位到是VLC里面用到的系统日志打印函数在部分的系统上会出问题，本文介绍使用native hook技术解决这个问题 
+    Interop 2024、TS 5.4 RC、2 月登陆浏览器的新功能、JSR、AI SDK 3.0 
     </details> 
 <!-- juejin:END -->
 ### 少数派
