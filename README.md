@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [隐蔽的 GTPDOOR Linux 恶意软件正将目标锁定移动运营商](https://www.freebuf.com/news/393175.html) | Mon Mar 04 2024 2:47 AM 
+- 🦄 [美国法院命令NSO集团将其间谍软件代码交给WhatsApp](https://www.freebuf.com/news/393207.html) | Mon Mar 04 2024 5:40 AM 
+    <details><summary>展开描述 ...</summary> 
+    另外，法院还要求NSO集团向WhatsApp演示这些间谍软件的工作原理，并提供完整功能的详细解读。 
+    </details> 
+
+- 🦄 [FBI称美国今年将面临复杂多变的选举威胁](https://www.freebuf.com/news/393194.html) | Mon Mar 04 2024 3:36 AM 
+    <details><summary>展开描述 ...</summary> 
+    美国联邦调查局（FBI）局长克里斯托弗·雷2月29日表示，由于人工智能和其他技术的进步，美国预计今年的选举将面临复杂多变的威胁。 
+    </details> 
+
+- 🦅 [隐蔽的 GTPDOOR Linux 恶意软件正将目标锁定移动运营商](https://www.freebuf.com/news/393175.html) | Mon Mar 04 2024 2:47 AM 
     <details><summary>展开描述 ...</summary> 
     GTPDOOR 背后的威胁分子会攻击与 GPRS 漫游交换（GRX）相邻的系统，如 SGSN、GGSN 和 P-GW。 
     </details> 
 
-- 🦄 [FreeBuf 早报 | Epic否认“损失189GB数据”；美国禁止向中国跨境传输数据](https://www.freebuf.com/news/393102.html) | Fri Mar 01 2024 8:45 AM 
+- 🪄 [金融类IOS APP端渗透测试实战分享](https://www.freebuf.com/articles/mobile/393147.html) | Sat Mar 02 2024 3:00 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文将以作者对金融类iOS App的一次渗透测试实践为基础，分享一些iOS App安全测试的方法和经验。 
+    </details> 
+
+- 💻 [FreeBuf 早报 | Epic否认“损失189GB数据”；美国禁止向中国跨境传输数据](https://www.freebuf.com/news/393102.html) | Fri Mar 01 2024 8:45 AM 
     <details><summary>展开描述 ...</summary> 
     美国政府决意切断某些敏感数据向中国和其他几个同样被美国视为“外国敌手”的国家的跨境传输。 
-    </details> 
-
-- 🦅 [自动驾驶功能宕机，竟是因为2月有29天？](https://www.freebuf.com/news/393097.html) | Fri Mar 01 2024 8:05 AM 
-    <details><summary>展开描述 ...</summary> 
-    禾赛科技激光雷达因没处理闰年时间戳，导致固件bug，致使凡是用了禾赛激光雷达的车，自动驾驶功能全部“歇菜”。 
-    </details> 
-
-- 🪄 [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/393094.html) | Fri Mar 01 2024 7:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    文章精选了本周知识大陆公开发布的10条优质资源，让我们一起看看吧。 
-    </details> 
-
-- 💻 [综述：模糊测试的艺术、科学和工程（下）](https://www.freebuf.com/articles/network/393047.html) | Fri Mar 01 2024 5:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    本篇文章将重点介绍测试用例的生成策略、测试与评估方法、测试过程中的分流策略，以及反馈迭代机制，带领大家深入了解更多关于模糊测试的内容。 
     </details> 
 <!-- freebuf:END -->
 
