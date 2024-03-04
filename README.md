@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [深入剖析JVM的OOM | 内存溢出如何影响JVM运行及应对策略](https://juejin.cn/post/7342384485696274486) | Mon Mar 04 2024 12:57 PM 
+- 🤗 [Rust! 无VDom! 尤雨溪解析 Vue.js 2024 新特性](https://juejin.cn/post/7342384485696520246) | Mon Mar 04 2024 1:49 PM 
+    <details><summary>展开描述 ...</summary> 
+    在 VueJS Amsterdam 2004 大会首日，Vue 创始人 Evan You 进行了开场主旨演讲，Rust！无虚拟 DOM！看看他都说了什么？ 
+    </details> 
+
+- 🎡 [通过调用栈快速探究 Compose 中 touch 事件的处理原理](https://juejin.cn/post/7342335589742313523) | Mon Mar 04 2024 1:37 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 Compose 视图的处理方式和 Android 传统 View 有很大差别，针对 touch 事件的处理自然也截然不同。 如何在 Compose 中处理 touch 事件，官方已有非常详尽的说 
+    </details> 
+
+- 🕯 [深入剖析JVM的OOM | 内存溢出如何影响JVM运行及应对策略](https://juejin.cn/post/7342384485696274486) | Mon Mar 04 2024 12:57 PM 
     <details><summary>展开描述 ...</summary> 
     OOM与JVM的关系 在Java开发的世界中，开发者们经常与各种异常打交道，其中OOM（OutOfMemoryError）异常尤为引人关注。 OOM异常是导致JVM报错以及出现异常的常见原因之一，了解 
     </details> 
 
-- 🎡 [项目中如何优雅的使用枚举](https://juejin.cn/post/7342339440553541695) | Mon Mar 04 2024 12:42 PM 
+- 🚀 [项目中如何优雅的使用枚举](https://juejin.cn/post/7342339440553541695) | Mon Mar 04 2024 12:42 PM 
     <details><summary>展开描述 ...</summary> 
     本文主要介绍了项目中使用枚举的优缺点，并针对缺点给出了解决方案，解决了枚举在项目中全自动转换，避免了频繁转换的问题 
     </details> 
 
-- 🕯 [使用Android Native Hook技术解决VLC播放器闪退的问题](https://juejin.cn/post/7342330487077634087) | Mon Mar 04 2024 12:33 PM 
+- 💪 [使用Android Native Hook技术解决VLC播放器闪退的问题](https://juejin.cn/post/7342330487077634087) | Mon Mar 04 2024 12:33 PM 
     <details><summary>展开描述 ...</summary> 
     在做一个的需求时，发现调起Unity提供的3D播放器播放网络在线视频时闪退了，最后定位到是VLC里面用到的系统日志打印函数在部分的系统上会出问题，本文介绍使用native hook技术解决这个问题 
-    </details> 
-
-- 🚀 [利用Spring Boot实现MySQL 8.0和MyBatis-Plus的JSON查询](https://juejin.cn/post/7342327642853343232) | Mon Mar 04 2024 12:31 PM 
-    <details><summary>展开描述 ...</summary> 
-    介绍 在现代的Web开发中，处理JSON数据已经变得无处不在，而在关系型数据库中高效地查询JSON结构变得愈发重要。MySQL 8.0结合MyBatis-Plus和Spring Boot，为管理和查询 
-    </details> 
-
-- 💪 [记一次安卓APP启动耗时原因排查与优化过程](https://juejin.cn/post/7342323580787605538) | Mon Mar 04 2024 12:20 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文主要记录在排查一次冷启动耗时异常时的过程和解决方案，并且成功将原本的冷启动耗时 20s 左右优化到 2s 左右。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
