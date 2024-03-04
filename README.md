@@ -709,13 +709,13 @@
      本地模型 AI 识别记录病历  
     </details> 
 
-- 🦅 [WisdomPlan - 以您的方式掌握任何技能](https://xinquji.com/posts/809491?utm_campaign=xinquji-rss) | Sun Mar 03 2024 6:00 AM 
+- 🦅 [UiWidgets - 以闪电般的速度开发登陆页面和 SaaS](https://xinquji.com/posts/809512?utm_campaign=xinquji-rss) | Mon Mar 04 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     以您的方式掌握任何技能  
+     以闪电般的速度开发登陆页面和 SaaS  
     </details> 
 
-- 😺 [Student AI - 通过人工智能解锁学术卓越：聪明学习，快速超越](https://xinquji.com/posts/809490?utm_campaign=xinquji-rss) | Sun Mar 03 2024 6:00 AM 
+- 😺 [Musicboard - 音乐爱好者的社交网络](https://xinquji.com/posts/809511?utm_campaign=xinquji-rss) | Mon Mar 04 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     通过人工智能解锁学术卓越：聪明学习，快速超越  
+     音乐爱好者的社交网络  
     </details> 
 <!-- xinquji:END -->
