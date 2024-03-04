@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请问一下，不在菜单树上的菜单如何控制权限](https://www.v2ex.com/t/1020553#reply7) | Mon Mar 04 2024 11:30 AM
-- 🤗 [技术+创业+接单](https://www.v2ex.com/t/1020546#reply1) | Mon Mar 04 2024 10:55 AM
-- 🎭 [请教一个 sqlserver 还原的问题](https://www.v2ex.com/t/1020534#reply0) | Mon Mar 04 2024 10:16 AM
-- 🥷 [有关数据展示，如何创作精美图表](https://www.v2ex.com/t/1020533#reply0) | Mon Mar 04 2024 10:09 AM
-- 🐵 [薪资谈判技巧 | 百战百胜 - https://www.besthub.tech/](https://www.v2ex.com/t/1020531#reply3) | Mon Mar 04 2024 10:04 AM<!-- v2ex:END -->
+- 🥸 [chatgpt 有没有好用的整理 doc 的插件啊？](https://www.v2ex.com/t/1020566#reply0) | Mon Mar 04 2024 12:29 PM
+- 🤗 [站内有小伙伴开通了 RCS 么](https://www.v2ex.com/t/1020562#reply0) | Mon Mar 04 2024 12:14 PM
+- 🎭 [请问一下，不在菜单树上的菜单如何控制权限](https://www.v2ex.com/t/1020553#reply8) | Mon Mar 04 2024 11:30 AM
+- 🥷 [技术+创业+接单](https://www.v2ex.com/t/1020546#reply1) | Mon Mar 04 2024 10:55 AM
+- 🐵 [请教一个 sqlserver 还原的问题](https://www.v2ex.com/t/1020534#reply0) | Mon Mar 04 2024 10:16 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
