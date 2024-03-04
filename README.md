@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Go中内存泄漏常见Case](https://juejin.cn/entry/7341983885726629927) | Mon Mar 04 2024 2:51 AM 
+- 🤗 [Rust 中如何解析 JSON?](https://juejin.cn/post/7341970488728043557) | Mon Mar 04 2024 3:41 AM 
     <details><summary>展开描述 ...</summary> 
-    Go虽然是自动GC类型的语言，但在编码过程中如果不注意，很容易造成内存泄漏的问题。比较常见的是发生在 slice、time.Ticker、goroutine 等的使用过程中，这里结合我们日常中经常遇到 
+    Rust 中如何解析 JSON? 在本文中，我们将讨论如何在 Rust 中使用 JSON 解析库，以及比较最流行的库及其性能。 JSON 解析基础知识 手动解析 JSON 要开始在 Rust 中使用  
     </details> 
 
-- 🎡 [探索Terraform实践：优化基础设施管理](https://juejin.cn/post/7341783797330247714) | Mon Mar 04 2024 2:50 AM 
+- 🎡 [✅被百度追着项目问，上亿数据，限制1G内存，如何去重？](https://juejin.cn/post/7341970488727928869) | Mon Mar 04 2024 3:29 AM 
     <details><summary>展开描述 ...</summary> 
-    在本文中，我们将揭示Terraform的一些高效实践，从模块化组织到灵活变量、远程状态管理和函数简化，让您能够以更快、更可靠的方式构建和管理基础设施。 
+    有许多方法可以用来去重，比如使用列表、集合等等，但这些方法通常只适用于一般情况。然而，当涉及到大量数据去重时，常见的 Java Set、List，甚至是 Java 8 的新特性 Stream 流等方式 
     </details> 
 
-- 🕯 [富文本editor](https://juejin.cn/post/7341983885726580775) | Mon Mar 04 2024 2:47 AM 
+- 🕯 [React基础 第十九章（State状态保留与重置）](https://juejin.cn/post/7341674942893817856) | Mon Mar 04 2024 3:03 AM 
     <details><summary>展开描述 ...</summary> 
-    1、50行代码撸一个简易编辑器 现有的富文本编辑器，底层是基于 contenteditable+document.execCommand，使用API可参考mdn文档： contenteditable可 
+    在React应用开发中，理解何时以及如何保留或重置组件的状态是至关重要的。 理解React的状态保留机制 在React中，组件的状态（state）是与组件实例紧密关联的。React通过组件在UI树中的 
     </details> 
 
-- 🚀 [React基础 第十八章（在组件间共享状态）](https://juejin.cn/post/7341805821527506963) | Mon Mar 04 2024 2:43 AM 
+- 🚀 [众安保险 CDP 平台：借助 Apache Doris 打破数据孤岛，人群圈选提速4倍](https://juejin.cn/post/7341988252546514971) | Mon Mar 04 2024 3:00 AM 
     <details><summary>展开描述 ...</summary> 
-    在React应用开发中，组件间状态共享是一个常见的需求。本文将根据React官方文档的指导，详细介绍如何在组件间共享状态，包括状态提升的步骤、受控与非受控组件的概念，以及相关的开发技巧和注意事项。 状 
+    众安在线财产保险股份有限公司是中国首家互联网保险公司，由蚂蚁金服、中国平安和腾讯于 2013 年联合发起设立。众安专注于应用新技术重塑保险价值链，围绕健康、数字生活、消费金融、汽车四大生态，以科技服务 
     </details> 
 
-- 💪 [春招开始，面试也多起来了](https://juejin.cn/post/7341805821527474195) | Mon Mar 04 2024 2:38 AM 
+- 💪 [开源.NET8.0小项目伪微服务框架（分布式、EFCore、Redis、RabbitMQ、Mysql等）](https://juejin.cn/post/7342038143162073124) | Mon Mar 04 2024 2:45 AM 
     <details><summary>展开描述 ...</summary> 
-    最近朋友们反馈，笔试和面试都多起来了，下午投的简历，没一会的功夫就收到笔试邀请了，比如金山： 还塞力斯： 其他的还有华为 OD 也开始做笔试了，招银网络最近也开始约面试了，所以春招的氛围慢慢来了，还没 
+    经过大概三个月的学习和沉淀，我将.NET8.0的学习和使用，整理成了一个简单的微服务项目，目前还在初级阶段，后续会进行持续的更新和优化。同时也会将项目中的一些问题和解决方案进行整理和分享。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
