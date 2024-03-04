@@ -332,7 +332,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [国外论坛](https://www.v2ex.com/t/1020619#reply5) | Mon Mar 04 2024 8:47 PM
+- 🥸 [国外论坛](https://www.v2ex.com/t/1020619#reply6) | Mon Mar 04 2024 8:47 PM
 - 🤗 [有没有同时支持 atx 主板和 atx 电源的机箱推荐呀？](https://www.v2ex.com/t/1020617#reply5) | Mon Mar 04 2024 6:18 PM
 - 🎭 [MySQL 问题求助](https://www.v2ex.com/t/1020612#reply5) | Mon Mar 04 2024 4:28 PM
 - 🥷 [chrome 在远程连接后出现卡顿情况](https://www.v2ex.com/t/1020601#reply1) | Mon Mar 04 2024 2:53 PM
