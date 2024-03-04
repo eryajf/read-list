@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [Shopify 插件开发从 0 到暴富 , 我的思路就是产品捆绑销售的插件（开发阶段）](https://www.v2ex.com/t/1020407#reply1) | Mon Mar 04 2024 4:19 AM
-- 🤗 [为什么不同语言对 99.1*1.05 的四舍五入结果不一样](https://www.v2ex.com/t/1020406#reply3) | Mon Mar 04 2024 4:12 AM
-- 🎭 [🐒 WuKongIM - Go 多场景即时通讯 1.2.1 发布](https://www.v2ex.com/t/1020402#reply0) | Mon Mar 04 2024 4:08 AM
-- 🥷 [我开源正在卖的软件，应该用什么协议好？](https://www.v2ex.com/t/1020400#reply6) | Mon Mar 04 2024 4:07 AM
-- 🐵 [请问如何在一台 Linux 上加载另一台 Linux](https://www.v2ex.com/t/1020395#reply9) | Mon Mar 04 2024 3:46 AM<!-- v2ex:END -->
+- 🥸 [「送码」chatgpt 国内免翻版本，不是 api 套壳！](https://www.v2ex.com/t/1020417#reply1) | Mon Mar 04 2024 5:03 AM
+- 🤗 [（K8s 教程系列）新增文章： K8s 实战指导](https://www.v2ex.com/t/1020413#reply0) | Mon Mar 04 2024 4:49 AM
+- 🎭 [Shopify 插件开发从 0 到暴富 , 我的思路就是产品捆绑销售的插件（开发阶段）](https://www.v2ex.com/t/1020407#reply1) | Mon Mar 04 2024 4:19 AM
+- 🥷 [为什么不同语言对 99.1*1.05 的四舍五入结果不一样](https://www.v2ex.com/t/1020406#reply17) | Mon Mar 04 2024 4:12 AM
+- 🐵 [🐒 WuKongIM - Go 多场景即时通讯 1.2.1 发布](https://www.v2ex.com/t/1020402#reply0) | Mon Mar 04 2024 4:08 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
