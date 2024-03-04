@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：马斯克起诉 OpenAI](https://sspai.com/post/86873) | Mon Mar 04 2024 12:56 AM 
+- 👹 [年度征文 | 平衡的幻觉：为什么我们总是追求不到完美的平衡？](https://sspai.com/post/86444) | Mon Mar 04 2024 3:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    平衡不是一个终点，而是一个起点，它是我们生活的一部分，让我们一起，用平衡的心，去创造属于自己的生活。&lt;a href=&quot;https://sspai.com/post/86444&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派早报：马斯克起诉 OpenAI](https://sspai.com/post/86873) | Mon Mar 04 2024 12:56 AM 
     <details><summary>展开描述 ...</summary> 
     你可能错过的新鲜事马斯克起诉OpenAI2月29日，马斯克在旧金山提起诉讼，指控OpenAI及其联合创始人SamAltman、GregBrockman将利润置于人类利益之上，违反了OpenAI成立之初 ...&lt;a href=&quot;https://sspai.com/post/86873&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [欧盟或将开出巨额罚单：Spotify 诉 Apple 不正当竞争案即将宣判](https://sspai.com/post/86850) | Sun Mar 03 2024 7:44 AM 
+- 🤭 [欧盟或将开出巨额罚单：Spotify 诉 Apple 不正当竞争案即将宣判](https://sspai.com/post/86850) | Sun Mar 03 2024 7:44 AM 
     <details><summary>展开描述 ...</summary> 
     近日，英国《金融时报》发布报道称，欧盟委员会可能会在3月初针对Apple涉嫌违反相关流媒体音乐服务访问的法律规定一案，对其处以高达5亿欧元的罚款。此项举措或将成为音乐流媒体服务提供商Spotify于2 ...&lt;a href=&quot;https://sspai.com/post/86850&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [为家庭清洁增添一份愉悦感：追觅 H30 Ultra 洗地机使用体验](https://sspai.com/post/86636) | Sat Mar 02 2024 2:36 AM 
+- 🥸 [为家庭清洁增添一份愉悦感：追觅 H30 Ultra 洗地机使用体验](https://sspai.com/post/86636) | Sat Mar 02 2024 2:36 AM 
     <details><summary>展开描述 ...</summary> 
     如果你有意购买洗地机却仍在观望，那确实可以在 2024 年找个合适的大促节点入手一部了。&lt;a href=&quot;https://sspai.com/post/86636&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [本周看什么 | 最近值得一看的一大井作品](https://sspai.com/post/86816) | Fri Mar 01 2024 10:04 AM 
+- 🙉 [本周看什么 | 最近值得一看的一大井作品](https://sspai.com/post/86816) | Fri Mar 01 2024 10:04 AM 
     <details><summary>展开描述 ...</summary> 
     ☕️TL;DR近期佳作推荐：[电影]周处除三害、[电影]首尔之春、[电影]利益区域、[电影]那夜我们行向彼方、[电影]658公里、阳子的旅途、[美剧]良医第七季/最终季、[日剧]想做饭的女人和想吃饭的 ...&lt;a href=&quot;https://sspai.com/post/86816&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [年度征文 | 如何维护职场权益：我的「尝试」与实战经验分享](https://sspai.com/post/86776) | Fri Mar 01 2024 7:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    在劳资关系中，公司具有优势地位，而劳动者处于弱势的一方。尤其是面对老板、人事、法务组成的流氓团伙时，会更加被动、愤怒、迷茫、无助。希望大家在面对公司的恶意时可以更加从容，是我写下这些文字的初衷。&lt;a href=&quot;https://sspai.com/post/86776&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
