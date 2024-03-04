@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0304](http://jandan.net/p/115794) | Sun Mar 03 2024 11:07 PM 
+- 🚀 [今日好价 0305](http://jandan.net/p/115802) | Mon Mar 04 2024 11:07 PM 
     <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：43 
+    今日带货商品数量：60 
     </details> 
 
-- 🙉 [座头鲸是如何交配的？这次被人类拍到现行](http://jandan.net/p/115787) | Sun Mar 03 2024 11:05 PM 
+- 🙉 [顶尖癌研机构数据造假，引发科学界诚信危机](http://jandan.net/p/115800) | Mon Mar 04 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
-    令人惊讶的是，两只鲸鱼均为雄性 
+    业界数据操纵问题浮出水面  
     </details> 
 
-- 🎉 [掌握完美俯卧撑：新手入门指南](http://jandan.net/p/115791) | Sun Mar 03 2024 11:05 PM 
+- 🎉 [“AI将终结癌症”：这个说法同时误解了AI和医疗](http://jandan.net/p/115799) | Mon Mar 04 2024 11:04 PM 
     <details><summary>展开描述 ...</summary> 
-    俯卧撑的标准动作、常见错误及纠正方法 
+    过度吹捧AI的功效而忽视了医疗系统的现实问题 
     </details> 
 
-- 🐲 [“吾好梦中杀人”：梦游作为一种谋杀辩护](http://jandan.net/p/115789) | Sun Mar 03 2024 11:03 PM 
+- 🐲 [3D打印钛结构展现超强性能](http://jandan.net/p/115798) | Mon Mar 04 2024 11:03 PM 
     <details><summary>展开描述 ...</summary> 
-    梦游能成为免罪辩词吗？ 
+    其独特的网状结构设计使其性能卓越 
     </details> 
 
--  [圆形鼓猜想：困扰数学界70年的难题终于得到解答](http://jandan.net/p/115786) | Sun Mar 03 2024 11:01 PM 
+-  [欧洲假冒橄榄油泛滥，为鉴别真假启用核技术](http://jandan.net/p/115797) | Mon Mar 04 2024 11:02 PM 
     <details><summary>展开描述 ...</summary> 
-    数学家证明了圆盘的特征值满足Pólya猜想 
+    核技术助力打击橄榄油欺诈  
     </details> 
 <!-- jandan:END -->
 ### 新趣集
