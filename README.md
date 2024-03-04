@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Web3入门科普, 什么是密码学Cryptology, 写给想从零入门Web3的人](https://juejin.cn/post/7342406486910582810) | Mon Mar 04 2024 4:44 PM 
+- 🤗 [程序员的财富指南 第九章 （承担责任）](https://juejin.cn/post/7342386713581666356) | Mon Mar 04 2024 6:41 PM 
+    <details><summary>展开描述 ...</summary> 
+    在软件开发领域，我们经常听说要拥抱变化、敏捷开发和快速迭代。然而，一个关键组成部分常常被忽视，那就是个人责任和它对事业发展的影响。本文将探讨程序员如何勇于承担责任，利用杠杆效应，并在冒必要风险的同时获 
+    </details> 
+
+- 🎡 [Web3入门科普, 什么是密码学Cryptology, 写给想从零入门Web3的人](https://juejin.cn/post/7342406486910582810) | Mon Mar 04 2024 4:44 PM 
     <details><summary>展开描述 ...</summary> 
     MOVE 什么是密码学 —— About Cryptology —— 作者：潘勇旭 密码学是整个Sui区块链运行至关重要的一个组成部分，给整个区块链提供了时间和让整个DeFi能良好运行提供了安全、相互 
     </details> 
 
-- 🎡 [Nest：玩转最核心的 IOC、DI、MVC、AOP 概念](https://juejin.cn/post/7342360674151694362) | Mon Mar 04 2024 4:20 PM 
+- 🕯 [Nest：玩转最核心的 IOC、DI、MVC、AOP 概念](https://juejin.cn/post/7342360674151694362) | Mon Mar 04 2024 4:20 PM 
     <details><summary>展开描述 ...</summary> 
     本文详细阐述了在 Nest.js 中实现控制反转（IoC）和依赖注入（DI）的重要性和方法，还介绍了在 Nest.js 中如何使用装饰器来实现依赖注入和模块注册，以及 MVC 设计模式和 AOP 编程 
     </details> 
 
-- 🕯 [Nest： 掌握异常过滤器的艺术](https://juejin.cn/post/7342349357385564186) | Mon Mar 04 2024 4:16 PM 
+- 🚀 [Nest： 掌握异常过滤器的艺术](https://juejin.cn/post/7342349357385564186) | Mon Mar 04 2024 4:16 PM 
     <details><summary>展开描述 ...</summary> 
     本文全面介绍了在 Nest.js 中如何创建和使用异常过滤器。首先，展示了如何创建一个 Nest.js 项目并启动它，然后通过示例说明了如何在控制器中抛出 HttpException 错误。 
     </details> 
 
-- 🚀 [Nodejs 第五十章（lua的基本使用）](https://juejin.cn/post/7342315772302655503) | Mon Mar 04 2024 3:50 PM 
+- 💪 [Nodejs 第五十章（lua的基本使用）](https://juejin.cn/post/7342315772302655503) | Mon Mar 04 2024 3:50 PM 
     <details><summary>展开描述 ...</summary> 
     lua基本使用 全局变量局部变量 全局变量是在全局作用域中定义的变量，可以在脚本的任何地方访问。 全局变量在定义时不需要使用关键字，直接赋值即可。 局部变量是在特定作用域内定义的变量，只能在其所属的作 
-    </details> 
-
-- 💪 [vue3+ts实现一个简单的音乐组件，包括播放、暂停、切换歌曲](https://juejin.cn/post/7342335589742542899) | Mon Mar 04 2024 3:16 PM 
-    <details><summary>展开描述 ...</summary> 
-    这个组件包含了一个音频标签和三个按钮，分别用于播放、暂停和切换歌曲。在setup函数中定义了当前播放的歌曲、播放、暂停和切换歌曲的方法。 最后，在App.vue中使用这个音乐播放器组件： 
     </details> 
 <!-- juejin:END -->
 ### 少数派
