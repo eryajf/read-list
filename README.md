@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Disk Graph 3.0.2 磁盘分析工具](https://xclient.info/s/disk-graph.html) | Fri Mar 01 2024 6:21 AM 
+- 🦏 [System Toolkit 6.1.0 系统工具包](https://xclient.info/s/system-toolkit.html) | Mon Mar 04 2024 12:54 AM 
     <details><summary>展开描述 ...</summary> 
-    Disk Graph 是Mac os平台上的一款帮助用户检测自己的磁盘空间的Mac工具，可以帮助你检查你的磁盘和发现带走你大部分的磁盘空间的文件。 
+    System Toolkit 是为MacOS设计的一体化信息和维护应用程序。 
     </details> 
 
--  [GlueMotion 2.2.2 缩时摄影](https://xclient.info/s/gluemotion.html) | Fri Mar 01 2024 6:19 AM 
+-  [One Switch 1.34.1 一键切换系统各项功能](https://xclient.info/s/one-switch.html) | Mon Mar 04 2024 12:53 AM 
     <details><summary>展开描述 ...</summary> 
-    GlueMotion是Mac平台上的一款缩时摄影师的理想工具。GlueMotion Mac版允许用户批量对图像进行编辑、去闪烁，并将图像序列汇编成缩时影片。 
+    One Switch 是Mac平台上的一款集合一键切换系统各项功能的工具。One Switch Mac版是一款小巧的应用程序，旨在通过快速访问一些重要的交换机来提高您的效率。它可以从菜单栏打开，只需点击几下即可切换某些系统功能。 
     </details> 
 
-- ⚗️ [PDF Squeezer 4.5 PDF压缩工具](https://xclient.info/s/pdf-squeezer.html) | Fri Mar 01 2024 6:18 AM 
+- ⚗️ [Syncovery 10.11.3 文件同步和备份](https://xclient.info/s/syncovery.html) | Mon Mar 04 2024 12:53 AM 
     <details><summary>展开描述 ...</summary> 
-    PDF Squeezer 是Mac OS平台上的一款 PDF 简易压缩工具 
+    Syncovery是一款全能文件管理工具同时可以跨平台同步备份。 
     </details> 
 
-- 🔥 [QLab Pro 5.3.5 专业现场媒体编辑工具](https://xclient.info/s/qlab-pro.html) | Fri Mar 01 2024 6:18 AM 
+- 🔥 [Topaz Gigapixel AI 7.0.3 图片无损放大](https://xclient.info/s/topaz-gigapixel-ai.html) | Mon Mar 04 2024 12:39 AM 
     <details><summary>展开描述 ...</summary> 
-    QLab 是一款专为现场表演而设计的多媒体制作工具，能够让你的Mac掌控整个表演现场。包含戏剧，舞蹈，组合，安装，和更多的风格功能。只需从一个单一的工作区就能播放MIDI和音视频。 
+    Topaz Gigapixel AI 是Mac平台上的一款图片无损放大工具，是第一个也是唯一一个使用人工智能功能扩展图像的应用程序，同时添加自然细节以获得惊人的效果。 
     </details> 
 
-- 🌋 [AnyToISO 3.9.7 ISO镜像制作工具](https://xclient.info/s/anytoiso.html) | Fri Mar 01 2024 6:17 AM 
+- 🌋 [Text Workflow 1.9.2 文本编辑](https://xclient.info/s/text-workflow.html) | Mon Mar 04 2024 12:38 AM 
     <details><summary>展开描述 ...</summary> 
-    AnyToISO 是一款Mac上强大的ISO镜像制作工具，可以将其他类型的镜像转换制作为ISO格式，支持几乎所有常见的压缩格式转换为ISO文件、从CD、DVD光盘中提取ISO文件、从任意目录创建ISO文件，还支持提取ISO文件内的内容。 
+    Text Workflow 是一款 macOS 文本编辑工具，可帮助您自动化重复性的文本处理任务。 
     </details> 
 <!-- xclient:END -->
 
