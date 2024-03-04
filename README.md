@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Nodejs 第四十九章（lua）](https://juejin.cn/post/7341759161337856035) | Sun Mar 03 2024 5:44 PM 
+- 🤗 [Amazon Q ：企业级的对话智能导航](https://juejin.cn/post/7341759161338036259) | Mon Mar 04 2024 12:46 AM 
     <details><summary>展开描述 ...</summary> 
-    lua Lua是一种轻量级、高效、可嵌入的脚本语言，最初由巴西里约热内卢天主教大学（Pontifical Catholic University of Rio de Janeiro）的一个小团队开发而 
+    目前市面上的许多 AI 智能助手主要局限于开发者和一般用户的使用，对于企业级开发的支持相对较少。然而，随着时代的发展，针对企业发展的定制化 AI 解决方案变得愈发重要。 
     </details> 
 
-- 🎡 [这么简单的瀑布流，你确定不看](https://juejin.cn/post/7341668771911450651) | Sun Mar 03 2024 4:28 PM 
+- 🎡 [【Flutter&amp;Flame 游戏实践 - 壹】Trex | 角色登场](https://juejin.cn/post/7341668771911876635) | Mon Mar 04 2024 12:43 AM 
     <details><summary>展开描述 ...</summary> 
-    在工作中我们或多或少都遇到过需要用到瀑布流的列表或者需求，那么我们怎么实现瀑布流呢？今天我就给大家带来一个简单的实现方法。给大家做打个样。 技术 vue3 vite 源码地址 瀑布流地址 后面有 
+    Flutter&amp;Flame 游戏开发系列前言: 该系列是 [张风捷特烈] 的 Flame 游戏开发教程。Flutter 作为 全平台 的 原生级 渲染框架，兼具 全端 跨平台和高性能的特点。目前官方对 
     </details> 
 
-- 🕯 [为何Kafka在2.8版本开始会“抛弃”Zookeeper？](https://juejin.cn/post/7341840038964002835) | Sun Mar 03 2024 4:18 PM 
+- 🕯 [LangGraph 助力代码生成新境界](https://juejin.cn/post/7341668771911860251) | Mon Mar 04 2024 12:39 AM 
     <details><summary>展开描述 ...</summary> 
-    一、Kafka简介 Apache Kafka最早是由Linkedin公司开发，后来捐献给了Apack基金会。 Kafka被官方定义为分布式流式处理平台，因为具备高吞吐、可持久化、可水平扩展等特性而被广 
+    LangGraph 助力代码生成新境界 必要链接 LangGraph 操作指南 研究初衷 在大型语言模型（LLMs）的众多应用中，代码生成与分析尤为关键，这从产品 GitHub co-pilot 的广 
     </details> 
 
-- 🚀 [使用 Vue3.x 非 SFC 方式构建天气查询按钮组件 ☁️🌞](https://juejin.cn/post/7341617121958592522) | Sun Mar 03 2024 4:07 PM 
+- 🚀 [栗子前端技术周刊第19期 - Parcel v2.12.0、TypeScript 5.4 RC、原生 Popover...](https://juejin.cn/post/7341674942892769280) | Mon Mar 04 2024 12:37 AM 
     <details><summary>展开描述 ...</summary> 
-    本文将详细的叙述如何使用 Vue3.x 的非 SFC 方式封装一个组件，这个组件是一个按钮，点击后可以请求并显示最新的天气信息。 
+    🌰栗子前端技术周刊第 19 期 &lpar;2024.2.26 - 2024.3.3&rpar;：浏览前端一周最新消息，学习国内外优秀文章视频，让我们保持对前端的好奇心。 📰 技术资讯 Parcel v2.12.0：这款 
     </details> 
 
-- 💪 [Vue3.x 中的七大高级用法探索 🔍🚀](https://juejin.cn/post/7341617121958576138) | Sun Mar 03 2024 4:07 PM 
+- 💪 [Node vs Deno：为什么 Deno 没有 Node 流行？](https://juejin.cn/post/7341568997861916699) | Mon Mar 04 2024 12:30 AM 
     <details><summary>展开描述 ...</summary> 
-    Vue3.x 自发布以来凭借其性能的显著提升和更加灵活的组合式 API，已经成为了现代前端开发的重要工具之一。除了基本用法外，Vue3.x 还提供了许多高级功能，使得开发复杂应用变得更加简单和高效。 
+    为什么 Deno 的采用变得十分缓慢，以及为什么大家仍然更青睐 Node。本人会尝试对 Node 和 Deno 进行比较。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
