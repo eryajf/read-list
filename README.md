@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [什么是MySQL锁？有哪些锁类型？](https://juejin.cn/post/7342055465428172815) | Mon Mar 04 2024 6:58 AM 
+- 🤗 [如何使用HTML和CSS实现一个毛玻璃效果](https://juejin.cn/post/7342319793155555343) | Mon Mar 04 2024 9:56 AM 
     <details><summary>展开描述 ...</summary> 
-    又到一年逐渐消失的‘金三银四’，相信准备有所行动的你已经非常兴奋了，别激动，冷静一下！ 你应该准备很充分了吧，来个基础的，你看看这一连串的MySQL锁问题你能接住几个先 
+    认识毛玻璃效果 毛玻璃效果（Glassmorphism）是一个非常流行的视觉设计，你应该在一些移动APP或PC网站上看到过毛玻璃效果。它的主要特征就是半透明的背景，以及阴影和边框，同时还要为背景加上模 
     </details> 
 
-- 🎡 [React基础 第二十一章（Context深层数据传递）](https://juejin.cn/post/7342064032060735503) | Mon Mar 04 2024 6:55 AM 
+- 🎡 [微信小程序app.js的onLaunch执行完之后再执行Page的onLoad &amp; 小程序onLaunch和onLoad执行顺序](https://juejin.cn/post/7342332602575110195) | Mon Mar 04 2024 9:52 AM 
     <details><summary>展开描述 ...</summary> 
-    在React中，我们经常需要在组件树中传递数据。传统的做法是通过props逐层传递，但当组件层次较深或多个组件需要相同数据时，这种方法变得繁琐且难以维护。React的Context API为这一问题提 
+    微信小程序app.js的onLaunch执行完之后再执行Page的onLoad &amp; 小程序onLaunch和onLoad执行顺序 
     </details> 
 
-- 🕯 [iOS 中如何用摄像头扫描二维码](https://juejin.cn/post/7342148728134959116) | Mon Mar 04 2024 6:37 AM 
+- 🕯 [爆火的OpenAI-Sora运作原理](https://juejin.cn/post/7342327642852884480) | Mon Mar 04 2024 9:49 AM 
     <details><summary>展开描述 ...</summary> 
-    这里每天分享一个 iOS 的新知识，快来关注我吧 前言 之前讲过一些识别和生成二维码的技术文章，感兴趣可以去看看： 二维码 1: 如何用 swift 生成二维码 二维码 2: 如何用 swift 设置 
+    让我们总结一下 OpenAI 分享的内容，看看这个模型实际上是如何运作的。 OpenAI 团队推出了 Sora，这是一种大规模视频生成模型，它展示了模拟物理世界基本方面的新功能。从GTP-4更加智能后 
     </details> 
 
-- 🚀 [React基础 第二十章（迁移State状态逻辑至 Reducer）](https://juejin.cn/post/7342147418286309388) | Mon Mar 04 2024 6:26 AM 
+- 🚀 [友盟+Hologres：千亿级多维分析平台建设实践](https://juejin.cn/post/7342152364015140901) | Mon Mar 04 2024 9:45 AM 
     <details><summary>展开描述 ...</summary> 
-    在React开发中，随着组件逻辑的增加，状态管理变得越来越复杂，这时就需要Reducer管理全局状态。它可以帮助你将状态更新逻辑集中到一个地方，使得状态变化更加可预测和容易管理。 理解Reducer的 
+    Hologres 在友盟+统计分析、营销等多个产品线使用，很好地满足了用户行为分析、人群圈选与洞察场景的多维度分析、灵活下钻、快速人群预估和圈选等分析需求，提供客户更流畅的数据查询和分析体验。 
     </details> 
 
-- 💪 [SpringBoot+Vue多图片上传和展示（一）](https://juejin.cn/post/7342130266885144602) | Mon Mar 04 2024 6:06 AM 
+- 💪 [记一次面试](https://juejin.cn/post/7342100145256431655) | Mon Mar 04 2024 9:44 AM 
     <details><summary>展开描述 ...</summary> 
-    在Web开发中，图片上传和展示是必不可少的功能之一。本文将介绍如何使用Spring Boot、Vue.js和ElementUI创建一个简单的图片上传和展示网站。 
+    vue 和 react 的区别是什么？ 先说相同点 都是使用虚拟DOM，组件化开发，通过props传参进行父子组件数据通信 都是数据驱动视图 都有状态管理工具（redux, vuex） 不同点 rea 
     </details> 
 <!-- juejin:END -->
 ### 少数派
