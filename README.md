@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Amazon Q ：企业级的对话智能导航](https://juejin.cn/post/7341759161338036259) | Mon Mar 04 2024 12:46 AM 
+- 🤗 [Go中内存泄漏常见Case](https://juejin.cn/entry/7341983885726629927) | Mon Mar 04 2024 2:51 AM 
     <details><summary>展开描述 ...</summary> 
-    目前市面上的许多 AI 智能助手主要局限于开发者和一般用户的使用，对于企业级开发的支持相对较少。然而，随着时代的发展，针对企业发展的定制化 AI 解决方案变得愈发重要。 
+    Go虽然是自动GC类型的语言，但在编码过程中如果不注意，很容易造成内存泄漏的问题。比较常见的是发生在 slice、time.Ticker、goroutine 等的使用过程中，这里结合我们日常中经常遇到 
     </details> 
 
-- 🎡 [【Flutter&amp;Flame 游戏实践 - 壹】Trex | 角色登场](https://juejin.cn/post/7341668771911876635) | Mon Mar 04 2024 12:43 AM 
+- 🎡 [探索Terraform实践：优化基础设施管理](https://juejin.cn/post/7341783797330247714) | Mon Mar 04 2024 2:50 AM 
     <details><summary>展开描述 ...</summary> 
-    Flutter&amp;Flame 游戏开发系列前言: 该系列是 [张风捷特烈] 的 Flame 游戏开发教程。Flutter 作为 全平台 的 原生级 渲染框架，兼具 全端 跨平台和高性能的特点。目前官方对 
+    在本文中，我们将揭示Terraform的一些高效实践，从模块化组织到灵活变量、远程状态管理和函数简化，让您能够以更快、更可靠的方式构建和管理基础设施。 
     </details> 
 
-- 🕯 [LangGraph 助力代码生成新境界](https://juejin.cn/post/7341668771911860251) | Mon Mar 04 2024 12:39 AM 
+- 🕯 [富文本editor](https://juejin.cn/post/7341983885726580775) | Mon Mar 04 2024 2:47 AM 
     <details><summary>展开描述 ...</summary> 
-    LangGraph 助力代码生成新境界 必要链接 LangGraph 操作指南 研究初衷 在大型语言模型（LLMs）的众多应用中，代码生成与分析尤为关键，这从产品 GitHub co-pilot 的广 
+    1、50行代码撸一个简易编辑器 现有的富文本编辑器，底层是基于 contenteditable+document.execCommand，使用API可参考mdn文档： contenteditable可 
     </details> 
 
-- 🚀 [栗子前端技术周刊第19期 - Parcel v2.12.0、TypeScript 5.4 RC、原生 Popover...](https://juejin.cn/post/7341674942892769280) | Mon Mar 04 2024 12:37 AM 
+- 🚀 [React基础 第十八章（在组件间共享状态）](https://juejin.cn/post/7341805821527506963) | Mon Mar 04 2024 2:43 AM 
     <details><summary>展开描述 ...</summary> 
-    🌰栗子前端技术周刊第 19 期 &lpar;2024.2.26 - 2024.3.3&rpar;：浏览前端一周最新消息，学习国内外优秀文章视频，让我们保持对前端的好奇心。 📰 技术资讯 Parcel v2.12.0：这款 
+    在React应用开发中，组件间状态共享是一个常见的需求。本文将根据React官方文档的指导，详细介绍如何在组件间共享状态，包括状态提升的步骤、受控与非受控组件的概念，以及相关的开发技巧和注意事项。 状 
     </details> 
 
-- 💪 [Node vs Deno：为什么 Deno 没有 Node 流行？](https://juejin.cn/post/7341568997861916699) | Mon Mar 04 2024 12:30 AM 
+- 💪 [春招开始，面试也多起来了](https://juejin.cn/post/7341805821527474195) | Mon Mar 04 2024 2:38 AM 
     <details><summary>展开描述 ...</summary> 
-    为什么 Deno 的采用变得十分缓慢，以及为什么大家仍然更青睐 Node。本人会尝试对 Node 和 Deno 进行比较。 
+    最近朋友们反馈，笔试和面试都多起来了，下午投的简历，没一会的功夫就收到笔试邀请了，比如金山： 还塞力斯： 其他的还有华为 OD 也开始做笔试了，招银网络最近也开始约面试了，所以春招的氛围慢慢来了，还没 
     </details> 
 <!-- juejin:END -->
 ### 少数派
