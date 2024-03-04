@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Rust 中如何解析 JSON?](https://juejin.cn/post/7341970488728043557) | Mon Mar 04 2024 3:41 AM 
+- 🤗 [上车WebGL——逐片元的点光源](https://juejin.cn/post/7341757372188852224) | Mon Mar 04 2024 4:31 AM 
+    <details><summary>展开描述 ...</summary> 
+    哈喽大家好啊，我是广州小井。前面我们已经对点光源的光照效果进行初步学习和实战了，也亲自体验了一番点光照效果！但是你是否还记得之前我留下的一个问题——用顶点着色器来处理点光源是有点不足呢？ 
+    </details> 
+
+- 🎡 [Orgchart 组织架构插件如何在Vue中使用](https://juejin.cn/post/7341962661825986611) | Mon Mar 04 2024 3:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    概述：常见的Orgchart 使用有多种方式，这里主要讲述Orgchart 插件的基本用法，废话不多说，直接手摸手上代码！ 实际效果图展示： 数据结构： 线上下载静态资源 js源文件，本地创建好文件， 
+    </details> 
+
+- 🕯 [上周前端发生哪些新鲜事儿？#352](https://juejin.cn/post/7341983885727449127) | Mon Mar 04 2024 3:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    这是一个每周更新的国外论坛前端热门文章摘要。内容涵盖网页开发、Web组件、CSS、JavaScript以及各种前端框架和工具的最新动态。通过阅读和翻译这些文章，读者可以紧跟时事，了解前端行业新闻 
+    </details> 
+
+- 🚀 [vue3 实现一个鼠标右击菜单栏](https://juejin.cn/post/7341747993710460979) | Mon Mar 04 2024 3:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 最近得空,准备用vite+vue3搭建一个后台管理系统. 技术栈 vue3 vue-router pinia element-plus unocss vue3 实现一个鼠标右击菜单栏 效果图 代 
+    </details> 
+
+- 💪 [Rust 中如何解析 JSON?](https://juejin.cn/post/7341970488728043557) | Mon Mar 04 2024 3:41 AM 
     <details><summary>展开描述 ...</summary> 
     Rust 中如何解析 JSON? 在本文中，我们将讨论如何在 Rust 中使用 JSON 解析库，以及比较最流行的库及其性能。 JSON 解析基础知识 手动解析 JSON 要开始在 Rust 中使用  
-    </details> 
-
-- 🎡 [✅被百度追着项目问，上亿数据，限制1G内存，如何去重？](https://juejin.cn/post/7341970488727928869) | Mon Mar 04 2024 3:29 AM 
-    <details><summary>展开描述 ...</summary> 
-    有许多方法可以用来去重，比如使用列表、集合等等，但这些方法通常只适用于一般情况。然而，当涉及到大量数据去重时，常见的 Java Set、List，甚至是 Java 8 的新特性 Stream 流等方式 
-    </details> 
-
-- 🕯 [React基础 第十九章（State状态保留与重置）](https://juejin.cn/post/7341674942893817856) | Mon Mar 04 2024 3:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    在React应用开发中，理解何时以及如何保留或重置组件的状态是至关重要的。 理解React的状态保留机制 在React中，组件的状态（state）是与组件实例紧密关联的。React通过组件在UI树中的 
-    </details> 
-
-- 🚀 [众安保险 CDP 平台：借助 Apache Doris 打破数据孤岛，人群圈选提速4倍](https://juejin.cn/post/7341988252546514971) | Mon Mar 04 2024 3:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    众安在线财产保险股份有限公司是中国首家互联网保险公司，由蚂蚁金服、中国平安和腾讯于 2013 年联合发起设立。众安专注于应用新技术重塑保险价值链，围绕健康、数字生活、消费金融、汽车四大生态，以科技服务 
-    </details> 
-
-- 💪 [开源.NET8.0小项目伪微服务框架（分布式、EFCore、Redis、RabbitMQ、Mysql等）](https://juejin.cn/post/7342038143162073124) | Mon Mar 04 2024 2:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    经过大概三个月的学习和沉淀，我将.NET8.0的学习和使用，整理成了一个简单的微服务项目，目前还在初级阶段，后续会进行持续的更新和优化。同时也会将项目中的一些问题和解决方案进行整理和分享。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
