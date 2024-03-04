@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [学习应用一下不常用的element-plus抛出的指令](https://juejin.cn/post/7342140095788056613) | Mon Mar 04 2024 11:56 AM 
+- 🤗 [利用Spring Boot实现MySQL 8.0和MyBatis-Plus的JSON查询](https://juejin.cn/post/7342327642853343232) | Mon Mar 04 2024 12:31 PM 
+    <details><summary>展开描述 ...</summary> 
+    介绍 在现代的Web开发中，处理JSON数据已经变得无处不在，而在关系型数据库中高效地查询JSON结构变得愈发重要。MySQL 8.0结合MyBatis-Plus和Spring Boot，为管理和查询 
+    </details> 
+
+- 🎡 [记一次安卓APP启动耗时原因排查与优化过程](https://juejin.cn/post/7342323580787605538) | Mon Mar 04 2024 12:20 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文主要记录在排查一次冷启动耗时异常时的过程和解决方案，并且成功将原本的冷启动耗时 20s 左右优化到 2s 左右。 
+    </details> 
+
+- 🕯 [学习应用一下不常用的element-plus抛出的指令](https://juejin.cn/post/7342140095788056613) | Mon Mar 04 2024 11:56 AM 
     <details><summary>展开描述 ...</summary> 
     学习应用一下element-plus抛出的指令 click-outside 效果图 作用 这个指令的主要目的是监听页面上的点击事件，并判断点击是否发生在指定元素之外。如果是，那么执行一些操作，如关闭弹 
     </details> 
 
-- 🎡 [前端框架对比系列之react和vue搭建](https://juejin.cn/post/7342360674150481946) | Mon Mar 04 2024 11:50 AM 
+- 🚀 [前端框架对比系列之react和vue搭建](https://juejin.cn/post/7342360674150481946) | Mon Mar 04 2024 11:50 AM 
     <details><summary>展开描述 ...</summary> 
     本文是前端框架对比系列之框架搭建，将通过介绍并对比react、vue2、vue3框架的搭建流程，了解并掌握完整的项目初始化流程, 
     </details> 
 
-- 🕯 [React Fiber](https://juejin.cn/post/7342339440553427007) | Mon Mar 04 2024 11:45 AM 
+- 💪 [React Fiber](https://juejin.cn/post/7342339440553427007) | Mon Mar 04 2024 11:45 AM 
     <details><summary>展开描述 ...</summary> 
     React Fiber 是 React 16 中引入的新的协调引擎或重写的核心算法。目的是增强 React 应用程序的性能和响应性，特别是在动画、布局和手势等交互密集型任务中。Fiber 的核心设计理 
-    </details> 
-
-- 🚀 [React 18](https://juejin.cn/post/7342100145256710183) | Mon Mar 04 2024 11:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    背景 React 自从 2013 年首次发布以来，已经经历了 11 年历史，也经历了几个关键版本，2017 年，16.0 引入新的核心架构 Fiber，支持了异步渲染；2019 年，16.8 引入了  
-    </details> 
-
-- 💪 [Android应用架构的未来：深入理解MVI模式及其优势](https://juejin.cn/post/7342140095788007461) | Mon Mar 04 2024 11:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    MVI（Model-View-Intent）是一种基于响应式编程理念的架构模式。它能够帮助开发者更好地管理应用的状态和逻辑，并提升代码的可维护性和可测试性。在本文中，我们将深入了解MVI的原理、具体的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
