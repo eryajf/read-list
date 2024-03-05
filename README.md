@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [分组聚合不再难：Pandas groupby使用指南](https://juejin.cn/post/7342506460205940736) | Tue Mar 05 2024 7:02 AM 
+- 🤗 [🔥等你报名｜掘金x扣子动手实验室来袭，想用AI实现idea的千万别错过～](https://juejin.cn/post/7342697812364738600) | Tue Mar 05 2024 8:13 AM 
     <details><summary>展开描述 ...</summary> 
-    处理大量数据时，经常需要对数据进行分组和汇总，groupby为我们提供了一种简洁、高效的方式来实现这些操作，从而简化了数据分析的流程。 分组聚合是什么 分组是指根据一个或多个列的值将数据分成多个组，每 
+    🔔 掘金动手实验室（JUEJIN Code Lab）系列正式推出啦！ 这是由稀土掘金技术社区精心策划并推出的一系列技术实践活动，旨在为开发者提供一个实践与创新的平台。 
     </details> 
 
-- 🎡 [完美解决Sync failed. Cannot lock HEAD. Ensure that no other process has an open file](https://juejin.cn/post/7342480215532863498) | Tue Mar 05 2024 6:56 AM 
+- 🎡 [slate源码解读](https://juejin.cn/post/7342678690666971172) | Tue Mar 05 2024 8:13 AM 
     <details><summary>展开描述 ...</summary> 
-    问题描述 最近在使用Jetbrains的产品Goland时，想去同步设置，结果同步失败，点击从服务端获取设置，显示报错Sync failed. Cannot lock HEAD. Ensure tha 
+    分析 `wangeditor` 和 `slate-react`源码我们可以看出两者功能类似，都是将 `slate-&gt;createEditor&lpar;&rpar;`生成的editor对象转化为vnode，然后挂载在带有 
     </details> 
 
-- 🕯 [00.设计原则之单一职责原则](https://juejin.cn/post/7342481068172050459) | Tue Mar 05 2024 6:48 AM 
+- 🕯 [wangeditor源码分析](https://juejin.cn/post/7342702838462152743) | Tue Mar 05 2024 8:07 AM 
     <details><summary>展开描述 ...</summary> 
-    单一职责原则 定义 职责：业务逻辑或者对象能够承担的责任，并以某种行为方式来执行 该原则提出了对对象的一种理想期望，对象不应该承担太多的职责，正如人不应该一心二用。唯有专注，才能保证对象的高内聚 唯有 
+    wangeditor官方文档 基础用法： createEditor 源码 docs/dev.md 可看到准备工作： 了解 slate.js、了解 vdom 和 snabbdom.js、了解 lerna 
     </details> 
 
-- 🚀 [学习策略优化：有效整合知识以提高个人能力](https://juejin.cn/post/7342511636643463195) | Tue Mar 05 2024 6:46 AM 
+- 🚀 [2024最新PyQt5及其工具（Qt Designer、PyUIC、PyRcc）手把手操作实践指南](https://juejin.cn/post/7342474671325478912) | Tue Mar 05 2024 8:00 AM 
     <details><summary>展开描述 ...</summary> 
-    本文分享的是我一路走来的职业教训和经验，是我若能对年轻时的自己说的话。在这段旅程中，运气、勇气、以及与杰出人才的相遇，构成了我丰富的职业生涯。我希望通过分享这些经历和策略，为那些在追求梦想路上感到迷茫 
+    前言 最近做了一些个人项目，内部逻辑还是挺多的，而且也有想要开源的想法，但是总不能直接把源码端给大家直接运行，有一些需求还有萌新小白用得上的，所以还得做一个可视化的UI。想了想能够通过Python建立 
     </details> 
 
-- 💪 [2024最新PyCharm激活教程（含最新PyCharm\&amp;idea激活码）](https://juejin.cn/post/7342512113170956300) | Tue Mar 05 2024 6:42 AM 
+- 💪 [前端框架对比系列之vue和react的登录路由守卫鉴权](https://juejin.cn/post/7342501848412733467) | Tue Mar 05 2024 7:51 AM 
     <details><summary>展开描述 ...</summary> 
-    2024最新PyCharm激活教程（含最新PyCharm&amp;idea激活码） 什么是PyCharm PyCharm 是一个由 JetBrains 公司开发的集成开发环境（IDE），主要用于 Python 
+    本文主要介绍的是vue和react框架的登录路由守卫鉴权过程，即登录之后才能进入系统的某些页面，没登录成功话需要重定向到登录页，这种形式的拦截鉴权基本上每个系统都会有这样的需求。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
