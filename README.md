@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [德国警方关闭该国最大的地下犯罪市场论坛](https://www.freebuf.com/news/393368.html) | Tue Mar 05 2024 8:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    德国当局表示，他们正在对拦截的数据进行分析，以获取有关该平台用户的更多信息。 
+    </details> 
+
 - 🦄 [ScreenConnect 漏洞正被广泛应用于 ToddleShark 恶意软件传播](https://www.freebuf.com/news/393309.html) | Tue Mar 05 2024 5:30 AM 
     <details><summary>展开描述 ...</summary> 
     用于下载附加阶段的 URL 是动态生成，从 C2 获取的初始有效载荷的哈希值始终唯一，因此标准的拦截列表方法几乎是无效的。 
     </details> 
 
-- 🦄 [乌克兰又下“一城”，俄罗斯国防部服务器被攻破](https://www.freebuf.com/news/393297.html) | Tue Mar 05 2024 3:19 AM 
+- 🦅 [乌克兰又下“一城”，俄罗斯国防部服务器被攻破](https://www.freebuf.com/news/393297.html) | Tue Mar 05 2024 3:19 AM 
     <details><summary>展开描述 ...</summary> 
     乌克兰国防部情报总局（GUR）声称入侵了俄罗斯国防部（Minoborony）的内部服务器，并成功窃取大量敏感文件。 
     </details> 
 
-- 🦅 [全国网安标委发布《生成式人工智能服务安全基本要求》](https://www.freebuf.com/news/393261.html) | Mon Mar 04 2024 8:31 AM 
+- 🪄 [全国网安标委发布《生成式人工智能服务安全基本要求》](https://www.freebuf.com/news/393261.html) | Mon Mar 04 2024 8:31 AM 
     <details><summary>展开描述 ...</summary> 
     3月4日，全国网安标委发布《生成式人工智能服务安全基本要求》。 
     </details> 
 
-- 🪄 [FreeBuf 早报 | 俄罗斯加强对VPN的管控；新西兰全国多个加油站支付系统遭遇瘫痪](https://www.freebuf.com/news/393252.html) | Mon Mar 04 2024 8:08 AM 
+- 💻 [FreeBuf 早报 | 俄罗斯加强对VPN的管控；新西兰全国多个加油站支付系统遭遇瘫痪](https://www.freebuf.com/news/393252.html) | Mon Mar 04 2024 8:08 AM 
     <details><summary>展开描述 ...</summary> 
     自2022年11月OpenAI发布ChatGPT以来，网络钓鱼攻击整体增加了惊人的1265%。 
-    </details> 
-
-- 💻 [中国智能汽车将威胁美国国家安全？](https://www.freebuf.com/news/393233.html) | Mon Mar 04 2024 7:15 AM 
-    <details><summary>展开描述 ...</summary> 
-    数据安全是当今数字化时代中至关重要的一环，但它不应该成为阻碍自由贸易的背锅侠。 
     </details> 
 <!-- freebuf:END -->
 
