@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2024年程序员就业形势分析：AI浪潮下的普通人该何去何从](https://juejin.cn/post/7342400022635741211) | Tue Mar 05 2024 12:54 AM 
+- 🤗 [不一样的SVG！SVG 渐变边框在 CSS 中的应用](https://juejin.cn/post/7342391308614139916) | Tue Mar 05 2024 2:17 AM 
     <details><summary>展开描述 ...</summary> 
-    浣熊say官方网站：http://42.193.22.180/ &lpar;域名还在备案&rpar; 国家层面统计的就业情况我就不想去讨论，跟我们普通人没啥关系，我想说的是来自于我身边的，真实感受到的就业形式。 这是某网 
+    介绍一些你可能没用过的SVG &amp; CSS小技巧。 在平时开发中，很多时候都会用到SVG。大部分情况我们都不必关注SVG里面到底是什么，直接当成图片资源引入就行，比如常见的图标资源 我们可以通过多种方式 
     </details> 
 
-- 🎡 [聊聊面试必问的千万级数据库分页查询](https://juejin.cn/post/7342315772303048719) | Tue Mar 05 2024 12:50 AM 
+- 🎡 [linq 入门介绍-更加优雅的流式集合处理](https://juejin.cn/post/7342337684647002151) | Tue Mar 05 2024 2:16 AM 
     <details><summary>展开描述 ...</summary> 
-    写在文章开头 千万级别的MySQL单表查询算是近几年面试时碰到的一道比较棘手的问题，因为很多开发没有这方面的经验，所以最终回答都不是很好，所以笔者就以MySQL8作为实验数据库为读者演示一下笔者日常的 
+    # 拓展阅读 &gt; [linq]&lpar;https://houbb.github.io/2017/03/20/dotnet-linq&rpar; &gt; [querydsl]&lpar;https://houbb.github 
     </details> 
 
-- 🕯 [自定义 OpenTelemetry Collector 容器镜像](https://juejin.cn/post/7342315772303032335) | Tue Mar 05 2024 12:48 AM 
+- 🕯 [jinq 入门介绍-java中编写数据库查询的简单自然的方式](https://juejin.cn/post/7342414880769589311) | Tue Mar 05 2024 2:13 AM 
     <details><summary>展开描述 ...</summary> 
-     ![]&lpar;https://atbug.oss-cn-hangzhou.aliyuncs.com/2024/03/05/pexels-tom-fisk-2226457.jpg&rpar; OpenTeleme 
+    # 拓展阅读 &gt; [linq]&lpar;https://houbb.github.io/2017/03/20/dotnet-linq&rpar; &gt; [querydsl]&lpar;https://houbb.github 
     </details> 
 
-- 🚀 [使用langchain搭建本地知识库系统&lpar;新&rpar;](https://juejin.cn/post/7342349357385744410) | Tue Mar 05 2024 12:36 AM 
+- 🚀 [2024年UI排版风格解析，经典模板一键复用！](https://juejin.cn/post/7342432361097068594) | Tue Mar 05 2024 2:11 AM 
     <details><summary>展开描述 ...</summary> 
-    RAG 是`retrieval-augmented-generation`的缩写，翻译为中文的意思就检索增强，以基于最新，最准确的数据建立` LLM `的语料知识库。 
+    在UI设计工作中，如何保证版式设计的“美观 + 合理”是经常需要考虑问题。经过了多年的设计工作后，笔者发现新人设计师的尤其容易陷入对流行趋势的简单模仿，缺失对排版本身的逻辑性认知。在这篇文章中，笔者将 
     </details> 
 
-- 💪 [TCP和UDP可以使用同一个端口号吗？](https://juejin.cn/post/7342406486910910490) | Tue Mar 05 2024 12:27 AM 
+- 💪 [性能超GPT-4，Claude 3亮相；8999元起，M3版MacBook Air发布；英伟达成为全球市值第三大公司| 极客头条](https://juejin.cn/post/7342420969875226675) | Tue Mar 05 2024 2:06 AM 
     <details><summary>展开描述 ...</summary> 
-    在网络通信中，同一台计算机中，TCP和UDP协议可以使用相同的端口号。每个网络进程中的套接字地址都是唯一的，由三元组（IP地址，传输层协议，端口号）标识。操作系统会根据数据包中的传输层协议进行处理.. 
+    稀土掘金 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。 一分钟速览新闻点！ 魅族旗下首款开放式 AI 终端魅族 21 PRO 亮相，大模型场景化落地提速  
     </details> 
 <!-- juejin:END -->
 ### 少数派
