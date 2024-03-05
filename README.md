@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Ai绘画壁纸 - 互相讨论绘画图片作品，动态壁纸绘画创作平台](https://xinquji.com/posts/809475?utm_campaign=xinquji-rss) | Mon Mar 04 2024 8:26 AM 
+- 👀 [Hubql CLI - 从您的终端创建数据模式可视化](https://xinquji.com/posts/809552?utm_campaign=xinquji-rss) | Tue Mar 05 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     互相讨论绘画图片作品，动态壁纸绘画创作平台  
+     从您的终端创建数据模式可视化  
     </details> 
 
-- 🥷 [未来简历 - 全新一代AI大模型专业简历生成工具](https://xinquji.com/posts/809455?utm_campaign=xinquji-rss) | Mon Mar 04 2024 7:18 AM 
+- 🥷 [kickstartDS low-code CMS starters - 将设计系统连接到 CMS 变得更加容易](https://xinquji.com/posts/809551?utm_campaign=xinquji-rss) | Tue Mar 05 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     全新一代AI大模型专业简历生成工具  
+     将设计系统连接到 CMS 变得更加容易  
     </details> 
 
-- 💼 [病历记 - 本地模型 AI 识别记录病历](https://xinquji.com/posts/809427?utm_campaign=xinquji-rss) | Mon Mar 04 2024 7:18 AM 
+- 💼 [Microlaunch - 启动想法和产品并获取反馈](https://xinquji.com/posts/809550?utm_campaign=xinquji-rss) | Tue Mar 05 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     本地模型 AI 识别记录病历  
+     启动想法和产品并获取反馈  
     </details> 
 
-- 🦅 [UiWidgets - 以闪电般的速度开发登陆页面和 SaaS](https://xinquji.com/posts/809512?utm_campaign=xinquji-rss) | Mon Mar 04 2024 6:00 AM 
+- 🦅 [Habitomic - 与您的人工智能习惯教练一起提升您的生活](https://xinquji.com/posts/809549?utm_campaign=xinquji-rss) | Tue Mar 05 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     以闪电般的速度开发登陆页面和 SaaS  
+     与您的人工智能习惯教练一起提升您的生活  
     </details> 
 
-- 😺 [Musicboard - 音乐爱好者的社交网络](https://xinquji.com/posts/809511?utm_campaign=xinquji-rss) | Mon Mar 04 2024 6:00 AM 
+- 😺 [Invity - 让您的首次比特币体验安全且简单](https://xinquji.com/posts/809548?utm_campaign=xinquji-rss) | Tue Mar 05 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     音乐爱好者的社交网络  
+     让您的首次比特币体验安全且简单  
     </details> 
 <!-- xinquji:END -->
