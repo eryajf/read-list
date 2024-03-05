@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Html关于worker的使用](https://juejin.cn/post/7342743955316129842) | Tue Mar 05 2024 11:01 AM 
+- 🤗 [Webpack缓存失效？一文搞定排查难题！](https://juejin.cn/post/7342706292810776628) | Tue Mar 05 2024 12:18 PM 
     <details><summary>展开描述 ...</summary> 
-    在一个html文件内 分开html和js文件 html文件代码 worker.js代码 ```````` 
+    Webpack 缓存助力，让 Create React App 构建速度飞起！ 持久化缓存，告别构建速度的坑，快来掌握这个快速构建的秘密武器吧！ 
     </details> 
 
-- 🎡 [必读！Android序列化权威面试指南，资深面试者的秘诀](https://juejin.cn/post/7342434233989234738) | Tue Mar 05 2024 10:58 AM 
+- 🎡 [unocss 究竟比 tailwindcss 快多少？](https://juejin.cn/post/7342693286447087625) | Tue Mar 05 2024 12:03 PM 
     <details><summary>展开描述 ...</summary> 
-    在Android开发中，Serializable与Parcelable是两种用于实现对象序列化的常见方式。在面试中，对于这两种技术的理解和应用能力常常被用来评估一个Android开发者的水平。本文将围 
+    unocss 究竟比 tailwindcss 快多少？ 前言 我们知道 unocss 很快，也许是目前最快的原子化 CSS 引擎 &lpar;没有之一&rpar;。 unocss 解释它为什么这么快的原因，是因为它不用去 
     </details> 
 
-- 🕯 [Nodejs 第五十一章（限流阀）](https://juejin.cn/post/7342506460207185920) | Tue Mar 05 2024 10:53 AM 
+- 🕯 [实用干货：分享一个自动切换输入法的IDE插件](https://juejin.cn/post/7342692912913793050) | Tue Mar 05 2024 11:38 AM 
     <details><summary>展开描述 ...</summary> 
-    限流功能 目前我们学习了redis,lua,nodejs，于是可以结合起来做一个限流功能，好比一个抽奖功能，你点击次数过多，就会提示请稍后重试，进行限制，我们来实现一下该功能。 安装依赖 代码编写 i 
+    今天大澈给大家分享了两个插件，其实也可以算是一个，包括 IDEA插件 `Smart Input` ，以及 VSCode 插件 `Smart IME` 。 
     </details> 
 
-- 🚀 [人大金仓数据库KingbaseES支持的开发框架（基于JDBC）的介绍和使用之hibernate篇（二）](https://juejin.cn/post/7342693286446874633) | Tue Mar 05 2024 10:50 AM 
+- 🚀 [LangChain 教程：构建 LLM 支持的应用程序的指南](https://juejin.cn/post/7342750487873421331) | Tue Mar 05 2024 11:36 AM 
     <details><summary>展开描述 ...</summary> 
-    3. KES与hibernate 3.1 Hibernate简介 Hibernate是一个开放源代码的对象关系映射框架，它对JDBC进行了非常轻量级的对象封装，它将POJO与数据库表建立映射关系，是一 
+    作者：Aditya Tripathi GPT-4 和 LLaMA 等大型语言模型 &lpar;LLM&rpar; 在过去几年中创造了一个充满可能性的世界。 它预示着人工智能工具和应用程序的繁荣，ChatGPT 似乎一夜之 
     </details> 
 
-- 💪 [Antd InputNumber 组件浅用](https://juejin.cn/post/7342704061828759589) | Tue Mar 05 2024 10:49 AM 
+- 💪 [关于 python 装饰器，你了解多少？](https://juejin.cn/post/7342678690667970596) | Tue Mar 05 2024 11:32 AM 
     <details><summary>展开描述 ...</summary> 
-    InputNumber组件正是为了满足这种需求而设计的，它不仅提供了基本的数字输入功能，还支持一系列高级配置，以适应各种复杂场景。本文将从一个示例代码入手，详细介绍 InputNumber组件。 
+    一、装饰器介绍 装饰器是 Python 中的一种语法，它可以在不改变源代码的前提下，修改或增强函数或类的功能。装饰器本质上是一个函数或类，它接受一个函数或类作为参数，并返回一个新的函数或类。在 Pyt 
     </details> 
 <!-- juejin:END -->
 ### 少数派
