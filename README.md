@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [国外论坛](https://www.v2ex.com/t/1020619#reply6) | Mon Mar 04 2024 8:47 PM
-- 🤗 [有没有同时支持 atx 主板和 atx 电源的机箱推荐呀？](https://www.v2ex.com/t/1020617#reply5) | Mon Mar 04 2024 6:18 PM
-- 🎭 [MySQL 问题求助](https://www.v2ex.com/t/1020612#reply5) | Mon Mar 04 2024 4:28 PM
-- 🥷 [chrome 在远程连接后出现卡顿情况](https://www.v2ex.com/t/1020601#reply1) | Mon Mar 04 2024 2:53 PM
-- 🐵 [能否通过 WebDav 实现 Windows - IOS 漫画同步](https://www.v2ex.com/t/1020592#reply1) | Mon Mar 04 2024 2:22 PM<!-- v2ex:END -->
+- 🥸 [广州，去年 6 月毕业， Java 一年经验，现在外面行情怎么样？目前 8K 是什么水平，学历垃圾二本](https://www.v2ex.com/t/1020635#reply4) | Tue Mar 05 2024 12:52 AM
+- 🤗 [国外论坛](https://www.v2ex.com/t/1020619#reply12) | Mon Mar 04 2024 8:47 PM
+- 🎭 [有没有同时支持 atx 主板和 atx 电源的机箱推荐呀？](https://www.v2ex.com/t/1020617#reply8) | Mon Mar 04 2024 6:18 PM
+- 🥷 [MySQL 问题求助](https://www.v2ex.com/t/1020612#reply6) | Mon Mar 04 2024 4:28 PM
+- 🐵 [chrome 在远程连接后出现卡顿情况](https://www.v2ex.com/t/1020601#reply2) | Mon Mar 04 2024 2:53 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
