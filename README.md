@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0305](http://jandan.net/p/115802) | Mon Mar 04 2024 11:07 PM 
+- 🚀 [今日好价 0306](http://jandan.net/p/115813) | Tue Mar 05 2024 11:07 PM 
     <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：60 
+    今日带货商品数量：35 
     </details> 
 
-- 🙉 [顶尖癌研机构数据造假，引发科学界诚信危机](http://jandan.net/p/115800) | Mon Mar 04 2024 11:05 PM 
+- 🙉 [突破：预测三体混沌行为的新方法](http://jandan.net/p/115806) | Tue Mar 05 2024 11:04 PM 
     <details><summary>展开描述 ...</summary> 
-    业界数据操纵问题浮出水面  
+    成功预测非层次三体系统的混沌行为 
     </details> 
 
-- 🎉 [“AI将终结癌症”：这个说法同时误解了AI和医疗](http://jandan.net/p/115799) | Mon Mar 04 2024 11:04 PM 
+- 🎉 [扁豆：从默默无闻到人类文明基石](http://jandan.net/p/115807) | Tue Mar 05 2024 11:03 PM 
     <details><summary>展开描述 ...</summary> 
-    过度吹捧AI的功效而忽视了医疗系统的现实问题 
+    扁豆与小麦和大麦同期被驯化，却鲜被提及 
     </details> 
 
-- 🐲 [3D打印钛结构展现超强性能](http://jandan.net/p/115798) | Mon Mar 04 2024 11:03 PM 
+- 🐲 [为什么在月球上直立着陆这么难](http://jandan.net/p/115804) | Tue Mar 05 2024 11:02 PM 
     <details><summary>展开描述 ...</summary> 
-    其独特的网状结构设计使其性能卓越 
+    月球引力较弱，使得航天器更容易倾倒 
     </details> 
 
--  [欧洲假冒橄榄油泛滥，为鉴别真假启用核技术](http://jandan.net/p/115797) | Mon Mar 04 2024 11:02 PM 
+-  [触控泛滥：欧洲安全机构拟降级无实体按键车](http://jandan.net/p/115803) | Tue Mar 05 2024 11:01 PM 
     <details><summary>展开描述 ...</summary> 
-    核技术助力打击橄榄油欺诈  
+    以减少驾驶员分心，提升行车安全。 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
