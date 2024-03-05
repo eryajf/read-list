@@ -334,9 +334,9 @@
 <!-- v2ex:START -->
 - 🥸 [安卓手机刷机请教](https://www.v2ex.com/t/1020919#reply0) | Tue Mar 05 2024 3:35 PM
 - 🤗 [淘宝开放平台，这个免费的 api 的示例里面的 url,port,appkey,secret 怎么填写？有用过的嘛？](https://www.v2ex.com/t/1020915#reply0) | Tue Mar 05 2024 3:19 PM
-- 🎭 [如何绕过漫游限制？](https://www.v2ex.com/t/1020903#reply6) | Tue Mar 05 2024 2:15 PM
+- 🎭 [如何绕过漫游限制？](https://www.v2ex.com/t/1020903#reply8) | Tue Mar 05 2024 2:15 PM
 - 🥷 [成为下一代 Web3 开发者｜第八期 Solidity 共学营开启招募啦～](https://www.v2ex.com/t/1020898#reply0) | Tue Mar 05 2024 2:00 PM
-- 🐵 [mv 指令](https://www.v2ex.com/t/1020896#reply8) | Tue Mar 05 2024 1:54 PM<!-- v2ex:END -->
+- 🐵 [mv 指令](https://www.v2ex.com/t/1020896#reply10) | Tue Mar 05 2024 1:54 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
