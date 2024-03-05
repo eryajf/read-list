@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [通俗讲解：AI生成视频是什么|效果如何|对什么行业有影响？](https://juejin.cn/post/7342511636643119131) | Tue Mar 05 2024 6:10 AM 
+- 🤗 [分组聚合不再难：Pandas groupby使用指南](https://juejin.cn/post/7342506460205940736) | Tue Mar 05 2024 7:02 AM 
     <details><summary>展开描述 ...</summary> 
-    有个读者深夜问了我一个问题，让我思考了一个深夜。 一年前，我写过一篇文章叫《我可能要给鼓吹AI的那些人，浇盆凉水了》。当时ChatGPT很火，整个网络都把AI吹上了天。我则唱反调，因为我就处在这个行业 
+    处理大量数据时，经常需要对数据进行分组和汇总，groupby为我们提供了一种简洁、高效的方式来实现这些操作，从而简化了数据分析的流程。 分组聚合是什么 分组是指根据一个或多个列的值将数据分成多个组，每 
     </details> 
 
-- 🎡 [nextjs中server action实现原理以及封装useAction优雅的调用action方法](https://juejin.cn/post/7342481068171673627) | Tue Mar 05 2024 6:08 AM 
+- 🎡 [完美解决Sync failed. Cannot lock HEAD. Ensure that no other process has an open file](https://juejin.cn/post/7342480215532863498) | Tue Mar 05 2024 6:56 AM 
     <details><summary>展开描述 ...</summary> 
-    最近在学习next，学习的过程中，感觉server action很神奇，然后就看了一下源码，下面给大家分享一下server action的实现原理。 
+    问题描述 最近在使用Jetbrains的产品Goland时，想去同步设置，结果同步失败，点击从服务端获取设置，显示报错Sync failed. Cannot lock HEAD. Ensure tha 
     </details> 
 
-- 🕯 [策略模式实现红包分配算法](https://juejin.cn/post/7342481068171640859) | Tue Mar 05 2024 6:03 AM 
+- 🕯 [00.设计原则之单一职责原则](https://juejin.cn/post/7342481068172050459) | Tue Mar 05 2024 6:48 AM 
     <details><summary>展开描述 ...</summary> 
-    1 前言 在前文中已经分享了模板和策略模式的实践SpringBoot-策略和模板模式的思考与实践，在本文中将结合红包算法的场景再次进行实践，主要还是分享红包计算的思考逻辑和心得。在前文中已经介绍了订单 
+    单一职责原则 定义 职责：业务逻辑或者对象能够承担的责任，并以某种行为方式来执行 该原则提出了对对象的一种理想期望，对象不应该承担太多的职责，正如人不应该一心二用。唯有专注，才能保证对象的高内聚 唯有 
     </details> 
 
-- 🚀 [如何通过cargo install安装我们的crate](https://juejin.cn/post/7342511044291412022) | Tue Mar 05 2024 6:02 AM 
+- 🚀 [学习策略优化：有效整合知识以提高个人能力](https://juejin.cn/post/7342511636643463195) | Tue Mar 05 2024 6:46 AM 
     <details><summary>展开描述 ...</summary> 
-    我在安装tauri的开发工具时，产生一个疑问，为什么可以通过cargo安装全局命令，顺着这个线索我找到了如下方案。原理是在项目开发者指定可执行文件... 
+    本文分享的是我一路走来的职业教训和经验，是我若能对年轻时的自己说的话。在这段旅程中，运气、勇气、以及与杰出人才的相遇，构成了我丰富的职业生涯。我希望通过分享这些经历和策略，为那些在追求梦想路上感到迷茫 
     </details> 
 
-- 💪 [异构计算关键技术之mmap&lpar;二&rpar;](https://juejin.cn/post/7342391308615368716) | Tue Mar 05 2024 6:01 AM 
+- 💪 [2024最新PyCharm激活教程（含最新PyCharm\&amp;idea激活码）](https://juejin.cn/post/7342512113170956300) | Tue Mar 05 2024 6:42 AM 
     <details><summary>展开描述 ...</summary> 
-    最近在设计异构低时延交易系统，在调研新技术的时候，发现了mmap+dma的设计架构。mmap技术是一种文件或其他对象映射到内存的技术。这种技术，让用户程序（用户空间）直接访问设备内存（内核空间），相对 
+    2024最新PyCharm激活教程（含最新PyCharm&amp;idea激活码） 什么是PyCharm PyCharm 是一个由 JetBrains 公司开发的集成开发环境（IDE），主要用于 Python 
     </details> 
 <!-- juejin:END -->
 ### 少数派
