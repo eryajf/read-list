@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [&lpar;一&rpar;漫谈分布式开篇：从全景视野详解单体到分布式架构的蜕变之旅！](https://juejin.cn/post/7342678690667282468) | Tue Mar 05 2024 9:10 AM 
+- 🤗 [Html关于worker的使用](https://juejin.cn/post/7342743955316129842) | Tue Mar 05 2024 11:01 AM 
     <details><summary>展开描述 ...</summary> 
-    很多人做过分布式项目，但却不具备分布式经验，为啥？对大多数人来说，无非是换了一个环境继续写CURD，这句话可能有点难听，却是不争的事实，该如何真正具备分布式能力？先从全景角度出发，聊聊架构的演进之路~ 
+    在一个html文件内 分开html和js文件 html文件代码 worker.js代码 ```````` 
     </details> 
 
-- 🎡 [什么是熟悉CSS3、JavaScript、HTML5](https://juejin.cn/post/7342501848413175835) | Tue Mar 05 2024 8:53 AM 
+- 🎡 [必读！Android序列化权威面试指南，资深面试者的秘诀](https://juejin.cn/post/7342434233989234738) | Tue Mar 05 2024 10:58 AM 
     <details><summary>展开描述 ...</summary> 
-    what? So：什么是熟悉CSS3、JavaScript、HTML5? N年前版本： CSS3- 即层叠样式表，用来控制页面样式的 HTML5- 超文本传输协议 JavaScript - 逻辑控制， 
+    在Android开发中，Serializable与Parcelable是两种用于实现对象序列化的常见方式。在面试中，对于这两种技术的理解和应用能力常常被用来评估一个Android开发者的水平。本文将围 
     </details> 
 
-- 🕯 [关于vue的reactive](https://juejin.cn/post/7342697016180359168) | Tue Mar 05 2024 8:39 AM 
+- 🕯 [Nodejs 第五十一章（限流阀）](https://juejin.cn/post/7342506460207185920) | Tue Mar 05 2024 10:53 AM 
     <details><summary>展开描述 ...</summary> 
-    vue3中的reactive是一个很重要的响应式API。它的作用是: 使用Proxy把原对象包装成一个代理对象proxy。 在代理对象proxy中get&lpar;&rpar;拦截对原对象属性的访问,追踪哪些属性被读取了 
+    限流功能 目前我们学习了redis,lua,nodejs，于是可以结合起来做一个限流功能，好比一个抽奖功能，你点击次数过多，就会提示请稍后重试，进行限制，我们来实现一下该功能。 安装依赖 代码编写 i 
     </details> 
 
-- 🚀 [Vue核心虚拟DOM和diff算法](https://juejin.cn/post/7342533452757893135) | Tue Mar 05 2024 8:37 AM 
+- 🚀 [人大金仓数据库KingbaseES支持的开发框架（基于JDBC）的介绍和使用之hibernate篇（二）](https://juejin.cn/post/7342693286446874633) | Tue Mar 05 2024 10:50 AM 
     <details><summary>展开描述 ...</summary> 
-    Vue核心虚拟DOM和diff算法 虚拟DOM 原因 之所以需要虚拟dom，是因为一个元素含有许多的属性（如下图）且每次更新需要重新计算布局&lpar;计算每个元素的位置和大小&rpar;和绘制&lpar;将元素绘制在屏幕上&rpar; 
+    3. KES与hibernate 3.1 Hibernate简介 Hibernate是一个开放源代码的对象关系映射框架，它对JDBC进行了非常轻量级的对象封装，它将POJO与数据库表建立映射关系，是一 
     </details> 
 
-- 💪 [无界云剪首页特效源码技术解析](https://juejin.cn/post/7342511636643643419) | Tue Mar 05 2024 7:06 AM 
+- 💪 [Antd InputNumber 组件浅用](https://juejin.cn/post/7342704061828759589) | Tue Mar 05 2024 10:49 AM 
     <details><summary>展开描述 ...</summary> 
-    概述 最近一些小伙伴好奇无界云剪的首页特效是如何制作的？废话不多说，直接上视频，先看一下具体的效果，然后我来给大家详细讲述一下 实现的过程。 用到的技术 里面用到的技术比较多 
+    InputNumber组件正是为了满足这种需求而设计的，它不仅提供了基本的数字输入功能，还支持一系列高级配置，以适应各种复杂场景。本文将从一个示例代码入手，详细介绍 InputNumber组件。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
