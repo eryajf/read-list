@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [不一样的SVG！SVG 渐变边框在 CSS 中的应用](https://juejin.cn/post/7342391308614139916) | Tue Mar 05 2024 2:17 AM 
+- 🤗 [宣布Rust 1.76.0版本](https://juejin.cn/post/7342427121665720339) | Tue Mar 05 2024 3:09 AM 
     <details><summary>展开描述 ...</summary> 
-    介绍一些你可能没用过的SVG &amp; CSS小技巧。 在平时开发中，很多时候都会用到SVG。大部分情况我们都不必关注SVG里面到底是什么，直接当成图片资源引入就行，比如常见的图标资源 我们可以通过多种方式 
+    原文链接 2024年2月8日 · Rust发布团队 Rust团队很高兴地宣布Rust的新版本1.76.0。Rust是一种赋予每个人构建可靠和高效软件能力的编程语言。 如果您通过rustup安装了Rus 
     </details> 
 
-- 🎡 [linq 入门介绍-更加优雅的流式集合处理](https://juejin.cn/post/7342337684647002151) | Tue Mar 05 2024 2:16 AM 
+- 🎡 [Visual Studio Code 常用的快捷键](https://juejin.cn/post/7342403951365996596) | Tue Mar 05 2024 3:09 AM 
     <details><summary>展开描述 ...</summary> 
-    # 拓展阅读 &gt; [linq]&lpar;https://houbb.github.io/2017/03/20/dotnet-linq&rpar; &gt; [querydsl]&lpar;https://houbb.github 
+    前言 自从我开始使用 VSCode 编辑器以来，逐渐积累了一系列高效实用的快捷键集合。这其中，部分快捷键是源自 Windows 系统内置的通用功能，有一些是 VSCode 专属的。然而，无论是系统内置 
     </details> 
 
-- 🕯 [jinq 入门介绍-java中编写数据库查询的简单自然的方式](https://juejin.cn/post/7342414880769589311) | Tue Mar 05 2024 2:13 AM 
+- 🕯 [RN的父传子和子传父&lpar;函数式组件&rpar;](https://juejin.cn/post/7342481068170903579) | Tue Mar 05 2024 3:06 AM 
     <details><summary>展开描述 ...</summary> 
-    # 拓展阅读 &gt; [linq]&lpar;https://houbb.github.io/2017/03/20/dotnet-linq&rpar; &gt; [querydsl]&lpar;https://houbb.github 
+    父传子 父组件 子组件 在这个例子中，父组件ParentComponent通过props向子组件ChildComponent传递了一个名为data的数据。 子传父 父组件 子组件 在这个例子中，子组件 
     </details> 
 
-- 🚀 [2024年UI排版风格解析，经典模板一键复用！](https://juejin.cn/post/7342432361097068594) | Tue Mar 05 2024 2:11 AM 
+- 🚀 [Databend 开源周报第 134 期](https://juejin.cn/post/7342427121665638419) | Tue Mar 05 2024 3:06 AM 
     <details><summary>展开描述 ...</summary> 
-    在UI设计工作中，如何保证版式设计的“美观 + 合理”是经常需要考虑问题。经过了多年的设计工作后，笔者发现新人设计师的尤其容易陷入对流行趋势的简单模仿，缺失对排版本身的逻辑性认知。在这篇文章中，笔者将 
+    What&#39;s On In Databend 探索 Databend 本周新进展，遇到更贴近你心意的 Databend 。 支持多语句事务 Databend 现已支持提供基本的多语句事务支持。 多语句事 
     </details> 
 
-- 💪 [性能超GPT-4，Claude 3亮相；8999元起，M3版MacBook Air发布；英伟达成为全球市值第三大公司| 极客头条](https://juejin.cn/post/7342420969875226675) | Tue Mar 05 2024 2:06 AM 
+- 💪 [暗网——网络安全和暗网](https://juejin.cn/post/7342427366092947490) | Tue Mar 05 2024 2:55 AM 
     <details><summary>展开描述 ...</summary> 
-    稀土掘金 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。 一分钟速览新闻点！ 魅族旗下首款开放式 AI 终端魅族 21 PRO 亮相，大模型场景化落地提速  
+    简介 互联网和万维网（WWW）远比我们在数字环境中浏览时所看到的更广泛。新的信息技术（IT）应用导致互联网及其用户增加，预计这种增长将继续。尽管互联网已经发展壮大，但其被误用和滥用的脆弱性增加了，造成 
     </details> 
 <!-- juejin:END -->
 ### 少数派
