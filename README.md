@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [成为下一代 Web3 开发者｜第八期 Solidity 共学营开启招募啦～](https://www.v2ex.com/t/1020898#reply0) | Tue Mar 05 2024 2:00 PM
-- 🤗 [mv 指令](https://www.v2ex.com/t/1020896#reply2) | Tue Mar 05 2024 1:54 PM
-- 🎭 [Rust 开发的高性能 Python 包管理工具，可替换 pip、pip-tools 和 virtualenv](https://www.v2ex.com/t/1020894#reply0) | Tue Mar 05 2024 1:17 PM
-- 🥷 [百度代码辅助工具发布了](https://www.v2ex.com/t/1020882#reply8) | Tue Mar 05 2024 12:23 PM
-- 🐵 [都 2024 年了，好像就没有能室内外两用的，移动上网卡/随身 wifi？](https://www.v2ex.com/t/1020838#reply19) | Tue Mar 05 2024 9:13 AM<!-- v2ex:END -->
+- 🥸 [如何绕过漫游限制？](https://www.v2ex.com/t/1020903#reply1) | Tue Mar 05 2024 2:15 PM
+- 🤗 [成为下一代 Web3 开发者｜第八期 Solidity 共学营开启招募啦～](https://www.v2ex.com/t/1020898#reply0) | Tue Mar 05 2024 2:00 PM
+- 🎭 [mv 指令](https://www.v2ex.com/t/1020896#reply8) | Tue Mar 05 2024 1:54 PM
+- 🥷 [Rust 开发的高性能 Python 包管理工具，可替换 pip、pip-tools 和 virtualenv](https://www.v2ex.com/t/1020894#reply0) | Tue Mar 05 2024 1:17 PM
+- 🐵 [百度代码辅助工具发布了](https://www.v2ex.com/t/1020882#reply15) | Tue Mar 05 2024 12:23 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
