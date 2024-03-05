@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一文读懂Vue组件通信](https://juejin.cn/post/7342752740371431464) | Tue Mar 05 2024 1:01 PM 
+- 🤗 [CAN总线位时序的介绍](https://juejin.cn/post/7342693286447513609) | Tue Mar 05 2024 1:59 PM 
     <details><summary>展开描述 ...</summary> 
-    Vue组件之间的通信，伴随着Vue的版本迭代，也在不断发生着变化。这篇文章重新梳理了Vue组件通信中一些常规的方式，以及一些探索式的内容 
+    CAN控制器根据两根线上的电位差来判断总线电平。总线电平分为显性电平和隐性电平，二者必居其一。发送方通过使总线电平发生变化，将消息发送给接收方。 显性电平对应逻辑 0，CAN_H 和 CAN_L 之差 
     </details> 
 
-- 🎡 [🌐   线上故障分析  【上篇】](https://juejin.cn/post/7342706292810891316) | Tue Mar 05 2024 12:55 PM 
+- 🎡 [当未指定且存在多个构造器，实例化对象时Spring如何选择？](https://juejin.cn/post/7342750487874289683) | Tue Mar 05 2024 1:55 PM 
     <details><summary>展开描述 ...</summary> 
-    1 生产故障分级规范概要 1.1 开篇 计算机是当今世界的命脉，你能看到的任何地方，计算机都在改变着世界，不论是传统的制造生产，医疗通讯。还是新兴的虚拟现实，无人驾驶汽车 等领域。过去的几十年，计算机 
+    在本文中，我们深入研究了Spring框架中的autowireConstructor方法。该方法用于在存在多个构造器时选择最合适的构造器进行实例化Bean。通过分析源代码和推断方法判断的流程，我们了解到 
     </details> 
 
-- 🕯 [从0到1实现 Raft — 日志压缩 &lpar;MIT 6.5840 Lab3 PartD&rpar;](https://juejin.cn/post/7342718848816201740) | Tue Mar 05 2024 12:44 PM 
+- 🕯 [Java 抽象类与方法：实现安全性与代码重用](https://juejin.cn/post/7342743955317047346) | Tue Mar 05 2024 1:44 PM 
     <details><summary>展开描述 ...</summary> 
-    我们前面介绍了 Raft 算法 part A Leader 选举、B 日志同步、C持久化，现在来看最后一章——partD 日志压缩。 
+    Java 内部类 简介 在 Java 中，可以嵌套类（即类内部的类），称为内部类。嵌套类的目的是将属于一起的类分组，从而使您的代码更可读和可维护。 访问内部类 要访问内部类，请创建外部类的对象，然后创 
     </details> 
 
-- 🚀 [总结归纳Kubernetes | 一站式速查知识，助您轻松驾驭容器编排技术（水平扩展控制）](https://juejin.cn/post/7342718848816168972) | Tue Mar 05 2024 12:42 PM 
+- 🚀 [JVM成神之路&lpar;3&rpar;:详解运行时数据区](https://juejin.cn/post/7342718848816709644) | Tue Mar 05 2024 1:43 PM 
     <details><summary>展开描述 ...</summary> 
-    前提介绍 Kubernetes，亦被称为K8s，是业界公认的容器编排巨擘，以其卓越的能力简化了容器化应用的部署、扩展和管理流程。通过其强大的功能，Kubernetes不仅提升了应用的可靠性和可伸缩性， 
+    前言 Java 文件编译后的二进制 Class 文件被类加载器加载到内存中，那么JVM 将内存区域分成了五大块，即堆、方法区、java栈、本地栈、程序计数器等，这五个区域都有什么用途呢？ 
     </details> 
 
-- 💪 [HarmonyOS一杯冰美式的时间 -- 列表](https://juejin.cn/post/7342697016181522432) | Tue Mar 05 2024 12:30 PM 
+- 💪 [纯前端也能实现视频转GIF](https://juejin.cn/post/7342750487874240531) | Tue Mar 05 2024 1:39 PM 
     <details><summary>展开描述 ...</summary> 
-    一、前言 最近一直在写HramonyOS，很久没有输出情绪了。今天憋不住了，特定来输出一下。今天来说下List。List在APP里面是必不可少的，在Android中刷新还非常简单的，无论是使用Diff 
+    前言 之前使用过FFMpeg来做视频转GIF，但是FFMpeg的体积还是太大了，前端加载一般要10M左右。后面发现了 Webcodecs 这个新的 Web API ，它提供了解码视频的能力。所以就沿着 
     </details> 
 <!-- juejin:END -->
 ### 少数派
