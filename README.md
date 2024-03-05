@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [狙击GPT5？Claude3免费体验方法及初步体验](https://juejin.cn/post/7342750484804567051) | Tue Mar 05 2024 3:54 PM 
+- 🤗 [Nodejs 第五十二章（定时任务）](https://juejin.cn/post/7342766597243256867) | Tue Mar 05 2024 8:31 PM 
+    <details><summary>展开描述 ...</summary> 
+    什么是定时任务？ 定时任务是指在预定的时间点或时间间隔内执行的任务或操作。它们是自动化执行特定逻辑的一种方式，可用于执行重复性的、周期性的或计划性的任务。 定时任务通常用于以下情况： 执行后台任务：定 
+    </details> 
+
+- 🎡 [狙击GPT5？Claude3免费体验方法及初步体验](https://juejin.cn/post/7342750484804567051) | Tue Mar 05 2024 3:54 PM 
     <details><summary>展开描述 ...</summary> 
     3月4号，被视作“OpenAI最大竞争对手”的著名AI大模型公司Anthropic公司发布了其第三代Cluade大模型。本篇文章将通过Amazon Bedrock教大家如何免费体验Claude 3 
     </details> 
 
-- 🎡 [担心买到假U盘？一招教你怎么识别！](https://juejin.cn/post/7342693286447874057) | Tue Mar 05 2024 3:53 PM 
+- 🕯 [担心买到假U盘？一招教你怎么识别！](https://juejin.cn/post/7342693286447874057) | Tue Mar 05 2024 3:53 PM 
     <details><summary>展开描述 ...</summary> 
     大家好，我是老 J U盘在我们平时的工作中非常重要，不论是传输资料或者是备份重要的文件。自从国产存储颗粒实现自研之后，U盘的价格就大幅度降低。但我们追求性价比的同时也要注意那些远低于市场价的U盘是否为 
     </details> 
 
-- 🕯 [手写Vue指令：v-pre, v-once和v-model](https://juejin.cn/post/7342752740372054056) | Tue Mar 05 2024 3:19 PM 
+- 🚀 [手写Vue指令：v-pre, v-once和v-model](https://juejin.cn/post/7342752740372054056) | Tue Mar 05 2024 3:19 PM 
     <details><summary>展开描述 ...</summary> 
     本文将深入探讨`v-pre`、`v-once`、`v-model`三个指令，通过手写代码一步步揭示它们的工作原理，增进对Vue指令系统的理解。 
     </details> 
 
-- 🚀 [手写Vue指令：v-cloak、v-text和v-html](https://juejin.cn/post/7342752740372037672) | Tue Mar 05 2024 3:19 PM 
+- 💪 [手写Vue指令：v-cloak、v-text和v-html](https://juejin.cn/post/7342752740372037672) | Tue Mar 05 2024 3:19 PM 
     <details><summary>展开描述 ...</summary> 
     Vue框架为开发者提供了一系列强大的内置指令，极大地简化了DOM操作和数据绑定等常见前端任务的处理。本文将通过手写代码的方式，深入探索v-cloak、v-text和v-html的实现原理。 
-    </details> 
-
-- 💪 [Vue.js 指令入门：v-cloak, v-text, v-html, v-pre, v-once, v-model](https://juejin.cn/post/7342697016181932032) | Tue Mar 05 2024 3:18 PM 
-    <details><summary>展开描述 ...</summary> 
-    Vue 提供了许多内置指令，帮助开发者以声明式的方式处理常见的前端任务，如数据绑定、事件处理等。本文将详细解析几个常用的Vue指令：cloak、text、html、pre、once、model 
     </details> 
 <!-- juejin:END -->
 ### 少数派
