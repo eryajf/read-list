@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [CAN总线位时序的介绍](https://juejin.cn/post/7342693286447513609) | Tue Mar 05 2024 1:59 PM 
+- 🤗 [高并发挑战？试试这些架构优化篇技巧，让你的系统焕发新生！](https://juejin.cn/post/7342750487874633747) | Tue Mar 05 2024 3:06 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文为稀土掘金技术社区首发签约文章，30天内禁止转载，30天后未获授权禁止转载，侵权必究！ 背景介绍 随着业务的不断扩展，高并发问题成为了一个必须面对的挑战。为了应对这一挑战，我们可以从多个方面入手进 
+    </details> 
+
+- 🎡 [一个复杂的数据流转换：文件流转base64](https://juejin.cn/post/7342711269706465331) | Tue Mar 05 2024 2:40 PM 
+    <details><summary>展开描述 ...</summary> 
+    可是我再也没遇到一个像福贵这样令我难忘的人了，对自己的经历如此清楚，又能如此精彩地讲述自己是如何衰老的。这样的老人在乡间实在是 难以遇上，也许是困苦的生活损坏了他们的记忆，面对往事他们通常显得木讷.. 
+    </details> 
+
+- 🕯 [CAN总线位时序的介绍](https://juejin.cn/post/7342693286447513609) | Tue Mar 05 2024 1:59 PM 
     <details><summary>展开描述 ...</summary> 
     CAN控制器根据两根线上的电位差来判断总线电平。总线电平分为显性电平和隐性电平，二者必居其一。发送方通过使总线电平发生变化，将消息发送给接收方。 显性电平对应逻辑 0，CAN_H 和 CAN_L 之差 
     </details> 
 
-- 🎡 [当未指定且存在多个构造器，实例化对象时Spring如何选择？](https://juejin.cn/post/7342750487874289683) | Tue Mar 05 2024 1:55 PM 
+- 🚀 [当未指定且存在多个构造器，实例化对象时Spring如何选择？](https://juejin.cn/post/7342750487874289683) | Tue Mar 05 2024 1:55 PM 
     <details><summary>展开描述 ...</summary> 
     在本文中，我们深入研究了Spring框架中的autowireConstructor方法。该方法用于在存在多个构造器时选择最合适的构造器进行实例化Bean。通过分析源代码和推断方法判断的流程，我们了解到 
     </details> 
 
-- 🕯 [Java 抽象类与方法：实现安全性与代码重用](https://juejin.cn/post/7342743955317047346) | Tue Mar 05 2024 1:44 PM 
+- 💪 [Java 抽象类与方法：实现安全性与代码重用](https://juejin.cn/post/7342743955317047346) | Tue Mar 05 2024 1:44 PM 
     <details><summary>展开描述 ...</summary> 
     Java 内部类 简介 在 Java 中，可以嵌套类（即类内部的类），称为内部类。嵌套类的目的是将属于一起的类分组，从而使您的代码更可读和可维护。 访问内部类 要访问内部类，请创建外部类的对象，然后创 
-    </details> 
-
-- 🚀 [JVM成神之路&lpar;3&rpar;:详解运行时数据区](https://juejin.cn/post/7342718848816709644) | Tue Mar 05 2024 1:43 PM 
-    <details><summary>展开描述 ...</summary> 
-    前言 Java 文件编译后的二进制 Class 文件被类加载器加载到内存中，那么JVM 将内存区域分成了五大块，即堆、方法区、java栈、本地栈、程序计数器等，这五个区域都有什么用途呢？ 
-    </details> 
-
-- 💪 [纯前端也能实现视频转GIF](https://juejin.cn/post/7342750487874240531) | Tue Mar 05 2024 1:39 PM 
-    <details><summary>展开描述 ...</summary> 
-    前言 之前使用过FFMpeg来做视频转GIF，但是FFMpeg的体积还是太大了，前端加载一般要10M左右。后面发现了 Webcodecs 这个新的 Web API ，它提供了解码视频的能力。所以就沿着 
     </details> 
 <!-- juejin:END -->
 ### 少数派
