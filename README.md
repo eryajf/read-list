@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Webpack缓存失效？一文搞定排查难题！](https://juejin.cn/post/7342706292810776628) | Tue Mar 05 2024 12:18 PM 
+- 🤗 [一文读懂Vue组件通信](https://juejin.cn/post/7342752740371431464) | Tue Mar 05 2024 1:01 PM 
     <details><summary>展开描述 ...</summary> 
-    Webpack 缓存助力，让 Create React App 构建速度飞起！ 持久化缓存，告别构建速度的坑，快来掌握这个快速构建的秘密武器吧！ 
+    Vue组件之间的通信，伴随着Vue的版本迭代，也在不断发生着变化。这篇文章重新梳理了Vue组件通信中一些常规的方式，以及一些探索式的内容 
     </details> 
 
-- 🎡 [unocss 究竟比 tailwindcss 快多少？](https://juejin.cn/post/7342693286447087625) | Tue Mar 05 2024 12:03 PM 
+- 🎡 [🌐   线上故障分析  【上篇】](https://juejin.cn/post/7342706292810891316) | Tue Mar 05 2024 12:55 PM 
     <details><summary>展开描述 ...</summary> 
-    unocss 究竟比 tailwindcss 快多少？ 前言 我们知道 unocss 很快，也许是目前最快的原子化 CSS 引擎 &lpar;没有之一&rpar;。 unocss 解释它为什么这么快的原因，是因为它不用去 
+    1 生产故障分级规范概要 1.1 开篇 计算机是当今世界的命脉，你能看到的任何地方，计算机都在改变着世界，不论是传统的制造生产，医疗通讯。还是新兴的虚拟现实，无人驾驶汽车 等领域。过去的几十年，计算机 
     </details> 
 
-- 🕯 [实用干货：分享一个自动切换输入法的IDE插件](https://juejin.cn/post/7342692912913793050) | Tue Mar 05 2024 11:38 AM 
+- 🕯 [从0到1实现 Raft — 日志压缩 &lpar;MIT 6.5840 Lab3 PartD&rpar;](https://juejin.cn/post/7342718848816201740) | Tue Mar 05 2024 12:44 PM 
     <details><summary>展开描述 ...</summary> 
-    今天大澈给大家分享了两个插件，其实也可以算是一个，包括 IDEA插件 `Smart Input` ，以及 VSCode 插件 `Smart IME` 。 
+    我们前面介绍了 Raft 算法 part A Leader 选举、B 日志同步、C持久化，现在来看最后一章——partD 日志压缩。 
     </details> 
 
-- 🚀 [LangChain 教程：构建 LLM 支持的应用程序的指南](https://juejin.cn/post/7342750487873421331) | Tue Mar 05 2024 11:36 AM 
+- 🚀 [总结归纳Kubernetes | 一站式速查知识，助您轻松驾驭容器编排技术（水平扩展控制）](https://juejin.cn/post/7342718848816168972) | Tue Mar 05 2024 12:42 PM 
     <details><summary>展开描述 ...</summary> 
-    作者：Aditya Tripathi GPT-4 和 LLaMA 等大型语言模型 &lpar;LLM&rpar; 在过去几年中创造了一个充满可能性的世界。 它预示着人工智能工具和应用程序的繁荣，ChatGPT 似乎一夜之 
+    前提介绍 Kubernetes，亦被称为K8s，是业界公认的容器编排巨擘，以其卓越的能力简化了容器化应用的部署、扩展和管理流程。通过其强大的功能，Kubernetes不仅提升了应用的可靠性和可伸缩性， 
     </details> 
 
-- 💪 [关于 python 装饰器，你了解多少？](https://juejin.cn/post/7342678690667970596) | Tue Mar 05 2024 11:32 AM 
+- 💪 [HarmonyOS一杯冰美式的时间 -- 列表](https://juejin.cn/post/7342697016181522432) | Tue Mar 05 2024 12:30 PM 
     <details><summary>展开描述 ...</summary> 
-    一、装饰器介绍 装饰器是 Python 中的一种语法，它可以在不改变源代码的前提下，修改或增强函数或类的功能。装饰器本质上是一个函数或类，它接受一个函数或类作为参数，并返回一个新的函数或类。在 Pyt 
+    一、前言 最近一直在写HramonyOS，很久没有输出情绪了。今天憋不住了，特定来输出一下。今天来说下List。List在APP里面是必不可少的，在Android中刷新还非常简单的，无论是使用Diff 
     </details> 
 <!-- juejin:END -->
 ### 少数派
