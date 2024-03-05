@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [ScreenConnect 漏洞正被广泛应用于 ToddleShark 恶意软件传播](https://www.freebuf.com/news/393309.html) | Tue Mar 05 2024 5:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    用于下载附加阶段的 URL 是动态生成，从 C2 获取的初始有效载荷的哈希值始终唯一，因此标准的拦截列表方法几乎是无效的。 
+    </details> 
+
 - 🦄 [乌克兰又下“一城”，俄罗斯国防部服务器被攻破](https://www.freebuf.com/news/393297.html) | Tue Mar 05 2024 3:19 AM 
     <details><summary>展开描述 ...</summary> 
     乌克兰国防部情报总局（GUR）声称入侵了俄罗斯国防部（Minoborony）的内部服务器，并成功窃取大量敏感文件。 
     </details> 
 
-- 🦄 [全国网安标委发布《生成式人工智能服务安全基本要求》](https://www.freebuf.com/news/393261.html) | Mon Mar 04 2024 8:31 AM 
+- 🦅 [全国网安标委发布《生成式人工智能服务安全基本要求》](https://www.freebuf.com/news/393261.html) | Mon Mar 04 2024 8:31 AM 
     <details><summary>展开描述 ...</summary> 
     3月4日，全国网安标委发布《生成式人工智能服务安全基本要求》。 
     </details> 
 
-- 🦅 [FreeBuf 早报 | 俄罗斯加强对VPN的管控；新西兰全国多个加油站支付系统遭遇瘫痪](https://www.freebuf.com/news/393252.html) | Mon Mar 04 2024 8:08 AM 
+- 🪄 [FreeBuf 早报 | 俄罗斯加强对VPN的管控；新西兰全国多个加油站支付系统遭遇瘫痪](https://www.freebuf.com/news/393252.html) | Mon Mar 04 2024 8:08 AM 
     <details><summary>展开描述 ...</summary> 
     自2022年11月OpenAI发布ChatGPT以来，网络钓鱼攻击整体增加了惊人的1265%。 
     </details> 
 
-- 🪄 [中国智能汽车将威胁美国国家安全？](https://www.freebuf.com/news/393233.html) | Mon Mar 04 2024 7:15 AM 
+- 💻 [中国智能汽车将威胁美国国家安全？](https://www.freebuf.com/news/393233.html) | Mon Mar 04 2024 7:15 AM 
     <details><summary>展开描述 ...</summary> 
     数据安全是当今数字化时代中至关重要的一环，但它不应该成为阻碍自由贸易的背锅侠。 
-    </details> 
-
-- 💻 [微软 GitHub 遭大规模攻击，超过 10 万个存储库被感染](https://www.freebuf.com/news/393211.html) | Mon Mar 04 2024 6:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    GitHub 遭受了大规模攻击，可能影响成千上万的人。这种攻击涉及克隆安全且干净的存储库，添加恶意的、模糊的代码后重新上传。 
     </details> 
 <!-- freebuf:END -->
 
