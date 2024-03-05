@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [不用「死记」，但能「嗯背」：用重复和双链的力量搞定单词](https://sspai.com/post/85470) | Tue Mar 05 2024 3:28 AM 
+- 👹 [城市收藏夹｜慕尼黑的二月](https://sspai.com/post/86664) | Tue Mar 05 2024 7:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    在不同的季节，收获不一样的邂逅。&lt;a href=&quot;https://sspai.com/post/86664&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [不用「死记」，但能「嗯背」：用重复和双链的力量搞定单词](https://sspai.com/post/85470) | Tue Mar 05 2024 3:28 AM 
     <details><summary>展开描述 ...</summary> 
     开发者一定不是四川人吧？&lt;a href=&quot;https://sspai.com/post/85470&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：Apple 发布新款 MacBook Air，Apple 发布与 Spotify 有关的声明等](https://sspai.com/post/86902) | Tue Mar 05 2024 12:20 AM 
+- 🤭 [派早报：Apple 发布新款 MacBook Air，Apple 发布与 Spotify 有关的声明等](https://sspai.com/post/86902) | Tue Mar 05 2024 12:20 AM 
     <details><summary>展开描述 ...</summary> 
     勒索组织称对 Epic Games 的黑客攻击并未发生，HDMI Forum 拒绝 AMD 提出的 HDMI 2.1 相关开源请求等&lt;a href=&quot;https://sspai.com/post/86902&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派评 | 近期值得关注的 App](https://sspai.com/post/86890) | Mon Mar 04 2024 9:53 AM 
+- 🥸 [派评 | 近期值得关注的 App](https://sspai.com/post/86890) | Mon Mar 04 2024 9:53 AM 
     <details><summary>展开描述 ...</summary> 
     欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...&lt;a href=&quot;https://sspai.com/post/86890&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [一日一技 | 避免 Excel 跨工作表撤消的临时方案](https://sspai.com/post/86822) | Mon Mar 04 2024 7:00 AM 
+- 🙉 [一日一技 | 避免 Excel 跨工作表撤消的临时方案](https://sspai.com/post/86822) | Mon Mar 04 2024 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/86822&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [年度征文 | 平衡的幻觉：为什么我们总是追求不到完美的平衡？](https://sspai.com/post/86444) | Mon Mar 04 2024 3:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    平衡不是一个终点，而是一个起点，它是我们生活的一部分，让我们一起，用平衡的心，去创造属于自己的生活。&lt;a href=&quot;https://sspai.com/post/86444&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
