@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [宣布Rust 1.76.0版本](https://juejin.cn/post/7342427121665720339) | Tue Mar 05 2024 3:09 AM 
+- 🤗 [小册上新｜Java 并发：JUC 入门与进阶](https://juejin.cn/post/7342511044290560054) | Tue Mar 05 2024 4:04 AM 
     <details><summary>展开描述 ...</summary> 
-    原文链接 2024年2月8日 · Rust发布团队 Rust团队很高兴地宣布Rust的新版本1.76.0。Rust是一种赋予每个人构建可靠和高效软件能力的编程语言。 如果您通过rustup安装了Rus 
+    Java 技术专家「源码学徒」，带你高效学习并发编程中常用的工具以及使用方式，并逐步深入 Java JUC 的源码实现，助力你并发功力的提升。 
     </details> 
 
-- 🎡 [Visual Studio Code 常用的快捷键](https://juejin.cn/post/7342403951365996596) | Tue Mar 05 2024 3:09 AM 
+- 🎡 [webpack loader 真的是从左向右执行吗？为什么？](https://juejin.cn/post/7342400998857031695) | Tue Mar 05 2024 3:53 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 自从我开始使用 VSCode 编辑器以来，逐渐积累了一系列高效实用的快捷键集合。这其中，部分快捷键是源自 Windows 系统内置的通用功能，有一些是 VSCode 专属的。然而，无论是系统内置 
+    如果有人问你 webpack loader 的执行顺序，相信 90% 的人都会回答从右向左执行。但真相果真如此吗？让我们一起看一些非从右到左的例子。 
     </details> 
 
-- 🕯 [RN的父传子和子传父&lpar;函数式组件&rpar;](https://juejin.cn/post/7342481068170903579) | Tue Mar 05 2024 3:06 AM 
+- 🕯 [实现一个基于（RBAC）角色的权限访问控制](https://juejin.cn/post/7342393333624668175) | Tue Mar 05 2024 3:48 AM 
     <details><summary>展开描述 ...</summary> 
-    父传子 父组件 子组件 在这个例子中，父组件ParentComponent通过props向子组件ChildComponent传递了一个名为data的数据。 子传父 父组件 子组件 在这个例子中，子组件 
+    一、前言 在实现一个管理系统（CRM、CMS、OA）的时候，权限是一个必然要考虑的问题。通俗讲就是每个用户登陆系统后允许的操作和看到的页面或数据是不一样的。 为了实现这个效果，市面上有很多方案，但每个 
     </details> 
 
-- 🚀 [Databend 开源周报第 134 期](https://juejin.cn/post/7342427121665638419) | Tue Mar 05 2024 3:06 AM 
+- 🚀 [18.6K star！替换Trello + Notion ，开源项目管理利器](https://juejin.cn/post/7342511044290478134) | Tue Mar 05 2024 3:45 AM 
     <details><summary>展开描述 ...</summary> 
-    What&#39;s On In Databend 探索 Databend 本周新进展，遇到更贴近你心意的 Databend 。 支持多语句事务 Databend 现已支持提供基本的多语句事务支持。 多语句事 
+    选一款适合的项目管理工具，会让团队效率倍增，项目进展顺利。 今天我们介绍开源的项目管理利器，它可以平替notion+trello，开源免费、多语言、支持自托管，它就是：Focalboard。 
     </details> 
 
-- 💪 [暗网——网络安全和暗网](https://juejin.cn/post/7342427366092947490) | Tue Mar 05 2024 2:55 AM 
+- 💪 [Rust：参与2024年Google夏季代码大赛](https://juejin.cn/post/7342527074525577252) | Tue Mar 05 2024 3:40 AM 
     <details><summary>展开描述 ...</summary> 
-    简介 互联网和万维网（WWW）远比我们在数字环境中浏览时所看到的更广泛。新的信息技术（IT）应用导致互联网及其用户增加，预计这种增长将继续。尽管互联网已经发展壮大，但其被误用和滥用的脆弱性增加了，造成 
+    2024年2月21日 · Jakub Beránek, Jack Huey 和 Paul Lenz 我们写这篇博客文章是为了宣布Rust项目将参与2024年Google夏季代码大赛（GSoC）。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
