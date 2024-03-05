@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [程序员的财富指南 第九章 （承担责任）](https://juejin.cn/post/7342386713581666356) | Mon Mar 04 2024 6:41 PM 
+- 🤗 [2024年程序员就业形势分析：AI浪潮下的普通人该何去何从](https://juejin.cn/post/7342400022635741211) | Tue Mar 05 2024 12:54 AM 
     <details><summary>展开描述 ...</summary> 
-    在软件开发领域，我们经常听说要拥抱变化、敏捷开发和快速迭代。然而，一个关键组成部分常常被忽视，那就是个人责任和它对事业发展的影响。本文将探讨程序员如何勇于承担责任，利用杠杆效应，并在冒必要风险的同时获 
+    浣熊say官方网站：http://42.193.22.180/ &lpar;域名还在备案&rpar; 国家层面统计的就业情况我就不想去讨论，跟我们普通人没啥关系，我想说的是来自于我身边的，真实感受到的就业形式。 这是某网 
     </details> 
 
-- 🎡 [Web3入门科普, 什么是密码学Cryptology, 写给想从零入门Web3的人](https://juejin.cn/post/7342406486910582810) | Mon Mar 04 2024 4:44 PM 
+- 🎡 [聊聊面试必问的千万级数据库分页查询](https://juejin.cn/post/7342315772303048719) | Tue Mar 05 2024 12:50 AM 
     <details><summary>展开描述 ...</summary> 
-    MOVE 什么是密码学 —— About Cryptology —— 作者：潘勇旭 密码学是整个Sui区块链运行至关重要的一个组成部分，给整个区块链提供了时间和让整个DeFi能良好运行提供了安全、相互 
+    写在文章开头 千万级别的MySQL单表查询算是近几年面试时碰到的一道比较棘手的问题，因为很多开发没有这方面的经验，所以最终回答都不是很好，所以笔者就以MySQL8作为实验数据库为读者演示一下笔者日常的 
     </details> 
 
-- 🕯 [Nest：玩转最核心的 IOC、DI、MVC、AOP 概念](https://juejin.cn/post/7342360674151694362) | Mon Mar 04 2024 4:20 PM 
+- 🕯 [自定义 OpenTelemetry Collector 容器镜像](https://juejin.cn/post/7342315772303032335) | Tue Mar 05 2024 12:48 AM 
     <details><summary>展开描述 ...</summary> 
-    本文详细阐述了在 Nest.js 中实现控制反转（IoC）和依赖注入（DI）的重要性和方法，还介绍了在 Nest.js 中如何使用装饰器来实现依赖注入和模块注册，以及 MVC 设计模式和 AOP 编程 
+     ![]&lpar;https://atbug.oss-cn-hangzhou.aliyuncs.com/2024/03/05/pexels-tom-fisk-2226457.jpg&rpar; OpenTeleme 
     </details> 
 
-- 🚀 [Nest： 掌握异常过滤器的艺术](https://juejin.cn/post/7342349357385564186) | Mon Mar 04 2024 4:16 PM 
+- 🚀 [使用langchain搭建本地知识库系统&lpar;新&rpar;](https://juejin.cn/post/7342349357385744410) | Tue Mar 05 2024 12:36 AM 
     <details><summary>展开描述 ...</summary> 
-    本文全面介绍了在 Nest.js 中如何创建和使用异常过滤器。首先，展示了如何创建一个 Nest.js 项目并启动它，然后通过示例说明了如何在控制器中抛出 HttpException 错误。 
+    RAG 是`retrieval-augmented-generation`的缩写，翻译为中文的意思就检索增强，以基于最新，最准确的数据建立` LLM `的语料知识库。 
     </details> 
 
-- 💪 [Nodejs 第五十章（lua的基本使用）](https://juejin.cn/post/7342315772302655503) | Mon Mar 04 2024 3:50 PM 
+- 💪 [TCP和UDP可以使用同一个端口号吗？](https://juejin.cn/post/7342406486910910490) | Tue Mar 05 2024 12:27 AM 
     <details><summary>展开描述 ...</summary> 
-    lua基本使用 全局变量局部变量 全局变量是在全局作用域中定义的变量，可以在脚本的任何地方访问。 全局变量在定义时不需要使用关键字，直接赋值即可。 局部变量是在特定作用域内定义的变量，只能在其所属的作 
+    在网络通信中，同一台计算机中，TCP和UDP协议可以使用相同的端口号。每个网络进程中的套接字地址都是唯一的，由三元组（IP地址，传输层协议，端口号）标识。操作系统会根据数据包中的传输层协议进行处理.. 
     </details> 
 <!-- juejin:END -->
 ### 少数派
