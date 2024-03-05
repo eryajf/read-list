@@ -311,19 +311,19 @@
     自2022年11月OpenAI发布ChatGPT以来，网络钓鱼攻击整体增加了惊人的1265%。 
     </details> 
 
-- 🦅 [微软 GitHub 遭大规模攻击，超过 10 万个存储库被感染](https://www.freebuf.com/news/393211.html) | Mon Mar 04 2024 6:07 AM 
+- 🦅 [中国智能汽车将威胁美国国家安全？](https://www.freebuf.com/news/393233.html) | Mon Mar 04 2024 7:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    数据安全是当今数字化时代中至关重要的一环，但它不应该成为阻碍自由贸易的背锅侠。 
+    </details> 
+
+- 🪄 [微软 GitHub 遭大规模攻击，超过 10 万个存储库被感染](https://www.freebuf.com/news/393211.html) | Mon Mar 04 2024 6:07 AM 
     <details><summary>展开描述 ...</summary> 
     GitHub 遭受了大规模攻击，可能影响成千上万的人。这种攻击涉及克隆安全且干净的存储库，添加恶意的、模糊的代码后重新上传。 
     </details> 
 
-- 🪄 [美国法院命令NSO集团将其间谍软件代码交给WhatsApp](https://www.freebuf.com/news/393207.html) | Mon Mar 04 2024 5:40 AM 
+- 💻 [美国法院命令NSO集团将其间谍软件代码交给WhatsApp](https://www.freebuf.com/news/393207.html) | Mon Mar 04 2024 5:40 AM 
     <details><summary>展开描述 ...</summary> 
     另外，法院还要求NSO集团向WhatsApp演示这些间谍软件的工作原理，并提供完整功能的详细解读。 
-    </details> 
-
-- 💻 [98% 的企业与曾发生安全事件的第三方有关联](https://www.freebuf.com/news/393202.html) | Mon Mar 04 2024 5:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    98% 的企业与曾发生过网络安全事件的第三方机构有关联。 
     </details> 
 <!-- freebuf:END -->
 
