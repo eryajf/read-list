@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [社区速递 034 | 派友们的周日行程、月光社畜开始攒钱和新玩意们](https://sspai.com/post/86921) | Tue Mar 05 2024 9:17 AM 
+- 👹 [填满 Android 全面屏，怎么就这么难？](https://sspai.com/prime/story/android-edge-to-edge-problem) | Tue Mar 05 2024 12:49 PM 
+    <details><summary>展开描述 ...</summary> 
+    全面拥抱 AI 的时代，应用显示怎么还不能「全面」？&lt;a href=&quot;https://sspai.com/prime/story/android-edge-to-edge-problem&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
+    </details> 
+
+- 🐘 [社区速递 034 | 派友们的周日行程、月光社畜开始攒钱和新玩意们](https://sspai.com/post/86921) | Tue Mar 05 2024 9:17 AM 
     <details><summary>展开描述 ...</summary> 
     除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...&lt;a href=&quot;https://sspai.com/post/86921&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [好键盘还不贵，派商店的 K3 / K3 Pro 的史低清仓](https://sspai.com/post/86893) | Tue Mar 05 2024 8:00 AM 
+- 🤭 [好键盘还不贵，派商店的 K3 / K3 Pro 的史低清仓](https://sspai.com/post/86893) | Tue Mar 05 2024 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     月黑风高，本獭来到少数派仓库例行巡视，翻出一箱少数派定制 Keychron K3 键盘。&lt;a href=&quot;https://sspai.com/post/86893&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [城市收藏夹｜慕尼黑的二月](https://sspai.com/post/86664) | Tue Mar 05 2024 7:00 AM 
+- 🥸 [城市收藏夹｜慕尼黑的二月](https://sspai.com/post/86664) | Tue Mar 05 2024 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     在不同的季节，收获不一样的邂逅。&lt;a href=&quot;https://sspai.com/post/86664&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [不用「死记」，但能「嗯背」：用重复和双链的力量搞定单词](https://sspai.com/post/85470) | Tue Mar 05 2024 3:28 AM 
+- 🙉 [不用「死记」，但能「嗯背」：用重复和双链的力量搞定单词](https://sspai.com/post/85470) | Tue Mar 05 2024 3:28 AM 
     <details><summary>展开描述 ...</summary> 
     开发者一定不是四川人吧？&lt;a href=&quot;https://sspai.com/post/85470&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派早报：Apple 发布新款 MacBook Air，Apple 发布与 Spotify 有关的声明等](https://sspai.com/post/86902) | Tue Mar 05 2024 12:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    勒索组织称对 Epic Games 的黑客攻击并未发生，HDMI Forum 拒绝 AMD 提出的 HDMI 2.1 相关开源请求等&lt;a href=&quot;https://sspai.com/post/86902&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
