@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [都 2024 年了，好像就没有能室内外两用的，移动上网卡/随身 wifi？](https://www.v2ex.com/t/1020838#reply12) | Tue Mar 05 2024 9:13 AM
-- 🤗 [大量算法、大模型毕设来人合作](https://www.v2ex.com/t/1020826#reply5) | Tue Mar 05 2024 8:51 AM
-- 🎭 [AI 大模型那么火，真的有那么多公司在业务场景落地了么？](https://www.v2ex.com/t/1020813#reply18) | Tue Mar 05 2024 8:02 AM
-- 🥷 [公司要求安装几个软件才能上网，是不是安装了就要被监控了，帮忙看看](https://www.v2ex.com/t/1020804#reply26) | Tue Mar 05 2024 7:40 AM
-- 🐵 [yum 进程锁定](https://www.v2ex.com/t/1020771#reply12) | Tue Mar 05 2024 6:01 AM<!-- v2ex:END -->
+- 🥸 [百度代码辅助工具发布了](https://www.v2ex.com/t/1020882#reply0) | Tue Mar 05 2024 12:23 PM
+- 🤗 [上班感觉脖子僵硬！下午就没精力了，怎么办？](https://www.v2ex.com/t/1020881#reply0) | Tue Mar 05 2024 12:18 PM
+- 🎭 [都 2024 年了，好像就没有能室内外两用的，移动上网卡/随身 wifi？](https://www.v2ex.com/t/1020838#reply15) | Tue Mar 05 2024 9:13 AM
+- 🥷 [大量算法、大模型毕设来人合作](https://www.v2ex.com/t/1020826#reply5) | Tue Mar 05 2024 8:51 AM
+- 🐵 [AI 大模型那么火，真的有那么多公司在业务场景落地了么？](https://www.v2ex.com/t/1020813#reply23) | Tue Mar 05 2024 8:02 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
