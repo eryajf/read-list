@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [🔥等你报名｜掘金x扣子动手实验室来袭，想用AI实现idea的千万别错过～](https://juejin.cn/post/7342697812364738600) | Tue Mar 05 2024 8:13 AM 
+- 🤗 [🚀🚀🚀使用 增量 思想提升代码检查的效率，让你的开发体验倍增](https://juejin.cn/post/7342697812365967400) | Tue Mar 05 2024 9:09 AM 
     <details><summary>展开描述 ...</summary> 
-    🔔 掘金动手实验室（JUEJIN Code Lab）系列正式推出啦！ 这是由稀土掘金技术社区精心策划并推出的一系列技术实践活动，旨在为开发者提供一个实践与创新的平台。 
+    在计算机科学和软件工程中，增量 一词通常指的是对系统、数据或过程的小幅度修改或增加。它可以应用于多个领域和上下文，包括但不限于软件开发、数据处理和系统更新。 以下是一些具体的应用场景，以帮助解释 增量 
     </details> 
 
-- 🎡 [slate源码解读](https://juejin.cn/post/7342678690666971172) | Tue Mar 05 2024 8:13 AM 
+- 🎡 [探索 Claude 的新纪元 [译]](https://juejin.cn/post/7342697016180670464) | Tue Mar 05 2024 9:03 AM 
     <details><summary>展开描述 ...</summary> 
-    分析 `wangeditor` 和 `slate-react`源码我们可以看出两者功能类似，都是将 `slate-&gt;createEditor&lpar;&rpar;`生成的editor对象转化为vnode，然后挂载在带有 
+    在今天，我们兴奋地宣布 Claude 3 模型系列的问世，这一系列模型在多项认知任务上重设了行业的新高标准。 
     </details> 
 
-- 🕯 [wangeditor源码分析](https://juejin.cn/post/7342702838462152743) | Tue Mar 05 2024 8:07 AM 
+- 🕯 [0.5秒，无需GPU，Stability AI与华人团队VAST开源单图生成3D模型TripoSR](https://juejin.cn/entry/7342697812365836328) | Tue Mar 05 2024 8:58 AM 
     <details><summary>展开描述 ...</summary> 
-    wangeditor官方文档 基础用法： createEditor 源码 docs/dev.md 可看到准备工作： 了解 slate.js、了解 vdom 和 snabbdom.js、了解 lerna 
+    最近，文生视频模型 Sora 掀起了新一轮生成式 AI 模型浪潮，模型的多模态能力引起广泛关注。 现在，AI 模型在 3D 内容生成方面又有了新突破。 
     </details> 
 
-- 🚀 [2024最新PyQt5及其工具（Qt Designer、PyUIC、PyRcc）手把手操作实践指南](https://juejin.cn/post/7342474671325478912) | Tue Mar 05 2024 8:00 AM 
+- 🚀 [js工作原理](https://juejin.cn/post/7342480215533682698) | Tue Mar 05 2024 8:58 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 最近做了一些个人项目，内部逻辑还是挺多的，而且也有想要开源的想法，但是总不能直接把源码端给大家直接运行，有一些需求还有萌新小白用得上的，所以还得做一个可视化的UI。想了想能够通过Python建立 
+    js是单线程 js作为浏览器的脚本语言，主要是实现用户与浏览器的交互，以及操作dom。 进程与线程 进程：是cpu分配资源的最小单位。 线程：是cpu调度的最小单位。（线程是建立在进场的基础上的一次程 
     </details> 
 
-- 💪 [前端框架对比系列之vue和react的登录路由守卫鉴权](https://juejin.cn/post/7342501848412733467) | Tue Mar 05 2024 7:51 AM 
+- 💪 [抖音小店商品卡流量怎么做？五步教你做好一家商品卡店铺，并爆单](https://juejin.cn/post/7342480215533666314) | Tue Mar 05 2024 8:58 AM 
     <details><summary>展开描述 ...</summary> 
-    本文主要介绍的是vue和react框架的登录路由守卫鉴权过程，即登录之后才能进入系统的某些页面，没登录成功话需要重定向到登录页，这种形式的拦截鉴权基本上每个系统都会有这样的需求。 
+    大家好，我是电商花花。 目前抖音小店的商品卡流量也是不错的，商品卡流量最近也是不断被提起，现在做商品卡流量可以吗？怎么做？ 今天花花和大家聊聊做抖音小店商品卡流量需要注意的点，以及做自然流量的方法，如 
     </details> 
 <!-- juejin:END -->
 ### 少数派
