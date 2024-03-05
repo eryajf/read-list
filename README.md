@@ -306,24 +306,24 @@
     德国当局表示，他们正在对拦截的数据进行分析，以获取有关该平台用户的更多信息。 
     </details> 
 
-- 🦄 [聚焦两会 | 网络安全成为2024年热议“关键词”](https://www.freebuf.com/news/topnews/393338.html) | Tue Mar 05 2024 7:41 AM 
+- 🦄 [Vulhub 靶场 DC-7解析](https://www.freebuf.com/articles/web/391488.html) | Tue Mar 05 2024 7:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    一、环境搭建kali的靶攻击机IP地址：192.168.200.14DC-7靶机的IP地址：暂时未知注意：靶机和攻击机应处于一个网卡下通过MAC地址判断靶机DC-7的IP 地址二、信息收集1、探索网段 
+    </details> 
+
+- 🦅 [聚焦两会 | 网络安全成为2024年热议“关键词”](https://www.freebuf.com/news/topnews/393338.html) | Tue Mar 05 2024 7:41 AM 
     <details><summary>展开描述 ...</summary> 
     2024年全国“两会时间”正式开启。 
     </details> 
 
-- 🦅 [ScreenConnect 漏洞正被广泛应用于 ToddleShark 恶意软件传播](https://www.freebuf.com/news/393309.html) | Tue Mar 05 2024 5:30 AM 
+- 🪄 [ScreenConnect 漏洞正被广泛应用于 ToddleShark 恶意软件传播](https://www.freebuf.com/news/393309.html) | Tue Mar 05 2024 5:30 AM 
     <details><summary>展开描述 ...</summary> 
     用于下载附加阶段的 URL 是动态生成，从 C2 获取的初始有效载荷的哈希值始终唯一，因此标准的拦截列表方法几乎是无效的。 
     </details> 
 
-- 🪄 [乌克兰又下“一城”，俄罗斯国防部服务器被攻破](https://www.freebuf.com/news/393297.html) | Tue Mar 05 2024 3:19 AM 
+- 💻 [乌克兰又下“一城”，俄罗斯国防部服务器被攻破](https://www.freebuf.com/news/393297.html) | Tue Mar 05 2024 3:19 AM 
     <details><summary>展开描述 ...</summary> 
     乌克兰国防部情报总局（GUR）声称入侵了俄罗斯国防部（Minoborony）的内部服务器，并成功窃取大量敏感文件。 
-    </details> 
-
-- 💻 [全国网安标委发布《生成式人工智能服务安全基本要求》](https://www.freebuf.com/news/393261.html) | Mon Mar 04 2024 8:31 AM 
-    <details><summary>展开描述 ...</summary> 
-    3月4日，全国网安标委发布《生成式人工智能服务安全基本要求》。 
     </details> 
 <!-- freebuf:END -->
 
