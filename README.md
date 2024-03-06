@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [探索Java中的函数式接口与Streams API的高级用法](https://juejin.cn/post/7342861726001184819) | Wed Mar 06 2024 5:01 AM 
+- 🤗 [Docker系列02-docker-compose的离线安装和卸载](https://juejin.cn/post/7342790243010002953) | Wed Mar 06 2024 6:10 AM 
     <details><summary>展开描述 ...</summary> 
-    所谓函数式接口，其实就是只定义一个抽象方法的接口。虽然听起来很简单，但这个定义背后的含义是深远的。Java中的Lambda表达式，就是建立在函数式接口的基础上的。它们使得咱们可以用更简洁的方式来表示方 
+    概述 docker-compose是Docker官方提供的工具，允许开发者通过一个单独的文件和简单的命令来启动、停止和管理多个容器环境。 有了Docker，我们可以通过Docker的Shell命令来创 
     </details> 
 
-- 🎡 [Elasticsearch：从 ES|QL 到 Python 数据帧](https://juejin.cn/post/7342864744600354827) | Wed Mar 06 2024 5:00 AM 
+- 🎡 [产品需求：ECharts 鼠标自由刷选区域，定向放大图表](https://juejin.cn/post/7342861726001594419) | Wed Mar 06 2024 6:09 AM 
     <details><summary>展开描述 ...</summary> 
-    在我之前的文章 “Elasticsearch：ES|QL 查询展示”，我展示了如何在 Kibana 中使用 ES|QL 对索引来进行查询及统计。在很多的情况下，我们需要在客户端中来对数据进行查询，那么 
+    通过 ECharts 的 brush 和 dataZoom 组件结合使用，实现在图表中使用鼠标任意进行刷选、框选区域选择，并实现定向缩放的功能。 
     </details> 
 
-- 🕯 [适合收藏，100个CSS优化技巧！](https://juejin.cn/post/7342787949250478114) | Wed Mar 06 2024 4:51 AM 
+- 🕯 [react中添加窗口监听后hook保存数据获取异常问题](https://juejin.cn/post/7342861726001528883) | Wed Mar 06 2024 6:02 AM 
     <details><summary>展开描述 ...</summary> 
-    Hello，大家好，我是 Sunday。 当各种框架以及复杂的 JS 知识开始充斥着我们的工作环境时。谁还能够记得，以 CSS 来构建更加良好的用户体验，也是前端的一个重要组成部分~~ 
+    不知道你有没有遇到 react hooks 时添加窗口监听中的问题，使用 useEffect 中添加窗口监听的时候，访问 useState 中的参数时，会返回 useState 给定的初始数据 
     </details> 
 
-- 🚀 [微服务架构，客户端如何捕捉服务端的异常？](https://juejin.cn/post/7342861726001135667) | Wed Mar 06 2024 4:49 AM 
+- 🚀 [React基础 第二十八章（将事件与Effect分开）](https://juejin.cn/post/7342815085029883930) | Wed Mar 06 2024 5:58 AM 
     <details><summary>展开描述 ...</summary> 
-    在微服务架构或者分布式系统中，客户端如何捕捉服务端的异常？ 这里说的客户端指调用方、服务端指被调用方，它们通常运行在不同的进程之中，这些进程可能运行在同一台服务器，也可能运行在不同的服务器... 
+    在React应用中，正确地区分事件处理函数和Effect是编写高效、可维护代码的关键。本文将探讨如何在事件处理和Effect之间做出选择，以及如何将非响应式逻辑从Effect中分离出来，提高应用的响应 
     </details> 
 
-- 💪 [Bee Mobile组件库重磅升级](https://juejin.cn/post/7342864744600223755) | Wed Mar 06 2024 4:14 AM 
+- 💪 [iOS工程14调试及崩溃日志](https://juejin.cn/post/7342882984565096463) | Wed Mar 06 2024 5:39 AM 
     <details><summary>展开描述 ...</summary> 
-    Bee Mobile组件库重磅升级！ Bee Mobile组件库最新 v1.0.0 版本，支持最新的 React v18。 
+    一、xctest 1.xctest 的作用 XCTest是Xcode自带的单元测试框架，我们可以使用该框架做功能性代码的白盒单元测试，以自测并增强代码健壮性。 创建时勾选： 我们通过一个工程来了解xc 
     </details> 
 <!-- juejin:END -->
 ### 少数派
