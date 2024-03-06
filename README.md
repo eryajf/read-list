@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [TCP 中的 Delay ACK 和 Nagle 算法](https://juejin.cn/post/7343138637972078633) | Wed Mar 06 2024 11:05 AM 
+- 🤗 [前端中的“收口”思想与“泳道”](https://juejin.cn/post/7343132138667016231) | Wed Mar 06 2024 12:20 PM 
     <details><summary>展开描述 ...</summary> 
-    哈喽大家好，我是咸鱼。 今天分享一篇大佬的文章，作者：卡瓦邦噶！ 文章链接：https://www.kawabangga.com/posts/5845 教科书介绍的 TCP 内容通常比较基础：包括三次 
+    前言 周一是美团实习的lastday（2023.11.20-2024.3.4），现在已经回到学校躺平了，但是实习中学习到的两个点还未整理，今天给实习收收尾简单记录一下。 “收口”思想 比如在低代码项目 
     </details> 
 
-- 🎡 [前后端分离的Web应用开发模式的思考](https://juejin.cn/post/7343139078475644982) | Wed Mar 06 2024 10:34 AM 
+- 🎡 [Shadow Dom](https://juejin.cn/post/7343138527418712099) | Wed Mar 06 2024 12:01 PM 
     <details><summary>展开描述 ...</summary> 
-    本文探讨了前后端分离Web开发体系的发展过程，基本构想和核心技术，并细致分析了其技术特点，优势和可能有问题的地方，希望帮助对这个技术有更深入和客观的理解和认知 
+    Shadow DOM 是一种 Web 标准，它允许开发者在主文档的 DOM 中嵌入一个隔离的 DOM 子树，这个子树有自己的元素、样式和脚本，而不会影响主文档。Shadow DOM 的主要作用是封装， 
     </details> 
 
-- 🕯 [你是类型体操英雄吗：Typescript 递归的爱与恨](https://juejin.cn/post/7343132138655891492) | Wed Mar 06 2024 10:24 AM 
+- 🕯 [喜报｜3DCAT成为国内首批适配Vision Pro内容开发者](https://juejin.cn/post/7343131959852056626) | Wed Mar 06 2024 11:57 AM 
     <details><summary>展开描述 ...</summary> 
-    众所周知，Javascript 是一门弱类型语言，各方程序员亲切称他为 &quot;残疾&quot;语言，笔者称其是“哑巴”，因为稍不留神，我们就会中了他的“陷阱”，如吃了黄连一般有苦难言。 
+    近日，苹果在上海总部举办了国内首场 Apple Vision Pro 开发者实验室活动，3DCAT作为国内领先的实时渲染云平台参与了此次活动，成为国内首批适配 Vision Pro 的内容开发者之一。 
     </details> 
 
-- 🚀 [快速了解opencv进行颜色分割替换](https://juejin.cn/post/7343139490900836362) | Wed Mar 06 2024 10:21 AM 
+- 🚀 [解密prompt系列26. 人类思考vs模型思考：抽象和发散思维](https://juejin.cn/post/7343138527418564643) | Wed Mar 06 2024 11:26 AM 
     <details><summary>展开描述 ...</summary> 
-    三分钟快速了解下opencv中图片的颜色表示，以及如何根据颜色来提取图片中想要的内容，和颜色如何进行修改可以当个入门的了解。 
+    在Chain of Thought出来后，出现过许多的优化方案，这一章我们类比人类已有的思维方式，就抽象思维和发散思维这两个方向，聊聊step back和diversity prompt 
     </details> 
 
-- 💪 [谈谈签名的基本特征、作用、原理、流程和未来发展掘](https://juejin.cn/post/7343138804481802240) | Wed Mar 06 2024 10:20 AM 
+- 💪 [ChatGPT 新增朗读功能；微软 Win11 鼠标悬停自动打开 Copilot 丨 RTE 开发者日报 Vol.158](https://juejin.cn/post/7343138637972176937) | Wed Mar 06 2024 11:26 AM 
     <details><summary>展开描述 ...</summary> 
-    一、什么是签名，基本特征有哪些? 在日常生活中，签名是我们表明身份和授权的一种方式，无论是手写签名还是电子签名，它们都承载着签名者对某个文件内容的确认或对某个事件的授权，签名一般具备以下特征： 独特性 
+    苹果 AI 战略模糊，投资者逐渐失去耐心、贾跃亭：高合丁磊曾在公司拿 3000 万高收入，盗窃商业机密 
     </details> 
 <!-- juejin:END -->
 ### 少数派
