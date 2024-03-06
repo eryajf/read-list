@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [AI加速“应用现代化”，金融核心系统转型正当时](https://juejin.cn/post/7343138052972150822) | Wed Mar 06 2024 7:07 AM 
+- 🤗 [k8s+docker+jenkins+nginx自动化集成相关知识](https://juejin.cn/post/7343138429859414057) | Wed Mar 06 2024 8:06 AM 
     <details><summary>展开描述 ...</summary> 
-    数字经济时代，金融机构需要快速感知客户需求，提升产品供给的敏捷度，才能在白热化的竞争环境中抢占先机，而无论是金融机构还是方案提供商，都需要深入思考核心系统现代化的内涵，携手迈出应用现代化的重要一步 
+    一、k8s的作用 Kubernetes（简称k8s）的主要作用是提供一个强大的容器编排和管理系统，它能够自动化部署、扩展和管理容器化应用。以下是k8s核心功能的摘要： 容器编排：k8s可以将多个容器组 
     </details> 
 
-- 🎡 [利用Spring Boot与前端交互数据](https://juejin.cn/post/7343138052972068902) | Wed Mar 06 2024 7:02 AM 
+- 🎡 [vue项目扩展修改node_modules](https://juejin.cn/post/7343131959826956298) | Wed Mar 06 2024 8:05 AM 
     <details><summary>展开描述 ...</summary> 
-    摘要：本文将介绍如何利用Spring Boot搭建后端服务，并与前端进行数据交互。我们将通过一个简单的例子来展示整个过程，包括创建Spring Boot项目、定义API接口、处理HTTP请求以及返回数 
+    vue项目扩展修改node_modules 1. 问题背景 在平时的开发中有时会遇到这么一个问题，通过npm下载的一个第三依赖有时并不满足我们的开发需求，即对某一个需求点的个性化修改不太支持，但总体是 
     </details> 
 
-- 🕯 [原生 fetch 跨运行时使用指南](https://juejin.cn/post/7343139490891923494) | Wed Mar 06 2024 7:01 AM 
+- 🕯 [关于创建、销毁对象⭐Java程序员需要掌握的8个编程好习惯](https://juejin.cn/post/7343138804473643043) | Wed Mar 06 2024 8:03 AM 
     <details><summary>展开描述 ...</summary> 
-    现代 JS 环境中的 fetch API，我们会探讨如何在 Node、Deno 和 Bun 等各种 JS 环境中跨运行时使用 fetch API。 
+    关于创建、销毁对象⭐Java程序员需要掌握的8个编程好习惯（文末附案例地址）本文基于Effective Java中创建和销毁对象的章节汇总出8个相关的好习惯 
     </details> 
 
-- 🚀 [记一次解决element-plus警告的经历](https://juejin.cn/post/7343132617967386676) | Wed Mar 06 2024 6:58 AM 
+- 🚀 [2024 前六周数据出炉：进击的华为（含算法原题）](https://juejin.cn/post/7343139490892447782) | Wed Mar 06 2024 7:55 AM 
     <details><summary>展开描述 ...</summary> 
-    背景 最近在做 Vue3 + Element-plus 的项目，启动项目之后发现控制台报了一堆警告，如下图： 虽然有警告，但是页面是正常运行的，但是身为一名有代码洁癖的程序员，控制台一堆警告怎么能忍。 
+    转移的份额 据机构数据显示，今年前六周，苹果公司在中国的 iPhone 销量同比下降 24%，而华为手机销量增加 64%。 华为手机销量主要受 Mate60 影响，可见随着华为的芯片危机逐步缓解，华为 
     </details> 
 
-- 💪 [如何给文本域&lpar;textarea&rpar;加上&quot;行号&quot;显示-同步滚动、修改等操作](https://juejin.cn/post/7343138804473085987) | Wed Mar 06 2024 6:57 AM 
+- 💪 [cocos creator spine 换装 &lpar; js engine &rpar;](https://juejin.cn/post/7343139490892415014) | Wed Mar 06 2024 7:54 AM 
     <details><summary>展开描述 ...</summary> 
-    🔥🔥🔥给文本域添加行号显示需要考虑哪些事情？文本域增加或删除内容？文本域内容滚动？文本域尺寸变化？ 
+    从engine角度思考spine换肤 从webgl的角度我们思考下，engine对接spine，最终都是要将顶点数据提交到webgl，所以只要顺着提交顶点的逻辑反推，这件事就有迹可循。 之前的文章，我 
     </details> 
 <!-- juejin:END -->
 ### 少数派
