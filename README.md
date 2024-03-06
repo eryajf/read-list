@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [德国警方关闭该国最大的地下犯罪市场论坛](https://www.freebuf.com/news/393368.html) | Tue Mar 05 2024 8:58 AM 
+- 🦄 [每天1亿美元？网络攻击后现金流中断引发医疗保健行业动荡](https://www.freebuf.com/news/393428.html) | Wed Mar 06 2024 3:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    这些损失并不完全等同于资金流失，用“延期收款”来描述更为准确。 
+    </details> 
+
+- 🦄 [美国国家安全局发布网络和环境组件零信任指南](https://www.freebuf.com/news/393427.html) | Wed Mar 06 2024 3:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    通过宏观划分，企业可以为每个部门的用户创建网络区域，从而限制网络上的横向移动。 
+    </details> 
+
+- 🦅 [苹果曝出两个 iOS 系统 0-Day 漏洞](https://www.freebuf.com/news/393421.html) | Wed Mar 06 2024 2:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    威胁攻击者可利用漏洞绕过内核内存保护，给予具备任意内核读写权限的威胁攻击者可乘之机。 
+    </details> 
+
+- 🪄 [德国警方关闭该国最大的地下犯罪市场论坛](https://www.freebuf.com/news/393368.html) | Tue Mar 05 2024 8:58 AM 
     <details><summary>展开描述 ...</summary> 
     德国当局表示，他们正在对拦截的数据进行分析，以获取有关该平台用户的更多信息。 
     </details> 
 
-- 🦄 [Vulhub 靶场 DC-7解析](https://www.freebuf.com/articles/web/391488.html) | Tue Mar 05 2024 7:59 AM 
+- 💻 [Vulhub 靶场 DC-7解析](https://www.freebuf.com/articles/web/391488.html) | Tue Mar 05 2024 7:59 AM 
     <details><summary>展开描述 ...</summary> 
     一、环境搭建kali的靶攻击机IP地址：192.168.200.14DC-7靶机的IP地址：暂时未知注意：靶机和攻击机应处于一个网卡下通过MAC地址判断靶机DC-7的IP 地址二、信息收集1、探索网段 
-    </details> 
-
-- 🦅 [聚焦两会 | 网络安全成为2024年热议“关键词”](https://www.freebuf.com/news/topnews/393338.html) | Tue Mar 05 2024 7:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    2024年全国“两会时间”正式开启。 
-    </details> 
-
-- 🪄 [FreeBuf 早报 | 全国首部公共安全摄像头管理地方性法规施行；全球首个AI蠕虫面世](https://www.freebuf.com/articles/393323.html) | Tue Mar 05 2024 6:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    《株洲市公共安全视频图像信息系统管理条例》3月1日起在湖南省株洲市施行，这被称作是全国第一部管理公共安全摄像头的地方性法规。 
-    </details> 
-
-- 💻 [ScreenConnect 漏洞正被广泛应用于 ToddleShark 恶意软件传播](https://www.freebuf.com/news/393309.html) | Tue Mar 05 2024 5:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    用于下载附加阶段的 URL 是动态生成，从 C2 获取的初始有效载荷的哈希值始终唯一，因此标准的拦截列表方法几乎是无效的。 
     </details> 
 <!-- freebuf:END -->
 
