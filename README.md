@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [AI Vtuber一款聚合了多种大模型技术的虚拟主播](https://juejin.cn/post/7343139078487179318) | Wed Mar 06 2024 4:05 PM 
+- 🤗 [Trino源码解析（一）——源码阅读环境准备](https://juejin.cn/post/7343160798170234890) | Wed Mar 06 2024 4:20 PM 
+    <details><summary>展开描述 ...</summary> 
+    工具准备 操作系统：Mac OS X or Linux JDK版本要求比较高，目前我下载的JDK版本要求最低是21.0.1 Maven，但是Maven版本并不重要，因为编译的时候会通过./mvnw来使 
+    </details> 
+
+- 🎡 [AI Vtuber一款聚合了多种大模型技术的虚拟主播](https://juejin.cn/post/7343139078487179318) | Wed Mar 06 2024 4:05 PM 
     <details><summary>展开描述 ...</summary> 
     大家好，笔者荒生，今天调研了一款比较不错的开源项目AI-Vtuber，和大家一起分享。 AI-Vtuber是一款数字人虚拟直播软件，聚合了多种多种市面主流大模型技术，可谓牛得一逼。包括：支持ChatG 
     </details> 
 
-- 🎡 [玩一会小乌龟](https://juejin.cn/post/7343137522069684233) | Wed Mar 06 2024 3:49 PM 
+- 🕯 [玩一会小乌龟](https://juejin.cn/post/7343137522069684233) | Wed Mar 06 2024 3:49 PM 
     <details><summary>展开描述 ...</summary> 
     滚滚长江东逝水，浪花淘尽英雄。 是非成败转头空。青山依旧在，几度夕阳红。 白发渔樵江渚上，惯看秋月春风。 一壶浊酒喜相逢。古今多少事，都付笑谈中。 
     </details> 
 
-- 🕯 [事件捕获和React鉴权组件](https://juejin.cn/post/7343137522069602313) | Wed Mar 06 2024 3:20 PM 
+- 🚀 [事件捕获和React鉴权组件](https://juejin.cn/post/7343137522069602313) | Wed Mar 06 2024 3:20 PM 
     <details><summary>展开描述 ...</summary> 
     JavaScript 和 React 提供了灵活的事件处理机制，本文将详细介绍这一技术的应用，并通过实践案例展示如何封装和使用一个 React 鉴权组件。 
     </details> 
 
-- 🚀 [JavaScript 中的 ??= 运算符：简化变量赋值](https://juejin.cn/post/7343137631916965897) | Wed Mar 06 2024 3:19 PM 
+- 💪 [JavaScript 中的 ??= 运算符：简化变量赋值](https://juejin.cn/post/7343137631916965897) | Wed Mar 06 2024 3:19 PM 
     <details><summary>展开描述 ...</summary> 
     JavaScript ES2021 引入的逻辑空赋值运算符（`??=`）正是为了简化这种操作。本文将探讨 `??=` 运算符的使用场景和优势。 
-    </details> 
-
-- 💪 [你不知道的Vue](https://juejin.cn/post/7343131959852630066) | Wed Mar 06 2024 3:19 PM 
-    <details><summary>展开描述 ...</summary> 
-    Vue是一个由尤雨溪（Evan You）在2014年创立的开源前端框架，凭借其轻量级和灵活性，迅速在全球前端开发社区中赢得了广泛的认可。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
