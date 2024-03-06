@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [做项目选择 golang 而不是 Java 的理由?](https://www.v2ex.com/t/1021175#reply0) | Wed Mar 06 2024 9:09 AM
-- 🤗 [claude Java sdk](https://www.v2ex.com/t/1021173#reply0) | Wed Mar 06 2024 9:06 AM
-- 🎭 [独立开发者，产品&lpar;出海&rpar;最佳技术栈总结&lpar;个人观点&rpar;](https://www.v2ex.com/t/1021172#reply0) | Wed Mar 06 2024 9:06 AM
-- 🥷 [独立开发 [非全职] 3 年半的第一笔收入。](https://www.v2ex.com/t/1021159#reply11) | Wed Mar 06 2024 8:40 AM
-- 🐵 [关于 tcp 数据包的路由跟踪问题](https://www.v2ex.com/t/1021149#reply4) | Wed Mar 06 2024 8:05 AM<!-- v2ex:END -->
+- 🥸 [睡后收入（无人直播）](https://www.v2ex.com/t/1021205#reply3) | Wed Mar 06 2024 10:08 AM
+- 🤗 [关于提高 dd 的性能， blocksize 和压缩算法讨论](https://www.v2ex.com/t/1021194#reply0) | Wed Mar 06 2024 9:42 AM
+- 🎭 [海外部署的服务, 如何让国内外访问起来都相对较快?](https://www.v2ex.com/t/1021192#reply6) | Wed Mar 06 2024 9:39 AM
+- 🥷 [是我孤陋寡闻了吗? powershell 里面其实支持顺斜杠， tab 补全也能改成顺斜杠](https://www.v2ex.com/t/1021188#reply5) | Wed Mar 06 2024 9:34 AM
+- 🐵 [做项目选择 golang 而不是 Java 的理由?](https://www.v2ex.com/t/1021175#reply23) | Wed Mar 06 2024 9:09 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
