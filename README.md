@@ -333,8 +333,8 @@
 
 <!-- v2ex:START -->
 - 🥸 [多年程序员 mac 转 win](https://www.v2ex.com/t/1021264#reply8) | Wed Mar 06 2024 2:48 PM
-- 🤗 [想问下三星手机有没有像小米的侧边栏熄屏听剧功能，或者其他手机有吗？](https://www.v2ex.com/t/1021252#reply0) | Wed Mar 06 2024 2:11 PM
-- 🎭 [基础薄弱的研究生如何找合适的论文自学并复现实验？](https://www.v2ex.com/t/1021241#reply2) | Wed Mar 06 2024 1:14 PM
+- 🤗 [想问下三星手机有没有像小米的侧边栏熄屏听剧功能，或者其他手机有吗？](https://www.v2ex.com/t/1021252#reply1) | Wed Mar 06 2024 2:11 PM
+- 🎭 [基础薄弱的研究生如何找合适的论文自学并复现实验？](https://www.v2ex.com/t/1021241#reply3) | Wed Mar 06 2024 1:14 PM
 - 🥷 [感觉下个依赖都要 tz 的时代来了](https://www.v2ex.com/t/1021237#reply0) | Wed Mar 06 2024 1:03 PM
 - 🐵 [淘宝开放平台，法拍数据这相关的免费的 API，有用过的嘛？](https://www.v2ex.com/t/1021230#reply0) | Wed Mar 06 2024 12:46 PM<!-- v2ex:END -->
 
