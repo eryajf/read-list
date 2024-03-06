@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [微信小程序开发：页面分享卡片、风格选择、通道启用等可配置](https://juejin.cn/post/7343138955499700258) | Wed Mar 06 2024 10:08 AM 
+- 🤗 [TCP 中的 Delay ACK 和 Nagle 算法](https://juejin.cn/post/7343138637972078633) | Wed Mar 06 2024 11:05 AM 
     <details><summary>展开描述 ...</summary> 
-    本文我们需要完成的任务： 1、两个通道分享时配置不同的标题、封面 2、通道可选择是否启用 3、通道二的风格配置 4、两个通道数据隔离 5、默认通道配置 6、转换按钮可用判断 
+    哈喽大家好，我是咸鱼。 今天分享一篇大佬的文章，作者：卡瓦邦噶！ 文章链接：https://www.kawabangga.com/posts/5845 教科书介绍的 TCP 内容通常比较基础：包括三次 
     </details> 
 
-- 🎡 [进电子厂了，感触颇多...](https://juejin.cn/post/7343132138655858724) | Wed Mar 06 2024 10:06 AM 
+- 🎡 [前后端分离的Web应用开发模式的思考](https://juejin.cn/post/7343139078475644982) | Wed Mar 06 2024 10:34 AM 
     <details><summary>展开描述 ...</summary> 
-    珍惜你所拥有的，因为你不知道未来某一时刻你所拥有的是否会消失.................... 
+    本文探讨了前后端分离Web开发体系的发展过程，基本构想和核心技术，并细致分析了其技术特点，优势和可能有问题的地方，希望帮助对这个技术有更深入和客观的理解和认知 
     </details> 
 
-- 🕯 [什么是面包屑-Breadcrumb](https://juejin.cn/post/7343137631915737097) | Wed Mar 06 2024 9:56 AM 
+- 🕯 [你是类型体操英雄吗：Typescript 递归的爱与恨](https://juejin.cn/post/7343132138655891492) | Wed Mar 06 2024 10:24 AM 
     <details><summary>展开描述 ...</summary> 
-    什么是面包屑？既耳熟又陌生，难不成是个最熟悉的陌生人？ 🎤 遇事不决，可问春风，春风不语，必&lpar;bing&rpar;谷&lpar;google&rpar;百&lpar;baidu&rpar;寻 起源---想象来源于生活 格林童话名称：Hansel an 
+    众所周知，Javascript 是一门弱类型语言，各方程序员亲切称他为 &quot;残疾&quot;语言，笔者称其是“哑巴”，因为稍不留神，我们就会中了他的“陷阱”，如吃了黄连一般有苦难言。 
     </details> 
 
-- 🚀 [前端太卷了，不玩了，难道就你还不会写node.js全栈，赶紧学起来吧！！！！！](https://juejin.cn/post/7343138637971734569) | Wed Mar 06 2024 9:46 AM 
+- 🚀 [快速了解opencv进行颜色分割替换](https://juejin.cn/post/7343139490900836362) | Wed Mar 06 2024 10:21 AM 
     <details><summary>展开描述 ...</summary> 
-    node.js的优缺点和应用场景 Express框架：实践与技术探索 Express是一个轻量级且灵活的Node.js Web应用程序框架，它提供了一组简洁而强大的工具，帮助开发者快速构建Web应用。 
+    三分钟快速了解下opencv中图片的颜色表示，以及如何根据颜色来提取图片中想要的内容，和颜色如何进行修改可以当个入门的了解。 
     </details> 
 
-- 💪 [Jenkins-Android源码编译【架构设计】（适用鸿蒙/自动化/多产品/持续迭代）](https://juejin.cn/post/7343138429860266025) | Wed Mar 06 2024 9:43 AM 
+- 💪 [谈谈签名的基本特征、作用、原理、流程和未来发展掘](https://juejin.cn/post/7343138804481802240) | Wed Mar 06 2024 10:20 AM 
     <details><summary>展开描述 ...</summary> 
-    Jenkins是最常用最广泛的DevOps工具之一。本文重点讲解如何在Jenkins上面部署灵活设计/解耦性强/扩展性强的AOSP编译系统。 
+    一、什么是签名，基本特征有哪些? 在日常生活中，签名是我们表明身份和授权的一种方式，无论是手写签名还是电子签名，它们都承载着签名者对某个文件内容的确认或对某个事件的授权，签名一般具备以下特征： 独特性 
     </details> 
 <!-- juejin:END -->
 ### 少数派
