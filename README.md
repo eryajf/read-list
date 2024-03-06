@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Webpack5 模块联邦](https://juejin.cn/post/7343138637973110825) | Wed Mar 06 2024 3:05 PM 
+- 🤗 [AI Vtuber一款聚合了多种大模型技术的虚拟主播](https://juejin.cn/post/7343139078487179318) | Wed Mar 06 2024 4:05 PM 
     <details><summary>展开描述 ...</summary> 
-    Webpack 5 模块联邦（Module Federation）是一个允许 JavaScript 应用程序动态地从其他构建的代码中加载代码的功能。这是一个非常有越的特性，它能够在不同的前端应用之间共 
+    大家好，笔者荒生，今天调研了一款比较不错的开源项目AI-Vtuber，和大家一起分享。 AI-Vtuber是一款数字人虚拟直播软件，聚合了多种多种市面主流大模型技术，可谓牛得一逼。包括：支持ChatG 
     </details> 
 
-- 🎡 [俄罗斯套娃 &lpar;Matryoshka&rpar; 嵌入模型概述](https://juejin.cn/entry/7343138637972946985) | Wed Mar 06 2024 1:59 PM 
+- 🎡 [玩一会小乌龟](https://juejin.cn/post/7343137522069684233) | Wed Mar 06 2024 3:49 PM 
     <details><summary>展开描述 ...</summary> 
-    在这篇博客中，我们将向你介绍俄罗斯套娃嵌入的概念，并解释为什么它们很有用。我们将讨论这些模型在理论上是如何训练的，以及你如何使用 Sentence Transformers 来训练它们。 除此之外，我 
+    滚滚长江东逝水，浪花淘尽英雄。 是非成败转头空。青山依旧在，几度夕阳红。 白发渔樵江渚上，惯看秋月春风。 一壶浊酒喜相逢。古今多少事，都付笑谈中。 
     </details> 
 
-- 🕯 [如何使用Mybatis的拦截器？](https://juejin.cn/post/7343138527418941475) | Wed Mar 06 2024 1:55 PM 
+- 🕯 [事件捕获和React鉴权组件](https://juejin.cn/post/7343137522069602313) | Wed Mar 06 2024 3:20 PM 
     <details><summary>展开描述 ...</summary> 
-    MyBatis 拦截器是 MyBatis 提供的一个强大特性，它允许你在 MyBatis 执行其核心逻辑的关键节点插入自定义逻辑，从而改变 MyBatis 的默认行为。 
+    JavaScript 和 React 提供了灵活的事件处理机制，本文将详细介绍这一技术的应用，并通过实践案例展示如何封装和使用一个 React 鉴权组件。 
     </details> 
 
-- 🚀 [CAN总线位时序](https://juejin.cn/post/7343139078486917174) | Wed Mar 06 2024 1:46 PM 
+- 🚀 [JavaScript 中的 ??= 运算符：简化变量赋值](https://juejin.cn/post/7343137631916965897) | Wed Mar 06 2024 3:19 PM 
     <details><summary>展开描述 ...</summary> 
-    CAN控制器根据两根线上的电位差来判断总线电平。总线电平分为显性电平和隐性电平，二者必居其一。发送方通过使总线电平发生变化，将消息发送给接收方。 显性电平对应逻辑 0，CAN_H 和 CAN_L 之差 
+    JavaScript ES2021 引入的逻辑空赋值运算符（`??=`）正是为了简化这种操作。本文将探讨 `??=` 运算符的使用场景和优势。 
     </details> 
 
-- 💪 [Java 枚举（Enums）解析：提高代码可读性与易维护性](https://juejin.cn/post/7343138637972815913) | Wed Mar 06 2024 1:40 PM 
+- 💪 [你不知道的Vue](https://juejin.cn/post/7343131959852630066) | Wed Mar 06 2024 3:19 PM 
     <details><summary>展开描述 ...</summary> 
-    接口 在 Java 中，实现抽象的另一种方式是使用接口。 接口定义 接口是一个完全抽象的类，用于将具有空方法体的相关方法分组： 实现接口 要访问接口方法，必须使用 implements 关键字（而不是 
+    Vue是一个由尤雨溪（Evan You）在2014年创立的开源前端框架，凭借其轻量级和灵活性，迅速在全球前端开发社区中赢得了广泛的认可。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
