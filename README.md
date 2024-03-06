@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [解决人大金仓数据库KingbaseES json_equal表达式不支持json和jsonb类型的问题](https://juejin.cn/post/7343131959827496970) | Wed Mar 06 2024 9:08 AM 
+- 🤗 [微信小程序开发：页面分享卡片、风格选择、通道启用等可配置](https://juejin.cn/post/7343138955499700258) | Wed Mar 06 2024 10:08 AM 
     <details><summary>展开描述 ...</summary> 
-    关键字 JSON_EQUAL、参数类型、JSON、JSONB、人大金仓 问题描述 对于目前KES中oracle模式下JSON_EQUAL比较输入的两个JSON值是否相等这一条件表达式，当为表达式中参数 
+    本文我们需要完成的任务： 1、两个通道分享时配置不同的标题、封面 2、通道可选择是否启用 3、通道二的风格配置 4、两个通道数据隔离 5、默认通道配置 6、转换按钮可用判断 
     </details> 
 
-- 🎡 [WebFlux初尝试](https://juejin.cn/post/7343137631894372379) | Wed Mar 06 2024 9:06 AM 
+- 🎡 [进电子厂了，感触颇多...](https://juejin.cn/post/7343132138655858724) | Wed Mar 06 2024 10:06 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 WebFlux是Spring5.0推出的基于Reactor响应式模型的MVC框架，目前在国内相关的使用和资料比较少，本栏目主要分享一些使用过程中的经验，帮助大家入门并熟练使用这种响应式模型的编程 
+    珍惜你所拥有的，因为你不知道未来某一时刻你所拥有的是否会消失.................... 
     </details> 
 
-- 🕯 [人大金仓数据库解决了兼容oracle的索引失效问题](https://juejin.cn/post/7343131959827464202) | Wed Mar 06 2024 9:06 AM 
+- 🕯 [什么是面包屑-Breadcrumb](https://juejin.cn/post/7343137631915737097) | Wed Mar 06 2024 9:56 AM 
     <details><summary>展开描述 ...</summary> 
-    关键字 索引失效，禁用索引，启用索引，索引重建、人大金仓、 问题描述 Oracle能够通过语句设置，使索引失效，支持设置索引的启用禁用操作 create table t1&lpar;c1 int,c2 varc 
+    什么是面包屑？既耳熟又陌生，难不成是个最熟悉的陌生人？ 🎤 遇事不决，可问春风，春风不语，必&lpar;bing&rpar;谷&lpar;google&rpar;百&lpar;baidu&rpar;寻 起源---想象来源于生活 格林童话名称：Hansel an 
     </details> 
 
-- 🚀 [人大金仓数据库KingbaseES同义词相关介绍](https://juejin.cn/post/7343139490893119526) | Wed Mar 06 2024 9:04 AM 
+- 🚀 [前端太卷了，不玩了，难道就你还不会写node.js全栈，赶紧学起来吧！！！！！](https://juejin.cn/post/7343138637971734569) | Wed Mar 06 2024 9:46 AM 
     <details><summary>展开描述 ...</summary> 
-    关键字： KingbaseES、同义词、人大金仓 什么是同义词 同义词是一个模式对象的别名。因为同义词只是一个别名，因此除了要在数据字典存储其定义之外，不需要其它存储。同义词可以为数据库用户简化 SQ 
+    node.js的优缺点和应用场景 Express框架：实践与技术探索 Express是一个轻量级且灵活的Node.js Web应用程序框架，它提供了一组简洁而强大的工具，帮助开发者快速构建Web应用。 
     </details> 
 
-- 💪 [人大金仓数据库KingbaseES 兼容MYSQL自增列介绍](https://juejin.cn/post/7343137522053693467) | Wed Mar 06 2024 9:02 AM 
+- 💪 [Jenkins-Android源码编译【架构设计】（适用鸿蒙/自动化/多产品/持续迭代）](https://juejin.cn/post/7343138429860266025) | Wed Mar 06 2024 9:43 AM 
     <details><summary>展开描述 ...</summary> 
-    关键字： 自增列、人大金仓、KingbaseES 什么是自增列 Mysql可以通过auto_increment关键字，实现列数据自增，一般用于单表的唯一标识列，常见的有主键，每张表最多只能有一个自增列 
+    Jenkins是最常用最广泛的DevOps工具之一。本文重点讲解如何在Jenkins上面部署灵活设计/解耦性强/扩展性强的AOSP编译系统。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
