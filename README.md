@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [System Toolkit 6.1.0 系统工具包](https://xclient.info/s/system-toolkit.html) | Mon Mar 04 2024 12:54 AM 
+- 🦏 [Serial Box 03.2024 软件序列号大全](https://xclient.info/s/serial-box.html) | Wed Mar 06 2024 12:41 AM 
     <details><summary>展开描述 ...</summary> 
-    System Toolkit 是为MacOS设计的一体化信息和维护应用程序。 
+    Serial Box是一个序列号神器，有国外的网友收集网络上流传的Mac软件序列号让后将其整合到一起，给其他网友使用的 
     </details> 
 
--  [One Switch 1.34.1 一键切换系统各项功能](https://xclient.info/s/one-switch.html) | Mon Mar 04 2024 12:53 AM 
+-  [SnapMotion 5.2.1 精确地从视频中提取静态图像](https://xclient.info/s/snapmotion.html) | Wed Mar 06 2024 12:40 AM 
     <details><summary>展开描述 ...</summary> 
-    One Switch 是Mac平台上的一款集合一键切换系统各项功能的工具。One Switch Mac版是一款小巧的应用程序，旨在通过快速访问一些重要的交换机来提高您的效率。它可以从菜单栏打开，只需点击几下即可切换某些系统功能。 
+    SnapMotion可以快速将截取视频中的图片，并且支持批量处理，支持导出为GIF等格式，简单易用。 
     </details> 
 
-- ⚗️ [Syncovery 10.11.3 文件同步和备份](https://xclient.info/s/syncovery.html) | Mon Mar 04 2024 12:53 AM 
+- ⚗️ [Feeder 4.6 创建和发布RSS](https://xclient.info/s/feeder.html) | Wed Mar 06 2024 12:39 AM 
     <details><summary>展开描述 ...</summary> 
-    Syncovery是一款全能文件管理工具同时可以跨平台同步备份。 
+    Feeder是Mac os平台上的一款帮助用户编辑rss文档的Mac工具 
     </details> 
 
-- 🔥 [Topaz Gigapixel AI 7.0.3 图片无损放大](https://xclient.info/s/topaz-gigapixel-ai.html) | Mon Mar 04 2024 12:39 AM 
+- 🔥 [EdgeView 4.6.0 图像查看器](https://xclient.info/s/edgeview.html) | Wed Mar 06 2024 12:39 AM 
     <details><summary>展开描述 ...</summary> 
-    Topaz Gigapixel AI 是Mac平台上的一款图片无损放大工具，是第一个也是唯一一个使用人工智能功能扩展图像的应用程序，同时添加自然细节以获得惊人的效果。 
+    EdgeView是MacOS X的一款图像查看器。你可以打开各种图像文件，也可以打开像ZIP这样的归档文件，而不用提取。您可以在内置的文件浏览器中检查和打开文件，并且可以连接到FTP并直接打开文件。 
     </details> 
 
-- 🌋 [Text Workflow 1.9.2 文本编辑](https://xclient.info/s/text-workflow.html) | Mon Mar 04 2024 12:38 AM 
+- 🌋 [Alfred 5.5-2253 效率神器](https://xclient.info/s/alfred.html) | Wed Mar 06 2024 12:38 AM 
     <details><summary>展开描述 ...</summary> 
-    Text Workflow 是一款 macOS 文本编辑工具，可帮助您自动化重复性的文本处理任务。 
+    Alfred 这是一款被称之为Mac效率神器的App，有了Alfred 你甚至无需鼠标就可以实现各种操作，包括出发各种文件、网络操作，其UI界面使用方便，而且不是通过命令来实现，是开发者们和键盘刘童鞋们的神器，比之此前类似的软件——Pack和Power来说完全是秒杀的节奏。 
     </details> 
 <!-- xclient:END -->
 
