@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [sqlServer 如何增量同步数据到 MySql，小公司买不起 DTS 服务](https://www.v2ex.com/t/1021090#reply0) | Wed Mar 06 2024 6:03 AM
-- 🤗 [刚才用小米 12 pro 看了下片子，手机直接不能开机了，会不会被政府盯上了，被攻击了？](https://www.v2ex.com/t/1021086#reply19) | Wed Mar 06 2024 5:57 AM
-- 🎭 [类似于 Github copilot, 百度推出了 comate， 感兴趣的可以尝试下，一起薅羊毛](https://www.v2ex.com/t/1021083#reply0) | Wed Mar 06 2024 5:50 AM
-- 🥷 [移动端免 Wi-Fi 代理进行抓包调试](https://www.v2ex.com/t/1021074#reply6) | Wed Mar 06 2024 5:30 AM
-- 🐵 [请教一个 ElasticSearch 相关的业务问题](https://www.v2ex.com/t/1021070#reply4) | Wed Mar 06 2024 5:12 AM<!-- v2ex:END -->
+- 🥸 [Windows 11 亮点之一的 Android app 支持这么快就凉凉了？？](https://www.v2ex.com/t/1021118#reply2) | Wed Mar 06 2024 7:07 AM
+- 🤗 [自建的 wallabag 连 google 和 twitter 都没法快照吗？](https://www.v2ex.com/t/1021112#reply0) | Wed Mar 06 2024 6:51 AM
+- 🎭 [请教软考中级通过经验](https://www.v2ex.com/t/1021110#reply9) | Wed Mar 06 2024 6:47 AM
+- 🥷 [有用 Bitbucket 的老哥吗？你们最近使用正常吗？](https://www.v2ex.com/t/1021107#reply4) | Wed Mar 06 2024 6:38 AM
+- 🐵 [分享自用小型仓库管理系统](https://www.v2ex.com/t/1021101#reply0) | Wed Mar 06 2024 6:27 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
