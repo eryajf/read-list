@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Hubql CLI - 从您的终端创建数据模式可视化](https://xinquji.com/posts/809552?utm_campaign=xinquji-rss) | Tue Mar 05 2024 6:00 AM 
+- 👀 [Festivawl - 与 Google 日历类似，但适用于每个节日](https://xinquji.com/posts/809592?utm_campaign=xinquji-rss) | Wed Mar 06 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     从您的终端创建数据模式可视化  
+     与 Google 日历类似，但适用于每个节日  
     </details> 
 
-- 🥷 [kickstartDS low-code CMS starters - 将设计系统连接到 CMS 变得更加容易](https://xinquji.com/posts/809551?utm_campaign=xinquji-rss) | Tue Mar 05 2024 6:00 AM 
+- 🥷 [Shakepay - 加拿大人的理财应用程序](https://xinquji.com/posts/809591?utm_campaign=xinquji-rss) | Wed Mar 06 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     将设计系统连接到 CMS 变得更加容易  
+     加拿大人的理财应用程序  
     </details> 
 
-- 💼 [Microlaunch - 启动想法和产品并获取反馈](https://xinquji.com/posts/809550?utm_campaign=xinquji-rss) | Tue Mar 05 2024 6:00 AM 
+- 💼 [Sparrow - 结果驱动的沟通和团队协作工具](https://xinquji.com/posts/809590?utm_campaign=xinquji-rss) | Wed Mar 06 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     启动想法和产品并获取反馈  
+     结果驱动的沟通和团队协作工具  
     </details> 
 
-- 🦅 [Habitomic - 与您的人工智能习惯教练一起提升您的生活](https://xinquji.com/posts/809549?utm_campaign=xinquji-rss) | Tue Mar 05 2024 6:00 AM 
+- 🦅 [FlyWP - weDevs 专注于 WordPress 的服务器管理平台](https://xinquji.com/posts/809589?utm_campaign=xinquji-rss) | Wed Mar 06 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     与您的人工智能习惯教练一起提升您的生活  
+     weDevs 专注于 WordPress 的服务器管理平台  
     </details> 
 
-- 😺 [Invity - 让您的首次比特币体验安全且简单](https://xinquji.com/posts/809548?utm_campaign=xinquji-rss) | Tue Mar 05 2024 6:00 AM 
+- 😺 [AI Assist by Dopt - 建立非常相关的产品内帮助](https://xinquji.com/posts/809588?utm_campaign=xinquji-rss) | Wed Mar 06 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     让您的首次比特币体验安全且简单  
+     建立非常相关的产品内帮助  
     </details> 
 <!-- xinquji:END -->
