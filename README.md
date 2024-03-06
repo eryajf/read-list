@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [理解和实现 RESTful API](https://juejin.cn/post/7342770813278666778) | Wed Mar 06 2024 3:08 AM 
+- 🤗 [走两步？Getx一个Stateful页面，View和Controller，为什么要这么设计？](https://juejin.cn/post/7342787949250297890) | Wed Mar 06 2024 3:57 AM 
     <details><summary>展开描述 ...</summary> 
-    RESTful API 是按照 REST 架构风格设计的 API，它使用 HTTP 方法（如 GET、POST、PUT、DELETE 等）来实现对资源的操作. 
+    越简单越困难，嘿蛋炒饭。 先看代码 View Controller 走两步？分析分析？ 这两份代码是Flutter中使用GetX库来管理状态和导航的一个例子。GetX是一个轻量级的Flutter库，用 
     </details> 
 
-- 🎡 [Flutter中，当我们谈及AutomaticKeepAliveClientMixin、wantKeepAlive](https://juejin.cn/post/7342766597244403747) | Wed Mar 06 2024 3:06 AM 
+- 🎡 [转型之路：从WEB2前端（Vue）到WEB3前端开发，通过React实现跨越](https://juejin.cn/post/7342798550899097641) | Wed Mar 06 2024 3:52 AM 
     <details><summary>展开描述 ...</summary> 
-    当我唱起这首歌？ 不对，重来。 AutomaticKeepAliveClientMixin 开打 让页面、组件不可见时仍然活跃，一般用于tabview，或者比较重量耗时的页面 AutomaticKee 
+    当前互联网技术发展的大潮中，Web2前端工程师向Web3领域转型的需求日益凸显。对于熟悉Vue的开发者来说，转技术栈至React并适应Web3开发环境是一项既有挑战也有机遇的任务。本文将引导您从Vue 
     </details> 
 
-- 🕯 [【一分钟快学】提高 Python 3 代码质量：掌握 TypedDict 实现精确的类型安全字典](https://juejin.cn/post/7342790243009363977) | Wed Mar 06 2024 3:03 AM 
+- 🕯 [LLM 推理优化探微 &lpar;2&rpar; ：Transformer 模型 KV 缓存技术详解](https://juejin.cn/post/7342787949250068514) | Wed Mar 06 2024 3:41 AM 
     <details><summary>展开描述 ...</summary> 
-    本文讲述了Python的TypedDict特性，它允许开发者定义具有类型安全的固定键字典。通过实用示例和关键注意事项，文章指导如何提升字典的类型准确性和代码可维护性。 
+    本文是该系列文章的第二篇，作者的核心观点是：KV 缓存可以显著减少语言模型的运算量，从而提高其生成文本的效率，但是这种技术并非免费的午餐。 
     </details> 
 
-- 🚀 [MySQL分页查询的三种常用方法](https://juejin.cn/post/7342864744599502859) | Wed Mar 06 2024 2:55 AM 
+- 🚀 [理解并防御跨站脚本攻击（XSS）](https://juejin.cn/post/7342766597244649507) | Wed Mar 06 2024 3:30 AM 
     <details><summary>展开描述 ...</summary> 
-    在处理数据库查询时，我们经常需要对结果进行分页，以便在用户界面上提供更好的浏览体验。MySQL提供了几种不同的方法来实现这一功能，其中最常见的是使用​​LIMIT​​​子句。 
+    跨站脚本攻击（XSS）是网络应用中常见的安全威胁，它允许攻击者在用户的浏览器中注入恶意的 JavaScript 代码，从而篡改用户在网站上的体验，盗取敏感信息，甚至进行身份冒充。 
     </details> 
 
-- 💪 [c++中的单例模式](https://juejin.cn/post/7342861726000398387) | Wed Mar 06 2024 2:55 AM 
+- 💪 [Rust web开发 ActixWeb 入门](https://juejin.cn/post/7342858918161793059) | Wed Mar 06 2024 3:28 AM 
     <details><summary>展开描述 ...</summary> 
-    首先我们需要知道单例模式的作用是什么，单例模式也就是单实例，全局只有wei&#39;y的作用是什么，单例模式也就是单实例， ，这个实例对象中究竟储存什么数据则都行，例如你希望什么数据是全局唯一的数据，你就可以 
+    Rust Actix Web 入门 目前，Actix Web 仍然是 Rust Web 后端生态系统中极其强大的竞争对手。尽管之前的事件可能对其产生影响，但它仍然很强大，并且是 Rust 中最受推荐的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
