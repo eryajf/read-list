@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [k8s+docker+jenkins+nginx自动化集成相关知识](https://juejin.cn/post/7343138429859414057) | Wed Mar 06 2024 8:06 AM 
+- 🤗 [解决人大金仓数据库KingbaseES json_equal表达式不支持json和jsonb类型的问题](https://juejin.cn/post/7343131959827496970) | Wed Mar 06 2024 9:08 AM 
     <details><summary>展开描述 ...</summary> 
-    一、k8s的作用 Kubernetes（简称k8s）的主要作用是提供一个强大的容器编排和管理系统，它能够自动化部署、扩展和管理容器化应用。以下是k8s核心功能的摘要： 容器编排：k8s可以将多个容器组 
+    关键字 JSON_EQUAL、参数类型、JSON、JSONB、人大金仓 问题描述 对于目前KES中oracle模式下JSON_EQUAL比较输入的两个JSON值是否相等这一条件表达式，当为表达式中参数 
     </details> 
 
-- 🎡 [vue项目扩展修改node_modules](https://juejin.cn/post/7343131959826956298) | Wed Mar 06 2024 8:05 AM 
+- 🎡 [WebFlux初尝试](https://juejin.cn/post/7343137631894372379) | Wed Mar 06 2024 9:06 AM 
     <details><summary>展开描述 ...</summary> 
-    vue项目扩展修改node_modules 1. 问题背景 在平时的开发中有时会遇到这么一个问题，通过npm下载的一个第三依赖有时并不满足我们的开发需求，即对某一个需求点的个性化修改不太支持，但总体是 
+    前言 WebFlux是Spring5.0推出的基于Reactor响应式模型的MVC框架，目前在国内相关的使用和资料比较少，本栏目主要分享一些使用过程中的经验，帮助大家入门并熟练使用这种响应式模型的编程 
     </details> 
 
-- 🕯 [关于创建、销毁对象⭐Java程序员需要掌握的8个编程好习惯](https://juejin.cn/post/7343138804473643043) | Wed Mar 06 2024 8:03 AM 
+- 🕯 [人大金仓数据库解决了兼容oracle的索引失效问题](https://juejin.cn/post/7343131959827464202) | Wed Mar 06 2024 9:06 AM 
     <details><summary>展开描述 ...</summary> 
-    关于创建、销毁对象⭐Java程序员需要掌握的8个编程好习惯（文末附案例地址）本文基于Effective Java中创建和销毁对象的章节汇总出8个相关的好习惯 
+    关键字 索引失效，禁用索引，启用索引，索引重建、人大金仓、 问题描述 Oracle能够通过语句设置，使索引失效，支持设置索引的启用禁用操作 create table t1&lpar;c1 int,c2 varc 
     </details> 
 
-- 🚀 [2024 前六周数据出炉：进击的华为（含算法原题）](https://juejin.cn/post/7343139490892447782) | Wed Mar 06 2024 7:55 AM 
+- 🚀 [人大金仓数据库KingbaseES同义词相关介绍](https://juejin.cn/post/7343139490893119526) | Wed Mar 06 2024 9:04 AM 
     <details><summary>展开描述 ...</summary> 
-    转移的份额 据机构数据显示，今年前六周，苹果公司在中国的 iPhone 销量同比下降 24%，而华为手机销量增加 64%。 华为手机销量主要受 Mate60 影响，可见随着华为的芯片危机逐步缓解，华为 
+    关键字： KingbaseES、同义词、人大金仓 什么是同义词 同义词是一个模式对象的别名。因为同义词只是一个别名，因此除了要在数据字典存储其定义之外，不需要其它存储。同义词可以为数据库用户简化 SQ 
     </details> 
 
-- 💪 [cocos creator spine 换装 &lpar; js engine &rpar;](https://juejin.cn/post/7343139490892415014) | Wed Mar 06 2024 7:54 AM 
+- 💪 [人大金仓数据库KingbaseES 兼容MYSQL自增列介绍](https://juejin.cn/post/7343137522053693467) | Wed Mar 06 2024 9:02 AM 
     <details><summary>展开描述 ...</summary> 
-    从engine角度思考spine换肤 从webgl的角度我们思考下，engine对接spine，最终都是要将顶点数据提交到webgl，所以只要顺着提交顶点的逻辑反推，这件事就有迹可循。 之前的文章，我 
+    关键字： 自增列、人大金仓、KingbaseES 什么是自增列 Mysql可以通过auto_increment关键字，实现列数据自增，一般用于单表的唯一标识列，常见的有主键，每张表最多只能有一个自增列 
     </details> 
 <!-- juejin:END -->
 ### 少数派
