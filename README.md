@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有关域名被污染的一个奇怪现象.](https://www.v2ex.com/t/1020933#reply2) | Tue Mar 05 2024 10:39 PM
-- 🤗 [Microsoft is killing off Windows Subsystem for Android](https://www.v2ex.com/t/1020931#reply10) | Tue Mar 05 2024 6:07 PM
-- 🎭 [安卓手机刷机请教](https://www.v2ex.com/t/1020919#reply1) | Tue Mar 05 2024 3:35 PM
-- 🥷 [淘宝开放平台，这个免费的 api 的示例里面的 url,port,appkey,secret 怎么填写？有用过的嘛？](https://www.v2ex.com/t/1020915#reply3) | Tue Mar 05 2024 3:19 PM
-- 🐵 [mv 指令](https://www.v2ex.com/t/1020896#reply12) | Tue Mar 05 2024 1:54 PM<!-- v2ex:END -->
+- 🥸 [GitLab 可以装在 windows 上吗？](https://www.v2ex.com/t/1020985#reply1) | Wed Mar 06 2024 2:12 AM
+- 🤗 [请问 Arc 浏览器在 Windows 下要如何才能正常使用？](https://www.v2ex.com/t/1020971#reply4) | Wed Mar 06 2024 1:47 AM
+- 🎭 [一次 GO 项目重构的疑问](https://www.v2ex.com/t/1020966#reply11) | Wed Mar 06 2024 1:38 AM
+- 🥷 [开源一个无人自助酒店用户端 app](https://www.v2ex.com/t/1020957#reply2) | Wed Mar 06 2024 1:23 AM
+- 🐵 [类似于 Github copilot, 百度推出了 comate， 感兴趣的可以尝试下](https://www.v2ex.com/t/1020955#reply32) | Wed Mar 06 2024 1:19 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
