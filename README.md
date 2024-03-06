@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0306](http://jandan.net/p/115813) | Tue Mar 05 2024 11:07 PM 
+- 🚀 [发霉啦：今天，我去前夫家里接7岁的闺女](http://jandan.net/p/115822) | Wed Mar 06 2024 8:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    周三周三，一座大山 
+    </details> 
+
+- 🙉 [今日好价 0306](http://jandan.net/p/115813) | Tue Mar 05 2024 11:07 PM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：35 
     </details> 
 
-- 🙉 [突破：预测三体混沌行为的新方法](http://jandan.net/p/115806) | Tue Mar 05 2024 11:04 PM 
+- 🎉 [突破：预测三体混沌行为的新方法](http://jandan.net/p/115806) | Tue Mar 05 2024 11:04 PM 
     <details><summary>展开描述 ...</summary> 
     成功预测非层次三体系统的混沌行为 
     </details> 
 
-- 🎉 [扁豆：从默默无闻到人类文明基石](http://jandan.net/p/115807) | Tue Mar 05 2024 11:03 PM 
+- 🐲 [扁豆：从默默无闻到人类文明基石](http://jandan.net/p/115807) | Tue Mar 05 2024 11:03 PM 
     <details><summary>展开描述 ...</summary> 
     扁豆与小麦和大麦同期被驯化，却鲜被提及 
     </details> 
 
-- 🐲 [为什么在月球上直立着陆这么难](http://jandan.net/p/115804) | Tue Mar 05 2024 11:02 PM 
+-  [为什么在月球上直立着陆这么难](http://jandan.net/p/115804) | Tue Mar 05 2024 11:02 PM 
     <details><summary>展开描述 ...</summary> 
     月球引力较弱，使得航天器更容易倾倒 
-    </details> 
-
--  [触控泛滥：欧洲安全机构拟降级无实体按键车](http://jandan.net/p/115803) | Tue Mar 05 2024 11:01 PM 
-    <details><summary>展开描述 ...</summary> 
-    以减少驾驶员分心，提升行车安全。 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
