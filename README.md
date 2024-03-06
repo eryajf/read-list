@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [React基础 第二十五章（Effect）](https://juejin.cn/post/7342815085028753434) | Wed Mar 06 2024 2:12 AM 
+- 🤗 [理解和实现 RESTful API](https://juejin.cn/post/7342770813278666778) | Wed Mar 06 2024 3:08 AM 
     <details><summary>展开描述 ...</summary> 
-    在React的世界里，Effect允许我们在组件渲染后同步执行代码，从而与外部系统进行交互。在这篇文章中，我们将深入探讨Effect的工作原理，并通过实际的代码示例来展示如何在开发中有效地使用Effe 
+    RESTful API 是按照 REST 架构风格设计的 API，它使用 HTTP 方法（如 GET、POST、PUT、DELETE 等）来实现对资源的操作. 
     </details> 
 
-- 🎡 [iOS 17.4 来了，来看看有哪些大升级](https://juejin.cn/post/7342791666075877395) | Wed Mar 06 2024 2:09 AM 
+- 🎡 [Flutter中，当我们谈及AutomaticKeepAliveClientMixin、wantKeepAlive](https://juejin.cn/post/7342766597244403747) | Wed Mar 06 2024 3:06 AM 
     <details><summary>展开描述 ...</summary> 
-    这里每天分享一个 iOS 的新知识，快来关注我吧 前言 按照常规应该昨天推送 iOS 17.4 的，不知道为什么推迟到了今天，不过幸好没有推迟太久，今天 iOS 17.4 正式版已经推送了，可以打开设 
+    当我唱起这首歌？ 不对，重来。 AutomaticKeepAliveClientMixin 开打 让页面、组件不可见时仍然活跃，一般用于tabview，或者比较重量耗时的页面 AutomaticKee 
     </details> 
 
-- 🕯 [如何保证接口幂等](https://juejin.cn/post/7342706292812038196) | Wed Mar 06 2024 2:01 AM 
+- 🕯 [【一分钟快学】提高 Python 3 代码质量：掌握 TypedDict 实现精确的类型安全字典](https://juejin.cn/post/7342790243009363977) | Wed Mar 06 2024 3:03 AM 
     <details><summary>展开描述 ...</summary> 
-    如何保证接口幂等 接口幂等是指多次发送同一个请求，保证操作执行一次 通过概念得知需要多次发送同一个请 
+    本文讲述了Python的TypedDict特性，它允许开发者定义具有类型安全的固定键字典。通过实用示例和关键注意事项，文章指导如何提升字典的类型准确性和代码可维护性。 
     </details> 
 
-- 🚀 [使用你的脚手架还需要全局安装吗，是时候更新了，来看看 npx 怎么玩吧🫣🫣🫣](https://juejin.cn/post/7342766597243944995) | Wed Mar 06 2024 1:56 AM 
+- 🚀 [MySQL分页查询的三种常用方法](https://juejin.cn/post/7342864744599502859) | Wed Mar 06 2024 2:55 AM 
     <details><summary>展开描述 ...</summary> 
-    由于我自己一直在维护着一个脚手架，也看到了很多脚手架的教程，但是基本都存在一个问题，都是需要执行 -g 这个命令来全局安装再进行使用的。 先不说包的大小如何，我使用这个脚手架，就是单纯用来安装一个项目 
+    在处理数据库查询时，我们经常需要对结果进行分页，以便在用户界面上提供更好的浏览体验。MySQL提供了几种不同的方法来实现这一功能，其中最常见的是使用​​LIMIT​​​子句。 
     </details> 
 
-- 💪 [深度解读UUID：结构、原理以及生成机制](https://juejin.cn/post/7342770813277683738) | Wed Mar 06 2024 1:44 AM 
+- 💪 [c++中的单例模式](https://juejin.cn/post/7342861726000398387) | Wed Mar 06 2024 2:55 AM 
     <details><summary>展开描述 ...</summary> 
-    专注探讨UUID的核心原理及其生成机制，并详细介绍不同版本UUID（如版本1的时间戳+节点ID、版本4的随机数生成等）背后的数学原理和技术细节。 
+    首先我们需要知道单例模式的作用是什么，单例模式也就是单实例，全局只有wei&#39;y的作用是什么，单例模式也就是单实例， ，这个实例对象中究竟储存什么数据则都行，例如你希望什么数据是全局唯一的数据，你就可以 
     </details> 
 <!-- juejin:END -->
 ### 少数派
