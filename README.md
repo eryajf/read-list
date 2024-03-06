@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [GitLab 可以装在 windows 上吗？](https://www.v2ex.com/t/1020985#reply1) | Wed Mar 06 2024 2:12 AM
-- 🤗 [请问 Arc 浏览器在 Windows 下要如何才能正常使用？](https://www.v2ex.com/t/1020971#reply4) | Wed Mar 06 2024 1:47 AM
-- 🎭 [一次 GO 项目重构的疑问](https://www.v2ex.com/t/1020966#reply11) | Wed Mar 06 2024 1:38 AM
-- 🥷 [开源一个无人自助酒店用户端 app](https://www.v2ex.com/t/1020957#reply2) | Wed Mar 06 2024 1:23 AM
-- 🐵 [类似于 Github copilot, 百度推出了 comate， 感兴趣的可以尝试下](https://www.v2ex.com/t/1020955#reply32) | Wed Mar 06 2024 1:19 AM<!-- v2ex:END -->
+- 🥸 [有什么免费版够用的在线日志分析平台吗](https://www.v2ex.com/t/1021019#reply0) | Wed Mar 06 2024 3:08 AM
+- 🤗 [独立开发者的唯一出路真的是卖课吗](https://www.v2ex.com/t/1021013#reply2) | Wed Mar 06 2024 2:56 AM
+- 🎭 [GitLab 可以装在 windows 上吗？](https://www.v2ex.com/t/1020985#reply4) | Wed Mar 06 2024 2:12 AM
+- 🥷 [请问 Arc 浏览器在 Windows 下要如何才能正常使用？](https://www.v2ex.com/t/1020971#reply14) | Wed Mar 06 2024 1:47 AM
+- 🐵 [一次 GO 项目重构的疑问](https://www.v2ex.com/t/1020966#reply12) | Wed Mar 06 2024 1:38 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
