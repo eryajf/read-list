@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [发霉啦：今天，我去前夫家里接7岁的闺女](http://jandan.net/p/115822) | Wed Mar 06 2024 8:25 AM 
+- 🚀 [今日好价 0307](http://jandan.net/p/115825) | Wed Mar 06 2024 11:07 PM 
     <details><summary>展开描述 ...</summary> 
-    周三周三，一座大山 
+    今日带货商品数量：54 
     </details> 
 
-- 🙉 [今日好价 0306](http://jandan.net/p/115813) | Tue Mar 05 2024 11:07 PM 
+- 🙉 [打破习惯，重新发现生活中的乐趣](http://jandan.net/p/115824) | Wed Mar 06 2024 11:06 PM 
     <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：35 
+    习惯化就是大脑停止关注某些事物的现象 
     </details> 
 
-- 🎉 [突破：预测三体混沌行为的新方法](http://jandan.net/p/115806) | Tue Mar 05 2024 11:04 PM 
+- 🎉 [数学家利用AI在椭圆曲线中发现了意想不到的模式](http://jandan.net/p/115815) | Wed Mar 06 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
-    成功预测非层次三体系统的混沌行为 
+    AI助力解析椭圆曲线研究 
     </details> 
 
-- 🐲 [扁豆：从默默无闻到人类文明基石](http://jandan.net/p/115807) | Tue Mar 05 2024 11:03 PM 
+- 🐲 [相比以前，食物的营养变少了](http://jandan.net/p/115816) | Wed Mar 06 2024 11:04 PM 
     <details><summary>展开描述 ...</summary> 
-    扁豆与小麦和大麦同期被驯化，却鲜被提及 
+    气候变化不仅影响粮食安全，还会降低食物营养 
     </details> 
 
--  [为什么在月球上直立着陆这么难](http://jandan.net/p/115804) | Tue Mar 05 2024 11:02 PM 
+-  [彗星撞击理论不会消亡](http://jandan.net/p/115817) | Wed Mar 06 2024 11:03 PM 
     <details><summary>展开描述 ...</summary> 
-    月球引力较弱，使得航天器更容易倾倒 
+    主流科学如何应对“另类”理论？ 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
