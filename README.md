@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [走两步？Getx一个Stateful页面，View和Controller，为什么要这么设计？](https://juejin.cn/post/7342787949250297890) | Wed Mar 06 2024 3:57 AM 
+- 🤗 [探索Java中的函数式接口与Streams API的高级用法](https://juejin.cn/post/7342861726001184819) | Wed Mar 06 2024 5:01 AM 
     <details><summary>展开描述 ...</summary> 
-    越简单越困难，嘿蛋炒饭。 先看代码 View Controller 走两步？分析分析？ 这两份代码是Flutter中使用GetX库来管理状态和导航的一个例子。GetX是一个轻量级的Flutter库，用 
+    所谓函数式接口，其实就是只定义一个抽象方法的接口。虽然听起来很简单，但这个定义背后的含义是深远的。Java中的Lambda表达式，就是建立在函数式接口的基础上的。它们使得咱们可以用更简洁的方式来表示方 
     </details> 
 
-- 🎡 [转型之路：从WEB2前端（Vue）到WEB3前端开发，通过React实现跨越](https://juejin.cn/post/7342798550899097641) | Wed Mar 06 2024 3:52 AM 
+- 🎡 [Elasticsearch：从 ES|QL 到 Python 数据帧](https://juejin.cn/post/7342864744600354827) | Wed Mar 06 2024 5:00 AM 
     <details><summary>展开描述 ...</summary> 
-    当前互联网技术发展的大潮中，Web2前端工程师向Web3领域转型的需求日益凸显。对于熟悉Vue的开发者来说，转技术栈至React并适应Web3开发环境是一项既有挑战也有机遇的任务。本文将引导您从Vue 
+    在我之前的文章 “Elasticsearch：ES|QL 查询展示”，我展示了如何在 Kibana 中使用 ES|QL 对索引来进行查询及统计。在很多的情况下，我们需要在客户端中来对数据进行查询，那么 
     </details> 
 
-- 🕯 [LLM 推理优化探微 &lpar;2&rpar; ：Transformer 模型 KV 缓存技术详解](https://juejin.cn/post/7342787949250068514) | Wed Mar 06 2024 3:41 AM 
+- 🕯 [适合收藏，100个CSS优化技巧！](https://juejin.cn/post/7342787949250478114) | Wed Mar 06 2024 4:51 AM 
     <details><summary>展开描述 ...</summary> 
-    本文是该系列文章的第二篇，作者的核心观点是：KV 缓存可以显著减少语言模型的运算量，从而提高其生成文本的效率，但是这种技术并非免费的午餐。 
+    Hello，大家好，我是 Sunday。 当各种框架以及复杂的 JS 知识开始充斥着我们的工作环境时。谁还能够记得，以 CSS 来构建更加良好的用户体验，也是前端的一个重要组成部分~~ 
     </details> 
 
-- 🚀 [理解并防御跨站脚本攻击（XSS）](https://juejin.cn/post/7342766597244649507) | Wed Mar 06 2024 3:30 AM 
+- 🚀 [微服务架构，客户端如何捕捉服务端的异常？](https://juejin.cn/post/7342861726001135667) | Wed Mar 06 2024 4:49 AM 
     <details><summary>展开描述 ...</summary> 
-    跨站脚本攻击（XSS）是网络应用中常见的安全威胁，它允许攻击者在用户的浏览器中注入恶意的 JavaScript 代码，从而篡改用户在网站上的体验，盗取敏感信息，甚至进行身份冒充。 
+    在微服务架构或者分布式系统中，客户端如何捕捉服务端的异常？ 这里说的客户端指调用方、服务端指被调用方，它们通常运行在不同的进程之中，这些进程可能运行在同一台服务器，也可能运行在不同的服务器... 
     </details> 
 
-- 💪 [Rust web开发 ActixWeb 入门](https://juejin.cn/post/7342858918161793059) | Wed Mar 06 2024 3:28 AM 
+- 💪 [Bee Mobile组件库重磅升级](https://juejin.cn/post/7342864744600223755) | Wed Mar 06 2024 4:14 AM 
     <details><summary>展开描述 ...</summary> 
-    Rust Actix Web 入门 目前，Actix Web 仍然是 Rust Web 后端生态系统中极其强大的竞争对手。尽管之前的事件可能对其产生影响，但它仍然很强大，并且是 Rust 中最受推荐的 
+    Bee Mobile组件库重磅升级！ Bee Mobile组件库最新 v1.0.0 版本，支持最新的 React v18。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
