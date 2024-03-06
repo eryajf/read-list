@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [前端中的“收口”思想与“泳道”](https://juejin.cn/post/7343132138667016231) | Wed Mar 06 2024 12:20 PM 
+- 🤗 [用位运算维护状态码，同事直呼牛X！](https://juejin.cn/post/7343138804482408448) | Wed Mar 06 2024 12:56 PM 
+    <details><summary>展开描述 ...</summary> 
+    位运算是一种非常高效的运算方式。在算法考察中比较常见，它使用位级别的操作来表示和控制状态，这在管理多个布尔标志或状态时尤其有用。那么业务代码中我们如何使用位运算呢？ 位运算基础 我们先来回顾一下位运算 
+    </details> 
+
+- 🎡 [图文+源码分析实现dubbo 3.x灰度&lpar;附源码&rpar;](https://juejin.cn/post/7343138637972586537) | Wed Mar 06 2024 12:41 PM 
+    <details><summary>展开描述 ...</summary> 
+    背景 最近在做全链路灰度，服务之间调用有用到dubbo，所以需要做一下dubbo的灰度 环境 dubbo-version:3.3.0-beta.1 spring-boot: 2.7.8 源码地址:ht 
+    </details> 
+
+- 🕯 [Node.js-JavaScript的服务器端革命](https://juejin.cn/post/7343137631916441609) | Wed Mar 06 2024 12:38 PM 
+    <details><summary>展开描述 ...</summary> 
+    Node.js是一个开源的跨平台JavaScript运行环境，使得开发者可以在服务器端使用JavaScript编写代码。它改变了人们对JavaScript的看法，为后端开发提供了全新的可能性。 
+    </details> 
+
+- 🚀 [最强AI Claude 3有意识了？四个问题看出和ChatGPT差距](https://juejin.cn/post/7343132138667048999) | Wed Mar 06 2024 12:31 PM 
+    <details><summary>展开描述 ...</summary> 
+    sora的热点还没有褪去，这两天又大火了Clude3，有的说超越GPT-4，还有的说有意识了，连马斯克都说人类也是文件也。我们这些吃瓜群众看着AI每隔几天一个热点，心理素质差的人有可能越来越焦虑 
+    </details> 
+
+- 💪 [前端中的“收口”思想与“泳道”](https://juejin.cn/post/7343132138667016231) | Wed Mar 06 2024 12:20 PM 
     <details><summary>展开描述 ...</summary> 
     前言 周一是美团实习的lastday（2023.11.20-2024.3.4），现在已经回到学校躺平了，但是实习中学习到的两个点还未整理，今天给实习收收尾简单记录一下。 “收口”思想 比如在低代码项目 
-    </details> 
-
-- 🎡 [Shadow Dom](https://juejin.cn/post/7343138527418712099) | Wed Mar 06 2024 12:01 PM 
-    <details><summary>展开描述 ...</summary> 
-    Shadow DOM 是一种 Web 标准，它允许开发者在主文档的 DOM 中嵌入一个隔离的 DOM 子树，这个子树有自己的元素、样式和脚本，而不会影响主文档。Shadow DOM 的主要作用是封装， 
-    </details> 
-
-- 🕯 [喜报｜3DCAT成为国内首批适配Vision Pro内容开发者](https://juejin.cn/post/7343131959852056626) | Wed Mar 06 2024 11:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    近日，苹果在上海总部举办了国内首场 Apple Vision Pro 开发者实验室活动，3DCAT作为国内领先的实时渲染云平台参与了此次活动，成为国内首批适配 Vision Pro 的内容开发者之一。 
-    </details> 
-
-- 🚀 [解密prompt系列26. 人类思考vs模型思考：抽象和发散思维](https://juejin.cn/post/7343138527418564643) | Wed Mar 06 2024 11:26 AM 
-    <details><summary>展开描述 ...</summary> 
-    在Chain of Thought出来后，出现过许多的优化方案，这一章我们类比人类已有的思维方式，就抽象思维和发散思维这两个方向，聊聊step back和diversity prompt 
-    </details> 
-
-- 💪 [ChatGPT 新增朗读功能；微软 Win11 鼠标悬停自动打开 Copilot 丨 RTE 开发者日报 Vol.158](https://juejin.cn/post/7343138637972176937) | Wed Mar 06 2024 11:26 AM 
-    <details><summary>展开描述 ...</summary> 
-    苹果 AI 战略模糊，投资者逐渐失去耐心、贾跃亭：高合丁磊曾在公司拿 3000 万高收入，盗窃商业机密 
     </details> 
 <!-- juejin:END -->
 ### 少数派
