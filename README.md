@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [俄罗斯套娃 &lpar;Matryoshka&rpar; 嵌入模型概述](https://juejin.cn/entry/7343138637972946985) | Wed Mar 06 2024 1:59 PM 
+- 🤗 [Webpack5 模块联邦](https://juejin.cn/post/7343138637973110825) | Wed Mar 06 2024 3:05 PM 
+    <details><summary>展开描述 ...</summary> 
+    Webpack 5 模块联邦（Module Federation）是一个允许 JavaScript 应用程序动态地从其他构建的代码中加载代码的功能。这是一个非常有越的特性，它能够在不同的前端应用之间共 
+    </details> 
+
+- 🎡 [俄罗斯套娃 &lpar;Matryoshka&rpar; 嵌入模型概述](https://juejin.cn/entry/7343138637972946985) | Wed Mar 06 2024 1:59 PM 
     <details><summary>展开描述 ...</summary> 
     在这篇博客中，我们将向你介绍俄罗斯套娃嵌入的概念，并解释为什么它们很有用。我们将讨论这些模型在理论上是如何训练的，以及你如何使用 Sentence Transformers 来训练它们。 除此之外，我 
     </details> 
 
-- 🎡 [CAN总线位时序](https://juejin.cn/post/7343139078486917174) | Wed Mar 06 2024 1:46 PM 
+- 🕯 [如何使用Mybatis的拦截器？](https://juejin.cn/post/7343138527418941475) | Wed Mar 06 2024 1:55 PM 
+    <details><summary>展开描述 ...</summary> 
+    MyBatis 拦截器是 MyBatis 提供的一个强大特性，它允许你在 MyBatis 执行其核心逻辑的关键节点插入自定义逻辑，从而改变 MyBatis 的默认行为。 
+    </details> 
+
+- 🚀 [CAN总线位时序](https://juejin.cn/post/7343139078486917174) | Wed Mar 06 2024 1:46 PM 
     <details><summary>展开描述 ...</summary> 
     CAN控制器根据两根线上的电位差来判断总线电平。总线电平分为显性电平和隐性电平，二者必居其一。发送方通过使总线电平发生变化，将消息发送给接收方。 显性电平对应逻辑 0，CAN_H 和 CAN_L 之差 
     </details> 
 
-- 🕯 [Java 枚举（Enums）解析：提高代码可读性与易维护性](https://juejin.cn/post/7343138637972815913) | Wed Mar 06 2024 1:40 PM 
+- 💪 [Java 枚举（Enums）解析：提高代码可读性与易维护性](https://juejin.cn/post/7343138637972815913) | Wed Mar 06 2024 1:40 PM 
     <details><summary>展开描述 ...</summary> 
     接口 在 Java 中，实现抽象的另一种方式是使用接口。 接口定义 接口是一个完全抽象的类，用于将具有空方法体的相关方法分组： 实现接口 要访问接口方法，必须使用 implements 关键字（而不是 
-    </details> 
-
-- 🚀 [我正践行的宝贵的人生建议](https://juejin.cn/post/7343138429939122195) | Wed Mar 06 2024 1:39 PM 
-    <details><summary>展开描述 ...</summary> 
-    我关注好几位读书博主，他们会不停地推荐书，他们荐书的方式之一，是使用能勾起人好奇心的标题。这些标题，总让我忍不住点进去看看。 前两天看见的一个标题是：“这是一本越早读越好的书！答应我一定要在今年读完！ 
-    </details> 
-
-- 💪 [【设计模式_02】使用策略模式实现主键算法的切换](https://juejin.cn/post/7343139490901278730) | Wed Mar 06 2024 1:19 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文主要有以下内容： 策略模式：策略模式是一种行为型模式，通常用来定义同一行为或逻辑的不同实现，如主键生成策略的不同算法， 实现方式： 类图如下： 一个简单的代码示例，策略接口和策略具体实现代码如下： 
     </details> 
 <!-- juejin:END -->
 ### 少数派
