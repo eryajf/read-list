@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Serial Box 03.2024 软件序列号大全](https://xclient.info/s/serial-box.html) | Wed Mar 06 2024 12:41 AM 
+- 🦏 [Forklift 4.1.1 远程/本地文件管理利器](https://xclient.info/s/forklift.html) | Thu Mar 07 2024 3:28 AM 
     <details><summary>展开描述 ...</summary> 
-    Serial Box是一个序列号神器，有国外的网友收集网络上流传的Mac软件序列号让后将其整合到一起，给其他网友使用的 
+    Forklift 不仅是强大的文件管理器，还附带 FTP 远程文件管理功能 
     </details> 
 
--  [SnapMotion 5.2.1 精确地从视频中提取静态图像](https://xclient.info/s/snapmotion.html) | Wed Mar 06 2024 12:40 AM 
+-  [iA Writer 7.1.1 简单好用的 markdown 写作工具](https://xclient.info/s/ia-writer.html) | Thu Mar 07 2024 3:27 AM 
     <details><summary>展开描述 ...</summary> 
-    SnapMotion可以快速将截取视频中的图片，并且支持批量处理，支持导出为GIF等格式，简单易用。 
+    iA Writer 提供了独特的 无干扰模式，该模式隐藏了一切可能对写作造成干扰的界面元素，只留下一张白纸、一个键盘。 
     </details> 
 
-- ⚗️ [Feeder 4.6 创建和发布RSS](https://xclient.info/s/feeder.html) | Wed Mar 06 2024 12:39 AM 
+- ⚗️ [Dropshare 5.48 免费的个人云存储解决方案](https://xclient.info/s/dropshare.html) | Thu Mar 07 2024 3:26 AM 
     <details><summary>展开描述 ...</summary> 
-    Feeder是Mac os平台上的一款帮助用户编辑rss文档的Mac工具 
+    Dropshare 这款软件非常适合民用，只要你有一台性能稳定的服务器就能自制一套免费的个人存储空间 
     </details> 
 
-- 🔥 [EdgeView 4.6.0 图像查看器](https://xclient.info/s/edgeview.html) | Wed Mar 06 2024 12:39 AM 
+- 🔥 [Disk Graph 3.0.3 磁盘分析工具](https://xclient.info/s/disk-graph.html) | Thu Mar 07 2024 3:25 AM 
     <details><summary>展开描述 ...</summary> 
-    EdgeView是MacOS X的一款图像查看器。你可以打开各种图像文件，也可以打开像ZIP这样的归档文件，而不用提取。您可以在内置的文件浏览器中检查和打开文件，并且可以连接到FTP并直接打开文件。 
+    Disk Graph 是Mac os平台上的一款帮助用户检测自己的磁盘空间的Mac工具，可以帮助你检查你的磁盘和发现带走你大部分的磁盘空间的文件。 
     </details> 
 
-- 🌋 [Alfred 5.5-2253 效率神器](https://xclient.info/s/alfred.html) | Wed Mar 06 2024 12:38 AM 
+- 🌋 [Camtasia 2023.3.8 强大且易用的视频录制和剪辑软件](https://xclient.info/s/camtasia.html) | Thu Mar 07 2024 3:24 AM 
     <details><summary>展开描述 ...</summary> 
-    Alfred 这是一款被称之为Mac效率神器的App，有了Alfred 你甚至无需鼠标就可以实现各种操作，包括出发各种文件、网络操作，其UI界面使用方便，而且不是通过命令来实现，是开发者们和键盘刘童鞋们的神器，比之此前类似的软件——Pack和Power来说完全是秒杀的节奏。 
+    Camtasia Studio是一套专业的屏幕录像软件，同时包含Camtasia 录像器、Camtasia Studio（编辑器）、Camtasia 菜单制作器、Camtasia 剧场、Camtasia 播放器和Screencast的内置功能。 
     </details> 
 <!-- xclient:END -->
 
