@@ -332,10 +332,10 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [笔记迁移到 outline 有亿点爽](https://www.v2ex.com/t/1021283#reply0) | Wed Mar 06 2024 10:12 PM
-- 🤗 [多年程序员 mac 转 win](https://www.v2ex.com/t/1021264#reply8) | Wed Mar 06 2024 2:48 PM
-- 🎭 [想问下三星手机有没有像小米的侧边栏熄屏听剧功能，或者其他手机有吗？](https://www.v2ex.com/t/1021252#reply1) | Wed Mar 06 2024 2:11 PM
-- 🥷 [基础薄弱的研究生如何找合适的论文自学并复现实验？](https://www.v2ex.com/t/1021241#reply3) | Wed Mar 06 2024 1:14 PM
+- 🥸 [不懂就问，各位大佬，我要做一个出海的网站，请问服务器域名这一块在哪里买比较合适欧洲跟美国等国家访问呢，感谢](https://www.v2ex.com/t/1021288#reply4) | Thu Mar 07 2024 12:43 AM
+- 🤗 [想学 C++,以后靠 C++吃饭，但我不清楚该选哪个方向？有推荐的吗？我该怎么样学习 C++?](https://www.v2ex.com/t/1021269#reply8) | Wed Mar 06 2024 3:10 PM
+- 🎭 [想问下三星手机有没有像小米的侧边栏熄屏听剧功能，或者其他手机有吗？](https://www.v2ex.com/t/1021252#reply2) | Wed Mar 06 2024 2:11 PM
+- 🥷 [基础薄弱的研究生如何找合适的论文自学并复现实验？](https://www.v2ex.com/t/1021241#reply4) | Wed Mar 06 2024 1:14 PM
 - 🐵 [感觉下个依赖都要 tz 的时代来了](https://www.v2ex.com/t/1021237#reply0) | Wed Mar 06 2024 1:03 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
