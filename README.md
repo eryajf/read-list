@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Kernel Core Dump 的配置与常见问题](https://juejin.cn/post/7343255562497769506) | Thu Mar 07 2024 8:02 AM 
+- 🤗 [Http状态码其实是一个高冷女孩？](https://juejin.cn/post/7343442927681781796) | Thu Mar 07 2024 9:04 AM 
     <details><summary>展开描述 ...</summary> 
-    Linux Kernel Core dump是一种在Linux内核崩溃时收集系统状态的机制。它会生成一个包含内核崩溃时的内存快照的文件，这个文件可以用于后续的调试和分析，以确定崩溃的原因。 以下是生成 
+    其实http可是一个高冷女孩呦~ 今天用一种好记的方式分享一下http状态码（100 - 599状态码 全面讲解）。 100 是你继续说，她在听。 101 是她说哪有人在微信上表白的 你：那你上QQ  
     </details> 
 
-- 🎡 [⏳大咖直播预告 | 数据库系统访问控制『面面观』](https://juejin.cn/post/7343445926222250010) | Thu Mar 07 2024 7:59 AM 
+- 🎡 [SpringBoot接入JaCoCo实践教程](https://juejin.cn/post/7343445926222970906) | Thu Mar 07 2024 9:01 AM 
     <details><summary>展开描述 ...</summary> 
-    数据作为一项核心资产，其对于访问控制要求尤其高，在数据库国家标准和行业标准中，均对访问控制提出了具体要求。因此如何保证数据库访问安全，也是各大厂商必须加以重视并解决的关键问题。 
+    静态接入和动态接入 SpingBoot可以通过2种方式接入JaCoCo：Maven和Agent。Maven方式是静态接入，在编译时计算代码覆盖率。Agent方式是动态接入，服务启起来以后，能实时根据代 
     </details> 
 
-- 🕯 [wsl2设置代理详细教程，下包速率嘎嘎提高！！！](https://juejin.cn/post/7343170640474603570) | Thu Mar 07 2024 7:45 AM 
+- 🕯 [QQ 测试 AI 聊天搭子，再战 AI 社交；零一万物宣布开源 Yi-9B 模型丨 RTE 开发者日报 Vol.159](https://juejin.cn/post/7343428554686300199) | Thu Mar 07 2024 8:43 AM 
     <details><summary>展开描述 ...</summary> 
-    好处：可以提高下包的速率，好多包的源都在国外，即便你配了国内源，有时也不可避免要和GitHub的仓库打交道，配置代理好后，下包下库的速度大大提高！ 首先打开我们的WSL2，可以看到访问谷歌是失败了，接 
+    腾讯 QQ 开始测试 AI 对话功能，名为「AI 聊天搭子」、李开复旗下 AI 公司零一万物宣布开源 Yi-9B 模型 
     </details> 
 
-- 🚀 [【一分钟快学】轻松掌握 Python 3 的 dataclass：编写更简洁、更高效的代码](https://juejin.cn/post/7343428554685841447) | Thu Mar 07 2024 7:39 AM 
+- 🚀 [LeetCode-数组-前缀和-中等难度](https://juejin.cn/post/7343278605156089871) | Thu Mar 07 2024 8:38 AM 
     <details><summary>展开描述 ...</summary> 
-    探索 Python 3 + dataclass：一键简化类定义。本文提供了使用技巧、案例分析，旨在提高代码效率和可读性。 
+    前缀和 前缀和是一种利用预处理的方式来减少整体实现复杂度的方法。 基本定理 假设原数列A为：[1,2,3,4,5]，与之对应的前缀和数列P则为：[1,3,6,10,15] 前缀和数列的第一项等于原数列 
     </details> 
 
-- 💪 [2024面试题（基础篇）基于ChatGPT4回答整理](https://juejin.cn/post/7343278605155631119) | Thu Mar 07 2024 7:39 AM 
+- 💪 [加速大模型落地：火山引擎向量数据库的实践应用](https://juejin.cn/post/7343170640475078706) | Thu Mar 07 2024 8:32 AM 
     <details><summary>展开描述 ...</summary> 
-    前端基础知识面试题总结——深入探索前端世界的奥秘这份总结涵盖了前端开发的多个核心领域，包括HTML、CSS、JavaScript、DOM操作、浏览器兼容性、性能优化等方面。 
+    2024 开年 Meetup，3月23日与你线下共话向量数据库。共同探讨大模型时代向量数据库的落地实践。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
