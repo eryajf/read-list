@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [java工具-高并发-JMM模型](https://juejin.cn/post/7343255545812926500) | Thu Mar 07 2024 6:16 AM 
+- 🤗 [mybatis结合MySQL的CTE语句进行批量更新](https://juejin.cn/post/7343243744480411699) | Thu Mar 07 2024 7:02 AM 
     <details><summary>展开描述 ...</summary> 
-    JMM&lpar;java内存模型&rpar;，由于并发程序要比串行程序复杂很多，其中一个重要原因是并发程序中数据访问一致性和安全性将会受到严重挑战。如何保证一个线程可以看到正确的数据呢？ 这个问题看起来很白痴。对于串行 
+    spring结合mybatis使用mysql的with...as的CTE语法实现批量更新,给mybatis进行批量更新提供一个新思路。 
     </details> 
 
-- 🎡 [Rust泛型与trait特性，模仿接口的实现](https://juejin.cn/post/7343156956667297827) | Thu Mar 07 2024 6:03 AM 
+- 🎡 [初探 Wasm 移植](https://juejin.cn/post/7343425279132401675) | Thu Mar 07 2024 6:57 AM 
     <details><summary>展开描述 ...</summary> 
-    泛型是一个编程语言不可或缺的机制。 C++ 语言中用&quot;模板&quot;来实现泛型，而 C 语言中没有泛型的机制，这也导致 C 语言难以构建类型复杂的工程。 泛型机制是编程语言用于表达类型抽象的机制，一般用于功能 
+    公司项目中曲线构建功能由后端用 C++ 实现，先前尝试移植到 Wasm 以运行在浏览器上，本文为该次移植的部分记录。 
     </details> 
 
-- 🕯 [协程代码生成-1.Suspend Lambda&lpar;译&rpar;](https://juejin.cn/post/7343255545812697124) | Thu Mar 07 2024 5:57 AM 
+- 🕯 [当我们执行 npm run serve 时到底发生了什么？](https://juejin.cn/post/7343243744480264243) | Thu Mar 07 2024 6:56 AM 
     <details><summary>展开描述 ...</summary> 
-    coroutines-codegen（协程代码生成） 本文旨在将关于协程代码生成的所有信息汇集到一个地方，这样，程序员就不必阅读编译器代码或编写代码片段并查看生成的字节码，而是可以查阅文档。 
+    在前端开发中， npm run serve 是一个常见的命令，尤其是在使用Vue CLI构建项目时。但是为什么直接运行 vue-cli-service serve 会报错，但使用 npm run se 
     </details> 
 
-- 🚀 [云原生✖️ AI 时代的微服务架构最佳实践—— CloudWeGo 技术沙龙·北京站报名开启](https://juejin.cn/post/7343266235872067621) | Thu Mar 07 2024 5:56 AM 
+- 🚀 [前端领域的插件式设计](https://juejin.cn/post/7343414871918493750) | Thu Mar 07 2024 6:55 AM 
     <details><summary>展开描述 ...</summary> 
-    诚挚邀请社区用户和开发者共同参与 CloudWeGo 技术沙龙。活动将于2024年3月30日（周六）在北京举办，邀请广大技术同仁共同探讨在 云原生xAI 浪潮之下，企业如何构建云原生微服务架构。 
+    插件，是一个常见的概念。 例如，当我们需要把我们前端代码中的 css 样式提取打包，我们可以用 webpack 的 mini-css-extract-plugin，或者你如果用 rollup 的话，可 
     </details> 
 
-- 💪 [SPI技术实现对比Java SPI、Spring SPI、Dubbo SPI](https://juejin.cn/post/7343425279131582475) | Thu Mar 07 2024 5:46 AM 
+- 💪 [00 奇迹项目编码环境搭建](https://juejin.cn/post/7343243744480182323) | Thu Mar 07 2024 6:52 AM 
     <details><summary>展开描述 ...</summary> 
-    概念 SPI机制，全称为Service Provider Interface，是一种服务提供发现机制。 SPI的核心思想是面向接口编程，它允许程序员定义接口，并由第三方实现这些接口。在运行时，SPI机 
+    开篇 2023 已经过去了，这一年没做啥事情，感觉最难忘就是这个奇迹项目，公司项目名字不叫奇迹，我也不知道该叫啥，业务是一个海外代充，类似小电商平台，里面商品分类、 SKU、购物车、订单、购买等功能， 
     </details> 
 <!-- juejin:END -->
 ### 少数派
