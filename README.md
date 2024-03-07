@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Festivawl - 与 Google 日历类似，但适用于每个节日](https://xinquji.com/posts/809592?utm_campaign=xinquji-rss) | Wed Mar 06 2024 6:00 AM 
+- 👀 [Calmo - 非常简单的人工智能驱动的个性化冥想](https://xinquji.com/posts/809627?utm_campaign=xinquji-rss) | Thu Mar 07 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     与 Google 日历类似，但适用于每个节日  
+     非常简单的人工智能驱动的个性化冥想  
     </details> 
 
-- 🥷 [Shakepay - 加拿大人的理财应用程序](https://xinquji.com/posts/809591?utm_campaign=xinquji-rss) | Wed Mar 06 2024 6:00 AM 
+- 🥷 [read-this.ai - 一键立即将任何文章变成播客](https://xinquji.com/posts/809626?utm_campaign=xinquji-rss) | Thu Mar 07 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     加拿大人的理财应用程序  
+     一键立即将任何文章变成播客  
     </details> 
 
-- 💼 [Sparrow - 结果驱动的沟通和团队协作工具](https://xinquji.com/posts/809590?utm_campaign=xinquji-rss) | Wed Mar 06 2024 6:00 AM 
+- 💼 [PromptBoard - AI 提示管理工具和带提示的键盘扩展](https://xinquji.com/posts/809625?utm_campaign=xinquji-rss) | Thu Mar 07 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     结果驱动的沟通和团队协作工具  
+     AI 提示管理工具和带提示的键盘扩展  
     </details> 
 
-- 🦅 [FlyWP - weDevs 专注于 WordPress 的服务器管理平台](https://xinquji.com/posts/809589?utm_campaign=xinquji-rss) | Wed Mar 06 2024 6:00 AM 
+- 🦅 [Customerly Aura - 支持团队的人工智能助手](https://xinquji.com/posts/809624?utm_campaign=xinquji-rss) | Thu Mar 07 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     weDevs 专注于 WordPress 的服务器管理平台  
+     支持团队的人工智能助手  
     </details> 
 
-- 😺 [AI Assist by Dopt - 建立非常相关的产品内帮助](https://xinquji.com/posts/809588?utm_campaign=xinquji-rss) | Wed Mar 06 2024 6:00 AM 
+- 😺 [Career Connect - 通过人工智能制作的个性化电子邮件将面试率提高 3 倍](https://xinquji.com/posts/809623?utm_campaign=xinquji-rss) | Thu Mar 07 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     建立非常相关的产品内帮助  
+     通过人工智能制作的个性化电子邮件将面试率提高 3 倍  
     </details> 
 <!-- xinquji:END -->
