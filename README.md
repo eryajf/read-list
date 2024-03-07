@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [mybatis结合MySQL的CTE语句进行批量更新](https://juejin.cn/post/7343243744480411699) | Thu Mar 07 2024 7:02 AM 
+- 🤗 [Kernel Core Dump 的配置与常见问题](https://juejin.cn/post/7343255562497769506) | Thu Mar 07 2024 8:02 AM 
     <details><summary>展开描述 ...</summary> 
-    spring结合mybatis使用mysql的with...as的CTE语法实现批量更新,给mybatis进行批量更新提供一个新思路。 
+    Linux Kernel Core dump是一种在Linux内核崩溃时收集系统状态的机制。它会生成一个包含内核崩溃时的内存快照的文件，这个文件可以用于后续的调试和分析，以确定崩溃的原因。 以下是生成 
     </details> 
 
-- 🎡 [初探 Wasm 移植](https://juejin.cn/post/7343425279132401675) | Thu Mar 07 2024 6:57 AM 
+- 🎡 [⏳大咖直播预告 | 数据库系统访问控制『面面观』](https://juejin.cn/post/7343445926222250010) | Thu Mar 07 2024 7:59 AM 
     <details><summary>展开描述 ...</summary> 
-    公司项目中曲线构建功能由后端用 C++ 实现，先前尝试移植到 Wasm 以运行在浏览器上，本文为该次移植的部分记录。 
+    数据作为一项核心资产，其对于访问控制要求尤其高，在数据库国家标准和行业标准中，均对访问控制提出了具体要求。因此如何保证数据库访问安全，也是各大厂商必须加以重视并解决的关键问题。 
     </details> 
 
-- 🕯 [当我们执行 npm run serve 时到底发生了什么？](https://juejin.cn/post/7343243744480264243) | Thu Mar 07 2024 6:56 AM 
+- 🕯 [wsl2设置代理详细教程，下包速率嘎嘎提高！！！](https://juejin.cn/post/7343170640474603570) | Thu Mar 07 2024 7:45 AM 
     <details><summary>展开描述 ...</summary> 
-    在前端开发中， npm run serve 是一个常见的命令，尤其是在使用Vue CLI构建项目时。但是为什么直接运行 vue-cli-service serve 会报错，但使用 npm run se 
+    好处：可以提高下包的速率，好多包的源都在国外，即便你配了国内源，有时也不可避免要和GitHub的仓库打交道，配置代理好后，下包下库的速度大大提高！ 首先打开我们的WSL2，可以看到访问谷歌是失败了，接 
     </details> 
 
-- 🚀 [前端领域的插件式设计](https://juejin.cn/post/7343414871918493750) | Thu Mar 07 2024 6:55 AM 
+- 🚀 [【一分钟快学】轻松掌握 Python 3 的 dataclass：编写更简洁、更高效的代码](https://juejin.cn/post/7343428554685841447) | Thu Mar 07 2024 7:39 AM 
     <details><summary>展开描述 ...</summary> 
-    插件，是一个常见的概念。 例如，当我们需要把我们前端代码中的 css 样式提取打包，我们可以用 webpack 的 mini-css-extract-plugin，或者你如果用 rollup 的话，可 
+    探索 Python 3 + dataclass：一键简化类定义。本文提供了使用技巧、案例分析，旨在提高代码效率和可读性。 
     </details> 
 
-- 💪 [00 奇迹项目编码环境搭建](https://juejin.cn/post/7343243744480182323) | Thu Mar 07 2024 6:52 AM 
+- 💪 [2024面试题（基础篇）基于ChatGPT4回答整理](https://juejin.cn/post/7343278605155631119) | Thu Mar 07 2024 7:39 AM 
     <details><summary>展开描述 ...</summary> 
-    开篇 2023 已经过去了，这一年没做啥事情，感觉最难忘就是这个奇迹项目，公司项目名字不叫奇迹，我也不知道该叫啥，业务是一个海外代充，类似小电商平台，里面商品分类、 SKU、购物车、订单、购买等功能， 
+    前端基础知识面试题总结——深入探索前端世界的奥秘这份总结涵盖了前端开发的多个核心领域，包括HTML、CSS、JavaScript、DOM操作、浏览器兼容性、性能优化等方面。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
