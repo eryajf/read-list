@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Elasticsearch：dense vector 数据类型及标量量化](https://juejin.cn/post/7343428554687168551) | Thu Mar 07 2024 11:07 AM 
+- 🤗 [Midjourney封禁Stability AI：恶意爬取数据，致服务器瘫痪24小时](https://juejin.cn/entry/7343509431714037801) | Thu Mar 07 2024 12:14 PM 
+    <details><summary>展开描述 ...</summary> 
+    Midjourney 把 Stability AI 拉入黑名单了，禁止后者所有员工使用其软件，直至另行通知。 这两家 AI 图像生成公司之间发生什么事了。 
+    </details> 
+
+- 🎡 [刚刚，OpenAI官方发文驳斥马斯克，自曝8年间邮件往来截图](https://juejin.cn/entry/7343509431713939497) | Thu Mar 07 2024 12:11 PM 
+    <details><summary>展开描述 ...</summary> 
+    最热科技公司 OpenAI 对全球首富马斯克，这场史诗大战进入了新的高度。 刚刚，OpenAI 用一篇长文《OpenAI and Elon Musk》，正式驳斥了马斯克的所有指控。 
+    </details> 
+
+- 🕯 [向英伟达发起挑战的Groq是什么来头？简单科普新型AI芯片LPU](https://juejin.cn/entry/7343462662474317887) | Thu Mar 07 2024 12:10 PM 
+    <details><summary>展开描述 ...</summary> 
+    在如今的人工智能领域，「GPU is All You Need」已经逐渐成为共识。没有充足的 GPU，连 OpenAI 都不能轻易升级 ChatGPT。 
+    </details> 
+
+- 🚀 [自娱自乐--写个简易的五子棋游戏玩一玩](https://juejin.cn/post/7343484473184895013) | Thu Mar 07 2024 11:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 最近一段时间，迷恋上了五子棋。下着下着，突然头脑中萌生了想开发一款简易五子棋游戏的想法。这个想法时强时弱，最近比较强。于是想趁着这股热乎劲还在，把自己的想法实现了。没开发之前，感觉困难重重，做出 
+    </details> 
+
+- 💪 [Elasticsearch：dense vector 数据类型及标量量化](https://juejin.cn/post/7343428554687168551) | Thu Mar 07 2024 11:07 AM 
     <details><summary>展开描述 ...</summary> 
     密集向量（dense_vector）字段类型存储数值的密集向量。 密集向量场主要用于 k 最近邻 &lpar;kNN&rpar; 搜索。 dense_vector 类型不支持聚合或排序。 默认情况下，你可以基于 elem 
-    </details> 
-
-- 🎡 [Project Fugu - 探索 Web 高级 API 的使用](https://juejin.cn/post/7343428554687135783) | Thu Mar 07 2024 11:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    关于 “Project Fugu” Project Fugu 致力于填补 Web 功能的空缺，从而使更多的应用能够在 web 端运行。 Project Fugu 大概在 2018 年就被提起，至于为什 
-    </details> 
-
-- 🕯 [字节开启新一轮期权回购，价格又涨了（含算法原题）](https://juejin.cn/post/7343440691682213939) | Thu Mar 07 2024 10:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    字节期权 近日，字节跳动开启新一轮期权回购，价格微涨至 170 美元。 之前我们就写过 文章，分享历年来字节跳动的期权变化情况，这里再贴一下： 18年：10+ 19年：30+ 20年：60-70 21 
-    </details> 
-
-- 🚀 [Next.js v14 的模板（template.js）到底有啥用？](https://juejin.cn/post/7343569488744300553) | Thu Mar 07 2024 10:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    在初学 App Router 的时候，布局和模板的使用可能会让大家感到困惑。倒不是不理解其用法，而是不明白有什么作用。 本篇就为大家详细介绍 Next.js 的模板，并举一些例子帮助大家理解并应用 
-    </details> 
-
-- 💪 [【python 模块导入】彻底解决 Import Error 错误](https://juejin.cn/post/7343445926223593498) | Thu Mar 07 2024 10:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    本指南讲解了如何在Python中导入内置模块，并介绍了自定义模块的创建和管理。内容包括不同方式导入模块、处理命名冲突、使用sys.path进行路径管理，以及__init__.py文件的作用 
     </details> 
 <!-- juejin:END -->
 ### 少数派
