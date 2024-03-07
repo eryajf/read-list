@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [新玩意 174｜少数派的编辑们最近买了啥？](https://sspai.com/post/87014) | Thu Mar 07 2024 9:12 AM 
+- 👹 [出海产品 Podwise 开发团队、《硬地骇客》主播都装了啥？](https://sspai.com/prime/story/zhuanglesha-240307) | Thu Mar 07 2024 9:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    AI 时代的大发展对于独立开发者群体是个巨大的利好，会让自己更容易被解放出来，从而找到更好的生活状态。&lt;a href=&quot;https://sspai.com/prime/story/zhuanglesha-240307&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
+    </details> 
+
+- 🐘 [新玩意 174｜少数派的编辑们最近买了啥？](https://sspai.com/post/87014) | Thu Mar 07 2024 9:12 AM 
     <details><summary>展开描述 ...</summary> 
     关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...&lt;a href=&quot;https://sspai.com/post/87014&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [年度征文 | 当了两年全职奶爸感悟：生孩子还需慎重](https://sspai.com/post/86863) | Thu Mar 07 2024 7:02 AM 
+- 🤭 [年度征文 | 当了两年全职奶爸感悟：生孩子还需慎重](https://sspai.com/post/86863) | Thu Mar 07 2024 7:02 AM 
     <details><summary>展开描述 ...</summary> 
     本文参加 2023 年度征文活动。我的 2023 年度关键词是：「感悟」。&lt;a href=&quot;https://sspai.com/post/86863&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [用笔记建立生活的秩序感：我的记录体系搭建方案](https://sspai.com/post/85785) | Thu Mar 07 2024 3:31 AM 
+- 🥸 [用笔记建立生活的秩序感：我的记录体系搭建方案](https://sspai.com/post/85785) | Thu Mar 07 2024 3:31 AM 
     <details><summary>展开描述 ...</summary> 
     建立自己的记录体系，最重要的是要考虑自己的需求和使用场景。&lt;a href=&quot;https://sspai.com/post/85785&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：Apple 发布 iOS 17.4 更新、Meta 系产品出现大面积访问故障等](https://sspai.com/post/86993) | Thu Mar 07 2024 12:10 AM 
+- 🙉 [派早报：Apple 发布 iOS 17.4 更新、Meta 系产品出现大面积访问故障等](https://sspai.com/post/86993) | Thu Mar 07 2024 12:10 AM 
     <details><summary>展开描述 ...</summary> 
     TikTok 将持续扶持长视频、Netflix 将推出《哈迪斯》移动版等。&lt;a href=&quot;https://sspai.com/post/86993&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [年度征文 | 一个「修仙体质」设计师尝试写作这一年](https://sspai.com/post/86604) | Wed Mar 06 2024 9:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    编注：本文是「2023年度征文：分享你的关键词」的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。本文参加2023年度征文活动。我的2023年度关键词是：突围。少数派年度征文的「2023 ...&lt;a href=&quot;https://sspai.com/post/86604&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
