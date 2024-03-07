@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第148期-2024年第09周](https://wiki.eryajf.net/pages/5e2bc3/) | Thu Feb 29 2024 11:05 PM 
+- 🫶 [学习周刊-总第149期-2024年第10周](https://wiki.eryajf.net/pages/9c5e05/) | Thu Mar 07 2024 10:29 PM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第149期-一款集成Website analytics+ Uptime Monitor + Server Status的网站状态监测工具 
+    </details> 
+
+- 🧰 [学习周刊-总第148期-2024年第09周](https://wiki.eryajf.net/pages/5e2bc3/) | Thu Feb 29 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第148期-一个开源数据库一体化监控平台 
     </details> 
 
-- 🧰 [学习周刊-总第147期-2024年第08周](https://wiki.eryajf.net/pages/5997f0/) | Fri Feb 23 2024 8:49 AM 
+- 🌏 [学习周刊-总第147期-2024年第08周](https://wiki.eryajf.net/pages/5997f0/) | Fri Feb 23 2024 8:49 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第147期-一个项目协作开源软件 
     </details> 
 
-- 🌏 [过年时鼓捣xirang框架遇到的前后端问题两则](https://wiki.eryajf.net/pages/fe52bc/) | Mon Feb 19 2024 11:54 PM 
+- 😎 [过年时鼓捣xirang框架遇到的前后端问题两则](https://wiki.eryajf.net/pages/fe52bc/) | Mon Feb 19 2024 11:54 PM 
     <details><summary>展开描述 ...</summary> 
     go的validate库使用required时的零值问题。vue-element-admin多级路由component配置的一个坑。 
     </details> 
 
-- 😎 [学习周刊-总第146期-2024年第07周](https://wiki.eryajf.net/pages/f351e3/) | Thu Feb 15 2024 9:31 PM 
+- 💂 [学习周刊-总第146期-2024年第07周](https://wiki.eryajf.net/pages/f351e3/) | Thu Feb 15 2024 9:31 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第146期-一个小型轻量级的监听docker容器日志的应用程序 
-    </details> 
-
-- 💂 [学习周刊-总第145期-2024年第06周](https://wiki.eryajf.net/pages/bcdf69/) | Fri Feb 09 2024 4:29 PM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第145期-几个中间件管理后台项目 
     </details> 
 <!-- eryajf:END -->
 
