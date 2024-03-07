@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一起来学阿里巴巴Java开发手册&lpar;三&rpar;](https://juejin.cn/post/7343132138668490791) | Thu Mar 07 2024 2:11 AM 
+- 🤗 [你真的了解CSS中的包含块吗？| 使用定位属性需留意](https://juejin.cn/post/7343243882027237391) | Thu Mar 07 2024 3:09 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 目前正在出一个阿里巴巴Java开发手册系列教程, 篇幅会较多, 喜欢的话，给个关注❤️ ~ 在日常开发中，好的编码习惯和代码规范有助于提高代码可读性,提升团队协作效率,还利于维护与扩展，在某些情 
+    相信大家对于绝对定位的定义都背得滚瓜烂熟了：相对于第一个非static的上层元素定位，但你是否想过CSS中的包含块（containing block）也会对其产生影响。 我们 
     </details> 
 
-- 🎡 [详解 Typescript 泛型函数](https://juejin.cn/post/7343153834531913754) | Thu Mar 07 2024 1:29 AM 
+- 🎡 [Python 教程-配置 Python 运行环境（Anaconda）](https://juejin.cn/post/7343162622178410496) | Thu Mar 07 2024 3:03 AM 
     <details><summary>展开描述 ...</summary> 
-    一. 泛型函数 泛型函数格式1： 案例 1. 快速排序 2. 泛型函数重载 1. 🀄中文排序 2. 字符串排序 3. 数组混序 4. 中文，英文，数字联合排序（瑕疵版） 断言错误！！ 5. 泛型函数重 
+    前言 这是 Python 基础教学的第一篇，当然就是要分享给大家如何配置一个编写 Python 的环境了。当然编写 Python 的环境有很多种，比如可以在电脑上用 Anaconda（Spyder、J 
     </details> 
 
-- 🕯 [程序员副业 | 谈谈LTV-客户终生价值](https://juejin.cn/post/7343139078487654454) | Thu Mar 07 2024 1:27 AM 
+- 🕯 [目标识别项目实战：基于Yolov7-LPRNet的动态车牌目标识别算法模型&lpar;二&rpar;](https://juejin.cn/post/7343162626322579468) | Thu Mar 07 2024 2:59 AM 
     <details><summary>展开描述 ...</summary> 
-    今天探讨一个名词概念，很有意思，叫做LTV，我以前没听过这个名词，但是我可能在做的事情一直有LTV参与其中的，后来知道了，这次展开来聊聊，给不懂的朋友科普下。 
+    前言 目标识别如今以及迭代了这么多年，普遍受大家认可和欢迎的目标识别框架就是YOLO了。按照官方描述，YOLOv8 是一个 SOTA 模型，它建立在以前 YOLO 版本的成功基础上，并引入了新的功能和 
     </details> 
 
-- 🚀 [Chromium内核浏览器编译记（四）Linux版本CEF编译](https://juejin.cn/post/7343153834531717146) | Thu Mar 07 2024 1:14 AM 
+- 🚀 [Sharding-JDBC源码解析与vivo的定制开发](https://juejin.cn/post/7343161077062991882) | Thu Mar 07 2024 2:58 AM 
     <details><summary>展开描述 ...</summary> 
-    0.写在前面 本篇文章是用来记录编译Linux版本CEF的步骤和踩过的坑，以防止后续再用到的时候忘记，同时也希望能够帮助到遇到同样问题的同学。 简单介绍下CEF，CEF的全称是Chromium Emb 
+    本文对sharding-JDBC的解析、路由、改写、执行、归并五大核心引擎进行了源码解析，并结合业务实践经验，总结了使用sharding-JDBC的一些痛点问题并分享了对应的定制开发与改造方案。 
     </details> 
 
-- 💪 [2024，互联网打工人最终没能逃得过 ChatGPT](https://juejin.cn/post/7343139078487146550) | Wed Mar 06 2024 4:02 PM 
+- 💪 [雷军：一定把小米汽车干好、干成；QQ测试AI聊天搭子，再战AI社交；零一万物宣布开源Yi-9B模型 | 极客头条](https://juejin.cn/post/7343161506698919946) | Thu Mar 07 2024 2:56 AM 
     <details><summary>展开描述 ...</summary> 
-    时间很快就来到了三月份，回首看过去的一年，如果要选择最令人着迷的新技术，那非 ChatGPT 莫属。 从美国的硅谷、华尔街到中国的后厂村、中关村，几乎所有的科技大厂们都在讨论“AIGC”。 既 Cha 
+    稀土掘金 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。 一分钟速览新闻点！ 李开复旗下 AI 公司零一万物宣布开源 Yi-9B 模型 陈睿加码自研游戏发行 
     </details> 
 <!-- juejin:END -->
 ### 少数派
