@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [你真的了解CSS中的包含块吗？| 使用定位属性需留意](https://juejin.cn/post/7343243882027237391) | Thu Mar 07 2024 3:09 AM 
+- 🤗 [Solidity极简入门: 1. HelloWeb3 &lpar;三行代码&rpar;](https://juejin.cn/post/7343165298650218507) | Thu Mar 07 2024 4:12 AM 
     <details><summary>展开描述 ...</summary> 
-    相信大家对于绝对定位的定义都背得滚瓜烂熟了：相对于第一个非static的上层元素定位，但你是否想过CSS中的包含块（containing block）也会对其产生影响。 我们 
+    Solidity简述​ Solidity是以太坊虚拟机（EVM）智能合约的语言。同时，我认为solidity是玩链上项目必备的技能：区块链项目大部分是开源的，如果你能读懂代码，就可以规避很多亏钱项目。 
     </details> 
 
-- 🎡 [Python 教程-配置 Python 运行环境（Anaconda）](https://juejin.cn/post/7343162622178410496) | Thu Mar 07 2024 3:03 AM 
+- 🎡 [蓝桥杯 4262. 空调   知识点：差分](https://juejin.cn/post/7343138955511316515) | Thu Mar 07 2024 4:07 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 这是 Python 基础教学的第一篇，当然就是要分享给大家如何配置一个编写 Python 的环境了。当然编写 Python 的环境有很多种，比如可以在电脑上用 Anaconda（Spyder、J 
+    4262. 空调 - AcWing题库 解析：开学季优惠来啦 | 每日一题 | AcWing 4262. 空调_哔哩哔哩_bilibili 首先题目的意思给我们两个数组，p,t，让我们对t数组进行区间 
     </details> 
 
-- 🕯 [目标识别项目实战：基于Yolov7-LPRNet的动态车牌目标识别算法模型&lpar;二&rpar;](https://juejin.cn/post/7343162626322579468) | Thu Mar 07 2024 2:59 AM 
+- 🕯 [高效降本｜深度案例解读 Koupleless 在南京爱福路的落地实践](https://juejin.cn/post/7343211270516850725) | Thu Mar 07 2024 3:32 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 目标识别如今以及迭代了这么多年，普遍受大家认可和欢迎的目标识别框架就是YOLO了。按照官方描述，YOLOv8 是一个 SOTA 模型，它建立在以前 YOLO 版本的成功基础上，并引入了新的功能和 
+    Koupleless （原 SOFAServerless）自 2023 年开源以来已经落地了若干企业，这些企业也见证了从 SOFAServerless 到 Koupleless 的品牌&amp;技术能力。 
     </details> 
 
-- 🚀 [Sharding-JDBC源码解析与vivo的定制开发](https://juejin.cn/post/7343161077062991882) | Thu Mar 07 2024 2:58 AM 
+- 🚀 [Springboot整合金蝶等中间件打包和部署](https://juejin.cn/post/7343153834532814874) | Thu Mar 07 2024 3:29 AM 
     <details><summary>展开描述 ...</summary> 
-    本文对sharding-JDBC的解析、路由、改写、执行、归并五大核心引擎进行了源码解析，并结合业务实践经验，总结了使用sharding-JDBC的一些痛点问题并分享了对应的定制开发与改造方案。 
+    我正在参加「金石计划」 写在前面 在工作中，我们可能会遇到一些产品项目，要在不同的服务器部署，例如，在A项目部署，需要使用东方通中间件；在B项目部署，需要使用金蝶中间件；在C项目部署，则没有这样的要求 
     </details> 
 
-- 💪 [雷军：一定把小米汽车干好、干成；QQ测试AI聊天搭子，再战AI社交；零一万物宣布开源Yi-9B模型 | 极客头条](https://juejin.cn/post/7343161506698919946) | Thu Mar 07 2024 2:56 AM 
+- 💪 [Java 变得越来越像 Rust](https://juejin.cn/post/7343164002673442852) | Thu Mar 07 2024 3:26 AM 
     <details><summary>展开描述 ...</summary> 
-    稀土掘金 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。 一分钟速览新闻点！ 李开复旗下 AI 公司零一万物宣布开源 Yi-9B 模型 陈睿加码自研游戏发行 
+    Java 变得越来越像 Rust 介绍 随着编程的增强和复杂性越来越流行，许多编程语言也相互效仿。 Java 也不例外。 尽管社区内部存在问题，Rust 仍逐年赢得了开发人员的喜爱。并且有充分的理由： 
     </details> 
 <!-- juejin:END -->
 ### 少数派
