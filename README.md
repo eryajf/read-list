@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [公司内部服务器系统该怎么选？](https://www.v2ex.com/t/1021589#reply2) | Thu Mar 07 2024 12:15 PM
-- 🤗 [祝愿大家出海的小伙伴们，都发财~~](https://www.v2ex.com/t/1021569#reply2) | Thu Mar 07 2024 10:16 AM
-- 🎭 [群晖加密文件夹文件名长度问题](https://www.v2ex.com/t/1021568#reply0) | Thu Mar 07 2024 10:16 AM
-- 🥷 [WebGL/WebGPU 相比 Native 的性能损失大概有多少？](https://www.v2ex.com/t/1021551#reply0) | Thu Mar 07 2024 9:18 AM
-- 🐵 [百度 comate，跟风发一个](https://www.v2ex.com/t/1021550#reply9) | Thu Mar 07 2024 9:15 AM<!-- v2ex:END -->
+- 🥸 [公司内部服务器系统该怎么选？](https://www.v2ex.com/t/1021589#reply13) | Thu Mar 07 2024 12:15 PM
+- 🤗 [群晖加密文件夹文件名长度问题](https://www.v2ex.com/t/1021568#reply0) | Thu Mar 07 2024 10:16 AM
+- 🎭 [WebGL/WebGPU 相比 Native 的性能损失大概有多少？](https://www.v2ex.com/t/1021551#reply0) | Thu Mar 07 2024 9:18 AM
+- 🥷 [关于 javaToolChains 的一个疑惑](https://www.v2ex.com/t/1021541#reply0) | Thu Mar 07 2024 9:05 AM
+- 🐵 [最近在研究指纹，想问一下大家，怎么在软件里接入 Windows Hello 啊](https://www.v2ex.com/t/1021537#reply2) | Thu Mar 07 2024 8:58 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
