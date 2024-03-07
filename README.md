@@ -481,24 +481,24 @@
 ### 不死鸟
 
 <!-- iui:START -->
-- 🌊 [2024 年 3 月 每日分享](https://iui.su/183/) | Thu Mar 07 2024 6:39 AM 
+- 🌊 [深度揭秘：集各大模型于一身的AI工具](https://iui.su/3888/) | Thu Mar 07 2024 8:05 AM 
+    <details><summary>展开描述 ...</summary> 
+    ChatAI-您的全能一站式工具百宝箱ChatAI目前已集合接入各大模型接口： ➢ GPT4.0&lpar;同时涵盖了Chat4.0 Turbo和Chat4.0 Vision&rpar; ➢ GPT3.5 ➢ Ge... 
+    </details> 
+
+- 🫣 [2024 年 3 月 每日分享](https://iui.su/183/) | Thu Mar 07 2024 6:39 AM 
     <details><summary>展开描述 ...</summary> 
     可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。3月7日Ai论文大师-几分... 
     </details> 
 
-- 🫣 [解决安卓手机已禁止安装未备案APP方法](https://iui.su/114/) | Thu Mar 07 2024 6:36 AM 
+- 🌜 [解决安卓手机已禁止安装未备案APP方法](https://iui.su/114/) | Thu Mar 07 2024 6:36 AM 
     <details><summary>展开描述 ...</summary> 
     多地通信管理局发布公告要求逾期未履行备案程序的App下架关停，目前小米、华为、vivo等手机还可以安装未备案APP。收到网友反馈，OPPO系统已经不允许安装未备案APP了，只给了一个取消安装的选... 
     </details> 
 
-- 🌜 [【网站搜索神器】易搜站-新一代搜索引擎 推广运营必备 带预览图及流量信息 可多条件筛选](https://iui.su/3887/) | Thu Feb 29 2024 9:08 AM 
+- 🏊 [【网站搜索神器】易搜站-新一代搜索引擎 推广运营必备 带预览图及流量信息 可多条件筛选](https://iui.su/3887/) | Thu Feb 29 2024 9:08 AM 
     <details><summary>展开描述 ...</summary> 
     易搜站，高效找网站。全新一代网站大数据搜索引擎，已收录1000w+的数据，支持多条件筛选搜索。易搜站 链接直达：https://www.aifun7.com与传统搜索引擎的区别？传统搜索引擎：大... 
-    </details> 
-
-- 🏊 [2024 年 2 月 每日分享](https://iui.su/182/) | Thu Feb 29 2024 5:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。2月29日bunny免费1... 
     </details> 
 
 - 🚦 [网页在线工具汇总](https://iui.su/1492/) | Tue Feb 13 2024 5:34 AM 
