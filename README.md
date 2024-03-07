@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Git 内幕探索：从底层文件系统到历史编辑的全面指南](https://juejin.cn/post/7343509431715086377) | Thu Mar 07 2024 4:45 PM 
+- 🤗 [Solidity极简入门: 2. 数值类型](https://juejin.cn/post/7343493283073605683) | Thu Mar 07 2024 5:42 PM 
+    <details><summary>展开描述 ...</summary> 
+    Solidity中的变量类型​ 数值类型&lpar;Value Type&rpar; ：包括布尔型，整数型等等，这类变量赋值时候直接传递数值。 引用类型&lpar;Reference Type&rpar; ：包括数组和结构体，这类变量占空间 
+    </details> 
+
+- 🎡 [Git 内幕探索：从底层文件系统到历史编辑的全面指南](https://juejin.cn/post/7343509431715086377) | Thu Mar 07 2024 4:45 PM 
     <details><summary>展开描述 ...</summary> 
     1. Git 底层文件对象 1.1 Blob blob（Binary Large Object）是一种数据类型，用于存储文件的内容。每个文件在 Git 中都被存储为一个 blob 对象。blob 对象 
     </details> 
 
-- 🎡 [Vue 中的样式绑定的常见做法](https://juejin.cn/post/7343493283073572915) | Thu Mar 07 2024 4:06 PM 
+- 🕯 [Vue 中的样式绑定的常见做法](https://juejin.cn/post/7343493283073572915) | Thu Mar 07 2024 4:06 PM 
     <details><summary>展开描述 ...</summary> 
     Vue 提供了灵活的方式来绑定样式，不仅可以应用静态样式，还能基于组件的状态动态改变样式。这篇文章将探索 Vue 中设置样式的七种做法，并结合代码，逐步说明每种方法的实现。 
     </details> 
 
-- 🕯 [Vue 条件渲染指令：v-if、v-else、v-if-else 与 v-show 相关知识点](https://juejin.cn/post/7343569488745611273) | Thu Mar 07 2024 4:06 PM 
+- 🚀 [Vue 条件渲染指令：v-if、v-else、v-if-else 与 v-show 相关知识点](https://juejin.cn/post/7343569488745611273) | Thu Mar 07 2024 4:06 PM 
     <details><summary>展开描述 ...</summary> 
     Vue 提供了几个强大的指令来简化条件渲染的实现：`v-if`、`v-else-if`、`v-else` 和 `v-show`。本文将详细介绍这些指令的使用方法。 
     </details> 
 
-- 🚀 [小鹅通一面：被问碎了...](https://juejin.cn/post/7343484473185746981) | Thu Mar 07 2024 3:54 PM 
+- 💪 [小鹅通一面：被问碎了...](https://juejin.cn/post/7343484473185746981) | Thu Mar 07 2024 3:54 PM 
     <details><summary>展开描述 ...</summary> 
     浅聊一下 大三学生，今天面了一下小鹅通，大概四十多分钟...问的有点细，汗流浃背 小鹅通 自我介绍 首先进行了一个简单的自我介绍，介绍了一下我是谁、来自哪里、做过什么，实习经历、有什么成绩、为什么能胜 
-    </details> 
-
-- 💪 [Nest 中的 Session 管理](https://juejin.cn/post/7343499296929988634) | Thu Mar 07 2024 3:49 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文介绍了在基于 HTTP 的网络通信中，如何使用 Session 和 Cookie 来记录用户状态。我们详细讲解了 Nest.js 框架下 Session 的工作流程、配置方法以及在控制器中的使用。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
