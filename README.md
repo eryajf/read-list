@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [谷歌新作：AI 检测文件内容类型，5ms 即可完成 | 开源日报 No.192](https://juejin.cn/post/7343139078487539766) | Thu Mar 07 2024 1:09 AM 
+- 🤗 [一起来学阿里巴巴Java开发手册&lpar;三&rpar;](https://juejin.cn/post/7343132138668490791) | Thu Mar 07 2024 2:11 AM 
     <details><summary>展开描述 ...</summary> 
-    magika 是一个利用深度学习技术开发的文件内容类型检测工具，具有高度优化的 Keras 模型，仅 1MB 大小，能在毫秒内准确识别文件。在超过 1M 文件和 100 种内容类型的评估中，准确率和召 
+    前言 目前正在出一个阿里巴巴Java开发手册系列教程, 篇幅会较多, 喜欢的话，给个关注❤️ ~ 在日常开发中，好的编码习惯和代码规范有助于提高代码可读性,提升团队协作效率,还利于维护与扩展，在某些情 
     </details> 
 
-- 🎡 [不后悔任何选择](https://juejin.cn/post/7343138527419596835) | Thu Mar 07 2024 1:05 AM 
+- 🎡 [详解 Typescript 泛型函数](https://juejin.cn/post/7343153834531913754) | Thu Mar 07 2024 1:29 AM 
     <details><summary>展开描述 ...</summary> 
-    ​ 前段时间和一朋友聊天，他说以前的一些同学高中毕业就没上大学了，但是有人家却都风生水起，结婚生子，买房买车，而自己虽然去读了个大学，但是现在混得也不咋滴，要是自己当时不去上大学，而是选择进入社会，现 
+    一. 泛型函数 泛型函数格式1： 案例 1. 快速排序 2. 泛型函数重载 1. 🀄中文排序 2. 字符串排序 3. 数组混序 4. 中文，英文，数字联合排序（瑕疵版） 断言错误！！ 5. 泛型函数重 
     </details> 
 
-- 🕯 [央国企求职“性价比分析”：为什么这几年央国企火了？](https://juejin.cn/post/7343161077061992458) | Thu Mar 07 2024 12:59 AM 
+- 🕯 [程序员副业 | 谈谈LTV-客户终生价值](https://juejin.cn/post/7343139078487654454) | Thu Mar 07 2024 1:27 AM 
     <details><summary>展开描述 ...</summary> 
-    浣熊say官方网站：https://hxsay.com/ 浣熊say官方星球：​https://hxsay.com/about/我的星球/知识星球/ 正文 不知道最近大家有没有发现，越来越多的人在职业 
+    今天探讨一个名词概念，很有意思，叫做LTV，我以前没听过这个名词，但是我可能在做的事情一直有LTV参与其中的，后来知道了，这次展开来聊聊，给不懂的朋友科普下。 
     </details> 
 
-- 🚀 [JDK 22 和 JDK 23：到目前为止我们所知道的](https://juejin.cn/post/7343138527419514915) | Thu Mar 07 2024 12:54 AM 
+- 🚀 [Chromium内核浏览器编译记（四）Linux版本CEF编译](https://juejin.cn/post/7343153834531717146) | Thu Mar 07 2024 1:14 AM 
     <details><summary>展开描述 ...</summary> 
-    JDK 22 和 JDK 23：到目前为止我们所知道的 Oracle Java 平台组首席架构师Mark Reinhold宣布， JDK 22是自JDK 21以来的第一个非 LTS 版本，现已进入第二 
+    0.写在前面 本篇文章是用来记录编译Linux版本CEF的步骤和踩过的坑，以防止后续再用到的时候忘记，同时也希望能够帮助到遇到同样问题的同学。 简单介绍下CEF，CEF的全称是Chromium Emb 
     </details> 
 
-- 💪 [上来就对标 20k Star 的开源项目，是自不量力还是后起之秀？](https://juejin.cn/post/7343161077061926922) | Thu Mar 07 2024 12:52 AM 
+- 💪 [2024，互联网打工人最终没能逃得过 ChatGPT](https://juejin.cn/post/7343139078487146550) | Wed Mar 06 2024 4:02 PM 
     <details><summary>展开描述 ...</summary> 
-    先来一段紧箍咒：nvm、fvm、gvm、sdkman、fnm、n、g、rvm、jenv、phpbrew、rustup、swiftenv、pyenv、rbenv... 这些都是用来解决编程语言多版本管理 
+    时间很快就来到了三月份，回首看过去的一年，如果要选择最令人着迷的新技术，那非 ChatGPT 莫属。 从美国的硅谷、华尔街到中国的后厂村、中关村，几乎所有的科技大厂们都在讨论“AIGC”。 既 Cha 
     </details> 
 <!-- juejin:END -->
 ### 少数派
