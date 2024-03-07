@@ -369,7 +369,7 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [年度征文 | 当了年2全职奶爸感悟：生孩子还需慎重](https://sspai.com/post/86863) | Thu Mar 07 2024 7:02 AM 
+- 👹 [年度征文 | 当了两年全职奶爸感悟：生孩子还需慎重](https://sspai.com/post/86863) | Thu Mar 07 2024 7:02 AM 
     <details><summary>展开描述 ...</summary> 
     本文参加 2023 年度征文活动。我的 2023 年度关键词是：「感悟」。&lt;a href=&quot;https://sspai.com/post/86863&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
