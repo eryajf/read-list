@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [React实战案例：创建并使用Alert组件](https://juejin.cn/post/7343156956667150371) | Thu Mar 07 2024 5:01 AM 
+- 🤗 [java工具-高并发-JMM模型](https://juejin.cn/post/7343255545812926500) | Thu Mar 07 2024 6:16 AM 
     <details><summary>展开描述 ...</summary> 
-    在React学习之旅中，我们已经掌握了许多基础知识。现在来实战一下，创建Alert组件，以此来巩固和运用之前文章中所学的知识。 创建Alert组件 首先，需要在 components 目录中新建 Al 
+    JMM&lpar;java内存模型&rpar;，由于并发程序要比串行程序复杂很多，其中一个重要原因是并发程序中数据访问一致性和安全性将会受到严重挑战。如何保证一个线程可以看到正确的数据呢？ 这个问题看起来很白痴。对于串行 
     </details> 
 
-- 🎡 [Vue 的双向绑定和响应式系统原理](https://juejin.cn/post/7343206380696485914) | Thu Mar 07 2024 4:46 AM 
+- 🎡 [Rust泛型与trait特性，模仿接口的实现](https://juejin.cn/post/7343156956667297827) | Thu Mar 07 2024 6:03 AM 
     <details><summary>展开描述 ...</summary> 
-    本文旨在深入探讨 Vue 的双向绑定和响应式系统是如何工作的，并通过原生 JavaScript 代码实现一个简单的响应式系统。 
+    泛型是一个编程语言不可或缺的机制。 C++ 语言中用&quot;模板&quot;来实现泛型，而 C 语言中没有泛型的机制，这也导致 C 语言难以构建类型复杂的工程。 泛型机制是编程语言用于表达类型抽象的机制，一般用于功能 
     </details> 
 
-- 🕯 [作为一个前端开发者，你没有必要学 Rust](https://juejin.cn/post/7343266235871756325) | Thu Mar 07 2024 4:40 AM 
+- 🕯 [协程代码生成-1.Suspend Lambda&lpar;译&rpar;](https://juejin.cn/post/7343255545812697124) | Thu Mar 07 2024 5:57 AM 
     <details><summary>展开描述 ...</summary> 
-    随着前端技术栈的发展，Rust 作为一门系统级语言，也逐渐进入了前端开发者的视野。最近很明显的一个例子就是，今年的 ViteConf 中尤雨溪宣布 Vite 的底层即将用 Rust 重写，即开发一个基 
+    coroutines-codegen（协程代码生成） 本文旨在将关于协程代码生成的所有信息汇集到一个地方，这样，程序员就不必阅读编译器代码或编写代码片段并查看生成的字节码，而是可以查阅文档。 
     </details> 
 
-- 🚀 [Solidity极简入门: 1. HelloWeb3 &lpar;三行代码&rpar;](https://juejin.cn/post/7343165298650218507) | Thu Mar 07 2024 4:12 AM 
+- 🚀 [云原生✖️ AI 时代的微服务架构最佳实践—— CloudWeGo 技术沙龙·北京站报名开启](https://juejin.cn/post/7343266235872067621) | Thu Mar 07 2024 5:56 AM 
     <details><summary>展开描述 ...</summary> 
-    Solidity简述​ Solidity是以太坊虚拟机（EVM）智能合约的语言。同时，我认为solidity是玩链上项目必备的技能：区块链项目大部分是开源的，如果你能读懂代码，就可以规避很多亏钱项目。 
+    诚挚邀请社区用户和开发者共同参与 CloudWeGo 技术沙龙。活动将于2024年3月30日（周六）在北京举办，邀请广大技术同仁共同探讨在 云原生xAI 浪潮之下，企业如何构建云原生微服务架构。 
     </details> 
 
-- 💪 [蓝桥杯 4262. 空调   知识点：差分](https://juejin.cn/post/7343138955511316515) | Thu Mar 07 2024 4:07 AM 
+- 💪 [SPI技术实现对比Java SPI、Spring SPI、Dubbo SPI](https://juejin.cn/post/7343425279131582475) | Thu Mar 07 2024 5:46 AM 
     <details><summary>展开描述 ...</summary> 
-    4262. 空调 - AcWing题库 解析：开学季优惠来啦 | 每日一题 | AcWing 4262. 空调_哔哩哔哩_bilibili 首先题目的意思给我们两个数组，p,t，让我们对t数组进行区间 
+    概念 SPI机制，全称为Service Provider Interface，是一种服务提供发现机制。 SPI的核心思想是面向接口编程，它允许程序员定义接口，并由第三方实现这些接口。在运行时，SPI机 
     </details> 
 <!-- juejin:END -->
 ### 少数派
