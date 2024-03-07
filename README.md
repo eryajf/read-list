@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [我回来了~](https://juejin.cn/post/7343492515063513151) | Thu Mar 07 2024 1:12 PM 
+- 🤗 [WEB集群-代理与负载均衡](https://juejin.cn/post/7343441462644211746) | Thu Mar 07 2024 1:35 PM 
+    <details><summary>展开描述 ...</summary> 
+    一、LNMP排错 排除法： Linux:防火墙,selinux. Nginx:检查配置,处理流程检查. 测试ngx. PHP:处理动态请求. 测试:ngx+php MySQL: 测试php+数据库 1 
+    </details> 
+
+- 🎡 [Compose Multiplatform 1.6 上新：图片、字符串、字体的资源访问！平台互操作性增强！](https://juejin.cn/post/7343509431714414633) | Thu Mar 07 2024 1:31 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 Compose Multiplatform 是由 JetBrains 开发的声明式 UI 框架，允许开发者在不同平台之间共享 UI 实现。1.6.0 版本带来了几个强大的功能，本文呢详细介绍…… 
+    </details> 
+
+- 🕯 [Java 日期和时间 API：实用技巧与示例 - 轻松处理日期和时间](https://juejin.cn/post/7343503718182518799) | Thu Mar 07 2024 1:28 PM 
+    <details><summary>展开描述 ...</summary> 
+    Java 用户输入（Scanner） 简介 Scanner 类用于获取用户输入，它位于 java.util 包中。 使用 Scanner 类 要使用 Scanner 类，请执行以下步骤： 导入 jav 
+    </details> 
+
+- 🚀 [美团一面：Git 是如何工作的？&lpar;推荐阅读&rpar;](https://juejin.cn/post/7343509431714398249) | Thu Mar 07 2024 1:25 PM 
+    <details><summary>展开描述 ...</summary> 
+    Git 光会使用却不懂原理，顶多是个青铜，如何让自己成为王者？功夫在平时，多注重底层实现逻辑，让自己的黑盒操作变成白盒操作。 
+    </details> 
+
+- 💪 [我回来了~](https://juejin.cn/post/7343492515063513151) | Thu Mar 07 2024 1:12 PM 
     <details><summary>展开描述 ...</summary> 
     Hello，大家好，博主又回来了。最近如果有关注的伙伴应该看到，很久没有更新文章了，是因为最近2个月在准备面试，从文章更新的内容也大概能够看出来，然后我也有幸拿到了几个互联网头部的offer，下个月将 
-    </details> 
-
-- 🎡 [2024 年如何选择 Node 包管理器？](https://juejin.cn/post/7343509431714283561) | Thu Mar 07 2024 1:05 PM 
-    <details><summary>展开描述 ...</summary> 
-    npm、yarn 和 pnpm 因为它们在 Node 生态系统中使用最广泛，我们将深度学习它们之间的异同点和优缺点，并深入了解影响其在 2024 年使用的不断发展的趋势。 
-    </details> 
-
-- 🕯 [作者推荐 |【Redis技术进阶之路】「底层源码解析」揭秘高效存储模型与数据结构底层实现（链表）](https://juejin.cn/post/7343509431714234409) | Thu Mar 07 2024 12:58 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文为稀土掘金技术社区首发签约文章，30天内禁止转载，30天后未获授权禁止转载，侵权必究！ 【专栏简介】 随着数据需求的迅猛增长，持久化和数据查询技术的重要性日益凸显。关系型数据库已不再是唯一选择，数 
-    </details> 
-
-- 🚀 [前端缓存你知道哪些？](https://juejin.cn/post/7343278605156810767) | Thu Mar 07 2024 12:54 PM 
-    <details><summary>展开描述 ...</summary> 
-    前端缓存一般用于缓存一些不常修改的常量数据或一些静态资源文件。大部分接口请求的数据都缓存在了服务端，方便统一管理缓存数据。前端做缓存可以缓解服务端的压力. 
-    </details> 
-
-- 💪 [如何自动分组排序 import 语句](https://juejin.cn/post/7343278605156777999) | Thu Mar 07 2024 12:34 PM 
-    <details><summary>展开描述 ...</summary> 
-    今天分享一个代码整理的小技巧：自动分组排序 import 语句。 Go 或者类似自带 formt 工具的语言，通常会体贴地帮你自动整理 import 语句。前端一般用 prettier 格式化代码.. 
     </details> 
 <!-- juejin:END -->
 ### 少数派
