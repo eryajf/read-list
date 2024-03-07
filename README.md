@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [基于 edge-tts 和 nextjs 实现的简单 tts 网页](https://www.v2ex.com/t/1021639#reply0) | Thu Mar 07 2024 4:17 PM
-- 🤗 [日前，翟欣欣涉嫌敲诈勒索一案已移送法院](https://www.v2ex.com/t/1021638#reply1) | Thu Mar 07 2024 4:12 PM
-- 🎭 [针对开发者用代币空投骗取私钥背后有哪些骚操作？](https://www.v2ex.com/t/1021621#reply1) | Thu Mar 07 2024 2:15 PM
-- 🥷 [C 语言中的面向切面编程&lpar;AOP&rpar;](https://www.v2ex.com/t/1021620#reply0) | Thu Mar 07 2024 2:11 PM
-- 🐵 [求一个 a 股回测平台](https://www.v2ex.com/t/1021618#reply8) | Thu Mar 07 2024 1:56 PM<!-- v2ex:END -->
+- 🥸 [DIY unraid 替代品： SnapRAID](https://www.v2ex.com/t/1021652#reply0) | Thu Mar 07 2024 7:18 PM
+- 🤗 [基于 edge-tts 和 nextjs 实现的简单 tts 网页](https://www.v2ex.com/t/1021639#reply0) | Thu Mar 07 2024 4:17 PM
+- 🎭 [日前，翟欣欣涉嫌敲诈勒索一案已移送法院](https://www.v2ex.com/t/1021638#reply1) | Thu Mar 07 2024 4:12 PM
+- 🥷 [针对开发者用代币空投骗取私钥背后有哪些骚操作？](https://www.v2ex.com/t/1021621#reply1) | Thu Mar 07 2024 2:15 PM
+- 🐵 [C 语言中的面向切面编程&lpar;AOP&rpar;](https://www.v2ex.com/t/1021620#reply0) | Thu Mar 07 2024 2:11 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
