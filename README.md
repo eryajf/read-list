@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Trino源码解析（一）——源码阅读环境准备](https://juejin.cn/post/7343160798170234890) | Wed Mar 06 2024 4:20 PM 
+- 🤗 [一步步带你了解锁底层](https://juejin.cn/post/7343139078487326774) | Thu Mar 07 2024 12:28 AM 
     <details><summary>展开描述 ...</summary> 
-    工具准备 操作系统：Mac OS X or Linux JDK版本要求比较高，目前我下载的JDK版本要求最低是21.0.1 Maven，但是Maven版本并不重要，因为编译的时候会通过./mvnw来使 
+    前言 Go语言中的sync包主要提供的对并发操作的支持，标志性的工具有cond（条件变量） once &lpar;原子性&rpar; 还有 锁，本文会主要向大家介绍Go语言中锁的特性和实现。 锁底层 go中的sync包提 
     </details> 
 
-- 🎡 [AI Vtuber一款聚合了多种大模型技术的虚拟主播](https://juejin.cn/post/7343139078487179318) | Wed Mar 06 2024 4:05 PM 
+- 🎡 [不太熟悉Git？ 不妨看看这篇文章](https://juejin.cn/post/7343139078487310390) | Thu Mar 07 2024 12:27 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，笔者荒生，今天调研了一款比较不错的开源项目AI-Vtuber，和大家一起分享。 AI-Vtuber是一款数字人虚拟直播软件，聚合了多种多种市面主流大模型技术，可谓牛得一逼。包括：支持ChatG 
+    前言 Git是目前世界上最先进的分布式版本控制系统，由C语言进行开发 在2022年之前，Linux构建的方式是世界各地的志愿者把源代码文件通过diff的方式发送给Linus，然后由Linus本人通过手 
     </details> 
 
-- 🕯 [玩一会小乌龟](https://juejin.cn/post/7343137522069684233) | Wed Mar 06 2024 3:49 PM 
+- 🕯 [一夜之间，3.0万 Star，全部清零！](https://juejin.cn/post/7343137522069995529) | Thu Mar 07 2024 12:27 AM 
     <details><summary>展开描述 ...</summary> 
-    滚滚长江东逝水，浪花淘尽英雄。 是非成败转头空。青山依旧在，几度夕阳红。 白发渔樵江渚上，惯看秋月春风。 一壶浊酒喜相逢。古今多少事，都付笑谈中。 
+    这是开源圈不久前发生的一件事情。 不知道大家有没有听说过NeteaseCloudMusicApi这个项目，从项目名字大家也能猜出，这是一个和网易云音乐API有关的开源项目。 该项目之前由开发者Bina 
     </details> 
 
-- 🚀 [事件捕获和React鉴权组件](https://juejin.cn/post/7343137522069602313) | Wed Mar 06 2024 3:20 PM 
+- 🚀 [Nodejs 第五十三章（serverLess）](https://juejin.cn/post/7343138804483276800) | Thu Mar 07 2024 12:03 AM 
     <details><summary>展开描述 ...</summary> 
-    JavaScript 和 React 提供了灵活的事件处理机制，本文将详细介绍这一技术的应用，并通过实践案例展示如何封装和使用一个 React 鉴权组件。 
+    什么是serverLess? serverLess并不是一个技术，他只是一种架构模型，&lpar;无服务器架构&rpar;，在传统模式下，我们部署一个服务，需要选择服务器Linux,windows等,并且还要安装环境，熟 
     </details> 
 
-- 💪 [JavaScript 中的 ??= 运算符：简化变量赋值](https://juejin.cn/post/7343137631916965897) | Wed Mar 06 2024 3:19 PM 
+- 💪 [Amazon Bedrock 上的新一代 Anthropic 模型 Claude 3](https://juejin.cn/post/7343138053018451977) | Thu Mar 07 2024 12:02 AM 
     <details><summary>展开描述 ...</summary> 
-    JavaScript ES2021 引入的逻辑空赋值运算符（`??=`）正是为了简化这种操作。本文将探讨 `??=` 运算符的使用场景和优势。 
+    如您所知，Amazon Bedrock 是利用基础模型 &lpar;FM&rpar; 构建生成式 AI 解决方案的最简单的途径，其中包括使用 Anthropic 的先进模型 Claude。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
