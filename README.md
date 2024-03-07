@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Midjourney封禁Stability AI：恶意爬取数据，致服务器瘫痪24小时](https://juejin.cn/entry/7343509431714037801) | Thu Mar 07 2024 12:14 PM 
+- 🤗 [我回来了~](https://juejin.cn/post/7343492515063513151) | Thu Mar 07 2024 1:12 PM 
     <details><summary>展开描述 ...</summary> 
-    Midjourney 把 Stability AI 拉入黑名单了，禁止后者所有员工使用其软件，直至另行通知。 这两家 AI 图像生成公司之间发生什么事了。 
+    Hello，大家好，博主又回来了。最近如果有关注的伙伴应该看到，很久没有更新文章了，是因为最近2个月在准备面试，从文章更新的内容也大概能够看出来，然后我也有幸拿到了几个互联网头部的offer，下个月将 
     </details> 
 
-- 🎡 [刚刚，OpenAI官方发文驳斥马斯克，自曝8年间邮件往来截图](https://juejin.cn/entry/7343509431713939497) | Thu Mar 07 2024 12:11 PM 
+- 🎡 [2024 年如何选择 Node 包管理器？](https://juejin.cn/post/7343509431714283561) | Thu Mar 07 2024 1:05 PM 
     <details><summary>展开描述 ...</summary> 
-    最热科技公司 OpenAI 对全球首富马斯克，这场史诗大战进入了新的高度。 刚刚，OpenAI 用一篇长文《OpenAI and Elon Musk》，正式驳斥了马斯克的所有指控。 
+    npm、yarn 和 pnpm 因为它们在 Node 生态系统中使用最广泛，我们将深度学习它们之间的异同点和优缺点，并深入了解影响其在 2024 年使用的不断发展的趋势。 
     </details> 
 
-- 🕯 [向英伟达发起挑战的Groq是什么来头？简单科普新型AI芯片LPU](https://juejin.cn/entry/7343462662474317887) | Thu Mar 07 2024 12:10 PM 
+- 🕯 [作者推荐 |【Redis技术进阶之路】「底层源码解析」揭秘高效存储模型与数据结构底层实现（链表）](https://juejin.cn/post/7343509431714234409) | Thu Mar 07 2024 12:58 PM 
     <details><summary>展开描述 ...</summary> 
-    在如今的人工智能领域，「GPU is All You Need」已经逐渐成为共识。没有充足的 GPU，连 OpenAI 都不能轻易升级 ChatGPT。 
+    本文为稀土掘金技术社区首发签约文章，30天内禁止转载，30天后未获授权禁止转载，侵权必究！ 【专栏简介】 随着数据需求的迅猛增长，持久化和数据查询技术的重要性日益凸显。关系型数据库已不再是唯一选择，数 
     </details> 
 
-- 🚀 [自娱自乐--写个简易的五子棋游戏玩一玩](https://juejin.cn/post/7343484473184895013) | Thu Mar 07 2024 11:53 AM 
+- 🚀 [前端缓存你知道哪些？](https://juejin.cn/post/7343278605156810767) | Thu Mar 07 2024 12:54 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 最近一段时间，迷恋上了五子棋。下着下着，突然头脑中萌生了想开发一款简易五子棋游戏的想法。这个想法时强时弱，最近比较强。于是想趁着这股热乎劲还在，把自己的想法实现了。没开发之前，感觉困难重重，做出 
+    前端缓存一般用于缓存一些不常修改的常量数据或一些静态资源文件。大部分接口请求的数据都缓存在了服务端，方便统一管理缓存数据。前端做缓存可以缓解服务端的压力. 
     </details> 
 
-- 💪 [Elasticsearch：dense vector 数据类型及标量量化](https://juejin.cn/post/7343428554687168551) | Thu Mar 07 2024 11:07 AM 
+- 💪 [如何自动分组排序 import 语句](https://juejin.cn/post/7343278605156777999) | Thu Mar 07 2024 12:34 PM 
     <details><summary>展开描述 ...</summary> 
-    密集向量（dense_vector）字段类型存储数值的密集向量。 密集向量场主要用于 k 最近邻 &lpar;kNN&rpar; 搜索。 dense_vector 类型不支持聚合或排序。 默认情况下，你可以基于 elem 
+    今天分享一个代码整理的小技巧：自动分组排序 import 语句。 Go 或者类似自带 formt 工具的语言，通常会体贴地帮你自动整理 import 语句。前端一般用 prettier 格式化代码.. 
     </details> 
 <!-- juejin:END -->
 ### 少数派
