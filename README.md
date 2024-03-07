@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Http状态码其实是一个高冷女孩？](https://juejin.cn/post/7343442927681781796) | Thu Mar 07 2024 9:04 AM 
+- 🤗 [基于NestJs实现简单的大文件分片上传](https://juejin.cn/post/7343278605156565007) | Thu Mar 07 2024 10:01 AM 
     <details><summary>展开描述 ...</summary> 
-    其实http可是一个高冷女孩呦~ 今天用一种好记的方式分享一下http状态码（100 - 599状态码 全面讲解）。 100 是你继续说，她在听。 101 是她说哪有人在微信上表白的 你：那你上QQ  
+    日常工作中，实现文件上传最常见的开发需求之一。对于大文件，把 大文件拆分，进行分片上传，等上传完了，再将一片片文件合并一起，再恢复成原来的样子即可。 
     </details> 
 
-- 🎡 [SpringBoot接入JaCoCo实践教程](https://juejin.cn/post/7343445926222970906) | Thu Mar 07 2024 9:01 AM 
+- 🎡 [别光用模拟器打游戏了，开发也是事半功倍](https://juejin.cn/post/7343432622583201842) | Thu Mar 07 2024 9:59 AM 
     <details><summary>展开描述 ...</summary> 
-    静态接入和动态接入 SpingBoot可以通过2种方式接入JaCoCo：Maven和Agent。Maven方式是静态接入，在编译时计算代码覆盖率。Agent方式是动态接入，服务启起来以后，能实时根据代 
+    近一段时间，由于项目的需要，需要使用React Native进行开发。在实验demo的过程中感觉到几点麻烦的地方。刚好我有模拟器，用来玩游戏的。我试了一下，极致的开发体验。 
     </details> 
 
-- 🕯 [QQ 测试 AI 聊天搭子，再战 AI 社交；零一万物宣布开源 Yi-9B 模型丨 RTE 开发者日报 Vol.159](https://juejin.cn/post/7343428554686300199) | Thu Mar 07 2024 8:43 AM 
+- 🕯 [写一个关于RN的分秒毫秒组件&lpar;组件状态由同一个父组件控制&rpar;](https://juejin.cn/post/7343421362910248997) | Thu Mar 07 2024 9:49 AM 
     <details><summary>展开描述 ...</summary> 
-    腾讯 QQ 开始测试 AI 对话功能，名为「AI 聊天搭子」、李开复旗下 AI 公司零一万物宣布开源 Yi-9B 模型 
+    PS:上面的那个组件展示没必要用循环奥,直接按照下面写也行【如果需要用循环写,也可用循环】 上面代码在需要用到组件的地方直接用就行，相当于每个组件都用第一个的状态，或者每个都用自己的状态其实效果是一样 
     </details> 
 
-- 🚀 [LeetCode-数组-前缀和-中等难度](https://juejin.cn/post/7343278605156089871) | Thu Mar 07 2024 8:38 AM 
+- 🚀 [一文读懂 Databend 的开放表格式引擎](https://juejin.cn/post/7343278605156532239) | Thu Mar 07 2024 9:48 AM 
     <details><summary>展开描述 ...</summary> 
-    前缀和 前缀和是一种利用预处理的方式来减少整体实现复杂度的方法。 基本定理 假设原数列A为：[1,2,3,4,5]，与之对应的前缀和数列P则为：[1,3,6,10,15] 前缀和数列的第一项等于原数列 
+    Databend 近期发布 Apache Iceberg 和 Delta Table 两类表引擎，以提供对两种目前最受欢迎的开放表格式的支持，满足基于不同技术栈的现代数据湖方案面临的高级分析需求。 采 
     </details> 
 
-- 💪 [加速大模型落地：火山引擎向量数据库的实践应用](https://juejin.cn/post/7343170640475078706) | Thu Mar 07 2024 8:32 AM 
+- 💪 [初步学习网格布局](https://juejin.cn/post/7343447701948399668) | Thu Mar 07 2024 9:43 AM 
     <details><summary>展开描述 ...</summary> 
-    2024 开年 Meetup，3月23日与你线下共话向量数据库。共同探讨大模型时代向量数据库的落地实践。 
+    基本概念 网格布局也就是grid布局，为二维布局，而flex布局为一维布局，flex通过主轴和交叉轴进行布局；网格布局则是通过容器&lpar;container&rpar;和项目&lpar;item&rpar;进行布局。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
