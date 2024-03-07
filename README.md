@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0307](http://jandan.net/p/115825) | Wed Mar 06 2024 11:07 PM 
+- 🚀 [今日好价 0308](http://jandan.net/p/115836) | Thu Mar 07 2024 11:07 PM 
     <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：54 
+    今日带货商品数量：44 
     </details> 
 
-- 🙉 [如何打破习惯，重新发现生活中的乐趣](http://jandan.net/p/115824) | Wed Mar 06 2024 11:06 PM 
+- 🙉 [能否延缓衰老而不生病？](http://jandan.net/p/115834) | Thu Mar 07 2024 11:06 PM 
     <details><summary>展开描述 ...</summary> 
-    习惯化就是大脑停止关注某些事物的现象 
+    「衰老科学」希望让人们在年老时也能保持健康 
     </details> 
 
-- 🎉 [数学家利用AI在椭圆曲线中发现了意想不到的模式](http://jandan.net/p/115815) | Wed Mar 06 2024 11:05 PM 
+- 🎉 [脑洞：把森林用作巨型中微子探测器](http://jandan.net/p/115833) | Thu Mar 07 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
-    AI助力解析椭圆曲线研究 
+    森林可以帮助我们发现超高能中微子吗？ 
     </details> 
 
-- 🐲 [相比以前，食物的营养变少了](http://jandan.net/p/115816) | Wed Mar 06 2024 11:04 PM 
+- 🐲 [长新冠可能导致脑损伤](http://jandan.net/p/115832) | Thu Mar 07 2024 11:04 PM 
     <details><summary>展开描述 ...</summary> 
-    气候变化不仅影响粮食安全，还会降低食物营养 
+    普通感冒通常不会引起脑损伤 
     </details> 
 
--  [彗星撞击理论不会消亡](http://jandan.net/p/115817) | Wed Mar 06 2024 11:03 PM 
+-  [失眠、情绪障碍和生酮饮食](http://jandan.net/p/115831) | Thu Mar 07 2024 11:03 PM 
     <details><summary>展开描述 ...</summary> 
-    主流科学如何应对“另类”理论？ 
+    针对双相情感障碍和精神分裂症的潜在治疗靶点 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
