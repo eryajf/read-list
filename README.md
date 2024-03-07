@@ -306,7 +306,7 @@
     据 Proofpoint 称，威胁攻击者已经假冒了美国交通部、美国农业部 &lpar;USDA&rpar; 和美国小企业管理局 &lpar;SBA&rpar;。 
     </details> 
 
-- 🦄 [构建数智化的研发安全体系有何”秘籍“? | FreeBuf 企业安全俱乐部·广州站议题前瞻](https://www.freebuf.com/fevents/393650.html) | Thu Mar 07 2024 3:30 AM 
+- 🦄 [数智化研发安全体系建设“秘籍” | FreeBuf 企业安全俱乐部·广州站议题前瞻](https://www.freebuf.com/fevents/393650.html) | Thu Mar 07 2024 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     议题围绕流程化、自动化、智能化、数字化等几个方面，详细介绍如何打造数智化的研发安全体系。 
     </details> 
