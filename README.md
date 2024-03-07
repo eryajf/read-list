@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [基于NestJs实现简单的大文件分片上传](https://juejin.cn/post/7343278605156565007) | Thu Mar 07 2024 10:01 AM 
+- 🤗 [Elasticsearch：dense vector 数据类型及标量量化](https://juejin.cn/post/7343428554687168551) | Thu Mar 07 2024 11:07 AM 
     <details><summary>展开描述 ...</summary> 
-    日常工作中，实现文件上传最常见的开发需求之一。对于大文件，把 大文件拆分，进行分片上传，等上传完了，再将一片片文件合并一起，再恢复成原来的样子即可。 
+    密集向量（dense_vector）字段类型存储数值的密集向量。 密集向量场主要用于 k 最近邻 &lpar;kNN&rpar; 搜索。 dense_vector 类型不支持聚合或排序。 默认情况下，你可以基于 elem 
     </details> 
 
-- 🎡 [别光用模拟器打游戏了，开发也是事半功倍](https://juejin.cn/post/7343432622583201842) | Thu Mar 07 2024 9:59 AM 
+- 🎡 [Project Fugu - 探索 Web 高级 API 的使用](https://juejin.cn/post/7343428554687135783) | Thu Mar 07 2024 11:00 AM 
     <details><summary>展开描述 ...</summary> 
-    近一段时间，由于项目的需要，需要使用React Native进行开发。在实验demo的过程中感觉到几点麻烦的地方。刚好我有模拟器，用来玩游戏的。我试了一下，极致的开发体验。 
+    关于 “Project Fugu” Project Fugu 致力于填补 Web 功能的空缺，从而使更多的应用能够在 web 端运行。 Project Fugu 大概在 2018 年就被提起，至于为什 
     </details> 
 
-- 🕯 [写一个关于RN的分秒毫秒组件&lpar;组件状态由同一个父组件控制&rpar;](https://juejin.cn/post/7343421362910248997) | Thu Mar 07 2024 9:49 AM 
+- 🕯 [字节开启新一轮期权回购，价格又涨了（含算法原题）](https://juejin.cn/post/7343440691682213939) | Thu Mar 07 2024 10:48 AM 
     <details><summary>展开描述 ...</summary> 
-    PS:上面的那个组件展示没必要用循环奥,直接按照下面写也行【如果需要用循环写,也可用循环】 上面代码在需要用到组件的地方直接用就行，相当于每个组件都用第一个的状态，或者每个都用自己的状态其实效果是一样 
+    字节期权 近日，字节跳动开启新一轮期权回购，价格微涨至 170 美元。 之前我们就写过 文章，分享历年来字节跳动的期权变化情况，这里再贴一下： 18年：10+ 19年：30+ 20年：60-70 21 
     </details> 
 
-- 🚀 [一文读懂 Databend 的开放表格式引擎](https://juejin.cn/post/7343278605156532239) | Thu Mar 07 2024 9:48 AM 
+- 🚀 [Next.js v14 的模板（template.js）到底有啥用？](https://juejin.cn/post/7343569488744300553) | Thu Mar 07 2024 10:45 AM 
     <details><summary>展开描述 ...</summary> 
-    Databend 近期发布 Apache Iceberg 和 Delta Table 两类表引擎，以提供对两种目前最受欢迎的开放表格式的支持，满足基于不同技术栈的现代数据湖方案面临的高级分析需求。 采 
+    在初学 App Router 的时候，布局和模板的使用可能会让大家感到困惑。倒不是不理解其用法，而是不明白有什么作用。 本篇就为大家详细介绍 Next.js 的模板，并举一些例子帮助大家理解并应用 
     </details> 
 
-- 💪 [初步学习网格布局](https://juejin.cn/post/7343447701948399668) | Thu Mar 07 2024 9:43 AM 
+- 💪 [【python 模块导入】彻底解决 Import Error 错误](https://juejin.cn/post/7343445926223593498) | Thu Mar 07 2024 10:12 AM 
     <details><summary>展开描述 ...</summary> 
-    基本概念 网格布局也就是grid布局，为二维布局，而flex布局为一维布局，flex通过主轴和交叉轴进行布局；网格布局则是通过容器&lpar;container&rpar;和项目&lpar;item&rpar;进行布局。 
+    本指南讲解了如何在Python中导入内置模块，并介绍了自定义模块的创建和管理。内容包括不同方式导入模块、处理命名冲突、使用sys.path进行路径管理，以及__init__.py文件的作用 
     </details> 
 <!-- juejin:END -->
 ### 少数派
