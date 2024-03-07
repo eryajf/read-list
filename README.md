@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一步步带你了解锁底层](https://juejin.cn/post/7343139078487326774) | Thu Mar 07 2024 12:28 AM 
+- 🤗 [谷歌新作：AI 检测文件内容类型，5ms 即可完成 | 开源日报 No.192](https://juejin.cn/post/7343139078487539766) | Thu Mar 07 2024 1:09 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 Go语言中的sync包主要提供的对并发操作的支持，标志性的工具有cond（条件变量） once &lpar;原子性&rpar; 还有 锁，本文会主要向大家介绍Go语言中锁的特性和实现。 锁底层 go中的sync包提 
+    magika 是一个利用深度学习技术开发的文件内容类型检测工具，具有高度优化的 Keras 模型，仅 1MB 大小，能在毫秒内准确识别文件。在超过 1M 文件和 100 种内容类型的评估中，准确率和召 
     </details> 
 
-- 🎡 [不太熟悉Git？ 不妨看看这篇文章](https://juejin.cn/post/7343139078487310390) | Thu Mar 07 2024 12:27 AM 
+- 🎡 [不后悔任何选择](https://juejin.cn/post/7343138527419596835) | Thu Mar 07 2024 1:05 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 Git是目前世界上最先进的分布式版本控制系统，由C语言进行开发 在2022年之前，Linux构建的方式是世界各地的志愿者把源代码文件通过diff的方式发送给Linus，然后由Linus本人通过手 
+    ​ 前段时间和一朋友聊天，他说以前的一些同学高中毕业就没上大学了，但是有人家却都风生水起，结婚生子，买房买车，而自己虽然去读了个大学，但是现在混得也不咋滴，要是自己当时不去上大学，而是选择进入社会，现 
     </details> 
 
-- 🕯 [一夜之间，3.0万 Star，全部清零！](https://juejin.cn/post/7343137522069995529) | Thu Mar 07 2024 12:27 AM 
+- 🕯 [央国企求职“性价比分析”：为什么这几年央国企火了？](https://juejin.cn/post/7343161077061992458) | Thu Mar 07 2024 12:59 AM 
     <details><summary>展开描述 ...</summary> 
-    这是开源圈不久前发生的一件事情。 不知道大家有没有听说过NeteaseCloudMusicApi这个项目，从项目名字大家也能猜出，这是一个和网易云音乐API有关的开源项目。 该项目之前由开发者Bina 
+    浣熊say官方网站：https://hxsay.com/ 浣熊say官方星球：​https://hxsay.com/about/我的星球/知识星球/ 正文 不知道最近大家有没有发现，越来越多的人在职业 
     </details> 
 
-- 🚀 [Nodejs 第五十三章（serverLess）](https://juejin.cn/post/7343138804483276800) | Thu Mar 07 2024 12:03 AM 
+- 🚀 [JDK 22 和 JDK 23：到目前为止我们所知道的](https://juejin.cn/post/7343138527419514915) | Thu Mar 07 2024 12:54 AM 
     <details><summary>展开描述 ...</summary> 
-    什么是serverLess? serverLess并不是一个技术，他只是一种架构模型，&lpar;无服务器架构&rpar;，在传统模式下，我们部署一个服务，需要选择服务器Linux,windows等,并且还要安装环境，熟 
+    JDK 22 和 JDK 23：到目前为止我们所知道的 Oracle Java 平台组首席架构师Mark Reinhold宣布， JDK 22是自JDK 21以来的第一个非 LTS 版本，现已进入第二 
     </details> 
 
-- 💪 [Amazon Bedrock 上的新一代 Anthropic 模型 Claude 3](https://juejin.cn/post/7343138053018451977) | Thu Mar 07 2024 12:02 AM 
+- 💪 [上来就对标 20k Star 的开源项目，是自不量力还是后起之秀？](https://juejin.cn/post/7343161077061926922) | Thu Mar 07 2024 12:52 AM 
     <details><summary>展开描述 ...</summary> 
-    如您所知，Amazon Bedrock 是利用基础模型 &lpar;FM&rpar; 构建生成式 AI 解决方案的最简单的途径，其中包括使用 Anthropic 的先进模型 Claude。 
+    先来一段紧箍咒：nvm、fvm、gvm、sdkman、fnm、n、g、rvm、jenv、phpbrew、rustup、swiftenv、pyenv、rbenv... 这些都是用来解决编程语言多版本管理 
     </details> 
 <!-- juejin:END -->
 ### 少数派
