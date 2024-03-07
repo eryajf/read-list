@@ -316,14 +316,14 @@
     因“德国军官策划袭击克里米亚大桥”的谈话内容遭到窃听并被俄媒曝光后，德国防部又身陷“密码门”事件。 
     </details> 
 
-- 🪄 [FreeBuf 早报 | BlackCat组织因分赃不均停止运作；3家黑客组织宣称为meta宕机负责](https://www.freebuf.com/news/393576.html) | Wed Mar 06 2024 10:38 AM 
+- 🪄 [看Darktrace如何对抗ALPHV BlackCat勒索软件](https://www.freebuf.com/articles/es/393413.html) | Wed Mar 06 2024 1:21 PM 
     <details><summary>展开描述 ...</summary> 
-    根据俄语勒索软件论坛 Ramp 上的讨论，BlackCat/ALPHV 收到赎金之后没有给下线佣金。 
+    2024年，安全团队应做好准备，积极应对恶意软件即服务 &lpar;MaaS&rpar; 和勒索软件即服务 &lpar;RaaS&rpar; 威胁。 
     </details> 
 
-- 💻 [针对PLC的恶意软件发布，黑客或可发起远程震网式攻击](https://www.freebuf.com/news/393495.html) | Wed Mar 06 2024 7:47 AM 
+- 💻 [FreeBuf 早报 | BlackCat组织因分赃不均停止运作；3家黑客组织宣称为meta宕机负责](https://www.freebuf.com/news/393576.html) | Wed Mar 06 2024 10:38 AM 
     <details><summary>展开描述 ...</summary> 
-    安全研究人员发现一款针对PLC的恶意软件，黑客看借此对工业控制系统（ICS）发起类似远程震网式攻击。 
+    根据俄语勒索软件论坛 Ramp 上的讨论，BlackCat/ALPHV 收到赎金之后没有给下线佣金。 
     </details> 
 <!-- freebuf:END -->
 
