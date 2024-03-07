@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [FreeBuf 早报 | BlackCat组织因分赃不均停止运作；3家黑客组织宣称为meta宕机负责](https://www.freebuf.com/news/393576.html) | Wed Mar 06 2024 10:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    根据俄语勒索软件论坛 Ramp 上的讨论，BlackCat/ALPHV 收到赎金之后没有给下线佣金。 
+    </details> 
+
 - 🦄 [针对PLC的恶意软件发布，黑客或可发起远程震网式攻击](https://www.freebuf.com/news/393495.html) | Wed Mar 06 2024 7:47 AM 
     <details><summary>展开描述 ...</summary> 
     安全研究人员发现一款针对PLC的恶意软件，黑客看借此对工业控制系统（ICS）发起类似远程震网式攻击。 
     </details> 
 
-- 🦄 [美国首次宣布对商业间谍软件实施制裁](https://www.freebuf.com/news/393432.html) | Wed Mar 06 2024 3:26 AM 
+- 🦅 [美国首次宣布对商业间谍软件实施制裁](https://www.freebuf.com/news/393432.html) | Wed Mar 06 2024 3:26 AM 
     <details><summary>展开描述 ...</summary> 
     美国财政部将对一家总部位于希腊的商业间谍软件公司 Intellexa实施制裁，该公司被指利用间谍软件来针对美国政府官员、记者和政策专家。 
     </details> 
 
-- 🦅 [每天1亿美元？网络攻击后现金流中断引发医疗保健行业动荡](https://www.freebuf.com/news/393428.html) | Wed Mar 06 2024 3:24 AM 
+- 🪄 [每天1亿美元？网络攻击后现金流中断引发医疗保健行业动荡](https://www.freebuf.com/news/393428.html) | Wed Mar 06 2024 3:24 AM 
     <details><summary>展开描述 ...</summary> 
     这些损失并不完全等同于资金流失，用“延期收款”来描述更为准确。 
     </details> 
 
-- 🪄 [美国国家安全局发布网络和环境组件零信任指南](https://www.freebuf.com/news/393427.html) | Wed Mar 06 2024 3:19 AM 
+- 💻 [美国国家安全局发布网络和环境组件零信任指南](https://www.freebuf.com/news/393427.html) | Wed Mar 06 2024 3:19 AM 
     <details><summary>展开描述 ...</summary> 
     通过宏观划分，企业可以为每个部门的用户创建网络区域，从而限制网络上的横向移动。 
-    </details> 
-
-- 💻 [苹果曝出两个 iOS 系统 0-Day 漏洞](https://www.freebuf.com/news/393421.html) | Wed Mar 06 2024 2:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    威胁攻击者可利用漏洞绕过内核内存保护，给予具备任意内核读写权限的威胁攻击者可乘之机。 
     </details> 
 <!-- freebuf:END -->
 
