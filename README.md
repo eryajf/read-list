@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [年度征文 | 一个「修仙体质」设计师尝试写作这一年](https://sspai.com/post/86604) | Wed Mar 06 2024 9:06 AM 
+- 👹 [派早报：Apple 发布 iOS 17.4 更新、Meta 系产品出现大面积访问故障等](https://sspai.com/post/86993) | Thu Mar 07 2024 12:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    TikTok 将持续扶持长视频、Netflix 将推出《哈迪斯》移动版等。&lt;a href=&quot;https://sspai.com/post/86993&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [年度征文 | 一个「修仙体质」设计师尝试写作这一年](https://sspai.com/post/86604) | Wed Mar 06 2024 9:06 AM 
     <details><summary>展开描述 ...</summary> 
     编注：本文是「2023年度征文：分享你的关键词」的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。本文参加2023年度征文活动。我的2023年度关键词是：突围。少数派年度征文的「2023 ...&lt;a href=&quot;https://sspai.com/post/86604&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [少数派圆桌：从工具到方法，2024 年初再聊 AI](https://sspai.com/post/86901) | Wed Mar 06 2024 7:07 AM 
+- 🤭 [少数派圆桌：从工具到方法，2024 年初再聊 AI](https://sspai.com/post/86901) | Wed Mar 06 2024 7:07 AM 
     <details><summary>展开描述 ...</summary> 
     AI 产品层出不穷，如何关注、选择、理解？来听听少数派资深作者们的观点。&lt;a href=&quot;https://sspai.com/post/86901&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [年度征文 | AI，零基础，我的第一款应用](https://sspai.com/post/86860) | Wed Mar 06 2024 6:19 AM 
+- 🥸 [年度征文 | AI，零基础，我的第一款应用](https://sspai.com/post/86860) | Wed Mar 06 2024 6:19 AM 
     <details><summary>展开描述 ...</summary> 
     「本文参加2023年度征文活动。我的2023年度关键词是：创造。」2023年，是特别的一年。这一年，我鼓起勇气辞职，我从零开始学习编程，我做出了自己的第一款应用：Cush记账。我的人生好像脱轨了，驶向 ...&lt;a href=&quot;https://sspai.com/post/86860&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：M3 MacBook Pro 将支持同时外接两台显示器等](https://sspai.com/post/86945) | Wed Mar 06 2024 12:00 AM 
+- 🙉 [派早报：M3 MacBook Pro 将支持同时外接两台显示器等](https://sspai.com/post/86945) | Wed Mar 06 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     Yuzu 向任天堂赔款并永久停止开发相关软件，钉钉更新支持微信直接加入会议等。&lt;a href=&quot;https://sspai.com/post/86945&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [填满 Android 全面屏，怎么就这么难？](https://sspai.com/prime/story/android-edge-to-edge-problem) | Tue Mar 05 2024 12:49 PM 
-    <details><summary>展开描述 ...</summary> 
-    全面拥抱 AI 的时代，应用显示怎么还不能「全面」？&lt;a href=&quot;https://sspai.com/prime/story/android-edge-to-edge-problem&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 <!-- sspai:END -->
 
