@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Flutter封装：极简弹窗/抽屉终极版](https://juejin.cn/post/7343621601135132672) | Fri Mar 08 2024 4:04 AM 
+- 🤗 [对标 Notion + Obsidian ，可离线且开源免费的知识管理工具](https://juejin.cn/post/7343548913033756691) | Fri Mar 08 2024 4:34 AM 
     <details><summary>展开描述 ...</summary> 
-    一、需求来源 一直在琢磨如何实现任意方向的弹窗，上周突然灵光一闪，实现了，分享给大家。 核心是通过传入参数 Alignment 来控制抽屉的进入和消失方向； 通过构造器构建弹窗内容，最终实现无限可能。 
+    你在用什么工具做笔记和进行知识管理，我想大家会给出各种五花八门的答案。 今天我们介绍一个对标Notion + Obsidian，功能全面、开源免费、本地优先的知识管理工具：Anytype。 
     </details> 
 
-- 🎡 [程序员-你得把自己卖出去](https://juejin.cn/post/7343621601135067136) | Fri Mar 08 2024 3:52 AM 
+- 🎡 [贫穷陷阱与平庸陷阱](https://juejin.cn/post/7343621862101958683) | Fri Mar 08 2024 4:33 AM 
     <details><summary>展开描述 ...</summary> 
-    关于35岁的就业挑战 这篇文章跟朋友们聊些35岁发展的话题。都说35岁的中年人不如狗，网上又是铺天盖地的贩卖35岁中年焦虑各种割韭菜，再加上不稳定的外部环境，种种因素叠加确实会增加中年人的戾气和焦躁。 
+    《贫穷的本质》作者阿比吉特·班纳吉和埃斯特·杜芙洛是麻省理工学院的经济学教授，也是2019年诺贝尔经济学奖的获得者。在这本书中，他们探讨了贫穷的根源和解决贫穷的有效途径。 其中给我留下深刻印象的是书里 
     </details> 
 
-- 🕯 [✅日活3kw的实际库存业务场景中的超卖到底怎么解决的](https://juejin.cn/post/7343557616332341282) | Fri Mar 08 2024 3:29 AM 
+- 🕯 [🎉 2024年2月金石计划开奖公示](https://juejin.cn/post/7343534050148843560) | Fri Mar 08 2024 4:28 AM 
     <details><summary>展开描述 ...</summary> 
-    这个问题其实可以说是随便一百度几乎可以出来全是解决方案，其实超卖问题再实际业务场景中是十分复杂的。没有什么绝对的解决方案。都是因人而异的。 &quot;超卖&quot;是指商品售出数量超过实际库存量的情况。通常在处理商品 
+    🎉2024年2月金石计划——瓜分万元现金大奖活动正式落幕啦！ 本期活动共有 500＋ 位用户参与发文挑战，累计贡献了 2000＋ 篇优质技术文章；感谢每位掘友的付出，希望大家在这次活动中都已经有所收获 
     </details> 
 
-- 🚀 [TypeScript 5.4 最新版本正式官宣，2024 年首发次版本更新](https://juejin.cn/post/7343548913033429011) | Fri Mar 08 2024 3:23 AM 
+- 🚀 [基于coding，利用k8s+Docker+Jenkins+Nginx完成vue项目的自动集成](https://juejin.cn/post/7343543985631395851) | Fri Mar 08 2024 4:24 AM 
     <details><summary>展开描述 ...</summary> 
-    今天我们十分鸡冻地宣布 TypeScript 5.4 正式发布，2024 年首发次版本更新，包括 JS 新方法对象分组等。 
+    基于coding，利用k8s+Docker+Jenkins+Nginx完成vue项目的自动集成... 
     </details> 
 
-- 💪 [Optional用好了，缓解了多年NullPointerException恐惧。](https://juejin.cn/post/7343543990048784421) | Fri Mar 08 2024 3:21 AM 
+- 💪 [【ClickHouse】初识](https://juejin.cn/post/7343616267704614922) | Fri Mar 08 2024 4:23 AM 
     <details><summary>展开描述 ...</summary> 
-    在我们日常开发中NullPointerException是永远绕不过去的坑，代码写的不好，天天都会被它折磨的死去活来，今天我们来介绍下Optional，这个能让 
+    在存储数据超过20万亿行的情况下，ClickHouse做到了90%的查询都能够在1秒内返回的惊人之举 
     </details> 
 <!-- juejin:END -->
 ### 少数派
