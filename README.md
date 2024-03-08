@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [纪念下人生第二个破 10k star 开源项目🎉](https://www.v2ex.com/t/1021705#reply12) | Fri Mar 08 2024 1:54 AM
-- 🤗 [AI 需求，主机配置推荐， 2024 年准备 all in AI](https://www.v2ex.com/t/1021687#reply41) | Fri Mar 08 2024 1:34 AM
-- 🎭 [Wechat for Linux 原生版本已发布，我宣布张小龙的妈复活了](https://www.v2ex.com/t/1021682#reply46) | Fri Mar 08 2024 1:24 AM
-- 🥷 [不用密码记录器，实在顶不住了](https://www.v2ex.com/t/1021658#reply58) | Thu Mar 07 2024 11:05 PM
-- 🐵 [DIY unraid 替代品： SnapRAID](https://www.v2ex.com/t/1021652#reply5) | Thu Mar 07 2024 7:18 PM<!-- v2ex:END -->
+- 🥸 [关于 Win 主机读取群晖文件 SSD 读取占用的问题请问](https://www.v2ex.com/t/1021749#reply0) | Fri Mar 08 2024 3:04 AM
+- 🤗 [现在的 ToDesk 怎么感觉越来越难用了](https://www.v2ex.com/t/1021743#reply5) | Fri Mar 08 2024 2:57 AM
+- 🎭 [用 ifconfig 命令设置 IP 后 ping 不通局域网内其他主机](https://www.v2ex.com/t/1021734#reply3) | Fri Mar 08 2024 2:48 AM
+- 🥷 [请教下 v2，有人遇到过 chrome 的这个乱码 bug 吗？](https://www.v2ex.com/t/1021730#reply0) | Fri Mar 08 2024 2:41 AM
+- 🐵 [有没有大佬能基于 Supermium 做一个 Windows XP 能用的 Electron？](https://www.v2ex.com/t/1021726#reply3) | Fri Mar 08 2024 2:33 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
