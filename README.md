@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [大地形的一种简化RVT](https://juejin.cn/post/7343886623535054888) | Fri Mar 08 2024 10:23 AM 
+- 🤗 [fnMap（函数地图）v4.5.0发布](https://juejin.cn/post/7343870686144528447) | Fri Mar 08 2024 12:22 PM 
     <details><summary>展开描述 ...</summary> 
-    【USparkle专栏】如果你深怀绝技，爱“搞点研究”，乐于分享也博采众长，我们期待你的加入，让智慧的火花碰撞交织，让知识的传递生生不息！ 这是工程开发的细节，不是理论篇，不了解RVT理论概念的，请先 
+    本次更新主要是增加了标记行自定义标签的功能，可以更直观地查看和管理标记位置。另外，为了更好地给所有支持和使用fnMap的朋友们提供更好的服务，我们专门创建了一个fnMap交流群。 
     </details> 
 
-- 🎡 [使用WebStorm插件React Buddy提高React开发效率（大纲结构篇）](https://juejin.cn/post/7343811905273184293) | Fri Mar 08 2024 10:21 AM 
+- 🎡 [实用干货：分享4个冷门但非常实用的HTML属性](https://juejin.cn/post/7343877319498579978) | Fri Mar 08 2024 11:48 AM 
     <details><summary>展开描述 ...</summary> 
-    React Buddy是IntelliJ IDE 的高级插件，具有可视化工具和代码提示，使开发效率更高，本文将介绍大纲工具与预览功能。 准备 在开始之前，请确保已经安装了React Buddy插件。如 
+    今天大澈给朋友们分享了4个HTML冷门属性。 `inputmode`属性：改变键盘布局 , `poster`属性：设置视频封面... 
     </details> 
 
-- 🕯 [Hyperopt自动化调参工具实践-1](https://juejin.cn/post/7343873659025604619) | Fri Mar 08 2024 10:20 AM 
+- 🕯 [事件溯源是什么？如何基于事件溯源进行开发](https://juejin.cn/post/7343886623535480872) | Fri Mar 08 2024 11:46 AM 
     <details><summary>展开描述 ...</summary> 
-    Hyperopt的任务是在一组可能的参数上找到标量值的最佳值，该标量值可能是随机的。 通过提供关于函数定义在哪里以及认为最佳值在哪里的更多信息，可以使Hyperopt中的算法更有效地搜索。 
+    前言 之前偶尔接触到了事件溯源，但没有刨根究底的学习，最近抽时间看了一下有关这方面的内容。 本文会泛谈传统持久化技术实现，以及对应的问题，从而介绍事件溯源是什么，解决了什么问题，以及基于事件溯源开发的 
     </details> 
 
-- 🚀 [谷歌的恐惧文化 [译]](https://juejin.cn/post/7343691521601437696) | Fri Mar 08 2024 10:19 AM 
+- 🚀 [limit与分页键](https://juejin.cn/post/7343691521601765376) | Fri Mar 08 2024 11:43 AM 
     <details><summary>展开描述 ...</summary> 
-    谷歌的恐惧文化 [译] 原文：Google&#39;s Culture of Fear 作者： Mike Solana 深入谷歌 DEI（多样性、公平性、包容性）思维模式的内核，探究了 Gemini 失败的根 
+    前言 查询数据库偏移量的数据，或者查询分页的数据是很常见的需求，本文会介绍一些常用的查询方法。 limit与分页 在SQL中，limit用于限制返回的结果行数。LIMIT语句可以用于SELECT查询， 
     </details> 
 
-- 💪 [谷歌原来是这么做的！](https://juejin.cn/post/7343691521601421312) | Fri Mar 08 2024 10:19 AM 
+- 💪 [🏆 Spring源码手写篇-手写IoC](https://juejin.cn/post/7343886623535464488) | Fri Mar 08 2024 11:43 AM 
     <details><summary>展开描述 ...</summary> 
-    倒排索引是现代搜索引擎的核心技术。 其核心目的是将从大量文档中查找包含某些词的文档集合这一任务用 O&lpar;1&rpar; 或 O&lpar;log n&rpar; 的时间复杂度完成，其中 n 为索引中的文档数目。 
+    Spring源码手写篇-手写IoC 一、IoC分析 1.Spring的核心   在Spring中非常核心的内容是 IOC和 AOP. 2.IoC的几个疑问? 2.1 IoC是什么？   IoC:Inv 
     </details> 
 <!-- juejin:END -->
 ### 少数派
