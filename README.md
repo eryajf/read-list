@@ -311,19 +311,19 @@
     议题围绕流程化、自动化、智能化、数字化等几个方面，详细介绍如何打造数智化的研发安全体系。 
     </details> 
 
-- 🦅 [蚌埠住了，德国国防部文件密码是1234](https://www.freebuf.com/news/393636.html) | Thu Mar 07 2024 2:50 AM 
+- 🦅 [FreeBuf 早报 | 香港私隐公署开展人工智能合规检查；Meta旗下社交媒体全球范围宕机](https://www.freebuf.com/news/393643.html) | Thu Mar 07 2024 3:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    社交媒体巨头Meta Platforms旗下服务，包括Facebook、Instagram、Messenger和Threads大范围宕机。 
+    </details> 
+
+- 🪄 [蚌埠住了，德国国防部文件密码是1234](https://www.freebuf.com/news/393636.html) | Thu Mar 07 2024 2:50 AM 
     <details><summary>展开描述 ...</summary> 
     因“德国军官策划袭击克里米亚大桥”的谈话内容遭到窃听并被俄媒曝光后，德国防部又身陷“密码门”事件。 
     </details> 
 
-- 🪄 [看Darktrace如何对抗ALPHV BlackCat勒索软件](https://www.freebuf.com/articles/es/393413.html) | Wed Mar 06 2024 1:21 PM 
+- 💻 [看Darktrace如何对抗ALPHV BlackCat勒索软件](https://www.freebuf.com/articles/es/393413.html) | Wed Mar 06 2024 1:21 PM 
     <details><summary>展开描述 ...</summary> 
     2024年，安全团队应做好准备，积极应对恶意软件即服务 &lpar;MaaS&rpar; 和勒索软件即服务 &lpar;RaaS&rpar; 威胁。 
-    </details> 
-
-- 💻 [FreeBuf 早报 | BlackCat组织因分赃不均停止运作；3家黑客组织宣称为meta宕机负责](https://www.freebuf.com/news/393576.html) | Wed Mar 06 2024 10:38 AM 
-    <details><summary>展开描述 ...</summary> 
-    根据俄语勒索软件论坛 Ramp 上的讨论，BlackCat/ALPHV 收到赎金之后没有给下线佣金。 
     </details> 
 <!-- freebuf:END -->
 
