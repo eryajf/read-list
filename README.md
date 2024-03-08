@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [Play 勒索软件泄露了6.5 万份瑞士政府机密文件](https://www.freebuf.com/news/393783.html) | Fri Mar 08 2024 2:46 AM 
+- 🦄 [这个超火的黑客小工具，可以轻松解锁特斯拉](https://www.freebuf.com/news/393813.html) | Fri Mar 08 2024 5:21 AM 
+    <details><summary>展开描述 ...</summary> 
+    一种利用 Flipper Zero 设备进行的简单钓鱼攻击可能导致特斯拉账户被篡改，甚至能让汽车被解锁并启动。 
+    </details> 
+
+- 🦄 [WogRAT 恶意软件用记事本服务攻击 Windows 和 Linux 系统](https://www.freebuf.com/news/393800.html) | Fri Mar 08 2024 4:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    ASEC 网络安全分析师发现恶意软件 WogRAT 正在通过记事本 Notepad 服务攻击 Windows 和 Linux 系统。 
+    </details> 
+
+- 🦅 [Play 勒索软件泄露了6.5 万份瑞士政府机密文件](https://www.freebuf.com/news/393783.html) | Fri Mar 08 2024 2:46 AM 
     <details><summary>展开描述 ...</summary> 
     黑客利用漏洞将托管州服务应用程序的 Xplain 服务器作为目标，阻止访问，直到发送密钥或解锁工具以换取赎金。 
     </details> 
 
-- 🦄 [黑客冒充美国政府机构，开展网络欺诈活动](https://www.freebuf.com/news/393709.html) | Thu Mar 07 2024 6:41 AM 
+- 🪄 [黑客冒充美国政府机构，开展网络欺诈活动](https://www.freebuf.com/news/393709.html) | Thu Mar 07 2024 6:41 AM 
     <details><summary>展开描述 ...</summary> 
     据 Proofpoint 称，威胁攻击者已经假冒了美国交通部、美国农业部 &lpar;USDA&rpar; 和美国小企业管理局 &lpar;SBA&rpar;。 
     </details> 
 
-- 🦅 [数智化研发安全体系建设“秘籍” | FreeBuf 企业安全俱乐部·广州站议题前瞻](https://www.freebuf.com/fevents/393650.html) | Thu Mar 07 2024 3:30 AM 
+- 💻 [数智化研发安全体系建设“秘籍” | FreeBuf 企业安全俱乐部·广州站议题前瞻](https://www.freebuf.com/fevents/393650.html) | Thu Mar 07 2024 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     议题围绕流程化、自动化、智能化、数字化等几个方面，详细介绍如何打造数智化的研发安全体系。 
-    </details> 
-
-- 🪄 [FreeBuf 早报 | 香港私隐公署开展人工智能合规检查；Meta旗下社交媒体全球范围宕机](https://www.freebuf.com/news/393643.html) | Thu Mar 07 2024 3:13 AM 
-    <details><summary>展开描述 ...</summary> 
-    社交媒体巨头Meta Platforms旗下服务，包括Facebook、Instagram、Messenger和Threads大范围宕机。 
-    </details> 
-
-- 💻 [蚌埠住了，德国国防部文件密码是1234](https://www.freebuf.com/news/393636.html) | Thu Mar 07 2024 2:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    因“德国军官策划袭击克里米亚大桥”的谈话内容遭到窃听并被俄媒曝光后，德国防部又身陷“密码门”事件。 
     </details> 
 <!-- freebuf:END -->
 
