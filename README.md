@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [双边市场实验分流全面解析](https://juejin.cn/post/7343635130231980058) | Fri Mar 08 2024 7:11 AM 
+- 🤗 [前端打包版本号自增](https://juejin.cn/post/7343811223207624745) | Fri Mar 08 2024 8:10 AM 
     <details><summary>展开描述 ...</summary> 
-    本文旨在明确适用于公司当前普遍业务场景的实验方式以及对应的理论说明。这将有助于我们在双边市场环境中有效地设计实验，评估收益，推动业务策略的持续优化。 
+    1.新建sysInfo.json文件 2.新建addVersion.js文件,打包时执行,将版本号写入sysInfo.json文件 3.package.json中配置 4.使用 
     </details> 
 
-- 🎡 [【重磅推荐！！】火山引擎推出全网低价薅羊毛活动](https://juejin.cn/post/7343622541368803382) | Fri Mar 08 2024 6:59 AM 
+- 🎡 [Qt6项目CMakeLists.txt详解](https://juejin.cn/post/7343606012583034906) | Fri Mar 08 2024 8:05 AM 
     <details><summary>展开描述 ...</summary> 
-    一键参与：云服务器首年89元起-火山引擎 头条新闻，火山引擎面向新客首单推出超低价格活动！ 早春三月火山引擎推出了便宜无套路的云服务器ECS---89/年，无论是企业还是个人都可以参与！ 先看下服务器 
+    cmake_minimum_required&lpar;VERSION 3.21.1&rpar;：设置cmake需要的最低版本。 option&lpar;&lt;option_variable&gt; &quot;&lt;option_description 
     </details> 
 
-- 🕯 [Elasticsearch：什么是 DevOps？](https://juejin.cn/post/7343804530994757644) | Fri Mar 08 2024 6:43 AM 
+- 🕯 [春天已至：见证女性开发者的云上生长力量](https://juejin.cn/post/7343606012582985754) | Fri Mar 08 2024 8:01 AM 
     <details><summary>展开描述 ...</summary> 
-    DevOps 定义 DevOps 是一种现代软件开发方法，它将公司软件开发 &lpar;Dev&rpar; 和 IT 运营 &lpar;Ops&rpar; 团队的工作结合起来并实现自动化。 DevOps 提倡这样一种理念：这些传统上独立的团 
+    19世纪中期，英国诗人拜伦的女儿，埃达·洛芙莱斯设计了巴贝奇分析机上解伯努利方程的一个程序。这一开创性实践，使她被称为世界上第一位程序员。 
     </details> 
 
-- 🚀 [Web 端 RTL 适配实践](https://juejin.cn/post/7343793872780296244) | Fri Mar 08 2024 6:38 AM 
+- 🚀 [eletron应用、electron npm包和前端静态资源怎么通信](https://juejin.cn/post/7343606012582805530) | Fri Mar 08 2024 7:44 AM 
     <details><summary>展开描述 ...</summary> 
-    在业务全球化的进程中，我们会面对产品本地化的需求。本文在介绍云音乐出海业务中，Web 项目针对阿拉伯语、希伯来语等 RTL 语言的布局适配实践。 
+    本文源自道招网的《# eletron应用、electron npm包和前端静态资源怎么通信》 最近有个需求需要改动electron项目壳的功能，所谓壳的功能指的是electron套壳应用中前端静态资源 
     </details> 
 
-- 💪 [OpenWrt-LuCI 插件开发入门](https://juejin.cn/post/7343616758325035045) | Fri Mar 08 2024 6:32 AM 
+- 💪 [递归算法 Recursion](https://juejin.cn/post/7343793872780902452) | Fri Mar 08 2024 7:37 AM 
     <details><summary>展开描述 ...</summary> 
-    在我们进行LuCI应用开发的时候，我们需要先学习它的结构，以及基本的开发更新的方法。本文重点介绍了一个简单的插件是如何开发和更新的。 
+    `Recursion` 中文翻译很信达雅，递是将问题递出去，在递出的过程中问题被不断拆分成子问题，归是答案回归，在归的过程中，子问题的答案被不断合并 
     </details> 
 <!-- juejin:END -->
 ### 少数派
