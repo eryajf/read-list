@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Alfred 5.5-2255 Beta2 效率神器](https://xclient.info/s/alfred.html) | Fri Mar 08 2024 2:13 AM 
+- 🦏 [ToothFairy 2.8.4 一键切换连接蓝牙设备](https://xclient.info/s/tooth-fairy.html) | Fri Mar 08 2024 2:32 AM 
     <details><summary>展开描述 ...</summary> 
-    Alfred 这是一款被称之为Mac效率神器的App，有了Alfred 你甚至无需鼠标就可以实现各种操作，包括出发各种文件、网络操作，其UI界面使用方便，而且不是通过命令来实现，是开发者们和键盘刘童鞋们的神器，比之此前类似的软件——Pack和Power来说完全是秒杀的节奏。 
+    Tooth Fairy是一款一键切换连接蓝牙设备的小工具 
     </details> 
 
--  [Navicat Premium 16.3.7 强大的数据库管理工具](https://xclient.info/s/navicat-premium.html) | Fri Mar 08 2024 2:11 AM 
+-  [Soulver 3.10.1 多功能计算器](https://xclient.info/s/soulver.html) | Fri Mar 08 2024 2:30 AM 
     <details><summary>展开描述 ...</summary> 
-    Navicat Premium是一个可多重连接的数据库管理工具，Navicat 的功能足以符合专业开发人员的所有需求，但是对数据库服务器的新手来说又相当容易学习。它可让你以单一程序同時连接到目前世面上所有版本的主流数据库并进行管理和操作，支持的数据库有： MySQL、SQL Server、SQLite、Oracle 及 PostgreSQL。让管理不同类型的数据库更加方便。 
+    Soulver 是一款 Mac 上的多功能计算器，相比系统自带的计算器，Soulver拥有更为强大的功能，它让你输入计算的数字和操作符，然后帮助你计算出结果，更加的符合人们的计算习惯。 
     </details> 
 
-- ⚗️ [Remote Desktop Manager Enterprise 2024.1.5.1 远程控制](https://xclient.info/s/remote-desktop-manager.html) | Fri Mar 08 2024 2:11 AM 
+- ⚗️ [SimpleMind 2.3.3 小巧的思维导图工具](https://xclient.info/s/simplemind.html) | Fri Mar 08 2024 2:29 AM 
     <details><summary>展开描述 ...</summary> 
-    远程桌面管理器-是一个小的应用程序来控制远程连接。与远程桌面管理器程序，您可以添加、 编辑、 删除、 组织或快速找到您的远程连接。该实用程序是兼容微软远程桌面或终端服务，是一个非常简单的使用，但同时也是有力、 有效。远程桌面管理器是适用于任何用户。 
+    SimpleMind是Mac OS X上一款思维导图工具，这款工具非常小巧，完全可以取代笨重的MindManager，对Mac开发者来说称得上是一大福音了。 
     </details> 
 
-- 🔥 [Capture One 23 Pro 16.3.7.10 一款专业的RAW文件转换器和图像编辑软件](https://xclient.info/s/capture-one-pro.html) | Fri Mar 08 2024 2:10 AM 
+- 🔥 [PopChar 10.0 特殊字符输入](https://xclient.info/s/popchar-x.html) | Fri Mar 08 2024 2:28 AM 
     <details><summary>展开描述 ...</summary> 
-    CAPTURE ONE PRO 是一款专业的RAW文件转换器和图像编辑软件，拥有核心运算技术,作为拍摄支持软件系统后期处理的核心。是独立的相片编辑软件，可以转换数码相机所拍摄出来的RAW图像格式以及提代相片的处理流程，它是代表RAW工作流程软件的新世纪, 同时也代表了一个RAW转换变程的新处理方法。 
+    PopChar X是Mac os平台上一款特殊字符输入软件，让你插入各种字体的字和HTML标识到你的文件中。 
     </details> 
 
-- 🌋 [Forklift 4.1.1 远程/本地文件管理利器](https://xclient.info/s/forklift.html) | Thu Mar 07 2024 3:28 AM 
+- 🌋 [Nova 11.9 代码编辑器](https://xclient.info/s/nova.html) | Fri Mar 08 2024 2:23 AM 
     <details><summary>展开描述 ...</summary> 
-    Forklift 不仅是强大的文件管理器，还附带 FTP 远程文件管理功能 
+    Nova是Mac电脑上的一款强大的代码编辑工具，支持智能自动完成，多个光标，Minimap，编辑器过度滚动，标签对和括号以及更多方式。 
     </details> 
 <!-- xclient:END -->
 
