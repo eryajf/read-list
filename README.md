@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [CA 软件求起名](https://www.v2ex.com/t/1022001#reply3) | Fri Mar 08 2024 3:49 PM
-- 🤗 [Devv 拼车订阅](https://www.v2ex.com/t/1022000#reply0) | Fri Mar 08 2024 3:45 PM
-- 🎭 [求一个网页关键词过滤跳转功能的插件或者软件](https://www.v2ex.com/t/1021994#reply1) | Fri Mar 08 2024 3:04 PM
-- 🥷 [AI 生成表情，创意无限-https://ai-emojis.sh](https://www.v2ex.com/t/1021979#reply3) | Fri Mar 08 2024 1:54 PM
-- 🐵 [有没有 MQTT 高可用负载均衡方案](https://www.v2ex.com/t/1021963#reply13) | Fri Mar 08 2024 12:13 PM<!-- v2ex:END -->
+- 🥸 [程序员中年失业，被迫开启 PlanB——成为自由职业/独立开发者的第 0 天](https://www.v2ex.com/t/1022006#reply2) | Fri Mar 08 2024 4:32 PM
+- 🤗 [CA 软件求起名](https://www.v2ex.com/t/1022001#reply3) | Fri Mar 08 2024 3:49 PM
+- 🎭 [Devv 拼车订阅](https://www.v2ex.com/t/1022000#reply0) | Fri Mar 08 2024 3:45 PM
+- 🥷 [求一个网页关键词过滤跳转功能的插件或者软件](https://www.v2ex.com/t/1021994#reply3) | Fri Mar 08 2024 3:04 PM
+- 🐵 [AI 生成表情，创意无限-https://ai-emojis.sh](https://www.v2ex.com/t/1021979#reply4) | Fri Mar 08 2024 1:54 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
