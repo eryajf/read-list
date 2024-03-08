@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Solidity极简入门: 2. 数值类型](https://juejin.cn/post/7343493283073605683) | Thu Mar 07 2024 5:42 PM 
+- 🤗 [2024年的云原生架构需要哪些技术栈](https://juejin.cn/post/7343499296930201626) | Fri Mar 08 2024 12:49 AM 
     <details><summary>展开描述 ...</summary> 
-    Solidity中的变量类型​ 数值类型&lpar;Value Type&rpar; ：包括布尔型，整数型等等，这类变量赋值时候直接传递数值。 引用类型&lpar;Reference Type&rpar; ：包括数组和结构体，这类变量占空间 
+    时间过得很快啊，一转眼已经到了 2024 年，还记得 15 年刚工作那会掌握个 SSM/H&lpar;Spring/Struts2/Mybatis/Hibernate&rpar; 框架就能应付大部分面试了。 恰好从 
     </details> 
 
-- 🎡 [Git 内幕探索：从底层文件系统到历史编辑的全面指南](https://juejin.cn/post/7343509431715086377) | Thu Mar 07 2024 4:45 PM 
+- 🎡 [一文带你速通Go语言基础语法](https://juejin.cn/post/7343452738158919695) | Fri Mar 08 2024 12:43 AM 
     <details><summary>展开描述 ...</summary> 
-    1. Git 底层文件对象 1.1 Blob blob（Binary Large Object）是一种数据类型，用于存储文件的内容。每个文件在 Git 中都被存储为一个 blob 对象。blob 对象 
+    写在文章开头 笔者在很早以前就有通过协程并发编程的概念中了解到Go，自此对Go爱不释手，对于Go语言来说，它有着如下的优势: 上手快：笔者第一次接触的Go的时候，简单搭建一下环境就直接手撸了一个协程的 
     </details> 
 
-- 🕯 [Docker 完全入门指南到原理浅析（全栈必备）](https://juejin.cn/post/7343484473185796133) | Thu Mar 07 2024 4:22 PM 
+- 🕯 [Flutter 组件集录 | InheritedModel 共享模型](https://juejin.cn/post/7343530251152556086) | Fri Mar 08 2024 12:40 AM 
     <details><summary>展开描述 ...</summary> 
-    本文深入浅出地介绍了Docker这一开源容器化平台。文章首先阐述了Docker如何允许开发者将应用及其依赖打包至可移植的容器中，进而在任何支持Docker的机器上运行，极大地简化了后端服务的部署流程。 
+    上一篇 《Flutter 组件集录 | InheritedWidget 共享数据》介绍了 InheritedWidget 对 跨节点共享数据 的价值。本篇看一下 Flutter 源码中基于 Inher 
     </details> 
 
-- 🚀 [Vue 中的样式绑定的常见做法](https://juejin.cn/post/7343493283073572915) | Thu Mar 07 2024 4:06 PM 
+- 🚀 [利用Cocos游戏开发中的跑马灯祝女神们节日快乐](https://juejin.cn/post/7343492521866969127) | Fri Mar 08 2024 12:31 AM 
     <details><summary>展开描述 ...</summary> 
-    Vue 提供了灵活的方式来绑定样式，不仅可以应用静态样式，还能基于组件的状态动态改变样式。这篇文章将探索 Vue 中设置样式的七种做法，并结合代码，逐步说明每种方法的实现。 
+    点击上方亿元程序员+关注和★星标 引言 Cocos游戏开发中的跑马灯广播效果 大家好，今天是国际劳动妇女节，也就是我们如今熟知的女神节。 今天打算通过游戏开发中的跑马灯广播这最直接的方式祝女神们节日快 
     </details> 
 
-- 💪 [Vue 条件渲染指令：v-if、v-else、v-if-else 与 v-show 相关知识点](https://juejin.cn/post/7343569488745611273) | Thu Mar 07 2024 4:06 PM 
+- 💪 [基于亚马逊云科技新功能：Amazon SageMaker Canvas 无代码机器学习—以构建货物的交付状态检测模型实战为例深度剖析以突显其特性](https://juejin.cn/post/7343452738158821391) | Fri Mar 08 2024 12:04 AM 
     <details><summary>展开描述 ...</summary> 
-    Vue 提供了几个强大的指令来简化条件渲染的实现：`v-if`、`v-else-if`、`v-else` 和 `v-show`。本文将详细介绍这些指令的使用方法。 
+    亚马逊云科技 2023 re:Invent 全球大会是亚马逊云科技举办的一场技术盛会，旨在探讨云计算、大数据、人工智能等前沿技术趋势和应用场景。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
