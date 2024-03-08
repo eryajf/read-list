@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Calmo - 非常简单的人工智能驱动的个性化冥想](https://xinquji.com/posts/809627?utm_campaign=xinquji-rss) | Thu Mar 07 2024 6:00 AM 
+- 👀 [Hai - 在梦想之地与您定制的角色一起玩耍和生活](https://xinquji.com/posts/809658?utm_campaign=xinquji-rss) | Fri Mar 08 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     非常简单的人工智能驱动的个性化冥想  
+     在梦想之地与您定制的角色一起玩耍和生活  
     </details> 
 
-- 🥷 [read-this.ai - 一键立即将任何文章变成播客](https://xinquji.com/posts/809626?utm_campaign=xinquji-rss) | Thu Mar 07 2024 6:00 AM 
+- 🥷 [LemonRocks - 通过机器学习和人工智能增强的数据驱动型初创公司跟踪平台](https://xinquji.com/posts/809657?utm_campaign=xinquji-rss) | Fri Mar 08 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     一键立即将任何文章变成播客  
+     通过机器学习和人工智能增强的数据驱动型初创公司跟踪平台  
     </details> 
 
-- 💼 [PromptBoard - AI 提示管理工具和带提示的键盘扩展](https://xinquji.com/posts/809625?utm_campaign=xinquji-rss) | Thu Mar 07 2024 6:00 AM 
+- 💼 [Questflow - 人工智能自动化工作区](https://xinquji.com/posts/809656?utm_campaign=xinquji-rss) | Fri Mar 08 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     AI 提示管理工具和带提示的键盘扩展  
+     人工智能自动化工作区  
     </details> 
 
-- 🦅 [Customerly Aura - 支持团队的人工智能助手](https://xinquji.com/posts/809624?utm_campaign=xinquji-rss) | Thu Mar 07 2024 6:00 AM 
+- 🦅 [Tailbox - PokemonGo 和 Tiktok 的旅行组合](https://xinquji.com/posts/809655?utm_campaign=xinquji-rss) | Fri Mar 08 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     支持团队的人工智能助手  
+     PokemonGo 和 Tiktok 的旅行组合  
     </details> 
 
-- 😺 [Career Connect - 通过人工智能制作的个性化电子邮件将面试率提高 3 倍](https://xinquji.com/posts/809623?utm_campaign=xinquji-rss) | Thu Mar 07 2024 6:00 AM 
+- 😺 [KleverList - 简化的 WooCommerce 客户同步](https://xinquji.com/posts/809654?utm_campaign=xinquji-rss) | Fri Mar 08 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     通过人工智能制作的个性化电子邮件将面试率提高 3 倍  
+     简化的 WooCommerce 客户同步  
     </details> 
 <!-- xinquji:END -->
