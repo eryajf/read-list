@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [关于 Win 主机读取群晖文件 SSD 读取占用的问题请问](https://www.v2ex.com/t/1021749#reply0) | Fri Mar 08 2024 3:04 AM
-- 🤗 [现在的 ToDesk 怎么感觉越来越难用了](https://www.v2ex.com/t/1021743#reply5) | Fri Mar 08 2024 2:57 AM
-- 🎭 [用 ifconfig 命令设置 IP 后 ping 不通局域网内其他主机](https://www.v2ex.com/t/1021734#reply3) | Fri Mar 08 2024 2:48 AM
-- 🥷 [请教下 v2，有人遇到过 chrome 的这个乱码 bug 吗？](https://www.v2ex.com/t/1021730#reply0) | Fri Mar 08 2024 2:41 AM
-- 🐵 [有没有大佬能基于 Supermium 做一个 Windows XP 能用的 Electron？](https://www.v2ex.com/t/1021726#reply3) | Fri Mar 08 2024 2:33 AM<!-- v2ex:END -->
+- 🥸 [准备入手一台 mac 作为程序员选择 air 还是 pro](https://www.v2ex.com/t/1021791#reply0) | Fri Mar 08 2024 4:07 AM
+- 🤗 [你们小米手机的短信回收站都是正常的吗？](https://www.v2ex.com/t/1021784#reply0) | Fri Mar 08 2024 3:48 AM
+- 🎭 [https://ossking.com 图床 v0.10.3 发布，开放注册了，自动保存上传历史，在 dashboard 里可以看到](https://www.v2ex.com/t/1021782#reply2) | Fri Mar 08 2024 3:47 AM
+- 🥷 [AS 模拟器](https://www.v2ex.com/t/1021777#reply0) | Fri Mar 08 2024 3:40 AM
+- 🐵 [腾讯的蓝鲸运维平台，真的好用吗？](https://www.v2ex.com/t/1021774#reply3) | Fri Mar 08 2024 3:35 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
