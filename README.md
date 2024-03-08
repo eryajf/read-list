@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [前端打包版本号自增](https://juejin.cn/post/7343811223207624745) | Fri Mar 08 2024 8:10 AM 
+- 🤗 [pandas plot函数：数据可视化的快捷通道](https://juejin.cn/post/7343842933991096360) | Fri Mar 08 2024 9:06 AM 
     <details><summary>展开描述 ...</summary> 
-    1.新建sysInfo.json文件 2.新建addVersion.js文件,打包时执行,将版本号写入sysInfo.json文件 3.package.json中配置 4.使用 
+    一般来说，我们先用pandas分析数据，然后用matplotlib之类的可视化库来显示分析结果。而pandas库中有一个强大的工具--plot函数，可以使数据可视化变得简单而高效。 1. plot 函 
     </details> 
 
-- 🎡 [Qt6项目CMakeLists.txt详解](https://juejin.cn/post/7343606012583034906) | Fri Mar 08 2024 8:05 AM 
+- 🎡 [数据存储：分区、索引与平衡](https://juejin.cn/post/7343778232595234831) | Fri Mar 08 2024 9:03 AM 
     <details><summary>展开描述 ...</summary> 
-    cmake_minimum_required&lpar;VERSION 3.21.1&rpar;：设置cmake需要的最低版本。 option&lpar;&lt;option_variable&gt; &quot;&lt;option_description 
+    分区数据库在20世纪80年代提出。分区是将大型数据库分解成小型数据库的方式。分区主要为了可扩展性，不同分区可以放在不共享集群中的不同节点上。因此，大数据集可以分布在多个磁盘上，并且查询可以负载在多个处 
     </details> 
 
-- 🕯 [春天已至：见证女性开发者的云上生长力量](https://juejin.cn/post/7343606012582985754) | Fri Mar 08 2024 8:01 AM 
+- 🕯 [Rust：Hash trait](https://juejin.cn/post/7343811223208263721) | Fri Mar 08 2024 9:02 AM 
     <details><summary>展开描述 ...</summary> 
-    19世纪中期，英国诗人拜伦的女儿，埃达·洛芙莱斯设计了巴贝奇分析机上解伯努利方程的一个程序。这一开创性实践，使她被称为世界上第一位程序员。 
+    在Rust中，Hash trait用于计算一个类型的哈希值。 通过在类型上实现Hash trait来 自定义 哈希计算的方式。 假设我们有一个表示区块的结构体Block，我们可以为它实现Hash 
     </details> 
 
-- 🚀 [eletron应用、electron npm包和前端静态资源怎么通信](https://juejin.cn/post/7343606012582805530) | Fri Mar 08 2024 7:44 AM 
+- 🚀 [极大似然估计与逻辑回归有什么关系？](https://juejin.cn/post/7343817438234329097) | Fri Mar 08 2024 8:55 AM 
     <details><summary>展开描述 ...</summary> 
-    本文源自道招网的《# eletron应用、electron npm包和前端静态资源怎么通信》 最近有个需求需要改动electron项目壳的功能，所谓壳的功能指的是electron套壳应用中前端静态资源 
+    极大似然估计（MLE）是一种统计方法，用于估计概率模型的参数，使得观测数据的概率最大化。逻辑回归（LR）是一个分类算法，它通过sigmoid函数将特征的线性组合映射到&lpar;0,1&rpar;区间，表示概率。 
     </details> 
 
-- 💪 [递归算法 Recursion](https://juejin.cn/post/7343793872780902452) | Fri Mar 08 2024 7:37 AM 
+- 💪 [目标识别项目实战：基于Yolov7-LPRNet的动态车牌目标识别算法模型&lpar;三&rpar;](https://juejin.cn/post/7343793872781623348) | Fri Mar 08 2024 8:54 AM 
     <details><summary>展开描述 ...</summary> 
-    `Recursion` 中文翻译很信达雅，递是将问题递出去，在递出的过程中问题被不断拆分成子问题，归是答案回归，在归的过程中，子问题的答案被不断合并 
+    目标识别如今以及迭代了这么多年，普遍受大家认可和欢迎的目标识别框架就是YOLO了。按照官方描述，YOLOv8 是一个 SOTA 模型，它建立在以前 YOLO 版本的成功基础上，并引入了新的功能和 
     </details> 
 <!-- juejin:END -->
 ### 少数派
