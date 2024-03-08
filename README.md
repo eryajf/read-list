@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [鸟山明去世了](http://jandan.net/p/115837) | Fri Mar 08 2024 3:58 AM 
+- 🚀 [今日好价 0309](http://jandan.net/p/115846) | Fri Mar 08 2024 11:07 PM 
     <details><summary>展开描述 ...</summary> 
-    一路走好 
+    今日带货商品数量：30 
     </details> 
 
-- 🙉 [今日好价 0308](http://jandan.net/p/115836) | Thu Mar 07 2024 11:07 PM 
+- 🙉 [人口萎缩的新世界](http://jandan.net/p/115844) | Fri Mar 08 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：44 
+    这一趋势对经济、社会和个人生活带来的影响 
     </details> 
 
-- 🎉 [能否延缓衰老而不生病？](http://jandan.net/p/115834) | Thu Mar 07 2024 11:06 PM 
+- 🎉 [耗时140小时：德国建成欧洲最大3D打印建筑](http://jandan.net/p/115842) | Fri Mar 08 2024 11:04 PM 
     <details><summary>展开描述 ...</summary> 
-    「衰老科学」希望让人们在年老时也能保持健康 
+    在几天内拔地而起 
     </details> 
 
-- 🐲 [脑洞：把森林用作巨型中微子探测器](http://jandan.net/p/115833) | Thu Mar 07 2024 11:05 PM 
+- 🐲 [墨西哥：美国的转基因玉米不安全](http://jandan.net/p/115841) | Fri Mar 08 2024 11:03 PM 
     <details><summary>展开描述 ...</summary> 
-    森林可以帮助我们发现超高能中微子吗？ 
+    转基因玉米和除草剂草甘膦对人体健康有害 
     </details> 
 
--  [长新冠可能导致脑损伤](http://jandan.net/p/115832) | Thu Mar 07 2024 11:04 PM 
+-  [脊髓实时监测给慢性疼痛带来治疗新希望](http://jandan.net/p/115840) | Fri Mar 08 2024 11:02 PM 
     <details><summary>展开描述 ...</summary> 
-    普通感冒通常不会引起脑损伤 
+    新技术可以实时监测手术中脊髓活动 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
