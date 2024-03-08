@@ -301,7 +301,7 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [这个超火的黑客小工具，可以轻松解锁特斯拉](https://www.freebuf.com/news/393813.html) | Fri Mar 08 2024 5:21 AM 
+- 🦄 [这个超火的黑客小工具，可以通过WiFi解锁特斯拉](https://www.freebuf.com/news/393813.html) | Fri Mar 08 2024 5:21 AM 
     <details><summary>展开描述 ...</summary> 
     一种利用 Flipper Zero 设备进行的简单钓鱼攻击可能导致特斯拉账户被篡改，甚至能让汽车被解锁并启动。 
     </details> 
