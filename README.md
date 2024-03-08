@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2024年的云原生架构需要哪些技术栈](https://juejin.cn/post/7343499296930201626) | Fri Mar 08 2024 12:49 AM 
+- 🤗 [如何将应用一键部署至多个环境？丨Walrus教程](https://juejin.cn/post/7343543411664977960) | Fri Mar 08 2024 2:18 AM 
     <details><summary>展开描述 ...</summary> 
-    时间过得很快啊，一转眼已经到了 2024 年，还记得 15 年刚工作那会掌握个 SSM/H&lpar;Spring/Struts2/Mybatis/Hibernate&rpar; 框架就能应付大部分面试了。 恰好从 
+    本教程将以 MySQL 数据库为例演示如何使用 Walrus 部署多态应用，即通过配置资源定义和资源两个 API 对象将应用快速部署到不同环境中。 
     </details> 
 
-- 🎡 [一文带你速通Go语言基础语法](https://juejin.cn/post/7343452738158919695) | Fri Mar 08 2024 12:43 AM 
+- 🎡 [线程使用Runnable还是Callable](https://juejin.cn/post/7343513356396691508) | Fri Mar 08 2024 2:17 AM 
     <details><summary>展开描述 ...</summary> 
-    写在文章开头 笔者在很早以前就有通过协程并发编程的概念中了解到Go，自此对Go爱不释手，对于Go语言来说，它有着如下的优势: 上手快：笔者第一次接触的Go的时候，简单搭建一下环境就直接手撸了一个协程的 
+    Callable接口 Runnable的缺陷 在创建线程的时候不管是继承Thread类&lpar;Thread 
     </details> 
 
-- 🕯 [Flutter 组件集录 | InheritedModel 共享模型](https://juejin.cn/post/7343530251152556086) | Fri Mar 08 2024 12:40 AM 
+- 🕯 [如何在PostgreSQL 跟踪数据变更？](https://juejin.cn/post/7343466638614888502) | Fri Mar 08 2024 2:15 AM 
     <details><summary>展开描述 ...</summary> 
-    上一篇 《Flutter 组件集录 | InheritedWidget 共享数据》介绍了 InheritedWidget 对 跨节点共享数据 的价值。本篇看一下 Flutter 源码中基于 Inher 
+    如何在PostgreSQL 跟踪数据变更？ PostgreSQL 是最受欢迎的数据库之一，被 DB-Engines Ranking 评为 2023 年度 DBMS，并且根据 HN Hiring Tre 
     </details> 
 
-- 🚀 [利用Cocos游戏开发中的跑马灯祝女神们节日快乐](https://juejin.cn/post/7343492521866969127) | Fri Mar 08 2024 12:31 AM 
+- 🚀 [央企数字化转型进行时，IT自身数字化大有可为](https://juejin.cn/post/7343513356396625972) | Fri Mar 08 2024 2:13 AM 
     <details><summary>展开描述 ...</summary> 
-    点击上方亿元程序员+关注和★星标 引言 Cocos游戏开发中的跑马灯广播效果 大家好，今天是国际劳动妇女节，也就是我们如今熟知的女神节。 今天打算通过游戏开发中的跑马灯广播这最直接的方式祝女神们节日快 
+    这几天，新质生产力成为两会热词之一。发展新质生产力，推动高质量发展是中国企业需要答好的课题。国资央企作为我国国民经济的支柱力量，更需要在布局培育新质生产力先行先试，释放高质量发展新动能，朝着世界一流企 
     </details> 
 
-- 💪 [基于亚马逊云科技新功能：Amazon SageMaker Canvas 无代码机器学习—以构建货物的交付状态检测模型实战为例深度剖析以突显其特性](https://juejin.cn/post/7343452738158821391) | Fri Mar 08 2024 12:04 AM 
+- 💪 [2024最新图标设计趋势！附超好用的图标工具清单](https://juejin.cn/post/7343535919955656754) | Fri Mar 08 2024 2:12 AM 
     <details><summary>展开描述 ...</summary> 
-    亚马逊云科技 2023 re:Invent 全球大会是亚马逊云科技举办的一场技术盛会，旨在探讨云计算、大数据、人工智能等前沿技术趋势和应用场景。 
+    图标，在界面设计中的作用不容小觑。正所谓浓缩的就是精华，一个小小的图标，却有着高效传递信息、美化界面排版、提升用户体验的巨大能力。 既然图标如此重要，了解图标设计趋势对设计师来说几乎是必须要做的事，它 
     </details> 
 <!-- juejin:END -->
 ### 少数派
