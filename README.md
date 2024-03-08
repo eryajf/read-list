@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [fnMap（函数地图）v4.5.0发布](https://juejin.cn/post/7343870686144528447) | Fri Mar 08 2024 12:22 PM 
+- 🤗 [Node.js环境搭建与基础入门：文件操作和模块化编程概念详解](https://juejin.cn/post/7343895308931186738) | Fri Mar 08 2024 1:03 PM 
+    <details><summary>展开描述 ...</summary> 
+    文章通过介绍Node.js的基础知识、文件操作和模块化编程概念，帮助读者建立对Node.js的基本认识，掌握文件操作和模块化编程的实际应用方法，为未来深入学习和开发Node.js应用打下基础。 
+    </details> 
+
+- 🎡 [使用 Amazon Bedrock 上的 Claude 3 将架构图转换为 CDK/Terraform 代码](https://juejin.cn/post/7343889290432495627) | Fri Mar 08 2024 1:00 PM 
+    <details><summary>展开描述 ...</summary> 
+    在云原生领域，基础设施即代码 &lpar;IaC&rpar; 对于开发人员和 DevOps 团队来说是一种不可避免的实践。 
+    </details> 
+
+- 🕯 [etest  高级变量支持 文件上传用例](https://juejin.cn/post/7343883765539782707) | Fri Mar 08 2024 12:53 PM 
+    <details><summary>展开描述 ...</summary> 
+    各位伙伴，好久不见，今天我们带来了新的版本迭代，eTest 上线，得到的好多测试小伙伴的喜欢，再次感谢各位的支持，同时我们也收到的很多功能上的反馈，反馈最多的一个问题就是怎么支持录制上传文件，这个测试 
+    </details> 
+
+- 🚀 [fnMap（函数地图）v4.5.0发布](https://juejin.cn/post/7343870686144528447) | Fri Mar 08 2024 12:22 PM 
     <details><summary>展开描述 ...</summary> 
     本次更新主要是增加了标记行自定义标签的功能，可以更直观地查看和管理标记位置。另外，为了更好地给所有支持和使用fnMap的朋友们提供更好的服务，我们专门创建了一个fnMap交流群。 
     </details> 
 
-- 🎡 [实用干货：分享4个冷门但非常实用的HTML属性](https://juejin.cn/post/7343877319498579978) | Fri Mar 08 2024 11:48 AM 
+- 💪 [实用干货：分享4个冷门但非常实用的HTML属性](https://juejin.cn/post/7343877319498579978) | Fri Mar 08 2024 11:48 AM 
     <details><summary>展开描述 ...</summary> 
     今天大澈给朋友们分享了4个HTML冷门属性。 `inputmode`属性：改变键盘布局 , `poster`属性：设置视频封面... 
-    </details> 
-
-- 🕯 [事件溯源是什么？如何基于事件溯源进行开发](https://juejin.cn/post/7343886623535480872) | Fri Mar 08 2024 11:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 之前偶尔接触到了事件溯源，但没有刨根究底的学习，最近抽时间看了一下有关这方面的内容。 本文会泛谈传统持久化技术实现，以及对应的问题，从而介绍事件溯源是什么，解决了什么问题，以及基于事件溯源开发的 
-    </details> 
-
-- 🚀 [limit与分页键](https://juejin.cn/post/7343691521601765376) | Fri Mar 08 2024 11:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 查询数据库偏移量的数据，或者查询分页的数据是很常见的需求，本文会介绍一些常用的查询方法。 limit与分页 在SQL中，limit用于限制返回的结果行数。LIMIT语句可以用于SELECT查询， 
-    </details> 
-
-- 💪 [🏆 Spring源码手写篇-手写IoC](https://juejin.cn/post/7343886623535464488) | Fri Mar 08 2024 11:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    Spring源码手写篇-手写IoC 一、IoC分析 1.Spring的核心   在Spring中非常核心的内容是 IOC和 AOP. 2.IoC的几个疑问? 2.1 IoC是什么？   IoC:Inv 
     </details> 
 <!-- juejin:END -->
 ### 少数派
