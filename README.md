@@ -442,11 +442,11 @@
 
 
 <!-- iplaysoft:START -->
-- 🧐 [Claude 3 注册使用教程 - 全面超越 ChatGPT &lpar;GPT4&rpar; 的免费替代品！ AI “超级黑马”](https://www.iplaysoft.com/claude.html) | Thu Mar 07 2024 12:02 AM
-- 🧑‍🏫 [Yuzu 柚子模拟器 &lpar;最终收藏版&rpar; - 在电脑 PC 上玩 Switch 塞尔达传说 / 马里奥等游戏](https://www.iplaysoft.com/yuzu.html) | Wed Mar 06 2024 12:08 AM
-- 🥰 [MyLifeOrganized &lpar;MLO&rpar; - 专业级老牌 GTD 任务时间管理工具](https://www.iplaysoft.com/p/mylifeorganized) | Tue Mar 05 2024 8:12 PM
-- 💻 [低调~ 免费无限白嫖 GPT4 方法！Coze 扣子 - 字节出品的超强 AI Bot 工具教程](https://www.iplaysoft.com/coze.html) | Sun Mar 03 2024 12:01 AM
-- 🎃 [Directory Opus 13 - 比微软自带强大百倍！全面碾压的增强文件管理器](https://www.iplaysoft.com/directory-opus.html) | Mon Feb 26 2024 2:00 PM<!-- iplaysoft:END -->
+- 🧐 [凉了！微软正式 “砍掉” 大家都喜欢的安卓子系统！](https://www.iplaysoft.com/news/6106) | Fri Mar 08 2024 12:05 AM
+- 🧑‍🏫 [Claude 3 注册使用教程 - 全面超越 ChatGPT &lpar;GPT4&rpar; 的免费替代品！ AI “超级黑马”](https://www.iplaysoft.com/claude.html) | Thu Mar 07 2024 12:02 AM
+- 🥰 [Yuzu 柚子模拟器 &lpar;最终收藏版&rpar; - 在电脑 PC 上玩 Switch 塞尔达传说 / 马里奥等游戏](https://www.iplaysoft.com/yuzu.html) | Wed Mar 06 2024 12:08 AM
+- 💻 [MyLifeOrganized &lpar;MLO&rpar; - 专业级老牌 GTD 任务时间管理工具](https://www.iplaysoft.com/p/mylifeorganized) | Tue Mar 05 2024 8:12 PM
+- 🎃 [低调~ 免费无限白嫖 GPT4 方法！Coze 扣子 - 字节出品的超强 AI Bot 工具教程](https://www.iplaysoft.com/coze.html) | Sun Mar 03 2024 12:01 AM<!-- iplaysoft:END -->
 
 ### 精品Mac应用
 
