@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [可编程线性霍尔传感器 IC](https://juejin.cn/post/7343886623536103464) | Fri Mar 08 2024 2:16 PM 
+- 🤗 [是不是看错了，C++ 构造函数也可以是虚函数？&lpar;下&rpar;](https://juejin.cn/post/7343867039022055475) | Fri Mar 08 2024 4:03 PM 
     <details><summary>展开描述 ...</summary> 
-    一、产品概述 CC6521/2 是一款高性能的可编程线性霍尔传感器 IC，采用先进的 BiCMOS 制程生产，具有霍尔系数高的优点，芯片内部包含了高灵敏度 霍尔传感器，霍尔信号预放大器，高精度的霍尔温 
+    虽然 C++ 语法上不允许类拷贝构造函数或者构造函数声明为虚函数，但这不妨碍我们对目标追求的方法变通。这是系列文章第二篇。 
     </details> 
 
-- 🎡 [Node.js环境搭建与基础入门：文件操作和模块化编程概念详解](https://juejin.cn/post/7343895308931186738) | Fri Mar 08 2024 1:03 PM 
+- 🎡 [跨浏览器一致性的 CSS 标准化](https://juejin.cn/post/7343867039021989939) | Fri Mar 08 2024 3:33 PM 
     <details><summary>展开描述 ...</summary> 
-    文章通过介绍Node.js的基础知识、文件操作和模块化编程概念，帮助读者建立对Node.js的基本认识，掌握文件操作和模块化编程的实际应用方法，为未来深入学习和开发Node.js应用打下基础。 
+    postcss-normalize 是一个 PostCSS 插件，它提供了一种简单且高效的方式来实现 CSS 的标准化。本文将深入探讨这个插件的使用方法，以及如何利用它来提高前端开发的效率。 
     </details> 
 
-- 🕯 [使用 Amazon Bedrock 上的 Claude 3 将架构图转换为 CDK/Terraform 代码](https://juejin.cn/post/7343889290432495627) | Fri Mar 08 2024 1:00 PM 
+- 🕯 [深入了解 postcss-px2rem-exclude 插件：实现灵活的 CSS 单位转换](https://juejin.cn/post/7343883353638830118) | Fri Mar 08 2024 3:33 PM 
     <details><summary>展开描述 ...</summary> 
-    在云原生领域，基础设施即代码 &lpar;IaC&rpar; 对于开发人员和 DevOps 团队来说是一种不可避免的实践。 
+    postcss-px2rem-exclude是一个 PostCSS 插件，它提供了一种灵活的方式来将 CSS 中的像素单位转换为 rem 单位，并且允许开发者指定哪些地方需要进行转换，哪些地方不需要。 
     </details> 
 
-- 🚀 [etest  高级变量支持 文件上传用例](https://juejin.cn/post/7343883765539782707) | Fri Mar 08 2024 12:53 PM 
+- 🚀 [常用的排序算法总结](https://juejin.cn/post/7343902139821113380) | Fri Mar 08 2024 3:32 PM 
     <details><summary>展开描述 ...</summary> 
-    各位伙伴，好久不见，今天我们带来了新的版本迭代，eTest 上线，得到的好多测试小伙伴的喜欢，再次感谢各位的支持，同时我们也收到的很多功能上的反馈，反馈最多的一个问题就是怎么支持录制上传文件，这个测试 
+    冒泡排序 冒泡排序算法的原理如下： 比较相邻的元素。如果第一个比第二个大，就交换他们两个。 对每一对相邻元素做同样的工作，从开始第一对到结尾的最后一对。在这一点，最后的元素应该会是最大的数。 针对所有 
     </details> 
 
-- 💪 [fnMap（函数地图）v4.5.0发布](https://juejin.cn/post/7343870686144528447) | Fri Mar 08 2024 12:22 PM 
+- 💪 [Java ArrayList 与 LinkedList 的灵活选择](https://juejin.cn/post/7343863800145985599) | Fri Mar 08 2024 3:29 PM 
     <details><summary>展开描述 ...</summary> 
-    本次更新主要是增加了标记行自定义标签的功能，可以更直观地查看和管理标记位置。另外，为了更好地给所有支持和使用fnMap的朋友们提供更好的服务，我们专门创建了一个fnMap交流群。 
+    Java ArrayList Java ArrayList 类是一个可变大小的数组，位于 java.util 包中。 创建 ArrayList 添加元素 访问元素 修改元素 删除元素 ArrayLis 
     </details> 
 <!-- juejin:END -->
 ### 少数派
