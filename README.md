@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [什么！你要让我在两点之间画条线？](https://juejin.cn/post/7343867039021383731) | Fri Mar 08 2024 9:55 AM 
+- 🤗 [大地形的一种简化RVT](https://juejin.cn/post/7343886623535054888) | Fri Mar 08 2024 10:23 AM 
     <details><summary>展开描述 ...</summary> 
-    功能说明 产品要做一个类似产品对比的功能，但是两者之间并不完全相似，只是某些字段需要进行比对，为了更明显的展示对比的两项，产品要求两者之间画出一条线来表示两者可以进行对比。 
+    【USparkle专栏】如果你深怀绝技，爱“搞点研究”，乐于分享也博采众长，我们期待你的加入，让智慧的火花碰撞交织，让知识的传递生生不息！ 这是工程开发的细节，不是理论篇，不了解RVT理论概念的，请先 
     </details> 
 
-- 🎡 [Prisma、TypeORM和Sequelize的比较](https://juejin.cn/post/7343819428173234226) | Fri Mar 08 2024 9:55 AM 
+- 🎡 [使用WebStorm插件React Buddy提高React开发效率（大纲结构篇）](https://juejin.cn/post/7343811905273184293) | Fri Mar 08 2024 10:21 AM 
     <details><summary>展开描述 ...</summary> 
-    ORM（对象关系映射）是一个编程技术，用于将关系数据库中的数据映射到对象模型，以便开发者可以使用面向对象的方式与数据库进行交互。目前最受欢迎的三个JavaScript ORM：Prisma、TypeO 
+    React Buddy是IntelliJ IDE 的高级插件，具有可视化工具和代码提示，使开发效率更高，本文将介绍大纲工具与预览功能。 准备 在开始之前，请确保已经安装了React Buddy插件。如 
     </details> 
 
-- 🕯 [react-native中使用webView全局添加水印](https://juejin.cn/post/7343817438235033609) | Fri Mar 08 2024 9:54 AM 
+- 🕯 [Hyperopt自动化调参工具实践-1](https://juejin.cn/post/7343873659025604619) | Fri Mar 08 2024 10:20 AM 
     <details><summary>展开描述 ...</summary> 
-    如何在react-native中实现全局的页面添加水印，此文章包含了遇到的问题和处理问题的思路，同时需要大家一起完善一下react-native添加水印的多种处理办法 
+    Hyperopt的任务是在一组可能的参数上找到标量值的最佳值，该标量值可能是随机的。 通过提供关于函数定义在哪里以及认为最佳值在哪里的更多信息，可以使Hyperopt中的算法更有效地搜索。 
     </details> 
 
-- 🚀 [工程化之webpack](https://juejin.cn/post/7343817438235017225) | Fri Mar 08 2024 9:53 AM 
+- 🚀 [谷歌的恐惧文化 [译]](https://juejin.cn/post/7343691521601437696) | Fri Mar 08 2024 10:19 AM 
     <details><summary>展开描述 ...</summary> 
-    为什么要学习webpack？ 前端有很多打包工具，其中，webpack生态最完整、使用最广泛。 学习webpack的意义主要有以下几点： 理解前端开发中出现的常见问题，以及对应的解决办法 帮助理解常见 
+    谷歌的恐惧文化 [译] 原文：Google&#39;s Culture of Fear 作者： Mike Solana 深入谷歌 DEI（多样性、公平性、包容性）思维模式的内核，探究了 Gemini 失败的根 
     </details> 
 
-- 💪 [视频翻译配音声音、画面、字幕 同步对齐问题](https://juejin.cn/post/7343691521601290240) | Fri Mar 08 2024 9:53 AM 
+- 💪 [谷歌原来是这么做的！](https://juejin.cn/post/7343691521601421312) | Fri Mar 08 2024 10:19 AM 
     <details><summary>展开描述 ...</summary> 
-    大家都知道，不同语言即使对于同一句话，发音时长也是不同的，比如一句话用中文2s就能说完，但翻译为应为后，句子可能变的很长，需要3s或更多时间才能讲完。这就导致配音前后无法对齐 
+    倒排索引是现代搜索引擎的核心技术。 其核心目的是将从大量文档中查找包含某些词的文档集合这一任务用 O&lpar;1&rpar; 或 O&lpar;log n&rpar; 的时间复杂度完成，其中 n 为索引中的文档数目。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
