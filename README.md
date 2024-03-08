@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [pandas plot函数：数据可视化的快捷通道](https://juejin.cn/post/7343842933991096360) | Fri Mar 08 2024 9:06 AM 
+- 🤗 [什么！你要让我在两点之间画条线？](https://juejin.cn/post/7343867039021383731) | Fri Mar 08 2024 9:55 AM 
     <details><summary>展开描述 ...</summary> 
-    一般来说，我们先用pandas分析数据，然后用matplotlib之类的可视化库来显示分析结果。而pandas库中有一个强大的工具--plot函数，可以使数据可视化变得简单而高效。 1. plot 函 
+    功能说明 产品要做一个类似产品对比的功能，但是两者之间并不完全相似，只是某些字段需要进行比对，为了更明显的展示对比的两项，产品要求两者之间画出一条线来表示两者可以进行对比。 
     </details> 
 
-- 🎡 [数据存储：分区、索引与平衡](https://juejin.cn/post/7343778232595234831) | Fri Mar 08 2024 9:03 AM 
+- 🎡 [Prisma、TypeORM和Sequelize的比较](https://juejin.cn/post/7343819428173234226) | Fri Mar 08 2024 9:55 AM 
     <details><summary>展开描述 ...</summary> 
-    分区数据库在20世纪80年代提出。分区是将大型数据库分解成小型数据库的方式。分区主要为了可扩展性，不同分区可以放在不共享集群中的不同节点上。因此，大数据集可以分布在多个磁盘上，并且查询可以负载在多个处 
+    ORM（对象关系映射）是一个编程技术，用于将关系数据库中的数据映射到对象模型，以便开发者可以使用面向对象的方式与数据库进行交互。目前最受欢迎的三个JavaScript ORM：Prisma、TypeO 
     </details> 
 
-- 🕯 [Rust：Hash trait](https://juejin.cn/post/7343811223208263721) | Fri Mar 08 2024 9:02 AM 
+- 🕯 [react-native中使用webView全局添加水印](https://juejin.cn/post/7343817438235033609) | Fri Mar 08 2024 9:54 AM 
     <details><summary>展开描述 ...</summary> 
-    在Rust中，Hash trait用于计算一个类型的哈希值。 通过在类型上实现Hash trait来 自定义 哈希计算的方式。 假设我们有一个表示区块的结构体Block，我们可以为它实现Hash 
+    如何在react-native中实现全局的页面添加水印，此文章包含了遇到的问题和处理问题的思路，同时需要大家一起完善一下react-native添加水印的多种处理办法 
     </details> 
 
-- 🚀 [极大似然估计与逻辑回归有什么关系？](https://juejin.cn/post/7343817438234329097) | Fri Mar 08 2024 8:55 AM 
+- 🚀 [工程化之webpack](https://juejin.cn/post/7343817438235017225) | Fri Mar 08 2024 9:53 AM 
     <details><summary>展开描述 ...</summary> 
-    极大似然估计（MLE）是一种统计方法，用于估计概率模型的参数，使得观测数据的概率最大化。逻辑回归（LR）是一个分类算法，它通过sigmoid函数将特征的线性组合映射到&lpar;0,1&rpar;区间，表示概率。 
+    为什么要学习webpack？ 前端有很多打包工具，其中，webpack生态最完整、使用最广泛。 学习webpack的意义主要有以下几点： 理解前端开发中出现的常见问题，以及对应的解决办法 帮助理解常见 
     </details> 
 
-- 💪 [目标识别项目实战：基于Yolov7-LPRNet的动态车牌目标识别算法模型&lpar;三&rpar;](https://juejin.cn/post/7343793872781623348) | Fri Mar 08 2024 8:54 AM 
+- 💪 [视频翻译配音声音、画面、字幕 同步对齐问题](https://juejin.cn/post/7343691521601290240) | Fri Mar 08 2024 9:53 AM 
     <details><summary>展开描述 ...</summary> 
-    目标识别如今以及迭代了这么多年，普遍受大家认可和欢迎的目标识别框架就是YOLO了。按照官方描述，YOLOv8 是一个 SOTA 模型，它建立在以前 YOLO 版本的成功基础上，并引入了新的功能和 
+    大家都知道，不同语言即使对于同一句话，发音时长也是不同的，比如一句话用中文2s就能说完，但翻译为应为后，句子可能变的很长，需要3s或更多时间才能讲完。这就导致配音前后无法对齐 
     </details> 
 <!-- juejin:END -->
 ### 少数派
