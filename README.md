@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [你们有搞 gpu 算力平台的吗](https://www.v2ex.com/t/1022098#reply8) | Sat Mar 09 2024 7:26 AM
-- 🤗 [转 React 还是继续 Java](https://www.v2ex.com/t/1022097#reply13) | Sat Mar 09 2024 7:19 AM
-- 🎭 [收到 Gemini 1.5 Pro 资格了](https://www.v2ex.com/t/1022091#reply5) | Sat Mar 09 2024 6:58 AM
-- 🥷 [自学 vue3 和 typescript，把 null 赋值个属性为啥一直提示不对呢？](https://www.v2ex.com/t/1022086#reply3) | Sat Mar 09 2024 6:18 AM
-- 🐵 [有没有办法可以在浏览网页的时候针对该网页提问](https://www.v2ex.com/t/1022070#reply6) | Sat Mar 09 2024 5:26 AM<!-- v2ex:END -->
+- 🥸 [请问有没有 [适老] 的智能手机推荐？](https://www.v2ex.com/t/1022128#reply2) | Sat Mar 09 2024 9:51 AM
+- 🤗 [你们有搞 gpu 算力平台的吗](https://www.v2ex.com/t/1022098#reply14) | Sat Mar 09 2024 7:26 AM
+- 🎭 [转 React 还是继续 Java](https://www.v2ex.com/t/1022097#reply18) | Sat Mar 09 2024 7:19 AM
+- 🥷 [收到 Gemini 1.5 Pro 资格了](https://www.v2ex.com/t/1022091#reply7) | Sat Mar 09 2024 6:58 AM
+- 🐵 [自学 vue3 和 typescript，把 null 赋值个属性为啥一直提示不对呢？](https://www.v2ex.com/t/1022086#reply4) | Sat Mar 09 2024 6:18 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
