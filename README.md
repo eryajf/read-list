@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [仿照现代 C++ 智能指针实现自己的引用计数](https://juejin.cn/post/7343915092100120610) | Fri Mar 08 2024 5:18 PM 
+- 🤗 [基于gradle的工程化实践之路（一）](https://juejin.cn/post/7344002850320515112) | Sat Mar 09 2024 12:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    前面我们完成了java项目开发的基本环境搭建，有了jdk的支撑，并辅以集成开发神器，接下来我们将正式开启Java工程化实践之路。本篇我们先手动完成项目的依赖引入、项目构建和打包部署这些操作。 
+    </details> 
+
+- 🎡 [新一代 Git 工具，AI 赋能！深度集成、简化操作 | 开源日报 No.194](https://juejin.cn/post/7343915092100251682) | Sat Mar 09 2024 12:40 AM 
+    <details><summary>展开描述 ...</summary> 
+    gitbutler 是一个基于 Git 的版本控制客户端。旨在为现代工作流程构建一个全新的 Git 分支管理工具。 
+    </details> 
+
+- 🕯 [仿照现代 C++ 智能指针实现自己的引用计数](https://juejin.cn/post/7343915092100120610) | Fri Mar 08 2024 5:18 PM 
     <details><summary>展开描述 ...</summary> 
     虽然标准库已经提供非常多现成的智能指针可供调用，但是其中的奥妙还是非常值得我们细细揣摩，下面就开始跟随笔者一起实现自己的引用计数帮助类，权当作略微简陋的自定义智能指针。 
     </details> 
 
-- 🎡 [是不是看错了，C++ 构造函数也可以是虚函数？&lpar;下&rpar;](https://juejin.cn/post/7343867039022055475) | Fri Mar 08 2024 4:03 PM 
+- 🚀 [PAT 1029 旧键盘](https://juejin.cn/post/7343886623536578600) | Fri Mar 08 2024 4:17 PM 
+    <details><summary>展开描述 ...</summary> 
+    1029 旧键盘 - PAT &lpar;Basic Level&rpar; Practice （中文） &lpar;pintia.cn&rpar; 
+    </details> 
+
+- 💪 [是不是看错了，C++ 构造函数也可以是虚函数？&lpar;下&rpar;](https://juejin.cn/post/7343867039022055475) | Fri Mar 08 2024 4:03 PM 
     <details><summary>展开描述 ...</summary> 
     虽然 C++ 语法上不允许类拷贝构造函数或者构造函数声明为虚函数，但这不妨碍我们对目标追求的方法变通。这是系列文章第二篇。 
-    </details> 
-
-- 🕯 [跨浏览器一致性的 CSS 标准化](https://juejin.cn/post/7343867039021989939) | Fri Mar 08 2024 3:33 PM 
-    <details><summary>展开描述 ...</summary> 
-    postcss-normalize 是一个 PostCSS 插件，它提供了一种简单且高效的方式来实现 CSS 的标准化。本文将深入探讨这个插件的使用方法，以及如何利用它来提高前端开发的效率。 
-    </details> 
-
-- 🚀 [深入了解 postcss-px2rem-exclude 插件：实现灵活的 CSS 单位转换](https://juejin.cn/post/7343883353638830118) | Fri Mar 08 2024 3:33 PM 
-    <details><summary>展开描述 ...</summary> 
-    postcss-px2rem-exclude是一个 PostCSS 插件，它提供了一种灵活的方式来将 CSS 中的像素单位转换为 rem 单位，并且允许开发者指定哪些地方需要进行转换，哪些地方不需要。 
-    </details> 
-
-- 💪 [常用的排序算法总结](https://juejin.cn/post/7343902139821113380) | Fri Mar 08 2024 3:32 PM 
-    <details><summary>展开描述 ...</summary> 
-    冒泡排序 冒泡排序算法的原理如下： 比较相邻的元素。如果第一个比第二个大，就交换他们两个。 对每一对相邻元素做同样的工作，从开始第一对到结尾的最后一对。在这一点，最后的元素应该会是最大的数。 针对所有 
     </details> 
 <!-- juejin:END -->
 ### 少数派
