@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有没有办法可以在浏览网页的时候针对该网页提问](https://www.v2ex.com/t/1022070#reply4) | Sat Mar 09 2024 5:26 AM
-- 🤗 [有偿实现一前端动画 react + typescript](https://www.v2ex.com/t/1022069#reply0) | Sat Mar 09 2024 5:10 AM
-- 🎭 [mac 如何自动设置问题？](https://www.v2ex.com/t/1022049#reply4) | Sat Mar 09 2024 3:48 AM
-- 🥷 [win11 任务管理器 CPU 利用率错误](https://www.v2ex.com/t/1022021#reply8) | Sat Mar 09 2024 1:22 AM
-- 🐵 [好奇怪的问题， openai 的函数调用总被强制触发](https://www.v2ex.com/t/1022017#reply0) | Sat Mar 09 2024 12:54 AM<!-- v2ex:END -->
+- 🥸 [收到 Gemini 1.5 Pro 资格了](https://www.v2ex.com/t/1022091#reply0) | Sat Mar 09 2024 6:58 AM
+- 🤗 [自学 vue3 和 typescript，把 null 赋值个属性为啥一直提示不对呢？](https://www.v2ex.com/t/1022086#reply3) | Sat Mar 09 2024 6:18 AM
+- 🎭 [有没有办法可以在浏览网页的时候针对该网页提问](https://www.v2ex.com/t/1022070#reply5) | Sat Mar 09 2024 5:26 AM
+- 🥷 [有偿实现一前端动画 react + typescript](https://www.v2ex.com/t/1022069#reply0) | Sat Mar 09 2024 5:10 AM
+- 🐵 [mac 如何自动设置问题？](https://www.v2ex.com/t/1022049#reply4) | Sat Mar 09 2024 3:48 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
