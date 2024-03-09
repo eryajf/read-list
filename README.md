@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有偿实现一前端动画 react + typescript](https://www.v2ex.com/t/1022069#reply0) | Sat Mar 09 2024 5:10 AM
-- 🤗 [mac 如何自动设置问题？](https://www.v2ex.com/t/1022049#reply2) | Sat Mar 09 2024 3:48 AM
-- 🎭 [win11 任务管理器 CPU 利用率错误](https://www.v2ex.com/t/1022021#reply8) | Sat Mar 09 2024 1:22 AM
-- 🥷 [好奇怪的问题， openai 的函数调用总被强制触发](https://www.v2ex.com/t/1022017#reply0) | Sat Mar 09 2024 12:54 AM
-- 🐵 [付费用 casnode 开发类似 V2EX 的网站](https://www.v2ex.com/t/1022012#reply1) | Fri Mar 08 2024 6:54 PM<!-- v2ex:END -->
+- 🥸 [有没有办法可以在浏览网页的时候针对该网页提问](https://www.v2ex.com/t/1022070#reply4) | Sat Mar 09 2024 5:26 AM
+- 🤗 [有偿实现一前端动画 react + typescript](https://www.v2ex.com/t/1022069#reply0) | Sat Mar 09 2024 5:10 AM
+- 🎭 [mac 如何自动设置问题？](https://www.v2ex.com/t/1022049#reply4) | Sat Mar 09 2024 3:48 AM
+- 🥷 [win11 任务管理器 CPU 利用率错误](https://www.v2ex.com/t/1022021#reply8) | Sat Mar 09 2024 1:22 AM
+- 🐵 [好奇怪的问题， openai 的函数调用总被强制触发](https://www.v2ex.com/t/1022017#reply0) | Sat Mar 09 2024 12:54 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
