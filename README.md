@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [如何用 Next.js v14 实现一个 Streaming 接口？](https://juejin.cn/post/7344089411983802394) | Sat Mar 09 2024 3:21 PM 
+- 🤗 [🔥🔥🔥你应该打好你的日志,起码避免被甩锅🥘🥘](https://juejin.cn/post/7344026980616257574) | Sat Mar 09 2024 4:55 PM 
+    <details><summary>展开描述 ...</summary> 
+    大家好，我是蓝胖子,相信大家或多或少都有这样的经历，当你负责的功能出现线上问题时，领导第一时间便是找到你询问原因，然而有时问题的根因或许不在你这儿，只是这个功能或许依赖了第三方或者内部其他部门，这个时 
+    </details> 
+
+- 🎡 [HarmonyOS  NEXT：去繁化简，实战整理的开发者清单](https://juejin.cn/post/7344258231479369769) | Sat Mar 09 2024 4:33 PM 
+    <details><summary>展开描述 ...</summary> 
+    一文了解如何快速开启纯血鸿蒙，实战整理的开发者清单。整理总结重点概念以及实际开发过程中的常用技巧和方法。 
+    </details> 
+
+- 🕯 [如何用 Next.js v14 实现一个 Streaming 接口？](https://juejin.cn/post/7344089411983802394) | Sat Mar 09 2024 3:21 PM 
     <details><summary>展开描述 ...</summary> 
     Streaming 一个比较常见的应用是 ChatGPT 的打字效果，效果如下。本篇的最后我们会调用 OpenAI 的接口来实现这样一个效果 
     </details> 
 
-- 🎡 [如何解决浏览器兼容问题](https://juejin.cn/post/7344258204283912204) | Sat Mar 09 2024 3:12 PM 
+- 🚀 [如何解决浏览器兼容问题](https://juejin.cn/post/7344258204283912204) | Sat Mar 09 2024 3:12 PM 
     <details><summary>展开描述 ...</summary> 
     1. HTML兼容性问题 在HTML标签、属性等方面也存在兼容性问题，尤其是在HTML5中新增了很多新的标签和属性，不同浏览器对其支持程度也不同。 解决方法： 使用DOCTYPE声明：通过DOCTYP 
     </details> 
 
-- 🕯 [蓝桥杯 1.猜年龄   填空题  知识点：枚举](https://juejin.cn/post/7344259131715158051) | Sat Mar 09 2024 3:04 PM 
+- 💪 [蓝桥杯 1.猜年龄   填空题  知识点：枚举](https://juejin.cn/post/7344259131715158051) | Sat Mar 09 2024 3:04 PM 
     <details><summary>展开描述 ...</summary> 
     1.猜年龄 - 蓝桥云课 &lpar;lanqiao.cn&rpar; 枚举两个小孩的年龄。 因为是小孩，我们可以枚举年龄在18以下，保险一点枚举到20 我们可以发现答案就是10 
-    </details> 
-
-- 🚀 [浏览器内核小知识](https://juejin.cn/post/7344258231231103015) | Sat Mar 09 2024 3:02 PM 
-    <details><summary>展开描述 ...</summary> 
-    浏览器内核（Browser Engine）是浏览器的核心组成部分，负责解析HTML、CSS和JavaScript代码，并将其显示在用户的屏幕上。不同的浏览器使用不同的内核，例如Chrome使用的是Bl 
-    </details> 
-
-- 💪 [蓝桥杯第七场小白赛 4.可结合的元素对【算法赛】  知识点：lowbit](https://juejin.cn/post/7344260010853056547) | Sat Mar 09 2024 2:40 PM 
-    <details><summary>展开描述 ...</summary> 
-    4.可结合的元素对【算法赛】 - 蓝桥云课 &lpar;lanqiao.cn&rpar; 这道题就是考知不知道lowbit&lpar;&rpar;函数： 这样写虽然可以通过但是有风险： 但是实际上是数据不强，擦着边过得,因为n最大1e5，我 
     </details> 
 <!-- juejin:END -->
 ### 少数派
