@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [本周看什么 | 最近值得一看的一大卷作品](https://sspai.com/post/87049) | Fri Mar 08 2024 9:39 AM 
+- 👹 [打造一部「电子茅台」：聊聊富士的产品策略及市场博弈](https://sspai.com/post/87038) | Sat Mar 09 2024 3:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    富士的热度恐怕还得维持相当长一段时间。而这样的富士，你愿意埋单么？&lt;a href=&quot;https://sspai.com/post/87038&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [本周看什么 | 最近值得一看的一大卷作品](https://sspai.com/post/87049) | Fri Mar 08 2024 9:39 AM 
     <details><summary>展开描述 ...</summary> 
     ☕️TL;DR近期佳作推荐：[电影]沙丘2、[电影]奇美拉、[电影]可怜的东西、[电影]波纹、[电影]高墙之外、[电影]小孩儿、[美剧]奇思妙探、[美剧]幕府将军、[英剧]珍的不一样第二季、[美剧]小 ...&lt;a href=&quot;https://sspai.com/post/87049&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [想要购买新款 MacBook Air？这些细节你值得注意](https://sspai.com/post/85735) | Fri Mar 08 2024 7:00 AM 
+- 🤭 [想要购买新款 MacBook Air？这些细节你值得注意](https://sspai.com/post/85735) | Fri Mar 08 2024 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     搭载 M3 SoC 的 MacBook Air 发布了，这是我们的选购建议。&lt;a href=&quot;https://sspai.com/post/85735&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [年度征文 | 突破边界，成为一列想脱轨的列车](https://sspai.com/post/86658) | Fri Mar 08 2024 3:30 AM 
+- 🥸 [年度征文 | 突破边界，成为一列想脱轨的列车](https://sspai.com/post/86658) | Fri Mar 08 2024 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     早在年初，我就决定在年度征文中分享自己退学申请的心路历程，因为这是一次惊心动魄的尝试。&lt;a href=&quot;https://sspai.com/post/86658&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：Apple 发布 macOS 14.4 等系统正式版等](https://sspai.com/post/87033) | Fri Mar 08 2024 12:44 AM 
+- 🙉 [派早报：Apple 发布 macOS 14.4 等系统正式版等](https://sspai.com/post/87033) | Fri Mar 08 2024 12:44 AM 
     <details><summary>展开描述 ...</summary> 
     微信发布「朋友圈违规避坑指南」，Steam 新增购物车同步等功能等。&lt;a href=&quot;https://sspai.com/post/87033&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [出海产品 Podwise 开发团队、《硬地骇客》主播都装了啥？](https://sspai.com/prime/story/zhuanglesha-240307) | Thu Mar 07 2024 9:28 AM 
-    <details><summary>展开描述 ...</summary> 
-    AI 时代的大发展对于独立开发者群体是个巨大的利好，会让自己更容易被解放出来，从而找到更好的生活状态。&lt;a href=&quot;https://sspai.com/prime/story/zhuanglesha-240307&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 <!-- sspai:END -->
 
