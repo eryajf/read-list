@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [苹果封了 Epic 的开发者账号，在欧盟介入调查后准备解封](http://jandan.net/p/115851) | Sat Mar 09 2024 7:00 AM 
+- 🚀 [今日好价 0310](http://jandan.net/p/115858) | Sat Mar 09 2024 11:07 PM 
     <details><summary>展开描述 ...</summary> 
-    事件引发争议，欧盟也介入调查 
+    今日带货商品数量：48 
     </details> 
 
-- 🙉 [今日好价 0309](http://jandan.net/p/115846) | Fri Mar 08 2024 11:07 PM 
+- 🙉 [咖啡因对我们到底是好是坏？最新的观点是这样的](http://jandan.net/p/115855) | Sat Mar 09 2024 11:06 PM 
     <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：30 
+    咖啡因无处不在 
     </details> 
 
-- 🎉 [人口萎缩的新世界](http://jandan.net/p/115844) | Fri Mar 08 2024 11:05 PM 
+- 🎉 [大语言模型为什么有智能，仍然是个谜](http://jandan.net/p/115849) | Sat Mar 09 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
-    这一趋势对经济、社会和个人生活带来的影响 
+    好比人类发明了飞机，但不知道它为什么能飞 
     </details> 
 
-- 🐲 [耗时140小时：德国建成欧洲最大3D打印建筑](http://jandan.net/p/115842) | Fri Mar 08 2024 11:04 PM 
+- 🐲 [深海充满了宝藏，但是代价呢？](http://jandan.net/p/115850) | Sat Mar 09 2024 11:04 PM 
     <details><summary>展开描述 ...</summary> 
-    在几天内拔地而起 
+    人类对漆黑的海底世界知之甚少 
     </details> 
 
--  [墨西哥：美国的转基因玉米不安全](http://jandan.net/p/115841) | Fri Mar 08 2024 11:03 PM 
+-  [单剂量 LSD 疗法显效缓解焦虑症](http://jandan.net/p/115852) | Sat Mar 09 2024 11:03 PM 
     <details><summary>展开描述 ...</summary> 
-    转基因玉米和除草剂草甘膦对人体健康有害 
+    有望成为治疗焦虑症的新突破 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
