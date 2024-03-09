@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Git 开源的版本控制系统-07-gitignore 指定忽略版本管理的文件](https://juejin.cn/post/7344259963629944872) | Sat Mar 09 2024 1:08 PM 
+- 🤗 [在高德地图上实现Polygon图层](https://juejin.cn/post/7343915907940024347) | Sat Mar 09 2024 2:05 PM 
     <details><summary>展开描述 ...</summary> 
-    # 拓展阅读 [Subversion 开源的版本控制系统入门介绍 VCS]&lpar;https://houbb.github.io/2016/09/02/vcs-svn-01-intro&rpar; [Git 开 
+    该方案通过将高德地图与three.js的功能相结合，实现了立体光感效果，并添加了动画效果，使行政区域在视觉上更加生动和引人入胜。 
     </details> 
 
-- 🎡 [Git 开源的版本控制系统-06-share to github 如何把项目代码共享到 github](https://juejin.cn/post/7344259131714895907) | Sat Mar 09 2024 1:07 PM 
+- 🎡 [OpenCV 笔记&lpar;25&rpar;：图像的仿射变换](https://juejin.cn/post/7344258204283731980) | Sat Mar 09 2024 2:04 PM 
     <details><summary>展开描述 ...</summary> 
-     # 拓展阅读 [Subversion 开源的版本控制系统入门介绍 VCS]&lpar;https://houbb.github.io/2016/09/02/vcs-svn-01-intro&rpar; [Git  
+    图像仿射变换是一种简单而有效的图像几何变换方法，在图像处理和计算机视觉领域有着广泛的应用。它可以用于图像矫正、增强、配准、合成、目标识别和跟踪等多种任务。 
     </details> 
 
-- 🕯 [Git 开源的版本控制系统-05-tags 标签管理](https://juejin.cn/post/7344259131714879523) | Sat Mar 09 2024 1:05 PM 
+- 🕯 [蓝桥杯第七场小白赛 3.奇偶排序【算法赛】  知识点：排序](https://juejin.cn/post/7344259963630125096) | Sat Mar 09 2024 1:58 PM 
     <details><summary>展开描述 ...</summary> 
-    # 标签 - 创建标签 ```git tag &lt;标签名&gt; [提交ID]``` - 显示标签 ```git tag``` - 显示标签详细信息 ```git show &lt;标签名&gt;```  
+    3.奇偶排序【算法赛】 - 蓝桥云课 &lpar;lanqiao.cn&rpar; 第一种方法： 奇数放一个数字，偶数放一个数组，对两个数组分别排序，先输出奇数数组，再输出偶数数组。 
     </details> 
 
-- 🚀 [🎉 unibest 官方文档出来啦 🎉](https://juejin.cn/post/7344258231478419497) | Sat Mar 09 2024 12:48 PM 
+- 🚀 [蓝桥杯第七场小白赛 2.霓虹【算法赛】   知识点:打表](https://juejin.cn/post/7344259963630075944) | Sat Mar 09 2024 1:47 PM 
     <details><summary>展开描述 ...</summary> 
-    🎉 unibest 官方文档出来啦 🎉 unibest 官方文档 - 传送门 前言 前面几篇 unibest 文章一经发表，就有不少 unibest 爱好者加入微信群，`鸽友们` 总是问有没有文档 
+    2.霓虹【算法赛】 - 蓝桥云课 &lpar;lanqiao.cn&rpar; 因为题目说了每个数字都由7段灯管组成。因此对于每个数我们都可以用一个7位二进制来表示，其中&#39;0&#39;表示灯管熄灭，&#39;1&#39;表示灯管亮了，比较变前变 
     </details> 
 
-- 💪 [5分钟上手Python爬虫：从干饭开始，轻松掌握技巧](https://juejin.cn/post/7344259148987121699) | Sat Mar 09 2024 12:43 PM 
+- 💪 [Rustatic——一个小巧快速的文件服务器！](https://juejin.cn/post/7344258204283502604) | Sat Mar 09 2024 1:47 PM 
     <details><summary>展开描述 ...</summary> 
-    很多人都听说过爬虫，我也不例外。曾看到别人编写的爬虫代码，虽然没有深入研究，但感觉非常强大。因此，今天我决定从零开始，花费仅5分钟学习入门爬虫技术，以后只需轻轻一爬就能查看所有感兴趣的网站内容。广告？ 
+    考虑到主要的功能都是静态文件操作，所以想要提升性能，就要从“不必要的操作”下手。毕竟在磁盘性能固定，带宽都一样拉的情况下，减少服务端的活就成了近乎唯一的选择，当然客户端也需要，但收益就小了很多。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
