@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [JVM-Java类文件结构](https://juejin.cn/post/7343915092101152802) | Sat Mar 09 2024 6:03 AM 
+- 🤗 [JVM基本概念、命令、参数、GC日志总结](https://juejin.cn/post/7343921389084098597) | Sat Mar 09 2024 7:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文首页介绍JVM内存结构，其次详细介绍如何使用jstat命令查看JVM内存使用情况，然后列举了JVM常用参数的作用及使用方法，最后通过实际项目分析了GC日志各参数的含义。 
+    </details> 
+
+- 🎡 [LLM 推理优化探微 &lpar;3&rpar; ：如何有效控制 KV 缓存的内存占用，优化推理速度？](https://juejin.cn/post/7343915907938730011) | Sat Mar 09 2024 6:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文是该系列文章的第三篇，作者的观点是：多头注意力（MHA）模型的 KV 缓存确实会消耗大量 GPU 内存，并且很容易增长到比模型权重还大的规模， KV 缓存大小的控制对于优化大模型的推理至关重要。 
+    </details> 
+
+- 🕯 [&lpar;同步&rpar; 发布 flatpak 应用 &lpar;flathub&rpar;](https://juejin.cn/post/7343905368622645284) | Sat Mar 09 2024 6:05 AM 
+    <details><summary>展开描述 ...</summary> 
+    世界上至少有几百种不同的 GNU/Linux 发行版, 常见的都有几十种. 如何给这么多不同版本的系统发布软件, 对开发者是个大难题. flatpak 提供了一种统一发布应用的方式, 一次发布, 理论 
+    </details> 
+
+- 🚀 [JVM-Java类文件结构](https://juejin.cn/post/7343915092101152802) | Sat Mar 09 2024 6:03 AM 
     <details><summary>展开描述 ...</summary> 
     JVM-Java类文件结构，详细讲述 利用class反编译工具，逐行分析Java代码中的对象、方法、常量等二进制编码如何编码以及汇编指令集。 
     </details> 
 
-- 🎡 [fdisk进行磁盘扩容](https://juejin.cn/post/7343921798733922331) | Sat Mar 09 2024 6:00 AM 
+- 💪 [Vue保姆级项目教程：十万字零基础开发信贷管理系统！](https://juejin.cn/post/7343921798733938715) | Sat Mar 09 2024 6:01 AM 
     <details><summary>展开描述 ...</summary> 
-    实际上扩容已有磁盘是很容易的事，不过需要理解一些概念。要知道的是我们能做扩容的是lv逻辑卷，和自己创建新的逻辑卷是两个概念 而在已有的逻辑卷做扩容是另一回事，需要如下步骤： 1、给新磁盘分区 fdis 
-    </details> 
-
-- 🕯 [基于Git推送更新ES检索pdf方案的优化思路](https://juejin.cn/post/7343915092101136418) | Sat Mar 09 2024 5:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    自动获取文件类型，如纯文本plain、pdf等，这是一个属性，利于后期进行文件类型的区分并做进一步的处理。 此外，单纯基于Git库与Java，我们需要文件的标签、作者、更新日期、版本甚至摘要。 
-    </details> 
-
-- 🚀 [使用 Array.prototype.with 更新不可变数组](https://juejin.cn/post/7343889290433773579) | Sat Mar 09 2024 5:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    庆祝：此功能现已在所有三个主要浏览器引擎中可用！ 浏览器最近获得了一种新的可互操作方法，您可以在数组上调用它：Array.prototype.with&lpar;&rpar; 。 Browser Support 浏览器支 
-    </details> 
-
-- 💪 [用Three.js搞个泛光轮廓和渐变围栏](https://juejin.cn/post/7343902899095306259) | Sat Mar 09 2024 5:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    3D区块地图没点效果都不敢拿出去炫耀了！点击来就学如何用Three.js给3D区块地图搞个泛光轮廓和渐变围栏~ 
+    本文档概述了信贷管理系统的开发过程和关键需求，包括用户管理、信贷申请、贷款审批、数据分析、安全性、兼容性、扩展性和用户界面。目的是提高信贷业务的效率和准确性，满足机构对信贷业务管理的需求。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
