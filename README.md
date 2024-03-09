@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [【一分钟快学】提升Go性能秘籍：学习 sync.Pool 的原理与实践](https://juejin.cn/post/7343893453677625396) | Sat Mar 09 2024 1:34 AM 
+- 🤗 [【前端】代码Git提交规范之约定式提交和Commitizen简化提交流程](https://juejin.cn/post/7343905368621596708) | Sat Mar 09 2024 1:48 AM 
     <details><summary>展开描述 ...</summary> 
-    探索sync.Pool：Go语言中高效的临时对象管理工具，用于减少GC压力和提升性能。本文介绍了其结构、原理、使用场景及关键实践指南。 
+    使用 git 管理项目意味着我们经常需要提交代码。当我们提交代码时，我们被要求提供一个描述信息。然而，由于每个人的理解和表达方式不同，提交信息的多样性有时会出现歧义，这就会影响代码的可追溯性... 
     </details> 
 
-- 🎡 [Seata](https://juejin.cn/post/7343902139821473828) | Sat Mar 09 2024 1:31 AM 
+- 🎡 [开源库 Taipy 将 AI 算法、数据转化为 Web 应用程序](https://juejin.cn/post/7343883765540503603) | Sat Mar 09 2024 1:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    Taipy 是一个免费框架，它允许 Python 开发人员、数据科学家和机器学习工程师创建 Web 应用程序。 一个免费的开源 Python 库允许开发者将数据和 AI 算法转化为可投入生产的 Web 
+    </details> 
+
+- 🕯 [Seata](https://juejin.cn/post/7343902139821473828) | Sat Mar 09 2024 1:31 AM 
     <details><summary>展开描述 ...</summary> 
     Seata 是一款开源的分布式事务解决方案，致力于提供高性能和简单易用的分布式事务服务。Seata 将为用户提供了 AT、TCC、SAGA 和 XA 事务模式，为用户打造一站式的分布式解决方案。 
     </details> 
 
-- 🕯 [Go语言物联网开发安科瑞ADW300/4G电能表数据上传mqtt平台-电表接线到传输数据完整流程](https://juejin.cn/post/7344002850320531496) | Sat Mar 09 2024 1:31 AM 
+- 🚀 [Go语言物联网开发安科瑞ADW300/4G电能表数据上传mqtt平台-电表接线到传输数据完整流程](https://juejin.cn/post/7344002850320531496) | Sat Mar 09 2024 1:31 AM 
     <details><summary>展开描述 ...</summary> 
     ​ 电能表功能说明 ADW300是方便用户进行用电监测、集抄和管理，可灵活安装在配电箱中，可用于电力运维、环保监管等在线监测类平台中。我们本案例是用于工业售电公司对出售电的管理，设备可以监控用电情况 
     </details> 
 
-- 🚀 [多线程这些线程安全的坑，你在工作中踩了么？](https://juejin.cn/post/7343877319499399178) | Sat Mar 09 2024 1:20 AM 
+- 💪 [多线程这些线程安全的坑，你在工作中踩了么？](https://juejin.cn/post/7343877319499399178) | Sat Mar 09 2024 1:20 AM 
     <details><summary>展开描述 ...</summary> 
     由线程引起的问题往往在测试中难以发现，到了线上就会造成重大的故障和损失 使用多线程的问题很大程度上源于多个线程对同一变量的操作权，以及不同线程之间执行顺序的不确定性 安全性问题 例如有一段很简单的扣库 
-    </details> 
-
-- 💪 [React框架解读（二）](https://juejin.cn/post/7343862045123035188) | Sat Mar 09 2024 1:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文主要对React框架中涉及的知识进行梳理，包括部分底层源码的展示和探究。在最后两个章节中就其生态周边进行展开论述和性能优化的讨论。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
