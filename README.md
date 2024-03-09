@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [消费级 Android on Windows 是没有前途的 - 对于 Win11 WSA 计划停止支持的看法](https://www.v2ex.com/t/1022205#reply0) | Sat Mar 09 2024 7:02 PM
-- 🤗 [Go1.22： fastrand 变成 slowrand 了](https://www.v2ex.com/t/1022203#reply1) | Sat Mar 09 2024 5:41 PM
-- 🎭 [淘宝买了一台 pixel 4a 但是 eSIM 貌似有锁，帮忙看看](https://www.v2ex.com/t/1022190#reply1) | Sat Mar 09 2024 3:48 PM
-- 🥷 [分享一个学习编程的地方](https://www.v2ex.com/t/1022188#reply1) | Sat Mar 09 2024 3:34 PM
-- 🐵 [买了个 AppleTV，又有四五块移动硬盘（希捷 5t 较多），现在想搞个 nas 求推荐](https://www.v2ex.com/t/1022183#reply13) | Sat Mar 09 2024 2:48 PM<!-- v2ex:END -->
+- 🥸 [开箱即用的 Obisidian / Typora 简历解决方案](https://www.v2ex.com/t/1022206#reply1) | Sat Mar 09 2024 7:25 PM
+- 🤗 [消费级 Android on Windows 是没有前途的 - 对于 Win11 WSA 计划停止支持的看法](https://www.v2ex.com/t/1022205#reply0) | Sat Mar 09 2024 7:02 PM
+- 🎭 [Go1.22： fastrand 变成 slowrand 了](https://www.v2ex.com/t/1022203#reply1) | Sat Mar 09 2024 5:41 PM
+- 🥷 [淘宝买了一台 pixel 4a 但是 eSIM 貌似有锁，帮忙看看](https://www.v2ex.com/t/1022190#reply1) | Sat Mar 09 2024 3:48 PM
+- 🐵 [分享一个学习编程的地方](https://www.v2ex.com/t/1022188#reply1) | Sat Mar 09 2024 3:34 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
