@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [苹果AppleMacOs系统Sonoma本地部署无内容审查&lpar;NSFW&rpar;大语言量化模型Causallm](https://juejin.cn/post/7343902899095027731) | Sat Mar 09 2024 5:01 AM 
+- 🤗 [JVM-Java类文件结构](https://juejin.cn/post/7343915092101152802) | Sat Mar 09 2024 6:03 AM 
     <details><summary>展开描述 ...</summary> 
-    最近Mac系统在运行大语言模型（LLMs）方面的性能已经得到了显著提升，尤其是随着苹果M系列芯片的不断迭代，本次我们在最新的MacOs系统Sonoma中本地部署无内容审查大语言量化模型Causallm 
+    JVM-Java类文件结构，详细讲述 利用class反编译工具，逐行分析Java代码中的对象、方法、常量等二进制编码如何编码以及汇编指令集。 
     </details> 
 
-- 🎡 [WEB集群-集群收尾-高可用服务](https://juejin.cn/post/7343893453677969460) | Sat Mar 09 2024 4:44 AM 
+- 🎡 [fdisk进行磁盘扩容](https://juejin.cn/post/7343921798733922331) | Sat Mar 09 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-    一、HA高可用服务 1、概述 高可用：HA（HighAvailablity） ——》Keepalived 选型 说明 keepalived 活着 高可用软件,负载使用,一些不涉及数据服务. heart 
+    实际上扩容已有磁盘是很容易的事，不过需要理解一些概念。要知道的是我们能做扩容的是lv逻辑卷，和自己创建新的逻辑卷是两个概念 而在已有的逻辑卷做扩容是另一回事，需要如下步骤： 1、给新磁盘分区 fdis 
     </details> 
 
-- 🕯 [Kotlin中的`shareIn`及其参数](https://juejin.cn/post/7343921947870265395) | Sat Mar 09 2024 3:58 AM 
+- 🕯 [基于Git推送更新ES检索pdf方案的优化思路](https://juejin.cn/post/7343915092101136418) | Sat Mar 09 2024 5:57 AM 
     <details><summary>展开描述 ...</summary> 
-    `Flow`是一个异步数据流, 按顺序发出值并正常完成或异常完成. 流上的中间操作符, 是应用于上游流或流的函数, 并返回一个下游流, 可以在其中应用更多操作符. 中间操作不会在流中执行任何代码. 
+    自动获取文件类型，如纯文本plain、pdf等，这是一个属性，利于后期进行文件类型的区分并做进一步的处理。 此外，单纯基于Git库与Java，我们需要文件的标签、作者、更新日期、版本甚至摘要。 
     </details> 
 
-- 🚀 [Android 点阵体文字特效，祝福永远的女神](https://juejin.cn/post/7343915907938451483) | Sat Mar 09 2024 3:45 AM 
+- 🚀 [使用 Array.prototype.with 更新不可变数组](https://juejin.cn/post/7343889290433773579) | Sat Mar 09 2024 5:57 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 就在3月7日-3月8日，女孩们和女人们迎来了自己的节日，有些人过了“慷慨的”半天假期，有些人还是一直忙碌，更有一些人都忘记甚至不知道有这个节日。工作的忙碌，成了所有人忙碌的生活，时间的流逝，让我 
+    庆祝：此功能现已在所有三个主要浏览器引擎中可用！ 浏览器最近获得了一种新的可互操作方法，您可以在数组上调用它：Array.prototype.with&lpar;&rpar; 。 Browser Support 浏览器支 
     </details> 
 
-- 💪 [再聊聊鸿蒙](https://juejin.cn/post/7343867039022628915) | Sat Mar 09 2024 2:55 AM 
+- 💪 [用Three.js搞个泛光轮廓和渐变围栏](https://juejin.cn/post/7343902899095306259) | Sat Mar 09 2024 5:56 AM 
     <details><summary>展开描述 ...</summary> 
-    上次吐槽鸿蒙还是一月份，api 升了两个版本之后，一些群众呼声很高的点好像还是没有什么变化。 没有那就没有吧，你就说能不能用吧！但肯定还是希望未来的版本可以带来一些更加实用的修改。 年前快速浏览了一遍 
+    3D区块地图没点效果都不敢拿出去炫耀了！点击来就学如何用Three.js给3D区块地图搞个泛光轮廓和渐变围栏~ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
