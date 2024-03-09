@@ -332,7 +332,7 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [一个基于 chrome devtools 的 web 远程调试工具](https://www.v2ex.com/t/1022204#reply0) | Sat Mar 09 2024 6:11 PM
+- 🥸 [消费级 Android on Windows 是没有前途的 - 对于 Win11 WSA 计划停止支持的看法](https://www.v2ex.com/t/1022205#reply0) | Sat Mar 09 2024 7:02 PM
 - 🤗 [Go1.22： fastrand 变成 slowrand 了](https://www.v2ex.com/t/1022203#reply1) | Sat Mar 09 2024 5:41 PM
 - 🎭 [淘宝买了一台 pixel 4a 但是 eSIM 貌似有锁，帮忙看看](https://www.v2ex.com/t/1022190#reply1) | Sat Mar 09 2024 3:48 PM
 - 🥷 [分享一个学习编程的地方](https://www.v2ex.com/t/1022188#reply1) | Sat Mar 09 2024 3:34 PM
