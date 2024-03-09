@@ -62,29 +62,29 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第149期-2024年第10周](https://wiki.eryajf.net/pages/9c5e05/) | Thu Mar 07 2024 10:29 PM 
+- 🫶 [带你认识本地大模型框架Ollama&lpar;可直接上手&rpar;](https://wiki.eryajf.net/pages/97047e/) | Sat Mar 09 2024 10:11 PM 
+    <details><summary>展开描述 ...</summary> 
+    自 OpenAI 公司于2022 年 11 月 30 日发布 ChatGPT 以来，经过 23 年一整年的发展之后，大模型的概念已逐渐普及，各种基于大模型的周边产品，以及集成层出不穷，可以说已经玩出花来了。在这个过程中，也有不少本地化的模型应用方案冒了出来，针对一些企业知识库问答的场景中，模型本地化是第一优先考虑的问题，因此如何在本地把模型调教的更加智能，就是一个非常重要的技能了。在 23 年的时候，我也接触过一些本地模型的开源项目&lpar;比如 LocalAI&rpar;，当时在本地部署跑起来之后，发现交互的体验，回答的速度，以及智能程度，都远低于预期。最近又一次了解本地模型的玩法，从微信群里了解到了 ollama，经过几天业余时间的研究及了解，发现现在模型本地化的玩法，以及能力都早已不可同日而语，本文，将记录我这几天来对于 ollama 的粗浅认识以及快速入门玩起来。 
+    </details> 
+
+- 🧰 [学习周刊-总第149期-2024年第10周](https://wiki.eryajf.net/pages/9c5e05/) | Thu Mar 07 2024 10:29 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第149期-一款集成Website analytics+ Uptime Monitor + Server Status的网站状态监测工具 
     </details> 
 
-- 🧰 [学习周刊-总第148期-2024年第09周](https://wiki.eryajf.net/pages/5e2bc3/) | Thu Feb 29 2024 11:05 PM 
+- 🌏 [学习周刊-总第148期-2024年第09周](https://wiki.eryajf.net/pages/5e2bc3/) | Thu Feb 29 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第148期-一个开源数据库一体化监控平台 
     </details> 
 
-- 🌏 [学习周刊-总第147期-2024年第08周](https://wiki.eryajf.net/pages/5997f0/) | Fri Feb 23 2024 8:49 AM 
+- 😎 [学习周刊-总第147期-2024年第08周](https://wiki.eryajf.net/pages/5997f0/) | Fri Feb 23 2024 8:49 AM 
     <details><summary>展开描述 ...</summary> 
     学习周刊-总第147期-一个项目协作开源软件 
     </details> 
 
-- 😎 [过年时鼓捣xirang框架遇到的前后端问题两则](https://wiki.eryajf.net/pages/fe52bc/) | Mon Feb 19 2024 11:54 PM 
+- 💂 [过年时鼓捣xirang框架遇到的前后端问题两则](https://wiki.eryajf.net/pages/fe52bc/) | Mon Feb 19 2024 11:54 PM 
     <details><summary>展开描述 ...</summary> 
     go的validate库使用required时的零值问题。vue-element-admin多级路由component配置的一个坑。 
-    </details> 
-
-- 💂 [学习周刊-总第146期-2024年第07周](https://wiki.eryajf.net/pages/f351e3/) | Thu Feb 15 2024 9:31 PM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第146期-一个小型轻量级的监听docker容器日志的应用程序 
     </details> 
 <!-- eryajf:END -->
 
