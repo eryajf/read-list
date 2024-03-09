@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [用TypeScript实现高效的异步队列任务管理](https://juejin.cn/post/7344258204282552332) | Sat Mar 09 2024 9:50 AM 
+- 🤗 [一文带你彻底搞懂synchronized关键字](https://juejin.cn/post/7344259970521628712) | Sat Mar 09 2024 11:09 AM 
+    <details><summary>展开描述 ...</summary> 
+    synchronized关键字 synchronized作为java的一个关键字，用来保证同一时刻最 
+    </details> 
+
+- 🎡 [Go语言模糊测试](https://juejin.cn/post/7343921947871658035) | Sat Mar 09 2024 11:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 在Go 1.18开始提供了Fuzzing能力的支持，testing包在我们常见的T B类型之外新增了F的类型，用于支持模糊测试。 Fuzzing Test 日常测试代码的时候我们经常使用tabl 
+    </details> 
+
+- 🕯 [用TypeScript实现高效的异步队列任务管理](https://juejin.cn/post/7344258204282552332) | Sat Mar 09 2024 9:50 AM 
     <details><summary>展开描述 ...</summary> 
     在javaScript项目开发中，异步编程是不可或缺的一部分。从网络请求到延时操作，异步操作使得我们能够在等待某个任务完成时继续执行其他任务，提高应用的响应性和性能。然而，随着应用逻辑的复杂化，管理这 
     </details> 
 
-- 🎡 [从0开始创建一个性能良好的线程池](https://juejin.cn/post/7343915907939319835) | Sat Mar 09 2024 9:44 AM 
+- 🚀 [从0开始创建一个性能良好的线程池](https://juejin.cn/post/7343915907939319835) | Sat Mar 09 2024 9:44 AM 
     <details><summary>展开描述 ...</summary> 
     由于掘金平台的摘要有强制字数要求，这里需要给一下默认文字作为摘要。这里是掘金平台的默认摘要，您可以稍后自行修改。 
     </details> 
 
-- 🕯 [菲鸽 带你走进 laf OSS](https://juejin.cn/post/7344258204282519564) | Sat Mar 09 2024 9:41 AM 
+- 💪 [菲鸽 带你走进 laf OSS](https://juejin.cn/post/7344258204282519564) | Sat Mar 09 2024 9:41 AM 
     <details><summary>展开描述 ...</summary> 
     菲鸽 带你走进 laf OSS （上） 大家好，我是 菲鸽 ，今天我带给大家关于 laf OSS—— 存储（Bucket&rpar; 的创建和使用。 本文分为以下几部分： 存储（Bucket&rpar; 简介 存储（Bu 
-    </details> 
-
-- 🚀 [RabbitMQ入门指南&lpar;九&rpar;：消费者可靠性](https://juejin.cn/post/7343921389084573733) | Sat Mar 09 2024 9:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    RabbitMQ是一个高效、可靠的开源消息队列系统，广泛用于软件开发、数据传输、微服务等领域。本文主要介绍了消费者确认机制、失败重试机制、失败处理策略、业务幂等性等内容。 
-    </details> 
-
-- 💪 [controller-runtime 框架如何保证并发性的](https://juejin.cn/post/7344259131714568227) | Sat Mar 09 2024 9:28 AM 
-    <details><summary>展开描述 ...</summary> 
-    在开启并发的情况下，会不会有多个 reconcile 协程同时处理一个 Object 呢，今天带大家解开谜团。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
