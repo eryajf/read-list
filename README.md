@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [面试准备不充分，被Java守护线程干懵了，面试官主打一个东西没用但你得会](https://juejin.cn/post/7343904911115780123) | Sat Mar 09 2024 8:04 AM 
+- 🤗 [存储日期，该如何抉择呢](https://juejin.cn/post/7344259970521137192) | Sat Mar 09 2024 9:10 AM 
     <details><summary>展开描述 ...</summary> 
-    写在开头 面试官：小伙子请聊一聊Java中的精灵线程？ 我：什么？精灵线程？啥时候精灵线程？ 面试官：精灵线程没听过？那守护线程呢？ 我：守护线程知道，就是为普通线程服务的线程嘛。 面试官：没了？守护 
+    前言 假设现在有一个需求，需要设计一个在线机票订票系统的数据库，此时已经完成了大部分字段的设计，可能 
     </details> 
 
-- 🎡 [你不知道的 `split&lpar;&rpar;`](https://juejin.cn/post/7344245516023676967) | Sat Mar 09 2024 7:51 AM 
+- 🎡 [LowcodeEngine实战-VueRenderer+vite搭建应用级别预览](https://juejin.cn/post/7343915907939074075) | Sat Mar 09 2024 8:55 AM 
     <details><summary>展开描述 ...</summary> 
-    说到字符串的 split&lpar;&rpar; 方法，大家一定不会感到陌生，很多时候，我们都用它切分字符串，比如： 在大多数情况下，我们用 split&lpar;&rpar; 做的都是这种简单的切分，以至于我对 split&lpar;&rpar; 的认知也一 
+    运用LowcodeEngine和LowcodeEngineVue构建支持Vue物料的低代码应用设计器，实现了应用级别预览调试。未来将进一步优化调试方式提升用户体验。 
     </details> 
 
-- 🕯 [自定义Hooks](https://juejin.cn/post/7343904911115747355) | Sat Mar 09 2024 7:47 AM 
+- 🕯 [RabbitMQ入门指南&lpar;六&rpar;：消息转换器及其案例](https://juejin.cn/post/7343904911116009499) | Sat Mar 09 2024 8:50 AM 
     <details><summary>展开描述 ...</summary> 
-    什么是自定义Hooks 自定义Hook是解决状态逻辑重用问题的机制，其名称以“use”开头，内部可以调用其他的Hooks。遵循的规则是，只能在函数最外层调用Hook，不能在循环、条件判断或子函数中调用 
+    RabbitMQ是一个高效、可靠的开源消息队列系统，广泛用于软件开发、数据传输、微服务等领域。本文主要介绍了RabbitMQ默认转换器、JSON转换器及其案例等内容。 
     </details> 
 
-- 🚀 [跨服务查询解决方案，你用过哪些？](https://juejin.cn/post/7344259970520858664) | Sat Mar 09 2024 7:41 AM 
+- 🚀 [搭建一个简单的MQTT物联网平台笔记&lpar;三&rpar;: 实现前端与设备的通信测试demo](https://juejin.cn/post/7344245502274764811) | Sat Mar 09 2024 8:31 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 具有一定复杂度的业务都有可能存在跨服务分页搜索的问题，这是一个常见的技术难点，接下来将介绍几种常见的方式，以在一定程度上解决这个问题。 组合筛选 适用场景：对于量级不大，比如一些业务Key过滤后 
+    本章用于记录实现前端与设备的通信功能所面临的问题和当前解决的思路。 PS：首先声明下。因为本人后端能力不强，因此这个设计肯定不是非常好的。但是我尽力能想到的方法了。望各位大佬还可以提供宝贵的建议 
     </details> 
 
-- 💪 [关于时间管理类书籍阅读分享](https://juejin.cn/post/7344245534176378919) | Sat Mar 09 2024 7:41 AM 
+- 💪 [数据库中  SQL Hint 是什么？](https://juejin.cn/post/7344245529490784275) | Sat Mar 09 2024 8:25 AM 
     <details><summary>展开描述 ...</summary> 
-    关于时间管理类书籍，shigen在这里整理、记录并重新写出来，作为对于“时间管理”的技巧学习和分享。 
+    最近在调研业界其他数据库中 SQL Hint 功能的设计和实现，今天来分享一下 SQL Hint 是什么。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
