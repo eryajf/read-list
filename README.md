@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一文带你彻底搞懂synchronized关键字](https://juejin.cn/post/7344259970521628712) | Sat Mar 09 2024 11:09 AM 
+- 🤗 [2024 十大 Vue UI 库](https://juejin.cn/post/7344245529491292179) | Sat Mar 09 2024 12:12 PM 
+    <details><summary>展开描述 ...</summary> 
+    2024 年排名前 10 的 Vue UI 库，确保我们的开发工作流程保持优化，从而实现生产力最大化。Vue 已经成为人气爆棚的 JS 框架，凭借其简单性、灵活性和用户友好性吸引了一大波前端开发者。 
+    </details> 
+
+- 🎡 [📦 Size Limit:  从开源项目学习如何为你的业务增加检测报告](https://juejin.cn/post/7343921389085081637) | Sat Mar 09 2024 12:07 PM 
+    <details><summary>展开描述 ...</summary> 
+    文章会通过简单的代码，借鉴 AntDesign Workflow 实现思路为我们的项目快速生成自动化的检测报告。 
+    </details> 
+
+- 🕯 [JavaScript模块化开发规范及npm包管理器入门指南](https://juejin.cn/post/7343921389085065253) | Sat Mar 09 2024 12:03 PM 
+    <details><summary>展开描述 ...</summary> 
+    JavaScript模块化开发规范及npm包管理器的入门指南，通过学习和实践这些内容，您将能更好地组织和管理JavaScript项目，提高开发效率。 
+    </details> 
+
+- 🚀 [Go如何解析不定JSON数据](https://juejin.cn/post/7343921947871674419) | Sat Mar 09 2024 11:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 在开发中常常会碰到很多JSON类型的数据进行交互，而其中有很多JSON数据你是不能确定它的字段和结构的，而Go语言是一门静态强类型的语言，在进行JSON解析的时候必须要确定字段的类型，定义出对应 
+    </details> 
+
+- 💪 [一文带你彻底搞懂synchronized关键字](https://juejin.cn/post/7344259970521628712) | Sat Mar 09 2024 11:09 AM 
     <details><summary>展开描述 ...</summary> 
     synchronized关键字 synchronized作为java的一个关键字，用来保证同一时刻最 
-    </details> 
-
-- 🎡 [Go语言模糊测试](https://juejin.cn/post/7343921947871658035) | Sat Mar 09 2024 11:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    前言 在Go 1.18开始提供了Fuzzing能力的支持，testing包在我们常见的T B类型之外新增了F的类型，用于支持模糊测试。 Fuzzing Test 日常测试代码的时候我们经常使用tabl 
-    </details> 
-
-- 🕯 [用TypeScript实现高效的异步队列任务管理](https://juejin.cn/post/7344258204282552332) | Sat Mar 09 2024 9:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    在javaScript项目开发中，异步编程是不可或缺的一部分。从网络请求到延时操作，异步操作使得我们能够在等待某个任务完成时继续执行其他任务，提高应用的响应性和性能。然而，随着应用逻辑的复杂化，管理这 
-    </details> 
-
-- 🚀 [从0开始创建一个性能良好的线程池](https://juejin.cn/post/7343915907939319835) | Sat Mar 09 2024 9:44 AM 
-    <details><summary>展开描述 ...</summary> 
-    由于掘金平台的摘要有强制字数要求，这里需要给一下默认文字作为摘要。这里是掘金平台的默认摘要，您可以稍后自行修改。 
-    </details> 
-
-- 💪 [菲鸽 带你走进 laf OSS](https://juejin.cn/post/7344258204282519564) | Sat Mar 09 2024 9:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    菲鸽 带你走进 laf OSS （上） 大家好，我是 菲鸽 ，今天我带给大家关于 laf OSS—— 存储（Bucket&rpar; 的创建和使用。 本文分为以下几部分： 存储（Bucket&rpar; 简介 存储（Bu 
     </details> 
 <!-- juejin:END -->
 ### 少数派
