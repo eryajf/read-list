@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2024 十大 Vue UI 库](https://juejin.cn/post/7344245529491292179) | Sat Mar 09 2024 12:12 PM 
+- 🤗 [Git 开源的版本控制系统-07-gitignore 指定忽略版本管理的文件](https://juejin.cn/post/7344259963629944872) | Sat Mar 09 2024 1:08 PM 
     <details><summary>展开描述 ...</summary> 
-    2024 年排名前 10 的 Vue UI 库，确保我们的开发工作流程保持优化，从而实现生产力最大化。Vue 已经成为人气爆棚的 JS 框架，凭借其简单性、灵活性和用户友好性吸引了一大波前端开发者。 
+    # 拓展阅读 [Subversion 开源的版本控制系统入门介绍 VCS]&lpar;https://houbb.github.io/2016/09/02/vcs-svn-01-intro&rpar; [Git 开 
     </details> 
 
-- 🎡 [📦 Size Limit:  从开源项目学习如何为你的业务增加检测报告](https://juejin.cn/post/7343921389085081637) | Sat Mar 09 2024 12:07 PM 
+- 🎡 [Git 开源的版本控制系统-06-share to github 如何把项目代码共享到 github](https://juejin.cn/post/7344259131714895907) | Sat Mar 09 2024 1:07 PM 
     <details><summary>展开描述 ...</summary> 
-    文章会通过简单的代码，借鉴 AntDesign Workflow 实现思路为我们的项目快速生成自动化的检测报告。 
+     # 拓展阅读 [Subversion 开源的版本控制系统入门介绍 VCS]&lpar;https://houbb.github.io/2016/09/02/vcs-svn-01-intro&rpar; [Git  
     </details> 
 
-- 🕯 [JavaScript模块化开发规范及npm包管理器入门指南](https://juejin.cn/post/7343921389085065253) | Sat Mar 09 2024 12:03 PM 
+- 🕯 [Git 开源的版本控制系统-05-tags 标签管理](https://juejin.cn/post/7344259131714879523) | Sat Mar 09 2024 1:05 PM 
     <details><summary>展开描述 ...</summary> 
-    JavaScript模块化开发规范及npm包管理器的入门指南，通过学习和实践这些内容，您将能更好地组织和管理JavaScript项目，提高开发效率。 
+    # 标签 - 创建标签 ```git tag &lt;标签名&gt; [提交ID]``` - 显示标签 ```git tag``` - 显示标签详细信息 ```git show &lt;标签名&gt;```  
     </details> 
 
-- 🚀 [Go如何解析不定JSON数据](https://juejin.cn/post/7343921947871674419) | Sat Mar 09 2024 11:13 AM 
+- 🚀 [🎉 unibest 官方文档出来啦 🎉](https://juejin.cn/post/7344258231478419497) | Sat Mar 09 2024 12:48 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 在开发中常常会碰到很多JSON类型的数据进行交互，而其中有很多JSON数据你是不能确定它的字段和结构的，而Go语言是一门静态强类型的语言，在进行JSON解析的时候必须要确定字段的类型，定义出对应 
+    🎉 unibest 官方文档出来啦 🎉 unibest 官方文档 - 传送门 前言 前面几篇 unibest 文章一经发表，就有不少 unibest 爱好者加入微信群，`鸽友们` 总是问有没有文档 
     </details> 
 
-- 💪 [一文带你彻底搞懂synchronized关键字](https://juejin.cn/post/7344259970521628712) | Sat Mar 09 2024 11:09 AM 
+- 💪 [5分钟上手Python爬虫：从干饭开始，轻松掌握技巧](https://juejin.cn/post/7344259148987121699) | Sat Mar 09 2024 12:43 PM 
     <details><summary>展开描述 ...</summary> 
-    synchronized关键字 synchronized作为java的一个关键字，用来保证同一时刻最 
+    很多人都听说过爬虫，我也不例外。曾看到别人编写的爬虫代码，虽然没有深入研究，但感觉非常强大。因此，今天我决定从零开始，花费仅5分钟学习入门爬虫技术，以后只需轻轻一爬就能查看所有感兴趣的网站内容。广告？ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
