@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [再聊聊鸿蒙](https://juejin.cn/post/7343867039022628915) | Sat Mar 09 2024 2:55 AM 
+- 🤗 [Android 点阵体文字特效，祝福永远的女神](https://juejin.cn/post/7343915907938451483) | Sat Mar 09 2024 3:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 就在3月7日-3月8日，女孩们和女人们迎来了自己的节日，有些人过了“慷慨的”半天假期，有些人还是一直忙碌，更有一些人都忘记甚至不知道有这个节日。工作的忙碌，成了所有人忙碌的生活，时间的流逝，让我 
+    </details> 
+
+- 🎡 [再聊聊鸿蒙](https://juejin.cn/post/7343867039022628915) | Sat Mar 09 2024 2:55 AM 
     <details><summary>展开描述 ...</summary> 
     上次吐槽鸿蒙还是一月份，api 升了两个版本之后，一些群众呼声很高的点好像还是没有什么变化。 没有那就没有吧，你就说能不能用吧！但肯定还是希望未来的版本可以带来一些更加实用的修改。 年前快速浏览了一遍 
     </details> 
 
-- 🎡 [&lpar;同步&rpar; 使用 electronjs 实现 ibus 输入法的用户界面](https://juejin.cn/post/7343902139821867044) | Sat Mar 09 2024 2:47 AM 
+- 🕯 [&lpar;同步&rpar; 使用 electronjs 实现 ibus 输入法的用户界面](https://juejin.cn/post/7343902139821867044) | Sat Mar 09 2024 2:47 AM 
     <details><summary>展开描述 ...</summary> 
     ibus 输入法框架自带一套用户界面, 但是从灵活程度和可扩展的角度考虑, 最好还是另外想办法实现用户界面, 而不是用 ibus 自带的这个. 
     </details> 
 
-- 🕯 [HarmonyOS4 基础学习-函数](https://juejin.cn/post/7343883353639485478) | Sat Mar 09 2024 2:44 AM 
+- 🚀 [HarmonyOS4 基础学习-函数](https://juejin.cn/post/7343883353639485478) | Sat Mar 09 2024 2:44 AM 
     <details><summary>展开描述 ...</summary> 
     函数 有参数无返回值写法 注意的是也可以设置一个默认参数值  有参数有返回值  为什么使用 &#39;const&#39; ？ 不变性 ： 使用const声明的变量必须在声明时初始化，并且之后不能再被重新赋值。这有助 
     </details> 
 
-- 🚀 [🌐 JavaWeb 总结](https://juejin.cn/post/7343883353639452710) | Sat Mar 09 2024 2:34 AM 
+- 💪 [🌐 JavaWeb 总结](https://juejin.cn/post/7343883353639452710) | Sat Mar 09 2024 2:34 AM 
     <details><summary>展开描述 ...</summary> 
     1、页面拆分，组件化开发 2、组件的组成部分 3、页面渲染 4、双向绑定 5、Vue框架基础功能 6、组件之间的关系 静态：共同构成一个完整的网页 动态：路由跳转 7、前后端数据交互 8、Pinia  
-    </details> 
-
-- 💪 [ClickHouse&lpar;04&rpar;如何搭建ClickHouse集群](https://juejin.cn/post/7343883765540618291) | Sat Mar 09 2024 2:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    ClickHouse集群的搭建和部署和单机的部署是类似的，主要在于配置的不一致，如果需要了解ClickHouse单机的安装设部署，可以看看这篇文章,ClickHouse&lpar;03&rpar;ClickHouse怎么 
     </details> 
 <!-- juejin:END -->
 ### 少数派
