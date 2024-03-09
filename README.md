@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android 点阵体文字特效，祝福永远的女神](https://juejin.cn/post/7343915907938451483) | Sat Mar 09 2024 3:45 AM 
+- 🤗 [苹果AppleMacOs系统Sonoma本地部署无内容审查&lpar;NSFW&rpar;大语言量化模型Causallm](https://juejin.cn/post/7343902899095027731) | Sat Mar 09 2024 5:01 AM 
+    <details><summary>展开描述 ...</summary> 
+    最近Mac系统在运行大语言模型（LLMs）方面的性能已经得到了显著提升，尤其是随着苹果M系列芯片的不断迭代，本次我们在最新的MacOs系统Sonoma中本地部署无内容审查大语言量化模型Causallm 
+    </details> 
+
+- 🎡 [WEB集群-集群收尾-高可用服务](https://juejin.cn/post/7343893453677969460) | Sat Mar 09 2024 4:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    一、HA高可用服务 1、概述 高可用：HA（HighAvailablity） ——》Keepalived 选型 说明 keepalived 活着 高可用软件,负载使用,一些不涉及数据服务. heart 
+    </details> 
+
+- 🕯 [Kotlin中的`shareIn`及其参数](https://juejin.cn/post/7343921947870265395) | Sat Mar 09 2024 3:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    `Flow`是一个异步数据流, 按顺序发出值并正常完成或异常完成. 流上的中间操作符, 是应用于上游流或流的函数, 并返回一个下游流, 可以在其中应用更多操作符. 中间操作不会在流中执行任何代码. 
+    </details> 
+
+- 🚀 [Android 点阵体文字特效，祝福永远的女神](https://juejin.cn/post/7343915907938451483) | Sat Mar 09 2024 3:45 AM 
     <details><summary>展开描述 ...</summary> 
     前言 就在3月7日-3月8日，女孩们和女人们迎来了自己的节日，有些人过了“慷慨的”半天假期，有些人还是一直忙碌，更有一些人都忘记甚至不知道有这个节日。工作的忙碌，成了所有人忙碌的生活，时间的流逝，让我 
     </details> 
 
-- 🎡 [再聊聊鸿蒙](https://juejin.cn/post/7343867039022628915) | Sat Mar 09 2024 2:55 AM 
+- 💪 [再聊聊鸿蒙](https://juejin.cn/post/7343867039022628915) | Sat Mar 09 2024 2:55 AM 
     <details><summary>展开描述 ...</summary> 
     上次吐槽鸿蒙还是一月份，api 升了两个版本之后，一些群众呼声很高的点好像还是没有什么变化。 没有那就没有吧，你就说能不能用吧！但肯定还是希望未来的版本可以带来一些更加实用的修改。 年前快速浏览了一遍 
-    </details> 
-
-- 🕯 [&lpar;同步&rpar; 使用 electronjs 实现 ibus 输入法的用户界面](https://juejin.cn/post/7343902139821867044) | Sat Mar 09 2024 2:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    ibus 输入法框架自带一套用户界面, 但是从灵活程度和可扩展的角度考虑, 最好还是另外想办法实现用户界面, 而不是用 ibus 自带的这个. 
-    </details> 
-
-- 🚀 [HarmonyOS4 基础学习-函数](https://juejin.cn/post/7343883353639485478) | Sat Mar 09 2024 2:44 AM 
-    <details><summary>展开描述 ...</summary> 
-    函数 有参数无返回值写法 注意的是也可以设置一个默认参数值  有参数有返回值  为什么使用 &#39;const&#39; ？ 不变性 ： 使用const声明的变量必须在声明时初始化，并且之后不能再被重新赋值。这有助 
-    </details> 
-
-- 💪 [🌐 JavaWeb 总结](https://juejin.cn/post/7343883353639452710) | Sat Mar 09 2024 2:34 AM 
-    <details><summary>展开描述 ...</summary> 
-    1、页面拆分，组件化开发 2、组件的组成部分 3、页面渲染 4、双向绑定 5、Vue框架基础功能 6、组件之间的关系 静态：共同构成一个完整的网页 动态：路由跳转 7、前后端数据交互 8、Pinia  
     </details> 
 <!-- juejin:END -->
 ### 少数派
