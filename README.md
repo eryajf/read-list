@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0310](http://jandan.net/p/115858) | Sat Mar 09 2024 11:07 PM 
+- 🚀 [今日好价 0311](http://jandan.net/p/115868) | Sun Mar 10 2024 11:07 PM 
     <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：48 
+    今日带货商品数量：66 
     </details> 
 
-- 🙉 [咖啡因对我们到底是好是坏？最新的观点是这样的](http://jandan.net/p/115855) | Sat Mar 09 2024 11:06 PM 
+- 🙉 [在《最终幻想》手游停服之前，痴迷粉丝存档三年](http://jandan.net/p/115863) | Sun Mar 10 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
-    咖啡因无处不在 
+    三年时间、2TB硬盘 
     </details> 
 
-- 🎉 [大语言模型为什么有智能，仍然是个谜](http://jandan.net/p/115849) | Sat Mar 09 2024 11:05 PM 
+- 🎉 [地壳中藏有多少水?](http://jandan.net/p/115862) | Sun Mar 10 2024 11:04 PM 
     <details><summary>展开描述 ...</summary> 
-    好比人类发明了飞机，但不知道它为什么能飞 
+    地下含水层中的地下水储量甚至超过冰川 
     </details> 
 
-- 🐲 [深海充满了宝藏，但是代价呢？](http://jandan.net/p/115850) | Sat Mar 09 2024 11:04 PM 
+- 🐲 [高温超导体磁体通过测试，有望实现聚变发电](http://jandan.net/p/115861) | Sun Mar 10 2024 11:03 PM 
     <details><summary>展开描述 ...</summary> 
-    人类对漆黑的海底世界知之甚少 
+    新型高温超导磁铁为实现可控核聚变带来曙光。 
     </details> 
 
--  [单剂量 LSD 疗法显效缓解焦虑症](http://jandan.net/p/115852) | Sat Mar 09 2024 11:03 PM 
+-  [因用AI制作同学的裸照，佛罗里达两中学生被捕](http://jandan.net/p/115860) | Sun Mar 10 2024 11:02 PM 
     <details><summary>展开描述 ...</summary> 
-    有望成为治疗焦虑症的新突破 
+    只有少数州针对这种非同意裸照制作行为设有法律 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
