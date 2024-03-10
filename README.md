@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [答案之书 - 在线版 - 在犹豫不决时，找到内心的答案](https://xinquji.com/posts/809553?utm_campaign=xinquji-rss) | Mon Mar 11 2024 6:11 AM 
+- 👀 [橘猫起始页 - 快速的保存当前打开的页面，以及聚合搜索条服务和快捷翻译](https://xinquji.com/posts/809660?utm_campaign=xinquji-rss) | Mon Mar 11 2024 6:16 AM 
+    <details><summary>展开描述 ...</summary> 
+     快速的保存当前打开的页面，以及聚合搜索条服务和快捷翻译  
+    </details> 
+
+- 🥷 [答案之书 - 在线版 - 在犹豫不决时，找到内心的答案](https://xinquji.com/posts/809553?utm_campaign=xinquji-rss) | Mon Mar 11 2024 6:11 AM 
     <details><summary>展开描述 ...</summary> 
      在犹豫不决时，找到内心的答案  
     </details> 
 
-- 🥷 [DreamHub - 图解你我故事，静观人生百态](https://xinquji.com/posts/809513?utm_campaign=xinquji-rss) | Mon Mar 11 2024 6:11 AM 
+- 💼 [DreamHub - 图解你我故事，静观人生百态](https://xinquji.com/posts/809513?utm_campaign=xinquji-rss) | Mon Mar 11 2024 6:11 AM 
     <details><summary>展开描述 ...</summary> 
      图解你我故事，静观人生百态  
     </details> 
 
-- 💼 [神笔AI写作【论文版】 - 更适合中国大学生体质的论文写作助手](https://xinquji.com/posts/809679?utm_campaign=xinquji-rss) | Mon Mar 11 2024 6:09 AM 
+- 🦅 [神笔AI写作【论文版】 - 更适合中国大学生体质的论文写作助手](https://xinquji.com/posts/809679?utm_campaign=xinquji-rss) | Mon Mar 11 2024 6:09 AM 
     <details><summary>展开描述 ...</summary> 
      更适合中国大学生体质的论文写作助手  
     </details> 
 
-- 🦅 [Chips - 管理您的互联网](https://xinquji.com/posts/809693?utm_campaign=xinquji-rss) | Sun Mar 10 2024 6:00 AM 
+- 😺 [Chips - 管理您的互联网](https://xinquji.com/posts/809693?utm_campaign=xinquji-rss) | Sun Mar 10 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
      管理您的互联网  
-    </details> 
-
-- 😺 [MOTY - 你的年度电影是什么？](https://xinquji.com/posts/809692?utm_campaign=xinquji-rss) | Sun Mar 10 2024 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     你的年度电影是什么？  
     </details> 
 <!-- xinquji:END -->
