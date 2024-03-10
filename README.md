@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [创建自己的Node.js脚手架工具：一个实用指南](https://juejin.cn/post/7344325496982781978) | Sun Mar 10 2024 10:54 AM 
+- 🤗 [Android平台实现无纸化同屏并推送RTMP或轻量级RTSP服务&lpar;毫秒级延迟&rpar;](https://juejin.cn/post/7344571285848899596) | Sun Mar 10 2024 12:13 PM 
+    <details><summary>展开描述 ...</summary> 
+    ​技术背景 在写这篇文章之前，实际上几年之前，我们就有非常稳定的无纸化同屏的模块，本文借demo更新，算是做个新的总结，废话不多说，先看图，本文以Android平台屏幕实时采集推送，Windows播放 
+    </details> 
+
+- 🎡 [切图仔做全栈：React&amp;Nest.js社区平台&lpar;一&rpar;——基础架构与邮箱注册、JWT登录实现](https://juejin.cn/post/7344571313685970956) | Sun Mar 10 2024 11:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 开始之前让我们先来思考一个问题，前端同学有没有必要了解一些后端的知识？我觉得是有必要的，以下是我的一些个人观点： 大多数的项目中，后端天然更接近数据，也就意味着后端更接近整个业务。了解后端可以帮 
+    </details> 
+
+- 🕯 [创建自己的Node.js脚手架工具：一个实用指南](https://juejin.cn/post/7344325496982781978) | Sun Mar 10 2024 10:54 AM 
     <details><summary>展开描述 ...</summary> 
     通过这个指南，您可以学会了如何创建一个基本的Node.js脚手架工具。您可以根据自己的需要扩展这个脚手架工具，添加更多的功能和命令选项，以适应您的开发流程。 
     </details> 
 
-- 🎡 [GitHub上5k+ star！用ast-grep解决代码重构难题](https://juejin.cn/post/7344571292354871359) | Sun Mar 10 2024 10:22 AM 
+- 🚀 [GitHub上5k+ star！用ast-grep解决代码重构难题](https://juejin.cn/post/7344571292354871359) | Sun Mar 10 2024 10:22 AM 
     <details><summary>展开描述 ...</summary> 
     ast-grep是一个基于AST，可以让你用YAML来编写代码重构的工具，本文讲了如何在项目实际场景应用ast-grep进行代码重构 
     </details> 
 
-- 🕯 [如何在Vite5➕React➕Ts项目中优雅的使用Mock数据？🔥](https://juejin.cn/post/7344571292354838591) | Sun Mar 10 2024 10:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    序言 本文希望达成的目标只有两点：mock、数据。从而降低使用mock的心智负担。 背景 最近在vite5➕ReactTs的项目中（没错，vite早已到5.x的版本了）大量用到了Mock数据。项目在此 
-    </details> 
-
-- 🚀 [【Android面试-java基础】synchronized什么时候处于偏向锁？](https://juejin.cn/post/7343915907939483675) | Sat Mar 09 2024 10:48 AM 
+- 💪 [【Android面试-java基础】synchronized什么时候处于偏向锁？](https://juejin.cn/post/7343915907939483675) | Sat Mar 09 2024 10:48 AM 
     <details><summary>展开描述 ...</summary> 
     面试官问：synchronized是什么锁？什么时候处于偏向锁？ 答：阻塞锁，非公平锁 面试官问:没了？ 答：没了.... 我们经常使用到synchronized。但是实现原理可能似懂非懂。 
-    </details> 
-
-- 💪 [Android 车载应用开发——「Activity、Intent、Context」](https://juejin.cn/post/7343904911115534363) | Sat Mar 09 2024 6:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文简要介绍了Android中的Activity和Intent。Activity是应用程序的单个屏幕，并可通过Intent与其他组件通信。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
