@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Flutter 中 ListTile 挂件](https://juejin.cn/post/7344164779630493722) | Sun Mar 10 2024 2:50 AM 
+- 🤗 [【🎈4000字整理，通俗易懂】解释一下@ResponseBody注解](https://juejin.cn/post/7344260010853384227) | Sat Mar 09 2024 6:40 PM 
     <details><summary>展开描述 ...</summary> 
-    在日常的开发中，渲染列表数据，我们都比较喜欢使用 ListTile 挂件，本文，我们来认识下它。 ListTile 一般结合 ListView 来使用，替换 for 遍历~ 
+    解释@ResponseBody注解 @ResponseBody就像是一个指令，告诉Spring MVC：“嘿，我要你直接把我这个方法返回的东西放到HTTP响应里面，别去找什么视图来渲染了。”——如果这 
     </details> 
 
-- 🎡 [🚀  一文学会  Maven](https://juejin.cn/post/7344258252543082559) | Sun Mar 10 2024 2:35 AM 
+- 🎡 [从零开始学Spring Boot系列-集成mybatis](https://juejin.cn/post/7344258220389400630) | Sat Mar 09 2024 6:38 PM 
     <details><summary>展开描述 ...</summary> 
-    一、Maven依赖管理项目构建工具 一、Maven简介 1. Maven介绍 https://maven.apache.org/what-is-maven.html Maven 是一款为 Java 项 
+    在Spring Boot的应用开发中，MyBatis是一个非常流行的持久层框架，它支持定制化SQL、存储过程以及高级映射。在本篇文章中，我们将学习如何在Spring Boot项目中集成MyBatis 
     </details> 
 
-- 🕯 [缩短学制，大学毕业年龄或将降至19岁？](https://juejin.cn/post/7344026980616601638) | Sun Mar 10 2024 2:01 AM 
+- 🕯 [你可能不知道的 React + TypeScript 常用技巧](https://juejin.cn/post/7343987389080092723) | Sat Mar 09 2024 3:44 PM 
     <details><summary>展开描述 ...</summary> 
-    两会上人大代表提出，将基础教育周期从 12 年缩减至 9 年，缩短后变成小学 5 年、初中 2 年、高中 2 年 
+    类型安全是我们在使用 TypeScript 时最大的优势，但是在 React 项目中，我们如何正确使用 TypeScript 呢，也许本文能给你带来一些帮助...... 
     </details> 
 
-- 🚀 [从源码来分析kafka生产者原理](https://juejin.cn/post/7343987389080059955) | Sat Mar 09 2024 3:20 PM 
+- 🚀 [Android为什么不使用Serializable，而是另辟蹊径Parcelable？](https://juejin.cn/post/7344258220389220406) | Sat Mar 09 2024 3:41 PM 
     <details><summary>展开描述 ...</summary> 
-    源码学习是一种挺好的方式，不过根据我的经验最好是先学习大致的原理，再回头看源码，更能抓住重点。 今天带大家过一遍 kafka-python 最新v2.0.2生产者源码，为啥是python，当然是因为 
+    这几天在学习android知识的过程中，发现在IPC&lpar;跨进程通信&rpar;中，使用了Bundle，而Bundle的机制是使用Parcel来进行序列化，而不是使用Serializable。这令我很好奇。因为毕竟 
     </details> 
 
-- 💪 [json序列化转义字符的问题](https://juejin.cn/post/7344259131715207203) | Sat Mar 09 2024 3:16 PM 
+- 💪 [2024 构建你自己的webpack](https://juejin.cn/post/7344258204283961356) | Sat Mar 09 2024 3:27 PM 
     <details><summary>展开描述 ...</summary> 
-    Go语言中的JSON序列化问题与解决方案 在Go语言中，JSON（JavaScript Object Notation）是一种常用的数据交换格式。Go的encoding/json包提供了便捷的JSON 
+    1 什么是bundler 2 打包器有什么用？ 现在的前端开发，文件多，多人开发。如何避免命名冲突和提高代码的可读性和可维护性就很重要，不是像以前script src 指定src值的方式引入不同的js 
     </details> 
 <!-- juejin:END -->
 ### 少数派
