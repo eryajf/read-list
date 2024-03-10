@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [年度征文 | 手机长焦现在发展成什么样了？](https://sspai.com/post/86906) | Sat Mar 09 2024 7:31 AM 
+- 👹 [线路延绵，在异国重拾独属于「铁道」的感动](https://sspai.com/post/85299) | Sun Mar 10 2024 3:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    线路会一直延绵下去，列车依然按部就班地照着时刻表运行。重拾独属于「铁道」的感动，或许就在不远的身边。&lt;a href=&quot;https://sspai.com/post/85299&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [年度征文 | 手机长焦现在发展成什么样了？](https://sspai.com/post/86906) | Sat Mar 09 2024 7:31 AM 
     <details><summary>展开描述 ...</summary> 
     似乎市面上所有的影像旗舰都有一个潜望长焦镜头，或是正在向长焦方向发力。我真的很想问：不是已经卷过长焦了吗？怎么又又又又是长焦？&lt;a href=&quot;https://sspai.com/post/86906&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [打造一部「电子茅台」：聊聊富士的产品策略及市场博弈](https://sspai.com/post/87038) | Sat Mar 09 2024 3:00 AM 
+- 🤭 [打造一部「电子茅台」：聊聊富士的产品策略及市场博弈](https://sspai.com/post/87038) | Sat Mar 09 2024 3:00 AM 
     <details><summary>展开描述 ...</summary> 
     富士的热度恐怕还得维持相当长一段时间。而这样的富士，你愿意埋单么？&lt;a href=&quot;https://sspai.com/post/87038&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [本周看什么 | 最近值得一看的一大卷作品](https://sspai.com/post/87049) | Fri Mar 08 2024 9:39 AM 
+- 🥸 [本周看什么 | 最近值得一看的一大卷作品](https://sspai.com/post/87049) | Fri Mar 08 2024 9:39 AM 
     <details><summary>展开描述 ...</summary> 
     ☕️TL;DR近期佳作推荐：[电影]沙丘2、[电影]奇美拉、[电影]可怜的东西、[电影]波纹、[电影]高墙之外、[电影]小孩儿、[美剧]奇思妙探、[美剧]幕府将军、[英剧]珍的不一样第二季、[美剧]小 ...&lt;a href=&quot;https://sspai.com/post/87049&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [想要购买新款 MacBook Air？这些细节你值得注意](https://sspai.com/post/85735) | Fri Mar 08 2024 7:00 AM 
+- 🙉 [想要购买新款 MacBook Air？这些细节你值得注意](https://sspai.com/post/85735) | Fri Mar 08 2024 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     搭载 M3 SoC 的 MacBook Air 发布了，这是我们的选购建议。&lt;a href=&quot;https://sspai.com/post/85735&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [年度征文 | 突破边界，成为一列想脱轨的列车](https://sspai.com/post/86658) | Fri Mar 08 2024 3:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    早在年初，我就决定在年度征文中分享自己退学申请的心路历程，因为这是一次惊心动魄的尝试。&lt;a href=&quot;https://sspai.com/post/86658&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
