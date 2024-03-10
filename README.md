@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一篇文章，带你彻底搞懂CSS中的动画属性](https://juejin.cn/post/7344089411983966234) | Sat Mar 09 2024 6:31 PM 
+- 🤗 [AI 赋能，第二大脑：一个开源的个人生产力助手 | 开源日报 No.195](https://juejin.cn/post/7344259963630469160) | Sun Mar 10 2024 12:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    quivr 是一个个人生产力助手，利用生成式人工智能技术作为第二大脑。 - 快速高效：设计迅捷高效，确保快速访问数据。 - 安全可靠：您的数据由您掌控，始终安全。 - 跨平台兼容性：支持 Ubunt 
+    </details> 
+
+- 🎡 [Android — 多进程中使用广告SDK问题与一种解决方案](https://juejin.cn/post/7344259131715485731) | Sat Mar 09 2024 11:48 PM 
+    <details><summary>展开描述 ...</summary> 
+    大部分App都会接入广告SDK来变现流量增加收入，如果App中使用了多进程，对广告SDK会有什么影响呢？本文演示了在多进程使用广告SDK遇到的一些问题，并提出了一种解决方案。 
+    </details> 
+
+- 🕯 [一篇文章，带你彻底搞懂CSS中的动画属性](https://juejin.cn/post/7344089411983966234) | Sat Mar 09 2024 6:31 PM 
     <details><summary>展开描述 ...</summary> 
     在之前的文章中已经详细聊过了CSS中常用的定位布局之类的知识点，但架不住不按常理出牌的面试官总能问到点奇奇怪怪的问题，就好比这种好几年都不见得用得上的CSS动画属性。今天就用一篇文章来带各位彻底搞明白 
     </details> 
 
-- 🎡 [🔥🔥🔥你应该打好你的日志,起码避免被甩锅🥘🥘](https://juejin.cn/post/7344026980616257574) | Sat Mar 09 2024 4:55 PM 
+- 🚀 [WEB集群-网站演变与tomcat集群](https://juejin.cn/post/7344164779630166042) | Sat Mar 09 2024 6:05 PM 
+    <details><summary>展开描述 ...</summary> 
+    1、Java容器 java容器:用于存放与运行java代码的环境. web中间件 2、JVM-JRE-JDK JAVA的优秀性：1份代码处处运行与使用. 代码的可移植性. JVM: java 虚拟机中 
+    </details> 
+
+- 💪 [🔥🔥🔥你应该打好你的日志,起码避免被甩锅🥘🥘](https://juejin.cn/post/7344026980616257574) | Sat Mar 09 2024 4:55 PM 
     <details><summary>展开描述 ...</summary> 
     大家好，我是蓝胖子,相信大家或多或少都有这样的经历，当你负责的功能出现线上问题时，领导第一时间便是找到你询问原因，然而有时问题的根因或许不在你这儿，只是这个功能或许依赖了第三方或者内部其他部门，这个时 
-    </details> 
-
-- 🕯 [HarmonyOS  NEXT：去繁化简，实战整理的开发者清单](https://juejin.cn/post/7344258231479369769) | Sat Mar 09 2024 4:33 PM 
-    <details><summary>展开描述 ...</summary> 
-    一文了解如何快速开启纯血鸿蒙，实战整理的开发者清单。整理总结重点概念以及实际开发过程中的常用技巧和方法。 
-    </details> 
-
-- 🚀 [如何用 Next.js v14 实现一个 Streaming 接口？](https://juejin.cn/post/7344089411983802394) | Sat Mar 09 2024 3:21 PM 
-    <details><summary>展开描述 ...</summary> 
-    Streaming 一个比较常见的应用是 ChatGPT 的打字效果，效果如下。本篇的最后我们会调用 OpenAI 的接口来实现这样一个效果 
-    </details> 
-
-- 💪 [如何解决浏览器兼容问题](https://juejin.cn/post/7344258204283912204) | Sat Mar 09 2024 3:12 PM 
-    <details><summary>展开描述 ...</summary> 
-    1. HTML兼容性问题 在HTML标签、属性等方面也存在兼容性问题，尤其是在HTML5中新增了很多新的标签和属性，不同浏览器对其支持程度也不同。 解决方法： 使用DOCTYPE声明：通过DOCTYP 
     </details> 
 <!-- juejin:END -->
 ### 少数派
