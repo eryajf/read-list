@@ -335,8 +335,8 @@
 - 🥸 [2C4G5M 能不能支持 Next Nest MongoDB Redis&lpar;20 多个消息队列&rpar;](https://www.v2ex.com/t/1022372#reply2) | Sun Mar 10 2024 4:29 PM
 - 🤗 [谈谈我对自由职业独立开发的理解](https://www.v2ex.com/t/1022357#reply2) | Sun Mar 10 2024 2:25 PM
 - 🎭 [后端 golang 开发，怎么继续深造呢？](https://www.v2ex.com/t/1022354#reply4) | Sun Mar 10 2024 2:18 PM
-- 🥷 [因为项目需要，要学习 Java ，本身有 3.5 年 c++经验，求推荐学习路线](https://www.v2ex.com/t/1022352#reply5) | Sun Mar 10 2024 2:09 PM
-- 🐵 [JB 更新后文件导航条在 IDE 底部，很不习惯，怎么移回顶上？旧 UI 各方面都方便很多，但怕以后不提供了](https://www.v2ex.com/t/1022334#reply26) | Sun Mar 10 2024 12:22 PM<!-- v2ex:END -->
+- 🥷 [因为项目需要，要学习 Java ，本身有 3.5 年 c++经验，求推荐学习路线](https://www.v2ex.com/t/1022352#reply7) | Sun Mar 10 2024 2:09 PM
+- 🐵 [JB 更新后文件导航条在 IDE 底部，很不习惯，怎么移回顶上？旧 UI 各方面都方便很多，但怕以后不提供了](https://www.v2ex.com/t/1022334#reply27) | Sun Mar 10 2024 12:22 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
