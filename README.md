@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [如何在Vite5➕React➕Ts项目中优雅的使用Mock数据？🔥](https://juejin.cn/post/7344571292354838591) | Sun Mar 10 2024 10:11 AM 
+- 🤗 [创建自己的Node.js脚手架工具：一个实用指南](https://juejin.cn/post/7344325496982781978) | Sun Mar 10 2024 10:54 AM 
+    <details><summary>展开描述 ...</summary> 
+    通过这个指南，您可以学会了如何创建一个基本的Node.js脚手架工具。您可以根据自己的需要扩展这个脚手架工具，添加更多的功能和命令选项，以适应您的开发流程。 
+    </details> 
+
+- 🎡 [GitHub上5k+ star！用ast-grep解决代码重构难题](https://juejin.cn/post/7344571292354871359) | Sun Mar 10 2024 10:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    ast-grep是一个基于AST，可以让你用YAML来编写代码重构的工具，本文讲了如何在项目实际场景应用ast-grep进行代码重构 
+    </details> 
+
+- 🕯 [如何在Vite5➕React➕Ts项目中优雅的使用Mock数据？🔥](https://juejin.cn/post/7344571292354838591) | Sun Mar 10 2024 10:11 AM 
     <details><summary>展开描述 ...</summary> 
     序言 本文希望达成的目标只有两点：mock、数据。从而降低使用mock的心智负担。 背景 最近在vite5➕ReactTs的项目中（没错，vite早已到5.x的版本了）大量用到了Mock数据。项目在此 
     </details> 
 
-- 🎡 [如何做到让import”占领满屏“？](https://juejin.cn/post/7344571285848768524) | Sun Mar 10 2024 10:10 AM 
+- 🚀 [【Android面试-java基础】synchronized什么时候处于偏向锁？](https://juejin.cn/post/7343915907939483675) | Sat Mar 09 2024 10:48 AM 
     <details><summary>展开描述 ...</summary> 
-    序言 如果打开一个文件，看到的全是满屏幕的 import 语句，这将是一种怎样的体验？ 密密麻麻的import语句不仅仅是一种视觉上的冲击，更是对代码组织结构的一种考验。 我们是如何做到让import 
+    面试官问：synchronized是什么锁？什么时候处于偏向锁？ 答：阻塞锁，非公平锁 面试官问:没了？ 答：没了.... 我们经常使用到synchronized。但是实现原理可能似懂非懂。 
     </details> 
 
-- 🕯 [如何用 Next.js v14 实现一个 Streaming 接口？](https://juejin.cn/post/7344089411983802394) | Sat Mar 09 2024 3:21 PM 
+- 💪 [Android 车载应用开发——「Activity、Intent、Context」](https://juejin.cn/post/7343904911115534363) | Sat Mar 09 2024 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-    Streaming 一个比较常见的应用是 ChatGPT 的打字效果，效果如下。本篇的最后我们会调用 OpenAI 的接口来实现这样一个效果 
-    </details> 
-
-- 🚀 [使用WebStorm插件React Buddy提高React开发效率（调色板篇）](https://juejin.cn/post/7344259131715059747) | Sat Mar 09 2024 2:18 PM 
-    <details><summary>展开描述 ...</summary> 
-    React Buddy是IntelliJ IDE 的高级插件，具有可视化工具和代码提示，使开发效率更高，本文将演示如何使用React Buddy中的调色板功能。 准备 在开始之前，请确保已经安装了Re 
-    </details> 
-
-- 💪 [在高德地图上实现Polygon图层](https://juejin.cn/post/7343915907940024347) | Sat Mar 09 2024 2:05 PM 
-    <details><summary>展开描述 ...</summary> 
-    该方案通过将高德地图与three.js的功能相结合，实现了立体光感效果，并添加了动画效果，使行政区域在视觉上更加生动和引人入胜。 
+    本文简要介绍了Android中的Activity和Intent。Activity是应用程序的单个屏幕，并可通过Intent与其他组件通信。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
