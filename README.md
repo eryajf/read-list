@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [9. 异步链路追踪实现设计](https://juejin.cn/post/7344260655757770789) | Sun Mar 10 2024 3:00 PM 
+- 🤗 [Axios：从入门到精通的全面指南](https://juejin.cn/post/7344567634917441570) | Sun Mar 10 2024 3:33 PM 
+    <details><summary>展开描述 ...</summary> 
+    Axios提供了丰富的API和灵活的配置选项，使得发送HTTP请求变得既简单又高效。本文将从基础用法探索到高级功能，包括拦截器和全局配置，最后通过一个综合例子展示Axios的强大功能。 
+    </details> 
+
+- 🎡 [【Gradle-14】编译优化之Gradle最佳配置实践](https://juejin.cn/post/7344625554529730600) | Sun Mar 10 2024 3:31 PM 
+    <details><summary>展开描述 ...</summary> 
+    在不花钱的基础上，通过分析影响编译的因素、优化原则和Gradle配置最佳实践的方式，来帮助大家低成本的提升编译速度。 
+    </details> 
+
+- 🕯 [Fetch API：从基础到进阶的全面指南](https://juejin.cn/post/7344567634917392418) | Sun Mar 10 2024 3:17 PM 
+    <details><summary>展开描述 ...</summary> 
+    Fetch API提供了一个强大而灵活的方法来发出HTTP请求。这篇文章将从Fetch API的基础使用开始，逐步深入到配置项的详细介绍，最终呈现对Fetch API一个完整的入门展示。 
+    </details> 
+
+- 🚀 [Vue中的插槽（Slot）详解](https://juejin.cn/post/7344567650456600591) | Sun Mar 10 2024 3:10 PM 
+    <details><summary>展开描述 ...</summary> 
+    在Vue中，插槽（Slot）是一种强大的模式，用于创建可复用的组件，它允许开发者在父组件中插入HTML或其他组件，而这些内容可以在子组件的指定位置显示。 
+    </details> 
+
+- 💪 [9. 异步链路追踪实现设计](https://juejin.cn/post/7344260655757770789) | Sun Mar 10 2024 3:00 PM 
     <details><summary>展开描述 ...</summary> 
     在应用进程中，链路信息的传递实际就是Span的传递，我们之前是基于ThreadLocal将Span作为线程本地变量来传递的，这在同步的场景下是没有问题的，但是一旦涉及到异步场景例如异步调用下游或 
-    </details> 
-
-- 🎡 [CSS 中的 ∞（无穷）你知道多少](https://juejin.cn/post/7344573755643084854) | Sun Mar 10 2024 2:57 PM 
-    <details><summary>展开描述 ...</summary> 
-    CSS 中的无穷大，主要要知道的是它本质上是表示特定情况下最大可能值或最小可能值的简写。无穷大可以作为一种表达意图的良好指示，使你的 CSS 更易读！ 
-    </details> 
-
-- 🕯 [深度解析 Raft 协议与KRaft实战演示](https://juejin.cn/post/7344567680127664168) | Sun Mar 10 2024 2:46 PM 
-    <details><summary>展开描述 ...</summary> 
-    Raft 协议是一种分布式一致性算法，它用于在分布式系统中的多个节点之间达成一致性。Raft 协议的目标是提供一种相对简单、易于理解和实现的方法，以确保在网络分区、节点故障等情况下，系统仍然能够保持一 
-    </details> 
-
-- 🚀 [9款常见的 JVM垃圾回收器](https://juejin.cn/post/7344571281487953956) | Sun Mar 10 2024 2:37 PM 
-    <details><summary>展开描述 ...</summary> 
-    JVM 不仅是大厂面试的一个高频问题，也是 Java程序员跨入高职级必须掌握的知识点，垃圾回收器作为 JVM中核心的一环，了解它的原理，可以帮助我们更好地调优和故障排除 
-    </details> 
-
-- 💪 [这一回 ，把 G1 回收器的特性聊通透](https://juejin.cn/post/7344567634917343266) | Sun Mar 10 2024 2:35 PM 
-    <details><summary>展开描述 ...</summary> 
-    👈👈👈 欢迎点赞收藏关注哟 一. 前言 本来是一篇面试文 ，归纳些要点就完事，但是 G1 回收器学起来太有意思了，所以单独拉一篇出来聊一聊 G1 回收器的特性。 这个回收器区别之前的回收器确实有独特的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
