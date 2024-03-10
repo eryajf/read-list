@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [volatile可以保证原子性吗](https://juejin.cn/post/7344567580643278863) | Sun Mar 10 2024 6:52 AM 
+- 🤗 [别让 Docker 毁了你的 MySQL!](https://juejin.cn/post/7344571269555060799) | Sun Mar 10 2024 8:12 AM 
     <details><summary>展开描述 ...</summary> 
-    可见性之volatile关键字 什么是可见性 cpu在执行代码的时候，为了减少变量访问的时间消耗可能 
+    近年来,随着 Docker 容器技术的火热,越来越多的应用开始被&quot;装箱&quot;。我们这些开发者享受着 Docker 带来的便捷和灵活,几乎恨不得把所有东西都塞进容器里。于是,连 MySQL 这样的有状态服务 
     </details> 
 
-- 🎡 [告别os.path，拥抱pathlib](https://juejin.cn/post/7344567495972929570) | Sun Mar 10 2024 6:46 AM 
+- 🎡 [面试必问防抖节流](https://juejin.cn/post/7344173123389161509) | Sun Mar 10 2024 8:07 AM 
     <details><summary>展开描述 ...</summary> 
-    pathlib 模块是在Python3.4版本中首次被引入到标准库中的，作为一个可选模块。从Python3.6开始，内置的 open 函数以及 os 、 shutil 和 os.path 模块中的各种 
+    防抖节流作为性能优化的大能，面试几乎是必考，我建议不仅要好好看，还要自己上手写一下它的代码。 我这里我简单的例子向大家介绍这两个的概念，为的就是大家都能看懂还一下就能记住。 防抖：当事件触发后，等待一 
     </details> 
 
-- 🕯 [Prometheus存储拓展](https://juejin.cn/post/7344567495972847650) | Sun Mar 10 2024 5:52 AM 
+- 🕯 [用Java的BIO和NIO、Netty实现HTTP服务器&lpar;五&rpar; 理解Netty的流水线](https://juejin.cn/post/7344567577748291619) | Sun Mar 10 2024 6:37 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 Prometheus可以监控各种不同类型的应用、服务和基础设施。但是它自身也存在着一些瓶颈和问题，比如默认存储方案是使用内置的时序数据库TSDB进行数据存储，这在数据量、采集量偏大的时候往往是性 
+    理解流水线的触发逻辑 为什么handlerAdded方法被触发了两次? 我们还在语句五中声明了childHandler，也就是HttpHelloWorldServerInitializer，每次连接建 
     </details> 
 
-- 🚀 [pc和mobile切换方式](https://juejin.cn/post/7344567580642787343) | Sun Mar 10 2024 5:08 AM 
+- 🚀 [读《把时间当成朋友》小记](https://juejin.cn/post/7344571269554683967) | Sun Mar 10 2024 6:03 AM 
     <details><summary>展开描述 ...</summary> 
-    pc端和移动端切换的主要方式:通过css媒体查询和弹性布局&lpar;弹性盒子布局、网格布局&rpar; ,常规使用rem、vh、vm、百分比等处理 ,基于URL进行切换 ,网页加载时检查user-agent 
+    前言 评分3/5，因为是网络连载博客的原因，内容不是很连贯，里面的一些观点没有数据和事实支撑，不敢苟同。 本书立意 绝大多数的成功与智商没有任何关系，而所有的失败都与且只与时间有关。 成功从来都不是人 
     </details> 
 
-- 💪 [linux Shell 命令行-02-var 变量](https://juejin.cn/post/7344567495972634658) | Sun Mar 10 2024 4:22 AM 
+- 💪 [Postman 如何在不同接口之间传递数据](https://juejin.cn/post/7344571269554651199) | Sun Mar 10 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-    # 拓展阅读 [linux Shell 命令行-00-intro 入门介绍]&lpar;https://houbb.github.io/2018/12/21/linux-shell-01-intro&rpar; [ 
+    [Postman]是一个强大的 API 开发工具，它使得开发者可以发送请求、测试和文档化 API。在实际使用中，我们经常需要在不同接口之间传递数据，比如前一个请求的响应数据需要作为后一个请求的输入参数 
     </details> 
 <!-- juejin:END -->
 ### 少数派
