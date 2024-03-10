@@ -481,24 +481,24 @@
 ### 不死鸟
 
 <!-- iui:START -->
-- 🌊 [2024 年 3 月 每日分享](https://iui.su/183/) | Fri Mar 08 2024 6:47 AM 
+- 🌊 [国内外公共DNS服务器及DoH/DoT地址](https://iui.su/135/) | Sun Mar 10 2024 4:27 PM 
+    <details><summary>展开描述 ...</summary> 
+    DoH/DoT可以防止中间用户窃听和域名查询隐私泄漏的作用。两者相对来说DoH更通用一点，因为 DoT走853端口，DoH走的是443端口，通用性更好（有些网络可能会封这个不常见的853端口）对... 
+    </details> 
+
+- 🫣 [2024 年 3 月 每日分享](https://iui.su/183/) | Fri Mar 08 2024 6:47 AM 
     <details><summary>展开描述 ...</summary> 
     可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。3月10日司马阅AI文档智... 
     </details> 
 
-- 🫣 [深度揭秘：集各大模型于一身的AI工具](https://iui.su/3888/) | Thu Mar 07 2024 8:05 AM 
+- 🌜 [深度揭秘：集各大模型于一身的AI工具](https://iui.su/3888/) | Thu Mar 07 2024 8:05 AM 
     <details><summary>展开描述 ...</summary> 
     ChatAI-您的全能一站式工具百宝箱ChatAI目前已集合接入各大模型接口： ➢ GPT4.0&lpar;同时涵盖了Chat4.0 Turbo和Chat4.0 Vision&rpar; ➢ GPT3.5 ➢ Ge... 
     </details> 
 
-- 🌜 [解决安卓手机已禁止安装未备案APP方法](https://iui.su/114/) | Thu Mar 07 2024 6:36 AM 
+- 🏊 [解决安卓手机已禁止安装未备案APP方法](https://iui.su/114/) | Thu Mar 07 2024 6:36 AM 
     <details><summary>展开描述 ...</summary> 
     多地通信管理局发布公告要求逾期未履行备案程序的App下架关停，目前小米、华为、vivo等手机还可以安装未备案APP。收到网友反馈，OPPO系统已经不允许安装未备案APP了，只给了一个取消安装的选... 
-    </details> 
-
-- 🏊 [【网站搜索神器】易搜站-新一代搜索引擎 推广运营必备 带预览图及流量信息 可多条件筛选](https://iui.su/3887/) | Thu Feb 29 2024 9:08 AM 
-    <details><summary>展开描述 ...</summary> 
-    易搜站，高效找网站。全新一代网站大数据搜索引擎，已收录1000w+的数据，支持多条件筛选搜索。易搜站 链接直达：https://www.aifun7.com与传统搜索引擎的区别？传统搜索引擎：大... 
     </details> 
 
 - 🚦 [网页在线工具汇总](https://iui.su/1492/) | Tue Feb 13 2024 5:34 AM 
