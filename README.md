@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android平台实现无纸化同屏并推送RTMP或轻量级RTSP服务&lpar;毫秒级延迟&rpar;](https://juejin.cn/post/7344571285848899596) | Sun Mar 10 2024 12:13 PM 
+- 🤗 [视野修炼-技术周刊第76期 | Rolldown 开源](https://juejin.cn/post/7344290391988944906) | Sun Mar 10 2024 1:09 PM 
     <details><summary>展开描述 ...</summary> 
-    ​技术背景 在写这篇文章之前，实际上几年之前，我们就有非常稳定的无纸化同屏的模块，本文借demo更新，算是做个新的总结，废话不多说，先看图，本文以Android平台屏幕实时采集推送，Windows播放 
+    ① Rolldown 开源 - Rollup 的锈化版 ② 前端调试工具超全汇总 ③ OhMyLive2D - Live2D Web 看板组件 ④ 100万级安装量的开源作品，一年有多少打赏收入？ 
     </details> 
 
-- 🎡 [切图仔做全栈：React&amp;Nest.js社区平台&lpar;一&rpar;——基础架构与邮箱注册、JWT登录实现](https://juejin.cn/post/7344571313685970956) | Sun Mar 10 2024 11:35 AM 
+- 🎡 [toB开发范式](https://juejin.cn/post/7344567680127369256) | Sun Mar 10 2024 12:55 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 开始之前让我们先来思考一个问题，前端同学有没有必要了解一些后端的知识？我觉得是有必要的，以下是我的一些个人观点： 大多数的项目中，后端天然更接近数据，也就意味着后端更接近整个业务。了解后端可以帮 
+    前言 B端开发，也被称为后台开发或者企业级开发，是针对企业或者组织的业务需求进行的软件开发。在 B 端开发中，我们通常关注的是系统的功能性、稳定性、可扩展性以及安全性，从面向过程编程 -&gt; 面向对象编 
     </details> 
 
-- 🕯 [创建自己的Node.js脚手架工具：一个实用指南](https://juejin.cn/post/7344325496982781978) | Sun Mar 10 2024 10:54 AM 
+- 🕯 [老师如何看出学生抽了烟-Java设计模式之责任链模式](https://juejin.cn/post/7344567634916917282) | Sun Mar 10 2024 12:49 PM 
     <details><summary>展开描述 ...</summary> 
-    通过这个指南，您可以学会了如何创建一个基本的Node.js脚手架工具。您可以根据自己的需要扩展这个脚手架工具，添加更多的功能和命令选项，以适应您的开发流程。 
+    一个老师检查学生是否抽烟，只用了一盘薯条和一碟番茄酱，就将三个学生“团灭”了。老师是如何做到的呢？事实上，老师使用了责任链模式，设计了这次巧妙的检查... 
     </details> 
 
-- 🚀 [GitHub上5k+ star！用ast-grep解决代码重构难题](https://juejin.cn/post/7344571292354871359) | Sun Mar 10 2024 10:22 AM 
+- 🚀 [linux - 进程和服务&lpar;上篇&rpar;](https://juejin.cn/post/7344571285848948748) | Sun Mar 10 2024 12:44 PM 
     <details><summary>展开描述 ...</summary> 
-    ast-grep是一个基于AST，可以让你用YAML来编写代码重构的工具，本文讲了如何在项目实际场景应用ast-grep进行代码重构 
+    概述 接着之前的Linux系列篇，第二篇主要介绍进程和服务，从进程到服务，由浅入深的知识系统的介绍。 
     </details> 
 
-- 💪 [【Android面试-java基础】synchronized什么时候处于偏向锁？](https://juejin.cn/post/7343915907939483675) | Sat Mar 09 2024 10:48 AM 
+- 💪 [React 八大常见错误及其解决方案](https://juejin.cn/post/7344571292355051583) | Sun Mar 10 2024 12:36 PM 
     <details><summary>展开描述 ...</summary> 
-    面试官问：synchronized是什么锁？什么时候处于偏向锁？ 答：阻塞锁，非公平锁 面试官问:没了？ 答：没了.... 我们经常使用到synchronized。但是实现原理可能似懂非懂。 
+    通过回顾某些最常见的 React 错误消息并解释它们的含义、后果、以及如何修复它们，辅助大家理解这些技术细节。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
