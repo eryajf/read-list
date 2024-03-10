@@ -442,7 +442,7 @@
 
 
 <!-- iplaysoft:START -->
-- 🧐 [百度 Comate 代码 AI 编程助手 - 开放邀测免费用 / 还可薅羊毛](https://www.iplaysoft.com/p/baidu-comate) | Sat Mar 09 2024 1:17 PM
+- 🧐 [百度 Comate 代码 AI 编程助手 - 开放邀测免费 / 还可薅羊毛](https://www.iplaysoft.com/p/baidu-comate) | Sat Mar 09 2024 1:17 PM
 - 🧑‍🏫 [凉了！微软正式 “砍掉” 大家都喜欢的安卓子系统！](https://www.iplaysoft.com/news/6106) | Fri Mar 08 2024 12:05 AM
 - 🥰 [Claude 3 注册使用教程 - 全面超越 ChatGPT &lpar;GPT4&rpar; 的免费替代品！ AI “超级黑马”](https://www.iplaysoft.com/claude.html) | Thu Mar 07 2024 12:02 AM
 - 💻 [Yuzu 柚子模拟器 &lpar;最终收藏版&rpar; - 在电脑 PC 上玩 Switch 塞尔达传说 / 马里奥等游戏](https://www.iplaysoft.com/yuzu.html) | Wed Mar 06 2024 12:08 AM
