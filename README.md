@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Prometheus存储拓展](https://juejin.cn/post/7344567495972847650) | Sun Mar 10 2024 5:52 AM 
+- 🤗 [volatile可以保证原子性吗](https://juejin.cn/post/7344567580643278863) | Sun Mar 10 2024 6:52 AM 
+    <details><summary>展开描述 ...</summary> 
+    可见性之volatile关键字 什么是可见性 cpu在执行代码的时候，为了减少变量访问的时间消耗可能 
+    </details> 
+
+- 🎡 [告别os.path，拥抱pathlib](https://juejin.cn/post/7344567495972929570) | Sun Mar 10 2024 6:46 AM 
+    <details><summary>展开描述 ...</summary> 
+    pathlib 模块是在Python3.4版本中首次被引入到标准库中的，作为一个可选模块。从Python3.6开始，内置的 open 函数以及 os 、 shutil 和 os.path 模块中的各种 
+    </details> 
+
+- 🕯 [Prometheus存储拓展](https://juejin.cn/post/7344567495972847650) | Sun Mar 10 2024 5:52 AM 
     <details><summary>展开描述 ...</summary> 
     前言 Prometheus可以监控各种不同类型的应用、服务和基础设施。但是它自身也存在着一些瓶颈和问题，比如默认存储方案是使用内置的时序数据库TSDB进行数据存储，这在数据量、采集量偏大的时候往往是性 
     </details> 
 
-- 🎡 [pc和mobile切换方式](https://juejin.cn/post/7344567580642787343) | Sun Mar 10 2024 5:08 AM 
+- 🚀 [pc和mobile切换方式](https://juejin.cn/post/7344567580642787343) | Sun Mar 10 2024 5:08 AM 
     <details><summary>展开描述 ...</summary> 
     pc端和移动端切换的主要方式:通过css媒体查询和弹性布局&lpar;弹性盒子布局、网格布局&rpar; ,常规使用rem、vh、vm、百分比等处理 ,基于URL进行切换 ,网页加载时检查user-agent 
     </details> 
 
-- 🕯 [linux Shell 命令行-02-var 变量](https://juejin.cn/post/7344567495972634658) | Sun Mar 10 2024 4:22 AM 
+- 💪 [linux Shell 命令行-02-var 变量](https://juejin.cn/post/7344567495972634658) | Sun Mar 10 2024 4:22 AM 
     <details><summary>展开描述 ...</summary> 
     # 拓展阅读 [linux Shell 命令行-00-intro 入门介绍]&lpar;https://houbb.github.io/2018/12/21/linux-shell-01-intro&rpar; [ 
-    </details> 
-
-- 🚀 [linux Shell 命令行-01-intro 入门介绍](https://juejin.cn/post/7344567580642689039) | Sun Mar 10 2024 4:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    # 拓展阅读 [linux Shell 命令行-00-intro 入门介绍]&lpar;https://houbb.github.io/2018/12/21/linux-shell-01-intro&rpar; [ 
-    </details> 
-
-- 💪 [js实现一个函数，判断一个数是否是完全平方数](https://juejin.cn/post/7344569689048465420) | Sun Mar 10 2024 4:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    js实现一个函数，判断一个数是否是完全平方数 方法一： 方法二： 该函数接受一个参数 num，并通过二分查找的方法判断该数是否是完全平方数。如果是完全平方数，则返回 true，否则返回 false。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
