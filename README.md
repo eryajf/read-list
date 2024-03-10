@@ -351,19 +351,19 @@
     人工智能时代，最需要学习的编程语言是：python 。笔者是个 python 小白，昨天花了两个小时，第一次成功运行起来 python 项目 。 项目是 powerpoint-extractor ，可 
     </details> 
 
-- 🕯 [Axios：从入门到精通的全面指南](https://juejin.cn/post/7344567634917441570) | Sun Mar 10 2024 3:33 PM 
+- 🕯 [【折腾向】闲置手机 + 内网穿透 + caddy + rclone = ？](https://juejin.cn/post/7344567634917474338) | Sun Mar 10 2024 4:11 PM 
+    <details><summary>展开描述 ...</summary> 
+    通过 frp 内网穿透将闲置手机暴露至公网，并使用 caddy 搭建 webdav 服务，客户端使用 rclone 实现 webdav 挂载，达到类坚果云的效果。 
+    </details> 
+
+- 🚀 [Axios：从入门到精通的全面指南](https://juejin.cn/post/7344567634917441570) | Sun Mar 10 2024 3:33 PM 
     <details><summary>展开描述 ...</summary> 
     Axios提供了丰富的API和灵活的配置选项，使得发送HTTP请求变得既简单又高效。本文将从基础用法探索到高级功能，包括拦截器和全局配置，最后通过一个综合例子展示Axios的强大功能。 
     </details> 
 
-- 🚀 [【Gradle-14】编译优化之Gradle最佳配置实践](https://juejin.cn/post/7344625554529730600) | Sun Mar 10 2024 3:31 PM 
+- 💪 [【Gradle-14】编译优化之Gradle最佳配置实践](https://juejin.cn/post/7344625554529730600) | Sun Mar 10 2024 3:31 PM 
     <details><summary>展开描述 ...</summary> 
     在不花钱的基础上，通过分析影响编译的因素、优化原则和Gradle配置最佳实践的方式，来帮助大家低成本的提升编译速度。 
-    </details> 
-
-- 💪 [Fetch API：从基础到进阶的全面指南](https://juejin.cn/post/7344567634917392418) | Sun Mar 10 2024 3:17 PM 
-    <details><summary>展开描述 ...</summary> 
-    Fetch API提供了一个强大而灵活的方法来发出HTTP请求。这篇文章将从Fetch API的基础使用开始，逐步深入到配置项的详细介绍，最终呈现对Fetch API一个完整的入门展示。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
