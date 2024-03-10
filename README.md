@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [AI 赋能，第二大脑：一个开源的个人生产力助手 | 开源日报 No.195](https://juejin.cn/post/7344259963630469160) | Sun Mar 10 2024 12:34 AM 
+- 🤗 [缩短学制，大学毕业年龄或将降至19岁？](https://juejin.cn/post/7344026980616601638) | Sun Mar 10 2024 2:01 AM 
     <details><summary>展开描述 ...</summary> 
-    quivr 是一个个人生产力助手，利用生成式人工智能技术作为第二大脑。 - 快速高效：设计迅捷高效，确保快速访问数据。 - 安全可靠：您的数据由您掌控，始终安全。 - 跨平台兼容性：支持 Ubunt 
+    两会上人大代表提出，将基础教育周期从 12 年缩减至 9 年，缩短后变成小学 5 年、初中 2 年、高中 2 年 
     </details> 
 
-- 🎡 [Android — 多进程中使用广告SDK问题与一种解决方案](https://juejin.cn/post/7344259131715485731) | Sat Mar 09 2024 11:48 PM 
+- 🎡 [Flutter&amp;Flame游戏实践#03 | Trex-无限移动](https://juejin.cn/post/7344258231479681065) | Sun Mar 10 2024 1:33 AM 
     <details><summary>展开描述 ...</summary> 
-    大部分App都会接入广告SDK来变现流量增加收入，如果App中使用了多进程，对广告SDK会有什么影响呢？本文演示了在多进程使用广告SDK遇到的一些问题，并提出了一种解决方案。 
+    Flutter&amp;Flame 游戏开发系列前言: 该系列是 [张风捷特烈] 的 Flame 游戏开发教程。Flutter 作为 全平台 的 原生级 渲染框架，兼具 全端 跨平台和高性能的特点。目前官方对 
     </details> 
 
-- 🕯 [一篇文章，带你彻底搞懂CSS中的动画属性](https://juejin.cn/post/7344089411983966234) | Sat Mar 09 2024 6:31 PM 
+- 🕯 [App质量监控](https://juejin.cn/post/7344258220389531702) | Sun Mar 10 2024 1:32 AM 
     <details><summary>展开描述 ...</summary> 
-    在之前的文章中已经详细聊过了CSS中常用的定位布局之类的知识点，但架不住不按常理出牌的面试官总能问到点奇奇怪怪的问题，就好比这种好几年都不见得用得上的CSS动画属性。今天就用一篇文章来带各位彻底搞明白 
+    用户都希望用到高品质的App, App要想获得长久的成功&lpar;安装量、用户评分和评论、参与度和用户留存&rpar;,应用质量和稳定性有着至关重要的作用 
     </details> 
 
-- 🚀 [WEB集群-网站演变与tomcat集群](https://juejin.cn/post/7344164779630166042) | Sat Mar 09 2024 6:05 PM 
+- 🚀 [如何用Java Stream 写出 “高效率、干净、简洁” 的代码？](https://juejin.cn/post/7344026980616077350) | Sat Mar 09 2024 3:00 PM 
     <details><summary>展开描述 ...</summary> 
-    1、Java容器 java容器:用于存放与运行java代码的环境. web中间件 2、JVM-JRE-JDK JAVA的优秀性：1份代码处处运行与使用. 代码的可移植性. JVM: java 虚拟机中 
+    Java 常见的Stream流式编程 Java 8 添加了一个新的抽象称为流 Stream API，可以让你以一种声明的方式处理数据。 Stream 使用一种类似用 SQL 语句从数据库查询数据的直观 
     </details> 
 
-- 💪 [🔥🔥🔥你应该打好你的日志,起码避免被甩锅🥘🥘](https://juejin.cn/post/7344026980616257574) | Sat Mar 09 2024 4:55 PM 
+- 💪 [Python 使用 PyQt5 写登录界面](https://juejin.cn/post/7343987389079961651) | Sat Mar 09 2024 2:59 PM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是蓝胖子,相信大家或多或少都有这样的经历，当你负责的功能出现线上问题时，领导第一时间便是找到你询问原因，然而有时问题的根因或许不在你这儿，只是这个功能或许依赖了第三方或者内部其他部门，这个时 
+    本文介绍了如何使用 Python 和 PyQt5 写一个登录界面，并提供了示例代码。你可以根据自己的需要修改示例代码，以创建满足你需求的登录界面。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
