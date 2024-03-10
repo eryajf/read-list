@@ -311,19 +311,19 @@
     总结推荐本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
     </details> 
 
-- 🦅 [这个超火的黑客小工具，可以通过WiFi解锁特斯拉](https://www.freebuf.com/news/393813.html) | Fri Mar 08 2024 5:21 AM 
+- 🦅 [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/393842.html) | Fri Mar 08 2024 7:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    文章精选了本周知识大陆公开发布的10条优质资源，让我们一起看看吧。 
+    </details> 
+
+- 🪄 [这个超火的黑客小工具，可以通过WiFi解锁特斯拉](https://www.freebuf.com/news/393813.html) | Fri Mar 08 2024 5:21 AM 
     <details><summary>展开描述 ...</summary> 
     一种利用 Flipper Zero 设备进行的简单钓鱼攻击可能导致特斯拉账户被篡改，甚至能让汽车被解锁并启动。 
     </details> 
 
-- 🪄 [WogRAT 恶意软件用记事本服务攻击 Windows 和 Linux 系统](https://www.freebuf.com/news/393800.html) | Fri Mar 08 2024 4:16 AM 
+- 💻 [WogRAT 恶意软件用记事本服务攻击 Windows 和 Linux 系统](https://www.freebuf.com/news/393800.html) | Fri Mar 08 2024 4:16 AM 
     <details><summary>展开描述 ...</summary> 
     ASEC 网络安全分析师发现恶意软件 WogRAT 正在通过记事本 Notepad 服务攻击 Windows 和 Linux 系统。 
-    </details> 
-
-- 💻 [Play 勒索软件泄露了6.5 万份瑞士政府机密文件](https://www.freebuf.com/news/393783.html) | Fri Mar 08 2024 2:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    黑客利用漏洞将托管州服务应用程序的 Xplain 服务器作为目标，阻止访问，直到发送密钥或解锁工具以换取赎金。 
     </details> 
 <!-- freebuf:END -->
 
