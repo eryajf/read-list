@@ -332,10 +332,10 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有没有前端项目适配目前最强的 AI 模型 Claude-3-Opus ？](https://www.v2ex.com/t/1022211#reply1) | Sat Mar 09 2024 10:20 PM
-- 🤗 [还是不太理解 C 静态库和动态库？](https://www.v2ex.com/t/1022210#reply3) | Sat Mar 09 2024 10:20 PM
-- 🎭 [请问: 哪里能下载或购买到高质量的 Anki 牌组](https://www.v2ex.com/t/1022207#reply0) | Sat Mar 09 2024 9:19 PM
-- 🥷 [开箱即用的 Obisidian / Typora 简历解决方案](https://www.v2ex.com/t/1022206#reply4) | Sat Mar 09 2024 7:25 PM
+- 🥸 [有没有前端项目适配目前最强的 AI 模型 Claude-3-Opus ？](https://www.v2ex.com/t/1022211#reply4) | Sat Mar 09 2024 10:20 PM
+- 🤗 [还是不太理解 C 静态库和动态库？](https://www.v2ex.com/t/1022210#reply6) | Sat Mar 09 2024 10:20 PM
+- 🎭 [请问: 哪里能下载或购买到高质量的 Anki 牌组](https://www.v2ex.com/t/1022207#reply1) | Sat Mar 09 2024 9:19 PM
+- 🥷 [开箱即用的 Obisidian / Typora 简历解决方案](https://www.v2ex.com/t/1022206#reply6) | Sat Mar 09 2024 7:25 PM
 - 🐵 [消费级 Android on Windows 是没有前途的 - 对于 Win11 WSA 计划停止支持的看法](https://www.v2ex.com/t/1022205#reply2) | Sat Mar 09 2024 7:02 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
