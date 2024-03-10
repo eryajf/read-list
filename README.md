@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [AIflixhub - 创建人工智能生成的电影：视频、语音、声音和音乐](https://xinquji.com/posts/809678?utm_campaign=xinquji-rss) | Sat Mar 09 2024 6:00 AM 
+- 👀 [答案之书 - 在线版 - 在犹豫不决时，找到内心的答案](https://xinquji.com/posts/809553?utm_campaign=xinquji-rss) | Mon Mar 11 2024 6:11 AM 
     <details><summary>展开描述 ...</summary> 
-     创建人工智能生成的电影：视频、语音、声音和音乐  
+     在犹豫不决时，找到内心的答案  
     </details> 
 
-- 🥷 [Gemini Side Panel - 使用 Gemini AI 提高浏览器的工作效率](https://xinquji.com/posts/809677?utm_campaign=xinquji-rss) | Sat Mar 09 2024 6:00 AM 
+- 🥷 [DreamHub - 图解你我故事，静观人生百态](https://xinquji.com/posts/809513?utm_campaign=xinquji-rss) | Mon Mar 11 2024 6:11 AM 
     <details><summary>展开描述 ...</summary> 
-     使用 Gemini AI 提高浏览器的工作效率  
+     图解你我故事，静观人生百态  
     </details> 
 
-- 💼 [IdeaApe - 有效的人工智能市场研究工具](https://xinquji.com/posts/809676?utm_campaign=xinquji-rss) | Sat Mar 09 2024 6:00 AM 
+- 💼 [神笔AI写作【论文版】 - 更适合中国大学生体质的论文写作助手](https://xinquji.com/posts/809679?utm_campaign=xinquji-rss) | Mon Mar 11 2024 6:09 AM 
     <details><summary>展开描述 ...</summary> 
-     有效的人工智能市场研究工具  
+     更适合中国大学生体质的论文写作助手  
     </details> 
 
-- 🦅 [FreezeKeys - 加密私钥备份和恢复工具](https://xinquji.com/posts/809675?utm_campaign=xinquji-rss) | Sat Mar 09 2024 6:00 AM 
+- 🦅 [Chips - 管理您的互联网](https://xinquji.com/posts/809693?utm_campaign=xinquji-rss) | Sun Mar 10 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     加密私钥备份和恢复工具  
+     管理您的互联网  
     </details> 
 
-- 😺 [DrDoGood - 在您需要时提供正确的护理](https://xinquji.com/posts/809674?utm_campaign=xinquji-rss) | Sat Mar 09 2024 6:00 AM 
+- 😺 [MOTY - 你的年度电影是什么？](https://xinquji.com/posts/809692?utm_campaign=xinquji-rss) | Sun Mar 10 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     在您需要时提供正确的护理  
+     你的年度电影是什么？  
     </details> 
 <!-- xinquji:END -->
