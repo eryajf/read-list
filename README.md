@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [有没有老哥讲下 Vaultwarden](https://www.v2ex.com/t/1022250#reply8) | Sun Mar 10 2024 3:42 AM
-- 🤗 [[important] 有没有这样的耳机？或者如何 diy?](https://www.v2ex.com/t/1022248#reply0) | Sun Mar 10 2024 3:41 AM
-- 🎭 [转安卓 还是继续 pc 开发](https://www.v2ex.com/t/1022239#reply4) | Sun Mar 10 2024 3:01 AM
-- 🥷 [打算做 rust 训练营，从零实现系列](https://www.v2ex.com/t/1022234#reply6) | Sun Mar 10 2024 2:32 AM
-- 🐵 [推荐开源密码管理器标准 Pass, 因为老看到月经贴求推荐密码管理器...](https://www.v2ex.com/t/1022223#reply0) | Sun Mar 10 2024 1:50 AM<!-- v2ex:END -->
+- 🥸 [买椅子一定要去线下实体店坐](https://www.v2ex.com/t/1022264#reply0) | Sun Mar 10 2024 5:11 AM
+- 🤗 [有没有老哥讲下 Vaultwarden](https://www.v2ex.com/t/1022250#reply11) | Sun Mar 10 2024 3:42 AM
+- 🎭 [[important] 有没有这样的耳机？或者如何 diy?](https://www.v2ex.com/t/1022248#reply1) | Sun Mar 10 2024 3:41 AM
+- 🥷 [转安卓 还是继续 pc 开发](https://www.v2ex.com/t/1022239#reply4) | Sun Mar 10 2024 3:01 AM
+- 🐵 [打算做 rust 训练营，从零实现系列](https://www.v2ex.com/t/1022234#reply7) | Sun Mar 10 2024 2:32 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
