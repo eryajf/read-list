@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [面试字节跳动](https://juejin.cn/post/7344274333889953819) | Sun Mar 10 2024 9:09 AM 
+- 🤗 [如何在Vite5➕React➕Ts项目中优雅的使用Mock数据？🔥](https://juejin.cn/post/7344571292354838591) | Sun Mar 10 2024 10:11 AM 
     <details><summary>展开描述 ...</summary> 
-    最近试着投了一下字节，真是被自己惊到了，通知面试后就开始睡不着了，赶紧拿上我的项目开始复盘，时间过得久了点，都忘了。也试着搜了一些字节的面试文章，不过我面的实习生，面试相对于简单一些。 为什么要用jw 
+    序言 本文希望达成的目标只有两点：mock、数据。从而降低使用mock的心智负担。 背景 最近在vite5➕ReactTs的项目中（没错，vite早已到5.x的版本了）大量用到了Mock数据。项目在此 
     </details> 
 
-- 🎡 [JUC&lpar;9&rpar;:synchronized 锁升级](https://juejin.cn/post/7344567680126566440) | Sun Mar 10 2024 9:03 AM 
+- 🎡 [如何做到让import”占领满屏“？](https://juejin.cn/post/7344571285848768524) | Sun Mar 10 2024 10:10 AM 
     <details><summary>展开描述 ...</summary> 
-    一、背景引入 我们使用锁的目的是为了保证程序在多线程下竞争产生的问题，虽然加锁能够保证我们的安全性，但是随之而来的性能会下降，无锁则不安全，那么，是否有折中的方法来达到一个平衡呢？ 
+    序言 如果打开一个文件，看到的全是满屏幕的 import 语句，这将是一种怎样的体验？ 密密麻麻的import语句不仅仅是一种视觉上的冲击，更是对代码组织结构的一种考验。 我们是如何做到让import 
     </details> 
 
-- 🕯 [架构解析系列-架构演进的基本流程，以 H 项目为例](https://juejin.cn/post/7344260655757000741) | Sun Mar 10 2024 9:03 AM 
+- 🕯 [如何用 Next.js v14 实现一个 Streaming 接口？](https://juejin.cn/post/7344089411983802394) | Sat Mar 09 2024 3:21 PM 
     <details><summary>展开描述 ...</summary> 
-    业务架构的变革，源头有两个，一个是业务驱动的自上而下的变革，一个是由基础设施的驱动的自下而上的变革。H 项目的架构演进从本质上讲也就是贴着这两个源头发展的。 
+    Streaming 一个比较常见的应用是 ChatGPT 的打字效果，效果如下。本篇的最后我们会调用 OpenAI 的接口来实现这样一个效果 
     </details> 
 
-- 🚀 [前端面试题  你还不会防抖节流嘛？ 带你手撕防抖节流。](https://juejin.cn/post/7344089411984850970) | Sun Mar 10 2024 8:29 AM 
+- 🚀 [使用WebStorm插件React Buddy提高React开发效率（调色板篇）](https://juejin.cn/post/7344259131715059747) | Sat Mar 09 2024 2:18 PM 
     <details><summary>展开描述 ...</summary> 
-    学会防抖节流，这一篇文章就够了 哈喽哈喽，我是你们的金樽清酒。昨天我在面试的时候呀，面试官说有啥要问他的嘛，我想了一想，问咱们公司的项目有啥要性能优化的嘛，比如防抖节流啥的？引诱面试官上钩。面试官说， 
+    React Buddy是IntelliJ IDE 的高级插件，具有可视化工具和代码提示，使开发效率更高，本文将演示如何使用React Buddy中的调色板功能。 准备 在开始之前，请确保已经安装了Re 
     </details> 
 
-- 💪 [基于Python的APS生产排程解决方案实操指南](https://juejin.cn/post/7344567680126418984) | Sun Mar 10 2024 8:27 AM 
+- 💪 [在高德地图上实现Polygon图层](https://juejin.cn/post/7343915907940024347) | Sat Mar 09 2024 2:05 PM 
     <details><summary>展开描述 ...</summary> 
-    APS（Advanced Planning and Scheduling）即高级计划与排程，是企业资源计划（ERP）的重要组成部分，用于解决生产过程中的物料、产能、工单分配等复杂调度问题。Python 
+    该方案通过将高德地图与three.js的功能相结合，实现了立体光感效果，并添加了动画效果，使行政区域在视觉上更加生动和引人入胜。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
