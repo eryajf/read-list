@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [RightFont 8.6.0 超级好用的字体管理工具](https://xclient.info/s/rightfont.html) | Mon Mar 11 2024 1:02 AM 
+- 🦏 [Feeder 4.6.1 创建和发布RSS](https://xclient.info/s/feeder.html) | Mon Mar 11 2024 1:10 AM 
     <details><summary>展开描述 ...</summary> 
-    RightFont是 Mac OS X 上一款非常轻巧的字体管理工具，目前已经完成了与 PhotoShop、Sketch 两大设计应用的集成。 
+    Feeder是Mac os平台上的一款帮助用户编辑rss文档的Mac工具 
     </details> 
 
--  [DropDMG 3.6.7 轻松制作DMG文件](https://xclient.info/s/dropdmg.html) | Mon Mar 11 2024 1:01 AM 
+-  [App Cleaner &amp;amp; Uninstaller Pro 8.2.7 fix 软件卸载工具](https://xclient.info/s/app-cleaner-uninstaller-pro.html) | Mon Mar 11 2024 1:09 AM 
     <details><summary>展开描述 ...</summary> 
-    Dropdmg是Mac os平台上的一款帮助用户快速打包DMG文件的Mac文件管理软件，Dropdmg for mac不但可以将影像档加密、更可以配合 GZip 、BZip2 、MacBinary 等工具软体将之压缩或编码，或甚至於将之切割成较小的分割档案群 
+    App Cleaner Pro是一款Mac上非常好用的软件卸载工具，支持应用卸载、Widget卸载、浏览器插件卸载，支持拖拽卸载和列表卸载，能够非常干净的卸载应用，节省你的磁盘空间。 
     </details> 
 
-- ⚗️ [Downie 4.7.5-4680 视频下载工具](https://xclient.info/s/downie.html) | Mon Mar 11 2024 12:59 AM 
+- ⚗️ [Perfectly Clear WorkBench 4.6.0.2641 智能图片瑕疵处理工具](https://xclient.info/s/perfectly-clear-workbench.html) | Mon Mar 11 2024 1:07 AM 
     <details><summary>展开描述 ...</summary> 
-    简单的拖放链接到Downie，它就会下载该网站上的视频。 
+    Perfectly Clear Workbench可以帮您在几分钟内自动修复、微调和批处理图片。 
     </details> 
 
-- 🔥 [Permute 3.11.7-2743 小巧便捷的多媒体文件格式转换器](https://xclient.info/s/permute.html) | Mon Mar 11 2024 12:58 AM 
+- 🔥 [SideNotes 1.4.14 办公笔记本](https://xclient.info/s/sidenotes.html) | Mon Mar 11 2024 1:06 AM 
     <details><summary>展开描述 ...</summary> 
-    Permute 提供简单的视频格式转换功能，可以简单的将视频文件转换为你想要的格式。将你想要转换的视频拖到软件窗口内，然后选择你想要转换的格式即可。 
+    SideNotes 可以让你可以用一种简洁、快速、有条理的方式记录下所有嗡嗡作响的想法。享受其无干扰的工作流程。使用副录，你可以保存你的想法，图片，任务列表和更多。 
     </details> 
 
-- 🌋 [iNet Network Scanner 3.0.6 网络设备监视器](https://xclient.info/s/inet-network-scanner.html) | Mon Mar 11 2024 12:57 AM 
+- 🌋 [Parallels Desktop 19.3.0-54924 最佳Mac虚拟机解决方案](https://xclient.info/s/parallels-desktop.html) | Mon Mar 11 2024 1:05 AM 
     <details><summary>展开描述 ...</summary> 
-    iNet Network Scanner是一款Mac上的网络设备监视器，能够自动扫描和发现网络中的设备，显示出设备的 IP 地址、生产厂商、MAC 地址等，支持网络设备、Bonjour服务、Airport等 
+    Parallels Desktop 是功能最强大灵活度最高的虚拟化方案，无需重启即可在同一台电脑上随时访问Windows和Mac两个系统上的众多应用程序。从仅限于PC的游戏到生产力软件，Parallels Desktop都能帮您实现便捷使用。 
     </details> 
 <!-- xclient:END -->
 
