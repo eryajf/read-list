@@ -714,8 +714,8 @@
      更适合中国大学生体质的论文写作助手  
     </details> 
 
-- 😺 [Chips - 管理您的互联网](https://xinquji.com/posts/809693?utm_campaign=xinquji-rss) | Sun Mar 10 2024 6:00 AM 
+- 😺 [Picurious AI - 捕捉、解决和发现图片](https://xinquji.com/posts/809723?utm_campaign=xinquji-rss) | Mon Mar 11 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     管理您的互联网  
+     捕捉、解决和发现图片  
     </details> 
 <!-- xinquji:END -->
