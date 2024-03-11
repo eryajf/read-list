@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Telemetry: 一种可以在别人网站也能收集访问记录的技术](https://juejin.cn/post/7344970197130346535) | Mon Mar 11 2024 6:06 AM 
+- 🤗 [用AI短视频「反哺」长视频理解，腾讯MovieLLM框架瞄准电影级连续帧生成](https://juejin.cn/entry/7344970205891969035) | Mon Mar 11 2024 7:10 AM 
     <details><summary>展开描述 ...</summary> 
-    作为一个内容创作者来说，我们经常会把自己的一些文章，发布到一些第三方创作平台。但是对于内容有追求的人来说，发布仅仅只是开始，在后续很长的一段时间内我们都需要持续关注文章的阅读情况。而我们所有的数 
+    在视频理解这一领域，尽管多模态模型在短视频分析上取得了突破性进展，展现出了较强的理解能力，但当它们面对电影级别的长视频时，却显得力不从心。 
     </details> 
 
-- 🎡 [震惊：苹果手机电池栏“黑白无常”](https://juejin.cn/post/7344710026853007394) | Mon Mar 11 2024 5:59 AM 
+- 🎡 [Docker镜像秘术：优雅实现SSH登录和NVM管理Node](https://juejin.cn/post/7344742642151161894) | Mon Mar 11 2024 7:08 AM 
     <details><summary>展开描述 ...</summary> 
-    前言： 现象： ﻿ ﻿﻿ ﻿ 👈🏻左边的时间是黑色的字体，右边的信号和电池是白色的字体👉🏻，这种感觉就像电池栏在呼喊： 我与你之间虽只差一个灵动岛的距离，却已是黑白相隔 心路历程： 初步断定应该是UI 
+    本文将展示如何通过Docker镜像简化Node.js多版本管理，以及如何使用SSH直接登录容器，解决频繁切换版本和容器文件操作不便的问题。掌握这些技巧，将极大提高开发效率和简化容器管理。 
     </details> 
 
-- 🕯 [JVM工作原理与实战&lpar;二&rpar;：字节码编辑器jclasslib](https://juejin.cn/post/7344967838635884563) | Mon Mar 11 2024 5:29 AM 
+- 🕯 [一文了解Cornerstone3D中窗宽窗位的3种设置场景及原理](https://juejin.cn/post/7344881744245948453) | Mon Mar 11 2024 7:07 AM 
     <details><summary>展开描述 ...</summary> 
-    JVM作为Java程序的运行环境，其负责解释和执行字节码，管理内存，确保安全，支持多线程和提供性能监控工具，以及确保程序的跨平台运行。本文主要介绍了字节码编辑器jclasslib的安装和使用等内容。 
+    在使用Cornerstone3D渲染影像时，有一个常用功能“设置窗宽窗位“，本文将围绕窗宽窗位的基础概念、如何使用工具调整及工具调整的实现原理、js动态调整、MPR视图下多视图同步调整等展开。 
     </details> 
 
-- 🚀 [Python爬虫——如何使用requests库发送请求](https://juejin.cn/post/7344742642150211622) | Mon Mar 11 2024 5:27 AM 
+- 🚀 [教授何恺明在MIT的第一堂课](https://juejin.cn/entry/7344970205891887115) | Mon Mar 11 2024 7:06 AM 
     <details><summary>展开描述 ...</summary> 
-    经过封装后的requests库提供了一系列的接口，让我们可以更加便利地发送请求，管理Cookies和Session，以及验证代理等一系列操作 
+    700 座的大教室，相比去年增加一倍容量，仍然座无虚席： 这就是麻省理工学院（MIT）计算机视觉课《Advances in Computer Vision》6.8300 在 2024 新学期的盛况。  
     </details> 
 
-- 💪 [一文搞定POI，再也不怕excel导入导出了](https://juejin.cn/post/7344682689452507145) | Mon Mar 11 2024 5:03 AM 
+- 💪 [记一次Profiler生产实战内存分析（二）](https://juejin.cn/post/7344697321798287400) | Mon Mar 11 2024 7:05 AM 
     <details><summary>展开描述 ...</summary> 
-    在Java日常开发过程中，实现Excel文件的导入导出功能是一项常见的需求。 通过使用相关的Java库，如Apache POI、EasyPoi或EasyExcel，可以轻松地实现 
+    线上又有服务CPU爆高了呀，分析一下原因，是JVM频繁垃圾回收导致，dump下内存文件看看，下面说下如何使用Jprofiler进行内存分析。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
