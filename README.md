@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [极速搭建一个 SingleSPA 主子应用](https://juejin.cn/post/7344970198619668521) | Mon Mar 11 2024 8:03 AM 
+- 🤗 [咋样在MongoDB里一把火烧掉一个集合呢](https://juejin.cn/entry/7344928492189073443) | Mon Mar 11 2024 9:09 AM 
     <details><summary>展开描述 ...</summary> 
-    基于 SingleSPA 6.x 版本，创建微前端主子应用。 下面是一个基本的步骤指南和代码示例来帮助你开始。 安装依赖 首先，你需要安装 single-spa 及其相关依赖。对于 React 和 T 
+    博客标题：MongoDB操作手册：如何高效删除一个集合 🚮 介绍 MongoDB简介 MongoDB是一款流行的NoSQL数据库，广泛应用于需要高可扩展性和灵活性的应用场景中。 为什么需要删除集合？  
     </details> 
 
-- 🎡 [uni-app 必备技能：自定义平台的条件编译实战详解](https://juejin.cn/post/7344970197131329575) | Mon Mar 11 2024 7:59 AM 
+- 🎡 [Import Maps vs SystemJS](https://juejin.cn/post/7344697321799090216) | Mon Mar 11 2024 9:04 AM 
     <details><summary>展开描述 ...</summary> 
-    uni-app 条件编译学习从入门到精通，包括：条件编译基础运用，自定义平台的条件编译实战详解，彻底掌握多端部署核心。 
+    Import Maps Import maps 是一项原生浏览器功能，允许你控制模块标识符到实际资源 URL 的映射。这意味着你可以使用简单的模块名称而不是相对或绝对的 URL 来导入 JavaScr 
     </details> 
 
-- 🕯 [Nodejs 第五十四章（net）](https://juejin.cn/post/7344927519923093514) | Mon Mar 11 2024 7:52 AM 
+- 🕯 [HTML常用字体标签：揭秘HTML字体标签，让你的网页“字”得其乐！](https://juejin.cn/post/7344927519923879946) | Mon Mar 11 2024 9:04 AM 
     <details><summary>展开描述 ...</summary> 
-    net模块是Node.js的核心模块之一，它提供了用于创建基于网络的应用程序的API。net模块主要用于创建TCP服务器和TCP客户端，以及处理网络通信。 TCP（Transmission Contr 
+    在数字世界的构建中，字体不仅仅是文字的外衣，更是情感和风格的传递者。作为网页设计师和前端开发者，掌握HTML中的字体标签，能够让我们创造出更加丰富和吸引人的用户体验。 今天，就让我们一起走进HTML字 
     </details> 
 
-- 🚀 [总结归纳Kubernetes | 一站式速查知识，助您轻松驾驭容器编排技术（配置与密码安全）](https://juejin.cn/post/7344970198619455529) | Mon Mar 11 2024 7:42 AM 
+- 🚀 [Coze为社交打造一款对话模型软件](https://juejin.cn/post/7344971137690075175) | Mon Mar 11 2024 9:02 AM 
     <details><summary>展开描述 ...</summary> 
-    前提介绍 Kubernetes，亦被称为K8s，是业界公认的容器编排巨擘，以其卓越的能力简化了容器化应用的部署、扩展和管理流程。通过其强大的功能，Kubernetes不仅提升了应用的可靠性和可伸缩性， 
+    **【我怎么回复TA]** 的设计理念是让社交变得更加简单和有趣。它通过先进的人工智能技术，分析对话内容，理解语境，然后给出建议性的回复。无论是在初次见面的尴尬沉默中，还是在深入交流时的微妙情感表达上 
     </details> 
 
-- 💪 [基于DiT，支持4K图像生成，华为诺亚0.6B文生图模型PixArt-Σ来了](https://juejin.cn/entry/7344970205892018187) | Mon Mar 11 2024 7:12 AM 
+- 💪 [搭建兼容ie9的vue框架](https://juejin.cn/post/7344928492188680227) | Mon Mar 11 2024 8:40 AM 
     <details><summary>展开描述 ...</summary> 
-    众所周知，开发顶级的文生图（T2I）模型需要大量资源，因此资源有限的个人研究者基本都不可能承担得起，这也成为了 AIGC（人工智能内容生成）社区创新的一大阻碍。 
+    很多前端工程师忙于业务代码开发，工作几年也不知道如何搭建一个框架。这篇文章希望能帮你学会如何搭建一个兼容ie9的vue框架，本文基于你有一定的前端工作经验，纯小白可能看得比较吃力。 文章最后会放出我的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
