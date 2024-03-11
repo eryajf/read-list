@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [58k Star 的前端可视化图表库！功能强大、海量模板 | 开源日报 No.197](https://juejin.cn/post/7345071481377046563) | Mon Mar 11 2024 4:02 PM 
+- 🤗 [经典笔试题：扁平化数据结构转树](https://juejin.cn/post/7345071481377177635) | Mon Mar 11 2024 4:56 PM 
+    <details><summary>展开描述 ...</summary> 
+    最近在这三月份，陆陆续续接了了几个笔试题。其中有一个常考的题目。就是后台返回一个扁平的数据结构，转成树。 
+    </details> 
+
+- 🎡 [58k Star 的前端可视化图表库！功能强大、海量模板 | 开源日报 No.197](https://juejin.cn/post/7345071481377046563) | Mon Mar 11 2024 4:02 PM 
     <details><summary>展开描述 ...</summary> 
     echarts 是一个功能强大、交互式的图表和数据可视化库，适用于浏览器。纯 JavaScript 编写，基于轻量级画布库 zrender，提供直观、交互式且高度可定制的图表，支持各种类型的图表展示。 
     </details> 
 
-- 🎡 [Nest 如何打印日志](https://juejin.cn/post/7345105899150655500) | Mon Mar 11 2024 3:34 PM 
+- 🕯 [Nest 如何打印日志](https://juejin.cn/post/7345105899150655500) | Mon Mar 11 2024 3:34 PM 
     <details><summary>展开描述 ...</summary> 
     本文详细介绍了如何使用 Nest 内置的 Logger 服务以及如何自定义日志输出。通过创建一个简单的项目，我们学习了如何启用和配置日志级别，以及如何通过控制台输出日志。 
     </details> 
 
-- 🕯 [Nest 依赖注入核心： Metadata 和 Reflector](https://juejin.cn/post/7345105899150639116) | Mon Mar 11 2024 3:32 PM 
+- 🚀 [Nest 依赖注入核心： Metadata 和 Reflector](https://juejin.cn/post/7345105899150639116) | Mon Mar 11 2024 3:32 PM 
     <details><summary>展开描述 ...</summary> 
     本文详细介绍了如何在 Nest 框架中使用 Reflect Metadata 来实现依赖注入。通过示例代码，我们学习了如何定义和获取元数据，以及如何利用它们来分析依赖关系和创建对象。 
     </details> 
 
-- 🚀 [Nest 使用 compodoc 生成文档](https://juejin.cn/post/7345105799864385577) | Mon Mar 11 2024 3:27 PM 
+- 💪 [Nest 使用 compodoc 生成文档](https://juejin.cn/post/7345105799864385577) | Mon Mar 11 2024 3:27 PM 
     <details><summary>展开描述 ...</summary> 
     本文介绍了如何使用Compodoc工具为TypeScript项目生成文档。Compodoc能够分析代码，生成包含类、接口、服务、控制器和模块及其依赖关系的文档。 
-    </details> 
-
-- 💪 [http协议中的缓存：强缓存、协商缓存](https://juejin.cn/post/7345071242825416719) | Mon Mar 11 2024 3:27 PM 
-    <details><summary>展开描述 ...</summary> 
-    http中的缓存分为两种：强缓存、协商缓存。强缓存 响应头中的 status 是 200，相关字段有expires（http1.0）,cache-control（http1.1&rpar;… 
     </details> 
 <!-- juejin:END -->
 ### 少数派
