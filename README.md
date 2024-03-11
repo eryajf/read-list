@@ -316,14 +316,14 @@
     文章精选了本周知识大陆公开发布的10条优质资源，让我们一起看看吧。 
     </details> 
 
-- 🪄 [这个超火的黑客小工具，可以通过WiFi解锁特斯拉](https://www.freebuf.com/news/393813.html) | Fri Mar 08 2024 5:21 AM 
+- 🪄 [FreeBuf 早报 | Midjourney封禁Stability AI；Rhysida勒索团伙已出售儿童患者数据](https://www.freebuf.com/news/393832.html) | Fri Mar 08 2024 6:34 AM 
     <details><summary>展开描述 ...</summary> 
-    一种利用 Flipper Zero 设备进行的简单钓鱼攻击可能导致特斯拉账户被篡改，甚至能让汽车被解锁并启动。 
+    Capita公司在2023年报中表示，勒索攻击造成的净成本为2.32亿元，并且还未计算由此可能给公司带来的巨额赔偿和监管罚款。 
     </details> 
 
-- 💻 [WogRAT 恶意软件用记事本服务攻击 Windows 和 Linux 系统](https://www.freebuf.com/news/393800.html) | Fri Mar 08 2024 4:16 AM 
+- 💻 [这个超火的黑客小工具，可以通过WiFi解锁特斯拉](https://www.freebuf.com/news/393813.html) | Fri Mar 08 2024 5:21 AM 
     <details><summary>展开描述 ...</summary> 
-    ASEC 网络安全分析师发现恶意软件 WogRAT 正在通过记事本 Notepad 服务攻击 Windows 和 Linux 系统。 
+    一种利用 Flipper Zero 设备进行的简单钓鱼攻击可能导致特斯拉账户被篡改，甚至能让汽车被解锁并启动。 
     </details> 
 <!-- freebuf:END -->
 
