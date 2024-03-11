@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派评 | 近期值得关注的 App](https://sspai.com/post/87100) | Mon Mar 11 2024 9:55 AM 
+- 👹 [年度征文 | 让「跨界」从概念变成产物：我的桌面游戏设计之旅](https://sspai.com/post/86944) | Mon Mar 11 2024 10:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    回归初心，为了那些看好、肯定、期待着我的人，竭力做出最好的游戏设计。这就是我今后作为「业余爱好者」或「副业从事者」，将要继续做的事。&lt;a href=&quot;https://sspai.com/post/86944&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派评 | 近期值得关注的 App](https://sspai.com/post/87100) | Mon Mar 11 2024 9:55 AM 
     <details><summary>展开描述 ...</summary> 
     欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...&lt;a href=&quot;https://sspai.com/post/87100&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [一日一技 | 巧用公式实现 Notion 数据库去重](https://sspai.com/post/86909) | Mon Mar 11 2024 7:00 AM 
+- 🤭 [一日一技 | 巧用公式实现 Notion 数据库去重](https://sspai.com/post/86909) | Mon Mar 11 2024 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     查重是排除重复信息干扰、确保唯一性数据准确性的校验手段。完善的查重机制能节省大量人工判断的成本，并且在第一时间获知结论。本文介绍了一种 Notion 数据库去重的办法。&lt;a href=&quot;https://sspai.com/post/86909&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [年度征文 | 渐入佳境：斜杠程序员的数字游民转型之旅](https://sspai.com/post/86832) | Mon Mar 11 2024 3:09 AM 
+- 🥸 [年度征文 | 渐入佳境：斜杠程序员的数字游民转型之旅](https://sspai.com/post/86832) | Mon Mar 11 2024 3:09 AM 
     <details><summary>展开描述 ...</summary> 
     编注：本文是「2023年度征文：分享你的关键词」的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。本文参加2023年度征文活动。我的2023年度关键词是：「渐入佳境」。大家好，我是张小吉 ...&lt;a href=&quot;https://sspai.com/post/86832&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：OpenAI 宣布新董事会成员，Altman 回归](https://sspai.com/post/87084) | Mon Mar 11 2024 12:56 AM 
+- 🙉 [派早报：OpenAI 宣布新董事会成员，Altman 回归](https://sspai.com/post/87084) | Mon Mar 11 2024 12:56 AM 
     <details><summary>展开描述 ...</summary> 
     你可能错过的新鲜事OpenAI宣布新董事会成员，Altman回归3月9日，OpenAI通过官方博客宣布，针对此前内部人事风波的调查已经完成，CEOSamAltman将重新加入公司改组后的董事会。其他三 ...&lt;a href=&quot;https://sspai.com/post/87084&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [线路延绵，在异国重拾独属于「铁道」的感动](https://sspai.com/post/85299) | Sun Mar 10 2024 3:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    线路会一直延绵下去，列车依然按部就班地照着时刻表运行。重拾独属于「铁道」的感动，或许就在不远的身边。&lt;a href=&quot;https://sspai.com/post/85299&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
