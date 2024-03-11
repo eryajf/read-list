@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [三次握手四次挥手以及跨域问题面试题详解](https://juejin.cn/post/7344941254235701275) | Mon Mar 11 2024 11:08 AM 
+- 🤗 [召回率和精确率](https://juejin.cn/post/7344993022075650098) | Mon Mar 11 2024 12:02 PM 
+    <details><summary>展开描述 ...</summary> 
+    召回率和精确率是一些文档中常用的词语，怎么理解了？本文会简单、明了的介绍一下！方便大家日常沟通协作中能够使用到！ 
+    </details> 
+
+- 🎡 [认识区块链（一）：什么是区块链？](https://juejin.cn/post/7344991898622427186) | Mon Mar 11 2024 11:41 AM 
+    <details><summary>展开描述 ...</summary> 
+    前言 《认识区块链》是一个系列，因为笔者的毕设与区块链相关，所以打算把所学所想通过博客的形式记录下来。这个专栏会从区块链是什么，拓展到区块链核心技术实现，区块链应用，以及区块链相关开发，最后会带大家一 
+    </details> 
+
+- 🕯 [Go-Zero微服务快速入门和最佳实践（一）](https://juejin.cn/post/7344971149065207819) | Mon Mar 11 2024 11:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文为稀土掘金技术社区首发签约文章，30天内禁止转载，30天后未获授权禁止转载，侵权必究！并发编程和分布式微服务是我们Gopher升职加薪的关键。毕竟Go基础很容易搞定，但是你想进阶可就没那么简单了！ 
+    </details> 
+
+- 🚀 [Taro v4框架开发微信小程序（配置）](https://juejin.cn/post/7345063548705718312) | Mon Mar 11 2024 11:27 AM 
+    <details><summary>展开描述 ...</summary> 
+    环境变量文件 将 .env.dev 文件重命名为 .env.development，以及将 .env.prod 文件重命名为 .env.production，以适配环境配置。 为了演示如何使用环境变量 
+    </details> 
+
+- 💪 [三次握手四次挥手以及跨域问题面试题详解](https://juejin.cn/post/7344941254235701275) | Mon Mar 11 2024 11:08 AM 
     <details><summary>展开描述 ...</summary> 
     浅聊一下 在上一篇文章中&lpar;小鹅通一面：被问碎了... - 掘金 &lpar;juejin.cn&rpar;&rpar;，有些问题没有详细地解释，在本篇文章作一个补充... 三次握手 三次握手是在TCP协议建立连接时产生的 第一次  
-    </details> 
-
-- 🎡 [Python 初学者容易踩的 5 个坑](https://juejin.cn/post/7344971137691009063) | Mon Mar 11 2024 10:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    哈喽大家好，我是咸鱼。 今天咸鱼列出了一些大家在初学 Python 的时候容易踩的一些坑，看看你有没有中招过。 原文：https://www.bitecode.dev/p/unexpected-pyt 
-    </details> 
-
-- 🕯 [提高前端代码质量要从优雅的注释抓起之TSDoc](https://juejin.cn/post/7344971146200563724) | Mon Mar 11 2024 10:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    一、注释的必要性 此处省略八百字。 二、AirPower使用注释的示例 类的注释 示例 效果 属性的注释 示例 效果 方法的注释 示例 效果 装饰器的注释 示例 效果 装饰器参数的注释 示例 效果 H 
-    </details> 
-
-- 🚀 [Redux Toolkit](https://juejin.cn/post/7344932879351447578) | Mon Mar 11 2024 10:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    为了简化 Redux 的开发流程，Redux Toolkit 应运而生。Redux Toolkit 是一个官方推荐的工具包，旨在简化 Redux 开发流程，减少样板代码，提高开发效率。 
-    </details> 
-
-- 💪 [cesium 地图颜色滤镜](https://juejin.cn/post/7344881744247324709) | Mon Mar 11 2024 10:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    这是cesium提供的更改地图颜色的效果 ImageryLayer提供了修改 brightness图层亮度 contrast对比度 hue色相 saturation饱和度 gamma伽玛校正 这些属性 
     </details> 
 <!-- juejin:END -->
 ### 少数派
