@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0311](http://jandan.net/p/115868) | Sun Mar 10 2024 11:07 PM 
+- 🚀 [今日好价 0312](http://jandan.net/p/115877) | Mon Mar 11 2024 11:07 PM 
     <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：66 
+    今日带货商品数量：45 
     </details> 
 
-- 🙉 [在《最终幻想》手游停服之前，痴迷粉丝存档三年](http://jandan.net/p/115863) | Sun Mar 10 2024 11:05 PM 
+- 🙉 [7 个会颠覆你认知的数学事实](http://jandan.net/p/115873) | Mon Mar 11 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
-    三年时间、2TB硬盘 
+    即将到来的3月14日又是&quot;π日&quot; 
     </details> 
 
-- 🎉 [地壳中藏有多少水?](http://jandan.net/p/115862) | Sun Mar 10 2024 11:04 PM 
+- 🎉 [如何停止过度思考](http://jandan.net/p/115872) | Mon Mar 11 2024 11:04 PM 
     <details><summary>展开描述 ...</summary> 
-    地下含水层中的地下水储量甚至超过冰川 
+    一些实用技巧帮助我们摆脱反复纠结 
     </details> 
 
-- 🐲 [高温超导体磁体通过测试，有望实现聚变发电](http://jandan.net/p/115861) | Sun Mar 10 2024 11:03 PM 
+- 🐲 [诺和诺德新减肥药效力或是Ozempic两倍](http://jandan.net/p/115871) | Mon Mar 11 2024 11:03 PM 
     <details><summary>展开描述 ...</summary> 
-    新型高温超导磁铁为实现可控核聚变带来曙光。 
+    三个月内可使人减重13% 
     </details> 
 
--  [因用AI制作同学的裸照，佛罗里达两中学生被捕](http://jandan.net/p/115860) | Sun Mar 10 2024 11:02 PM 
+-  [新冠后持续低铁血症或是长新冠关键诱因](http://jandan.net/p/115870) | Mon Mar 11 2024 11:02 PM 
     <details><summary>展开描述 ...</summary> 
-    只有少数州针对这种非同意裸照制作行为设有法律 
+    新冠感染导致人体调节铁元素能力紊乱 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
