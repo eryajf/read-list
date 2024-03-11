@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [多线程如何进行线程通信](https://juejin.cn/post/7344567669892988968) | Mon Mar 11 2024 2:18 AM 
+- 🤗 [提高10倍开发效率？APT如何让Android开发变得更轻松](https://juejin.cn/post/7344573753538838582) | Mon Mar 11 2024 3:07 AM 
     <details><summary>展开描述 ...</summary> 
-    线程通信 除了使用synchronized来对代码块和方法进行同步外，jdk1.5之后还有一种Loc 
+    在Android开发中，APT（Annotation Processing Tool）是一种强大的工具，它可以让开发者在编译期间处理注解，生成额外的代码。 
     </details> 
 
-- 🎡 [【笔记】Koa 洋葱模型的学习与简单实现](https://juejin.cn/post/7344625554531024936) | Mon Mar 11 2024 2:17 AM 
+- 🎡 [接收服务端请求，WebSocket 并非唯一选择！（含：ChatGPT 流推送原理解析）](https://juejin.cn/post/7344710026851893282) | Mon Mar 11 2024 3:05 AM 
     <details><summary>展开描述 ...</summary> 
-    这是对于 Koa 洋葱模型实现的分析和学习。就是说每一个中间件都是一个责任层。所以核心关键点是 next 函数。 
+    接受服务器请求必须要使用 WebSocket 吗？ChatGPT 那种流式打字机又是如何进行实现的呢？这篇文章统统告诉你~~ 
     </details> 
 
-- 🕯 [这个中国亲戚关系计算器让你告别“社死”](https://juejin.cn/post/7344573753538330678) | Mon Mar 11 2024 2:15 AM 
+- 🕯 [周记#1：请求51CTO删除我的文章；InfoQ上举报文章抄袭没有回应；必应未收录我的博客文章](https://juejin.cn/post/7344628375380000806) | Mon Mar 11 2024 2:56 AM 
     <details><summary>展开描述 ...</summary> 
-    relationship —— 中国亲戚关系计算器，只需简单的输入即可算出称谓。快捷输入按键，只需简单的点击即可完成关系输入，算法还支持逆向查找称呼哦～ 
+    记录或总结本周一些事件：请求51CTO删除我的文章；InfoQ上举报文章抄袭没有回应；必应未收录我的博客文章。 
     </details> 
 
-- 🚀 [托文档搜索的福，我终于在实战中用上了AI！](https://juejin.cn/post/7344567669892956200) | Mon Mar 11 2024 2:15 AM 
+- 🚀 [Spring Boot如何自定义自己的Starter组件？](https://juejin.cn/post/7344622708589854747) | Mon Mar 11 2024 2:55 AM 
     <details><summary>展开描述 ...</summary> 
-    话说AI已经火了很长一段时间了，23年初期GPT带来的冲击甚至出现了“前端，狗都不做”的言论！突然间，实战中应用AI成了我最想做的一件事～这次就通过实战文档搜索来应用AI，弥补关键词搜索的不足之处 
+    一、为什么要自定义starter 在我们的日常开发工作中，经常会有一些独立于业务之外的配置模块，我们经常将其放到一个特定的 包下，然后如果另一个工程需要复用这块功能的时候，需要将代码硬拷贝到另一个工程 
     </details> 
 
-- 💪 [JSR来了，那就去发个包吧!](https://juejin.cn/post/7344572677392498726) | Mon Mar 11 2024 2:12 AM 
+- 💪 [我的书签](https://juejin.cn/post/7344653866199449654) | Mon Mar 11 2024 2:50 AM 
     <details><summary>展开描述 ...</summary> 
-    JSR 全名为JavaScript Registry，由 Deno 推出的 JavaScript 注册表。有着很高的兼容性，可与任何 JavaScript 包管理器一起使用，如npm、pnpm 
+    作为一名前端开发，下面列一下我浏览器下的书签，供参考。 vue 基础 vue2 官网 vue3官网 vuecli nuxtjs vue-ts vue-test 源码 vuejs 技术揭秘 ui组件库  
     </details> 
 <!-- juejin:END -->
 ### 少数派
