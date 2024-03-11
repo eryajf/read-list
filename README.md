@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [ToothFairy 2.8.4 一键切换连接蓝牙设备](https://xclient.info/s/tooth-fairy.html) | Fri Mar 08 2024 2:32 AM 
+- 🦏 [RightFont 8.6.0 超级好用的字体管理工具](https://xclient.info/s/rightfont.html) | Mon Mar 11 2024 1:02 AM 
     <details><summary>展开描述 ...</summary> 
-    Tooth Fairy是一款一键切换连接蓝牙设备的小工具 
+    RightFont是 Mac OS X 上一款非常轻巧的字体管理工具，目前已经完成了与 PhotoShop、Sketch 两大设计应用的集成。 
     </details> 
 
--  [Soulver 3.10.1 多功能计算器](https://xclient.info/s/soulver.html) | Fri Mar 08 2024 2:30 AM 
+-  [DropDMG 3.6.7 轻松制作DMG文件](https://xclient.info/s/dropdmg.html) | Mon Mar 11 2024 1:01 AM 
     <details><summary>展开描述 ...</summary> 
-    Soulver 是一款 Mac 上的多功能计算器，相比系统自带的计算器，Soulver拥有更为强大的功能，它让你输入计算的数字和操作符，然后帮助你计算出结果，更加的符合人们的计算习惯。 
+    Dropdmg是Mac os平台上的一款帮助用户快速打包DMG文件的Mac文件管理软件，Dropdmg for mac不但可以将影像档加密、更可以配合 GZip 、BZip2 、MacBinary 等工具软体将之压缩或编码，或甚至於将之切割成较小的分割档案群 
     </details> 
 
-- ⚗️ [SimpleMind 2.3.3 小巧的思维导图工具](https://xclient.info/s/simplemind.html) | Fri Mar 08 2024 2:29 AM 
+- ⚗️ [Downie 4.7.5-4680 视频下载工具](https://xclient.info/s/downie.html) | Mon Mar 11 2024 12:59 AM 
     <details><summary>展开描述 ...</summary> 
-    SimpleMind是Mac OS X上一款思维导图工具，这款工具非常小巧，完全可以取代笨重的MindManager，对Mac开发者来说称得上是一大福音了。 
+    简单的拖放链接到Downie，它就会下载该网站上的视频。 
     </details> 
 
-- 🔥 [PopChar 10.0 特殊字符输入](https://xclient.info/s/popchar-x.html) | Fri Mar 08 2024 2:28 AM 
+- 🔥 [Permute 3.11.7-2743 小巧便捷的多媒体文件格式转换器](https://xclient.info/s/permute.html) | Mon Mar 11 2024 12:58 AM 
     <details><summary>展开描述 ...</summary> 
-    PopChar X是Mac os平台上一款特殊字符输入软件，让你插入各种字体的字和HTML标识到你的文件中。 
+    Permute 提供简单的视频格式转换功能，可以简单的将视频文件转换为你想要的格式。将你想要转换的视频拖到软件窗口内，然后选择你想要转换的格式即可。 
     </details> 
 
-- 🌋 [Nova 11.9 代码编辑器](https://xclient.info/s/nova.html) | Fri Mar 08 2024 2:23 AM 
+- 🌋 [iNet Network Scanner 3.0.6 网络设备监视器](https://xclient.info/s/inet-network-scanner.html) | Mon Mar 11 2024 12:57 AM 
     <details><summary>展开描述 ...</summary> 
-    Nova是Mac电脑上的一款强大的代码编辑工具，支持智能自动完成，多个光标，Minimap，编辑器过度滚动，标签对和括号以及更多方式。 
+    iNet Network Scanner是一款Mac上的网络设备监视器，能够自动扫描和发现网络中的设备，显示出设备的 IP 地址、生产厂商、MAC 地址等，支持网络设备、Bonjour服务、Airport等 
     </details> 
 <!-- xclient:END -->
 
