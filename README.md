@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [禁止支付赎金，然后呢？](https://www.freebuf.com/news/393921.html) | Mon Mar 11 2024 3:33 AM 
+    <details><summary>展开描述 ...</summary> 
+    禁止勒索软件受害者向攻击者支付赎金，这一倡议在一些国家和地区已不是什么新鲜事，但对绝大多数地方而言，这一做法的实施仍然举步维艰。英国国家网络安全中心前负责人夏兰·马丁 &lpar;Ciaran Martin&rpar;表示，“由于勒索软件组织构成的巨大威胁和破坏没有任何停止的迹象，现在是时候弄清楚如何让勒索软件支付禁令发挥作用了。”他在《伦敦时报》最近的一篇专栏文章中强调，虽然各国政府开始寻找这个问题的答案，但不应立 
+    </details> 
+
 - 🦄 [driftingbules:5 靶场解析及复现](https://www.freebuf.com/articles/web/387370.html) | Fri Mar 08 2024 9:46 AM 
     <details><summary>展开描述 ...</summary> 
     kali的IP地址：192.168.200.14靶机IP地址：192.168.200.60一、信息收集1.对利用nmap目标靶机进行扫描由于arp-scan属于轻量级扫描，在此直接使用nmap进行对目 
     </details> 
 
-- 🦄 [FreeBuf 周报 | 网络安全成两会热议“关键词”；GitHub超过10万存储库被感染](https://www.freebuf.com/news/393844.html) | Fri Mar 08 2024 7:27 AM 
+- 🦅 [FreeBuf 周报 | 网络安全成两会热议“关键词”；GitHub超过10万存储库被感染](https://www.freebuf.com/news/393844.html) | Fri Mar 08 2024 7:27 AM 
     <details><summary>展开描述 ...</summary> 
     总结推荐本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
     </details> 
 
-- 🦅 [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/393842.html) | Fri Mar 08 2024 7:11 AM 
+- 🪄 [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/393842.html) | Fri Mar 08 2024 7:11 AM 
     <details><summary>展开描述 ...</summary> 
     文章精选了本周知识大陆公开发布的10条优质资源，让我们一起看看吧。 
     </details> 
 
-- 🪄 [FreeBuf 早报 | Midjourney封禁Stability AI；Rhysida勒索团伙已出售儿童患者数据](https://www.freebuf.com/news/393832.html) | Fri Mar 08 2024 6:34 AM 
+- 💻 [FreeBuf 早报 | Midjourney封禁Stability AI；Rhysida勒索团伙已出售儿童患者数据](https://www.freebuf.com/news/393832.html) | Fri Mar 08 2024 6:34 AM 
     <details><summary>展开描述 ...</summary> 
     Capita公司在2023年报中表示，勒索攻击造成的净成本为2.32亿元，并且还未计算由此可能给公司带来的巨额赔偿和监管罚款。 
-    </details> 
-
-- 💻 [这个超火的黑客小工具，可以通过WiFi解锁特斯拉](https://www.freebuf.com/news/393813.html) | Fri Mar 08 2024 5:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    一种利用 Flipper Zero 设备进行的简单钓鱼攻击可能导致特斯拉账户被篡改，甚至能让汽车被解锁并启动。 
     </details> 
 <!-- freebuf:END -->
 
