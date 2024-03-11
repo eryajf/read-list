@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [如何在Ubuntu上部署最新的Google Chrome和ChromeDriver](https://juejin.cn/post/7344941254236307483) | Mon Mar 11 2024 1:57 PM 
+- 🤗 [一文搞懂 JavaScript 模块化](https://juejin.cn/post/7345105809599889427) | Mon Mar 11 2024 3:08 PM 
     <details><summary>展开描述 ...</summary> 
-    本章将帮助各位同学如何在Ubuntu及衍生版安装ChromeDriver和Selenium。【各位同学如果很感兴趣，可以点赞关注我哦】 
+    本文梳理JS模块化的历史和现状，不仅介绍不同模块系统是什么，而是深入介绍不同模块系统诞生的原因和解决的问题，阅读本文将为你解开很多JS模块化的疑惑 
     </details> 
 
-- 🎡 [鸿蒙应用开发-路由与生命周期](https://juejin.cn/post/7345071481376391203) | Mon Mar 11 2024 1:55 PM 
+- 🎡 [前端食堂技术周刊第 115 期：Rolldown 正式开源、马斯克宣布 xAI 本周将开源 Grok、如何使用 Copilot 完成 50% 的日常工作？](https://juejin.cn/post/7344983784549302309) | Mon Mar 11 2024 3:05 PM 
     <details><summary>展开描述 ...</summary> 
-    1. 路由-常用API 新建页面 pages/DetailPage.ets profile 目录创建 main_pages TIP 手动新建一个页面（ets）文件，需要在 main_pages.jso 
+    Rolldown 正式开源、马斯克宣布 xAI 本周将开源 Grok、如何使用 Copilot 完成 50% 的日常工作？ 
     </details> 
 
-- 🕯 [HarmonyOS应用开发快速入门](https://juejin.cn/post/7345070825677815843) | Mon Mar 11 2024 1:41 PM 
+- 🕯 [TS 通过类型也能实现 Array.includes？](https://juejin.cn/post/7345071341483147316) | Mon Mar 11 2024 3:03 PM 
     <details><summary>展开描述 ...</summary> 
-    本文旨在介绍开发者如何快速入门HarmonyOS应用开发，后续还有鸿蒙平台的路由框架设计及开发介绍哦~ 
+    题目 在类型系统里实现 JavaScript 的 Array.includes 方法，这个类型接受两个参数，返回的类型要么是 true 要么是 false。 例如： 测试 Case： 初始代码： 题解 
     </details> 
 
-- 🚀 [Vue 封装简易 Tree 组件：快一起来感受树形结构的魅力！😎](https://juejin.cn/post/7345097543871217675) | Mon Mar 11 2024 1:38 PM 
+- 🚀 [leetcode110-平衡二叉树](https://juejin.cn/post/7345105846341451830) | Mon Mar 11 2024 2:54 PM 
     <details><summary>展开描述 ...</summary> 
-    Vue3 + TS 简易封装 Tree 组件，实现基本的展开收缩、级联选择、异步加载、虚拟滚动等效果。 
+    算法是计算机软件的基础，常见算法是软件开发的核心基本功，今年打算深入学习一些算法，记录一些算法理论以及最佳实践，希望可以坚持下去，关注我，我们一起学习，增强我们的基本功。 
     </details> 
 
-- 💪 [爬虫实战：从外地天气到美食推荐，探索干饭人的世界](https://juejin.cn/post/7345094214600523815) | Mon Mar 11 2024 1:23 PM 
+- 💪 [【浅谈设计模式】&lpar;22&rpar;:备忘录模式 | 代码管理](https://juejin.cn/post/7345071341483130932) | Mon Mar 11 2024 2:41 PM 
     <details><summary>展开描述 ...</summary> 
-    今天是第二堂课，我们将继续学习爬虫技术。在上一节课中，我们已经学会了如何爬取干饭教程。正如鲁迅所说（我没说过），当地吃完饭就去外地吃，这启发了我去爬取城市天气信息，并顺便了解当地美食。这个想法永远是干 
+    前言 一、概述 何为备忘录设计模式？ 备忘录设计模式类似于存档，也称为快照模式，经常我们在发布的时候，会把原来的 jar 程序进行一个备份存档，遇到不对劲的地方就可以恢复操作，备忘录模式就是这个道理。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
