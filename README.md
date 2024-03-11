@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Java HashMap 和 HashSet 的高效使用技巧](https://juejin.cn/post/7345086315853774859) | Mon Mar 11 2024 1:08 PM 
+- 🤗 [如何在Ubuntu上部署最新的Google Chrome和ChromeDriver](https://juejin.cn/post/7344941254236307483) | Mon Mar 11 2024 1:57 PM 
     <details><summary>展开描述 ...</summary> 
-    Java HashMap HashMap 是一种哈希表，它存储键值对。键用于查找值，就像数组中的索引一样。HashMap 的优势在于它可以使用任何类型作为键，并且查找速度很快。 创建 HashMap  
+    本章将帮助各位同学如何在Ubuntu及衍生版安装ChromeDriver和Selenium。【各位同学如果很感兴趣，可以点赞关注我哦】 
     </details> 
 
-- 🎡 [你可能不知道的 Vue 中的 3 种 props](https://juejin.cn/post/7345085744228941860) | Mon Mar 11 2024 12:45 PM 
+- 🎡 [鸿蒙应用开发-路由与生命周期](https://juejin.cn/post/7345071481376391203) | Mon Mar 11 2024 1:55 PM 
     <details><summary>展开描述 ...</summary> 
-    props 是我们在 Vue 中从父组件到子组件传递数据的方式。我们会深入学习这三种不同类型的 props，看看它们有何不同。 
+    1. 路由-常用API 新建页面 pages/DetailPage.ets profile 目录创建 main_pages TIP 手动新建一个页面（ets）文件，需要在 main_pages.jso 
     </details> 
 
-- 🕯 [你知道git rebase 和 git merge的区别吗？](https://juejin.cn/post/7344958089428369446) | Mon Mar 11 2024 12:28 PM 
+- 🕯 [HarmonyOS应用开发快速入门](https://juejin.cn/post/7345070825677815843) | Mon Mar 11 2024 1:41 PM 
     <details><summary>展开描述 ...</summary> 
-    在使用git进行版本管理的项目中，当完成一个功能的开发并将其合并到master分支时，会有两种方式： git merge git rebase 
+    本文旨在介绍开发者如何快速入门HarmonyOS应用开发，后续还有鸿蒙平台的路由框架设计及开发介绍哦~ 
     </details> 
 
-- 🚀 [召回率和精确率](https://juejin.cn/post/7344993022075650098) | Mon Mar 11 2024 12:02 PM 
+- 🚀 [Vue 封装简易 Tree 组件：快一起来感受树形结构的魅力！😎](https://juejin.cn/post/7345097543871217675) | Mon Mar 11 2024 1:38 PM 
     <details><summary>展开描述 ...</summary> 
-    召回率和精确率是一些文档中常用的词语，怎么理解了？本文会简单、明了的介绍一下！方便大家日常沟通协作中能够使用到！ 
+    Vue3 + TS 简易封装 Tree 组件，实现基本的展开收缩、级联选择、异步加载、虚拟滚动等效果。 
     </details> 
 
-- 💪 [认识区块链（一）：什么是区块链？](https://juejin.cn/post/7344991898622427186) | Mon Mar 11 2024 11:41 AM 
+- 💪 [爬虫实战：从外地天气到美食推荐，探索干饭人的世界](https://juejin.cn/post/7345094214600523815) | Mon Mar 11 2024 1:23 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 《认识区块链》是一个系列，因为笔者的毕设与区块链相关，所以打算把所学所想通过博客的形式记录下来。这个专栏会从区块链是什么，拓展到区块链核心技术实现，区块链应用，以及区块链相关开发，最后会带大家一 
+    今天是第二堂课，我们将继续学习爬虫技术。在上一节课中，我们已经学会了如何爬取干饭教程。正如鲁迅所说（我没说过），当地吃完饭就去外地吃，这启发了我去爬取城市天气信息，并顺便了解当地美食。这个想法永远是干 
     </details> 
 <!-- juejin:END -->
 ### 少数派
