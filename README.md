@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [一文搞懂 JavaScript 模块化](https://juejin.cn/post/7345105809599889427) | Mon Mar 11 2024 3:08 PM 
+- 🤗 [58k Star 的前端可视化图表库！功能强大、海量模板 | 开源日报 No.197](https://juejin.cn/post/7345071481377046563) | Mon Mar 11 2024 4:02 PM 
     <details><summary>展开描述 ...</summary> 
-    本文梳理JS模块化的历史和现状，不仅介绍不同模块系统是什么，而是深入介绍不同模块系统诞生的原因和解决的问题，阅读本文将为你解开很多JS模块化的疑惑 
+    echarts 是一个功能强大、交互式的图表和数据可视化库，适用于浏览器。纯 JavaScript 编写，基于轻量级画布库 zrender，提供直观、交互式且高度可定制的图表，支持各种类型的图表展示。 
     </details> 
 
-- 🎡 [前端食堂技术周刊第 115 期：Rolldown 正式开源、马斯克宣布 xAI 本周将开源 Grok、如何使用 Copilot 完成 50% 的日常工作？](https://juejin.cn/post/7344983784549302309) | Mon Mar 11 2024 3:05 PM 
+- 🎡 [Nest 如何打印日志](https://juejin.cn/post/7345105899150655500) | Mon Mar 11 2024 3:34 PM 
     <details><summary>展开描述 ...</summary> 
-    Rolldown 正式开源、马斯克宣布 xAI 本周将开源 Grok、如何使用 Copilot 完成 50% 的日常工作？ 
+    本文详细介绍了如何使用 Nest 内置的 Logger 服务以及如何自定义日志输出。通过创建一个简单的项目，我们学习了如何启用和配置日志级别，以及如何通过控制台输出日志。 
     </details> 
 
-- 🕯 [TS 通过类型也能实现 Array.includes？](https://juejin.cn/post/7345071341483147316) | Mon Mar 11 2024 3:03 PM 
+- 🕯 [Nest 依赖注入核心： Metadata 和 Reflector](https://juejin.cn/post/7345105899150639116) | Mon Mar 11 2024 3:32 PM 
     <details><summary>展开描述 ...</summary> 
-    题目 在类型系统里实现 JavaScript 的 Array.includes 方法，这个类型接受两个参数，返回的类型要么是 true 要么是 false。 例如： 测试 Case： 初始代码： 题解 
+    本文详细介绍了如何在 Nest 框架中使用 Reflect Metadata 来实现依赖注入。通过示例代码，我们学习了如何定义和获取元数据，以及如何利用它们来分析依赖关系和创建对象。 
     </details> 
 
-- 🚀 [leetcode110-平衡二叉树](https://juejin.cn/post/7345105846341451830) | Mon Mar 11 2024 2:54 PM 
+- 🚀 [Nest 使用 compodoc 生成文档](https://juejin.cn/post/7345105799864385577) | Mon Mar 11 2024 3:27 PM 
     <details><summary>展开描述 ...</summary> 
-    算法是计算机软件的基础，常见算法是软件开发的核心基本功，今年打算深入学习一些算法，记录一些算法理论以及最佳实践，希望可以坚持下去，关注我，我们一起学习，增强我们的基本功。 
+    本文介绍了如何使用Compodoc工具为TypeScript项目生成文档。Compodoc能够分析代码，生成包含类、接口、服务、控制器和模块及其依赖关系的文档。 
     </details> 
 
-- 💪 [【浅谈设计模式】&lpar;22&rpar;:备忘录模式 | 代码管理](https://juejin.cn/post/7345071341483130932) | Mon Mar 11 2024 2:41 PM 
+- 💪 [http协议中的缓存：强缓存、协商缓存](https://juejin.cn/post/7345071242825416719) | Mon Mar 11 2024 3:27 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 一、概述 何为备忘录设计模式？ 备忘录设计模式类似于存档，也称为快照模式，经常我们在发布的时候，会把原来的 jar 程序进行一个备份存档，遇到不对劲的地方就可以恢复操作，备忘录模式就是这个道理。 
+    http中的缓存分为两种：强缓存、协商缓存。强缓存 响应头中的 status 是 200，相关字段有expires（http1.0）,cache-control（http1.1&rpar;… 
     </details> 
 <!-- juejin:END -->
 ### 少数派
