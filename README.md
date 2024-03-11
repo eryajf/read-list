@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [橘猫起始页 - 快速的保存当前打开的页面，以及聚合搜索条服务和快捷翻译](https://xinquji.com/posts/809660?utm_campaign=xinquji-rss) | Mon Mar 11 2024 6:16 AM 
+- 👀 [你分享的链接泄露隐私了吗 ? - 通过分享的链接查询到分享人的社交账号](https://xinquji.com/posts/809695?utm_campaign=xinquji-rss) | Tue Mar 12 2024 9:18 AM 
+    <details><summary>展开描述 ...</summary> 
+     通过分享的链接查询到分享人的社交账号  
+    </details> 
+
+- 🥷 [VoiceMirror - 即时语音翻译，超过32种语言，出国旅游好帮手](https://xinquji.com/posts/809694?utm_campaign=xinquji-rss) | Tue Mar 12 2024 9:17 AM 
+    <details><summary>展开描述 ...</summary> 
+     即时语音翻译，超过32种语言，出国旅游好帮手  
+    </details> 
+
+- 💼 [橘猫起始页 - 快速的保存当前打开的页面，以及聚合搜索条服务和快捷翻译](https://xinquji.com/posts/809660?utm_campaign=xinquji-rss) | Mon Mar 11 2024 6:16 AM 
     <details><summary>展开描述 ...</summary> 
      快速的保存当前打开的页面，以及聚合搜索条服务和快捷翻译  
     </details> 
 
-- 🥷 [答案之书 - 在线版 - 在犹豫不决时，找到内心的答案](https://xinquji.com/posts/809553?utm_campaign=xinquji-rss) | Mon Mar 11 2024 6:11 AM 
+- 🦅 [答案之书 - 在线版 - 在犹豫不决时，找到内心的答案](https://xinquji.com/posts/809553?utm_campaign=xinquji-rss) | Mon Mar 11 2024 6:11 AM 
     <details><summary>展开描述 ...</summary> 
      在犹豫不决时，找到内心的答案  
     </details> 
 
-- 💼 [DreamHub - 图解你我故事，静观人生百态](https://xinquji.com/posts/809513?utm_campaign=xinquji-rss) | Mon Mar 11 2024 6:11 AM 
+- 😺 [DreamHub - 图解你我故事，静观人生百态](https://xinquji.com/posts/809513?utm_campaign=xinquji-rss) | Mon Mar 11 2024 6:11 AM 
     <details><summary>展开描述 ...</summary> 
      图解你我故事，静观人生百态  
-    </details> 
-
-- 🦅 [神笔AI写作【论文版】 - 更适合中国大学生体质的论文写作助手](https://xinquji.com/posts/809679?utm_campaign=xinquji-rss) | Mon Mar 11 2024 6:09 AM 
-    <details><summary>展开描述 ...</summary> 
-     更适合中国大学生体质的论文写作助手  
-    </details> 
-
-- 😺 [Picurious AI - 捕捉、解决和发现图片](https://xinquji.com/posts/809723?utm_campaign=xinquji-rss) | Mon Mar 11 2024 6:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     捕捉、解决和发现图片  
     </details> 
 <!-- xinquji:END -->
