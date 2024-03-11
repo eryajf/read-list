@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [用AI短视频「反哺」长视频理解，腾讯MovieLLM框架瞄准电影级连续帧生成](https://juejin.cn/entry/7344970205891969035) | Mon Mar 11 2024 7:10 AM 
+- 🤗 [极速搭建一个 SingleSPA 主子应用](https://juejin.cn/post/7344970198619668521) | Mon Mar 11 2024 8:03 AM 
     <details><summary>展开描述 ...</summary> 
-    在视频理解这一领域，尽管多模态模型在短视频分析上取得了突破性进展，展现出了较强的理解能力，但当它们面对电影级别的长视频时，却显得力不从心。 
+    基于 SingleSPA 6.x 版本，创建微前端主子应用。 下面是一个基本的步骤指南和代码示例来帮助你开始。 安装依赖 首先，你需要安装 single-spa 及其相关依赖。对于 React 和 T 
     </details> 
 
-- 🎡 [Docker镜像秘术：优雅实现SSH登录和NVM管理Node](https://juejin.cn/post/7344742642151161894) | Mon Mar 11 2024 7:08 AM 
+- 🎡 [uni-app 必备技能：自定义平台的条件编译实战详解](https://juejin.cn/post/7344970197131329575) | Mon Mar 11 2024 7:59 AM 
     <details><summary>展开描述 ...</summary> 
-    本文将展示如何通过Docker镜像简化Node.js多版本管理，以及如何使用SSH直接登录容器，解决频繁切换版本和容器文件操作不便的问题。掌握这些技巧，将极大提高开发效率和简化容器管理。 
+    uni-app 条件编译学习从入门到精通，包括：条件编译基础运用，自定义平台的条件编译实战详解，彻底掌握多端部署核心。 
     </details> 
 
-- 🕯 [一文了解Cornerstone3D中窗宽窗位的3种设置场景及原理](https://juejin.cn/post/7344881744245948453) | Mon Mar 11 2024 7:07 AM 
+- 🕯 [Nodejs 第五十四章（net）](https://juejin.cn/post/7344927519923093514) | Mon Mar 11 2024 7:52 AM 
     <details><summary>展开描述 ...</summary> 
-    在使用Cornerstone3D渲染影像时，有一个常用功能“设置窗宽窗位“，本文将围绕窗宽窗位的基础概念、如何使用工具调整及工具调整的实现原理、js动态调整、MPR视图下多视图同步调整等展开。 
+    net模块是Node.js的核心模块之一，它提供了用于创建基于网络的应用程序的API。net模块主要用于创建TCP服务器和TCP客户端，以及处理网络通信。 TCP（Transmission Contr 
     </details> 
 
-- 🚀 [教授何恺明在MIT的第一堂课](https://juejin.cn/entry/7344970205891887115) | Mon Mar 11 2024 7:06 AM 
+- 🚀 [总结归纳Kubernetes | 一站式速查知识，助您轻松驾驭容器编排技术（配置与密码安全）](https://juejin.cn/post/7344970198619455529) | Mon Mar 11 2024 7:42 AM 
     <details><summary>展开描述 ...</summary> 
-    700 座的大教室，相比去年增加一倍容量，仍然座无虚席： 这就是麻省理工学院（MIT）计算机视觉课《Advances in Computer Vision》6.8300 在 2024 新学期的盛况。  
+    前提介绍 Kubernetes，亦被称为K8s，是业界公认的容器编排巨擘，以其卓越的能力简化了容器化应用的部署、扩展和管理流程。通过其强大的功能，Kubernetes不仅提升了应用的可靠性和可伸缩性， 
     </details> 
 
-- 💪 [记一次Profiler生产实战内存分析（二）](https://juejin.cn/post/7344697321798287400) | Mon Mar 11 2024 7:05 AM 
+- 💪 [基于DiT，支持4K图像生成，华为诺亚0.6B文生图模型PixArt-Σ来了](https://juejin.cn/entry/7344970205892018187) | Mon Mar 11 2024 7:12 AM 
     <details><summary>展开描述 ...</summary> 
-    线上又有服务CPU爆高了呀，分析一下原因，是JVM频繁垃圾回收导致，dump下内存文件看看，下面说下如何使用Jprofiler进行内存分析。 
+    众所周知，开发顶级的文生图（T2I）模型需要大量资源，因此资源有限的个人研究者基本都不可能承担得起，这也成为了 AIGC（人工智能内容生成）社区创新的一大阻碍。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
