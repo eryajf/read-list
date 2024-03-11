@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Nest 的 3 种定时任务](https://juejin.cn/post/7344625554529927208) | Sun Mar 10 2024 5:13 PM 
+- 🤗 [作为前端需要知道的逻辑像素、设备像素、dpr、dpi...](https://juejin.cn/post/7344573755643904054) | Mon Mar 11 2024 12:57 AM 
     <details><summary>展开描述 ...</summary> 
-    本文介绍了如何在 Nest.js 应用程序中使用 ScheduleModule 来创建和管理定时任务。 Nest.js 还提供了 @Interval 和 @Timeout 装饰器来创 
+    作为前端开发者，我们经常需要面对各种不同的屏幕，如 PC、iPad、移动端等。这些屏幕的尺寸和分辨率各不相同，因此我们在 CSS 中设置的相同像素单位（px）在不同屏幕上的显示效果也会有所差异。如果你 
     </details> 
 
-- 🎡 [第一次运行 Python 项目，使用 python-pptx 提取 ppt 中的文字和图片](https://juejin.cn/post/7344325496983535642) | Sun Mar 10 2024 4:37 PM 
+- 🎡 [RAG加速器：数据抽取服务](https://juejin.cn/post/7344567650457075727) | Mon Mar 11 2024 12:46 AM 
     <details><summary>展开描述 ...</summary> 
-    人工智能时代，最需要学习的编程语言是：python 。笔者是个 python 小白，昨天花了两个小时，第一次成功运行起来 python 项目 。 项目是 powerpoint-extractor ，可 
+    今日，我们激动地公布了我们最新的开源项目——用例加速器：一项数据抽取服务。大型语言模型（LLM）极其擅长从非结构化数据中抽取出有结构的信息。我们在最近的几个版本中不断优化LangChain开源库中的数 
     </details> 
 
-- 🕯 [【折腾向】闲置手机 + 内网穿透 + caddy + rclone = ？](https://juejin.cn/post/7344567634917474338) | Sun Mar 10 2024 4:11 PM 
+- 🕯 [栗子前端技术周刊第20期 - Eloquent JavaScript 第四版、JSR、Million Lint Beta...](https://juejin.cn/post/7344282440725348389) | Mon Mar 11 2024 12:45 AM 
     <details><summary>展开描述 ...</summary> 
-    通过 frp 内网穿透将闲置手机暴露至公网，并使用 caddy 搭建 webdav 服务，客户端使用 rclone 实现 webdav 挂载，达到类坚果云的效果。 
+    🌰栗子前端技术周刊第 20 期 &lpar;2024.3.4 - 2024.3.10&rpar;：浏览前端一周最新消息，学习国内外优秀文章视频，让我们保持对前端的好奇心。 📰 技术资讯 《Eloquent JavaS 
     </details> 
 
-- 🚀 [Axios：从入门到精通的全面指南](https://juejin.cn/post/7344567634917441570) | Sun Mar 10 2024 3:33 PM 
+- 🚀 [特斯拉被黑客攻击？如何保护您的Kubernetes集群并阻止黑客？](https://juejin.cn/post/7344598656143933503) | Mon Mar 11 2024 12:33 AM 
     <details><summary>展开描述 ...</summary> 
-    Axios提供了丰富的API和灵活的配置选项，使得发送HTTP请求变得既简单又高效。本文将从基础用法探索到高级功能，包括拦截器和全局配置，最后通过一个综合例子展示Axios的强大功能。 
+    Kubernetes 的组件可以分为两大类： 控制平面和数据平面。Kubernetes 具有许多优点，但也有许多安全考虑因素必须被认真考虑。 
     </details> 
 
-- 💪 [【Gradle-14】编译优化之Gradle最佳配置实践](https://juejin.cn/post/7344625554529730600) | Sun Mar 10 2024 3:31 PM 
+- 💪 [Claude 3 强势来袭，ChatGPT 竟然发不出消息？](https://juejin.cn/post/7344598656143917119) | Mon Mar 11 2024 12:32 AM 
     <details><summary>展开描述 ...</summary> 
-    在不花钱的基础上，通过分析影响编译的因素、优化原则和Gradle配置最佳实践的方式，来帮助大家低成本的提升编译速度。 
+    Anthropic最新推出的Claude 3家族是一组先进的大型语言模型，在大多数常见的评估基准上都优于Gemini和ChatGPT4。但是，最近发现ChatGPT消息发不出去了。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
