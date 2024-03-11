@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [作为前端需要知道的逻辑像素、设备像素、dpr、dpi...](https://juejin.cn/post/7344573755643904054) | Mon Mar 11 2024 12:57 AM 
+- 🤗 [多线程如何进行线程通信](https://juejin.cn/post/7344567669892988968) | Mon Mar 11 2024 2:18 AM 
     <details><summary>展开描述 ...</summary> 
-    作为前端开发者，我们经常需要面对各种不同的屏幕，如 PC、iPad、移动端等。这些屏幕的尺寸和分辨率各不相同，因此我们在 CSS 中设置的相同像素单位（px）在不同屏幕上的显示效果也会有所差异。如果你 
+    线程通信 除了使用synchronized来对代码块和方法进行同步外，jdk1.5之后还有一种Loc 
     </details> 
 
-- 🎡 [RAG加速器：数据抽取服务](https://juejin.cn/post/7344567650457075727) | Mon Mar 11 2024 12:46 AM 
+- 🎡 [【笔记】Koa 洋葱模型的学习与简单实现](https://juejin.cn/post/7344625554531024936) | Mon Mar 11 2024 2:17 AM 
     <details><summary>展开描述 ...</summary> 
-    今日，我们激动地公布了我们最新的开源项目——用例加速器：一项数据抽取服务。大型语言模型（LLM）极其擅长从非结构化数据中抽取出有结构的信息。我们在最近的几个版本中不断优化LangChain开源库中的数 
+    这是对于 Koa 洋葱模型实现的分析和学习。就是说每一个中间件都是一个责任层。所以核心关键点是 next 函数。 
     </details> 
 
-- 🕯 [栗子前端技术周刊第20期 - Eloquent JavaScript 第四版、JSR、Million Lint Beta...](https://juejin.cn/post/7344282440725348389) | Mon Mar 11 2024 12:45 AM 
+- 🕯 [这个中国亲戚关系计算器让你告别“社死”](https://juejin.cn/post/7344573753538330678) | Mon Mar 11 2024 2:15 AM 
     <details><summary>展开描述 ...</summary> 
-    🌰栗子前端技术周刊第 20 期 &lpar;2024.3.4 - 2024.3.10&rpar;：浏览前端一周最新消息，学习国内外优秀文章视频，让我们保持对前端的好奇心。 📰 技术资讯 《Eloquent JavaS 
+    relationship —— 中国亲戚关系计算器，只需简单的输入即可算出称谓。快捷输入按键，只需简单的点击即可完成关系输入，算法还支持逆向查找称呼哦～ 
     </details> 
 
-- 🚀 [特斯拉被黑客攻击？如何保护您的Kubernetes集群并阻止黑客？](https://juejin.cn/post/7344598656143933503) | Mon Mar 11 2024 12:33 AM 
+- 🚀 [托文档搜索的福，我终于在实战中用上了AI！](https://juejin.cn/post/7344567669892956200) | Mon Mar 11 2024 2:15 AM 
     <details><summary>展开描述 ...</summary> 
-    Kubernetes 的组件可以分为两大类： 控制平面和数据平面。Kubernetes 具有许多优点，但也有许多安全考虑因素必须被认真考虑。 
+    话说AI已经火了很长一段时间了，23年初期GPT带来的冲击甚至出现了“前端，狗都不做”的言论！突然间，实战中应用AI成了我最想做的一件事～这次就通过实战文档搜索来应用AI，弥补关键词搜索的不足之处 
     </details> 
 
-- 💪 [Claude 3 强势来袭，ChatGPT 竟然发不出消息？](https://juejin.cn/post/7344598656143917119) | Mon Mar 11 2024 12:32 AM 
+- 💪 [JSR来了，那就去发个包吧!](https://juejin.cn/post/7344572677392498726) | Mon Mar 11 2024 2:12 AM 
     <details><summary>展开描述 ...</summary> 
-    Anthropic最新推出的Claude 3家族是一组先进的大型语言模型，在大多数常见的评估基准上都优于Gemini和ChatGPT4。但是，最近发现ChatGPT消息发不出去了。 
+    JSR 全名为JavaScript Registry，由 Deno 推出的 JavaScript 注册表。有着很高的兼容性，可与任何 JavaScript 包管理器一起使用，如npm、pnpm 
     </details> 
 <!-- juejin:END -->
 ### 少数派
