@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [请教各路大神有什么方法可以绕过 google 的 reCaptcha 人机验证。](https://www.v2ex.com/t/1022567#reply1) | Mon Mar 11 2024 7:00 AM
-- 🤗 [springboot web 大表单多文件接口设计问题](https://www.v2ex.com/t/1022555#reply11) | Mon Mar 11 2024 6:39 AM
-- 🎭 [Telemetry: 一种可以在别人网站也能收集访问记录的技术](https://www.v2ex.com/t/1022549#reply1) | Mon Mar 11 2024 6:26 AM
-- 🥷 [买了 tank 家的机箱，求推荐一下便宜点的板 U 套](https://www.v2ex.com/t/1022546#reply4) | Mon Mar 11 2024 6:20 AM
-- 🐵 [华擎 j3455 itx 升级有哪些选择？](https://www.v2ex.com/t/1022540#reply0) | Mon Mar 11 2024 6:10 AM<!-- v2ex:END -->
+- 🥸 [大数据领域的各种概念从技术角度思考是不是一种伪技术？](https://www.v2ex.com/t/1022597#reply0) | Mon Mar 11 2024 8:14 AM
+- 🤗 [开源了一个适配多设备的 WEB 电商全栈项目， APP 也在努力中。](https://www.v2ex.com/t/1022595#reply0) | Mon Mar 11 2024 8:11 AM
+- 🎭 [发现一个命令行帮助文档的网站 commandnotfound.cn](https://www.v2ex.com/t/1022593#reply3) | Mon Mar 11 2024 8:02 AM
+- 🥷 [PDD 运营管培生](https://www.v2ex.com/t/1022590#reply1) | Mon Mar 11 2024 7:58 AM
+- 🐵 [visual studio code for .NET](https://www.v2ex.com/t/1022574#reply10) | Mon Mar 11 2024 7:16 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
