@@ -341,7 +341,7 @@ PS：不断学习和精进是红队人员的精神，
 
 <!-- v2ex:START -->
 - 🥸 [PVE 跟 PBS 在同一台机器上运行，但是 PBS 的备份数据放单独的备份盘，两块硬盘一起坏的概率高么？有什么推荐的异地备份方案？](https://www.v2ex.com/t/1023057#reply0) | Tue Mar 12 2024 4:44 PM
-- 🤗 [应届生的求职迷茫&amp;Offer 选择，渴望得到前辈们的一些指点](https://www.v2ex.com/t/1023056#reply22) | Tue Mar 12 2024 4:41 PM
+- 🤗 [应届生的求职迷茫&amp;Offer 选择，渴望得到前辈们的一些指点](https://www.v2ex.com/t/1023056#reply24) | Tue Mar 12 2024 4:41 PM
 - 🎭 [我看谁还在说 PHP 开发没有前途，我就给他一个大闭斗](https://www.v2ex.com/t/1023053#reply3) | Tue Mar 12 2024 4:25 PM
 - 🥷 [打算配一台主机用于跑大模型玩，大佬们有推荐的配置吗](https://www.v2ex.com/t/1023052#reply7) | Tue Mar 12 2024 4:13 PM
 - 🐵 [大厂开发面试如何准备？](https://www.v2ex.com/t/1023040#reply1) | Tue Mar 12 2024 3:05 PM<!-- v2ex:END -->
