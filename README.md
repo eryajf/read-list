@@ -349,29 +349,29 @@ PS：不断学习和精进是红队人员的精神，
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [使用Babel在Node环境下实现ES6模块化及与Node原生对ES6支持的对比](https://juejin.cn/post/7345356037404426266) | Tue Mar 12 2024 3:02 PM 
+- 🤗 [Nest.js 整合 Winston 日志系统的实战教程](https://juejin.cn/post/7345339165418274816) | Tue Mar 12 2024 4:19 PM 
     <details><summary>展开描述 ...</summary> 
-    借助Babel这样的JavaScript编译器，就可以在Node环境下愉快地使用ES6模块化特性。本文将介绍如何配置Babel来实现这一点，并与Node.js原生对ES6模块的支持进行对比。 
+    本文详细介绍了如何将 Winston 日志系统整合到 Nest.js 项目中。整个过程包括代码示例和步骤说明，适合希望深入了解 Nest.js 日志集成的开发者阅读。 
     </details> 
 
-- 🎡 [webpack-html-plugin的原理](https://juejin.cn/post/7345352532657684531) | Tue Mar 12 2024 3:02 PM 
+- 🎡 [Winston 日志框架：功能与应用指南](https://juejin.cn/post/7345387782111739944) | Tue Mar 12 2024 4:17 PM 
     <details><summary>展开描述 ...</summary> 
-    本文将重点探讨html-webpack-plugin和webpack-dev-server这两个在Web开发中常用的插件/工具，详细说明它们的使用过程。 
+    Winston 是 Node.js 的一个流行日志框架，提供多种日志级别、自定义日志格式和多种存储选项。 
     </details> 
 
-- 🕯 [postMessage 消息通信如何 Promise 化？](https://juejin.cn/post/7345356037404409882) | Tue Mar 12 2024 3:01 PM 
+- 🕯 [前端面试高频考点之——深拷贝和浅拷贝](https://juejin.cn/post/7345356037404590106) | Tue Mar 12 2024 4:06 PM 
     <details><summary>展开描述 ...</summary> 
-    postMessage 使用不便，回调事件不好处理？试试 Promise 化后的它吧，相信我，你会爱上这种编程方式~ 
+    深拷贝和浅拷贝是前端开发中常见的概念，对于理解和应用它们的区别非常重要。浅拷贝只复制对象的一层引用，而深拷贝递归地复制对象及其子对象。 
     </details> 
 
-- 🚀 [金三银四技术面试要做哪些准备？](https://juejin.cn/post/7345379864440766527) | Tue Mar 12 2024 2:56 PM 
+- 🚀 [杜绝广告烦扰、屏蔽隐私追踪：AdGuard 帮你守护纯净网络 | 开源日报 No.198](https://juejin.cn/post/7345387782111690792) | Tue Mar 12 2024 4:05 PM 
     <details><summary>展开描述 ...</summary> 
-    现在已经进入了金三银四，很多想换工作的同学或者想参与春招的同学应该在陆续投递简历了，其实找工作是需要好好准备一下的，特别是对于目标工作公司或者岗位有一定的要求的同学。 
+    AdGuardHome 是一个网络范围内的广告和跟踪器拦截 DNS 服务器。 - 提供隐私保护 - 开源免费 - 强大的网络范围内广告和跟踪器拦截功能 - 可覆盖所有家庭设备，无需客户端软件支持 
     </details> 
 
-- 💪 [来自 AI Secure 实验室的 LLM 安全排行榜简介](https://juejin.cn/entry/7345379926147465228) | Tue Mar 12 2024 2:36 PM 
+- 💪 [Vue单文件组件详解](https://juejin.cn/post/7345379926147694604) | Tue Mar 12 2024 3:13 PM 
     <details><summary>展开描述 ...</summary> 
-    近来，LLM 已深入人心，大有燎原之势。但在我们将其应用于千行百业之前，理解其在不同场景下的安全性和潜在风险显得尤为重要。为此，美国白宫发布了关于安全、可靠、可信的人工智能的行政命令; 欧盟人工智能法 
+    在web开发中，组件化开发已成为一种趋势。Vue提供了一种高效的方式来创建和管理这些组件：单文件组件（Single-File Components，简称SFC）。本文对其进行深入解读和分析。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
