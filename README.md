@@ -349,29 +349,29 @@ PS：不断学习和精进是红队人员的精神，
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Spring Boot Properties Prefix Must Be in Canonical Form](https://juejin.cn/post/7345296161056751626) | Tue Mar 12 2024 9:08 AM 
+- 🤗 [npm安装anywhere（ 随启随用的静态文件服务器），分分钟解决浏览器请求本地js文件跨域问题](https://juejin.cn/post/7345379878240747531) | Tue Mar 12 2024 9:57 AM 
     <details><summary>展开描述 ...</summary> 
-    概述 本文对SpringBoot项目启动过程中出现的 &quot;Reason: Canonical names should be kebab-case &lpar;‘-‘ separated&rpar;, lowercase  
+    以下是一个html文件， chrome浏览器打开该文件； 报错如下： 全局安装anywhere npm install -g anywhere，再前往html文件所在目录执行anywhere -p 8 
     </details> 
 
-- 🎡 [promise规范及应用](https://juejin.cn/post/7345312252477718568) | Tue Mar 12 2024 9:06 AM 
+- 🎡 [ABAP 最佳实践：风格和指南](https://juejin.cn/post/7345352532656603187) | Tue Mar 12 2024 9:53 AM 
     <details><summary>展开描述 ...</summary> 
-    学习目标： 了解进程与线程 浏览器原理 EVENT-LOOP（事件循环） Promise 计算机原理-进程、线程 进程：cpu资源分配的最小单位。&lpar;拥有独立的资源库，两个进程间是不会共享资源的，是相互 
+    ABAP 是一种不断发展的编程语言。自 30 多年前问世以来，ABAP 程序不断推陈出新，本文介绍了几个在 SAP ABAP 中如何编写干净、令人愉快的代码的基本方法。 
     </details> 
 
-- 🕯 [深入理解Promise的九大方法](https://juejin.cn/post/7345296161056718858) | Tue Mar 12 2024 9:06 AM 
+- 🕯 [被误解的「中文版Sora」背后，字节跳动有哪些技术？](https://juejin.cn/entry/7345277549335756800) | Tue Mar 12 2024 9:48 AM 
     <details><summary>展开描述 ...</summary> 
-    本文将介绍JavaScrip的Promise对象处理异步操作的解决方案，包括解决、拒绝、链式调用等。 
+    2024 开年，OpenAI 就在生成式 AI 领域扔下了重磅炸弹：Sora。 这几年，视频生成领域的技术迭代持续加速，很多科技公司也公布了相关技术进展和落地成果。 
     </details> 
 
-- 🚀 [React 会议时段拖拽选择组件开发](https://juejin.cn/post/7345379767787946003) | Tue Mar 12 2024 9:04 AM 
+- 🚀 [王室修图何必用PS？Midjourney上新「换脸魔法」，奥特曼一秒COS罗马将军](https://juejin.cn/entry/7345312252478095400) | Tue Mar 12 2024 9:46 AM 
     <details><summary>展开描述 ...</summary> 
-    类似企微会议选择的功能，之前的选择需要用户对会议时间段一个个的点击进行选择，操作非常繁琐，期望达到企微拖拽选择的一个效果。 
+    这两天，英国王室的 P 图事件闹得沸沸扬扬。 3 月 10 日，威廉与凯特的 X 官方账号分享了一张凯特王妃和 3 个孩子的合影。 
     </details> 
 
-- 💪 [深入探索Jetpack Compose LazyColumn性能表现及优化策略](https://juejin.cn/post/7345310754470527010) | Tue Mar 12 2024 8:56 AM 
+- 💪 [350亿参数、开放权重，Transformer作者创业后推出新大模型](https://juejin.cn/entry/7345312252478079016) | Tue Mar 12 2024 9:45 AM 
     <details><summary>展开描述 ...</summary> 
-    自从Jetpack Compose作为Google推出的现代化UI工具包以来，它在Android开发领域掀起了不小的浪潮。Compose的声明式、响应式让UI构建变得前所未有的简洁高效。 然而，在大量 
+    今天，由 Transformer 作者之一 Aidan Gomez 参与创立的人工智能初创公司 Cohere 迎来了自家大模型的发布。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
