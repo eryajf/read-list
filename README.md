@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Databend 开源周报第 135 期](https://juejin.cn/post/7345071716680564736) | Tue Mar 12 2024 3:12 AM 
+- 🤗 [mysql for update是锁表还是锁行](https://juejin.cn/post/7345105989681725479) | Tue Mar 12 2024 4:56 AM 
     <details><summary>展开描述 ...</summary> 
-    What&#39;s On In Databend 探索 Databend 本周新进展，遇到更贴近你心意的 Databend 。 支持查询队列 Databend 现已支持查询队列功能，通过设置 max_run 
+    在并发一致性控制场景中，我们常常用for update悲观锁来进行一致性的保证，但是如果不了解它的机制，就进行使用，很容易出现事故 
     </details> 
 
-- 🎡 [百度 Comate 提升编码效率，释放 10 倍软件生产力](https://juejin.cn/post/7345105927359201334) | Tue Mar 12 2024 3:01 AM 
+- 🎡 [Go arena 民间库来了，可以手动管理内存](https://juejin.cn/post/7345121873598070835) | Tue Mar 12 2024 4:40 AM 
     <details><summary>展开描述 ...</summary> 
-    目前，Comate 在「帮你想」、「帮你写」和「帮你改」三个方面发力。除此之外，Comate 也支持了 100 多种框架和语言，而且场景支持非常丰富，尽可能地满足了每一种开发者人群的诉求。 
+    大家好，我是煎鱼。 上年我们有讨论过关于 Go arena 手动管理内存的相关提案。一开始还高歌猛进，但没想到后面由于严重的 API 问题（想把 arena 应用到其他的标准库中，但会引入大问题）：  
     </details> 
 
-- 🕯 [HarmonyOS4.0开发应用&lpar;五&rpar;【页面路由】](https://juejin.cn/post/7345107078904201268) | Tue Mar 12 2024 2:52 AM 
+- 🕯 [一道定义与赋值的顺序题](https://juejin.cn/post/7345108417113309225) | Tue Mar 12 2024 4:33 AM 
     <details><summary>展开描述 ...</summary> 
-    路由使用跳转方式 router.pushUrl&lpar;&rpar;:目标页不会替换当前页，而是压入页面栈，因此可以用`router back&lpar;&rpar;`返回当前页 router.ReplaceUrl&lpar;&rpar;:目标页会替换当前页 
+    一道定义与赋值的顺序题：赋值与定义的顺序是什么？引用类型的指向是什么？变量存储在堆栈中的值又是什么？ 
     </details> 
 
-- 🚀 [vue项目自定义comfirm弹窗  金石](https://juejin.cn/post/7345107078904086580) | Tue Mar 12 2024 2:42 AM 
+- 🚀 [金三银四，Android  View的绘制流程看这篇就够了](https://juejin.cn/post/7345076635609350170) | Tue Mar 12 2024 4:32 AM 
     <details><summary>展开描述 ...</summary> 
-    一、前言 大家好，我是地霊殿__三無。平时大家是不是经常看到一些酷炫的弹窗，尤其是在大屏项目上，各种酷炫效果，追求一个极致的色彩美。而这其中原理很简单，css部分大家都会吧，无非就是一个全局引入来方便 
+    View是如何显示出来的 调用Activity的attach方法，该方法会创建PhoneWindow对象 在onCreate的setContentView方法中，先会通过PhoneWindow的get 
     </details> 
 
-- 💪 [【动画进阶】巧用 CSS/SVG 实现复杂线条光效动画](https://juejin.cn/post/7345105895930331147) | Tue Mar 12 2024 2:34 AM 
+- 💪 [i18n国际化前端解决方案引发的关于魔法值的思考](https://juejin.cn/post/7345071716680990720) | Tue Mar 12 2024 4:32 AM 
     <details><summary>展开描述 ...</summary> 
-    最近，群里在讨论一个很有意思的线条动画效果，效果大致如下： 简单而言，就是线条沿着不规则路径的行进动画，其中的线条动画可以理解为是特殊的光效。 本文，我们将一起探索，看看在不使用 JavaScript 
+    一、何为魔法值 说到 魔法值，就不得不提一下 阿里巴巴开发规范 里一条代码规范的要求： 魔法值 的前身是 魔数，关于 魔数 的解释，你可以参考知乎上的这个问题 编程中的「魔数」（magic numbe 
     </details> 
 <!-- juejin:END -->
 ### 少数派
