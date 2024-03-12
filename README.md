@@ -301,29 +301,37 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [网安并购 | 拟出资19亿元，控股国盾量子](https://www.freebuf.com/news/394070.html) | Tue Mar 12 2024 3:08 AM 
+- 🦄 [红队实战小课，快来涨经验|Webshell下bypass360](https://www.freebuf.com/news/394133.html) | Tue Mar 12 2024 6:37 AM 
+    <details><summary>展开描述 ...</summary> 
+    本次直播可帮助大家解决的问题：
+
+1.如何bypass360执行系统命令
+
+2.如何bypass360上线cs
+
+3.如何bypass360提权到system
+
+PS：不断学习和精进是红队人员的精神， 
+    </details> 
+
+- 🦄 [意大利数据监管机构对Sora展开调查](https://www.freebuf.com/news/394077.html) | Tue Mar 12 2024 3:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    意大利数据保护监管机构3月8日宣布，将对 OpenAI 新推出的视频人工智能模型 Sora 展开隐私调查。 
+    </details> 
+
+- 🦅 [网安并购 | 拟出资19亿元，控股国盾量子](https://www.freebuf.com/news/394070.html) | Tue Mar 12 2024 3:08 AM 
     <details><summary>展开描述 ...</summary> 
     本次发行完成后，中电信量子集团将成为公司控股股东。 
     </details> 
 
-- 🦄 [法国多个政府机构遭受”猛烈“的网络攻击](https://www.freebuf.com/news/394067.html) | Tue Mar 12 2024 3:06 AM 
+- 🪄 [法国多个政府机构遭受”猛烈“的网络攻击](https://www.freebuf.com/news/394067.html) | Tue Mar 12 2024 3:06 AM 
     <details><summary>展开描述 ...</summary> 
     政府网络安全专家表示，尽管网络攻击的强度非常猛烈，但并不复杂，威胁攻击者使用的都是常见的技术手段。 
     </details> 
 
-- 🦅 [FreeBuf 早报 | 新的xStealer恶意软件首次亮相；英国政府针对勒索软件防范失职](https://www.freebuf.com/news/393993.html) | Mon Mar 11 2024 9:01 AM 
+- 💻 [FreeBuf 早报 | 新的xStealer恶意软件首次亮相；英国政府针对勒索软件防范失职](https://www.freebuf.com/news/393993.html) | Mon Mar 11 2024 9:01 AM 
     <details><summary>展开描述 ...</summary> 
     该恶意软件背后的开发人员承诺不断更新，确保其保持最新、最先进的窃取技术。 
-    </details> 
-
-- 🪄 [遭俄APT组织暴力攻击，微软部分源代码和机密信息泄露](https://www.freebuf.com/news/393940.html) | Mon Mar 11 2024 5:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    在最近几周内已经发现，午夜暴风雪正在利用此前窃取的信息来试图获得未授权的访问。 
-    </details> 
-
-- 💻 [禁止支付赎金，然后呢？](https://www.freebuf.com/news/393921.html) | Mon Mar 11 2024 3:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    禁止勒索软件受害者向攻击者支付赎金，这一倡议在一些国家和地区已不是什么新鲜事，但对绝大多数地方而言，这一做法的实施仍然举步维艰。英国国家网络安全中心前负责人夏兰·马丁 &lpar;Ciaran Martin&rpar;表示，“由于勒索软件组织构成的巨大威胁和破坏没有任何停止的迹象，现在是时候弄清楚如何让勒索软件支付禁令发挥作用了。”他在《伦敦时报》最近的一篇专栏文章中强调，虽然各国政府开始寻找这个问题的答案，但不应立 
     </details> 
 <!-- freebuf:END -->
 
