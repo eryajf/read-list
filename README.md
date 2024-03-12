@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [货拉拉专送司机Android指纹认证登录实践与总结](https://juejin.cn/post/7345105895929921547) | Tue Mar 12 2024 2:06 AM 
+- 🤗 [Databend 开源周报第 135 期](https://juejin.cn/post/7345071716680564736) | Tue Mar 12 2024 3:12 AM 
     <details><summary>展开描述 ...</summary> 
-    1. 前言 指纹登录是一种很常见的登录方式，特别在各种金融类APP中，指纹登录的功能已成为标配。为了丰富我们的登录方式，提高我们的用户体验，降低我们的短信成本，我们最近在货拉拉专送司机Android端 
+    What&#39;s On In Databend 探索 Databend 本周新进展，遇到更贴近你心意的 Databend 。 支持查询队列 Databend 现已支持查询队列功能，通过设置 max_run 
     </details> 
 
-- 🎡 [Spring boot 集成python引擎快速入门demo](https://juejin.cn/post/7345027924971995186) | Tue Mar 12 2024 2:06 AM 
+- 🎡 [百度 Comate 提升编码效率，释放 10 倍软件生产力](https://juejin.cn/post/7345105927359201334) | Tue Mar 12 2024 3:01 AM 
     <details><summary>展开描述 ...</summary> 
-    一、Python 介绍 Python 是一个高层次的结合了解释性、编译性、互动性和面向对象的脚本语言。 Python 的设计具有很强的可读性，相比其他语言经常使用英文关键字，其他语言的一些标点符号，它 
+    目前，Comate 在「帮你想」、「帮你写」和「帮你改」三个方面发力。除此之外，Comate 也支持了 100 多种框架和语言，而且场景支持非常丰富，尽可能地满足了每一种开发者人群的诉求。 
     </details> 
 
-- 🕯 [Flutter鸿蒙终端一体化-天下一统](https://juejin.cn/post/7345008762103201819) | Tue Mar 12 2024 2:02 AM 
+- 🕯 [HarmonyOS4.0开发应用&lpar;五&rpar;【页面路由】](https://juejin.cn/post/7345107078904201268) | Tue Mar 12 2024 2:52 AM 
     <details><summary>展开描述 ...</summary> 
-    在前面的文章中，我们了解了如何使用FlutterPage来创建Flutter容器。 Flutter鸿蒙终端一体化-混沌初开 Flutter鸿蒙终端一体化-珠联璧合 · 语雀 但更多的时候，我们需要的是 
+    路由使用跳转方式 router.pushUrl&lpar;&rpar;:目标页不会替换当前页，而是压入页面栈，因此可以用`router back&lpar;&rpar;`返回当前页 router.ReplaceUrl&lpar;&rpar;:目标页会替换当前页 
     </details> 
 
-- 🚀 [原来浏览器插件有这么多风险？](https://juejin.cn/post/7345025297139630090) | Tue Mar 12 2024 1:50 AM 
+- 🚀 [vue项目自定义comfirm弹窗  金石](https://juejin.cn/post/7345107078904086580) | Tue Mar 12 2024 2:42 AM 
     <details><summary>展开描述 ...</summary> 
-    嫦美找到我时，整个人是崩溃的 —— “卡颂，我好像被监视了”。 傍晚的星巴克，她的影子被吊灯拉得很长，颤抖着如同她此刻的内心。 “怎么回事？”我尽量让声音听起来平静些。 “最近认识个男生，是我MBA同 
+    一、前言 大家好，我是地霊殿__三無。平时大家是不是经常看到一些酷炫的弹窗，尤其是在大屏项目上，各种酷炫效果，追求一个极致的色彩美。而这其中原理很简单，css部分大家都会吧，无非就是一个全局引入来方便 
     </details> 
 
-- 💪 [java工具-高并发-JUC下ReentrantLock解密](https://juejin.cn/post/7345105899151785996) | Tue Mar 12 2024 1:46 AM 
+- 💪 [【动画进阶】巧用 CSS/SVG 实现复杂线条光效动画](https://juejin.cn/post/7345105895930331147) | Tue Mar 12 2024 2:34 AM 
     <details><summary>展开描述 ...</summary> 
-    ReentrantLock重入锁 synchronized的局限性 synchronized是java内置的关键字，它提供了一种独占的加锁方式。synchronized的获取和释放锁由jvm实现，用户 
+    最近，群里在讨论一个很有意思的线条动画效果，效果大致如下： 简单而言，就是线条沿着不规则路径的行进动画，其中的线条动画可以理解为是特殊的光效。 本文，我们将一起探索，看看在不使用 JavaScript 
     </details> 
 <!-- juejin:END -->
 ### 少数派
