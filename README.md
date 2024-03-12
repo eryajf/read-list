@@ -377,29 +377,29 @@ PS：不断学习和精进是红队人员的精神，
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [年度征文 | 一个末代手摄爱好者的回顾](https://sspai.com/post/86779) | Tue Mar 12 2024 3:27 AM 
+- 👹 [App+1 | 寻找最适合写小说的工具——novelWriter](https://sspai.com/post/86447) | Tue Mar 12 2024 7:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/86447&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [年度征文 | 一个末代手摄爱好者的回顾](https://sspai.com/post/86779) | Tue Mar 12 2024 3:27 AM 
     <details><summary>展开描述 ...</summary> 
     我放弃了三年的手机拍照时光，去做一些不同的尝试，谁知三年后我又开始手机拍照了，感觉熟悉而陌生。&lt;a href=&quot;https://sspai.com/post/86779&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [派早报：马斯克称 xAI 将于本周开源 Grok，微软公开数字市场法案合规措施等](https://sspai.com/post/87107) | Tue Mar 12 2024 12:00 AM 
+- 🤭 [派早报：马斯克称 xAI 将于本周开源 Grok，微软公开数字市场法案合规措施等](https://sspai.com/post/87107) | Tue Mar 12 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     微软承诺支持 Win32 经典版 Outlook 至 2029 年，欧盟委员会被裁定违反欧盟数据保护法案等。&lt;a href=&quot;https://sspai.com/post/87107&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [年度征文 | 让「跨界」从概念变成产物：我的桌面游戏设计之旅](https://sspai.com/post/86944) | Mon Mar 11 2024 10:50 AM 
+- 🥸 [年度征文 | 让「跨界」从概念变成产物：我的桌面游戏设计之旅](https://sspai.com/post/86944) | Mon Mar 11 2024 10:50 AM 
     <details><summary>展开描述 ...</summary> 
     回归初心，为了那些看好、肯定、期待着我的人，竭力做出最好的游戏设计。这就是我今后作为「业余爱好者」或「副业从事者」，将要继续做的事。&lt;a href=&quot;https://sspai.com/post/86944&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派评 | 近期值得关注的 App](https://sspai.com/post/87100) | Mon Mar 11 2024 9:55 AM 
+- 🙉 [派评 | 近期值得关注的 App](https://sspai.com/post/87100) | Mon Mar 11 2024 9:55 AM 
     <details><summary>展开描述 ...</summary> 
     欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...&lt;a href=&quot;https://sspai.com/post/87100&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [一日一技 | 巧用公式实现 Notion 数据库去重](https://sspai.com/post/86909) | Mon Mar 11 2024 7:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    查重是排除重复信息干扰、确保唯一性数据准确性的校验手段。完善的查重机制能节省大量人工判断的成本，并且在第一时间获知结论。本文介绍了一种 Notion 数据库去重的办法。&lt;a href=&quot;https://sspai.com/post/86909&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
