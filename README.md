@@ -674,29 +674,29 @@ PS：不断学习和精进是红队人员的精神，
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0312](http://jandan.net/p/115877) | Mon Mar 11 2024 11:07 PM 
+- 🚀 [波音公司曝光者不幸身亡](http://jandan.net/p/115881) | Tue Mar 12 2024 11:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    波音公司对此消息表示悲伤 
+    </details> 
+
+- 🙉 [今日好价 0312](http://jandan.net/p/115877) | Mon Mar 11 2024 11:07 PM 
     <details><summary>展开描述 ...</summary> 
     今日带货商品数量：45 
     </details> 
 
-- 🙉 [7 个会颠覆你认知的数学事实](http://jandan.net/p/115873) | Mon Mar 11 2024 11:05 PM 
+- 🎉 [7 个会颠覆你认知的数学事实](http://jandan.net/p/115873) | Mon Mar 11 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
     即将到来的3月14日又是&quot;π日&quot; 
     </details> 
 
-- 🎉 [如何停止过度思考](http://jandan.net/p/115872) | Mon Mar 11 2024 11:04 PM 
+- 🐲 [如何停止过度思考](http://jandan.net/p/115872) | Mon Mar 11 2024 11:04 PM 
     <details><summary>展开描述 ...</summary> 
     一些实用技巧帮助我们摆脱反复纠结 
     </details> 
 
-- 🐲 [诺和诺德新减肥药效力或是Ozempic两倍](http://jandan.net/p/115871) | Mon Mar 11 2024 11:03 PM 
+-  [诺和诺德新减肥药效力或是Ozempic两倍](http://jandan.net/p/115871) | Mon Mar 11 2024 11:03 PM 
     <details><summary>展开描述 ...</summary> 
     三个月内可使人减重13% 
-    </details> 
-
--  [新冠后持续低铁血症或是长新冠关键诱因](http://jandan.net/p/115870) | Mon Mar 11 2024 11:02 PM 
-    <details><summary>展开描述 ...</summary> 
-    新冠感染导致人体调节铁元素能力紊乱 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
