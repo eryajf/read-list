@@ -349,29 +349,29 @@ PS：不断学习和精进是红队人员的精神，
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [npm安装anywhere（ 随启随用的静态文件服务器），分分钟解决浏览器请求本地js文件跨域问题](https://juejin.cn/post/7345379878240747531) | Tue Mar 12 2024 9:57 AM 
+- 🤗 [从零做前端项目01：我学习的前端技术栈](https://juejin.cn/post/7345277549335412736) | Tue Mar 12 2024 9:23 AM 
     <details><summary>展开描述 ...</summary> 
-    以下是一个html文件， chrome浏览器打开该文件； 报错如下： 全局安装anywhere npm install -g anywhere，再前往html文件所在目录执行anywhere -p 8 
+    初遇前端 初次接触前端还是2016年，那一年暑假心血来潮，在网易云课堂上学着前端三剑客（html、js、css）。18年毕业，把用各色水笔手写的花花绿绿笔记寄回家里，投身奔赴后端与大数据开发的征程。  
     </details> 
 
-- 🎡 [ABAP 最佳实践：风格和指南](https://juejin.cn/post/7345352532656603187) | Tue Mar 12 2024 9:53 AM 
+- 🎡 [“仍有 5 亿人坚持用 QQ”；马斯克：本周开源 xAI 人工智能助手丨 RTE 开发者日报 Vol.162](https://juejin.cn/post/7345071687309213730) | Tue Mar 12 2024 9:06 AM 
     <details><summary>展开描述 ...</summary> 
-    ABAP 是一种不断发展的编程语言。自 30 多年前问世以来，ABAP 程序不断推陈出新，本文介绍了几个在 SAP ABAP 中如何编写干净、令人愉快的代码的基本方法。 
+    让 AI 模型互相教学，谷歌推出社会学习框架、继起诉 OpenAI 并要求对方恢复开源后，马斯克宣布本周 xAI 将开源 Grok 
     </details> 
 
-- 🕯 [被误解的「中文版Sora」背后，字节跳动有哪些技术？](https://juejin.cn/entry/7345277549335756800) | Tue Mar 12 2024 9:48 AM 
+- 🕯 [如何移植 JsBridge 到鸿蒙](https://juejin.cn/post/7345071687309180962) | Tue Mar 12 2024 9:04 AM 
     <details><summary>展开描述 ...</summary> 
-    2024 开年，OpenAI 就在生成式 AI 领域扔下了重磅炸弹：Sora。 这几年，视频生成领域的技术迭代持续加速，很多科技公司也公布了相关技术进展和落地成果。 
+    相信大多数小伙伴的项目都已经有了线上稳定运行的 JsBridge 方案，那么对于鸿蒙来说，最好的方案肯定是不需要前端同学的改动，就可以直接运行，这个兼容任务就得我们自己来做了。 关于 JsBridge 
     </details> 
 
-- 🚀 [王室修图何必用PS？Midjourney上新「换脸魔法」，奥特曼一秒COS罗马将军](https://juejin.cn/entry/7345312252478095400) | Tue Mar 12 2024 9:46 AM 
+- 🚀 [Taro v4框架开发微信小程序（路由跳转-基础）](https://juejin.cn/post/7345293582364704777) | Tue Mar 12 2024 8:59 AM 
     <details><summary>展开描述 ...</summary> 
-    这两天，英国王室的 P 图事件闹得沸沸扬扬。 3 月 10 日，威廉与凯特的 X 官方账号分享了一张凯特王妃和 3 个孩子的合影。 
+    理解Taro中的页面跳转机制 在开发Taro应用时，页面间的导航是一个核心功能。Taro提供了几种路由跳转函数来实现页面的跳转，这些函数允许开发者根据需要选择不同的跳转行为。 navigateTo 使 
     </details> 
 
-- 💪 [350亿参数、开放权重，Transformer作者创业后推出新大模型](https://juejin.cn/entry/7345312252478079016) | Tue Mar 12 2024 9:45 AM 
+- 💪 [我为LowCodeEngine低代码引擎写了个插件，让不懂代码的产品人员也能自己开发页面了。](https://juejin.cn/post/7344941254236389403) | Mon Mar 11 2024 2:12 PM 
     <details><summary>展开描述 ...</summary> 
-    今天，由 Transformer 作者之一 Aidan Gomez 参与创立的人工智能初创公司 Cohere 迎来了自家大模型的发布。 
+    LowCodeEngine低代码引擎为了追求灵活性和拓展性，配置的过程中需要写一些代码，导致对非前端技术人员不太友好，于是我写了一个插件，让不懂代码的人，也能自己开发页面。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
