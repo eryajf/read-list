@@ -349,29 +349,29 @@ PS：不断学习和精进是红队人员的精神，
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [JavaScript位运算及其妙用](https://juejin.cn/post/7345356537982844962) | Tue Mar 12 2024 12:16 PM 
+- 🤗 [使用Babel在Node环境下实现ES6模块化及与Node原生对ES6支持的对比](https://juejin.cn/post/7345356037404426266) | Tue Mar 12 2024 3:02 PM 
     <details><summary>展开描述 ...</summary> 
-    位运算就是直接对整数在内存中的二进制位进行操作。使用位运算可以提高代码性能，精简代码。 机器数、真值、原码、反码、补码。 位运算符。 位运算的妙用。 位掩码和权限管理。 
+    借助Babel这样的JavaScript编译器，就可以在Node环境下愉快地使用ES6模块化特性。本文将介绍如何配置Babel来实现这一点，并与Node.js原生对ES6模块的支持进行对比。 
     </details> 
 
-- 🎡 [我们做的小工具，爆了！](https://juejin.cn/post/7345350913655586842) | Tue Mar 12 2024 11:42 AM 
+- 🎡 [webpack-html-plugin的原理](https://juejin.cn/post/7345352532657684531) | Tue Mar 12 2024 3:02 PM 
     <details><summary>展开描述 ...</summary> 
-    我们团队新开发的小工具《代码小抄》上线啦，这是一个简单易用的代码分享工具，可以快速、跨设备地自由分享代码 
+    本文将重点探讨html-webpack-plugin和webpack-dev-server这两个在Web开发中常用的插件/工具，详细说明它们的使用过程。 
     </details> 
 
-- 🕯 [数据分析实战-Python实现博客评论数据的情感分析](https://juejin.cn/post/7345356537982631970) | Tue Mar 12 2024 11:34 AM 
+- 🕯 [postMessage 消息通信如何 Promise 化？](https://juejin.cn/post/7345356037404409882) | Tue Mar 12 2024 3:01 PM 
     <details><summary>展开描述 ...</summary> 
-    学习建议 现在很多网站、小程序、应用软件、博客、电商购物平台等，都有很多的用户评论数据，这些数据包含了用户对产品的认知、看法和一些立场； 那么我们可以对这些数据进行情感分析，可以得到一些有价值的信息， 
+    postMessage 使用不便，回调事件不好处理？试试 Promise 化后的它吧，相信我，你会爱上这种编程方式~ 
     </details> 
 
-- 🚀 [Bitmap魔法揭秘：助力高效数据存储与统计](https://juejin.cn/post/7345379893235400767) | Tue Mar 12 2024 11:29 AM 
+- 🚀 [金三银四技术面试要做哪些准备？](https://juejin.cn/post/7345379864440766527) | Tue Mar 12 2024 2:56 PM 
     <details><summary>展开描述 ...</summary> 
-    一句话介绍bitmap 只需消耗极小的存储空间，即可高效的满足大数据规模下的查询、统计、去重等使用场景。 bitmap的基本思想 我们假设数据只有两种状态，那么刚好就可以用1个bit位的0,1来分别表 
+    现在已经进入了金三银四，很多想换工作的同学或者想参与春招的同学应该在陆续投递简历了，其实找工作是需要好好准备一下的，特别是对于目标工作公司或者岗位有一定的要求的同学。 
     </details> 
 
-- 💪 [Flutter事件驱动Events ，来个广播通知/事件发射一下吧，又称下雨啦收衣服啦](https://juejin.cn/post/7345297230200586280) | Tue Mar 12 2024 11:28 AM 
+- 💪 [来自 AI Secure 实验室的 LLM 安全排行榜简介](https://juejin.cn/entry/7345379926147465228) | Tue Mar 12 2024 2:36 PM 
     <details><summary>展开描述 ...</summary> 
-    安卓有什么Eventbus，Flutter也有。 举个例子吧，你有一个服务，服务有个下载功能，下载完成之后，调用这需要知道完成了，这个时候StreamController登场，发个广播/事件发生，调用 
+    近来，LLM 已深入人心，大有燎原之势。但在我们将其应用于千行百业之前，理解其在不同场景下的安全性和潜在风险显得尤为重要。为此，美国白宫发布了关于安全、可靠、可信的人工智能的行政命令; 欧盟人工智能法 
     </details> 
 <!-- juejin:END -->
 ### 少数派
