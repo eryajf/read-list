@@ -377,29 +377,29 @@ PS：不断学习和精进是红队人员的精神，
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [App+1 | 寻找最适合写小说的工具——novelWriter](https://sspai.com/post/86447) | Tue Mar 12 2024 7:00 AM 
+- 👹 [社区速递 035 | 派友们的最爱字体、输入法鼓捣和新玩意们](https://sspai.com/post/87128) | Tue Mar 12 2024 8:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...&lt;a href=&quot;https://sspai.com/post/87128&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [少数派的 12 岁：正版软件特惠限时开启](https://sspai.com/post/87126) | Tue Mar 12 2024 8:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    少数派12岁啦！为了与大家共同庆祝我派的生日，我们继续与国内外数十家优秀的开发者以及团队推出限时特惠活动，如果你遇到了心仪的软件，不妨趁机入手不要错过。🚀少数派网站活动专区|少数派淘宝活动专区新软速递 ...&lt;a href=&quot;https://sspai.com/post/87126&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🤭 [App+1 | 寻找最适合写小说的工具——novelWriter](https://sspai.com/post/86447) | Tue Mar 12 2024 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/86447&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [年度征文 | 一个末代手摄爱好者的回顾](https://sspai.com/post/86779) | Tue Mar 12 2024 3:27 AM 
+- 🥸 [年度征文 | 一个末代手摄爱好者的回顾](https://sspai.com/post/86779) | Tue Mar 12 2024 3:27 AM 
     <details><summary>展开描述 ...</summary> 
     我放弃了三年的手机拍照时光，去做一些不同的尝试，谁知三年后我又开始手机拍照了，感觉熟悉而陌生。&lt;a href=&quot;https://sspai.com/post/86779&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：马斯克称 xAI 将于本周开源 Grok，微软公开数字市场法案合规措施等](https://sspai.com/post/87107) | Tue Mar 12 2024 12:00 AM 
+- 🙉 [派早报：马斯克称 xAI 将于本周开源 Grok，微软公开数字市场法案合规措施等](https://sspai.com/post/87107) | Tue Mar 12 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     微软承诺支持 Win32 经典版 Outlook 至 2029 年，欧盟委员会被裁定违反欧盟数据保护法案等。&lt;a href=&quot;https://sspai.com/post/87107&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🥸 [年度征文 | 让「跨界」从概念变成产物：我的桌面游戏设计之旅](https://sspai.com/post/86944) | Mon Mar 11 2024 10:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    回归初心，为了那些看好、肯定、期待着我的人，竭力做出最好的游戏设计。这就是我今后作为「业余爱好者」或「副业从事者」，将要继续做的事。&lt;a href=&quot;https://sspai.com/post/86944&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派评 | 近期值得关注的 App](https://sspai.com/post/87100) | Mon Mar 11 2024 9:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...&lt;a href=&quot;https://sspai.com/post/87100&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
