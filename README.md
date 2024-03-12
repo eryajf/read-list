@@ -349,29 +349,29 @@ PS：不断学习和精进是红队人员的精神，
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [字节跳动安全范儿技术沙龙*第13期：漏洞攻防安全](https://juejin.cn/post/7345129748005503010) | Tue Mar 12 2024 6:45 AM 
+- 🤗 [LLM 代理简介](https://juejin.cn/post/7345379767787634707) | Tue Mar 12 2024 8:15 AM 
     <details><summary>展开描述 ...</summary> 
-    字节跳动无恒实验室、京东集团蓝军、小米集团智能终端安全实验室、字节SRC核心白帽4位安全专家，将带来安全左移建设实践、大语言模型安全攻防、安全工具、智能网联汽车安全等议题 
+    现在考虑以下问题：“23 财年第二季度财报电话会议的三个要点是什么？关注公司正在构建的技术护城河。”这是财务分析师希望在报告中回答的问题类型，但需要投入时间来回答。 
     </details> 
 
-- 🎡 [linux Shell 命令行-06-flow control 流程控制](https://juejin.cn/post/7345071716681613312) | Tue Mar 12 2024 6:36 AM 
+- 🎡 [新的 NVIDIA NeMo 框架功能和 NVIDIA H200 强效助力 LLM 训练性能和通用性](https://juejin.cn/post/7345379864738021395) | Tue Mar 12 2024 8:15 AM 
     <details><summary>展开描述 ...</summary> 
-    # 拓展阅读 [linux Shell 命令行-00-intro 入门介绍]&lpar;https://houbb.github.io/2018/12/21/linux-shell-01-intro&rpar; [ 
+    Lama 2 是一种热门的开源大型语言模型，最初由 Meta 开发。最新版本的 NeMo 包含许多可提高 Lama 2 性能的改进。与在 A100 GPU 上运行的上一个 NeMo 版本相比，在 H2 
     </details> 
 
-- 🕯 [linux Shell 命令行-05-test 检查某个条件是否成立](https://juejin.cn/post/7345071716681580544) | Tue Mar 12 2024 6:34 AM 
+- 🕯 [在 NVIDIA ACE 中使用 AI 动画和语音功能打造逼真的虚拟形象](https://juejin.cn/post/7345379767787618323) | Tue Mar 12 2024 8:14 AM 
     <details><summary>展开描述 ...</summary> 
-    # 拓展阅读 [linux Shell 命令行-00-intro 入门介绍]&lpar;https://houbb.github.io/2018/12/21/linux-shell-01-intro&rpar; [ 
+    使用最新的 ACE AI 动画功能和微服务&lpar;包括新添加的 A2F 情感支持&rpar;构建更具表现力的数字人。现在还提供用于身体、头部和眼球运动的 Animation Graph 微服务。 
     </details> 
 
-- 🚀 [Drone插件开发-go](https://juejin.cn/post/7345076635609939994) | Tue Mar 12 2024 6:25 AM 
+- 🚀 [面试官：微服务通讯方式有哪些？](https://juejin.cn/post/7345297984265142310) | Tue Mar 12 2024 7:56 AM 
     <details><summary>展开描述 ...</summary> 
-    Drone插件扩展的开发可以使用任何可以编译成Docker镜像的编程语言，包括但不限于Go、Python、Node.js、Java等。 
+    微服务的通讯方式主要有以下几种： RESTful API：基于 HTTP 协议的 RESTful API 是最常用的微服务通讯方式之一。服务之间通过 HTTP 请求和响应进行通讯，实现数据交换。这种方 
     </details> 
 
-- 💪 [RDS for MariaDB“智能DBA助手”，让运维效率嗖嗖地！](https://juejin.cn/post/7345098611695370277) | Tue Mar 12 2024 6:21 AM 
+- 💪 [Google 在 MySQL 中推进矢量搜索，在 LLM 支持方面超越 Oracle](https://juejin.cn/post/7345310754469888034) | Tue Mar 12 2024 7:55 AM 
     <details><summary>展开描述 ...</summary> 
-    RDS for MariaDB的实例状态概览功能，帮助客户快速感知数据库实例的整体健康度，并迅速定位异常，极大简化了运维操作。 
+    谷歌已将向量搜索引入其 MySQL 数据库服务，这一步领先了 MySQL 的所属公司 Oracle，迄今为止，Oracle 尚未给 MySQL 添加任何大型语言模型（LLM）方面的功能。 谷歌云数 
     </details> 
 <!-- juejin:END -->
 ### 少数派
