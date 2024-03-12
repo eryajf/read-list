@@ -301,12 +301,22 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [揭秘智能化安全运营新趋势 | 阿里云 X FreeBuf 技术沙龙](https://www.freebuf.com/articles/393897.html) | Tue Mar 12 2024 7:50 AM 
+- 🦄 [venom打靶思路详解（vulnhub）](https://www.freebuf.com/defense/394169.html) | Tue Mar 12 2024 8:13 AM 
     <details><summary>展开描述 ...</summary> 
-    次沙龙主题为“智汇云端 解锁安全运营新范式”。 
+    venom打靶思路详解，分六步走。 
     </details> 
 
-- 🦄 [红队实战小课，快来涨经验|Webshell下bypass360](https://www.freebuf.com/news/394133.html) | Tue Mar 12 2024 6:37 AM 
+- 🦄 [揭秘智能化安全运营新趋势 | 阿里云 X FreeBuf 技术沙龙](https://www.freebuf.com/articles/393897.html) | Tue Mar 12 2024 7:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    本次沙龙主题为「智汇云端 解锁安全运营新范式」，与会嘉宾围绕安全运营智能化、跨云安全和车联网安全等话题进行深入探讨。 
+    </details> 
+
+- 🦅 [网安标委印发《网络安全标准实践指南——车外画面局部轮廓化处理效果验证》](https://www.freebuf.com/articles/394148.html) | Tue Mar 12 2024 7:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    如何在遵守相应的国家法规和标准，保障他人信息安全和隐私的背景下，妥善使用这些数据信息训练算法。 
+    </details> 
+
+- 🪄 [红队实战小课，快来涨经验|Webshell下bypass360](https://www.freebuf.com/news/394133.html) | Tue Mar 12 2024 6:37 AM 
     <details><summary>展开描述 ...</summary> 
     本次直播可帮助大家解决的问题：
 
@@ -319,19 +329,9 @@
 PS：不断学习和精进是红队人员的精神， 
     </details> 
 
-- 🦅 [意大利数据监管机构对Sora展开调查](https://www.freebuf.com/news/394077.html) | Tue Mar 12 2024 3:14 AM 
+- 💻 [意大利数据监管机构对Sora展开调查](https://www.freebuf.com/news/394077.html) | Tue Mar 12 2024 3:14 AM 
     <details><summary>展开描述 ...</summary> 
     意大利数据保护监管机构3月8日宣布，将对 OpenAI 新推出的视频人工智能模型 Sora 展开隐私调查。 
-    </details> 
-
-- 🪄 [网安并购 | 拟出资19亿元，控股国盾量子](https://www.freebuf.com/news/394070.html) | Tue Mar 12 2024 3:08 AM 
-    <details><summary>展开描述 ...</summary> 
-    本次发行完成后，中电信量子集团将成为公司控股股东。 
-    </details> 
-
-- 💻 [法国多个政府机构遭受”猛烈“的网络攻击](https://www.freebuf.com/news/394067.html) | Tue Mar 12 2024 3:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    政府网络安全专家表示，尽管网络攻击的强度非常猛烈，但并不复杂，威胁攻击者使用的都是常见的技术手段。 
     </details> 
 <!-- freebuf:END -->
 
