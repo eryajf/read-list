@@ -674,29 +674,29 @@ PS：不断学习和精进是红队人员的精神，
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [波音公司曝光者不幸身亡](http://jandan.net/p/115881) | Tue Mar 12 2024 11:56 AM 
+- 🚀 [今日好价 0313](http://jandan.net/p/115888) | Tue Mar 12 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
-    波音公司对此消息表示悲伤 
+    今日带货商品数量：51 
     </details> 
 
-- 🙉 [今日好价 0312](http://jandan.net/p/115877) | Mon Mar 11 2024 11:07 PM 
+- 🙉 [疯狂的石头: 治疗狂犬病的”万能良药”](http://jandan.net/p/115884) | Tue Mar 12 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：45 
+    人们曾用神秘的石头来治疗狂犬病 
     </details> 
 
-- 🎉 [7 个会颠覆你认知的数学事实](http://jandan.net/p/115873) | Mon Mar 11 2024 11:05 PM 
+- 🎉 [就增肌而言，碳水可能和蛋白质一样重要](http://jandan.net/p/115883) | Tue Mar 12 2024 11:04 PM 
     <details><summary>展开描述 ...</summary> 
-    即将到来的3月14日又是&quot;π日&quot; 
+    不妨尝试增加碳水化合物摄入 
     </details> 
 
-- 🐲 [如何停止过度思考](http://jandan.net/p/115872) | Mon Mar 11 2024 11:04 PM 
+- 🐲 [互联网正在失控](http://jandan.net/p/115880) | Tue Mar 12 2024 11:03 PM 
     <details><summary>展开描述 ...</summary> 
-    一些实用技巧帮助我们摆脱反复纠结 
+    人类互动将越来越少 
     </details> 
 
--  [诺和诺德新减肥药效力或是Ozempic两倍](http://jandan.net/p/115871) | Mon Mar 11 2024 11:03 PM 
+-  [研究发现，有一种恐龙可能并不会游泳](http://jandan.net/p/115882) | Tue Mar 12 2024 11:02 PM 
     <details><summary>展开描述 ...</summary> 
-    三个月内可使人减重13% 
+    它可能只是在河流中涉水捕捉猎物 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
