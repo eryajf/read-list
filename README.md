@@ -712,18 +712,18 @@ PS：不断学习和精进是红队人员的精神，
      即时语音翻译，超过32种语言，出国旅游好帮手  
     </details> 
 
-- 💼 [橘猫起始页 - 快速的保存当前打开的页面，以及聚合搜索条服务和快捷翻译](https://xinquji.com/posts/809660?utm_campaign=xinquji-rss) | Mon Mar 11 2024 6:16 AM 
+- 💼 [DesignRoasts - 转化访客、增加销售额和增长的见解](https://xinquji.com/posts/809762?utm_campaign=xinquji-rss) | Tue Mar 12 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     快速的保存当前打开的页面，以及聚合搜索条服务和快捷翻译  
+     转化访客、增加销售额和增长的见解  
     </details> 
 
-- 🦅 [答案之书 - 在线版 - 在犹豫不决时，找到内心的答案](https://xinquji.com/posts/809553?utm_campaign=xinquji-rss) | Mon Mar 11 2024 6:11 AM 
+- 🦅 [toolmark.ai - 构建无需代码即可生成文本图像等的 AI 应用程序](https://xinquji.com/posts/809761?utm_campaign=xinquji-rss) | Tue Mar 12 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     在犹豫不决时，找到内心的答案  
+     构建无需代码即可生成文本图像等的 AI 应用程序  
     </details> 
 
-- 😺 [DreamHub - 图解你我故事，静观人生百态](https://xinquji.com/posts/809513?utm_campaign=xinquji-rss) | Mon Mar 11 2024 6:11 AM 
+- 😺 [PitchBob.io - AI 融资演讲稿生成器和初创公司副驾驶](https://xinquji.com/posts/809760?utm_campaign=xinquji-rss) | Tue Mar 12 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     图解你我故事，静观人生百态  
+     AI 融资演讲稿生成器和初创公司副驾驶  
     </details> 
 <!-- xinquji:END -->
