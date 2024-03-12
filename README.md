@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [mysql for update是锁表还是锁行](https://juejin.cn/post/7345105989681725479) | Tue Mar 12 2024 4:56 AM 
+- 🤗 [字节跳动安全范儿技术沙龙*第13期：漏洞攻防安全](https://juejin.cn/post/7345129748005503010) | Tue Mar 12 2024 6:45 AM 
     <details><summary>展开描述 ...</summary> 
-    在并发一致性控制场景中，我们常常用for update悲观锁来进行一致性的保证，但是如果不了解它的机制，就进行使用，很容易出现事故 
+    字节跳动无恒实验室、京东集团蓝军、小米集团智能终端安全实验室、字节SRC核心白帽4位安全专家，将带来安全左移建设实践、大语言模型安全攻防、安全工具、智能网联汽车安全等议题 
     </details> 
 
-- 🎡 [Go arena 民间库来了，可以手动管理内存](https://juejin.cn/post/7345121873598070835) | Tue Mar 12 2024 4:40 AM 
+- 🎡 [linux Shell 命令行-06-flow control 流程控制](https://juejin.cn/post/7345071716681613312) | Tue Mar 12 2024 6:36 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是煎鱼。 上年我们有讨论过关于 Go arena 手动管理内存的相关提案。一开始还高歌猛进，但没想到后面由于严重的 API 问题（想把 arena 应用到其他的标准库中，但会引入大问题）：  
+    # 拓展阅读 [linux Shell 命令行-00-intro 入门介绍]&lpar;https://houbb.github.io/2018/12/21/linux-shell-01-intro&rpar; [ 
     </details> 
 
-- 🕯 [一道定义与赋值的顺序题](https://juejin.cn/post/7345108417113309225) | Tue Mar 12 2024 4:33 AM 
+- 🕯 [linux Shell 命令行-05-test 检查某个条件是否成立](https://juejin.cn/post/7345071716681580544) | Tue Mar 12 2024 6:34 AM 
     <details><summary>展开描述 ...</summary> 
-    一道定义与赋值的顺序题：赋值与定义的顺序是什么？引用类型的指向是什么？变量存储在堆栈中的值又是什么？ 
+    # 拓展阅读 [linux Shell 命令行-00-intro 入门介绍]&lpar;https://houbb.github.io/2018/12/21/linux-shell-01-intro&rpar; [ 
     </details> 
 
-- 🚀 [金三银四，Android  View的绘制流程看这篇就够了](https://juejin.cn/post/7345076635609350170) | Tue Mar 12 2024 4:32 AM 
+- 🚀 [Drone插件开发-go](https://juejin.cn/post/7345076635609939994) | Tue Mar 12 2024 6:25 AM 
     <details><summary>展开描述 ...</summary> 
-    View是如何显示出来的 调用Activity的attach方法，该方法会创建PhoneWindow对象 在onCreate的setContentView方法中，先会通过PhoneWindow的get 
+    Drone插件扩展的开发可以使用任何可以编译成Docker镜像的编程语言，包括但不限于Go、Python、Node.js、Java等。 
     </details> 
 
-- 💪 [i18n国际化前端解决方案引发的关于魔法值的思考](https://juejin.cn/post/7345071716680990720) | Tue Mar 12 2024 4:32 AM 
+- 💪 [RDS for MariaDB“智能DBA助手”，让运维效率嗖嗖地！](https://juejin.cn/post/7345098611695370277) | Tue Mar 12 2024 6:21 AM 
     <details><summary>展开描述 ...</summary> 
-    一、何为魔法值 说到 魔法值，就不得不提一下 阿里巴巴开发规范 里一条代码规范的要求： 魔法值 的前身是 魔数，关于 魔数 的解释，你可以参考知乎上的这个问题 编程中的「魔数」（magic numbe 
+    RDS for MariaDB的实例状态概览功能，帮助客户快速感知数据库实例的整体健康度，并迅速定位异常，极大简化了运维操作。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
