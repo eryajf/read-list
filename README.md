@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [FreeBuf 早报 | 新的xStealer恶意软件首次亮相；英国政府针对勒索软件防范失职](https://www.freebuf.com/news/393993.html) | Mon Mar 11 2024 9:01 AM 
+    <details><summary>展开描述 ...</summary> 
+    该恶意软件背后的开发人员承诺不断更新，确保其保持最新、最先进的窃取技术。 
+    </details> 
+
 - 🦄 [遭俄APT组织暴力攻击，微软部分源代码和机密信息泄露](https://www.freebuf.com/news/393940.html) | Mon Mar 11 2024 5:57 AM 
     <details><summary>展开描述 ...</summary> 
     在最近几周内已经发现，午夜暴风雪正在利用此前窃取的信息来试图获得未授权的访问。 
     </details> 
 
-- 🦄 [禁止支付赎金，然后呢？](https://www.freebuf.com/news/393921.html) | Mon Mar 11 2024 3:33 AM 
+- 🦅 [禁止支付赎金，然后呢？](https://www.freebuf.com/news/393921.html) | Mon Mar 11 2024 3:33 AM 
     <details><summary>展开描述 ...</summary> 
     禁止勒索软件受害者向攻击者支付赎金，这一倡议在一些国家和地区已不是什么新鲜事，但对绝大多数地方而言，这一做法的实施仍然举步维艰。英国国家网络安全中心前负责人夏兰·马丁 &lpar;Ciaran Martin&rpar;表示，“由于勒索软件组织构成的巨大威胁和破坏没有任何停止的迹象，现在是时候弄清楚如何让勒索软件支付禁令发挥作用了。”他在《伦敦时报》最近的一篇专栏文章中强调，虽然各国政府开始寻找这个问题的答案，但不应立 
     </details> 
 
-- 🦅 [新型钓鱼活动激增，Dropbox被大规模利用](https://www.freebuf.com/news/393909.html) | Mon Mar 11 2024 3:16 AM 
+- 🪄 [新型钓鱼活动激增，Dropbox被大规模利用](https://www.freebuf.com/news/393909.html) | Mon Mar 11 2024 3:16 AM 
     <details><summary>展开描述 ...</summary> 
     这表明威胁行为者利用合法的流行服务进行攻击的情况日益增多，以此诱使目标下载恶意软件，导致登录凭证泄露。 
     </details> 
 
-- 🪄 [driftingbules:5 靶场解析及复现](https://www.freebuf.com/articles/web/387370.html) | Fri Mar 08 2024 9:46 AM 
+- 💻 [driftingbules:5 靶场解析及复现](https://www.freebuf.com/articles/web/387370.html) | Fri Mar 08 2024 9:46 AM 
     <details><summary>展开描述 ...</summary> 
     kali的IP地址：192.168.200.14靶机IP地址：192.168.200.60一、信息收集1.对利用nmap目标靶机进行扫描由于arp-scan属于轻量级扫描，在此直接使用nmap进行对目 
-    </details> 
-
-- 💻 [FreeBuf 周报 | 网络安全成两会热议“关键词”；GitHub超过10万存储库被感染](https://www.freebuf.com/news/393844.html) | Fri Mar 08 2024 7:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    总结推荐本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
     </details> 
 <!-- freebuf:END -->
 
