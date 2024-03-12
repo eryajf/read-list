@@ -349,29 +349,29 @@ PS：不断学习和精进是红队人员的精神，
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [LLM 代理简介](https://juejin.cn/post/7345379767787634707) | Tue Mar 12 2024 8:15 AM 
+- 🤗 [Spring Boot Properties Prefix Must Be in Canonical Form](https://juejin.cn/post/7345296161056751626) | Tue Mar 12 2024 9:08 AM 
     <details><summary>展开描述 ...</summary> 
-    现在考虑以下问题：“23 财年第二季度财报电话会议的三个要点是什么？关注公司正在构建的技术护城河。”这是财务分析师希望在报告中回答的问题类型，但需要投入时间来回答。 
+    概述 本文对SpringBoot项目启动过程中出现的 &quot;Reason: Canonical names should be kebab-case &lpar;‘-‘ separated&rpar;, lowercase  
     </details> 
 
-- 🎡 [新的 NVIDIA NeMo 框架功能和 NVIDIA H200 强效助力 LLM 训练性能和通用性](https://juejin.cn/post/7345379864738021395) | Tue Mar 12 2024 8:15 AM 
+- 🎡 [promise规范及应用](https://juejin.cn/post/7345312252477718568) | Tue Mar 12 2024 9:06 AM 
     <details><summary>展开描述 ...</summary> 
-    Lama 2 是一种热门的开源大型语言模型，最初由 Meta 开发。最新版本的 NeMo 包含许多可提高 Lama 2 性能的改进。与在 A100 GPU 上运行的上一个 NeMo 版本相比，在 H2 
+    学习目标： 了解进程与线程 浏览器原理 EVENT-LOOP（事件循环） Promise 计算机原理-进程、线程 进程：cpu资源分配的最小单位。&lpar;拥有独立的资源库，两个进程间是不会共享资源的，是相互 
     </details> 
 
-- 🕯 [在 NVIDIA ACE 中使用 AI 动画和语音功能打造逼真的虚拟形象](https://juejin.cn/post/7345379767787618323) | Tue Mar 12 2024 8:14 AM 
+- 🕯 [深入理解Promise的九大方法](https://juejin.cn/post/7345296161056718858) | Tue Mar 12 2024 9:06 AM 
     <details><summary>展开描述 ...</summary> 
-    使用最新的 ACE AI 动画功能和微服务&lpar;包括新添加的 A2F 情感支持&rpar;构建更具表现力的数字人。现在还提供用于身体、头部和眼球运动的 Animation Graph 微服务。 
+    本文将介绍JavaScrip的Promise对象处理异步操作的解决方案，包括解决、拒绝、链式调用等。 
     </details> 
 
-- 🚀 [面试官：微服务通讯方式有哪些？](https://juejin.cn/post/7345297984265142310) | Tue Mar 12 2024 7:56 AM 
+- 🚀 [React 会议时段拖拽选择组件开发](https://juejin.cn/post/7345379767787946003) | Tue Mar 12 2024 9:04 AM 
     <details><summary>展开描述 ...</summary> 
-    微服务的通讯方式主要有以下几种： RESTful API：基于 HTTP 协议的 RESTful API 是最常用的微服务通讯方式之一。服务之间通过 HTTP 请求和响应进行通讯，实现数据交换。这种方 
+    类似企微会议选择的功能，之前的选择需要用户对会议时间段一个个的点击进行选择，操作非常繁琐，期望达到企微拖拽选择的一个效果。 
     </details> 
 
-- 💪 [Google 在 MySQL 中推进矢量搜索，在 LLM 支持方面超越 Oracle](https://juejin.cn/post/7345310754469888034) | Tue Mar 12 2024 7:55 AM 
+- 💪 [深入探索Jetpack Compose LazyColumn性能表现及优化策略](https://juejin.cn/post/7345310754470527010) | Tue Mar 12 2024 8:56 AM 
     <details><summary>展开描述 ...</summary> 
-    谷歌已将向量搜索引入其 MySQL 数据库服务，这一步领先了 MySQL 的所属公司 Oracle，迄今为止，Oracle 尚未给 MySQL 添加任何大型语言模型（LLM）方面的功能。 谷歌云数 
+    自从Jetpack Compose作为Google推出的现代化UI工具包以来，它在Android开发领域掀起了不小的浪潮。Compose的声明式、响应式让UI构建变得前所未有的简洁高效。 然而，在大量 
     </details> 
 <!-- juejin:END -->
 ### 少数派
