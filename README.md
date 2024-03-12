@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Feeder 4.6.1 创建和发布RSS](https://xclient.info/s/feeder.html) | Mon Mar 11 2024 1:10 AM 
+- 🦏 [DaisyDisk 4.26.1 系统清理工具](https://xclient.info/s/daisy-disk.html) | Tue Mar 12 2024 12:37 AM 
     <details><summary>展开描述 ...</summary> 
-    Feeder是Mac os平台上的一款帮助用户编辑rss文档的Mac工具 
+    DaisyDisk Mac版是Mac OS平台上的一款Mac系统清理工具，他可以帮助你了解磁盘使用状况，并进行准确的分析，让你非常轻松就能揪出占用磁盘空间的那些文件，使用起来非常方便，安装之后，选择磁盘——Scan，然后程序运行几分钟之后就可以看到结果咯！ 
     </details> 
 
--  [App Cleaner &amp;amp; Uninstaller Pro 8.2.7 fix 软件卸载工具](https://xclient.info/s/app-cleaner-uninstaller-pro.html) | Mon Mar 11 2024 1:09 AM 
+-  [WiFiSpoof 3.9.4 MAC地址修改工具](https://xclient.info/s/wifi-spoof.html) | Tue Mar 12 2024 12:36 AM 
     <details><summary>展开描述 ...</summary> 
-    App Cleaner Pro是一款Mac上非常好用的软件卸载工具，支持应用卸载、Widget卸载、浏览器插件卸载，支持拖拽卸载和列表卸载，能够非常干净的卸载应用，节省你的磁盘空间。 
+    WiFiSpoof是一款适用于Mac系统的wifi地址修改器，用户只需要安装WiFiSpoof for mac，点击打开就能很直观的修改Mac地址，很容易操作。 
     </details> 
 
-- ⚗️ [Perfectly Clear WorkBench 4.6.0.2641 智能图片瑕疵处理工具](https://xclient.info/s/perfectly-clear-workbench.html) | Mon Mar 11 2024 1:07 AM 
+- ⚗️ [Clearview X 3.5.0 电子阅读器](https://xclient.info/s/clearview-x.html) | Tue Mar 12 2024 12:35 AM 
     <details><summary>展开描述 ...</summary> 
-    Perfectly Clear Workbench可以帮您在几分钟内自动修复、微调和批处理图片。 
+    Clearview X是Mac电脑上的一款优秀的多格式电子书阅读工具，支持PDF, Epub, MOBI, CHM, FB2, CBR, CBZ等几乎所有流行的电子书格式。 
     </details> 
 
-- 🔥 [SideNotes 1.4.14 办公笔记本](https://xclient.info/s/sidenotes.html) | Mon Mar 11 2024 1:06 AM 
+- 🔥 [Cookie 7.2.4 浏览器隐私保护](https://xclient.info/s/cookie.html) | Tue Mar 12 2024 12:35 AM 
     <details><summary>展开描述 ...</summary> 
-    SideNotes 可以让你可以用一种简洁、快速、有条理的方式记录下所有嗡嗡作响的想法。享受其无干扰的工作流程。使用副录，你可以保存你的想法，图片，任务列表和更多。 
+    Cookie可以帮助你一键查看和清除所有安装的浏览器内的Cookie、历史记录、缓存，并且可以防止网站Cookie的追踪，提高对个人数据隐私的保护。 
     </details> 
 
-- 🌋 [Parallels Desktop 19.3.0-54924 最佳Mac虚拟机解决方案](https://xclient.info/s/parallels-desktop.html) | Mon Mar 11 2024 1:05 AM 
+- 🌋 [BetterMouse 1.5.4618 改善外部鼠标的性能和功能](https://xclient.info/s/bettermouse.html) | Tue Mar 12 2024 12:34 AM 
     <details><summary>展开描述 ...</summary> 
-    Parallels Desktop 是功能最强大灵活度最高的虚拟化方案，无需重启即可在同一台电脑上随时访问Windows和Mac两个系统上的众多应用程序。从仅限于PC的游戏到生产力软件，Parallels Desktop都能帮您实现便捷使用。 
+    BetterMouse 是一款 macOS 实用工具，旨在改善外部鼠标的性能和功能，取代像罗技 Options 一样笨重、侵入和占用资源的鼠标驱动程序。它功能丰富、轻量级、效率优化，并且完全注重隐私安全，旨在满足您在 macOS 上使用第三方鼠标的所有需求。 
     </details> 
 <!-- xclient:END -->
 
