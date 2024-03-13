@@ -349,29 +349,29 @@ PS：不断学习和精进是红队人员的精神，
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Android 新漏洞，可远程控制用户的手机](https://juejin.cn/post/7345339165418520576) | Wed Mar 13 2024 12:43 AM 
+- 🤗 [java工具-高并发-JUC下Condition解密](https://juejin.cn/post/7345376932428759074) | Wed Mar 13 2024 2:17 AM 
     <details><summary>展开描述 ...</summary> 
-    Android 用户要注意了，最近各个厂商应该会有一个新版本的补丁发布，用于修复一个高严重性漏洞，该漏洞无需额外的执行权限，可允许黑客在 Android 手机上运行恶意代码，操控你的手机。 
+    本文内容 synchronized中实现线程等待和唤醒 Condition简介及常用方法介绍及相关示例 使用Condition实现生产者消费者 使用Condition实现同步阻塞队列 Object对象 
     </details> 
 
-- 🎡 [切图仔做全栈：React&amp;Nest.js社区平台&lpar;二&rpar;——👋手把手实现优雅的鉴权机制](https://juejin.cn/post/7345379924167262249) | Wed Mar 13 2024 12:31 AM 
+- 🎡 [阿里二面：如何定位&amp;避免死锁？连着两个面试问到了！](https://juejin.cn/post/7345397788391784499) | Wed Mar 13 2024 2:10 AM 
     <details><summary>展开描述 ...</summary> 
-    这是一个 React+Nest 实现的全栈社区项目，在上一期中我们已经搭好了基础的架子以及实现了邮箱注册和登录态管理的功能。接下来我们来讨论如何实现鉴权机制 
+    什么是死锁？死锁问题该如何定位？如何避免死锁？本文从这几个问题入手，详细的解释了死锁，以及如何避免死锁。 
     </details> 
 
-- 🕯 [不能用 Sora ？那就用 Morph Studio，免费文生视频 1080P](https://juejin.cn/post/7345379917821493267) | Wed Mar 13 2024 12:27 AM 
+- 🕯 [Web Components详解-Shadow DOM样式控制](https://juejin.cn/post/7345404320965607463) | Wed Mar 13 2024 1:36 AM 
     <details><summary>展开描述 ...</summary> 
-    今天介绍一款免费的、文生视频（text-to-video ）的工具 —— Morph Studio. 怎么读？ —— “磨夫 死丢丢” 
+    前言 本文继续Web Components系列文章，介绍一下Shadow DOM的样式及选择器。 Shadow DOM的样式与外界是隔离的，即自定义元素的样式只会影响到Shadow DOM内部，不会影 
     </details> 
 
-- 🚀 [解读 Amazon Q | 用 AI 聊天机器人连接你与未来的无限可能](https://juejin.cn/post/7345387782112051240) | Tue Mar 12 2024 11:56 PM 
+- 🚀 [众多跨标签页通信方式，你知道哪些？（二）](https://juejin.cn/post/7345352532657848371) | Tue Mar 12 2024 3:58 PM 
     <details><summary>展开描述 ...</summary> 
-    在美国当地时间11月28日，亚马逊云科技在拉斯维加斯举办了 re:Invent 大会，大会介绍了许多今年来新增的核心产品与功能，着重讲解了生成式 AI 引领人工智能未来的前进方向。 
+    书接上回，由于时间原因，还有几种情况没有总结，今天抽时间总结一下，其他情况请查看这里，众多跨标签页通信方式，你知道哪些？ 以下则是常用的通信方法 BroadCast Channel Service W 
     </details> 
 
-- 💪 [🔥想不到吧！v-for使用不当会出现数据重载导致性能问题](https://juejin.cn/post/7345379924167180329) | Tue Mar 12 2024 11:32 PM 
+- 💪 [langchian入门二:prompts提示词的使用,你的LLM说话怎么这么⑥!](https://juejin.cn/post/7345352532657602611) | Tue Mar 12 2024 2:51 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 大家好，对于vue项目来说，v-for那真是随处可见，不知道大家平时有没有注意到，在使用v-for时导致的整个列表重载产生的性能问题。我自己倒还真没注意过，对于一些列表数据比较少的可能影响较小， 
+    什么是prompts 在大语言模型（LLM）中，Prompt指的是模型生成内容时所需要的输入，它可以包含模型生成内容时所需要的背景知识、用户期望模型执行的指令、模型输出需要遵循的格式等。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
