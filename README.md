@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [宏碁又遭网络袭击，菲律宾分公司大量数据被盗](https://www.freebuf.com/articles/394654.html) | Wed Mar 13 2024 3:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    管理宏碁员工考勤数据的第三方供应商遭遇网络攻击，部分员工数据被盗。 
+    </details> 
+
 - 🦄 [印度一金融公司泄露用户信息，数据量超过3TB](https://www.freebuf.com/news/394649.html) | Wed Mar 13 2024 3:14 AM 
     <details><summary>展开描述 ...</summary> 
     企业通常使用MongoDB来组织和存储大量的文档型数据，而在IKF Finance的案例中，包括了各种政府签发的身份证明文件。 
     </details> 
 
-- 🦄 [Airbnb将禁止在房源内安装监控摄像头](https://www.freebuf.com/news/394640.html) | Wed Mar 13 2024 2:48 AM 
+- 🦅 [欧盟地区 iOS DMA 更新后，Brave浏览器安装量激增](https://www.freebuf.com/news/394645.html) | Wed Mar 13 2024 2:57 AM 
+    <details><summary>展开描述 ...</summary> 
+    Brave 浏览器内置了广泛的隐私保护功能，包括自动阻止跟踪器和广告，以保护用户的在线隐私。 
+    </details> 
+
+- 🪄 [Airbnb将禁止在房源内安装监控摄像头](https://www.freebuf.com/news/394640.html) | Wed Mar 13 2024 2:48 AM 
     <details><summary>展开描述 ...</summary> 
     在面临隐私问题后，Airbnb 最近更新了政策，全面禁止房东在出租房屋中使用室内安全监控摄像头。 
     </details> 
 
-- 🦅 [venom打靶思路详解（vulnhub）](https://www.freebuf.com/defense/394169.html) | Tue Mar 12 2024 8:13 AM 
+- 💻 [CrowdStrike业绩炸裂，“AI+网络安全”成为资本的新宠？](https://www.freebuf.com/news/topnews/394170.html) | Tue Mar 12 2024 8:35 AM 
     <details><summary>展开描述 ...</summary> 
-    venom打靶思路详解，分六步走。 
-    </details> 
-
-- 🪄 [揭秘智能化安全运营新趋势 | 阿里云 X FreeBuf 技术沙龙](https://www.freebuf.com/articles/393897.html) | Tue Mar 12 2024 7:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    本次沙龙主题为「智汇云端 解锁安全运营新范式」，与会嘉宾围绕安全运营智能化、跨云安全和车联网安全等话题进行深入探讨。 
-    </details> 
-
-- 💻 [网安标委印发《网络安全标准实践指南——车外画面局部轮廓化处理效果验证》](https://www.freebuf.com/articles/394148.html) | Tue Mar 12 2024 7:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    如何在遵守相应的国家法规和标准，保障他人信息安全和隐私的背景下，妥善使用这些数据信息训练算法。 
+    CrowdStrike超常的业绩增长和它超前布局AI的动作密不可分，“AI+网络安全”已然成为了CrowdStrike的创收新引擎。 
     </details> 
 <!-- freebuf:END -->
 
