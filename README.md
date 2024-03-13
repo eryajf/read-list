@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [[实战]API防护破解之签名验签](https://www.freebuf.com/articles/network/394725.html) | Wed Mar 13 2024 9:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    传统接口在传输的过程中，非常容易被抓包进行篡改，从而进行中间人攻击。这时我们可通过对参数进行签名验证，如果参数与签名值不匹配，则请求不通过，直接返回错误信息，从而防止黑客攻击或大大增加黑客攻击的成本。 
+    </details> 
+
 - 🦄 [宏碁又遭网络袭击，菲律宾分公司大量数据被盗](https://www.freebuf.com/articles/394654.html) | Wed Mar 13 2024 3:49 AM 
     <details><summary>展开描述 ...</summary> 
     管理宏碁员工考勤数据的第三方供应商遭遇网络攻击，部分员工数据被盗。 
     </details> 
 
-- 🦄 [印度一金融公司泄露用户信息，数据量超过3TB](https://www.freebuf.com/news/394649.html) | Wed Mar 13 2024 3:14 AM 
+- 🦅 [印度一金融公司泄露用户信息，数据量超过3TB](https://www.freebuf.com/news/394649.html) | Wed Mar 13 2024 3:14 AM 
     <details><summary>展开描述 ...</summary> 
     企业通常使用MongoDB来组织和存储大量的文档型数据，而在IKF Finance的案例中，包括了各种政府签发的身份证明文件。 
     </details> 
 
-- 🦅 [欧盟地区 iOS DMA 更新后，Brave浏览器安装量激增](https://www.freebuf.com/news/394645.html) | Wed Mar 13 2024 2:57 AM 
+- 🪄 [欧盟地区 iOS DMA 更新后，Brave浏览器安装量激增](https://www.freebuf.com/news/394645.html) | Wed Mar 13 2024 2:57 AM 
     <details><summary>展开描述 ...</summary> 
     Brave 浏览器内置了广泛的隐私保护功能，包括自动阻止跟踪器和广告，以保护用户的在线隐私。 
     </details> 
 
-- 🪄 [Airbnb将禁止在房源内安装监控摄像头](https://www.freebuf.com/news/394640.html) | Wed Mar 13 2024 2:48 AM 
+- 💻 [Airbnb将禁止在房源内安装监控摄像头](https://www.freebuf.com/news/394640.html) | Wed Mar 13 2024 2:48 AM 
     <details><summary>展开描述 ...</summary> 
     在面临隐私问题后，Airbnb 最近更新了政策，全面禁止房东在出租房屋中使用室内安全监控摄像头。 
-    </details> 
-
-- 💻 [CrowdStrike业绩、股价狂飙，“AI+网络安全”成为资本的新宠？](https://www.freebuf.com/news/topnews/394170.html) | Tue Mar 12 2024 8:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    CrowdStrike超常的业绩增长和它超前布局AI的动作密不可分，“AI+网络安全”已然成为了CrowdStrike的创收新引擎。 
     </details> 
 <!-- freebuf:END -->
 
