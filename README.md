@@ -332,13 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [《Kotlin 语言参考文档 》 中文版 更新到了最新的 1.9.23 版](https://www.v2ex.com/t/1023394#reply0) | Wed Mar 13 2024 1:10 PM
-- 🤗 [程序员第二门语言](https://www.v2ex.com/t/1023390#reply1) | Wed Mar 13 2024 12:51 PM
-- 🎭 [Stack overflow 发问被踩](https://www.v2ex.com/t/1023386#reply7) | Wed Mar 13 2024 12:42 PM
-- 🥷 [这个 gkd 这么还要录屏权限，不是侵犯用户隐私吗？
-
-https://github.com/gkd-kit/gkd](https://www.v2ex.com/t/1023377#reply2) | Wed Mar 13 2024 12:00 PM
-- 🐵 [SSLHandshakeException: Cannot verify ECDH ServerKeyExchange signature](https://www.v2ex.com/t/1023373#reply0) | Wed Mar 13 2024 11:36 AM<!-- v2ex:END -->
+- 🥸 [我不擅长 android 开发, 问一个关于 webview 的问题, 在 h5 中使用 localstorage, indexedDB, 在应用存活期间, 是可以持久化的, 为什么 app 重启了之后, 就读不到了呢, 感谢解答](https://www.v2ex.com/t/1023411#reply0) | Wed Mar 13 2024 2:10 PM
+- 🤗 [Linux 原生微信 beta 可用了？](https://www.v2ex.com/t/1023406#reply2) | Wed Mar 13 2024 1:59 PM
+- 🎭 [chatgpt 写代码还真是可以](https://www.v2ex.com/t/1023404#reply0) | Wed Mar 13 2024 1:52 PM
+- 🥷 [网站技术问题求教](https://www.v2ex.com/t/1023401#reply0) | Wed Mar 13 2024 1:41 PM
+- 🐵 [真诚发问，如何将大模型落地到质量领域（QA&rpar;呢？](https://www.v2ex.com/t/1023398#reply2) | Wed Mar 13 2024 1:16 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
