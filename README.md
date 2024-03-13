@@ -460,29 +460,29 @@ PS：不断学习和精进是红队人员的精神，
 
 
 <!-- xclient:START -->
-- 🦏 [DaisyDisk 4.26.1 系统清理工具](https://xclient.info/s/daisy-disk.html) | Tue Mar 12 2024 12:37 AM 
+- 🦏 [NoteList 4.3.4 基于文档的数据存储工具](https://xclient.info/s/notelist.html) | Wed Mar 13 2024 1:51 AM 
     <details><summary>展开描述 ...</summary> 
-    DaisyDisk Mac版是Mac OS平台上的一款Mac系统清理工具，他可以帮助你了解磁盘使用状况，并进行准确的分析，让你非常轻松就能揪出占用磁盘空间的那些文件，使用起来非常方便，安装之后，选择磁盘——Scan，然后程序运行几分钟之后就可以看到结果咯！ 
+    NoteList是一个存储数据的应用程序，可以使用自由格式的文本和全文字处理能力的图片。 
     </details> 
 
--  [WiFiSpoof 3.9.4 MAC地址修改工具](https://xclient.info/s/wifi-spoof.html) | Tue Mar 12 2024 12:36 AM 
+-  [Mp3tag 1.8.16 音频元数据编辑](https://xclient.info/s/mp3tag.html) | Wed Mar 13 2024 1:45 AM 
     <details><summary>展开描述 ...</summary> 
-    WiFiSpoof是一款适用于Mac系统的wifi地址修改器，用户只需要安装WiFiSpoof for mac，点击打开就能很直观的修改Mac地址，很容易操作。 
+    Mp3tag是一个功能强大且易于使用的编辑音频文件元数据的工具 
     </details> 
 
-- ⚗️ [Clearview X 3.5.0 电子阅读器](https://xclient.info/s/clearview-x.html) | Tue Mar 12 2024 12:35 AM 
+- ⚗️ [FSNotes 6.7.0 轻量级的笔记工具](https://xclient.info/s/fsnotes.html) | Wed Mar 13 2024 1:43 AM 
     <details><summary>展开描述 ...</summary> 
-    Clearview X是Mac电脑上的一款优秀的多格式电子书阅读工具，支持PDF, Epub, MOBI, CHM, FB2, CBR, CBZ等几乎所有流行的电子书格式。 
+    FSNotes 是一款轻量级的笔记工具，帮助用户快速记录灵感。 
     </details> 
 
-- 🔥 [Cookie 7.2.4 浏览器隐私保护](https://xclient.info/s/cookie.html) | Tue Mar 12 2024 12:35 AM 
+- 🔥 [Blocs 5.2.2 优秀的零编码网页开发工具](https://xclient.info/s/blocs.html) | Wed Mar 13 2024 1:41 AM 
     <details><summary>展开描述 ...</summary> 
-    Cookie可以帮助你一键查看和清除所有安装的浏览器内的Cookie、历史记录、缓存，并且可以防止网站Cookie的追踪，提高对个人数据隐私的保护。 
+    Blocs 是一款mac上专业强大的精美网页设计软件。特点就是简介、高效、高质，可以帮助我们快速设计出精美的网页，retina视网膜特性支持，优化自适应网页的开发。 
     </details> 
 
-- 🌋 [BetterMouse 1.5.4618 改善外部鼠标的性能和功能](https://xclient.info/s/bettermouse.html) | Tue Mar 12 2024 12:34 AM 
+- 🌋 [CleanMyMac X 4.15.1 强大的mac系统清理工具](https://xclient.info/s/cleanmymac.html) | Wed Mar 13 2024 1:40 AM 
     <details><summary>展开描述 ...</summary> 
-    BetterMouse 是一款 macOS 实用工具，旨在改善外部鼠标的性能和功能，取代像罗技 Options 一样笨重、侵入和占用资源的鼠标驱动程序。它功能丰富、轻量级、效率优化，并且完全注重隐私安全，旨在满足您在 macOS 上使用第三方鼠标的所有需求。 
+    CleanMyMac是一个系统清理工具，删除系统缓存文件 , 多余的应用程序语言包 , PowerPc软件运行库等。 是个给你的硬盘瘦身的好工具。 
     </details> 
 <!-- xclient:END -->
 
