@@ -349,29 +349,29 @@ PS：不断学习和精进是红队人员的精神，
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Nest.js 整合 Winston 日志系统的实战教程](https://juejin.cn/post/7345339165418274816) | Tue Mar 12 2024 4:19 PM 
+- 🤗 [Android 新漏洞，可远程控制用户的手机](https://juejin.cn/post/7345339165418520576) | Wed Mar 13 2024 12:43 AM 
     <details><summary>展开描述 ...</summary> 
-    本文详细介绍了如何将 Winston 日志系统整合到 Nest.js 项目中。整个过程包括代码示例和步骤说明，适合希望深入了解 Nest.js 日志集成的开发者阅读。 
+    Android 用户要注意了，最近各个厂商应该会有一个新版本的补丁发布，用于修复一个高严重性漏洞，该漏洞无需额外的执行权限，可允许黑客在 Android 手机上运行恶意代码，操控你的手机。 
     </details> 
 
-- 🎡 [Winston 日志框架：功能与应用指南](https://juejin.cn/post/7345387782111739944) | Tue Mar 12 2024 4:17 PM 
+- 🎡 [切图仔做全栈：React&amp;Nest.js社区平台&lpar;二&rpar;——👋手把手实现优雅的鉴权机制](https://juejin.cn/post/7345379924167262249) | Wed Mar 13 2024 12:31 AM 
     <details><summary>展开描述 ...</summary> 
-    Winston 是 Node.js 的一个流行日志框架，提供多种日志级别、自定义日志格式和多种存储选项。 
+    这是一个 React+Nest 实现的全栈社区项目，在上一期中我们已经搭好了基础的架子以及实现了邮箱注册和登录态管理的功能。接下来我们来讨论如何实现鉴权机制 
     </details> 
 
-- 🕯 [前端面试高频考点之——深拷贝和浅拷贝](https://juejin.cn/post/7345356037404590106) | Tue Mar 12 2024 4:06 PM 
+- 🕯 [不能用 Sora ？那就用 Morph Studio，免费文生视频 1080P](https://juejin.cn/post/7345379917821493267) | Wed Mar 13 2024 12:27 AM 
     <details><summary>展开描述 ...</summary> 
-    深拷贝和浅拷贝是前端开发中常见的概念，对于理解和应用它们的区别非常重要。浅拷贝只复制对象的一层引用，而深拷贝递归地复制对象及其子对象。 
+    今天介绍一款免费的、文生视频（text-to-video ）的工具 —— Morph Studio. 怎么读？ —— “磨夫 死丢丢” 
     </details> 
 
-- 🚀 [杜绝广告烦扰、屏蔽隐私追踪：AdGuard 帮你守护纯净网络 | 开源日报 No.198](https://juejin.cn/post/7345387782111690792) | Tue Mar 12 2024 4:05 PM 
+- 🚀 [解读 Amazon Q | 用 AI 聊天机器人连接你与未来的无限可能](https://juejin.cn/post/7345387782112051240) | Tue Mar 12 2024 11:56 PM 
     <details><summary>展开描述 ...</summary> 
-    AdGuardHome 是一个网络范围内的广告和跟踪器拦截 DNS 服务器。 - 提供隐私保护 - 开源免费 - 强大的网络范围内广告和跟踪器拦截功能 - 可覆盖所有家庭设备，无需客户端软件支持 
+    在美国当地时间11月28日，亚马逊云科技在拉斯维加斯举办了 re:Invent 大会，大会介绍了许多今年来新增的核心产品与功能，着重讲解了生成式 AI 引领人工智能未来的前进方向。 
     </details> 
 
-- 💪 [Vue单文件组件详解](https://juejin.cn/post/7345379926147694604) | Tue Mar 12 2024 3:13 PM 
+- 💪 [🔥想不到吧！v-for使用不当会出现数据重载导致性能问题](https://juejin.cn/post/7345379924167180329) | Tue Mar 12 2024 11:32 PM 
     <details><summary>展开描述 ...</summary> 
-    在web开发中，组件化开发已成为一种趋势。Vue提供了一种高效的方式来创建和管理这些组件：单文件组件（Single-File Components，简称SFC）。本文对其进行深入解读和分析。 
+    前言 大家好，对于vue项目来说，v-for那真是随处可见，不知道大家平时有没有注意到，在使用v-for时导致的整个列表重载产生的性能问题。我自己倒还真没注意过，对于一些列表数据比较少的可能影响较小， 
     </details> 
 <!-- juejin:END -->
 ### 少数派
