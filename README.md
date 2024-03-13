@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [你分享的链接泄露隐私了吗 ? - 通过分享的链接查询到分享人的社交账号](https://xinquji.com/posts/809695?utm_campaign=xinquji-rss) | Tue Mar 12 2024 9:18 AM 
+- 👀 [Hello8 - 用人工智能视频翻译向 80 亿观众问好](https://xinquji.com/posts/809802?utm_campaign=xinquji-rss) | Wed Mar 13 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     通过分享的链接查询到分享人的社交账号  
+     用人工智能视频翻译向 80 亿观众问好  
     </details> 
 
-- 🥷 [VoiceMirror - 即时语音翻译，超过32种语言，出国旅游好帮手](https://xinquji.com/posts/809694?utm_campaign=xinquji-rss) | Tue Mar 12 2024 9:17 AM 
+- 🥷 [JustRecap - 从讲座、教程和播客中提取要点](https://xinquji.com/posts/809801?utm_campaign=xinquji-rss) | Wed Mar 13 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     即时语音翻译，超过32种语言，出国旅游好帮手  
+     从讲座、教程和播客中提取要点  
     </details> 
 
-- 💼 [DesignRoasts - 转化访客、增加销售额和增长的见解](https://xinquji.com/posts/809762?utm_campaign=xinquji-rss) | Tue Mar 12 2024 6:00 AM 
+- 💼 [Panacea Whole Exome Sequencing - 提前应对遗传健康风险并预防疾病](https://xinquji.com/posts/809800?utm_campaign=xinquji-rss) | Wed Mar 13 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     转化访客、增加销售额和增长的见解  
+     提前应对遗传健康风险并预防疾病  
     </details> 
 
-- 🦅 [toolmark.ai - 构建无需代码即可生成文本图像等的 AI 应用程序](https://xinquji.com/posts/809761?utm_campaign=xinquji-rss) | Tue Mar 12 2024 6:00 AM 
+- 🦅 [Milestone - 面向 SaaS 的交互式游戏化产品之旅](https://xinquji.com/posts/809799?utm_campaign=xinquji-rss) | Wed Mar 13 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     构建无需代码即可生成文本图像等的 AI 应用程序  
+     面向 SaaS 的交互式游戏化产品之旅  
     </details> 
 
-- 😺 [PitchBob.io - AI 融资演讲稿生成器和初创公司副驾驶](https://xinquji.com/posts/809760?utm_campaign=xinquji-rss) | Tue Mar 12 2024 6:00 AM 
+- 😺 [New JotURL Chrome Extension - 创作者的最佳盟友，可创建指向 60 多个应用程序的深层链接](https://xinquji.com/posts/809798?utm_campaign=xinquji-rss) | Wed Mar 13 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     AI 融资演讲稿生成器和初创公司副驾驶  
+     创作者的最佳盟友，可创建指向 60 多个应用程序的深层链接  
     </details> 
 <!-- xinquji:END -->
