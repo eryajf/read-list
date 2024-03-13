@@ -321,7 +321,7 @@
     在面临隐私问题后，Airbnb 最近更新了政策，全面禁止房东在出租房屋中使用室内安全监控摄像头。 
     </details> 
 
-- 💻 [CrowdStrike业绩炸裂，“AI+网络安全”成为资本的新宠？](https://www.freebuf.com/news/topnews/394170.html) | Tue Mar 12 2024 8:35 AM 
+- 💻 [CrowdStrike业绩、股价狂飙，“AI+网络安全”成为资本的新宠？](https://www.freebuf.com/news/topnews/394170.html) | Tue Mar 12 2024 8:35 AM 
     <details><summary>展开描述 ...</summary> 
     CrowdStrike超常的业绩增长和它超前布局AI的动作密不可分，“AI+网络安全”已然成为了CrowdStrike的创收新引擎。 
     </details> 
