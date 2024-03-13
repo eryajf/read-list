@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Mac快捷键帮助提升效率](https://juejin.cn/post/7345746216150138918) | Wed Mar 13 2024 2:00 PM 
+- 🤗 [Node.js与Webpack中的Babel配置指南](https://juejin.cn/post/7345695255847878665) | Wed Mar 13 2024 3:11 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文介绍前端项目中使用babel的两个典型场景，并对常用的babel插件进行梳理，希望各位读者能够喜欢上babel这个强有力的工具。 
+    </details> 
+
+- 🎡 [前端工程化起步：Webpack基本配置](https://juejin.cn/post/7345725753018040339) | Wed Mar 13 2024 2:57 PM 
+    <details><summary>展开描述 ...</summary> 
+    Webpack的强大之处在于可以通过各种加载器（Loader）和插件（Plugin）来扩展其能力，使得Webpack不仅能处理JavaScript文件，还可以处理数目繁多的其他类型的文件（模块）。 
+    </details> 
+
+- 🕯 [表格行内可编辑文本组件](https://juejin.cn/post/7345729950458527781) | Wed Mar 13 2024 2:50 PM 
+    <details><summary>展开描述 ...</summary> 
+    表格行内编辑字段是一个非常常见的做法，实现也很简单，稍微给 el-table的表格加点花样，自己封装一个简单的组件更加轻便。 
+    </details> 
+
+- 🚀 [按键开关机的锂电池充放电解决方案](https://juejin.cn/post/7345774710850158633) | Wed Mar 13 2024 2:13 PM 
+    <details><summary>展开描述 ...</summary> 
+    一、产品概述 TP4562 是一款集成线性充电管理、同步升压转换、电池电量指示和多种保护功能的单芯片电源管理SOC，为锂电池的充放电提供完整的单芯片电源解决方案。 TP4562 内部集成了线性充电管理 
+    </details> 
+
+- 💪 [Mac快捷键帮助提升效率](https://juejin.cn/post/7345746216150138918) | Wed Mar 13 2024 2:00 PM 
     <details><summary>展开描述 ...</summary> 
     快捷键 很久没用过mac了，今天发了一台mac下来，记录一下学到的mac快捷键。 切换输入法 短按中/英键为切换输入法，长按则为切换大小写，同时control+ space 也是切换输入法。 苹果键盘 
-    </details> 
-
-- 🎡 [缓存把我坑惨了..](https://juejin.cn/post/7345729950458282021) | Wed Mar 13 2024 1:43 PM 
-    <details><summary>展开描述 ...</summary> 
-    故事 春天，办公室外的世界总是让人神往的，小猫带着耳机，托着腮帮，望着外面美好的春光神游着...忽然... 
-    </details> 
-
-- 🕯 [go 基础语法](https://juejin.cn/post/7345758899305414708) | Wed Mar 13 2024 1:43 PM 
-    <details><summary>展开描述 ...</summary> 
-    这里是 go 的基本语法大部分内容来源于一门视频课程 学完后再来看手摸手开发一个全栈项目就基本可以直接上手了,项目本身没有什么难度! 
-    </details> 
-
-- 🚀 [Redis 八种常用数据类型详解](https://juejin.cn/post/7345726691510911012) | Wed Mar 13 2024 1:33 PM 
-    <details><summary>展开描述 ...</summary> 
-    夯实基础，这篇文章带着大家回顾一下 Redis 中的 8 种常用数据类型： 5 种基础数据类型：String（字符串）、List（列表）、Set（集合）、Hash（散列）、Zset（有序集合）。 3  
-    </details> 
-
-- 💪 [在springboot中如何实现数据脱敏](https://juejin.cn/post/7345758899305349172) | Wed Mar 13 2024 1:33 PM 
-    <details><summary>展开描述 ...</summary> 
-    在Spring Boot项目中实现字段的脱敏通常涉及到敏感信息的处理，如用户的姓名、电话号码、电子邮件地址等。脱敏是指在不改变原数据结构的前提下，通过某种方式处理数据，使数据不能直接暴露用户的真实信息 
     </details> 
 <!-- juejin:END -->
 ### 少数派
