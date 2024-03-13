@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Electron 获取不到设备 ID 了！](https://juejin.cn/post/7345379924168196137) | Wed Mar 13 2024 3:07 AM 
+- 🤗 [Rust 编写 WASM 入门](https://juejin.cn/post/7345453971308527654) | Wed Mar 13 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-    在桌面应用开发中，常常需要获取设备的唯一ID，但之前常用的方法现在失效了，本篇我们用手动的方式来实现 
+    在今天的文章中，我们将讨论如何用 Rust 编写 WebAssembly 模块。 WebAssembly 是编程语言的可移植编译目标，能够方便地与 Web 上的 JavaScript 进行互操作。 
     </details> 
 
-- 🎡 [linux Shell 命令行-09-redirect 重定向](https://juejin.cn/post/7345407067412496419) | Wed Mar 13 2024 2:47 AM 
+- 🎡 [JVM-类加载器源码解析](https://juejin.cn/post/7345644573651533864) | Wed Mar 13 2024 5:36 AM 
     <details><summary>展开描述 ...</summary> 
-    # 拓展阅读 [linux Shell 命令行-00-intro 入门介绍]&lpar;https://houbb.github.io/2018/12/21/linux-shell-01-intro&rpar; [ 
+    JVM-类加载器源码解析，从如何配置Debug源码，分析类加载器初始化过程，到编写自定义类加载器，到了解如何破坏双亲委派模型加载第三方厂商提供的jar包。 
     </details> 
 
-- 🕯 [LLM推理入门指南①：文本生成的初始化与解码阶段](https://juejin.cn/post/7345388391805698085) | Wed Mar 13 2024 2:45 AM 
+- 🕯 [Spring集成hazelcast实现分布式缓存](https://juejin.cn/post/7345405978723303474) | Wed Mar 13 2024 5:34 AM 
     <details><summary>展开描述 ...</summary> 
-    本系列文章将深入探讨LLM推理的不同层面及其挑战，同时，其中提供的有价值见解也适用于Transformer编码器模型的推理。 
+    1.Hazelcast介绍 Hazelcast是Hazelcast公司开源的一款分布式内存数据库产品，提供弹性可扩展、高性能的分布式内存计算。并通过提供诸如Map，Queue，ExecutorServ 
     </details> 
 
-- 🚀 [linux Shell 命令行-08-file include 文件包含](https://juejin.cn/post/7345388391805534245) | Wed Mar 13 2024 2:35 AM 
+- 🚀 [【体验有奖】用 AI 画春天，函数计算搭建 Stable Diffusion WebUI](https://juejin.cn/post/7345405978723205170) | Wed Mar 13 2024 5:15 AM 
     <details><summary>展开描述 ...</summary> 
-    # 拓展阅读 [linux Shell 命令行-00-intro 入门介绍]&lpar;https://houbb.github.io/2018/12/21/linux-shell-01-intro&rpar; [ 
+    人工智能生成内容 AIGC（Artificial Intelligence Generated Content）是当下备受关注的概念之一，是继 PGC 和 UGC 之后的新型生产方式。AIGC 技术的 
     </details> 
 
-- 💪 [linux Shell 命令行-07-func 函数](https://juejin.cn/post/7345388391805517861) | Wed Mar 13 2024 2:32 AM 
+- 💪 [Python import 跟 Java import 有什么区别？](https://juejin.cn/post/7345423755948572726) | Wed Mar 13 2024 5:08 AM 
     <details><summary>展开描述 ...</summary> 
-    # 拓展阅读 [linux Shell 命令行-00-intro 入门介绍]&lpar;https://houbb.github.io/2018/12/21/linux-shell-01-intro&rpar; [ 
+    本文重点阐述了Python和Java中import语句的异同。主要区别包括:语法形式、编译时导入还是运行时导入、名称冲突解决方式、静态绑定与动态绑定等 
     </details> 
 <!-- juejin:END -->
 ### 少数派
