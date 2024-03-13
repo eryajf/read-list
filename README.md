@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Rust 编写 WASM 入门](https://juejin.cn/post/7345453971308527654) | Wed Mar 13 2024 6:00 AM 
+- 🤗 [看看5、6 年前咱是怎么实现屏幕截图粘贴上传的](https://juejin.cn/post/7345645199613902888) | Wed Mar 13 2024 7:06 AM 
     <details><summary>展开描述 ...</summary> 
-    在今天的文章中，我们将讨论如何用 Rust 编写 WebAssembly 模块。 WebAssembly 是编程语言的可移植编译目标，能够方便地与 Web 上的 JavaScript 进行互操作。 
+    看看5、6 年前咱是怎么实现屏幕截图粘贴上传的。在公司有做过一个组件，评论框。集成了基本的简单编辑器、表情、字数检测等等功能。主要应用到的项目有朋友圈，微博，OA评论。 
     </details> 
 
-- 🎡 [JVM-类加载器源码解析](https://juejin.cn/post/7345644573651533864) | Wed Mar 13 2024 5:36 AM 
+- 🎡 [WebGL 控制图形的形变](https://juejin.cn/post/7345478992055402559) | Wed Mar 13 2024 6:32 AM 
     <details><summary>展开描述 ...</summary> 
-    JVM-类加载器源码解析，从如何配置Debug源码，分析类加载器初始化过程，到编写自定义类加载器，到了解如何破坏双亲委派模型加载第三方厂商提供的jar包。 
+    本文主要介绍 WebGL 中对于图形的形变的控制，包括平移、旋转和缩放。使用的方法包括直接对点做处理和通过矩阵进行变化。 
     </details> 
 
-- 🕯 [Spring集成hazelcast实现分布式缓存](https://juejin.cn/post/7345405978723303474) | Wed Mar 13 2024 5:34 AM 
+- 🕯 [微信小程序生态5—微信扫码登录PC网站&lpar;公众号方式&rpar;](https://juejin.cn/post/7345481890038169609) | Wed Mar 13 2024 6:10 AM 
     <details><summary>展开描述 ...</summary> 
-    1.Hazelcast介绍 Hazelcast是Hazelcast公司开源的一款分布式内存数据库产品，提供弹性可扩展、高性能的分布式内存计算。并通过提供诸如Map，Queue，ExecutorServ 
+    一、前言 扫码前 扫码后 准备材料 已认证的公众号&lpar;必须为服务号，订阅号没有该接口的权限&rpar; 一个公网访问网址，用于微信回调 缓存或者数据库，用于存储token 一个SpringBoot项目 实现步骤一 
     </details> 
 
-- 🚀 [【体验有奖】用 AI 画春天，函数计算搭建 Stable Diffusion WebUI](https://juejin.cn/post/7345405978723205170) | Wed Mar 13 2024 5:15 AM 
+- 🚀 [基于 K8s 容器集群的容灾架构与方案](https://juejin.cn/post/7345453971308544038) | Wed Mar 13 2024 6:04 AM 
     <details><summary>展开描述 ...</summary> 
-    人工智能生成内容 AIGC（Artificial Intelligence Generated Content）是当下备受关注的概念之一，是继 PGC 和 UGC 之后的新型生产方式。AIGC 技术的 
+    本文介绍如何以 K8s 集群（包括：ACK 集群，他云集群和本地 IDC K8s 集群）为基础，结合阿里云云产品（网络，数据库，中间件，可观测），设计容灾架构，构建一个“韧性”系统。 
     </details> 
 
-- 💪 [Python import 跟 Java import 有什么区别？](https://juejin.cn/post/7345423755948572726) | Wed Mar 13 2024 5:08 AM 
+- 💪 [JS数据类型检测](https://juejin.cn/post/7345396671423381513) | Wed Mar 13 2024 2:49 AM 
     <details><summary>展开描述 ...</summary> 
-    本文重点阐述了Python和Java中import语句的异同。主要区别包括:语法形式、编译时导入还是运行时导入、名称冲突解决方式、静态绑定与动态绑定等 
+    数据类型检测的方式有哪些 前言：将一些常见类型判断稍些整理一下，此篇为JS数据类型检测的方法 在 JavaScript 中，基本数据类 
     </details> 
 <!-- juejin:END -->
 ### 少数派
