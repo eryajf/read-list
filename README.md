@@ -332,13 +332,13 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [这个 gkd 这么还要录屏权限，不是侵犯用户隐私吗？
+- 🥸 [《Kotlin 语言参考文档 》 中文版 更新到了最新的 1.9.23 版](https://www.v2ex.com/t/1023394#reply0) | Wed Mar 13 2024 1:10 PM
+- 🤗 [程序员第二门语言](https://www.v2ex.com/t/1023390#reply1) | Wed Mar 13 2024 12:51 PM
+- 🎭 [Stack overflow 发问被踩](https://www.v2ex.com/t/1023386#reply7) | Wed Mar 13 2024 12:42 PM
+- 🥷 [这个 gkd 这么还要录屏权限，不是侵犯用户隐私吗？
 
-https://github.com/gkd-kit/gkd](https://www.v2ex.com/t/1023377#reply0) | Wed Mar 13 2024 12:00 PM
-- 🤗 [SSLHandshakeException: Cannot verify ECDH ServerKeyExchange signature](https://www.v2ex.com/t/1023373#reply0) | Wed Mar 13 2024 11:36 AM
-- 🎭 [Devin — 第一个 AI 软件研发工程师](https://www.v2ex.com/t/1023372#reply1) | Wed Mar 13 2024 11:35 AM
-- 🥷 [广州招聘 | AI 应用 Python 后端工程师 | 8 - 13k](https://www.v2ex.com/t/1023370#reply3) | Wed Mar 13 2024 11:26 AM
-- 🐵 [爬虫学习](https://www.v2ex.com/t/1023366#reply1) | Wed Mar 13 2024 11:06 AM<!-- v2ex:END -->
+https://github.com/gkd-kit/gkd](https://www.v2ex.com/t/1023377#reply2) | Wed Mar 13 2024 12:00 PM
+- 🐵 [SSLHandshakeException: Cannot verify ECDH ServerKeyExchange signature](https://www.v2ex.com/t/1023373#reply0) | Wed Mar 13 2024 11:36 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
