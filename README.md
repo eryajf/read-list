@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [NoteList 4.3.4 基于文档的数据存储工具](https://xclient.info/s/notelist.html) | Wed Mar 13 2024 1:51 AM 
+- 🦏 [Wondershare PDFelement Pro 10.3.0.6336 OCR 强大的PDF编辑工具](https://xclient.info/s/wondershare-pdf-element.html) | Wed Mar 13 2024 2:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    PDFelement可是能为你提供强大的编辑功能滴，支持OCR光学识别引擎，有效的提升文字的识别效率，另外PDFelement支持PDF转换等功能，在保证原有完整文档的基础上，提供了多样的风格和样式。 
+    </details> 
+
+-  [TG Pro 2.91 专业显示你的Mac实时温度](https://xclient.info/s/tg-pro.html) | Wed Mar 13 2024 2:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    TG Pro &lpar;Temperature Gauge Pro&rpar; 是一款专业显示你的Mac实时温度的软件，可以在系统内的菜单栏，独立菜单栏等位置显示出各个硬件的温度，也可以自定义风扇转速等。 
+    </details> 
+
+- ⚗️ [NoteList 4.3.4 基于文档的数据存储工具](https://xclient.info/s/notelist.html) | Wed Mar 13 2024 1:51 AM 
     <details><summary>展开描述 ...</summary> 
     NoteList是一个存储数据的应用程序，可以使用自由格式的文本和全文字处理能力的图片。 
     </details> 
 
--  [Mp3tag 1.8.16 音频元数据编辑](https://xclient.info/s/mp3tag.html) | Wed Mar 13 2024 1:45 AM 
+- 🔥 [Mp3tag 1.8.16 音频元数据编辑](https://xclient.info/s/mp3tag.html) | Wed Mar 13 2024 1:45 AM 
     <details><summary>展开描述 ...</summary> 
     Mp3tag是一个功能强大且易于使用的编辑音频文件元数据的工具 
     </details> 
 
-- ⚗️ [FSNotes 6.7.0 轻量级的笔记工具](https://xclient.info/s/fsnotes.html) | Wed Mar 13 2024 1:43 AM 
+- 🌋 [FSNotes 6.7.0 轻量级的笔记工具](https://xclient.info/s/fsnotes.html) | Wed Mar 13 2024 1:43 AM 
     <details><summary>展开描述 ...</summary> 
     FSNotes 是一款轻量级的笔记工具，帮助用户快速记录灵感。 
-    </details> 
-
-- 🔥 [Blocs 5.2.2 优秀的零编码网页开发工具](https://xclient.info/s/blocs.html) | Wed Mar 13 2024 1:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    Blocs 是一款mac上专业强大的精美网页设计软件。特点就是简介、高效、高质，可以帮助我们快速设计出精美的网页，retina视网膜特性支持，优化自适应网页的开发。 
-    </details> 
-
-- 🌋 [CleanMyMac X 4.15.1 强大的mac系统清理工具](https://xclient.info/s/cleanmymac.html) | Wed Mar 13 2024 1:40 AM 
-    <details><summary>展开描述 ...</summary> 
-    CleanMyMac是一个系统清理工具，删除系统缓存文件 , 多余的应用程序语言包 , PowerPc软件运行库等。 是个给你的硬盘瘦身的好工具。 
     </details> 
 <!-- xclient:END -->
 
