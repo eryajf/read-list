@@ -332,11 +332,13 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [爬虫学习](https://www.v2ex.com/t/1023366#reply0) | Wed Mar 13 2024 11:06 AM
-- 🤗 [Pixel 8 Pro 升级到 qpr beta 2.1 后还能用国内的 5g 吗？](https://www.v2ex.com/t/1023363#reply0) | Wed Mar 13 2024 10:51 AM
-- 🎭 [NAS 死机后网络瘫痪](https://www.v2ex.com/t/1023360#reply4) | Wed Mar 13 2024 10:43 AM
-- 🥷 [PVE 虛擬機添加 PCI 設備的問題求助](https://www.v2ex.com/t/1023355#reply0) | Wed Mar 13 2024 10:17 AM
-- 🐵 [群晖 ddns 访问问题咨询](https://www.v2ex.com/t/1023350#reply2) | Wed Mar 13 2024 10:09 AM<!-- v2ex:END -->
+- 🥸 [这个 gkd 这么还要录屏权限，不是侵犯用户隐私吗？
+
+https://github.com/gkd-kit/gkd](https://www.v2ex.com/t/1023377#reply0) | Wed Mar 13 2024 12:00 PM
+- 🤗 [SSLHandshakeException: Cannot verify ECDH ServerKeyExchange signature](https://www.v2ex.com/t/1023373#reply0) | Wed Mar 13 2024 11:36 AM
+- 🎭 [Devin — 第一个 AI 软件研发工程师](https://www.v2ex.com/t/1023372#reply1) | Wed Mar 13 2024 11:35 AM
+- 🥷 [广州招聘 | AI 应用 Python 后端工程师 | 8 - 13k](https://www.v2ex.com/t/1023370#reply3) | Wed Mar 13 2024 11:26 AM
+- 🐵 [爬虫学习](https://www.v2ex.com/t/1023366#reply1) | Wed Mar 13 2024 11:06 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
