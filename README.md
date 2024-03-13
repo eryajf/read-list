@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [看看5、6 年前咱是怎么实现屏幕截图粘贴上传的](https://juejin.cn/post/7345645199613902888) | Wed Mar 13 2024 7:06 AM 
+- 🤗 [Electron桌面端构建](https://juejin.cn/post/7345484955793997878) | Wed Mar 13 2024 9:06 AM 
     <details><summary>展开描述 ...</summary> 
-    看看5、6 年前咱是怎么实现屏幕截图粘贴上传的。在公司有做过一个组件，评论框。集成了基本的简单编辑器、表情、字数检测等等功能。主要应用到的项目有朋友圈，微博，OA评论。 
+    Electron 是一个开源框架，用于构建跨平台的桌面应用程序。它由 GitHub 开发，并且基于 Node.js 和 Chromium 构建。Electron 允许开发者使用 Web 技术（HTML 
     </details> 
 
-- 🎡 [WebGL 控制图形的形变](https://juejin.cn/post/7345478992055402559) | Wed Mar 13 2024 6:32 AM 
+- 🎡 [🐲 真龙不怕火炼 | 春节创意投稿大赛开奖公示](https://juejin.cn/post/7345659267527639076) | Wed Mar 13 2024 9:02 AM 
     <details><summary>展开描述 ...</summary> 
-    本文主要介绍 WebGL 中对于图形的形变的控制，包括平移、旋转和缩放。使用的方法包括直接对点做处理和通过矩阵进行变化。 
+    🎉 龙年春节创意投稿大赛活动已经结束啦！ 感谢各位掘友的分享，祝大家龙年一切顺利。获奖名单已经公布~ 
     </details> 
 
-- 🕯 [微信小程序生态5—微信扫码登录PC网站&lpar;公众号方式&rpar;](https://juejin.cn/post/7345481890038169609) | Wed Mar 13 2024 6:10 AM 
+- 🕯 [Flutter 调用Google内购支付最新教程](https://juejin.cn/post/7345499817316024320) | Wed Mar 13 2024 8:56 AM 
     <details><summary>展开描述 ...</summary> 
-    一、前言 扫码前 扫码后 准备材料 已认证的公众号&lpar;必须为服务号，订阅号没有该接口的权限&rpar; 一个公网访问网址，用于微信回调 缓存或者数据库，用于存储token 一个SpringBoot项目 实现步骤一 
+    前言： 各位同学大家好， 之前看到有人在群里问flutter 怎么调用Google支付， 今天就准备整理写一篇文章。 效果图 实现方式： 我们是通过flutter和安卓交互 然后在原生安卓里面加入了内 
     </details> 
 
-- 🚀 [基于 K8s 容器集群的容灾架构与方案](https://juejin.cn/post/7345453971308544038) | Wed Mar 13 2024 6:04 AM 
+- 🚀 [初探 iOS Core Data](https://juejin.cn/post/7345672631322771506) | Wed Mar 13 2024 8:55 AM 
     <details><summary>展开描述 ...</summary> 
-    本文介绍如何以 K8s 集群（包括：ACK 集群，他云集群和本地 IDC K8s 集群）为基础，结合阿里云云产品（网络，数据库，中间件，可观测），设计容灾架构，构建一个“韧性”系统。 
+    前言 Core Data 是 Apple 官方推出的数据持久化框架。如果我们的应用程序需要缓存数据以便在我们的程序没有网络的时候也可以使用，我们就可以采用 Core Data 来存储我们需要的数据。  
     </details> 
 
-- 💪 [JS数据类型检测](https://juejin.cn/post/7345396671423381513) | Wed Mar 13 2024 2:49 AM 
+- 💪 [Krpano：打造全景漫游体验—全景开发（一）](https://juejin.cn/post/7345659267527475236) | Wed Mar 13 2024 8:54 AM 
     <details><summary>展开描述 ...</summary> 
-    数据类型检测的方式有哪些 前言：将一些常见类型判断稍些整理一下，此篇为JS数据类型检测的方法 在 JavaScript 中，基本数据类 
+    前言 前面的文章主要基本介绍了krpano一些元素的用法，从这篇文章开始我们就进入全景开发的实战教学，从全景切图到全景编辑最后到整个全景的预览，前端使用react框架+antd组件库+krpano，后 
     </details> 
 <!-- juejin:END -->
 ### 少数派
