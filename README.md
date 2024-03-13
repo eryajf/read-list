@@ -349,29 +349,29 @@ PS：不断学习和精进是红队人员的精神，
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [java工具-高并发-JUC下Condition解密](https://juejin.cn/post/7345376932428759074) | Wed Mar 13 2024 2:17 AM 
+- 🤗 [Electron 获取不到设备 ID 了！](https://juejin.cn/post/7345379924168196137) | Wed Mar 13 2024 3:07 AM 
     <details><summary>展开描述 ...</summary> 
-    本文内容 synchronized中实现线程等待和唤醒 Condition简介及常用方法介绍及相关示例 使用Condition实现生产者消费者 使用Condition实现同步阻塞队列 Object对象 
+    在桌面应用开发中，常常需要获取设备的唯一ID，但之前常用的方法现在失效了，本篇我们用手动的方式来实现 
     </details> 
 
-- 🎡 [阿里二面：如何定位&amp;避免死锁？连着两个面试问到了！](https://juejin.cn/post/7345397788391784499) | Wed Mar 13 2024 2:10 AM 
+- 🎡 [linux Shell 命令行-09-redirect 重定向](https://juejin.cn/post/7345407067412496419) | Wed Mar 13 2024 2:47 AM 
     <details><summary>展开描述 ...</summary> 
-    什么是死锁？死锁问题该如何定位？如何避免死锁？本文从这几个问题入手，详细的解释了死锁，以及如何避免死锁。 
+    # 拓展阅读 [linux Shell 命令行-00-intro 入门介绍]&lpar;https://houbb.github.io/2018/12/21/linux-shell-01-intro&rpar; [ 
     </details> 
 
-- 🕯 [Web Components详解-Shadow DOM样式控制](https://juejin.cn/post/7345404320965607463) | Wed Mar 13 2024 1:36 AM 
+- 🕯 [LLM推理入门指南①：文本生成的初始化与解码阶段](https://juejin.cn/post/7345388391805698085) | Wed Mar 13 2024 2:45 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 本文继续Web Components系列文章，介绍一下Shadow DOM的样式及选择器。 Shadow DOM的样式与外界是隔离的，即自定义元素的样式只会影响到Shadow DOM内部，不会影 
+    本系列文章将深入探讨LLM推理的不同层面及其挑战，同时，其中提供的有价值见解也适用于Transformer编码器模型的推理。 
     </details> 
 
-- 🚀 [众多跨标签页通信方式，你知道哪些？（二）](https://juejin.cn/post/7345352532657848371) | Tue Mar 12 2024 3:58 PM 
+- 🚀 [linux Shell 命令行-08-file include 文件包含](https://juejin.cn/post/7345388391805534245) | Wed Mar 13 2024 2:35 AM 
     <details><summary>展开描述 ...</summary> 
-    书接上回，由于时间原因，还有几种情况没有总结，今天抽时间总结一下，其他情况请查看这里，众多跨标签页通信方式，你知道哪些？ 以下则是常用的通信方法 BroadCast Channel Service W 
+    # 拓展阅读 [linux Shell 命令行-00-intro 入门介绍]&lpar;https://houbb.github.io/2018/12/21/linux-shell-01-intro&rpar; [ 
     </details> 
 
-- 💪 [langchian入门二:prompts提示词的使用,你的LLM说话怎么这么⑥!](https://juejin.cn/post/7345352532657602611) | Tue Mar 12 2024 2:51 PM 
+- 💪 [linux Shell 命令行-07-func 函数](https://juejin.cn/post/7345388391805517861) | Wed Mar 13 2024 2:32 AM 
     <details><summary>展开描述 ...</summary> 
-    什么是prompts 在大语言模型（LLM）中，Prompt指的是模型生成内容时所需要的输入，它可以包含模型生成内容时所需要的背景知识、用户期望模型执行的指令、模型输出需要遵循的格式等。 
+    # 拓展阅读 [linux Shell 命令行-00-intro 入门介绍]&lpar;https://houbb.github.io/2018/12/21/linux-shell-01-intro&rpar; [ 
     </details> 
 <!-- juejin:END -->
 ### 少数派
