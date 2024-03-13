@@ -301,37 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [venom打靶思路详解（vulnhub）](https://www.freebuf.com/defense/394169.html) | Tue Mar 12 2024 8:13 AM 
+- 🦄 [印度一金融公司泄露用户信息，数据量超过3TB](https://www.freebuf.com/news/394649.html) | Wed Mar 13 2024 3:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    企业通常使用MongoDB来组织和存储大量的文档型数据，而在IKF Finance的案例中，包括了各种政府签发的身份证明文件。 
+    </details> 
+
+- 🦄 [Airbnb将禁止在房源内安装监控摄像头](https://www.freebuf.com/news/394640.html) | Wed Mar 13 2024 2:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    在面临隐私问题后，Airbnb 最近更新了政策，全面禁止房东在出租房屋中使用室内安全监控摄像头。 
+    </details> 
+
+- 🦅 [venom打靶思路详解（vulnhub）](https://www.freebuf.com/defense/394169.html) | Tue Mar 12 2024 8:13 AM 
     <details><summary>展开描述 ...</summary> 
     venom打靶思路详解，分六步走。 
     </details> 
 
-- 🦄 [揭秘智能化安全运营新趋势 | 阿里云 X FreeBuf 技术沙龙](https://www.freebuf.com/articles/393897.html) | Tue Mar 12 2024 7:50 AM 
+- 🪄 [揭秘智能化安全运营新趋势 | 阿里云 X FreeBuf 技术沙龙](https://www.freebuf.com/articles/393897.html) | Tue Mar 12 2024 7:50 AM 
     <details><summary>展开描述 ...</summary> 
     本次沙龙主题为「智汇云端 解锁安全运营新范式」，与会嘉宾围绕安全运营智能化、跨云安全和车联网安全等话题进行深入探讨。 
     </details> 
 
-- 🦅 [网安标委印发《网络安全标准实践指南——车外画面局部轮廓化处理效果验证》](https://www.freebuf.com/articles/394148.html) | Tue Mar 12 2024 7:22 AM 
+- 💻 [网安标委印发《网络安全标准实践指南——车外画面局部轮廓化处理效果验证》](https://www.freebuf.com/articles/394148.html) | Tue Mar 12 2024 7:22 AM 
     <details><summary>展开描述 ...</summary> 
     如何在遵守相应的国家法规和标准，保障他人信息安全和隐私的背景下，妥善使用这些数据信息训练算法。 
-    </details> 
-
-- 🪄 [红队实战小课，快来涨经验|Webshell下bypass360](https://www.freebuf.com/news/394133.html) | Tue Mar 12 2024 6:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    本次直播可帮助大家解决的问题：
-
-1.如何bypass360执行系统命令
-
-2.如何bypass360上线cs
-
-3.如何bypass360提权到system
-
-PS：不断学习和精进是红队人员的精神， 
-    </details> 
-
-- 💻 [意大利数据监管机构对Sora展开调查](https://www.freebuf.com/news/394077.html) | Tue Mar 12 2024 3:14 AM 
-    <details><summary>展开描述 ...</summary> 
-    意大利数据保护监管机构3月8日宣布，将对 OpenAI 新推出的视频人工智能模型 Sora 展开隐私调查。 
     </details> 
 <!-- freebuf:END -->
 
