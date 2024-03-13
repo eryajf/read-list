@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派早报：阿里云盘将下线部分功能、Apple 将在国内扩建及新增更多实验室等](https://sspai.com/post/87141) | Wed Mar 13 2024 12:00 AM 
+- 👹 [年度征文 | 二十年后我再次和纸笔恋爱了](https://sspai.com/post/87018) | Wed Mar 13 2024 2:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    我对写作工具的的原则就只有一个——能畅快地写出好作品。所以我既喜欢纸笔在创意阶段的自由高效，也喜欢电子工具编辑的强大。最终这它们在我坚定且唯一的原则下，融洽地统一在写作系统中、各司其职发挥优势。&lt;a href=&quot;https://sspai.com/post/87018&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [派早报：阿里云盘将下线部分功能、Apple 将在国内扩建及新增更多实验室等](https://sspai.com/post/87141) | Wed Mar 13 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     Apple 将在欧盟开放 Web 应用分发，深圳推出共享充电宝行业自律公约等。&lt;a href=&quot;https://sspai.com/post/87141&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [年度征文 |「狐狸」的成长：兴趣杂、难坚持，如何找到精进之路？](https://sspai.com/post/86886) | Tue Mar 12 2024 11:00 AM 
+- 🤭 [年度征文 |「狐狸」的成长：兴趣杂、难坚持，如何找到精进之路？](https://sspai.com/post/86886) | Tue Mar 12 2024 11:00 AM 
     <details><summary>展开描述 ...</summary> 
     过去的一年，我最大的收获，正是基于一个偶然的契机，克服自己「狐狸」型人的短板，把自己喜欢的几件事聚合在一起，坚持朝着一个方向努力，最终取得了欣喜的成长。&lt;a href=&quot;https://sspai.com/post/86886&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [2024 年，翻盖机还有什么可玩？](https://sspai.com/prime/story/buy-a-flip-phone-in-2024) | Tue Mar 12 2024 9:21 AM 
+- 🥸 [2024 年，翻盖机还有什么可玩？](https://sspai.com/prime/story/buy-a-flip-phone-in-2024) | Tue Mar 12 2024 9:21 AM 
     <details><summary>展开描述 ...</summary> 
     聊聊翻盖机这个看上去没有过气多久、实际上已经很难把玩到的经典设计，在 2024 年还有什么可折腾。&lt;a href=&quot;https://sspai.com/prime/story/buy-a-flip-phone-in-2024&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;&lt;p&gt;本文为会员文章，出自&lt;a href=&quot;https://sspai.com/prime/precog/single&quot; target=&quot;_blank&quot;&gt;《单篇文章》&lt;/a &gt;，订阅后可阅读全文。&lt;/p &gt; 
     </details> 
 
-- 🥸 [社区速递 035 | 派友们的最爱字体、输入法鼓捣和新玩意们](https://sspai.com/post/87128) | Tue Mar 12 2024 8:58 AM 
+- 🙉 [社区速递 035 | 派友们的最爱字体、输入法鼓捣和新玩意们](https://sspai.com/post/87128) | Tue Mar 12 2024 8:58 AM 
     <details><summary>展开描述 ...</summary> 
     除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...&lt;a href=&quot;https://sspai.com/post/87128&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [少数派的 12 岁：正版软件特惠限时开启](https://sspai.com/post/87126) | Tue Mar 12 2024 8:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    少数派12岁啦！为了与大家共同庆祝我派的生日，我们继续与国内外数十家优秀的开发者以及团队推出限时特惠活动，如果你遇到了心仪的软件，不妨趁机入手不要错过。🚀少数派网站活动专区|少数派淘宝活动专区新软速递 ...&lt;a href=&quot;https://sspai.com/post/87126&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
