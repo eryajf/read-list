@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Node.js与Webpack中的Babel配置指南](https://juejin.cn/post/7345695255847878665) | Wed Mar 13 2024 3:11 PM 
+- 🤗 [Docker 与 PM2：Node.js 服务部署的自动重启策略比较](https://juejin.cn/post/7345746216150597670) | Wed Mar 13 2024 4:27 PM 
     <details><summary>展开描述 ...</summary> 
-    本文介绍前端项目中使用babel的两个典型场景，并对常用的babel插件进行梳理，希望各位读者能够喜欢上babel这个强有力的工具。 
+    本文探讨了在部署 Node.js 服务时，使用 Docker 和 PM2 进行自动重启的两种策略。Docker 通过其重启策略在容器层面提供重启功能。PM2 作为进程管理工具，也能实现类似功能。 
     </details> 
 
-- 🎡 [前端工程化起步：Webpack基本配置](https://juejin.cn/post/7345725753018040339) | Wed Mar 13 2024 2:57 PM 
+- 🎡 [Express 使用 multer 实现文件上传](https://juejin.cn/post/7345725753018204179) | Wed Mar 13 2024 4:24 PM 
     <details><summary>展开描述 ...</summary> 
-    Webpack的强大之处在于可以通过各种加载器（Loader）和插件（Plugin）来扩展其能力，使得Webpack不仅能处理JavaScript文件，还可以处理数目繁多的其他类型的文件（模块）。 
+    本文详细介绍了如何使用 Node.js、Express、Multer 和 Cors 实现文件上传功能。 
     </details> 
 
-- 🕯 [表格行内可编辑文本组件](https://juejin.cn/post/7345729950458527781) | Wed Mar 13 2024 2:50 PM 
+- 🕯 [Node 和 Nest.js 动态读取环境配置](https://juejin.cn/post/7345759870332944425) | Wed Mar 13 2024 4:22 PM 
     <details><summary>展开描述 ...</summary> 
-    表格行内编辑字段是一个非常常见的做法，实现也很简单，稍微给 el-table的表格加点花样，自己封装一个简单的组件更加轻便。 
+    本文说了在Node.js应用程序中管理配置的不同方法。首先介绍了dotenv库，它允许从.env文件加载环境变量。使用js-yaml库来处理YAML格式的配置文件，最后说了Nest的config模块。 
     </details> 
 
-- 🚀 [按键开关机的锂电池充放电解决方案](https://juejin.cn/post/7345774710850158633) | Wed Mar 13 2024 2:13 PM 
+- 🚀 [JS中的类型判断，你真的完全理解吗](https://juejin.cn/post/7345746216150499366) | Wed Mar 13 2024 3:50 PM 
     <details><summary>展开描述 ...</summary> 
-    一、产品概述 TP4562 是一款集成线性充电管理、同步升压转换、电池电量指示和多种保护功能的单芯片电源管理SOC，为锂电池的充放电提供完整的单芯片电源解决方案。 TP4562 内部集成了线性充电管理 
+    在实际开发中，根据不同的需求选择合适的类型判断方式是非常重要的，希望本篇文章能够帮助大家更好地认识JavaScript中关于类型判断的知识 
     </details> 
 
-- 💪 [Mac快捷键帮助提升效率](https://juejin.cn/post/7345746216150138918) | Wed Mar 13 2024 2:00 PM 
+- 💪 [基于英特尔® Gaudi® 2 AI 加速器的文本生成流水线](https://juejin.cn/entry/7345759870332846121) | Wed Mar 13 2024 3:42 PM 
     <details><summary>展开描述 ...</summary> 
-    快捷键 很久没用过mac了，今天发了一台mac下来，记录一下学到的mac快捷键。 切换输入法 短按中/英键为切换输入法，长按则为切换大小写，同时control+ space 也是切换输入法。 苹果键盘 
+    随着生成式人工智能 &lpar;Generative AI，GenAI&rpar; 革命的全面推进，使用 Llama 2 等开源 transformer 模型生成文本已成为新风尚。人工智能爱好者及开发人员正在寻求利用此类 
     </details> 
 <!-- juejin:END -->
 ### 少数派
