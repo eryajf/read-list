@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [群晖 ddns 访问问题咨询](https://www.v2ex.com/t/1023350#reply0) | Wed Mar 13 2024 10:09 AM
-- 🤗 [如何部署 nodejs 的后端 api 和 mysql 数据库到 Azure 云上的 windows server 2022 上?](https://www.v2ex.com/t/1023348#reply0) | Wed Mar 13 2024 10:08 AM
-- 🎭 [喜大普奔， win11 终于修好了 shift+f6 快捷键占用的问题了](https://www.v2ex.com/t/1023342#reply0) | Wed Mar 13 2024 9:55 AM
-- 🥷 [求助：前端实现自定义网格地图上 添加图形标记进行物品管理](https://www.v2ex.com/t/1023337#reply0) | Wed Mar 13 2024 9:48 AM
-- 🐵 [重生之——老大叫后端写前端](https://www.v2ex.com/t/1023335#reply3) | Wed Mar 13 2024 9:45 AM<!-- v2ex:END -->
+- 🥸 [爬虫学习](https://www.v2ex.com/t/1023366#reply0) | Wed Mar 13 2024 11:06 AM
+- 🤗 [Pixel 8 Pro 升级到 qpr beta 2.1 后还能用国内的 5g 吗？](https://www.v2ex.com/t/1023363#reply0) | Wed Mar 13 2024 10:51 AM
+- 🎭 [NAS 死机后网络瘫痪](https://www.v2ex.com/t/1023360#reply4) | Wed Mar 13 2024 10:43 AM
+- 🥷 [PVE 虛擬機添加 PCI 設備的問題求助](https://www.v2ex.com/t/1023355#reply0) | Wed Mar 13 2024 10:17 AM
+- 🐵 [群晖 ddns 访问问题咨询](https://www.v2ex.com/t/1023350#reply2) | Wed Mar 13 2024 10:09 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
