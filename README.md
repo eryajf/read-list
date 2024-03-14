@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [构建你的第一个Node.js命令行工具：从基础到交互式下载](https://juejin.cn/post/7346060871817560091) | Thu Mar 14 2024 1:04 PM 
+- 🤗 [Flutter基建 - 神奇的状态管理State](https://juejin.cn/post/7346060871817707547) | Thu Mar 14 2024 2:02 PM 
+    <details><summary>展开描述 ...</summary> 
+    本篇会带着小伙伴们一起了解下Flutter中状态管理相关知识，主要围绕着State和InheritedWidget知识点切入，下面我们一起进入文章感受下吧~ 
+    </details> 
+
+- 🎡 [JSR：只支持 ESM 模块，但兼容所有主流包管理器](https://juejin.cn/post/7346079018121740351) | Thu Mar 14 2024 2:02 PM 
+    <details><summary>展开描述 ...</summary> 
+    ​JSR 全称 JS 注册表，现已进入 beta 公测版！JSR 针对 TS 优化，能且仅能支持 ESM 模块。JSR 支持 Deno 和 Node、Bun 等，免费且开源。 
+    </details> 
+
+- 🕯 [不是联合类型用不起，而是泛型性价比更高](https://juejin.cn/post/7346113400646238247) | Thu Mar 14 2024 2:00 PM 
+    <details><summary>展开描述 ...</summary> 
+    在一次代码审查中，我发现了一个数据展示组件 DataDisplay 的data属性类型定义异常复杂，它使用了联合类型： 出于好奇，我询问团队成员为什么要这样定义类型。他解释说：“考虑到 
+    </details> 
+
+- 🚀 [构建你的第一个Node.js命令行工具：从基础到交互式下载](https://juejin.cn/post/7346060871817560091) | Thu Mar 14 2024 1:04 PM 
     <details><summary>展开描述 ...</summary> 
     通过本文，我们展示了如何使用Node.js创建一个包含命令行交互和远程模板下载功能的CLI工具。希望这篇文章能帮助你在构建CLI工具时，提供一个清晰的指南和灵感。 
     </details> 
 
-- 🎡 [Nodejs 第五十七章（addon）](https://juejin.cn/post/7346082867087032370) | Thu Mar 14 2024 1:01 PM 
+- 💪 [Nodejs 第五十七章（addon）](https://juejin.cn/post/7346082867087032370) | Thu Mar 14 2024 1:01 PM 
     <details><summary>展开描述 ...</summary> 
     Nodejs在IO方面拥有极强的能力，但是对CPU密集型任务，会有不足，为了填补这方面的缺点，Nodejs支持c/c++为其编写原生nodejs插件，补充这方面的能力。 Nodejs c++扩展 c+ 
-    </details> 
-
-- 🕯 [写给互联网人的一封信](https://juejin.cn/post/7346102092589137970) | Thu Mar 14 2024 12:39 PM 
-    <details><summary>展开描述 ...</summary> 
-    在小时候第一次接触到收音机、黑白电视机到如今最火的人工智能，整个过程我认为都算是一次新的工业革命发展中的状态，在这个阶段我们需要不断接收新的事和物，不断学习和消化未知事物对于我们生活的影响。 工 
-    </details> 
-
-- 🚀 [图解CSS：CSS自定义属性](https://juejin.cn/post/7346082867086934066) | Thu Mar 14 2024 12:26 PM 
-    <details><summary>展开描述 ...</summary> 
-    CSS自定义属性（CSS Variables）为开发者提供了一种在样式表中定义和重复使用的方法，提高了代码的可维护性和灵活性。通过声明变量并在整个样式表中引用它们，可以轻松地实现样式的统一管理和调整。 
-    </details> 
-
-- 💪 [小程序/H5/APP【多端开发利器】Taro框架的条件编译实战指南](https://juejin.cn/post/7346060871817347099) | Thu Mar 14 2024 11:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    内置环境变量在Taro多端开发中的应用 Taro提供了内置环境变量 process.env.TARO_ENV 以便开发者能够针对不同平台编写特定的代码。 process.env.TARO_ENV 的作 
     </details> 
 <!-- juejin:END -->
 ### 少数派
