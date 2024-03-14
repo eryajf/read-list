@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [小程序/H5/APP【多端开发利器】Taro框架的条件编译实战指南](https://juejin.cn/post/7346060871817347099) | Thu Mar 14 2024 11:57 AM 
+- 🤗 [构建你的第一个Node.js命令行工具：从基础到交互式下载](https://juejin.cn/post/7346060871817560091) | Thu Mar 14 2024 1:04 PM 
+    <details><summary>展开描述 ...</summary> 
+    通过本文，我们展示了如何使用Node.js创建一个包含命令行交互和远程模板下载功能的CLI工具。希望这篇文章能帮助你在构建CLI工具时，提供一个清晰的指南和灵感。 
+    </details> 
+
+- 🎡 [Nodejs 第五十七章（addon）](https://juejin.cn/post/7346082867087032370) | Thu Mar 14 2024 1:01 PM 
+    <details><summary>展开描述 ...</summary> 
+    Nodejs在IO方面拥有极强的能力，但是对CPU密集型任务，会有不足，为了填补这方面的缺点，Nodejs支持c/c++为其编写原生nodejs插件，补充这方面的能力。 Nodejs c++扩展 c+ 
+    </details> 
+
+- 🕯 [写给互联网人的一封信](https://juejin.cn/post/7346102092589137970) | Thu Mar 14 2024 12:39 PM 
+    <details><summary>展开描述 ...</summary> 
+    在小时候第一次接触到收音机、黑白电视机到如今最火的人工智能，整个过程我认为都算是一次新的工业革命发展中的状态，在这个阶段我们需要不断接收新的事和物，不断学习和消化未知事物对于我们生活的影响。 工 
+    </details> 
+
+- 🚀 [图解CSS：CSS自定义属性](https://juejin.cn/post/7346082867086934066) | Thu Mar 14 2024 12:26 PM 
+    <details><summary>展开描述 ...</summary> 
+    CSS自定义属性（CSS Variables）为开发者提供了一种在样式表中定义和重复使用的方法，提高了代码的可维护性和灵活性。通过声明变量并在整个样式表中引用它们，可以轻松地实现样式的统一管理和调整。 
+    </details> 
+
+- 💪 [小程序/H5/APP【多端开发利器】Taro框架的条件编译实战指南](https://juejin.cn/post/7346060871817347099) | Thu Mar 14 2024 11:57 AM 
     <details><summary>展开描述 ...</summary> 
     内置环境变量在Taro多端开发中的应用 Taro提供了内置环境变量 process.env.TARO_ENV 以便开发者能够针对不同平台编写特定的代码。 process.env.TARO_ENV 的作 
-    </details> 
-
-- 🎡 [RN渐变色组件](https://juejin.cn/post/7346102132862451750) | Thu Mar 14 2024 11:05 AM 
-    <details><summary>展开描述 ...</summary> 
-    在 LinearGradient 组件中，start 和 end 属性用于定义渐变的起始点和结束点。 start: 用于指定渐变的起始点，是一个包含 x 和 y 属性的对象。x 和 y 属性的值表示起 
-    </details> 
-
-- 🕯 [能说会看会行动，OpenAI机器人，一出手就是王炸](https://juejin.cn/entry/7346059767794483227) | Thu Mar 14 2024 10:36 AM 
-    <details><summary>展开描述 ...</summary> 
-    「借助 OpenAI 的能力，Figure 01 现在可以与人全面对话了！」 本周三，半个硅谷都在投的明星机器人创业公司 Figure，发布了全新 OpenAI 大模型加持的机器人 demo。 
-    </details> 
-
-- 🚀 [零一万物API正式上线：支持输入30万汉字，看不懂《百年孤独》的人有救了](https://juejin.cn/entry/7346059767794450459) | Thu Mar 14 2024 10:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    2024 年，大模型领域的一个趋势越来越清晰：重视优化，面向应用。 在去年的百模大战中，科技巨头、创业力量你追我赶，将大模型技术卷到了一个新的高度。 
-    </details> 
-
-- 💪 [智能体的ChatGPT时刻！DeepMind通用AI向人类玩家进化，开始理解游戏](https://juejin.cn/entry/7346059767794417691) | Thu Mar 14 2024 10:34 AM 
-    <details><summary>展开描述 ...</summary> 
-    视频游戏是 AI 系统的重要试验场。与现实世界一样，游戏也是丰富的学习环境，具有反应灵敏的实时设置和不断变化的目标。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
