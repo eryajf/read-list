@@ -306,24 +306,24 @@
     传统接口在传输的过程中，非常容易被抓包进行篡改，从而进行中间人攻击。这时我们可通过对参数进行签名验证，如果参数与签名值不匹配，则请求不通过，直接返回错误信息，从而防止黑客攻击或大大增加黑客攻击的成本。 
     </details> 
 
-- 🦄 [宏碁又遭网络袭击，菲律宾分公司大量数据被盗](https://www.freebuf.com/articles/394654.html) | Wed Mar 13 2024 3:49 AM 
+- 🦄 [FreeBuf 早报 | 美国23年因网络犯罪损失125亿美元；印度某金融公司泄露3TB用户数据](https://www.freebuf.com/news/394697.html) | Wed Mar 13 2024 8:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    与 2022 年相比，美国因网络犯罪带来的经济损失骤增 22%，达到了空前的 125 亿美元。 
+    </details> 
+
+- 🦅 [网络空间指纹：新型网络犯罪研判的关键路径](https://www.freebuf.com/articles/network/394688.html) | Wed Mar 13 2024 6:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文将重点介绍网络空间指纹的形成和采集方法，以及其在网络犯罪研判中的应用实践。 
+    </details> 
+
+- 🪄 [宏碁又遭网络袭击，菲律宾分公司大量数据被盗](https://www.freebuf.com/articles/394654.html) | Wed Mar 13 2024 3:49 AM 
     <details><summary>展开描述 ...</summary> 
     管理宏碁员工考勤数据的第三方供应商遭遇网络攻击，部分员工数据被盗。 
     </details> 
 
-- 🦅 [印度一金融公司泄露用户信息，数据量超过3TB](https://www.freebuf.com/news/394649.html) | Wed Mar 13 2024 3:14 AM 
+- 💻 [印度一金融公司泄露用户信息，数据量超过3TB](https://www.freebuf.com/news/394649.html) | Wed Mar 13 2024 3:14 AM 
     <details><summary>展开描述 ...</summary> 
     企业通常使用MongoDB来组织和存储大量的文档型数据，而在IKF Finance的案例中，包括了各种政府签发的身份证明文件。 
-    </details> 
-
-- 🪄 [欧盟地区 iOS DMA 更新后，Brave浏览器安装量激增](https://www.freebuf.com/news/394645.html) | Wed Mar 13 2024 2:57 AM 
-    <details><summary>展开描述 ...</summary> 
-    Brave 浏览器内置了广泛的隐私保护功能，包括自动阻止跟踪器和广告，以保护用户的在线隐私。 
-    </details> 
-
-- 💻 [Airbnb将禁止在房源内安装监控摄像头](https://www.freebuf.com/news/394640.html) | Wed Mar 13 2024 2:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    在面临隐私问题后，Airbnb 最近更新了政策，全面禁止房东在出租房屋中使用室内安全监控摄像头。 
     </details> 
 <!-- freebuf:END -->
 
