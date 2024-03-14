@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [编写更好 ABAP 代码的原则](https://juejin.cn/post/7345836282067157043) | Thu Mar 14 2024 6:13 AM 
+- 🤗 [Python 脚本化 Git 操作：简单、高效、无压力](https://juejin.cn/post/7346037183453380646) | Thu Mar 14 2024 8:51 AM 
     <details><summary>展开描述 ...</summary> 
-    不要编写深度嵌套的循环、case 和其他控制结构。而不是使用 if、检查和返回来嵌套控制结构的退出。 
+    前言 如何判定此次测试是否达标，代码覆盖率是衡量的标准之一。前段时间，利用fastapi框架重写了覆盖率统计服务，核心其实就是先获取全量代码覆盖率，然后通过diff操作统计增量代码覆盖率，当然要使用d 
     </details> 
 
-- 🎡 [ReduxToolkit、CSS/SVG实现复杂线条光效、MySQL 优化器索引选错、布隆过滤器、Android perfetto | 酱酱的下午茶第316期](https://juejin.cn/post/7345827681756413992) | Thu Mar 14 2024 5:53 AM 
+- 🎡 [React Effect 逃生舱口](https://juejin.cn/post/7346036731726626842) | Thu Mar 14 2024 8:41 AM 
     <details><summary>展开描述 ...</summary> 
-    【本期掘金酱的下午茶】亮点： 不要再写满屏import导入啦 Redux Toolkit 准线上事故之 MySQL 优化器索引选错 布隆过滤器：原理与最佳方案实践 浅聊下对 app 开发成长有益的一些 
+    什么是副作用&lpar;Effect&rpar;？副作用与事件处理程序&lpar;Event Handler&rpar;有什么区别？如何声明一个副作用？被滥用的 useEffect？如果副作用中存在非反应逻辑，我们该怎么做？ 
     </details> 
 
-- 🕯 [回流为什么会对性能产生印象](https://juejin.cn/post/7345827681756364840) | Thu Mar 14 2024 5:46 AM 
+- 🕯 [Electron无法下载问题（yarn 4.0版本）](https://juejin.cn/post/7346025519916564480) | Thu Mar 14 2024 8:41 AM 
     <details><summary>展开描述 ...</summary> 
-    简介 当我们更改与布局相关的属性（例如元素的width、height或 margin）时，会发生布局重新计算导致“回流”  例如，可能希望具有从网格视图切换到列表视图的功能。在这种情况下，触发回流对于 
+    Electron无法下载问题 Electron打包，我把npm切换成yarn时，导致electron二进制包下载不了。 问题1： 执行：yarn install 报错，electron二进制文件下载不 
     </details> 
 
-- 🚀 [OpenWrt-Oui的安装](https://juejin.cn/post/7345818228055130138) | Thu Mar 14 2024 5:12 AM 
+- 🚀 [一文掌握原型和原型链的理解](https://juejin.cn/post/7346060871816462363) | Thu Mar 14 2024 8:39 AM 
     <details><summary>展开描述 ...</summary> 
-    在LuCI环境下开发比较艰难，另外这个框架也确实技术老旧。您可以考虑一个更新的框架叫Oui，它使用了Vue和Lua。本文主要介绍怎么成功安装上它。 
+    前言 在前端这个岗位已经工作了快两年了，现如今居然还对原型和原型链处于半知半解的状态，正好最近也在准备面试题，现对原型和原型链再次做一次补充,写这篇文章的初衷在于自身对原型和原型链的彻底深挖 
     </details> 
 
-- 💪 [03.设计原则之开闭原则](https://juejin.cn/post/7345818228055113754) | Thu Mar 14 2024 5:06 AM 
+- 💪 [关于小程序如何做到强制更新](https://juejin.cn/post/7346079018120347711) | Thu Mar 14 2024 8:34 AM 
     <details><summary>展开描述 ...</summary> 
-    开闭原则 开闭原则是面向对象的可复用设计的第一块基石，它是最重要的面向对象设计原则。 在23种设计模式中，大部分的设计模式都是为了解决代码的扩展性问题而存在，主要遵循的原则就是 开闭原则 定义 这个描 
+    在小程序的日常迭代中，有一些场景我们可能需要在小程序发布后，用户能够马上感知并更新，比如上线新活动、修复高危漏洞等，如果用户因为各种原因未能及时更新小程序，这就可能导致一些功能无法正常使用 
     </details> 
 <!-- juejin:END -->
 ### 少数派
