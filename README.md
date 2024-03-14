@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Docker 与 PM2：Node.js 服务部署的自动重启策略比较](https://juejin.cn/post/7345746216150597670) | Wed Mar 13 2024 4:27 PM 
+- 🤗 [apache commons-dbcp Apache Commons DBCP 软件实现数据库连接池  commons-dbcp2](https://juejin.cn/post/7345821802063347731) | Thu Mar 14 2024 2:50 AM 
     <details><summary>展开描述 ...</summary> 
-    本文探讨了在部署 Node.js 服务时，使用 Docker 和 PM2 进行自动重启的两种策略。Docker 通过其重启策略在容器层面提供重启功能。PM2 作为进程管理工具，也能实现类似功能。 
+    # DBCP组件 许多Apache项目支持与关系型数据库进行交互。为每个用户创建一个新连接可能很耗时（通常需要多秒钟的时钟时间），以执行可能需要毫秒级时间的数据库事务。对于一个公开托管在互联网上的 
     </details> 
 
-- 🎡 [Express 使用 multer 实现文件上传](https://juejin.cn/post/7345725753018204179) | Wed Mar 13 2024 4:24 PM 
+- 🎡 [我不想努力了，还是回家继承”家产“算了](https://juejin.cn/post/7345757062108807220) | Thu Mar 14 2024 2:50 AM 
     <details><summary>展开描述 ...</summary> 
-    本文详细介绍了如何使用 Node.js、Express、Multer 和 Cors 实现文件上传功能。 
+    继承家产是什么意思 是什么： 在js中，让一个子类可以访问父类的属性和方法。就是继承父亲的家产。 如何继承 问问类叔和构造函叔 他们会告诉我哪些是能继承的，哪些我不能拿到的。 你能继承的 constr 
     </details> 
 
-- 🕯 [Node 和 Nest.js 动态读取环境配置](https://juejin.cn/post/7345759870332944425) | Wed Mar 13 2024 4:22 PM 
+- 🕯 [我总结的第一个模型，个人能力成长模型解释](https://juejin.cn/post/7345778582226092082) | Thu Mar 14 2024 2:42 AM 
     <details><summary>展开描述 ...</summary> 
-    本文说了在Node.js应用程序中管理配置的不同方法。首先介绍了dotenv库，它允许从.env文件加载环境变量。使用js-yaml库来处理YAML格式的配置文件，最后说了Nest的config模块。 
+    笔者认为很多事情可以用模型去解释，如果模型解释力很好可以作为指导思想。 比如金字塔原理，先说结论，后说论据，先总结所以，后过程因为。 比如SWOT分析，确定企业自身的竞争优势、劣势，外部市场的机会和威 
     </details> 
 
-- 🚀 [JS中的类型判断，你真的完全理解吗](https://juejin.cn/post/7345746216150499366) | Wed Mar 13 2024 3:50 PM 
+- 🚀 [要是你想使用异步队列的话，那就试试Reactor Flux吧！](https://juejin.cn/post/7345759870333911081) | Thu Mar 14 2024 2:40 AM 
     <details><summary>展开描述 ...</summary> 
-    在实际开发中，根据不同的需求选择合适的类型判断方式是非常重要的，希望本篇文章能够帮助大家更好地认识JavaScript中关于类型判断的知识 
+    Reactor Flux乃是Spring Framework内核架构中的一大重要组件，其主要功能在于实现反应式编程理念。在Reactor的世界观里，Flux担当着描述0至无限个任意元素组成序列的重任 
     </details> 
 
-- 💪 [基于英特尔® Gaudi® 2 AI 加速器的文本生成流水线](https://juejin.cn/entry/7345759870332846121) | Wed Mar 13 2024 3:42 PM 
+- 💪 [Stable Diffusion WebUI 1.8.0来了](https://juejin.cn/post/7345746216151646246) | Thu Mar 14 2024 2:16 AM 
     <details><summary>展开描述 ...</summary> 
-    随着生成式人工智能 &lpar;Generative AI，GenAI&rpar; 革命的全面推进，使用 Llama 2 等开源 transformer 模型生成文本已成为新风尚。人工智能爱好者及开发人员正在寻求利用此类 
+    上周 Stable Diffusion WebUI 发布了 1.8.0 版本，更新内容比较多，据说显存使用有了大幅的下降，这几天我也找时间把 AutoDL 镜像的版本做了个升级，有兴趣的同学可以去体验 
     </details> 
 <!-- juejin:END -->
 ### 少数派
