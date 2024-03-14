@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [apache commons-dbcp Apache Commons DBCP 软件实现数据库连接池  commons-dbcp2](https://juejin.cn/post/7345821802063347731) | Thu Mar 14 2024 2:50 AM 
+- 🤗 [字节跳动面试记录-字节千川](https://juejin.cn/post/7345821800880324671) | Thu Mar 14 2024 4:11 AM 
     <details><summary>展开描述 ...</summary> 
-    # DBCP组件 许多Apache项目支持与关系型数据库进行交互。为每个用户创建一个新连接可能很耗时（通常需要多秒钟的时钟时间），以执行可能需要毫秒级时间的数据库事务。对于一个公开托管在互联网上的 
+    面试的业务是字节-千川，职级是 2-2，技术面一共 3 轮，每一面都要手写算法。我在 2023 年 7 月下旬被裁员，于 2024 年 2 月初面试字节-千川，没有通过第 3 轮面试，在这里记录下当时 
     </details> 
 
-- 🎡 [我不想努力了，还是回家继承”家产“算了](https://juejin.cn/post/7345757062108807220) | Thu Mar 14 2024 2:50 AM 
+- 🎡 [自己动手写 React——【1】项目框架搭建](https://juejin.cn/post/7345821802063855635) | Thu Mar 14 2024 3:41 AM 
     <details><summary>展开描述 ...</summary> 
-    继承家产是什么意思 是什么： 在js中，让一个子类可以访问父类的属性和方法。就是继承父亲的家产。 如何继承 问问类叔和构造函叔 他们会告诉我哪些是能继承的，哪些我不能拿到的。 你能继承的 constr 
+    深入理解 React 源码，带你从零实现 React v18 的核心功能，构建自己的 React 库。 
     </details> 
 
-- 🕯 [我总结的第一个模型，个人能力成长模型解释](https://juejin.cn/post/7345778582226092082) | Thu Mar 14 2024 2:42 AM 
+- 🕯 [设计模式之各种工厂模式（TypeScript &amp; Rust）](https://juejin.cn/post/7345760019318997032) | Thu Mar 14 2024 3:38 AM 
     <details><summary>展开描述 ...</summary> 
-    笔者认为很多事情可以用模型去解释，如果模型解释力很好可以作为指导思想。 比如金字塔原理，先说结论，后说论据，先总结所以，后过程因为。 比如SWOT分析，确定企业自身的竞争优势、劣势，外部市场的机会和威 
+    设计模式中带“工厂”两个字的有：简单工厂模式、工厂方法模式、抽象工厂模式。本文用 TypeScript 和 Rust 分别演示一下。 
     </details> 
 
-- 🚀 [要是你想使用异步队列的话，那就试试Reactor Flux吧！](https://juejin.cn/post/7345759870333911081) | Thu Mar 14 2024 2:40 AM 
+- 🚀 [惊艳到了，每个开发人员都必须要知道的6个HTML属性！🔥](https://juejin.cn/post/7345827681755889704) | Thu Mar 14 2024 3:35 AM 
     <details><summary>展开描述 ...</summary> 
-    Reactor Flux乃是Spring Framework内核架构中的一大重要组件，其主要功能在于实现反应式编程理念。在Reactor的世界观里，Flux担当着描述0至无限个任意元素组成序列的重任 
+    提到HTML，很多人可能认为：“这不就是小菜一碟吗？有啥难的？”不过，越是就是这种简单的东西，反而越能带来 让人惊艳的效果~~ 
     </details> 
 
-- 💪 [Stable Diffusion WebUI 1.8.0来了](https://juejin.cn/post/7345746216151646246) | Thu Mar 14 2024 2:16 AM 
+- 💪 [面试官：来道送分题](https://juejin.cn/post/7345774436702568511) | Thu Mar 14 2024 2:46 AM 
     <details><summary>展开描述 ...</summary> 
-    上周 Stable Diffusion WebUI 发布了 1.8.0 版本，更新内容比较多，据说显存使用有了大幅的下降，这几天我也找时间把 AutoDL 镜像的版本做了个升级，有兴趣的同学可以去体验 
+    浅聊一下 在这些天的面试中，总结了一些送分的题目... 深度优先遍历和广度优先遍历 通常在遍历一棵树的时候，我们会遇到DFS和BFS DFS DFS深度优先，我们很容易理解就是要先遍历到树的每个结点的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
