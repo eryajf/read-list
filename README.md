@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Flutter基建 - 神奇的状态管理State](https://juejin.cn/post/7346060871817707547) | Thu Mar 14 2024 2:02 PM 
+- 🤗 [深入浅出SQL排序与函数](https://juejin.cn/post/7346113400646385703) | Thu Mar 14 2024 2:48 PM 
+    <details><summary>展开描述 ...</summary> 
+    在SQL中，排序和函数是对数据进行处理和操作的重要工具。排序能够让数据按照特定顺序排列，而函数则提供了对数据进行计算、转换和操作的能力。在本篇博客中，我们将深入探讨SQL排序和函数的相关知识。 SQL 
+    </details> 
+
+- 🎡 [Flutter基建 - 神奇的状态管理State](https://juejin.cn/post/7346060871817707547) | Thu Mar 14 2024 2:02 PM 
     <details><summary>展开描述 ...</summary> 
     本篇会带着小伙伴们一起了解下Flutter中状态管理相关知识，主要围绕着State和InheritedWidget知识点切入，下面我们一起进入文章感受下吧~ 
     </details> 
 
-- 🎡 [JSR：只支持 ESM 模块，但兼容所有主流包管理器](https://juejin.cn/post/7346079018121740351) | Thu Mar 14 2024 2:02 PM 
+- 🕯 [JSR：只支持 ESM 模块，但兼容所有主流包管理器](https://juejin.cn/post/7346079018121740351) | Thu Mar 14 2024 2:02 PM 
     <details><summary>展开描述 ...</summary> 
     ​JSR 全称 JS 注册表，现已进入 beta 公测版！JSR 针对 TS 优化，能且仅能支持 ESM 模块。JSR 支持 Deno 和 Node、Bun 等，免费且开源。 
     </details> 
 
-- 🕯 [不是联合类型用不起，而是泛型性价比更高](https://juejin.cn/post/7346113400646238247) | Thu Mar 14 2024 2:00 PM 
+- 🚀 [不是联合类型用不起，而是泛型性价比更高](https://juejin.cn/post/7346113400646238247) | Thu Mar 14 2024 2:00 PM 
     <details><summary>展开描述 ...</summary> 
     在一次代码审查中，我发现了一个数据展示组件 DataDisplay 的data属性类型定义异常复杂，它使用了联合类型： 出于好奇，我询问团队成员为什么要这样定义类型。他解释说：“考虑到 
     </details> 
 
-- 🚀 [构建你的第一个Node.js命令行工具：从基础到交互式下载](https://juejin.cn/post/7346060871817560091) | Thu Mar 14 2024 1:04 PM 
+- 💪 [没看过ReentrantLock源码，别说精通Java并发编程](https://juejin.cn/post/7346113400646221863) | Thu Mar 14 2024 1:55 PM 
     <details><summary>展开描述 ...</summary> 
-    通过本文，我们展示了如何使用Node.js创建一个包含命令行交互和远程模板下载功能的CLI工具。希望这篇文章能帮助你在构建CLI工具时，提供一个清晰的指南和灵感。 
-    </details> 
-
-- 💪 [Nodejs 第五十七章（addon）](https://juejin.cn/post/7346082867087032370) | Thu Mar 14 2024 1:01 PM 
-    <details><summary>展开描述 ...</summary> 
-    Nodejs在IO方面拥有极强的能力，但是对CPU密集型任务，会有不足，为了填补这方面的缺点，Nodejs支持c/c++为其编写原生nodejs插件，补充这方面的能力。 Nodejs c++扩展 c+ 
+    ReentrantLock和Synchronized都是Java开发中最常用的锁，与Synchronized这种JVM内置锁不同的是，ReentrantLock提供了更丰富的语义。可以创建公平锁或非公 
     </details> 
 <!-- juejin:END -->
 ### 少数派
