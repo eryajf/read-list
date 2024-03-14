@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0314](http://jandan.net/p/115909) | Wed Mar 13 2024 11:07 PM 
+- 🚀 [今日好价 0315](http://jandan.net/p/115917) | Thu Mar 14 2024 11:07 PM 
     <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：26 
+    今日带货商品数量：58 
     </details> 
 
-- 🙉 [帕金森新药取得突破性进展：减少疾病标志物](http://jandan.net/p/115896) | Wed Mar 13 2024 11:06 PM 
+- 🙉 [在石器时代，接吻可能会死](http://jandan.net/p/115919) | Thu Mar 14 2024 11:06 PM 
     <details><summary>展开描述 ...</summary> 
-    有望减缓甚至阻止疾病恶化 
+    石器时代细菌丰富 
     </details> 
 
-- 🎉 [2025款奥迪A3的订阅收费乱象](http://jandan.net/p/115895) | Wed Mar 13 2024 11:05 PM 
+- 🎉 [世界最大飞机如何助力风能发展](http://jandan.net/p/115918) | Thu Mar 14 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
-    新款车型却引入了令人沮丧的内置订阅服务 
+    将用于运输超长风力发电机组叶片 
     </details> 
 
-- 🐲 [新冠疫情让全球预期寿命下降1.6年，澳洲则逆势上涨](http://jandan.net/p/115893) | Wed Mar 13 2024 11:04 PM 
+- 🐲 [不要用未经消毒的自来水冲洗鼻窦，它可能携带食脑阿米巴原虫](http://jandan.net/p/115915) | Thu Mar 14 2024 11:03 PM 
     <details><summary>展开描述 ...</summary> 
-    澳大利亚人仍应继续采取合理的预防措施 
+    误用鼻腔冲洗液恐致致命脑部感染 
     </details> 
 
--  [天气预报变得更准了，但穷国用不上](http://jandan.net/p/115892) | Wed Mar 13 2024 11:03 PM 
+-  [精神分裂症与衰老在脑细胞类型上惊人相似](http://jandan.net/p/115914) | Thu Mar 14 2024 11:02 PM 
     <details><summary>展开描述 ...</summary> 
-    许多国家仍缺乏基本的预报系统。 
+    为认知障碍提供新解释，或将帮助开发治疗方法 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
