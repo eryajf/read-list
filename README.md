@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [初识HTML](https://juejin.cn/post/7345796354957688842) | Thu Mar 14 2024 5:03 AM 
+- 🤗 [编写更好 ABAP 代码的原则](https://juejin.cn/post/7345836282067157043) | Thu Mar 14 2024 6:13 AM 
     <details><summary>展开描述 ...</summary> 
-    一.第一个网页 首先我们在自己的电脑上新建一个txt文件，命名为index.html文件的格式。 使用记事本打开在内部输入HelloWorld然后进行保存。 使用使用谷歌浏览器或者edge浏览器进行打 
+    不要编写深度嵌套的循环、case 和其他控制结构。而不是使用 if、检查和返回来嵌套控制结构的退出。 
     </details> 
 
-- 🎡 [如何在 Go 与 Rust 现代编程中做出合理的选择](https://juejin.cn/post/7345818228055080986) | Thu Mar 14 2024 5:00 AM 
+- 🎡 [ReduxToolkit、CSS/SVG实现复杂线条光效、MySQL 优化器索引选错、布隆过滤器、Android perfetto | 酱酱的下午茶第316期](https://juejin.cn/post/7345827681756413992) | Thu Mar 14 2024 5:53 AM 
     <details><summary>展开描述 ...</summary> 
-    本文探讨了Go和Rust的优势及适用场景，从网络服务到系统编程，指导开发者根据需求选择最合适的编程语言。 
+    【本期掘金酱的下午茶】亮点： 不要再写满屏import导入啦 Redux Toolkit 准线上事故之 MySQL 优化器索引选错 布隆过滤器：原理与最佳方案实践 浅聊下对 app 开发成长有益的一些 
     </details> 
 
-- 🕯 [MYSQL 是如何保证binlog 和redo log同时提交的？](https://juejin.cn/post/7345836282066665523) | Thu Mar 14 2024 4:57 AM 
+- 🕯 [回流为什么会对性能产生印象](https://juejin.cn/post/7345827681756364840) | Thu Mar 14 2024 5:46 AM 
     <details><summary>展开描述 ...</summary> 
-    MYSQL 一个事务在提交的时候能够保证binlog和redo log是同时提交的，并且能在宕机恢复后保持binlog 和redo log的一致性。 先来看看什么是redo log 和binlog，以 
+    简介 当我们更改与布局相关的属性（例如元素的width、height或 margin）时，会发生布局重新计算导致“回流”  例如，可能希望具有从网格视图切换到列表视图的功能。在这种情况下，触发回流对于 
     </details> 
 
-- 🚀 [Go 错误处理：用 select-case 来解决这个难题？](https://juejin.cn/post/7345828305490313251) | Thu Mar 14 2024 4:34 AM 
+- 🚀 [OpenWrt-Oui的安装](https://juejin.cn/post/7345818228055130138) | Thu Mar 14 2024 5:12 AM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是煎鱼。 日常看 Go 社区的一些新动态，发现大家对于错误处理的新提案是很积极。上次分享了一篇想要用 switch-case 来解决现状的新提案，不少同学认为不可行。 没想到 Go 社区的同 
+    在LuCI环境下开发比较艰难，另外这个框架也确实技术老旧。您可以考虑一个更新的框架叫Oui，它使用了Vue和Lua。本文主要介绍怎么成功安装上它。 
     </details> 
 
-- 💪 [揭开typeof和instanceof类型判断的面纱，让你了解它们的真面目](https://juejin.cn/post/7345774436703158335) | Thu Mar 14 2024 4:30 AM 
+- 💪 [03.设计原则之开闭原则](https://juejin.cn/post/7345818228055113754) | Thu Mar 14 2024 5:06 AM 
     <details><summary>展开描述 ...</summary> 
-    揭开 typeof和instanceof都为类型判断的面纱，了解它们本质的区别 哈喽哈喽，我是你们的金樽清酒，说到类型判断我们脑海里就会想起typeof和instanceof。但是每次都会分不清楚什么 
+    开闭原则 开闭原则是面向对象的可复用设计的第一块基石，它是最重要的面向对象设计原则。 在23种设计模式中，大部分的设计模式都是为了解决代码的扩展性问题而存在，主要遵循的原则就是 开闭原则 定义 这个描 
     </details> 
 <!-- juejin:END -->
 ### 少数派
