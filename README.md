@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [美国将对波音公司展开刑事调查](http://jandan.net/p/115894) | Wed Mar 13 2024 12:39 PM 
+- 🚀 [今日好价 0314](http://jandan.net/p/115909) | Wed Mar 13 2024 11:07 PM 
     <details><summary>展开描述 ...</summary> 
-    波音公司表示正在配合调查 
+    今日带货商品数量：26 
     </details> 
 
-- 🙉 [今日好价 0313](http://jandan.net/p/115888) | Tue Mar 12 2024 11:05 PM 
+- 🙉 [帕金森新药取得突破性进展：减少疾病标志物](http://jandan.net/p/115896) | Wed Mar 13 2024 11:06 PM 
     <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：51 
+    有望减缓甚至阻止疾病恶化 
     </details> 
 
-- 🎉 [疯狂的石头: 治疗狂犬病的”万能良药”](http://jandan.net/p/115884) | Tue Mar 12 2024 11:05 PM 
+- 🎉 [2025款奥迪A3的订阅收费乱象](http://jandan.net/p/115895) | Wed Mar 13 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
-    人们曾用神秘的石头来治疗狂犬病 
+    新款车型却引入了令人沮丧的内置订阅服务 
     </details> 
 
-- 🐲 [就增肌而言，碳水可能和蛋白质一样重要](http://jandan.net/p/115883) | Tue Mar 12 2024 11:04 PM 
+- 🐲 [新冠疫情让全球预期寿命下降1.6年，澳洲则逆势上涨](http://jandan.net/p/115893) | Wed Mar 13 2024 11:04 PM 
     <details><summary>展开描述 ...</summary> 
-    不妨尝试增加碳水化合物摄入 
+    澳大利亚人仍应继续采取合理的预防措施 
     </details> 
 
--  [互联网正在失控](http://jandan.net/p/115880) | Tue Mar 12 2024 11:03 PM 
+-  [天气预报变得更准了，但穷国用不上](http://jandan.net/p/115892) | Wed Mar 13 2024 11:03 PM 
     <details><summary>展开描述 ...</summary> 
-    人类互动将越来越少 
+    许多国家仍缺乏基本的预报系统。 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
