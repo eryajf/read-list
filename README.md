@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [深入浅出SQL排序与函数](https://juejin.cn/post/7346113400646385703) | Thu Mar 14 2024 2:48 PM 
+- 🤗 [OpenAI 的 GPT-4 更好模型 Claude 3.0 来了](https://juejin.cn/post/7346102009491685414) | Thu Mar 14 2024 4:03 PM 
     <details><summary>展开描述 ...</summary> 
-    在SQL中，排序和函数是对数据进行处理和操作的重要工具。排序能够让数据按照特定顺序排列，而函数则提供了对数据进行计算、转换和操作的能力。在本篇博客中，我们将深入探讨SQL排序和函数的相关知识。 SQL 
+    最近，谷歌最接近的竞争对手之一 Anthropic 发布了下一个版本的人工智能聊天机器人 Claude 3.0 
     </details> 
 
-- 🎡 [Flutter基建 - 神奇的状态管理State](https://juejin.cn/post/7346060871817707547) | Thu Mar 14 2024 2:02 PM 
+- 🎡 [前端项目边界处理](https://juejin.cn/post/7346079025427398667) | Thu Mar 14 2024 3:58 PM 
     <details><summary>展开描述 ...</summary> 
-    本篇会带着小伙伴们一起了解下Flutter中状态管理相关知识，主要围绕着State和InheritedWidget知识点切入，下面我们一起进入文章感受下吧~ 
+    在前端开发中，边界处理是非常重要的一个部分。边界处理涉及到错误处理、输入验证、 边界情况处理等。一个良好的边界处理可以提高用户体验，保证系统的稳定性和安全性。 一、错误处理 错误处理是可以帮助我们更好 
     </details> 
 
-- 🕯 [JSR：只支持 ESM 模块，但兼容所有主流包管理器](https://juejin.cn/post/7346079018121740351) | Thu Mar 14 2024 2:02 PM 
+- 🕯 [Vue-Plugin-HiPrint销售单模板创建及数据绑定](https://juejin.cn/post/7346079044377444388) | Thu Mar 14 2024 3:48 PM 
     <details><summary>展开描述 ...</summary> 
-    ​JSR 全称 JS 注册表，现已进入 beta 公测版！JSR 针对 TS 优化，能且仅能支持 ESM 模块。JSR 支持 Deno 和 Node、Bun 等，免费且开源。 
+    Vue-Plugin-HiPrint 是一个灵活的 Vue.js 打印插件，提供了一个强大的打印解决方案，并支持自定义内容功能。在本文中，我将介绍如何使用 Vue-Plugin-HiPrint 
     </details> 
 
-- 🚀 [不是联合类型用不起，而是泛型性价比更高](https://juejin.cn/post/7346113400646238247) | Thu Mar 14 2024 2:00 PM 
+- 🚀 [Nest.js 使用 multer 实现文件上传](https://juejin.cn/post/7346082867087523890) | Thu Mar 14 2024 3:31 PM 
     <details><summary>展开描述 ...</summary> 
-    在一次代码审查中，我发现了一个数据展示组件 DataDisplay 的data属性类型定义异常复杂，它使用了联合类型： 出于好奇，我询问团队成员为什么要这样定义类型。他解释说：“考虑到 
+    本文详细介绍了在 Nest.js 框架中如何实现文件上传功能。文章首先指导如何创建新的 Nest 项目并安装必要的依赖，然后逐步展示了如何处理单文件和多文件上传。 
     </details> 
 
-- 💪 [没看过ReentrantLock源码，别说精通Java并发编程](https://juejin.cn/post/7346113400646221863) | Thu Mar 14 2024 1:55 PM 
+- 💪 [使用 pm2 运行 node 应用](https://juejin.cn/post/7346102132863189030) | Thu Mar 14 2024 3:29 PM 
     <details><summary>展开描述 ...</summary> 
-    ReentrantLock和Synchronized都是Java开发中最常用的锁，与Synchronized这种JVM内置锁不同的是，ReentrantLock提供了更丰富的语义。可以创建公平锁或非公 
+    本文深入探讨了PM2，一个专为Node.js应用设计的强大进程管理工具。它解决了生产环境中Node.js应用面临的挑战，如自动重启崩溃的应用、日志管理、负载均衡和多核CPU性能优化。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
