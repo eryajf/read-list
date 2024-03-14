@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [城市漫步指南：无锡，正是江南春好时](https://sspai.com/post/86987) | Thu Mar 14 2024 8:00 AM 
+- 👹 [年度征文 | 书能读完吗，读完了还能读什么？](https://sspai.com/post/87027) | Thu Mar 14 2024 9:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    编注：本文是「2023年度征文：分享你的关键词」的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。由于收到的投稿较多，目前仍有入围文章并未推荐至首页。为保证所有入围文章在最终评定时都能拥 ...&lt;a href=&quot;https://sspai.com/post/87027&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [城市漫步指南：无锡，正是江南春好时](https://sspai.com/post/86987) | Thu Mar 14 2024 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     行走景色之中，除了春晖的呼唤，还有一种模糊的愉悦感，大概是来自于活着真好的感慨。&lt;a href=&quot;https://sspai.com/post/86987&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [App+1 | 自己动手解决 Pixel 启动器的图标问题：不规则图标补全计划](https://sspai.com/post/87095) | Thu Mar 14 2024 6:26 AM 
+- 🤭 [App+1 | 自己动手解决 Pixel 启动器的图标问题：不规则图标补全计划](https://sspai.com/post/87095) | Thu Mar 14 2024 6:26 AM 
     <details><summary>展开描述 ...</summary> 
     干掉国产应用的白底图标和节日横幅，让你的 Pixel 启动器更清爽。&lt;a href=&quot;https://sspai.com/post/87095&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [年度征文 | 赐我一场前去欧洲的流亡](https://sspai.com/post/86992) | Thu Mar 14 2024 3:12 AM 
+- 🥸 [年度征文 | 赐我一场前去欧洲的流亡](https://sspai.com/post/86992) | Thu Mar 14 2024 3:12 AM 
     <details><summary>展开描述 ...</summary> 
     本文是「2023年度征文：分享你的关键词」的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。由于收到的投稿较多，目前仍有入围文章并未推荐至首页。为保证所有入围文章在最终评定时都能拥有足够 ...&lt;a href=&quot;https://sspai.com/post/86992&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [派早报：大上推出彩色墨水屏显示器、Sora 服务年内开放等](https://sspai.com/post/87177) | Thu Mar 14 2024 12:28 AM 
+- 🙉 [派早报：大上推出彩色墨水屏显示器、Sora 服务年内开放等](https://sspai.com/post/87177) | Thu Mar 14 2024 12:28 AM 
     <details><summary>展开描述 ...</summary> 
     免费版 Copilot 支持 GPT-4 Turbo LLM、Epic 推出非游戏开发者付费方案等。&lt;a href=&quot;https://sspai.com/post/87177&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [年度征文｜上什么班啊，不过是来历劫罢了](https://sspai.com/post/86905) | Wed Mar 13 2024 10:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    编注：本文是「2023年度征文：分享你的关键词」的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。由于收到的投稿较多，目前仍有入围文章并未推荐至首页。为保证所有入围文章在最终评定时都能拥 ...&lt;a href=&quot;https://sspai.com/post/86905&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
