@@ -336,7 +336,7 @@
 - 🤗 [关于 Windows 10 企业版和 Windows 10 企业版长期服务版之间有什么区别？](https://www.v2ex.com/t/1023791#reply2) | Thu Mar 14 2024 4:03 PM
 - 🎭 [请问 gemini pro 1.5 怎么让一次性回答完全啊？问一个问题，每次都是回答一小点儿就不说话了？](https://www.v2ex.com/t/1023775#reply2) | Thu Mar 14 2024 2:36 PM
 - 🥷 [今天去深圳东门看直播, 有几个设备不认识, 想请教谁知道](https://www.v2ex.com/t/1023758#reply9) | Thu Mar 14 2024 1:10 PM
-- 🐵 [小米手机如何禁止安装特定的应用？](https://www.v2ex.com/t/1023757#reply11) | Thu Mar 14 2024 1:10 PM<!-- v2ex:END -->
+- 🐵 [小米手机如何禁止安装特定的应用？](https://www.v2ex.com/t/1023757#reply13) | Thu Mar 14 2024 1:10 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
