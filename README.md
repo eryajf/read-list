@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [字节跳动面试记录-字节千川](https://juejin.cn/post/7345821800880324671) | Thu Mar 14 2024 4:11 AM 
+- 🤗 [初识HTML](https://juejin.cn/post/7345796354957688842) | Thu Mar 14 2024 5:03 AM 
     <details><summary>展开描述 ...</summary> 
-    面试的业务是字节-千川，职级是 2-2，技术面一共 3 轮，每一面都要手写算法。我在 2023 年 7 月下旬被裁员，于 2024 年 2 月初面试字节-千川，没有通过第 3 轮面试，在这里记录下当时 
+    一.第一个网页 首先我们在自己的电脑上新建一个txt文件，命名为index.html文件的格式。 使用记事本打开在内部输入HelloWorld然后进行保存。 使用使用谷歌浏览器或者edge浏览器进行打 
     </details> 
 
-- 🎡 [自己动手写 React——【1】项目框架搭建](https://juejin.cn/post/7345821802063855635) | Thu Mar 14 2024 3:41 AM 
+- 🎡 [如何在 Go 与 Rust 现代编程中做出合理的选择](https://juejin.cn/post/7345818228055080986) | Thu Mar 14 2024 5:00 AM 
     <details><summary>展开描述 ...</summary> 
-    深入理解 React 源码，带你从零实现 React v18 的核心功能，构建自己的 React 库。 
+    本文探讨了Go和Rust的优势及适用场景，从网络服务到系统编程，指导开发者根据需求选择最合适的编程语言。 
     </details> 
 
-- 🕯 [设计模式之各种工厂模式（TypeScript &amp; Rust）](https://juejin.cn/post/7345760019318997032) | Thu Mar 14 2024 3:38 AM 
+- 🕯 [MYSQL 是如何保证binlog 和redo log同时提交的？](https://juejin.cn/post/7345836282066665523) | Thu Mar 14 2024 4:57 AM 
     <details><summary>展开描述 ...</summary> 
-    设计模式中带“工厂”两个字的有：简单工厂模式、工厂方法模式、抽象工厂模式。本文用 TypeScript 和 Rust 分别演示一下。 
+    MYSQL 一个事务在提交的时候能够保证binlog和redo log是同时提交的，并且能在宕机恢复后保持binlog 和redo log的一致性。 先来看看什么是redo log 和binlog，以 
     </details> 
 
-- 🚀 [惊艳到了，每个开发人员都必须要知道的6个HTML属性！🔥](https://juejin.cn/post/7345827681755889704) | Thu Mar 14 2024 3:35 AM 
+- 🚀 [Go 错误处理：用 select-case 来解决这个难题？](https://juejin.cn/post/7345828305490313251) | Thu Mar 14 2024 4:34 AM 
     <details><summary>展开描述 ...</summary> 
-    提到HTML，很多人可能认为：“这不就是小菜一碟吗？有啥难的？”不过，越是就是这种简单的东西，反而越能带来 让人惊艳的效果~~ 
+    大家好，我是煎鱼。 日常看 Go 社区的一些新动态，发现大家对于错误处理的新提案是很积极。上次分享了一篇想要用 switch-case 来解决现状的新提案，不少同学认为不可行。 没想到 Go 社区的同 
     </details> 
 
-- 💪 [面试官：来道送分题](https://juejin.cn/post/7345774436702568511) | Thu Mar 14 2024 2:46 AM 
+- 💪 [揭开typeof和instanceof类型判断的面纱，让你了解它们的真面目](https://juejin.cn/post/7345774436703158335) | Thu Mar 14 2024 4:30 AM 
     <details><summary>展开描述 ...</summary> 
-    浅聊一下 在这些天的面试中，总结了一些送分的题目... 深度优先遍历和广度优先遍历 通常在遍历一棵树的时候，我们会遇到DFS和BFS DFS DFS深度优先，我们很容易理解就是要先遍历到树的每个结点的 
+    揭开 typeof和instanceof都为类型判断的面纱，了解它们本质的区别 哈喽哈喽，我是你们的金樽清酒，说到类型判断我们脑海里就会想起typeof和instanceof。但是每次都会分不清楚什么 
     </details> 
 <!-- juejin:END -->
 ### 少数派
