@@ -118,29 +118,29 @@
 ### 独立开发变现周刊
 
 <!-- easyindie:START -->
-- 💂 [独立开发变现周刊（第125期） : 个人Notion如何每月收入3万美元](https://www.ezindie.com/weekly/issue-125) | Fri Mar 08 2024 12:00 AM 
+- 💂 [独立开发变现周刊（第126期） : 治愈恐慌的App月入8.3万美元](https://www.ezindie.com/weekly/issue-126) | Fri Mar 15 2024 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。治愈恐慌的App月入8.3万美元 
+    </details> 
+
+- 💡 [独立开发变现周刊（第125期） : 个人Notion如何每月收入3万美元](https://www.ezindie.com/weekly/issue-125) | Fri Mar 08 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。个人Notion如何每月收入3万美元 
     </details> 
 
-- 💡 [独立开发变现周刊（第124期） : 从100到3万美元，邮件订阅的低成本高收益秘诀](https://www.ezindie.com/weekly/issue-124) | Sat Feb 24 2024 12:00 AM 
+- 🌋 [独立开发变现周刊（第124期） : 从100到3万美元，邮件订阅的低成本高收益秘诀](https://www.ezindie.com/weekly/issue-124) | Sat Feb 24 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。从100到3万美元，邮件订阅的低成本高收益秘诀 
     </details> 
 
-- 🌋 [独立开发变现周刊（第123期） : 一个邮件模板编辑工具月收入40万美金](https://www.ezindie.com/weekly/issue-123) | Fri Feb 23 2024 12:00 AM 
+- 🕴 [独立开发变现周刊（第123期） : 一个邮件模板编辑工具月收入40万美金](https://www.ezindie.com/weekly/issue-123) | Fri Feb 23 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。一个邮件模板编辑工具月收入40万美金 
     </details> 
 
-- 🕴 [独立开发变现周刊（第122期） : 一个文字生成视频在线SaaS工具，年收入7.5万美元](https://www.ezindie.com/weekly/issue-122) | Fri Feb 02 2024 12:00 AM 
+- 🎊 [独立开发变现周刊（第122期） : 一个文字生成视频在线SaaS工具，年收入7.5万美元](https://www.ezindie.com/weekly/issue-122) | Fri Feb 02 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。一个文字生成视频在线SaaS工具，年收入7.5万美元 
-    </details> 
-
-- 🎊 [独立开发变现周刊（第121期） : 发布个人服务的SaaS产品，年收入160万美元](https://www.ezindie.com/weekly/issue-121) | Fri Jan 26 2024 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。发布个人服务的SaaS产品，年收入160万美元 
     </details> 
 <!-- easyindie:END -->
 
