@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [Wondershare PDFelement Pro 10.3.0.6336 OCR 强大的PDF编辑工具](https://xclient.info/s/wondershare-pdf-element.html) | Wed Mar 13 2024 2:45 AM 
+- 🦏 [KeyCue 10.2 快捷键辅助神器](https://xclient.info/s/keycue.html) | Thu Mar 14 2024 12:46 AM 
     <details><summary>展开描述 ...</summary> 
-    PDFelement可是能为你提供强大的编辑功能滴，支持OCR光学识别引擎，有效的提升文字的识别效率，另外PDFelement支持PDF转换等功能，在保证原有完整文档的基础上，提供了多样的风格和样式。 
+    使用KeyCue的时候按住command就会出现快捷键大全的菜单 
     </details> 
 
--  [TG Pro 2.91 专业显示你的Mac实时温度](https://xclient.info/s/tg-pro.html) | Wed Mar 13 2024 2:44 AM 
+-  [Things 3.20.2 一款优秀的GTD任务管理工具](https://xclient.info/s/things.html) | Thu Mar 14 2024 12:45 AM 
     <details><summary>展开描述 ...</summary> 
-    TG Pro &lpar;Temperature Gauge Pro&rpar; 是一款专业显示你的Mac实时温度的软件，可以在系统内的菜单栏，独立菜单栏等位置显示出各个硬件的温度，也可以自定义风扇转速等。 
+    Things 是 Mac OS X 上的一款优秀的GTD任务管理工具，是一款非常值得尝试的任务管理及日程管理程序，并且支持同步到iPhone中。 
     </details> 
 
-- ⚗️ [NoteList 4.3.4 基于文档的数据存储工具](https://xclient.info/s/notelist.html) | Wed Mar 13 2024 1:51 AM 
+- ⚗️ [Notebooks 3.4 文档管理和日程备忘工具](https://xclient.info/s/notebooks.html) | Thu Mar 14 2024 12:44 AM 
     <details><summary>展开描述 ...</summary> 
-    NoteList是一个存储数据的应用程序，可以使用自由格式的文本和全文字处理能力的图片。 
+    Notebooks 是一款Mac上文档管理、文本编写和日程备忘工具，，集成了编写文档、日程任务管理、文档文件管理三个功能，其中文档编写支持纯文本、HTML文本和Markdown文本等，支持统一管理常见的文档文件，如text, PDF, web pages, MS Office documents等，非常实用的一款工具！ 
     </details> 
 
-- 🔥 [Mp3tag 1.8.16 音频元数据编辑](https://xclient.info/s/mp3tag.html) | Wed Mar 13 2024 1:45 AM 
+- 🔥 [Perfectly Clear WorkBench 4.6.0.2642 智能图片瑕疵处理工具](https://xclient.info/s/perfectly-clear-workbench.html) | Thu Mar 14 2024 12:43 AM 
     <details><summary>展开描述 ...</summary> 
-    Mp3tag是一个功能强大且易于使用的编辑音频文件元数据的工具 
+    Perfectly Clear Workbench可以帮您在几分钟内自动修复、微调和批处理图片。 
     </details> 
 
-- 🌋 [FSNotes 6.7.0 轻量级的笔记工具](https://xclient.info/s/fsnotes.html) | Wed Mar 13 2024 1:43 AM 
+- 🌋 [Keep It 2.4.3 内容收藏夹](https://xclient.info/s/keep-it.html) | Thu Mar 14 2024 12:42 AM 
     <details><summary>展开描述 ...</summary> 
-    FSNotes 是一款轻量级的笔记工具，帮助用户快速记录灵感。 
+    Keep It 是Mac平台上的一款保存笔记，保存网页链接，存储文件的效率工具。Keep It 支持icloud同步，用户可以在所有支持icloud的设备上同步自己的数据资料。 
     </details> 
 <!-- xclient:END -->
 
