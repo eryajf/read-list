@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [OpenAI 的 GPT-4 更好模型 Claude 3.0 来了](https://juejin.cn/post/7346102009491685414) | Thu Mar 14 2024 4:03 PM 
+- 🤗 [本地调试 Github Actions：维护纯净代码，减少调测记录 | 开源日报 No.200](https://juejin.cn/post/7346221215743180800) | Thu Mar 14 2024 4:56 PM 
+    <details><summary>展开描述 ...</summary> 
+    act 是一个可以在本地运行 GitHub Actions 的工具。 * 快速反馈：无需每次都提交/推送更改到 .github/workflows/ 文件（或嵌入式 GitHub actions 
+    </details> 
+
+- 🎡 [OpenAI 的 GPT-4 更好模型 Claude 3.0 来了](https://juejin.cn/post/7346102009491685414) | Thu Mar 14 2024 4:03 PM 
     <details><summary>展开描述 ...</summary> 
     最近，谷歌最接近的竞争对手之一 Anthropic 发布了下一个版本的人工智能聊天机器人 Claude 3.0 
     </details> 
 
-- 🎡 [前端项目边界处理](https://juejin.cn/post/7346079025427398667) | Thu Mar 14 2024 3:58 PM 
+- 🕯 [前端项目边界处理](https://juejin.cn/post/7346079025427398667) | Thu Mar 14 2024 3:58 PM 
     <details><summary>展开描述 ...</summary> 
     在前端开发中，边界处理是非常重要的一个部分。边界处理涉及到错误处理、输入验证、 边界情况处理等。一个良好的边界处理可以提高用户体验，保证系统的稳定性和安全性。 一、错误处理 错误处理是可以帮助我们更好 
     </details> 
 
-- 🕯 [Vue-Plugin-HiPrint销售单模板创建及数据绑定](https://juejin.cn/post/7346079044377444388) | Thu Mar 14 2024 3:48 PM 
+- 🚀 [Vue-Plugin-HiPrint销售单模板创建及数据绑定](https://juejin.cn/post/7346079044377444388) | Thu Mar 14 2024 3:48 PM 
     <details><summary>展开描述 ...</summary> 
     Vue-Plugin-HiPrint 是一个灵活的 Vue.js 打印插件，提供了一个强大的打印解决方案，并支持自定义内容功能。在本文中，我将介绍如何使用 Vue-Plugin-HiPrint 
     </details> 
 
-- 🚀 [Nest.js 使用 multer 实现文件上传](https://juejin.cn/post/7346082867087523890) | Thu Mar 14 2024 3:31 PM 
+- 💪 [Nest.js 使用 multer 实现文件上传](https://juejin.cn/post/7346082867087523890) | Thu Mar 14 2024 3:31 PM 
     <details><summary>展开描述 ...</summary> 
     本文详细介绍了在 Nest.js 框架中如何实现文件上传功能。文章首先指导如何创建新的 Nest 项目并安装必要的依赖，然后逐步展示了如何处理单文件和多文件上传。 
-    </details> 
-
-- 💪 [使用 pm2 运行 node 应用](https://juejin.cn/post/7346102132863189030) | Thu Mar 14 2024 3:29 PM 
-    <details><summary>展开描述 ...</summary> 
-    本文深入探讨了PM2，一个专为Node.js应用设计的强大进程管理工具。它解决了生产环境中Node.js应用面临的挑战，如自动重启崩溃的应用、日志管理、负载均衡和多核CPU性能优化。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
