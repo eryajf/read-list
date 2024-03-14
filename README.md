@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Hello8 - 用人工智能视频翻译向 80 亿观众问好](https://xinquji.com/posts/809802?utm_campaign=xinquji-rss) | Wed Mar 13 2024 6:00 AM 
+- 👀 [矮人生成器（角色生成器） - 用AI生成wow、lotr、d&amp;amp;d风格的矮人，配上ta的英雄事迹，给你一个温暖的体验](https://xinquji.com/posts/809764?utm_campaign=xinquji-rss) | Fri Mar 15 2024 6:12 AM 
     <details><summary>展开描述 ...</summary> 
-     用人工智能视频翻译向 80 亿观众问好  
+     用AI生成wow、lotr、d&amp;amp;d风格的矮人，配上ta的英雄事迹，给你一个温暖的体验  
     </details> 
 
-- 🥷 [JustRecap - 从讲座、教程和播客中提取要点](https://xinquji.com/posts/809801?utm_campaign=xinquji-rss) | Wed Mar 13 2024 6:00 AM 
+- 🥷 [车机投屏宝 - 一款支持汽车车机投屏显示和反向控制手机屏幕的软件](https://xinquji.com/posts/809763?utm_campaign=xinquji-rss) | Fri Mar 15 2024 6:12 AM 
     <details><summary>展开描述 ...</summary> 
-     从讲座、教程和播客中提取要点  
+     一款支持汽车车机投屏显示和反向控制手机屏幕的软件  
     </details> 
 
-- 💼 [Panacea Whole Exome Sequencing - 提前应对遗传健康风险并预防疾病](https://xinquji.com/posts/809800?utm_campaign=xinquji-rss) | Wed Mar 13 2024 6:00 AM 
+- 💼 [TheSprkl Chrome Extension for Webflow - 使用 Class Sync Chrome 扩展复制和同步组件](https://xinquji.com/posts/809844?utm_campaign=xinquji-rss) | Thu Mar 14 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     提前应对遗传健康风险并预防疾病  
+     使用 Class Sync Chrome 扩展复制和同步组件  
     </details> 
 
-- 🦅 [Milestone - 面向 SaaS 的交互式游戏化产品之旅](https://xinquji.com/posts/809799?utm_campaign=xinquji-rss) | Wed Mar 13 2024 6:00 AM 
+- 🦅 [ByteCap - 让您的视频沉浸在自定义字幕中](https://xinquji.com/posts/809843?utm_campaign=xinquji-rss) | Thu Mar 14 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     面向 SaaS 的交互式游戏化产品之旅  
+     让您的视频沉浸在自定义字幕中  
     </details> 
 
-- 😺 [New JotURL Chrome Extension - 创作者的最佳盟友，可创建指向 60 多个应用程序的深层链接](https://xinquji.com/posts/809798?utm_campaign=xinquji-rss) | Wed Mar 13 2024 6:00 AM 
+- 😺 [Peaka - 使用零 ETL 实现“现代”数据堆栈的现代化](https://xinquji.com/posts/809842?utm_campaign=xinquji-rss) | Thu Mar 14 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     创作者的最佳盟友，可创建指向 60 多个应用程序的深层链接  
+     使用零 ETL 实现“现代”数据堆栈的现代化  
     </details> 
 <!-- xinquji:END -->
