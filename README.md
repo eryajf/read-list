@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Python 脚本化 Git 操作：简单、高效、无压力](https://juejin.cn/post/7346037183453380646) | Thu Mar 14 2024 8:51 AM 
+- 🤗 [小程序/H5/APP【多端开发利器】Taro框架的条件编译实战指南](https://juejin.cn/post/7346060871817347099) | Thu Mar 14 2024 11:57 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 如何判定此次测试是否达标，代码覆盖率是衡量的标准之一。前段时间，利用fastapi框架重写了覆盖率统计服务，核心其实就是先获取全量代码覆盖率，然后通过diff操作统计增量代码覆盖率，当然要使用d 
+    内置环境变量在Taro多端开发中的应用 Taro提供了内置环境变量 process.env.TARO_ENV 以便开发者能够针对不同平台编写特定的代码。 process.env.TARO_ENV 的作 
     </details> 
 
-- 🎡 [React Effect 逃生舱口](https://juejin.cn/post/7346036731726626842) | Thu Mar 14 2024 8:41 AM 
+- 🎡 [RN渐变色组件](https://juejin.cn/post/7346102132862451750) | Thu Mar 14 2024 11:05 AM 
     <details><summary>展开描述 ...</summary> 
-    什么是副作用&lpar;Effect&rpar;？副作用与事件处理程序&lpar;Event Handler&rpar;有什么区别？如何声明一个副作用？被滥用的 useEffect？如果副作用中存在非反应逻辑，我们该怎么做？ 
+    在 LinearGradient 组件中，start 和 end 属性用于定义渐变的起始点和结束点。 start: 用于指定渐变的起始点，是一个包含 x 和 y 属性的对象。x 和 y 属性的值表示起 
     </details> 
 
-- 🕯 [Electron无法下载问题（yarn 4.0版本）](https://juejin.cn/post/7346025519916564480) | Thu Mar 14 2024 8:41 AM 
+- 🕯 [能说会看会行动，OpenAI机器人，一出手就是王炸](https://juejin.cn/entry/7346059767794483227) | Thu Mar 14 2024 10:36 AM 
     <details><summary>展开描述 ...</summary> 
-    Electron无法下载问题 Electron打包，我把npm切换成yarn时，导致electron二进制包下载不了。 问题1： 执行：yarn install 报错，electron二进制文件下载不 
+    「借助 OpenAI 的能力，Figure 01 现在可以与人全面对话了！」 本周三，半个硅谷都在投的明星机器人创业公司 Figure，发布了全新 OpenAI 大模型加持的机器人 demo。 
     </details> 
 
-- 🚀 [一文掌握原型和原型链的理解](https://juejin.cn/post/7346060871816462363) | Thu Mar 14 2024 8:39 AM 
+- 🚀 [零一万物API正式上线：支持输入30万汉字，看不懂《百年孤独》的人有救了](https://juejin.cn/entry/7346059767794450459) | Thu Mar 14 2024 10:35 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 在前端这个岗位已经工作了快两年了，现如今居然还对原型和原型链处于半知半解的状态，正好最近也在准备面试题，现对原型和原型链再次做一次补充,写这篇文章的初衷在于自身对原型和原型链的彻底深挖 
+    2024 年，大模型领域的一个趋势越来越清晰：重视优化，面向应用。 在去年的百模大战中，科技巨头、创业力量你追我赶，将大模型技术卷到了一个新的高度。 
     </details> 
 
-- 💪 [关于小程序如何做到强制更新](https://juejin.cn/post/7346079018120347711) | Thu Mar 14 2024 8:34 AM 
+- 💪 [智能体的ChatGPT时刻！DeepMind通用AI向人类玩家进化，开始理解游戏](https://juejin.cn/entry/7346059767794417691) | Thu Mar 14 2024 10:34 AM 
     <details><summary>展开描述 ...</summary> 
-    在小程序的日常迭代中，有一些场景我们可能需要在小程序发布后，用户能够马上感知并更新，比如上线新活动、修复高危漏洞等，如果用户因为各种原因未能及时更新小程序，这就可能导致一些功能无法正常使用 
+    视频游戏是 AI 系统的重要试验场。与现实世界一样，游戏也是丰富的学习环境，具有反应灵敏的实时设置和不断变化的目标。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
