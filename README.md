@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [现已修复！微软 SmartScreen 漏洞被用于分发 DarkGate 恶意软件](https://www.freebuf.com/news/394773.html) | Thu Mar 14 2024 2:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    攻击始于一封包含 PDF 附件的恶意电子邮件，里面有一个链接利用谷歌DDM服务的开放重定向绕过电子邮件安全检查。 
+    </details> 
+
 - 🦄 [[实战]API防护破解之签名验签](https://www.freebuf.com/articles/network/394725.html) | Wed Mar 13 2024 9:19 AM 
     <details><summary>展开描述 ...</summary> 
     传统接口在传输的过程中，非常容易被抓包进行篡改，从而进行中间人攻击。这时我们可通过对参数进行签名验证，如果参数与签名值不匹配，则请求不通过，直接返回错误信息，从而防止黑客攻击或大大增加黑客攻击的成本。 
     </details> 
 
-- 🦄 [FreeBuf 早报 | 美国23年因网络犯罪损失125亿美元；印度某金融公司泄露3TB用户数据](https://www.freebuf.com/news/394697.html) | Wed Mar 13 2024 8:00 AM 
+- 🦅 [FreeBuf 早报 | 美国23年因网络犯罪损失125亿美元；印度某金融公司泄露3TB用户数据](https://www.freebuf.com/news/394697.html) | Wed Mar 13 2024 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     与 2022 年相比，美国因网络犯罪带来的经济损失骤增 22%，达到了空前的 125 亿美元。 
     </details> 
 
-- 🦅 [网络空间指纹：新型网络犯罪研判的关键路径](https://www.freebuf.com/articles/network/394688.html) | Wed Mar 13 2024 6:15 AM 
+- 🪄 [网络空间指纹：新型网络犯罪研判的关键路径](https://www.freebuf.com/articles/network/394688.html) | Wed Mar 13 2024 6:15 AM 
     <details><summary>展开描述 ...</summary> 
     本文将重点介绍网络空间指纹的形成和采集方法，以及其在网络犯罪研判中的应用实践。 
     </details> 
 
-- 🪄 [宏碁又遭网络袭击，菲律宾分公司大量数据被盗](https://www.freebuf.com/articles/394654.html) | Wed Mar 13 2024 3:49 AM 
+- 💻 [宏碁又遭网络袭击，菲律宾分公司大量数据被盗](https://www.freebuf.com/articles/394654.html) | Wed Mar 13 2024 3:49 AM 
     <details><summary>展开描述 ...</summary> 
     管理宏碁员工考勤数据的第三方供应商遭遇网络攻击，部分员工数据被盗。 
-    </details> 
-
-- 💻 [印度一金融公司泄露用户信息，数据量超过3TB](https://www.freebuf.com/news/394649.html) | Wed Mar 13 2024 3:14 AM 
-    <details><summary>展开描述 ...</summary> 
-    企业通常使用MongoDB来组织和存储大量的文档型数据，而在IKF Finance的案例中，包括了各种政府签发的身份证明文件。 
     </details> 
 <!-- freebuf:END -->
 
