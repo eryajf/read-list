@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [对比两种input输入节流方案](https://juejin.cn/post/7346426730050420763) | Fri Mar 15 2024 12:29 PM 
+- 🤗 [使用Seata实现分布式事务真香！](https://juejin.cn/post/7346460401830395941) | Fri Mar 15 2024 1:13 PM 
+    <details><summary>展开描述 ...</summary> 
+    面对这么多的实现方式，那么有没有一个统一的方案来简化这些呢？今天我们来学习一下Seata，它如何使复杂的分布式事务管理变得简单？ 
+    </details> 
+
+- 🎡 [对比两种input输入节流方案](https://juejin.cn/post/7346426730050420763) | Fri Mar 15 2024 12:29 PM 
     <details><summary>展开描述 ...</summary> 
     在实现一个输入框（input）根据用户输入查询后端数据并显示结果的功能时，通常会考虑到性能优化和用户体验的问题。本文中我将对比这两种解决方案，指出它们各自的优点和缺点。 
     </details> 
 
-- 🎡 [读《刻意练习》小记（中）](https://juejin.cn/post/7346385551367733298) | Fri Mar 15 2024 12:21 PM 
+- 🕯 [读《刻意练习》小记（中）](https://juejin.cn/post/7346385551367733298) | Fri Mar 15 2024 12:21 PM 
     <details><summary>展开描述 ...</summary> 
     体惊人的适应能力 想要锻炼大脑比锻炼肌肉困难许多 如果你是一名健身爱好者，或者只是想增加一些体重，使自己的肌肉增多一些，那么，你挑战自己的肱二头肌、肱三头肌、 
     </details> 
 
-- 🕯 [让你的Node.js CLI工具生动起来：ora、chalk和figlet的艺术](https://juejin.cn/post/7346426730050273307) | Fri Mar 15 2024 11:46 AM 
+- 🚀 [让你的Node.js CLI工具生动起来：ora、chalk和figlet的艺术](https://juejin.cn/post/7346426730050273307) | Fri Mar 15 2024 11:46 AM 
     <details><summary>展开描述 ...</summary> 
     本文介绍了如恶化通过使用ora、chalk和figlet等库，增强了命令行工具的功能性，大大提升用户体验和工具的视觉吸引力。这些技巧能够帮助你构建更加专业和友好的Node.js命令行应用。 
     </details> 
 
-- 🚀 [日常实习 OR 暑期实习？拼多多实习怎么样？](https://juejin.cn/post/7346430299490287652) | Fri Mar 15 2024 11:42 AM 
+- 💪 [日常实习 OR 暑期实习？拼多多实习怎么样？](https://juejin.cn/post/7346430299490287652) | Fri Mar 15 2024 11:42 AM 
     <details><summary>展开描述 ...</summary> 
     暑期实习： 概念：企业针对准应届生进行的实习生招聘，其本质是校招后备军，暑期实习生都是有一定转正名额的，通过转正考核是可以拿到正式校招offer 特点： 在每年春招时进行招聘; 针对准应届生，即来年毕 
-    </details> 
-
-- 💪 [全栈项目？那你说说你的token怎么实现的吧](https://juejin.cn/post/7346430299490189348) | Fri Mar 15 2024 11:07 AM 
-    <details><summary>展开描述 ...</summary> 
-    经常我们会被面试官问，账号密码被修改了怎么办，这就涉及到token了。假设我在淘宝网站登录了账号进入首页，然后我在另一个设备上同样登录该账号，并且将密码修改，原设备刷新数据会被退出登录，这个过程 
     </details> 
 <!-- juejin:END -->
 ### 少数派
