@@ -704,18 +704,18 @@
      一款支持汽车车机投屏显示和反向控制手机屏幕的软件  
     </details> 
 
-- 💼 [TheSprkl Chrome Extension for Webflow - 使用 Class Sync Chrome 扩展复制和同步组件](https://xinquji.com/posts/809844?utm_campaign=xinquji-rss) | Thu Mar 14 2024 6:00 AM 
+- 💼 [Viralify AI - 30 秒内无限量个性化 LinkedIn 内容](https://xinquji.com/posts/809875?utm_campaign=xinquji-rss) | Fri Mar 15 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     使用 Class Sync Chrome 扩展复制和同步组件  
+     30 秒内无限量个性化 LinkedIn 内容  
     </details> 
 
-- 🦅 [ByteCap - 让您的视频沉浸在自定义字幕中](https://xinquji.com/posts/809843?utm_campaign=xinquji-rss) | Thu Mar 14 2024 6:00 AM 
+- 🦅 [Warpy: Terminal Generative Shell - 比 ChatGPT 更好的 AI 终端](https://xinquji.com/posts/809874?utm_campaign=xinquji-rss) | Fri Mar 15 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     让您的视频沉浸在自定义字幕中  
+     比 ChatGPT 更好的 AI 终端  
     </details> 
 
-- 😺 [Peaka - 使用零 ETL 实现“现代”数据堆栈的现代化](https://xinquji.com/posts/809842?utm_campaign=xinquji-rss) | Thu Mar 14 2024 6:00 AM 
+- 😺 [Opencord AI 2.0 - 您的 24/7 按需社交媒体经理](https://xinquji.com/posts/809873?utm_campaign=xinquji-rss) | Fri Mar 15 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     使用零 ETL 实现“现代”数据堆栈的现代化  
+     您的 24/7 按需社交媒体经理  
     </details> 
 <!-- xinquji:END -->
