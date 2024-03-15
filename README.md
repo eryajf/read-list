@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [波及4300万人！法国官方就业机构数据遭窃](https://www.freebuf.com/news/394879.html) | Fri Mar 15 2024 2:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    根据 2023 年 1 月的数据，法国总人口约为 6804 万，这意味着此次事件的受害者规模相当于法国公民总数的 63%。 
+    </details> 
+
 - 🦄 [《民航数据管理办法（征求意见稿）》&amp;《民航数据共享管理办法（征求意见稿）》正式发布](https://www.freebuf.com/articles/394860.html) | Thu Mar 14 2024 11:35 AM 
     <details><summary>展开描述 ...</summary> 
     民航数据承载着乘客个人信息、航班信息、机组人员资料等众多敏感数据，具有极高的敏感性和机密性。 
     </details> 
 
-- 🦄 [已发布PoC，神秘GhostRace攻击可窃取Intel、AMD等CPU数据](https://www.freebuf.com/articles/394821.html) | Thu Mar 14 2024 7:03 AM 
+- 🦅 [已发布PoC，神秘GhostRace攻击可窃取Intel、AMD等CPU数据](https://www.freebuf.com/articles/394821.html) | Thu Mar 14 2024 7:03 AM 
     <details><summary>展开描述 ...</summary> 
     英特尔、AMD、Arm和IBM等CPU制造商以及软件供应商，受到一种名为GhostRace的新型推测性竞态条件（SRC）攻击的影响。 
     </details> 
 
-- 🦅 [FreeBuf 早报 | 欧洲议会正式通过人工智能监管法案；大洋洲日产汽车公司遭入侵](https://www.freebuf.com/news/394814.html) | Thu Mar 14 2024 6:28 AM 
+- 🪄 [FreeBuf 早报 | 欧洲议会正式通过人工智能监管法案；大洋洲日产汽车公司遭入侵](https://www.freebuf.com/news/394814.html) | Thu Mar 14 2024 6:28 AM 
     <details><summary>展开描述 ...</summary> 
     据悉，该法案将在走完所有审批程序后在欧盟公报上予以公布并于20天后生效。法案中的相关条款将分阶段实施。 
     </details> 
 
-- 🪄 [现已修复！微软 SmartScreen 漏洞被用于分发 DarkGate 恶意软件](https://www.freebuf.com/news/394773.html) | Thu Mar 14 2024 2:43 AM 
+- 💻 [现已修复！微软 SmartScreen 漏洞被用于分发 DarkGate 恶意软件](https://www.freebuf.com/news/394773.html) | Thu Mar 14 2024 2:43 AM 
     <details><summary>展开描述 ...</summary> 
     攻击始于一封包含 PDF 附件的恶意电子邮件，里面有一个链接利用谷歌DDM服务的开放重定向绕过电子邮件安全检查。 
-    </details> 
-
-- 💻 [实战时代下人机结合的资产风险收敛体系 | FreeBuf 企业安全俱乐部·广州站议题前瞻](https://www.freebuf.com/articles/394763.html) | Thu Mar 14 2024 2:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    如何有效利用行业白帽资源、实现运营工具自动化，最大程度上收敛互联网资产安全风险变得至关重要。 
     </details> 
 <!-- freebuf:END -->
 
