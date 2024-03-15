@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [深入解析 HTTP/3 协议](https://juejin.cn/post/7346134710131589158) | Fri Mar 15 2024 3:12 AM 
+- 🤗 [手写类似于Image组件的fallback功能](https://juejin.cn/post/7346138121426649139) | Fri Mar 15 2024 4:07 AM 
     <details><summary>展开描述 ...</summary> 
-    为什么我们需要 HTTP/3？ 我经常遇到的一个问题是，“为什么在 HTTP/2（在 2015 年才标准化）之后不久我们就需要 HTTP/3？”这确实让人感到奇怪，直到你意识到我们首先并不真的需要一个 
+    Image组件的fallback属性是一个非常实用的特性，它允许开发者为图片指定一个备用的展示内容，以应对图片加载失败的情况。本文将探讨Image组件中fallback的实现思路 
     </details> 
 
-- 🎡 [交易策略多时间片实验管理规范](https://juejin.cn/post/7346134710131556390) | Fri Mar 15 2024 3:11 AM 
+- 🎡 [如何扩展大模型的上下文长度](https://juejin.cn/post/7346148341385412647) | Fri Mar 15 2024 4:00 AM 
     <details><summary>展开描述 ...</summary> 
-    随着货拉拉实验复杂度不断提升，当前交易策略下存在多个时间片实验，各时间片实验之间相互干扰，导致实验流量不同质。为防止这类问题产生，同时最大化利用流量，货拉拉数据科学团队提出了体系化的多层实验解决方案。 
+    本文将基于比较火的 Llama 2 大模型的结构介绍上下文长度的方法与挑战，然后探讨一些业界流行的上下文长度扩展的技术，最后给大家推荐下 KubeAI 大模型训练推理平台可以上手实验。 
     </details> 
 
-- 🕯 [【Next.js 进阶】App Router的高级用法（上）](https://juejin.cn/post/7346148341384953895) | Fri Mar 15 2024 3:06 AM 
+- 🕯 [如何丝滑的实现首页看板拖拉拽功能？](https://juejin.cn/post/7346121373112811583) | Fri Mar 15 2024 3:30 AM 
     <details><summary>展开描述 ...</summary> 
-    先附上源码地址：https://github.com/cwjbjy/next-ts-seed，上一篇文章介绍了Next.js14的App Router的基本使用 
+    需求简介 最近接了一个需求，需要实现不同登录人员可以自定义首页模块卡片。简单来说，就是实现首页看板模块的增添与拖拉拽，效果如下： 技术选型 原生js是支持拖拉拽的，只需要将拖拽的元素的 draggab 
     </details> 
 
-- 🚀 [springboot集成mapstruct快速入门指南](https://juejin.cn/post/7346138121426321459) | Fri Mar 15 2024 3:04 AM 
+- 🚀 [独家思路滚动“穿透”的前因后果探究与解决](https://juejin.cn/post/7346221612578045992) | Fri Mar 15 2024 3:30 AM 
     <details><summary>展开描述 ...</summary> 
-    1.mapstruct介绍 在项目中经常会用到DO,BO,DTO,VO等对象的相互转化，这就需要一个高效通用的转化工具，毕竟每个字段get/set方法会很麻烦。MapStruct 就是这样的一个属性映 
+    一个比现存的网络资料更能让你搞清楚滚动穿透的本质和如何解决它的文章。解决方案不仅能用，还得要搞懂为什么这么用才行 
     </details> 
 
-- 💪 [写给互联网人的一封信](https://juejin.cn/post/7346155018343661604) | Fri Mar 15 2024 3:00 AM 
+- 💪 [如何高效接入 Flink： Connecter / Catalog API 核心设计与社区进展](https://juejin.cn/post/7346238389984034851) | Fri Mar 15 2024 2:32 AM 
     <details><summary>展开描述 ...</summary> 
-    在小时候第一次接触到收音机、黑白电视机到如今最火的人工智能，整个过程我认为都算是一次新的工业革命发展中的状态，在这个阶段我们需要不断接收新的事和物，不断学习和消化未知事物对于我们生活的影响。 工 
+    本文整理自阿里云实时计算团队 Apache Flink Committer 和 PMC Member 任庆盛在 FFA 2023 核心技术专场（二）中的分享。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
