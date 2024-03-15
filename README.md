@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0315](http://jandan.net/p/115917) | Thu Mar 14 2024 11:07 PM 
+- 🚀 [今日好价 0316](http://jandan.net/p/115927) | Fri Mar 15 2024 11:07 PM 
     <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：58 
+    今日带货商品数量：38 
     </details> 
 
-- 🙉 [在石器时代，接吻可能会死](http://jandan.net/p/115919) | Thu Mar 14 2024 11:06 PM 
+- 🙉 [版权流氓律师被纽约州吊销律师执照](http://jandan.net/p/115921) | Fri Mar 15 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
-    石器时代细菌丰富 
+    他多次因误导法官而受到严厉批评 
     </details> 
 
-- 🎉 [世界最大飞机如何助力风能发展](http://jandan.net/p/115918) | Thu Mar 14 2024 11:05 PM 
+- 🎉 [知了独特的尿尿姿势揭开流体动力学新篇章](http://jandan.net/p/115922) | Fri Mar 15 2024 11:04 PM 
     <details><summary>展开描述 ...</summary> 
-    将用于运输超长风力发电机组叶片 
+    不同物种的液体喷射现象 
     </details> 
 
-- 🐲 [不要用未经消毒的自来水冲洗鼻窦，它可能携带食脑阿米巴原虫](http://jandan.net/p/115915) | Thu Mar 14 2024 11:03 PM 
+- 🐲 [科学家找到大脑里的“恐惧开关”，并成功把它给关了](http://jandan.net/p/115923) | Fri Mar 15 2024 11:03 PM 
     <details><summary>展开描述 ...</summary> 
-    误用鼻腔冲洗液恐致致命脑部感染 
+    恐惧是一种复杂的情绪 
     </details> 
 
--  [精神分裂症与衰老在脑细胞类型上惊人相似](http://jandan.net/p/115914) | Thu Mar 14 2024 11:02 PM 
+-  [阿尔茨海默病可能是因为脑细胞脂肪堆积引起的](http://jandan.net/p/115924) | Fri Mar 15 2024 11:02 PM 
     <details><summary>展开描述 ...</summary> 
-    为认知障碍提供新解释，或将帮助开发治疗方法 
+    提示了一种此前被忽视的潜在发病原因 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
