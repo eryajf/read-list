@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [茅台有多能赚钱你根本想象不到](https://juejin.cn/post/7346102724499865650) | Fri Mar 15 2024 2:14 AM 
+- 🤗 [深入解析 HTTP/3 协议](https://juejin.cn/post/7346134710131589158) | Fri Mar 15 2024 3:12 AM 
     <details><summary>展开描述 ...</summary> 
-    贵州茅台&lpar;下简称茅台&rpar;作为A股白酒龙头，截止目前总市值约2.2万亿，是目前A股唯一超过2万亿市值公司，排在其后的是号称宇宙第一大行的工商银行，1.72万亿。 看到这些信息的你，可能只是微微错愕，意外茅 
+    为什么我们需要 HTTP/3？ 我经常遇到的一个问题是，“为什么在 HTTP/2（在 2015 年才标准化）之后不久我们就需要 HTTP/3？”这确实让人感到奇怪，直到你意识到我们首先并不真的需要一个 
     </details> 
 
-- 🎡 [掌握 Kubernetes 故障排除技巧：kubectl命令的基本指南](https://juejin.cn/post/7346238389983838243) | Fri Mar 15 2024 2:10 AM 
+- 🎡 [交易策略多时间片实验管理规范](https://juejin.cn/post/7346134710131556390) | Fri Mar 15 2024 3:11 AM 
     <details><summary>展开描述 ...</summary> 
-    在本文中，我们将深入探讨必要的 kubectl 命令，这些命令是诊断和排除 Kubernetes 集群问题不可或缺的工具。 
+    随着货拉拉实验复杂度不断提升，当前交易策略下存在多个时间片实验，各时间片实验之间相互干扰，导致实验流量不同质。为防止这类问题产生，同时最大化利用流量，货拉拉数据科学团队提出了体系化的多层实验解决方案。 
     </details> 
 
-- 🕯 [JDK提供的几种同步方式](https://juejin.cn/post/7346221317736316928) | Fri Mar 15 2024 2:08 AM 
+- 🕯 [【Next.js 进阶】App Router的高级用法（上）](https://juejin.cn/post/7346148341384953895) | Fri Mar 15 2024 3:06 AM 
     <details><summary>展开描述 ...</summary> 
-    同步方式 除了使用wait&lpar;&rpar;/nitify&lpar;&rpar;来实现同步之外，在java.util.concurr 
+    先附上源码地址：https://github.com/cwjbjy/next-ts-seed，上一篇文章介绍了Next.js14的App Router的基本使用 
     </details> 
 
-- 🚀 [PDF 生成（4）— 目录页](https://juejin.cn/post/7346102724499718194) | Fri Mar 15 2024 2:02 AM 
+- 🚀 [springboot集成mapstruct快速入门指南](https://juejin.cn/post/7346138121426321459) | Fri Mar 15 2024 3:04 AM 
     <details><summary>展开描述 ...</summary> 
-    本文详细阐述了如何为 PDF 文件增加目录页，目录页在一本书或一篇长文中扮演着非常重要的角色，它是内容的整体概览，可以帮助读者快速了解内容的整体结构，并定位到感兴趣的章节，也是整个系列的难点、亮点之一 
+    1.mapstruct介绍 在项目中经常会用到DO,BO,DTO,VO等对象的相互转化，这就需要一个高效通用的转化工具，毕竟每个字段get/set方法会很麻烦。MapStruct 就是这样的一个属性映 
     </details> 
 
-- 💪 [腾讯收编字节两个游戏工作室；阿里系全家桶适配鸿蒙原生App开发；Linux 6.8内核稳定版发布 | 极客头条](https://juejin.cn/post/7346155018342547492) | Fri Mar 15 2024 1:59 AM 
+- 💪 [写给互联网人的一封信](https://juejin.cn/post/7346155018343661604) | Fri Mar 15 2024 3:00 AM 
     <details><summary>展开描述 ...</summary> 
-    稀土掘金 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。 一分钟速览新闻点！ 腾讯收编字节跳动两个游戏工作室并成立新公司 雷军否认个别用户或公司享有优先购车 
+    在小时候第一次接触到收音机、黑白电视机到如今最火的人工智能，整个过程我认为都算是一次新的工业革命发展中的状态，在这个阶段我们需要不断接收新的事和物，不断学习和消化未知事物对于我们生活的影响。 工 
     </details> 
 <!-- juejin:END -->
 ### 少数派
