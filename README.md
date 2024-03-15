@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Python数据可视化-销售数据可视化：Bokeh 条形图示例](https://juejin.cn/post/7346430066153324544) | Fri Mar 15 2024 9:04 AM 
+- 🤗 [ThreadPoolExecutor在执行过程中出现异常](https://juejin.cn/post/7346460401829773349) | Fri Mar 15 2024 9:59 AM 
     <details><summary>展开描述 ...</summary> 
-    在数据科学和数据分析领域，数据可视化是一种强大的工具，可以帮助我们更好地理解数据、发现模式和趋势。Python作为一种流行的数据科学工具，拥有多种数据可视化库。本文将重点比较Bokeh和Altair这 
+    前言 在开发过程中处理异步任务的时候，我们基本都会使用自定义的线程池，进行异步任务的处理，使用自定义的线程池处理任务的好处，无非就是降低资源消耗、提高响应速度，这里就不做过多的解释说明了，主要来探讨下 
     </details> 
 
-- 🎡 [BDD &lpar;Behavior Driven Development&rpar;和U2S &lpar;User Stories to Scenarios&rpar;测试](https://juejin.cn/post/7346385551367028786) | Fri Mar 15 2024 9:03 AM 
+- 🎡 [react-three/drei 慢慢翻译的中文文档](https://juejin.cn/post/7346426730049896475) | Fri Mar 15 2024 9:58 AM 
     <details><summary>展开描述 ...</summary> 
-    U2S（User Stories to Scenarios）和BDD（Behavior Driven Development）都是软件开发中用来描述功能需求和行为的方法，但它们的侧重点和应用方式有所不 
+    基础用法 具体内容 Cameras相机 PerspectiveCamera&lpar;透视摄像机&rpar; OpenGL帧缓存对象&lpar;FBO：Frame Buffer Object &rpar; 一个响应式 THREE.Persp 
     </details> 
 
-- 🕯 [没看过CountDownLatch源码，别说是Java高级开发](https://juejin.cn/post/7346249052651126803) | Fri Mar 15 2024 9:01 AM 
+- 🕯 [「HarmonyOS」第三方Refresh下拉刷新组件使用方法](https://juejin.cn/post/7346460401829642277) | Fri Mar 15 2024 9:46 AM 
     <details><summary>展开描述 ...</summary> 
-    高手程序员与新手程序员一个简单的判断标准，就是有没有使用过CountDownLatch，在互联网公司工作超过3年的程序员基本上应该都用过。 CountDownLatch中文名称叫做闭锁，也叫计数锁， 
+    在客户端开发过程中，经常会出现下拉刷新的功能，用于重新加载数据和加载更多数据，该文章主要介绍在HarmonyOs下第三方下拉刷新组件refresh的RefreshLayout形式的使用详情 
     </details> 
 
-- 🚀 [Box 影响事件分发？记 Compose 事件分发的一次踩坑](https://juejin.cn/post/7346417351456194587) | Fri Mar 15 2024 9:01 AM 
+- 🚀 [每日算法之ZigZag 转换问题](https://juejin.cn/post/7346249052651552787) | Fri Mar 15 2024 9:44 AM 
     <details><summary>展开描述 ...</summary> 
-    Box 只起到辅助布局的作用，没有对点击事件做任何额外的处理，为什么就影响了事件分发呢？记录一次踩坑 
+    The ZigZag Conversion Problem ZigZag 转换问题 &lpar;https://leetcode.com/problems/zigzag-conversion/&rpar;. 今天的算法是 
     </details> 
 
-- 💪 [历史版本差异？你可能需要知道Monaco编辑器](https://juejin.cn/post/7346430066153226240) | Fri Mar 15 2024 8:59 AM 
+- 💪 [SSE：ChatGPT的对话传输协议！](https://juejin.cn/post/7346421986607054867) | Fri Mar 15 2024 9:33 AM 
     <details><summary>展开描述 ...</summary> 
-    最近工作上需要一个功能来追踪或者说是比较数据的差异，需要做一个调用，由于之前已经使用过monaco编辑器，这个不仅可以用来实现代码的对比，也可以用来做一个数据的追踪，主要的目的就是为了实现修改前后两个 
+    大家好，我是石头~        最近在研究H5推送，发现除了我们常用的WebSocket以外，其实还有一种协议也能实现H5推送，那就是SSE协议。        而且，当前主流的大模型平台，比如Ch 
     </details> 
 <!-- juejin:END -->
 ### 少数派
