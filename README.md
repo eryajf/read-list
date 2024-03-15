@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [ThreadPoolExecutor在执行过程中出现异常](https://juejin.cn/post/7346460401829773349) | Fri Mar 15 2024 9:59 AM 
+- 🤗 [入职一家新公司如何配置Git及远程开发？](https://juejin.cn/post/7346397470585389096) | Fri Mar 15 2024 10:54 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 在开发过程中处理异步任务的时候，我们基本都会使用自定义的线程池，进行异步任务的处理，使用自定义的线程池处理任务的好处，无非就是降低资源消耗、提高响应速度，这里就不做过多的解释说明了，主要来探讨下 
+    配置Git clone 仓库 首先在我们的开发机上生成对应的ssh-key公钥和私钥 ssh-keygen -t rsa -C &quot;youremail&quot; 生成的时候会让你输入密码和确认密码，也可以不设置 
     </details> 
 
-- 🎡 [react-three/drei 慢慢翻译的中文文档](https://juejin.cn/post/7346426730049896475) | Fri Mar 15 2024 9:58 AM 
+- 🎡 [穿越半个世纪，探索中国数据库的前世今生](https://juejin.cn/post/7346430299489992740) | Fri Mar 15 2024 10:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    3 月 6 日（本周三）晚上 19:30-21:30，锁定「腾讯云 TVP」视频号，聆听四位资深专家讲述他们与数据库的不解之缘，深入了解 Oracle、Sybase 等国际数据库如何在中国生根发芽 
+    </details> 
+
+- 🕯 [从混沌到秩序——90年代中国数据库的激烈角逐](https://juejin.cn/post/7346430299489959972) | Fri Mar 15 2024 10:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    3 月 13 日（本周三）晚上 19:30-21:30，第二期【中国数据库前世今生】来啦！继续锁定「腾讯云 TVP」视频号，我们将细数 90 年代中国数据库行业的重要里程碑 
+    </details> 
+
+- 🚀 [前端对象Date、Number、String的toLocaleString方法介绍](https://juejin.cn/post/7346388511339020340) | Fri Mar 15 2024 10:13 AM 
+    <details><summary>展开描述 ...</summary> 
+    Date.prototype.toLocaleString&lpar;&rpar;，时间格式化；Number.prototype.toLocaleString&lpar;&rpar;，数字格式化，加千分位 
+    </details> 
+
+- 💪 [react-three/drei 慢慢翻译的中文文档](https://juejin.cn/post/7346426730049896475) | Fri Mar 15 2024 9:58 AM 
     <details><summary>展开描述 ...</summary> 
     基础用法 具体内容 Cameras相机 PerspectiveCamera&lpar;透视摄像机&rpar; OpenGL帧缓存对象&lpar;FBO：Frame Buffer Object &rpar; 一个响应式 THREE.Persp 
-    </details> 
-
-- 🕯 [「HarmonyOS」第三方Refresh下拉刷新组件使用方法](https://juejin.cn/post/7346460401829642277) | Fri Mar 15 2024 9:46 AM 
-    <details><summary>展开描述 ...</summary> 
-    在客户端开发过程中，经常会出现下拉刷新的功能，用于重新加载数据和加载更多数据，该文章主要介绍在HarmonyOs下第三方下拉刷新组件refresh的RefreshLayout形式的使用详情 
-    </details> 
-
-- 🚀 [每日算法之ZigZag 转换问题](https://juejin.cn/post/7346249052651552787) | Fri Mar 15 2024 9:44 AM 
-    <details><summary>展开描述 ...</summary> 
-    The ZigZag Conversion Problem ZigZag 转换问题 &lpar;https://leetcode.com/problems/zigzag-conversion/&rpar;. 今天的算法是 
-    </details> 
-
-- 💪 [SSE：ChatGPT的对话传输协议！](https://juejin.cn/post/7346421986607054867) | Fri Mar 15 2024 9:33 AM 
-    <details><summary>展开描述 ...</summary> 
-    大家好，我是石头~        最近在研究H5推送，发现除了我们常用的WebSocket以外，其实还有一种协议也能实现H5推送，那就是SSE协议。        而且，当前主流的大模型平台，比如Ch 
     </details> 
 <!-- juejin:END -->
 ### 少数派
