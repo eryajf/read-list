@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [GitHub Trending 间隔一天再次上榜](https://www.v2ex.com/t/1024144#reply0) | Fri Mar 15 2024 3:46 PM
-- 🤗 [开源仓库今天上了 Github trending，激动无比！](https://www.v2ex.com/t/1024143#reply3) | Fri Mar 15 2024 3:44 PM
-- 🎭 [请教 Es 同步问题](https://www.v2ex.com/t/1024126#reply1) | Fri Mar 15 2024 1:59 PM
-- 🥷 [自由职业独立开发体验：成为硬地骇客的第一周](https://www.v2ex.com/t/1024125#reply4) | Fri Mar 15 2024 1:56 PM
-- 🐵 [app center 即将结束](https://www.v2ex.com/t/1024110#reply0) | Fri Mar 15 2024 12:57 PM<!-- v2ex:END -->
+- 🥸 [请教各位大佬关于官网重构的技术问题](https://www.v2ex.com/t/1024151#reply1) | Fri Mar 15 2024 5:53 PM
+- 🤗 [Google chrome 密码管理工具提示 V2EX 密码已经泄露！](https://www.v2ex.com/t/1024150#reply7) | Fri Mar 15 2024 5:48 PM
+- 🎭 [GitHub Trending 间隔一天再次上榜](https://www.v2ex.com/t/1024144#reply0) | Fri Mar 15 2024 3:46 PM
+- 🥷 [开源仓库今天上了 Github trending，激动无比！](https://www.v2ex.com/t/1024143#reply3) | Fri Mar 15 2024 3:44 PM
+- 🐵 [请教 Es 同步问题](https://www.v2ex.com/t/1024126#reply1) | Fri Mar 15 2024 1:59 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
