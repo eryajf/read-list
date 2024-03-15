@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [手写类似于Image组件的fallback功能](https://juejin.cn/post/7346138121426649139) | Fri Mar 15 2024 4:07 AM 
+- 🤗 [谷歌通用AI智能体发布，3D游戏玩法要变天了](https://juejin.cn/entry/7346142972201517083) | Fri Mar 15 2024 6:08 AM 
     <details><summary>展开描述 ...</summary> 
-    Image组件的fallback属性是一个非常实用的特性，它允许开发者为图片指定一个备用的展示内容，以应对图片加载失败的情况。本文将探讨Image组件中fallback的实现思路 
+    谷歌 DeepMind 号称打造出了首个能在广泛 3D 虚拟环境和视频游戏中遵循自然语言指令的通用 AI 智能体。 名为 SIMA，不是 NPC，是可以成为玩家拍档，帮忙干活打杂的那种。 比如，在《模 
     </details> 
 
-- 🎡 [如何扩展大模型的上下文长度](https://juejin.cn/post/7346148341385412647) | Fri Mar 15 2024 4:00 AM 
+- 🎡 [HTML知识扩展](https://juejin.cn/post/7346193407256608806) | Fri Mar 15 2024 6:04 AM 
     <details><summary>展开描述 ...</summary> 
-    本文将基于比较火的 Llama 2 大模型的结构介绍上下文长度的方法与挑战，然后探讨一些业界流行的上下文长度扩展的技术，最后给大家推荐下 KubeAI 大模型训练推理平台可以上手实验。 
+    一.字符实体 🤬思考：我们编写的HTML会被浏览器所解析，为什么我们的HTML在浏览器中会展示为相应的页面？ 如果你使用&lt;浏览器会将其后的文本解析成一个tag 但是在某个情况下，我们确实需要编写一个小 
     </details> 
 
-- 🕯 [如何丝滑的实现首页看板拖拉拽功能？](https://juejin.cn/post/7346121373112811583) | Fri Mar 15 2024 3:30 AM 
+- 🕯 [HTML常见元素](https://juejin.cn/post/7346240157483892773) | Fri Mar 15 2024 6:02 AM 
     <details><summary>展开描述 ...</summary> 
-    需求简介 最近接了一个需求，需要实现不同登录人员可以自定义首页模块卡片。简单来说，就是实现首页看板模块的增添与拖拉拽，效果如下： 技术选型 原生js是支持拖拉拽的，只需要将拖拽的元素的 draggab 
+    一.HTML结构分析 🤢一个完整的HTML包括包括哪几个部分？主要包括文档声明，html元素：head元素，body元素等，如下： 🐲那么什么是文档声明？就是&lt;!DOCTYPE html&gt;它的作用如下 
     </details> 
 
-- 🚀 [独家思路滚动“穿透”的前因后果探究与解决](https://juejin.cn/post/7346221612578045992) | Fri Mar 15 2024 3:30 AM 
+- 🚀 [云计算 - 云安全探索](https://juejin.cn/post/7346193407256559654) | Fri Mar 15 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-    一个比现存的网络资料更能让你搞清楚滚动穿透的本质和如何解决它的文章。解决方案不仅能用，还得要搞懂为什么这么用才行 
+    &gt; 全面介绍云计算安全的意义、安全模型、云安全挑战、云安全最佳实践和技术解决方案，最终深入研究云安全案例，让大家对云安全有全面的理解。 &gt; 关注【TechLeadCloud】，分享互联网架构、云 
     </details> 
 
-- 💪 [如何高效接入 Flink： Connecter / Catalog API 核心设计与社区进展](https://juejin.cn/post/7346238389984034851) | Fri Mar 15 2024 2:32 AM 
+- 💪 [多模态 + 大模型会带来哪些 “化学反应”？](https://juejin.cn/post/7346395042300395520) | Fri Mar 15 2024 5:47 AM 
     <details><summary>展开描述 ...</summary> 
-    本文整理自阿里云实时计算团队 Apache Flink Committer 和 PMC Member 任庆盛在 FFA 2023 核心技术专场（二）中的分享。 
+    导语：没人怀疑，2024 年，AI 依然将是科技界的主角。上个月，OpenAI 推出了可以生成 60 秒高清视频的视频生成模型 Sora，掀起了对多模态模型的进一轮讨论。多模态大模型技术的最新进展如何 
     </details> 
 <!-- juejin:END -->
 ### 少数派
