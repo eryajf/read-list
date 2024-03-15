@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [大佬们好， JWT 如何防止多端登录 ？](https://www.v2ex.com/t/1023997#reply0) | Fri Mar 15 2024 7:09 AM
-- 🤗 [体验阿里的 AI 编程工具，可以抽一个盲盒奖品](https://www.v2ex.com/t/1023993#reply1) | Fri Mar 15 2024 7:02 AM
-- 🎭 [请教一下大家如何开始参与开源贡献](https://www.v2ex.com/t/1023966#reply4) | Fri Mar 15 2024 6:14 AM
-- 🥷 [求推荐一个 AI 画图的软件，付费也可以](https://www.v2ex.com/t/1023949#reply2) | Fri Mar 15 2024 5:39 AM
-- 🐵 [**** 请问: Azure Windows Server VM 上运行的 nodejs API 如何接入外网 IP, 能在 Windows Server VM 上直接设置吗? ****](https://www.v2ex.com/t/1023946#reply0) | Fri Mar 15 2024 5:33 AM<!-- v2ex:END -->
+- 🥸 [自己动手写了一个博客，大家评价一下](https://www.v2ex.com/t/1024028#reply0) | Fri Mar 15 2024 8:11 AM
+- 🤗 [体验阿里的 AI 编程工具，可以抽马克杯日历](https://www.v2ex.com/t/1024027#reply0) | Fri Mar 15 2024 8:09 AM
+- 🎭 [选什么当开发机比较好？](https://www.v2ex.com/t/1024021#reply6) | Fri Mar 15 2024 7:54 AM
+- 🥷 [Infuse+Plex+ CloudDrive2+阿里云盘 。效果评测](https://www.v2ex.com/t/1024020#reply8) | Fri Mar 15 2024 7:53 AM
+- 🐵 [有 1password 如何关闭 chrome 自带密码填充](https://www.v2ex.com/t/1024017#reply2) | Fri Mar 15 2024 7:47 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
