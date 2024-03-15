@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [本地调试 Github Actions：维护纯净代码，减少调测记录 | 开源日报 No.200](https://juejin.cn/post/7346221215743180800) | Thu Mar 14 2024 4:56 PM 
+- 🤗 [茅台有多能赚钱你根本想象不到](https://juejin.cn/post/7346102724499865650) | Fri Mar 15 2024 2:14 AM 
     <details><summary>展开描述 ...</summary> 
-    act 是一个可以在本地运行 GitHub Actions 的工具。 * 快速反馈：无需每次都提交/推送更改到 .github/workflows/ 文件（或嵌入式 GitHub actions 
+    贵州茅台&lpar;下简称茅台&rpar;作为A股白酒龙头，截止目前总市值约2.2万亿，是目前A股唯一超过2万亿市值公司，排在其后的是号称宇宙第一大行的工商银行，1.72万亿。 看到这些信息的你，可能只是微微错愕，意外茅 
     </details> 
 
-- 🎡 [OpenAI 的 GPT-4 更好模型 Claude 3.0 来了](https://juejin.cn/post/7346102009491685414) | Thu Mar 14 2024 4:03 PM 
+- 🎡 [掌握 Kubernetes 故障排除技巧：kubectl命令的基本指南](https://juejin.cn/post/7346238389983838243) | Fri Mar 15 2024 2:10 AM 
     <details><summary>展开描述 ...</summary> 
-    最近，谷歌最接近的竞争对手之一 Anthropic 发布了下一个版本的人工智能聊天机器人 Claude 3.0 
+    在本文中，我们将深入探讨必要的 kubectl 命令，这些命令是诊断和排除 Kubernetes 集群问题不可或缺的工具。 
     </details> 
 
-- 🕯 [前端项目边界处理](https://juejin.cn/post/7346079025427398667) | Thu Mar 14 2024 3:58 PM 
+- 🕯 [JDK提供的几种同步方式](https://juejin.cn/post/7346221317736316928) | Fri Mar 15 2024 2:08 AM 
     <details><summary>展开描述 ...</summary> 
-    在前端开发中，边界处理是非常重要的一个部分。边界处理涉及到错误处理、输入验证、 边界情况处理等。一个良好的边界处理可以提高用户体验，保证系统的稳定性和安全性。 一、错误处理 错误处理是可以帮助我们更好 
+    同步方式 除了使用wait&lpar;&rpar;/nitify&lpar;&rpar;来实现同步之外，在java.util.concurr 
     </details> 
 
-- 🚀 [Vue-Plugin-HiPrint销售单模板创建及数据绑定](https://juejin.cn/post/7346079044377444388) | Thu Mar 14 2024 3:48 PM 
+- 🚀 [PDF 生成（4）— 目录页](https://juejin.cn/post/7346102724499718194) | Fri Mar 15 2024 2:02 AM 
     <details><summary>展开描述 ...</summary> 
-    Vue-Plugin-HiPrint 是一个灵活的 Vue.js 打印插件，提供了一个强大的打印解决方案，并支持自定义内容功能。在本文中，我将介绍如何使用 Vue-Plugin-HiPrint 
+    本文详细阐述了如何为 PDF 文件增加目录页，目录页在一本书或一篇长文中扮演着非常重要的角色，它是内容的整体概览，可以帮助读者快速了解内容的整体结构，并定位到感兴趣的章节，也是整个系列的难点、亮点之一 
     </details> 
 
-- 💪 [Nest.js 使用 multer 实现文件上传](https://juejin.cn/post/7346082867087523890) | Thu Mar 14 2024 3:31 PM 
+- 💪 [腾讯收编字节两个游戏工作室；阿里系全家桶适配鸿蒙原生App开发；Linux 6.8内核稳定版发布 | 极客头条](https://juejin.cn/post/7346155018342547492) | Fri Mar 15 2024 1:59 AM 
     <details><summary>展开描述 ...</summary> 
-    本文详细介绍了在 Nest.js 框架中如何实现文件上传功能。文章首先指导如何创建新的 Nest 项目并安装必要的依赖，然后逐步展示了如何处理单文件和多文件上传。 
+    稀土掘金 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。 一分钟速览新闻点！ 腾讯收编字节跳动两个游戏工作室并成立新公司 雷军否认个别用户或公司享有优先购车 
     </details> 
 <!-- juejin:END -->
 ### 少数派
