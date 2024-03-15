@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [技术资讯：Volar正式更名为Vue-Official](https://juejin.cn/post/7346481513541484579) | Fri Mar 15 2024 2:42 PM 
+- 🤗 [Tensorflow2学习之MNIST数据训练和测试](https://juejin.cn/post/7346483502172831754) | Fri Mar 15 2024 4:26 PM 
+    <details><summary>展开描述 ...</summary> 
+    打算后面学习下Tensorflow2，入门MNIST数据训练和测试遇到的问题和入门的一些总结，总结的内容是API因为数学我不会了。 
+    </details> 
+
+- 🎡 [技术资讯：Volar正式更名为Vue-Official](https://juejin.cn/post/7346481513541484579) | Fri Mar 15 2024 2:42 PM 
     <details><summary>展开描述 ...</summary> 
     Vue3旧语言工具 Volar 退了，一个更加强大的Volar升级版，Vue-Official 来了！Volar 正式升级更名为 Vue-Official ！ 
     </details> 
 
-- 🎡 [功能问题：如何用Docker部署一个后端项目？](https://juejin.cn/post/7346388511339511860) | Fri Mar 15 2024 2:37 PM 
+- 🕯 [功能问题：如何用Docker部署一个后端项目？](https://juejin.cn/post/7346388511339511860) | Fri Mar 15 2024 2:37 PM 
     <details><summary>展开描述 ...</summary> 
     今天给大家分享了，如何用Docker部署一个SpringBoot后端项目，分了算是5步说明吧。本文比较偏向于前端同行或后端小白朋友，当然对于后端大佬们来说，比较轻松了。 
     </details> 
 
-- 🕯 [电源常用通讯电路详解](https://juejin.cn/post/7346460401830608933) | Fri Mar 15 2024 2:31 PM 
+- 🚀 [电源常用通讯电路详解](https://juejin.cn/post/7346460401830608933) | Fri Mar 15 2024 2:31 PM 
     <details><summary>展开描述 ...</summary> 
     数字电源的采样和PWM驱动电路原理，通过这些技术，数字电源可以在内部形成控制闭环。但是要实现电源的控制和管理，还是需要与数字控制核心建立通讯连接。本期将带领大家了解数字电源常用的通讯电路。 一、常用的 
     </details> 
 
-- 🚀 [Bun 的 Windows 稳定版即将公布，重温 Bun 运行时](https://juejin.cn/post/7346486084736663593) | Fri Mar 15 2024 2:25 PM 
+- 💪 [Bun 的 Windows 稳定版即将公布，重温 Bun 运行时](https://juejin.cn/post/7346486084736663593) | Fri Mar 15 2024 2:25 PM 
     <details><summary>展开描述 ...</summary> 
     Bun 是一个新型 JS 运行时，去年就提供了 Windows 实验版。据最新消息，今年最新的 Windows 稳定版即将发布，敬请期待。 
-    </details> 
-
-- 💪 [你发的文章，是如何被算法推荐的](https://juejin.cn/post/7346483502172422154) | Fri Mar 15 2024 2:22 PM 
-    <details><summary>展开描述 ...</summary> 
-    大家好，我是一名AI算法工程师。今天，我带大家了解一下算法是如何进行推荐的。 很多人觉得现在有个奇怪的现象，那就是有些人出其不意的就火了。比如，在网络上随意发了一个吃包子的视频，播放过万，评论过千。  
     </details> 
 <!-- juejin:END -->
 ### 少数派
