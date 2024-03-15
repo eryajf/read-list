@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [谷歌通用AI智能体发布，3D游戏玩法要变天了](https://juejin.cn/entry/7346142972201517083) | Fri Mar 15 2024 6:08 AM 
+- 🤗 [FeignClient注解中的contextId的使用场景，以及解决了什么样的问题](https://juejin.cn/post/7346393055166545972) | Fri Mar 15 2024 7:02 AM 
     <details><summary>展开描述 ...</summary> 
-    谷歌 DeepMind 号称打造出了首个能在广泛 3D 虚拟环境和视频游戏中遵循自然语言指令的通用 AI 智能体。 名为 SIMA，不是 NPC，是可以成为玩家拍档，帮忙干活打杂的那种。 比如，在《模 
+    @FeignClient注解 中属性 contextId 比如我们有个user服务，但user服务中有很多个接口，我们不想将所有的调用接口都定义在一个类中，比如： SpringCloud启动错误记录  
     </details> 
 
-- 🎡 [HTML知识扩展](https://juejin.cn/post/7346193407256608806) | Fri Mar 15 2024 6:04 AM 
+- 🎡 [鸿蒙ArtUI组件的优势及使用](https://juejin.cn/post/7346102009492537382) | Fri Mar 15 2024 1:46 AM 
     <details><summary>展开描述 ...</summary> 
-    一.字符实体 🤬思考：我们编写的HTML会被浏览器所解析，为什么我们的HTML在浏览器中会展示为相应的页面？ 如果你使用&lt;浏览器会将其后的文本解析成一个tag 但是在某个情况下，我们确实需要编写一个小 
+    鸿蒙平台（HarmonyOS）的ArtUI组件是鸿蒙操作系统中用于构建用户界面的组件库。 ArtUI是基于鸿蒙OS的UI框架，提供了丰富的UI元素和布局，使得开发者能够快速构建出符合鸿蒙设计规范的界面 
     </details> 
 
-- 🕯 [HTML常见元素](https://juejin.cn/post/7346240157483892773) | Fri Mar 15 2024 6:02 AM 
+- 🕯 [3.零基础快速入门Python Web开发——项目部署之传统部署](https://juejin.cn/post/7346119032523489290) | Fri Mar 15 2024 1:33 AM 
     <details><summary>展开描述 ...</summary> 
-    一.HTML结构分析 🤢一个完整的HTML包括包括哪几个部分？主要包括文档声明，html元素：head元素，body元素等，如下： 🐲那么什么是文档声明？就是&lt;!DOCTYPE html&gt;它的作用如下 
+    ​  1.新建三台centos虚拟机 （虚拟机名称和对应IP地址请各位靓仔按照自己实际建立的虚拟机信息去修改，后面不多复述&rpar; hdp01 192.168.33.128 hdp02 192.168.33 
     </details> 
 
-- 🚀 [云计算 - 云安全探索](https://juejin.cn/post/7346193407256559654) | Fri Mar 15 2024 6:00 AM 
+- 🚀 [全新 Astro 主题管理平台，Astro 开发者门户上线！](https://juejin.cn/post/7346245690001915944) | Fri Mar 15 2024 1:32 AM 
     <details><summary>展开描述 ...</summary> 
-    &gt; 全面介绍云计算安全的意义、安全模型、云安全挑战、云安全最佳实践和技术解决方案，最终深入研究云安全案例，让大家对云安全有全面的理解。 &gt; 关注【TechLeadCloud】，分享互联网架构、云 
+    3 月 14 日，开源项目 Astro 正式推出了其全新的开发者门户，这一平台的诞生旨在为使用 Astro 的主题作者提供一个集中化的管理、提交和推广其主题作品的场所。 
     </details> 
 
-- 💪 [多模态 + 大模型会带来哪些 “化学反应”？](https://juejin.cn/post/7346395042300395520) | Fri Mar 15 2024 5:47 AM 
+- 💪 [Vue CLI](https://juejin.cn/post/7346119032523177994) | Fri Mar 15 2024 12:47 AM 
     <details><summary>展开描述 ...</summary> 
-    导语：没人怀疑，2024 年，AI 依然将是科技界的主角。上个月，OpenAI 推出了可以生成 60 秒高清视频的视频生成模型 Sora，掀起了对多模态模型的进一轮讨论。多模态大模型技术的最新进展如何 
+    引言 Vue CLI 是一个基于 Node.js 的全功能 Vue.js 项目脚手架，提供了开箱即用的构建工具配置以及丰富的插件生态系统，能够帮助开发者快速搭建和构建 Vue.js 项目。本文档将介绍 
     </details> 
 <!-- juejin:END -->
 ### 少数派
