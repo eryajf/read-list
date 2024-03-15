@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Tensorflow2学习之MNIST数据训练和测试](https://juejin.cn/post/7346483502172831754) | Fri Mar 15 2024 4:26 PM 
+- 🤗 [读《刻意练习》小记（下）](https://juejin.cn/post/7346477983282823205) | Fri Mar 15 2024 5:19 PM 
+    <details><summary>展开描述 ...</summary> 
+    如何让练习变成日常的一部分 “边干边学”方法的一个好处是，它使人们熟悉练习的习惯，并思考如何练习。 不要陷入的三种误区 第一种错误思想是我们的老朋友，即认为某人的能力通常受到基因特征的限制。这种思想常 
+    </details> 
+
+- 🎡 [🚀🚀🚀Elasticsearch 主副分片切换过程中对业务写入有影响吗](https://juejin.cn/post/7346505279876481039) | Fri Mar 15 2024 4:32 PM 
+    <details><summary>展开描述 ...</summary> 
+    蓝胖子会先讲解下ES集群写入文档的原理，并对异常情况进行分析，最后来模拟集群写入过程中节点宕机的情况来对这个问题展开讨论。 主副分片的写入流程 之前我在Elasticsearch 如何保证写入过程中不 
+    </details> 
+
+- 🕯 [Tensorflow2学习之MNIST数据训练和测试](https://juejin.cn/post/7346483502172831754) | Fri Mar 15 2024 4:26 PM 
     <details><summary>展开描述 ...</summary> 
     打算后面学习下Tensorflow2，入门MNIST数据训练和测试遇到的问题和入门的一些总结，总结的内容是API因为数学我不会了。 
     </details> 
 
-- 🎡 [技术资讯：Volar正式更名为Vue-Official](https://juejin.cn/post/7346481513541484579) | Fri Mar 15 2024 2:42 PM 
+- 🚀 [技术资讯：Volar正式更名为Vue-Official](https://juejin.cn/post/7346481513541484579) | Fri Mar 15 2024 2:42 PM 
     <details><summary>展开描述 ...</summary> 
     Vue3旧语言工具 Volar 退了，一个更加强大的Volar升级版，Vue-Official 来了！Volar 正式升级更名为 Vue-Official ！ 
     </details> 
 
-- 🕯 [功能问题：如何用Docker部署一个后端项目？](https://juejin.cn/post/7346388511339511860) | Fri Mar 15 2024 2:37 PM 
+- 💪 [功能问题：如何用Docker部署一个后端项目？](https://juejin.cn/post/7346388511339511860) | Fri Mar 15 2024 2:37 PM 
     <details><summary>展开描述 ...</summary> 
     今天给大家分享了，如何用Docker部署一个SpringBoot后端项目，分了算是5步说明吧。本文比较偏向于前端同行或后端小白朋友，当然对于后端大佬们来说，比较轻松了。 
-    </details> 
-
-- 🚀 [电源常用通讯电路详解](https://juejin.cn/post/7346460401830608933) | Fri Mar 15 2024 2:31 PM 
-    <details><summary>展开描述 ...</summary> 
-    数字电源的采样和PWM驱动电路原理，通过这些技术，数字电源可以在内部形成控制闭环。但是要实现电源的控制和管理，还是需要与数字控制核心建立通讯连接。本期将带领大家了解数字电源常用的通讯电路。 一、常用的 
-    </details> 
-
-- 💪 [Bun 的 Windows 稳定版即将公布，重温 Bun 运行时](https://juejin.cn/post/7346486084736663593) | Fri Mar 15 2024 2:25 PM 
-    <details><summary>展开描述 ...</summary> 
-    Bun 是一个新型 JS 运行时，去年就提供了 Windows 实验版。据最新消息，今年最新的 Windows 稳定版即将发布，敬请期待。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
