@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [FeignClient注解中的contextId的使用场景，以及解决了什么样的问题](https://juejin.cn/post/7346393055166545972) | Fri Mar 15 2024 7:02 AM 
+- 🤗 [编程设计模式之模板方法模式](https://juejin.cn/post/7346430066152488960) | Fri Mar 15 2024 8:11 AM 
     <details><summary>展开描述 ...</summary> 
-    @FeignClient注解 中属性 contextId 比如我们有个user服务，但user服务中有很多个接口，我们不想将所有的调用接口都定义在一个类中，比如： SpringCloud启动错误记录  
+    编程设计模式之模板方法模式 为什么有模板方法模式？ 在软件开发中，有时候我们会遇到一些算法框架，其中一些步骤是固定的，而另一些步骤则可能因应用场景不同而变化。如果每次都直接在代码中硬编码这些固定的步骤 
     </details> 
 
-- 🎡 [鸿蒙ArtUI组件的优势及使用](https://juejin.cn/post/7346102009492537382) | Fri Mar 15 2024 1:46 AM 
+- 🎡 [简单聊一下 Python  asyncio](https://juejin.cn/post/7346233811212566569) | Fri Mar 15 2024 8:10 AM 
     <details><summary>展开描述 ...</summary> 
-    鸿蒙平台（HarmonyOS）的ArtUI组件是鸿蒙操作系统中用于构建用户界面的组件库。 ArtUI是基于鸿蒙OS的UI框架，提供了丰富的UI元素和布局，使得开发者能够快速构建出符合鸿蒙设计规范的界面 
+    本文介绍了Python中的asyncio库，重点讨论了asyncio的本质、解决的问题以及提供的示例。asyncio是基于协程的框架，使用async和await语法来定义和执行异步操作 
     </details> 
 
-- 🕯 [3.零基础快速入门Python Web开发——项目部署之传统部署](https://juejin.cn/post/7346119032523489290) | Fri Mar 15 2024 1:33 AM 
+- 🕯 [编程设计模式之观察者模式](https://juejin.cn/post/7346427641349783604) | Fri Mar 15 2024 8:08 AM 
     <details><summary>展开描述 ...</summary> 
-    ​  1.新建三台centos虚拟机 （虚拟机名称和对应IP地址请各位靓仔按照自己实际建立的虚拟机信息去修改，后面不多复述&rpar; hdp01 192.168.33.128 hdp02 192.168.33 
+    编程设计模式之观察者模式 为什么有观察者模式？ 在软件开发中，经常会有一种场景，一个对象的状态发生变化时，需要通知其他相关的对象。如果直接在对象之间进行硬编码的依赖，会导致代码的耦合度增加，不利于后期 
     </details> 
 
-- 🚀 [全新 Astro 主题管理平台，Astro 开发者门户上线！](https://juejin.cn/post/7346245690001915944) | Fri Mar 15 2024 1:32 AM 
+- 🚀 [CSS常见选择器](https://juejin.cn/post/7346373279542689829) | Fri Mar 15 2024 8:08 AM 
     <details><summary>展开描述 ...</summary> 
-    3 月 14 日，开源项目 Astro 正式推出了其全新的开发者门户，这一平台的诞生旨在为使用 Astro 的主题作者提供一个集中化的管理、提交和推广其主题作品的场所。 
+    一.CSS选择器 😬在开发中我们经常需要找到某个元素去添加对应的CSS，常见的选择器有如下这些种类： 通用选择器 &lpar;universal selector&rpar; 元素选择器 &lpar;type selector&rpar;  
     </details> 
 
-- 💪 [Vue CLI](https://juejin.cn/post/7346119032523177994) | Fri Mar 15 2024 12:47 AM 
+- 💪 [前端下载超大文件的完整方案](https://juejin.cn/post/7346430066152407040) | Fri Mar 15 2024 8:07 AM 
     <details><summary>展开描述 ...</summary> 
-    引言 Vue CLI 是一个基于 Node.js 的全功能 Vue.js 项目脚手架，提供了开箱即用的构建工具配置以及丰富的插件生态系统，能够帮助开发者快速搭建和构建 Vue.js 项目。本文档将介绍 
+    分片下载： 将大文件分割成多个小块进行下载，可以降低内存占用和网络传输中断的风险。这样可以避免一次性下载整个大文件造成的性能问题。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
