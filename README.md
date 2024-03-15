@@ -306,7 +306,7 @@
     在 2023 年 12 月公司遭受了 Akira 勒索软件的网络攻击，导致 10 万人的数据泄露。 
     </details> 
 
-- 🦄 [TikTok禁令引发数据安全和控制问题](https://www.freebuf.com/news/394901.html) | Fri Mar 15 2024 4:12 AM 
+- 🦄 [TikTok至暗时刻，因“安全问题”被美国发布禁令](https://www.freebuf.com/news/394901.html) | Fri Mar 15 2024 4:12 AM 
     <details><summary>展开描述 ...</summary> 
     法案建议将TikTok出售给一家美国公司，如果字节跳动拒绝出售，美国的应用商店和网络托管服务将被禁止提供TikTok应用。 
     </details> 
