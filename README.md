@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [深信服华中天慧战队：哥斯拉二开-Websocket shell](https://www.freebuf.com/sectool/394065.html) | Fri Mar 15 2024 9:55 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文主要讲解如何让哥斯拉支持Websocket协议的shell。 
+    </details> 
+
 - 🦄 [日产汽车承认 10 万人的数据信息遭窃](https://www.freebuf.com/news/394908.html) | Fri Mar 15 2024 6:05 AM 
     <details><summary>展开描述 ...</summary> 
     在 2023 年 12 月公司遭受了 Akira 勒索软件的网络攻击，导致 10 万人的数据泄露。 
     </details> 
 
-- 🦄 [TikTok至暗时刻，因“安全问题”被美国发布禁令](https://www.freebuf.com/news/394901.html) | Fri Mar 15 2024 4:12 AM 
+- 🦅 [安全左移是责任左移吗；漏洞重复出现怎么办 | FB甲方群话题讨论](https://www.freebuf.com/articles/neopoints/394907.html) | Fri Mar 15 2024 6:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    有种观点认为安全左移往往是把安全的责任转嫁给开发人员，对此大家怎么看待？ 
+    </details> 
+
+- 🪄 [TikTok至暗时刻，因“安全问题”被美国发布禁令](https://www.freebuf.com/news/394901.html) | Fri Mar 15 2024 4:12 AM 
     <details><summary>展开描述 ...</summary> 
     法案建议将TikTok出售给一家美国公司，如果字节跳动拒绝出售，美国的应用商店和网络托管服务将被禁止提供TikTok应用。 
     </details> 
 
-- 🦅 [波及4300万人！法国官方就业机构数据遭窃](https://www.freebuf.com/news/394879.html) | Fri Mar 15 2024 2:51 AM 
+- 💻 [波及4300万人！法国官方就业机构数据遭窃](https://www.freebuf.com/news/394879.html) | Fri Mar 15 2024 2:51 AM 
     <details><summary>展开描述 ...</summary> 
     根据 2023 年 1 月的数据，法国总人口约为 6804 万，这意味着此次事件的受害者规模相当于法国公民总数的 63%。 
-    </details> 
-
-- 🪄 [《民航数据管理办法（征求意见稿）》&amp;《民航数据共享管理办法（征求意见稿）》正式发布](https://www.freebuf.com/articles/394860.html) | Thu Mar 14 2024 11:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    民航数据承载着乘客个人信息、航班信息、机组人员资料等众多敏感数据，具有极高的敏感性和机密性。 
-    </details> 
-
-- 💻 [FOFA资产拓线实战系列：COLDRIVER](https://www.freebuf.com/articles/network/394829.html) | Thu Mar 14 2024 7:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    本文尝试根据线索追踪COLDRIVER近期的活动痕迹，利用FOFA平台寻找COLDRIVER组织的痕迹，最终在FOFA平台上发现了2条与2024年1月18日公开的C2非常相似的数据。 
     </details> 
 <!-- freebuf:END -->
 
