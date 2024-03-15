@@ -321,9 +321,9 @@
     民航数据承载着乘客个人信息、航班信息、机组人员资料等众多敏感数据，具有极高的敏感性和机密性。 
     </details> 
 
-- 💻 [已发布PoC，神秘GhostRace攻击可窃取Intel、AMD等CPU数据](https://www.freebuf.com/articles/394821.html) | Thu Mar 14 2024 7:03 AM 
+- 💻 [FOFA资产拓线实战系列：COLDRIVER](https://www.freebuf.com/articles/network/394829.html) | Thu Mar 14 2024 7:53 AM 
     <details><summary>展开描述 ...</summary> 
-    英特尔、AMD、Arm和IBM等CPU制造商以及软件供应商，受到一种名为GhostRace的新型推测性竞态条件（SRC）攻击的影响。 
+    本文尝试根据线索追踪COLDRIVER近期的活动痕迹，利用FOFA平台寻找COLDRIVER组织的痕迹，最终在FOFA平台上发现了2条与2024年1月18日公开的C2非常相似的数据。 
     </details> 
 <!-- freebuf:END -->
 
