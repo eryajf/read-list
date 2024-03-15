@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [KeyCue 10.2 快捷键辅助神器](https://xclient.info/s/keycue.html) | Thu Mar 14 2024 12:46 AM 
+- 🦏 [WiFiSpoof 3.9.4.1 MAC地址修改工具](https://xclient.info/s/wifi-spoof.html) | Fri Mar 15 2024 1:08 AM 
     <details><summary>展开描述 ...</summary> 
-    使用KeyCue的时候按住command就会出现快捷键大全的菜单 
+    WiFiSpoof是一款适用于Mac系统的wifi地址修改器，用户只需要安装WiFiSpoof for mac，点击打开就能很直观的修改Mac地址，很容易操作。 
     </details> 
 
--  [Things 3.20.2 一款优秀的GTD任务管理工具](https://xclient.info/s/things.html) | Thu Mar 14 2024 12:45 AM 
+-  [Permute 3.11.7 fix 小巧便捷的多媒体文件格式转换器](https://xclient.info/s/permute.html) | Fri Mar 15 2024 1:07 AM 
     <details><summary>展开描述 ...</summary> 
-    Things 是 Mac OS X 上的一款优秀的GTD任务管理工具，是一款非常值得尝试的任务管理及日程管理程序，并且支持同步到iPhone中。 
+    Permute 提供简单的视频格式转换功能，可以简单的将视频文件转换为你想要的格式。将你想要转换的视频拖到软件窗口内，然后选择你想要转换的格式即可。 
     </details> 
 
-- ⚗️ [Notebooks 3.4 文档管理和日程备忘工具](https://xclient.info/s/notebooks.html) | Thu Mar 14 2024 12:44 AM 
+- ⚗️ [PDF Reader Pro 3.3.1.0 PDF 文档阅读编辑批注](https://xclient.info/s/pdf-reader-pro.html) | Fri Mar 15 2024 1:06 AM 
     <details><summary>展开描述 ...</summary> 
-    Notebooks 是一款Mac上文档管理、文本编写和日程备忘工具，，集成了编写文档、日程任务管理、文档文件管理三个功能，其中文档编写支持纯文本、HTML文本和Markdown文本等，支持统一管理常见的文档文件，如text, PDF, web pages, MS Office documents等，非常实用的一款工具！ 
+    PDF Reader Pro是一款Mac平台的PDF文档阅读编辑器，除了可以进行 PDF 文档阅读以外，你还可以对文档进行备注、编辑、标注等，还可以添加笔记和书签，如果想要演示的话，还可以配合遥控来进行演示。 
     </details> 
 
-- 🔥 [Perfectly Clear WorkBench 4.6.0.2642 智能图片瑕疵处理工具](https://xclient.info/s/perfectly-clear-workbench.html) | Thu Mar 14 2024 12:43 AM 
+- 🔥 [PDF Expert 3.9.2 fix 极致的 PDF 阅读标注工作体验](https://xclient.info/s/pdf-expert-for-mac.html) | Fri Mar 15 2024 1:03 AM 
     <details><summary>展开描述 ...</summary> 
-    Perfectly Clear Workbench可以帮您在几分钟内自动修复、微调和批处理图片。 
+    DF Expert 是一个 PDF 阅读器，无论是打开一个邮件附件，还是 6000 页的报告 ，PDF Expert for Mac的打开速度都比同类快上不少，平滑流畅的滚动效果，标签页设计，也大大提高了工作效率。 
     </details> 
 
-- 🌋 [Keep It 2.4.3 内容收藏夹](https://xclient.info/s/keep-it.html) | Thu Mar 14 2024 12:42 AM 
+- 🌋 [SQLPro Studio 2024.12 多数据库管理工具](https://xclient.info/s/sqlpro-studio.html) | Fri Mar 15 2024 1:02 AM 
     <details><summary>展开描述 ...</summary> 
-    Keep It 是Mac平台上的一款保存笔记，保存网页链接，存储文件的效率工具。Keep It 支持icloud同步，用户可以在所有支持icloud的设备上同步自己的数据资料。 
+    SQLPro Studio 是一款十分实用的数据库管理软件，该软件能够帮助用户快速智能的管理数据库的各种资料与文件，操作简单，能够更好的帮助用户及时管理数据库，欢迎有需要的用户下载使用。 
     </details> 
 <!-- xclient:END -->
 
