@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [编程设计模式之模板方法模式](https://juejin.cn/post/7346430066152488960) | Fri Mar 15 2024 8:11 AM 
+- 🤗 [Python数据可视化-销售数据可视化：Bokeh 条形图示例](https://juejin.cn/post/7346430066153324544) | Fri Mar 15 2024 9:04 AM 
     <details><summary>展开描述 ...</summary> 
-    编程设计模式之模板方法模式 为什么有模板方法模式？ 在软件开发中，有时候我们会遇到一些算法框架，其中一些步骤是固定的，而另一些步骤则可能因应用场景不同而变化。如果每次都直接在代码中硬编码这些固定的步骤 
+    在数据科学和数据分析领域，数据可视化是一种强大的工具，可以帮助我们更好地理解数据、发现模式和趋势。Python作为一种流行的数据科学工具，拥有多种数据可视化库。本文将重点比较Bokeh和Altair这 
     </details> 
 
-- 🎡 [简单聊一下 Python  asyncio](https://juejin.cn/post/7346233811212566569) | Fri Mar 15 2024 8:10 AM 
+- 🎡 [BDD &lpar;Behavior Driven Development&rpar;和U2S &lpar;User Stories to Scenarios&rpar;测试](https://juejin.cn/post/7346385551367028786) | Fri Mar 15 2024 9:03 AM 
     <details><summary>展开描述 ...</summary> 
-    本文介绍了Python中的asyncio库，重点讨论了asyncio的本质、解决的问题以及提供的示例。asyncio是基于协程的框架，使用async和await语法来定义和执行异步操作 
+    U2S（User Stories to Scenarios）和BDD（Behavior Driven Development）都是软件开发中用来描述功能需求和行为的方法，但它们的侧重点和应用方式有所不 
     </details> 
 
-- 🕯 [编程设计模式之观察者模式](https://juejin.cn/post/7346427641349783604) | Fri Mar 15 2024 8:08 AM 
+- 🕯 [没看过CountDownLatch源码，别说是Java高级开发](https://juejin.cn/post/7346249052651126803) | Fri Mar 15 2024 9:01 AM 
     <details><summary>展开描述 ...</summary> 
-    编程设计模式之观察者模式 为什么有观察者模式？ 在软件开发中，经常会有一种场景，一个对象的状态发生变化时，需要通知其他相关的对象。如果直接在对象之间进行硬编码的依赖，会导致代码的耦合度增加，不利于后期 
+    高手程序员与新手程序员一个简单的判断标准，就是有没有使用过CountDownLatch，在互联网公司工作超过3年的程序员基本上应该都用过。 CountDownLatch中文名称叫做闭锁，也叫计数锁， 
     </details> 
 
-- 🚀 [CSS常见选择器](https://juejin.cn/post/7346373279542689829) | Fri Mar 15 2024 8:08 AM 
+- 🚀 [Box 影响事件分发？记 Compose 事件分发的一次踩坑](https://juejin.cn/post/7346417351456194587) | Fri Mar 15 2024 9:01 AM 
     <details><summary>展开描述 ...</summary> 
-    一.CSS选择器 😬在开发中我们经常需要找到某个元素去添加对应的CSS，常见的选择器有如下这些种类： 通用选择器 &lpar;universal selector&rpar; 元素选择器 &lpar;type selector&rpar;  
+    Box 只起到辅助布局的作用，没有对点击事件做任何额外的处理，为什么就影响了事件分发呢？记录一次踩坑 
     </details> 
 
-- 💪 [前端下载超大文件的完整方案](https://juejin.cn/post/7346430066152407040) | Fri Mar 15 2024 8:07 AM 
+- 💪 [历史版本差异？你可能需要知道Monaco编辑器](https://juejin.cn/post/7346430066153226240) | Fri Mar 15 2024 8:59 AM 
     <details><summary>展开描述 ...</summary> 
-    分片下载： 将大文件分割成多个小块进行下载，可以降低内存占用和网络传输中断的风险。这样可以避免一次性下载整个大文件造成的性能问题。 
+    最近工作上需要一个功能来追踪或者说是比较数据的差异，需要做一个调用，由于之前已经使用过monaco编辑器，这个不仅可以用来实现代码的对比，也可以用来做一个数据的追踪，主要的目的就是为了实现修改前后两个 
     </details> 
 <!-- juejin:END -->
 ### 少数派
