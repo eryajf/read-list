@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [爬虫实战：从HTTP请求获取数据解析社区](https://juejin.cn/post/7346804737079361546) | Sat Mar 16 2024 3:08 PM 
+- 🤗 [万字长文深入浅出数据库连接池 HikariCP/Commons DBCP/Tomcat/c3p0/druid 对比](https://juejin.cn/post/7346570458488569910) | Sat Mar 16 2024 5:23 PM 
     <details><summary>展开描述 ...</summary> 
-    在过去的实践中，我们通常通过爬取HTML网页来解析并提取所需数据，然而这只是一种方法。另一种更为直接的方式是通过发送HTTP请求来获取数据。考虑到大多数常见服务商的数据都是通过HTTP接口封装的，因此 
+    # 拓展阅读 [万字长文深入浅出数据库连接池 HikariCP/Commons DBCP/Tomcat/c3p0/druid 对比]&lpar;https://mp.weixin.qq.com/s/YMgj 
     </details> 
 
-- 🎡 [Node 2023 年度报告](https://juejin.cn/post/7346524071184793619) | Sat Mar 16 2024 2:27 PM 
+- 🎡 [零额外开销最快的数据库连接池？HikariCP 入门介绍](https://juejin.cn/post/7346510823772979254) | Sat Mar 16 2024 5:20 PM 
     <details><summary>展开描述 ...</summary> 
-    Node 核心团队共享了 2023 Node 发展的实用更新、团队如何确保 Node 的良好测试和可靠性、Node vendor 的依赖变化，以及 Node 安全性。 
+    # 拓展阅读 [从零开始手写 mybatis （三）jdbc pool 如何从零手写实现数据库连接池 dbcp？]&lpar;https://houbb.github.io/2020/06/21/hand- 
     </details> 
 
-- 🕯 [多云编排系统之Crossplane 初探](https://juejin.cn/post/7346764005225545766) | Sat Mar 16 2024 2:23 PM 
+- 🕯 [React组件封装实践：构建一个健壮的用户头像组件](https://juejin.cn/post/7346764005225807910) | Sat Mar 16 2024 3:48 PM 
     <details><summary>展开描述 ...</summary> 
-    一 Crossplane 简介 Crossplane是一个开源的Kubernetes扩展，它提供了将Kubernetes集群转换为通用控制平面的能力。使用Crossplane，您可以通过标准的Kube 
+    本文从实际工作需求出发，针对H5页面image渲染出现的各种样式问题，加载问题，封装了一个相对健壮的组件，希望本文对您有所帮助和启发。 
     </details> 
 
-- 🚀 [实战AWS CodeDeploy实现自动化应用程序部署到EC2实例组](https://juejin.cn/post/7346804737079148554) | Sat Mar 16 2024 2:21 PM 
+- 🚀 [React组件封装实践：构建一个正确处理ellipsis和tooltip的便利贴组件](https://juejin.cn/post/7346897828688625691) | Sat Mar 16 2024 3:48 PM 
     <details><summary>展开描述 ...</summary> 
-    一 概览 通过实验室模板配置的两个 Amazon Elastic Compute Cloud &lpar;Amazon EC2&rpar; 部署示例服务应用程序。使用 AWS CodeDeploy 将软件推送到 Amaz 
+    在处理文本显示时，如何有效地展示内容，并在内容过长时提供用户友好的交互方式，成为了设计中的一大挑战。本文将介绍如何从零开始，使用React框架构建一个具备文本溢出处理功能的“便利贴”组件。 
     </details> 
 
-- 💪 [实战AWS CodePipeline 实现代码部署自动化](https://juejin.cn/post/7346897828688494619) | Sat Mar 16 2024 2:19 PM 
+- 💪 [Webpack开发模式与生产模式的关键差异及其对开发的影响](https://juejin.cn/post/7346764005225791526) | Sat Mar 16 2024 3:48 PM 
     <details><summary>展开描述 ...</summary> 
-    概述 在实战中，我们可以结合使用AWS CodePipeline和AWS CodeDeploy，实现代码部署的自动化。特别是针对运行Windows Server操作系统的Amazon EC2实例队列， 
+    Webpack主要提供了两种模式，两者在配置和优化策略上有着根本的区别，旨在分别满足开发过程中的需求和线上环境的性能要求。本文将探讨这两种模式的关键差异及其对开发的影响。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
