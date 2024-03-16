@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [SG90舵机&lpar;Arduino&rpar;/XY轴摇杆使用&lpar;Arduino&rpar;](https://juejin.cn/post/7346512120639406143) | Sat Mar 16 2024 2:12 AM 
+- 🤗 [RN封装的model弹出层组件](https://juejin.cn/post/7346517673376940059) | Sat Mar 16 2024 4:05 AM 
     <details><summary>展开描述 ...</summary> 
-    XY轴摇杆使用 需要注意，必须是 ADC 引脚才可以接收模拟信号输入 SG90舵机, 只是使用代码，需要用到的直接复制用即可 
+    需要用到react-native-ui-kitten这个组件库,自行点击链接参考去安装 安装完直接用就完事了 使用方法 
     </details> 
 
-- 🎡 [面试题：如何让 var [a, b] = {a: 1, b: 2} 这个等式成立？](https://juejin.cn/post/7346512120639340607) | Sat Mar 16 2024 2:03 AM 
+- 🎡 [🌐  Spring的注解](https://juejin.cn/post/7346505279877431311) | Sat Mar 16 2024 3:51 AM 
     <details><summary>展开描述 ...</summary> 
-    这是一道字节面试题，大家第一眼看到这个面试题的时候，是不是脑瓜子嗡嗡的？有一种熟悉又陌生的感觉？我当时也一样的😭😭😭，接下来，让我们看看思路吧。 
+    1. 注解仅仅是标记 Spring框架的注解用途广泛，极大地简化了Java企业级应用的开发。注解通过提供元数据来替代传统的XML配置方式，让开发者能够通过简单的声明方式控制各种Spring框架的特性， 
     </details> 
 
-- 🕯 [Dubbo：分布式服务框架的技术探索](https://juejin.cn/post/7346763303429488649) | Sat Mar 16 2024 2:00 AM 
+- 🕯 [🗑️ 一键清空 GitHub 仓库](https://juejin.cn/post/7346505279877316623) | Sat Mar 16 2024 3:16 AM 
     <details><summary>展开描述 ...</summary> 
-    Dubbo是一款高性能、轻量级的开源RPC框架，由阿里巴巴开发并开源。它提供了服务治理、负载均衡、容错、可扩展等功能，适用于大规模分布式服务的开发和管理。 
+    一键清空GitHub仓库：从安装`gh` CLI，登录账户，请求必要权限，到执行删除操作，一步到位的完整指南。 
     </details> 
 
-- 🚀 [主流轻量云服务器运营商门槛对比](https://juejin.cn/post/7346477983283560485) | Sat Mar 16 2024 1:59 AM 
+- 🚀 [Mac电脑安装nvm&lpar;node包版本管理工具&rpar;](https://juejin.cn/post/7346512120639569983) | Sat Mar 16 2024 3:02 AM 
     <details><summary>展开描述 ...</summary> 
-    以无需备案的香港或东南亚节点来对比 1-阿里云 月付24元 ；不过香港的还限量 不好买 2- 腾讯云 ，香港的服务好几百一个月 ，就拿首尔节点看吧 ~ 30元每月，没有折扣 3- 百度智能云 性价比比 
+    Mac电脑安装nvm&lpar;node包版本管理工具&rpar;，自己安装了一遍，安装的过程中也遇到了不少麻烦，因此写文章记录一下，也给大家分享一下～ 
     </details> 
 
-- 💪 [新手小白，从零开始，搭建阿里云服务器并部署Node接口](https://juejin.cn/post/7346478166604496896) | Sat Mar 16 2024 1:49 AM 
+- 💪 [vibur-dbcp 并发、快速且功能完备的 JDBC 连接池，提供先进的性能监控功能](https://juejin.cn/post/7346501899661951039) | Sat Mar 16 2024 2:52 AM 
     <details><summary>展开描述 ...</summary> 
-    亲身亲历，手把手领取服务器部署Node接口。选择阿里云的服务器，一般选择Esc云服务器，选择CentOS（也就是Linux系统）.... 
+    # 拓展阅读 [从零开始手写 mybatis （三）jdbc pool 如何从零手写实现数据库连接池 dbcp？]&lpar;https://houbb.github.io/2020/06/21/hand- 
     </details> 
 <!-- juejin:END -->
 ### 少数派
