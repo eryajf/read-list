@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Unity: WebGL项目添加自定义启动页面](https://juejin.cn/post/7346524071183679507) | Sat Mar 16 2024 5:51 AM 
+- 🤗 [纯前端实现 PNG 图片压缩 | UPNG.js](https://juejin.cn/post/7346510823772733494) | Sat Mar 16 2024 1:02 PM 
     <details><summary>展开描述 ...</summary> 
-    作为游戏制作者，将个人游戏风格和创意融入游戏的每一个方面是非常重要的，特别是启动页面，它不仅是玩家的第一印象，也是展示游戏特色和故事的绝佳机会。通过定制启动页面，您可以： 展示游戏世界观：利用启动页面 
+    最近在迭代应用的时候用到了 UPNG.js 压缩 PNG 图片，这里记录分享一下使用经验，并附上完整 Demo。 
     </details> 
 
-- 🎡 [哈士奇的一周面经：腾讯某部门前端开发](https://juejin.cn/post/7346524071183630355) | Sat Mar 16 2024 5:24 AM 
+- 🎡 [电源常用电路：采样电路](https://juejin.cn/post/7346897828688248859) | Sat Mar 16 2024 12:57 PM 
     <details><summary>展开描述 ...</summary> 
-    先写总结，这次面试寄了，而且哈士奇没有坚持过二十分钟。。。 说说自己整个面试的过程，首先哈士奇海投简历，本以为大厂会直接筛掉哈士奇的简历，没想到直接就给过了，还很快给哈士奇发邮件通知。 
+    一、ADC采样原理 ADC（模数转换器）采样是将模拟信号按照一定的采样频率进行离散化，然后转换为数字信号的过程，通常包括采样、保持、量化和编码四个步骤。 ▍采样 采样主要实现模拟信号的离散化处理，即将 
     </details> 
 
-- 🕯 [TTS 擂台: 文本转语音模型的自由搏击场](https://juejin.cn/entry/7346518547852279859) | Sat Mar 16 2024 5:15 AM 
+- 🕯 [写个极简表单校验模型createCheckModel](https://juejin.cn/post/7346510823772667958) | Sat Mar 16 2024 12:42 PM 
     <details><summary>展开描述 ...</summary> 
-    对文本转语音 &lpar;text-to-speech, TTS&rpar; 模型的质量进行自动度量非常困难。虽然评估声音的自然度和语调变化对人类来说是一项微不足道的任务，但对人工智能来说要困难得多。为了推进这一领域的发 
+    一个Form表单极简的字段校验模型，框架无关，Typescript支持，实际引用大小不到2kb: createCheckModel 
     </details> 
 
-- 🚀 [CSS继承-层叠-类型](https://juejin.cn/post/7346530887472889865) | Sat Mar 16 2024 5:02 AM 
+- 🚀 [MyBatis：Java持久层框架的全面指南](https://juejin.cn/post/7346763303459061811) | Sat Mar 16 2024 12:35 PM 
     <details><summary>展开描述 ...</summary> 
-    一.CSS属性的继承 🤢CSS的某些属性是具有继承性的： 如果一个属性具备继承性，那么在该元素上设置后，他的后代元素都可以继承这个属性； 当然，如果后代元素自己有设置该属性，那么优先使用后代元素自己的 
+    MyBatis是一个基于Java的持久层框架，它提供了一种优雅地管理SQL查询、映射和数据库交互的方式。MyBatis的核心思想是将SQL语句与Java方法解耦，通过配置文件进行映射，从而实现。。。 
     </details> 
 
-- 💪 [jvm 虚拟机栈](https://juejin.cn/post/7346512120639848511) | Sat Mar 16 2024 4:28 AM 
+- 💪 [Node.js入门：打造你的第一个HTTP服务器与解决中文乱码](https://juejin.cn/post/7346897828688166939) | Sat Mar 16 2024 12:19 PM 
     <details><summary>展开描述 ...</summary> 
-    JVM虚拟机栈是Java虚拟机中用于管理Java方法执行的内存模型的一部分。每个线程在JVM中运行时都会拥有自己的虚拟机栈，这个栈会随着方法调用和返回而动态变化。栈中的每一帧称为栈帧（Stack Fr 
+    本文介绍了如何使用Node.js创建一个简单的服务器，响应不同类型的请求，并服务静态文件等相关知识。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
