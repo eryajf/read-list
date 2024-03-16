@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/87219) | Fri Mar 15 2024 9:27 AM 
+- 👹 [纯电长途、节假日出行，蔚来换电可还行](https://sspai.com/post/86882) | Sat Mar 16 2024 2:56 AM 
+    <details><summary>展开描述 ...</summary> 
+    Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/86882&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/87219) | Fri Mar 15 2024 9:27 AM 
     <details><summary>展开描述 ...</summary> 
     ☕️TL;DR近期佳作推荐：[英剧]绅士们、[美剧]动物管制官第二季、[电影]忧郁小女孩、[电影]法式火锅、[电影]世界的阿菊、[真人秀]犯罪现场4：归来、[真人秀]边走边唱的女子几则精彩预告：马东锡 ...&lt;a href=&quot;https://sspai.com/post/87219&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [年度征文 | 从戒除安眠药开始，我选择不再将自己外包](https://sspai.com/post/86911) | Fri Mar 15 2024 8:57 AM 
+- 🤭 [年度征文 | 从戒除安眠药开始，我选择不再将自己外包](https://sspai.com/post/86911) | Fri Mar 15 2024 8:57 AM 
     <details><summary>展开描述 ...</summary> 
     如果你也正在迷茫，请珍惜现在这种感觉。当你为此觉得焦虑的时候，你可以说自己正在长出或剥离「蹼」，当它过去后，你就是一个更加清晰、稳定的人了。&lt;a href=&quot;https://sspai.com/post/86911&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [一次常规更新：M3 版 MacBook Air 快速上手](https://sspai.com/post/87202) | Fri Mar 15 2024 6:56 AM 
+- 🥸 [一次常规更新：M3 版 MacBook Air 快速上手](https://sspai.com/post/87202) | Fri Mar 15 2024 6:56 AM 
     <details><summary>展开描述 ...</summary> 
     快速看看 M3 版本的 MacBook Air 有哪些新的变化。&lt;a href=&quot;https://sspai.com/post/87202&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [年度征文 | 两个身份的拉扯与平衡：一边上班，一边当艺术家](https://sspai.com/post/86989) | Fri Mar 15 2024 3:31 AM 
+- 🙉 [年度征文 | 两个身份的拉扯与平衡：一边上班，一边当艺术家](https://sspai.com/post/86989) | Fri Mar 15 2024 3:31 AM 
     <details><summary>展开描述 ...</summary> 
     上一年的征文是「松弛与踌躇」，这一篇是「拉扯与平衡」，希望下一年是「自洽与坚定」，如果还有下一年的话。&lt;a href=&quot;https://sspai.com/post/86989&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [派早报：Google 将在 5 月 14 日召开 I/O 大会](https://sspai.com/post/87209) | Fri Mar 15 2024 12:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    微软 Edge 浏览器 Android 版测试插件功能，支付宝公布租赁行业治理成果等&lt;a href=&quot;https://sspai.com/post/87209&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
