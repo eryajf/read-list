@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [矮人生成器（角色生成器） - 用AI生成wow、lotr、d&amp;amp;d风格的矮人，配上ta的英雄事迹，给你一个温暖的体验](https://xinquji.com/posts/809764?utm_campaign=xinquji-rss) | Fri Mar 15 2024 6:12 AM 
+- 👀 [Stacktape - 97% 的 AWS 功能，3% 的复杂性](https://xinquji.com/posts/809905?utm_campaign=xinquji-rss) | Sat Mar 16 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     用AI生成wow、lotr、d&amp;amp;d风格的矮人，配上ta的英雄事迹，给你一个温暖的体验  
+     97% 的 AWS 功能，3% 的复杂性  
     </details> 
 
-- 🥷 [车机投屏宝 - 一款支持汽车车机投屏显示和反向控制手机屏幕的软件](https://xinquji.com/posts/809763?utm_campaign=xinquji-rss) | Fri Mar 15 2024 6:12 AM 
+- 🥷 [Bidify - 利用 AI 彻底改变中小型企业的 RFP](https://xinquji.com/posts/809904?utm_campaign=xinquji-rss) | Sat Mar 16 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     一款支持汽车车机投屏显示和反向控制手机屏幕的软件  
+     利用 AI 彻底改变中小型企业的 RFP  
     </details> 
 
-- 💼 [Viralify AI - 30 秒内无限量个性化 LinkedIn 内容](https://xinquji.com/posts/809875?utm_campaign=xinquji-rss) | Fri Mar 15 2024 6:00 AM 
+- 💼 [Lifescape AI - 生活精简；工作组织 - 由人工智能驱动](https://xinquji.com/posts/809903?utm_campaign=xinquji-rss) | Sat Mar 16 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     30 秒内无限量个性化 LinkedIn 内容  
+     生活精简；工作组织 - 由人工智能驱动  
     </details> 
 
-- 🦅 [Warpy: Terminal Generative Shell - 比 ChatGPT 更好的 AI 终端](https://xinquji.com/posts/809874?utm_campaign=xinquji-rss) | Fri Mar 15 2024 6:00 AM 
+- 🦅 [Last Bottle - 发现回收背后隐藏的真相](https://xinquji.com/posts/809902?utm_campaign=xinquji-rss) | Sat Mar 16 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     比 ChatGPT 更好的 AI 终端  
+     发现回收背后隐藏的真相  
     </details> 
 
-- 😺 [Opencord AI 2.0 - 您的 24/7 按需社交媒体经理](https://xinquji.com/posts/809873?utm_campaign=xinquji-rss) | Fri Mar 15 2024 6:00 AM 
+- 😺 [KRUSH - 正宗的亚洲交友社区](https://xinquji.com/posts/809901?utm_campaign=xinquji-rss) | Sat Mar 16 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     您的 24/7 按需社交媒体经理  
+     正宗的亚洲交友社区  
     </details> 
 <!-- xinquji:END -->
