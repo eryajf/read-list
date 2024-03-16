@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [读《刻意练习》小记（下）](https://juejin.cn/post/7346477983282823205) | Fri Mar 15 2024 5:19 PM 
+- 🤗 [SG90舵机&lpar;Arduino&rpar;/XY轴摇杆使用&lpar;Arduino&rpar;](https://juejin.cn/post/7346512120639406143) | Sat Mar 16 2024 2:12 AM 
     <details><summary>展开描述 ...</summary> 
-    如何让练习变成日常的一部分 “边干边学”方法的一个好处是，它使人们熟悉练习的习惯，并思考如何练习。 不要陷入的三种误区 第一种错误思想是我们的老朋友，即认为某人的能力通常受到基因特征的限制。这种思想常 
+    XY轴摇杆使用 需要注意，必须是 ADC 引脚才可以接收模拟信号输入 SG90舵机, 只是使用代码，需要用到的直接复制用即可 
     </details> 
 
-- 🎡 [🚀🚀🚀Elasticsearch 主副分片切换过程中对业务写入有影响吗](https://juejin.cn/post/7346505279876481039) | Fri Mar 15 2024 4:32 PM 
+- 🎡 [面试题：如何让 var [a, b] = {a: 1, b: 2} 这个等式成立？](https://juejin.cn/post/7346512120639340607) | Sat Mar 16 2024 2:03 AM 
     <details><summary>展开描述 ...</summary> 
-    蓝胖子会先讲解下ES集群写入文档的原理，并对异常情况进行分析，最后来模拟集群写入过程中节点宕机的情况来对这个问题展开讨论。 主副分片的写入流程 之前我在Elasticsearch 如何保证写入过程中不 
+    这是一道字节面试题，大家第一眼看到这个面试题的时候，是不是脑瓜子嗡嗡的？有一种熟悉又陌生的感觉？我当时也一样的😭😭😭，接下来，让我们看看思路吧。 
     </details> 
 
-- 🕯 [Tensorflow2学习之MNIST数据训练和测试](https://juejin.cn/post/7346483502172831754) | Fri Mar 15 2024 4:26 PM 
+- 🕯 [Dubbo：分布式服务框架的技术探索](https://juejin.cn/post/7346763303429488649) | Sat Mar 16 2024 2:00 AM 
     <details><summary>展开描述 ...</summary> 
-    打算后面学习下Tensorflow2，入门MNIST数据训练和测试遇到的问题和入门的一些总结，总结的内容是API因为数学我不会了。 
+    Dubbo是一款高性能、轻量级的开源RPC框架，由阿里巴巴开发并开源。它提供了服务治理、负载均衡、容错、可扩展等功能，适用于大规模分布式服务的开发和管理。 
     </details> 
 
-- 🚀 [技术资讯：Volar正式更名为Vue-Official](https://juejin.cn/post/7346481513541484579) | Fri Mar 15 2024 2:42 PM 
+- 🚀 [主流轻量云服务器运营商门槛对比](https://juejin.cn/post/7346477983283560485) | Sat Mar 16 2024 1:59 AM 
     <details><summary>展开描述 ...</summary> 
-    Vue3旧语言工具 Volar 退了，一个更加强大的Volar升级版，Vue-Official 来了！Volar 正式升级更名为 Vue-Official ！ 
+    以无需备案的香港或东南亚节点来对比 1-阿里云 月付24元 ；不过香港的还限量 不好买 2- 腾讯云 ，香港的服务好几百一个月 ，就拿首尔节点看吧 ~ 30元每月，没有折扣 3- 百度智能云 性价比比 
     </details> 
 
-- 💪 [功能问题：如何用Docker部署一个后端项目？](https://juejin.cn/post/7346388511339511860) | Fri Mar 15 2024 2:37 PM 
+- 💪 [新手小白，从零开始，搭建阿里云服务器并部署Node接口](https://juejin.cn/post/7346478166604496896) | Sat Mar 16 2024 1:49 AM 
     <details><summary>展开描述 ...</summary> 
-    今天给大家分享了，如何用Docker部署一个SpringBoot后端项目，分了算是5步说明吧。本文比较偏向于前端同行或后端小白朋友，当然对于后端大佬们来说，比较轻松了。 
+    亲身亲历，手把手领取服务器部署Node接口。选择阿里云的服务器，一般选择Esc云服务器，选择CentOS（也就是Linux系统）.... 
     </details> 
 <!-- juejin:END -->
 ### 少数派
