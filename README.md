@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [纯前端实现 PNG 图片压缩 | UPNG.js](https://juejin.cn/post/7346510823772733494) | Sat Mar 16 2024 1:02 PM 
+- 🤗 [爬虫实战：从HTTP请求获取数据解析社区](https://juejin.cn/post/7346804737079361546) | Sat Mar 16 2024 3:08 PM 
     <details><summary>展开描述 ...</summary> 
-    最近在迭代应用的时候用到了 UPNG.js 压缩 PNG 图片，这里记录分享一下使用经验，并附上完整 Demo。 
+    在过去的实践中，我们通常通过爬取HTML网页来解析并提取所需数据，然而这只是一种方法。另一种更为直接的方式是通过发送HTTP请求来获取数据。考虑到大多数常见服务商的数据都是通过HTTP接口封装的，因此 
     </details> 
 
-- 🎡 [电源常用电路：采样电路](https://juejin.cn/post/7346897828688248859) | Sat Mar 16 2024 12:57 PM 
+- 🎡 [Node 2023 年度报告](https://juejin.cn/post/7346524071184793619) | Sat Mar 16 2024 2:27 PM 
     <details><summary>展开描述 ...</summary> 
-    一、ADC采样原理 ADC（模数转换器）采样是将模拟信号按照一定的采样频率进行离散化，然后转换为数字信号的过程，通常包括采样、保持、量化和编码四个步骤。 ▍采样 采样主要实现模拟信号的离散化处理，即将 
+    Node 核心团队共享了 2023 Node 发展的实用更新、团队如何确保 Node 的良好测试和可靠性、Node vendor 的依赖变化，以及 Node 安全性。 
     </details> 
 
-- 🕯 [写个极简表单校验模型createCheckModel](https://juejin.cn/post/7346510823772667958) | Sat Mar 16 2024 12:42 PM 
+- 🕯 [多云编排系统之Crossplane 初探](https://juejin.cn/post/7346764005225545766) | Sat Mar 16 2024 2:23 PM 
     <details><summary>展开描述 ...</summary> 
-    一个Form表单极简的字段校验模型，框架无关，Typescript支持，实际引用大小不到2kb: createCheckModel 
+    一 Crossplane 简介 Crossplane是一个开源的Kubernetes扩展，它提供了将Kubernetes集群转换为通用控制平面的能力。使用Crossplane，您可以通过标准的Kube 
     </details> 
 
-- 🚀 [MyBatis：Java持久层框架的全面指南](https://juejin.cn/post/7346763303459061811) | Sat Mar 16 2024 12:35 PM 
+- 🚀 [实战AWS CodeDeploy实现自动化应用程序部署到EC2实例组](https://juejin.cn/post/7346804737079148554) | Sat Mar 16 2024 2:21 PM 
     <details><summary>展开描述 ...</summary> 
-    MyBatis是一个基于Java的持久层框架，它提供了一种优雅地管理SQL查询、映射和数据库交互的方式。MyBatis的核心思想是将SQL语句与Java方法解耦，通过配置文件进行映射，从而实现。。。 
+    一 概览 通过实验室模板配置的两个 Amazon Elastic Compute Cloud &lpar;Amazon EC2&rpar; 部署示例服务应用程序。使用 AWS CodeDeploy 将软件推送到 Amaz 
     </details> 
 
-- 💪 [Node.js入门：打造你的第一个HTTP服务器与解决中文乱码](https://juejin.cn/post/7346897828688166939) | Sat Mar 16 2024 12:19 PM 
+- 💪 [实战AWS CodePipeline 实现代码部署自动化](https://juejin.cn/post/7346897828688494619) | Sat Mar 16 2024 2:19 PM 
     <details><summary>展开描述 ...</summary> 
-    本文介绍了如何使用Node.js创建一个简单的服务器，响应不同类型的请求，并服务静态文件等相关知识。 
+    概述 在实战中，我们可以结合使用AWS CodePipeline和AWS CodeDeploy，实现代码部署的自动化。特别是针对运行Windows Server操作系统的Amazon EC2实例队列， 
     </details> 
 <!-- juejin:END -->
 ### 少数派
