@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [CSS继承-层叠-类型](https://juejin.cn/post/7346530887472889865) | Sat Mar 16 2024 5:02 AM 
+- 🤗 [Unity: WebGL项目添加自定义启动页面](https://juejin.cn/post/7346524071183679507) | Sat Mar 16 2024 5:51 AM 
+    <details><summary>展开描述 ...</summary> 
+    作为游戏制作者，将个人游戏风格和创意融入游戏的每一个方面是非常重要的，特别是启动页面，它不仅是玩家的第一印象，也是展示游戏特色和故事的绝佳机会。通过定制启动页面，您可以： 展示游戏世界观：利用启动页面 
+    </details> 
+
+- 🎡 [哈士奇的一周面经：腾讯某部门前端开发](https://juejin.cn/post/7346524071183630355) | Sat Mar 16 2024 5:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    先写总结，这次面试寄了，而且哈士奇没有坚持过二十分钟。。。 说说自己整个面试的过程，首先哈士奇海投简历，本以为大厂会直接筛掉哈士奇的简历，没想到直接就给过了，还很快给哈士奇发邮件通知。 
+    </details> 
+
+- 🕯 [TTS 擂台: 文本转语音模型的自由搏击场](https://juejin.cn/entry/7346518547852279859) | Sat Mar 16 2024 5:15 AM 
+    <details><summary>展开描述 ...</summary> 
+    对文本转语音 &lpar;text-to-speech, TTS&rpar; 模型的质量进行自动度量非常困难。虽然评估声音的自然度和语调变化对人类来说是一项微不足道的任务，但对人工智能来说要困难得多。为了推进这一领域的发 
+    </details> 
+
+- 🚀 [CSS继承-层叠-类型](https://juejin.cn/post/7346530887472889865) | Sat Mar 16 2024 5:02 AM 
     <details><summary>展开描述 ...</summary> 
     一.CSS属性的继承 🤢CSS的某些属性是具有继承性的： 如果一个属性具备继承性，那么在该元素上设置后，他的后代元素都可以继承这个属性； 当然，如果后代元素自己有设置该属性，那么优先使用后代元素自己的 
     </details> 
 
-- 🎡 [RN封装的model弹出层组件](https://juejin.cn/post/7346517673376940059) | Sat Mar 16 2024 4:05 AM 
+- 💪 [jvm 虚拟机栈](https://juejin.cn/post/7346512120639848511) | Sat Mar 16 2024 4:28 AM 
     <details><summary>展开描述 ...</summary> 
-    需要用到react-native-ui-kitten这个组件库,自行点击链接参考去安装 安装完直接用就完事了 使用方法 
-    </details> 
-
-- 🕯 [🌐  Spring的注解](https://juejin.cn/post/7346505279877431311) | Sat Mar 16 2024 3:51 AM 
-    <details><summary>展开描述 ...</summary> 
-    1. 注解仅仅是标记 Spring框架的注解用途广泛，极大地简化了Java企业级应用的开发。注解通过提供元数据来替代传统的XML配置方式，让开发者能够通过简单的声明方式控制各种Spring框架的特性， 
-    </details> 
-
-- 🚀 [🗑️ 一键清空 GitHub 仓库](https://juejin.cn/post/7346505279877316623) | Sat Mar 16 2024 3:16 AM 
-    <details><summary>展开描述 ...</summary> 
-    一键清空GitHub仓库：从安装`gh` CLI，登录账户，请求必要权限，到执行删除操作，一步到位的完整指南。 
-    </details> 
-
-- 💪 [Mac电脑安装nvm&lpar;node包版本管理工具&rpar;](https://juejin.cn/post/7346512120639569983) | Sat Mar 16 2024 3:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    Mac电脑安装nvm&lpar;node包版本管理工具&rpar;，自己安装了一遍，安装的过程中也遇到了不少麻烦，因此写文章记录一下，也给大家分享一下～ 
+    JVM虚拟机栈是Java虚拟机中用于管理Java方法执行的内存模型的一部分。每个线程在JVM中运行时都会拥有自己的虚拟机栈，这个栈会随着方法调用和返回而动态变化。栈中的每一帧称为栈帧（Stack Fr 
     </details> 
 <!-- juejin:END -->
 ### 少数派
