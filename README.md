@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [RN封装的model弹出层组件](https://juejin.cn/post/7346517673376940059) | Sat Mar 16 2024 4:05 AM 
+- 🤗 [CSS继承-层叠-类型](https://juejin.cn/post/7346530887472889865) | Sat Mar 16 2024 5:02 AM 
+    <details><summary>展开描述 ...</summary> 
+    一.CSS属性的继承 🤢CSS的某些属性是具有继承性的： 如果一个属性具备继承性，那么在该元素上设置后，他的后代元素都可以继承这个属性； 当然，如果后代元素自己有设置该属性，那么优先使用后代元素自己的 
+    </details> 
+
+- 🎡 [RN封装的model弹出层组件](https://juejin.cn/post/7346517673376940059) | Sat Mar 16 2024 4:05 AM 
     <details><summary>展开描述 ...</summary> 
     需要用到react-native-ui-kitten这个组件库,自行点击链接参考去安装 安装完直接用就完事了 使用方法 
     </details> 
 
-- 🎡 [🌐  Spring的注解](https://juejin.cn/post/7346505279877431311) | Sat Mar 16 2024 3:51 AM 
+- 🕯 [🌐  Spring的注解](https://juejin.cn/post/7346505279877431311) | Sat Mar 16 2024 3:51 AM 
     <details><summary>展开描述 ...</summary> 
     1. 注解仅仅是标记 Spring框架的注解用途广泛，极大地简化了Java企业级应用的开发。注解通过提供元数据来替代传统的XML配置方式，让开发者能够通过简单的声明方式控制各种Spring框架的特性， 
     </details> 
 
-- 🕯 [🗑️ 一键清空 GitHub 仓库](https://juejin.cn/post/7346505279877316623) | Sat Mar 16 2024 3:16 AM 
+- 🚀 [🗑️ 一键清空 GitHub 仓库](https://juejin.cn/post/7346505279877316623) | Sat Mar 16 2024 3:16 AM 
     <details><summary>展开描述 ...</summary> 
     一键清空GitHub仓库：从安装`gh` CLI，登录账户，请求必要权限，到执行删除操作，一步到位的完整指南。 
     </details> 
 
-- 🚀 [Mac电脑安装nvm&lpar;node包版本管理工具&rpar;](https://juejin.cn/post/7346512120639569983) | Sat Mar 16 2024 3:02 AM 
+- 💪 [Mac电脑安装nvm&lpar;node包版本管理工具&rpar;](https://juejin.cn/post/7346512120639569983) | Sat Mar 16 2024 3:02 AM 
     <details><summary>展开描述 ...</summary> 
     Mac电脑安装nvm&lpar;node包版本管理工具&rpar;，自己安装了一遍，安装的过程中也遇到了不少麻烦，因此写文章记录一下，也给大家分享一下～ 
-    </details> 
-
-- 💪 [vibur-dbcp 并发、快速且功能完备的 JDBC 连接池，提供先进的性能监控功能](https://juejin.cn/post/7346501899661951039) | Sat Mar 16 2024 2:52 AM 
-    <details><summary>展开描述 ...</summary> 
-    # 拓展阅读 [从零开始手写 mybatis （三）jdbc pool 如何从零手写实现数据库连接池 dbcp？]&lpar;https://houbb.github.io/2020/06/21/hand- 
     </details> 
 <!-- juejin:END -->
 ### 少数派
