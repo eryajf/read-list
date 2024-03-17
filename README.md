@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Node.js大师课：零基础到构建高性能Web服务器](https://juejin.cn/post/7346844770210381834) | Sun Mar 17 2024 12:44 AM 
+- 🤗 [自己动手写 React 源码——【3】实现 Reconciler](https://juejin.cn/post/7346837205773795362) | Sun Mar 17 2024 1:38 AM 
     <details><summary>展开描述 ...</summary> 
-    通过本文的学习，你应该对如何使用Node.js创建和管理HTTP服务器有了基本的了解。我们介绍了HTTP请求的基本概念，包括常见的请求方法和它们的用途等相关知识。 
+    深入理解 React 源码，带你从零实现 React v18 的核心功能，构建自己的 React 库。 
     </details> 
 
-- 🎡 [Node.js 集成海外社媒消息与登录：技术规划篇](https://juejin.cn/post/7347009547736776758) | Sat Mar 16 2024 6:10 PM 
+- 🎡 [Github Actions + Github Pages 自动发布 Vue3 + Vite 项目](https://juejin.cn/post/7346524071185006611) | Sat Mar 16 2024 3:47 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 当下国内企业出海是一个大趋势，这样既可以规避国内的内卷环境，还可以在海外追求更大的市场。刚好作者去年转到海外业务部，在去年技术上做过比较有意思的事情，就是摸索了海外主要的社交媒体，以及相关的消息 
+    项目准备 先在github上准备一个前端项目，我使用vue3搭建了一个前端项目，技术栈为：vue3、vite、element-plus、pinia、vue-router、headlessui、tail 
     </details> 
 
-- 🕯 [万字长文深入浅出数据库连接池 HikariCP/Commons DBCP/Tomcat/c3p0/druid 对比](https://juejin.cn/post/7346570458488569910) | Sat Mar 16 2024 5:23 PM 
+- 🕯 [vue3 + vite + element-plus + tailwindcss + typescript 实战项目](https://juejin.cn/post/7346720393425715219) | Sat Mar 16 2024 3:42 PM 
     <details><summary>展开描述 ...</summary> 
-    # 拓展阅读 [万字长文深入浅出数据库连接池 HikariCP/Commons DBCP/Tomcat/c3p0/druid 对比]&lpar;https://mp.weixin.qq.com/s/YMgj 
+    完整技术栈：vue3 + vite + element-plus + tailwindcss + typescript + headlessui + heroicons + pinia + vue-r 
     </details> 
 
-- 🚀 [零额外开销最快的数据库连接池？HikariCP 入门介绍](https://juejin.cn/post/7346510823772979254) | Sat Mar 16 2024 5:20 PM 
+- 🚀 [架构模式初印象，含通用模板](https://juejin.cn/post/7346763303459717171) | Sat Mar 16 2024 3:39 PM 
     <details><summary>展开描述 ...</summary> 
-    # 拓展阅读 [从零开始手写 mybatis （三）jdbc pool 如何从零手写实现数据库连接池 dbcp？]&lpar;https://houbb.github.io/2020/06/21/hand- 
+    在软件开发的世界里，架构模式就像是建筑设计中的蓝图，为我们构建复杂系统提供了一种组织和指导。不同的架构模式，就像不同的建筑风格，每一种都有其独特的特点和适用场景。今天，让我们一起走进架构模式的奇妙世界 
     </details> 
 
-- 💪 [React组件封装实践：构建一个健壮的用户头像组件](https://juejin.cn/post/7346764005225807910) | Sat Mar 16 2024 3:48 PM 
+- 💪 [Go net/http客户端和服务端抓包分析](https://juejin.cn/post/7346524071184941075) | Sat Mar 16 2024 3:18 PM 
     <details><summary>展开描述 ...</summary> 
-    本文从实际工作需求出发，针对H5页面image渲染出现的各种样式问题，加载问题，封装了一个相对健壮的组件，希望本文对您有所帮助和启发。 
+    net/http包为Golang官方的http包，可以用于实现http客户端和服务端；虽然实际项目过程中用resty更加的方便，但是通过对net/http的使用和抓包分析，可以更好的理解HTTP原理。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
