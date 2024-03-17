@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [《算法图解》读书笔记](https://juejin.cn/post/7346977510515441675) | Sun Mar 17 2024 1:50 PM 
+- 🤗 [我最近的生活，一地鸡毛。。。](https://juejin.cn/post/7347161048573083663) | Sun Mar 17 2024 3:08 PM 
+    <details><summary>展开描述 ...</summary> 
+    本来我这是个技术的号，不想发很多技术无关的内容，但是吧，最近遇到的一些事情确实不吐不快。 大家就当个故事看一下吧。 我 18 年的时候买的青岛即墨的房子，买在了最高峰，花了 70 万首付 + 100  
+    </details> 
+
+- 🎡 [【踩坑实录】vue异步组件加载失败会怎样？](https://juejin.cn/post/7347210988259590154) | Sun Mar 17 2024 2:51 PM 
+    <details><summary>展开描述 ...</summary> 
+    写在最前 看官们好，我是JetTsang，之前都是在掘金潜水来着，现在偶尔做一些内容输出吧。 问题引出 项目技术栈： vue2.6 由于业务场景需要，会在同一个路由组件当中,有一部分页面的组件需要根据 
+    </details> 
+
+- 🕯 [照着postcss-minify-font-values学插件开发](https://juejin.cn/post/7347165355587174437) | Sun Mar 17 2024 2:33 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文以postcss-minify-font-values插件为例，讲述如何开发一个自己的postcss插件。 
+    </details> 
+
+- 🚀 [（翻）写出你的第一个PostCSS插件](https://juejin.cn/post/7347221042437799974) | Sun Mar 17 2024 2:28 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文翻译James Steinbach的Writing Your First PostCSS Plugin，这篇博文可以说是很多写postcss插件的开发人员的入门读物了。 
+    </details> 
+
+- 💪 [《算法图解》读书笔记](https://juejin.cn/post/7346977510515441675) | Sun Mar 17 2024 1:50 PM 
     <details><summary>展开描述 ...</summary> 
     《算法图解》用简单易懂的语言和图解的方式介绍了一系列常见的算法和数据结构，是一本适合初学者入门的算法入门书籍，但对于想要深入学习算法的读者来说，可能需要配合其他更深入的参考资料。 
-    </details> 
-
-- 🎡 [走进volatile的世界，探索它与可见性，有序性，原子性之间的爱恨情仇！](https://juejin.cn/post/7346580626319704076) | Sun Mar 17 2024 1:49 PM 
-    <details><summary>展开描述 ...</summary> 
-    写在开头 在之前的几篇博文中，我们都提到了 volatile 关键字，这个单词中文释义为：不稳定的，易挥发的，在Java中代表变量修饰符，用来修饰会被不同线程访问和修改的变量，对于方法，代码块，方法参 
-    </details> 
-
-- 🕯 [移相全桥DC-DC变换器快速设计与开发](https://juejin.cn/post/7346938279980040243) | Sun Mar 17 2024 1:49 PM 
-    <details><summary>展开描述 ...</summary> 
-    一、移相全桥变换器设计与开发 1、外围电路设计与硬件平台搭建 1）外围电路设计 这里给出了PPEC-86CA3A移相全桥数字电源控制芯片的采样、PWM驱动以及硬件保护等外围电路设计图，大家可参考下图进 
-    </details> 
-
-- 🚀 [vue3  key对diff的影响](https://juejin.cn/post/7346580626319654924) | Sun Mar 17 2024 1:37 PM 
-    <details><summary>展开描述 ...</summary> 
-    这是vue3系列源码的第十一章，使用的vue3版本是3.4.15。key在diff过程到底扮演什么样的角色 
-    </details> 
-
-- 💪 [写了个简单爬虫，分析 Boss 直聘自动驾驶岗位](https://juejin.cn/post/7346888998487818294) | Sun Mar 17 2024 1:30 PM 
-    <details><summary>展开描述 ...</summary> 
-    两年前，朋友想知道 Boss 直聘上关于自动驾驶的岗位有哪些 ，于是，笔者写了一个简单的爬虫 crawler-boss ，将岗位的信息收集起来。 这篇文章，笔者想分享爬虫 crawler-boss 的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
