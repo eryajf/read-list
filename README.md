@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Flutter基建 - ChangeNotifier详解](https://juejin.cn/post/7347210988259344394) | Sun Mar 17 2024 12:52 PM 
+- 🤗 [《算法图解》读书笔记](https://juejin.cn/post/7346977510515441675) | Sun Mar 17 2024 1:50 PM 
     <details><summary>展开描述 ...</summary> 
-    本篇文章主要围绕着ChangeNotifier来介绍，ChangeNotifier我们先从字面意思来理解下，大概就是当某个状态发生改变时可以及时的通知到需要监听此状态的对象...... 
+    《算法图解》用简单易懂的语言和图解的方式介绍了一系列常见的算法和数据结构，是一本适合初学者入门的算法入门书籍，但对于想要深入学习算法的读者来说，可能需要配合其他更深入的参考资料。 
     </details> 
 
-- 🎡 [大厂面经 - 聊聊经常被面试官问到的apply和call](https://juejin.cn/post/7346959888008708130) | Sun Mar 17 2024 12:51 PM 
+- 🎡 [走进volatile的世界，探索它与可见性，有序性，原子性之间的爱恨情仇！](https://juejin.cn/post/7346580626319704076) | Sun Mar 17 2024 1:49 PM 
     <details><summary>展开描述 ...</summary> 
-    近在家刷抖音刷时间长了，想着大环境不太好。翻出了之前总结的面试经验和一些高频知识点，之后我还会陆续把一些比较重要的前端知识更新出来。 
+    写在开头 在之前的几篇博文中，我们都提到了 volatile 关键字，这个单词中文释义为：不稳定的，易挥发的，在Java中代表变量修饰符，用来修饰会被不同线程访问和修改的变量，对于方法，代码块，方法参 
     </details> 
 
-- 🕯 [在 Node.js 中搞发布订阅：利用events进行事件处理](https://juejin.cn/post/7346808829298360354) | Sun Mar 17 2024 12:32 PM 
+- 🕯 [移相全桥DC-DC变换器快速设计与开发](https://juejin.cn/post/7346938279980040243) | Sun Mar 17 2024 1:49 PM 
     <details><summary>展开描述 ...</summary> 
-    在当今的软件开发领域，构建交互式和响应式应用程序已成为一项基本需求。Node.js 提供了强大的工具和框架，使得开发这类应用成为可能。本文将深入探讨 Node.js 中的事件处理机制... 
+    一、移相全桥变换器设计与开发 1、外围电路设计与硬件平台搭建 1）外围电路设计 这里给出了PPEC-86CA3A移相全桥数字电源控制芯片的采样、PWM驱动以及硬件保护等外围电路设计图，大家可参考下图进 
     </details> 
 
-- 🚀 [Node 可能解绑默认的 npm](https://juejin.cn/post/7346977510515097611) | Sun Mar 17 2024 12:24 PM 
+- 🚀 [vue3  key对diff的影响](https://juejin.cn/post/7346580626319654924) | Sun Mar 17 2024 1:37 PM 
     <details><summary>展开描述 ...</summary> 
-    Node 社区正在认真考虑默认启动 Corepack 的决定，这引发了关于从 Node 二进制文件中删除 npm 的可能性的争论。 
+    这是vue3系列源码的第十一章，使用的vue3版本是3.4.15。key在diff过程到底扮演什么样的角色 
     </details> 
 
-- 💪 [ART虚拟机内存分配原理浅析](https://juejin.cn/post/7346959888008511522) | Sun Mar 17 2024 12:24 PM 
+- 💪 [写了个简单爬虫，分析 Boss 直聘自动驾驶岗位](https://juejin.cn/post/7346888998487818294) | Sun Mar 17 2024 1:30 PM 
     <details><summary>展开描述 ...</summary> 
-    这两种看了下art虚拟机的内存分配原理，在这里简要的分享一下。 在art虚拟机里，维护了很多个空间分配内存，这些内存空间在art的源码里面被抽象成一个个Space对象。类之间的关系我从网上找了一下张图 
+    两年前，朋友想知道 Boss 直聘上关于自动驾驶的岗位有哪些 ，于是，笔者写了一个简单的爬虫 crawler-boss ，将岗位的信息收集起来。 这篇文章，笔者想分享爬虫 crawler-boss 的 
     </details> 
 <!-- juejin:END -->
 ### 少数派
