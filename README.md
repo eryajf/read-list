@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [基于Rust的Tile-Based游戏开发杂记（02）ggez绘图实操](https://juejin.cn/post/7346919387352940578) | Sun Mar 17 2024 12:16 PM 
+- 🤗 [Flutter基建 - ChangeNotifier详解](https://juejin.cn/post/7347210988259344394) | Sun Mar 17 2024 12:52 PM 
     <details><summary>展开描述 ...</summary> 
-    笔者第一次使用ggez的时候还是有很多疑惑不解。经过仔细阅读demo代码并结合自己的实践，逐步了解了ggez在不同场景下的绘图方式，在此篇文章进行一定的总结，希望能够帮助到使用ggez的读者。 
+    本篇文章主要围绕着ChangeNotifier来介绍，ChangeNotifier我们先从字面意思来理解下，大概就是当某个状态发生改变时可以及时的通知到需要监听此状态的对象...... 
     </details> 
 
-- 🎡 [免费开源、支持自建服务的团队协作、个人学习文档管理系统](https://juejin.cn/post/7346919387352875042) | Sun Mar 17 2024 12:09 PM 
+- 🎡 [大厂面经 - 聊聊经常被面试官问到的apply和call](https://juejin.cn/post/7346959888008708130) | Sun Mar 17 2024 12:51 PM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是小麦。今天来给大家分享的是几款个人使用过的免费、开源、适合团队协作的文档管理工具，并且是完全支持自己搭建服务的文档管理系统。 相信大家在学习、办公等场景下对文档管理工具使用的场景是比较多的 
+    近在家刷抖音刷时间长了，想着大环境不太好。翻出了之前总结的面试经验和一些高频知识点，之后我还会陆续把一些比较重要的前端知识更新出来。 
     </details> 
 
-- 🕯 [使用 stable-diffusion 入门级教程【Mac】](https://juejin.cn/post/7347221041569300531) | Sun Mar 17 2024 11:43 AM 
+- 🕯 [在 Node.js 中搞发布订阅：利用events进行事件处理](https://juejin.cn/post/7346808829298360354) | Sun Mar 17 2024 12:32 PM 
     <details><summary>展开描述 ...</summary> 
-    最近一直在短视频平台刷到AI生成的图片，质量也非常不错。术哥也跟我讲解了下如何安装使用。于是周末试了试。 也差点变成从入门到放弃了，所以也把过程中遇到的问题记录一下。 这个下面是我生成的结果，可以先欣 
+    在当今的软件开发领域，构建交互式和响应式应用程序已成为一项基本需求。Node.js 提供了强大的工具和框架，使得开发这类应用成为可能。本文将深入探讨 Node.js 中的事件处理机制... 
     </details> 
 
-- 🚀 [进入 Web Components - 介绍](https://juejin.cn/post/7346527007282085903) | Sun Mar 17 2024 11:24 AM 
+- 🚀 [Node 可能解绑默认的 npm](https://juejin.cn/post/7346977510515097611) | Sun Mar 17 2024 12:24 PM 
     <details><summary>展开描述 ...</summary> 
-    原文链接：https://utilitybend.com/blog/getting-into-web-components-an-intro/ 有关 web components 的两个帖子 文章将会 
+    Node 社区正在认真考虑默认启动 Corepack 的决定，这引发了关于从 Node 二进制文件中删除 npm 的可能性的争论。 
     </details> 
 
-- 💪 [ArkUI Engine - JS View 与C++](https://juejin.cn/post/7347221041569218611) | Sun Mar 17 2024 10:59 AM 
+- 💪 [ART虚拟机内存分配原理浅析](https://juejin.cn/post/7346959888008511522) | Sun Mar 17 2024 12:24 PM 
     <details><summary>展开描述 ...</summary> 
-    本篇是ArkUI Engine系列的第二篇，通过学习ViewPU与Component的关系，我们能够知道在ArkUI中写的一系列Component的具体实现 
+    这两种看了下art虚拟机的内存分配原理，在这里简要的分享一下。 在art虚拟机里，维护了很多个空间分配内存，这些内存空间在art的源码里面被抽象成一个个Space对象。类之间的关系我从网上找了一下张图 
     </details> 
 <!-- juejin:END -->
 ### 少数派
