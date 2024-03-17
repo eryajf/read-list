@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [开源项目开发者的歧视依然存在吗？](https://www.v2ex.com/t/1024547#reply4) | Sun Mar 17 2024 5:24 PM
-- 🤗 [纯 Python 的 Web_UI 组件库 H2O wave 就没有人用过吗？](https://www.v2ex.com/t/1024540#reply0) | Sun Mar 17 2024 4:04 PM
-- 🎭 [升级 Windows 11 26058 和 26080 后，代理和加速器无法正常运行](https://www.v2ex.com/t/1024535#reply6) | Sun Mar 17 2024 3:31 PM
-- 🥷 [云原生技能 Get！](https://www.v2ex.com/t/1024530#reply0) | Sun Mar 17 2024 2:50 PM
-- 🐵 [现在想要转到 AI 赛道可以从哪些方面开始入手？](https://www.v2ex.com/t/1024517#reply4) | Sun Mar 17 2024 1:26 PM<!-- v2ex:END -->
+- 🥸 [Linux 下的 5g 模块驱动？](https://www.v2ex.com/t/1024549#reply0) | Sun Mar 17 2024 6:36 PM
+- 🤗 [开源项目开发者的歧视依然存在吗？](https://www.v2ex.com/t/1024547#reply6) | Sun Mar 17 2024 5:24 PM
+- 🎭 [纯 Python 的 Web_UI 组件库 H2O wave 就没有人用过吗？](https://www.v2ex.com/t/1024540#reply0) | Sun Mar 17 2024 4:04 PM
+- 🥷 [升级 Windows 11 26058 和 26080 后，代理和加速器无法正常运行](https://www.v2ex.com/t/1024535#reply7) | Sun Mar 17 2024 3:31 PM
+- 🐵 [云原生技能 Get！](https://www.v2ex.com/t/1024530#reply0) | Sun Mar 17 2024 2:50 PM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
