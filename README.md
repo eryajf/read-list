@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [自己动手写 React 源码——【3】实现 Reconciler](https://juejin.cn/post/7346837205773795362) | Sun Mar 17 2024 1:38 AM 
+- 🤗 [nodemcu32s 和 mini D1 组局域网并用 webSocket 通信](https://juejin.cn/post/7346510823773388854) | Sun Mar 17 2024 4:01 AM 
     <details><summary>展开描述 ...</summary> 
-    深入理解 React 源码，带你从零实现 React v18 的核心功能，构建自己的 React 库。 
+    实现思路 使用 mini D1 来搭建一个 webSocket 服务，然后使用 nodemcu32 连接，然后就可以进行通信了。 服务端代码（mini D1） 在代码中主要是需要控制好 loop 函数 
     </details> 
 
-- 🎡 [Github Actions + Github Pages 自动发布 Vue3 + Vite 项目](https://juejin.cn/post/7346524071185006611) | Sat Mar 16 2024 3:47 PM 
+- 🎡 [一网打尽手写Promise，妈妈再也不用担心我的面试了！](https://juejin.cn/post/7346519210724786210) | Sun Mar 17 2024 3:56 AM 
     <details><summary>展开描述 ...</summary> 
-    项目准备 先在github上准备一个前端项目，我使用vue3搭建了一个前端项目，技术栈为：vue3、vite、element-plus、pinia、vue-router、headlessui、tail 
+    导读 首先，让我们回顾一下Promise的定义，为了偷懒，就直接复制粘贴了： 可以看到，Promise是一个允许异步操作的代理，我更愿意简单点叫它“容器”。 在各大面试题中，手写Promise是一道高 
     </details> 
 
-- 🕯 [vue3 + vite + element-plus + tailwindcss + typescript 实战项目](https://juejin.cn/post/7346720393425715219) | Sat Mar 16 2024 3:42 PM 
+- 🕯 [被“鹅”追打，谁来拯救我的项目？](https://juejin.cn/post/7346784526574633000) | Sun Mar 17 2024 3:36 AM 
     <details><summary>展开描述 ...</summary> 
-    完整技术栈：vue3 + vite + element-plus + tailwindcss + typescript + headlessui + heroicons + pinia + vue-r 
+    上图像极了我面完小鹅通后的悲伤遭遇。这只小鹅没想如此彪悍，上来就对项目一顿撕咬，30几分钟的面试问得我毫无招架之力。最后举小白旗投降，却没想面试官不依不饶，不是嘲讽却胜似嘲讽... 这鹅太狂了， 跟班 
     </details> 
 
-- 🚀 [架构模式初印象，含通用模板](https://juejin.cn/post/7346763303459717171) | Sat Mar 16 2024 3:39 PM 
+- 🚀 [彻底理解线程池](https://juejin.cn/post/7346837205774483490) | Sun Mar 17 2024 3:28 AM 
     <details><summary>展开描述 ...</summary> 
-    在软件开发的世界里，架构模式就像是建筑设计中的蓝图，为我们构建复杂系统提供了一种组织和指导。不同的架构模式，就像不同的建筑风格，每一种都有其独特的特点和适用场景。今天，让我们一起走进架构模式的奇妙世界 
+    线程池 Java线程池中将线程抽象为Worker，并存储在workers变量中进行维护，将需要执行的 
     </details> 
 
-- 💪 [Go net/http客户端和服务端抓包分析](https://juejin.cn/post/7346524071184941075) | Sat Mar 16 2024 3:18 PM 
+- 💪 [周记#2：为作品提交软著申请；SEO起作用了；我要重学前端](https://juejin.cn/post/7347009547737186358) | Sun Mar 17 2024 2:38 AM 
     <details><summary>展开描述 ...</summary> 
-    net/http包为Golang官方的http包，可以用于实现http客户端和服务端；虽然实际项目过程中用resty更加的方便，但是通过对net/http的使用和抓包分析，可以更好的理解HTTP原理。 
+    博客网站SEO已经花了很多时间去搞，目前网站的月流量还是两位数，接下来还是交给时间，以及持续内容的生产。下周重点学习React和Next.js、tailwind CSS。重点是重做一个工具网站。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
