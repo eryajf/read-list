@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [60 个深度学习教程：包含论文、实现和注释 | 开源日报 No.202](https://juejin.cn/post/7346865350624051210) | Sun Mar 17 2024 4:36 AM 
+- 🤗 [基于Rust的Tile-Based游戏开发杂记（02）ggez绘图实操](https://juejin.cn/post/7346919387352940578) | Sun Mar 17 2024 12:16 PM 
     <details><summary>展开描述 ...</summary> 
-    annotated_deep_learning_paper_implementations 是一个包含深度学习论文的 60 个实现/教程，附带并排注释；包括 transformers（原始、xl、sw 
+    笔者第一次使用ggez的时候还是有很多疑惑不解。经过仔细阅读demo代码并结合自己的实践，逐步了解了ggez在不同场景下的绘图方式，在此篇文章进行一定的总结，希望能够帮助到使用ggez的读者。 
     </details> 
 
-- 🎡 [JVM工作原理与实战&lpar;十三&rpar;：打破双亲委派机制-线程上下文类加载器](https://juejin.cn/post/7346884660444053555) | Sun Mar 17 2024 4:30 AM 
+- 🎡 [免费开源、支持自建服务的团队协作、个人学习文档管理系统](https://juejin.cn/post/7346919387352875042) | Sun Mar 17 2024 12:09 PM 
     <details><summary>展开描述 ...</summary> 
-    JVM作为Java程序的运行环境，其负责解释和执行字节码，管理内存，确保安全，支持多线程和提供性能监控工具，以及确保程序的跨平台运行。本文主要介绍了打破双亲委派机制的方法、线程上下文类加载器等内容。 
+    大家好，我是小麦。今天来给大家分享的是几款个人使用过的免费、开源、适合团队协作的文档管理工具，并且是完全支持自己搭建服务的文档管理系统。 相信大家在学习、办公等场景下对文档管理工具使用的场景是比较多的 
     </details> 
 
-- 🕯 [GitHub 一周热点汇总第14期&lpar;2024/03/10-03/16&rpar;](https://juejin.cn/post/7346510823773454390) | Sun Mar 17 2024 4:21 AM 
+- 🕯 [使用 stable-diffusion 入门级教程【Mac】](https://juejin.cn/post/7347221041569300531) | Sun Mar 17 2024 11:43 AM 
     <details><summary>展开描述 ...</summary> 
-    GitHub 一周热点汇总第14期&lpar;2024/03/10-03/16&rpar; ，看完今年的315晚会，曝光的食品里有你常吃的吗？先来一起看看这周的热门项目吧。 
+    最近一直在短视频平台刷到AI生成的图片，质量也非常不错。术哥也跟我讲解了下如何安装使用。于是周末试了试。 也差点变成从入门到放弃了，所以也把过程中遇到的问题记录一下。 这个下面是我生成的结果，可以先欣 
     </details> 
 
-- 🚀 [简单了解一下Linux的文件系统和目录结构](https://juejin.cn/post/7346784526574616616) | Sun Mar 17 2024 3:30 AM 
+- 🚀 [进入 Web Components - 介绍](https://juejin.cn/post/7346527007282085903) | Sun Mar 17 2024 11:24 AM 
     <details><summary>展开描述 ...</summary> 
-    前言 这篇技术文章简单探讨了Linux的文件系统和目录结构，通过详细介绍Linux文件系统的组织方式和各个目录的作用，读者将能够更好地理解Linux系统的运作机制，从而提升对系统管理和优化的能力。无论 
+    原文链接：https://utilitybend.com/blog/getting-into-web-components-an-intro/ 有关 web components 的两个帖子 文章将会 
     </details> 
 
-- 💪 [Spring Bean的生命周期验证](https://juejin.cn/post/7346844770211348490) | Sun Mar 17 2024 3:29 AM 
+- 💪 [ArkUI Engine - JS View 与C++](https://juejin.cn/post/7347221041569218611) | Sun Mar 17 2024 10:59 AM 
     <details><summary>展开描述 ...</summary> 
-    Spring容器的启动过程分为两个大的阶段： BeanDefinition的扫描 执行Bean的生命周期：实例化、属性填充、初始化过程、使用、销毁。另外，可以在初始化阶段用Aware接口和BeanPo 
+    本篇是ArkUI Engine系列的第二篇，通过学习ViewPU与Component的关系，我们能够知道在ArkUI中写的一系列Component的具体实现 
     </details> 
 <!-- juejin:END -->
 ### 少数派
