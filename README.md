@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [nodemcu32s 和 mini D1 组局域网并用 webSocket 通信](https://juejin.cn/post/7346510823773388854) | Sun Mar 17 2024 4:01 AM 
+- 🤗 [60 个深度学习教程：包含论文、实现和注释 | 开源日报 No.202](https://juejin.cn/post/7346865350624051210) | Sun Mar 17 2024 4:36 AM 
     <details><summary>展开描述 ...</summary> 
-    实现思路 使用 mini D1 来搭建一个 webSocket 服务，然后使用 nodemcu32 连接，然后就可以进行通信了。 服务端代码（mini D1） 在代码中主要是需要控制好 loop 函数 
+    annotated_deep_learning_paper_implementations 是一个包含深度学习论文的 60 个实现/教程，附带并排注释；包括 transformers（原始、xl、sw 
     </details> 
 
-- 🎡 [一网打尽手写Promise，妈妈再也不用担心我的面试了！](https://juejin.cn/post/7346519210724786210) | Sun Mar 17 2024 3:56 AM 
+- 🎡 [JVM工作原理与实战&lpar;十三&rpar;：打破双亲委派机制-线程上下文类加载器](https://juejin.cn/post/7346884660444053555) | Sun Mar 17 2024 4:30 AM 
     <details><summary>展开描述 ...</summary> 
-    导读 首先，让我们回顾一下Promise的定义，为了偷懒，就直接复制粘贴了： 可以看到，Promise是一个允许异步操作的代理，我更愿意简单点叫它“容器”。 在各大面试题中，手写Promise是一道高 
+    JVM作为Java程序的运行环境，其负责解释和执行字节码，管理内存，确保安全，支持多线程和提供性能监控工具，以及确保程序的跨平台运行。本文主要介绍了打破双亲委派机制的方法、线程上下文类加载器等内容。 
     </details> 
 
-- 🕯 [被“鹅”追打，谁来拯救我的项目？](https://juejin.cn/post/7346784526574633000) | Sun Mar 17 2024 3:36 AM 
+- 🕯 [GitHub 一周热点汇总第14期&lpar;2024/03/10-03/16&rpar;](https://juejin.cn/post/7346510823773454390) | Sun Mar 17 2024 4:21 AM 
     <details><summary>展开描述 ...</summary> 
-    上图像极了我面完小鹅通后的悲伤遭遇。这只小鹅没想如此彪悍，上来就对项目一顿撕咬，30几分钟的面试问得我毫无招架之力。最后举小白旗投降，却没想面试官不依不饶，不是嘲讽却胜似嘲讽... 这鹅太狂了， 跟班 
+    GitHub 一周热点汇总第14期&lpar;2024/03/10-03/16&rpar; ，看完今年的315晚会，曝光的食品里有你常吃的吗？先来一起看看这周的热门项目吧。 
     </details> 
 
-- 🚀 [彻底理解线程池](https://juejin.cn/post/7346837205774483490) | Sun Mar 17 2024 3:28 AM 
+- 🚀 [简单了解一下Linux的文件系统和目录结构](https://juejin.cn/post/7346784526574616616) | Sun Mar 17 2024 3:30 AM 
     <details><summary>展开描述 ...</summary> 
-    线程池 Java线程池中将线程抽象为Worker，并存储在workers变量中进行维护，将需要执行的 
+    前言 这篇技术文章简单探讨了Linux的文件系统和目录结构，通过详细介绍Linux文件系统的组织方式和各个目录的作用，读者将能够更好地理解Linux系统的运作机制，从而提升对系统管理和优化的能力。无论 
     </details> 
 
-- 💪 [周记#2：为作品提交软著申请；SEO起作用了；我要重学前端](https://juejin.cn/post/7347009547737186358) | Sun Mar 17 2024 2:38 AM 
+- 💪 [Spring Bean的生命周期验证](https://juejin.cn/post/7346844770211348490) | Sun Mar 17 2024 3:29 AM 
     <details><summary>展开描述 ...</summary> 
-    博客网站SEO已经花了很多时间去搞，目前网站的月流量还是两位数，接下来还是交给时间，以及持续内容的生产。下周重点学习React和Next.js、tailwind CSS。重点是重做一个工具网站。 
+    Spring容器的启动过程分为两个大的阶段： BeanDefinition的扫描 执行Bean的生命周期：实例化、属性填充、初始化过程、使用、销毁。另外，可以在初始化阶段用Aware接口和BeanPo 
     </details> 
 <!-- juejin:END -->
 ### 少数派
