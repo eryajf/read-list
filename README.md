@@ -311,19 +311,19 @@
     本文是边打边学边写出来的，文章思路会与一个“刚打完用户态 pwn 题就去打 QEMU Escape ”的人的思路相似，在分析结束以后我又在部分比较模糊的地方加入了一些补充，因此阅读起来可能会相对轻松。 
     </details> 
 
-- 🦅 [日产汽车承认 10 万人的数据信息遭窃](https://www.freebuf.com/news/394908.html) | Fri Mar 15 2024 6:05 AM 
+- 🦅 [攻击者常用的五个数据中转网站](https://www.freebuf.com/articles/network/394937.html) | Fri Mar 15 2024 7:29 AM 
+    <details><summary>展开描述 ...</summary> 
+    各种数据中转网站被攻击者广泛用于传播代码片段、配置文件和各种文本数据，这会对受害者构成巨大威胁。 
+    </details> 
+
+- 🪄 [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/394924.html) | Fri Mar 15 2024 6:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    文章精选了本周知识大陆公开发布的10条优质资源，让我们一起看看吧。 
+    </details> 
+
+- 💻 [日产汽车承认 10 万人的数据信息遭窃](https://www.freebuf.com/news/394908.html) | Fri Mar 15 2024 6:05 AM 
     <details><summary>展开描述 ...</summary> 
     在 2023 年 12 月公司遭受了 Akira 勒索软件的网络攻击，导致 10 万人的数据泄露。 
-    </details> 
-
-- 🪄 [安全左移是责任左移吗；漏洞重复出现怎么办 | FB甲方群话题讨论](https://www.freebuf.com/articles/neopoints/394907.html) | Fri Mar 15 2024 6:04 AM 
-    <details><summary>展开描述 ...</summary> 
-    有种观点认为安全左移往往是把安全的责任转嫁给开发人员，对此大家怎么看待？ 
-    </details> 
-
-- 💻 [TikTok至暗时刻，因“安全问题”被美国发布禁令](https://www.freebuf.com/news/394901.html) | Fri Mar 15 2024 4:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    法案建议将TikTok出售给一家美国公司，如果字节跳动拒绝出售，美国的应用商店和网络托管服务将被禁止提供TikTok应用。 
     </details> 
 <!-- freebuf:END -->
 
