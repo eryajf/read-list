@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Stacktape - 97% 的 AWS 功能，3% 的复杂性](https://xinquji.com/posts/809905?utm_campaign=xinquji-rss) | Sat Mar 16 2024 6:00 AM 
+- 👀 [幻景AI - 免费在线AI绘图工具](https://xinquji.com/posts/809877?utm_campaign=xinquji-rss) | Mon Mar 18 2024 7:09 AM 
     <details><summary>展开描述 ...</summary> 
-     97% 的 AWS 功能，3% 的复杂性  
+     免费在线AI绘图工具  
     </details> 
 
-- 🥷 [Bidify - 利用 AI 彻底改变中小型企业的 RFP](https://xinquji.com/posts/809904?utm_campaign=xinquji-rss) | Sat Mar 16 2024 6:00 AM 
+- 🥷 [Onboarding.Study - 从最佳 SaaS 产品中了解用户入门](https://xinquji.com/posts/809924?utm_campaign=xinquji-rss) | Sun Mar 17 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     利用 AI 彻底改变中小型企业的 RFP  
+     从最佳 SaaS 产品中了解用户入门  
     </details> 
 
-- 💼 [Lifescape AI - 生活精简；工作组织 - 由人工智能驱动](https://xinquji.com/posts/809903?utm_campaign=xinquji-rss) | Sat Mar 16 2024 6:00 AM 
+- 💼 [Neureads.com - 简化神经科技新闻、故事和解释](https://xinquji.com/posts/809923?utm_campaign=xinquji-rss) | Sun Mar 17 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     生活精简；工作组织 - 由人工智能驱动  
+     简化神经科技新闻、故事和解释  
     </details> 
 
-- 🦅 [Last Bottle - 发现回收背后隐藏的真相](https://xinquji.com/posts/809902?utm_campaign=xinquji-rss) | Sat Mar 16 2024 6:00 AM 
+- 🦅 [Drumbitious - 鼓练习跟踪器应用程序](https://xinquji.com/posts/809922?utm_campaign=xinquji-rss) | Sun Mar 17 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     发现回收背后隐藏的真相  
+     鼓练习跟踪器应用程序  
     </details> 
 
-- 😺 [KRUSH - 正宗的亚洲交友社区](https://xinquji.com/posts/809901?utm_campaign=xinquji-rss) | Sat Mar 16 2024 6:00 AM 
+- 😺 [JustShip - 用于构建 SaaS、AI 工具等的应用程序启动套件](https://xinquji.com/posts/809921?utm_campaign=xinquji-rss) | Sun Mar 17 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     正宗的亚洲交友社区  
+     用于构建 SaaS、AI 工具等的应用程序启动套件  
     </details> 
 <!-- xinquji:END -->
