@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [nginx-niggers and nginx-lgbt projects](https://www.v2ex.com/t/1024438#reply0) | Sun Mar 17 2024 5:03 AM
-- 🤗 [markdown 文件同步到网站后台展示](https://www.v2ex.com/t/1024425#reply1) | Sun Mar 17 2024 3:47 AM
-- 🎭 [新鲜出炉的 GitStar 在线管理项目](https://www.v2ex.com/t/1024409#reply0) | Sun Mar 17 2024 2:46 AM
-- 🥷 [unraid docker 安装 cryptomator-webdav](https://www.v2ex.com/t/1024403#reply0) | Sun Mar 17 2024 2:32 AM
-- 🐵 [推广一下自己的开源项目，有着运维界面的分布式消息队列](https://www.v2ex.com/t/1024402#reply17) | Sun Mar 17 2024 2:27 AM<!-- v2ex:END -->
+- 🥸 [win10 总会出现 XP 关机时候的声音](https://www.v2ex.com/t/1024498#reply5) | Sun Mar 17 2024 11:33 AM
+- 🤗 [开源项目的英文版 readme 都是怎么写的](https://www.v2ex.com/t/1024495#reply5) | Sun Mar 17 2024 11:26 AM
+- 🎭 [有什么好的副业项目](https://www.v2ex.com/t/1024492#reply3) | Sun Mar 17 2024 10:38 AM
+- 🥷 [私有化部署太难搞了](https://www.v2ex.com/t/1024486#reply7) | Sun Mar 17 2024 9:47 AM
+- 🐵 [遇到黑客攻击了怎么办](https://www.v2ex.com/t/1024484#reply6) | Sun Mar 17 2024 9:34 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
