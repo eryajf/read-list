@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [少数派的 12 岁：付费栏目周年庆大促开启](https://sspai.com/post/87214) | Sat Mar 16 2024 5:22 AM 
+- 👹 [现代打工人如何获得幸福？](https://sspai.com/post/86697) | Sun Mar 17 2024 2:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    滴答，滴答，滴答，我在奔向死亡。&lt;a href=&quot;https://sspai.com/post/86697&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [少数派的 12 岁：付费栏目开启周年庆大促](https://sspai.com/post/87214) | Sat Mar 16 2024 5:22 AM 
     <details><summary>展开描述 ...</summary> 
     ⏰活动时间：即日起-3月24日🏷️活动内容：新作有新意：视频栏目《生产力超频：LaTeX从入门到精通》上线，一口气更新全部78集、约400分钟的视频，全面深度讲解LaTeX。大作有优惠：最受欢迎的栏目 ...&lt;a href=&quot;https://sspai.com/post/87214&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [纯电长途、节假日出行，蔚来换电可还行](https://sspai.com/post/86882) | Sat Mar 16 2024 2:56 AM 
+- 🤭 [纯电长途、节假日出行，蔚来换电可还行](https://sspai.com/post/86882) | Sat Mar 16 2024 2:56 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/86882&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/87219) | Fri Mar 15 2024 9:27 AM 
+- 🥸 [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/87219) | Fri Mar 15 2024 9:27 AM 
     <details><summary>展开描述 ...</summary> 
     ☕️TL;DR近期佳作推荐：[英剧]绅士们、[美剧]动物管制官第二季、[电影]忧郁小女孩、[电影]法式火锅、[电影]世界的阿菊、[真人秀]犯罪现场4：归来、[真人秀]边走边唱的女子几则精彩预告：马东锡 ...&lt;a href=&quot;https://sspai.com/post/87219&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [年度征文 | 从戒除安眠药开始，我选择不再将自己外包](https://sspai.com/post/86911) | Fri Mar 15 2024 8:57 AM 
+- 🙉 [年度征文 | 从戒除安眠药开始，我选择不再将自己外包](https://sspai.com/post/86911) | Fri Mar 15 2024 8:57 AM 
     <details><summary>展开描述 ...</summary> 
     如果你也正在迷茫，请珍惜现在这种感觉。当你为此觉得焦虑的时候，你可以说自己正在长出或剥离「蹼」，当它过去后，你就是一个更加清晰、稳定的人了。&lt;a href=&quot;https://sspai.com/post/86911&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [一次常规更新：M3 版 MacBook Air 快速上手](https://sspai.com/post/87202) | Fri Mar 15 2024 6:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    快速看看 M3 版本的 MacBook Air 有哪些新的变化。&lt;a href=&quot;https://sspai.com/post/87202&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
