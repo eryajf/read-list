@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [我最近的生活，一地鸡毛。。。](https://juejin.cn/post/7347161048573083663) | Sun Mar 17 2024 3:08 PM 
+- 🤗 [node 和浏览器实现 excel 导入导出](https://juejin.cn/post/7346580626319933452) | Sun Mar 17 2024 4:18 PM 
     <details><summary>展开描述 ...</summary> 
-    本来我这是个技术的号，不想发很多技术无关的内容，但是吧，最近遇到的一些事情确实不吐不快。 大家就当个故事看一下吧。 我 18 年的时候买的青岛即墨的房子，买在了最高峰，花了 70 万首付 + 100  
+    本文深入探讨了 Excel 数据处理的基础知识，并详细介绍了 exceljs 库的使用方法。重点讲解了如何使用 exceljs 在 Node.js 和浏览器环境中进行 Excel 文件的解析和生成。 
     </details> 
 
-- 🎡 [【踩坑实录】vue异步组件加载失败会怎样？](https://juejin.cn/post/7347210988259590154) | Sun Mar 17 2024 2:51 PM 
+- 🎡 [面试官：详细介绍一下Spring的循环依赖](https://juejin.cn/post/7347210988259835914) | Sun Mar 17 2024 4:18 PM 
     <details><summary>展开描述 ...</summary> 
-    写在最前 看官们好，我是JetTsang，之前都是在掘金潜水来着，现在偶尔做一些内容输出吧。 问题引出 项目技术栈： vue2.6 由于业务场景需要，会在同一个路由组件当中,有一部分页面的组件需要根据 
+    本文介绍了Spring中循环依赖的问题，包括循环依赖问题的产生，三级缓存解决循环依赖的过程，介绍循环依赖无法被解决的情况。有针对性的提出一级循环和二级循环解决循环疑问存在的问题。 
     </details> 
 
-- 🕯 [照着postcss-minify-font-values学插件开发](https://juejin.cn/post/7347165355587174437) | Sun Mar 17 2024 2:33 PM 
+- 🕯 [系统渐渐沦为“屎山”，原因是..](https://juejin.cn/post/7347165355587354661) | Sun Mar 17 2024 4:16 PM 
     <details><summary>展开描述 ...</summary> 
-    本文以postcss-minify-font-values插件为例，讲述如何开发一个自己的postcss插件。 
+    相信有很多小伙伴都有小猫这样的体会，尤其是接手一个老的系统的时候，总是会吐槽当前的系统很烂，恨不得马上将其完完全全重构掉。 
     </details> 
 
-- 🚀 [（翻）写出你的第一个PostCSS插件](https://juejin.cn/post/7347221042437799974) | Sun Mar 17 2024 2:28 PM 
+- 🚀 [全栈实现大文件上传（后端 Nest）](https://juejin.cn/post/7346888998488047670) | Sun Mar 17 2024 4:14 PM 
     <details><summary>展开描述 ...</summary> 
-    本文翻译James Steinbach的Writing Your First PostCSS Plugin，这篇博文可以说是很多写postcss插件的开发人员的入门读物了。 
+    本文探讨了如何通过分片上传策略来处理大文件的上传，有效加快上传速度。在浏览器端，利用Blob对象的slice方法分割文件，并使用axios库并行上传分片。后端采用Nest框架，通过multer处理上传 
     </details> 
 
-- 💪 [《算法图解》读书笔记](https://juejin.cn/post/7346977510515441675) | Sun Mar 17 2024 1:50 PM 
+- 💪 [Vue3 实现一个简单的放大动画](https://juejin.cn/post/7347165355587321893) | Sun Mar 17 2024 4:08 PM 
     <details><summary>展开描述 ...</summary> 
-    《算法图解》用简单易懂的语言和图解的方式介绍了一系列常见的算法和数据结构，是一本适合初学者入门的算法入门书籍，但对于想要深入学习算法的读者来说，可能需要配合其他更深入的参考资料。 
+    这是之前方位动画的衍生需求。先根据后端返回的数据排列内容，然后当用户点击某块内容后居中放大并根据具体 
     </details> 
 <!-- juejin:END -->
 ### 少数派
