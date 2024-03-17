@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [万字长文深入浅出数据库连接池 HikariCP/Commons DBCP/Tomcat/c3p0/druid 对比](https://juejin.cn/post/7346570458488569910) | Sat Mar 16 2024 5:23 PM 
+- 🤗 [Node.js大师课：零基础到构建高性能Web服务器](https://juejin.cn/post/7346844770210381834) | Sun Mar 17 2024 12:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    通过本文的学习，你应该对如何使用Node.js创建和管理HTTP服务器有了基本的了解。我们介绍了HTTP请求的基本概念，包括常见的请求方法和它们的用途等相关知识。 
+    </details> 
+
+- 🎡 [Node.js 集成海外社媒消息与登录：技术规划篇](https://juejin.cn/post/7347009547736776758) | Sat Mar 16 2024 6:10 PM 
+    <details><summary>展开描述 ...</summary> 
+    前言 当下国内企业出海是一个大趋势，这样既可以规避国内的内卷环境，还可以在海外追求更大的市场。刚好作者去年转到海外业务部，在去年技术上做过比较有意思的事情，就是摸索了海外主要的社交媒体，以及相关的消息 
+    </details> 
+
+- 🕯 [万字长文深入浅出数据库连接池 HikariCP/Commons DBCP/Tomcat/c3p0/druid 对比](https://juejin.cn/post/7346570458488569910) | Sat Mar 16 2024 5:23 PM 
     <details><summary>展开描述 ...</summary> 
     # 拓展阅读 [万字长文深入浅出数据库连接池 HikariCP/Commons DBCP/Tomcat/c3p0/druid 对比]&lpar;https://mp.weixin.qq.com/s/YMgj 
     </details> 
 
-- 🎡 [零额外开销最快的数据库连接池？HikariCP 入门介绍](https://juejin.cn/post/7346510823772979254) | Sat Mar 16 2024 5:20 PM 
+- 🚀 [零额外开销最快的数据库连接池？HikariCP 入门介绍](https://juejin.cn/post/7346510823772979254) | Sat Mar 16 2024 5:20 PM 
     <details><summary>展开描述 ...</summary> 
     # 拓展阅读 [从零开始手写 mybatis （三）jdbc pool 如何从零手写实现数据库连接池 dbcp？]&lpar;https://houbb.github.io/2020/06/21/hand- 
     </details> 
 
-- 🕯 [React组件封装实践：构建一个健壮的用户头像组件](https://juejin.cn/post/7346764005225807910) | Sat Mar 16 2024 3:48 PM 
+- 💪 [React组件封装实践：构建一个健壮的用户头像组件](https://juejin.cn/post/7346764005225807910) | Sat Mar 16 2024 3:48 PM 
     <details><summary>展开描述 ...</summary> 
     本文从实际工作需求出发，针对H5页面image渲染出现的各种样式问题，加载问题，封装了一个相对健壮的组件，希望本文对您有所帮助和启发。 
-    </details> 
-
-- 🚀 [React组件封装实践：构建一个正确处理ellipsis和tooltip的便利贴组件](https://juejin.cn/post/7346897828688625691) | Sat Mar 16 2024 3:48 PM 
-    <details><summary>展开描述 ...</summary> 
-    在处理文本显示时，如何有效地展示内容，并在内容过长时提供用户友好的交互方式，成为了设计中的一大挑战。本文将介绍如何从零开始，使用React框架构建一个具备文本溢出处理功能的“便利贴”组件。 
-    </details> 
-
-- 💪 [Webpack开发模式与生产模式的关键差异及其对开发的影响](https://juejin.cn/post/7346764005225791526) | Sat Mar 16 2024 3:48 PM 
-    <details><summary>展开描述 ...</summary> 
-    Webpack主要提供了两种模式，两者在配置和优化策略上有着根本的区别，旨在分别满足开发过程中的需求和线上环境的性能要求。本文将探讨这两种模式的关键差异及其对开发的影响。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
