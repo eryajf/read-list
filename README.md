@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [自己搭建代理IP池有哪些好处呢？](https://juejin.cn/post/7347300843001888777) | Mon Mar 18 2024 7:08 AM 
+- 🤗 [Spring Boot 源码分析（三）](https://juejin.cn/post/7347341812179353638) | Mon Mar 18 2024 8:08 AM 
     <details><summary>展开描述 ...</summary> 
-    ​ 写在前面 自己搭建代理IP池有很多好处。首先，使用代理IP可以绕过目标网站的访问限制，隐藏真实的IP地址，提高爬虫的稳定性和可靠性。其次，代理IP池可以提高爬虫的速度和效率，通过动态切换代理IP进 
+    应用上下文 创建SpringBootExceptionReporter SpringBootExceptionReporter 是 Spring Boot 框架中的一个组件，它负责处理并报告在 Spr 
     </details> 
 
-- 🎡 [遥遥领先，OpenTiny Vue 3.14.0 正式发布，增加了 MindMap 思维导图等3个新组件](https://juejin.cn/post/7347510186908581924) | Mon Mar 18 2024 6:52 AM 
+- 🎡 [【简写Mybatis】04-数据源的解析、创建和使用](https://juejin.cn/post/7347562835025575948) | Mon Mar 18 2024 8:08 AM 
     <details><summary>展开描述 ...</summary> 
-    我们非常高兴地宣布，2024年3月7日，OpenTiny Vue 发布了 v3.14.0 🎉。主要新增 MindMap、Skeleton、Card 组件，支持 Unplugin 自动导入插件。 
+    在学习MyBatis源码文章中，斗胆想将其讲明白；故有此文章，如有问题，不吝指教！ 源代码：https://gitee.com/xbhog/mybatis-xbhog ； 
     </details> 
 
-- 🕯 [有趣的大模型之我见 | Mistral 7B 和 Mixtral 8x7B](https://juejin.cn/post/7347504184067473443) | Mon Mar 18 2024 6:39 AM 
+- 🕯 [关于一个复制粘贴的功能优化了两天这件事](https://juejin.cn/post/7347251816617214002) | Mon Mar 18 2024 8:06 AM 
     <details><summary>展开描述 ...</summary> 
-    开发者告诉我们，有一些因素阻碍了他们更好更广泛地使用基础模型。比如，在可预见的将来，随着技术的新进步，不断有新的模型加入，同时模型的升级和迭代也在不断加速。 
+    上周接着优化我的设计器项目，其中复制粘贴这个小功能就花了大约两天时间，修复了一些问题，并且优化了使用上的体验，这篇文章就简单聊聊此功能的心路历程。 
     </details> 
 
-- 🚀 [关于volatile与指令重排序的探讨](https://juejin.cn/post/7347147911149699087) | Mon Mar 18 2024 6:38 AM 
+- 🚀 [go语言在项目中日志可以这样处理，帮助你快速定位业务工单问题](https://juejin.cn/post/7347395265836564490) | Mon Mar 18 2024 8:02 AM 
     <details><summary>展开描述 ...</summary> 
-    写在开头 在之前的学习我们了解到，为了充分利用缓存，提高程序的执行速度，编译器在底层执行的时候，会进行指令重排序的优化操作，但这种优化，在有些时候会带来 有序性 的问题。 那何为有序性呢？我们可以通俗 
+    go语言在项目中日志可以这样处理，帮助你快速定位业务工单问题 本文呢并不是教你如何去构建一个日志处理组件，而是针对日志的使用我们可以自定义的优化一波，当然前提是根据自己的项目而定义【目前业界的日志处理 
     </details> 
 
-- 💪 [面试官：volatile如何保证可见性的，具体如何实现？](https://juejin.cn/post/7347311417081970688) | Mon Mar 18 2024 6:36 AM 
+- 💪 [国产Sora来了，4K 60帧15秒视频刷新纪录！500亿美元短剧出海市场被撬动](https://juejin.cn/post/7347357906630459411) | Mon Mar 18 2024 7:53 AM 
     <details><summary>展开描述 ...</summary> 
-    写在开头 在之前的几篇博文中，我们都提到了 volatile 关键字，这个单词中文释义为：不稳定的，易挥发的，在Java中代表变量修饰符，用来修饰会被不同线程访问和修改的变量，对于方法，代码块，方法参 
+    国产Sora来了！这家公司的AI视频已经实现了15秒4K 60帧的超逼真效果。而且，它和小米、快手都已展开战略合作，瞄准了500亿美元的短剧出海市场。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
