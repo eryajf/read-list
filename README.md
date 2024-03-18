@@ -700,23 +700,23 @@
      免费在线AI绘图工具  
     </details> 
 
-- 🥷 [Onboarding.Study - 从最佳 SaaS 产品中了解用户入门](https://xinquji.com/posts/809924?utm_campaign=xinquji-rss) | Sun Mar 17 2024 6:00 AM 
+- 🥷 [Green Pony - 由 memecoin 提供支持的在线视频下载器](https://xinquji.com/posts/809961?utm_campaign=xinquji-rss) | Mon Mar 18 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     从最佳 SaaS 产品中了解用户入门  
+     由 memecoin 提供支持的在线视频下载器  
     </details> 
 
-- 💼 [Neureads.com - 简化神经科技新闻、故事和解释](https://xinquji.com/posts/809923?utm_campaign=xinquji-rss) | Sun Mar 17 2024 6:00 AM 
+- 💼 [AI/ML API - 1 个 API 100+ AI 模型](https://xinquji.com/posts/809960?utm_campaign=xinquji-rss) | Mon Mar 18 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     简化神经科技新闻、故事和解释  
+     1 个 API 100+ AI 模型  
     </details> 
 
-- 🦅 [Drumbitious - 鼓练习跟踪器应用程序](https://xinquji.com/posts/809922?utm_campaign=xinquji-rss) | Sun Mar 17 2024 6:00 AM 
+- 🦅 [Sequence - 打造最好的 Web3 游戏和体验](https://xinquji.com/posts/809959?utm_campaign=xinquji-rss) | Mon Mar 18 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     鼓练习跟踪器应用程序  
+     打造最好的 Web3 游戏和体验  
     </details> 
 
-- 😺 [JustShip - 用于构建 SaaS、AI 工具等的应用程序启动套件](https://xinquji.com/posts/809921?utm_campaign=xinquji-rss) | Sun Mar 17 2024 6:00 AM 
+- 😺 [Chaturji - 人工智能 - 为您的团队提供所有最好的人工智能和协作](https://xinquji.com/posts/809958?utm_campaign=xinquji-rss) | Mon Mar 18 2024 6:00 AM 
     <details><summary>展开描述 ...</summary> 
-     用于构建 SaaS、AI 工具等的应用程序启动套件  
+     人工智能 - 为您的团队提供所有最好的人工智能和协作  
     </details> 
 <!-- xinquji:END -->
