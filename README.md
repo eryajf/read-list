@@ -301,29 +301,29 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [深信服华中天慧战队：哥斯拉二开-Websocket shell](https://www.freebuf.com/sectool/394065.html) | Fri Mar 15 2024 9:55 AM 
+- 🦄 [网传 AT&amp;T 泄露 7100 万用户数据，该公司多次否认](https://www.freebuf.com/news/395109.html) | Mon Mar 18 2024 5:46 AM 
     <details><summary>展开描述 ...</summary> 
-    本文主要讲解如何让哥斯拉支持Websocket协议的shell。 
+    这些数据从何而来依旧是个谜团。不过，无论数据来自何处，所有迹象都表明这是 AT&amp;amp;T 客户的数据。 
     </details> 
 
-- 🦄 [从 VNCTF2024 的一道题学习QEMU Escape](https://www.freebuf.com/defense/394960.html) | Fri Mar 15 2024 8:57 AM 
+- 🦄 [麦当劳全球系统宕机，影响数千家门店](https://www.freebuf.com/news/395076.html) | Mon Mar 18 2024 3:08 AM 
     <details><summary>展开描述 ...</summary> 
-    本文是边打边学边写出来的，文章思路会与一个“刚打完用户态 pwn 题就去打 QEMU Escape ”的人的思路相似，在分析结束以后我又在部分比较模糊的地方加入了一些补充，因此阅读起来可能会相对轻松。 
+    快餐业巨头麦当劳指出，导致其全球数千家连锁店和加盟店系统宕机的原因，是第三方供应商在系统配置更改过程中的失误。 
     </details> 
 
-- 🦅 [攻击者常用的五个数据中转网站](https://www.freebuf.com/articles/network/394937.html) | Fri Mar 15 2024 7:29 AM 
+- 🦅 [聚焦315：操控网络水军的主板机；AI”换脸“诈骗](https://www.freebuf.com/news/395065.html) | Mon Mar 18 2024 2:43 AM 
     <details><summary>展开描述 ...</summary> 
-    各种数据中转网站被攻击者广泛用于传播代码片段、配置文件和各种文本数据，这会对受害者构成巨大威胁。 
+    今年的315晚会主题为“共筑诚信 共享安全”，数据安全仍然是受到重点关注的议题，在晚会开篇便曝光了以主板机为载体的网络乱象。 
     </details> 
 
-- 🪄 [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/394924.html) | Fri Mar 15 2024 6:47 AM 
+- 🪄 [谷歌升级 Safe Browsing，为用户增强实时 URL 保护](https://www.freebuf.com/news/395061.html) | Mon Mar 18 2024 2:23 AM 
     <details><summary>展开描述 ...</summary> 
-    文章精选了本周知识大陆公开发布的10条优质资源，让我们一起看看吧。 
+    桌面版和 iOS 版 Chrome 浏览器的标准保护模式将根据谷歌服务器端的已知不良网站列表对网站进行实时检查。 
     </details> 
 
-- 💻 [日产汽车承认 10 万人的数据信息遭窃](https://www.freebuf.com/news/394908.html) | Fri Mar 15 2024 6:05 AM 
+- 💻 [FreeBuf早报 | 非洲海底光缆发生故障；中央网信办部署开展24年“清朗”专项行动](https://www.freebuf.com/news/394979.html) | Fri Mar 15 2024 11:12 AM 
     <details><summary>展开描述 ...</summary> 
-    在 2023 年 12 月公司遭受了 Akira 勒索软件的网络攻击，导致 10 万人的数据泄露。 
+    中央网信办今日宣布部署开展 2024 年“清朗”系列专项行动，全面覆盖网上重点领域环节，重点开展 10 项整治任务。 
     </details> 
 <!-- freebuf:END -->
 
