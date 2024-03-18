@@ -342,29 +342,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [为什么Redis集群的最大槽数是16384个？](https://juejin.cn/post/7347669914184630335) | Mon Mar 18 2024 2:07 PM 
+- 🤗 [使用 Mongoose 在 Node 和 Nest 中操作 MongoDB 数据库](https://juejin.cn/post/7347671948749062184) | Mon Mar 18 2024 4:54 PM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是大明哥，一个专注「死磕 Java」系列创作的硬核程序员。 本文已收录到我的小站：skjava.com。 回答 在 Redis 集群中，Redis 根据公式 HASH_SLOT=CRC16&lpar; 
+    本文介绍了如何在 Node.js 应用程序中使用 mongoose 库操作 MongoDB 数据库。涵盖了初始化项目、连接数据库、定义 Schema 和 Model、插入和查询数据等。 
     </details> 
 
-- 🎡 [传统 Hal 开发指南1 —— 开发环境准备](https://juejin.cn/post/7347668079994208275) | Mon Mar 18 2024 2:03 PM 
+- 🎡 [马斯克硬刚OpenAI，开源 Grok：3140 亿为目前最大规模](https://juejin.cn/post/7347617618512216118) | Mon Mar 18 2024 3:26 PM 
     <details><summary>展开描述 ...</summary> 
-    1. 引子 Android 8 以前的 HAL，我们称之为传统 HAL。 在这个阶段，HAL 层以 so 库的形式存在，Framework 层通过 JNI 加载到这些 so 库，然后 Framewor 
+    3月17日凌晨，马斯克旗下大模型公司 xAI 宣布正式开源 3140 亿参数的混合专家（MoE）模型「Grok-1」，以及该模型的权重和网络架构。 
     </details> 
 
-- 🕯 [Android HAL 层概览](https://juejin.cn/post/7347668079994159123) | Mon Mar 18 2024 2:02 PM 
+- 🕯 [Deno 1.4 支持 JS 最新的 Temporal API](https://juejin.cn/post/7347669914184925247) | Mon Mar 18 2024 3:20 PM 
     <details><summary>展开描述 ...</summary> 
-    引子 按照既定的计划，在讲解了 Activity 启动过程以后，接下来我们就要讲 Activity 的显示过程了。但是 Activity 显示过程会涉及到两个 Hal 模块 Gralloc 和 Har 
+    Deno 团队官宣 Deno 1.4 正式发布，Deno 1.4 引入了用于高级日期和时间操作的强大 Temporal API，并采用最新的装饰器语法。 
     </details> 
 
-- 🚀 [单点登录：一把钥匙开启所有门](https://juejin.cn/post/7347671948737429539) | Mon Mar 18 2024 2:01 PM 
+- 🚀 [antd table 基于 react-dnd 实现拖拽无限滚动的排序](https://juejin.cn/post/7347668434447302666) | Mon Mar 18 2024 3:15 PM 
     <details><summary>展开描述 ...</summary> 
-    单点登录（SSO）技术，就像是一把开启企业数字化大门的钥匙，让用户一次登录，随处访问，极大地提升了工作效率和用户体验。具体到技术实现上，当用户首次登录时，SSO系统会进行认证，并发放一个凭证（如Tok 
+    在 antd 的 table 表单数据中，需要对行进行拖拽排序，并且需要支持拖拽期间的加载数据和无限滚动。 
     </details> 
 
-- 💪 [为 java 开发者设计的性能测试框架，用于压测+测试报告生成](https://juejin.cn/post/7347668702030331923) | Mon Mar 18 2024 1:33 PM 
+- 💪 [Streamlit 光速搭建并部署你的主页](https://juejin.cn/post/7347666944814186506) | Mon Mar 18 2024 3:09 PM 
     <details><summary>展开描述 ...</summary> 
-    # 拓展阅读 [junit5 系列教程]&lpar;https://houbb.github.io/2018/06/24/junit5-01-hello&rpar; [基于 junit5 实现 junitperf  
+    只用 Python 也能做出很漂亮的网站？Streamlit 就能在几分钟内把 Python 脚本变成可分享的网站。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
