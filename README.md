@@ -452,29 +452,29 @@
 
 
 <!-- xclient:START -->
-- 🦏 [WiFiSpoof 3.9.4.1 MAC地址修改工具](https://xclient.info/s/wifi-spoof.html) | Fri Mar 15 2024 1:08 AM 
+- 🦏 [System Toolkit 6.1.1 系统工具包](https://xclient.info/s/system-toolkit.html) | Mon Mar 18 2024 12:28 AM 
     <details><summary>展开描述 ...</summary> 
-    WiFiSpoof是一款适用于Mac系统的wifi地址修改器，用户只需要安装WiFiSpoof for mac，点击打开就能很直观的修改Mac地址，很容易操作。 
+    System Toolkit 是为MacOS设计的一体化信息和维护应用程序。 
     </details> 
 
--  [Permute 3.11.7 fix 小巧便捷的多媒体文件格式转换器](https://xclient.info/s/permute.html) | Fri Mar 15 2024 1:07 AM 
+-  [System Dashboard Pro 1.10.5 系统监测](https://xclient.info/s/system-dashboard-pro.html) | Mon Mar 18 2024 12:28 AM 
     <details><summary>展开描述 ...</summary> 
-    Permute 提供简单的视频格式转换功能，可以简单的将视频文件转换为你想要的格式。将你想要转换的视频拖到软件窗口内，然后选择你想要转换的格式即可。 
+    System Dashboard Pro 是一款系统监测软件 
     </details> 
 
-- ⚗️ [PDF Reader Pro 3.3.1.0 PDF 文档阅读编辑批注](https://xclient.info/s/pdf-reader-pro.html) | Fri Mar 15 2024 1:06 AM 
+- ⚗️ [iBarcoder 3.14.7 条码生成软件](https://xclient.info/s/ibarcoder.html) | Mon Mar 18 2024 12:27 AM 
     <details><summary>展开描述 ...</summary> 
-    PDF Reader Pro是一款Mac平台的PDF文档阅读编辑器，除了可以进行 PDF 文档阅读以外，你还可以对文档进行备注、编辑、标注等，还可以添加笔记和书签，如果想要演示的话，还可以配合遥控来进行演示。 
+    iBarcoder是Mac os平台上的一款免费的条码生成软件，iBarcoder for mac允许您设计并打印自己的条码标签，创建条码图形的零售包装、书籍、贴纸等。 
     </details> 
 
-- 🔥 [PDF Expert 3.9.2 fix 极致的 PDF 阅读标注工作体验](https://xclient.info/s/pdf-expert-for-mac.html) | Fri Mar 15 2024 1:03 AM 
+- 🔥 [Text Workflow 1.9.4 文本编辑](https://xclient.info/s/text-workflow.html) | Mon Mar 18 2024 12:23 AM 
     <details><summary>展开描述 ...</summary> 
-    DF Expert 是一个 PDF 阅读器，无论是打开一个邮件附件，还是 6000 页的报告 ，PDF Expert for Mac的打开速度都比同类快上不少，平滑流畅的滚动效果，标签页设计，也大大提高了工作效率。 
+    Text Workflow 是一款 macOS 文本编辑工具，可帮助您自动化重复性的文本处理任务。 
     </details> 
 
-- 🌋 [SQLPro Studio 2024.12 多数据库管理工具](https://xclient.info/s/sqlpro-studio.html) | Fri Mar 15 2024 1:02 AM 
+- 🌋 [Mp3tag 1.8.17 fix 音频元数据编辑](https://xclient.info/s/mp3tag.html) | Mon Mar 18 2024 12:23 AM 
     <details><summary>展开描述 ...</summary> 
-    SQLPro Studio 是一款十分实用的数据库管理软件，该软件能够帮助用户快速智能的管理数据库的各种资料与文件，操作简单，能够更好的帮助用户及时管理数据库，欢迎有需要的用户下载使用。 
+    Mp3tag是一个功能强大且易于使用的编辑音频文件元数据的工具 
     </details> 
 <!-- xclient:END -->
 
