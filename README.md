@@ -233,29 +233,29 @@
 ### 运维咖啡吧
 
 <!-- ops-coffee:START -->
-- 👺 [继续总结Python中那些简单好用的用法](https://blog.ops-coffee.cn/python/python-simple-and-user-friendly-features-2) | Wed Mar 06 2024 8:36 AM 
+- 👺 [开源推荐 | 简洁且强大的开源堡垒机OneTerm](https://blog.ops-coffee.cn/s/veops-open-source-jumpserver-oneterm) | Mon Mar 18 2024 8:59 AM 
+    <details><summary>展开描述 ...</summary> 
+    开源推荐 | 简洁且强大的开源堡垒机OneTerm 
+    </details> 
+
+- 💯 [继续总结Python中那些简单好用的用法](https://blog.ops-coffee.cn/python/python-simple-and-user-friendly-features-2) | Wed Mar 06 2024 8:36 AM 
     <details><summary>展开描述 ...</summary> 
     继续总结Python中那些简单好用的用法 
     </details> 
 
-- 💯 [Python中那些简单又好用的特性和用法](https://blog.ops-coffee.cn/python/python-simple-and-user-friendly-features) | Tue Mar 05 2024 7:54 AM 
+- 🚦 [Python中那些简单又好用的特性和用法](https://blog.ops-coffee.cn/python/python-simple-and-user-friendly-features) | Tue Mar 05 2024 7:54 AM 
     <details><summary>展开描述 ...</summary> 
     Python中那些简单又好用的特性和用法 
     </details> 
 
-- 🚦 [任务系统之API子任务](https://blog.ops-coffee.cn/s/devops-task-subtask-api-postman-apipost) | Mon Feb 26 2024 6:55 PM 
+- 👨‍🏫 [任务系统之API子任务](https://blog.ops-coffee.cn/s/devops-task-subtask-api-postman-apipost) | Mon Feb 26 2024 6:55 PM 
     <details><summary>展开描述 ...</summary> 
     任务系统之API子任务 
     </details> 
 
-- 👨‍🏫 [游记｜远赴人间惊鸿宴，一睹人间盛世颜](https://blog.ops-coffee.cn/r/city-china-henan-luoyang-laojunshan) | Sun Feb 18 2024 6:38 PM 
+- 🌮 [游记｜远赴人间惊鸿宴，一睹人间盛世颜](https://blog.ops-coffee.cn/r/city-china-henan-luoyang-laojunshan) | Sun Feb 18 2024 6:38 PM 
     <details><summary>展开描述 ...</summary> 
     游记｜远赴人间惊鸿宴，一睹人间盛世颜 
-    </details> 
-
-- 🌮 [是驾驭而不是焦虑，送红包封面啦](https://blog.ops-coffee.cn/s/AIGC-Midjourney -and-WeChat-red-packet) | Sun Feb 04 2024 6:17 PM 
-    <details><summary>展开描述 ...</summary> 
-    是驾驭而不是焦虑，送红包封面啦 
     </details> 
 <!-- ops-coffee:END -->
 ### 四火的唠叨
