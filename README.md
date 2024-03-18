@@ -301,29 +301,30 @@
 ### freebuf
 
 <!-- freebuf:START -->
+- 🦄 [听不清，别乱传！](https://www.freebuf.com/articles/395151.html) | Mon Mar 18 2024 8:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    广大网民要提高法治意识  增强辨别谣言的能力。 
+    </details> 
+
 - 🦄 [网传 AT&amp;T 泄露 7100 万用户数据，该公司多次否认](https://www.freebuf.com/news/395109.html) | Mon Mar 18 2024 5:46 AM 
     <details><summary>展开描述 ...</summary> 
     这些数据从何而来依旧是个谜团。不过，无论数据来自何处，所有迹象都表明这是 AT&amp;amp;T 客户的数据。 
     </details> 
 
-- 🦄 [麦当劳全球系统宕机，影响数千家门店](https://www.freebuf.com/news/395076.html) | Mon Mar 18 2024 3:08 AM 
+- 🦅 [从蓝初小白到蓝中猴子（一）](https://www.freebuf.com/articles/web/370800.html) | Mon Mar 18 2024 3:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    记录从蓝队小白到蓝队中级的面试题以及面试经验
+#心路历程 
+    </details> 
+
+- 🪄 [麦当劳全球系统宕机，影响数千家门店](https://www.freebuf.com/news/395076.html) | Mon Mar 18 2024 3:08 AM 
     <details><summary>展开描述 ...</summary> 
     快餐业巨头麦当劳指出，导致其全球数千家连锁店和加盟店系统宕机的原因，是第三方供应商在系统配置更改过程中的失误。 
     </details> 
 
-- 🦅 [聚焦315：操控网络水军的主板机；AI”换脸“诈骗](https://www.freebuf.com/news/395065.html) | Mon Mar 18 2024 2:43 AM 
+- 💻 [聚焦315：操控网络水军的主板机；AI”换脸“诈骗](https://www.freebuf.com/news/395065.html) | Mon Mar 18 2024 2:43 AM 
     <details><summary>展开描述 ...</summary> 
     今年的315晚会主题为“共筑诚信 共享安全”，数据安全仍然是受到重点关注的议题，在晚会开篇便曝光了以主板机为载体的网络乱象。 
-    </details> 
-
-- 🪄 [谷歌升级 Safe Browsing，为用户增强实时 URL 保护](https://www.freebuf.com/news/395061.html) | Mon Mar 18 2024 2:23 AM 
-    <details><summary>展开描述 ...</summary> 
-    桌面版和 iOS 版 Chrome 浏览器的标准保护模式将根据谷歌服务器端的已知不良网站列表对网站进行实时检查。 
-    </details> 
-
-- 💻 [FreeBuf早报 | 非洲海底光缆发生故障；中央网信办部署开展24年“清朗”专项行动](https://www.freebuf.com/news/394979.html) | Fri Mar 15 2024 11:12 AM 
-    <details><summary>展开描述 ...</summary> 
-    中央网信办今日宣布部署开展 2024 年“清朗”系列专项行动，全面覆盖网上重点领域环节，重点开展 10 项整治任务。 
     </details> 
 <!-- freebuf:END -->
 
