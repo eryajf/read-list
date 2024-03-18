@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [派开箱 | 科技祛魅，返璞归真：明基新款屏幕挂灯实用也更好用了](https://sspai.com/post/87186) | Mon Mar 18 2024 6:48 AM 
+- 👹 [[送码] 派评 | 近期值得关注的 App](https://sspai.com/post/87366) | Mon Mar 18 2024 10:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    欢迎在评论区和我们分享，本周五 &lpar;03.22&rpar;我们选出一条评论赠送「习惯点点」终身兑换码一枚。&lt;a href=&quot;https://sspai.com/post/87366&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [周岁前的日子也可以很精彩：我的小月龄带娃经历](https://sspai.com/post/84704) | Mon Mar 18 2024 8:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    宝宝目前已经周岁啦，对这不到一年时间自己主导、娃爸配合，共同给她打造的独有体验做一个回顾性总结，分享给大家。&lt;a href=&quot;https://sspai.com/post/84704&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🤭 [派开箱 | 科技祛魅，返璞归真：明基新款屏幕挂灯实用也更好用了](https://sspai.com/post/87186) | Mon Mar 18 2024 6:48 AM 
     <details><summary>展开描述 ...</summary> 
     关于栏目我们时常会收到一些厂商送测体验、兼具优秀设计与极佳质感的好产品，部分被我们放在了《编辑部的新玩意》中作为分享，但碍于其主打体验的设定，我们亦希望一些更具吸引力的产品能被更多篇幅介绍，所以有了《 ...&lt;a href=&quot;https://sspai.com/post/87186&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [做了 4 年短视频内容，我想和你分享这些心得方法](https://sspai.com/post/86760) | Mon Mar 18 2024 3:30 AM 
+- 🥸 [做了 4 年短视频内容，我想和你分享这些心得方法](https://sspai.com/post/86760) | Mon Mar 18 2024 3:30 AM 
     <details><summary>展开描述 ...</summary> 
     Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/86760&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [派早报：xAI 开源 Grok-1 模型](https://sspai.com/post/87349) | Mon Mar 18 2024 12:45 AM 
+- 🙉 [派早报：xAI 开源 Grok-1 模型](https://sspai.com/post/87349) | Mon Mar 18 2024 12:45 AM 
     <details><summary>展开描述 ...</summary> 
     你可能错过的新鲜事xAI开源Grok-1模型3月17日，马斯克创办的xAI公开发布了Grok-1模型的代码和模型权重[GitHub]，均采用Apache2开源许可证。权重文件体积为318.24GB，采 ...&lt;a href=&quot;https://sspai.com/post/87349&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🥸 [从 Pixel 手机出发，志在千家万户——与毫米波技术「对谈」](https://sspai.com/post/87229) | Sun Mar 17 2024 5:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    按：在少数派用户社区中不少Pixel设备拥趸的心目中，Pixel4是这个系列历史上的高光时刻。而这代机型最具识别度的特征，大概就是基于毫米波雷达技术的MotionSense了。尽管未能在后续型号中保留 ...&lt;a href=&quot;https://sspai.com/post/87229&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [现代打工人如何获得幸福？](https://sspai.com/post/86697) | Sun Mar 17 2024 2:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    滴答，滴答，滴答，我在奔向死亡。&lt;a href=&quot;https://sspai.com/post/86697&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
