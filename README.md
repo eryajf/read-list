@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [关于动态替换 import 内容的功能](https://www.v2ex.com/t/1024766#reply1) | Mon Mar 18 2024 8:08 AM
-- 🤗 [iOS 本地音乐播放器推荐](https://www.v2ex.com/t/1024762#reply1) | Mon Mar 18 2024 8:00 AM
-- 🎭 [windows Linux 之间如何优雅的迁移 Python 环境呢？](https://www.v2ex.com/t/1024744#reply7) | Mon Mar 18 2024 7:28 AM
-- 🥷 [测试要失业了？](https://www.v2ex.com/t/1024737#reply2) | Mon Mar 18 2024 7:14 AM
-- 🐵 [我建了个网站，大家看看咋样](https://www.v2ex.com/t/1024722#reply14) | Mon Mar 18 2024 6:34 AM<!-- v2ex:END -->
+- 🥸 [openai 中转站的账号资源都是从哪里搞的](https://www.v2ex.com/t/1024850#reply0) | Mon Mar 18 2024 11:39 AM
+- 🤗 [c 语言是如何给汉字编码的？](https://www.v2ex.com/t/1024844#reply5) | Mon Mar 18 2024 11:19 AM
+- 🎭 [怎么训练一个 bot 深度学习和掌握牛克思哲学理论](https://www.v2ex.com/t/1024838#reply1) | Mon Mar 18 2024 11:04 AM
+- 🥷 [MoonBit 新增实验性功能： trait 支持默认实现](https://www.v2ex.com/t/1024835#reply1) | Mon Mar 18 2024 10:50 AM
+- 🐵 [农村家用摄像头求推荐](https://www.v2ex.com/t/1024831#reply6) | Mon Mar 18 2024 10:30 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
