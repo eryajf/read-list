@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [我建了个网站，大家看看咋样](https://www.v2ex.com/t/1024722#reply2) | Mon Mar 18 2024 6:34 AM
-- 🤗 [三星 s24 的 ai](https://www.v2ex.com/t/1024721#reply0) | Mon Mar 18 2024 6:29 AM
-- 🎭 [抖音直播的话，设备推荐](https://www.v2ex.com/t/1024712#reply9) | Mon Mar 18 2024 6:08 AM
-- 🥷 [2024 年 3 月求推荐 Android 备用机，续航越久越好，价格越低越好，谢谢～](https://www.v2ex.com/t/1024708#reply4) | Mon Mar 18 2024 5:59 AM
-- 🐵 [python2 中 import Tkinter 和 tkinter 什么区别?](https://www.v2ex.com/t/1024705#reply3) | Mon Mar 18 2024 5:52 AM<!-- v2ex:END -->
+- 🥸 [关于动态替换 import 内容的功能](https://www.v2ex.com/t/1024766#reply1) | Mon Mar 18 2024 8:08 AM
+- 🤗 [iOS 本地音乐播放器推荐](https://www.v2ex.com/t/1024762#reply1) | Mon Mar 18 2024 8:00 AM
+- 🎭 [windows Linux 之间如何优雅的迁移 Python 环境呢？](https://www.v2ex.com/t/1024744#reply7) | Mon Mar 18 2024 7:28 AM
+- 🥷 [测试要失业了？](https://www.v2ex.com/t/1024737#reply2) | Mon Mar 18 2024 7:14 AM
+- 🐵 [我建了个网站，大家看看咋样](https://www.v2ex.com/t/1024722#reply14) | Mon Mar 18 2024 6:34 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
