@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [近期易支付问题](https://www.v2ex.com/t/1024668#reply0) | Mon Mar 18 2024 4:09 AM
-- 🤗 [为什么 AI 框架都只支持远古版本 Python ？](https://www.v2ex.com/t/1024653#reply4) | Mon Mar 18 2024 3:39 AM
-- 🎭 [原来 Linux 代码也有公司利益、政治斗争。](https://www.v2ex.com/t/1024652#reply6) | Mon Mar 18 2024 3:37 AM
-- 🥷 [写博客避坑指南： Google 服务相关的内容，托管在 Github Pages 才是最终归宿](https://www.v2ex.com/t/1024651#reply0) | Mon Mar 18 2024 3:33 AM
-- 🐵 [关于 oss 存储数据迁移到本地（搭建本地存储）](https://www.v2ex.com/t/1024650#reply17) | Mon Mar 18 2024 3:31 AM<!-- v2ex:END -->
+- 🥸 [我建了个网站，大家看看咋样](https://www.v2ex.com/t/1024722#reply2) | Mon Mar 18 2024 6:34 AM
+- 🤗 [三星 s24 的 ai](https://www.v2ex.com/t/1024721#reply0) | Mon Mar 18 2024 6:29 AM
+- 🎭 [抖音直播的话，设备推荐](https://www.v2ex.com/t/1024712#reply9) | Mon Mar 18 2024 6:08 AM
+- 🥷 [2024 年 3 月求推荐 Android 备用机，续航越久越好，价格越低越好，谢谢～](https://www.v2ex.com/t/1024708#reply4) | Mon Mar 18 2024 5:59 AM
+- 🐵 [python2 中 import Tkinter 和 tkinter 什么区别?](https://www.v2ex.com/t/1024705#reply3) | Mon Mar 18 2024 5:52 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
