@@ -204,7 +204,12 @@
 ### 美团技术团队
 
 <!-- meituan:START -->
-- 🕯 [基于接口数据变异的App健壮性测试实践](https://tech.meituan.com/2024/02/29/meituan-robustness-practice.html) | Thu Feb 29 2024 12:00 AM 
+- 🕯 [美团大规模KV存储挑战与架构实践](https://tech.meituan.com/2024/03/15/kv-squirrel-cellar.html) | Fri Mar 15 2024 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    KV 存储作为美团一项重要的在线存储服务，承载了在线服务每天万亿级的请求量，并且保持着 99.995% 的服务可用性。在 DataFunSummit 2023 数据基础架构峰会上，我们分享了《美团大规模 KV 存储挑战与架构实践》，本文为演讲内容的整理。文章主要分为四个部分：第一部分介绍了美团 KV 存储发展历程；第二部分分享了内存 KV Squirrel 挑战和架构实践；第三部分阐述了持久化 KV Cellar 挑战和架构实践；最后一部分介绍了未来的发展规划。希望这些内容对大家有所帮助或启发。 
+    </details> 
+
+- 🤠 [基于接口数据变异的App健壮性测试实践](https://tech.meituan.com/2024/02/29/meituan-robustness-practice.html) | Thu Feb 29 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     本文整理自美团技术沙龙第77期《美团亿级流量系统的质量风险防控和稳定性治理实践》，主要介绍了对网络返回数据进行变异的客户端健壮性测试实践经验。文章第一部分介绍客户端健壮性测试的基本概念；第二部分分享了基于接口返回数据变异的App健壮性测试方案设计的思路；第三部分主要解读了变异数据的构造和异常检测方案设计；第四部分介绍了精简变异数据的探索方案。 
     </details> 
@@ -214,19 +219,14 @@
     在龙年春节到来之际，我们精选过去一年公众号30多篇技术文章和科研论文，整理制作成一本600多页的电子书，作为新年礼物赠送给大家。祝愿大家在甲辰龙年，幸福平安，行稳致远。 
     </details> 
 
-- 🤠 [分布式因果推断在美团履约平台的探索与实践](https://tech.meituan.com/2024/01/25/identify-causal-effect.html) | Thu Jan 25 2024 12:00 AM 
+- 🚀 [分布式因果推断在美团履约平台的探索与实践](https://tech.meituan.com/2024/01/25/identify-causal-effect.html) | Thu Jan 25 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     美团履约平台技术部在因果推断领域持续的探索和实践中，自研了一系列分布式的工具。本文重点介绍了分布式因果树算法的实现，并系统地阐述如何设计实现一种分布式因果树算法，以及因果效应评估方面qini_curve/qini_score的不足与应对技巧。希望能为从事因果推断相关工作的同学们提供一些启发或帮助。 
     </details> 
 
-- 🚀 [美团RASP大规模研发部署实践总结](https://tech.meituan.com/2024/01/19/runtime-application-self-protection-practice-in-meituan.html) | Fri Jan 19 2024 12:00 AM 
+- ⚗️ [美团RASP大规模研发部署实践总结](https://tech.meituan.com/2024/01/19/runtime-application-self-protection-practice-in-meituan.html) | Fri Jan 19 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     RASP是Runtime Application Self-Protection（运行时应用自我保护）的缩写，是一种应用程序安全技术。RASP 技术能够在应用程序运行时检测并阻止应用级别的攻击。随着云计算和大数据的发展，应用程序安全越来越受到重视。RASP 技术作为一种新型的安全防护手段，正在逐渐被业界接受并广泛应用。 
-    </details> 
-
-- ⚗️ [2023 | 美团技术团队热门技术文章汇总](https://tech.meituan.com/2024/01/04/tech-meituan-summary-2023.html) | Thu Jan 04 2024 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    时光飞逝，告别了难忘的2023，迎来了充满希望的2024。再次感谢大家的一路相伴。我们整理了2023年美团技术团队微信公众号阅读量靠前的10篇技术文章，欢迎大家品阅。祝愿大家在新的一年里，幸福平安，行稳致远。 
     </details> 
 <!-- meituan:END -->
 
