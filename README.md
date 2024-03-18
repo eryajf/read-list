@@ -342,29 +342,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Ecahrts.toolbox 图标自定义](https://juejin.cn/post/7347668506239991860) | Mon Mar 18 2024 12:21 PM 
+- 🤗 [为什么Redis集群的最大槽数是16384个？](https://juejin.cn/post/7347669914184630335) | Mon Mar 18 2024 2:07 PM 
     <details><summary>展开描述 ...</summary> 
-    icon 选项 可以通过 &#39;image://url&#39; 设置为图片，其中 URL 为图片的链接，或者 dataURI。 URL 为图片链接例如： URL 为 dataURI 例如： 可以通过 &#39;path 
+    大家好，我是大明哥，一个专注「死磕 Java」系列创作的硬核程序员。 本文已收录到我的小站：skjava.com。 回答 在 Redis 集群中，Redis 根据公式 HASH_SLOT=CRC16&lpar; 
     </details> 
 
-- 🎡 [认识区块链（六）：区块链的底层实现之共识机制与P2P](https://juejin.cn/post/7347617618511462454) | Mon Mar 18 2024 12:02 PM 
+- 🎡 [传统 Hal 开发指南1 —— 开发环境准备](https://juejin.cn/post/7347668079994208275) | Mon Mar 18 2024 2:03 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 在认识区块链系列的前几篇中，我们已经介绍了区块链的作用、发展、解决了什么问题、以及底层实现之密码学、分布式等等，这篇博客主要围绕的是区块链的另外两个底层技术--共识机制与P2P。 共识机制指的是 
+    1. 引子 Android 8 以前的 HAL，我们称之为传统 HAL。 在这个阶段，HAL 层以 so 库的形式存在，Framework 层通过 JNI 加载到这些 so 库，然后 Framewor 
     </details> 
 
-- 🕯 [认识区块链（五）：区块链的底层实现之分布式](https://juejin.cn/post/7347617618511446070) | Mon Mar 18 2024 12:01 PM 
+- 🕯 [Android HAL 层概览](https://juejin.cn/post/7347668079994159123) | Mon Mar 18 2024 2:02 PM 
     <details><summary>展开描述 ...</summary> 
-    前言 在认识区块链系列的前几篇中，我们已经介绍了区块链的作用、发展、解决了什么问题、以及底层实现之密码学等等，这篇博客主要围绕的是区块链的另一个底层技术--分布式。 分布式技术是区块链的核心之一，正是 
+    引子 按照既定的计划，在讲解了 Activity 启动过程以后，接下来我们就要讲 Activity 的显示过程了。但是 Activity 显示过程会涉及到两个 Hal 模块 Gralloc 和 Har 
     </details> 
 
-- 🚀 [业务开发做到零 bug 有多难？](https://juejin.cn/post/7347668702029971475) | Mon Mar 18 2024 11:55 AM 
+- 🚀 [单点登录：一把钥匙开启所有门](https://juejin.cn/post/7347671948737429539) | Mon Mar 18 2024 2:01 PM 
     <details><summary>展开描述 ...</summary> 
-    大家好，我是树哥，好久不见啦。 作为一个工作了 10 多年的开发，写业务代码总是写了不少的。但你想过做到零 bug 吗？我可是想过的，毕竟我还是有点追求的。不然每天都是浑浑噩噩地过，多没意思啊。 大概 
+    单点登录（SSO）技术，就像是一把开启企业数字化大门的钥匙，让用户一次登录，随处访问，极大地提升了工作效率和用户体验。具体到技术实现上，当用户首次登录时，SSO系统会进行认证，并发放一个凭证（如Tok 
     </details> 
 
-- 💪 [提升地理空间分析效率，火山引擎ByteHouse上线GIS能力](https://juejin.cn/post/7347667306459234355) | Mon Mar 18 2024 11:47 AM 
+- 💪 [为 java 开发者设计的性能测试框架，用于压测+测试报告生成](https://juejin.cn/post/7347668702030331923) | Mon Mar 18 2024 1:33 PM 
     <details><summary>展开描述 ...</summary> 
-    在数字化时代，地理空间分析（Geospatial Analytics）成为辅助企业市场策略洞察的重要手段。无论是广告投放的精准定位，还是电商物流的效率优化，都离不开对地理空间数据的查询、分析和可视化处 
+    # 拓展阅读 [junit5 系列教程]&lpar;https://houbb.github.io/2018/06/24/junit5-01-hello&rpar; [基于 junit5 实现 junitperf  
     </details> 
 <!-- juejin:END -->
 ### 少数派
