@@ -100,11 +100,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [科技爱好者周刊（第 293 期）：一周是一年的2%](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html) | Fri Mar 15 2024 12:13 AM
-- 💪 [科技爱好者周刊（第 292 期）：所有代码都是技术债](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html) | Fri Mar 08 2024 12:24 AM
-- 🐎 [科技爱好者周刊（第 291 期）：AI 没有护城河](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-291.html) | Fri Mar 01 2024 12:25 AM
-- 🤔 [科技爱好者周刊（第 290 期）：苹果头盔的最大问题](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-290.html) | Fri Feb 23 2024 12:11 AM
-- 🧠 [科技爱好者周刊（第 289 期）：宽容从何而来](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html) | Fri Feb 02 2024 12:23 AM<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 294 期）：崖门海战的感想](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html) | Fri Mar 22 2024 12:11 AM
+- 💪 [科技爱好者周刊（第 293 期）：一周是一年的2%](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html) | Fri Mar 15 2024 12:13 AM
+- 🐎 [科技爱好者周刊（第 292 期）：所有代码都是技术债](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html) | Fri Mar 08 2024 12:24 AM
+- 🤔 [科技爱好者周刊（第 291 期）：AI 没有护城河](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-291.html) | Fri Mar 01 2024 12:25 AM
+- 🧠 [科技爱好者周刊（第 290 期）：苹果头盔的最大问题](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-290.html) | Fri Feb 23 2024 12:11 AM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
