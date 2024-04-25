@@ -62,30 +62,30 @@
 ### 二丫讲梵
 
 <!-- eryajf:START -->
-- 🫶 [学习周刊-总第150期-2024年第11周](https://wiki.eryajf.net/pages/1fe169/) | Thu Mar 14 2024 10:06 PM
-    <details><summary>展开描述 ...</summary>
-    学习周刊-总第150期-本期干货太多，快来看
-    </details>
+- 🫶 [学习周刊-总第156期-2024年第17周](https://wiki.eryajf.net/pages/86eeef/) | Thu Apr 25 2024 9:52 PM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第156期,一个通用的开源落地页模板 
+    </details> 
 
-- 🧰 [带你认识本地大模型框架Ollama&lpar;可直接上手&rpar;](https://wiki.eryajf.net/pages/97047e/) | Sat Mar 09 2024 10:11 PM
-    <details><summary>展开描述 ...</summary>
-    自 OpenAI 公司于2022 年 11 月 30 日发布 ChatGPT 以来，经过 23 年一整年的发展之后，大模型的概念已逐渐普及，各种基于大模型的周边产品，以及集成层出不穷，可以说已经玩出花来了。在这个过程中，也有不少本地化的模型应用方案冒了出来，针对一些企业知识库问答的场景中，模型本地化是第一优先考虑的问题，因此如何在本地把模型调教的更加智能，就是一个非常重要的技能了。在 23 年的时候，我也接触过一些本地模型的开源项目&lpar;比如 LocalAI&rpar;，当时在本地部署跑起来之后，发现交互的体验，回答的速度，以及智能程度，都远低于预期。最近又一次了解本地模型的玩法，从微信群里了解到了 ollama，经过几天业余时间的研究及了解，发现现在模型本地化的玩法，以及能力都早已不可同日而语，本文，将记录我这几天来对于 ollama 的粗浅认识以及快速入门玩起来。
-    </details>
+- 🧰 [基于langchaingo实现知识库对接本地模型ollama的分步探索](https://wiki.eryajf.net/pages/6bd394/) | Fri Apr 19 2024 8:50 AM 
+    <details><summary>展开描述 ...</summary> 
+    在前边的两篇文章中，首先介绍了当下最火热的本地大语言模型管理框架 ollama 的入门，之后又单独开了一篇介绍的核心概念及问题，谈到 rag 的问题之后，最后我得出的结论是，劝退，劝退你，也劝退我自己。但，且慢，上篇文章已经把理论，以及流程都介绍完了，那，不亲自上手玩一玩，岂不是显得太过纸上谈兵了。因此，这篇就是通过一个简单的示例，结合 langchaingo 来实现一下自己开发 rag 应用的整个流程。 
+    </details> 
 
-- 🌏 [学习周刊-总第149期-2024年第10周](https://wiki.eryajf.net/pages/9c5e05/) | Thu Mar 07 2024 10:29 PM
-    <details><summary>展开描述 ...</summary>
-    学习周刊-总第149期-一款集成Website analytics+ Uptime Monitor + Server Status的网站状态监测工具
-    </details>
+- 🌏 [学习周刊-总第155期-2024年第16周](https://wiki.eryajf.net/pages/1a1eb1/) | Fri Apr 19 2024 12:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    学习周刊-总第155期,又一款开源的数据库软件，又一款开源的类似沉浸式翻译的插件 
+    </details> 
 
-- 😎 [学习周刊-总第148期-2024年第09周](https://wiki.eryajf.net/pages/5e2bc3/) | Thu Feb 29 2024 11:05 PM
-    <details><summary>展开描述 ...</summary>
-    学习周刊-总第148期-一个开源数据库一体化监控平台
-    </details>
+- 😎 [rag-带你认识了解并劝退](https://wiki.eryajf.net/pages/75e1bc/) | Sun Apr 14 2024 10:14 PM 
+    <details><summary>展开描述 ...</summary> 
+    我对 rag 算不上特别了解，本文只是一个基于当前阶段，个人的一些理解与认识，希望记录下来，纯粹是为了给自己的一些付出做一个阶段性交代。因此这不是一篇资深人士或者专业人士的专业分析，而是一篇面向像我一样的门外人士的简单入门，认识了解 rag 的文章。如果你已经十分熟悉，那么完全可以跳过不看，我也在纠结个人粗浅的认识要不要记录下来，但就像最初记录博客文章的初心那样，不要因为内容粗浅而不记录，这正是自己学习成长的一个见证。 
+    </details> 
 
-- 💂 [学习周刊-总第147期-2024年第08周](https://wiki.eryajf.net/pages/5997f0/) | Fri Feb 23 2024 8:49 AM
-    <details><summary>展开描述 ...</summary>
-    学习周刊-总第147期-一个项目协作开源软件
-    </details>
+- 💂 [利用promwrite对prometheus进行remote-write写入](https://wiki.eryajf.net/pages/3bd2f4/) | Wed Apr 10 2024 11:17 PM 
+    <details><summary>展开描述 ...</summary> 
+    prometheus 大概在 2.30 版本左右的时候，增加了 remote write 的能力，这是一种有别于 exporter 暴漏指标由 prometheus 拉，以及 pushgateway 推的指标上报方式，你可以借助于这种方式上报你的指标，也可以基于此能力，将多个集群的指标汇聚到一个集群之中。腾讯云的 cls 推出了指标主题的类型，其支持的，也正是这种 remote write 写入的方式。 
+    </details> 
 <!-- eryajf:END -->
 
 ### 酷壳
