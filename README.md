@@ -118,30 +118,30 @@
 ### 独立开发变现周刊
 
 <!-- easyindie:START -->
-- 💂 [独立开发变现周刊（第128期） : 一个互动问答工具年收入300万美元](https://www.ezindie.com/weekly/issue-128) | Fri Mar 29 2024 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。一个互动问答工具年收入300万美元
-    </details>
+- 💂 [独立开发变现周刊（第131期） : 3周内打造的产品赚了6万美元](https://www.ezindie.com/weekly/issue-131) | Fri Apr 26 2024 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。3周内打造的产品赚了6万美元 
+    </details> 
 
-- 💡 [独立开发变现周刊（第127期） : 失败了三次，25岁开发月入5万美元的Shopify插件](https://www.ezindie.com/weekly/issue-127) | Fri Mar 22 2024 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。失败了三次，25岁开发月入5万美元的Shopify插件
-    </details>
+- 💡 [独立开发变现周刊（第130期） : 建立一个月收入8000美元的在线计时器](https://www.ezindie.com/weekly/issue-130) | Fri Apr 19 2024 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。建立一个月收入8000美元的在线计时器 
+    </details> 
 
-- 🌋 [独立开发变现周刊（第126期） : 治愈恐慌的App月入8.3万美元](https://www.ezindie.com/weekly/issue-126) | Fri Mar 15 2024 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。治愈恐慌的App月入8.3万美元
-    </details>
+- 🌋 [独立开发变现周刊（第129期） : 一周内构建的Tailwind CSS插件，每年收入3万美元](https://www.ezindie.com/weekly/issue-129) | Fri Apr 05 2024 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。一周内构建的Tailwind CSS插件，每年收入3万美元 
+    </details> 
 
-- 🕴 [独立开发变现周刊（第125期） : 个人Notion如何每月收入3万美元](https://www.ezindie.com/weekly/issue-125) | Fri Mar 08 2024 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。个人Notion如何每月收入3万美元
-    </details>
+- 🕴 [独立开发变现周刊（第128期） : 一个互动问答工具年收入300万美元](https://www.ezindie.com/weekly/issue-128) | Fri Mar 29 2024 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。一个互动问答工具年收入300万美元 
+    </details> 
 
-- 🎊 [独立开发变现周刊（第124期） : 从100到3万美元，邮件订阅的低成本高收益秘诀](https://www.ezindie.com/weekly/issue-124) | Sat Feb 24 2024 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    分享独立开发产品变现相关有价值的内容，每周五发布。从100到3万美元，邮件订阅的低成本高收益秘诀
-    </details>
+- 🎊 [独立开发变现周刊（第127期） : 失败了三次，25岁开发月入5万美元的Shopify插件](https://www.ezindie.com/weekly/issue-127) | Fri Mar 22 2024 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。失败了三次，25岁开发月入5万美元的Shopify插件 
+    </details> 
 <!-- easyindie:END -->
 
 
