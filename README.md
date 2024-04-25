@@ -100,11 +100,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [科技爱好者周刊（第 295 期）：巧妙的灯泡钟](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html) | Fri Mar 29 2024 12:16 AM
-- 💪 [2024最流行的网站架构----边缘平台架构：概念与产品](http://www.ruanyifeng.com/blog/2024/03/edge-platform.html) | Tue Mar 26 2024 12:26 AM
-- 🐎 [科技爱好者周刊（第 294 期）：崖门海战的感想](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html) | Fri Mar 22 2024 12:11 AM
-- 🤔 [科技爱好者周刊（第 293 期）：一周是一年的2%](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html) | Fri Mar 15 2024 12:13 AM
-- 🧠 [科技爱好者周刊（第 292 期）：所有代码都是技术债](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html) | Fri Mar 08 2024 12:24 AM<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 297 期）：饮水鸟玩具](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html) | Fri Apr 19 2024 12:27 AM
+- 💪 [科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html) | Thu Apr 11 2024 11:38 PM
+- 🐎 [科技爱好者周刊（第 295 期）：巧妙的灯泡钟](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html) | Fri Mar 29 2024 12:16 AM
+- 🤔 [2024最流行的网站架构----边缘平台架构：概念与产品](http://www.ruanyifeng.com/blog/2024/03/edge-platform.html) | Tue Mar 26 2024 12:26 AM
+- 🧠 [科技爱好者周刊（第 294 期）：崖门海战的感想](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html) | Fri Mar 22 2024 12:11 AM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
