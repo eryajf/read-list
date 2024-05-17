@@ -100,11 +100,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [科技爱好者周刊（第 299 期）：AI 的关键是语料](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-299.html) | Fri May 10 2024 12:15 AM
-- 💪 [科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html) | Fri Apr 26 2024 12:09 AM
-- 🐎 [科技爱好者周刊（第 297 期）：饮水鸟玩具](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html) | Fri Apr 19 2024 12:27 AM
-- 🤔 [科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html) | Thu Apr 11 2024 11:38 PM
-- 🧠 [科技爱好者周刊（第 295 期）：巧妙的灯泡钟](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html) | Fri Mar 29 2024 12:16 AM<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 300 期）：三十年，解决人生三大问题](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-300.html) | Fri May 17 2024 12:13 AM
+- 💪 [科技爱好者周刊（第 299 期）：AI 的关键是语料](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-299.html) | Fri May 10 2024 12:15 AM
+- 🐎 [科技爱好者周刊（第 298 期）：轮到硬件工程师吃香了](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html) | Fri Apr 26 2024 12:09 AM
+- 🤔 [科技爱好者周刊（第 297 期）：饮水鸟玩具](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html) | Fri Apr 19 2024 12:27 AM
+- 🧠 [科技爱好者周刊（第 296 期）：xz 后门的作者 Jia Tan 是谁？](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html) | Thu Apr 11 2024 11:38 PM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
