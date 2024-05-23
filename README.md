@@ -118,29 +118,29 @@
 ### 独立开发变现周刊
 
 <!-- easyindie:START -->
-- 💂 [独立开发变现周刊（第133期） : 副业项目10个月赚了10万美元](https://www.ezindie.com/weekly/issue-133) | Fri May 17 2024 12:00 AM 
+- 💂 [独立开发变现周刊（第134期） : 视频图片压缩工具月收入2.5K美金](https://www.ezindie.com/weekly/issue-134) | Fri May 24 2024 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。视频图片压缩工具月收入2.5K美金 
+    </details> 
+
+- 💡 [独立开发变现周刊（第133期） : 副业项目10个月赚了10万美元](https://www.ezindie.com/weekly/issue-133) | Fri May 17 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。副业项目10个月赚了10万美元 
     </details> 
 
-- 💡 [独立开发变现周刊（第132期） : 一个年收入1200万美元的在线Logo制作器](https://www.ezindie.com/weekly/issue-132) | Fri May 10 2024 12:00 AM 
+- 🌋 [独立开发变现周刊（第132期） : 一个年收入1200万美元的在线Logo制作器](https://www.ezindie.com/weekly/issue-132) | Fri May 10 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。一个年收入1200万美元的在线Logo制作器 
     </details> 
 
-- 🌋 [独立开发变现周刊（第131期） : 3周内打造的产品赚了6万美元](https://www.ezindie.com/weekly/issue-131) | Fri Apr 26 2024 12:00 AM 
+- 🕴 [独立开发变现周刊（第131期） : 3周内打造的产品赚了6万美元](https://www.ezindie.com/weekly/issue-131) | Fri Apr 26 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。3周内打造的产品赚了6万美元 
     </details> 
 
-- 🕴 [独立开发变现周刊（第130期） : 建立一个月收入8000美元的在线计时器](https://www.ezindie.com/weekly/issue-130) | Fri Apr 19 2024 12:00 AM 
+- 🎊 [独立开发变现周刊（第130期） : 建立一个月收入8000美元的在线计时器](https://www.ezindie.com/weekly/issue-130) | Fri Apr 19 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。建立一个月收入8000美元的在线计时器 
-    </details> 
-
-- 🎊 [独立开发变现周刊（第129期） : 一周内构建的Tailwind CSS插件，每年收入3万美元](https://www.ezindie.com/weekly/issue-129) | Fri Apr 05 2024 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。一周内构建的Tailwind CSS插件，每年收入3万美元 
     </details> 
 <!-- easyindie:END -->
 
