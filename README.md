@@ -133,9 +133,9 @@
     分享独立开发产品变现相关有价值的内容，每周五发布。副业项目10个月赚了10万美元 
     </details> 
 
-- 🕴 [独立开发变现周刊（第132期） : 一个年收入1200万美元的在线Logo制作器](https://www.ezindie.com/weekly/issue-132) | Fri May 10 2024 12:00 AM 
+- 🕴 [独立开发变现周刊（第132期） : 一个年收入60万美元的在线Logo制作器](https://www.ezindie.com/weekly/issue-132) | Fri May 10 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。一个年收入1200万美元的在线Logo制作器 
+    分享独立开发产品变现相关有价值的内容，每周五发布。一个年收入60万美元的在线Logo制作器 
     </details> 
 
 - 🎊 [独立开发变现周刊（第131期） : 3周内打造的产品赚了6万美元](https://www.ezindie.com/weekly/issue-131) | Fri Apr 26 2024 12:00 AM 
