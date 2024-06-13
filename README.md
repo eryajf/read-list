@@ -118,29 +118,29 @@
 ### 独立开发变现周刊
 
 <!-- easyindie:START -->
-- 💂 [独立开发变现周刊（第136期） : 开发一个每年赚10万美元的网站拦截器](https://www.ezindie.com/weekly/issue-136) | Fri Jun 07 2024 12:00 AM 
+- 💂 [独立开发变现周刊（第137期） : 在线写作课程年收入30万美元](https://www.ezindie.com/weekly/issue-137) | Fri Jun 14 2024 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。在线写作课程年收入30万美元 
+    </details> 
+
+- 💡 [独立开发变现周刊（第136期） : 开发一个每年赚10万美元的网站拦截器](https://www.ezindie.com/weekly/issue-136) | Fri Jun 07 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。开发一个每年赚10万美元的网站拦截器 
     </details> 
 
-- 💡 [独立开发变现周刊（第135期） : 简单的网页托管小工具  月收入1.5万美金](https://www.ezindie.com/weekly/issue-135) | Fri May 31 2024 12:00 AM 
+- 🌋 [独立开发变现周刊（第135期） : 简单的网页托管小工具  月收入1.5万美金](https://www.ezindie.com/weekly/issue-135) | Fri May 31 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。简单的网页托管小工具  月收入1.5万美金 
     </details> 
 
-- 🌋 [独立开发变现周刊（第134期） : 视频图片压缩工具月收入2.5K美金](https://www.ezindie.com/weekly/issue-134) | Fri May 24 2024 12:00 AM 
+- 🕴 [独立开发变现周刊（第134期） : 视频图片压缩工具月收入2.5K美金](https://www.ezindie.com/weekly/issue-134) | Fri May 24 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。视频图片压缩工具月收入2.5K美金 
     </details> 
 
-- 🕴 [独立开发变现周刊（第133期） : 副业项目10个月赚了10万美元](https://www.ezindie.com/weekly/issue-133) | Fri May 17 2024 12:00 AM 
+- 🎊 [独立开发变现周刊（第133期） : 副业项目10个月赚了10万美元](https://www.ezindie.com/weekly/issue-133) | Fri May 17 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。副业项目10个月赚了10万美元 
-    </details> 
-
-- 🎊 [独立开发变现周刊（第132期） : 一个年收入60万美元的在线Logo制作器](https://www.ezindie.com/weekly/issue-132) | Fri May 10 2024 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。一个年收入60万美元的在线Logo制作器 
     </details> 
 <!-- easyindie:END -->
 
