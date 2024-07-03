@@ -100,11 +100,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [科技爱好者周刊（第 306 期）：信息就像糖一样上瘾](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-306.html) | Fri Jun 28 2024 12:15 AM
-- 💪 [科技爱好者周刊（第 305 期）：随机数，这是一个问题](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-305.html) | Fri Jun 21 2024 12:13 AM
-- 🐎 [科技爱好者周刊（第 304 期）：最受欢迎的颜色](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-304.html) | Fri Jun 14 2024 12:13 AM
-- 🤔 [科技爱好者周刊（第 303 期）：技术封建主义](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-303.html) | Fri Jun 07 2024 12:10 AM
-- 🧠 [科技爱好者周刊（第 302 期）：创业虽然好，不敢推荐了](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-302.html) | Fri May 31 2024 12:11 AM<!-- ruanyf:END -->
+- 🌊 [AI 编程助手测评：GitHub Copilot vs 豆包 MarsCode](http://www.ruanyifeng.com/blog/2024/07/copilot-vs-marscode.html) | Wed Jul 03 2024 3:10 AM
+- 💪 [科技爱好者周刊（第 306 期）：信息就像糖一样上瘾](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-306.html) | Fri Jun 28 2024 12:15 AM
+- 🐎 [科技爱好者周刊（第 305 期）：随机数，这是一个问题](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-305.html) | Fri Jun 21 2024 12:13 AM
+- 🤔 [科技爱好者周刊（第 304 期）：最受欢迎的颜色](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-304.html) | Fri Jun 14 2024 12:13 AM
+- 🧠 [科技爱好者周刊（第 303 期）：技术封建主义](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-303.html) | Fri Jun 07 2024 12:10 AM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
