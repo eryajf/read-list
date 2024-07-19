@@ -100,11 +100,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [科技爱好者周刊（第 308 期）：工作找不到，博士能读吗？](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html) | Fri Jul 12 2024 12:19 AM
-- 💪 [科技爱好者周刊（第 307 期）：不要看重 Product Hunt](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html) | Fri Jul 05 2024 12:17 AM
-- 🐎 [AI 编程助手测评：GitHub Copilot vs 豆包 MarsCode](http://www.ruanyifeng.com/blog/2024/07/copilot-vs-marscode.html) | Wed Jul 03 2024 3:10 AM
-- 🤔 [科技爱好者周刊（第 306 期）：信息就像糖一样上瘾](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-306.html) | Fri Jun 28 2024 12:15 AM
-- 🧠 [科技爱好者周刊（第 305 期）：随机数，这是一个问题](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-305.html) | Fri Jun 21 2024 12:13 AM<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html) | Fri Jul 19 2024 12:09 AM
+- 💪 [科技爱好者周刊（第 308 期）：工作找不到，博士能读吗？](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html) | Fri Jul 12 2024 12:19 AM
+- 🐎 [科技爱好者周刊（第 307 期）：不要看重 Product Hunt](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html) | Fri Jul 05 2024 12:17 AM
+- 🤔 [AI 编程助手测评：GitHub Copilot vs 豆包 MarsCode](http://www.ruanyifeng.com/blog/2024/07/copilot-vs-marscode.html) | Wed Jul 03 2024 3:10 AM
+- 🧠 [科技爱好者周刊（第 306 期）：信息就像糖一样上瘾](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-306.html) | Fri Jun 28 2024 12:15 AM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
