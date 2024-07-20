@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [幻景AI - 免费在线AI绘图工具](https://xinquji.com/posts/809877?utm_campaign=xinquji-rss) | Mon Mar 18 2024 7:09 AM
-    <details><summary>展开描述 ...</summary>
-     免费在线AI绘图工具
-    </details>
+- 👀 [Editor.do - 一体化在线 IDE、可视化生成器和主机](https://xinquji.com/posts/812658?utm_campaign=xinquji-rss) | Sat Jul 20 2024 6:00 AM 
+    <details><summary>展开描述 ...</summary> 
+     一体化在线 IDE、可视化生成器和主机  
+    </details> 
 
-- 🥷 [Green Pony - 由 memecoin 提供支持的在线视频下载器](https://xinquji.com/posts/809961?utm_campaign=xinquji-rss) | Mon Mar 18 2024 6:00 AM
-    <details><summary>展开描述 ...</summary>
-     由 memecoin 提供支持的在线视频下载器
-    </details>
+- 🥷 [Kinetical - 创建具有丰富预览和零代码的链接](https://xinquji.com/posts/812657?utm_campaign=xinquji-rss) | Sat Jul 20 2024 6:00 AM 
+    <details><summary>展开描述 ...</summary> 
+     创建具有丰富预览和零代码的链接  
+    </details> 
 
-- 💼 [AI/ML API - 1 个 API 100+ AI 模型](https://xinquji.com/posts/809960?utm_campaign=xinquji-rss) | Mon Mar 18 2024 6:00 AM
-    <details><summary>展开描述 ...</summary>
-     1 个 API 100+ AI 模型
-    </details>
+- 💼 [Ultimate PO Box Blocker for Shopify - 在 Shopify 结账时实时阻止邮政信箱地址](https://xinquji.com/posts/812656?utm_campaign=xinquji-rss) | Sat Jul 20 2024 6:00 AM 
+    <details><summary>展开描述 ...</summary> 
+     在 Shopify 结账时实时阻止邮政信箱地址  
+    </details> 
 
-- 🦅 [Sequence - 打造最好的 Web3 游戏和体验](https://xinquji.com/posts/809959?utm_campaign=xinquji-rss) | Mon Mar 18 2024 6:00 AM
-    <details><summary>展开描述 ...</summary>
-     打造最好的 Web3 游戏和体验
-    </details>
+- 🦅 [Cohesive AI - Google Sheets 中的 AI 支持的网络抓取和研究](https://xinquji.com/posts/812655?utm_campaign=xinquji-rss) | Sat Jul 20 2024 6:00 AM 
+    <details><summary>展开描述 ...</summary> 
+     Google Sheets 中的 AI 支持的网络抓取和研究  
+    </details> 
 
-- 😺 [Chaturji - 人工智能 - 为您的团队提供所有最好的人工智能和协作](https://xinquji.com/posts/809958?utm_campaign=xinquji-rss) | Mon Mar 18 2024 6:00 AM
-    <details><summary>展开描述 ...</summary>
-     人工智能 - 为您的团队提供所有最好的人工智能和协作
-    </details>
+- 😺 [Social Media Kit - 在几秒钟内创建社交媒体轮播帖子](https://xinquji.com/posts/812654?utm_campaign=xinquji-rss) | Sat Jul 20 2024 6:00 AM 
+    <details><summary>展开描述 ...</summary> 
+     在几秒钟内创建社交媒体轮播帖子  
+    </details> 
 <!-- xinquji:END -->
