@@ -605,30 +605,30 @@
 ### 摄影世界
 
 <!-- photoworld:START -->
-- 🤠 [山在那里，每一天都不一样——携富士 GFX 探索风光摄影新境界](https://www.photoworld.com.cn/post/176274) | Fri Mar 15 2024 3:02 AM
-    <details><summary>展开描述 ...</summary>
+- 🤠 [雷军年度演讲开启｜硬核科技实力迎来全面井喷](https://www.photoworld.com.cn/post/177203) | Sat Jul 20 2024 2:47 PM 
+    <details><summary>展开描述 ...</summary> 
+     
+    </details> 
 
-    </details>
+- 🎃 [大方从容｜小米发布全新 Xiaomi MIX 折叠屏家族](https://www.photoworld.com.cn/post/177223) | Sat Jul 20 2024 2:47 PM 
+    <details><summary>展开描述 ...</summary> 
+     
+    </details> 
 
-- 🎃 [驰骋雪原｜三赴冰雪运动之约](https://www.photoworld.com.cn/post/176257) | Thu Mar 14 2024 2:28 AM
-    <details><summary>展开描述 ...</summary>
+- 👀 [突破 Redmi 最强体验，Redmi K70 至尊版震撼来袭！](https://www.photoworld.com.cn/post/177240) | Sat Jul 20 2024 2:47 PM 
+    <details><summary>展开描述 ...</summary> 
+     
+    </details> 
 
-    </details>
+- 🤔 [打造丰富 AI 生态体验，三星 Galaxy Z Fold6|Z Flip6 及生态新品中国发布](https://www.photoworld.com.cn/post/177187) | Thu Jul 18 2024 1:35 AM 
+    <details><summary>展开描述 ...</summary> 
+     
+    </details> 
 
-- 👀 [“动” 感十足！与佳能 EOS R3 共舞冰雪 “佳” 年华](https://www.photoworld.com.cn/post/176219) | Fri Mar 08 2024 6:35 AM
-    <details><summary>展开描述 ...</summary>
-
-    </details>
-
-- 🤔 [真实有层次，探索影像新高度｜小米 14 Ultra 深度使用感受](https://www.photoworld.com.cn/post/176200) | Tue Mar 05 2024 9:43 AM
-    <details><summary>展开描述 ...</summary>
-
-    </details>
-
-- 👀 [复古外观，现代灵魂｜这是一台融合经典韵味与现代科技的微单相机](https://www.photoworld.com.cn/post/176142) | Thu Feb 29 2024 12:05 PM
-    <details><summary>展开描述 ...</summary>
-
-    </details>
+- 👀 [激活你的小美 “力”，索尼 APS-C 画幅微单™ZV-E10 II 新登场](https://www.photoworld.com.cn/post/177173) | Fri Jul 12 2024 6:18 AM 
+    <details><summary>展开描述 ...</summary> 
+     
+    </details> 
 <!-- photoworld:END -->
 
 ### 视觉联盟
