@@ -370,30 +370,30 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [花见花开暗香来：Apple 静安店抢先看](https://sspai.com/post/87357) | Mon Mar 18 2024 11:44 AM
-    <details><summary>展开描述 ...</summary>
-    🎁前往微博参与转发抽奖Apple静安是上海的第8家AppleStore零售店、大中华区的第57家零售店，也是备受瞩目的一家AppleStore零售店。自2017年开始封闭改造至今，已经过了整整七年的时 ...&lt;a href=&quot;https://sspai.com/post/87357&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
+- 👹 [具透 | macOS Sequoia Public Beta 公测版来了，这些是值得你关注的新功能](https://sspai.com/post/90618) | Sat Jul 20 2024 7:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    今年 Apple 不仅为 macOS Sequoia 带来了原生窗口分屏、独立的「密码」应用，还对系统内置的 Safari、日历、备忘录等软件带来了不少新功能。&lt;a href=&quot;https://sspai.com/post/90618&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
 
-- 🐘 [[送码] 派评 | 近期值得关注的 App](https://sspai.com/post/87366) | Mon Mar 18 2024 10:04 AM
-    <details><summary>展开描述 ...</summary>
-    欢迎在评论区和我们分享，本周五 &lpar;03.22&rpar;我们选出一条评论赠送「习惯点点」终身兑换码一枚。&lt;a href=&quot;https://sspai.com/post/87366&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
+- 🐘 [骁游记归来，聊聊我眼里的骁龙](https://sspai.com/post/90638) | Fri Jul 19 2024 10:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    骁龙芯片所赋能的智能产品已经跟我们的日常生活融为一体，不知不觉地改变着我们的生活方式。&lt;a href=&quot;https://sspai.com/post/90638&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
 
-- 🤭 [周岁前的日子也可以很精彩：我的小月龄带娃经历](https://sspai.com/post/84704) | Mon Mar 18 2024 8:30 AM
-    <details><summary>展开描述 ...</summary>
-    宝宝目前已经周岁啦，对这不到一年时间自己主导、娃爸配合，共同给她打造的独有体验做一个回顾性总结，分享给大家。&lt;a href=&quot;https://sspai.com/post/84704&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
+- 🤭 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/90624) | Fri Jul 19 2024 10:26 AM 
+    <details><summary>展开描述 ...</summary> 
+    ☕️TL;DR近期佳作推荐：[电影]落凡尘、[日剧]如虎添翼、[韩剧]政坛旋风、[日剧]黑色止血钳2、[美剧]毒蛇王后第二季、[电影]十字路口的猪、[动画]败北女角太多了！、[动画]擅长逃跑的殿下、[ ...&lt;a href=&quot;https://sspai.com/post/90624&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
 
-- 🥸 [派开箱 | 科技祛魅，返璞归真：明基新款屏幕挂灯实用也更好用了](https://sspai.com/post/87186) | Mon Mar 18 2024 6:48 AM
-    <details><summary>展开描述 ...</summary>
-    关于栏目我们时常会收到一些厂商送测体验、兼具优秀设计与极佳质感的好产品，部分被我们放在了《编辑部的新玩意》中作为分享，但碍于其主打体验的设定，我们亦希望一些更具吸引力的产品能被更多篇幅介绍，所以有了《 ...&lt;a href=&quot;https://sspai.com/post/87186&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
+- 🥸 [两天时间兜个小圈子，用自驾的方式认识贵州](https://sspai.com/post/90363) | Fri Jul 19 2024 8:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    贵州是个很值得来玩的地方，但作为本地人要给的第一个建议就是你得有预期想怎么玩。如果只是三五天的休闲游，待在贵阳是个很不错的选择。且不论各种街角巷落的正餐、小吃，还是城区的森林公园、城边的青岩古镇，乃至 ...&lt;a href=&quot;https://sspai.com/post/90363&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
 
-- 🙉 [做了 4 年短视频内容，我想和你分享这些心得方法](https://sspai.com/post/86760) | Mon Mar 18 2024 3:30 AM
-    <details><summary>展开描述 ...</summary>
-    Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...&lt;a href=&quot;https://sspai.com/post/86760&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt;
-    </details>
+- 🙉 [具透 | 精心细调更懂你：watchOS 11 中值得关注的更新](https://sspai.com/post/90582) | Fri Jul 19 2024 7:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    除了生命体征、运动负荷，你还能在 watchOS 11 还带来了更智能的叠放、实时通知、改进后的照片表盘以及可以随时暂停的三环。&lt;a href=&quot;https://sspai.com/post/90582&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
 <!-- sspai:END -->
 
 ### 知乎每日精选
