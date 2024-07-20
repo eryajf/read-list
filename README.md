@@ -204,30 +204,30 @@
 ### 美团技术团队
 
 <!-- meituan:START -->
-- 🕯 [美团大规模KV存储挑战与架构实践](https://tech.meituan.com/2024/03/15/kv-squirrel-cellar.html) | Fri Mar 15 2024 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    KV 存储作为美团一项重要的在线存储服务，承载了在线服务每天万亿级的请求量，并且保持着 99.995% 的服务可用性。在 DataFunSummit 2023 数据基础架构峰会上，我们分享了《美团大规模 KV 存储挑战与架构实践》，本文为演讲内容的整理。文章主要分为四个部分：第一部分介绍了美团 KV 存储发展历程；第二部分分享了内存 KV Squirrel 挑战和架构实践；第三部分阐述了持久化 KV Cellar 挑战和架构实践；最后一部分介绍了未来的发展规划。希望这些内容对大家有所帮助或启发。
-    </details>
+- 🕯 [基本功 | 一文讲清多线程和多线程同步](https://tech.meituan.com/2024/07/19/multi-threading-and-multi-thread-synchronization.html) | Fri Jul 19 2024 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    本篇文章将深入探讨多线程编程的基本概念（原子操作、CAS、Lock-free、内存屏障、伪共享、乱序执行等）、常见模式和最佳实践。通过具体的代码示例，希望能够帮助大家掌握多线程编程的核心技术，并在实际开发中应用这些知识，提升软件的性能和稳定性。 
+    </details> 
 
-- 🤠 [基于接口数据变异的App健壮性测试实践](https://tech.meituan.com/2024/02/29/meituan-robustness-practice.html) | Thu Feb 29 2024 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    本文整理自美团技术沙龙第77期《美团亿级流量系统的质量风险防控和稳定性治理实践》，主要介绍了对网络返回数据进行变异的客户端健壮性测试实践经验。文章第一部分介绍客户端健壮性测试的基本概念；第二部分分享了基于接口返回数据变异的App健壮性测试方案设计的思路；第三部分主要解读了变异数据的构造和异常检测方案设计；第四部分介绍了精简变异数据的探索方案。
-    </details>
+- 🤠 [搜索广告召回技术在美团的实践](https://tech.meituan.com/2024/07/05/the-practice-of-search-advertising-recall-technology-in-meituan.html) | Fri Jul 05 2024 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文整理自美团技术沙龙第81期《美团在广告算法领域的探索及实践》。首先介绍了美团搜索广告的三个阶段：多策略关键词挖掘、分层召回体系、生成式召回；然后重点介绍了生成式关键词召回、多模态生成式向量召回、生成式相关性判断在美团的实践。最后是一些经验分享及总结，希望能对大家有所帮助或启发。 
+    </details> 
 
-- 🤠 [美团技术年货 | 600+页电子书，前端、后端、算法、测试、运维系列大合集](https://tech.meituan.com/2024/02/01/2023-spring-festival-present.html) | Thu Feb 01 2024 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    在龙年春节到来之际，我们精选过去一年公众号30多篇技术文章和科研论文，整理制作成一本600多页的电子书，作为新年礼物赠送给大家。祝愿大家在甲辰龙年，幸福平安，行稳致远。
-    </details>
+- 🤠 [小程序可测性能力建设与实践](https://tech.meituan.com/2024/06/28/menpiao-testing-practice.html) | Fri Jun 28 2024 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文整理自美团技术沙龙第77期《美团亿级流量系统的质量风险防控和稳定性治理实践》。作为一种终端产品生态，小程序在业界产品中占有非常重要的地位。本文从小程序的质量保障需求出发，分析小程序的测试难点，引出小程序可测性的基本概念，介绍美团到店研发平台针对小程序可测性改进的通用化方案。最后分享美团门票业务小程序测试工作的实践经验，本文旨在为读者在小程序质量保障领域提供一些有价值的见解和启示。 
+    </details> 
 
-- 🚀 [分布式因果推断在美团履约平台的探索与实践](https://tech.meituan.com/2024/01/25/identify-causal-effect.html) | Thu Jan 25 2024 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    美团履约平台技术部在因果推断领域持续的探索和实践中，自研了一系列分布式的工具。本文重点介绍了分布式因果树算法的实现，并系统地阐述如何设计实现一种分布式因果树算法，以及因果效应评估方面qini_curve/qini_score的不足与应对技巧。希望能为从事因果推断相关工作的同学们提供一些启发或帮助。
-    </details>
+- 🚀 [Spark向量化计算在美团生产环境的实践](https://tech.meituan.com/2024/06/23/spark-gluten-velox.html) | Sun Jun 23 2024 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    Apache Spark是一个优秀的计算引擎，广泛应用于数据工程、机器学习等领域。向量化执行技术在不升级硬件的情况下，既可获得资源节省和加速作业执行。Gluten+Velox解决方案为Spark换上了向量化执行引擎，本文将阐述美团在这一方向的实践和思考，希望对大家有所帮助或启发。 
+    </details> 
 
-- ⚗️ [美团RASP大规模研发部署实践总结](https://tech.meituan.com/2024/01/19/runtime-application-self-protection-practice-in-meituan.html) | Fri Jan 19 2024 12:00 AM
-    <details><summary>展开描述 ...</summary>
-    RASP是Runtime Application Self-Protection（运行时应用自我保护）的缩写，是一种应用程序安全技术。RASP 技术能够在应用程序运行时检测并阻止应用级别的攻击。随着云计算和大数据的发展，应用程序安全越来越受到重视。RASP 技术作为一种新型的安全防护手段，正在逐渐被业界接受并广泛应用。
-    </details>
+- ⚗️ [CVPR 2024 | 美团技术团队精选论文解读](https://tech.meituan.com/2024/06/13/cvpr-2024.html) | Thu Jun 13 2024 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    本文精选了美团技术团队被CVPR 2024收录的7篇论文进行解读，这些论文既包括OCR预训练、长尾半监督学习等基础学习范式升级，也包括图生视频、数字人驱动、视听分割（AVS）等视觉AIGC技术创新。这些论文有美团视觉智能部的独立产出，也有跟高校、科研机构合作的成果。希望能给从事相关研究工作的同学带来一些帮助或启发。 
+    </details> 
 <!-- meituan:END -->
 
 ### 运维咖啡吧
