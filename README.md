@@ -452,30 +452,30 @@
 
 
 <!-- xclient:START -->
-- 🦏 [System Toolkit 6.1.1 系统工具包](https://xclient.info/s/system-toolkit.html) | Mon Mar 18 2024 12:28 AM
-    <details><summary>展开描述 ...</summary>
-    System Toolkit 是为MacOS设计的一体化信息和维护应用程序。
-    </details>
+- 🦏 [System Dashboard Pro 2.0.3 系统监测](https://xclient.info/s/system-dashboard-pro.html) | Fri Jul 19 2024 1:25 AM 
+    <details><summary>展开描述 ...</summary> 
+    System Dashboard Pro 是一款系统监测软件 
+    </details> 
 
--  [System Dashboard Pro 1.10.5 系统监测](https://xclient.info/s/system-dashboard-pro.html) | Mon Mar 18 2024 12:28 AM
-    <details><summary>展开描述 ...</summary>
-    System Dashboard Pro 是一款系统监测软件
-    </details>
+-  [Magic Disk Cleaner 2.8.1 临时文件清理](https://xclient.info/s/magic-disk-cleaner.html) | Fri Jul 19 2024 1:23 AM 
+    <details><summary>展开描述 ...</summary> 
+    Magic Disk Cleaner 是一款帮助您清理计算机临时文件的实用工具。您可以根据需要直接删除这些文件，释放宝贵的存储空间。 
+    </details> 
 
-- ⚗️ [iBarcoder 3.14.7 条码生成软件](https://xclient.info/s/ibarcoder.html) | Mon Mar 18 2024 12:27 AM
-    <details><summary>展开描述 ...</summary>
-    iBarcoder是Mac os平台上的一款免费的条码生成软件，iBarcoder for mac允许您设计并打印自己的条码标签，创建条码图形的零售包装、书籍、贴纸等。
-    </details>
+- ⚗️ [Ghost Buster Pro 3.3.2 清理工具](https://xclient.info/s/ghost-buster-pro.html) | Fri Jul 19 2024 1:22 AM 
+    <details><summary>展开描述 ...</summary> 
+    Ghost Buster Pro 是一款功能强大的 Mac 清理工具，可以帮助您释放磁盘空间、提高电脑性能和保护您的隐私。 
+    </details> 
 
-- 🔥 [Text Workflow 1.9.4 文本编辑](https://xclient.info/s/text-workflow.html) | Mon Mar 18 2024 12:23 AM
-    <details><summary>展开描述 ...</summary>
-    Text Workflow 是一款 macOS 文本编辑工具，可帮助您自动化重复性的文本处理任务。
-    </details>
+- 🔥 [Dato 5.3.1 系统日历时间](https://xclient.info/s/dato.html) | Fri Jul 19 2024 1:21 AM 
+    <details><summary>展开描述 ...</summary> 
+    Dato 是Mac平台上的一款可以替代系统菜单栏时钟的时间应用。 
+    </details> 
 
-- 🌋 [Mp3tag 1.8.17 fix 音频元数据编辑](https://xclient.info/s/mp3tag.html) | Mon Mar 18 2024 12:23 AM
-    <details><summary>展开描述 ...</summary>
-    Mp3tag是一个功能强大且易于使用的编辑音频文件元数据的工具
-    </details>
+- 🌋 [Marked 2.6.38 优秀的Markdown预览工具](https://xclient.info/s/marked.html) | Fri Jul 19 2024 1:20 AM 
+    <details><summary>展开描述 ...</summary> 
+    Marked是一款用于实时预览多种类型的文档（markdown,html等）的实用工具，它有全套的自定义选项和预览样式，无论您使用任何编辑器修改并保存文档，都可以在Marked上实时看到最新的效果。 
+    </details> 
 <!-- xclient:END -->
 
 ### 不死鸟
