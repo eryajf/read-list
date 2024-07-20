@@ -342,30 +342,30 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [使用 Mongoose 在 Node 和 Nest 中操作 MongoDB 数据库](https://juejin.cn/post/7347671948749062184) | Mon Mar 18 2024 4:54 PM
-    <details><summary>展开描述 ...</summary>
-    本文介绍了如何在 Node.js 应用程序中使用 mongoose 库操作 MongoDB 数据库。涵盖了初始化项目、连接数据库、定义 Schema 和 Model、插入和查询数据等。
-    </details>
+- 🤗 [2024-7-19](https://juejin.cn/post/7393310486150021131) | Sat Jul 20 2024 5:32 PM 
+    <details><summary>展开描述 ...</summary> 
+    鼠标移上去去除Handler就是......................................... 
+    </details> 
 
-- 🎡 [马斯克硬刚OpenAI，开源 Grok：3140 亿为目前最大规模](https://juejin.cn/post/7347617618512216118) | Mon Mar 18 2024 3:26 PM
-    <details><summary>展开描述 ...</summary>
-    3月17日凌晨，马斯克旗下大模型公司 xAI 宣布正式开源 3140 亿参数的混合专家（MoE）模型「Grok-1」，以及该模型的权重和网络架构。
-    </details>
+- 🎡 [渡劫 C++ 协程（1）：C++ 协程概览](https://juejin.cn/post/7393306884558372873) | Sat Jul 20 2024 4:32 PM 
+    <details><summary>展开描述 ...</summary> 
+    本文我们介绍了一些 C++ 协程的各种概念和约定，内容看似有些复杂，不过 C++ 协程的概念其实就这么多。 
+    </details> 
 
-- 🕯 [Deno 1.4 支持 JS 最新的 Temporal API](https://juejin.cn/post/7347669914184925247) | Mon Mar 18 2024 3:20 PM
-    <details><summary>展开描述 ...</summary>
-    Deno 团队官宣 Deno 1.4 正式发布，Deno 1.4 引入了用于高级日期和时间操作的强大 Temporal API，并采用最新的装饰器语法。
-    </details>
+- 🕯 [渡劫 C++ 协程（0）：前言](https://juejin.cn/post/7393306884558356489) | Sat Jul 20 2024 4:30 PM 
+    <details><summary>展开描述 ...</summary> 
+    C++ 20 标准发布之后，协程终于正式成为 C++ 特性当中的一员。为了帮助大家认识和了解 C++ 协程的设计思路以及基本用法，我计划写几篇文章来介绍一下 C++ 协程的相关特性。 
+    </details> 
 
-- 🚀 [antd table 基于 react-dnd 实现拖拽无限滚动的排序](https://juejin.cn/post/7347668434447302666) | Mon Mar 18 2024 3:15 PM
-    <details><summary>展开描述 ...</summary>
-    在 antd 的 table 表单数据中，需要对行进行拖拽排序，并且需要支持拖拽期间的加载数据和无限滚动。
-    </details>
+- 🚀 [WEUI也遵守的命名准则--BEM](https://juejin.cn/post/7393311009761624083) | Sat Jul 20 2024 3:57 PM 
+    <details><summary>展开描述 ...</summary> 
+    BEM&lpar;Block Element Modifier&rpar; 一种广泛使用的前端命名规范，由Yandex开发推广，目的是创建可以复用、可维护的CSS类名。 BEM命名规范，用明确的命名约定，来帮助开发者将C 
+    </details> 
 
-- 💪 [Streamlit 光速搭建并部署你的主页](https://juejin.cn/post/7347666944814186506) | Mon Mar 18 2024 3:09 PM
-    <details><summary>展开描述 ...</summary>
-    只用 Python 也能做出很漂亮的网站？Streamlit 就能在几分钟内把 Python 脚本变成可分享的网站。
-    </details>
+- 💪 [为了实现接口缓存，专门写了个缓存库 f-cache-memory](https://juejin.cn/post/7393314542094647306) | Sat Jul 20 2024 3:55 PM 
+    <details><summary>展开描述 ...</summary> 
+    问题起因 起因是某次发版之后，服务器接口压力过大，当场宕机，排查之后发现有个接口在首页被调十来次（六七年的老项目了，都是泪呀），后端反馈这个接口的sql很复杂，很耗性能，临时把这个接口放到登录后只执行 
+    </details> 
 <!-- juejin:END -->
 ### 少数派
 
