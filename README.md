@@ -481,30 +481,30 @@
 ### 不死鸟
 
 <!-- iui:START -->
-- 🌊 [国内外公共DNS服务器及DoH/DoT地址](https://iui.su/135/) | Sun Mar 10 2024 4:27 PM
-    <details><summary>展开描述 ...</summary>
-    DoH/DoT可以防止中间用户窃听和域名查询隐私泄漏的作用。两者相对来说DoH更通用一点，因为 DoT走853端口，DoH走的是443端口，通用性更好（有些网络可能会封这个不常见的853端口）对...
-    </details>
+- 🌊 [2024 年 7 月 每日分享](https://iui.su/187/) | Sat Jul 20 2024 12:00 PM 
+    <details><summary>展开描述 ...</summary> 
+    可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，点击这里快速投稿，如需图文或其它建议可在这里回复反馈。7月20日vectorcraftr免费... 
+    </details> 
 
-- 🫣 [2024 年 3 月 每日分享](https://iui.su/183/) | Fri Mar 08 2024 6:47 AM
-    <details><summary>展开描述 ...</summary>
-    可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。3月10日司马阅AI文档智...
-    </details>
+- 🫣 [快速抠图去背工具](https://iui.su/2968/) | Sat Jul 20 2024 5:49 AM 
+    <details><summary>展开描述 ...</summary> 
+    以下均为免费、无需登录的抠图工具。如有更好用的欢迎投稿 浏览器在线抠图https://www.pickwant.com/editor点击重新上传图片，快速进行人像/物品抠图，去除效果较好。htt... 
+    </details> 
 
-- 🌜 [深度揭秘：集各大模型于一身的AI工具](https://iui.su/3888/) | Thu Mar 07 2024 8:05 AM
-    <details><summary>展开描述 ...</summary>
-    ChatAI-您的全能一站式工具百宝箱ChatAI目前已集合接入各大模型接口： ➢ GPT4.0&lpar;同时涵盖了Chat4.0 Turbo和Chat4.0 Vision&rpar; ➢ GPT3.5 ➢ Ge...
-    </details>
+- 🌜 [媒工坊APP 最强免费Ai二创自媒体工具](https://iui.su/3901/) | Tue Jul 16 2024 9:40 AM 
+    <details><summary>展开描述 ...</summary> 
+    媒工坊APP 让Ai能力和数据能力更好的服务自媒体创作者，提供了非常全面的工具内容。不同功能直接可以相互跳转，搭配使用，功能全部免费开放使用。有哪些功能？视频/图集去水印&lpar;批量&rpar;、多媒体文案提取... 
+    </details> 
 
-- 🏊 [解决安卓手机已禁止安装未备案APP方法](https://iui.su/114/) | Thu Mar 07 2024 6:36 AM
-    <details><summary>展开描述 ...</summary>
-    多地通信管理局发布公告要求逾期未履行备案程序的App下架关停，目前小米、华为、vivo等手机还可以安装未备案APP。收到网友反馈，OPPO系统已经不允许安装未备案APP了，只给了一个取消安装的选...
-    </details>
+- 🏊 [FreeMind自然之声](https://iui.su/3756/) | Tue Jul 16 2024 2:16 AM 
+    <details><summary>展开描述 ...</summary> 
+    FreeMind自然之声是一个干净简洁的白噪声、番茄时钟网站。可选择多种声音进行组合，专注、冥想、放松、睡眠，轻松创建专注或放松的音乐氛围。官网https://freemind.fit相关推荐网... 
+    </details> 
 
-- 🚦 [网页在线工具汇总](https://iui.su/1492/) | Tue Feb 13 2024 5:34 AM
-    <details><summary>展开描述 ...</summary>
-    常用在线工具文件传输音乐下载资源搜索自由飞翔今日热榜短视频解析记事本免费图床crx搜搜每日早报ip查询在线小说看杂志看报纸电子书下载匿名分享无版权音乐在线影视论文下载在线翻译tts转语音在线抠图...
-    </details>
+- 🚦 [iOS免费影视app](https://iui.su/3090/) | Sat Jul 13 2024 5:19 AM 
+    <details><summary>展开描述 ...</summary> 
+    小鹿播放器一款iOS平台支持添加源的影视播放器，目前无广告可在AppStore中下载。建议关闭APP自动更新，以免后续版本添加广告AppStore或AppStore搜索：小鹿播放器 开发者：金强... 
+    </details> 
 <!-- iui:END -->
 
 
