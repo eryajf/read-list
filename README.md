@@ -301,31 +301,30 @@
 ### freebuf
 
 <!-- freebuf:START -->
-- 🦄 [听不清，别乱传！](https://www.freebuf.com/articles/395151.html) | Mon Mar 18 2024 8:58 AM
-    <details><summary>展开描述 ...</summary>
-    广大网民要提高法治意识  增强辨别谣言的能力。
-    </details>
+- 🦄 [到底是什么神仙安全软件，让全球如此多公司同时“蓝屏”](https://www.freebuf.com/news/406594.html) | Fri Jul 19 2024 11:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    7月19日，微软蓝屏事件席卷全球，无数公司的电脑陷入蓝屏状态，“微软蓝屏”话题也迅速登上推特和微博热搜。 
+    </details> 
 
-- 🦄 [网传 AT&amp;T 泄露 7100 万用户数据，该公司多次否认](https://www.freebuf.com/news/395109.html) | Mon Mar 18 2024 5:46 AM
-    <details><summary>展开描述 ...</summary>
-    这些数据从何而来依旧是个谜团。不过，无论数据来自何处，所有迹象都表明这是 AT&amp;amp;T 客户的数据。
-    </details>
+- 🦄 [FreeBuf 周报 | 谷歌拟豪掷230亿美金收购Wiz；迪士尼泄露1.2TB内部数据](https://www.freebuf.com/news/406533.html) | Fri Jul 19 2024 7:35 AM 
+    <details><summary>展开描述 ...</summary> 
+    总结推荐本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
+    </details> 
 
-- 🦅 [从蓝初小白到蓝中猴子（一）](https://www.freebuf.com/articles/web/370800.html) | Mon Mar 18 2024 3:30 AM
-    <details><summary>展开描述 ...</summary>
-    记录从蓝队小白到蓝队中级的面试题以及面试经验
-#心路历程
-    </details>
+- 🦅 [微软蓝屏事件波及全球，遭知名厂商CrowdStrike“背刺”？](https://www.freebuf.com/news/406518.html) | Fri Jul 19 2024 6:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    今天下午，全球多地Windows系统用户电脑崩溃，“微软蓝屏”话题登上微博热搜榜首。 
+    </details> 
 
-- 🪄 [麦当劳全球系统宕机，影响数千家门店](https://www.freebuf.com/news/395076.html) | Mon Mar 18 2024 3:08 AM
-    <details><summary>展开描述 ...</summary>
-    快餐业巨头麦当劳指出，导致其全球数千家连锁店和加盟店系统宕机的原因，是第三方供应商在系统配置更改过程中的失误。
-    </details>
+- 🪄 [又一全新恶意软件曝光，曾滥用微软驱动程序签名系统](https://www.freebuf.com/news/406489.html) | Fri Jul 19 2024 5:38 AM 
+    <details><summary>展开描述 ...</summary> 
+    恶意软件使用经过签名的合法驱动程序，不仅为侵入性广告软件提供了便利，还使系统面临更多安全风险。 
+    </details> 
 
-- 💻 [聚焦315：操控网络水军的主板机；AI”换脸“诈骗](https://www.freebuf.com/news/395065.html) | Mon Mar 18 2024 2:43 AM
-    <details><summary>展开描述 ...</summary>
-    今年的315晚会主题为“共筑诚信 共享安全”，数据安全仍然是受到重点关注的议题，在晚会开篇便曝光了以主板机为载体的网络乱象。
-    </details>
+- 💻 [“投资”近100万美元，Revolver Rabbit注册50万个域名进行恶意活动](https://www.freebuf.com/news/406477.html) | Fri Jul 19 2024 3:18 AM 
+    <details><summary>展开描述 ...</summary> 
+    这些域名通常很容易阅读，似乎专注一个特定的主题或地区，显示出广泛的多样性。 
+    </details> 
 <!-- freebuf:END -->
 
 ## 新闻热览
