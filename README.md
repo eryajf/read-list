@@ -233,30 +233,30 @@
 ### 运维咖啡吧
 
 <!-- ops-coffee:START -->
-- 👺 [开源推荐 | 简洁且强大的开源堡垒机OneTerm](https://blog.ops-coffee.cn/s/veops-open-source-jumpserver-oneterm) | Mon Mar 18 2024 8:59 AM
-    <details><summary>展开描述 ...</summary>
-    开源推荐 | 简洁且强大的开源堡垒机OneTerm
-    </details>
+- 👺 [6年过去，当初的静态博客生成工具如今怎样了](https://blog.ops-coffee.cn/s/python-django-blog-admin-dashboard-tools) | Fri Jul 19 2024 10:18 AM 
+    <details><summary>展开描述 ...</summary> 
+    还在维护吗？有赚到钱吗？ 
+    </details> 
 
-- 💯 [继续总结Python中那些简单好用的用法](https://blog.ops-coffee.cn/python/python-simple-and-user-friendly-features-2) | Wed Mar 06 2024 8:36 AM
-    <details><summary>展开描述 ...</summary>
-    继续总结Python中那些简单好用的用法
-    </details>
+- 💯 [游记｜上海出发2小时，探寻莫干山的清凉秘境](https://blog.ops-coffee.cn/r/city-china-zhejiang-huzhou-deqing-moganshan) | Tue Jul 09 2024 1:47 PM 
+    <details><summary>展开描述 ...</summary> 
+    盛夏上海，闷热难耐，去有山有水的地方，不到200公里，就能实现溯溪玩儿水，好不快活 
+    </details> 
 
-- 🚦 [Python中那些简单又好用的特性和用法](https://blog.ops-coffee.cn/python/python-simple-and-user-friendly-features) | Tue Mar 05 2024 7:54 AM
-    <details><summary>展开描述 ...</summary>
-    Python中那些简单又好用的特性和用法
-    </details>
+- 🚦 [游记｜淀山湖，上海周末露营度假好去处](https://blog.ops-coffee.cn/r/city-china-shanghai-dianshanhu) | Thu Jun 27 2024 11:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    游记｜淀山湖，上海周末露营度假好去处 
+    </details> 
 
-- 👨‍🏫 [任务系统之API子任务](https://blog.ops-coffee.cn/s/devops-task-subtask-api-postman-apipost) | Mon Feb 26 2024 6:55 PM
-    <details><summary>展开描述 ...</summary>
-    任务系统之API子任务
-    </details>
+- 👨‍🏫 [开源｜维易CMDB详解之模型关联关系](https://blog.ops-coffee.cn/veops/oneops-cmdb-ci-types-configure-relationship) | Fri Jun 21 2024 11:06 AM 
+    <details><summary>展开描述 ...</summary> 
+    为什么需要拆分表？逻辑表之间都有哪些关联关系？究竟何时该使用哪种关联关系？ 
+    </details> 
 
-- 🌮 [游记｜远赴人间惊鸿宴，一睹人间盛世颜](https://blog.ops-coffee.cn/r/city-china-henan-luoyang-laojunshan) | Sun Feb 18 2024 6:38 PM
-    <details><summary>展开描述 ...</summary>
-    游记｜远赴人间惊鸿宴，一睹人间盛世颜
-    </details>
+- 🌮 [游记｜宁海，小众宝藏城市的惊喜之旅](https://blog.ops-coffee.cn/r/city-china-zhejiang-ningbo-ninghai) | Fri Jun 14 2024 9:40 AM 
+    <details><summary>展开描述 ...</summary> 
+    小众宝藏旅行目的地-宁波宁海大海平平，山峦深邃，峰荣水映，木秀石奇，不容错过 
+    </details> 
 <!-- ops-coffee:END -->
 ### 四火的唠叨
 
