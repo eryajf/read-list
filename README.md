@@ -667,30 +667,30 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0318](http://jandan.net/p/115949) | Sun Mar 17 2024 11:07 PM
-    <details><summary>展开描述 ...</summary>
-    今日带货商品数量：57
-    </details>
+- 🚀 [今日好价 0720](http://jandan.net/p/117163) | Fri Jul 19 2024 11:08 PM 
+    <details><summary>展开描述 ...</summary> 
+    今日带货商品数量：42 
+    </details> 
 
-- 🙉 [你说的语言会改变你对时间的感知](http://jandan.net/p/115943) | Sun Mar 17 2024 11:06 PM
-    <details><summary>展开描述 ...</summary>
-    不同的语言对时间的表达方式不同
-    </details>
+- 🙉 [冷知识：长颈鹿很Gay](http://jandan.net/p/117159) | Fri Jul 19 2024 11:06 PM 
+    <details><summary>展开描述 ...</summary> 
+    雄性长颈鹿之间的互动都带有一些色情意味 
+    </details> 
 
-- 🎉 [黑苹果即将消亡](http://jandan.net/p/115942) | Sun Mar 17 2024 11:05 PM
-    <details><summary>展开描述 ...</summary>
-    由于苹果移除驱动支持以及不断改进代码库
-    </details>
+- 🎉 [冷知识：ADHD可能增强了人类的觅食能力](http://jandan.net/p/117160) | Fri Jul 19 2024 11:05 PM 
+    <details><summary>展开描述 ...</summary> 
+    研究表明ADHD可能帮助早期人类更有效觅食 
+    </details> 
 
-- 🐲 [蛇肉：新型高蛋白超级食物](http://jandan.net/p/115946) | Sun Mar 17 2024 11:02 PM
-    <details><summary>展开描述 ...</summary>
-    应对粮食安全问题的灵活解决方案
-    </details>
+- 🐲 [60岁德国男子成为世界上第七位“治愈”HIV的患者](http://jandan.net/p/117157) | Fri Jul 19 2024 11:04 PM 
+    <details><summary>展开描述 ...</summary> 
+    患者的情况高度暗示HIV治愈 
+    </details> 
 
--  [研究发现，脑电波在睡眠过程中帮助大脑清除废物](http://jandan.net/p/115944) | Sun Mar 17 2024 11:00 PM
-    <details><summary>展开描述 ...</summary>
-    为阿尔茨海默病等神经退行性疾病的治疗提供了新的思路
-    </details>
+-  [一种抗衰老药物延长了实验动物近25%的寿命](http://jandan.net/p/117158) | Fri Jul 19 2024 11:03 PM 
+    <details><summary>展开描述 ...</summary> 
+    科学家希望这能减缓人类衰老 
+    </details> 
 <!-- jandan:END -->
 ### 新趣集
 
