@@ -511,30 +511,30 @@
 ### v2方圆
 
 <!-- v2fy:START -->
-- 😺 [《树莓派不吃灰》第二十六期：为树莓派部署开源好用的Web版文件管理器FileBrowser,附Windows开机自启流程](https://v2fy.com/p/2024-02-19-14-40-36-file-browser/) | Mon Feb 19 2024 11:50 AM
-    <details><summary>展开描述 ...</summary>
-    最近在玩Fooocus作图，作图是真的精美! 为了能在不同电脑间快速共享模型文件，我需要一个基于P2P的大文件传输工具。P2P可以用ZeroTier实现，ZeroTier私有化部署教程可参考 《树莓派不吃灰》第二十六期：局域网开黑神器，使用Zerotier组建虚拟局域网，使用P2P技术为树莓派异地SMB下载超级加速 https://v2fy.com/p/2024-01-25-12-03-49-zerotier/，FileBrowser可以通过ZeroTier的内网虚拟IP，直接通过浏览器管理各种电脑上的文件。 本文的内容为在树莓派部署FileBrowser服务，以及在Windows部署FileBrowser的多盘符挂载技巧。 在树莓派部署FileBrowser服务 cd /opt/ mkdir FileBrowser cd FileBrowser curl -fsSL https://raw.githubusercontent.com/filebrowser/get/master/get.sh &amp;#124; bash 从返回的信息可知, FileBrowser被放在 /usr/local/bin 目录下 接下来为FileBrowser创建一个配置文件filebrowser.json 并将运行端口设置为8083, 挂载根目录 touch /opt/FileBrowser/filebrowser.json cat &amp;#60;&amp;#60; &#39;EOF&#39; &amp;#62; /opt/FileBrowser/filebrowser.json { &amp;#34;port&amp;#34;: 8083, &amp;#34;address&amp;#34;: &amp;#34;0.0.0.0&amp;#34;, &amp;#34;root&amp;#34;: &amp;#34;/&amp;#34;, } EOF 运行filebrowser filebrowser -c /opt/FileBrowser/filebrowser.json 访问http://树莓派被ZeroTier分配的ip:8083即可! filebrowser默认的用户名为admin密码也是admin 登录后即可看到树莓派的根目录，支持在网页拖拽上传和下载文件。 选中文件夹，也支持各种类型的打包下载 也可拖拽文件夹到网页直接上传，删除文件夹也是极其顺滑！ 通过PM2守护filebrowser运行，设置filebrowser开机自启 # 创建启动脚本 touch /opt/FileBrowser/start-filebrowser.sh # [&amp;#8230;]
-    </details>
+- 😺 [解决微信读书和Apple Books导入epub电子书不显示图片的问题](https://v2fy.com/p/2024-07-07-12-03-58-read-epub/) | Sun Jul 07 2024 5:05 AM 
+    <details><summary>展开描述 ...</summary> 
+    最近找到一本很喜欢的书的电子版的epub版，发现无论是导入微信读书，还是Apple家的Books, 都无法正常显示图片。 于是我用calibre打开epub电子书，发现是能正常查看图片的，于是我通过calibre将epub进行了转换导出，将导出后的版本，放入微信读书和iBook, 发现都能正常显示图片了。 转换后的版本显示图片效果 我对比了解压前后的epub文件，发现calibre转换后的版本，对文件进行了修改，把中文字符属性，转换成了英语字符。 并且对epub的目录结构也进行了重整 转换方法 从https://calibre-ebook.com/download 下载合适的calibre版本 打开需要转换的epub文件 小结 有些好书，即使买了实体版，也不容易随身阅读，因为太厚太重了，电子版能极大减少我们的负重，微信读书和Apple Books对于导入的epub书籍，都支持手机电脑多端自动同步进度，真的是随时随地看书的好软件。 本文永久更新地址: https://v2fy.com/p/2024-07-07-12-03-58-read-epub/ 
+    </details> 
 
-- 💃 [《树莓派不吃灰》第二十六期：局域网开黑神器，使用Zerotier组建虚拟局域网，使用P2P技术为树莓派异地SMB下载超级加速](https://v2fy.com/p/2024-01-25-12-03-49-zerotier/) | Thu Jan 25 2024 8:13 AM
-    <details><summary>展开描述 ...</summary>
-    我在《树莓派不吃灰》第二期：网盘界的未来科技，新增smb服务并完成内网穿透，实现所有设备共享文件 中使用frp实现了smb的公网映射，可以在任何有互联网的地方，访问家里树莓派上的文件。 但基于frp的smb数据传输速度，完全取决于云服务器的带宽，而带宽又很贵。 本文提供一种零成本加速的方法，也就是使用Zerotier组建一个虚拟局域网，不同设备间通过p2p的方式来实现数据传输，不消耗服务器带宽，速度能达到家里上传带宽的上限。 Zerotier分为服务端和客户端，客户端之间需要通过服务端建立连接，建立连接后，即可进行p2p通讯，如果客户端之间无法进行连接，则通过服务端进行数据中转，保证服务的可用性。 Zerotier是开源软件 https://github.com/zerotier/ZeroTierOne ，同时有商业化的版本 https://www.zerotier.com/pricing/ ，截止2024年1月，商业化的版本有25台设备的限制，普通用户是够用的。 但Zerotier的服务器在海外，而国内的网络环境又非常复杂，为了保证稳定的链接，我们需要在自己的国内云服务器，建立一个Moon中继节点用于处理国内设备间的链接请求，同时建立一个 Network Controller （网络控制器）用于管理各客户端的授权, 以及查看各客户端的虚拟IP， 从而实现突破25台设备限制，进行私有化部署。本文按照官方文档进行编写 https://docs.zerotier.com/selfhost 官方的英文文档，比较粗糙，本文的内容更详细。 创建Moon节点 在云服务器（本文服务器系统为Ubuntu）运行以下命令, 安装zerotier curl -s https://install.zerotier.com &amp;#124; sudo bash 安装完成后，运行zerotier-idtool 即可看到相关信息 进入/var/lib/zerotier-one , 基于/var/lib/zerotier-one/identity.public 生成 moon.json, 再基于moon.json 生成一个.moon 后缀的文件 cd /var/lib/zerotier-one zerotier-idtool initmoon identity.public &amp;#62;&amp;#62; moon.json zerotier-idtool genmoon moon.json 编辑新生成的moon.json文件, 将&quot;stableEndpoints&quot;: [] , 改成&quot;stableEndpoints&quot;: [服务器IP/9993] , 记得前往云服务器的防火墙页面，将9993端口打开 [&amp;#8230;]
-    </details>
+- 💃 [用Electron实现支持动态下发视频资源的类OBS推流解决方案](https://v2fy.com/p/2024-07-06-11-09-56-audio/) | Sat Jul 06 2024 5:04 AM 
+    <details><summary>展开描述 ...</summary> 
+    最近在研发数字人相关的项目，基于Electron实现了类似OBS的推流效果，很好玩，也有一些技术难点，本文分享一波。 我查阅了很多博客，虽然有一些ffmpeg推流的方案，但都是浅尝辄止。 本文的方案，可以在Web层实时查看ffmpeg推流的效果，并可以借助fabric.js实时编辑推流画面，实现复杂的展示效果，也支持服务端动态下发视频资源，在前端进行定制化实时推流合成，极大减轻服务端的负担。 首先是采样视频流的方案 软件的Node.js层通过CDN获取实时生成的视频片段，将视频缓存到用户本计算机，将视频路径转换为file:// 开头的路径，Web层可以通过&amp;#60;Video /&amp;#62;标签直接播放视频，借助fabric.js可以将&amp;#60;Video /&amp;#62;轻易绘制到canvas画板上，然后我们对画板进行采样，获取文档的视频流. 以下代码，可以对canvas进行每秒20帧的采样，获取的视频流，存储在videoTrack const canvasStream = canvas.captureStream&lpar;20&rpar;; const videoTrack = canvasStream.getVideoTracks&lpar;&rpar;[0]; 我们还可以借助fabric.js在canvas绘制gif动图，各类自定义字体，各种类型图片，为视频添加丰富的多媒体元素，进一步丰富视频流的效果。 然后是采样音频流的方案 我们可以通过&amp;#60;Video /&amp;#62;标签，对正在播放的视频进行采样，生成稳定的音频流，由于我们要不断切换视频，直接采集&amp;#60;Video /&amp;#62;的音频流，会遇到音频流中断，音视频流合并出错的情况。 我们需要使用 createGain&lpar;&rpar; 生成一个gainNode管道进行汇流 &lpar;在视频采样中，其实Canvas本身也是承担了类似gainNode汇流的功能&rpar;，这个gainNode管道可以随时接受&amp;#60;Video /&amp;#62; 音频流的汇入和断开。 为了后续为gainNode扩展更多的功能（比如调节音量，加入背景混音），我们不直接使用gainNode作为最终音轨, 我们可以另外创建一个finalAudioTrack作为最终音轨，将gainNode汇入finalAudioTrack即可 const audioContext = new AudioContext&lpar;&rpar;; const gainNode = audioContext.createGain&lpar;&rpar;; let audioSource = null; const handleVideoChange = &lpar;video&rpar; =&amp;#62; { // 断开前一次的连接 if &lpar;audioSource&rpar; { audioSource.disconnect&lpar;gainNode&rpar;; [&amp;#8230;] 
+    </details> 
 
-- 💡 [Spotube开源免费无广告的听歌工具，可听周杰伦等中文歌手](https://v2fy.com/p/2024-01-21-12-24-59-spotube/) | Sun Jan 21 2024 5:23 AM
-    <details><summary>展开描述 ...</summary>
-    Spotube 是一款开源免费的听歌工具，开源地址为 https://github.com/KRTirtho/spotube 原理是使用Spotify获取歌单，然后从Youtube，Piped，Jiosaavn等平台获取音频资源。 具体软件功能，可以参考下图： 安卓手机版界面，算是简单优雅，浅浅的的毛玻璃效果，让界面多了几分精致，最重要的是，没有加任何短视频直播带货按钮，真的App界的清流。 小结 Spotube是小而美的软件，软件体积小，代码开源，不做用户数据收集，甚至连服务器都没有，不玩骚的。 由于Spotube音频源都在海外服务器，所以需要一些网络增强Magic。 商业公司做听歌软件，用户付费买服务，一手交钱，一手交货。但在2024年，即使付费，也无法去除一些广告，还有一些恶心人的产品设计，让人误触无聊的短视频直播带货按钮。 目前让我满意的听歌软件是Plexamap, 但Plexamap需要自己手动整理歌源（其实整理也没什么大不了，以前用mp3也是自己手动整理，听歌体验并不差），Spotube算是懒人包，支持搜索，下载。如果你能搞定网络增强Magic , 可以试一下开源的Spotube Spotube官网： https://spotube.krtirtho.dev/ （开源软件的官网用.dev 真的是围绕了一层开发者气息） 本文永久更新地址: https://v2fy.com/p/2024-01-21-12-24-59-spotube/
-    </details>
+- 💡 [ChatGPT-Next-Web本地创建镜像攻略](https://v2fy.com/p/2024-06-30-17-01-04-next-web-chatgpt/) | Mon Jul 01 2024 2:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    最近openai官方ChatGPT客户端的IP封禁越来越狠了，想要稳定的使用ChatGPT的服务，还是得依赖ChatGPT-Next-Web https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web 但ChatGPT-Next-Web 最近的两个镜像 v2.12.4 和 v2.12.3 配置PROXY_URL 参数后，都会导致服务不可用。 解决方案可以参考 https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/issues/4887 其实就是修改Dockerfile的一些配置，然后自己打包，但国内的网络环境实在太差了，打包过程中依赖包都很难下载。 于是我往Dockerfile的base里面加了一些代理，在国内可打包成功，正常使用 v2.12.4 FROM node:18-alpine AS base # 设置环境变量以使用代理 ENV http_proxy=http://172.17.0.1:7890 \ https_proxy=http://172.17.0.1:7890 \ all_proxy=socks5://172.17.0.1:7891 FROM base AS deps RUN apk add --no-cache libc6-compat WORKDIR /app COPY package.json yarn.lock ./ RUN yarn config set registry &#39;https://registry.npmmirror.com/&#39; RUN yarn install FROM base AS builder RUN [&amp;#8230;] 
+    </details> 
 
-- 🐘 [开源一个OpenAI ChatGPT批量将中文Markdown翻译为英文的工具](https://v2fy.com/p/2024-01-19-16-11-56-transmd/) | Fri Jan 19 2024 8:14 AM
-    <details><summary>展开描述 ...</summary>
-    使用OpenAI ChatGPT批量将中文Markdown翻译为英文的工具 一个自用可以实现内容出海的，使用OpenAI ChatGPT批量将中文Markdown翻译为英文的工具。 开源地址: https://github.com/zhaoolee/transMd 翻译完成的效果展示: https://medium.com/@zhaoolee 使用方法 将markdown简体中文文件批量放入 input_markdown_file_dir 设置环境变量 export OPENAI_API_KEY=&#39;sk-y********************W&#39;, 如果感觉费事，可以像我一样，直接写到~/.zshrc中 进入transMd文件夹, 进入虚拟环境pipenv shell, 安装包pipenv install,运行 python main.py 等一会儿, 翻译完成的markdown文件将会输出在 output_markdown_file_dir 工具特色 可以批量翻译markdown文件, 翻译完成的内容配合开源工具 https://github.com/fanderzon/markdown-to-medium-tool 可以发到Medium, 实现内容出海。 自动记录进度，如果有100篇markdown文件待翻译，翻译到第50篇断了，再次运行python main.py, 可以根据.md_sha1中记录的信息，自动从第50篇进行翻译，节约token input_markdown_file_dir中记录的markdown文件修改后，运行python main.py, 会只翻译修改后的markdown文件, 节约token 在main.py顶部变量, 可以自定义输入和输出文件夹 关于Prompt Prompt来自 https://github.com/smikitky/chatgpt-md-translator/blob/main/prompt-example.md 大多数Markdown的格式的翻译都很完美，也会会出现省略超长代码段的问题，如果有更好的prompt，我会更新。 本文永久更新地址: https://v2fy.com/p/2024-01-19-16-11-56-transmd/
-    </details>
+- 🐘 [在命令行更灵活的代理工具proxychain4获取github代码](https://v2fy.com/p/2024-06-30-11-43-28-proxychain4/) | Sun Jun 30 2024 6:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    安装proxychain4 sudo apt install proxychains4 -y 设置配置文件 编辑 /etc/proxychains4.conf 底部添加本机可用的代理，保存 /etc/proxychains4.conf 即可自动生效 使用proxychain4为curl设置代理 使用proxychain4为git设置代理 为 proxychains4设置别名 在.zshrc 或 .bashrc 中添加以下别名即可 alias pc=&#39;proxychains4&#39; 本文永久更新地址: https://v2fy.com/p/2024-06-30-11-43-28-proxychain4/ 
+    </details> 
 
-- 🪜 [为了深入体验hades, 我写了个读取hades所有NPC中英对照对话的开源程序](https://v2fy.com/p/2024-01-16-18-57-23-hades/) | Tue Jan 16 2024 11:14 AM
-    <details><summary>展开描述 ...</summary>
-    Hades采用了碎片化叙事，每次挑战，NPC们都会和玩家有不同的对话，这些对话骚话极多，按照B站用户的说法，每次都能被这些对话笑死🤣 这些对话存储在游戏的目录的Subtitles文件夹，为了深入探索这款游戏，我写了个脚本，将各个NPC的对话去重，并按照中英对照的形式绘制成了表格，表格展示在开源项目的 README.md , 开源项目地址 https://github.com/zhaoolee/hades 通过阅读仓库的README，你可以通过对话深入地了解各个NPC，了解这款游戏的各种隐藏剧情，中英对照学学英语，欣赏一下Hade独特美术风格的海报 本文永久更新地址: https://v2fy.com/p/2024-01-16-18-57-23-hades/
-    </details>
+- 🪜 [《树莓派不吃灰》029：在树莓派搭建Webdav, 通过命令行curl上传下载文件到树莓派](https://v2fy.com/p/2024-06-22-14-22-08-webdav/) | Sun Jun 23 2024 4:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    树莓派安装Nginx和附加模块&lpar;如果已经安装Nginx可跳过&rpar; sudo apt update sudo apt install nginx -y sudo apt install nginx-extras -y 树莓派配置webDav文件夹 sudo mkdir /var/www/webdav sudo chown www-data:www-data /var/www/webdav sudo chmod 755 /var/www/webdav 配置Nginx文件 cat &amp;#60;&amp;#60; &#39;EOF&#39; &amp;#62; /etc/nginx/conf.d/webdav-8086.conf server { listen 8086; server_name _; location /webdav/ { alias /var/www/webdav/; # 使用 alias 而不是 root autoindex on; dav_methods PUT DELETE MKCOL COPY [&amp;#8230;] 
+    </details> 
 <!-- v2fy:END -->
 
 
