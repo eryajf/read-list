@@ -442,11 +442,11 @@
 
 
 <!-- iplaysoft:START -->
-- 🧐 [百度 Comate 代码 AI 编程助手 - 开放邀测免费 / 还可薅羊毛](https://www.iplaysoft.com/p/baidu-comate) | Sat Mar 09 2024 1:17 PM
-- 🧑‍🏫 [凉了！微软正式 “砍掉” 大家都喜欢的安卓子系统！](https://www.iplaysoft.com/news/6106) | Fri Mar 08 2024 12:05 AM
-- 🥰 [Claude 3 注册使用教程 - 全面超越 ChatGPT &lpar;GPT4&rpar; 的免费替代品！ AI “超级黑马”](https://www.iplaysoft.com/claude.html) | Thu Mar 07 2024 12:02 AM
-- 💻 [Yuzu 柚子模拟器 &lpar;最终收藏版&rpar; - 在电脑 PC 上玩 Switch 塞尔达传说 / 马里奥等游戏](https://www.iplaysoft.com/yuzu.html) | Wed Mar 06 2024 12:08 AM
-- 🎃 [MyLifeOrganized &lpar;MLO&rpar; - 专业级老牌 GTD 任务时间管理工具](https://www.iplaysoft.com/p/mylifeorganized) | Tue Mar 05 2024 8:12 PM<!-- iplaysoft:END -->
+- 🧐 [Escrcpy - 免费开源！电脑上控制安卓手机的投屏工具 &lpar;屏幕镜像 / 无线连接 / 键鼠 / 录屏&rpar;](https://www.iplaysoft.com/escrcpy.html) | Wed Jul 17 2024 12:00 AM
+- 🧑‍🏫 [夸克网盘 SVIP 会员优惠年卡 128 元！6TB 空间 / 一键转存](https://www.iplaysoft.com/p/quark-svip) | Sun Jul 14 2024 2:01 AM
+- 🥰 [Sandboxie Plus 沙盒加强版 - 给系统“开挂”！应用多开 / 隔离病毒 / 安全运行流氓软件](https://www.iplaysoft.com/sandboxie-plus.html) | Sat Jul 13 2024 11:46 AM
+- 💻 [苹果学生优惠 2024 官网促销打折启动！“返校季”买 Mac iPad 免费送 AirPods / Pencil](https://www.iplaysoft.com/apple-back-to-school.html) | Thu Jul 11 2024 11:15 AM
+- 🎃 [ImTip - 像 Mac 一样实时显示输入法状态提示的开源免费小工具 &lpar;中英文区分&rpar;](https://www.iplaysoft.com/imtip.html) | Tue Jul 09 2024 12:29 PM<!-- iplaysoft:END -->
 
 ### 精品Mac应用
 
