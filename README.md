@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [任何 Web 项目都离不开的 Spring Security【原理+实战（前后端分离+无状态）】](https://juejin.cn/post/7393306884559077385) | Sun Jul 21 2024 4:26 AM 
+- 🤗 [Nuxt  使用指南：掌握 useNuxtApp 和运行时上下文](https://juejin.cn/post/7393503669473968138) | Sun Jul 21 2024 6:28 AM 
     <details><summary>展开描述 ...</summary> 
-    Spring Security 本质上就是一连串的过滤器，包括登录认证、权限验证以及其他安全防护，了解其本质后，就可以快速构建安全的Web应用。 
+    title: Nuxt 使用指南：掌握 useNuxtApp 和运行时上下文 date: 2024/7/21 updated: 2024/7/21 author: cmdragon excerpt:  
     </details> 
 
-- 🎡 [SprongBoot3整合Knife4j-4.4](https://juejin.cn/post/7393418631815069737) | Sun Jul 21 2024 4:14 AM 
+- 🎡 [中文文案排版指北](https://juejin.cn/post/7393481473083146281) | Sun Jul 21 2024 6:23 AM 
     <details><summary>展开描述 ...</summary> 
-    本文详细的讲解了如何在springboot3项目中去引入Knife4j-4.4 希望对你能够有所帮助！！！！ 
+    记得我刚学编程那会，在网上看教程学习，经常看到有人自诩说自己有代码洁癖。但其实看别人写的代码久了，发现并不是那么一回事。我发现很多人代码虽然写的还算规范，但代码注释却写的很随意，排版也不统一，什么风格 
     </details> 
 
-- 🕯 [重新认识ConcurrentHashMap](https://juejin.cn/post/7393503669473787914) | Sun Jul 21 2024 3:58 AM 
+- 🕯 [一文带你认识C++和C的区别](https://juejin.cn/post/7393740927154225188) | Sun Jul 21 2024 4:18 AM 
     <details><summary>展开描述 ...</summary> 
-    重新认识ConurrentHashMap，如何控制并发？如何控制加锁？是不会把整个HashMap锁住？什么是并发扩容？volatile有什么用？ 
+    1. 认识C++和C的区别 认识C++和C的区别 C++最简单的程序 头文件包含问题 创建的项目源文件后缀是.cpp 头文件的包含不同 不需要.h 直接包含 C语言的标准库头文件 依然按照原来方式包含 
     </details> 
 
-- 🚀 [玩转springboot之springboot自动配置原理](https://juejin.cn/post/7393304744713142282) | Sun Jul 21 2024 3:42 AM 
+- 🚀 [使用Docker运行一个Redis容器，及其问题思考](https://juejin.cn/post/7393312386575253504) | Sun Jul 21 2024 4:07 AM 
     <details><summary>展开描述 ...</summary> 
-    自动配置原理 自动配置其实是由于启动类上配置了@EnableAutoConfiguration注解来进行开启的，那有些人就纳闷了，我启动类上也没有配置@EnableAutoConfiguration注 
+    要跑起来一个 Redis 容器，你可以使用 Docker 提供的官方 Redis 镜像。以下是详细的步骤： 1. 确保 Docker 已安装 首先，确保你的系统上已经安装了 Docker。如果没有安装 
     </details> 
 
-- 💪 [面试官问：如果有100个请求，你咋办？](https://juejin.cn/post/7393525123766140943) | Sun Jul 21 2024 3:40 AM 
+- 💪 [今天来学习HBase](https://juejin.cn/post/7393314542095400970) | Sun Jul 21 2024 3:42 AM 
     <details><summary>展开描述 ...</summary> 
-    之前看到一篇文章的评论，一位仁兄说：“谁会傻不拉几的一次性发起 100 多条请求的？” 一看这位仁兄就是对大文件的分片请求没有任何概念。 
+    相较于Redis，memcached等缓存型的NoSQL数据库，HBase虽然也是NoSQL数据库，但是其使用更贴近于传统DB数据存储的功能，那么HBase与RDBMS&lpar;关系型数据库&rpar;的差异在哪里？为 
     </details> 
 <!-- juejin:END -->
 ### 少数派
