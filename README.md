@@ -694,28 +694,28 @@
 ### 新趣集
 
 <!-- xinquji:START -->
-- 👀 [Editor.do - 一体化在线 IDE、可视化生成器和主机](https://xinquji.com/posts/812658?utm_campaign=xinquji-rss) | Sat Jul 20 2024 6:00 AM 
+- 👀 [liveportrait - 根据你提供的图片，轻松的改变你的表情动作，自动生成一段liveportrait的动画](https://xinquji.com/posts/812660?utm_campaign=xinquji-rss) | Mon Jul 22 2024 8:46 AM 
     <details><summary>展开描述 ...</summary> 
-     一体化在线 IDE、可视化生成器和主机  
+     根据你提供的图片，轻松的改变你的表情动作，自动生成一段liveportrait的动画  
     </details> 
 
-- 🥷 [Kinetical - 创建具有丰富预览和零代码的链接](https://xinquji.com/posts/812657?utm_campaign=xinquji-rss) | Sat Jul 20 2024 6:00 AM 
+- 🥷 [GPT4oMini.app - 免费好用的GPT4o-mini客户端](https://xinquji.com/posts/812659?utm_campaign=xinquji-rss) | Mon Jul 22 2024 8:46 AM 
     <details><summary>展开描述 ...</summary> 
-     创建具有丰富预览和零代码的链接  
+     免费好用的GPT4o-mini客户端  
     </details> 
 
-- 💼 [Ultimate PO Box Blocker for Shopify - 在 Shopify 结账时实时阻止邮政信箱地址](https://xinquji.com/posts/812656?utm_campaign=xinquji-rss) | Sat Jul 20 2024 6:00 AM 
+- 💼 [吐司卡片 - 吐司卡片上线了，图文混排分享卡片，拥有 180+精美的主题， 170+渐变的色彩，支持各种设置，欢迎使用](https://xinquji.com/posts/812599?utm_campaign=xinquji-rss) | Mon Jul 22 2024 8:46 AM 
     <details><summary>展开描述 ...</summary> 
-     在 Shopify 结账时实时阻止邮政信箱地址  
+     吐司卡片上线了，图文混排分享卡片，拥有 180+精美的主题， 170+渐变的色彩，支持各种设置，欢迎使用  
     </details> 
 
-- 🦅 [Cohesive AI - Google Sheets 中的 AI 支持的网络抓取和研究](https://xinquji.com/posts/812655?utm_campaign=xinquji-rss) | Sat Jul 20 2024 6:00 AM 
+- 🦅 [Mejorar Imagen - 使用AI提升图片质量至10倍或12K](https://xinquji.com/posts/812598?utm_campaign=xinquji-rss) | Mon Jul 22 2024 8:46 AM 
     <details><summary>展开描述 ...</summary> 
-     Google Sheets 中的 AI 支持的网络抓取和研究  
+     使用AI提升图片质量至10倍或12K  
     </details> 
 
-- 😺 [Social Media Kit - 在几秒钟内创建社交媒体轮播帖子](https://xinquji.com/posts/812654?utm_campaign=xinquji-rss) | Sat Jul 20 2024 6:00 AM 
+- 😺 [陌言AI - AI写作,文章写作,论文写作,智能问答,灵感绘画,企业级AIGC平台,支持AI训练,账号团队共享。](https://xinquji.com/posts/812597?utm_campaign=xinquji-rss) | Mon Jul 22 2024 8:46 AM 
     <details><summary>展开描述 ...</summary> 
-     在几秒钟内创建社交媒体轮播帖子  
+     AI写作,文章写作,论文写作,智能问答,灵感绘画,企业级AIGC平台,支持AI训练,账号团队共享。  
     </details> 
 <!-- xinquji:END -->
