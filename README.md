@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Nuxt  使用指南：掌握 useNuxtApp 和运行时上下文](https://juejin.cn/post/7393503669473968138) | Sun Jul 21 2024 6:28 AM 
+- 🤗 [Router如何实现的？不用import {vue-router} from &#39;vue&#39; 你还会吗？](https://juejin.cn/post/7393503669474295818) | Sun Jul 21 2024 9:10 AM 
     <details><summary>展开描述 ...</summary> 
-    title: Nuxt 使用指南：掌握 useNuxtApp 和运行时上下文 date: 2024/7/21 updated: 2024/7/21 author: cmdragon excerpt:  
+    使用过vue的小伙伴们都知道，路由使用起来非常简单，只用引入，定义，配置，输出还能需要的地方引入使用，实现单页应用的页面跳转，今天我们就来说一说，我不import，也能实现`&lt;router-link&gt; 
     </details> 
 
-- 🎡 [中文文案排版指北](https://juejin.cn/post/7393481473083146281) | Sun Jul 21 2024 6:23 AM 
+- 🎡 [想准时下班，你需要Codeium的帮助🚀🚀🚀，分享AI写代码的愉快体验，附详细安装教程](https://juejin.cn/post/7393503669474279434) | Sun Jul 21 2024 9:07 AM 
     <details><summary>展开描述 ...</summary> 
-    记得我刚学编程那会，在网上看教程学习，经常看到有人自诩说自己有代码洁癖。但其实看别人写的代码久了，发现并不是那么一回事。我发现很多人代码虽然写的还算规范，但代码注释却写的很随意，排版也不统一，什么风格 
+    人工智能代替牛马写代码的说法相信给不少和我一样的牛马带来了焦虑，但是今天我会介绍一个AI插件，助我按点下班不加班，让我从焦虑AI转变为享受AI。 今天的主角是：Codeium 一款可以聊天、自动补全代 
     </details> 
 
-- 🕯 [一文带你认识C++和C的区别](https://juejin.cn/post/7393740927154225188) | Sun Jul 21 2024 4:18 AM 
+- 🕯 [@Service可以代替@Controller标注在控制层吗？](https://juejin.cn/post/7393533304505204787) | Sun Jul 21 2024 8:48 AM 
     <details><summary>展开描述 ...</summary> 
-    1. 认识C++和C的区别 认识C++和C的区别 C++最简单的程序 头文件包含问题 创建的项目源文件后缀是.cpp 头文件的包含不同 不需要.h 直接包含 C语言的标准库头文件 依然按照原来方式包含 
+    在 SpringBoot 中，@Service 可以替代 @Controller，只要类包含 @RequestMapping 注解，其便能完成url与方法的绑定映射。 
     </details> 
 
-- 🚀 [使用Docker运行一个Redis容器，及其问题思考](https://juejin.cn/post/7393312386575253504) | Sun Jul 21 2024 4:07 AM 
+- 🚀 [FastAPI专家提示tips 101](https://juejin.cn/post/7393533297894146099) | Sun Jul 21 2024 8:46 AM 
     <details><summary>展开描述 ...</summary> 
-    要跑起来一个 Redis 容器，你可以使用 Docker 提供的官方 Redis 镜像。以下是详细的步骤： 1. 确保 Docker 已安装 首先，确保你的系统上已经安装了 Docker。如果没有安装 
+    1. 安装 uvloop 和 httptools 默认情况下，Uvicorn 不自带 uvloop 和 httptools，但它们比默认的 asyncio 事件循环和 HTTP 解析器更快。你可以使用 
     </details> 
 
-- 💪 [今天来学习HBase](https://juejin.cn/post/7393314542095400970) | Sun Jul 21 2024 3:42 AM 
+- 💪 [swiftui中使用scaleEffect和rotationEffect实现缩放和旋转效果](https://juejin.cn/post/7393533304505172019) | Sun Jul 21 2024 8:46 AM 
     <details><summary>展开描述 ...</summary> 
-    相较于Redis，memcached等缓存型的NoSQL数据库，HBase虽然也是NoSQL数据库，但是其使用更贴近于传统DB数据存储的功能，那么HBase与RDBMS&lpar;关系型数据库&rpar;的差异在哪里？为 
+    在SwiftUI中，你可以使用.scaleEffect&lpar;&rpar;和.rotationEffect&lpar;&rpar;来实现缩放和旋转动画，缩放和旋转的内容可以是图片，文字等view视图。 scaleEffect可以实现缩放 
     </details> 
 <!-- juejin:END -->
 ### 少数派
