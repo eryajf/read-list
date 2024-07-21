@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [Router如何实现的？不用import {vue-router} from &#39;vue&#39; 你还会吗？](https://juejin.cn/post/7393503669474295818) | Sun Jul 21 2024 9:10 AM 
+- 🤗 [当程序员的博客突然变少](https://juejin.cn/post/7393606971927805967) | Sun Jul 21 2024 11:28 AM 
     <details><summary>展开描述 ...</summary> 
-    使用过vue的小伙伴们都知道，路由使用起来非常简单，只用引入，定义，配置，输出还能需要的地方引入使用，实现单页应用的页面跳转，今天我们就来说一说，我不import，也能实现`&lt;router-link&gt; 
+    hello，伙伴们好久不见。马上到了八月，也是我在个人公众号正式开始日更的目标之后的一周年。 那具体的数据在这里就不先分享了，基本上在23年的下半年日更，到了24年的5月份之后更新的频率就变得很低了。 
     </details> 
 
-- 🎡 [想准时下班，你需要Codeium的帮助🚀🚀🚀，分享AI写代码的愉快体验，附详细安装教程](https://juejin.cn/post/7393503669474279434) | Sun Jul 21 2024 9:07 AM 
+- 🎡 [单例模式？其实就是你家里的冰箱](https://juejin.cn/post/7393533297894473779) | Sun Jul 21 2024 11:25 AM 
     <details><summary>展开描述 ...</summary> 
-    人工智能代替牛马写代码的说法相信给不少和我一样的牛马带来了焦虑，但是今天我会介绍一个AI插件，助我按点下班不加班，让我从焦虑AI转变为享受AI。 今天的主角是：Codeium 一款可以聊天、自动补全代 
+    单例模式？其实它就像你家里那个唯一的冰箱，听起来是不是亲切多了。想象一下，你家里只有一个冰箱，一般它都放在厨房，不管你从哪个房间走进厨房，打开的永远是同一个冰箱门。 
     </details> 
 
-- 🕯 [@Service可以代替@Controller标注在控制层吗？](https://juejin.cn/post/7393533304505204787) | Sun Jul 21 2024 8:48 AM 
+- 🕯 [node+sequelize+koa + mysql实现用户注册、登录与token签发](https://juejin.cn/post/7393740927154896932) | Sun Jul 21 2024 11:22 AM 
     <details><summary>展开描述 ...</summary> 
-    在 SpringBoot 中，@Service 可以替代 @Controller，只要类包含 @RequestMapping 注解，其便能完成url与方法的绑定映射。 
+    最近在用electron写桌面应用，本是基于sqlite做的数据本地化，后来随着想法越来越多，就准备增加用户相关的功能，这就涉及到了用户的登录、注册等功能 在此简单做下记录，勉强维持下月更😂 
     </details> 
 
-- 🚀 [FastAPI专家提示tips 101](https://juejin.cn/post/7393533297894146099) | Sun Jul 21 2024 8:46 AM 
+- 🚀 [手写Router，解析Router在Vue底层到底干了什么？](https://juejin.cn/post/7393740927154864164) | Sun Jul 21 2024 11:16 AM 
     <details><summary>展开描述 ...</summary> 
-    1. 安装 uvloop 和 httptools 默认情况下，Uvicorn 不自带 uvloop 和 httptools，但它们比默认的 asyncio 事件循环和 HTTP 解析器更快。你可以使用 
+    在Vue的生态中路由的重用至关重大，它是网页实现单页应用的核心，在单页应用 &lpar;SPA&rpar; 中将浏览器的 URL 和用户看到的内容绑定起来。 
     </details> 
 
-- 💪 [swiftui中使用scaleEffect和rotationEffect实现缩放和旋转效果](https://juejin.cn/post/7393533304505172019) | Sun Jul 21 2024 8:46 AM 
+- 💪 [“当财务总监遇上前端：Vuex，大型项目中的数据理财专家”](https://juejin.cn/post/7393740927154831396) | Sun Jul 21 2024 10:56 AM 
     <details><summary>展开描述 ...</summary> 
-    在SwiftUI中，你可以使用.scaleEffect&lpar;&rpar;和.rotationEffect&lpar;&rpar;来实现缩放和旋转动画，缩放和旋转的内容可以是图片，文字等view视图。 scaleEffect可以实现缩放 
+    Vuex作为前端领域的财务总监，其在大型项目中集中管理数据流、确保状态一致性起到关键作用，通过State、Getters、Mutations、Actions架构，实现复杂状态的高效处理与维护。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
