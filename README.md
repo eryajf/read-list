@@ -369,29 +369,29 @@
 ### 少数派
 
 <!-- sspai:START -->
-- 👹 [具透 | macOS Sequoia Public Beta 公测版来了，这些是值得你关注的新功能](https://sspai.com/post/90618) | Sat Jul 20 2024 7:00 AM 
+- 👹 [看什么 Café | 日剧观看指南：电视台篇](https://sspai.com/post/90534) | Sun Jul 21 2024 7:18 AM 
+    <details><summary>展开描述 ...</summary> 
+    编者按：1895年在巴黎卡普辛路14号的大咖啡馆，卢米埃尔兄弟的短片成了咖啡馆的助兴节目，而咖啡馆也正是那时人们谈论电影和艺术的重要场所。「看什么Café」作为「本周看什么」栏目的衍生，旨在为热爱影视 ...&lt;a href=&quot;https://sspai.com/post/90534&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
+    </details> 
+
+- 🐘 [具透 | macOS Sequoia Public Beta 公测版来了，这些是值得你关注的新功能](https://sspai.com/post/90618) | Sat Jul 20 2024 7:00 AM 
     <details><summary>展开描述 ...</summary> 
     今年 Apple 不仅为 macOS Sequoia 带来了原生窗口分屏、独立的「密码」应用，还对系统内置的 Safari、日历、备忘录等软件带来了不少新功能。&lt;a href=&quot;https://sspai.com/post/90618&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🐘 [骁游记归来，聊聊我眼里的骁龙](https://sspai.com/post/90638) | Fri Jul 19 2024 10:30 AM 
+- 🤭 [骁游记归来，聊聊我眼里的骁龙](https://sspai.com/post/90638) | Fri Jul 19 2024 10:30 AM 
     <details><summary>展开描述 ...</summary> 
     骁龙芯片所赋能的智能产品已经跟我们的日常生活融为一体，不知不觉地改变着我们的生活方式。&lt;a href=&quot;https://sspai.com/post/90638&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🤭 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/90624) | Fri Jul 19 2024 10:26 AM 
+- 🥸 [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/90624) | Fri Jul 19 2024 10:26 AM 
     <details><summary>展开描述 ...</summary> 
     ☕️TL;DR近期佳作推荐：[电影]落凡尘、[日剧]如虎添翼、[韩剧]政坛旋风、[日剧]黑色止血钳2、[美剧]毒蛇王后第二季、[电影]十字路口的猪、[动画]败北女角太多了！、[动画]擅长逃跑的殿下、[ ...&lt;a href=&quot;https://sspai.com/post/90624&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 
-- 🥸 [两天时间兜个小圈子，用自驾的方式认识贵州](https://sspai.com/post/90363) | Fri Jul 19 2024 8:00 AM 
+- 🙉 [两天时间兜个小圈子，用自驾的方式认识贵州](https://sspai.com/post/90363) | Fri Jul 19 2024 8:00 AM 
     <details><summary>展开描述 ...</summary> 
     贵州是个很值得来玩的地方，但作为本地人要给的第一个建议就是你得有预期想怎么玩。如果只是三五天的休闲游，待在贵阳是个很不错的选择。且不论各种街角巷落的正餐、小吃，还是城区的森林公园、城边的青岩古镇，乃至 ...&lt;a href=&quot;https://sspai.com/post/90363&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
-    </details> 
-
-- 🙉 [具透 | 精心细调更懂你：watchOS 11 中值得关注的更新](https://sspai.com/post/90582) | Fri Jul 19 2024 7:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    除了生命体征、运动负荷，你还能在 watchOS 11 还带来了更智能的叠放、实时通知、改进后的照片表盘以及可以随时暂停的三环。&lt;a href=&quot;https://sspai.com/post/90582&quot; target=&quot;_blank&quot;&gt;查看全文&lt;/a&gt; 
     </details> 
 <!-- sspai:END -->
 
