@@ -341,29 +341,29 @@
 ### 掘金-全站热点
 
 <!-- juejin:START -->
-- 🤗 [2024-7-19](https://juejin.cn/post/7393310486150021131) | Sat Jul 20 2024 5:32 PM 
+- 🤗 [任何 Web 项目都离不开的 Spring Security【原理+实战（前后端分离+无状态）】](https://juejin.cn/post/7393306884559077385) | Sun Jul 21 2024 4:26 AM 
     <details><summary>展开描述 ...</summary> 
-    鼠标移上去去除Handler就是......................................... 
+    Spring Security 本质上就是一连串的过滤器，包括登录认证、权限验证以及其他安全防护，了解其本质后，就可以快速构建安全的Web应用。 
     </details> 
 
-- 🎡 [渡劫 C++ 协程（1）：C++ 协程概览](https://juejin.cn/post/7393306884558372873) | Sat Jul 20 2024 4:32 PM 
+- 🎡 [SprongBoot3整合Knife4j-4.4](https://juejin.cn/post/7393418631815069737) | Sun Jul 21 2024 4:14 AM 
     <details><summary>展开描述 ...</summary> 
-    本文我们介绍了一些 C++ 协程的各种概念和约定，内容看似有些复杂，不过 C++ 协程的概念其实就这么多。 
+    本文详细的讲解了如何在springboot3项目中去引入Knife4j-4.4 希望对你能够有所帮助！！！！ 
     </details> 
 
-- 🕯 [渡劫 C++ 协程（0）：前言](https://juejin.cn/post/7393306884558356489) | Sat Jul 20 2024 4:30 PM 
+- 🕯 [重新认识ConcurrentHashMap](https://juejin.cn/post/7393503669473787914) | Sun Jul 21 2024 3:58 AM 
     <details><summary>展开描述 ...</summary> 
-    C++ 20 标准发布之后，协程终于正式成为 C++ 特性当中的一员。为了帮助大家认识和了解 C++ 协程的设计思路以及基本用法，我计划写几篇文章来介绍一下 C++ 协程的相关特性。 
+    重新认识ConurrentHashMap，如何控制并发？如何控制加锁？是不会把整个HashMap锁住？什么是并发扩容？volatile有什么用？ 
     </details> 
 
-- 🚀 [WEUI也遵守的命名准则--BEM](https://juejin.cn/post/7393311009761624083) | Sat Jul 20 2024 3:57 PM 
+- 🚀 [玩转springboot之springboot自动配置原理](https://juejin.cn/post/7393304744713142282) | Sun Jul 21 2024 3:42 AM 
     <details><summary>展开描述 ...</summary> 
-    BEM&lpar;Block Element Modifier&rpar; 一种广泛使用的前端命名规范，由Yandex开发推广，目的是创建可以复用、可维护的CSS类名。 BEM命名规范，用明确的命名约定，来帮助开发者将C 
+    自动配置原理 自动配置其实是由于启动类上配置了@EnableAutoConfiguration注解来进行开启的，那有些人就纳闷了，我启动类上也没有配置@EnableAutoConfiguration注 
     </details> 
 
-- 💪 [为了实现接口缓存，专门写了个缓存库 f-cache-memory](https://juejin.cn/post/7393314542094647306) | Sat Jul 20 2024 3:55 PM 
+- 💪 [面试官问：如果有100个请求，你咋办？](https://juejin.cn/post/7393525123766140943) | Sun Jul 21 2024 3:40 AM 
     <details><summary>展开描述 ...</summary> 
-    问题起因 起因是某次发版之后，服务器接口压力过大，当场宕机，排查之后发现有个接口在首页被调十来次（六七年的老项目了，都是泪呀），后端反馈这个接口的sql很复杂，很耗性能，临时把这个接口放到登录后只执行 
+    之前看到一篇文章的评论，一位仁兄说：“谁会傻不拉几的一次性发起 100 多条请求的？” 一看这位仁兄就是对大文件的分片请求没有任何概念。 
     </details> 
 <!-- juejin:END -->
 ### 少数派
