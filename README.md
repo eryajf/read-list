@@ -306,24 +306,24 @@
     7月19日，微软蓝屏事件席卷全球，无数公司的电脑陷入蓝屏状态，“微软蓝屏”话题也迅速登上推特和微博热搜。 
     </details> 
 
-- 🦄 [FreeBuf 周报 | 谷歌拟豪掷230亿美金收购Wiz；迪士尼泄露1.2TB内部数据](https://www.freebuf.com/news/406533.html) | Fri Jul 19 2024 7:35 AM 
+- 🦄 [一周网安优质PDF资源推荐丨FreeBuf知识大陆](https://www.freebuf.com/news/406541.html) | Fri Jul 19 2024 8:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    我们精选了本周知识大陆公开发布的10条优质资源，让我们一起看看吧。 
+    </details> 
+
+- 🦅 [FreeBuf 周报 | 谷歌拟豪掷230亿美金收购Wiz；迪士尼泄露1.2TB内部数据](https://www.freebuf.com/news/406533.html) | Fri Jul 19 2024 7:35 AM 
     <details><summary>展开描述 ...</summary> 
     总结推荐本周的热点资讯、安全事件、一周好文和省心工具，保证大家不错过本周的每一个重点！ 
     </details> 
 
-- 🦅 [微软蓝屏事件波及全球，遭知名厂商CrowdStrike“背刺”？](https://www.freebuf.com/news/406518.html) | Fri Jul 19 2024 6:48 AM 
+- 🪄 [微软蓝屏事件波及全球，遭知名厂商CrowdStrike“背刺”？](https://www.freebuf.com/news/406518.html) | Fri Jul 19 2024 6:48 AM 
     <details><summary>展开描述 ...</summary> 
     今天下午，全球多地Windows系统用户电脑崩溃，“微软蓝屏”话题登上微博热搜榜首。 
     </details> 
 
-- 🪄 [又一全新恶意软件曝光，曾滥用微软驱动程序签名系统](https://www.freebuf.com/news/406489.html) | Fri Jul 19 2024 5:38 AM 
+- 💻 [又一全新恶意软件曝光，曾滥用微软驱动程序签名系统](https://www.freebuf.com/news/406489.html) | Fri Jul 19 2024 5:38 AM 
     <details><summary>展开描述 ...</summary> 
     恶意软件使用经过签名的合法驱动程序，不仅为侵入性广告软件提供了便利，还使系统面临更多安全风险。 
-    </details> 
-
-- 💻 [“投资”近100万美元，Revolver Rabbit注册50万个域名进行恶意活动](https://www.freebuf.com/news/406477.html) | Fri Jul 19 2024 3:18 AM 
-    <details><summary>展开描述 ...</summary> 
-    这些域名通常很容易阅读，似乎专注一个特定的主题或地区，显示出广泛的多样性。 
     </details> 
 <!-- freebuf:END -->
 
