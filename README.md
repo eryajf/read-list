@@ -442,11 +442,11 @@
 
 
 <!-- iplaysoft:START -->
-- 🧐 [Escrcpy - 免费开源！电脑上控制安卓手机的投屏工具 &lpar;屏幕镜像 / 无线连接 / 键鼠 / 录屏&rpar;](https://www.iplaysoft.com/escrcpy.html) | Wed Jul 17 2024 12:00 AM
-- 🧑‍🏫 [夸克网盘 SVIP 会员优惠年卡 128 元！6TB 空间 / 一键转存](https://www.iplaysoft.com/p/quark-svip) | Sun Jul 14 2024 2:01 AM
-- 🥰 [Sandboxie Plus 沙盒加强版 - 给系统“开挂”！应用多开 / 隔离病毒 / 安全运行流氓软件](https://www.iplaysoft.com/sandboxie-plus.html) | Sat Jul 13 2024 11:46 AM
-- 💻 [苹果学生优惠 2024 官网促销打折启动！“返校季”买 Mac iPad 免费送 AirPods / Pencil](https://www.iplaysoft.com/apple-back-to-school.html) | Thu Jul 11 2024 11:15 AM
-- 🎃 [ImTip - 像 Mac 一样实时显示输入法状态提示的开源免费小工具 &lpar;中英文区分&rpar;](https://www.iplaysoft.com/imtip.html) | Tue Jul 09 2024 12:29 PM<!-- iplaysoft:END -->
+- 🧐 [阿里云盘「已限速」！看视频卡成狗，需开通第三方权益包…](https://www.iplaysoft.com/news/6196) | Sun Jul 21 2024 11:54 AM
+- 🧑‍🏫 [Directory Opus 13 - 比微软自带强大百倍！全面碾压的增强文件管理器](https://www.iplaysoft.com/directory-opus.html) | Sun Jul 21 2024 8:00 AM
+- 🥰 [Escrcpy - 免费开源！电脑上控制安卓手机的投屏工具 &lpar;屏幕镜像 / 无线连接 / 键鼠 / 录屏&rpar;](https://www.iplaysoft.com/escrcpy.html) | Wed Jul 17 2024 12:00 AM
+- 💻 [夸克网盘 SVIP 会员优惠年卡 128 元！6TB 空间 / 一键转存](https://www.iplaysoft.com/p/quark-svip) | Sun Jul 14 2024 2:01 AM
+- 🎃 [Sandboxie Plus 沙盒加强版 - 给系统“开挂”！应用多开 / 隔离病毒 / 安全运行流氓软件](https://www.iplaysoft.com/sandboxie-plus.html) | Sat Jul 13 2024 11:46 AM<!-- iplaysoft:END -->
 
 ### 精品Mac应用
 
