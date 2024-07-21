@@ -666,29 +666,29 @@
 ### 煎蛋
 
 <!-- jandan:START -->
-- 🚀 [今日好价 0720](http://jandan.net/p/117163) | Fri Jul 19 2024 11:08 PM 
+- 🚀 [今日好价 0721](http://jandan.net/p/117173) | Sat Jul 20 2024 11:07 PM 
     <details><summary>展开描述 ...</summary> 
-    今日带货商品数量：42 
+    今日带货商品数量：24 
     </details> 
 
-- 🙉 [冷知识：长颈鹿很Gay](http://jandan.net/p/117159) | Fri Jul 19 2024 11:06 PM 
+- 🙉 [扑克玩家可利用AI找到最优策略，但一般不用](http://jandan.net/p/117170) | Sat Jul 20 2024 11:05 PM 
     <details><summary>展开描述 ...</summary> 
-    雄性长颈鹿之间的互动都带有一些色情意味 
+    原因何在 
     </details> 
 
-- 🎉 [冷知识：ADHD可能增强了人类的觅食能力](http://jandan.net/p/117160) | Fri Jul 19 2024 11:05 PM 
+- 🎉 [尼日利亚对Meta罚款2.2亿美元](http://jandan.net/p/117169) | Sat Jul 20 2024 11:04 PM 
     <details><summary>展开描述 ...</summary> 
-    研究表明ADHD可能帮助早期人类更有效觅食 
+    理由是Meta违反消费者和数据法 
     </details> 
 
-- 🐲 [60岁德国男子成为世界上第七位“治愈”HIV的患者](http://jandan.net/p/117157) | Fri Jul 19 2024 11:04 PM 
+- 🐲 [合成血液在哪里](http://jandan.net/p/117168) | Sat Jul 20 2024 11:03 PM 
     <details><summary>展开描述 ...</summary> 
-    患者的情况高度暗示HIV治愈 
+    合成血液的研究旨在解决血液短缺问题 
     </details> 
 
--  [一种抗衰老药物延长了实验动物近25%的寿命](http://jandan.net/p/117158) | Fri Jul 19 2024 11:03 PM 
+-  [公共厕所的消失是一场城市灾难](http://jandan.net/p/117165) | Sat Jul 20 2024 11:01 PM 
     <details><summary>展开描述 ...</summary> 
-    科学家希望这能减缓人类衰老 
+    让公共厕所可用且适当，是人类尊严的体现 
     </details> 
 <!-- jandan:END -->
 ### 新趣集
