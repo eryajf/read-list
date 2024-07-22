@@ -332,11 +332,11 @@
 ### v2ex-全站热点
 
 <!-- v2ex:START -->
-- 🥸 [本周独立产品精选推荐 - 独立产品灵感周刊 DecoHack #062](https://www.v2ex.com/t/1059006#reply0) | Sun Jul 21 2024 5:24 PM
-- 🤗 [已经有不少优秀开源的 go 开发框架或脚手架，我为什么重新造轮子做了一个 go 开发框架。](https://www.v2ex.com/t/1059001#reply3) | Sun Jul 21 2024 3:17 PM
-- 🎭 [250M 的 Java 程序，用 go 重构，只需要 8M](https://www.v2ex.com/t/1058986#reply29) | Sun Jul 21 2024 1:48 PM
-- 🥷 [大家有试过在 Tomcat 项目中集成 Sentry 么？](https://www.v2ex.com/t/1058968#reply1) | Sun Jul 21 2024 11:10 AM
-- 🐵 [Youtube 播放量确实比 B 站有价值的多](https://www.v2ex.com/t/1058964#reply4) | Sun Jul 21 2024 10:30 AM<!-- v2ex:END -->
+- 🥸 [请问现在是否还存在传统风格 UI 组件库？](https://www.v2ex.com/t/1059182#reply1) | Mon Jul 22 2024 8:13 AM
+- 🤗 [求教，路径规划的一个问题思路](https://www.v2ex.com/t/1059164#reply3) | Mon Jul 22 2024 7:36 AM
+- 🎭 [专门给喜欢在 NPM 上造轮子的同学, 造了一个轮子](https://www.v2ex.com/t/1059158#reply2) | Mon Jul 22 2024 7:15 AM
+- 🥷 [golang 的标准输出](https://www.v2ex.com/t/1059153#reply3) | Mon Jul 22 2024 6:56 AM
+- 🐵 [Python 开源项目在进行依赖升级的时候, 是如何规避掉大部分 bug 的?](https://www.v2ex.com/t/1059136#reply12) | Mon Jul 22 2024 6:24 AM<!-- v2ex:END -->
 
 ### 掘金-全站热点
 
