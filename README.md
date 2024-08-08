@@ -118,29 +118,29 @@
 ### 独立开发变现周刊
 
 <!-- easyindie:START -->
-- 💂 [独立开发变现周刊（第143期） : 一个每年收入30万美元的AI业务，成本不到50美元](https://www.ezindie.com/weekly/issue-143) | Sat Aug 03 2024 12:00 AM 
+- 💂 [独立开发变现周刊（第144期） : 一个在线签名工具年收入24万美元](https://www.ezindie.com/weekly/issue-144) | Fri Aug 09 2024 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。一个在线签名工具年收入24万美元 
+    </details> 
+
+- 💡 [独立开发变现周刊（第143期） : 一个每年收入30万美元的AI业务，成本不到50美元](https://www.ezindie.com/weekly/issue-143) | Sat Aug 03 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。一个每年收入30万美元的AI业务，成本不到50美元 
     </details> 
 
-- 💡 [独立开发变现周刊（第142期） : 一个 AI 个人穿搭App年收入300万美元](https://www.ezindie.com/weekly/issue-142) | Fri Jul 19 2024 12:00 AM 
+- 🌋 [独立开发变现周刊（第142期） : 一个 AI 个人穿搭App年收入300万美元](https://www.ezindie.com/weekly/issue-142) | Fri Jul 19 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。一个 AI 个人穿搭App年收入300万美元 
     </details> 
 
-- 🌋 [独立开发变现周刊（第141期） : 一个MVP开发服务收入6.5万美元](https://www.ezindie.com/weekly/issue-141) | Fri Jul 12 2024 12:00 AM 
+- 🕴 [独立开发变现周刊（第141期） : 一个MVP开发服务收入6.5万美元](https://www.ezindie.com/weekly/issue-141) | Fri Jul 12 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。一个MVP开发服务收入6.5万美元 
     </details> 
 
-- 🕴 [独立开发变现周刊（第140期） : 一个播客嘉宾预订平台月收入22万美元](https://www.ezindie.com/weekly/issue-140) | Fri Jul 05 2024 12:00 AM 
+- 🎊 [独立开发变现周刊（第140期） : 一个播客嘉宾预订平台月收入22万美元](https://www.ezindie.com/weekly/issue-140) | Fri Jul 05 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。一个播客嘉宾预订平台月收入22万美元 
-    </details> 
-
-- 🎊 [独立开发变现周刊（第139期） : 年收入960万美元的翻页书制作工具](https://www.ezindie.com/weekly/issue-139) | Fri Jun 28 2024 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。年收入960万美元的翻页书制作工具 
     </details> 
 <!-- easyindie:END -->
 
