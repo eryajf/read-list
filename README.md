@@ -100,11 +100,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [科技爱好者周刊（第 313 期）：如果新加坡没有空调](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-313.html) | Fri Aug 16 2024 12:13 AM
-- 💪 [科技爱好者周刊（第 312 期）：从英特尔看&quot;美国制造&quot;](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-312.html) | Fri Aug 09 2024 12:12 AM
-- 🐎 [科技爱好者周刊（第 311 期）：低利率与长期项目](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-311.html) | Fri Aug 02 2024 12:12 AM
-- 🤔 [科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-310.html) | Fri Jul 26 2024 12:05 AM
-- 🧠 [科技爱好者周刊（第 309 期）：无人驾驶出租车的双面刃](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html) | Fri Jul 19 2024 12:09 AM<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-314.html) | Fri Aug 23 2024 12:12 AM
+- 💪 [科技爱好者周刊（第 313 期）：如果新加坡没有空调](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-313.html) | Fri Aug 16 2024 12:13 AM
+- 🐎 [科技爱好者周刊（第 312 期）：从英特尔看&quot;美国制造&quot;](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-312.html) | Fri Aug 09 2024 12:12 AM
+- 🤔 [科技爱好者周刊（第 311 期）：低利率与长期项目](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-311.html) | Fri Aug 02 2024 12:12 AM
+- 🧠 [科技爱好者周刊（第 310 期）：内容农场的 AI 赚钱术](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-310.html) | Fri Jul 26 2024 12:05 AM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
