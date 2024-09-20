@@ -100,11 +100,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [科技爱好者周刊（第 317 期）：驴子、老虎和狮子的寓言](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-317.html) | Thu Sep 12 2024 11:35 PM
-- 💪 [白话多集群：工具和应用助手](http://www.ruanyifeng.com/blog/2024/09/tke-appfabric.html) | Wed Sep 11 2024 12:52 PM
-- 🐎 [科技爱好者周刊（第 316 期）：你一生的故事](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-316.html) | Fri Sep 06 2024 12:14 AM
-- 🤔 [科技爱好者周刊（第 315 期）：一份谷歌离职报告](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html) | Fri Aug 30 2024 12:08 AM
-- 🧠 [科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-314.html) | Fri Aug 23 2024 12:12 AM<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 318 期）：创业咖啡馆的记忆](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-318.html) | Fri Sep 20 2024 12:04 AM
+- 💪 [科技爱好者周刊（第 317 期）：驴子、老虎和狮子的寓言](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-317.html) | Thu Sep 12 2024 11:35 PM
+- 🐎 [白话多集群：工具和应用助手](http://www.ruanyifeng.com/blog/2024/09/tke-appfabric.html) | Wed Sep 11 2024 12:52 PM
+- 🤔 [科技爱好者周刊（第 316 期）：你一生的故事](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-316.html) | Fri Sep 06 2024 12:14 AM
+- 🧠 [科技爱好者周刊（第 315 期）：一份谷歌离职报告](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html) | Fri Aug 30 2024 12:08 AM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
