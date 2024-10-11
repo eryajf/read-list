@@ -100,11 +100,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [后面试时代与 AI 刷题](http://www.ruanyifeng.com/blog/2024/10/ai-code-interview.html) | Thu Oct 10 2024 12:15 AM
-- 💪 [科技爱好者周刊（第 319 期）：如何拍出爆款视频](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html) | Fri Sep 27 2024 12:13 AM
-- 🐎 [科技爱好者周刊（第 318 期）：创业咖啡馆的记忆](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-318.html) | Fri Sep 20 2024 12:04 AM
-- 🤔 [科技爱好者周刊（第 317 期）：驴子、老虎和狮子的寓言](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-317.html) | Thu Sep 12 2024 11:35 PM
-- 🧠 [白话多集群：工具和应用助手](http://www.ruanyifeng.com/blog/2024/09/tke-appfabric.html) | Wed Sep 11 2024 12:52 PM<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 320 期）：乒乓仓](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html) | Fri Oct 11 2024 12:11 AM
+- 💪 [后面试时代与 AI 刷题](http://www.ruanyifeng.com/blog/2024/10/ai-code-interview.html) | Thu Oct 10 2024 12:15 AM
+- 🐎 [科技爱好者周刊（第 319 期）：如何拍出爆款视频](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html) | Fri Sep 27 2024 12:13 AM
+- 🤔 [科技爱好者周刊（第 318 期）：创业咖啡馆的记忆](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-318.html) | Fri Sep 20 2024 12:04 AM
+- 🧠 [科技爱好者周刊（第 317 期）：驴子、老虎和狮子的寓言](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-317.html) | Thu Sep 12 2024 11:35 PM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
