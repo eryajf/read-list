@@ -118,29 +118,29 @@
 ### 独立开发变现周刊
 
 <!-- easyindie:START -->
-- 💂 [独立开发变现周刊（第152期） : 一个年收入18万美金的设计工具](https://www.ezindie.com/weekly/issue-152) | Fri Oct 11 2024 12:00 AM 
+- 💂 [独立开发变现周刊（第153期） : 一个网站UI组件库每月收入8万美元](https://www.ezindie.com/weekly/issue-153) | Fri Oct 18 2024 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    分享独立开发产品变现相关有价值的内容，每周五发布。一个网站UI组件库每月收入8万美元 
+    </details> 
+
+- 💡 [独立开发变现周刊（第152期） : 一个年收入18万美金的设计工具](https://www.ezindie.com/weekly/issue-152) | Fri Oct 11 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。一个年收入18万美金的设计工具 
     </details> 
 
-- 💡 [独立开发变现周刊（第151期） : 一个年收入1800万美元的支付业务](https://www.ezindie.com/weekly/issue-151) | Fri Sep 27 2024 12:00 AM 
+- 🌋 [独立开发变现周刊（第151期） : 一个年收入1800万美元的支付业务](https://www.ezindie.com/weekly/issue-151) | Fri Sep 27 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。一个年收入1800万美元的支付业务 
     </details> 
 
-- 🌋 [独立开发变现周刊（第150期） : 通过4个SaaS赚取40万欧元](https://www.ezindie.com/weekly/issue-150) | Fri Sep 20 2024 12:00 AM 
+- 🕴 [独立开发变现周刊（第150期） : 通过4个SaaS赚取40万欧元](https://www.ezindie.com/weekly/issue-150) | Fri Sep 20 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。通过4个SaaS赚取40万欧元 
     </details> 
 
-- 🕴 [独立开发变现周刊（第149期） : 每月收入100万美元的 AI 写作 SaaS](https://www.ezindie.com/weekly/issue-149) | Fri Sep 13 2024 12:00 AM 
+- 🎊 [独立开发变现周刊（第149期） : 每月收入100万美元的 AI 写作 SaaS](https://www.ezindie.com/weekly/issue-149) | Fri Sep 13 2024 12:00 AM 
     <details><summary>展开描述 ...</summary> 
     分享独立开发产品变现相关有价值的内容，每周五发布。每月收入100万美元的 AI 写作 SaaS 
-    </details> 
-
-- 🎊 [独立开发变现周刊（第148期） : 一个年收入18万美元的编程学习社区](https://www.ezindie.com/weekly/issue-148) | Fri Sep 06 2024 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    分享独立开发产品变现相关有价值的内容，每周五发布。一个年收入18万美元的编程学习社区 
     </details> 
 <!-- easyindie:END -->
 
