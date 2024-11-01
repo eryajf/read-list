@@ -100,11 +100,11 @@
 ### 阮一峰的网络日志
 
 <!-- ruanyf:START -->
-- 🌊 [AI 开发的捷径：工作流模式](http://www.ruanyifeng.com/blog/2024/10/coze.html) | Wed Oct 30 2024 7:24 PM
-- 💪 [科技爱好者周刊（第 322 期）：内容行业的内幕](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html) | Fri Oct 25 2024 12:06 AM
-- 🐎 [科技爱好者周刊（第 321 期）：傅盛回忆录](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html) | Thu Oct 17 2024 11:50 PM
-- 🤔 [科技爱好者周刊（第 320 期）：乒乓仓](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html) | Fri Oct 11 2024 12:11 AM
-- 🧠 [后面试时代与 AI 刷题](http://www.ruanyifeng.com/blog/2024/10/ai-code-interview.html) | Thu Oct 10 2024 12:15 AM<!-- ruanyf:END -->
+- 🌊 [科技爱好者周刊（第 323 期）：技术公司的口号比拼](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html) | Fri Nov 01 2024 12:08 AM
+- 💪 [AI 开发的捷径：工作流模式](http://www.ruanyifeng.com/blog/2024/10/coze.html) | Wed Oct 30 2024 7:24 PM
+- 🐎 [科技爱好者周刊（第 322 期）：内容行业的内幕](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-322.html) | Fri Oct 25 2024 12:06 AM
+- 🤔 [科技爱好者周刊（第 321 期）：傅盛回忆录](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-321.html) | Thu Oct 17 2024 11:50 PM
+- 🧠 [科技爱好者周刊（第 320 期）：乒乓仓](http://www.ruanyifeng.com/blog/2024/10/weekly-issue-320.html) | Fri Oct 11 2024 12:11 AM<!-- ruanyf:END -->
 
 ### 独立产品灵感周刊
 
